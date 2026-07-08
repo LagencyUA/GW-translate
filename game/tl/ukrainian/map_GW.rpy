@@ -1,0 +1,3618 @@
+
+# game/game/map_GW.rpy:33
+translate ukrainian stone_dialogue_c3660bcb:
+
+    # mc "Why do I need to go there?"
+    mc "Why do I need to go there?"
+
+# game/game/map_GW.rpy:41
+translate ukrainian stone_requer_b26f0e41:
+
+    # t "I can't just go there."
+    t "I can't just go there."
+
+# game/game/map_GW.rpy:42
+translate ukrainian stone_requer_fb1e98b6:
+
+    # t "I think I still have some business to attend in the village."
+    t "I think I still have some business to attend in the village."
+
+# game/game/map_GW.rpy:48
+translate ukrainian forest_dialogue_a0d178d9:
+
+    # mc "I should spend more time with the girls before thinking about going back out into the Howling Forest."
+    mc "I should spend more time with the girls before thinking about going back out into the Howling Forest."
+
+# game/game/map_GW.rpy:61
+translate ukrainian first_forest_event_9fafad11:
+
+    # t "These days I've been helping the girls as much as I can."
+    t "These days I've been helping the girls as much as I can."
+
+# game/game/map_GW.rpy:62
+translate ukrainian first_forest_event_9acba429:
+
+    # t "I should stay home and get some rest."
+    t "I should stay home and get some rest."
+
+# game/game/map_GW.rpy:63
+translate ukrainian first_forest_event_049908a1:
+
+    # r "Will you stay home today Master?"
+    r "Will you stay home today Master?"
+
+# game/game/map_GW.rpy:64
+translate ukrainian first_forest_event_9d63bfc5:
+
+    # r "Can I make you some tea?"
+    r "Can I make you some tea?"
+
+# game/game/map_GW.rpy:65
+translate ukrainian first_forest_event_10fb622b:
+
+    # mc "That would be great, thanks Ryoko."
+    mc "That would be great, thanks Ryoko."
+
+# game/game/map_GW.rpy:66
+translate ukrainian first_forest_event_5d9497a5:
+
+    # r "Yes!"
+    r "Yes!"
+
+# game/game/map_GW.rpy:71
+translate ukrainian first_forest_event_2342e720:
+
+    # mc "You look quite happy."
+    mc "You look quite happy."
+
+# game/game/map_GW.rpy:72
+translate ukrainian first_forest_event_02198538:
+
+    # r "He~ he~{image=/bg/icons/heart_text.png}"
+    r "He~ he~{image=/bg/icons/heart_text.png}"
+
+# game/game/map_GW.rpy:74
+translate ukrainian first_forest_event_988a4fd5:
+
+    # r "It's been days since you've stayed at home."
+    r "It's been days since you've stayed at home."
+
+# game/game/map_GW.rpy:75
+translate ukrainian first_forest_event_99826961:
+
+    # mc "You're right... {w}do you feel lonely?"
+    mc "You're right... {w}do you feel lonely?"
+
+# game/game/map_GW.rpy:77
+translate ukrainian first_forest_event_e7a059b6:
+
+    # r "Compared to how I used to live before..."
+    r "Compared to how I used to live before..."
+
+# game/game/map_GW.rpy:78
+translate ukrainian first_forest_event_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:80
+translate ukrainian first_forest_event_7b7f5719:
+
+    # r "I've never been happier~"
+    r "I've never been happier~"
+
+# game/game/map_GW.rpy:81
+translate ukrainian first_forest_event_32ca5bbe:
+
+    # mc "Ryoko..."
+    mc "Ryoko..."
+
+# game/game/map_GW.rpy:83
+translate ukrainian first_forest_event_4f4410ba:
+
+    # r "Everyone is good to me."
+    r "Everyone is good to me."
+
+# game/game/map_GW.rpy:85
+translate ukrainian first_forest_event_7cd2231b:
+
+    # r "I can eat every day with you."
+    r "I can eat every day with you."
+
+# game/game/map_GW.rpy:87
+translate ukrainian first_forest_event_fddaac96:
+
+    # r "I can also take baths with Master."
+    r "I can also take baths with Master."
+
+# game/game/map_GW.rpy:88
+translate ukrainian first_forest_event_df0e92e9:
+
+    # mc "Ryoko?"
+    mc "Ryoko?"
+
+# game/game/map_GW.rpy:90
+translate ukrainian first_forest_event_161f8a18:
+
+    # mc "Did you drop something?"
+    mc "Did you drop something?"
+
+# game/game/map_GW.rpy:91
+translate ukrainian first_forest_event_b9b755e5:
+
+    # r "..."
+    r "..."
+
+# game/game/map_GW.rpy:92
+translate ukrainian first_forest_event_9bc3f62f:
+
+    # mc "Heey...?"
+    mc "Heey...?"
+
+# game/game/map_GW.rpy:94
+translate ukrainian first_forest_event_b4cb12cb:
+
+    # r "{size=-10}Hmnp!"
+    r "{size=-10}Hmnp!"
+
+# game/game/map_GW.rpy:95
+translate ukrainian first_forest_event_652650d3:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/map_GW.rpy:97
+translate ukrainian first_forest_event_b8a2223b:
+
+    # r "Since I met you{w}, I've never felt lonely again..."
+    r "Since I met you{w}, I've never felt lonely again..."
+
+# game/game/map_GW.rpy:98
+translate ukrainian first_forest_event_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:100
+translate ukrainian first_forest_event_e04395ed:
+
+    # mc "I'm glad to hear that."
+    mc "I'm glad to hear that."
+
+# game/game/map_GW.rpy:101
+translate ukrainian first_forest_event_3ea6b08d:
+
+    # mc "Whatever happened to you, I won't let you go through anything like that again."
+    mc "Whatever happened to you, I won't let you go through anything like that again."
+
+# game/game/map_GW.rpy:103
+translate ukrainian first_forest_event_4735c1ba:
+
+    # r "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
+    r "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
+
+# game/game/map_GW.rpy:105
+translate ukrainian first_forest_event_4b72c907:
+
+    # "{i}Knock* Knock*"
+    "{i}Knock* Knock*"
+
+# game/game/map_GW.rpy:107
+translate ukrainian first_forest_event_5e96a22c:
+
+    # mc "Looks like we have visitors."
+    mc "Looks like we have visitors."
+
+# game/game/map_GW.rpy:108
+translate ukrainian first_forest_event_a47afcda:
+
+    # r "Who could it be?"
+    r "Who could it be?"
+
+# game/game/map_GW.rpy:110
+translate ukrainian first_forest_event_9415a8ff:
+
+    # mc "I think... {w}I have an idea."
+    mc "I think... {w}I have an idea."
+
+# game/game/map_GW.rpy:111
+translate ukrainian first_forest_event_f285c0b4:
+
+    # mc "Come in! {w}It's open."
+    mc "Come in! {w}It's open."
+
+# game/game/map_GW.rpy:115
+translate ukrainian first_forest_event_e7002357:
+
+    # "The door opens."
+    "The door opens."
+
+# game/game/map_GW.rpy:116
+translate ukrainian first_forest_event_f27044b5:
+
+    # r "Oh, Hello!"
+    r "Oh, Hello!"
+
+# game/game/map_GW.rpy:117
+translate ukrainian first_forest_event_7efe11c8:
+
+    # mc "Hey Hana."
+    mc "Hey Hana."
+
+# game/game/map_GW.rpy:118
+translate ukrainian first_forest_event_d8b7808a:
+
+    # mc "Oh, {w}you bring company."
+    mc "Oh, {w}you bring company."
+
+# game/game/map_GW.rpy:120
+translate ukrainian first_forest_event_6ddb73a8:
+
+    # h "Hey, sorry to bother you."
+    h "Hey, sorry to bother you."
+
+# game/game/map_GW.rpy:121
+translate ukrainian first_forest_event_8c71478e:
+
+    # y "Hello Ryoko! {w}You look totally different from the first time I met you!"
+    y "Hello Ryoko! {w}You look totally different from the first time I met you!"
+
+# game/game/map_GW.rpy:123
+translate ukrainian first_forest_event_363f87c4:
+
+    # r "Yui! {w}I haven't seen you for days!"
+    r "Yui! {w}I haven't seen you for days!"
+
+# game/game/map_GW.rpy:125
+translate ukrainian first_forest_event_56c65f14:
+
+    # r "Thanks again for saving me and my Master!"
+    r "Thanks again for saving me and my Master!"
+
+# game/game/map_GW.rpy:127
+translate ukrainian first_forest_event_5a49fc04:
+
+    # y "Hey, don't worry, your master already thanked me."
+    y "Hey, don't worry, your master already thanked me."
+
+# game/game/map_GW.rpy:129
+translate ukrainian first_forest_event_480b32b8:
+
+    # h "Yes? In what way?"
+    h "Yes? In what way?"
+
+# game/game/map_GW.rpy:130
+translate ukrainian first_forest_event_e7eeee29:
+
+    # y "Well... he let me have a fight with him..."
+    y "Well... he let me have a fight with him..."
+
+# game/game/map_GW.rpy:132
+translate ukrainian first_forest_event_fb386c35:
+
+    # h "Hmm..."
+    h "Hmm..."
+
+# game/game/map_GW.rpy:134
+translate ukrainian first_forest_event_14c55b40:
+
+    # y "And he beat me so..."
+    y "And he beat me so..."
+
+# game/game/map_GW.rpy:135
+translate ukrainian first_forest_event_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:137
+translate ukrainian first_forest_event_47e5c024:
+
+    # mc "Ok!"
+    mc "Ok!"
+
+# game/game/map_GW.rpy:139
+translate ukrainian first_forest_event_9fe3f6a8:
+
+    # mc "Why don't you two take a seat?"
+    mc "Why don't you two take a seat?"
+
+# game/game/map_GW.rpy:141
+translate ukrainian first_forest_event_ec9d5050:
+
+    # h "Hahaha {w}Okay, let's get to what we came for, Yui."
+    h "Hahaha {w}Okay, let's get to what we came for, Yui."
+
+# game/game/map_GW.rpy:142
+translate ukrainian first_forest_event_a217d7cf:
+
+    # y "Ok..."
+    y "Ok..."
+
+# game/game/map_GW.rpy:143
+translate ukrainian first_forest_event_98f7d3c5:
+
+    # r "I'll bring more tea!"
+    r "I'll bring more tea!"
+
+# game/game/map_GW.rpy:144
+translate ukrainian first_forest_event_2d7f32ee:
+
+    # mc "Thank you Ryoko."
+    mc "Thank you Ryoko."
+
+# game/game/map_GW.rpy:145
+translate ukrainian first_forest_event_83c67368:
+
+    # r "Hehehe~"
+    r "Hehehe~"
+
+# game/game/map_GW.rpy:147
+translate ukrainian first_forest_event_10620477:
+
+    # h "You must already know why we came here."
+    h "You must already know why we came here."
+
+# game/game/map_GW.rpy:148
+translate ukrainian first_forest_event_b439af8a:
+
+    # mc "Do you have everything ready for the expedition?"
+    mc "Do you have everything ready for the expedition?"
+
+# game/game/map_GW.rpy:150
+translate ukrainian first_forest_event_10d5d192:
+
+    # y "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
+    y "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
+
+# game/game/map_GW.rpy:152
+translate ukrainian first_forest_event_a4590349:
+
+    # h "When I told Yui you offered to come, she was super happy."
+    h "When I told Yui you offered to come, she was super happy."
+
+# game/game/map_GW.rpy:153
+translate ukrainian first_forest_event_698d7569:
+
+    # mc "Wow."
+    mc "Wow."
+
+# game/game/map_GW.rpy:155
+translate ukrainian first_forest_event_ac79938f:
+
+    # y "W-What!"
+    y "W-What!"
+
+# game/game/map_GW.rpy:156
+translate ukrainian first_forest_event_acfdd60d:
+
+    # mc "Good thing she wants me to go."
+    mc "Good thing she wants me to go."
+
+# game/game/map_GW.rpy:158
+translate ukrainian first_forest_event_dfbeed22:
+
+    # y "I just said that with someone so strong we would make it!"
+    y "I just said that with someone so strong we would make it!"
+
+# game/game/map_GW.rpy:159
+translate ukrainian first_forest_event_8461add3:
+
+    # mc "Thank you Yui, {w}I'm glad you trust me, {w}I like you too."
+    mc "Thank you Yui, {w}I'm glad you trust me, {w}I like you too."
+
+# game/game/map_GW.rpy:161
+translate ukrainian first_forest_event_4cbffae4:
+
+    # y "I didn't say that!"
+    y "I didn't say that!"
+
+# game/game/map_GW.rpy:162
+translate ukrainian first_forest_event_80e32d5a:
+
+    # h "Hahaha!"
+    h "Hahaha!"
+
+# game/game/map_GW.rpy:164
+translate ukrainian first_forest_event_6f94d775:
+
+    # r "Here is the tea!"
+    r "Here is the tea!"
+
+# game/game/map_GW.rpy:166
+translate ukrainian first_forest_event_29b54724:
+
+    # h "Thank you Ryoko."
+    h "Thank you Ryoko."
+
+# game/game/map_GW.rpy:167
+translate ukrainian first_forest_event_367d95a2:
+
+    # y "{size=-10}Thank you..."
+    y "{size=-10}Thank you..."
+
+# game/game/map_GW.rpy:168
+translate ukrainian first_forest_event_a19fe7ca:
+
+    # mc "Rest for a while, I don't want you to spend all day working."
+    mc "Rest for a while, I don't want you to spend all day working."
+
+# game/game/map_GW.rpy:169
+translate ukrainian first_forest_event_ec8e315f:
+
+    # r "Okay Master."
+    r "Okay Master."
+
+# game/game/map_GW.rpy:171
+translate ukrainian first_forest_event_e904cdd2:
+
+    # mc "Then explain to me how we'll do it."
+    mc "Then explain to me how we'll do it."
+
+# game/game/map_GW.rpy:173
+translate ukrainian first_forest_event_95652ff0:
+
+    # y "As you know, we're a small town."
+    y "As you know, we're a small town."
+
+# game/game/map_GW.rpy:175
+translate ukrainian first_forest_event_d87d1769:
+
+    # y "I've trained a lot of people, but most of them are just villagers."
+    y "I've trained a lot of people, but most of them are just villagers."
+
+# game/game/map_GW.rpy:176
+translate ukrainian first_forest_event_2e639836:
+
+    # h "{size=-10}Haa~"
+    h "{size=-10}Haa~"
+
+# game/game/map_GW.rpy:178
+translate ukrainian first_forest_event_d5fb5502:
+
+    # y "The idea is that we form a wall along the safest roads, so that we can walk around without fear of encountering a beast."
+    y "The idea is that we form a wall along the safest roads, so that we can walk around without fear of encountering a beast."
+
+# game/game/map_GW.rpy:180
+translate ukrainian first_forest_event_15bd107e:
+
+    # y "We just have to take care of defending the girls who'll prepare the defenses and bring the materials."
+    y "We just have to take care of defending the girls who'll prepare the defenses and bring the materials."
+
+# game/game/map_GW.rpy:182
+translate ukrainian first_forest_event_75ccb31b:
+
+    # mc "Perfect, we just have to protect them at all times."
+    mc "Perfect, we just have to protect them at all times."
+
+# game/game/map_GW.rpy:183
+translate ukrainian first_forest_event_2e214a9f:
+
+    # y "Now that there's no S-Rank Boss, the plan has become much easier."
+    y "Now that there's no S-Rank Boss, the plan has become much easier."
+
+# game/game/map_GW.rpy:185
+translate ukrainian first_forest_event_416f52e9:
+
+    # y "{size=-10}A-And because you're coming too."
+    y "{size=-10}A-And because you're coming too."
+
+# game/game/map_GW.rpy:186
+translate ukrainian first_forest_event_d396b36a:
+
+    # h "Hehehe~~"
+    h "Hehehe~~"
+
+# game/game/map_GW.rpy:187
+translate ukrainian first_forest_event_2954b747:
+
+    # t "If the idea is to build a wall in a short period of time, there must be several people coming."
+    t "If the idea is to build a wall in a short period of time, there must be several people coming."
+
+# game/game/map_GW.rpy:189
+translate ukrainian first_forest_event_7fe9933d:
+
+    # mc "Is Hana also coming?"
+    mc "Is Hana also coming?"
+
+# game/game/map_GW.rpy:191
+translate ukrainian first_forest_event_ac01a1f5:
+
+    # h "Of course, I have to go in case someone gets hurt."
+    h "Of course, I have to go in case someone gets hurt."
+
+# game/game/map_GW.rpy:193
+translate ukrainian first_forest_event_7a43621e:
+
+    # h "Akane will also come."
+    h "Akane will also come."
+
+# game/game/map_GW.rpy:195
+translate ukrainian first_forest_event_2c4a1ed3:
+
+    # mc "Wow, I didn't know she could fight."
+    mc "Wow, I didn't know she could fight."
+
+# game/game/map_GW.rpy:196
+translate ukrainian first_forest_event_62a68bc2:
+
+    # mc "Wait, {w}does she know I'm coming?"
+    mc "Wait, {w}does she know I'm coming?"
+
+# game/game/map_GW.rpy:198
+translate ukrainian first_forest_event_6954ee06:
+
+    # h "Mmm... no."
+    h "Mmm... no."
+
+# game/game/map_GW.rpy:199
+translate ukrainian first_forest_event_43968449:
+
+    # mc "Don't you think she'll be angry if she sees me? {w}You know..."
+    mc "Don't you think she'll be angry if she sees me? {w}You know..."
+
+# game/game/map_GW.rpy:209
+translate ukrainian first_forest_event_12b1d378:
+
+    # h "If we achieve this, we'll have greater access to the forest and its surroundings!"
+    h "If we achieve this, we'll have greater access to the forest and its surroundings!"
+
+# game/game/map_GW.rpy:210
+translate ukrainian first_forest_event_22b4be8f:
+
+    # t "Hey! Don't ignore me!"
+    t "Hey! Don't ignore me!"
+
+# game/game/map_GW.rpy:212
+translate ukrainian first_forest_event_5ff71807:
+
+    # h "And you know the best part?"
+    h "And you know the best part?"
+
+# game/game/map_GW.rpy:213
+translate ukrainian first_forest_event_03fb3e88:
+
+    # mc "Mmm?"
+    mc "Mmm?"
+
+# game/game/map_GW.rpy:215
+translate ukrainian first_forest_event_61c41582:
+
+    # h "Maybe we can open a safe way to another village!"
+    h "Maybe we can open a safe way to another village!"
+
+# game/game/map_GW.rpy:216
+translate ukrainian first_forest_event_ed94cc7b:
+
+    # mc "Wow, really?"
+    mc "Wow, really?"
+
+# game/game/map_GW.rpy:217
+translate ukrainian first_forest_event_92a3c04c:
+
+    # t "Strange, why didn't I think there would be more villages like this one?"
+    t "Strange, why didn't I think there would be more villages like this one?"
+
+# game/game/map_GW.rpy:219
+translate ukrainian first_forest_event_b9b755e5_1:
+
+    # r "..."
+    r "..."
+
+# game/game/map_GW.rpy:221
+translate ukrainian first_forest_event_73004d72:
+
+    # y "To the northwest lies a neighboring village."
+    y "To the northwest lies a neighboring village."
+
+# game/game/map_GW.rpy:222
+translate ukrainian first_forest_event_2150d8d4:
+
+    # y "If we make the roads safe to travel on, we can revive commerce and maybe open a few stores!"
+    y "If we make the roads safe to travel on, we can revive commerce and maybe open a few stores!"
+
+# game/game/map_GW.rpy:223
+translate ukrainian first_forest_event_cc53648b:
+
+    # t "Mmm?"
+    t "Mmm?"
+
+# game/game/map_GW.rpy:224
+translate ukrainian first_forest_event_671dc927:
+
+    # t "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
+    t "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
+
+# game/game/map_GW.rpy:226
+translate ukrainian first_forest_event_b8d8d0d3:
+
+    # y "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
+    y "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
+
+# game/game/map_GW.rpy:228
+translate ukrainian first_forest_event_a2c79199:
+
+    # mc "Adventurer's Lounge?"
+    mc "Adventurer's Lounge?"
+
+# game/game/map_GW.rpy:230
+translate ukrainian first_forest_event_c0160edd:
+
+    # y "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
+    y "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
+
+# game/game/map_GW.rpy:231
+translate ukrainian first_forest_event_c137b2f9:
+
+    # t "Being an official adventurer would take a lot of trouble away from me."
+    t "Being an official adventurer would take a lot of trouble away from me."
+
+# game/game/map_GW.rpy:233
+translate ukrainian first_forest_event_11467660:
+
+    # h "You have to pass some tests, but we'll talk about that once we've taken the first step."
+    h "You have to pass some tests, but we'll talk about that once we've taken the first step."
+
+# game/game/map_GW.rpy:235
+translate ukrainian first_forest_event_4e9eab7e:
+
+    # h "And we'd better let you rest."
+    h "And we'd better let you rest."
+
+# game/game/map_GW.rpy:236
+translate ukrainian first_forest_event_3756bf64:
+
+    # h "We should also do the same."
+    h "We should also do the same."
+
+# game/game/map_GW.rpy:238
+translate ukrainian first_forest_event_f47c6c1a:
+
+    # y "See you tomorrow morning."
+    y "See you tomorrow morning."
+
+# game/game/map_GW.rpy:239
+translate ukrainian first_forest_event_88759579:
+
+    # mc "Ok, I'll be there."
+    mc "Ok, I'll be there."
+
+# game/game/map_GW.rpy:240
+translate ukrainian first_forest_event_9b56e36d:
+
+    # h "And bring your katana, don't forget it."
+    h "And bring your katana, don't forget it."
+
+# game/game/map_GW.rpy:241
+translate ukrainian first_forest_event_a4c25dcd:
+
+    # mc "Do you think I would forget something so important?"
+    mc "Do you think I would forget something so important?"
+
+# game/game/map_GW.rpy:242
+translate ukrainian first_forest_event_71a86863:
+
+    # y "..."
+    y "..."
+
+# game/game/map_GW.rpy:243
+translate ukrainian first_forest_event_2fded262:
+
+    # h "..."
+    h "..."
+
+# game/game/map_GW.rpy:244
+translate ukrainian first_forest_event_22e071bd:
+
+    # mc "{size=-10}See you tomorrow..."
+    mc "{size=-10}See you tomorrow..."
+
+# game/game/map_GW.rpy:251
+translate ukrainian first_forest_event_f375b662:
+
+    # r "Master?..."
+    r "Master?..."
+
+# game/game/map_GW.rpy:255
+translate ukrainian first_forest_event_03fb3e88_1:
+
+    # mc "Mmm?"
+    mc "Mmm?"
+
+# game/game/map_GW.rpy:257
+translate ukrainian first_forest_event_e8d356ba:
+
+    # mc "Did you say something Ryoko?"
+    mc "Did you say something Ryoko?"
+
+# game/game/map_GW.rpy:258
+translate ukrainian first_forest_event_b9b755e5_2:
+
+    # r "..."
+    r "..."
+
+# game/game/map_GW.rpy:260
+translate ukrainian first_forest_event_94729eb9:
+
+    # mc "You can't sleep?"
+    mc "You can't sleep?"
+
+# game/game/map_GW.rpy:262
+translate ukrainian first_forest_event_6df7c3b4:
+
+    # r "It's not that..."
+    r "It's not that..."
+
+# game/game/map_GW.rpy:263
+translate ukrainian first_forest_event_582359ea:
+
+    # mc "Hm?"
+    mc "Hm?"
+
+# game/game/map_GW.rpy:265
+translate ukrainian first_forest_event_ce9040d0:
+
+    # r "Tomorrow..."
+    r "Tomorrow..."
+
+# game/game/map_GW.rpy:267
+translate ukrainian first_forest_event_369dbf3d:
+
+    # r "Can I go with you?"
+    r "Can I go with you?"
+
+# game/game/map_GW.rpy:268
+translate ukrainian first_forest_event_d33e7ce7:
+
+    # mc "Were you listening?"
+    mc "Were you listening?"
+
+# game/game/map_GW.rpy:269
+translate ukrainian first_forest_event_ebef1d16:
+
+    # mc "Why do you want to go?"
+    mc "Why do you want to go?"
+
+# game/game/map_GW.rpy:271
+translate ukrainian first_forest_event_22df1ded:
+
+    # r "I want to...{w}help too.."
+    r "I want to...{w}help too.."
+
+# game/game/map_GW.rpy:272
+translate ukrainian first_forest_event_47a330a8:
+
+    # mc "But you know it can be dangerous."
+    mc "But you know it can be dangerous."
+
+# game/game/map_GW.rpy:274
+translate ukrainian first_forest_event_e5ed659c:
+
+    # r "I know, but I still want to do it..."
+    r "I know, but I still want to do it..."
+
+# game/game/map_GW.rpy:275
+translate ukrainian first_forest_event_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:277
+translate ukrainian first_forest_event_964f5fbe:
+
+    # r "I promise I won't do anything rash."
+    r "I promise I won't do anything rash."
+
+# game/game/map_GW.rpy:278
+translate ukrainian first_forest_event_2973dd30:
+
+    # t "It seems that Ryoko really wants to go."
+    t "It seems that Ryoko really wants to go."
+
+# game/game/map_GW.rpy:280
+translate ukrainian first_forest_event_f93cba98:
+
+    # r "Master..."
+    r "Master..."
+
+# game/game/map_GW.rpy:281
+translate ukrainian first_forest_event_731ebc3b:
+
+    # t "I don't want anything to happen to her.... but she seems insistent, which is rare..."
+    t "I don't want anything to happen to her.... but she seems insistent, which is rare..."
+
+# game/game/map_GW.rpy:282
+translate ukrainian first_forest_event_a11bc457:
+
+    # mc "Mmm.."
+    mc "Mmm.."
+
+# game/game/map_GW.rpy:283
+translate ukrainian first_forest_event_f04836a8:
+
+    # t "This is the first time Ryoko has asked me for something."
+    t "This is the first time Ryoko has asked me for something."
+
+# game/game/map_GW.rpy:284
+translate ukrainian first_forest_event_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:285
+translate ukrainian first_forest_event_62ddf4bb:
+
+    # mc "Stay close to me or the other at all times."
+    mc "Stay close to me or the other at all times."
+
+# game/game/map_GW.rpy:286
+translate ukrainian first_forest_event_acca04ea:
+
+    # r "Mas-!"
+    r "Mas-!"
+
+# game/game/map_GW.rpy:288
+translate ukrainian first_forest_event_7837341d:
+
+    # mc "Never leave my side, got it?"
+    mc "Never leave my side, got it?"
+
+# game/game/map_GW.rpy:290
+translate ukrainian first_forest_event_5d9497a5_1:
+
+    # r "Yes!"
+    r "Yes!"
+
+# game/game/map_GW.rpy:291
+translate ukrainian first_forest_event_f3f56fd4:
+
+    # mc "Promise me."
+    mc "Promise me."
+
+# game/game/map_GW.rpy:293
+translate ukrainian first_forest_event_e279bc09:
+
+    # r "I promise, I'll never leave your side."
+    r "I promise, I'll never leave your side."
+
+# game/game/map_GW.rpy:294
+translate ukrainian first_forest_event_30c5147c:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/map_GW.rpy:295
+translate ukrainian first_forest_event_8e917409:
+
+    # mc "Hey, {w}Ryoko..."
+    mc "Hey, {w}Ryoko..."
+
+# game/game/map_GW.rpy:297
+translate ukrainian first_forest_event_662a14ca:
+
+    # r "We'd better get some sleep, I don't want you to be tired for tomorrow..."
+    r "We'd better get some sleep, I don't want you to be tired for tomorrow..."
+
+# game/game/map_GW.rpy:298
+translate ukrainian first_forest_event_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:300
+translate ukrainian first_forest_event_2c5bd7c9:
+
+    # t "Do you think I can sleep like this?"
+    t "Do you think I can sleep like this?"
+
+# game/game/map_GW.rpy:301
+translate ukrainian first_forest_event_c14ae8d2:
+
+    # r "ZzZZz."
+    r "ZzZZz."
+
+# game/game/map_GW.rpy:303
+translate ukrainian first_forest_event_119b8850:
+
+    # t "I hope everythin-"
+    t "I hope everythin-"
+
+# game/game/map_GW.rpy:304
+translate ukrainian first_forest_event_f3c9790a:
+
+    # t "No, that's bad luck."
+    t "No, that's bad luck."
+
+# game/game/map_GW.rpy:305
+translate ukrainian first_forest_event_35bd06b7:
+
+    # t "It will all go fine tomorrow."
+    t "It will all go fine tomorrow."
+
+# game/game/map_GW.rpy:315
+translate ukrainian first_forest_event_3e360d22:
+
+    # a "{size=-10}{i}Ryoko, everything will be fine."
+    a "{size=-10}{i}Ryoko, everything will be fine."
+
+# game/game/map_GW.rpy:316
+translate ukrainian first_forest_event_99599a44:
+
+    # a "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
+    a "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
+
+# game/game/map_GW.rpy:320
+translate ukrainian first_forest_event_bba3c113:
+
+    # a "{size=-10}{i}Thanks to that strange rumble they're distracted, you just have to run and not look back."
+    a "{size=-10}{i}Thanks to that strange rumble they're distracted, you just have to run and not look back."
+
+# game/game/map_GW.rpy:327
+translate ukrainian first_forest_event_3f4b91a4:
+
+    # a "{size=-10}{i}Just {w}don't {w}look back."
+    a "{size=-10}{i}Just {w}don't {w}look back."
+
+# game/game/map_GW.rpy:337
+translate ukrainian first_forest_event_18c6c47c:
+
+    # r "{size=-10} [mc]...?"
+    r "{size=-10} [mc]...?"
+
+# game/game/map_GW.rpy:339
+translate ukrainian first_forest_event_6355db99:
+
+    # mc "You looked like you were having a nightmare."
+    mc "You looked like you were having a nightmare."
+
+# game/game/map_GW.rpy:340
+translate ukrainian first_forest_event_b9b755e5_3:
+
+    # r "..."
+    r "..."
+
+# game/game/map_GW.rpy:342
+translate ukrainian first_forest_event_d4bcee31:
+
+    # mc "Everything is fine now."
+    mc "Everything is fine now."
+
+# game/game/map_GW.rpy:346
+translate ukrainian first_forest_event_d596c20b:
+
+    # r "{size=-10}Uhm!"
+    r "{size=-10}Uhm!"
+
+# game/game/map_GW.rpy:351
+translate ukrainian first_forest_event_30fe5da4:
+
+    # mc "Are you sure you want to come?"
+    mc "Are you sure you want to come?"
+
+# game/game/map_GW.rpy:352
+translate ukrainian first_forest_event_c008eca0:
+
+    # r "Mooh~{w} Master, I already told you I'm fine."
+    r "Mooh~{w} Master, I already told you I'm fine."
+
+# game/game/map_GW.rpy:353
+translate ukrainian first_forest_event_3257c325:
+
+    # mc "I just want to make sure."
+    mc "I just want to make sure."
+
+# game/game/map_GW.rpy:355
+translate ukrainian first_forest_event_80eae0a7:
+
+    # mc "Looks like they're all here."
+    mc "Looks like they're all here."
+
+# game/game/map_GW.rpy:360
+translate ukrainian first_forest_event_bbd37a19:
+
+    # t "Everything is already well prepared, {w}as expected from Yui and Hana."
+    t "Everything is already well prepared, {w}as expected from Yui and Hana."
+
+# game/game/map_GW.rpy:361
+translate ukrainian first_forest_event_9fb89b5a:
+
+    # r "Master look! {w}There are a lot of people."
+    r "Master look! {w}There are a lot of people."
+
+# game/game/map_GW.rpy:363
+translate ukrainian first_forest_event_a9a1e4c3:
+
+    # mc "Let's not interrupt them, they seem to be talking about something important."
+    mc "Let's not interrupt them, they seem to be talking about something important."
+
+# game/game/map_GW.rpy:364
+translate ukrainian first_forest_event_3c807e4c:
+
+    # r "{size=-10}Yees~"
+    r "{size=-10}Yees~"
+
+# game/game/map_GW.rpy:366
+translate ukrainian first_forest_event_24522e47:
+
+    # h "{size=+15}Oh [mc]! {w}You're just in time!"
+    h "{size=+15}Oh [mc]! {w}You're just in time!"
+
+# game/game/map_GW.rpy:368
+translate ukrainian first_forest_event_bd8739a3:
+
+    # ak "[mc]?"
+    ak "[mc]?"
+
+# game/game/map_GW.rpy:370
+translate ukrainian first_forest_event_917f9a9c:
+
+    # ak "Don't tell me..."
+    ak "Don't tell me..."
+
+# game/game/map_GW.rpy:372
+translate ukrainian first_forest_event_e2ac0e9b:
+
+    # ak "Haa?"
+    ak "Haa?"
+
+# game/game/map_GW.rpy:373
+translate ukrainian first_forest_event_7aec0757:
+
+    # mc "I'm also glad to see you again Akane."
+    mc "I'm also glad to see you again Akane."
+
+# game/game/map_GW.rpy:374
+translate ukrainian first_forest_event_27bfefc9:
+
+    # r "Hello doctor!"
+    r "Hello doctor!"
+
+# game/game/map_GW.rpy:376
+translate ukrainian first_forest_event_53dad3eb:
+
+    # so "Mmm?"
+    so "Mmm?"
+
+# game/game/map_GW.rpy:377
+translate ukrainian first_forest_event_f39e266e:
+
+    # so "Did anyone else arrive?"
+    so "Did anyone else arrive?"
+
+# game/game/map_GW.rpy:379
+translate ukrainian first_forest_event_c3aff495:
+
+    # so "It's him!"
+    so "It's him!"
+
+# game/game/map_GW.rpy:380
+translate ukrainian first_forest_event_33f6e149:
+
+    # so "Will he come with us?"
+    so "Will he come with us?"
+
+# game/game/map_GW.rpy:381
+translate ukrainian first_forest_event_8b87fc59:
+
+    # so "I've never seen him before!"
+    so "I've never seen him before!"
+
+# game/game/map_GW.rpy:383
+translate ukrainian first_forest_event_341f9169:
+
+    # y "{size=+10}Ahem!"
+    y "{size=+10}Ahem!"
+
+# game/game/map_GW.rpy:385
+translate ukrainian first_forest_event_9d921db8:
+
+    # so "{size=+10}Sorry!"
+    so "{size=+10}Sorry!"
+
+# game/game/map_GW.rpy:387
+translate ukrainian first_forest_event_8b3125a1:
+
+    # y "I hope the plan is clear to all of you."
+    y "I hope the plan is clear to all of you."
+
+# game/game/map_GW.rpy:388
+translate ukrainian first_forest_event_93da24e3:
+
+    # so "{size=+10}YES!"
+    so "{size=+10}YES!"
+
+# game/game/map_GW.rpy:390
+translate ukrainian first_forest_event_b8dbfb20:
+
+    # y "I don't want anyone to get hurt! If everyone does their part, nothing will go wrong."
+    y "I don't want anyone to get hurt! If everyone does their part, nothing will go wrong."
+
+# game/game/map_GW.rpy:391
+translate ukrainian first_forest_event_4fae1665:
+
+    # so "{size=+10}YES!"
+    so "{size=+10}YES!"
+
+# game/game/map_GW.rpy:393
+translate ukrainian first_forest_event_689976bc:
+
+    # y "We leave in 5 minutes!{w} Understood!?"
+    y "We leave in 5 minutes!{w} Understood!?"
+
+# game/game/map_GW.rpy:394
+translate ukrainian first_forest_event_77dd67d5:
+
+    # so "{size=+10}YES!!"
+    so "{size=+10}YES!!"
+
+# game/game/map_GW.rpy:396
+translate ukrainian first_forest_event_dd31bc96:
+
+    # mc "Woah, {w}I've never seen Yui like that before."
+    mc "Woah, {w}I've never seen Yui like that before."
+
+# game/game/map_GW.rpy:398
+translate ukrainian first_forest_event_0019e4bc:
+
+    # h "Hahaha Yui has always been in charge of training the girls since this whole thing started."
+    h "Hahaha Yui has always been in charge of training the girls since this whole thing started."
+
+# game/game/map_GW.rpy:400
+translate ukrainian first_forest_event_12ba34ef:
+
+    # h "She's well respected here in the village."
+    h "She's well respected here in the village."
+
+# game/game/map_GW.rpy:402
+translate ukrainian first_forest_event_20ec62bc:
+
+    # h "If it weren't for her, no one would've learned to fight."
+    h "If it weren't for her, no one would've learned to fight."
+
+# game/game/map_GW.rpy:403
+translate ukrainian first_forest_event_fe30257f:
+
+    # t "I feel like Akane hasn't taken her eyes off me the whole time...."
+    t "I feel like Akane hasn't taken her eyes off me the whole time...."
+
+# game/game/map_GW.rpy:404
+translate ukrainian first_forest_event_08d20d44:
+
+    # t "She's examining me?"
+    t "She's examining me?"
+
+# game/game/map_GW.rpy:406
+translate ukrainian first_forest_event_fc0ad44d:
+
+    # y "Hey! How are you doing?"
+    y "Hey! How are you doing?"
+
+# game/game/map_GW.rpy:408
+translate ukrainian first_forest_event_32acf73a:
+
+    # mc "I'm more than ready."
+    mc "I'm more than ready."
+
+# game/game/map_GW.rpy:409
+translate ukrainian first_forest_event_775db880:
+
+    # t "Her attitude changed completely."
+    t "Her attitude changed completely."
+
+# game/game/map_GW.rpy:411
+translate ukrainian first_forest_event_73f429dc:
+
+    # y "I can't wait to see you fight!"
+    y "I can't wait to see you fight!"
+
+# game/game/map_GW.rpy:412
+translate ukrainian first_forest_event_d3350169:
+
+    # mc "Wouldn't it be better if we didn't have to fight?"
+    mc "Wouldn't it be better if we didn't have to fight?"
+
+# game/game/map_GW.rpy:414
+translate ukrainian first_forest_event_c197fc27:
+
+    # ak "Great wolves are territorial, so I doubt that none will show up."
+    ak "Great wolves are territorial, so I doubt that none will show up."
+
+# game/game/map_GW.rpy:415
+translate ukrainian first_forest_event_db99afe4:
+
+    # t "Oh, that's the first time she speaks to me without insulting me."
+    t "Oh, that's the first time she speaks to me without insulting me."
+
+# game/game/map_GW.rpy:417
+translate ukrainian first_forest_event_ec2519f3:
+
+    # mc "Now that you mention it, it makes a lot of sense."
+    mc "Now that you mention it, it makes a lot of sense."
+
+# game/game/map_GW.rpy:418
+translate ukrainian first_forest_event_4746d2ec:
+
+    # t "I still don't understand if she's still angry..."
+    t "I still don't understand if she's still angry..."
+
+# game/game/map_GW.rpy:420
+translate ukrainian first_forest_event_e2692fea:
+
+    # mc "By the way, Ryoko will also come."
+    mc "By the way, Ryoko will also come."
+
+# game/game/map_GW.rpy:422
+translate ukrainian first_forest_event_8015a0fc:
+
+    # h "Really?"
+    h "Really?"
+
+# game/game/map_GW.rpy:424
+translate ukrainian first_forest_event_f7a21e2e:
+
+    # r "Sorry for my selfish request!"
+    r "Sorry for my selfish request!"
+
+# game/game/map_GW.rpy:426
+translate ukrainian first_forest_event_ac5f31ca:
+
+    # mc "She insisted that she wants to help."
+    mc "She insisted that she wants to help."
+
+# game/game/map_GW.rpy:428
+translate ukrainian first_forest_event_22959ef1:
+
+    # h "Mmm."
+    h "Mmm."
+
+# game/game/map_GW.rpy:429
+translate ukrainian first_forest_event_cc299629:
+
+    # mc "I'll protect her no matter what happens."
+    mc "I'll protect her no matter what happens."
+
+# game/game/map_GW.rpy:431
+translate ukrainian first_forest_event_7e2890c9:
+
+    # mc "And that goes for all of you too, I won't let anything bad happen to anyone."
+    mc "And that goes for all of you too, I won't let anything bad happen to anyone."
+
+# game/game/map_GW.rpy:433
+translate ukrainian first_forest_event_3e92a27b:
+
+    # r "Hehehe."
+    r "Hehehe."
+
+# game/game/map_GW.rpy:435
+translate ukrainian first_forest_event_be9b73ac:
+
+    # ak "Ha!{w} As if I'd need your help!"
+    ak "Ha!{w} As if I'd need your help!"
+
+# game/game/map_GW.rpy:437
+translate ukrainian first_forest_event_1e48fc4d:
+
+    # y "W-Well, we'd better get going, I'll go and tell the girls."
+    y "W-Well, we'd better get going, I'll go and tell the girls."
+
+# game/game/map_GW.rpy:441
+translate ukrainian first_forest_event_465b4260:
+
+    # h "Well, I'm counting on you too Ryoko."
+    h "Well, I'm counting on you too Ryoko."
+
+# game/game/map_GW.rpy:442
+translate ukrainian first_forest_event_5d9497a5_2:
+
+    # r "Yes!"
+    r "Yes!"
+
+# game/game/map_GW.rpy:446
+translate ukrainian first_forest_event_6a72e58b:
+
+    # mc "We'd better go with them."
+    mc "We'd better go with them."
+
+# game/game/map_GW.rpy:448
+translate ukrainian first_forest_event_5d9497a5_3:
+
+    # r "Yes!"
+    r "Yes!"
+
+# game/game/map_GW.rpy:451
+translate ukrainian first_forest_event_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/map_GW.rpy:463
+translate ukrainian forest_inicio_5ce62be6:
+
+    # t "I'll go to sleep and come back in the morning."
+    t "I'll go to sleep and come back in the morning."
+
+# game/game/map_GW.rpy:465
+translate ukrainian forest_inicio_fcff7c84:
+
+    # t "Woah they really secured this place well."
+    t "Woah they really secured this place well."
+
+# game/game/map_GW.rpy:467
+translate ukrainian forest_inicio_ec4b88d2:
+
+    # t "They even set up guard posts."
+    t "They even set up guard posts."
+
+# game/game/map_GW.rpy:468
+translate ukrainian forest_inicio_560cab82:
+
+    # t "It was probably Yui's idea."
+    t "It was probably Yui's idea."
+
+# game/game/map_GW.rpy:470
+translate ukrainian forest_inicio_18ca6dff:
+
+    # so "{size=-10}Oh! It's him again!"
+    so "{size=-10}Oh! It's him again!"
+
+# game/game/map_GW.rpy:472
+translate ukrainian forest_inicio_6b54efce:
+
+    # so "{size=-10}Hehehe."
+    so "{size=-10}Hehehe."
+
+# game/game/map_GW.rpy:474
+translate ukrainian forest_inicio_6d4bea12:
+
+    # t "The road continues over there."
+    t "The road continues over there."
+
+# game/game/map_GW.rpy:475
+translate ukrainian forest_inicio_786aee52:
+
+    # so "{size=+10}Ahem*"
+    so "{size=+10}Ahem*"
+
+# game/game/map_GW.rpy:477
+translate ukrainian forest_inicio_03fb3e88:
+
+    # mc "Mmm?"
+    mc "Mmm?"
+
+# game/game/map_GW.rpy:481
+translate ukrainian forest_inicio_9906d0a7:
+
+    # mc "Wooah."
+    mc "Wooah."
+
+# game/game/map_GW.rpy:482
+translate ukrainian forest_inicio_a1b8e687:
+
+    # mc "This place is definitely well secured."
+    mc "This place is definitely well secured."
+
+# game/game/map_GW.rpy:485
+translate ukrainian forest_inicio_b966c03d:
+
+    # mc "Gulp*"
+    mc "Gulp*"
+
+# game/game/map_GW.rpy:487
+translate ukrainian forest_inicio_a83b0a77:
+
+    # mc "Maybe someday I can help out at the guard posts..."
+    mc "Maybe someday I can help out at the guard posts..."
+
+# game/game/map_GW.rpy:502
+translate ukrainian sato_event_1_5ecb153f:
+
+    # t "I'm completely ready."
+    t "I'm completely ready."
+
+# game/game/map_GW.rpy:507
+translate ukrainian sato_event_1_30aba637:
+
+    # t "I'll try to get there as soon as possible."
+    t "I'll try to get there as soon as possible."
+
+# game/game/map_GW.rpy:508
+translate ukrainian sato_event_1_4ffa2b4a:
+
+    # t "There's only one thing I didn't expect..."
+    t "There's only one thing I didn't expect..."
+
+# game/game/map_GW.rpy:510
+translate ukrainian sato_event_1_95a73de3:
+
+    # r "I haven't left the village with Master since we met."
+    r "I haven't left the village with Master since we met."
+
+# game/game/map_GW.rpy:512
+translate ukrainian sato_event_1_f94b0589:
+
+    # c "You've to be prepared at all times for any eventuality."
+    c "You've to be prepared at all times for any eventuality."
+
+# game/game/map_GW.rpy:514
+translate ukrainian sato_event_1_a7286dc5:
+
+    # r "Understood."
+    r "Understood."
+
+# game/game/map_GW.rpy:516
+translate ukrainian sato_event_1_426e69ab:
+
+    # mc "I remember I told you that I'd be gone for a few days."
+    mc "I remember I told you that I'd be gone for a few days."
+
+# game/game/map_GW.rpy:518
+translate ukrainian sato_event_1_c48388c0:
+
+    # c "Yes."
+    c "Yes."
+
+# game/game/map_GW.rpy:519
+translate ukrainian sato_event_1_92e82b05:
+
+    # r "Yes."
+    r "Yes."
+
+# game/game/map_GW.rpy:521
+translate ukrainian sato_event_1_376d114d:
+
+    # mc "So...{w} what are you two doing here?"
+    mc "So...{w} what are you two doing here?"
+
+# game/game/map_GW.rpy:523
+translate ukrainian sato_event_1_94cac6d1:
+
+    # r "I was told that you were found \"meditating\" in the middle of those strange stones for several hours."
+    r "I was told that you were found \"meditating\" in the middle of those strange stones for several hours."
+
+# game/game/map_GW.rpy:524
+translate ukrainian sato_event_1_5cf80cbb:
+
+    # mc "What!?"
+    mc "What!?"
+
+# game/game/map_GW.rpy:526
+translate ukrainian sato_event_1_ec2d8853:
+
+    # mc "Who told you that?"
+    mc "Who told you that?"
+
+# game/game/map_GW.rpy:528
+translate ukrainian sato_event_1_67143680:
+
+    # t "Don't look like you were distracted by a bird."
+    t "Don't look like you were distracted by a bird."
+
+# game/game/map_GW.rpy:530
+translate ukrainian sato_event_1_a47c8d55:
+
+    # r "I'll no longer let you go alone to faraway places."
+    r "I'll no longer let you go alone to faraway places."
+
+# game/game/map_GW.rpy:531
+translate ukrainian sato_event_1_d7afdc3b:
+
+    # mc "I-"
+    mc "I-"
+
+# game/game/map_GW.rpy:533
+translate ukrainian sato_event_1_bec311f2:
+
+    # r "And you were planning to go with nothing to eat on the trip?"
+    r "And you were planning to go with nothing to eat on the trip?"
+
+# game/game/map_GW.rpy:534
+translate ukrainian sato_event_1_610c7681:
+
+    # mc "Err-"
+    mc "Err-"
+
+# game/game/map_GW.rpy:536
+translate ukrainian sato_event_1_ad4d165a:
+
+    # r "I'm sure you didn't even think about resting a little."
+    r "I'm sure you didn't even think about resting a little."
+
+# game/game/map_GW.rpy:537
+translate ukrainian sato_event_1_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:538
+translate ukrainian sato_event_1_dcee8cb0:
+
+    # mc "Char-"
+    mc "Char-"
+
+# game/game/map_GW.rpy:540
+translate ukrainian sato_event_1_21464332:
+
+    # t "Now you're distracted by butterflies!?"
+    t "Now you're distracted by butterflies!?"
+
+# game/game/map_GW.rpy:542
+translate ukrainian sato_event_1_2de3efbb:
+
+    # mc "{size=-7}L-Let's go..."
+    mc "{size=-7}L-Let's go..."
+
+# game/game/map_GW.rpy:543
+translate ukrainian sato_event_1_ad706935:
+
+    # r "Yes!~ {w}Master!~{image=corazon}"
+    r "Yes!~ {w}Master!~{image=corazon}"
+
+# game/game/map_GW.rpy:544
+translate ukrainian sato_event_1_d19f855d:
+
+    # c "..."
+    c "..."
+
+# game/game/map_GW.rpy:548
+translate ukrainian sato_event_1_067c2cc8:
+
+    # t "They both seem to know the way."
+    t "They both seem to know the way."
+
+# game/game/map_GW.rpy:549
+translate ukrainian sato_event_1_6b4705d2:
+
+    # t "Maybe it was a good idea to bring them with me."
+    t "Maybe it was a good idea to bring them with me."
+
+# game/game/map_GW.rpy:550
+translate ukrainian sato_event_1_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:551
+translate ukrainian sato_event_1_bc1700b8:
+
+    # t "Or they bring me, I don't know what's going on."
+    t "Or they bring me, I don't know what's going on."
+
+# game/game/map_GW.rpy:558
+translate ukrainian sato_event_1_020ccc25:
+
+    # c "We are close."
+    c "We are close."
+
+# game/game/map_GW.rpy:559
+translate ukrainian sato_event_1_08b5df7f:
+
+    # mc "Ok."
+    mc "Ok."
+
+# game/game/map_GW.rpy:563
+translate ukrainian sato_event_1_e12f9378:
+
+    # r "I can see it!"
+    r "I can see it!"
+
+# game/game/map_GW.rpy:566
+translate ukrainian sato_event_1_61f57705:
+
+    # mc "Is it that easy to get into this town?"
+    mc "Is it that easy to get into this town?"
+
+# game/game/map_GW.rpy:570
+translate ukrainian sato_event_1_af879d5d:
+
+    # c "They're surrounded by mountains, and the monsters don't approach thanks to the power of a high priestess."
+    c "They're surrounded by mountains, and the monsters don't approach thanks to the power of a high priestess."
+
+# game/game/map_GW.rpy:572
+translate ukrainian sato_event_1_5ec1f12c:
+
+    # c "But I remember there were many more people."
+    c "But I remember there were many more people."
+
+# game/game/map_GW.rpy:573
+translate ukrainian sato_event_1_fe7d23fb:
+
+    # c "I only see one person from here."
+    c "I only see one person from here."
+
+# game/game/map_GW.rpy:575
+translate ukrainian sato_event_1_3fd24705:
+
+    # r "She looks kind of sad."
+    r "She looks kind of sad."
+
+# game/game/map_GW.rpy:576
+translate ukrainian sato_event_1_842d6717:
+
+    # mc "How can you tell from this distance?"
+    mc "How can you tell from this distance?"
+
+# game/game/map_GW.rpy:577
+translate ukrainian sato_event_1_62c8f79d:
+
+    # r "I don't know..."
+    r "I don't know..."
+
+# game/game/map_GW.rpy:579
+translate ukrainian sato_event_1_e57c52c6:
+
+    # mc "She seems to have noticed us."
+    mc "She seems to have noticed us."
+
+# game/game/map_GW.rpy:580
+translate ukrainian sato_event_1_e16d6595:
+
+    # c "{size=-7}Hmm... {w}she doesn't seem to have any intention of attacking us."
+    c "{size=-7}Hmm... {w}she doesn't seem to have any intention of attacking us."
+
+# game/game/map_GW.rpy:582
+translate ukrainian sato_event_1_502f9a4e:
+
+    # mc "Let me talk to her."
+    mc "Let me talk to her."
+
+# game/game/map_GW.rpy:583
+translate ukrainian sato_event_1_d3b7c951:
+
+    # c "Are you sure? {w}You shouldn't trust anyone."
+    c "Are you sure? {w}You shouldn't trust anyone."
+
+# game/game/map_GW.rpy:584
+translate ukrainian sato_event_1_686ef9a4:
+
+    # mc "Hana gave me a letter to avoid any problems..."
+    mc "Hana gave me a letter to avoid any problems..."
+
+# game/game/map_GW.rpy:586
+translate ukrainian sato_event_1_dde66853:
+
+    # mc "And if she wanted to hurt us, she would've done something by now."
+    mc "And if she wanted to hurt us, she would've done something by now."
+
+# game/game/map_GW.rpy:587
+translate ukrainian sato_event_1_921d7c05:
+
+    # r "Well... {w}if the doctor says so..."
+    r "Well... {w}if the doctor says so..."
+
+# game/game/map_GW.rpy:588
+translate ukrainian sato_event_1_721b5795:
+
+    # mc "{size=-7}Eh?"
+    mc "{size=-7}Eh?"
+
+# game/game/map_GW.rpy:590
+translate ukrainian sato_event_1_e5ca7717:
+
+    # c "All right, {w}don't talk too much and give her the letter."
+    c "All right, {w}don't talk too much and give her the letter."
+
+# game/game/map_GW.rpy:591
+translate ukrainian sato_event_1_3ff504b7:
+
+    # r "If you feel you can't, I will speak for you~"
+    r "If you feel you can't, I will speak for you~"
+
+# game/game/map_GW.rpy:592
+translate ukrainian sato_event_1_418c6b68:
+
+    # t "Do they see me as a kid now?!"
+    t "Do they see me as a kid now?!"
+
+# game/game/map_GW.rpy:594
+translate ukrainian sato_event_1_94930ee6:
+
+    # t "Do they think I look for trouble everywhere I go?"
+    t "Do they think I look for trouble everywhere I go?"
+
+# game/game/map_GW.rpy:596
+translate ukrainian sato_event_1_63c9faf2:
+
+    # t "I'll show them how well I do this."
+    t "I'll show them how well I do this."
+
+# game/game/map_GW.rpy:597
+translate ukrainian sato_event_1_7f6ca188:
+
+    # t "Just have a normal conversation, and hand her the letter."
+    t "Just have a normal conversation, and hand her the letter."
+
+# game/game/map_GW.rpy:599
+translate ukrainian sato_event_1_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:600
+translate ukrainian sato_event_1_72441c49:
+
+    # t "Now that I see her more closely..."
+    t "Now that I see her more closely..."
+
+# game/game/map_GW.rpy:602
+translate ukrainian sato_event_1_e6cfac47:
+
+    # t "This girl has... {w}scales?"
+    t "This girl has... {w}scales?"
+
+# game/game/map_GW.rpy:603
+translate ukrainian sato_event_1_bbc68778:
+
+    # t "And her tail is quite peculiar..."
+    t "And her tail is quite peculiar..."
+
+# game/game/map_GW.rpy:605
+translate ukrainian sato_event_1_76ca1ef0:
+
+    # t "She looks very angry..."
+    t "She looks very angry..."
+
+# game/game/map_GW.rpy:606
+translate ukrainian sato_event_1_3fd90cd8:
+
+    # t "H-How can I start a conversation with someone who looks at me like that...?"
+    t "H-How can I start a conversation with someone who looks at me like that...?"
+
+# game/game/map_GW.rpy:608
+translate ukrainian sato_event_1_36b61b20:
+
+    # c "{size=-10}Stop looking at her and say something!"
+    c "{size=-10}Stop looking at her and say something!"
+
+# game/game/map_GW.rpy:609
+translate ukrainian sato_event_1_acecfce7:
+
+    # r "{size=-10}Master has a lewd face..."
+    r "{size=-10}Master has a lewd face..."
+
+# game/game/map_GW.rpy:611
+translate ukrainian sato_event_1_6aa40396:
+
+    # mc "{size=+10}Ahem*"
+    mc "{size=+10}Ahem*"
+
+# game/game/map_GW.rpy:612
+translate ukrainian sato_event_1_ced426aa:
+
+    # mc "It's a nice day, isn't it?"
+    mc "It's a nice day, isn't it?"
+
+# game/game/map_GW.rpy:613
+translate ukrainian sato_event_1_9a614b12:
+
+    # c "{size=-10}Sigh*"
+    c "{size=-10}Sigh*"
+
+# game/game/map_GW.rpy:614
+translate ukrainian sato_event_1_8a9f6bb6:
+
+    # r "{size=-10}Master..."
+    r "{size=-10}Master..."
+
+# game/game/map_GW.rpy:615
+translate ukrainian sato_event_1_09884666:
+
+    # t "Stop judging me!"
+    t "Stop judging me!"
+
+# game/game/map_GW.rpy:617
+translate ukrainian sato_event_1_ff9f5230:
+
+    # mc "I have a letter."
+    mc "I have a letter."
+
+# game/game/map_GW.rpy:618
+translate ukrainian sato_event_1_bb8e4b4e:
+
+    # a "..."
+    a "..."
+
+# game/game/map_GW.rpy:619
+translate ukrainian sato_event_1_398f3f89:
+
+    # c "{size=-10}You won't explain anything?"
+    c "{size=-10}You won't explain anything?"
+
+# game/game/map_GW.rpy:620
+translate ukrainian sato_event_1_7c4861dd:
+
+    # r "{size=-10}Do you want me to take care of it?"
+    r "{size=-10}Do you want me to take care of it?"
+
+# game/game/map_GW.rpy:621
+translate ukrainian sato_event_1_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:623
+translate ukrainian sato_event_1_bb8e4b4e_1:
+
+    # a "..."
+    a "..."
+
+# game/game/map_GW.rpy:630
+translate ukrainian sato_event_1_674b7921:
+
+    # t "Is it just me or is she looking at Ryoko...?"
+    t "Is it just me or is she looking at Ryoko...?"
+
+# game/game/map_GW.rpy:632
+translate ukrainian sato_event_1_b9b755e5:
+
+    # r "..."
+    r "..."
+
+# game/game/map_GW.rpy:634
+translate ukrainian sato_event_1_fbb1b965:
+
+    # a "{size=-7}Sigh..."
+    a "{size=-7}Sigh..."
+
+# game/game/map_GW.rpy:635
+translate ukrainian sato_event_1_3784857a:
+
+    # c "...?"
+    c "...?"
+
+# game/game/map_GW.rpy:636
+translate ukrainian sato_event_1_dd43d9d5:
+
+    # mc "Is something wrong-"
+    mc "Is something wrong-"
+
+# game/game/map_GW.rpy:647
+translate ukrainian sato_event_1_991c0126:
+
+    # c "{size=-7}Don't move."
+    c "{size=-7}Don't move."
+
+# game/game/map_GW.rpy:648
+translate ukrainian sato_event_1_b7f3d88e:
+
+    # r "Master!"
+    r "Master!"
+
+# game/game/map_GW.rpy:649
+translate ukrainian sato_event_1_4a61c24b:
+
+    # t "C-Charlotte moved super fast..."
+    t "C-Charlotte moved super fast..."
+
+# game/game/map_GW.rpy:651
+translate ukrainian sato_event_1_93b97c67:
+
+    # t "And Ryoko also acted immediately."
+    t "And Ryoko also acted immediately."
+
+# game/game/map_GW.rpy:652
+translate ukrainian sato_event_1_c890a565:
+
+    # mc "Don't worry, everything is fine..."
+    mc "Don't worry, everything is fine..."
+
+# game/game/map_GW.rpy:654
+translate ukrainian sato_event_1_d9198cb1:
+
+    # c "What do you think you're doing?"
+    c "What do you think you're doing?"
+
+# game/game/map_GW.rpy:655
+translate ukrainian sato_event_1_c657f679:
+
+    # a "For a slaver, {w}they protect you very well."
+    a "For a slaver, {w}they protect you very well."
+
+# game/game/map_GW.rpy:657
+translate ukrainian sato_event_1_82fd2833:
+
+    # a "I don't want to imagine how you trained them."
+    a "I don't want to imagine how you trained them."
+
+# game/game/map_GW.rpy:658
+translate ukrainian sato_event_1_4ec7a2fb:
+
+    # mc "Slaver?"
+    mc "Slaver?"
+
+# game/game/map_GW.rpy:660
+translate ukrainian sato_event_1_e95649e8:
+
+    # a "Why do you protect that scum."
+    a "Why do you protect that scum."
+
+# game/game/map_GW.rpy:661
+translate ukrainian sato_event_1_3966b3dd:
+
+    # a "If we kill him between the two of us, the demon girl's chains will be released."
+    a "If we kill him between the two of us, the demon girl's chains will be released."
+
+# game/game/map_GW.rpy:662
+translate ukrainian sato_event_1_0c6abcdf:
+
+    # c "I said {w}don't move."
+    c "I said {w}don't move."
+
+# game/game/map_GW.rpy:664
+translate ukrainian sato_event_1_426aab87:
+
+    # mc "Released?!"
+    mc "Released?!"
+
+# game/game/map_GW.rpy:665
+translate ukrainian sato_event_1_6946dbfe:
+
+    # c "No one is anyone's slave."
+    c "No one is anyone's slave."
+
+# game/game/map_GW.rpy:666
+translate ukrainian sato_event_1_b7f3d88e_1:
+
+    # r "Master!"
+    r "Master!"
+
+# game/game/map_GW.rpy:668
+translate ukrainian sato_event_1_f0c78c10:
+
+    # c "..."
+    c "..."
+
+# game/game/map_GW.rpy:669
+translate ukrainian sato_event_1_fb0b2ccf:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:670
+translate ukrainian sato_event_1_732a8756:
+
+    # a "......"
+    a "......"
+
+# game/game/map_GW.rpy:671
+translate ukrainian sato_event_1_b3106831:
+
+    # mc "It's a long story..."
+    mc "It's a long story..."
+
+# game/game/map_GW.rpy:672
+translate ukrainian sato_event_1_08f220de:
+
+    # mc "Charlotte, {w}let her go, {w}there was just a misunderstanding."
+    mc "Charlotte, {w}let her go, {w}there was just a misunderstanding."
+
+# game/game/map_GW.rpy:673
+translate ukrainian sato_event_1_d19f855d_1:
+
+    # c "..."
+    c "..."
+
+# game/game/map_GW.rpy:680
+translate ukrainian sato_event_1_3d22b18f:
+
+    # a "What weird people..."
+    a "What weird people..."
+
+# game/game/map_GW.rpy:681
+translate ukrainian sato_event_1_4dfd982f:
+
+    # a "But I admit that you guys look strong."
+    a "But I admit that you guys look strong."
+
+# game/game/map_GW.rpy:683
+translate ukrainian sato_event_1_d9a9f1dc:
+
+    # mc "Now if you let me start again-"
+    mc "Now if you let me start again-"
+
+# game/game/map_GW.rpy:684
+translate ukrainian sato_event_1_03fb3e88:
+
+    # mc "Mmm?"
+    mc "Mmm?"
+
+# game/game/map_GW.rpy:685
+translate ukrainian sato_event_1_5e4df1c2:
+
+    # mc "Someone is coming in a hurry."
+    mc "Someone is coming in a hurry."
+
+# game/game/map_GW.rpy:687
+translate ukrainian sato_event_1_44084635:
+
+    # a "Huh...?"
+    a "Huh...?"
+
+# game/game/map_GW.rpy:688
+translate ukrainian sato_event_1_228b8709:
+
+    # a "I said no one can leave their homes!"
+    a "I said no one can leave their homes!"
+
+# game/game/map_GW.rpy:689
+translate ukrainian sato_event_1_03fb3e88_1:
+
+    # mc "Mmm?"
+    mc "Mmm?"
+
+# game/game/map_GW.rpy:691
+translate ukrainian sato_event_1_2e3bab44:
+
+    # a "S-Sayori!"
+    a "S-Sayori!"
+
+# game/game/map_GW.rpy:692
+translate ukrainian sato_event_1_35a2fc9c:
+
+    # sa "What's wrong, why so agitated?"
+    sa "What's wrong, why so agitated?"
+
+# game/game/map_GW.rpy:693
+translate ukrainian sato_event_1_029cd1e9:
+
+    # a "It's the priestess!"
+    a "It's the priestess!"
+
+# game/game/map_GW.rpy:694
+translate ukrainian sato_event_1_dcaa440c:
+
+    # sa "Speak up, Aoi! {w}What's wrong with her?"
+    sa "Speak up, Aoi! {w}What's wrong with her?"
+
+# game/game/map_GW.rpy:696
+translate ukrainian sato_event_1_63f6cb22:
+
+    # ao "She's in trouble!"
+    ao "She's in trouble!"
+
+# game/game/map_GW.rpy:703
+translate ukrainian sato_event_1_d201ff22:
+
+    # mc "Aoi right?"
+    mc "Aoi right?"
+
+# game/game/map_GW.rpy:704
+translate ukrainian sato_event_1_e172affa:
+
+    # mc "Can we help in any way?"
+    mc "Can we help in any way?"
+
+# game/game/map_GW.rpy:705
+translate ukrainian sato_event_1_1572914a:
+
+    # ao "W-Who are you...?"
+    ao "W-Who are you...?"
+
+# game/game/map_GW.rpy:710
+translate ukrainian sato_event_1_4681dfa1:
+
+    # a "Gentlemen, {w}why don't you lay down your weapons?"
+    a "Gentlemen, {w}why don't you lay down your weapons?"
+
+# game/game/map_GW.rpy:711
+translate ukrainian sato_event_1_8b443464:
+
+    # ms "Don't resist."
+    ms "Don't resist."
+
+# game/game/map_GW.rpy:712
+translate ukrainian sato_event_1_b818dc95:
+
+    # ms "If you don't come with us, {w}we will take more people!"
+    ms "If you don't come with us, {w}we will take more people!"
+
+# game/game/map_GW.rpy:713
+translate ukrainian sato_event_1_405c3b77:
+
+    # a "You know I can't get out of here."
+    a "You know I can't get out of here."
+
+# game/game/map_GW.rpy:715
+translate ukrainian sato_event_1_9c8abd2c:
+
+    # ms "W-We have the order to use force."
+    ms "W-We have the order to use force."
+
+# game/game/map_GW.rpy:716
+translate ukrainian sato_event_1_5b980b0e:
+
+    # a "You don't have to do this, {w}we could find a way to break those chains."
+    a "You don't have to do this, {w}we could find a way to break those chains."
+
+# game/game/map_GW.rpy:717
+translate ukrainian sato_event_1_f97dae8c:
+
+    # a "Don't you want to resume your old lives...?"
+    a "Don't you want to resume your old lives...?"
+
+# game/game/map_GW.rpy:718
+translate ukrainian sato_event_1_374d0d66:
+
+    # ms "..."
+    ms "..."
+
+# game/game/map_GW.rpy:720
+translate ukrainian sato_event_1_32b6398b:
+
+    # ms "Don't let her make you doubt!"
+    ms "Don't let her make you doubt!"
+
+# game/game/map_GW.rpy:721
+translate ukrainian sato_event_1_8dc0c145:
+
+    # ms "Not even the high priestess can break the chains of slavery."
+    ms "Not even the high priestess can break the chains of slavery."
+
+# game/game/map_GW.rpy:722
+translate ukrainian sato_event_1_b433f55b:
+
+    # ms "Y-yes.."
+    ms "Y-yes.."
+
+# game/game/map_GW.rpy:724
+translate ukrainian sato_event_1_1f07817e:
+
+    # a "Gentlemen... {w}you know that if you take me out of here, {w}all the people in this village will die."
+    a "Gentlemen... {w}you know that if you take me out of here, {w}all the people in this village will die."
+
+# game/game/map_GW.rpy:728
+translate ukrainian sato_event_1_374d0d66_1:
+
+    # ms "..."
+    ms "..."
+
+# game/game/map_GW.rpy:729
+translate ukrainian sato_event_1_801f0b3b:
+
+    # ms "W-We can't disobey orders!"
+    ms "W-We can't disobey orders!"
+
+# game/game/map_GW.rpy:733
+translate ukrainian sato_event_1_5321c80e:
+
+    # sa "{size=+10}HEY!"
+    sa "{size=+10}HEY!"
+
+# game/game/map_GW.rpy:735
+translate ukrainian sato_event_1_953e5116:
+
+    # sa "{size=+5}Touch a single hair and you're all dead!"
+    sa "{size=+5}Touch a single hair and you're all dead!"
+
+# game/game/map_GW.rpy:736
+translate ukrainian sato_event_1_36ff24ff:
+
+    # sa "Miss Alice, {w}are you all right?"
+    sa "Miss Alice, {w}are you all right?"
+
+# game/game/map_GW.rpy:737
+translate ukrainian sato_event_1_9ec43729:
+
+    # al "Don't get close! {w}Don't put yourself in danger."
+    al "Don't get close! {w}Don't put yourself in danger."
+
+# game/game/map_GW.rpy:739
+translate ukrainian sato_event_1_78dbf64a:
+
+    # ms "You two take care of her."
+    ms "You two take care of her."
+
+# game/game/map_GW.rpy:740
+translate ukrainian sato_event_1_321e43c8:
+
+    # ms "YES!"
+    ms "YES!"
+
+# game/game/map_GW.rpy:741
+translate ukrainian sato_event_1_1744cb14:
+
+    # al "Wait! {w}Don't do anything to her."
+    al "Wait! {w}Don't do anything to her."
+
+# game/game/map_GW.rpy:743
+translate ukrainian sato_event_1_ece6de12:
+
+    # al "{size=-8}Ah..."
+    al "{size=-8}Ah..."
+
+# game/game/map_GW.rpy:744
+translate ukrainian sato_event_1_4b0f837e:
+
+    # ms "There's no longer any way out."
+    ms "There's no longer any way out."
+
+# game/game/map_GW.rpy:745
+translate ukrainian sato_event_1_0e17f1c3:
+
+    # ms "We don't want to hurt you, {w}just come with us."
+    ms "We don't want to hurt you, {w}just come with us."
+
+# game/game/map_GW.rpy:746
+translate ukrainian sato_event_1_33f7df65:
+
+    # al "Sayori, take care of all."
+    al "Sayori, take care of all."
+
+# game/game/map_GW.rpy:747
+translate ukrainian sato_event_1_ca8b425e:
+
+    # ms "Grab her."
+    ms "Grab her."
+
+# game/game/map_GW.rpy:748
+translate ukrainian sato_event_1_4a8d877f:
+
+    # ms "Ye-"
+    ms "Ye-"
+
+# game/game/map_GW.rpy:759
+translate ukrainian sato_event_1_16e83d50:
+
+    # ms "Y-You!"
+    ms "Y-You!"
+
+# game/game/map_GW.rpy:772
+translate ukrainian sato_event_1_7732dcd2:
+
+    # ms "HuOOGhg!"
+    ms "HuOOGhg!"
+
+# game/game/map_GW.rpy:782
+translate ukrainian sato_event_1_00749889:
+
+    # mc "{size=-7}Sigh..."
+    mc "{size=-7}Sigh..."
+
+# game/game/map_GW.rpy:783
+translate ukrainian sato_event_1_4082ec19:
+
+    # t "E-Even if it was just a little bit... {w}I think I was able to control my strength..."
+    t "E-Even if it was just a little bit... {w}I think I was able to control my strength..."
+
+# game/game/map_GW.rpy:785
+translate ukrainian sato_event_1_046166e3:
+
+    # sa "{size=-7}{i}W-What the hell was that exaggeratedly strong blow?"
+    sa "{size=-7}{i}W-What the hell was that exaggeratedly strong blow?"
+
+# game/game/map_GW.rpy:786
+translate ukrainian sato_event_1_f71b9541:
+
+    # sa "{size=-7}{i}That guy is stronger than he looks..."
+    sa "{size=-7}{i}That guy is stronger than he looks..."
+
+# game/game/map_GW.rpy:788
+translate ukrainian sato_event_1_2f1186e1:
+
+    # ms "A-Are they both unconscious?"
+    ms "A-Are they both unconscious?"
+
+# game/game/map_GW.rpy:789
+translate ukrainian sato_event_1_78d70f06:
+
+    # ms "Who are those guys...?"
+    ms "Who are those guys...?"
+
+# game/game/map_GW.rpy:790
+translate ukrainian sato_event_1_346cc8a3:
+
+    # mc "Do you want to keep fighting or do you want to join your comrades on the ground?"
+    mc "Do you want to keep fighting or do you want to join your comrades on the ground?"
+
+# game/game/map_GW.rpy:792
+translate ukrainian sato_event_1_5c2c1761:
+
+    # ms "..."
+    ms "..."
+
+# game/game/map_GW.rpy:793
+translate ukrainian sato_event_1_5c2c1761_1:
+
+    # ms "..."
+    ms "..."
+
+# game/game/map_GW.rpy:798
+translate ukrainian sato_event_1_07cd6b38:
+
+    # sa "..."
+    sa "..."
+
+# game/game/map_GW.rpy:799
+translate ukrainian sato_event_1_d4b2cc90:
+
+    # sa "{size=-7}{i}They can barely walk..."
+    sa "{size=-7}{i}They can barely walk..."
+
+# game/game/map_GW.rpy:801
+translate ukrainian sato_event_1_d2e8f683:
+
+    # c "Good reaction, Human."
+    c "Good reaction, Human."
+
+# game/game/map_GW.rpy:802
+translate ukrainian sato_event_1_8b023c6f:
+
+    # mc "Oh, {w}thanks."
+    mc "Oh, {w}thanks."
+
+# game/game/map_GW.rpy:804
+translate ukrainian sato_event_1_e95f60cd:
+
+    # mc "Your moves are always amazing."
+    mc "Your moves are always amazing."
+
+# game/game/map_GW.rpy:805
+translate ukrainian sato_event_1_02c24dc7:
+
+    # mc "Watching you kick that guy reminded me of when I first met you."
+    mc "Watching you kick that guy reminded me of when I first met you."
+
+# game/game/map_GW.rpy:807
+translate ukrainian sato_event_1_c08de502:
+
+    # mc "We make a good team hahaha."
+    mc "We make a good team hahaha."
+
+# game/game/map_GW.rpy:808
+translate ukrainian sato_event_1_d19f855d_2:
+
+    # c "..."
+    c "..."
+
+# game/game/map_GW.rpy:809
+translate ukrainian sato_event_1_18bcb034:
+
+    # sa "Why did you help us?"
+    sa "Why did you help us?"
+
+# game/game/map_GW.rpy:811
+translate ukrainian sato_event_1_01bf8ac7:
+
+    # sa "Now you've become their enemy."
+    sa "Now you've become their enemy."
+
+# game/game/map_GW.rpy:812
+translate ukrainian sato_event_1_3395f4ec:
+
+    # mc "Nor would I want to be allied with people who attack one person in a group."
+    mc "Nor would I want to be allied with people who attack one person in a group."
+
+# game/game/map_GW.rpy:813
+translate ukrainian sato_event_1_07cd6b38_1:
+
+    # sa "..."
+    sa "..."
+
+# game/game/map_GW.rpy:815
+translate ukrainian sato_event_1_051acbb7:
+
+    # sa "I thought you were a weirdo but now my opinion has changed."
+    sa "I thought you were a weirdo but now my opinion has changed."
+
+# game/game/map_GW.rpy:816
+translate ukrainian sato_event_1_e2664f38:
+
+    # sa "{size=-10}Just a little."
+    sa "{size=-10}Just a little."
+
+# game/game/map_GW.rpy:817
+translate ukrainian sato_event_1_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:818
+translate ukrainian sato_event_1_ff09e56a:
+
+    # al "Young man, {w}may I know your name?"
+    al "Young man, {w}may I know your name?"
+
+# game/game/map_GW.rpy:819
+translate ukrainian sato_event_1_03fb3e88_2:
+
+    # mc "Mmm?"
+    mc "Mmm?"
+
+# game/game/map_GW.rpy:821
+translate ukrainian sato_event_1_7c900014:
+
+    # t "She must be the high priestess."
+    t "She must be the high priestess."
+
+# game/game/map_GW.rpy:828
+translate ukrainian sato_event_1_950ff0c7:
+
+    # t "She has an air that only goddesses have..."
+    t "She has an air that only goddesses have..."
+
+# game/game/map_GW.rpy:829
+translate ukrainian sato_event_1_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:831
+translate ukrainian sato_event_1_3b13eea3:
+
+    # t "WHAT!?"
+    t "WHAT!?"
+
+# game/game/map_GW.rpy:832
+translate ukrainian sato_event_1_266b4c24:
+
+    # t "Gulp* {w}S-She definitely looks like a goddess!"
+    t "Gulp* {w}S-She definitely looks like a goddess!"
+
+# game/game/map_GW.rpy:833
+translate ukrainian sato_event_1_2e101d88:
+
+    # t "And I can see the color of her nipples...."
+    t "And I can see the color of her nipples...."
+
+# game/game/map_GW.rpy:835
+translate ukrainian sato_event_1_d19f855d_3:
+
+    # c "..."
+    c "..."
+
+# game/game/map_GW.rpy:836
+translate ukrainian sato_event_1_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/map_GW.rpy:837
+translate ukrainian sato_event_1_68b24bcb:
+
+    # t "Her gaze is stronger than her words..."
+    t "Her gaze is stronger than her words..."
+
+# game/game/map_GW.rpy:839
+translate ukrainian sato_event_1_406c1389:
+
+    # mc "M-My name is [mc]."
+    mc "M-My name is [mc]."
+
+# game/game/map_GW.rpy:840
+translate ukrainian sato_event_1_2c69f937:
+
+    # al "A pleasure~ {w}I'm Alice, {w}the priestess who protects this town."
+    al "A pleasure~ {w}I'm Alice, {w}the priestess who protects this town."
+
+# game/game/map_GW.rpy:842
+translate ukrainian sato_event_1_95ab724c:
+
+    # sa "Are you okay, Miss Alice?"
+    sa "Are you okay, Miss Alice?"
+
+# game/game/map_GW.rpy:843
+translate ukrainian sato_event_1_1357c1d4:
+
+    # al "In perfect condition, {w}you arrived just in time~"
+    al "In perfect condition, {w}you arrived just in time~"
+
+# game/game/map_GW.rpy:845
+translate ukrainian sato_event_1_76843e27:
+
+    # sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
+    sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
+
+# game/game/map_GW.rpy:846
+translate ukrainian sato_event_1_efa87892:
+
+    # al "{size=-6}S-Sayori..."
+    al "{size=-6}S-Sayori..."
+
+# game/game/map_GW.rpy:847
+translate ukrainian sato_event_1_afff42f9:
+
+    # al "Don't worry... {w}it's not your obligation to protect me all the time."
+    al "Don't worry... {w}it's not your obligation to protect me all the time."
+
+# game/game/map_GW.rpy:848
+translate ukrainian sato_event_1_b88a0ab6:
+
+    # t "I thought Sayori would be someone wilder, but the respect she shows for the priestess is genuine."
+    t "I thought Sayori would be someone wilder, but the respect she shows for the priestess is genuine."
+
+# game/game/map_GW.rpy:850
+translate ukrainian sato_event_1_04b0f9f2:
+
+    # ao "{size=+7}I-Is everyone well?"
+    ao "{size=+7}I-Is everyone well?"
+
+# game/game/map_GW.rpy:851
+translate ukrainian sato_event_1_89fee938:
+
+    # r "{size=+7}Master!"
+    r "{size=+7}Master!"
+
+# game/game/map_GW.rpy:853
+translate ukrainian sato_event_1_a8612011:
+
+    # ao "I just saw that they left."
+    ao "I just saw that they left."
+
+# game/game/map_GW.rpy:854
+translate ukrainian sato_event_1_2898bc34:
+
+    # r "Master!{w} Charlotte!"
+    r "Master!{w} Charlotte!"
+
+# game/game/map_GW.rpy:855
+translate ukrainian sato_event_1_6b87c98e:
+
+    # mc "Oh! {w}Ryoko."
+    mc "Oh! {w}Ryoko."
+
+# game/game/map_GW.rpy:856
+translate ukrainian sato_event_1_f4991eb8:
+
+    # mc "All good?"
+    mc "All good?"
+
+# game/game/map_GW.rpy:858
+translate ukrainian sato_event_1_8e17cebf:
+
+    # r "Yes!~{image=corazon}"
+    r "Yes!~{image=corazon}"
+
+# game/game/map_GW.rpy:859
+translate ukrainian sato_event_1_3864a381:
+
+    # ao "..."
+    ao "..."
+
+# game/game/map_GW.rpy:862
+translate ukrainian sato_event_1_d5dddb96:
+
+    # al "Looks like we have a lot to talk about young man."
+    al "Looks like we have a lot to talk about young man."
+
+# game/game/map_GW.rpy:863
+translate ukrainian sato_event_1_69928598:
+
+    # al "But I know you come from far away and may want to relax for a while."
+    al "But I know you come from far away and may want to relax for a while."
+
+# game/game/map_GW.rpy:865
+translate ukrainian sato_event_1_46be11c2:
+
+    # al "You can come and talk to me whenever it's convenient for you~"
+    al "You can come and talk to me whenever it's convenient for you~"
+
+# game/game/map_GW.rpy:866
+translate ukrainian sato_event_1_e8546084:
+
+    # ao "I can show you the village if you want!"
+    ao "I can show you the village if you want!"
+
+# game/game/map_GW.rpy:867
+translate ukrainian sato_event_1_d4f3316a:
+
+    # mc "That would be great, {w}but first of all."
+    mc "That would be great, {w}but first of all."
+
+# game/game/map_GW.rpy:869
+translate ukrainian sato_event_1_26734fc3:
+
+    # mc "I want you to read this letter."
+    mc "I want you to read this letter."
+
+# game/game/map_GW.rpy:870
+translate ukrainian sato_event_1_71fc5e25:
+
+    # c "{size=-10}Does something big always have to happen before you achieve your goal?"
+    c "{size=-10}Does something big always have to happen before you achieve your goal?"
+
+# game/game/map_GW.rpy:871
+translate ukrainian sato_event_1_b8c7af8e:
+
+    # r "{size=-10}I hope Master doesn't hear us, {w}but I think he's very unlucky."
+    r "{size=-10}I hope Master doesn't hear us, {w}but I think he's very unlucky."
+
+# game/game/map_GW.rpy:872
+translate ukrainian sato_event_1_74684e36:
+
+    # t "I hear you loud and clear..."
+    t "I hear you loud and clear..."
+
+# game/game/map_GW.rpy:875
+translate ukrainian sato_event_1_c16e980c:
+
+    # al "Sure, {w}I'll read it right away~"
+    al "Sure, {w}I'll read it right away~"
+
+# game/game/map_GW.rpy:876
+translate ukrainian sato_event_1_adcba5ec:
+
+    # sa "{size=-8}That letter..."
+    sa "{size=-8}That letter..."
+
+# game/game/map_GW.rpy:881
+translate ukrainian sato_event_1_4e831efe:
+
+    # t "I can go for a walk to see the village or talk to Alice right away."
+    t "I can go for a walk to see the village or talk to Alice right away."
+
+# game/game/map_GW.rpy:1068
+translate ukrainian call_lake_b5f01245:
+
+    # t "I'm interested in that huge gate on the left..."
+    t "I'm interested in that huge gate on the left..."
+
+# game/game/map_GW.rpy:1273
+translate ukrainian beach_zone_ceac4071:
+
+    # t "It's a lot of work; I should start early in the morning."
+    t "It's a lot of work; I should start early in the morning."
+# TODO: Translation updated at 2026-07-04 12:20
+
+translate ukrainian strings:
+
+    # game/map_GW.rpy:1238
+    old "{size=-10}Do you want to use a monster bait?"
+    new "{size=-10}Do you want to use a monster bait?"
+
+translate ukrainian strings:
+    old "old:1783157114.0969446_26"
+    new "new:1783157114.0969446_26"
+
+    old "I'm interested in that huge gate on the left..."
+    new "I'm interested in that huge gate on the left..."
+
+    old "I can also take baths with Master."
+    new "I can also take baths with Master."
+
+    old "I said no one can leave their homes!"
+    new "I said no one can leave their homes!"
+
+    old "And you know the best part?"
+    new "And you know the best part?"
+
+    old "Everything is already well prepared, {w}as expected from Yui and Hana."
+    new "Everything is already well prepared, {w}as expected from Yui and Hana."
+
+    old "Oh, {w}you bring company."
+    new "Oh, {w}you bring company."
+
+    old "Do you think I would forget something so important?"
+    new "Do you think I would forget something so important?"
+
+    old "And bring your katana, don't forget it."
+    new "And bring your katana, don't forget it."
+
+    old "Hahaha {w}Okay, let's get to what we came for, Yui."
+    new "Hahaha {w}Okay, let's get to what we came for, Yui."
+
+    old "She seems to have noticed us."
+    new "She seems to have noticed us."
+
+    old "{size=-7}Don't move."
+    new "{size=-7}Don't move."
+
+    old "Oh, that's the first time she speaks to me without insulting me."
+    new "Oh, that's the first time she speaks to me without insulting me."
+
+    old "You look quite happy."
+    new "You look quite happy."
+
+    old "Rest for a while, I don't want you to spend all day working."
+    new "Rest for a while, I don't want you to spend all day working."
+
+    old "If you feel you can't, I will speak for you~"
+    new "If you feel you can't, I will speak for you~"
+
+    old "She must be the high priestess."
+    new "She must be the high priestess."
+
+    old "Do you think I can sleep like this?"
+    new "Do you think I can sleep like this?"
+
+    old "Maybe someday I can help out at the guard posts..."
+    new "Maybe someday I can help out at the guard posts..."
+
+    old "{size=+7}I-Is everyone well?"
+    new "{size=+7}I-Is everyone well?"
+
+    old "You don't have any monster bait!"
+    new "You don't have any monster bait!"
+
+    old "Wait! {w}Don't do anything to her."
+    new "Wait! {w}Don't do anything to her."
+
+    old "If it weren't for her, no one would've learned to fight."
+    new "If it weren't for her, no one would've learned to fight."
+
+    old "When I told Yui you offered to come, she was super happy."
+    new "When I told Yui you offered to come, she was super happy."
+
+    old "I just said that with someone so strong we would make it!"
+    new "I just said that with someone so strong we would make it!"
+
+    old "Gulp* {w}S-She definitely looks like a goddess!"
+    new "Gulp* {w}S-She definitely looks like a goddess!"
+
+    old "Don't look like you were distracted by a bird."
+    new "Don't look like you were distracted by a bird."
+
+    old "It's a lot of work; I should start early in the morning."
+    new "It's a lot of work; I should start early in the morning."
+
+    old "Stop judging me!"
+    new "Stop judging me!"
+
+    old "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
+    new "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
+
+    old "Ok, I'll be there."
+    new "Ok, I'll be there."
+
+    old "{size=-10}Do you want me to take care of it?"
+    new "{size=-10}Do you want me to take care of it?"
+
+    old "This girl has... {w}scales?"
+    new "This girl has... {w}scales?"
+
+    old "Hey, sorry to bother you."
+    new "Hey, sorry to bother you."
+
+    old "I thought Sayori would be someone wilder, but the respect she shows for the priestess is genuine."
+    new "I thought Sayori would be someone wilder, but the respect she shows for the priestess is genuine."
+
+    old "You have to pass some tests, but we'll talk about that once we've taken the first step."
+    new "You have to pass some tests, but we'll talk about that once we've taken the first step."
+
+    old "She's well respected here in the village."
+    new "She's well respected here in the village."
+
+    old "Aoi right?"
+    new "Aoi right?"
+
+    old "These days I've been helping the girls as much as I can."
+    new "These days I've been helping the girls as much as I can."
+
+    old "You've to be prepared at all times for any eventuality."
+    new "You've to be prepared at all times for any eventuality."
+
+    old "Stay close to me or the other at all times."
+    new "Stay close to me or the other at all times."
+
+    old "I'll no longer let you go alone to faraway places."
+    new "I'll no longer let you go alone to faraway places."
+
+    old "A-Are they both unconscious?"
+    new "A-Are they both unconscious?"
+
+    old "I hope the plan is clear to all of you."
+    new "I hope the plan is clear to all of you."
+
+    old "Your moves are always amazing."
+    new "Your moves are always amazing."
+
+    old "Hey! How are you doing?"
+    new "Hey! How are you doing?"
+
+    old "To the northwest lies a neighboring village."
+    new "To the northwest lies a neighboring village."
+
+    old "I just saw that they left."
+    new "I just saw that they left."
+
+    old "As you know, we're a small town."
+    new "As you know, we're a small town."
+
+    old "Oh, {w}thanks."
+    new "Oh, {w}thanks."
+
+    old "Is it just me or is she looking at Ryoko...?"
+    new "Is it just me or is she looking at Ryoko...?"
+
+    old "Are you okay, Miss Alice?"
+    new "Are you okay, Miss Alice?"
+
+    old "Everything is fine now."
+    new "Everything is fine now."
+
+    old "Released?!"
+    new "Released?!"
+
+    old "Why do you want to go?"
+    new "Why do you want to go?"
+
+    old "Akane will also come."
+    new "Akane will also come."
+
+    old "I know, but I still want to do it..."
+    new "I know, but I still want to do it..."
+
+    old "I'll go to sleep and come back in the morning."
+    new "I'll go to sleep and come back in the morning."
+
+    old "And you were planning to go with nothing to eat on the trip?"
+    new "And you were planning to go with nothing to eat on the trip?"
+
+    old "We should also do the same."
+    new "We should also do the same."
+
+    old "H-How can I start a conversation with someone who looks at me like that...?"
+    new "H-How can I start a conversation with someone who looks at me like that...?"
+
+    old "She has an air that only goddesses have..."
+    new "She has an air that only goddesses have..."
+
+    old "{size=-10}{i}Ryoko, everything will be fine."
+    new "{size=-10}{i}Ryoko, everything will be fine."
+
+    old "If the idea is to build a wall in a short period of time, there must be several people coming."
+    new "If the idea is to build a wall in a short period of time, there must be several people coming."
+
+    old "The road continues over there."
+    new "The road continues over there."
+
+    old "Thanks again for saving me and my Master!"
+    new "Thanks again for saving me and my Master!"
+
+    old "Charlotte, {w}let her go, {w}there was just a misunderstanding."
+    new "Charlotte, {w}let her go, {w}there was just a misunderstanding."
+
+    old "Since I met you{w}, I've never felt lonely again..."
+    new "Since I met you{w}, I've never felt lonely again..."
+
+    old "{size=+15}Oh [mc]! {w}You're just in time!"
+    new "{size=+15}Oh [mc]! {w}You're just in time!"
+
+    old "I think... {w}I have an idea."
+    new "I think... {w}I have an idea."
+
+    old "Great wolves are territorial, so I doubt that none will show up."
+    new "Great wolves are territorial, so I doubt that none will show up."
+
+    old "{size=-10}You won't explain anything?"
+    new "{size=-10}You won't explain anything?"
+
+    old "Hello Ryoko! {w}You look totally different from the first time I met you!"
+    new "Hello Ryoko! {w}You look totally different from the first time I met you!"
+
+    old "I can't wait to see you fight!"
+    new "I can't wait to see you fight!"
+
+    old "-1 Monster bait"
+    new "-1 Monster bait"
+
+    old "Will he come with us?"
+    new "Will he come with us?"
+
+    old "No, that's bad luck."
+    new "No, that's bad luck."
+
+    old "Well... he let me have a fight with him..."
+    new "Well... he let me have a fight with him..."
+
+    old "Sayori, take care of all."
+    new "Sayori, take care of all."
+
+    old "Now you've become their enemy."
+    new "Now you've become their enemy."
+
+    old "Yes!~ {w}Master!~{image=corazon}"
+    new "Yes!~ {w}Master!~{image=corazon}"
+
+    old "I remember I told you that I'd be gone for a few days."
+    new "I remember I told you that I'd be gone for a few days."
+
+    old "Will you stay home today Master?"
+    new "Will you stay home today Master?"
+
+    old "{size=-10}Master has a lewd face..."
+    new "{size=-10}Master has a lewd face..."
+
+    old "Compared to how I used to live before..."
+    new "Compared to how I used to live before..."
+
+    old "Looks like we have visitors."
+    new "Looks like we have visitors."
+
+    old "Can I go with you?"
+    new "Can I go with you?"
+
+    old "I can eat every day with you."
+    new "I can eat every day with you."
+
+    old "Don't worry... {w}it's not your obligation to protect me all the time."
+    new "Don't worry... {w}it's not your obligation to protect me all the time."
+
+    old "I've trained a lot of people, but most of them are just villagers."
+    new "I've trained a lot of people, but most of them are just villagers."
+
+    old "Can I make you some tea?"
+    new "Can I make you some tea?"
+
+    old "Woah they really secured this place well."
+    new "Woah they really secured this place well."
+
+    old "Woah, {w}I've never seen Yui like that before."
+    new "Woah, {w}I've never seen Yui like that before."
+
+    old "Now that you mention it, it makes a lot of sense."
+    new "Now that you mention it, it makes a lot of sense."
+
+    old "W-Well, we'd better get going, I'll go and tell the girls."
+    new "W-Well, we'd better get going, I'll go and tell the girls."
+
+    old "And he beat me so..."
+    new "And he beat me so..."
+
+    old "Did you say something Ryoko?"
+    new "Did you say something Ryoko?"
+
+    old "Master look! {w}There are a lot of people."
+    new "Master look! {w}There are a lot of people."
+
+    old "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
+    new "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
+
+    old "Why do I need to go there?"
+    new "Why do I need to go there?"
+
+    old "You looked like you were having a nightmare."
+    new "You looked like you were having a nightmare."
+
+    old "She looks very angry..."
+    new "She looks very angry..."
+
+    old "Maybe we can open a safe way to another village!"
+    new "Maybe we can open a safe way to another village!"
+
+    old "And I can see the color of her nipples...."
+    new "And I can see the color of her nipples...."
+
+    old "If we make the roads safe to travel on, we can revive commerce and maybe open a few stores!"
+    new "If we make the roads safe to travel on, we can revive commerce and maybe open a few stores!"
+
+    old "{size=-7}Hmm... {w}she doesn't seem to have any intention of attacking us."
+    new "{size=-7}Hmm... {w}she doesn't seem to have any intention of attacking us."
+
+    old "I only see one person from here."
+    new "I only see one person from here."
+
+    old "It's a nice day, isn't it?"
+    new "It's a nice day, isn't it?"
+
+    old "What's wrong, why so agitated?"
+    new "What's wrong, why so agitated?"
+
+    old "I said {w}don't move."
+    new "I said {w}don't move."
+
+    old "{size=-7}{i}They can barely walk..."
+    new "{size=-7}{i}They can barely walk..."
+
+    old "{size=-10}Thank you..."
+    new "{size=-10}Thank you..."
+
+    old "So...{w} what are you two doing here?"
+    new "So...{w} what are you two doing here?"
+
+    old "That would be great, thanks Ryoko."
+    new "That would be great, thanks Ryoko."
+
+    old "I can show you the village if you want!"
+    new "I can show you the village if you want!"
+
+    old "I don't want to imagine how you trained them."
+    new "I don't want to imagine how you trained them."
+
+    old "{size=-10}A-And because you're coming too."
+    new "{size=-10}A-And because you're coming too."
+
+    old "I should spend more time with the girls before thinking about going back out into the Howling Forest."
+    new "I should spend more time with the girls before thinking about going back out into the Howling Forest."
+
+    old "Now if you let me start again-"
+    new "Now if you let me start again-"
+
+    old "{size=-10}Does something big always have to happen before you achieve your goal?"
+    new "{size=-10}Does something big always have to happen before you achieve your goal?"
+
+    old "You and the girls head to the other village."
+    new "You and the girls head to the other village."
+
+    old "I'm also glad to see you again Akane."
+    new "I'm also glad to see you again Akane."
+
+    old "Someone is coming in a hurry."
+    new "Someone is coming in a hurry."
+
+    old "Did you drop something?"
+    new "Did you drop something?"
+
+    old "Were you listening?"
+    new "Were you listening?"
+
+    old "Good thing she wants me to go."
+    new "Good thing she wants me to go."
+
+    old "By the way, Ryoko will also come."
+    new "By the way, Ryoko will also come."
+
+    old "Or they bring me, I don't know what's going on."
+    new "Or they bring me, I don't know what's going on."
+
+    old "W-We can't disobey orders!"
+    new "W-We can't disobey orders!"
+
+    old "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
+    new "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
+
+    old "Thank you Yui, {w}I'm glad you trust me, {w}I like you too."
+    new "Thank you Yui, {w}I'm glad you trust me, {w}I like you too."
+
+    old "I'll bring more tea!"
+    new "I'll bring more tea!"
+
+    old "Now that I see her more closely..."
+    new "Now that I see her more closely..."
+
+    old "We make a good team hahaha."
+    new "We make a good team hahaha."
+
+    old "You two take care of her."
+    new "You two take care of her."
+
+    old "Yes? In what way?"
+    new "Yes? In what way?"
+
+    old "Being an official adventurer would take a lot of trouble away from me."
+    new "Being an official adventurer would take a lot of trouble away from me."
+
+    old "{size=-10}Just a little."
+    new "{size=-10}Just a little."
+
+    old "Wow, really?"
+    new "Wow, really?"
+
+    old "I didn't say that!"
+    new "I didn't say that!"
+
+    old "Gentlemen, {w}why don't you lay down your weapons?"
+    new "Gentlemen, {w}why don't you lay down your weapons?"
+
+    old "Can we help in any way?"
+    new "Can we help in any way?"
+
+    old "She's examining me?"
+    new "She's examining me?"
+
+    old "Nor would I want to be allied with people who attack one person in a group."
+    new "Nor would I want to be allied with people who attack one person in a group."
+
+    old "I've never seen him before!"
+    new "I've never seen him before!"
+
+    old "Yui! {w}I haven't seen you for days!"
+    new "Yui! {w}I haven't seen you for days!"
+
+    old "I feel like Akane hasn't taken her eyes off me the whole time...."
+    new "I feel like Akane hasn't taken her eyes off me the whole time...."
+
+    old "They're surrounded by mountains, and the monsters don't approach thanks to the power of a high priestess."
+    new "They're surrounded by mountains, and the monsters don't approach thanks to the power of a high priestess."
+
+    old "Wait, {w}does she know I'm coming?"
+    new "Wait, {w}does she know I'm coming?"
+
+    old "How can you tell from this distance?"
+    new "How can you tell from this distance?"
+
+    old "{size=-10}{i}Thanks to that strange rumble they're distracted, you just have to run and not look back."
+    new "{size=-10}{i}Thanks to that strange rumble they're distracted, you just have to run and not look back."
+
+    old "Maybe it was a good idea to bring them with me."
+    new "Maybe it was a good idea to bring them with me."
+
+    old "If we achieve this, we'll have greater access to the forest and its surroundings!"
+    new "If we achieve this, we'll have greater access to the forest and its surroundings!"
+
+    old "Wouldn't it be better if we didn't have to fight?"
+    new "Wouldn't it be better if we didn't have to fight?"
+
+    old "{size=-10}I hope Master doesn't hear us, {w}but I think he's very unlucky."
+    new "{size=-10}I hope Master doesn't hear us, {w}but I think he's very unlucky."
+
+    old "I want to...{w}help too.."
+    new "I want to...{w}help too.."
+
+    old "It was probably Yui's idea."
+    new "It was probably Yui's idea."
+
+    old "E-Even if it was just a little bit... {w}I think I was able to control my strength..."
+    new "E-Even if it was just a little bit... {w}I think I was able to control my strength..."
+
+    old "plantred2"
+    new "plantred2"
+
+    old "And if she wanted to hurt us, she would've done something by now."
+    new "And if she wanted to hurt us, she would've done something by now."
+
+    old "What do you think you're doing?"
+    new "What do you think you're doing?"
+
+    old "Wow, I didn't know she could fight."
+    new "Wow, I didn't know she could fight."
+
+    old "I want you to read this letter."
+    new "I want you to read this letter."
+
+    old "We are close."
+    new "We are close."
+
+    old "Mooh~{w} Master, I already told you I'm fine."
+    new "Mooh~{w} Master, I already told you I'm fine."
+
+    old "{image=quest_text}A new mission has been added!"
+    new "{image=quest_text}A new mission has been added!"
+
+    old "Why don't you two take a seat?"
+    new "Why don't you two take a seat?"
+
+    old "You're right... {w}do you feel lonely?"
+    new "You're right... {w}do you feel lonely?"
+
+    old "Everyone is good to me."
+    new "Everyone is good to me."
+
+    old "{size=-7}{i}W-What the hell was that exaggeratedly strong blow?"
+    new "{size=-7}{i}W-What the hell was that exaggeratedly strong blow?"
+
+    old "You must already know why we came here."
+    new "You must already know why we came here."
+
+    old "Young man, {w}may I know your name?"
+    new "Young man, {w}may I know your name?"
+
+    old "Do you want to keep fighting or do you want to join your comrades on the ground?"
+    new "Do you want to keep fighting or do you want to join your comrades on the ground?"
+
+    old "Good reaction, Human."
+    new "Good reaction, Human."
+
+    old "I'll protect her no matter what happens."
+    new "I'll protect her no matter what happens."
+
+    old "They even set up guard posts."
+    new "They even set up guard posts."
+
+    old "I promise, I'll never leave your side."
+    new "I promise, I'll never leave your side."
+
+    old "We just have to take care of defending the girls who'll prepare the defenses and bring the materials."
+    new "We just have to take care of defending the girls who'll prepare the defenses and bring the materials."
+
+    old "Okay Master."
+    new "Okay Master."
+
+    old "Now that there's no S-Rank Boss, the plan has become much easier."
+    new "Now that there's no S-Rank Boss, the plan has become much easier."
+
+    old "And Ryoko also acted immediately."
+    new "And Ryoko also acted immediately."
+
+    old "The door opens."
+    new "The door opens."
+
+    old "I'll try to get there as soon as possible."
+    new "I'll try to get there as soon as possible."
+
+    old "Do they see me as a kid now?!"
+    new "Do they see me as a kid now?!"
+
+    old "I have a letter."
+    new "I have a letter."
+
+    old "We don't want to hurt you, {w}just come with us."
+    new "We don't want to hurt you, {w}just come with us."
+
+    old "I just want to make sure."
+    new "I just want to make sure."
+
+    old "Just have a normal conversation, and hand her the letter."
+    new "Just have a normal conversation, and hand her the letter."
+
+    old "We leave in 5 minutes!{w} Understood!?"
+    new "We leave in 5 minutes!{w} Understood!?"
+
+    old "Watching you kick that guy reminded me of when I first met you."
+    new "Watching you kick that guy reminded me of when I first met you."
+
+    old "I was told that you were found \"meditating\" in the middle of those strange stones for several hours."
+    new "I was told that you were found \"meditating\" in the middle of those strange stones for several hours."
+
+    old "See you tomorrow morning."
+    new "See you tomorrow morning."
+
+    old "I still don't understand if she's still angry..."
+    new "I still don't understand if she's still angry..."
+
+    old "{size=-10}Stop looking at her and say something!"
+    new "{size=-10}Stop looking at her and say something!"
+
+    old "It's a long story..."
+    new "It's a long story..."
+
+    old "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
+    new "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
+
+    old "Her gaze is stronger than her words..."
+    new "Her gaze is stronger than her words..."
+
+    old "Here is the tea!"
+    new "Here is the tea!"
+
+    old "I'd be lying if I said I wasn't a little nervous."
+    new "I'd be lying if I said I wasn't a little nervous."
+
+    old "Adventurer's Lounge?"
+    new "Adventurer's Lounge?"
+
+    old "plantblue2"
+    new "plantblue2"
+
+    old "I thought you were a weirdo but now my opinion has changed."
+    new "I thought you were a weirdo but now my opinion has changed."
+
+    old "{size=-8}That letter..."
+    new "{size=-8}That letter..."
+
+    old "I think I still have some business to attend in the village."
+    new "I think I still have some business to attend in the village."
+
+    old "I haven't left the village with Master since we met."
+    new "I haven't left the village with Master since we met."
+
+    old "We'd better get some sleep, I don't want you to be tired for tomorrow..."
+    new "We'd better get some sleep, I don't want you to be tired for tomorrow..."
+
+    old "C-Charlotte moved super fast..."
+    new "C-Charlotte moved super fast..."
+
+    old "{size=+5}Touch a single hair and you're all dead!"
+    new "{size=+5}Touch a single hair and you're all dead!"
+
+    old "It seems that Ryoko really wants to go."
+    new "It seems that Ryoko really wants to go."
+
+    old "{size=-10}See you tomorrow..."
+    new "{size=-10}See you tomorrow..."
+
+    old "I'm completely ready."
+    new "I'm completely ready."
+
+    old "Then explain to me how we'll do it."
+    new "Then explain to me how we'll do it."
+
+    old "Now you're distracted by butterflies!?"
+    new "Now you're distracted by butterflies!?"
+
+    old "I should stay home and get some rest."
+    new "I should stay home and get some rest."
+
+    old "Don't you want to resume your old lives...?"
+    new "Don't you want to resume your old lives...?"
+
+    old "You know I can't get out of here."
+    new "You know I can't get out of here."
+
+    old "I don't want anyone to get hurt! If everyone does their part, nothing will go wrong."
+    new "I don't want anyone to get hurt! If everyone does their part, nothing will go wrong."
+
+    old "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
+    new "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
+
+    old "Sure, {w}I'll read it right away~"
+    new "Sure, {w}I'll read it right away~"
+
+    old "It's the priestess!"
+    new "It's the priestess!"
+
+    old "Why did you help us?"
+    new "Why did you help us?"
+
+    old "{i}Knock* Knock*"
+    new "{i}Knock* Knock*"
+
+    old "{size=-10}Oh! It's him again!"
+    new "{size=-10}Oh! It's him again!"
+
+    old "And that goes for all of you too, I won't let anything bad happen to anyone."
+    new "And that goes for all of you too, I won't let anything bad happen to anyone."
+
+    old "W-We have the order to use force."
+    new "W-We have the order to use force."
+
+    old "This is the first time Ryoko has asked me for something."
+    new "This is the first time Ryoko has asked me for something."
+
+    old "And we'd better let you rest."
+    new "And we'd better let you rest."
+
+    old "Gentlemen... {w}you know that if you take me out of here, {w}all the people in this village will die."
+    new "Gentlemen... {w}you know that if you take me out of here, {w}all the people in this village will die."
+
+    old "Her attitude changed completely."
+    new "Her attitude changed completely."
+
+    old "I can't just go there."
+    new "I can't just go there."
+
+    old "There's no longer any way out."
+    new "There's no longer any way out."
+
+    old "I'm more than ready."
+    new "I'm more than ready."
+
+    old "This place is definitely well secured."
+    new "This place is definitely well secured."
+
+    old "A pleasure~ {w}I'm Alice, {w}the priestess who protects this town."
+    new "A pleasure~ {w}I'm Alice, {w}the priestess who protects this town."
+
+    old "Do you have everything ready for the expedition?"
+    new "Do you have everything ready for the expedition?"
+
+    old "But you know it can be dangerous."
+    new "But you know it can be dangerous."
+
+    old "Who told you that?"
+    new "Who told you that?"
+
+    old "Tomorrow..."
+    new "Tomorrow..."
+
+    old "In perfect condition, {w}you arrived just in time~"
+    new "In perfect condition, {w}you arrived just in time~"
+
+    old "We'd better go with them."
+    new "We'd better go with them."
+
+    old "Are you sure you want to come?"
+    new "Are you sure you want to come?"
+
+    old "Hahaha Yui has always been in charge of training the girls since this whole thing started."
+    new "Hahaha Yui has always been in charge of training the girls since this whole thing started."
+
+    old "I'm sure you didn't even think about resting a little."
+    new "I'm sure you didn't even think about resting a little."
+
+    old "She insisted that she wants to help."
+    new "She insisted that she wants to help."
+
+    old "She's in trouble!"
+    new "She's in trouble!"
+
+    old "No one is anyone's slave."
+    new "No one is anyone's slave."
+
+    old "But I know you come from far away and may want to relax for a while."
+    new "But I know you come from far away and may want to relax for a while."
+
+    old "I hope everythin-"
+    new "I hope everythin-"
+
+    old "Hey, {w}Ryoko..."
+    new "Hey, {w}Ryoko..."
+
+    old "Hello doctor!"
+    new "Hello doctor!"
+
+    old "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
+    new "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
+
+    old "Hana gave me a letter to avoid any problems..."
+    new "Hana gave me a letter to avoid any problems..."
+
+    old "That would be great, {w}but first of all."
+    new "That would be great, {w}but first of all."
+
+    old "It's been days since you've stayed at home."
+    new "It's been days since you've stayed at home."
+
+    old "Strange, why didn't I think there would be more villages like this one?"
+    new "Strange, why didn't I think there would be more villages like this one?"
+
+    old "Don't you think she'll be angry if she sees me? {w}You know..."
+    new "Don't you think she'll be angry if she sees me? {w}You know..."
+
+    old "plantblue1"
+    new "plantblue1"
+
+    old "You can come and talk to me whenever it's convenient for you~"
+    new "You can come and talk to me whenever it's convenient for you~"
+
+    old "It will all go fine tomorrow."
+    new "It will all go fine tomorrow."
+
+    old "There's only one thing I didn't expect..."
+    new "There's only one thing I didn't expect..."
+
+    old "The next morning."
+    new "The next morning."
+
+    old "I'll show them how well I do this."
+    new "I'll show them how well I do this."
+
+    old "But I admit that you guys look strong."
+    new "But I admit that you guys look strong."
+
+    old "Don't worry, everything is fine..."
+    new "Don't worry, everything is fine..."
+
+    old "The idea is that we form a wall along the safest roads, so that we can walk around without fear of encountering a beast."
+    new "The idea is that we form a wall along the safest roads, so that we can walk around without fear of encountering a beast."
+
+    old "And her tail is quite peculiar..."
+    new "And her tail is quite peculiar..."
+
+    old "Why do you protect that scum."
+    new "Why do you protect that scum."
+
+    old "Hey, don't worry, your master already thanked me."
+    new "Hey, don't worry, your master already thanked me."
+
+    old "{size=-7}{i}That guy is stronger than he looks..."
+    new "{size=-7}{i}That guy is stronger than he looks..."
+
+    old "I've never been happier~"
+    new "I've never been happier~"
+
+    old "You spend the rest of the day with Ryoko."
+    new "You spend the rest of the day with Ryoko."
+
+    old "I don't want anything to happen to her.... but she seems insistent, which is rare..."
+    new "I don't want anything to happen to her.... but she seems insistent, which is rare..."
+
+    old "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
+    new "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
+
+    old "Who are those guys...?"
+    new "Who are those guys...?"
+
+    old "But I remember there were many more people."
+    new "But I remember there were many more people."
+
+    old "Whatever happened to you, I won't let you go through anything like that again."
+    new "Whatever happened to you, I won't let you go through anything like that again."
+
+    old "{size=-10}{i}Just {w}don't {w}look back."
+    new "{size=-10}{i}Just {w}don't {w}look back."
+
+    old "Not even the high priestess can break the chains of slavery."
+    new "Not even the high priestess can break the chains of slavery."
+
+    old "If we kill him between the two of us, the demon girl's chains will be released."
+    new "If we kill him between the two of us, the demon girl's chains will be released."
+
+    old "You can't sleep?"
+    new "You can't sleep?"
+
+    old "She looks kind of sad."
+    new "She looks kind of sad."
+
+    old "plantblue3"
+    new "plantblue3"
+
+    old "For a slaver, {w}they protect you very well."
+    new "For a slaver, {w}they protect you very well."
+
+    old "Sorry for my selfish request!"
+    new "Sorry for my selfish request!"
+
+    old "You don't have to do this, {w}we could find a way to break those chains."
+    new "You don't have to do this, {w}we could find a way to break those chains."
+
+    old "Don't resist."
+    new "Don't resist."
+
+    old "If you don't come with us, {w}we will take more people!"
+    new "If you don't come with us, {w}we will take more people!"
+
+    old "Let me talk to her."
+    new "Let me talk to her."
+
+    old "Do they think I look for trouble everywhere I go?"
+    new "Do they think I look for trouble everywhere I go?"
+
+    old "Is Hana also coming?"
+    new "Is Hana also coming?"
+
+    old "Let's not interrupt them, they seem to be talking about something important."
+    new "Let's not interrupt them, they seem to be talking about something important."
+
+    old "Ha!{w} As if I'd need your help!"
+    new "Ha!{w} As if I'd need your help!"
+
+    old "They both seem to know the way."
+    new "They both seem to know the way."
+
+    old "Master!{w} Charlotte!"
+    new "Master!{w} Charlotte!"
+
+    old "M-My name is [mc]."
+    new "M-My name is [mc]."
+
+    old "Don't get close! {w}Don't put yourself in danger."
+    new "Don't get close! {w}Don't put yourself in danger."
+
+    old "Did anyone else arrive?"
+    new "Did anyone else arrive?"
+
+    old "Don't let her make you doubt!"
+    new "Don't let her make you doubt!"
+
+    old "All right, {w}don't talk too much and give her the letter."
+    new "All right, {w}don't talk too much and give her the letter."
+
+    old "Never leave my side, got it?"
+    new "Never leave my side, got it?"
+
+    old "Well, I'm counting on you too Ryoko."
+    new "Well, I'm counting on you too Ryoko."
+
+    old "I can go for a walk to see the village or talk to Alice right away."
+    new "I can go for a walk to see the village or talk to Alice right away."
+
+    old "Of course, I have to go in case someone gets hurt."
+    new "Of course, I have to go in case someone gets hurt."
+
+    old "Who could it be?"
+    new "Who could it be?"
+
+    old "Come in! {w}It's open."
+    new "Come in! {w}It's open."
+
+    old "I hear you loud and clear..."
+    new "I hear you loud and clear..."
+
+    old "Well... {w}if the doctor says so..."
+    new "Well... {w}if the doctor says so..."
+
+    old "After lunch, we continued on our way."
+    new "After lunch, we continued on our way."
+
+    old "Are you sure? {w}You shouldn't trust anyone."
+    new "Are you sure? {w}You shouldn't trust anyone."
+
+    old "Looks like they're all here."
+    new "Looks like they're all here."
+
+    old "Perfect, we just have to protect them at all times."
+    new "Perfect, we just have to protect them at all times."
+
+    old "Is something wrong-"
+    new "Is something wrong-"
+
+    old "Miss Alice, {w}are you all right?"
+    new "Miss Alice, {w}are you all right?"
+
+    old "I promise I won't do anything rash."
+    new "I promise I won't do anything rash."
+
+    old "I can see it!"
+    new "I can see it!"
+
+    old "W-Who are you...?"
+    new "W-Who are you...?"
+
+    old "Looks like we have a lot to talk about young man."
+    new "Looks like we have a lot to talk about young man."
+
+    old "Speak up, Aoi! {w}What's wrong with her?"
+    new "Speak up, Aoi! {w}What's wrong with her?"
+
+    old "Is it that easy to get into this town?"
+    new "Is it that easy to get into this town?"
+
