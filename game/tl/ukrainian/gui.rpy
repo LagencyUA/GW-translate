@@ -18,6 +18,10 @@ init python early hide:
                     fn = "fonts/ukr/Monomakh-Regular.ttf"
                 elif fn == "fonts/Ebrima.ttf":
                     fn = "fonts/ukr/Arial.ttf"
+                elif fn == "fonts/Bohemian Soul.otf":
+                    fn = "fonts/ukr/Lobster-Regular.ttf"
+                elif fn == "fonts/Mandaly.ttf":
+                    fn = "fonts/ukr/Caveat-Bold.ttf"
                     
             return old_load_face(fn, *args)
             

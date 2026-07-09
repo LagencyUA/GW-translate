@@ -28962,8 +28962,7 @@ translate ukrainian strings:
 
     ## тут промпт із введенням ім'я гравця, файл menus.rpy:99
 
-    old "{i}{size=-6}Why wouldn't I? {w}My name is... [mc]."
-    new "{i}{size=-6}Чого б це ні? {w}Мене звати... [mc]."
+    # script.rpy:6
 
     old "{outlinecolor=#000000}That's right, [mc]. That's who you are."
     new "{outlinecolor=#000000}Саме так, [mc]. Це той, ким ти є."
@@ -28972,7 +28971,7 @@ translate ukrainian strings:
     new "{outlinecolor=#000000}Розумію твою розгубленність, але незабаром ти все згадаєш."
 
     old "{outlinecolor=#000000}It will, for all of us."
-    new "{outlinecolor=#000000}Ми всі згадаємо, зожен з нас."
+    new "{outlinecolor=#000000}Ми всі згадаємо, кожен з нас."
 
     old "{outlinecolor=#000000}Hmm... it seems like she's trying to wake you."
     new "{outlinecolor=#000000}Гмм... здається, вона намагається розбудити тебе."

@@ -68,9 +68,6 @@ translate ukrainian strings:
     old "An {color=#FF438D}H-Event{/color} has been unlocked in your gallery!"
     new "An {color=#FF438D}H-Event{/color} has been unlocked in your gallery!"
 
-    old "Choose your language / Elije tu idioma"
-    new "Choose your language / Elije tu idioma"
-
     old "{size=-6}Afternoon"
     new "{size=-6}Afternoon"
 
