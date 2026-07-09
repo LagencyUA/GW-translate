@@ -363,3 +363,6 @@ translate ukrainian strings:
 
     old "{size=-6}No"
     new "{size=-6}Ні"
+
+    old "Devlog!"
+    new "Девлог!"
