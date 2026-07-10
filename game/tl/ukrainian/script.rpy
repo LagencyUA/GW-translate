@@ -927,25 +927,25 @@ translate ukrainian choice1_6a253736:
 translate ukrainian choice1_06275d9e:
 
     # t "Ah she was a goddess, not an angel."
-    t "Ah she was a goddess, not an angel."
+    t "Ах, то вона Богиня, а не янгол."
 
 # game/game/script.rpy:406
 translate ukrainian choice1_22a8485d:
 
     # t "Not that I would know anyway, I've never seen one before."
-    t "Not that I would know anyway, I've never seen one before."
+    t "Не те щоб я у принципі знав, ніколи не бачив таких у своєму житті."
 
 # game/game/script.rpy:407
 translate ukrainian choice1_a8947712:
 
     # t "But... {w}that would explain her immense..."
-    t "But... {w}that would explain her immense..."
+    t "Однак... {w}це б пояснило її величезні..."
 
 # game/game/script.rpy:409
 translate ukrainian choice1_018c4475:
 
     # mc "Beauty..."
-    mc "Beauty..."
+    mc "Красу..."
 
 # game/game/script.rpy:410
 translate ukrainian choice1_a20cefa7:
@@ -969,73 +969,73 @@ translate ukrainian choice1_d7edd024:
 translate ukrainian choice1_ff5f936d:
 
     # k "Is something wrong?~{image=corazon}"
-    k "Is something wrong?~{image=corazon}"
+    k "Щось не так?~{image=corazon}"
 
 # game/game/script.rpy:415
 translate ukrainian choice1_5d5b9ee6:
 
     # mc "I-I have more questions!"
-    mc "I-I have more questions!"
+    mc "У-У мене є ще питання!"
 
 # game/game/script.rpy:423
 translate ukrainian choice2_f3bbc0a2:
 
     # mc "What happened after that guy attacked me? {w}Is the girl okay?"
-    mc "What happened after that guy attacked me? {w}Is the girl okay?"
+    mc "Що трапилося після того, як той хлопець напав на мене? {w}З дівчатами все гаразд?"
 
 # game/game/script.rpy:425
 translate ukrainian choice2_0eeb8966:
 
     # k "Wait, {w}are you telling me that you kept your memories?"
-    k "Wait, {w}are you telling me that you kept your memories?"
+    k "Стривай, {w}ти кажеш, що не втратив власних спогадів?"
 
 # game/game/script.rpy:426
 translate ukrainian choice2_4b9c3375:
 
     # t "Then it's true..."
-    t "Then it's true..."
+    t "Отже, це все було насправді..."
 
 # game/game/script.rpy:427
 translate ukrainian choice2_4d5a3851:
 
     # mc "Is that a bad thing?"
-    mc "Is that a bad thing?"
+    mc "А це погано?"
 
 # game/game/script.rpy:429
 translate ukrainian choice2_1931869d:
 
     # k "No no, that's amazing! A soul who remembers his past life couldn't be more interesting!"
-    k "No no, that's amazing! A soul who remembers his past life couldn't be more interesting!"
+    k "Ні-ні, це дивовижно! Душа, яка пам’ятає своє минуле життя, — це найцікавіше, що тільки може бути!"
 
 # game/game/script.rpy:430
 translate ukrainian choice2_6cad4a2d:
 
     # mc "Soul..."
-    mc "Soul..."
+    mc "Душа..."
 
 # game/game/script.rpy:432
 translate ukrainian choice2_73522469:
 
     # k "Oh yeah...{w} you just died."
-    k "Oh yeah...{w} you just died."
+    k "А, так...{w} ти ж щойно помер."
 
 # game/game/script.rpy:433
 translate ukrainian choice2_bc056495:
 
     # k "I know you're scared, and you don't under-"
-    k "I know you're scared, and you don't under-"
+    k "Знаю, ти наляканий й не можеш зрозу-"
 
 # game/game/script.rpy:434
 translate ukrainian choice2_eaba9da2:
 
     # mc "I didn't think anyone could lose their sanity enough to do that."
-    mc "I didn't think anyone could lose their sanity enough to do that."
+    mc "Не думав, що хтось здатний на стільки зійти з розуму, аби вчинити таке."
 
 # game/game/script.rpy:435
 translate ukrainian choice2_ed4acfde:
 
     # mc "I hope that guy didn't attack anyone else."
-    mc "I hope that guy didn't attack anyone else."
+    mc "Сподіваюся той хлопець більше ні на кого не напав."
 
 # game/game/script.rpy:436
 translate ukrainian choice2_82091822:
@@ -1047,49 +1047,49 @@ translate ukrainian choice2_82091822:
 translate ukrainian choice2_f9e188b5:
 
     # k "You don't look so worried."
-    k "You don't look so worried."
+    k "По тобі не скажеш, що ти стурбований."
 
 # game/game/script.rpy:439
 translate ukrainian choice2_e85fd405:
 
     # mc "Well, it's not something that's easy to grasp."
-    mc "Well, it's not something that's easy to grasp."
+    mc "Ну, те, що відбулося, точно не так легко усвідомити."
 
 # game/game/script.rpy:440
 translate ukrainian choice2_4f7ba3ad:
 
     # mc "But what else can I do? All of this is a consequence of my actions."
-    mc "But what else can I do? All of this is a consequence of my actions."
+    mc "Але що ще я можу? Все це — наслідки моїх дій."
 
 # game/game/script.rpy:441
 translate ukrainian choice2_01738e52:
 
     # t "Besides, how else would I react? {w}I never act the way people expect me to act."
-    t "Besides, how else would I react? {w}I never act the way people expect me to act."
+    t "До того ж як ще мені реагувати? {w}Я ніколи не дію так, як від мене очікують цього інші."
 
 # game/game/script.rpy:442
 translate ukrainian choice2_48ce4bcf:
 
     # t "When my mother died, I didn't shed a single tear."
-    t "When my mother died, I didn't shed a single tear."
+    t "Коли моя мама померла, я навіть єдиної слози не пролив."
 
 # game/game/script.rpy:443
 translate ukrainian choice2_f10f47c8:
 
     # t "All the people at the funeral thought maybe I was crazy."
-    t "All the people at the funeral thought maybe I was crazy."
+    t "Кожен, хто був на похороні, гадав, що я певно збоживолів."
 
 # game/game/script.rpy:444
 translate ukrainian choice2_67b67c20:
 
     # t "But at that time... {w}I still didn't believe it was true..."
-    t "But at that time... {w}I still didn't believe it was true..."
+    t "Але тоді... {w}Я досі ні як не можу повірити у це..."
 
 # game/game/script.rpy:446
 translate ukrainian choice2_b2ebca0f:
 
     # k "Hmm... you're quite interesting~{image=corazon}"
-    k "Hmm... you're quite interesting~{image=corazon}"
+    k "Гмм... ти досить цікавий~{image=corazon}"
 
 # game/game/script.rpy:453
 translate ukrainian choice3_d341971e:
@@ -28884,15 +28884,15 @@ translate ukrainian strings:
 
     # game/script.rpy:387
     old "How did I end up here?"
-    new "How did I end up here?"
+    new "Як я тут опинився?"
 
     # game/script.rpy:387
     old "What is this place?"
-    new "What is this place?"
+    new "Що це за місце?"
 
     # game/script.rpy:387
     old "I don't have any more questions"
-    new "I don't have any more questions"
+    new "У мене більше немає питаннь"
 
     # game/script.rpy:854
     old "Check the stones"
@@ -29103,9 +29103,29 @@ translate ukrainian strings:
     # ...
     # script.rpy:912
 
-    # script.rpy:28882
+    # script.rpy:28882 - Перший вибір (з'являється лише сам спочатку)
 
     # script.rpy:918
+    # ...
+    # script.rpy:978
+
+    ## РІЗНІ ВИБОРИ (Після першого)
+    # script.rpy:28887 - Другий вибір
+
+    # script.rpy:984
+    # ...
+    # script.rpy:1092
+
+    # script.rpy:28891 - Третій вибір
+
+    # script.rpy:1098
+    # ...
+    # script.rpy:1182
+
+    # script.rpy:28895 - Фінальний вибір
+
+
+
 
 ### NOT SORTED
     old "{i}The voice disappears."
@@ -29746,9 +29766,6 @@ translate ukrainian strings:
 
     old "But to think that everything that just happened was out of the sheer boredom of that goddess."
     new "But to think that everything that just happened was out of the sheer boredom of that goddess."
-
-    old "Is that a bad thing?"
-    new "Is that a bad thing?"
 
     old "Well, I'll change my plans."
     new "Well, I'll change my plans."
@@ -31097,9 +31114,6 @@ translate ukrainian strings:
     old "[mc], {w}I'm glad you're here, the gates disappeared without us noticing."
     new "[mc], {w}I'm glad you're here, the gates disappeared without us noticing."
 
-    old "I hope that guy didn't attack anyone else."
-    new "I hope that guy didn't attack anyone else."
-
     old "I prepared a map of the village."
     new "I prepared a map of the village."
 
@@ -31313,9 +31327,6 @@ translate ukrainian strings:
     old "Don't play dumb, mortal-"
     new "Don't play dumb, mortal-"
 
-    old "What happened after that guy attacked me? {w}Is the girl okay?"
-    new "What happened after that guy attacked me? {w}Is the girl okay?"
-
     old "It is necessary in order to achieve everything you have in mind!"
     new "It is necessary in order to achieve everything you have in mind!"
 
@@ -31429,9 +31440,6 @@ translate ukrainian strings:
 
     old "I hear noises from Ryoko's room."
     new "I hear noises from Ryoko's room."
-
-    old "All the people at the funeral thought maybe I was crazy."
-    new "All the people at the funeral thought maybe I was crazy."
 
     old "{size=-6}Y-Your hands..."
     new "{size=-6}Y-Your hands..."
@@ -31744,9 +31752,6 @@ translate ukrainian strings:
 
     old "Thanks, girls. {w}Take care of the house while I'm gone."
     new "Thanks, girls. {w}Take care of the house while I'm gone."
-
-    old "I didn't think anyone could lose their sanity enough to do that."
-    new "I didn't think anyone could lose their sanity enough to do that."
 
     old "Since I know the way now, it didn't take me long at all."
     new "Since I know the way now, it didn't take me long at all."
@@ -33137,9 +33142,6 @@ translate ukrainian strings:
     old "So, my work here is done."
     new "So, my work here is done."
 
-    old "Wait, {w}are you telling me that you kept your memories?"
-    new "Wait, {w}are you telling me that you kept your memories?"
-
     old "One more word and I'll rat you out to the higher ranks."
     new "One more word and I'll rat you out to the higher ranks."
 
@@ -33376,9 +33378,6 @@ translate ukrainian strings:
 
     old "No wonder her voice sounded so familiar..."
     new "No wonder her voice sounded so familiar..."
-
-    old "I know you're scared, and you don't under-"
-    new "I know you're scared, and you don't under-"
 
     old "I think the time has come."
     new "I think the time has come."
@@ -33745,9 +33744,6 @@ translate ukrainian strings:
 
     old "What did I do?"
     new "What did I do?"
-
-    old "Is something wrong?~{image=corazon}"
-    new "Is something wrong?~{image=corazon}"
 
     old "It doesn't look like this place has been getting visitors lately."
     new "It doesn't look like this place has been getting visitors lately."
@@ -34601,9 +34597,6 @@ translate ukrainian strings:
     old "{size=-10}{color=#C9887C}H-Hey, stay away from that!"
     new "{size=-10}{color=#C9887C}H-Hey, stay away from that!"
 
-    old "But at that time... {w}I still didn't believe it was true..."
-    new "But at that time... {w}I still didn't believe it was true..."
-
     old "{size=-8}Make one up."
     new "{size=-8}Make one up."
 
@@ -34669,9 +34662,6 @@ translate ukrainian strings:
 
     old "How do you feel? Ready for this meeting?"
     new "How do you feel? Ready for this meeting?"
-
-    old "But... {w}that would explain her immense..."
-    new "But... {w}that would explain her immense..."
 
     old "Watch out!"
     new "Watch out!"
@@ -35336,9 +35326,6 @@ translate ukrainian strings:
     old "Don't worry. How do you feel?"
     new "Don't worry. How do you feel?"
 
-    old "No no, that's amazing! A soul who remembers his past life couldn't be more interesting!"
-    new "No no, that's amazing! A soul who remembers his past life couldn't be more interesting!"
-
     old "All my girls are busy right now..."
     new "All my girls are busy right now..."
 
@@ -35867,9 +35854,6 @@ translate ukrainian strings:
     old "This world you're going to. It's not a happy place for everyone."
     new "This world you're going to. It's not a happy place for everyone."
 
-    old "When my mother died, I didn't shed a single tear."
-    new "When my mother died, I didn't shed a single tear."
-
     old "{size=-10}Ryoko... {w}Were you talking to me?"
     new "{size=-10}Ryoko... {w}Were you talking to me?"
 
@@ -35893,9 +35877,6 @@ translate ukrainian strings:
 
     old "I-I sat down to rest there, and when I opened my eyes I was here..."
     new "I-I sat down to rest there, and when I opened my eyes I was here..."
-
-    old "Then it's true..."
-    new "Then it's true..."
 
     old "They sound quite harsh."
     new "They sound quite harsh."
@@ -35935,9 +35916,6 @@ translate ukrainian strings:
 
     old "This is a place totally related to wood."
     new "This is a place totally related to wood."
-
-    old "Ah she was a goddess, not an angel."
-    new "Ah she was a goddess, not an angel."
 
     old "She already knew how to fight people, and her ability left me paralyzed."
     new "She already knew how to fight people, and her ability left me paralyzed."
@@ -36112,9 +36090,6 @@ translate ukrainian strings:
 
     old "I'll go get her right now."
     new "I'll go get her right now."
-
-    old "Besides, how else would I react? {w}I never act the way people expect me to act."
-    new "Besides, how else would I react? {w}I never act the way people expect me to act."
 
     old "I can't give you many details but..."
     new "I can't give you many details but..."
@@ -36779,9 +36754,6 @@ translate ukrainian strings:
     old "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
     new "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
 
-    old "Well, it's not something that's easy to grasp."
-    new "Well, it's not something that's easy to grasp."
-
     old "Don't think I'll let you do it for free, everything has a reward."
     new "Don't think I'll let you do it for free, everything has a reward."
 
@@ -37070,9 +37042,6 @@ translate ukrainian strings:
     old "{size=-10}I'll give you my life if you get up..."
     new "{size=-10}I'll give you my life if you get up..."
 
-    old "You don't look so worried."
-    new "You don't look so worried."
-
     old "Just kidding."
     new "Just kidding."
 
@@ -37087,9 +37056,6 @@ translate ukrainian strings:
 
     old "Just by looking at the condition of her training katana, I can tell how much effort she has put in."
     new "Just by looking at the condition of her training katana, I can tell how much effort she has put in."
-
-    old "Oh yeah...{w} you just died."
-    new "Oh yeah...{w} you just died."
 
     old "It's all... {w}his-"
     new "It's all... {w}his-"
@@ -37655,9 +37621,6 @@ translate ukrainian strings:
     old "She doesn't seem to be able to tell me much more..."
     new "She doesn't seem to be able to tell me much more..."
 
-    old "But what else can I do? All of this is a consequence of my actions."
-    new "But what else can I do? All of this is a consequence of my actions."
-
     old "W-Why did you suddenly stop t-talking [mc]?"
     new "W-Why did you suddenly stop t-talking [mc]?"
 
@@ -37690,9 +37653,6 @@ translate ukrainian strings:
 
     old "It seems that this is the first time you visit a magic store..."
     new "It seems that this is the first time you visit a magic store..."
-
-    old "Hmm... you're quite interesting~{image=corazon}"
-    new "Hmm... you're quite interesting~{image=corazon}"
 
     old "Still as whiny as ever..."
     new "Still as whiny as ever..."
@@ -38066,9 +38026,6 @@ translate ukrainian strings:
     old "{size=-10}Oii~ {w}You should get that treated or it will get worse."
     new "{size=-10}Oii~ {w}You should get that treated or it will get worse."
 
-    old "Not that I would know anyway, I've never seen one before."
-    new "Not that I would know anyway, I've never seen one before."
-
     old "{size=-6}Hana, {w}it's up to you."
     new "{size=-6}Hana, {w}it's up to you."
 
@@ -38086,9 +38043,6 @@ translate ukrainian strings:
 
     old "{sc=1}{outlinecolor=#000000}{color=#2cd390}{size=-10}{i}Maybe... if they disappear..."
     new "{sc=1}{outlinecolor=#000000}{color=#2cd390}{size=-10}{i}Maybe... if they disappear..."
-
-    old "I-I have more questions!"
-    new "I-I have more questions!"
 
     old "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
     new "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
