@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-04 12:20
-
+﻿
 translate ukrainian strings:
 
     # game/quest.rpy:161
@@ -131,9 +130,6 @@ translate ukrainian strings:
     new "Beach Episode"
 
 translate ukrainian strings:
-    old "old:1783157114.5464303_32"
-    new "new:1783157114.5464303_32"
-
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 

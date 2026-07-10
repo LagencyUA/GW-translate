@@ -11,6 +11,7 @@ translate ukrainian deep_forest_f17a1a67:
     # t "It's not time yet."
     t "It's not time yet."
 
+## Ці далі вже не використовуються, по ідеї
 # game/game/map_ST_outside.rpy:547
 translate ukrainian deep_forest_ea638be5:
 
@@ -28,26 +29,3 @@ translate ukrainian deep_forest_c2509ab3:
 
     # nc "Hmmp!"
     nc "Hmmp!"
-
-translate ukrainian strings:
-    old "old:1783157114.1691809_27"
-    new "new:1783157114.1691809_27"
-
-    old "Under development."
-    new "Under development."
-
-    old "It is not a good time to get out of the barrier."
-    new "It is not a good time to get out of the barrier."
-
-    old "It's not like I'm working in this area just for you!"
-    new "It's not like I'm working in this area just for you!"
-
-    old "collected"
-    new "collected"
-
-    old "rotation"
-    new "rotation"
-
-    old "It's not time yet."
-    new "It's not time yet."
-

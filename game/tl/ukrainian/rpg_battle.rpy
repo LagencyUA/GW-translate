@@ -16,7 +16,6 @@ translate ukrainian start_combat_rpg_5890e430:
 
     # t "A [enemy.name], here we go."
     t "A [enemy.name], here we go."
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -33,9 +32,6 @@ translate ukrainian strings:
     new "Volver al menú principal"
 
 translate ukrainian strings:
-    old "old:1783157114.5694864_33"
-    new "new:1783157114.5694864_33"
-
     old "A sweet bread"
     new "A sweet bread"
 
@@ -87,14 +83,8 @@ translate ukrainian strings:
     old "Sandwich"
     new "Sandwich"
 
-    old "A [enemy.name], here we go."
-    new "A [enemy.name], here we go."
-
     old "A small box with 9 pieces of chocolate."
     new "A small box with 9 pieces of chocolate."
-
-    old "A wounded adventurer! Quick, let's take him to the nearest village!"
-    new "A wounded adventurer! Quick, let's take him to the nearest village!"
 
     old "Wooden Katana"
     new "Wooden Katana"
@@ -213,9 +203,6 @@ translate ukrainian strings:
     old "Item '{item}' does not exist in the inventory."
     new "Item '{item}' does not exist in the inventory."
 
-    old "He's lucky we found him before the monsters ate him...."
-    new "He's lucky we found him before the monsters ate him...."
-
     old "It looks very fresh and delicious."
     new "It looks very fresh and delicious."
 
@@ -266,4 +253,3 @@ translate ukrainian strings:
 
     old "Golden Slime Core"
     new "Golden Slime Core"
-

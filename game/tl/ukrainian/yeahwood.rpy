@@ -22,7 +22,6 @@ translate ukrainian wood_recolection_9ad17905:
 
     # "You have obtained [total_wood] wood!"
     "You have obtained [total_wood] wood!"
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -31,24 +30,5 @@ translate ukrainian strings:
     new "Wood harvesting"
 
 translate ukrainian strings:
-    old "old:1783157115.627486_45"
-    new "new:1783157115.627486_45"
-
     old "-[last_logging_damage]\n{size=-25}CRITICAL!"
     new "-[last_logging_damage]\n{size=-25}CRITICAL!"
-
-    old "You have obtained [total_wood] wood!"
-    new "You have obtained [total_wood] wood!"
-
-    old "You got [total_wood] wood... You only succeeded in damaging the tree."
-    new "You got [total_wood] wood... You only succeeded in damaging the tree."
-
-    old "I should go home, it's too late for this."
-    new "I should go home, it's too late for this."
-
-    old "cutanim2"
-    new "cutanim2"
-
-    old "Time to work"
-    new "Time to work"
-

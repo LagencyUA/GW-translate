@@ -28,7 +28,6 @@ translate ukrainian gate_right_5ffbe72e:
 
     # t "I must rest, tomorrow I will continue working."
     t "I must rest, tomorrow I will continue working."
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -75,17 +74,3 @@ translate ukrainian strings:
     # game/map.rpy:981
     old "{image=axe_text}[item_axe]/2"
     new "{image=axe_text}[item_axe]/2"
-
-translate ukrainian strings:
-    old "old:1783157114.0728407_25"
-    new "new:1783157114.0728407_25"
-
-    old "I must rest, tomorrow I will continue working."
-    new "I must rest, tomorrow I will continue working."
-
-    old "This house is pretty big but I shouldn't touch anything."
-    new "This house is pretty big but I shouldn't touch anything."
-
-    old "I should let Ryoko sleep while I go see Yui in the village."
-    new "I should let Ryoko sleep while I go see Yui in the village."
-

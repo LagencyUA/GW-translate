@@ -28,7 +28,6 @@ translate ukrainian bed_actions_e94abf61_1:
 
     # t "Going to the Stones during the evening would be nice."
     t "Going to the Stones during the evening would be nice."
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -1045,9 +1044,6 @@ translate ukrainian strings:
     new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Critical Hits{/font}\nYour perfect hits do more {color=#FFD700}critical damage{/color}."
 
 translate ukrainian strings:
-    old "old:1783157113.2340257_10"
-    new "new:1783157113.2340257_10"
-
     old "{size=-3}Lycoris \nClan"
     new "{size=-3}Lycoris \nClan"
 
@@ -1063,12 +1059,6 @@ translate ukrainian strings:
     old "melon pan"
     new "melon pan"
 
-    old ", description="
-    new ", description="
-
-    old "Sacred Bridge Demo.ttf"
-    new "Sacred Bridge Demo.ttf"
-
     old "{size=-13}Afternoon\n Her room"
     new "{size=-13}Afternoon\n Her room"
 
@@ -1077,9 +1067,6 @@ translate ukrainian strings:
 
     old "sandwich"
     new "sandwich"
-
-    old "https://discord.gg/TMBNC5smka"
-    new "https://discord.gg/TMBNC5smka"
 
     old "monstruos"
     new "monstruos"
@@ -1102,9 +1089,6 @@ translate ukrainian strings:
     old "{size=-3}Sakura\n Town"
     new "{size=-3}Sakura\n Town"
 
-    old "Going to the Stones during the evening would be nice."
-    new "Going to the Stones during the evening would be nice."
-
     old "Monstruos"
     new "Monstruos"
 
@@ -1117,23 +1101,14 @@ translate ukrainian strings:
     old "{size=-13}Morning\n Living-room"
     new "{size=-13}Morning\n Living-room"
 
-    old "I should sleep."
-    new "I should sleep."
-
     old "{size=-10}{size=-7}VITALITY"
     new "{size=-10}{size=-7}VITALITY"
 
     old "materiales"
     new "materiales"
 
-    old "I could go to visit Keiko, I know she always sees me but it's not bad to talk to her for a while."
-    new "I could go to visit Keiko, I know she always sees me but it's not bad to talk to her for a while."
-
     old "red flower"
     new "red flower"
-
-    old "http://www.patreon.com/NCroww"
-    new "http://www.patreon.com/NCroww"
 
     old "{size=+65}Charlotte"
     new "{size=+65}Charlotte"

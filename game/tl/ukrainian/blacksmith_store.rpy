@@ -952,7 +952,6 @@ translate ukrainian adv_equip_e25c3246:
 
     # ede "{sc=1}{outlinecolor=#000000}Buahaha!~"
     ede "{sc=1}{outlinecolor=#000000}Buahaha!~"
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -1025,411 +1024,41 @@ translate ukrainian strings:
     new "{i}And what am I supposed\n to do with that?"
 
 translate ukrainian strings:
-    old "old:1783157112.912501_7"
-    new "new:1783157112.912501_7"
-
-    old "Are they always this big?"
-    new "Are they always this big?"
-
-    old "Hey, where do I put this?"
-    new "Hey, where do I put this?"
-
-    old "Time to work..."
-    new "Time to work..."
-
-    old "{color=#4eca35}{i}Does he plan to finish everything in one day...?"
-    new "{color=#4eca35}{i}Does he plan to finish everything in one day...?"
-
-    old "Right? Buahaha!"
-    new "Right? Buahaha!"
-
     old "You cannot have more than 5 of this item."
     new "You cannot have more than 5 of this item."
-
-    old "I don't know what the hell you're talking about, I just used the reins that were inside the wagon and helped them up here."
-    new "I don't know what the hell you're talking about, I just used the reins that were inside the wagon and helped them up here."
-
-    old "You're right... {w}a bit of armor wouldn't hurt."
-    new "You're right... {w}a bit of armor wouldn't hurt."
-
-    old "Hnm? {w}Already?"
-    new "Hnm? {w}Already?"
-
-    old "My head is killing me, {w}{sc=1}{outlinecolor=#000000}{size=-8}Brrrp~{/size}{/sc} {w}why did you make me drink so much?"
-    new "My head is killing me, {w}{sc=1}{outlinecolor=#000000}{size=-8}Brrrp~{/size}{/sc} {w}why did you make me drink so much?"
-
-    old "Yeah, just tell me what to do."
-    new "Yeah, just tell me what to do."
-
-    old "It's just a few barrels and weapons! Just a couple of things!"
-    new "It's just a few barrels and weapons! Just a couple of things!"
-
-    old "Be careful with that Rookie..."
-    new "Be careful with that Rookie..."
-
-    old "{size=-6}{i}Sigh...{/i} {w}I'll be right back."
-    new "{size=-6}{i}Sigh...{/i} {w}I'll be right back."
-
-    old "{size=-6}Okay, on to the next one..."
-    new "{size=-6}Okay, on to the next one..."
-
-    old "That's the spirit!"
-    new "That's the spirit!"
-
-    old "I should come in the morning."
-    new "I should come in the morning."
-
-    old "I must go to the gate of Sakura Town to get Kaede's things."
-    new "I must go to the gate of Sakura Town to get Kaede's things."
-
-    old "It is closed."
-    new "It is closed."
-
-    old "So, when are you bringing her?"
-    new "So, when are you bringing her?"
 
     old "{size=-6}Now you have a higher chance to get more loot!"
     new "{size=-6}Now you have a higher chance to get more loot!"
 
-    old "You should be friendlier to your elders! {sc=1}{outlinecolor=#000000}Buahaha!"
-    new "You should be friendlier to your elders! {sc=1}{outlinecolor=#000000}Buahaha!"
-
-    old "Where do I leave this?"
-    new "Where do I leave this?"
-
-    old "I have never seen horses before..."
-    new "I have never seen horses before..."
-
     old "You already have this item!"
     new "You already have this item!"
-
-    old "Just like Natsuki said..."
-    new "Just like Natsuki said..."
-
-    old "Natsuki needs an assistant as soon as possible..."
-    new "Natsuki needs an assistant as soon as possible..."
-
-    old "Natsuki already told me you accepted the mission."
-    new "Natsuki already told me you accepted the mission."
-
-    old "{size=-6}W-Wow... {w}that sounds amazing."
-    new "{size=-6}W-Wow... {w}that sounds amazing."
-
-    old "How long will you continue to be so reserved! {w}Come on!"
-    new "How long will you continue to be so reserved! {w}Come on!"
-
-    old "\"A few barrels and weapons.\""
-    new "\"A few barrels and weapons.\""
-
-    old "{size=-6}{i}Eeh?{/size} What's wrong?"
-    new "{size=-6}{i}Eeh?{/size} What's wrong?"
-
-    old "I knew there were still men with balls in this town."
-    new "I knew there were still men with balls in this town."
-
-    old "Rookie! Come and drink!"
-    new "Rookie! Come and drink!"
-
-    old "{color=#4eca35}{i}He just brought two of my heaviest barrels on each arm...?"
-    new "{color=#4eca35}{i}He just brought two of my heaviest barrels on each arm...?"
-
-    old "Can I see it?"
-    new "Can I see it?"
-
-    old "Okay! {w}I'll be here to cheer you up!"
-    new "Okay! {w}I'll be here to cheer you up!"
-
-    old "She is sitting there, waiting..."
-    new "She is sitting there, waiting..."
-
-    old "Don't worry, I need a good meal and I'll be as good as new."
-    new "Don't worry, I need a good meal and I'll be as good as new."
-
-    old "Hey Rookie, we had an exhausting day, huh?"
-    new "Hey Rookie, we had an exhausting day, huh?"
 
     old "Adventurer's mission completed."
     new "Adventurer's mission completed."
 
-    old "And don't you need mine too? I mean, for armor and stuff."
-    new "And don't you need mine too? I mean, for armor and stuff."
-
-    old "Alright! I'll make it 5 beers then!"
-    new "Alright! I'll make it 5 beers then!"
-
-    old "What's your problem with my penis falling off?!"
-    new "What's your problem with my penis falling off?!"
-
-    old "And don't you need to take measurements or something for custom equipment?"
-    new "And don't you need to take measurements or something for custom equipment?"
-
-    old "She's quite a character, but when you get to know her well she's not a bad person."
-    new "She's quite a character, but when you get to know her well she's not a bad person."
-
-    old "If so, you should rest a little more."
-    new "If so, you should rest a little more."
-
-    old "Well, that's done. Now, onto the important part."
-    new "Well, that's done. Now, onto the important part."
-
-    old "I finished."
-    new "I finished."
-
-    old "She might be an extroverted drunk, but she definitely knows her stuff."
-    new "She might be an extroverted drunk, but she definitely knows her stuff."
-
-    old "She must really enjoy this."
-    new "She must really enjoy this."
-
-    old "Congratulations on completing another mission~{image=corazon}"
-    new "Congratulations on completing another mission~{image=corazon}"
-
     old "+100 gold, +15 Reputation"
     new "+100 gold, +15 Reputation"
-
-    old "Well, I'll go and get them..."
-    new "Well, I'll go and get them..."
-
-    old "fonts/Sacred Bridge Demo.ttf"
-    new "fonts/Sacred Bridge Demo.ttf"
-
-    old "And I lost to Natsuki in the strip game, {w}but honestly, I just wanted to drink."
-    new "And I lost to Natsuki in the strip game, {w}but honestly, I just wanted to drink."
 
     old "You bought 1 {item_name}!"
     new "You bought 1 {item_name}!"
 
-    old "That woman clearly lied to me."
-    new "That woman clearly lied to me."
-
-    old "fonts/Bohemian Soul.otf"
-    new "fonts/Bohemian Soul.otf"
-
-    old "I couldn't help myself. I got right to work."
-    new "I couldn't help myself. I got right to work."
-
-    old "Don't worry, I'll drop them slowly."
-    new "Don't worry, I'll drop them slowly."
-
-    old "Pa- {w}What do you mean, pajamas?!"
-    new "Pa- {w}What do you mean, pajamas?!"
-
-    old "Ryoko must have told Natsuki that I was planning to buy her one."
-    new "Ryoko must have told Natsuki that I was planning to buy her one."
-
-    old "And I asked Iris for all your measurements."
-    new "And I asked Iris for all your measurements."
-
-    old "And the horses? {w}How on earth did you bring the wagon and them on your shoulders?"
-    new "And the horses? {w}How on earth did you bring the wagon and them on your shoulders?"
-
-    old "Where's the rest of the stuff?"
-    new "Where's the rest of the stuff?"
-
-    old "I will go get it."
-    new "I will go get it."
-
-    old "Did you sleep well?"
-    new "Did you sleep well?"
-
-    old "Come visit my store when you have time, I'm sure you have something in mind like me."
-    new "Come visit my store when you have time, I'm sure you have something in mind like me."
-
-    old "Yes, although all my muscles feel sore."
-    new "Yes, although all my muscles feel sore."
-
-    old "{size=-6}Ah... right, it was a dream."
-    new "{size=-6}Ah... right, it was a dream."
-
-    old "So, when you were planning to tell me that your partner needed a weapon."
-    new "So, when you were planning to tell me that your partner needed a weapon."
-
-    old "Huh? How do you know that?"
-    new "Huh? How do you know that?"
-
-    old "{size=-6}Are you ok...?"
-    new "{size=-6}Are you ok...?"
-
-    old "Oh right, your reward."
-    new "Oh right, your reward."
-
-    old "If all are as heavy as these, this will take me all day..."
-    new "If all are as heavy as these, this will take me all day..."
-
-    old "Oh! Rookie, I see you're finally out of those pajamas!"
-    new "Oh! Rookie, I see you're finally out of those pajamas!"
-
-    old "Sayori told me that Ryoko has a lot of potential. It's common for a blacksmith to want their weapon to end up in the hands of someone talented."
-    new "Sayori told me that Ryoko has a lot of potential. It's common for a blacksmith to want their weapon to end up in the hands of someone talented."
-
-    old "The few times I have seen her, she is always drinking."
-    new "The few times I have seen her, she is always drinking."
-
-    old "Since I know your fighting style doesn't allow for heavy armor, covering your blind spots is more than enough."
-    new "Since I know your fighting style doesn't allow for heavy armor, covering your blind spots is more than enough."
-
     old "{size=+50}Blacksmith"
     new "{size=+50}Blacksmith"
-
-    old "Haven't you seen all the stairs from there to here? You trying to kill my horses?"
-    new "Haven't you seen all the stairs from there to here? You trying to kill my horses?"
-
-    old "She figured all that out just by holding the wooden katana and picking up Ryoko...?"
-    new "She figured all that out just by holding the wooden katana and picking up Ryoko...?"
-
-    old "Go go Rookie!~ Buahaha!~"
-    new "Go go Rookie!~ Buahaha!~"
-
-    old "{size=-6}I just need to bring your wagon and horses."
-    new "{size=-6}I just need to bring your wagon and horses."
 
     old "{size=-4}Your defense has increased!"
     new "{size=-4}Your defense has increased!"
 
-    old "Let go of me! And stop treating me like a kid!"
-    new "Let go of me! And stop treating me like a kid!"
-
-    old "{sc=1}{outlinecolor=#000000}Yaaaaawwn~"
-    new "{sc=1}{outlinecolor=#000000}Yaaaaawwn~"
-
-    old "Uh oh, Rookie! Over Here!"
-    new "Uh oh, Rookie! Over Here!"
-
-    old "It takes a lot of work to attend to all the adventures and serve food and alcohol."
-    new "It takes a lot of work to attend to all the adventures and serve food and alcohol."
-
-    old "This woman, how is it that she can drink so much?"
-    new "This woman, how is it that she can drink so much?"
-
-    old "I think I'll just wait until it's done."
-    new "I think I'll just wait until it's done."
-
-    old "...Give me back my compliment."
-    new "...Give me back my compliment."
-
-    old "And what made you accept this one?"
-    new "And what made you accept this one?"
-
-    old "I'm here! Ya-HOO!"
-    new "I'm here! Ya-HOO!"
-
     old "Shoulder Armor"
     new "Shoulder Armor"
-
-    old "You don't serve food here?"
-    new "You don't serve food here?"
-
-    old "Earthquake...?"
-    new "Earthquake...?"
-
-    old "My brain automatically scans and measures everything."
-    new "My brain automatically scans and measures everything."
-
-    old "{size=-6}{i}That's not what I meant..."
-    new "{size=-6}{i}That's not what I meant..."
-
-    old "{i}N-No matter how hard you try Rokkie, {w}{sc=1}{outlinecolor=#000000}Hicupp*{/sc} {w}those horses only obey me~"
-    new "{i}N-No matter how hard you try Rokkie, {w}{sc=1}{outlinecolor=#000000}Hicupp*{/sc} {w}those horses only obey me~"
-
-    old "Next time, I'll come with Ryoko."
-    new "Next time, I'll come with Ryoko."
 
     old "Not enough gold."
     new "Not enough gold."
 
-    old "Not for now."
-    new "Not for now."
-
-    old "How the fuc-"
-    new "How the fuc-"
-
-    old "I hope that woman doesn't expect me to finish this in just a few hours..."
-    new "I hope that woman doesn't expect me to finish this in just a few hours..."
-
-    old "Don't be so boring! {w}Come have a drink with me, kid~"
-    new "Don't be so boring! {w}Come have a drink with me, kid~"
-
-    old "Everything's by the wall gate, in the carriage next to my horses."
-    new "Everything's by the wall gate, in the carriage next to my horses."
-
-    old "She doesn't even think about helping me..."
-    new "She doesn't even think about helping me..."
-
-    old "{sc=3}{outlinecolor=#000000}{size=-8}Buahahaha! Good one!"
-    new "{sc=3}{outlinecolor=#000000}{size=-8}Buahahaha! Good one!"
-
-    old "{i}{sc=1}{outlinecolor=#000000}Better go get me some more bee-"
-    new "{i}{sc=1}{outlinecolor=#000000}Better go get me some more bee-"
-
-    old "Perfect. I already started working on something that might be useful to you."
-    new "Perfect. I already started working on something that might be useful to you."
-
-    old "Natsuki asked me for the favor. She knows that I don't accept that kind of personalized work for just anyone."
-    new "Natsuki asked me for the favor. She knows that I don't accept that kind of personalized work for just anyone."
-
-    old "I wouldn't be surprised if they also transform into two girls."
-    new "I wouldn't be surprised if they also transform into two girls."
-
-    old "Over there is fine."
-    new "Over there is fine."
-
-    old "Well, good job, go talk to Natsuki about your reward tomorrow."
-    new "Well, good job, go talk to Natsuki about your reward tomorrow."
-
-    old "Her nipple..."
-    new "Her nipple..."
-
-    old "Great. Just need to add a few finishing touches and it'll be ready."
-    new "Great. Just need to add a few finishing touches and it'll be ready."
-
     old "{size=-13}Inventory"
     new "{size=-13}Inventory"
-
-    old "Hmm... I can stop by any day now."
-    new "Hmm... I can stop by any day now."
-
-    old "Nothing nothing, go on with your business."
-    new "Nothing nothing, go on with your business."
-
-    old "Anyway, ready to add a little protection to that body of yours?"
-    new "Anyway, ready to add a little protection to that body of yours?"
-
-    old "{color=#4eca35}{i}Those must be full of iron and metals."
-    new "{color=#4eca35}{i}Those must be full of iron and metals."
 
     old "Not enough gold to buy this item."
     new "Not enough gold to buy this item."
 
     old "Ryokos Katana"
     new "Ryokos Katana"
-
-    old "Then why don't you just bring it all up here?"
-    new "Then why don't you just bring it all up here?"
-
-    old "I got all the measurements I needed the moment I met her."
-    new "I got all the measurements I needed the moment I met her."
-
-    old "If you would stop treating me like a kid, {w}maybe-"
-    new "If you would stop treating me like a kid, {w}maybe-"
-
-    old "{size=-6}Whatever..."
-    new "{size=-6}Whatever..."
-
-    old "And ruin the surprise? Sho sho! Begone!"
-    new "And ruin the surprise? Sho sho! Begone!"
-
-    old "I never said she was..."
-    new "I never said she was..."
-
-    old "Please let this be worth it..."
-    new "Please let this be worth it..."
-
-    old "{sc=3}{outlinecolor=#000000}Buaahaha~"
-    new "{sc=3}{outlinecolor=#000000}Buaahaha~"
-
-    old "Bring me ten beers and I might consider it."
-    new "Bring me ten beers and I might consider it."
-
-    old "Don't drink too much or your penis will fall off."
-    new "Don't drink too much or your penis will fall off."
-

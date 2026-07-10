@@ -10,7 +10,6 @@ translate ukrainian name_change_cee18412:
 
     # "From now on you will be called [mc_name]."
     "From now on you will be called [mc_name]."
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -31,9 +30,6 @@ translate ukrainian strings:
 
     old "Each tree will have different {color=#7FAED9}resistance{/color}\nThe faster you knock down the tree, the {color=#39A761}more wood{/color} you get!"
     new "Each tree will have different {color=#7FAED9}resistance{/color}\nThe faster you knock down the tree, the {color=#39A761}more wood{/color} you get!"
-
-    old "From now on you will be called [mc_name]."
-    new "From now on you will be called [mc_name]."
 
     old "vertical"
     new "vertical"
@@ -61,9 +57,6 @@ translate ukrainian strings:
 
     old "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
     new "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
-
-    old "Do you want to change your name?"
-    new "Do you want to change your name?"
 
     old "An {color=#FF438D}H-Event{/color} has been unlocked in your gallery!"
     new "An {color=#FF438D}H-Event{/color} has been unlocked in your gallery!"
@@ -94,4 +87,3 @@ translate ukrainian strings:
 
     old "{i}Do you remember your name? Human.\n {size=-10}{i}Default name Ryo{i}."
     new "{i}Пам'ятаєш власне ім'я? Людино.\n {size=-10}{i}Ім'я за замовчуванням: Ryo{i}."
-

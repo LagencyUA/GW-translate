@@ -160,7 +160,6 @@ translate ukrainian tea_book_ad79ba09:
 
     # t "Maybe I'll find some growing around the forest..."
     t "Maybe I'll find some growing around the forest..."
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -243,71 +242,3 @@ translate ukrainian strings:
     # game/house.rpy:437
     old "{color=#21c3de}Karyn's{/color} room."
     new "{color=#21c3de}Karyn's{/color} room."
-
-translate ukrainian strings:
-    old "old:1783157113.6673262_18"
-    new "new:1783157113.6673262_18"
-
-    old "This page shows plants that I think I have seen around the outskirts of the village."
-    new "This page shows plants that I think I have seen around the outskirts of the village."
-
-    old "According to what it says on this page, it helps to hydrate and cleanse the liver..."
-    new "According to what it says on this page, it helps to hydrate and cleanse the liver..."
-
-    old "Maybe I'll find some growing around the forest..."
-    new "Maybe I'll find some growing around the forest..."
-
-    old "Why would a cookbook ask for some kind of strange minerals?"
-    new "Why would a cookbook ask for some kind of strange minerals?"
-
-    old "If they were in a cookbook, they can't be bad."
-    new "If they were in a cookbook, they can't be bad."
-
-    old "I want to see the room together with Charlotte."
-    new "I want to see the room together with Charlotte."
-
-    old "Did Mayu leave it behind?"
-    new "Did Mayu leave it behind?"
-
-    old "Maybe it's just a simple cookbook."
-    new "Maybe it's just a simple cookbook."
-
-    old "It raises the temperature and {w}su? {w}Se*** ***etite?? {w}And is commonly used as an {w}App? {w}Aphrr?"
-    new "It raises the temperature and {w}su? {w}Se*** ***etite?? {w}And is commonly used as an {w}App? {w}Aphrr?"
-
-    old "They seem to be used to make a special kind of tea..."
-    new "They seem to be used to make a special kind of tea..."
-
-    old "No one is there."
-    new "No one is there."
-
-    old "I should go and talk to Karyn, maybe I'll find her hunting in the pond in the {color=#FBE5A2}afternoon{/color}."
-    new "I should go and talk to Karyn, maybe I'll find her hunting in the pond in the {color=#FBE5A2}afternoon{/color}."
-
-    old "What's this book doing here?"
-    new "What's this book doing here?"
-
-    old "Will Yui be able to help me with this?"
-    new "Will Yui be able to help me with this?"
-
-    old "Maybe Mayu made a mistake and left the wrong book."
-    new "Maybe Mayu made a mistake and left the wrong book."
-
-    old "It seems that the wall is broken and the floor is rotten..."
-    new "It seems that the wall is broken and the floor is rotten..."
-
-    old "The floor is broken and I think I can see the sky through the ceiling."
-    new "The floor is broken and I think I can see the sky through the ceiling."
-
-    old "I'm not very good in the kitchen but it's not a bad idea to take a look."
-    new "I'm not very good in the kitchen but it's not a bad idea to take a look."
-
-    old "But there is another type of plant that is half-blurred."
-    new "But there is another type of plant that is half-blurred."
-
-    old "There's not much here but garbage, who can fix this?"
-    new "There's not much here but garbage, who can fix this?"
-
-    old "The effects may not be very strong if you are... {w}m**// {w}I can't read this line very well, it's blurred."
-    new "The effects may not be very strong if you are... {w}m**// {w}I can't read this line very well, it's blurred."
-

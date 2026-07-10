@@ -741,7 +741,7 @@ translate ukrainian start_c7f1d094:
 translate ukrainian start_0be31bc1:
 
     # m "Welcome back, I thought you'd never open your eyes."
-    m "З поверненням! Гадала ти вже ніколи не розпющиш свої оченята."
+    m "З поверненням! Гадала, ти вже ніколи не розпющиш свої оченята."
 
 # game/game/script.rpy:340
 translate ukrainian start_328ad917:
@@ -1077,13 +1077,13 @@ translate ukrainian choice2_48ce4bcf:
 translate ukrainian choice2_f10f47c8:
 
     # t "All the people at the funeral thought maybe I was crazy."
-    t "Кожен, хто був на похороні, гадав, що я певно збоживолів."
+    t "Кожен, хто був на похороні, гадав, що я, певно, збожeволів."
 
 # game/game/script.rpy:444
 translate ukrainian choice2_67b67c20:
 
     # t "But at that time... {w}I still didn't believe it was true..."
-    t "Але тоді... {w}Я досі ні як не можу повірити у це..."
+    t "Але я тоді... {w}Я досі ні як не можу повірити у це..."
 
 # game/game/script.rpy:446
 translate ukrainian choice2_b2ebca0f:
@@ -1287,7 +1287,7 @@ translate ukrainian choice4_5f95de90:
 translate ukrainian choice4_fdcefcac:
 
     # t "{i}Mom, {w}your abandoned son will finally become an adult."
-    t "{i}Мамо, {w}твій покинутий син нарешті стане дорослим."
+    t "{i}Мамо, {w}твій залишений син нарешті стане дорослим."
 
 # game/game/script.rpy:505
 translate ukrainian choice4_a688e7cd:

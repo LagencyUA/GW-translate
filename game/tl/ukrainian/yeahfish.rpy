@@ -754,7 +754,6 @@ translate ukrainian sayo_fishing_36472ec4:
 
     # sa "Fishing looks more fun than I thought it would be."
     sa "Fishing looks more fun than I thought it would be."
-# TODO: Translation updated at 2026-07-04 12:20
 
 translate ukrainian strings:
 
@@ -767,149 +766,14 @@ translate ukrainian strings:
     new "Continue fishing"
 
 translate ukrainian strings:
-    old "old:1783157115.6170268_44"
-    new "new:1783157115.6170268_44"
-
-    old "Hahaha~ {w=0.5}Mah~ what a proactive guy."
-    new "Hahaha~ {w=0.5}Mah~ what a proactive guy."
-
-    old "Unless you've got some kind of magic inventory that lets you store things endlessly, hahaha."
-    new "Unless you've got some kind of magic inventory that lets you store things endlessly, hahaha."
-
-    old "I should go home, it's too late for fishing."
-    new "I should go home, it's too late for fishing."
-
-    old "{size=-6}{i}Remember when you said it'd take something better to trap you?"
-    new "{size=-6}{i}Remember when you said it'd take something better to trap you?"
-
-    old "Mmm? {w}Is that the hook?"
-    new "Mmm? {w}Is that the hook?"
-
-    old "Then, I'll go ask Natsuki."
-    new "Then, I'll go ask Natsuki."
-
-    old "And you don't want to try it now?"
-    new "And you don't want to try it now?"
-
-    old "Don't get too close, I'm going to throw it."
-    new "Don't get too close, I'm going to throw it."
-
-    old "aftern.webp"
-    new "aftern.webp"
-
-    old "{sc=1}{outlinecolor=#000000}Farewell, cruel world!"
-    new "{sc=1}{outlinecolor=#000000}Farewell, cruel world!"
-
-    old "Do you really think I'd fall for that? {w}Standing defenseless at the edge of a river, just waiting for me to push you in?"
-    new "Do you really think I'd fall for that? {w}Standing defenseless at the edge of a river, just waiting for me to push you in?"
-
     old "D rank fish!"
     new "D rank fish!"
-
-    old "Yes, there are plenty of fish in the river surrounding the village."
-    new "Yes, there are plenty of fish in the river surrounding the village."
-
-    old "You're going to pay for this!"
-    new "You're going to pay for this!"
-
-    old "Exactly. {w}You never expected I'd sacrifice myself too."
-    new "Exactly. {w}You never expected I'd sacrifice myself too."
-
-    old "O-Oh! It feels good! It's really light and easy to use"
-    new "O-Oh! It feels good! It's really light and easy to use"
-
-    old "You need better than that to make me fall."
-    new "You need better than that to make me fall."
-
-    old "Yes, give me a minute, it should be in the storage room."
-    new "Yes, give me a minute, it should be in the storage room."
-
-    old "Yes, isn't it cute?~{image=corazon}"
-    new "Yes, isn't it cute?~{image=corazon}"
-
-    old "Really? Do you think I can use it?"
-    new "Really? Do you think I can use it?"
-
-    old "Actually, there is a rod that a girl left some time ago."
-    new "Actually, there is a rod that a girl left some time ago."
-
-    old "Hey, you were lucky."
-    new "Hey, you were lucky."
-
-    old "But thank you. Hahaha~"
-    new "But thank you. Hahaha~"
-
-    old "W-Wait! {w=0.5}We can talk about-"
-    new "W-Wait! {w=0.5}We can talk about-"
 
     old "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
     new "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
 
-    old "I like a man of his word!"
-    new "I like a man of his word!"
-
-    old "{sc=1}{outlinecolor=#000000}Hoorah, hoorah!~"
-    new "{sc=1}{outlinecolor=#000000}Hoorah, hoorah!~"
-
-    old "Sorry for the delay, I had to clean it up a bit."
-    new "Sorry for the delay, I had to clean it up a bit."
-
-    old "{size=-6}{i}W-What are you talking about? {w}Come on, {w=0.5}let me go... you still need to get that rod..."
-    new "{size=-6}{i}W-What are you talking about? {w}Come on, {w=0.5}let me go... you still need to get that rod..."
-
-    old "It would be better to follow Natsuki's advice for now."
-    new "It would be better to follow Natsuki's advice for now."
-
-    old "Besides, I've already gotten my revenge plenty of times."
-    new "Besides, I've already gotten my revenge plenty of times."
-
-    old "It's a bit worn out, but it should still be useful."
-    new "It's a bit worn out, but it should still be useful."
-
     old "S rank fish!"
     new "S rank fish!"
-
-    old "I left it well stored, but the dust shows up anyway."
-    new "I left it well stored, but the dust shows up anyway."
-
-    old "In my tribe, we used to jump into the river and catch them with our hands."
-    new "In my tribe, we used to jump into the river and catch them with our hands."
-
-    old "Is that the bait? It looks kind of funny."
-    new "Is that the bait? It looks kind of funny."
-
-    old "There's something big moving down there..."
-    new "There's something big moving down there..."
-
-    old "A fishing rod?"
-    new "A fishing rod?"
-
-    old "The fish escaped!"
-    new "The fish escaped!"
-
-    old "But the fact that the fish are more difficult means that my basic rod won't do much good..."
-    new "But the fact that the fish are more difficult means that my basic rod won't do much good..."
-
-    old "Good luck with that, let me know if you catch anything interesting~"
-    new "Good luck with that, let me know if you catch anything interesting~"
-
-    old "Sometimes I forget that Sayori is half dragon."
-    new "Sometimes I forget that Sayori is half dragon."
-
-    old "W-What? {w}It's better than the one I have at home..."
-    new "W-What? {w}It's better than the one I have at home..."
-
-    old "Of course you will~{image=corazon}"
-    new "Of course you will~{image=corazon}"
-
-    old "She never came back for it, probably because of everything that was going on at the time..."
-    new "She never came back for it, probably because of everything that was going on at the time..."
-
-    old "Does she have one?"
-    new "Does she have one?"
-
-    old "I need a fishing rod first, I should go talk to Natsuki."
-    new "I need a fishing rod first, I should go talk to Natsuki."
 
     old "B rank fish!"
     new "B rank fish!"
@@ -917,147 +781,17 @@ translate ukrainian strings:
     old "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
     new "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
 
-    old "Hmm, even if you had one, it'd be a hassle to carry it around."
-    new "Hmm, even if you had one, it'd be a hassle to carry it around."
-
-    old "Hahaha. Do you like fishing?"
-    new "Hahaha. Do you like fishing?"
-
     old "Now you can fish in Sakura Town!"
     new "Now you can fish in Sakura Town!"
-
-    old "Looks like a good place to fish but I need a rod."
-    new "Looks like a good place to fish but I need a rod."
-
-    old "R-Really? {w}I will keep it in mind."
-    new "R-Really? {w}I will keep it in mind."
-
-    old "No problem, man. Show those fish what you're made of."
-    new "No problem, man. Show those fish what you're made of."
-
-    old "I hadn't thought of such an elaborate plan."
-    new "I hadn't thought of such an elaborate plan."
-
-    old "Hey, is this a trap?"
-    new "Hey, is this a trap?"
-
-    old "Maybe Hana knows where to get one."
-    new "Maybe Hana knows where to get one."
-
-    old "I haven't forgotten that Sayori mentioned that I could fish here."
-    new "I haven't forgotten that Sayori mentioned that I could fish here."
-
-    old "It's one of many."
-    new "It's one of many."
-
-    old "Hahaha, glad to be of help."
-    new "Hahaha, glad to be of help."
 
     old "Fishing Tutorial"
     new "Fishing Tutorial"
 
-    old "I should talk to Sayori first."
-    new "I should talk to Sayori first."
-
-    old "It must have been painful to abandon a rod like this."
-    new "It must have been painful to abandon a rod like this."
-
-    old "Fishing looks more fun than I thought it would be."
-    new "Fishing looks more fun than I thought it would be."
-
-    old "I'll catch every fish in the world."
-    new "I'll catch every fish in the world."
-
-    old "I must go and talk to Hana."
-    new "I must go and talk to Hana."
-
-    old "Nah, a fishhook can't hurt my skin."
-    new "Nah, a fishhook can't hurt my skin."
-
-    old "Hahaha~ {w}You really are something."
-    new "Hahaha~ {w}You really are something."
-
-    old "Look, I'll show you."
-    new "Look, I'll show you."
-
-    old "I didn't know you were into that kind of hobby."
-    new "I didn't know you were into that kind of hobby."
-
-    old "Thanks, Natsuki. {w}If the girl ever comes back, let me know and I'll return it to her."
-    new "Thanks, Natsuki. {w}If the girl ever comes back, let me know and I'll return it to her."
-
     old "C rank fish!"
     new "C rank fish!"
-
-    old "{sc=3}{outlinecolor=#000000}OwaaAaAah!"
-    new "{sc=3}{outlinecolor=#000000}OwaaAaAah!"
-
-    old "Oh, but if you do get one, you'd better invite me for some fish!"
-    new "Oh, but if you do get one, you'd better invite me for some fish!"
-
-    old "You have obtained [fish_count] [fish_message]"
-    new "You have obtained [fish_count] [fish_message]"
-
-    old "No, I'm not very good when it comes to patience."
-    new "No, I'm not very good when it comes to patience."
-
-    old "If I could fight them like they were monsters, maybe I'd give it a try."
-    new "If I could fight them like they were monsters, maybe I'd give it a try."
-
-    old "Yes, thanks for giving me the idea."
-    new "Yes, thanks for giving me the idea."
-
-    old "[mc], of the fishing rod!"
-    new "[mc], of the fishing rod!"
 
     old "E rank fish!"
     new "E rank fish!"
 
-    old "I hope I didn't hurt you."
-    new "I hope I didn't hurt you."
-
-    old "Have you already asked Natsuki?"
-    new "Have you already asked Natsuki?"
-
-    old "W-Well... {w}they look beautiful and have a very defined shape..."
-    new "W-Well... {w}they look beautiful and have a very defined shape..."
-
-    old "I give you my word."
-    new "I give you my word."
-
-    old "Perhaps, {w}many adventurers leave things forgotten in the lounge."
-    new "Perhaps, {w}many adventurers leave things forgotten in the lounge."
-
-    old "Go ask her, {w}you've got nothing to lose."
-    new "Go ask her, {w}you've got nothing to lose."
-
-    old "Oh, but be careful at night. I heard there are some fish that can yank you, rod and all, into the river."
-    new "Oh, but be careful at night. I heard there are some fish that can yank you, rod and all, into the river."
-
-    old "It seems that something has bitten!"
-    new "It seems that something has bitten!"
-
-    old "Oh, hahaha."
-    new "Oh, hahaha."
-
-    old "So, what do you think?"
-    new "So, what do you think?"
-
     old "A rank fish!"
     new "A rank fish!"
-
-    old "But you have never tried it?"
-    new "But you have never tried it?"
-
-    old "I'm interested in fishing here, but I don't have a good rod for this."
-    new "I'm interested in fishing here, but I don't have a good rod for this."
-
-    old "What the heck were you trying to catch? Hahaha."
-    new "What the heck were you trying to catch? Hahaha."
-
-    old "{size=-6}Sigh...{/size} {w}sorry anyway..."
-    new "{size=-6}Sigh...{/size} {w}sorry anyway..."
-
-    old "I'm sure it will bring you luck."
-    new "I'm sure it will bring you luck."
-
