@@ -7,7 +7,7 @@ translate ukrainian strings:
     new "Кейко"
 
     old "Fox girl"
-    new "дівчина-лисиця"
+    new "Дівчина-лисиця"
 
     old "Fumiko"
     new "Фуміко"
