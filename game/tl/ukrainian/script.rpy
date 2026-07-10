@@ -1095,139 +1095,139 @@ translate ukrainian choice2_b2ebca0f:
 translate ukrainian choice3_d341971e:
 
     # k "This would be a part of what you call heaven."
-    k "This would be a part of what you call heaven."
+    k "Це можна вважати частиною того, що ви назваєте раєм."
 
 # game/game/script.rpy:454
 translate ukrainian choice3_c585a0b1:
 
     # mc "A part? {w}Why?"
-    mc "A part? {w}Why?"
+    mc "Частиною? {w}Чому?"
 
 # game/game/script.rpy:455
 translate ukrainian choice3_8a2ec85e:
 
     # k "Yes, {w}this place was made by me, it lasts as long as I wish."
-    k "Yes, {w}this place was made by me, it lasts as long as I wish."
+    k "Так, {w}я зробила це місце, і воно існує стільки, скільки я забажаю."
 
 # game/game/script.rpy:456
 translate ukrainian choice3_2783a7a0:
 
     # k "You know, {w}it's not widely accepted among gods to interfere with mortals..."
-    k "You know, {w}it's not widely accepted among gods to interfere with mortals..."
+    k "Знаєш, {w}серед богів не є прийнятним втручатися у життя смертних..."
 
 # game/game/script.rpy:458
 translate ukrainian choice3_a9a834f4:
 
     # k "But I wanted to talk to you face to face~{image=corazon}"
-    k "But I wanted to talk to you face to face~{image=corazon}"
+    k "Але я хотіла поговорити з тобою віч-на-віч~{image=corazon}"
 
 # game/game/script.rpy:459
 translate ukrainian choice3_cb0f31f1:
 
     # mc "{size=-6}{i}Gulp*"
-    mc "{size=-6}{i}Gulp*"
+    mc "{size=-6}{i}*Ковть*"
 
 # game/game/script.rpy:460
 translate ukrainian choice3_f57ff4ce:
 
     # mc "W-Why me?"
-    mc "W-Why me?"
+    mc "Ч-Чому саме зі мною?"
 
 # game/game/script.rpy:462
 translate ukrainian choice3_d2265712:
 
     # k "Because I was watching you."
-    k "Because I was watching you."
+    k "Тому що я спостерігала за тобою."
 
 # game/game/script.rpy:463
 translate ukrainian choice3_b530de1f:
 
     # k "You saved that girl without even thinking about it!"
-    k "You saved that girl without even thinking about it!"
+    k "Ти врятував ту дівчину, навіть на секунду не замислюючись!"
 
 # game/game/script.rpy:465
 translate ukrainian choice3_0b7a2a12:
 
     # k "And when I felt your soul, {w}you had no regret about your action."
-    k "And when I felt your soul, {w}you had no regret about your action."
+    k "І коли я відчула твою душу, {w}ти зовсім не шкодував про свій вчинок."
 
 # game/game/script.rpy:466
 translate ukrainian choice3_7bc534df:
 
     # k "I couldn't pass up the opportunity to meet someone like you."
-    k "I couldn't pass up the opportunity to meet someone like you."
+    k "Я не могла впустити можливість зустрітися з кимось на кшталт тебе."
 
 # game/game/script.rpy:467
 translate ukrainian choice3_58c20ba2:
 
     # k "And I wanted to know what kind of person you were."
-    k "And I wanted to know what kind of person you were."
+    k "Мені хотілося знати, якою ти був людиною."
 
 # game/game/script.rpy:468
 translate ukrainian choice3_7a1b05db:
 
     # mc "Stop, you flatter me."
-    mc "Stop, you flatter me."
+    mc "Припини, ти мені лестиш."
 
 # game/game/script.rpy:470
 translate ukrainian choice3_5ea540e9:
 
     # k "{size=-8}And I was bored..."
-    k "{size=-8}And I was bored..."
+    k "{size=-8}Та і я нудьгувала тоді..."
 
 # game/game/script.rpy:471
 translate ukrainian choice3_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Що?"
 
 # game/game/script.rpy:478
 translate ukrainian choice4_75b0e01e:
 
     # mc "Well thanks for answering my questions."
-    mc "Well thanks for answering my questions."
+    mc "Що ж, дякую за відповіді."
 
 # game/game/script.rpy:479
 translate ukrainian choice4_02028834:
 
     # mc "I didn't think a goddess would take the time to talk to me."
-    mc "I didn't think a goddess would take the time to talk to me."
+    mc "Не думав, що Богиня виділить свій час на балачки зі мною."
 
 # game/game/script.rpy:480
 translate ukrainian choice4_0154605c:
 
     # mc "I'll take this as a reward for my action."
-    mc "I'll take this as a reward for my action."
+    mc "Вважатиму це своєю винагородою за вчинки."
 
 # game/game/script.rpy:482
 translate ukrainian choice4_31b4e5c7:
 
     # t "Who would have thought that my life would end like this."
-    t "Who would have thought that my life would end like this."
+    t "Хто б міг подумати, що моє життя закінчиться ось так."
 
 # game/game/script.rpy:483
 translate ukrainian choice4_223ec4d5:
 
     # t "In the blink of an eye."
-    t "In the blink of an eye."
+    t "У мить ока."
 
 # game/game/script.rpy:484
 translate ukrainian choice4_c84581c8:
 
     # t "And I spent my whole life studying and training... pushing people away."
-    t "And I spent my whole life studying and training... pushing people away."
+    t "І все життя я провів навчаючись та тренуючись... відштовхуючи людей довкола."
 
 # game/game/script.rpy:485
 translate ukrainian choice4_5be15508:
 
     # t "What was the meaning of my life?"
-    t "What was the meaning of my life?"
+    t "Який був сенс у моєму житті?"
 
 # game/game/script.rpy:486
 translate ukrainian choice4_29e2019d:
 
     # t "Hahaha.."
-    t "Hahaha.."
+    t "Хахаха.."
 
 # game/game/script.rpy:487
 translate ukrainian choice4_2b35b6fe:
@@ -1239,109 +1239,109 @@ translate ukrainian choice4_2b35b6fe:
 translate ukrainian choice4_37ad2cdb:
 
     # mc "{size=-6}{i}Sigh*"
-    mc "{size=-6}{i}Sigh*"
+    mc "{size=-6}{i}*Подих*"
 
 # game/game/script.rpy:493
 translate ukrainian choice4_9bf986fe:
 
     # k "Wait... {w}I didn't bring you here just to talk~"
-    k "Wait... {w}I didn't bring you here just to talk~"
+    k "Чекай... {w}Я тебе сюди запросила не лише потеревенити~"
 
 # game/game/script.rpy:494
 translate ukrainian choice4_102aa7ae:
 
     # mc "W-What?"
-    mc "W-What?"
+    mc "Щ-Що?"
 
 # game/game/script.rpy:495
 translate ukrainian choice4_28414ca1:
 
     # k "Yes, I have something else in mind...{w} a kind of reward as you say~{image=corazon}"
-    k "Yes, I have something else in mind...{w} a kind of reward as you say~{image=corazon}"
+    k "Так, у мене на думці дещо інше...{w} щось на кшталт винагороди, як ти казав~{image=corazon}"
 
 # game/game/script.rpy:497
 translate ukrainian choice4_c70cc9b1:
 
     # k "That we will both enjoy~{image=corazon}"
-    k "That we will both enjoy~{image=corazon}"
+    k "Чим ми обидва зможемо насолодитися~{image=corazon}"
 
 # game/game/script.rpy:498
 translate ukrainian choice4_ceaada45:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Gulp*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}Gulp*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}*Ковть*"
 
 # game/game/script.rpy:500
 translate ukrainian choice4_55cec405:
 
     # t "Is this what I think it is?"
-    t "Is this what I think it is?"
+    t "Це те, про що я думаю?"
 
 # game/game/script.rpy:501
 translate ukrainian choice4_5f95de90:
 
     # t "Are these the stairs to adulthood?"
-    t "Are these the stairs to adulthood?"
+    t "Сходи до дорослого життя?"
 
 # game/game/script.rpy:502
 translate ukrainian choice4_fdcefcac:
 
     # t "{i}Mom, {w}your abandoned son will finally become an adult."
-    t "{i}Mom, {w}your abandoned son will finally become an adult."
+    t "{i}Мамо, {w}твій покинутий син нарешті стане дорослим."
 
 # game/game/script.rpy:505
 translate ukrainian choice4_a688e7cd:
 
     # k "I'll give you the opportunity to come back to life in a new world!"
-    k "I'll give you the opportunity to come back to life in a new world!"
+    k "Я дам тобі можливість переродитися у новому світі!"
 
 # game/game/script.rpy:506
 translate ukrainian choice4_6bedd863:
 
     # mc "{size=-6}Oh..."
-    mc "{size=-6}Oh..."
+    mc "{size=-6}Ох..."
 
 # game/game/script.rpy:511
 translate ukrainian choice4_dcd86e92:
 
     # k "Oh?"
-    k "Oh?"
+    k "Ох?"
 
 # game/game/script.rpy:512
 translate ukrainian choice4_d4099de1:
 
     # mc "I mean, {w}n-new world?"
-    mc "I mean, {w}n-new world?"
+    mc "Тобто, {w}н-новий світ?"
 
 # game/game/script.rpy:513
 translate ukrainian choice4_b1a79461:
 
     # t "I almost took off my pants..."
-    t "I almost took off my pants..."
+    t "Я ледь штані не почав знімати..."
 
 # game/game/script.rpy:515
 translate ukrainian choice4_8331c54a:
 
     # k "Yes, for your act of bravery."
-    k "Yes, for your act of bravery."
+    k "Так, за твій подвиг."
 
 # game/game/script.rpy:516
 translate ukrainian choice4_574680ca:
 
     # k "I'll reward you with a new life."
-    k "I'll reward you with a new life."
+    k "Я винагороджу тебе новим життям."
 
 # game/game/script.rpy:518
 translate ukrainian choice4_7f7a4931:
 
     # k "Although, I didn't expect you to keep your memories..."
-    k "Although, I didn't expect you to keep your memories..."
+    k "Хоча для мене стало несподіванкою, що ти зберіг свої спогади..."
 
 # game/game/script.rpy:519
 translate ukrainian choice4_3b3cdcc3:
 
     # k "I was going to rebirth you as a new-born baby."
-    k "I was going to rebirth you as a new-born baby."
+    k "Я планувала переродити тебе як новонародженого немовля."
 
 # game/game/script.rpy:520
 translate ukrainian choice4_82091822:
@@ -1353,13 +1353,13 @@ translate ukrainian choice4_82091822:
 translate ukrainian choice4_795e9579:
 
     # k "Well, I'll change my plans."
-    k "Well, I'll change my plans."
+    k "Що ж, зміна планів."
 
 # game/game/script.rpy:523
 translate ukrainian choice4_5ecd0fde:
 
     # k "You'll practically be resurrected."
-    k "You'll practically be resurrected."
+    k "Ти практично воскреснеш."
 
 # game/game/script.rpy:524
 translate ukrainian choice4_2b35b6fe_1:
@@ -1371,73 +1371,73 @@ translate ukrainian choice4_2b35b6fe_1:
 translate ukrainian choice4_6f4fea1f:
 
     # t "Could it be that she's quite carefree...?"
-    t "Could it be that she's quite carefree...?"
+    t "Може бути таке, що вона досить легковажна...?"
 
 # game/game/script.rpy:526
 translate ukrainian choice4_90f13055:
 
     # k "{size=-8}What can go wrong~{image=corazon}"
-    k "{size=-8}What can go wrong~{image=corazon}"
+    k "{size=-8}Що може піти не так~{image=corazon}"
 
 # game/game/script.rpy:527
 translate ukrainian choice4_fb6e3188:
 
     # mc "{size=-6}{i}Eeh..."
-    mc "{size=-6}{i}Eeh..."
+    mc "{size=-6}{i}Еех..."
 
 # game/game/script.rpy:532
 translate ukrainian choice4_6f4b0d5b:
 
     # k "Think of this as a new life with your past memories."
-    k "Think of this as a new life with your past memories."
+    k "Уяви собі це як нове життя зі своїми спогадами про минуле."
 
 # game/game/script.rpy:533
 translate ukrainian choice4_7a59d28c:
 
     # t "It doesn't sound bad at all..."
-    t "It doesn't sound bad at all..."
+    t "Звучить зовсім непогано..."
 
 # game/game/script.rpy:535
 translate ukrainian choice4_b75e89c7:
 
     # k "This is going to be great!{w} I know you'll entertain me a lot!"
-    k "This is going to be great!{w} I know you'll entertain me a lot!"
+    k "Це буде просто супер!{w} Впевнена, ти мене чудово розважиш!"
 
 # game/game/script.rpy:536
 translate ukrainian choice4_78b6e098:
 
     # t "{size=-6}Enterta-"
-    t "{size=-6}Enterta-"
+    t "{size=-6}Розва-"
 
 # game/game/script.rpy:537
 translate ukrainian choice4_55db63d5:
 
     # t "Well, whatever, {w}I'll be able to live again."
-    t "Well, whatever, {w}I'll be able to live again."
+    t "Ну, хай там як, {w}я зможу знову жити."
 
 # game/game/script.rpy:538
 translate ukrainian choice4_b632e553:
 
     # t "Seeing how easy it is to die showed me that I should live my life and not just go with it."
-    t "Seeing how easy it is to die showed me that I should live my life and not just go with it."
+    t "Побачивши, як легко померти, я усівдомив, що я маю жити своє життя, а не плисти за течією."
 
 # game/game/script.rpy:540
 translate ukrainian choice4_7353f7a2:
 
     # mc "If you're willing to give me that option."
-    mc "If you're willing to give me that option."
+    mc "Якщо ти дійсно бажаєш надати мені цю можливість."
 
 # game/game/script.rpy:541
 translate ukrainian choice4_dd079e79:
 
     # mc "I'll make the most of every moment."
-    mc "I'll make the most of every moment."
+    mc "Я витисну максимум із кожної миті."
 
 # game/game/script.rpy:543
 translate ukrainian choice4_c7bdb283:
 
     # k "I'm glad~{image=corazon} {w}I'll always be watching you."
-    k "I'm glad~{image=corazon} {w}I'll always be watching you."
+    k "Я рада~{image=corazon} {w}Я буду завжди спостерігати за тобою."
 
 # game/game/script.rpy:544
 translate ukrainian choice4_b7242d76:
@@ -29124,6 +29124,9 @@ translate ukrainian strings:
 
     # script.rpy:28895 - Фінальний вибір
 
+    # scrip.rpy:1187
+    # ...
+    # scrip.rpy:2622
 
 
 
