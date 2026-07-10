@@ -20,3 +20,6 @@ game/fonts/*
 
 # Ігноруємо автозгенеровані скомпільовані файли Ren'Py, які не потрібні в репозиторії
 *.rpyc
+
+# Ignore vscode settings
+.vscode/
