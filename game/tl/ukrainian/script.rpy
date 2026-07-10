@@ -28911,8 +28911,7 @@ translate ukrainian strings:
     new "Current situation"
 
     # game/script.rpy:1459
-    old "Where are we?"
-    new "Where are we?"
+    # script.rpy:2288
 
     # game/script.rpy:1459
     old "That wolf"
@@ -29128,3098 +29127,2097 @@ translate ukrainian strings:
 
 
 ### NOT SORTED
-    old "{i}The voice disappears."
-    new "{i}The voice disappears."
+    # script.rpy:7107
 
-    old "Rebuild, I would say, {w}have you noticed that our village has stores but they're closed?"
-    new "Rebuild, I would say, {w}have you noticed that our village has stores but they're closed?"
+    # script.rpy:3406
 
-    old "Yuuka, you'll have to die."
-    new "Yuuka, you'll have to die."
+    # script.rpy:3989
 
-    old "I don't think I can hold back much longer... {w}I'm at my limit."
-    new "I don't think I can hold back much longer... {w}I'm at my limit."
+    # script.rpy:1933
 
-    old "I'm not going to hurt you. {w}You already have my trust."
-    new "I'm not going to hurt you. {w}You already have my trust."
+    # script.rpy:1221
 
-    old "I'll still be careful, though."
-    new "I'll still be careful, though."
+    # script.rpy:3699
 
-    old "Your treatment was very effective..."
-    new "Your treatment was very effective..."
+    # script.rpy:7837
 
-    old "P-Perhaps the strange letters were not completely generated yet..."
-    new "P-Perhaps the strange letters were not completely generated yet..."
+    # script.rpy:7210
 
-    old "HAHAHA, he came to die on his own!"
-    new "HAHAHA, he came to die on his own!"
+    # script.rpy:6554
 
-    old "{size=-10}Another annoying noise..."
-    new "{size=-10}Another annoying noise..."
+    # script.rpy:6602
 
-    old "Between you and me, {w}I love it when she blushes."
-    new "Between you and me, {w}I love it when she blushes."
+    # script.rpy:1576
 
-    old "Now I know what I have to do and what my next goal is."
-    new "Now I know what I have to do and what my next goal is."
+    # script.rpy:4437
 
-    old "She's right, you watch that hunter and that demon girl every day."
-    new "She's right, you watch that hunter and that demon girl every day."
+    # script.rpy:8707
 
-    old "If every day was as good as this one, I would be the happiest man alive."
-    new "If every day was as good as this one, I would be the happiest man alive."
+    # script.rpy:5277
 
-    old "She's right... {w}I've already been saved twice..."
-    new "She's right... {w}I've already been saved twice..."
+    # script.rpy:1895
 
-    old "Ah, I forgot to bring the hammer."
-    new "Ah, I forgot to bring the hammer."
+    # script.rpy:2787
 
-    old "I a-am losing my strength."
-    new "I a-am losing my strength."
+    # script.rpy:1735
 
-    old "How did he get here?"
-    new "How did he get here?"
+    # script.rpy:3846
 
     old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
     new "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
 
-    old "It was the first one you asked, wasn't it?"
-    new "It was the first one you asked, wasn't it?"
+    # script.rpy:4363
 
-    old "I don't want anything to do with a guy who just dumps you."
-    new "I don't want anything to do with a guy who just dumps you."
+    # script.rpy:4832
 
-    old "I have not been able to send out for wood to make the doors twice as thick and put Mayu to work."
-    new "I have not been able to send out for wood to make the doors twice as thick and put Mayu to work."
+    # script.rpy:6949
 
-    old "Going back to what you said before, do you sell potions here?"
-    new "Going back to what you said before, do you sell potions here?"
+    # script.rpy:7234
 
-    old "Neither here~"
-    new "Neither here~"
+    # script.rpy:7826
 
-    old "That was quite the battle, wasn't it?"
-    new "That was quite the battle, wasn't it?"
+    # script.rpy:1880
 
-    old "I'm gooooing to faaaaall!"
-    new "I'm gooooing to faaaaall!"
+    # script.rpy:6042
 
-    old "As long as you have me in your memory, I'll never disappear."
-    new "As long as you have me in your memory, I'll never disappear."
+    # script.rpy:3576
 
-    old "Seeing how easy it is to die showed me that I should live my life and not just go with it."
-    new "Seeing how easy it is to die showed me that I should live my life and not just go with it."
+    # script.rpy:538
 
-    old "At least being stuck here gave me time to sort out my thoughts."
-    new "At least being stuck here gave me time to sort out my thoughts."
+    # script.rpy:8816
 
-    old "Do you feel calmer?"
-    new "Do you feel calmer?"
+    # script.rpy:4283
 
-    old "W-What's happening? My head feels like it's going to explode!"
-    new "W-What's happening? My head feels like it's going to explode!"
+    # script.rpy:8545
 
-    old "I can't eat anymore~"
-    new "I can't eat anymore~"
+    # script.rpy:5245
 
-    old "The girls are doing a great job."
-    new "The girls are doing a great job."
+    # script.rpy:3470
 
-    old "I just wanted to see you."
-    new "I just wanted to see you."
+    # script.rpy:7768
 
-    old "I'll camp here for the night."
-    new "I'll camp here for the night."
+    # script.rpy:879
 
-    old "Running? {w}From that thing?"
-    new "Running? {w}From that thing?"
+    # script.rpy:2867
 
-    old "Eh? Have you finished?"
-    new "Eh? Have you finished?"
+    # script.rpy:5904
 
-    old "But why did Fumiko want to save a... {w}demon?"
-    new "But why did Fumiko want to save a... {w}demon?"
+    # script.rpy:3485
 
-    old "{size=-6}Aphrodisiac."
-    new "{size=-6}Aphrodisiac."
+    # script.rpy:7244
 
-    old "This lake is close to where I appeared."
-    new "This lake is close to where I appeared."
+    # script.rpy:894
 
-    old "{size=-10}Why are you crying?"
-    new "{size=-10}Why are you crying?"
+    # script.rpy:4889
 
-    old "Although..."
-    new "Although..."
+    # script.rpy:1482
 
-    old "Sigh... go talk to Mayu, she is more than ready to give you information."
-    new "Sigh... go talk to Mayu, she is more than ready to give you information."
+    # script.rpy:6955
 
-    old "I was told that there are some mixed hot springs."
-    new "I was told that there are some mixed hot springs."
+    # script.rpy:4669
 
-    old "I don't have to explain myself to you, beauty, {w}come in peacefully and no one will get hurt."
-    new "I don't have to explain myself to you, beauty, {w}come in peacefully and no one will get hurt."
+    # script.rpy:6309
 
-    old "I have to be careful, they may be slimes, but the one I just killed gave me some fight."
-    new "I have to be careful, they may be slimes, but the one I just killed gave me some fight."
+    # script.rpy:8489
 
-    old "Y-You don't plan to do b-bad things, do you?"
-    new "Y-You don't plan to do b-bad things, do you?"
+    # script.rpy:7305
 
-    old "Could it be that she's quite carefree...?"
-    new "Could it be that she's quite carefree...?"
+    # script.rpy:525
 
-    old "{sc=1}{outlinecolor=#000000}{size=-6}He waited for the perfect moment..."
-    new "{sc=1}{outlinecolor=#000000}{size=-6}He waited for the perfect moment..."
+    # script.rpy:1694
 
-    old "{size=-8}I'll give you an hourglass, and with my magic, no matter the space or time, it will always flow at the same pace."
-    new "{size=-8}I'll give you an hourglass, and with my magic, no matter the space or time, it will always flow at the same pace."
+    # script.rpy:8656
 
-    old "B-But the strange thing is... {w}{size=-8}Hhnm~{image=corazon}"
-    new "B-But the strange thing is... {w}{size=-8}Hhnm~{image=corazon}"
+    # script.rpy:5439
 
-    old "{sc=1}{outlinecolor=#000000}{size=-8}Do your job, I'm thirsty."
-    new "{sc=1}{outlinecolor=#000000}{size=-8}Do your job, I'm thirsty."
+    # script.rpy:4197
 
-    old "Glad to be of help."
-    new "Glad to be of help."
+    # script.rpy:8217
 
-    old "Do you want me to go talk to their mothers again?"
-    new "Do you want me to go talk to their mothers again?"
+    # script.rpy:4781
 
-    old "He must be nearby!"
-    new "He must be nearby!"
+    # script.rpy:1773
 
-    old "The door... {w}is open?"
-    new "The door... {w}is open?"
+    # script.rpy:2474
 
-    old "I don't know if I should have taught you kendo..."
-    new "I don't know if I should have taught you kendo..."
+    # script.rpy:4792
 
-    old "It was like... floating."
-    new "It was like... floating."
+    # script.rpy:3827
 
-    old "Well, that shows you're feeling better."
-    new "Well, that shows you're feeling better."
+    # script.rpy:4237
 
-    old "But I'm not from around here."
-    new "But I'm not from around here."
+    # script.rpy:1475
 
-    old "And is it necessary to pose like that?"
-    new "And is it necessary to pose like that?"
+    # script.rpy:8167
 
-    old "Y-Yes{w}, no one, {w}not even the gods themselves, will prevent me from staying with you."
-    new "Y-Yes{w}, no one, {w}not even the gods themselves, will prevent me from staying with you."
+    # script.rpy:4884
 
-    old "What we did in the water just now wasn't only for... {w}fun~{image=corazon}"
-    new "What we did in the water just now wasn't only for... {w}fun~{image=corazon}"
+    # script.rpy:2175
 
-    old "Ryoko, {w}can you pass me his sweatshirt?"
-    new "Ryoko, {w}can you pass me his sweatshirt?"
+    # script.rpy:5111
 
-    old "{size=-8}A kiss before we part?"
-    new "{size=-8}A kiss before we part?"
+    # script.rpy:5783
 
-    old "I trust all of you."
-    new "I trust all of you."
+    # script.rpy:8328
 
-    old "That's what you get for always pushing yourself and never resting!"
-    new "That's what you get for always pushing yourself and never resting!"
+    # script.rpy:8860
 
-    old "Well, I'd be worried if he was hopping on one foot like a pervert saying how much he wants to be the leader."
-    new "Well, I'd be worried if he was hopping on one foot like a pervert saying how much he wants to be the leader."
+    # script.rpy:7677
 
-    old "It's not just that..."
-    new "It's not just that..."
+    # script.rpy:8731
 
-    old "Master! You're awake! Are you feeling okay?"
-    new "Master! You're awake! Are you feeling okay?"
+    # script.rpy:8856
 
-    old "{i}Mom, {w}your abandoned son will finally become an adult."
-    new "{i}Mom, {w}your abandoned son will finally become an adult."
+    # script.rpy:502
 
-    old "Someone who is about to be promoted cannot be doing these things."
-    new "Someone who is about to be promoted cannot be doing these things."
+    # script.rpy:8721
 
-    old "Yes honey?"
-    new "Yes honey?"
+    # script.rpy:4840
 
-    old "Or rather... {w}did I ever remember that?"
-    new "Or rather... {w}did I ever remember that?"
+    # script.rpy:3613
 
-    old "You're licking very hard..."
-    new "You're licking very hard..."
+    # script.rpy:4400
 
-    old "Something that suits me in a world where I'll start from zero..."
-    new "Something that suits me in a world where I'll start from zero..."
+    # script.rpy:767
 
-    old "With her uncontrollable crying, {w}she stuck to Hana together with the two girls who were just as confused as I was about what had just happened..."
-    new "With her uncontrollable crying, {w}she stuck to Hana together with the two girls who were just as confused as I was about what had just happened..."
+    # script.rpy:6826
 
-    old "{size=-6}What matters is that you had someone who wanted you to escape, and you did."
-    new "{size=-6}What matters is that you had someone who wanted you to escape, and you did."
+    # script.rpy:1284
 
-    old "My stay in this world just keeps getting better and better..."
-    new "My stay in this world just keeps getting better and better..."
+    # script.rpy:5814
 
-    old "{size=-10}I thought I would lose someone again..."
-    new "{size=-10}I thought I would lose someone again..."
+    # script.rpy:6815
 
-    old "Oh {w}my{w} Goddesses!"
-    new "Oh {w}my{w} Goddesses!"
+    # script.rpy:1841
 
-    old "Perfect, let's move on, to the lake area."
-    new "Perfect, let's move on, to the lake area."
+    # script.rpy:2797
 
-    old "Aaah right, {w}hahaha {w}that guy took it from me."
-    new "Aaah right, {w}hahaha {w}that guy took it from me."
+    # script.rpy:6619
 
     old "You have collected some sticks"
     new "You have collected some sticks"
 
-    old "Ah err... {w}and the one that got away? {w}Is it not a danger for us that he will seek revenge or call in more bandits?"
-    new "Ah err... {w}and the one that got away? {w}Is it not a danger for us that he will seek revenge or call in more bandits?"
+    # script.rpy:5770
 
-    old "What are you supposed to be doing?"
-    new "What are you supposed to be doing?"
+    # script.rpy:5906
 
-    old "There's nothing in the rules that says this is forbidden."
-    new "There's nothing in the rules that says this is forbidden."
+    # script.rpy:8621
 
-    old "Will you please stop with your stupid lies?"
-    new "Will you please stop with your stupid lies?"
+    # script.rpy:4032
 
-    old "I trust that you have good ideas to improve this little village."
-    new "I trust that you have good ideas to improve this little village."
+    # script.rpy:7862
 
-    old "You never change..."
-    new "You never change..."
+    # script.rpy:8078
 
-    old "I must come in the morning."
-    new "I must come in the morning."
+    # script.rpy:7134
 
-    old "Hello, {w}I was told that-"
-    new "Hello, {w}I was told that-"
+    # script.rpy:7465
 
-    old "If you ever need anything, the Adventurer's lounge manager is here to serve you!"
-    new "If you ever need anything, the Adventurer's lounge manager is here to serve you!"
+    # script.rpy:4714
 
-    old "It's our job."
-    new "It's our job."
+    # script.rpy:7428
 
-    old "You're just like your father."
-    new "You're just like your father."
+    # script.rpy:4829
 
-    old "She doesn't tell me much about her other than everything I know, {w}It is very rare that she talks about herself."
-    new "She doesn't tell me much about her other than everything I know, {w}It is very rare that she talks about herself."
+    # script.rpy:5139
 
-    old "I'm not wise like Hana nor do I know how to make the best decisions like Yui."
-    new "I'm not wise like Hana nor do I know how to make the best decisions like Yui."
+    # script.rpy:8300
 
-    old "But, it doesn't look dangerous at all..."
-    new "But, it doesn't look dangerous at all..."
+    # script.rpy:8451
 
-    old "Not sure if that's something to be proud of..."
-    new "Not sure if that's something to be proud of..."
+    # script.rpy:1570
 
-    old "Hold on tight Ryoko."
-    new "Hold on tight Ryoko."
+    # script.rpy:5504
 
-    old "Time for what?"
-    new "Time for what?"
+    # script.rpy:8532
 
-    old "Did she just realize?"
-    new "Did she just realize?"
+    # script.rpy:8833
 
-    old "I'm glad to hear that, all thanks to you."
-    new "I'm glad to hear that, all thanks to you."
+    # script.rpy:7730
 
-    old "Yees, come in."
-    new "Yees, come in."
+    # script.rpy:7460
 
-    old "Exactly, you don't want to know what I'll do to you if you make me angry."
-    new "Exactly, you don't want to know what I'll do to you if you make me angry."
+    # script.rpy:8884
 
-    old "{size=-8}{i}I've never done this before..."
-    new "{size=-8}{i}I've never done this before..."
+    # script.rpy:554
 
-    old "Can you stop making that face?!"
-    new "Can you stop making that face?!"
+    # script.rpy:5700
 
-    old "I should go and have Hana check me..."
-    new "I should go and have Hana check me..."
+    # script.rpy:6616
 
-    old "These could be great places for adventurers and travelers to stay."
-    new "These could be great places for adventurers and travelers to stay."
+    # script.rpy:8235
 
-    old "And why are you still here?"
-    new "And why are you still here?"
+    # script.rpy:6273
 
-    old "Waa~ {w}That looks painful."
-    new "Waa~ {w}That looks painful."
+    # script.rpy:6199
 
-    old "I told you to be more careful."
-    new "I told you to be more careful."
+    # script.rpy:3246
 
-    old "I thought Charlotte wouldn't like water."
-    new "I thought Charlotte wouldn't like water."
+    # script.rpy:5354
 
-    old "I was just telling the truth."
-    new "I was just telling the truth."
+    # script.rpy:5126
 
-    old "Then again, I don't know what I was expecting."
-    new "Then again, I don't know what I was expecting."
+    # script.rpy:956
 
     old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
     new "{i}You feel like an inexplicable energy runs through your whole \"body\"."
 
-    old "This is nothing! I can still handle more!"
-    new "This is nothing! I can still handle more!"
+    # script.rpy:8058
 
-    old "Wanna go watch the mortals?"
-    new "Wanna go watch the mortals?"
+    # script.rpy:8772
 
-    old "You can rest here."
-    new "You can rest here."
+    # script.rpy:7804
 
-    old "Say what you want, but being able to do that is a talent..."
-    new "Say what you want, but being able to do that is a talent..."
+    # script.rpy:8071
 
     old "And the wolf died."
     new "And the wolf died."
 
-    old "Eeh, {w}I thought I did a good job."
-    new "Eeh, {w}I thought I did a good job."
+    # script.rpy:6186
 
-    old "I feel they're hiding something very important from me."
-    new "I feel they're hiding something very important from me."
+    # script.rpy:4346
 
-    old "{size=-5}I t-thought you were..."
-    new "{size=-5}I t-thought you were..."
+    # script.rpy:4632
 
-    old "I could go with you."
-    new "I could go with you."
+    # script.rpy:3739
 
-    old "Ahm... uHm... just... {w}leave them there... {w}I'll take care of it later..."
-    new "Ahm... uHm... just... {w}leave them there... {w}I'll take care of it later..."
+    # script.rpy:7010
 
     old "Without hesitation, as if your shame of being naked in front of someone had vanished..."
     new "Without hesitation, as if your shame of being naked in front of someone had vanished..."
 
-    old "Yes, it seems that our client already has a bounty on his head."
-    new "Yes, it seems that our client already has a bounty on his head."
+    # script.rpy:7318
 
-    old "Well, I'll put them in my pockets and take them to Mayu."
-    new "Well, I'll put them in my pockets and take them to Mayu."
+    # script.rpy:6988
 
-    old "The water looks crystal clear."
-    new "The water looks crystal clear."
+    # script.rpy:901
 
-    old "You dog! {w}I knew you were my enemy!"
-    new "You dog! {w}I knew you were my enemy!"
+    # script.rpy:6259
 
     old "{b}Don't leave."
     new "{b}Don't leave."
 
-    old "{size=-6}I don't know what they would do..."
-    new "{size=-6}I don't know what they would do..."
+    # script.rpy:592
 
     old "The girls woke up one by one."
     new "The girls woke up one by one."
 
-    old "The magic of the goddesses has healing properties."
-    new "The magic of the goddesses has healing properties."
+    # script.rpy:4429
 
-    old "The food is going to get cold."
-    new "The food is going to get cold."
+    # script.rpy:5190
 
-    old "I see, then this place..."
-    new "I see, then this place..."
+    # script.rpy:8251
 
-    old "She canceled it..."
-    new "She canceled it..."
+    # script.rpy:3925
 
-    old "{size=-8}This is absolute madness that you want me to be a part of."
-    new "{size=-8}This is absolute madness that you want me to be a part of."
+    # script.rpy:8657
 
-    old "{size=-10}I lost everything... {w}maybe you still have time..."
-    new "{size=-10}I lost everything... {w}maybe you still have time..."
+    # script.rpy:6078
 
-    old "Master [mc], what are you doing?"
-    new "Master [mc], what are you doing?"
+    # script.rpy:8559
 
-    old "After that..."
-    new "After that..."
+    # script.rpy:1293
 
-    old "M-Master? {w}How much longer do you need?"
-    new "M-Master? {w}How much longer do you need?"
+    # script.rpy:5388
 
-    old "{sc=1}{outlinecolor=#000000}Hello Shika!"
-    new "{sc=1}{outlinecolor=#000000}Hello Shika!"
+    # script.rpy:8846
 
-    old "I don't even know what I expected."
-    new "I don't even know what I expected."
+    # script.rpy:5995
 
-    old "I'll go and come back quickly."
-    new "I'll go and come back quickly."
+    # script.rpy:3736
 
-    old "I believe there are still remnants scattered around that world."
-    new "I believe there are still remnants scattered around that world."
+    # script.rpy:4025
 
-    old "I remember seeing a map the mercenaries had."
-    new "I remember seeing a map the mercenaries had."
+    # script.rpy:1519
 
-    old "It wasn't the best but there's not much to expect from the cold ground."
-    new "It wasn't the best but there's not much to expect from the cold ground."
+    # script.rpy:1342
 
-    old "I can't believe I was defeated by a pig."
-    new "I can't believe I was defeated by a pig."
+    # script.rpy:2891
 
-    old "Maybe if you had children with all of us, they could be raised to be like you."
-    new "Maybe if you had children with all of us, they could be raised to be like you."
+    # script.rpy:4735
 
-    old "Mmm? What's wrong with it? {w}It's like when we bathe together."
-    new "Mmm? What's wrong with it? {w}It's like when we bathe together."
+    # script.rpy:5082
 
-    old "Well, that was because there was no need to have them open when there was no one to do business with, {w}but now we must prepare."
-    new "Well, that was because there was no need to have them open when there was no one to do business with, {w}but now we must prepare."
+    # script.rpy:3410
 
-    old "If it weren't for those strange symbols, I'd think these were just simple ruins."
-    new "If it weren't for those strange symbols, I'd think these were just simple ruins."
+    # script.rpy:869
 
-    old "She's always so enthusiastic."
-    new "She's always so enthusiastic."
+    # script.rpy:3226
 
-    old "But it wasn't the time or the way to tell her about those things, Shika."
-    new "But it wasn't the time or the way to tell her about those things, Shika."
+    # script.rpy:8752
 
-    old "Do you only know how to apologize?"
-    new "Do you only know how to apologize?"
+    # script.rpy:2519
 
-    old "{sc=2}{outlinecolor=#000000}Shit, shit, shit."
-    new "{sc=2}{outlinecolor=#000000}Shit, shit, shit."
+    # script.rpy:1593
 
-    old "I haven't seen a single soul... {w}Did they really send me this far?"
-    new "I haven't seen a single soul... {w}Did they really send me this far?"
+    # script.rpy:898
 
-    old "W-What? {w}Who?"
-    new "W-What? {w}Who?"
+    # script.rpy:6860
 
-    old "To put the sign outside."
-    new "To put the sign outside."
+    # script.rpy:7194
 
     old "{size=-10}{b}I could show you..."
     new "{size=-10}{b}I could show you..."
 
-    old "{size=-6}Ugh... my head... {w}How much time has passed?"
-    new "{size=-6}Ugh... my head... {w}How much time has passed?"
+    # script.rpy:8787
 
-    old "We have to get nice and clean~"
-    new "We have to get nice and clean~"
+    # script.rpy:5309
 
     old "{font=fonts/Ebrima.ttf}Goddesses' Whim is an {b}Adult Visual Novel{/b}, \ncharacters depicted in this game are 18 years of age or older."
     new "{font=fonts/Ebrima.ttf}Goddesses' Whim is an {b}Adult Visual Novel{/b}, \ncharacters depicted in this game are 18 years of age or older."
 
-    old "{i}{size=-6}Maybe... {w=0.5}this place could be useful..."
-    new "{i}{size=-6}Maybe... {w=0.5}this place could be useful..."
+    # script.rpy:7900
 
-    old "Hello? Is anyone there?"
-    new "Hello? Is anyone there?"
+    # script.rpy:2466
 
-    old "Why do you ask him that, Sensei? {w}Do you find his face handsome and feel it's a waste for him to hide it?"
-    new "Why do you ask him that, Sensei? {w}Do you find his face handsome and feel it's a waste for him to hide it?"
+    # script.rpy:7299
 
-    old "I'm really spoiling you."
-    new "I'm really spoiling you."
+    # script.rpy:4446
 
-    old "But I'm not complaining."
-    new "But I'm not complaining."
+    # script.rpy:621
 
-    old "Why are you going to do that stupid crazy thing?"
-    new "Why are you going to do that stupid crazy thing?"
+    # script.rpy:7382
 
-    old "You're not dead. {w}You're just asleep."
-    new "You're not dead. {w}You're just asleep."
+    # script.rpy:1879
 
-    old "Do you know why the girls are looking at me more than usual?"
-    new "Do you know why the girls are looking at me more than usual?"
+    # script.rpy:7622
 
-    old "Just those words were enough for me to understand it all"
-    new "Just those words were enough for me to understand it all"
+    # script.rpy:8740
 
-    old "Without you, I'd probably be dead."
-    new "Without you, I'd probably be dead."
+    # script.rpy:1216
 
-    old "Is that a slime?"
-    new "Is that a slime?"
+    # script.rpy:8448
 
-    old "{size=-6}Thank you M-Master..."
-    new "{size=-6}Thank you M-Master..."
+    # script.rpy:1374
 
-    old "{size=-6}I think you've made up your mind since the guy opened his mouth..."
-    new "{size=-6}I think you've made up your mind since the guy opened his mouth..."
+    # script.rpy:6336
 
-    old "{b}If not, she will have to be punished."
-    new "{b}If not, she will have to be punished."
+    # script.rpy:7494
 
-    old "Let's get down to business."
-    new "Let's get down to business."
+    # script.rpy:7504
 
-    old "It feels so peaceful.. It doesn't feel like my original world at all."
-    new "It feels so peaceful.. It doesn't feel like my original world at all."
+    # script.rpy:827
 
-    old "I want you to be the one who understands it the most, since you will be making the decisions from now on..."
-    new "I want you to be the one who understands it the most, since you will be making the decisions from now on..."
+    # script.rpy:7977
 
-    old "She's in danger or will be soon."
-    new "She's in danger or will be soon."
+    # script.rpy:705
 
-    old "But there she is, looking at me with those playful eyes."
-    new "But there she is, looking at me with those playful eyes."
+    # script.rpy:2039
 
-    old "So she does know her..."
-    new "So she does know her..."
+    # script.rpy:2155
 
-    old "This is what she meant by {w}\"You'll know it when the time comes\"?"
-    new "This is what she meant by {w}\"You'll know it when the time comes\"?"
+    # script.rpy:1301
 
-    old "I know I already said this, but... she's really cute.."
-    new "I know I already said this, but... she's really cute.."
+    # script.rpy:1371
 
-    old "Think of this as a new life with your past memories."
-    new "Think of this as a new life with your past memories."
+    # script.rpy:532
 
-    old "Don't I disgust you? {w}Doesn't it bother you that I'm here...?"
-    new "Don't I disgust you? {w}Doesn't it bother you that I'm here...?"
+    # script.rpy:1203
 
-    old "I was about to..."
-    new "I was about to..."
+    # script.rpy:3266
 
-    old "{i}{size=-15}I have to do it... {w}I have to keep safe the place where you will return..."
-    new "{i}{size=-15}I have to do it... {w}I have to keep safe the place where you will return..."
+    # script.rpy:6252
 
-    old "Nothing personal precious, {w}you already lost the game since I set foot here."
-    new "Nothing personal precious, {w}you already lost the game since I set foot here."
+    # script.rpy:6375
 
-    old "When did I tell her my name?"
-    new "When did I tell her my name?"
+    # script.rpy:597
 
-    old "Hahaha, {w}I'm happy for you."
-    new "Hahaha, {w}I'm happy for you."
+    # script.rpy:4685
 
-    old "{size=-10}S-Shut up! {w}I'm waiting for you! And I do what I want!"
-    new "{size=-10}S-Shut up! {w}I'm waiting for you! And I do what I want!"
+    # script.rpy:5168
 
-    old "No... relax, maybe I just need to go for a walk for a while."
-    new "No... relax, maybe I just need to go for a walk for a while."
+    # script.rpy:5984
 
-    old "Why is there no one at the guard post...?"
-    new "Why is there no one at the guard post...?"
+    # script.rpy:6086
 
-    old "Always doing whatever you want!"
-    new "Always doing whatever you want!"
+    # script.rpy:6772
 
-    old "That... {w}that was weird, why was I talking with my mom? {w}At her grave?"
-    new "That... {w}that was weird, why was I talking with my mom? {w}At her grave?"
+    # script.rpy:4900
 
-    old "First, we need to do something about your clothes."
-    new "First, we need to do something about your clothes."
+    # script.rpy:1413
 
-    old "{sc=2}{outlinecolor=#000000}{size=-6}Let go of me!"
-    new "{sc=2}{outlinecolor=#000000}{size=-6}Let go of me!"
+    # script.rpy:1736
 
-    old "{size=-8}Hanm~{image=corazon}{/size} {w}S-Shika didn't know what..."
-    new "{size=-8}Hanm~{image=corazon}{/size} {w}S-Shika didn't know what..."
+    # script.rpy:5430
 
-    old "Aoi, {w}my mother used to tell me that when I see that my man wants to be alone, I have to give him space."
-    new "Aoi, {w}my mother used to tell me that when I see that my man wants to be alone, I have to give him space."
+    # script.rpy:5988
 
-    old "That sounds interesting."
-    new "That sounds interesting."
+    # script.rpy:3412
 
-    old "What do you think you're doing with a mortal in your world?"
-    new "What do you think you're doing with a mortal in your world?"
+    # script.rpy:4143
 
-    old "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
-    new "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
+    # script.rpy:2354
 
-    old "Can we go now?"
-    new "Can we go now?"
+    # script.rpy:5098
 
-    old "The water is warm."
-    new "The water is warm."
+    # script.rpy:8440
 
-    old "Did something bite you?"
-    new "Did something bite you?"
+    # script.rpy:7216
 
-    old "I haven't seen him for a long time, I thought he was dead, HAHAHA."
-    new "I haven't seen him for a long time, I thought he was dead, HAHAHA."
+    # script.rpy:4804
 
-    old "{size=-6}The truth is... {w}I have nowhere else to go..."
-    new "{size=-6}The truth is... {w}I have nowhere else to go..."
+    # script.rpy:1385
 
-    old "{size=-7}{i}He looks so calm..."
-    new "{size=-7}{i}He looks so calm..."
+    # script.rpy:1324
 
-    old "But to think that everything that just happened was out of the sheer boredom of that goddess."
-    new "But to think that everything that just happened was out of the sheer boredom of that goddess."
+    # script.rpy:601
 
-    old "Well, I'll change my plans."
-    new "Well, I'll change my plans."
+    # script.rpy:522
 
-    old "{size=-10}{i}That's why no wolves appeared at the beginning."
-    new "{size=-10}{i}That's why no wolves appeared at the beginning."
+    # script.rpy:2861
 
-    old "I'm going to clean this up."
-    new "I'm going to clean this up."
+    # script.rpy:5265
 
-    old "Hehehe {w}the water is perfect!"
-    new "Hehehe {w}the water is perfect!"
+    # script.rpy:5305
 
-    old "I'm happy that Ryoko was able to see a friend again."
-    new "I'm happy that Ryoko was able to see a friend again."
+    # script.rpy:4657
 
-    old "If your family was in a house engulfed in flames, wouldn't you go?"
-    new "If your family was in a house engulfed in flames, wouldn't you go?"
+    # script.rpy:6271
 
-    old "Did I just die without noticing?"
-    new "Did I just die without noticing?"
+    # script.rpy:5307
 
-    old "Hmm... {w=0.5}\"I'm not the leader {w}{b}yet{/b}\"?..."
-    new "Hmm... {w=0.5}\"I'm not the leader {w}{b}yet{/b}\"?..."
+    # script.rpy:8002
 
-    old "I-It's pushing me away!"
-    new "I-It's pushing me away!"
+    # script.rpy:6731
 
-    old "Did I cause the collapse?"
-    new "Did I cause the collapse?"
+    # script.rpy:873
 
-    old "Were you that cat?"
-    new "Were you that cat?"
+    # script.rpy:4518
 
-    old "That must be the way out of this alley."
-    new "That must be the way out of this alley."
+    # script.rpy:2369
 
-    old "HaHN~{image=corazon} {w}H-Human~{image=corazon}{image=corazon} {w}W-Wauit~{image=corazon}"
-    new "HaHN~{image=corazon} {w}H-Human~{image=corazon}{image=corazon} {w}W-Wauit~{image=corazon}"
+    # script.rpy:5571
 
-    old "Thank you for taking care of me. But now you need to rest too, right?"
-    new "Thank you for taking care of me. But now you need to rest too, right?"
+    # script.rpy:2330
 
-    old "Well... {w}I have knowledge of my other world..."
-    new "Well... {w}I have knowledge of my other world..."
+    # script.rpy:7863
 
-    old "Ok, I'll follow you."
-    new "Ok, I'll follow you."
+    # script.rpy:2646
 
-    old "This guy is annoying me, It's like he doesn't take me seriously."
-    new "This guy is annoying me, It's like he doesn't take me seriously."
+    # script.rpy:2972
 
-    old "You've been spacing out for a while."
-    new "You've been spacing out for a while."
+    # script.rpy:3725
 
-    old "Ahem*, I'm looking for the doctor. Yui told me I could find her here..."
-    new "Ahem*, I'm looking for the doctor. Yui told me I could find her here..."
+    # script.rpy:2660
 
-    old "Isn't it obvious? {w}I'm just getting a bit more comfortable."
-    new "Isn't it obvious? {w}I'm just getting a bit more comfortable."
+    # script.rpy:1924
 
-    old "{size=-6}I promise, I'm the best at keeping secrets."
-    new "{size=-6}I promise, I'm the best at keeping secrets."
+    # script.rpy:593
 
-    old "That's what I've been trying to explain from the beginning..."
-    new "That's what I've been trying to explain from the beginning..."
+    # script.rpy:2668
 
-    old "I'm not going to hurt you..."
-    new "I'm not going to hurt you..."
+    # script.rpy:1155
 
-    old "Glad to hear that, and how did her mother treat you?"
-    new "Glad to hear that, and how did her mother treat you?"
+    # script.rpy:7641
 
-    old "What thighs! {w}I'm not thinking about anything!"
-    new "What thighs! {w}I'm not thinking about anything!"
+    # script.rpy:3432
 
-    old "That voice again."
-    new "That voice again."
+    # script.rpy:3054
 
-    old "Today you all wanted to do something for me, {w}I must reciprocate."
-    new "Today you all wanted to do something for me, {w}I must reciprocate."
+    # script.rpy:5573
 
-    old "Thank you for listening."
-    new "Thank you for listening."
+    # script.rpy:8204
 
-    old "There it is."
-    new "There it is."
+    # script.rpy:3801
 
-    old "Exactly, I hope you didn't have the need to use it."
-    new "Exactly, I hope you didn't have the need to use it."
+    # script.rpy:7783
 
-    old "After that, go to rest."
-    new "After that, go to rest."
+    # script.rpy:3363
 
-    old "{color=#FFFCA9}You got up early today."
-    new "{color=#FFFCA9}You got up early today."
+    # script.rpy:7608
 
-    old "Can you keep that a secret? {w}I don't want to attract too much attention..."
-    new "Can you keep that a secret? {w}I don't want to attract too much attention..."
+    # script.rpy:1498
 
-    old "Not that I mind, {w}but I don't like being the only one without clothes..."
-    new "Not that I mind, {w}but I don't like being the only one without clothes..."
+    # script.rpy:1835
 
-    old "Ah yes, what did she tell you?"
-    new "Ah yes, what did she tell you?"
+    # script.rpy:5428
 
-    old "Shall I wash your hair?~"
-    new "Shall I wash your hair?~"
+    # script.rpy:5301
 
-    old "{size=-6}{i}Well... he is a man after all."
-    new "{size=-6}{i}Well... he is a man after all."
+    # script.rpy:8096
 
-    old "{sc=3}{outlinecolor=#000000}Leader! {w=0.5}Leader! {w=0.5}Leader!~{image=corazon}"
-    new "{sc=3}{outlinecolor=#000000}Leader! {w=0.5}Leader! {w=0.5}Leader!~{image=corazon}"
+    # script.rpy:8379
 
-    old "One down, two to g-{w=0.5}{nw}"
-    new "One down, two to g-{w=0.5}{nw}"
+    # script.rpy:1651
 
-    old "Wow! We really went back to the forest."
-    new "Wow! We really went back to the forest."
+    # script.rpy:2700
 
-    old "Our common enemy is attacking you, right? I'm coming with you."
-    new "Our common enemy is attacking you, right? I'm coming with you."
+    # script.rpy:6274
 
-    old "{size=-6}Are we in the right place?"
-    new "{size=-6}Are we in the right place?"
+    # script.rpy:8060
 
-    old "There was a time when I was in this village."
-    new "There was a time when I was in this village."
+    # script.rpy:4662
 
-    old "W-What? {w}What was that?"
-    new "W-What? {w}What was that?"
+    # script.rpy:5968
 
-    old "Do you want to cry on your mother's chest?~{image=/bg/icons/heart_text.png}"
-    new "Do you want to cry on your mother's chest?~{image=/bg/icons/heart_text.png}"
+    # script.rpy:4785
 
-    old "{color=#86CDB7}{size=-6}I've noticed how it bothers you when you hold your weapon."
-    new "{color=#86CDB7}{size=-6}I've noticed how it bothers you when you hold your weapon."
+    # script.rpy:8529
 
-    old "It doesn't sound bad at all..."
-    new "It doesn't sound bad at all..."
+    # script.rpy:533
 
-    old "I'll also give you my blessing."
-    new "I'll also give you my blessing."
+    # script.rpy:544
 
-    old "I still can't even touch you Maaaster~"
-    new "I still can't even touch you Maaaster~"
+    # script.rpy:5024
 
-    old "HAHAHA I'm unstoppable!!"
-    new "HAHAHA I'm unstoppable!!"
+    # script.rpy:6061
 
-    old "If it gets too complicated, it is better to escape and come back later."
-    new "If it gets too complicated, it is better to escape and come back later."
+    # script.rpy:8491
 
-    old "That's an {sc=2}{outlinecolor=#000000}ORDER!"
-    new "That's an {sc=2}{outlinecolor=#000000}ORDER!"
+    # script.rpy:1608
 
-    old "Hahaha, all right. After you."
-    new "Hahaha, all right. After you."
+    # script.rpy:2282
 
-    old "That sounds like flirting, {w}are you flirting with me? {w}Because it's working."
-    new "That sounds like flirting, {w}are you flirting with me? {w}Because it's working."
+    # script.rpy:7082
 
-    old "Sorry... I tried to hold it back, but-"
-    new "Sorry... I tried to hold it back, but-"
+    # script.rpy:1946
 
-    old "It's a little tight in the... {w}crotch..."
-    new "It's a little tight in the... {w}crotch..."
+    # script.rpy:7555
 
-    old "And I spent my whole life studying and training... pushing people away."
-    new "And I spent my whole life studying and training... pushing people away."
+    # script.rpy:484
 
-    old "I-I-II-Iris!!!"
-    new "I-I-II-Iris!!!"
+    # script.rpy:7566
 
-    old "But what could I use...?"
-    new "But what could I use...?"
+    # script.rpy:906
 
-    old "Take it, {w}are you hungry?"
-    new "Take it, {w}are you hungry?"
+    # script.rpy:1167
 
-    old "My thoughts won over me."
-    new "My thoughts won over me."
+    # script.rpy:7715
 
-    old "{size=-6}{i}Interesting..."
-    new "{size=-6}{i}Interesting..."
+    # script.rpy:7280
 
-    old "And she mentioned something about being \"related to that woman\"."
-    new "And she mentioned something about being \"related to that woman\"."
+    # script.rpy:4245
 
-    old "{sc=2}{outlinecolor=#000000}Someone, please! {w}HELP!"
-    new "{sc=2}{outlinecolor=#000000}Someone, please! {w}HELP!"
+    # script.rpy:1686
 
-    old "I don't want to see my doctor angry."
-    new "I don't want to see my doctor angry."
+    # script.rpy:8882
 
-    old "At first she only came back at night, but now I see her hanging around the house a lot more."
-    new "At first she only came back at night, but now I see her hanging around the house a lot more."
+    # script.rpy:3674
 
-    old "That was something you read wrong!"
-    new "That was something you read wrong!"
+    # script.rpy:7207
 
-    old "Whoever you are, {w}losing blood is bad for the body."
-    new "Whoever you are, {w}losing blood is bad for the body."
+    # script.rpy:5697
 
-    old "I wish I could cook like Akane..."
-    new "I wish I could cook like Akane..."
+    # script.rpy:5210
 
-    old "Yes! Ggnhm~{image=corazon}{image=corazon} {w}inside, {w}l-leave it inside Human!{image=corazon}{image=corazon}{image=corazon}"
-    new "Yes! Ggnhm~{image=corazon}{image=corazon} {w}inside, {w}l-leave it inside Human!{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:5594
 
-    old "And you know that once she gets an idea in her head, nothing changes it."
-    new "And you know that once she gets an idea in her head, nothing changes it."
+    # script.rpy:8725
 
-    old "You have to know that I'll always be with you."
-    new "You have to know that I'll always be with you."
+    # script.rpy:3575
 
-    old "I will tell you why we are here just because I liked you."
-    new "I will tell you why we are here just because I liked you."
+    # script.rpy:6314
 
-    old "Well, where do you want to start?"
-    new "Well, where do you want to start?"
+    # script.rpy:2286
 
-    old "Buujiii jiji!"
-    new "Buujiii jiji!"
+    # script.rpy:2858
 
-    old "And the dog is not going to do anything in that state."
-    new "And the dog is not going to do anything in that state."
+    # script.rpy:6443
 
-    old "T-Trespassing?!"
-    new "T-Trespassing?!"
+    # script.rpy:3968
 
-    old "And Charlotte?"
-    new "And Charlotte?"
+    # script.rpy:5546
 
-    old "And having you two naked together awakened something in me."
-    new "And having you two naked together awakened something in me."
+    # script.rpy:5575
 
-    old "Can I really eat it?!"
-    new "Can I really eat it?!"
+    # script.rpy:1175
 
-    old "What do you think Sensei?"
-    new "What do you think Sensei?"
+    # script.rpy:7435
 
-    old "This feels familiar...."
-    new "This feels familiar...."
+    # script.rpy:4130
 
-    old "{i}{size=-6}Then I could show you the bikini you were so excited about..."
-    new "{i}{size=-6}Then I could show you the bikini you were so excited about..."
+    # script.rpy:7868
 
-    old "{size=-6}Y-Yeah... {w}that's a good idea."
-    new "{size=-6}Y-Yeah... {w}that's a good idea."
+    # script.rpy:2070
 
-    old "It didn't make sense."
-    new "It didn't make sense."
+    # script.rpy:4772
 
-    old "{b}{i}I must take care of healing it..."
-    new "{b}{i}I must take care of healing it..."
+    # script.rpy:6597
 
-    old "Come or the food will get cold."
-    new "Come or the food will get cold."
+    # script.rpy:3523
 
     old "You go back to sit next to the fire."
     new "You go back to sit next to the fire."
 
-    old "It's going to be all or nothing!"
-    new "It's going to be all or nothing!"
+    # script.rpy:3888
 
-    old "I need to look at it, {w}touch it, {w}feel it!"
-    new "I need to look at it, {w}touch it, {w}feel it!"
+    # script.rpy:7568
 
-    old "Now, [mc], {w}it's your turn."
-    new "Now, [mc], {w}it's your turn."
+    # script.rpy:8292
 
-    old "You may ask, why are we starting to do this?"
-    new "You may ask, why are we starting to do this?"
+    # script.rpy:8144
 
-    old "Are you getting excited just by the idea of doing it with a goddess?"
-    new "Are you getting excited just by the idea of doing it with a goddess?"
+    # script.rpy:4402
 
     old "I had never killed anything before."
     new "I had never killed anything before."
 
-    old "Is something wrong, Fumiko?"
-    new "Is something wrong, Fumiko?"
+    # script.rpy:740
 
-    old "This is very strange. This world is very unbalanced. {w}I know I don't have any experience fighting but."
-    new "This is very strange. This world is very unbalanced. {w}I know I don't have any experience fighting but."
+    # script.rpy:2949
 
-    old "These girls..."
-    new "These girls..."
+    # script.rpy:5311
 
-    old "And someone very important to me is in that place."
-    new "And someone very important to me is in that place."
+    # script.rpy:703
 
-    old "I know you're hungry and I probably look like a tasty piece of meat..."
-    new "I know you're hungry and I probably look like a tasty piece of meat..."
+    # script.rpy:997
 
-    old "I hope the blessing also protects me from stomachaches..."
-    new "I hope the blessing also protects me from stomachaches..."
+    # script.rpy:1197
 
-    old "{sc=3}{outlinecolor=#000000}And now I don't know if she's okay!"
-    new "{sc=3}{outlinecolor=#000000}And now I don't know if she's okay!"
+    # script.rpy:1273
 
-    old "Wow, {w}are you okay?"
-    new "Wow, {w}are you okay?"
+    # script.rpy:5895
 
-    old "{size=-8}I don't have a name..."
-    new "{size=-8}I don't have a name..."
+    # script.rpy:6136
 
-    old "All I see are simple ruins..."
-    new "All I see are simple ruins..."
+    # script.rpy:3809
 
-    old "Hmm... {w}and you have your memories..."
-    new "Hmm... {w}and you have your memories..."
+    # script.rpy:634
 
-    old "It seems like only yesterday that a wolf three times my size buried its fangs in my stomach."
-    new "It seems like only yesterday that a wolf three times my size buried its fangs in my stomach."
+    # script.rpy:2708
 
-    old "What's taking so long?"
-    new "What's taking so long?"
+    # script.rpy:3097
 
-    old "You haven't told me your name..."
-    new "You haven't told me your name..."
+    # script.rpy:3974
 
-    old "Looks like someone is happy."
-    new "Looks like someone is happy."
+    # script.rpy:5250
 
-    old "My name is..."
-    new "My name is..."
+    # script.rpy:3963
 
-    old "Do you know that everything you say gets blown away by the wind if you do it while you're not wearing pants?"
-    new "Do you know that everything you say gets blown away by the wind if you do it while you're not wearing pants?"
+    # script.rpy:5128
 
-    old "Hahaha, Are you crazy?"
-    new "Hahaha, Are you crazy?"
+    # script.rpy:2712
 
-    old "The cat has evolved into Charlottemon..."
-    new "The cat has evolved into Charlottemon..."
+    # script.rpy:4515
 
-    old "It's him! The one who didn't let us capture the high priestess!"
-    new "It's him! The one who didn't let us capture the high priestess!"
+    # script.rpy:6552
 
-    old "{size=-8}W-Where do I drop them off...?"
-    new "{size=-8}W-Where do I drop them off...?"
+    # script.rpy:7006
 
-    old "Good night Ryoko."
-    new "Good night Ryoko."
+    # script.rpy:1309
 
-    old "I'll have to do my part."
-    new "I'll have to do my part."
+    # script.rpy:2969
 
-    old "Mou~ When I saw you passed out, I didn't know what to do!"
-    new "Mou~ When I saw you passed out, I didn't know what to do!"
+    # script.rpy:8859
 
-    old "K-Kill the hostag-!"
-    new "K-Kill the hostag-!"
+    # script.rpy:6417
 
-    old "So, this is the town... {w}It looks kind of... empty?"
-    new "So, this is the town... {w}It looks kind of... empty?"
+    # script.rpy:2367
 
-    old "{size=-8}N-Natsuki?"
-    new "{size=-8}N-Natsuki?"
+    # script.rpy:4622
 
-    old "Thanks for the food!"
-    new "Thanks for the food!"
+    # script.rpy:5948
 
-    old "Staying with someone forever is very hard work, you know?"
-    new "Staying with someone forever is very hard work, you know?"
+    # script.rpy:4870
 
-    old "Thank you, {w}glad to see you doing well Shika."
-    new "Thank you, {w}glad to see you doing well Shika."
+    # script.rpy:7727
 
-    old "W-Who are they?"
-    new "W-Who are they?"
+    # script.rpy:4370
 
-    old "If I'm not mistaken, there should be one close by."
-    new "If I'm not mistaken, there should be one close by."
+    # script.rpy:1520
 
-    old "What's wrong [mc]."
-    new "What's wrong [mc]."
+    # script.rpy:3530
 
-    old "S-She already finished the fish?"
-    new "S-She already finished the fish?"
+    # script.rpy:1245
 
-    old "This is weird."
-    new "This is weird."
+    # script.rpy:3720
 
-    old "What's wrong!?"
-    new "What's wrong!?"
+    # script.rpy:3546
 
-    old "I'll give you a double portion of fish next dinner."
-    new "I'll give you a double portion of fish next dinner."
+    # script.rpy:8038
 
-    old "{size=-8}I will not attack you if you answer me at this time."
-    new "{size=-8}I will not attack you if you answer me at this time."
+    # script.rpy:6129
 
-    old "Oh Doctor! You came to save me!"
-    new "Oh Doctor! You came to save me!"
+    # script.rpy:2638
 
-    old "Just think of it as walking into any other store."
-    new "Just think of it as walking into any other store."
+    # script.rpy:7292
 
-    old "As cute as she looks, she's serious business."
-    new "As cute as she looks, she's serious business."
+    # script.rpy:5000
 
-    old "W-We just spoke a few days ago..."
-    new "W-We just spoke a few days ago..."
+    # script.rpy:1808
 
-    old "Did you m-mention that you h-have to go unnoticed?"
-    new "Did you m-mention that you h-have to go unnoticed?"
+    # script.rpy:7369
 
-    old "I see, good thinking."
-    new "I see, good thinking."
+    # script.rpy:7930
 
-    old "How is the dragon girl?"
-    new "How is the dragon girl?"
+    # script.rpy:5380
 
-    old "So... {w}you two were going to make me... {w}happy?"
-    new "So... {w}you two were going to make me... {w}happy?"
+    # script.rpy:5559
 
-    old "Hahaha, I won't deny that I was very surprised."
-    new "Hahaha, I won't deny that I was very surprised."
+    # script.rpy:5724
 
-    old "It's right behind our house Doctor!"
-    new "It's right behind our house Doctor!"
+    # script.rpy:8249
 
-    old "Stop moving you little-"
-    new "Stop moving you little-"
+    # script.rpy:6403
 
-    old "Nothing. I just wanted to pet you, that's all."
-    new "Nothing. I just wanted to pet you, that's all."
+    # script.rpy:2324
 
-    old "Don't worry! I've been walking like this all my life!"
-    new "Don't worry! I've been walking like this all my life!"
+    # script.rpy:1569
 
-    old "Yeah, just that. {w}You don't like it?"
-    new "Yeah, just that. {w}You don't like it?"
+    # script.rpy:2327
 
-    old "SORRY DOCTOR! {w}THIS IS MY FAULT!"
-    new "SORRY DOCTOR! {w}THIS IS MY FAULT!"
+    # script.rpy:6366
 
-    old "I guess you feel in perfect condition to continue helping out there, right?"
-    new "I guess you feel in perfect condition to continue helping out there, right?"
+    # script.rpy:5254
 
-    old "It feels so comfortable..."
-    new "It feels so comfortable..."
+    # script.rpy:4281
 
-    old "But one thing she told me was that, {w}she lost a lot of people because of her bloodlust..."
-    new "But one thing she told me was that, {w}she lost a lot of people because of her bloodlust..."
+    # script.rpy:5141
 
-    old "As strong as I am..."
-    new "As strong as I am..."
+    # script.rpy:6915
 
-    old "I thought you knew since we fought the orc."
-    new "I thought you knew since we fought the orc."
+    # script.rpy:4520
 
-    old "Yes, but the human is staring at me! {w}He will go into mating mode."
-    new "Yes, but the human is staring at me! {w}He will go into mating mode."
+    # script.rpy:5085
 
-    old "A-And why do you think it's empty?"
-    new "A-And why do you think it's empty?"
+    # script.rpy:4855
 
-    old "{size=-8}{i}Tatakae... {w}tatakae..."
-    new "{size=-8}{i}Tatakae... {w}tatakae..."
+    # script.rpy:7003
 
-    old "But I can help you."
-    new "But I can help you."
+    # script.rpy:5267
 
-    old "I bet he already has a thing with those two girls."
-    new "I bet he already has a thing with those two girls."
+    # script.rpy:4584
 
-    old "Y-You must be tired-"
-    new "Y-You must be tired-"
+    # script.rpy:5566
 
-    old "{sc=1}{outlinecolor=#000000}{size=-8}Gnhgmhgn~{image=corazon}{image=corazon}{image=corazon}"
-    new "{sc=1}{outlinecolor=#000000}{size=-8}Gnhgmhgn~{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:2057
 
-    old "{size=-6}Maybe we can—"
-    new "{size=-6}Maybe we can—"
+    # script.rpy:1169
 
-    old "{size=-8}Goddesses can't intervene in the \"human\" world..."
-    new "{size=-8}Goddesses can't intervene in the \"human\" world..."
+    # script.rpy:710
 
-    old "That goddess was definitely my mother... Although there was something different about her."
-    new "That goddess was definitely my mother... Although there was something different about her."
+    # script.rpy:8817
 
-    old "I have my reasons."
-    new "I have my reasons."
+    # script.rpy:4150
 
-    old "And you don't show the slightest interest."
-    new "And you don't show the slightest interest."
+    # script.rpy:4578
 
-    old "Run as fast as you can and get out of the forest."
-    new "Run as fast as you can and get out of the forest."
+    # script.rpy:1606
 
     old "You continue on your way."
     new "You continue on your way."
 
-    old "She gave me a warm welcom-"
-    new "She gave me a warm welcom-"
+    # script.rpy:7643
 
-    old "Yes! {w}You must be one of those adventurers!"
-    new "Yes! {w}You must be one of those adventurers!"
+    # script.rpy:1478
 
-    old "Goodbye... always remember m-"
-    new "Goodbye... always remember m-"
+    # script.rpy:2612
 
-    old "Hmn~{image=corazon} {w}Nnmn~{image=corazon}{image=corazon} {w}Come on, you can do it~{image=corazon}"
-    new "Hmn~{image=corazon} {w}Nnmn~{image=corazon}{image=corazon} {w}Come on, you can do it~{image=corazon}"
+    # script.rpy:1976
 
-    old "So, an adventurer... I'll have to thank her."
-    new "So, an adventurer... I'll have to thank her."
+    # script.rpy:2299
 
-    old "What's wrong? {w}Do you need help with something...? {w}Or are you still not feeling well?"
-    new "What's wrong? {w}Do you need help with something...? {w}Or are you still not feeling well?"
+    # script.rpy:2320
 
-    old "W-What's with this ridiculous strength? She just broke my guard!"
-    new "W-What's with this ridiculous strength? She just broke my guard!"
+    # script.rpy:3883
 
-    old "That I haven't felt that much monster a-activity {w}{size=-8}Haanm~{image=corazon}{/size} {w} f-for her to be doing that..."
-    new "That I haven't felt that much monster a-activity {w}{size=-8}Haanm~{image=corazon}{/size} {w} f-for her to be doing that..."
+    # script.rpy:5440
 
-    old "Mmm? {w}Is that Yui?"
-    new "Mmm? {w}Is that Yui?"
+    # script.rpy:5725
 
-    old "I never thought I'd grow so attached to someone I met just a few days ago..."
-    new "I never thought I'd grow so attached to someone I met just a few days ago..."
+    # script.rpy:2234
 
-    old "{size=+6}Come on, don't be shy."
-    new "{size=+6}Come on, don't be shy."
+    # script.rpy:3945
 
-    old "Not only could I do nothing, but now I am being very useles-"
-    new "Not only could I do nothing, but now I am being very useles-"
+    # script.rpy:7045
 
-    old "{i}You get up and pick up the fish you dropped a moment ago."
-    new "{i}You get up and pick up the fish you dropped a moment ago."
+    # script.rpy:1162
 
-    old "When did I get here?"
-    new "When did I get here?"
+    # script.rpy:1795
 
-    old "I thought I had timed it right according to what the old rabbit told me."
-    new "I thought I had timed it right according to what the old rabbit told me."
+    # script.rpy:5828
 
-    old "{color=#6998bc}Just turn that corner and go straight to the end! {w}You'll see a house with bamboo trees, she should be there!"
-    new "{color=#6998bc}Just turn that corner and go straight to the end! {w}You'll see a house with bamboo trees, she should be there!"
+    # script.rpy:2400
 
-    old "This place feels very quiet, I don't hear anything from outside."
-    new "This place feels very quiet, I don't hear anything from outside."
+    # script.rpy:7166
 
-    old "But even so, we have been acting individually all this time."
-    new "But even so, we have been acting individually all this time."
+    # script.rpy:8147
 
-    old "Are these the stairs to adulthood?"
-    new "Are these the stairs to adulthood?"
+    # script.rpy:501
 
-    old "{size=-12}What a scare... did he really wake up?"
-    new "{size=-12}What a scare... did he really wake up?"
+    # script.rpy:2209
 
-    old "Well... {w}thank you, Ryoko."
-    new "Well... {w}thank you, Ryoko."
+    # script.rpy:1362
 
-    old "No, thanks."
-    new "No, thanks."
+    # script.rpy:4153
 
-    old "I-Iris! {w}He is a c-criminal! Kikikick him out!"
-    new "I-Iris! {w}He is a c-criminal! Kikikick him out!"
+    # script.rpy:7311
 
-    old "And drop that rock. Sometimes I don't understand humans."
-    new "And drop that rock. Sometimes I don't understand humans."
+    # script.rpy:683
 
-    old "{size=-10}R-Really... {w}you've come three times?~{image=corazon}"
-    new "{size=-10}R-Really... {w}you've come three times?~{image=corazon}"
+    # script.rpy:5611
 
-    old "I should eat too, {w}I don't think I can ask her anything for now."
-    new "I should eat too, {w}I don't think I can ask her anything for now."
+    # script.rpy:1179
 
-    old "Do you have a fever? {w=0.5}Sorry, it's my fault for not noticing."
-    new "Do you have a fever? {w=0.5}Sorry, it's my fault for not noticing."
+    # script.rpy:3553
 
-    old "She made me an offer"
-    new "She made me an offer"
+    # script.rpy:2156
 
-    old "S-She heard me..."
-    new "S-She heard me..."
+    # script.rpy:1995
 
-    old "Then speak quickly."
-    new "Then speak quickly."
+    # script.rpy:2111
 
-    old "I also need to gather some information. {w}I'll ask Ryoko what she knows."
-    new "I also need to gather some information. {w}I'll ask Ryoko what she knows."
+    # script.rpy:1452
 
-    old "Good job girls."
-    new "Good job girls."
+    # script.rpy:3364
 
-    old "Once she takes her katana, I must be careful not to get careless."
-    new "Once she takes her katana, I must be careful not to get careless."
+    # script.rpy:5001
 
-    old "I didn't say anything..."
-    new "I didn't say anything..."
+    # script.rpy:7198
 
-    old "Thanks! No more questions."
-    new "Thanks! No more questions."
+    # script.rpy:8183
 
-    old "Well, it is Mayu after all."
-    new "Well, it is Mayu after all."
+    # script.rpy:7078
 
-    old "Hahaha~ {w}You're so silly~{image=corazon}{image=corazon}"
-    new "Hahaha~ {w}You're so silly~{image=corazon}{image=corazon}"
+    # script.rpy:2108
 
-    old "Still... {w}that means..."
-    new "Still... {w}that means..."
+    # script.rpy:4347
 
-    old "So the girls just come to buy minor potions and leave."
-    new "So the girls just come to buy minor potions and leave."
+    # script.rpy:7780
 
-    old "I'd better check the area, {w}or it'll get dark, and I don't want to have a bad time..."
-    new "I'd better check the area, {w}or it'll get dark, and I don't want to have a bad time..."
+    # script.rpy:846
 
-    old "The leadership of this village?"
-    new "The leadership of this village?"
+    # script.rpy:7661
 
-    old "If even knowing all that, you still trust me to be your leader."
-    new "If even knowing all that, you still trust me to be your leader."
+    # script.rpy:8323
 
-    old "Now in the company of all of you, I have nothing to fear."
-    new "Now in the company of all of you, I have nothing to fear."
+    # script.rpy:2716
 
-    old "Oh... {w}and I thought I'd come early to meet you both."
-    new "Oh... {w}and I thought I'd come early to meet you both."
+    # script.rpy:7174
 
     old "Damn it, he doesn't listen to me."
     new "Damn it, he doesn't listen to me."
 
-    old "The katana that I asked for."
-    new "The katana that I asked for."
+    # script.rpy:831
 
-    old "{size=-6}W-What happened...?"
-    new "{size=-6}W-What happened...?"
+    # script.rpy:1689
 
     old "Now you can go and try your luck in every area that has a fishing icon!"
     new "Now you can go and try your luck in every area that has a fishing icon!"
 
-    old "I'm not so prudent or rational and everything I do are just because of my whims and my way of being."
-    new "I'm not so prudent or rational and everything I do are just because of my whims and my way of being."
+    # script.rpy:8309
 
-    old "Idiot! idiot! iiiiidiiiot!"
-    new "Idiot! idiot! iiiiidiiiot!"
+    # script.rpy:5804
 
-    old "Be proud to have such a friend."
-    new "Be proud to have such a friend."
+    # script.rpy:1287
 
-    old "I'm glad you are well Ryoko."
-    new "I'm glad you are well Ryoko."
+    # script.rpy:6538
 
-    old "Hey pervert! Change of plans!"
-    new "Hey pervert! Change of plans!"
+    # script.rpy:2863
 
-    old "Oh, for the welcome of the new E-Rank adventurer?"
-    new "Oh, for the welcome of the new E-Rank adventurer?"
+    # script.rpy:5741
 
-    old "{size=-6}Yeah... {w}I can feel it too..."
-    new "{size=-6}Yeah... {w}I can feel it too..."
+    # script.rpy:2171
 
-    old "I see, are you feeling better now?"
-    new "I see, are you feeling better now?"
+    # script.rpy:7790
 
-    old "No one, not a single soul was angry or objected to this."
-    new "No one, not a single soul was angry or objected to this."
+    # script.rpy:7849
 
-    old "Haaa~ {w}What good memories..."
-    new "Haaa~ {w}What good memories..."
+    # script.rpy:2710
 
-    old "Yes, whenever you like."
-    new "Yes, whenever you like."
+    # script.rpy:792
 
-    old "Can you stop looking at me like I have no other choice?!"
-    new "Can you stop looking at me like I have no other choice?!"
+    # script.rpy:7664
 
-    old "{color=#D16992}{size=-5}{i}No no, what am I thinking?!"
-    new "{color=#D16992}{size=-5}{i}No no, what am I thinking?!"
+    # script.rpy:1437
 
-    old "But something is bothering me, I feel a discomfort in my mind."
-    new "But something is bothering me, I feel a discomfort in my mind."
+    # script.rpy:5279
 
-    old "But I did say we would talk about it first."
-    new "But I did say we would talk about it first."
+    # script.rpy:7662
 
-    old "{size=-10}This was all my fault?"
-    new "{size=-10}This was all my fault?"
+    # script.rpy:6511
 
-    old "You have them well trained."
-    new "You have them well trained."
+    # script.rpy:2725
 
-    old "If Master says so..."
-    new "If Master says so..."
+    # script.rpy:5028
 
-    old "I didn't mean to interrupt your bath..."
-    new "I didn't mean to interrupt your bath..."
+    # script.rpy:1818
 
-    old "No! {w}It's just a question."
-    new "No! {w}It's just a question."
+    # script.rpy:8703
 
-    old "She's rushing me."
-    new "She's rushing me."
+    # script.rpy:5162
 
-    old "Not very talkative, {w}huh?"
-    new "Not very talkative, {w}huh?"
+    # script.rpy:6127
 
-    old "With a stick and dry leaves, you manage to create a small flame."
-    new "With a stick and dry leaves, you manage to create a small flame."
+    # script.rpy:944
 
     old "You put on your new clothes."
     new "You put on your new clothes."
 
-    old "Hey, don't fall asleep."
-    new "Hey, don't fall asleep."
+    # script.rpy:7813
 
-    old "I knew that if I took too long you would come and try to help me haha..."
-    new "I knew that if I took too long you would come and try to help me haha..."
+    # script.rpy:6928
 
-    old "You defeated a Great Wolf with a single strike! {w}It usually takes three A-Rank adventurers to take one down!"
-    new "You defeated a Great Wolf with a single strike! {w}It usually takes three A-Rank adventurers to take one down!"
+    # script.rpy:1490
 
-    old "{size=-7}Hahahaha."
-    new "{size=-7}Hahahaha."
+    # script.rpy:6942
 
-    old "F-Fuck, {w}Ryoko is jerking me off with a lot of pressure but at the same time very delicately..."
-    new "F-Fuck, {w}Ryoko is jerking me off with a lot of pressure but at the same time very delicately..."
+    # script.rpy:5382
 
-    old "I should get moving, if there is more and more water, I'm on the-"
-    new "I should get moving, if there is more and more water, I'm on the-"
+    # script.rpy:8444
 
     old "If something bad happens {size=-6}don't fall  {size=-15}into madness..."
     new "If something bad happens {size=-6}don't fall  {size=-15}into madness..."
 
-    old "I hope you live a long life, Doctor."
-    new "I hope you live a long life, Doctor."
+    # script.rpy:2609
 
-    old "Because even if I don't completely trust myself."
-    new "Because even if I don't completely trust myself."
+    # script.rpy:8326
 
-    old "And finally this area needs to be cleaned, and here we could put some kind of frame with protections, to prevent them from locking us in again."
-    new "And finally this area needs to be cleaned, and here we could put some kind of frame with protections, to prevent them from locking us in again."
+    # script.rpy:8259
 
-    old "{size=-6}{i}That must have hurt."
-    new "{size=-6}{i}That must have hurt."
+    # script.rpy:8353
 
-    old "What's wrong with her...?"
-    new "What's wrong with her...?"
+    # script.rpy:8276
 
-    old "First of all, that guy was pretty weird."
-    new "First of all, that guy was pretty weird."
+    # script.rpy:6909
 
-    old "Maybe if I put them on my shoulders..."
-    new "Maybe if I put them on my shoulders..."
+    # script.rpy:6996
 
-    old "I'm coming mom..."
-    new "I'm coming mom..."
+    # script.rpy:3527
 
-    old "Did they mess with you again?"
-    new "Did they mess with you again?"
+    # script.rpy:4779
 
-    old "My mother... {w}did she come here via a goddess too?"
-    new "My mother... {w}did she come here via a goddess too?"
+    # script.rpy:3495
 
-    old "{size=-6}It felt amazing, Keiko..."
-    new "{size=-6}It felt amazing, Keiko..."
+    # script.rpy:2068
 
-    old "We heard from the others slaves that anyone sold to him was as good as dead..."
-    new "We heard from the others slaves that anyone sold to him was as good as dead..."
+    # script.rpy:1263
 
-    old "But it's more difficult because I can't hold them very well..."
-    new "But it's more difficult because I can't hold them very well..."
+    # script.rpy:6994
 
-    old "I can't leave her here-"
-    new "I can't leave her here-"
+    # script.rpy:1135
 
-    old "I have never felt this way before."
-    new "I have never felt this way before."
+    # script.rpy:1974
 
-    old "Nice to meet you, [mc]."
-    new "Nice to meet you, [mc]."
+    # script.rpy:2548
 
-    old "Y-You know..."
-    new "Y-You know..."
+    # script.rpy:2103
 
-    old "{size=-11}Now you must return and rest—body and soul."
-    new "{size=-11}Now you must return and rest—body and soul."
+    # script.rpy:2188
 
-    old "Mmm? Ah, {w=0.5}maybe it's because they all already know."
-    new "Mmm? Ah, {w=0.5}maybe it's because they all already know."
+    # script.rpy:7625
 
-    old "Okay, we'll be waiting for you."
-    new "Okay, we'll be waiting for you."
+    # script.rpy:4604
 
-    old "I'm getting up right away!"
-    new "I'm getting up right away!"
+    # script.rpy:2499
 
-    old "I don't understand why we do this."
-    new "I don't understand why we do this."
+    # script.rpy:4845
 
-    old "Don't worry, {w}just enjoy this warm conversation."
-    new "Don't worry, {w}just enjoy this warm conversation."
+    # script.rpy:2005
 
-    old "You know the rules, demons are not to be blessed."
-    new "You know the rules, demons are not to be blessed."
+    # script.rpy:8716
 
-    old "If she manages to land a direct hit on me, I'm done for!"
-    new "If she manages to land a direct hit on me, I'm done for!"
+    # script.rpy:3886
 
-    old "Do whatever you want."
-    new "Do whatever you want."
+    # script.rpy:4167
 
-    old "Oh! {w}Do you remember the wolf from last night?"
-    new "Oh! {w}Do you remember the wolf from last night?"
+    # script.rpy:1352
 
-    old "{sc=3}{outlinecolor=#000000}My stomach..."
-    new "{sc=3}{outlinecolor=#000000}My stomach..."
+    # script.rpy:7797
 
-    old "{size=-10}Gaahgnngnnm!!"
-    new "{size=-10}Gaahgnngnnm!!"
+    # script.rpy:6477
 
-    old "And she wanted to do this to celebrate your joining the adventurers."
-    new "And she wanted to do this to celebrate your joining the adventurers."
+    # script.rpy:5218
 
-    old "See you later, {w}and again, thank you both."
-    new "See you later, {w}and again, thank you both."
+    # script.rpy:7426
 
-    old "I understand. Not here..."
-    new "I understand. Not here..."
+    # script.rpy:4175
 
-    old "Today we will discuss several topics."
-    new "Today we will discuss several topics."
+    # script.rpy:8143
 
-    old "The shrine in the back."
-    new "The shrine in the back."
+    # script.rpy:3567
 
-    old "Hey, how much longer will you be in there."
-    new "Hey, how much longer will you be in there."
+    # script.rpy:3522
 
-    old "{size=-8}I don't want them to see me."
-    new "{size=-8}I don't want them to see me."
+    # script.rpy:5185
 
-    old "{size=-6}Now it does look like you."
-    new "{size=-6}Now it does look like you."
+    # script.rpy:7998
 
     old "You feel two stings followed by soft lips on your neck."
     new "You feel two stings followed by soft lips on your neck."
 
-    old "Advice on what?"
-    new "Advice on what?"
+    # script.rpy:7193
 
-    old "I'm glad~{image=corazon} {w}I'll always be watching you."
-    new "I'm glad~{image=corazon} {w}I'll always be watching you."
+    # script.rpy:543
 
-    old "What would she gain by observing the Human?"
-    new "What would she gain by observing the Human?"
+    # script.rpy:6207
 
-    old "Hehehe, I'm glad Master likes our company."
-    new "Hehehe, I'm glad Master likes our company."
+    # script.rpy:5333
 
-    old "Let me know if I am doing it too rough."
-    new "Let me know if I am doing it too rough."
+    # script.rpy:5351
 
-    old "Are you still angry?"
-    new "Are you still angry?"
+    # script.rpy:7969
 
-    old "Yes! {w}You're right, {w}you always know what you're doing!"
-    new "Yes! {w}You're right, {w}you always know what you're doing!"
+    # script.rpy:5849
 
-    old "Don't act like you're not interested, if you want I can add you to it too."
-    new "Don't act like you're not interested, if you want I can add you to it too."
+    # script.rpy:8624
 
-    old "Hahaha~ {w}Silly~{image=corazon}{image=corazon}"
-    new "Hahaha~ {w}Silly~{image=corazon}{image=corazon}"
+    # script.rpy:1877
 
-    old "What's the point of living if you can't live the way you want?"
-    new "What's the point of living if you can't live the way you want?"
+    # script.rpy:1900
 
-    old "{size=-10}Sigh~{/size} {size=-8}{w}This is why I hate cats."
-    new "{size=-10}Sigh~{/size} {size=-8}{w}This is why I hate cats."
+    # script.rpy:6155
 
-    old "We will let you know when Diana finishes your mask."
-    new "We will let you know when Diana finishes your mask."
+    # script.rpy:7593
 
-    old "You are getting tighter and wetter!"
-    new "You are getting tighter and wetter!"
+    # script.rpy:5592
 
-    old "What happened to professionalism?!"
-    new "What happened to professionalism?!"
+    # script.rpy:7409
 
-    old "Now, {w}I need to know where I am."
-    new "Now, {w}I need to know where I am."
+    # script.rpy:845
 
-    old "I was just looking for a way to communicate with you."
-    new "I was just looking for a way to communicate with you."
+    # script.rpy:4222
 
-    old "W-Well I'll send you now, are you ready?"
-    new "W-Well I'll send you now, are you ready?"
+    # script.rpy:790
 
-    old "N-Nothing! {w}Did you sleep well?"
-    new "N-Nothing! {w}Did you sleep well?"
+    # script.rpy:1341
 
-    old "I don't have the cleverness that Tomoe always shows and the skills that Mayu has."
-    new "I don't have the cleverness that Tomoe always shows and the skills that Mayu has."
+    # script.rpy:8318
 
-    old "That girl admires you too much Mirai."
-    new "That girl admires you too much Mirai."
+    # script.rpy:8748
 
-    old "I still remember how hard it was to stop her punch."
-    new "I still remember how hard it was to stop her punch."
+    # script.rpy:5381
 
-    old "But still, I'm sweating...."
-    new "But still, I'm sweating...."
+    # script.rpy:8437
 
-    old "{color=#D16992}{size=-5}{i}He's just being nice, {w}there's no way he..."
-    new "{color=#D16992}{size=-5}{i}He's just being nice, {w}there's no way he..."
+    # script.rpy:1438
 
-    old "Yes! {w}This is the \"Howling Forest\"."
-    new "Yes! {w}This is the \"Howling Forest\"."
+    # script.rpy:1509
 
-    old "But I don't understand what happened before..."
-    new "But I don't understand what happened before..."
+    # script.rpy:6763
 
-    old "I still need to see if you have a fever."
-    new "I still need to see if you have a fever."
+    # script.rpy:7814
 
-    old "Her only job is to not let anyone into this place."
-    new "Her only job is to not let anyone into this place."
+    # script.rpy:3998
 
-    old "I will prove to you that I have the makings of a mercenary."
-    new "I will prove to you that I have the makings of a mercenary."
+    # script.rpy:6570
 
-    old "I'm not interested in playing with shitty people like all of you!"
-    new "I'm not interested in playing with shitty people like all of you!"
+    # script.rpy:4815
 
-    old "Didn't you realize who he is?"
-    new "Didn't you realize who he is?"
+    # script.rpy:3319
 
-    old "She must've stayed by my side this whole time..."
-    new "She must've stayed by my side this whole time..."
+    # script.rpy:2312
 
-    old "H-Hello, you're the doctor?"
-    new "H-Hello, you're the doctor?"
+    # script.rpy:2640
 
-    old "{size=-10}These are human... footprints?"
-    new "{size=-10}These are human... footprints?"
+    # script.rpy:2794
 
-    old "Ufufu~ {w}You can't even move... how cute~{image=corazon}{image=corazon}"
-    new "Ufufu~ {w}You can't even move... how cute~{image=corazon}{image=corazon}"
+    # script.rpy:1975
 
-    old "And if everything goes well, my store will also receive the benefit."
-    new "And if everything goes well, my store will also receive the benefit."
+    # script.rpy:8193
 
-    old "I come from a peaceful world, {w}so I'm not ready for this yet..."
-    new "I come from a peaceful world, {w}so I'm not ready for this yet..."
+    # script.rpy:1068
 
-    old "I-I thought you'd never open your eyes."
-    new "I-I thought you'd never open your eyes."
+    # script.rpy:2208
 
-    old "S-Sorry, I didn't mean to wake you..."
-    new "S-Sorry, I didn't mean to wake you..."
+    # script.rpy:1336
 
-    old "And don't come back."
-    new "And don't come back."
+    # script.rpy:5709
 
-    old "Yes, that's the kind of person she is."
-    new "Yes, that's the kind of person she is."
+    # script.rpy:7197
 
-    old "I have the right to do what I want."
-    new "I have the right to do what I want."
+    # script.rpy:4157
 
-    old "{size=-6}How much energy do you have?"
-    new "{size=-6}How much energy do you have?"
+    # script.rpy:6344
 
-    old "Thanks for telling me, Ryoko."
-    new "Thanks for telling me, Ryoko."
+    # script.rpy:2305
 
-    old "I'm really glad to have people who care about me."
-    new "I'm really glad to have people who care about me."
+    # script.rpy:3742
 
-    old "No, it was all my fau-"
-    new "No, it was all my fau-"
+    # script.rpy:4297
 
     old "I think the title fits you perfectly..."
     new "I think the title fits you perfectly..."
 
-    old "And this is Yuuka, {w}my maid."
-    new "And this is Yuuka, {w}my maid."
+    # script.rpy:3981
 
-    old "I hope you at least have the brains to understand this, {w}mask fucker."
-    new "I hope you at least have the brains to understand this, {w}mask fucker."
+    # script.rpy:6235
 
-    old "Only one second was enough for it to leave the water that dirty..."
-    new "Only one second was enough for it to leave the water that dirty..."
+    # script.rpy:8450
 
-    old "If I could stay by your side all my life I would."
-    new "If I could stay by your side all my life I would."
+    # script.rpy:4879
 
-    old "Somewhere around here... I just have to look for a house with red cloth..."
-    new "Somewhere around here... I just have to look for a house with red cloth..."
+    # script.rpy:2436
 
-    old "I thought you might entertain me after that demonstration at the beginning."
-    new "I thought you might entertain me after that demonstration at the beginning."
+    # script.rpy:4105
 
-    old "I'm definitely in heaven..."
-    new "I'm definitely in heaven..."
+    # script.rpy:1830
 
-    old "{size=-6}M-Master... {w}I'll be right here for you..."
-    new "{size=-6}M-Master... {w}I'll be right here for you..."
+    # script.rpy:2232
 
-    old "D-Do you know how much one of those doors weighs...?"
-    new "D-Do you know how much one of those doors weighs...?"
+    # script.rpy:7058
 
-    old "{size=-10}I don't care about anything anymore."
-    new "{size=-10}I don't care about anything anymore."
+    # script.rpy:6568
 
-    old "We just need you to try it on to start adding the magic circles."
-    new "We just need you to try it on to start adding the magic circles."
+    # script.rpy:7516
 
-    old "Always so stubborn."
-    new "Always so stubborn."
+    # script.rpy:4827
 
     old "Not to mention that watching her get dressed awakened something new in you..."
     new "Not to mention that watching her get dressed awakened something new in you..."
 
-    old "Erase his memory, {w}although, {w}I wouldn't blame him for still remembering my beauty."
-    new "Erase his memory, {w}although, {w}I wouldn't blame him for still remembering my beauty."
+    # script.rpy:4168
 
-    old "Hana, what's going-"
-    new "Hana, what's going-"
+    # script.rpy:3123
 
-    old "Are you sure it didn't hit you?"
-    new "Are you sure it didn't hit you?"
+    # script.rpy:3249
 
-    old "You're sweet, calm, and kind to me!"
-    new "You're sweet, calm, and kind to me!"
+    # script.rpy:1379
 
-    old "Stay away from him!"
-    new "Stay away from him!"
+    # script.rpy:2998
 
-    old "I've never seen him so deep in thought!"
-    new "I've never seen him so deep in thought!"
+    # script.rpy:3718
 
-    old "Maybe you'd better go back to rest today."
-    new "Maybe you'd better go back to rest today."
+    # script.rpy:5982
 
-    old "Maybe Akane is right, {w}am I really tired?"
-    new "Maybe Akane is right, {w}am I really tired?"
+    # script.rpy:5282
 
-    old "I don't even know what this \"Yui\" looks like. {w}Guess I should try to find someone who can help me."
-    new "I don't even know what this \"Yui\" looks like. {w}Guess I should try to find someone who can help me."
+    # script.rpy:2368
 
-    old "With a feeling of joy and a bit of nostalgia, you smile back at her."
-    new "With a feeling of joy and a bit of nostalgia, you smile back at her."
+    # script.rpy:4139
 
-    old "Wait, I think there's a box-"
-    new "Wait, I think there's a box-"
+    # script.rpy:3236
 
-    old "Mn-Maaaster!~{image=corazon}{image=corazon}{image=corazon}"
-    new "Mn-Maaaster!~{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:5468
 
-    old "{size=-10}What...? {w}Did you say something...?"
-    new "{size=-10}What...? {w}Did you say something...?"
+    # script.rpy:2186
 
-    old "I really appreciate it."
-    new "I really appreciate it."
+    # script.rpy:1363
 
-    old "Do you want to become a fallen Angel?"
-    new "Do you want to become a fallen Angel?"
+    # script.rpy:4151
 
-    old "This place, as you can see, is passable for now."
-    new "This place, as you can see, is passable for now."
+    # script.rpy:6944
 
-    old "Why does she speak more quietly if there's no one here...?"
-    new "Why does she speak more quietly if there's no one here...?"
+    # script.rpy:752
 
-    old "You'd better start taking it easy from now on."
-    new "You'd better start taking it easy from now on."
+    # script.rpy:8879
 
-    old "{size=-6}Or at least I tried..."
-    new "{size=-6}Or at least I tried..."
+    # script.rpy:2133
 
-    old "Let me feel this divine aura for a while longer."
-    new "Let me feel this divine aura for a while longer."
+    # script.rpy:8678
 
-    old "Even if I disappear."
-    new "Even if I disappear."
+    # script.rpy:3573
 
-    old "This place is already open? {w}You know, the store."
-    new "This place is already open? {w}You know, the store."
+    # script.rpy:7175
 
-    old "A girl with horns... {w}Now I realize I'm definitely not in my world."
-    new "A girl with horns... {w}Now I realize I'm definitely not in my world."
+    # script.rpy:1121
 
-    old "Just wait."
-    new "Just wait."
+    # script.rpy:6381
 
-    old "If the katana were alive, would it be wondering {w}\"what's the purpose of its existence?\""
-    new "If the katana were alive, would it be wondering {w}\"what's the purpose of its existence?\""
+    # script.rpy:916
 
-    old "And Charlotte will join in for just watching and doing nothing."
-    new "And Charlotte will join in for just watching and doing nothing."
+    # script.rpy:3765
 
-    old "What's wrong with it?"
-    new "What's wrong with it?"
+    # script.rpy:4276, script.rpy:8709
 
-    old "No, she went out earlier, she must be inside by now."
-    new "No, she went out earlier, she must be inside by now."
+    # script.rpy:8047
 
-    old "This must be the room that Hana told me about."
-    new "This must be the room that Hana told me about."
+    # script.rpy:3194
 
-    old "I wouldn't think a Goddess would be the first person to do that."
-    new "I wouldn't think a Goddess would be the first person to do that."
+    # script.rpy:2038
 
-    old "And? {w=0.5}Now do you realize how much they all appreciate you?"
-    new "And? {w=0.5}Now do you realize how much they all appreciate you?"
+    # script.rpy:7848
 
-    old "Just when I thought I was making progre-"
-    new "Just when I thought I was making progre-"
+    # script.rpy:6004
 
-    old "He disrespected me by coming to my house."
-    new "He disrespected me by coming to my house."
+    # script.rpy:4155
 
-    old "I only wanted to ask you a few questions."
-    new "I only wanted to ask you a few questions."
+    # script.rpy:4223
 
-    old "{size=-6}And even more so, being a demon..."
-    new "{size=-6}And even more so, being a demon..."
+    # script.rpy:1382
 
-    old "You don't have to thank me! {w}I just did what anyone would do."
-    new "You don't have to thank me! {w}I just did what anyone would do."
+    # script.rpy:4703
 
-    old "I had to deal with many of them before."
-    new "I had to deal with many of them before."
+    # script.rpy:5777
 
-    old "It doesn't matter. {w}As long as she's here..."
-    new "It doesn't matter. {w}As long as she's here..."
+    # script.rpy:1311
 
-    old "What a slow guy..."
-    new "What a slow guy..."
+    # script.rpy:6612
 
-    old "Natsuki told me it should be open by now but I don't see any signs that this is a store..."
-    new "Natsuki told me it should be open by now but I don't see any signs that this is a store..."
+    # script.rpy:7149
 
-    old "But... {w}isn't this a bit too much?"
-    new "But... {w}isn't this a bit too much?"
+    # script.rpy:1064
 
-    old "{size=-6}It'll only hurt a lot-"
-    new "{size=-6}It'll only hurt a lot-"
+    # script.rpy:4120
 
-    old "We will start working on the magic circles."
-    new "We will start working on the magic circles."
+    # script.rpy:7583
 
-    old "If you get in my way again, {w}I will peel you."
-    new "If you get in my way again, {w}I will peel you."
+    # script.rpy:6275
 
-    old "Regarding that."
-    new "Regarding that."
+    # script.rpy:7645
 
-    old "Y-You really like breaking the rules, don't you...?"
-    new "Y-You really like breaking the rules, don't you...?"
+    # script.rpy:1957
 
-    old "Having to do something like that to a person like him-"
-    new "Having to do something like that to a person like him-"
+    # script.rpy:5841
 
-    old "{color=#E4D8AA}{size=-8}I know, I know, I just didn't expect him to be so handsome!"
-    new "{color=#E4D8AA}{size=-8}I know, I know, I just didn't expect him to be so handsome!"
+    # script.rpy:2387
 
-    old "This is a very big breakfast, {w}what is the reason for this?"
-    new "This is a very big breakfast, {w}what is the reason for this?"
+    # script.rpy:5215
 
-    old "Those words feel like a dejavu echoing in my head..."
-    new "Those words feel like a dejavu echoing in my head..."
+    # script.rpy:1720
 
-    old "May I know what you're thinking?"
-    new "May I know what you're thinking?"
+    # script.rpy:3429
 
-    old "Do you think he has a girlfriend or wife?"
-    new "Do you think he has a girlfriend or wife?"
+    # script.rpy:4571
 
-    old "Ryoko, {w}that's a really cute name."
-    new "Ryoko, {w}that's a really cute name."
+    # script.rpy:1230
 
-    old "And if I have to live like this, {w}I want you to be my Master."
-    new "And if I have to live like this, {w}I want you to be my Master."
+    # script.rpy:1387
 
-    old "Although she uses me as her personal chair, {w}she now initiates conversations with me."
-    new "Although she uses me as her personal chair, {w}she now initiates conversations with me."
+    # script.rpy:5138
 
-    old "She got serious out of nowhere..."
-    new "She got serious out of nowhere..."
+    # script.rpy:4015
 
-    old "{size=-6}{i}Sigh...*{/size} {w}They burned..."
-    new "{size=-6}{i}Sigh...*{/size} {w}They burned..."
+    # script.rpy:1194
 
-    old "Are people in this world just as strong?"
-    new "Are people in this world just as strong?"
+    # script.rpy:1066
 
-    old "Can you stop looking at me while you are completely naked? {w}It gives me the creeps."
-    new "Can you stop looking at me while you are completely naked? {w}It gives me the creeps."
+    # script.rpy:5104
 
     old "You both begin your journey."
     new "You both begin your journey."
 
-    old "Yes, {w}this place was made by me, it lasts as long as I wish."
-    new "Yes, {w}this place was made by me, it lasts as long as I wish."
+    # script.rpy:455
 
-    old "Fufu~ {w}When Akane wanted nothing to do with you?"
-    new "Fufu~ {w}When Akane wanted nothing to do with you?"
+    # script.rpy:8085
 
-    old "And you'll make mom very saaad~~"
-    new "And you'll make mom very saaad~~"
+    # script.rpy:4821
 
-    old "I think [mc] will do a good job."
-    new "I think [mc] will do a good job."
+    # script.rpy:7658
 
-    old "{size=-6}A goddess..."
-    new "{size=-6}A goddess..."
+    # script.rpy:2127
 
-    old "If you keep acting like that, {w}you'll get yourself killed eventually."
-    new "If you keep acting like that, {w}you'll get yourself killed eventually."
+    # script.rpy:1892
 
-    old "She's devouring that fish like she hasn't eaten in days."
-    new "She's devouring that fish like she hasn't eaten in days."
+    # script.rpy:1178
 
-    old "S-Shika! I know that of all of us it's the hardest for you! {w}B-But you must understand!"
-    new "S-Shika! I know that of all of us it's the hardest for you! {w}B-But you must understand!"
+    # script.rpy:6727
 
-    old "Yeah... {w}I can see it~{image=corazon}"
-    new "Yeah... {w}I can see it~{image=corazon}"
+    # script.rpy:576
 
-    old "{size=-8}Why's my heart beating so fast with the things this mortal says...?"
-    new "{size=-8}Why's my heart beating so fast with the things this mortal says...?"
+    # script.rpy:791
 
-    old "Why did she lower her head?"
-    new "Why did she lower her head?"
+    # script.rpy:1367
 
-    old "Sorry, Keiko... {w}I wasted the life you gave me..."
-    new "Sorry, Keiko... {w}I wasted the life you gave me..."
+    # script.rpy:1873
 
-    old "We are not crazy!"
-    new "We are not crazy!"
+    # script.rpy:6794
 
-    old "But Miss Diana is so nervous that she can't bring herself to put up the sign outside the store."
-    new "But Miss Diana is so nervous that she can't bring herself to put up the sign outside the store."
+    # script.rpy:7181
 
-    old "{size=+6}Hey Karyn!"
-    new "{size=+6}Hey Karyn!"
+    # script.rpy:6481
 
-    old "Well, {w}whatever."
-    new "Well, {w}whatever."
+    # script.rpy:679
 
-    old "As if by some miracle, you manage to catch a fish."
-    new "As if by some miracle, you manage to catch a fish."
+    # script.rpy:914
 
-    old "Apology accepted..."
-    new "Apology accepted..."
+    # script.rpy:3348
 
-    old "I just need a rod... or something makeshift."
-    new "I just need a rod... or something makeshift."
+    # script.rpy:904
 
-    old "Oh, here you go~"
-    new "Oh, here you go~"
+    # script.rpy:5112
 
-    old "Have her do push-ups with me on top {w}or have her cook me something nice with fish."
-    new "Have her do push-ups with me on top {w}or have her cook me something nice with fish."
+    # script.rpy:4964
 
-    old "Shit, I hope she's not mad..."
-    new "Shit, I hope she's not mad..."
+    # script.rpy:1938
 
-    old "I examined your body, and it looked as if you had pushed it to its limits."
-    new "I examined your body, and it looked as if you had pushed it to its limits."
+    # script.rpy:8863
 
-    old "Did they do the same to her as they did to me?"
-    new "Did they do the same to her as they did to me?"
+    # script.rpy:4308
 
-    old "Well, if you think of one, let me know, okay?"
-    new "Well, if you think of one, let me know, okay?"
+    # script.rpy:8398
 
-    old "Well done, past [mc]."
-    new "Well done, past [mc]."
+    # script.rpy:941
 
-    old "Buuji jiji!"
-    new "Buuji jiji!"
+    # script.rpy:2892
 
-    old "{size=-10}Hehe, I see you still have a long way to go."
-    new "{size=-10}Hehe, I see you still have a long way to go."
+    # script.rpy:5791
 
-    old "Also, this way we can talk more comfortably..."
-    new "Also, this way we can talk more comfortably..."
+    # script.rpy:1865
 
-    old "Akane pushes you to the door."
-    new "Akane pushes you to the door."
+    # script.rpy:5718
 
-    old "That wasn't a treatment, I was just checking your temperature."
-    new "That wasn't a treatment, I was just checking your temperature."
+    # script.rpy:7838
 
-    old "Okay... {w}close your eyes."
-    new "Okay... {w}close your eyes."
+    # script.rpy:794
 
-    old "I was so bewildered that I forgot to pretend."
-    new "I was so bewildered that I forgot to pretend."
+    # script.rpy:4041
 
-    old "For the moment the villagers aren't allowed to pass."
-    new "For the moment the villagers aren't allowed to pass."
+    # script.rpy:3314
 
-    old "Maa~~{image=/bg/icons/heart_text.png} what a responsible boy I have~~"
-    new "Maa~~{image=/bg/icons/heart_text.png} what a responsible boy I have~~"
+    # script.rpy:4836
 
-    old "I have been studying and improving {size=-6}some recipes to {size=-10}help you recover faster."
-    new "I have been studying and improving {size=-6}some recipes to {size=-10}help you recover faster."
+    # script.rpy:5698
 
-    old "H-Human! I can't keep my voice down anymore!"
-    new "H-Human! I can't keep my voice down anymore!"
+    # script.rpy:5452
 
-    old "Fufu~ I know, I'm just kidding."
-    new "Fufu~ I know, I'm just kidding."
+    # script.rpy:8642
 
-    old "What have you decided?"
-    new "What have you decided?"
+    # script.rpy:8294
 
-    old "{size=-6}Of whom you speak so much..."
-    new "{size=-6}Of whom you speak so much..."
+    # script.rpy:4110
 
-    old "What are they doing...?"
-    new "What are they doing...?"
+    # script.rpy:5197
 
-    old "Yes, I have something else in mind...{w} a kind of reward as you say~{image=corazon}"
-    new "Yes, I have something else in mind...{w} a kind of reward as you say~{image=corazon}"
+    # script.rpy:495
 
-    old "I swear if- {w}Ryoko, help me carry him!"
-    new "I swear if- {w}Ryoko, help me carry him!"
+    # script.rpy:8568
 
-    old "People don't come here very often and... {w}well, now you know why."
-    new "People don't come here very often and... {w}well, now you know why."
+    # script.rpy:1510
 
-    old "{size=-8}I'd give you my blessing, but the one you have is already... {w}strong enough..."
-    new "{size=-8}I'd give you my blessing, but the one you have is already... {w}strong enough..."
+    # script.rpy:754
 
-    old "{sc=3}{outlinecolor=#000000}We have a leader!"
-    new "{sc=3}{outlinecolor=#000000}We have a leader!"
+    # script.rpy:8338
 
-    old "[mc], {w}I'm glad you're here, the gates disappeared without us noticing."
-    new "[mc], {w}I'm glad you're here, the gates disappeared without us noticing."
+    # script.rpy:7037
 
-    old "I prepared a map of the village."
-    new "I prepared a map of the village."
+    # script.rpy:8221
 
     old "After leaving the village."
     new "After leaving the village."
 
-    old "Sure, {w}I did what you asked."
-    new "Sure, {w}I did what you asked."
+    # script.rpy:5100
 
-    old "Perfect! {w}Now come closer and close your eyes."
-    new "Perfect! {w}Now come closer and close your eyes."
+    # script.rpy:561
 
-    old "I recently had a fight with a... {w}wolf..."
-    new "I recently had a fight with a... {w}wolf..."
+    # script.rpy:7231
 
-    old "Maybe Iris is the one in charge of that."
-    new "Maybe Iris is the one in charge of that."
+    # script.rpy:7155
 
-    old "How many goddesses are out there besides Keiko and Fumiko...?"
-    new "How many goddesses are out there besides Keiko and Fumiko...?"
+    # script.rpy:3834
 
-    old "Here we sell custom-made magic clothes and potions of all kinds, which is my specialty."
-    new "Here we sell custom-made magic clothes and potions of all kinds, which is my specialty."
+    # script.rpy:7239
 
-    old "From your own world, not the one you were assigned to?"
-    new "From your own world, not the one you were assigned to?"
+    # script.rpy:8620
 
-    old "Ah... yeah, you're definitely still the same old Shika."
-    new "Ah... yeah, you're definitely still the same old Shika."
+    # script.rpy:8876
 
-    old "I see a building in the distance."
-    new "I see a building in the distance."
+    # script.rpy:3308
 
-    old "She is talking with Keiko at the moment."
-    new "She is talking with Keiko at the moment."
+    # script.rpy:8661
 
-    old "{size=-8}Aah~{image=corazon} {w}Hnmh~{image=corazon} {w}Ghnh~{image=corazon}"
-    new "{size=-8}Aah~{image=corazon} {w}Hnmh~{image=corazon} {w}Ghnh~{image=corazon}"
+    # script.rpy:2040
 
-    old "{size=-8}I-I heard s-something... {w}f-from Shika..."
-    new "{size=-8}I-I heard s-something... {w}f-from Shika..."
+    # script.rpy:5423
 
-    old "Can I talk to you alone?"
-    new "Can I talk to you alone?"
+    # script.rpy:4688
 
-    old "{size=-8}{i}I hope it works, it wasn't that difficult..."
-    new "{size=-8}{i}I hope it works, it wasn't that difficult..."
+    # script.rpy:555
 
-    old "My soldiers have already buried the bodies, {w}but one ran away."
-    new "My soldiers have already buried the bodies, {w}but one ran away."
+    # script.rpy:5759
 
-    old "{sc=2}{outlinecolor=#000000}If you're going to eat me, please make it quick and painless!"
-    new "{sc=2}{outlinecolor=#000000}If you're going to eat me, please make it quick and painless!"
+    # script.rpy:1157
 
-    old "Nostalgic, I would say."
-    new "Nostalgic, I would say."
+    # script.rpy:2706
 
-    old "The only real change I feel is a heightened awareness of my surroundings."
-    new "The only real change I feel is a heightened awareness of my surroundings."
+    # script.rpy:970
 
-    old "Hmm... {w}O-Oh, okay~{image=corazon}{image=corazon}"
-    new "Hmm... {w}O-Oh, okay~{image=corazon}{image=corazon}"
+    # script.rpy:1971
 
-    old "What a strange dream..."
-    new "What a strange dream..."
+    # script.rpy:3603
 
-    old "Oh it sounds tempting."
-    new "Oh it sounds tempting."
+    # script.rpy:4966
 
-    old "What are we waiting for."
-    new "What are we waiting for."
+    # script.rpy:8041
 
-    old "For a first day, it was pretty quiet... not to say boring."
-    new "For a first day, it was pretty quiet... not to say boring."
+    # script.rpy:954
 
-    old "There are two areas here that we could take advantage of but I don't know how."
-    new "There are two areas here that we could take advantage of but I don't know how."
+    # script.rpy:8246
 
-    old "Oh, alright..."
-    new "Oh, alright..."
+    # script.rpy:7806
 
-    old "Let's get up to talk better."
-    new "Let's get up to talk better."
+    # script.rpy:682
 
     old "If you already unlocked a store, you can sell them and get some gold! Good luck!"
     new "If you already unlocked a store, you can sell them and get some gold! Good luck!"
 
-    old "They all look like nice girls."
-    new "They all look like nice girls."
+    # script.rpy:4748
 
-    old "I could look for her!"
-    new "I could look for her!"
+    # script.rpy:4349
 
-    old "I'm trying to speak, but my mouth won't move..."
-    new "I'm trying to speak, but my mouth won't move..."
+    # script.rpy:2203
 
-    old "It's great how well she has adapted to this place, {w}teaching Ryoko to cook has really brought them together."
-    new "It's great how well she has adapted to this place, {w}teaching Ryoko to cook has really brought them together."
+    # script.rpy:5132
 
-    old "Because you are doing something wrong. {w}Do you realize what would happen if the high gods found out?"
-    new "Because you are doing something wrong. {w}Do you realize what would happen if the high gods found out?"
+    # script.rpy:8616
 
-    old "{sc=2}{outlinecolor=#000000}{i}{size=-6}T-This isn't... {w}my mind..."
-    new "{sc=2}{outlinecolor=#000000}{i}{size=-6}T-This isn't... {w}my mind..."
+    # script.rpy:8556
 
-    old "{size=-6}W-Wait what?"
-    new "{size=-6}W-Wait what?"
+    # script.rpy:1837
 
-    old "So, {w}I have nothing to do."
-    new "So, {w}I have nothing to do."
+    # script.rpy:5916
 
-    old "{size=-8}I have to... {w}get back to Ryoko... {w}she must be worried..."
-    new "{size=-8}I have to... {w}get back to Ryoko... {w}she must be worried..."
+    # script.rpy:1763
 
-    old "O-Of course I do... {w}but if you do it so suddenly..."
-    new "O-Of course I do... {w}but if you do it so suddenly..."
+    # script.rpy:2328
 
-    old "It's better not to think about it, {w}I want to keep enjoying myself and there is nothing that can make this day even better."
-    new "It's better not to think about it, {w}I want to keep enjoying myself and there is nothing that can make this day even better."
+    # script.rpy:5283
 
-    old "{size=-10}{i}I wouldn't consider that as a bad thing..."
-    new "{size=-10}{i}I wouldn't consider that as a bad thing..."
+    # script.rpy:3178
 
-    old "I-I have to go now... {w}I need 40 pieces of wood. {w}I'll leave you to it."
-    new "I-I have to go now... {w}I need 40 pieces of wood. {w}I'll leave you to it."
+    # script.rpy:3438
 
-    old "Let me fight him!"
-    new "Let me fight him!"
+    # script.rpy:6668
 
-    old "You'll have to endure the pain of your wounds, but that is the price you must pay after such a battle."
-    new "You'll have to endure the pain of your wounds, but that is the price you must pay after such a battle."
+    # script.rpy:2114
 
-    old "Look how big you are~~{image=/bg/icons/heart_text.png}"
-    new "Look how big you are~~{image=/bg/icons/heart_text.png}"
+    # script.rpy:4371
 
-    old "Does she want... {w}headpats...?"
-    new "Does she want... {w}headpats...?"
+    # script.rpy:1368
 
-    old "I'm glad you've become strong, but you shouldn't be fighting against everyone."
-    new "I'm glad you've become strong, but you shouldn't be fighting against everyone."
+    # script.rpy:4793
 
-    old "Diana should have my clothes ready by now."
-    new "Diana should have my clothes ready by now."
+    # script.rpy:8896
 
-    old "Wow! Quick! I've got to place it under the sticks!"
-    new "Wow! Quick! I've got to place it under the sticks!"
+    # script.rpy:945
 
-    old "{color=#8CDAE9}{size=-6}Don't you know it's rude to enter a bath with your clothes on?"
-    new "{color=#8CDAE9}{size=-6}Don't you know it's rude to enter a bath with your clothes on?"
+    # script.rpy:1801
 
-    old "You don't need to think right now, {w}just let your Goddess take care of your tired body~{image=corazon}"
-    new "You don't need to think right now, {w}just let your Goddess take care of your tired body~{image=corazon}"
+    # script.rpy:2021
 
-    old "I don't feel comfortable being treated with so much respect..."
-    new "I don't feel comfortable being treated with so much respect..."
+    # script.rpy:3332
 
-    old "Hahaha, I'm just kidding!"
-    new "Hahaha, I'm just kidding!"
+    # script.rpy:3392
 
-    old "I didn't know you had that habit, Human."
-    new "I didn't know you had that habit, Human."
+    # script.rpy:4532
 
-    old "... {size=-10}snif* {w}snif*~"
-    new "... {size=-10}snif* {w}snif*~"
+    # script.rpy:5063
 
-    old "D-Don't worry..."
-    new "D-Don't worry..."
+    # script.rpy:1428
 
-    old "So... what do I do now?"
-    new "So... what do I do now?"
+    # script.rpy:3807
 
-    old "You've been staring at them since we got here."
-    new "You've been staring at them since we got here."
+    # script.rpy:4394
 
-    old "Who knows... {w}now I'm quite doubtful of my skills..."
-    new "Who knows... {w}now I'm quite doubtful of my skills..."
+    # script.rpy:6906
 
-    old "The wolf's putting in a lot of effort to try and eat me, {w}yet I'm not struggling to hold him back."
-    new "The wolf's putting in a lot of effort to try and eat me, {w}yet I'm not struggling to hold him back."
+    # script.rpy:1015
 
-    old "Be careful on the way."
-    new "Be careful on the way."
+    # script.rpy:4605
 
-    old "Keeping your consciousness here while your body is so weak is dangerous. You need to wake up soon."
-    new "Keeping your consciousness here while your body is so weak is dangerous. You need to wake up soon."
+    # script.rpy:2113
 
-    old "{size=-10}Ah... now I understand..."
-    new "{size=-10}Ah... now I understand..."
+    # script.rpy:5685
 
-    old "Don't touch my belongings without my permission."
-    new "Don't touch my belongings without my permission."
+    # script.rpy:4086
 
-    old "I'll give you the opportunity to come back to life in a new world!"
-    new "I'll give you the opportunity to come back to life in a new world!"
+    # script.rpy:505
 
-    old "{color=#D16992}{size=-5}{i}He got nervous... because of me?"
-    new "{color=#D16992}{size=-5}{i}He got nervous... because of me?"
+    # script.rpy:1433
 
     old "You're still too weak to remember."
     new "You're still too weak to remember."
 
-    old "{size=-7}{i}I don't want to wake him..."
-    new "{size=-7}{i}I don't want to wake him..."
+    # script.rpy:1326
 
-    old "Why haven't you fixed the gate yet?"
-    new "Why haven't you fixed the gate yet?"
+    # script.rpy:6926
 
-    old "Y-You are very horny and you l-like to mate!~{image=corazon}{image=corazon}"
-    new "Y-You are very horny and you l-like to mate!~{image=corazon}{image=corazon}"
+    # script.rpy:5578
 
-    old "Don't play dumb, mortal-"
-    new "Don't play dumb, mortal-"
+    # script.rpy:4056
 
-    old "It is necessary in order to achieve everything you have in mind!"
-    new "It is necessary in order to achieve everything you have in mind!"
+    # script.rpy:8177
 
-    old "I feel strange wearing different clothes."
-    new "I feel strange wearing different clothes."
+    # script.rpy:7540
 
-    old "Maybe the punches did affect you... {w}I'm sorry, I should control myself more."
-    new "Maybe the punches did affect you... {w}I'm sorry, I should control myself more."
+    # script.rpy:5979
 
-    old "My head's still spinning, but I feel better now."
-    new "My head's still spinning, but I feel better now."
+    # script.rpy:2247
 
-    old "YES, FINALLY! {w}THIS IS WHAT I'VE BEEN WAITING FOR! {w}HAHAHA-"
-    new "YES, FINALLY! {w}THIS IS WHAT I'VE BEEN WAITING FOR! {w}HAHAHA-"
+    # script.rpy:6664
 
-    old "I don't look like a hero at all."
-    new "I don't look like a hero at all."
+    # script.rpy:960
 
-    old "Sorry... {w}It must've been uncomfortable with me lying on your leg."
-    new "Sorry... {w}It must've been uncomfortable with me lying on your leg."
+    # script.rpy:1343
 
-    old "You know, adventurer stuff..."
-    new "You know, adventurer stuff..."
+    # script.rpy:7232
 
-    old "I don't even have the strength to move my head... I feel something pressing against my chest..."
-    new "I don't even have the strength to move my head... I feel something pressing against my chest..."
+    # script.rpy:2202
 
-    old "That makes two of us, I feel I have gained energy for weeks."
-    new "That makes two of us, I feel I have gained energy for weeks."
+    # script.rpy:5241
 
-    old "How can it be so fast?"
-    new "How can it be so fast?"
+    # script.rpy:2921
 
-    old "I must... {w}tell you about my day..."
-    new "I must... {w}tell you about my day..."
+    # script.rpy:6502
 
-    old "A-Ah no, here I come, {w}don't turn around or it might get in your eyes..."
-    new "A-Ah no, here I come, {w}don't turn around or it might get in your eyes..."
+    # script.rpy:5340
 
-    old "Hmm... well, if you say it worked..."
-    new "Hmm... well, if you say it worked..."
+    # script.rpy:5692
 
-    old "Yes! {w}It must have been forged by a skilled blacksmith."
-    new "Yes! {w}It must have been forged by a skilled blacksmith."
+    # script.rpy:1360
 
-    old "I can't tell you what to do, but you should go visit the village north of the lake."
-    new "I can't tell you what to do, but you should go visit the village north of the lake."
+    # script.rpy:4368
 
-    old "S-She told me that the doctor was worried... {w}{size=-8}Hhngm~{image=corazon}{/size} {w}b-but now she is more relaxed b-because they took care of something..."
-    new "S-She told me that the doctor was worried... {w}{size=-8}Hhngm~{image=corazon}{/size} {w}b-but now she is more relaxed b-because they took care of something..."
+    # script.rpy:5429
 
-    old "Those wings... {w}they're different from what I'm used to seeing..."
-    new "Those wings... {w}they're different from what I'm used to seeing..."
+    # script.rpy:3952
 
-    old "Where were we?"
-    new "Where were we?"
+    # script.rpy:6491
 
-    old "Sounds good to me, thank you."
-    new "Sounds good to me, thank you."
+    # script.rpy:7247
 
-    old "Just tell me how much wood you need and I'll get to work."
-    new "Just tell me how much wood you need and I'll get to work."
+    # script.rpy:3413
 
-    old "Aoi told me that you're interested in joining us."
-    new "Aoi told me that you're interested in joining us."
+    # script.rpy:4716
 
-    old "Well... {w}at least the atmosphere lightened up."
-    new "Well... {w}at least the atmosphere lightened up."
+    # script.rpy:2109
 
-    old "Shit! {w}Keiko, this is your fault."
-    new "Shit! {w}Keiko, this is your fault."
+    # script.rpy:1491
 
-    old "{size=-6}And you know that if I go into frenzy mode, I can be dangerous to allies and enemies alike..."
-    new "{size=-6}And you know that if I go into frenzy mode, I can be dangerous to allies and enemies alike..."
+    # script.rpy:6347
 
-    old "Didn't you see how he looked at us?"
-    new "Didn't you see how he looked at us?"
+    # script.rpy:4580
 
-    old "It is not good to treat customers like that, {w}especially when it is thanks to him that we will be able to re-open this store."
-    new "It is not good to treat customers like that, {w}especially when it is thanks to him that we will be able to re-open this store."
+    # script.rpy:7328
 
-    old "Did I mess up...? Did I offend her?"
-    new "Did I mess up...? Did I offend her?"
+    # script.rpy:1945
 
-    old "{size=-7}Nice to meet you too..."
-    new "{size=-7}Nice to meet you too..."
+    # script.rpy:1233
 
-    old "So I was worried that she wasn't feeling well."
-    new "So I was worried that she wasn't feeling well."
+    # script.rpy:2780
 
-    old "Then let's go inside."
-    new "Then let's go inside."
+    # script.rpy:8049
 
-    old "It's not necessary, they're just idiots..."
-    new "It's not necessary, they're just idiots..."
+    # script.rpy:4784
 
-    old "As you can see, {w}I'm a slave..."
-    new "As you can see, {w}I'm a slave..."
+    # script.rpy:1252
 
-    old "But... {w}only if the other goddesses find out~"
-    new "But... {w}only if the other goddesses find out~"
+    # script.rpy:1953
 
-    old "I killed someone."
-    new "I killed someone."
+    # script.rpy:6850
 
-    old "It's the same one I've seen in the village..."
-    new "It's the same one I've seen in the village..."
+    # script.rpy:4502
 
-    old "I hate seeing Ryoko sad."
-    new "I hate seeing Ryoko sad."
+    # script.rpy:2226
 
-    old "I hear noises from Ryoko's room."
-    new "I hear noises from Ryoko's room."
+    # script.rpy:8526
 
-    old "{size=-6}Y-Your hands..."
-    new "{size=-6}Y-Your hands..."
+    # script.rpy:1421
 
-    old "I didn't invite him here."
-    new "I didn't invite him here."
+    # script.rpy:4156
 
-    old "Her hair is so soft and delicate..."
-    new "Her hair is so soft and delicate..."
+    # script.rpy:1372
 
-    old "{size=-10}Eh... sob*{w}Uhm... {w}T-Thank you Ryoko."
-    new "{size=-10}Eh... sob*{w}Uhm... {w}T-Thank you Ryoko."
+    # script.rpy:6457
 
-    old "Oh, it's Diana."
-    new "Oh, it's Diana."
+    # script.rpy:7266
 
-    old "A-At what point..."
-    new "A-At what point..."
+    # script.rpy:6372
 
-    old "Come on girls, let's take this back the way we came."
-    new "Come on girls, let's take this back the way we came."
+    # script.rpy:2875
 
-    old "It's not something I can change. {w}That's just who I am."
-    new "It's not something I can change. {w}That's just who I am."
+    # script.rpy:1898
 
-    old "Haa~ {w}I couldn't stop eating~"
-    new "Haa~ {w}I couldn't stop eating~"
+    # script.rpy:5240
 
-    old "N-Nothing, {w}I just remembered something..."
-    new "N-Nothing, {w}I just remembered something..."
+    # script.rpy:5370
 
-    old "Could you tell me your name?"
-    new "Could you tell me your name?"
+    # script.rpy:1222
 
-    old "Stop moving so much!"
-    new "Stop moving so much!"
+    # script.rpy:5037
 
-    old "And I think that's a lot of talk, we should go back to what we were doing."
-    new "And I think that's a lot of talk, we should go back to what we were doing."
+    # script.rpy:5779
 
-    old "My katana?"
-    new "My katana?"
+    # script.rpy:1359
 
-    old "Mmm... Also, {w}I don't know what the clothes of this world will be like, but I want to make sure."
-    new "Mmm... Also, {w}I don't know what the clothes of this world will be like, but I want to make sure."
+    # script.rpy:772
 
-    old "We have entered the madness!"
-    new "We have entered the madness!"
+    # script.rpy:6791, script.rpy:6792
 
-    old "Understood, I'm already more or less clear, Keiko."
-    new "Understood, I'm already more or less clear, Keiko."
+    # script.rpy:560
 
-    old "Not something I can explain to them, though."
-    new "Not something I can explain to them, though."
+    # script.rpy:8866
 
-    old "This is a very good katana."
-    new "This is a very good katana."
+    # script.rpy:836
 
-    old "{size=-6}Yaaaawn~ {w}Why did he take so long to leave today?"
-    new "{size=-6}Yaaaawn~ {w}Why did he take so long to leave today?"
+    # script.rpy:5827
 
-    old "She told me you would answer me that way."
-    new "She told me you would answer me that way."
+    # script.rpy:4705
 
-    old "Sensei, already thinking about how you will do it?"
-    new "Sensei, already thinking about how you will do it?"
+    # script.rpy:7389
 
-    old "And I'll keep watching you."
-    new "And I'll keep watching you."
+    # script.rpy:4439
 
-    old "Did she really believe it?"
-    new "Did she really believe it?"
+    # script.rpy:681
 
-    old "Can you give me a few minutes of your time?"
-    new "Can you give me a few minutes of your time?"
+    # script.rpy:7287
 
-    old "Mhn, {w=0.5}hnm, {w=0.5}nghm-"
-    new "Mhn, {w=0.5}hnm, {w=0.5}nghm-"
+    # script.rpy:7722
 
-    old "Hey! {w}I wasn't planning to do that."
-    new "Hey! {w}I wasn't planning to do that."
+    # script.rpy:8666
 
-    old "Yes Master! We have to honor the doctor!"
-    new "Yes Master! We have to honor the doctor!"
+    # script.rpy:6780
 
-    old "Lots of wood."
-    new "Lots of wood."
+    # script.rpy:3377
 
-    old "Ah, {w}err... {w}yes..."
-    new "Ah, {w}err... {w}yes..."
+    # script.rpy:3532
 
-    old "I can no longer order my thoughts..."
-    new "I can no longer order my thoughts..."
+    # script.rpy:1972
 
-    old "And why does she seem familiar to me?"
-    new "And why does she seem familiar to me?"
+    # script.rpy:3063
 
-    old "{size=-10}M-Master [mc]... {w}t-that man..."
-    new "{size=-10}M-Master [mc]... {w}t-that man..."
+    # script.rpy:6537
 
-    old "It's strange that the entrance hasn't been repaired yet, I'll ask Yui now that she doesn't look so busy."
-    new "It's strange that the entrance hasn't been repaired yet, I'll ask Yui now that she doesn't look so busy."
+    # script.rpy:6889
 
-    old "Your level of analysis surprises me..."
-    new "Your level of analysis surprises me..."
+    # script.rpy:7229
 
-    old "Y-Your clothes are a-almost ready..."
-    new "Y-Your clothes are a-almost ready..."
+    # script.rpy:7508
 
-    old "If that happens, {w}we only have to take care of-"
-    new "If that happens, {w}we only have to take care of-"
+    # script.rpy:5087
 
-    old "I'm glad you came, maybe it's a good idea for you to know about the situation in the village as well."
-    new "I'm glad you came, maybe it's a good idea for you to know about the situation in the village as well."
+    # script.rpy:8045
 
-    old "I've lost count."
-    new "I've lost count."
+    # script.rpy:8690
 
-    old "{color=#FFFCA9}H-He took them all down by himself?"
-    new "{color=#FFFCA9}H-He took them all down by himself?"
+    # script.rpy:1774
 
-    old "Hgngmh~{image=corazon} {w}haANM~{image=corazon} {w}mhN~{image=corazon}{image=corazon}"
-    new "Hgngmh~{image=corazon} {w}haANM~{image=corazon} {w}mhN~{image=corazon}{image=corazon}"
+    # script.rpy:5514
 
-    old "For you, everyone is good."
-    new "For you, everyone is good."
+    # script.rpy:5835
 
-    old "I said, {w}get up."
-    new "I said, {w}get up."
+    # script.rpy:7367
 
-    old "I don't understand what the fuck is going on!!"
-    new "I don't understand what the fuck is going on!!"
+    # script.rpy:6040
 
-    old "Yes, I met her and she told me to come here."
-    new "Yes, I met her and she told me to come here."
+    # script.rpy:7482
 
-    old "{size=-8}All right..."
-    new "{size=-8}All right..."
+    # script.rpy:7011
 
-    old "Wow, {w}that was a lot of feelings in just a few seconds."
-    new "Wow, {w}that was a lot of feelings in just a few seconds."
+    # script.rpy:7067
 
-    old "T-That was a sneeze?"
-    new "T-That was a sneeze?"
+    # script.rpy:7918
 
-    old "Oh... {w}This will take me a while..."
-    new "Oh... {w}This will take me a while..."
+    # script.rpy:8482
 
-    old "Hahahaha, let's talk about that another day."
-    new "Hahahaha, let's talk about that another day."
+    # script.rpy:7094
 
-    old "Err... is there a problem?"
-    new "Err... is there a problem?"
+    # script.rpy:2388
 
-    old "Having to see someone related to that woman again."
-    new "Having to see someone related to that woman again."
+    # script.rpy:4047
 
-    old "T-Take it off!"
-    new "T-Take it off!"
+    # script.rpy:4980
 
-    old "Did you see how he flew?!"
-    new "Did you see how he flew?!"
+    # script.rpy:8350
 
-    old "[mc]? {w}Do you need anything?"
-    new "[mc]? {w}Do you need anything?"
+    # script.rpy:6897
 
-    old "A katana? {w}Is that the only thing you want?"
-    new "A katana? {w}Is that the only thing you want?"
+    # script.rpy:771
 
-    old "Mmm... what... {w}do you mean, {w}we're having a conversation, r-right?"
-    new "Mmm... what... {w}do you mean, {w}we're having a conversation, r-right?"
+    # script.rpy:1993
 
     old "Two wolves appear."
     new "Two wolves appear."
 
-    old "They kept us in cages and mistreated us if we did anything they didn't like."
-    new "They kept us in cages and mistreated us if we did anything they didn't like."
+    # script.rpy:1258
 
-    old "I don't remember the last time I talked about boys."
-    new "I don't remember the last time I talked about boys."
+    # script.rpy:4577
 
-    old "I almost forgot, thanks again for warning me when that wolf attacked."
-    new "I almost forgot, thanks again for warning me when that wolf attacked."
+    # script.rpy:1533
 
-    old "I didn't want to do this..."
-    new "I didn't want to do this..."
+    # script.rpy:1091
 
-    old "Are you okay? That box was pretty heavy."
-    new "Are you okay? That box was pretty heavy."
+    # script.rpy:3243
 
-    old "{size=-6}Well, sometimes~{image=corazon}"
-    new "{size=-6}Well, sometimes~{image=corazon}"
+    # script.rpy:1862
 
-    old "I feel that today will be a good day."
-    new "I feel that today will be a good day."
+    # script.rpy:5638
 
-    old "Do you not like this? {w}Or is it that you don't like me being this close to you, [mc]?"
-    new "Do you not like this? {w}Or is it that you don't like me being this close to you, [mc]?"
+    # script.rpy:1927
 
-    old "Oh, sorry, I wanted Charlotte to teach me how to stretch like her."
-    new "Oh, sorry, I wanted Charlotte to teach me how to stretch like her."
+    # script.rpy:5205
 
-    old "Shut your fucking mouth before I make your face unrecognizable!"
-    new "Shut your fucking mouth before I make your face unrecognizable!"
+    # script.rpy:6369
 
-    old "Fufufu~{image=corazon} I see you still remember me."
-    new "Fufufu~{image=corazon} I see you still remember me."
+    # script.rpy:1807
 
-    old "[mc], I see you are still here."
-    new "[mc], I see you are still here."
+    # script.rpy:5738
 
     old "{image=corazon_wing}{color=#FF5C5C}Akane{/color} has been added!"
     new "{image=corazon_wing}{color=#FF5C5C}Akane{/color} has been added!"
 
-    old "In fact, {w}according to the doctor, it would've been a miracle if he ever woke up..."
-    new "In fact, {w}according to the doctor, it would've been a miracle if he ever woke up..."
+    # script.rpy:2216
 
-    old "{sc=1}{outlinecolor=#000000}{size=-6}T-These wolves are nothing like the first one..."
-    new "{sc=1}{outlinecolor=#000000}{size=-6}T-These wolves are nothing like the first one..."
+    # script.rpy:1698
 
-    old "I'd rather go tell the Queen that we failed than have this lunatic kill me!"
-    new "I'd rather go tell the Queen that we failed than have this lunatic kill me!"
+    # script.rpy:6658
 
-    old "No problem! Anything else you want to know?"
-    new "No problem! Anything else you want to know?"
+    # script.rpy:2307
 
-    old "Can you tell just by touching it?"
-    new "Can you tell just by touching it?"
+    # script.rpy:7221
 
     old "But at the same time... it scares me."
     new "But at the same time... it scares me."
 
-    old "Cheating fucking scum."
-    new "Cheating fucking scum."
+    # script.rpy:6377
 
-    old "Mmm~{image=corazon} What was it you were saying before~?"
-    new "Mmm~{image=corazon} What was it you were saying before~?"
+    # script.rpy:1969
 
-    old "I'm sorry... {w}I got a little carried away."
-    new "I'm sorry... {w}I got a little carried away."
+    # script.rpy:4290
 
-    old "{sc=2}{outlinecolor=#000000}CoOugh* Couugh* C-Cough!"
-    new "{sc=2}{outlinecolor=#000000}CoOugh* Couugh* C-Cough!"
+    # script.rpy:3992
 
-    old "Leave it all to me..."
-    new "Leave it all to me..."
+    # script.rpy:5855
 
-    old "You can be the kindest person in the world, but if it gets you killed, what good does it do?"
-    new "You can be the kindest person in the world, but if it gets you killed, what good does it do?"
+    # script.rpy:1894
 
-    old "She stopped responding a moment ago."
-    new "She stopped responding a moment ago."
+    # script.rpy:3093
 
-    old "T-To my limit of running out of soap in my hands!"
-    new "T-To my limit of running out of soap in my hands!"
+    # script.rpy:5391
 
-    old "You're useless now, {w}step aside."
-    new "You're useless now, {w}step aside."
+    # script.rpy:4043
 
-    old "Magic? A world with magic, {w}what will that be like..."
-    new "Magic? A world with magic, {w}what will that be like..."
+    # script.rpy:559
 
-    old "W-Waiting for the moment when I..."
-    new "W-Waiting for the moment when I..."
+    # script.rpy:2041
 
-    old "Diana is calmer than usual, is it because this has to do with what she likes?"
-    new "Diana is calmer than usual, is it because this has to do with what she likes?"
+    # script.rpy:7520
 
-    old "W-Wow, Thanks!"
-    new "W-Wow, Thanks!"
+    # script.rpy:2791
 
-    old "I-If you lose blood, forget about being my source of energy!"
-    new "I-If you lose blood, forget about being my source of energy!"
+    # script.rpy:5719
 
-    old "What's that supposed to mean?!"
-    new "What's that supposed to mean?!"
+    # script.rpy:8877
 
-    old "Your mother was in that world."
-    new "Your mother was in that world."
+    # script.rpy:4306
 
-    old "As we're completely surrounded by trees, {w}it's time to make use of them."
-    new "As we're completely surrounded by trees, {w}it's time to make use of them."
+    # script.rpy:3383
 
-    old "It's quite simple, we are all part of this place."
-    new "It's quite simple, we are all part of this place."
+    # script.rpy:8146
 
-    old "You are very wet Ryoko..."
-    new "You are very wet Ryoko..."
+    # script.rpy:5499
 
-    old "Or so I would like to say."
-    new "Or so I would like to say."
+    # script.rpy:5336
 
-    old "Don't worry, I don't see anyone hanging around..."
-    new "Don't worry, I don't see anyone hanging around..."
+    # script.rpy:5789
 
-    old "I almost forgot that I'm wounded..."
-    new "I almost forgot that I'm wounded..."
+    # script.rpy:2115
 
-    old "Two wolves moved forward as soon as the giant growled."
-    new "Two wolves moved forward as soon as the giant growled."
+    # script.rpy:1628
 
-    old "{size=-6}{i}murmur~ murmur~"
-    new "{size=-6}{i}murmur~ murmur~"
+    # script.rpy:7396
 
-    old "Is it because of-... {w}those mortals again...?"
-    new "Is it because of-... {w}those mortals again...?"
+    # script.rpy:8729
 
-    old "I think I was pretty clear."
-    new "I think I was pretty clear."
+    # script.rpy:1204
 
-    old "Thanks, girls. {w}Take care of the house while I'm gone."
-    new "Thanks, girls. {w}Take care of the house while I'm gone."
+    # script.rpy:3756
 
-    old "Since I know the way now, it didn't take me long at all."
-    new "Since I know the way now, it didn't take me long at all."
+    # script.rpy:3802
 
-    old "I's not moving."
-    new "I's not moving."
+    # script.rpy:1058
 
-    old "I love you sis!~{image=corazon}"
-    new "I love you sis!~{image=corazon}"
+    # script.rpy:5852
 
-    old "We have not received any attacks since that day, {w}which I will take advantage of to investigate the area further."
-    new "We have not received any attacks since that day, {w}which I will take advantage of to investigate the area further."
+    # script.rpy:6945
 
-    old "{size=-6}Just barely dawn."
-    new "{size=-6}Just barely dawn."
+    # script.rpy:8827
 
-    old "I mean, {w}n-new world?"
-    new "I mean, {w}n-new world?"
+    # script.rpy:512
 
-    old "Wait, {w}she has wings like Keiko's?"
-    new "Wait, {w}she has wings like Keiko's?"
+    # script.rpy:626
 
-    old "I don't think he can speak right now, Ryoko."
-    new "I don't think he can speak right now, Ryoko."
+    # script.rpy:2214
 
-    old "Then we just have to wait for Yui."
-    new "Then we just have to wait for Yui."
+    # script.rpy:8080
 
-    old "Oh n-no... {w}I can still see all the liquid coming out of Ryoko...."
-    new "Oh n-no... {w}I can still see all the liquid coming out of Ryoko...."
+    # script.rpy:5587
 
-    old "Is the dog stopping me?"
-    new "Is the dog stopping me?"
+    # script.rpy:6021
 
-    old "I tried not to let anything slip, but she was really smart!"
-    new "I tried not to let anything slip, but she was really smart!"
+    # script.rpy:2132
 
-    old "You're not mad?"
-    new "You're not mad?"
+    # script.rpy:2147
 
-    old "Now... {w}can you tell me what you were doing in the middle of the forest at this hour?"
-    new "Now... {w}can you tell me what you were doing in the middle of the forest at this hour?"
+    # script.rpy:1234
 
-    old "Wake up from your cloud, princess."
-    new "Wake up from your cloud, princess."
+    # script.rpy:6379
 
-    old "Okay, I'll get the girls out of here."
-    new "Okay, I'll get the girls out of here."
+    # script.rpy:2873
 
-    old "Can you get me a katana?"
-    new "Can you get me a katana?"
+    # script.rpy:769
 
-    old "Seeing the two of you together reminds me of the first time we met."
-    new "Seeing the two of you together reminds me of the first time we met."
+    # script.rpy:8084
 
-    old "It seems that the store is not open yet."
-    new "It seems that the store is not open yet."
+    # script.rpy:7126
 
-    old "My hands are small..."
-    new "My hands are small..."
+    # script.rpy:3521
 
-    old "Boss, look what I found! {w}There's a lot of these hiding all over the village, hahaha!"
-    new "Boss, look what I found! {w}There's a lot of these hiding all over the village, hahaha!"
+    # script.rpy:6357
 
-    old "She's going to find out!"
-    new "She's going to find out!"
+    # script.rpy:4124
 
-    old "Hnmm!~{image=corazon}{image=corazon} {w}L-Looks like y-you will...{image=corazon}"
-    new "Hnmm!~{image=corazon}{image=corazon} {w}L-Looks like y-you will...{image=corazon}"
+    # script.rpy:5523
 
-    old "Ryoko, do you remember where we first met?"
-    new "Ryoko, do you remember where we first met?"
+    # script.rpy:3729
 
-    old "Wow... What happened to me...?"
-    new "Wow... What happened to me...?"
+    # script.rpy:5536
 
-    old "Just by holding it I can tell."
-    new "Just by holding it I can tell."
+    # script.rpy:837
 
-    old "{size=-6}If only I could just..."
-    new "{size=-6}If only I could just..."
+    # script.rpy:2228
 
-    old "When will I be able to have a conversation without having to use the \"magic\" word...?"
-    new "When will I be able to have a conversation without having to use the \"magic\" word...?"
+    # script.rpy:7285
 
-    old "I noticed that your support with that arm is superficial, you didn't close your fist at any moment and you didn't move it to let it rest."
-    new "I noticed that your support with that arm is superficial, you didn't close your fist at any moment and you didn't move it to let it rest."
+    # script.rpy:7218
 
-    old "Did you make all those moves when you were poisoned?"
-    new "Did you make all those moves when you were poisoned?"
+    # script.rpy:6202
 
-    old "{size=-8}There is a girl who calls me, {w}Karyn."
-    new "{size=-8}There is a girl who calls me, {w}Karyn."
+    # script.rpy:6140
 
-    old "{size=-8}What can go wrong~{image=corazon}"
-    new "{size=-8}What can go wrong~{image=corazon}"
+    # script.rpy:526
 
-    old "Do you think I can be like you or Yui?"
-    new "Do you think I can be like you or Yui?"
+    # script.rpy:7852
 
-    old "Ryoko's been getting more and more motivated with her training."
-    new "Ryoko's been getting more and more motivated with her training."
+    # script.rpy:3666
 
-    old "I'll say it again, {w}where would I be without you, Ryoko."
-    new "I'll say it again, {w}where would I be without you, Ryoko."
+    # script.rpy:1574
 
-    old "I'm glad to hear that, {w}but I'm not the leader yet."
-    new "I'm glad to hear that, {w}but I'm not the leader yet."
+    # script.rpy:7985
 
-    old "Sometimes I accompany her when she is reading in the backyard."
-    new "Sometimes I accompany her when she is reading in the backyard."
+    # script.rpy:5134
 
-    old "Can I go now?"
-    new "Can I go now?"
+    # script.rpy:8190
 
-    old "Don't cheat by giving me those puppy eyes..."
-    new "Don't cheat by giving me those puppy eyes..."
+    # script.rpy:1392
 
-    old "All right, it's my turn."
-    new "All right, it's my turn."
+    # script.rpy:8214
 
     old "After that, Shika woke up."
     new "After that, Shika woke up."
 
-    old "Eh? {w}W-What do {size=-5}you mea-..."
-    new "Eh? {w}W-What do {size=-5}you mea-..."
+    # script.rpy:3388
 
-    old "This pose is a little..."
-    new "This pose is a little..."
+    # script.rpy:5494
 
-    old "Ma-Master! I-"
-    new "Ma-Master! I-"
+    # script.rpy:5451
 
-    old "{color=#6998bc}You asked about Yui, right?"
-    new "{color=#6998bc}You asked about Yui, right?"
+    # script.rpy:2393
 
-    old "{color=#2cd390}Hey Shika, {w}where is Mirai?"
-    new "{color=#2cd390}Hey Shika, {w}where is Mirai?"
+    # script.rpy:8658
 
-    old "Well, I've only seen axes."
-    new "Well, I've only seen axes."
+    # script.rpy:3376
 
-    old "And I was already preparing products with your face printed on them."
-    new "And I was already preparing products with your face printed on them."
+    # script.rpy:7668
 
-    old "And the one that fled did not leave in good condition but was very fast. I think she was already injured before we found them."
-    new "And the one that fled did not leave in good condition but was very fast. I think she was already injured before we found them."
+    # script.rpy:5775
 
-    old "{size=-6}Although..."
-    new "{size=-6}Although..."
+    # script.rpy:6334
 
-    old "Like the one Yui gave me?"
-    new "Like the one Yui gave me?"
+    # script.rpy:7781
 
-    old "But I wanted to talk to you face to face~{image=corazon}"
-    new "But I wanted to talk to you face to face~{image=corazon}"
+    # script.rpy:458
 
-    old "I-I can't feel my arms... {w}or my legs."
-    new "I-I can't feel my arms... {w}or my legs."
+    # script.rpy:8813
 
-    old "She has heard her laughing at the top of her lungs."
-    new "She has heard her laughing at the top of her lungs."
+    # script.rpy:5159
 
-    old "She must be just as confused as I am."
-    new "She omust be just as confused as I am."
+    # script.rpy:4644
 
-    old "Hahaha, she told me to let you know because she doesn't want to see me carry the gates in titan mode or something."
-    new "Hahaha, she told me to let you know because she doesn't want to see me carry the gates in titan mode or something."
+    # script.rpy:7086
 
-    old "If we leave now, we can get there before sunset."
-    new "If we leave now, we can get there before sunset."
+    # script.rpy:1521
 
-    old "How long do you plan to sleep."
-    new "How long do you plan to sleep."
+    # script.rpy:4196
 
-    old "You tear off part of your clothes and use it to craft a makeshift rope, tying it to your katana."
-    new "You tear off part of your clothes and use it to craft a makeshift rope, tying it to your katana."
+    # script.rpy:913
 
-    old "But are you sure Master? {w}You were already in the bathtub."
-    new "But are you sure Master? {w}You were already in the bathtub."
+    # script.rpy:5328
 
-    old "Will you come to the meeting at Mayu's house?"
-    new "Will you come to the meeting at Mayu's house?"
+    # script.rpy:7738
 
     old "I'm happy that everything is going as it should."
     new "I'm happy that everything is going as it should."
 
-    old "{size=-6}This feels so good Keiko..."
-    new "{size=-6}This feels so good Keiko..."
+    # script.rpy:1992
 
-    old "For you Mr Miyagi."
-    new "For you Mr Miyagi."
+    # script.rpy:5973
 
-    old "What did you want to tell us?"
-    new "What did you want to tell us?"
+    # script.rpy:3689
 
-    old "Brat, {w}that was a pretty clean and quick cut."
-    new "Brat, {w}that was a pretty clean and quick cut."
+    # script.rpy:6598
 
-    old "I would like a simple mask that I can put on when I need it."
-    new "I would like a simple mask that I can put on when I need it."
+    # script.rpy:7386
 
-    old "But I don't see anything great in you."
-    new "But I don't see anything great in you."
+    # script.rpy:4049
 
-    old "I shouldn't bring this up again... {w}at least not until she wants to talk about it."
-    new "I shouldn't bring this up again... {w}at least not until she wants to talk about it."
+    # script.rpy:1303
 
-    old "And by that I mean, the people who will come can be adventurers as well as villagers, good or bad."
-    new "And by that I mean, the people who will come can be adventurers as well as villagers, good or bad."
+    # script.rpy:8195
 
-    old "Hmm? Is that me?"
-    new "Hmm? Is that me?"
+    # script.rpy:7932
 
-    old "I didn't think a goddess would take the time to talk to me."
-    new "I didn't think a goddess would take the time to talk to me."
+    # script.rpy:479
 
-    old "You're still conscious."
-    new "You're still conscious."
+    # script.rpy:4102
 
-    old "Don't be afraid to ask me for anything, I will build it for you."
-    new "Don't be afraid to ask me for anything, I will build it for you."
+    # script.rpy:8178
 
-    old "I will reopen the salon just for you!"
-    new "I will reopen the salon just for you!"
+    # script.rpy:4720
 
-    old "This world..."
-    new "This world..."
+    # script.rpy:6549, script.rpy:6556
 
-    old "You gave yourself away!"
-    new "You gave yourself away!"
+    # script.rpy:6338
 
-    old "The sun reaches me directly but it's not uncomfortable, in fact, it's a soft warm feeling."
-    new "The sun reaches me directly but it's not uncomfortable, in fact, it's a soft warm feeling."
+    # script.rpy:824
 
-    old "For me, it takes me much longer to understand people."
-    new "For me, it takes me much longer to understand people."
+    # script.rpy:8306
 
-    old "Hey Ryoko, {w}can I ask you a few questions?"
-    new "Hey Ryoko, {w}can I ask you a few questions?"
+    # script.rpy:1453
 
-    old "Don't even think about it, if they fall on your head I will be very angry."
-    new "Don't even think about it, if they fall on your head I will be very angry."
+    # script.rpy:8070
 
-    old "Strange, I don't feel pain..."
-    new "Strange, I don't feel pain..."
+    # script.rpy:3119
 
-    old "Hahaha, idiot~"
-    new "Hahaha, idiot~"
+    # script.rpy:3382
 
-    old "{size=-8}They took it all away from me..."
-    new "{size=-8}They took it all away from me..."
+    # script.rpy:6147
 
-    old "I haven't seen anyone."
-    new "I haven't seen anyone."
+    # script.rpy:955
 
-    old "{size=-8}Will you need anything?"
-    new "{size=-8}Will you need anything?"
+    # script.rpy:751
 
-    old "{size=-8}Come on man! {w}Not in front of a goddess!"
-    new "{size=-8}Come on man! {w}Not in front of a goddess!"
+    # script.rpy:579
 
-    old "Daily routine? {w}So that's why I still don't get my good morning kisses?"
-    new "Daily routine? {w}So that's why I still don't get my good morning kisses?"
+    # script.rpy:7613
 
-    old "Now what we need most are tools, protections, more gates!"
-    new "Now what we need most are tools, protections, more gates!"
+    # script.rpy:8171
 
-    old "Is she in heaven right now?"
-    new "Is she in heaven right now?"
+    # script.rpy:3496
 
-    old "Do you happen to know someone named Yui?"
-    new "Do you happen to know someone named Yui?"
+    # script.rpy:2381
 
-    old "I thought so too..."
-    new "I thought so too..."
+    # script.rpy:4634
 
-    old "Horrendous people who capture whatever they can to sell them."
-    new "Horrendous people who capture whatever they can to sell them."
+    # script.rpy:1254
 
-    old "I love your w-whole body."
-    new "I love your w-whole body."
+    # script.rpy:5518
 
-    old "I have already taken care of that problem, {w}we are now doing a round of inspection to see if we missed anything."
-    new "I have already taken care of that problem, {w}we are now doing a round of inspection to see if we missed anything."
+    # script.rpy:5755
 
-    old "Is that her way of telling me to take care of myself?"
-    new "Is that her way of telling me to take care of myself?"
+    # script.rpy:5720
 
-    old "Thank you... {w}Yuuka."
-    new "Thank you... {w}Yuuka."
+    # script.rpy:3983
 
-    old "I wasn't expecting this."
-    new "I wasn't expecting this."
+    # script.rpy:620
 
-    old "So there really are strong people in this world."
-    new "So there really are strong people in this world."
+    # script.rpy:1480
 
-    old "{size=-10}Wait {w}What?"
-    new "{size=-10}Wait {w}What?"
+    # script.rpy:7049
 
-    old "I-It feels... {w}good... {w}With your big hands it's like a massage..."
-    new "I-It feels... {w}good... {w}With your big hands it's like a massage..."
+    # script.rpy:5399
 
-    old "Well, {w}no matter what you want, {w}we don't have a choice."
-    new "Well, {w}no matter what you want, {w}we don't have a choice."
+    # script.rpy:5843
 
-    old "Shika, we're just goin-"
-    new "Shika, we're just goin-"
+    # script.rpy:7742
 
-    old "{size=-6}5 seconds."
-    new "{size=-6}5 seconds."
+    # script.rpy:5872
 
-    old "No, but I'm a fast learner."
-    new "No, but I'm a fast learner."
+    # script.rpy:3400
 
-    old "{color=#F5B6F2}She's been like this ever since I met her, and honestly..."
-    new "{color=#F5B6F2}She's been like this ever since I met her, and honestly..."
+    # script.rpy:8611
 
-    old "Hey Hana, are you busy?"
-    new "Hey Hana, are you busy?"
+    # script.rpy:3151
 
-    old "Yui! Let's take care of this one right away!"
-    new "Yui! Let's take care of this one right away!"
+    # script.rpy:2879
 
-    old "And since she's been living here, {w}I don't know at what point she became friends with Akane."
-    new "And since she's been living here, {w}I don't know at what point she became friends with Akane."
+    # script.rpy:5068
 
-    old "Most of us don't really worry about the passage of time..."
-    new "Most of us don't really worry about the passage of time..."
+    # script.rpy:1810
 
-    old "Master! {w}Please react!"
-    new "Master! {w}Please react!"
+    # script.rpy:6675
 
-    old "A-Are you going to pour it all inside my {w}pussy?"
-    new "A-Are you going to pour it all inside my {w}pussy?"
+    # script.rpy:5520
 
     old "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
     new "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
 
-    old "I have a limit to what I can tell you."
-    new "I have a limit to what I can tell you."
+    # script.rpy:4295
 
-    old "Oh, you're just in time."
-    new "Oh, you're just in time."
+    # script.rpy:8660
 
-    old "HAAAAAAA!!"
-    new "HAAAAAAA!!"
+    # script.rpy:3448
 
-    old "God, {w}how I hate cats."
-    new "God, {w}how I hate cats."
+    # script.rpy:6256
 
-    old "For hiding a repugnant demon."
-    new "For hiding a repugnant demon."
+    # script.rpy:6319
 
-    old "Thank you [mc]..."
-    new "Thank you [mc]..."
+    # script.rpy:7022
 
-    old "I couldn't pass up the opportunity to meet someone like you."
-    new "I couldn't pass up the opportunity to meet someone like you."
+    # script.rpy:466
 
-    old "Shit, the paralysis increased, that guy will not die quickly.."
-    new "Shit, the paralysis increased, that guy will not die quickly.."
+    # script.rpy:6442
 
-    old "The others also remained silent."
-    new "The others also remained silent."
+    # script.rpy:4650
 
-    old "{sc=2}{outlinecolor=#000000}W-What are you doing!?"
-    new "{sc=2}{outlinecolor=#000000}W-What are you doing!?"
+    # script.rpy:764
 
-    old "{size=-6}Did I just make a mistake? Impossible."
-    new "{size=-6}Did I just make a mistake? Impossible."
+    # script.rpy:7563
 
-    old "We know we are putting you in a difficult position."
-    new "We know we are putting you in a difficult position."
+    # script.rpy:8295
 
-    old "D-Does everyone know my exact schedule?"
-    new "D-Does everyone know my exact schedule?"
+    # script.rpy:7631
 
-    old "You know, {w}it's not widely accepted among gods to interfere with mortals..."
-    new "You know, {w}it's not widely accepted among gods to interfere with mortals..."
+    # script.rpy:456
 
-    old "Not once, but twice. {w}I'll have to be more careful next time, haha..."
-    new "Not once, but twice. {w}I'll have to be more careful next time, haha..."
+    # script.rpy:1534
 
-    old "Looks like you need to go now..."
-    new "Looks like you need to go now..."
+    # script.rpy:2170
 
-    old "And let them know that I'll be helping from now on."
-    new "And let them know that I'll be helping from now on."
+    # script.rpy:4595
 
-    old "L-Lead- {w}again...?"
-    new "L-Lead- {w}again...?"
+    # script.rpy:7092
 
-    old "I will have to look for new teammates to-"
-    new "I will have to look for new teammates to-"
+    # script.rpy:6472
 
-    old "They will burn-"
-    new "They will burn-"
+    # script.rpy:1072
 
-    old "This is where I appeared."
-    new "This is where I appeared."
+    # script.rpy:868
 
-    old "{size=-6}I-I'm going to-"
-    new "{size=-6}I-I'm going to-"
+    # script.rpy:1979
 
-    old "But didn't you just intervene in the pure fact of sending me there?"
-    new "But didn't you just intervene in the pure fact of sending me there?"
+    # script.rpy:712
 
-    old "I almost took off my pants..."
-    new "I almost took off my pants..."
+    # script.rpy:513
 
-    old "What kind of deal?"
-    new "What kind of deal?"
+    # script.rpy:642
 
-    old "I won't leave anyone behind who needs help."
-    new "I won't leave anyone behind who needs help."
+    # script.rpy:1907
 
-    old "Her body is so soft... why hasn't she moved yet...? {w}Maybe I should act like nothing happened..."
-    new "Her body is so soft... why hasn't she moved yet...? {w}Maybe I should act like nothing happened..."
+    # script.rpy:1941
 
-    old "Hello, good morn-"
-    new "Hello, good morn-"
+    # script.rpy:2452
 
-    old "To protect {size=-6}someone."
-    new "To protect {size=-6}someone."
+    # script.rpy:2159
 
-    old "There must be special cases."
-    new "There must be special cases."
+    # script.rpy:834
 
-    old "Ryoko knows a lot about this... {w}Is this kind of knowledge common in this world?"
-    new "Ryoko knows a lot about this... {w}Is this kind of knowledge common in this world?"
+    # script.rpy:1361
 
-    old "If you erase it, you know what I will do to you."
-    new "If you erase it, you know what I will do to you."
+    # script.rpy:7994
 
-    old "It's irritating me."
-    new "It's irritating me."
+    # script.rpy:6331
 
-    old "I already told you I didn't do it for you."
-    new "I already told you I didn't do it for you."
+    # script.rpy:5678
 
-    old "She cried in my arms for a while."
-    new "She cried in my arms for a while."
+    # script.rpy:1296
 
-    old "Her face is red, it looks like she has a fever..."
-    new "Her face is red, it looks like she has a fever..."
+    # script.rpy:3094
 
-    old "Were you really that worried?"
-    new "Were you really that worried?"
+    # script.rpy:2272
 
-    old "Hahaha~ {w=0.5}He is still a pervert?"
-    new "Hahaha~ {w=0.5}He is still a pervert?"
+    # script.rpy:8093
 
-    old "Where... {w}am I?"
-    new "Where... {w}am I?"
+    # script.rpy:2201
 
     old "A new world sounds good..."
     new "A new world sounds good..."
 
-    old "I-I don't want to fight!"
-    new "I-I don't want to fight!"
+    # script.rpy:3906
 
-    old "Yes... {w}I can do that."
-    new "Yes... {w}I can do that."
+    # script.rpy:775
 
-    old "There's a lot I don't understand."
-    new "There's a lot I don't understand."
+    # script.rpy:3487
 
     old "So, you've already become the leader..."
     new "So, you've already become the leader..."
@@ -32227,419 +31225,285 @@ translate ukrainian strings:
     old "You let yourself go until something stops you in your tracks"
     new "You let yourself go until something stops you in your tracks"
 
-    old "Did he just kill him? But how?"
-    new "Did he just kill him? But how?"
+    # script.rpy:6479
 
-    old "When have I ever done anythi—"
-    new "When have I ever done anythi—"
+    # script.rpy:3789
 
-    old "Master! That's not true, I told her not to do it."
-    new "Master! That's not true, I told her not to do it."
+    # script.rpy:4961
 
-    old "O-Oh, right."
-    new "O-Oh, right."
+    # script.rpy:5105
 
-    old "Th-This power, {w}I feel better than ever!"
-    new "Th-This power, {w}I feel better than ever!"
+    # script.rpy:573
 
-    old "If I don't accept, {w}it would be the same as abandoning her to her fate..."
-    new "If I don't accept, {w}it would be the same as abandoning her to her fate..."
+    # script.rpy:1394
 
-    old "What the hell am I saying?!"
-    new "What the hell am I saying?!"
+    # script.rpy:1431
 
-    old "Ah! Well, {w}I think it's time for you to go."
-    new "Ah! Well, {w}I think it's time for you to go."
+    # script.rpy:587
 
-    old "You can go and change."
-    new "You can go and change."
+    # script.rpy:7580
 
-    old "Well, time to cook the fish."
-    new "Well, time to cook the fish."
+    # script.rpy:952
 
-    old "I don't even know what to say..."
-    new "I don't even know what to say..."
+    # script.rpy:2505
 
-    old "{size=-6}Well, at least I'm not dead..."
-    new "{size=-6}Well, at least I'm not dead..."
+    # script.rpy:2116
 
-    old "I don't think I have any other option."
-    new "I don't think I have any other option."
+    # script.rpy:648
 
-    old "Am I... {w}crying?"
-    new "Am I... {w}crying?"
+    # script.rpy:3544
 
-    old "Ryoko washes my clothes every day because of that..."
-    new "Ryoko washes my clothes every day because of that..."
+    # script.rpy:7542
 
-    old "In the morning I invited her to join us for lunch but she said she was busy."
-    new "In the morning I invited her to join us for lunch but she said she was busy."
+    # script.rpy:8081
 
-    old "W-What are you going to do now?!"
-    new "W-What are you going to do now?!"
+    # script.rpy:5261
 
-    old "Anyway, how do you feel? {w}After my meal."
-    new "Anyway, how do you feel? {w}After my meal."
+    # script.rpy:5675
 
-    old "Well, I should go."
-    new "Well, I should go."
+    # script.rpy:747
 
-    old "Well, that's what I was coming to, {w}Mayu is already reinforcing and preparing them, in one day she will have them ready."
-    new "Well, that's what I was coming to, {w}Mayu is already reinforcing and preparing them, in one day she will have them ready."
+    # script.rpy:7075
 
-    old "You won't do it?"
-    new "You won't do it?"
+    # script.rpy:7665
 
-    old "And what made you change your mind?"
-    new "And what made you change your mind?"
+    # script.rpy:8089
 
-    old "With the {sc=1}{outlinecolor=#000000}{size=-10}saaaame{/sc} kind heart as that idiot."
-    new "With the {sc=1}{outlinecolor=#000000}{size=-10}saaaame{/sc} kind heart as that idiot."
+    # script.rpy:4084
 
-    old "Hahaha I've been waiting for this moment!"
-    new "Hahaha I've been waiting for this moment!"
+    # script.rpy:3356
 
-    old "What's wrong? {w}Is there something else you wanted to talk about?"
-    new "What's wrong? {w}Is there something else you wanted to talk about?"
+    # script.rpy:1955
 
-    old "Now that you mention it, I haven't checked anything but the bathroom and the backyard...."
-    new "Now that you mention it, I haven't checked anything but the bathroom and the backyard...."
+    # script.rpy:3169
 
-    old "Did it take you that long to catch that shit? {w}Don't you know how boring it is to do time?"
-    new "Did it take you that long to catch that shit? {w}Don't you know how boring it is to do time?"
+    # script.rpy:6361
 
-    old "I come from a place far away, and I've been... {w}traveling."
-    new "I come from a place far away, and I've been... {w}traveling."
+    # script.rpy:1476
 
-    old "One small step for man, one giant leap for [mc]."
-    new "One small step for man, one giant leap for [mc]."
+    # script.rpy:947
 
     old "This empty feeling again..."
     new "This empty feeling again..."
 
-    old "... {w}Where is your sweatshirt?"
-    new "... {w}Where is your sweatshirt?"
+    # script.rpy:7023
 
-    old "I must go tell Natsuki."
-    new "I must go tell Natsuki."
+    # script.rpy:8506
 
-    old "Why the long faces?"
-    new "Why the long faces?"
+    # script.rpy:3775
 
-    old "But it seems that what's holding her back is the fact that I'm constantly going to Sakura Town."
-    new "But it seems that what's holding her back is the fact that I'm constantly going to Sakura Town."
+    # script.rpy:5044
 
-    old "I pierced his heart, {w}he should no longer..."
-    new "I pierced his heart, {w}he should no longer..."
+    # script.rpy:2997
 
-    old "And she won't give me any more details than that."
-    new "And she won't give me any more details than that."
+    # script.rpy:5142
 
-    old "That's why she was always in her cat form since I met her."
-    new "That's why she was always in her cat form since I met her."
+    # script.rpy:5057
 
-    old "He was trying to eat me..."
-    new "He was trying to eat me..."
+    # script.rpy:1060
 
     old "{image=quest_text}A cruel reality."
     new "{image=quest_text}A cruel reality."
 
-    old "That's what I mean! {w}Take off that creepy smile!"
-    new "That's what I mean! {w}Take off that creepy smile!"
+    # script.rpy:5703
 
-    old "This is why I hate useless bandits."
-    new "This is why I hate useless bandits."
+    # script.rpy:6470
 
-    old "Hmm... they must have taken care of that bandit problem."
-    new "Hmm... they must have taken care of that bandit problem."
+    # script.rpy:5431
 
-    old "I need to think of something to avoid making things awkward."
-    new "I need to think of something to avoid making things awkward."
+    # script.rpy:2093
 
-    old "{size=-7}You don't have to say anything else..."
-    new "{size=-7}You don't have to say anything else..."
+    # script.rpy:1279
 
-    old "I feel completely out of place..."
-    new "I feel completely out of place..."
+    # script.rpy:3956
 
-    old "Besides, if I wanted to hurt you, I wouldn't warn you about it."
-    new "Besides, if I wanted to hurt you, I wouldn't warn you about it."
+    # script.rpy:1205
 
-    old "Didn't you see how handsome he is?"
-    new "Didn't you see how handsome he is?"
+    # script.rpy:4573
 
-    old "Bandits are only together for convenience, {w}\"two is better than one to loot villages or rob people, right?\", {w}that's their thinking."
-    new "Bandits are only together for convenience, {w}\"two is better than one to loot villages or rob people, right?\", {w}that's their thinking."
+    # script.rpy:5773
 
-    old "{size=-6}Someone with such great potential..."
-    new "{size=-6}Someone with such great potential..."
+    # script.rpy:8742
 
-    old "What's going on...? Is she scared?"
-    new "What's going on...? Is she scared?"
+    # script.rpy:2550
 
     old "{image=quest_text}You've repaired the gate!"
     new "{image=quest_text}You've repaired the gate!"
 
-    old "Answer, or I'll break your mask along with every one of your teeth, {w}you scumbag."
-    new "Answer, or I'll break your mask along with every one of your teeth, {w}you scumbag."
+    # script.rpy:6312
 
-    old "I think seeing you so imposing awakened something in me..."
-    new "I think seeing you so imposing awakened something in me..."
+    # script.rpy:4233
 
-    old "Thank you very much..."
-    new "Thank you very much..."
+    # script.rpy:4710
 
-    old "I wanted to do something to make you happy..."
-    new "I wanted to do something to make you happy..."
+    # script.rpy:5485
 
-    old "{size=-6}Or maybe the human just doesn't like rice."
-    new "{size=-6}Or maybe the human just doesn't like rice."
+    # script.rpy:3697
 
-    old "{size=-10}That's the man who..."
-    new "{size=-10}That's the man who..."
+    # script.rpy:6509
 
-    old "I don't think it's our priority for now."
-    new "I don't think it's our priority for now."
+    # script.rpy:8261
 
-    old "It's delici—"
-    new "It's delici—"
+    # script.rpy:3988
 
-    old "Wow, it's boiling."
-    new "Wow, it's boiling."
+    # script.rpy:3096
 
-    old "Just keep running!"
-    new "Just keep running!"
+    # script.rpy:1666
 
-    old "A-All right... {w}don't stay too long, okay?"
-    new "A-All right... {w}don't stay too long, okay?"
+    # script.rpy:5624
 
-    old "With a person I know."
-    new "With a person I know."
+    # script.rpy:4217
 
-    old "Yes... {w}I used to travel with a girl."
-    new "Yes... {w}I used to travel with a girl."
+    # script.rpy:4664
 
-    old "{size=-8}Was it necessary to say the rank...?"
-    new "{size=-8}Was it necessary to say the rank...?"
+    # script.rpy:5742
 
-    old "Yuuka, {w}why don't you pour our guest a cup of tea?"
-    new "Yuuka, {w}why don't you pour our guest a cup of tea?"
+    # script.rpy:3953
 
-    old "The disdain for anything non-divine has always been present among us."
-    new "The disdain for anything non-divine has always been present among us."
+    # script.rpy:8750
 
-    old "I didn't expect her to smile like that just from getting some fish."
-    new "I didn't expect her to smile like that just from getting some fish."
+    # script.rpy:1183
 
-    old "Doh youm mwant?"
-    new "Doh youm mwant?"
+    # script.rpy:5912
 
-    old "Come in a few days, we will start working on it."
-    new "Come in a few days, we will start working on it."
+    # script.rpy:7422
 
     old "Too much knowledge at once could damage your mind, so we'll stop here."
     new "Too much knowledge at once could damage your mind, so we'll stop here."
 
-    old "Keep it there!"
-    new "Keep it there!"
+    # script.rpy:2946
 
-    old "{sc=2}{outlinecolor=#000000}G-Ghg! She almost broke my arms!{w=0.5}{nw}"
-    new "{sc=2}{outlinecolor=#000000}G-Ghg! She almost broke my arms!{w=0.5}{nw}"
+    # script.rpy:3897
 
-    old "Calm down! It's just a little tight!"
-    new "Calm down! It's just a little tight!"
+    # script.rpy:7569
 
-    old "Hmm... {w}And why are you so wet? {w}Did seeing me with Ryoko turn you on?"
-    new "Hmm... {w}And why are you so wet? {w}Did seeing me with Ryoko turn you on?"
+    # script.rpy:5579
 
-    old "They are leaving, and she seems to have noticed me."
-    new "They are leaving, and she seems to have noticed me."
+    # script.rpy:5736
 
-    old "Keiko has a sad face."
-    new "Keiko has a sad face."
+    # script.rpy:4177
 
-    old "Al-A-Alrea Gnhgmhnm~!{image=corazon}{image=corazon}"
-    new "Al-A-Alrea Gnhgmhnm~!{image=corazon}{image=corazon}"
+    # script.rpy:5569
 
-    old "Stay still, stubborn cat, let the ointment take effect."
-    new "Stay still, stubborn cat, let the ointment take effect."
+    # script.rpy:6261
 
-    old "{sc=2}{outlinecolor=#000000}{size=-8}Ah! No, {w}of course not."
-    new "{sc=2}{outlinecolor=#000000}{size=-8}Ah! No, {w}of course not."
+    # script.rpy:742
 
-    old "Why... does she look so pretty right now...?"
-    new "Why... does she look so pretty right now...?"
+    # script.rpy:3255
 
-    old "Good~ {w=0.5}I'm eating something before starting my daily routine."
-    new "Good~ {w=0.5}I'm eating something before starting my daily routine."
+    # script.rpy:7612
 
-    old "Her figure is perfect and graceful..."
-    new "Her figure is perfect and graceful..."
+    # script.rpy:1826
 
-    old "As much as I love that Ryoko is like this, I can't let her take the lead."
-    new "As much as I love that Ryoko is like this, I can't let her take the lead."
+    # script.rpy:5401
 
-    old "And even if they managed to capture them alive, there is no place to leave them."
-    new "And even if they managed to capture them alive, there is no place to leave them."
+    # script.rpy:5766
 
-    old "Have a seat, no one is coming today."
-    new "Have a seat, no one is coming today."
+    # script.rpy:7773
 
-    old "You're a strange human."
-    new "You're a strange human."
+    # script.rpy:779
 
-    old "I f-feel like I did something bad..."
-    new "I f-feel like I did something bad..."
+    # script.rpy:7624
 
-    old "This asshole doesn't know who he's messing with."
-    new "This asshole doesn't know who he's messing with."
+    # script.rpy:6579
 
-    old "This will do, {w}they look pretty dry."
-    new "This will do, {w}they look pretty dry."
+    # script.rpy:882
 
-    old "I am almost at my limit..."
-    new "I am almost at my limit..."
+    # script.rpy:5389
 
-    old "I'll be back before nightfall."
-    new "I'll be back before nightfall."
+    # script.rpy:3749
 
-    old "{sc=2}{outlinecolor=#000000}Please don't do anything to me!"
-    new "{sc=2}{outlinecolor=#000000}Please don't do anything to me!"
+    # script.rpy:1151
 
-    old "Is someone testing me, or is it just my terrible luck again?"
-    new "Is someone testing me, or is it just my terrible luck again?"
+    # script.rpy:1601
 
-    old "Fumiko really gave it to me."
-    new "Fumiko really gave it to me."
+    # script.rpy:832
 
-    old "Did you know? {w}They say he always gets sick and if you pick on him, he would go crying to his mother."
-    new "Did you know? {w}They say he always gets sick and if you pick on him, he would go crying to his mother."
+    # script.rpy:4805
 
-    old "{sc=3}{outlinecolor=#000000}She told me not to look back, {w}but I did... {w}and I saw..."
-    new "{sc=3}{outlinecolor=#000000}She told me not to look back, {w}but I did... {w}and I saw..."
+    # script.rpy:1275
 
-    old "Everything fits perfectly."
-    new "Everything fits perfectly."
+    # script.rpy:7549
 
-    old "So, slavery still exists in this world..."
-    new "So, slavery still exists in this world..."
+    # script.rpy:1300
 
-    old "I don't know if it's too many coincidences or if I'm going crazy, overthinking everything."
-    new "I don't know if it's too many coincidences or if I'm going crazy, overthinking everything."
+    # script.rpy:4242
 
-    old "Okay... something weird is going on here..."
-    new "Okay... something weird is going on here..."
+    # script.rpy:2462
 
-    old "As always your fists are pretty hard, hahaha."
-    new "As always your fists are pretty hard, hahaha."
+    # script.rpy:5896
 
-    old "{color=#E4D8AA}{size=-8}O-Oh! Not at all, great warrior! Say, do you have a girlfriend?"
-    new "{color=#E4D8AA}{size=-8}O-Oh! Not at all, great warrior! Say, do you have a girlfriend?"
+    # script.rpy:2390
 
-    old "And don't do anything stupid."
-    new "And don't do anything stupid."
+    # script.rpy:3787
 
-    old "What a confident adventurer."
-    new "What a confident adventurer."
+    # script.rpy:5781
 
-    old "Did her voice just tremble?"
-    new "Did her voice just tremble?"
+    # script.rpy:8239
 
-    old "I'll do what that idiot didn't do and I'll stay with you forever!"
-    new "I'll do what that idiot didn't do and I'll stay with you forever!"
+    # script.rpy:4835
 
-    old "What are you-?"
-    new "What are you-?"
+    # script.rpy:3102
 
-    old "{size=-8}How is your wound?"
-    new "{size=-8}How is your wound?"
+    # script.rpy:6150
 
-    old "{size=-10}I promise you everything and much more, {w}but don't leave me alone!"
-    new "{size=-10}I promise you everything and much more, {w}but don't leave me alone!"
+    # script.rpy:6716
 
-    old "Well... let's say I've already done them."
-    new "Well... let's say I've already done them."
+    # script.rpy:7306
 
-    old "{color=#E4D8AA}{size=-8}I think she's probably at home right now."
-    new "{color=#E4D8AA}{size=-8}I think she's probably at home right now."
+    # script.rpy:2395
 
-    old "I'm Fumiko."
-    new "I'm Fumiko."
+    # script.rpy:631
 
-    old "Do you want the fish?"
-    new "Do you want the fish?"
+    # script.rpy:1006
 
-    old "{size=-6}So that's why she was watching the souls entering that world..."
-    new "{size=-6}So that's why she was watching the souls entering that world..."
+    # script.rpy:2166
 
-    old "See you there..."
-    new "See you there..."
+    # script.rpy:7746
 
-    old "Don't move too much! {w}You may fall."
-    new "Don't move too much! {w}You may fall."
+    # script.rpy:5306
 
-    old "And what happened to that arm?"
-    new "And what happened to that arm?"
+    # script.rpy:7214
 
-    old "All right, let me help you."
-    new "All right, let me help you."
+    # script.rpy:8128
 
-    old "May I know how you will do it?"
-    new "May I know how you will do it?"
+    # script.rpy:7817
 
-    old "Sensei, please explain to him."
-    new "Sensei, please explain to him."
+    # script.rpy:7505
 
-    old "Leader~ {w=0.5}leader!~{image=corazon}"
-    new "Leader~ {w=0.5}leader!~{image=corazon}"
+    # script.rpy:8352
 
-    old "In fact {w}I don't feel injured anymore..."
-    new "In fact {w}I don't feel injured anymore..."
+    # script.rpy:4427
 
-    old "I think... {w}I forgot..."
-    new "I think... {w}I forgot..."
+    # script.rpy:1970
 
-    old "Can you give me an update on what happened?"
-    new "Can you give me an update on what happened?"
+    # script.rpy:2278
 
-    old "Then explain to me, {w}what do you want me to do?"
-    new "Then explain to me, {w}what do you want me to do?"
+    # script.rpy:693
 
-    old "Of course! Just come and talk to me whenever you want!"
-    new "Of course! Just come and talk to me whenever you want!"
+    # script.rpy:4719
 
-    old "Or maybe for people who want to come and live here."
-    new "Or maybe for people who want to come and live here."
+    # script.rpy:8236
 
-    old "How many times have I already told you that I hate your face?"
-    new "How many times have I already told you that I hate your face?"
+    # script.rpy:8689
 
-    old "W-Wait, {w}are you sure you'll be okay?"
-    new "W-Wait, {w}are you sure you'll be okay?"
+    # script.rpy:5987
 
-    old "Y-Yes, {w}w-what happened?!"
-    new "Y-Yes, {w}w-what happened?!"
+    # script.rpy:6759
 
-    old "Woow, {w}If I had known I was going to be greeted by three beautiful bitches I would have come sooner."
-    new "Woow, {w}If I had known I was going to be greeted by three beautiful bitches I would have come sooner."
+    # script.rpy:6306
 
-    old "I've seen lots of people do it on the internet."
-    new "I've seen lots of people do it on the internet."
+    # script.rpy:939
 
-    old "Hmm~ {w}who made it, Ryoko or Charlotte?"
-    new "Hmm~ {w}who made it, Ryoko or Charlotte?"
+    # script.rpy:5935
 
-    old "You let your guard dow-"
-    new "You let your guard dow-"
+    # script.rpy:7958
 
-    old "-she's waiting for someone..."
-    new "-she's waiting for someone..."
+    # script.rpy:5062
 
-    old "Hana told me that you helped her complete it."
-    new "Hana told me that you helped her complete it."
+    # script.rpy:2744
 
-    old "Hahaha why am I not surprised."
-    new "Hahaha why am I not surprised."
+    # script.rpy:3171
 
     old "You got a fishing rod!"
     new "You got a fishing rod!"
@@ -32647,1328 +31511,897 @@ translate ukrainian strings:
     old "{size=+10}{b}Stay, {w}just stay..."
     new "{size=+10}{b}Stay, {w}just stay..."
 
-    old "First offer, then eat!"
-    new "First offer, then eat!"
+    # script.rpy:5913
 
-    old "If you let me explain..."
-    new "If you let me explain..."
+    # script.rpy:4265
 
-    old "I-I hit him..."
-    new "I-I hit him..."
+    # script.rpy:6454
 
-    old "{size=-6}You have 10 seconds."
-    new "{size=-6}You have 10 seconds."
+    # script.rpy:5867
 
-    old "What about... your human version?"
-    new "What about... your human version?"
+    # script.rpy:8701
 
-    old "What happened here? Why so many people?"
-    new "What happened here? Why so many people?"
+    # script.rpy:4616
 
-    old "Whatever, they'll never speak to me again."
-    new "Whatever, they'll never speak to me again."
+    # script.rpy:4823
 
-    old "Are you all right? You look a little worried."
-    new "Are you all right? You look a little worried."
+    # script.rpy:2773
 
-    old "S-Shouldn't... you have asked for help with that...?"
-    new "S-Shouldn't... you have asked for help with that...?"
+    # script.rpy:7016
 
-    old "W-What? {w}How-"
-    new "W-What? {w}How-"
+    # script.rpy:7217
 
-    old "And she didn't erase what I drew for her hahaha."
-    new "And she didn't erase what I drew for her hahaha."
+    # script.rpy:8231
 
-    old "Are you going to bathe with me, or just keep staring at my butt all night?~{image=corazon}"
-    new "Are you going to bathe with me, or just keep staring at my butt all night?~{image=corazon}"
+    # script.rpy:1834
 
-    old "Mmm, {w}what do you mean?"
-    new "Mmm, {w}what do you mean?"
+    # script.rpy:5680
 
-    old "Ooh! {w}Women with character! And I thought I'd come here to be bored HAHAHAHA."
-    new "Ooh! {w}Women with character! And I thought I'd come here to be bored HAHAHAHA."
+    # script.rpy:6313
 
-    old "If you die, it'll be the fault of how weak you are."
-    new "If you die, it'll be the fault of how weak you are."
+    # script.rpy:4118
 
-    old "I don't know what happened but seeing her laugh, it seems that all her worries vanished."
-    new "I don't know what happened but seeing her laugh, it seems that all her worries vanished."
+    # script.rpy:785
 
-    old "To me, you're already a friend."
-    new "To me, you're already a friend."
+    # script.rpy:1410
 
-    old "If you had a child, what name would you give him?"
-    new "If you had a child, what name would you give him?"
+    # script.rpy:8691
 
-    old "Yeah, [mc]... {w}sitting here is really going to accomplish something."
-    new "Yeah, [mc]... {w}sitting here is really going to accomplish something."
+    # script.rpy:3822
 
-    old "HGnghm~ {image=corazon} {w}S-So this is not a human habit..."
-    new "HGnghm~ {image=corazon} {w}S-So this is not a human habit..."
+    # script.rpy:5576
 
-    old "{sc=2}{outlinecolor=#000000}HAHAHAHA!"
-    new "{sc=2}{outlinecolor=#000000}HAHAHAHA!"
+    # script.rpy:2619
 
-    old "You usually get up in another hour."
-    new "You usually get up in another hour."
+    # script.rpy:7630
 
-    old "Natsuki! {w}Natsuki!"
-    new "Natsuki! {w}Natsuki!"
+    # script.rpy:4648
 
-    old "I'm worried she still hasn't woken up..."
-    new "I'm worried she still hasn't woken up..."
+    # script.rpy:1131
 
-    old "Poor Mirai who has to put up with your drool every time she sees you."
-    new "Poor Mirai who has to put up with your drool every time she sees you."
+    # script.rpy:8683
 
-    old "{size=-6}It works for me."
-    new "{size=-6}It works for me."
+    # script.rpy:6348
 
-    old "{color=#FFFCA9}He's bleeding! {w}We have to get him to the village, fast!"
-    new "{color=#FFFCA9}He's bleeding! {w}We have to get him to the village, fast!"
+    # script.rpy:1776
 
-    old "W-What kind of punishment?"
-    new "W-What kind of punishment?"
+    # script.rpy:7496
 
-    old "Ok,{w} let's see if lighting a campfire is really that hard."
-    new "Ok,{w} let's see if lighting a campfire is really that hard."
+    # script.rpy:938
 
-    old "An offer? What kind of offer?"
-    new "An offer? What kind of offer?"
+    # script.rpy:2158
 
-    old "Hey, Keiko... what about your wings?"
-    new "Hey, Keiko... what about your wings?"
+    # script.rpy:2096
 
-    old "And where would that be?"
-    new "And where would that be?"
+    # script.rpy:2396
 
-    old "{size=-10}It's only of happiness..."
-    new "{size=-10}It's only of happiness..."
+    # script.rpy:4890
 
-    old "Do you still plan to go in those conditions?"
-    new "Do you still plan to go in those conditions?"
+    # script.rpy:6269
 
-    old "W-What do you mean...?"
-    new "W-What do you mean...?"
+    # script.rpy:4033
 
-    old "If it hadn't been for her, that wolf..."
-    new "If it hadn't been for her, that wolf..."
+    # script.rpy:1117
 
-    old "Yeah, {w}that's not leftovers at all."
-    new "Yeah, {w}that's not leftovers at all."
+    # script.rpy:5944
 
-    old "{size=-10}S-Silly! My heart's not ready... I haven't seen a man in ages..."
-    new "{size=-10}S-Silly! My heart's not ready... I haven't seen a man in ages..."
+    # script.rpy:2445
 
-    old "Eh? W-What is she doing?"
-    new "Eh? W-What is she doing?"
+    # script.rpy:7348
 
-    old "No thanks..."
-    new "No thanks..."
+    # script.rpy:8625
 
-    old "{size=-10}Even if he has a demon slave, he doesn't seem like a bad person..."
-    new "{size=-10}Even if he has a demon slave, he doesn't seem like a bad person..."
+    # script.rpy:2448
 
-    old "Or to be able to help others in the same way that Shika does."
-    new "Or to be able to help others in the same way that Shika does."
+    # script.rpy:8316
 
-    old "Hahaha~ {w}girls, calm down, it's just a question."
-    new "Hahaha~ {w}girls, calm down, it's just a question."
+    # script.rpy:8698
 
-    old "Ah right... {w}mom was preparing dinner."
-    new "Ah right... {w}mom was preparing dinner."
+    # script.rpy:3525
 
-    old "How about setting some kind of alarm? A bell in certain places in the village."
-    new "How about setting some kind of alarm? A bell in certain places in the village."
+    # script.rpy:8200
 
-    old "One thing I have learned is that this place is more important to her than I thought."
-    new "One thing I have learned is that this place is more important to her than I thought."
+    # script.rpy:5049
 
     old "Both girls leave."
     new "Both girls leave."
 
-    old "Great, I feel more relaxed."
-    new "Great, I feel more relaxed."
+    # script.rpy:5432
 
-    old "I was so focused on the map that I didn't notice when she left."
-    new "I was so focused on the map that I didn't notice when she left."
+    # script.rpy:8269
 
-    old "Yes yes, {w}I have already told you that your flattery is useless..."
-    new "Yes yes, {w}I have already told you that your flattery is useless..."
+    # script.rpy:5125
 
-    old "They were quite heavy to be honest."
-    new "They were quite heavy to be honest."
+    # script.rpy:7059
 
-    old "Did those kids bother you again?"
-    new "Did those kids bother you again?"
+    # script.rpy:3550
 
-    old "I'll stay with Charlotte. She seems to be pretty sleepy."
-    new "I'll stay with Charlotte. She seems to be pretty sleepy."
+    # script.rpy:4692
 
-    old "Hehehe, I'm not doing anything."
-    new "Hehehe, I'm not doing anything."
+    # script.rpy:5701
 
-    old "{size=-6}I'm counting on you..."
-    new "{size=-6}I'm counting on you..."
+    # script.rpy:739
 
-    old "That the name I would choose would be..."
-    new "That the name I would choose would be..."
+    # script.rpy:8762
 
-    old "B-But what about you...?"
-    new "B-But what about you...?"
+    # script.rpy:1607
 
-    old "W-Wait, {w}you k-killed them?"
-    new "W-Wait, {w}you k-killed them?"
+    # script.rpy:5762
 
-    old "Oh, hey Akane."
-    new "Oh, hey Akane."
+    # script.rpy:5650
 
-    old "A beautiful girl waiting for me?"
-    new "A beautiful girl waiting for me?"
+    # script.rpy:957
 
-    old "My legs... {w}are very heavy."
-    new "My legs... {w}are very heavy."
+    # script.rpy:6527
 
-    old "Why don't you move?"
-    new "Why don't you move?"
+    # script.rpy:5107
 
-    old "See you later, girls."
-    new "See you later, girls."
+    # script.rpy:3793
 
-    old "But I don't think she'll get anywhere with that wound..."
-    new "But I don't think she'll get anywhere with that wound..."
+    # script.rpy:6189
 
-    old "All goddesses do this?"
-    new "All goddesses do this?"
+    # script.rpy:628
 
-    old "{size=-10}Why has nothing appeared yet..."
-    new "{size=-10}Why has nothing appeared yet..."
+    # script.rpy:2748
 
-    old "What can I do to become stronger?"
-    new "What can I do to become stronger?"
+    # script.rpy:4357
 
-    old "Hmm... maybe..."
-    new "Hmm... maybe..."
+    # script.rpy:7827
 
-    old "No comment."
-    new "No comment."
+    # script.rpy:1128
 
-    old "Oh, remember the \"bandits\" that roamed the area?"
-    new "Oh, remember the \"bandits\" that roamed the area?"
+    # script.rpy:5754
 
-    old "All this conversation did not make me realize that-"
-    new "All this conversation did not make me realize that-"
+    # script.rpy:5444
 
     old "You obtained a fish!"
     new "You obtained a fish!"
 
-    old "Wa wa wa wa."
-    new "Wa wa wa wa."
+    # script.rpy:3113, script.rpy:3116, script.rpy:3130
 
-    old "This is what you've been led to believe."
-    new "This is what you've been led to believe."
+    # script.rpy:4068
 
-    old "W-Why are you so energetic?{image=corazon}{image=corazon}"
-    new "W-Why are you so energetic?{image=corazon}{image=corazon}"
+    # script.rpy:5572
 
-    old "It would attract a lot of attention if I look different than \"normal\"."
-    new "It would attract a lot of attention if I look different than \"normal\"."
+    # script.rpy:774
 
-    old "We now have resources with which I can create many~"
-    new "We now have resources with which I can create many~"
+    # script.rpy:7779
 
-    old "{sc=1}{outlinecolor=#000000}{size=-6}Munch... munch..."
-    new "{sc=1}{outlinecolor=#000000}{size=-6}Munch... munch..."
+    # script.rpy:3710
 
-    old "Am I wrong?"
-    new "Am I wrong?"
+    # script.rpy:7228
 
-    old "I've never seen someone run away so fast."
-    new "I've never seen someone run away so fast."
+    # script.rpy:1146
 
-    old "What do you need Akane?"
-    new "What do you need Akane?"
+    # script.rpy:7685
 
-    old "Mom... {w}I'm not a kid anymore."
-    new "Mom... {w}I'm not a kid anymore."
+    # script.rpy:4787
 
-    old "Do you want me to... do it?"
-    new "Do you want me to... do it?"
+    # script.rpy:5320
 
-    old "Don't worry, let me treat myself."
-    new "Don't worry, let me treat myself."
+    # script.rpy:5329
 
-    old "Besides, if I have you, I don't need stupid friends."
-    new "Besides, if I have you, I don't need stupid friends."
+    # script.rpy:4826
 
-    old "AaaAah! I looked at it directly!"
-    new "AaaAah! I looked at it directly!"
+    # script.rpy:7407
 
-    old "I swore I did the calculations right."
-    new "I swore I did the calculations right."
+    # script.rpy:7561
 
-    old "Understood, Ryoko?"
-    new "Understood, Ryoko?"
+    # script.rpy:2337
 
-    old "How much longer do you plan to sleep?"
-    new "How much longer do you plan to sleep?"
+    # script.rpy:8889
 
-    old "How long has it been since you last ate?"
-    new "How long has it been since you last ate?"
+    # script.rpy:1017
 
-    old "I'm glad to hear that... because..."
-    new "I'm glad to hear that... because..."
+    # script.rpy:7975
 
-    old "Infinity of trees, a clear sky."
-    new "Infinity of trees, a clear sky."
+    # script.rpy:828
 
-    old "{size=-6}You may say you're weak, {w}but your heart is incredibly strong, Ryoko..."
-    new "{size=-6}You may say you're weak, {w}but your heart is incredibly strong, Ryoko..."
+    # script.rpy:1285
 
-    old "I'll be so strong that no one will bother us, and you won't be tired all the time!"
-    new "I'll be so strong that no one will bother us, and you won't be tired all the time!"
+    # script.rpy:4874
 
-    old "{size=-6}I need to recover soon..."
-    new "{size=-6}I need to recover soon..."
+    # script.rpy:2236
 
-    old "Yes... {w}we changed because of you..."
-    new "Yes... {w}we changed because of you..."
+    # script.rpy:8751
 
-    old "I knew that Keiko was hiding something from me."
-    new "I knew that Keiko was hiding something from me."
+    # script.rpy:698
 
-    old "{size=-9}We'll m--- again [mc]. I also need t- talk to Fum--."
-    new "{size=-9}We'll m--- again [mc]. I also need t- talk to Fum--."
+    # script.rpy:2191
 
-    old "Thank you [mc], I am glad to have you with us."
-    new "Thank you [mc], I am glad to have you with us."
+    # script.rpy:6958
 
-    old "I always wondered why I came here from time to time."
-    new "I always wondered why I came here from time to time."
+    # script.rpy:4771
 
-    old "My little man."
-    new "My little man."
+    # script.rpy:4878
 
-    old "Is it just another whim of yours?"
-    new "Is it just another whim of yours?"
+    # script.rpy:6531
 
-    old "This must be a perfect place for medicinal plants!"
-    new "This must be a perfect place for medicinal plants!"
+    # script.rpy:8248
 
-    old "I didn't want to talk to Alice so you can say whether to help me or not."
-    new "I didn't want to talk to Alice so you can say whether to help me or not."
+    # script.rpy:7338
 
-    old "Haanm~{image=corazon}{image=corazon} {w}T-This is a very rare... {w}Mgnghm~~ {image=corazon} {w}h-human habit."
-    new "Haanm~{image=corazon}{image=corazon} {w}T-This is a very rare... {w}Mgnghm~~ {image=corazon} {w}h-human habit."
+    # script.rpy:5574
 
-    old "Are they harmless?"
-    new "Are they harmless?"
+    # script.rpy:8457
 
-    old "{sc=1}{outlinecolor=#000000}Charlotte, go get Hana!"
-    new "{sc=1}{outlinecolor=#000000}Charlotte, go get Hana!"
+    # script.rpy:8564
 
-    old "Hello Akane, why are you so red? Do you need to use the restroom?"
-    new "Hello Akane, why are you so red? Do you need to use the restroom?"
+    # script.rpy:8845
 
-    old "{size=-10}But they are mixed up, {w}what are they doing working together with bandits?"
-    new "{size=-10}But they are mixed up, {w}what are they doing working together with bandits?"
+    # script.rpy:6304
 
-    old "We have always used only two entrances, the others are blocked."
-    new "We have always used only two entrances, the others are blocked."
+    # script.rpy:8242
 
-    old "Maybe because no goddess has ever been capable of creating an entire world."
-    new "Maybe because no goddess has ever been capable of creating an entire world."
+    # script.rpy:8622
 
-    old "{size=-6}I didn't recover much this morning so not much."
-    new "{size=-6}I didn't recover much this morning so not much."
+    # script.rpy:6345
 
-    old "{size=-6}Never mention any of this, {w}if the Gods found out that someone was reborn with their memories..."
-    new "{size=-6}Never mention any of this, {w}if the Gods found out that someone was reborn with their memories..."
+    # script.rpy:591
 
-    old "We're going to need a lot of material down here..."
-    new "We're going to need a lot of material down here..."
+    # script.rpy:7402
 
-    old "Keiko, I wasn't going-"
-    new "Keiko, I wasn't going-"
+    # script.rpy:8641
 
-    old "W-Why does Yuuka have to die?!"
-    new "W-Why does Yuuka have to die?!"
+    # script.rpy:3996
 
-    old "It's not like I did it for you either."
-    new "It's not like I did it for you either."
+    # script.rpy:5256
 
-    old "There will come a time when I will have to..."
-    new "There will come a time when I will have to..."
+    # script.rpy:5767
 
-    old "And you are the one who got the materials right away..."
-    new "And you are the one who got the materials right away..."
+    # script.rpy:7080
 
-    old "Ufufu~{image=corazon}{image=corazon} {w}I knew you'd say something like that, that's why I find you so interesting."
-    new "Ufufu~{image=corazon}{image=corazon} {w}I knew you'd say something like that, that's why I find you so interesting."
+    # script.rpy:1919
 
-    old "Hmm... {w}you look really cute when you laugh."
-    new "Hmm... {w}you look really cute when you laugh."
+    # script.rpy:786
 
-    old "It felt very real."
-    new "It felt very real."
+    # script.rpy:3607
 
-    old "Why do I feel Keiko's power?"
-    new "Why do I feel Keiko's power?"
+    # script.rpy:4123
 
-    old "There are things I could build with Mayu's help..."
-    new "There are things I could build with Mayu's help..."
+    # script.rpy:7864
 
-    old "Nothing, I was just making something."
-    new "Nothing, I was just making something."
+    # script.rpy:7766
 
-    old "Mmm... {w}I'll take a bath before going to Sakura Town."
-    new "Mmm... {w}I'll take a bath before going to Sakura Town."
+    # script.rpy:5262
 
-    old "{size=-6}{i}Sigh* {w}All right..."
-    new "{size=-6}{i}Sigh* {w}All right..."
+    # script.rpy:7594
 
-    old "{size=-6}I t-think I understand why..."
-    new "{size=-6}I t-think I understand why..."
+    # script.rpy:1812
 
-    old "So you're not here to rob and kill us while no one's looking?"
-    new "So you're not here to rob and kill us while no one's looking?"
+    # script.rpy:2666
 
-    old "What?{w} We'll be able to what?"
-    new "What?{w} We'll be able to what?"
+    # script.rpy:3058
 
-    old "You must have already realized what this place is for."
-    new "You must have already realized what this place is for."
+    # script.rpy:3374
 
-    old "What? {w}You thought the smoke ball at the beginning was just the dust kicked up by falling doors?"
-    new "What? {w}You thought the smoke ball at the beginning was just the dust kicked up by falling doors?"
+    # script.rpy:6378
 
-    old "He is a useful pervert."
-    new "He is a useful pervert."
+    # script.rpy:8092
 
-    old "Hahaha, what are you talking about? {w}It's nothing special, it's leftover food."
-    new "Hahaha, what are you talking about? {w}It's nothing special, it's leftover food."
+    # script.rpy:5939
 
-    old "Okay, {w}he's already entered the madness."
-    new "Okay, {w}he's already entered the madness."
+    # script.rpy:6782
 
-    old "What is she doing in the woods at this hour...?"
-    new "What is she doing in the woods at this hour...?"
+    # script.rpy:1124
 
-    old "{color=#8CDAE9}{size=-6}You're finally awake! {w}Come on down!"
-    new "{color=#8CDAE9}{size=-6}You're finally awake! {w}Come on down!"
+    # script.rpy:1798
 
-    old "{size=-10}Haaa~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
-    new "{size=-10}Haaa~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
+    # script.rpy:5607
 
-    old "The girl ran away, and I didn't get any information."
-    new "The girl ran away, and I didn't get any information."
+    # script.rpy:6205
 
-    old "I can feel her blessing on you... {w=0.5}a very strong one."
-    new "I can feel her blessing on you... {w=0.5}a very strong one."
+    # script.rpy:639
 
-    old "And you are the only ones I know who could help me with this."
-    new "And you are the only ones I know who could help me with this."
+    # script.rpy:7337
 
-    old "What a great way to start the day."
-    new "What a great way to start the day."
+    # script.rpy:5276
 
-    old "I-I don't think I can resist as well as Ryoko!"
-    new "I-I don't think I can resist as well as Ryoko!"
+    # script.rpy:5564
 
-    old "D-Don't worry, {w}she told me to come, {w}I was even surprised to see her."
-    new "D-Don't worry, {w}she told me to come, {w}I was even surprised to see her."
+    # script.rpy:7497
 
-    old "Haha~ {w}You even hesitated to kill that first wolf."
-    new "Haha~ {w}You even hesitated to kill that first wolf."
+    # script.rpy:1885
 
-    old "Healing, stamina and magic recovery."
-    new "Healing, stamina and magic recovery."
+    # script.rpy:7243
 
-    old "I'm not stupid. {w}That necklace she's wearing..."
-    new "I'm not stupid. {w}That necklace she's wearing..."
+    # script.rpy:1238
 
-    old "Wow what was that?"
-    new "Wow what was that?"
+    # script.rpy:4458
 
-    old "Ah- {w}yes... you figured it out right away..."
-    new "Ah- {w}yes... you figured it out right away..."
+    # script.rpy:7315
 
-    old "Ryoko, stand behind Hana with the rest."
-    new "Ryoko, stand behind Hana with the rest."
+    # script.rpy:2804
 
-    old "Sigh*... {w}and what time is the meeting?"
-    new "Sigh*... {w}and what time is the meeting?"
+    # script.rpy:7678
 
-    old "We're safe here. A little help won't hurt."
-    new "We're safe here. A little help won't hurt."
+    # script.rpy:2757
 
-    old "Cool, {w=0.5}sensual, {w=0.5}tall, {w=0.5}great bo-"
-    new "Cool, {w=0.5}sensual, {w=0.5}tall, {w=0.5}great bo-"
+    # script.rpy:7720
 
-    old "I'll distract them."
-    new "I'll distract them."
+    # script.rpy:1605
 
     old "Yes, they are."
     new "Yes, they are."
 
-    old "Since I started going to Sakura Town, {w}I train her from time to time, but she is very responsible and serious about it."
-    new "Since I started going to Sakura Town, {w}I train her from time to time, but she is very responsible and serious about it."
+    # script.rpy:4984
 
-    old "They help us more than you think, so be careful..."
-    new "They help us more than you think, so be careful..."
+    # script.rpy:8209
 
-    old "It is different to act as a leader than just trying to survive."
-    new "It is different to act as a leader than just trying to survive."
+    # script.rpy:7856
 
-    old "Can she give me material things?"
-    new "Can she give me material things?"
+    # script.rpy:759
 
-    old "If I think about it, Diana doesn't look like someone who can run a business."
-    new "If I think about it, Diana doesn't look like someone who can run a business."
+    # script.rpy:7154
 
-    old "I-I'm coming!"
-    new "I-I'm coming!"
+    # script.rpy:3346
 
-    old "Eeeh~ {w}Can't you see I'm training?"
-    new "Eeeh~ {w}Can't you see I'm training?"
+    # script.rpy:5947
 
-    old "Are you coming or will you keep scaring my soldier?"
-    new "Are you coming or will you keep scaring my soldier?"
+    # script.rpy:3334
 
-    old "Can you do that?"
-    new "Can you do that?"
+    # script.rpy:8630
 
-    old "So, my work here is done."
-    new "So, my work here is done."
+    # script.rpy:7089
 
-    old "One more word and I'll rat you out to the higher ranks."
-    new "One more word and I'll rat you out to the higher ranks."
+    # script.rpy:4163
 
-    old "Can you get out of the way?"
-    new "Can you get out of the way?"
+    # script.rpy:6123
 
-    old "I hate being weak! I couldn't do anything!"
-    new "I hate being weak! I couldn't do anything!"
+    # script.rpy:1270
 
-    old "He seems like a nice guy..."
-    new "He seems like a nice guy..."
+    # script.rpy:5833
 
-    old "Ryoko is having a hard time speaking..."
-    new "Ryoko is having a hard time speaking..."
+    # script.rpy:5424
 
-    old "I just told you, it will help with the dizziness and disorientation but you will still feel paralysis until the poison leaves your body."
-    new "I just told you, it will help with the dizziness and disorientation but you will still feel paralysis until the poison leaves your body."
+    # script.rpy:6267
 
-    old "Just that...? {w}... {w}{size=-6}The chains...?"
-    new "Just that...? {w}... {w}{size=-6}The chains...?"
+    # script.rpy:8732
 
-    old "{i}{size=-8}In exchange, she promised {size=-8}not to say anything about me."
-    new "{i}{size=-8}In exchange, she promised {size=-8}not to say anything about me."
+    # script.rpy:2160
 
-    old "And has something interesting happened here?"
-    new "And has something interesting happened here?"
+    # script.rpy:5422
 
-    old "I'll tell you the most important thing."
-    new "I'll tell you the most important thing."
+    # script.rpy:4317
 
-    old "You're right, Yui mentioned something like that."
-    new "You're right, Yui mentioned something like that."
+    # script.rpy:3156
 
-    old "Since I came into this world I have used the same thing every day."
-    new "Since I came into this world I have used the same thing every day."
+    # script.rpy:7541
 
-    old "What will we do if you end up giving ice cream to all of us?"
-    new "What will we do if you end up giving ice cream to all of us?"
+    # script.rpy:8665
 
-    old "W-Why is she looking at me like that...?"
-    new "W-Why is she looking at me like that...?"
+    # script.rpy:5405
 
-    old "As you command."
-    new "As you command."
+    # script.rpy:3993
 
-    old "We need to talk about something important."
-    new "We need to talk about something important."
+    # script.rpy:2110
 
-    old "Oh, you're back?"
-    new "Oh, you're back?"
+    # script.rpy:3100
 
-    old "And she keeps talking..."
-    new "And she keeps talking..."
+    # script.rpy:1166
 
-    old "Shit... {w}Ryoko has improved a lot in this... {w}but it bothers me that I'm the only one going through this situation..."
-    new "Shit... {w}Ryoko has improved a lot in this... {w}but it bothers me that I'm the only one going through this situation..."
+    # script.rpy:5395
 
-    old "She's been getting along really well with Ryoko."
-    new "She's been getting along really well with Ryoko."
+    # script.rpy:3680
 
-    old "The personality of this goddess changed completely..."
-    new "The personality of this goddess changed completely..."
+    # script.rpy:4045
 
-    old "Something's... reacting, and her gaze isn't helping."
-    new "Something's... reacting, and her gaze isn't helping."
+    # script.rpy:1858
 
-    old "{size=-10}The usual..."
-    new "{size=-10}The usual..."
+    # script.rpy:4325
 
-    old "Okay girls, you don't want to kill your leader on the first day."
-    new "Okay girls, you don't want to kill your leader on the first day."
+    # script.rpy:8381
 
-    old "I know I may sound like an idiot, but everything points to-"
-    new "I know I may sound like an idiot, but everything points to-"
+    # script.rpy:4249
 
-    old "Yes, she's fine, she's a good girl once you get to know her..."
-    new "Yes, she's fine, she's a good girl once you get to know her..."
+    # script.rpy:5384
 
-    old "I heard rumors about you, but no one said you were a pervert."
-    new "I heard rumors about you, but no one said you were a pervert."
+    # script.rpy:2508
 
-    old "I will stop eating ice cream every day..."
-    new "I will stop eating ice cream every day..."
+    # script.rpy:6706
 
-    old "This is going to be great!{w} I know you'll entertain me a lot!"
-    new "This is going to be great!{w} I know you'll entertain me a lot!"
+    # script.rpy:535
 
-    old "I see, {w}the queen has already put you on wanted?"
-    new "I see, {w}the queen has already put you on wanted?"
+    # script.rpy:7314
 
-    old "You're not there yet."
-    new "You're not there yet."
+    # script.rpy:624
 
-    old "I already told you, {w}no."
-    new "I already told you, {w}no."
+    # script.rpy:1202
 
-    old "My hand—there's something wrong with it!"
-    new "My hand—there's something wrong with it!"
+    # script.rpy:4232
 
-    old "Are you only going to answer me when you want to?"
-    new "Are you only going to answer me when you want to?"
+    # script.rpy:7105
 
-    old "{size=-10}Why don't you go talk to him?"
-    new "{size=-10}Why don't you go talk to him?"
+    # script.rpy:2444
 
-    old "That's the one..."
-    new "That's the one..."
+    # script.rpy:6673
 
-    old "What I don't get is, why did it feel like I was seeing everything through Shika's eyes?"
-    new "What I don't get is, why did it feel like I was seeing everything through Shika's eyes?"
+    # script.rpy:8822
 
-    old "Don't worry, this is nothing compared to when he fought three at the same time."
-    new "Don't worry, this is nothing compared to when he fought three at the same time."
+    # script.rpy:2819
 
-    old "I'm going back there."
-    new "I'm going back there."
+    # script.rpy:3732
 
-    old "{size=-8}I have to get back to town as soon as possible."
-    new "{size=-8}I have to get back to town as soon as possible."
+    # script.rpy:6250
 
-    old "Sorry Boss! {w}This one was pretty sneaky Hahaha!"
-    new "Sorry Boss! {w}This one was pretty sneaky Hahaha!"
+    # script.rpy:6363
 
-    old "[mc]... {w}I-I don't know if it's time to do these things..."
-    new "[mc]... {w}I-I don't know if it's time to do these things..."
+    # script.rpy:6813
 
-    old "{color=#FFFCA9}Are those... three dead wolves?"
-    new "{color=#FFFCA9}Are those... three dead wolves?"
+    # script.rpy:1772
 
-    old "I don't feel anything or anyone in the vicinity..."
-    new "I don't feel anything or anyone in the vicinity..."
+    # script.rpy:2761
 
-    old "{size=-7}At least Ryoko got away..."
-    new "{size=-7}At least Ryoko got away..."
+    # script.rpy:1724
 
-    old "I-I don't understand anything you're saying..."
-    new "I-I don't understand anything you're saying..."
+    # script.rpy:4054
 
-    old "If you don't tell me I won't train you anymore~~"
-    new "If you don't tell me I won't train you anymore~~"
+    # script.rpy:4818
 
-    old "Boss, {w}what do we do?"
-    new "Boss, {w}what do we do?"
+    # script.rpy:6285
 
-    old "I won't say anything about this..."
-    new "I won't say anything about this..."
+    # script.rpy:643
 
-    old "Yui, how are you?"
-    new "Yui, how are you?"
+    # script.rpy:7611
 
-    old "If you harvest the forest too much, don't complain if you anger the elemental spirits... hehehe~"
-    new "If you harvest the forest too much, don't complain if you anger the elemental spirits... hehehe~"
+    # script.rpy:8207
 
-    old "Master! {w}Beyond those bushes is the way out of the forest!"
-    new "Master! {w}Beyond those bushes is the way out of the forest!"
+    # script.rpy:1594
 
-    old "What was the meaning of my life?"
-    new "What was the meaning of my life?"
+    # script.rpy:485
 
-    old "But they still look somewhat edible..."
-    new "But they still look somewhat edible..."
+    # script.rpy:1196
 
-    old "I-I didn't know... {w}you loved me so much... {w}{size=-10}Snif*."
-    new "I-I didn't know... {w}you loved me so much... {w}{size=-10}Snif*."
+    # script.rpy:5227
 
-    old "My friend and I were captured by mercenaries."
-    new "My friend and I were captured by mercenaries."
+    # script.rpy:1253
 
-    old "{i}{size=-10}I ruined it!!!"
-    new "{i}{size=-10}I ruined it!!!"
+    # script.rpy:3280
 
-    old "Seeing it again makes me feel like this was all just a dream..."
-    new "Seeing it again makes me feel like this was all just a dream..."
+    # script.rpy:3805
 
-    old "I can eat fish now?"
-    new "I can eat fish now?"
+    # script.rpy:5206
 
-    old "Wow, {w}all that in just a few seconds?"
-    new "Wow, {w}all that in just a few seconds?"
+    # script.rpy:6462
 
-    old "The sooner I arrive, the safer she'll be."
-    new "The sooner I arrive, the safer she'll be."
+    # script.rpy:748
 
-    old "Calm down Sensei."
-    new "Calm down Sensei."
+    # script.rpy:7312, script.rpy:7326
 
-    old "First of all, {w}thank you for saving me."
-    new "First of all, {w}thank you for saving me."
+    # script.rpy:1215
 
-    old "Let's sit down and I'll tell you what I know..."
-    new "Let's sit down and I'll tell you what I know..."
+    # script.rpy:4271
 
-    old "If you have questions or know more than I do, don't hesitate to let me know."
-    new "If you have questions or know more than I do, don't hesitate to let me know."
+    # script.rpy:8230
 
-    old "I'm starting to think I have a problem down there."
-    new "I'm starting to think I have a problem down there."
+    # script.rpy:661
 
-    old "How is that possible?"
-    new "How is that possible?"
+    # script.rpy:4307
 
-    old "right path..."
-    new "right path..."
+    # script.rpy:8446
 
-    old "{size=-6}I... {w}I don't know..."
-    new "{size=-6}I... {w}I don't know..."
+    # script.rpy:3549
 
-    old "{size=-8}Because I no longer have anything to lose {w}and I've lost all will to live~"
-    new "{size=-8}Because I no longer have anything to lose {w}and I've lost all will to live~"
+    # script.rpy:6143
 
-    old "Let me take care of you."
-    new "Let me take care of you."
+    # script.rpy:7803
 
-    old "Well... {w}let's get to work."
-    new "Well... {w}let's get to work."
+    # script.rpy:5858
 
-    old "{color=#F5B6F2}Does she even take her role as Goddess seriously?"
-    new "{color=#F5B6F2}Does she even take her role as Goddess seriously?"
+    # script.rpy:8608
 
-    old "There they are."
-    new "There they are."
+    # script.rpy:2255
 
-    old "I'll take care of that, that on the center is the way we could open, isn't it? {w}It led to a dungeon if I remember correctly."
-    new "I'll take care of that, that on the center is the way we could open, isn't it? {w}It led to a dungeon if I remember correctly."
+    # script.rpy:8260
 
-    old "Miss Diana has just left and will be back in a few minutes."
-    new "Miss Diana has just left and will be back in a few minutes."
+    # script.rpy:7172
 
-    old "They were going to sell us to a new owner, someone known for being cruel to slaves..."
-    new "They were going to sell us to a new owner, someone known for being cruel to slaves..."
+    # script.rpy:1260
 
-    old "Every decision you make... {w}every interaction..."
-    new "Every decision you make... {w}every interaction..."
+    # script.rpy:1884
 
-    old "No wonder her voice sounded so familiar..."
-    new "No wonder her voice sounded so familiar..."
+    # script.rpy:1804
 
     old "I think the time has come."
     new "I think the time has come."
 
-    old "Let him rest for now. When he's fully recovered, tell him to come and speak with me."
-    new "Let him rest for now. When he's fully recovered, tell him to come and speak with me."
+    # script.rpy:2221
 
-    old "{size=-8}D-Did you take... {w}the gates?"
-    new "{size=-8}D-Did you take... {w}the gates?"
+    # script.rpy:7052
 
-    old "If you don't mind, I don't want to look at that ugly mask, so I'll go to sleep."
-    new "If you don't mind, I don't want to look at that ugly mask, so I'll go to sleep."
+    # script.rpy:5850
 
-    old "That's a very sharp weapon for a kitten like you."
-    new "That's a very sharp weapon for a kitten like you."
+    # script.rpy:5870
 
-    old "Only someone like her can live without caring what anyone else says."
-    new "Only someone like her can live without caring what anyone else says."
+    # script.rpy:8314
 
-    old "What's wrong with Akane?"
-    new "What's wrong with Akane?"
+    # script.rpy:3086
 
-    old "{sc=2}{outlinecolor=#000000}I-I understand!"
-    new "{sc=2}{outlinecolor=#000000}I-I understand!"
+    # script.rpy:1613
 
-    old "{size=-6}Hhmm... {w}I was training."
-    new "{size=-6}Hhmm... {w}I was training."
+    # script.rpy:8033
 
-    old "I can show you the variety when we open the store."
-    new "I can show you the variety when we open the store."
+    # script.rpy:7246
 
-    old "{color=#D16992}{size=-6}It's a strange feeling... but I've gotten used to it."
-    new "{color=#D16992}{size=-6}It's a strange feeling... but I've gotten used to it."
+    # script.rpy:8528
 
-    old "I don't like the fact that you're a slave."
-    new "I don't like the fact that you're a slave."
+    # script.rpy:1408
 
     old "I have {size=-6}made a{/size} {size=-10}mistake."
     new "I have {size=-6}made a{/size} {size=-10}mistake."
 
-    old "Me too me too!"
-    new "Me too me too!"
+    # script.rpy:8363
 
-    old "AaaAAAaaah!!!"
-    new "AaaAAAaaah!!!"
+    # script.rpy:6413
 
-    old "Then don't waste your time, go right now."
-    new "Then don't waste your time, go right now."
+    # script.rpy:5264
 
-    old "Then I'll find a way to break that necklace."
-    new "Then I'll find a way to break that necklace."
+    # script.rpy:1415
 
-    old "And her figure is so feminine despite training so hard."
-    new "And her figure is so feminine despite training so hard."
+    # script.rpy:3424
 
-    old "No wait... {w}maybe you're too busy hahaha..."
-    new "No wait... {w}maybe you're too busy hahaha..."
+    # script.rpy:6519
 
-    old "Yes, I'm fine... {w}I'm still learning."
-    new "Yes, I'm fine... {w}I'm still learning."
+    # script.rpy:5922
 
-    old "Perfect, {w}leave it to me."
-    new "Perfect, {w}leave it to me."
+    # script.rpy:6956
 
-    old "I never thought this place would end up under the command of... {w}him."
-    new "I never thought this place would end up under the command of... {w}him."
+    # script.rpy:7657
 
-    old "Oh, {w}I thought she were going to talk about how much she love wood and how we should cut down more trees."
-    new "Oh, {w}I thought she were going to talk about how much she love wood and how we should cut down more trees."
+    # script.rpy:8172
 
-    old "This humid air and the soothing sound.."
-    new "This humid air and the soothing sound.."
+    # script.rpy:4769
 
-    old "I-I TRIED BUT HE GOT ME ANYWAY!"
-    new "I-I TRIED BUT HE GOT ME ANYWAY!"
+    # script.rpy:6368
 
-    old "{sc=2}{outlinecolor=#000000}Wake up! {w}What happened?"
-    new "{sc=2}{outlinecolor=#000000}Wake up! {w}What happened?"
+    # script.rpy:8567
 
-    old "HaanNM~{image=corazon} {w}D-Don't tell me you still have... {w}NGhnm~{image=corazon}{image=corazon} {w}m-more to release?{image=corazon}"
-    new "HaanNM~{image=corazon} {w}D-Don't tell me you still have... {w}NGhnm~{image=corazon}{image=corazon} {w}m-more to release?{image=corazon}"
+    # script.rpy:5585
 
-    old "I mean, {w}it worked!"
-    new "I mean, {w}it worked!"
+    # script.rpy:5688
 
-    old "Take off that perverted face and move."
-    new "Take off that perverted face and move."
+    # script.rpy:5189
 
-    old "If you do that, I'll start calling you Honey."
-    new "If you do that, I'll start calling you Honey."
+    # script.rpy:7939
 
-    old "I've been having strange dreams since I got here."
-    new "I've been having strange dreams since I got here."
+    # script.rpy:4266
 
-    old "Lost everything?"
-    new "Lost everything?"
+    # script.rpy:6083
 
-    old "Thank you, are you going to the meeting?"
-    new "Thank you, are you going to the meeting?"
+    # script.rpy:7672
 
-    old "Also, with my blessing, your physical attributes will improve."
-    new "Also, with my blessing, your physical attributes will improve."
+    # script.rpy:550
 
-    old "In the next version you'll be able to visit the goddesses!"
-    new "In the next version you'll be able to visit the goddesses!"
+    # script.rpy:3640
 
-    old "I-It's getting b-bigger... {w}GHhNmn~{image=corazon}{image=corazon}"
-    new "I-It's getting b-bigger... {w}GHhNmn~{image=corazon}{image=corazon}"
+    # script.rpy:5584
 
-    old "She always makes sure everything is perfect."
-    new "She always makes sure everything is perfect."
+    # script.rpy:5441
 
-    old "I think, I don't know how to get out of here."
-    new "I think, I don't know how to get out of here."
+    # script.rpy:8126
 
-    old "Then I'll make the first mov-"
-    new "Then I'll make the first mov-"
+    # script.rpy:2823
 
-    old "{size=-6}He's lost in thought again."
-    new "{size=-6}He's lost in thought again."
+    # script.rpy:3695
 
-    old "How could I forget..."
-    new "How could I forget..."
+    # script.rpy:1353
 
-    old "Is he wanted?"
-    new "Is he wanted?"
+    # script.rpy:7317
 
     old "{sc=1}{outlinecolor=#000000}{i}Or maybe... that's my purpose."
     new "{sc=1}{outlinecolor=#000000}{i}Or maybe... that's my purpose."
 
-    old "Sigh~ You and I could never get along."
-    new "Sigh~ You and I could never get along."
+    # script.rpy:6192
 
-    old "Really, goddesses? There wasn't a better place to drop me?"
-    new "Really, goddesses? There wasn't a better place to drop me?"
+    # script.rpy:1512
 
-    old "She just sat on me...!"
-    new "She just sat on me...!"
+    # script.rpy:1949
 
-    old "Even if it's in your soul, I didn't want you to go back to your world wounded."
-    new "Even if it's in your soul, I didn't want you to go back to your world wounded."
+    # script.rpy:4430
 
-    old "Akane told us that you are going to talk about important things."
-    new "Akane told us that you are going to talk about important things."
+    # script.rpy:8030
 
-    old "You are right, {w}I must go to see that everything is all right in Sakura Town."
-    new "You are right, {w}I must go to see that everything is all right in Sakura Town."
+    # script.rpy:5780
 
-    old "Huh? {w}A child?"
-    new "Huh? {w}A child?"
+    # script.rpy:8695
 
-    old "Was everything I saw... real?"
-    new "Was everything I saw... real?"
+    # script.rpy:8799
 
-    old "{size=-8}Y-You... {w}are not very friendly..."
-    new "{size=-8}Y-You... {w}are not very friendly..."
+    # script.rpy:6131
 
-    old "Oh sorry, did you hear me while I was talking to Charlotte?"
-    new "Oh sorry, did you hear me while I was talking to Charlotte?"
+    # script.rpy:4950
 
-    old "S-Sorry! It was an accident..."
-    new "S-Sorry! It was an accident..."
+    # script.rpy:2510
 
-    old "When goddesses break the rules, they're stripped of their powers and sent to Earth..."
-    new "When goddesses break the rules, they're stripped of their powers and sent to Earth..."
+    # script.rpy:4330
 
-    old "I know that even if she hadn't discovered my secret, {w}I would have helped her anyway."
-    new "I know that even if she hadn't discovered my secret, {w}I would have helped her anyway."
+    # script.rpy:728
 
-    old "{size=-10}It's better to give them some space."
-    new "{size=-10}It's better to give them some space."
+    # script.rpy:4651
 
-    old "Hey... girls, we're ready."
-    new "Hey... girls, we're ready."
+    # script.rpy:5203
 
-    old "{size=-6}Who are you, what are you doing here?"
-    new "{size=-6}Who are you, what are you doing here?"
+    # script.rpy:5866
 
-    old "I'll get stronger and stronger until I can lift you with one arm."
-    new "I'll get stronger and stronger until I can lift you with one arm."
+    # script.rpy:4873
 
-    old "If she doesn't want to talk, {w}I won't force her-"
-    new "If she doesn't want to talk, {w}I won't force her-"
+    # script.rpy:1240
 
-    old "I-I really don't think I should be here..."
-    new "I-I really don't think I should be here..."
+    # script.rpy:3950
 
-    old "Oh, sorry. I was just remembering something..."
-    new "Oh, sorry. I was just remembering something..."
+    # script.rpy:3726
 
-    old "I'll make the most of every moment."
-    new "I'll make the most of every moment."
+    # script.rpy:541
 
-    old "If there's anything I can help you with..."
-    new "If there's anything I can help you with..."
+    # script.rpy:649
 
-    old "She said that once you're better, you should come to the village."
-    new "She said that once you're better, you should come to the village."
+    # script.rpy:2301
 
-    old "Sensei, it's all right, {s}the test subject{/s} [mc] was waiting for you."
-    new "Sensei, it's all right, {s}the test subject{/s} [mc] was waiting for you."
+    # script.rpy:7267
 
-    old "It has already been 47 days there."
-    new "It has already been 47 days there."
+    # script.rpy:4468
 
-    old "But... {w}why is everything destroyed?"
-    new "But... {w}why is everything destroyed?"
+    # script.rpy:870
 
-    old "Strong people who travel around defeating monsters!"
-    new "Strong people who travel around defeating monsters!"
+    # script.rpy:1479
 
-    old "I don't know if it's the right time to talk about this now."
-    new "I don't know if it's the right time to talk about this now."
+    # script.rpy:2777
 
-    old "Aside from being handsome, you're also adorable~{image=corazon}{image=corazon}"
-    new "Aside from being handsome, you're also adorable~{image=corazon}{image=corazon}"
+    # script.rpy:1821
 
-    old "Now that I think about it..."
-    new "Now that I think about it..."
+    # script.rpy:896, script.rpy:962
 
-    old "What's wrong? {w}Something bothering you?"
-    new "What's wrong? {w}Something bothering you?"
+    # script.rpy:1814
 
-    old "Since I've been here, I haven't had a day with nothing to do."
-    new "Since I've been here, I haven't had a day with nothing to do."
+    # script.rpy:3479
 
-    old "M-Master...~{image=corazon} {w}It felt very good...~{image=corazon}"
-    new "M-Master...~{image=corazon} {w}It felt very good...~{image=corazon}"
+    # script.rpy:5478
 
-    old "It's just like going to the lake."
-    new "It's just like going to the lake."
+    # script.rpy:3776
 
-    old "Now I have no choice but to punish you with all my might!"
-    new "Now I have no choice but to punish you with all my might!"
+    # script.rpy:2624
 
-    old "I can see how she rubs her soft pussy against me..."
-    new "I can see how she rubs her soft pussy against me..."
+    # script.rpy:2018
 
-    old "Oh~ {w}so you don't need me to check you...?"
-    new "Oh~ {w}so you don't need me to check you...?"
+    # script.rpy:7793
 
-    old "Are you scared?"
-    new "Are you scared?"
+    # script.rpy:2701
 
-    old "Ok! Say hi to Ryoko for me!"
-    new "Ok! Say hi to Ryoko for me!"
+    # script.rpy:3182
 
-    old "It's a tedious job to create another maid..."
-    new "It's a tedious job to create another maid..."
+    # script.rpy:4009
 
-    old "But it doesn't seem to have worked, {w}you look the same as always."
-    new "But it doesn't seem to have worked, {w}you look the same as always."
+    # script.rpy:5684
 
-    old "Wow, {w}as expected from you."
-    new "Wow, {w}as expected from you."
+    # script.rpy:5756
 
-    old "{size=-5}I couldn't even protect Hana and my girls..."
-    new "{size=-5}I couldn't even protect Hana and my girls..."
+    # script.rpy:6907
 
-    old "{sc=2}{outlinecolor=#000000}{size=+5}That's enough!"
-    new "{sc=2}{outlinecolor=#000000}{size=+5}That's enough!"
+    # script.rpy:3917
 
-    old "This is the only way to get it back."
-    new "This is the only way to get it back."
+    # script.rpy:5845
 
-    old "Just don't let your guard down like you always do."
-    new "Just don't let your guard down like you always do."
+    # script.rpy:3783
 
-    old "{size=-10}And now that I remember, there was a girl who loved to fish."
-    new "{size=-10}And now that I remember, there was a girl who loved to fish."
+    # script.rpy:3160
 
-    old "I wish I could be as smart or tenacious as Akane."
-    new "I wish I could be as smart or tenacious as Akane."
+    # script.rpy:8312
 
-    old "But the truth is, I no longer remember how she died..."
-    new "But the truth is, I no longer remember how she died..."
+    # script.rpy:3612
 
-    old "To think that all my actions have brought me to this situation..."
-    new "To think that all my actions have brought me to this situation..."
+    # script.rpy:7846
 
-    old "Her face turned red, she must be very worried."
-    new "Her face turned red, she must be very worried."
+    # script.rpy:746
 
-    old "I won't fall for your lies! Mwahaha!"
-    new "I won't fall for your lies! Mwahaha!"
+    # script.rpy:2629
 
-    old "As I know that you love both of us, {w}I told Charlotte so that we could do it together..."
-    new "As I know that you love both of us, {w}I told Charlotte so that we could do it together..."
+    # script.rpy:5486
 
     old "Some time ago."
     new "Some time ago."
 
-    old "{size=-6}{i}Human... {w}I can't eat anymore."
-    new "{size=-6}{i}Human... {w}I can't eat anymore."
+    # script.rpy:8890
 
-    old "Hahaha, {w}but you've done a good job with this."
-    new "Hahaha, {w}but you've done a good job with this."
+    # script.rpy:7971
 
-    old "Out of everyone, you had to make {b}her{/b} angry."
-    new "Out of everyone, you had to make {b}her{/b} angry."
+    # script.rpy:2532
 
-    old "Bla bla bla."
-    new "Bla bla bla."
+    # script.rpy:4149
 
     old "Slowly, both your consciousness and your soul are transported."
     new "Slowly, both your consciousness and your soul are transported."
 
-    old "You're stronger than you look!"
-    new "You're stronger than you look!"
+    # script.rpy:2586
 
     old "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
     new "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
 
-    old "The boxes fell off... haha..."
-    new "The boxes fell off... haha..."
+    # script.rpy:3270
 
-    old "And you are...?"
-    new "And you are...?"
+    # script.rpy:2538, script.rpy:5863
 
-    old "I'm just the doctor, Yui is the one who protects us."
-    new "I'm just the doctor, Yui is the one who protects us."
+    # script.rpy:7855
 
-    old "This place is very peaceful... {w}If only weak monsters are around, I could bring some of the girls with me next time."
-    new "This place is very peaceful... {w}If only weak monsters are around, I could bring some of the girls with me next time."
+    # script.rpy:8443
 
-    old "Aah~{image=corazon}{image=corazon} {w}M-Me too...{image=corazon}{image=corazon}"
-    new "Aah~{image=corazon}{image=corazon} {w}M-Me too...{image=corazon}{image=corazon}"
+    # script.rpy:2025
 
-    old "Why? You ask."
-    new "Why? You ask."
+    # script.rpy:3997
 
-    old "This world made me meet you, didn't it?"
-    new "This world made me meet you, didn't it?"
+    # script.rpy:6543
 
-    old "At least... I already have new clothes..."
-    new "At least... I already have new clothes..."
+    # script.rpy:7596
 
-    old "Iosh~ iosh~{image=corazon}"
-    new "Iosh~ iosh~{image=corazon}"
+    # script.rpy:5230
 
-    old "{size=-7}Ahh~{image=corazon} {w}Aamnh~{image=corazon}{image=corazon}"
-    new "{size=-7}Ahh~{image=corazon} {w}Aamnh~{image=corazon}{image=corazon}"
+    # script.rpy:1998
 
-    old "I can't imagine this place without them."
-    new "I can't imagine this place without them."
+    # script.rpy:3471
 
-    old "Mmm~~ {w}It doesn't seem to be an idea you don't like.."
-    new "Mmm~~ {w}It doesn't seem to be an idea you don't like.."
+    # script.rpy:4738
 
-    old "Did it feel good?"
-    new "Did it feel good?"
+    # script.rpy:4415
 
-    old "How about you start by giving it a name?"
-    new "How about you start by giving it a name?"
+    # script.rpy:8389
 
-    old "How much do you need?"
-    new "How much do you need?"
+    # script.rpy:6953
 
-    old "What do you think of the new guy?"
-    new "What do you think of the new guy?"
+    # script.rpy:4559
 
-    old "Something that can damage your forearm flexor and extensor muscles must be some kind of beast."
-    new "Something that can damage your forearm flexor and extensor muscles must be some kind of beast."
+    # script.rpy:7220
 
-    old "What did I do?"
-    new "What did I do?"
+    # script.rpy:6541
 
-    old "It doesn't look like this place has been getting visitors lately."
-    new "It doesn't look like this place has been getting visitors lately."
+    # script.rpy:895
 
-    old "Are you alright?"
-    new "Are you alright?"
+    # script.rpy:3994
 
-    old "Thank you Diana!"
-    new "Thank you Diana!"
+    # script.rpy:7359
 
-    old "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Na~ nana~ na~"
-    new "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Na~ nana~ na~"
+    # script.rpy:1790
 
-    old "Why do I feel so happy?"
-    new "Why do I feel so happy?"
+    # script.rpy:6459
 
-    old "I don't know. She suddenly started to feel bad."
-    new "I don't know. She suddenly started to feel bad."
+    # script.rpy:3087
 
-    old "Maybe. {w}I'm not sure."
-    new "Maybe. {w}I'm not sure."
+    # script.rpy:1809
 
-    old "I wonder what she wants to talk about."
-    new "I wonder what she wants to talk about."
+    # script.rpy:8166
 
-    old "I don't see him moving since Mayu jumped on him."
-    new "I don't see him moving since Mayu jumped on him."
+    # script.rpy:8372
 
-    old "Can't I be happy anymore?"
-    new "Can't I be happy anymore?"
+    # script.rpy:5704
 
-    old "I'm riding a giant dog!"
-    new "I'm riding a giant dog!"
+    # script.rpy:6059
 
-    old "I have to... {w}help you with whatever you need..."
-    new "I have to... {w}help you with whatever you need..."
+    # script.rpy:6512
 
-    old "That day my stomach hurt, so I drank it."
-    new "That day my stomach hurt, so I drank it."
+    # script.rpy:7785
 
-    old "No more heavy lifting or big jobs for a few days. Got it?"
-    new "No more heavy lifting or big jobs for a few days. Got it?"
+    # script.rpy:8880
 
-    old "{size=-7}{i}Mou~ {w}How lucky..."
-    new "{size=-7}{i}Mou~ {w}How lucky..."
+    # script.rpy:8892
 
-    old "Who knew there was someone as strong as you out there."
-    new "Who knew there was someone as strong as you out there."
+    # script.rpy:6914
 
-    old "I'm [mc], {w}nice to meet you."
-    new "I'm [mc], {w}nice to meet you."
+    # script.rpy:1231
 
-    old "That's the \"spirit\"~{image=corazon}"
-    new "That's the \"spirit\"~{image=corazon}"
+    # script.rpy:2118
 
-    old "You could earn money."
-    new "You could earn money."
+    # script.rpy:3420
 
-    old "GhgNM~{image=corazon}{image=corazon} {w}AahNNM~{image=corazon} {w}GhgNM~{image=corazon}{image=corazon}{image=corazon}"
-    new "GhgNM~{image=corazon}{image=corazon} {w}AahNNM~{image=corazon} {w}GhgNM~{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:5580
 
-    old "That comes from the direction in which the cat ran."
-    new "That comes from the direction in which the cat ran."
+    # script.rpy:6233
 
-    old "I hit him with the desire to break him in half..."
-    new "I hit him with the desire to break him in half..."
+    # script.rpy:6911
 
-    old "You should have seen them when they first started."
-    new "You should have seen them when they first started."
+    # script.rpy:2726
 
-    old "What the hell is going on?!"
-    new "What the hell is going on?!"
+    # script.rpy:6096
 
-    old "It's been years since I hugged someone... {w}What made me do it now?"
-    new "It's been years since I hugged someone... {w}What made me do it now?"
+    # script.rpy:1305
 
-    old "{size=-6}It looks like we'll have to wash again..."
-    new "{size=-6}It looks like we'll have to wash again..."
+    # script.rpy:2069
 
-    old "{size=-6}Ufufu~{image=corazon} {w}Look at how much came~{image=corazon}"
-    new "{size=-6}Ufufu~{image=corazon} {w}Look at how much came~{image=corazon}"
+    # script.rpy:2067
 
-    old "Do you think you're dead?"
-    new "Do you think you're dead?"
+    # script.rpy:4065
 
-    old "Do you no longer feel protected by mom?? {w}Then you'll arrive with a tattoo and shaved hair~~"
-    new "Do you no longer feel protected by mom?? {w}Then you'll arrive with a tattoo and shaved hair~~"
+    # script.rpy:4788
 
-    old "And it is necessary {size=-6}to know everyone's {size=-6}opinion fir-"
-    new "And it is necessary {size=-6}to know everyone's {size=-6}opinion fir-"
+    # script.rpy:7663
 
-    old "{size=-10}F-First get the wood and t-then we'll see..."
-    new "{size=-10}F-First get the wood and t-then we'll see..."
+    # script.rpy:3436
 
-    old "Sensei, we have a problem."
-    new "Sensei, we have a problem."
+    # script.rpy:7398
 
-    old "What is a cat doing here?"
-    new "What is a cat doing here?"
+    # script.rpy:4501
 
-    old "And although she always tries to push everyone away, {w}with Ryoko and Charlotte it's not like that."
-    new "And although she always tries to push everyone away, {w}with Ryoko and Charlotte it's not like that."
+    # script.rpy:5144
 
-    old "{size=-8}And I was bored..."
-    new "{size=-8}And I was bored..."
+    # script.rpy:470
 
-    old "T-They will all see us! {w}A-A-AAnd I have never k-kissed!!"
-    new "T-They will all see us! {w}A-A-AAnd I have never k-kissed!!"
+    # script.rpy:5788
 
-    old "Err... {w}When you sent me into the world..."
-    new "Err... {w}When you sent me into the world..."
+    # script.rpy:2126
 
-    old "Using the same fabric with which I made my cape, I could make one that instead of increasing the magic recovery, it decreases it to make you imperceptible..."
-    new "Using the same fabric with which I made my cape, I could make one that instead of increasing the magic recovery, it decreases it to make you imperceptible..."
+    # script.rpy:7390
 
-    old "Do you really think a cape will help you not to be recognized by your clothes?"
-    new "Do you really think a cape will help you not to be recognized by your clothes?"
+    # script.rpy:7513
 
-    old "I didn't think I'd ever see someone this beautiful...."
-    new "I didn't think I'd ever see someone this beautiful...."
+    # script.rpy:1827
 
-    old "You don't plan to attack?"
-    new "You don't plan to attack?"
+    # script.rpy:2821
 
-    old "Sometimes she comes to wake me up and sometimes she just comes to hang out with me."
-    new "Sometimes she comes to wake me up and sometimes she just comes to hang out with me."
+    # script.rpy:5040
 
-    old "Well, whatever, {w}I'll be able to live again."
-    new "Well, whatever, {w}I'll be able to live again."
+    # script.rpy:537
 
-    old "{sc=1}{outlinecolor=#000000}I-It was a mistake! I-I was just passing by! Hahaha!"
-    new "{sc=1}{outlinecolor=#000000}I-It was a mistake! I-I was just passing by! Hahaha!"
+    # script.rpy:2625
 
-    old "Ma-M-Master, {w}it f-feels very good~{image=corazon} {w}Haanma~{image=corazon}"
-    new "Ma-M-Master, {w}it f-feels very good~{image=corazon} {w}Haanma~{image=corazon}"
+    # script.rpy:5505
 
-    old "If it weren't for that personality, she would be a great and well known magician."
-    new "If it weren't for that personality, she would be a great and well known magician."
+    # script.rpy:7201
 
-    old "But from all the time we have been watching him, {w}I feel he is the kindest person I have ever seen..."
-    new "But from all the time we have been watching him, {w}I feel he is the kindest person I have ever seen..."
+    # script.rpy:5840
 
-    old "T-The second I tried to fight back, he started tossing me around to stop me!"
-    new "T-The second I tried to fight back, he started tossing me around to stop me!"
+    # script.rpy:1744
 
-    old "She did what?!"
-    new "She did what?!"
+    # script.rpy:8712
 
-    old "You can't have children with someone who isn't another divine being..."
-    new "You can't have children with someone who isn't another divine being..."
+    # script.rpy:4337
 
-    old "Take it as something to face the dangers you'll encounter~{image=corazon}"
-    new "Take it as something to face the dangers you'll encounter~{image=corazon}"
+    # script.rpy:545
 
-    old "Well, {w}I took what was usable and left it there for you."
-    new "Well, {w}I took what was usable and left it there for you."
+    # script.rpy:1354
 
-    old "{size=-10}{i}The footprints I found weren't human."
-    new "{size=-10}{i}The footprints I found weren't human."
+    # script.rpy:2860
 
-    old "There is slight swelling and through the bandage I can feel several lacerations made with something sharp that follow a mandibular pattern."
-    new "There is slight swelling and through the bandage I can feel several lacerations made with something sharp that follow a mandibular pattern."
+    # script.rpy:7222
 
-    old "Controlling the flow of time is more than just seeing the past or the future."
-    new "Controlling the flow of time is more than just seeing the past or the future."
+    # script.rpy:8632
 
-    old "Is she testing me!?"
-    new "Is she testing me!?"
+    # script.rpy:1891
 
-    old "Haaahnmn!~{image=corazon}{image=corazon}{image=corazon}"
-    new "Haaahnmn!~{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:5462
 
-    old "Need something from the amazing Shika?"
-    new "Need something from the amazing Shika?"
+    # script.rpy:7704
 
-    old "Of course, it will be at Mayu's house, right?"
-    new "Of course, it will be at Mayu's house, right?"
+    # script.rpy:7673
 
-    old "I'll ask them if they know where Yui is."
-    new "I'll ask them if they know where Yui is."
+    # script.rpy:2378
 
-    old "Come on, {w}let's sit down."
-    new "Come on, {w}let's sit down."
+    # script.rpy:5208
 
-    old "But just to clarify, {w}I haven't spoken to you since the last time we met... {w}mmm...~{image=corazon}{image=corazon}"
-    new "But just to clarify, {w}I haven't spoken to you since the last time we met... {w}mmm...~{image=corazon}{image=corazon}"
+    # script.rpy:1994
 
-    old "I think... I'm reaching the limit of this... {w}conversation..."
-    new "I think... I'm reaching the limit of this... {w}conversation..."
+    # script.rpy:2024
 
     old "You finish washing up, get dressed, and sit down for a while."
     new "You finish washing up, get dressed, and sit down for a while."
 
-    old "I'll try to push him off my chest."
-    new "I'll try to push him off my chest."
+    # script.rpy:1028
 
-    old "{size=-7}I am not doing anything! Idiot!"
-    new "{size=-7}I am not doing anything! Idiot!"
+    # script.rpy:7085
 
-    old "Let's wait until we are all together at the meeting."
-    new "Let's wait until we are all together at the meeting."
+    # script.rpy:7649
 
-    old "It's easier than it look! {w}HAHA!"
-    new "It's easier than it look! {w}HAHA!"
+    # script.rpy:6058
 
-    old "I feel like something is growing in my body..."
-    new "I feel like something is growing in my body..."
+    # script.rpy:572
 
-    old "Master [mc], {w}may we join you?"
-    new "Master [mc], {w}may we join you?"
+    # script.rpy:5292
 
-    old "Why do you approach without making noise?"
-    new "Why do you approach without making noise?"
+    # script.rpy:7919
 
-    old "Sayori, let's play something!"
-    new "Sayori, let's play something!"
+    # script.rpy:5946
 
-    old "I didn't mean to! I swear!"
-    new "I didn't mean to! I swear!"
+    # script.rpy:1429
 
-    old "I don't have any wounds, that means that..."
-    new "I don't have any wounds, that means that..."
+    # script.rpy:1796
 
-    old "But I think this is the best one I've ever had..."
-    new "But I think this is the best one I've ever had..."
+    # script.rpy:1997
 
     old "You approach Yui."
     new "You approach Yui."
@@ -33976,548 +32409,375 @@ translate ukrainian strings:
     old "When she finishes eating, she slowly approaches you."
     new "When she finishes eating, she slowly approaches you."
 
-    old "How boring, {w}he went into despair."
-    new "How boring, {w}he went into despair."
+    # script.rpy:6606
 
-    old "{size=-10}{color=#319B85}Don't you want to try it?"
-    new "{size=-10}{color=#319B85}Don't you want to try it?"
+    # script.rpy:4932
 
-    old "So, {w}I've truly been reborn."
-    new "So, {w}I've truly been reborn."
+    # script.rpy:825
 
-    old "Why do I feel a little bad?"
-    new "Why do I feel a little bad?"
+    # script.rpy:1059
 
-    old "Ara~ {w}we are too late..."
-    new "Ara~ {w}we are too late..."
+    # script.rpy:3121
 
-    old "What is this place...?"
-    new "What is this place...?"
+    # script.rpy:3941
 
-    old "You can tell they are very close."
-    new "You can tell they are very close."
+    # script.rpy:4586
 
-    old "Yes, I know, but that's not what I meant."
-    new "Yes, I know, but that's not what I meant."
+    # script.rpy:4565
 
-    old "I don't know... I just have a bad feeling about this."
-    new "I don't know... I just have a bad feeling about this."
+    # script.rpy:3777
 
-    old "I could make this more interesting."
-    new "I could make this more interesting."
+    # script.rpy:4114
 
-    old "Do you know that by hurting a mortal you are breaking one of the most important rules?"
-    new "Do you know that by hurting a mortal you are breaking one of the most important rules?"
+    # script.rpy:4146
 
-    old "Why is it still so big?"
-    new "Why is it still so big?"
+    # script.rpy:5557
 
-    old "W-We just wanted to become mercenaries! {w}I don't want this anymore!"
-    new "W-We just wanted to become mercenaries! {w}I don't want this anymore!"
+    # script.rpy:6468
 
-    old "Sigh~ {w}Let her rest, everything she has to do should have brought her to her maximum happiness."
-    new "Sigh~ {w}Let her rest, everything she has to do should have brought her to her maximum happiness."
+    # script.rpy:8281
 
-    old "Who is the father?"
-    new "Who is the father?"
+    # script.rpy:8697
 
-    old "Mmm... {w}no... {w}you're doing something wrong."
-    new "Mmm... {w}no... {w}you're doing something wrong."
+    # script.rpy:5202
 
-    old "Give me your hand... {w}m-mortal..."
-    new "Give me your hand... {w}m-mortal..."
+    # script.rpy:4180
 
-    old "Jealous of how close we are?"
-    new "Jealous of how close we are?"
+    # script.rpy:8681
 
-    old "What kind of place is this?"
-    new "What kind of place is this?"
+    # script.rpy:826
 
-    old "My mother... {w}was in that world?"
-    new "My mother... {w}was in that world?"
+    # script.rpy:4252
 
-    old "I simply made your food give you extra energy."
-    new "I simply made your food give you extra energy."
+    # script.rpy:5681
 
-    old "The same person you used to fish with?"
-    new "The same person you used to fish with?"
+    # script.rpy:4666
 
     old "I knew the time would come when I'd have to kill to survive."
     new "I knew the time would come when I'd have to kill to survive."
 
-    old "I'll break those chains before their time."
-    new "I'll break those chains before their time."
+    # script.rpy:4117
 
-    old "Don't worry, I know I endanger everyone by walking around here showing my face."
-    new "Don't worry, I know I endanger everyone by walking around here showing my face."
+    # script.rpy:7335
 
-    old "Lately Charlotte has been looking for me when I'm around the house."
-    new "Lately Charlotte has been looking for me when I'm around the house."
+    # script.rpy:5038
 
-    old "That guy, {w}he made my girls sad."
-    new "That guy, {w}he made my girls sad."
+    # script.rpy:6620
 
-    old "Yes, and clothes according to the world, {w}I don't want to arrive like this."
-    new "Yes, and clothes according to the world, {w}I don't want to arrive like this."
+    # script.rpy:773
 
-    old "Hikari, how are you?"
-    new "Hikari, how are you?"
+    # script.rpy:8673
 
     old "You stop for a moment to eat some fruit Ryoko found."
     new "You stop for a moment to eat some fruit Ryoko found."
 
-    old "We're in the village I told you about!"
-    new "We're in the village I told you about!"
+    # script.rpy:2290
 
-    old "Oh, {w}in the thermal baths of the other town?"
-    new "Oh, {w}in the thermal baths of the other town?"
+    # script.rpy:5358
 
-    old "Oh, what's up?"
-    new "Oh, what's up?"
+    # script.rpy:3197
 
-    old "I see, it's good to meet strong people."
-    new "I see, it's good to meet strong people."
+    # script.rpy:5385
 
-    old "This guy down here is ready for battle."
-    new "This guy down here is ready for battle."
+    # script.rpy:5338
 
-    old "M-My butt... {w}GHhgn~{image=corazon}{image=corazon} {w}is it to y-your liking?"
-    new "M-My butt... {w}GHhgn~{image=corazon}{image=corazon} {w}is it to y-your liking?"
+    # script.rpy:5517
 
-    old "A world as sick as this one..."
-    new "A world as sick as this one..."
+    # script.rpy:6580
 
-    old "I'm not pregnant."
-    new "I'm not pregnant."
+    # script.rpy:8699
 
-    old "{size=-6}If it wasn't for her... {w}I don't know what would've happened to you..."
-    new "{size=-6}If it wasn't for her... {w}I don't know what would've happened to you..."
+    # script.rpy:2298
 
-    old "... Not really, but..."
-    new "... Not really, but..."
+    # script.rpy:1616
 
-    old "This must be the place..."
-    new "This must be the place..."
+    # script.rpy:2464, script.rpy:8432
 
-    old "Perfect, {w}then we just have to put this place to work."
-    new "Perfect, {w}then we just have to put this place to work."
+    # script.rpy:3360
 
-    old "Yes? {w}What do you think she's doing?"
-    new "Yes? {w}What do you think she's doing?"
+    # script.rpy:5435
 
-    old "{i}{size=-6}And being a leader, you could easily build a place on the lake we talked about some time ago."
-    new "{i}{size=-6}And being a leader, you could easily build a place on the lake we talked about some time ago."
+    # script.rpy:7866
 
-    old "{color=#FF5C5C}{size=-6}It must be really uncomfortable."
-    new "{color=#FF5C5C}{size=-6}It must be really uncomfortable."
+    # script.rpy:8527
 
-    old "These past few days have been exhausting... I just want to relax with the girls."
-    new "These past few days have been exhausting... I just want to relax with the girls."
+    # script.rpy:8514
 
-    old "Sometimes, we used to sit here while we ate."
-    new "Sometimes, we used to sit here while we ate."
+    # script.rpy:4665
 
-    old "Ryoko told me that Akane's laugh is very cute."
-    new "Ryoko told me that Akane's laugh is very cute."
+    # script.rpy:5158
 
-    old "Her sweet moans delight my ears..."
-    new "Her sweet moans delight my ears..."
+    # script.rpy:1999
 
-    old "Of course, {w=0.5}leader~"
-    new "Of course, {w=0.5}leader~"
+    # script.rpy:7980
 
-    old "{size=-6}{i}Inhaaale~"
-    new "{size=-6}{i}Inhaaale~"
+    # script.rpy:7349
 
-    old "{size=-10}Stealth, {w}I understand."
-    new "{size=-10}Stealth, {w}I understand."
+    # script.rpy:6294
 
-    old "{sc=1}{outlinecolor=#000000}Sniff~ sniff~"
-    new "{sc=1}{outlinecolor=#000000}Sniff~ sniff~"
+    # script.rpy:1170
 
-    old "They'll make me addicted to waking up this way."
-    new "They'll make me addicted to waking up this way."
+    # script.rpy:629
 
-    old "M-My inside... {w}is very waaaaarm...~{image=corazon}{image=corazon}{image=corazon}"
-    new "M-My inside... {w}is very waaaaarm...~{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:5534
 
-    old "That... {w}{size=-6}sigh*"
-    new "That... {w}{size=-6}sigh*"
+    # script.rpy:2667
 
-    old "I'm the great and beautiful goddess Hikari."
-    new "I'm the great and beautiful goddess Hikari."
+    # script.rpy:3980
 
-    old "That may have been part of it... {w}but I'm sure most of it came from what that voice did to me."
-    new "That may have been part of it... {w}but I'm sure most of it came from what that voice did to me."
+    # script.rpy:8865
 
     old "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
     new "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
 
-    old "She said she has something important to discuss with you."
-    new "She said she has something important to discuss with you."
+    # script.rpy:2303
 
-    old "It's not dark yet."
-    new "It's not dark yet."
+    # script.rpy:4492
 
-    old "Hana! React! {w}What do we do now?!"
-    new "Hana! React! {w}What do we do now?!"
+    # script.rpy:6383
 
-    old "A-At least everything ended well..."
-    new "A-At least everything ended well..."
+    # script.rpy:8094
 
-    old "Maybe I'm just saying that because it's her..."
-    new "Maybe I'm just saying that because it's her..."
+    # script.rpy:3669
 
     old "You and the girls go back to your village."
     new "You and the girls go back to your village."
 
-    old "{i}{size=-10}Why is he so kind to me...?"
-    new "{i}{size=-10}Why is he so kind to me...?"
+    # script.rpy:2334
 
-    old "{i}You approach the mysterious girl."
-    new "{i}You approach the mysterious girl."
+    # script.rpy:1111
 
     old "Shika leaves, but returns just a few seconds later."
     new "Shika leaves, but returns just a few seconds later."
 
-    old "What did you want to tell me?"
-    new "What did you want to tell me?"
+    # script.rpy:4695
 
-    old "{size=-10}I don't want to hear anything, {w}the noise is making me see reality."
-    new "{size=-10}I don't want to hear anything, {w}the noise is making me see reality."
+    # script.rpy:6564
 
-    old "{size=-10}finished..."
-    new "{size=-10}finished..."
+    # script.rpy:5404
 
-    old "{size=-6}I think so..."
-    new "{size=-6}I think so..."
+    # script.rpy:8062
 
-    old "It almost feels like that battle with the wolves was just a dream..."
-    new "It almost feels like that battle with the wolves was just a dream..."
+    # script.rpy:2251
 
-    old "Buuuji jiji."
-    new "Buuuji jiji."
+    # script.rpy:2951
 
-    old "She even got to the point of training with me."
-    new "She even got to the point of training with me."
+    # script.rpy:4998
 
-    old "Good luck with that..."
-    new "Good luck with that..."
+    # script.rpy:3441
 
-    old "Nothing, nothing fufu~"
-    new "Nothing, nothing fufu~"
+    # script.rpy:784
 
-    old "{size=-7}Everything's fine now."
-    new "{size=-7}Everything's fine now."
+    # script.rpy:1281
 
-    old "I never thought she'd pick it up so quickly."
-    new "I never thought she'd pick it up so quickly."
+    # script.rpy:3667
 
-    old "Why are you looking at me like I'm doing something wrong?"
-    new "Why are you looking at me like I'm doing something wrong?"
+    # script.rpy:8614
 
-    old "What was she going to tell me in the end?"
-    new "What was she going to tell me in the end?"
+    # script.rpy:3609
 
-    old "From the view of someone normal like me."
-    new "From the view of someone normal like me."
+    # script.rpy:7203
 
-    old "The first naked woman I ever see is a goddess... {w}I don't know what reality is anymore."
-    new "The first naked woman I ever see is a goddess... {w}I don't know what reality is anymore."
+    # script.rpy:1844
 
-    old "K-Keiko, {w}w-was it you who spoke to me before I passed out?"
-    new "K-Keiko, {w}w-was it you who spoke to me before I passed out?"
+    # script.rpy:1942
 
-    old "A human who accepts everyone equally."
-    new "A human who accepts everyone equally."
+    # script.rpy:4732
 
-    old "I came in and didn't see you..."
-    new "I came in and didn't see you..."
+    # script.rpy:2511
 
-    old "Hnm~ hnm~ hmn~"
-    new "Hnm~ hnm~ hmn~"
+    # script.rpy:7743
 
-    old "You are in the same rank as her, can't you talk some sense into her?"
-    new "You are in the same rank as her, can't you talk some sense into her?"
+    # script.rpy:8723
 
-    old "Well, maybe one or two."
-    new "Well, maybe one or two."
+    # script.rpy:6310
 
     old "Can't you hear me?"
     new "Can't you hear me?"
 
-    old "HAHAHahahaHAha!"
-    new "HAHAHahahaHAha!"
+    # script.rpy:6428
 
-    old "{size=-10}I-I don't know if we should be here..."
-    new "{size=-10}I-I don't know if we should be here..."
+    # script.rpy:6605
 
-    old "Oh my~ {w=0.5}of course not~{image=corazon}"
-    new "Oh my~ {w=0.5}of course not~{image=corazon}"
+    # script.rpy:7871
 
-    old "That's what she's always doing..."
-    new "That's what she's always doing..."
+    # script.rpy:5438
 
-    old "But right now."
-    new "But right now."
+    # script.rpy:5161
 
-    old "All that work you've been doing at the village entrance must've worn you out."
-    new "All that work you've been doing at the village entrance must've worn you out."
+    # script.rpy:8864
 
-    old "Who would have thought that my life would end like this."
-    new "Who would have thought that my life would end like this."
+    # script.rpy:482
 
-    old "As in a few hours we will have the meeting."
-    new "As in a few hours we will have the meeting."
+    # script.rpy:7928
 
-    old "Although, I didn't expect you to keep your memories..."
-    new "Although, I didn't expect you to keep your memories..."
+    # script.rpy:518
 
-    old "Perfect, {w}look you-"
-    new "Perfect, {w}look you-"
+    # script.rpy:651
 
-    old "Will you just stand there, or are you going to sit down?"
-    new "Will you just stand there, or are you going to sit down?"
+    # script.rpy:3955
 
-    old "No nothing... {w}it tickled me a little."
-    new "No nothing... {w}it tickled me a little."
+    # script.rpy:5347
 
-    old "Ok... {w}have a seat then."
-    new "Ok... {w}have a seat then."
+    # script.rpy:5324
 
-    old "Thank you for taking care of Ryoko!"
-    new "Thank you for taking care of Ryoko!"
+    # script.rpy:4699
 
-    old "What do they do here?"
-    new "What do they do here?"
+    # script.rpy:3309
 
-    old "{size=-8}Let's say we have an enemy in common."
-    new "{size=-8}Let's say we have an enemy in common."
+    # script.rpy:6149
 
-    old "Gaaaghhag!"
-    new "Gaaaghhag!"
+    # script.rpy:6423
 
-    old "W-W-WH-What are you asking for?!"
-    new "W-W-WH-What are you asking for?!"
+    # script.rpy:5785
 
-    old "Ah... {w}behind Shika..."
-    new "Ah... {w}behind Shika..."
+    # script.rpy:8271
 
-    old "T-Take it easy, boy..."
-    new "T-Take it easy, boy..."
+    # script.rpy:996
 
-    old "So she's not dead?"
-    new "So she's not dead?"
+    # script.rpy:4313
 
-    old "You were on the right track."
-    new "You were on the right track."
+    # script.rpy:4367
 
-    old "H-Hey Boss! {w}Three of my colleagues are dead! {w}You said this would be easy!"
-    new "H-Hey Boss! {w}Three of my colleagues are dead! {w}You said this would be easy!"
+    # script.rpy:6466
 
-    old "And how? Did you carry me all the way here by yourself?"
-    new "And how? Did you carry me all the way here by yourself?"
+    # script.rpy:2291
 
-    old "If anyone wants to come here and talk, raise your hand."
-    new "If anyone wants to come here and talk, raise your hand."
+    # script.rpy:8158
 
-    old "A lot has happened lately."
-    new "A lot has happened lately."
+    # script.rpy:3663
 
-    old "Sure, pour me a cup please."
-    new "Sure, pour me a cup please."
+    # script.rpy:8670
 
-    old "{sc=1}{outlinecolor=#000000}I-I don't even k-know what you're t-talking about! \nStop or I'll die! Hahaha!"
-    new "{sc=1}{outlinecolor=#000000}I-I don't even k-know what you're t-talking about! \nStop or I'll die! Hahaha!"
+    # script.rpy:2630
 
     old "{outlinecolor=#000000}{i}It's what allowed you to grow and feel things you could never experience in an empty world."
     new "{outlinecolor=#000000}{i}It's what allowed you to grow and feel things you could never experience in an empty world."
 
-    old "And I'm only doing it because I feel guilty that you ended up with that spoiled goddess."
-    new "And I'm only doing it because I feel guilty that you ended up with that spoiled goddess."
+    # script.rpy:4296
 
-    old "{color=#D16992}{size=-5}{i}I didn't think I would find a human who would see me as a woman and not just a demon..."
-    new "{color=#D16992}{size=-5}{i}I didn't think I would find a human who would see me as a woman and not just a demon..."
+    # script.rpy:1434
 
-    old "Let's celebrate!"
-    new "Let's celebrate!"
+    # script.rpy:8356
 
-    old "AaaAAaahh!!"
-    new "AaaAAaahh!!"
+    # script.rpy:6354
 
-    old "Can I help them with the walls? They look pretty heav-"
-    new "Can I help them with the walls? They look pretty heav-"
+    # script.rpy:2732
 
-    old "Don't worry Master, we will help her."
-    new "Don't worry Master, we will help her."
+    # script.rpy:5270
 
-    old "It was delicious, {w}thank you for taking the trouble."
-    new "It was delicious, {w}thank you for taking the trouble."
+    # script.rpy:5676
 
-    old "There is something I need you all to hear."
-    new "There is something I need you all to hear."
+    # script.rpy:7650
 
-    old "They were bathing together?! {w}I've missed so much since I've been busy?"
-    new "They were bathing together?! {w}I've missed so much since I've been busy?"
+    # script.rpy:5083
 
-    old "I have read about this, the biggest must be the alpha..."
-    new "I have read about this, the biggest must be the alpha..."
+    # script.rpy:1629
 
-    old "Thanks Mayu."
-    new "Thanks Mayu."
+    # script.rpy:8186
 
-    old "Hahaha~ It's because you're always the last one to get up."
-    new "Hahaha~ It's because you're always the last one to get up."
+    # script.rpy:7633
 
-    old "{size=-6}{i}That's not a bad idea, you could put one on the roof where I keep watch."
-    new "{size=-6}{i}That's not a bad idea, you could put one on the roof where I keep watch."
+    # script.rpy:8201
 
-    old "She's right. I think I acted way more clueless than a normal person would in this situation."
-    new "She's right. I think I acted way more clueless than a normal person would in this situation."
+    # script.rpy:4040
 
-    old "I w-willhelp youin any wayIca-"
-    new "I w-willhelp youin any wayIca-"
+    # script.rpy:7351
 
-    old "Since she wasn't able to fulfill it, she's no longer of any use to me."
-    new "Since she wasn't able to fulfill it, she's no longer of any use to me."
+    # script.rpy:4000
 
-    old "Countdown to your death?"
-    new "Countdown to your death?"
+    # script.rpy:5874
 
-    old "The cemetery was always empty."
-    new "The cemetery was always empty."
+    # script.rpy:4774
 
-    old "Charlotte, how are you? You look very weak."
-    new "Charlotte, how are you? You look very weak."
+    # script.rpy:6764
 
-    old "Ask for Yui."
-    new "Ask for Yui."
+    # script.rpy:2302
 
-    old "Hahaha, I'm the one who should be thanking you."
-    new "Hahaha, I'm the one who should be thanking you."
+    # script.rpy:3205
 
-    old "I told you he wouldn't bother."
-    new "I told you he wouldn't bother."
+    # script.rpy:5298
 
-    old "I can lend you my boots if you want..."
-    new "I can lend you my boots if you want..."
+    # script.rpy:1568
 
-    old "W-What are yo-"
-    new "W-What are yo-"
+    # script.rpy:7953
 
-    old "We did well, there were no problems."
-    new "We did well, there were no problems."
+    # script.rpy:7639
 
-    old "Is this how it is celebrated? {w}Then... excuse me Master..."
-    new "Is this how it is celebrated? {w}Then... excuse me Master..."
+    # script.rpy:8359
 
-    old "{size=-10}Hahaha, sometimes you act weird."
-    new "{size=-10}Hahaha, sometimes you act weird."
+    # script.rpy:4892
 
-    old "{size=-6}You probably already know this, {w}but blaming yourself won't change anything."
-    new "{size=-6}You probably already know this, {w}but blaming yourself won't change anything."
+    # script.rpy:1283
 
-    old "{size=-6}Keiko's voice is fading... more and more..."
-    new "{size=-6}Keiko's voice is fading... more and more..."
+    # script.rpy:2190
 
-    old "You just need more practice!"
-    new "You just need more practice!"
+    # script.rpy:5211
 
-    old "Where exactly?"
-    new "Where exactly?"
+    # script.rpy:3733
 
-    old "Just kidding, {w}there is a dressing room down the hall to the right."
-    new "Just kidding, {w}there is a dressing room down the hall to the right."
+    # script.rpy:7527
 
-    old "Why don't you go after her if it bothers you so much?"
-    new "Why don't you go after her if it bothers you so much?"
+    # script.rpy:6194
 
-    old "The village is feeling more and more cheerful."
-    new "The village is feeling more and more cheerful."
+    # script.rpy:3469
 
-    old "Who would have thought that fun would come straight to my door."
-    new "Who would have thought that fun would come straight to my door."
+    # script.rpy:4193
 
-    old "Where did this guy come from?"
-    new "Where did this guy come from?"
+    # script.rpy:6551
 
-    old "It won't take me long now that I know the way better."
-    new "It won't take me long now that I know the way better."
+    # script.rpy:3696
 
-    old "I shouldn't go around blindly, I should talk to those girls first."
-    new "I shouldn't go around blindly, I should talk to those girls first."
+    # script.rpy:2417
 
-    old "No, nothing. {w}Yesterday Ryoko had a nightmare."
-    new "No, nothing. {w}Yesterday Ryoko had a nightmare."
+    # script.rpy:2779
 
-    old "{size=-9}Hnm... {w}Girls?"
-    new "{size=-9}Hnm... {w}Girls?"
+    # script.rpy:4941
 
-    old "My mother was in that world and nobody knows if she's dead."
-    new "My mother was in that world and nobody knows if she's dead."
+    # script.rpy:4345
 
-    old "But we know he is strong."
-    new "But we know he is strong."
+    # script.rpy:8373
 
-    old "Mayu asked me for them, the other day I didn't want to bother you so I just took them."
-    new "Mayu asked me for them, the other day I didn't want to bother you so I just took them."
+    # script.rpy:7051
 
     old "{sc=2}{outlinecolor=#000000}{i}You know it can't end like this! You haven't tried everything yet!"
     new "{sc=2}{outlinecolor=#000000}{i}You know it can't end like this! You haven't tried everything yet!"
 
-    old "{size=-6}Unless... {w}you don't want to, of course..."
-    new "{size=-6}Unless... {w}you don't want to, of course..."
+    # script.rpy:1389
 
-    old "I couldn't look good next to you even if I wanted to, {w}your beauty would dull me."
-    new "I couldn't look good next to you even if I wanted to, {w}your beauty would dull me."
+    # script.rpy:5123
 
-    old "Have you heard about today's meeting?"
-    new "Have you heard about today's meeting?"
+    # script.rpy:7842
 
-    old "{size=-10}Wow, he doesn't look like a noble."
-    new "{size=-10}Wow, he doesn't look like a noble."
+    # script.rpy:2443
 
-    old "Or perhaps she wanted to protect herself, which, given how selfish she is, I wouldn't doubt."
-    new "Or perhaps she wanted to protect herself, which, given how selfish she is, I wouldn't doubt."
+    # script.rpy:4062
 
-    old "I can't have a calm conversation if every time I say something her expression gets darker HAHAHA."
-    new "I can't have a calm conversation if every time I say something her expression gets darker HAHAHA."
+    # script.rpy:6330
 
-    old "Iosh~ iosh~ {w}Everything is fine now."
-    new "Iosh~ iosh~ {w}Everything is fine now."
+    # script.rpy:6827
 
-    old "{i}{size=-6}Could we raise animals? Plant things?"
-    new "{i}{size=-6}Could we raise animals? Plant things?"
+    # script.rpy:7903
 
-    old "I know what I saw."
-    new "I know what I saw."
+    # script.rpy:7209
 
-    old "I don't know what you mean by that, {w}but perfect, {w}as soon as Mayu finishes I will send my girls."
-    new "I don't know what you mean by that, {w}but perfect, {w}as soon as Mayu finishes I will send my girls."
+    # script.rpy:7088
 
-    old "Hehehe~ {w}That makes me happy...{image=corazon}{image=corazon} {w}Master [mc] has a-already cum once but for m-my body he'll do it again~{image=corazon}"
-    new "Hehehe~ {w}That makes me happy...{image=corazon}{image=corazon} {w}Master [mc] has a-already cum once but for m-my body he'll do it again~{image=corazon}"
+    # script.rpy:5512
 
-    old "I'm sorry for what I'm about to do but, {w}it's nothing personal."
-    new "I'm sorry for what I'm about to do but, {w}it's nothing personal."
+    # script.rpy:2811
 
-    old "Don't do it... {w}Ggmhn~{image=corazon}{image=corazon} {w}No, do it...{image=corazon}"
-    new "Don't do it... {w}Ggmhn~{image=corazon}{image=corazon} {w}No, do it...{image=corazon}"
+    # script.rpy:5588
 
-    old "Of course, who would want to meet a complete pervert."
-    new "Of course, who would want to meet a complete pervert."
+    # script.rpy:8086
 
-    old "If I'll have to face monsters or magic..."
-    new "If I'll have to face monsters or magic..."
+    # script.rpy:768
 
-    old "She didn't find out!"
-    new "She didn't find out!"
+    # script.rpy:4142
 
-    old "They may need your help..."
-    new "They may need your help..."
+    # script.rpy:4369
 
-    old "Ah~ {w}I can hide them whenever I want, {w}so they don't get in the way during a bath."
-    new "Ah~ {w}I can hide them whenever I want, {w}so they don't get in the way during a bath."
+    # script.rpy:2098
 
     old "You take your katana and prepare to leave."
     new "You take your katana and prepare to leave."
@@ -34525,4133 +32785,2794 @@ translate ukrainian strings:
     old "Yui gives the signal and you all prepare to leave the village."
     new "Yui gives the signal and you all prepare to leave the village."
 
-    old "{size=-6}Come on man! Really?"
-    new "{size=-6}Come on man! Really?"
+    # script.rpy:660
 
-    old "Hey! Don't get overconfident, and don't let him catch you."
-    new "Hey! Don't get overconfident, and don't let him catch you."
+    # script.rpy:2882
 
-    old "It's their fault for saying weird things."
-    new "It's their fault for saying weird things."
+    # script.rpy:4797
 
-    old "Why do I feel like there's something hitting my stomach?"
-    new "Why do I feel like there's something hitting my stomach?"
+    # script.rpy:658
 
-    old "She seems to be talking to her soldiers."
-    new "She seems to be talking to her soldiers."
+    # script.rpy:5730
 
-    old "Sensei, we are in the business of accepting jobs, not judging clients' reasons."
-    new "Sensei, we are in the business of accepting jobs, not judging clients' reasons."
+    # script.rpy:7378
 
-    old "I think he is a powerful ally."
-    new "I think he is a powerful ally."
+    # script.rpy:4564
 
-    old "I have a bit of poison in my body but it is already disappearing..."
-    new "I have a bit of poison in my body but it is already disappearing..."
+    # script.rpy:6766
 
-    old "What can we do while we wait for her?"
-    new "What can we do while we wait for her?"
+    # script.rpy:7252
 
-    old "So I don't want you to ever feel that way with me."
-    new "So I don't want you to ever feel that way with me."
+    # script.rpy:1409
 
-    old "Not this one either."
-    new "Not this one either."
+    # script.rpy:2440
 
-    old "I will not listen to that bitch and I will end you right here."
-    new "I will not listen to that bitch and I will end you right here."
+    # script.rpy:6611
 
-    old "{size=-8}Mnhm...~{image=corazon}{/size} {w}t-the girl soldier has been moving all over the place lately."
-    new "{size=-8}Mnhm...~{image=corazon}{/size} {w}t-the girl soldier has been moving all over the place lately."
+    # script.rpy:5434
 
-    old "W-What are you d-doing here?"
-    new "W-What are you d-doing here?"
+    # script.rpy:7273
 
-    old "Well, {w}what I was coming to."
-    new "Well, {w}what I was coming to."
+    # script.rpy:6924
 
-    old "And I wouldn't do that to the one who saved me."
-    new "And I wouldn't do that to the one who saved me."
+    # script.rpy:1395
 
-    old "She always does the same routine and never fails."
-    new "She always does the same routine and never fails."
+    # script.rpy:5050
 
-    old "{size=-6}{i}Elemental spirits are more likely to approach elves than other races..."
-    new "{size=-6}{i}Elemental spirits are more likely to approach elves than other races..."
+    # script.rpy:8210
 
-    old "Start by securing the perimeter, {w}the others will begin to assemble the walls!"
-    new "Start by securing the perimeter, {w}the others will begin to assemble the walls!"
+    # script.rpy:2730
 
-    old "{size=-10}You can go now... {w}you'll be late, {w}I'll take care of Ryoko..."
-    new "{size=-10}You can go now... {w}you'll be late, {w}I'll take care of Ryoko..."
+    # script.rpy:5619
 
-    old "I swear, that wasn't my intention."
-    new "I swear, that wasn't my intention."
+    # script.rpy:3969
 
-    old "O-Okay, okay! {w=0.5}I'll just leave it like that!"
-    new "O-Okay, okay! {w=0.5}I'll just leave it like that!"
+    # script.rpy:7947
 
-    old "Do you know where I can get a fishing rod?"
-    new "Do you know where I can get a fishing rod?"
+    # script.rpy:3161
 
-    old "{size=-10}{color=#C9887C}H-Hey, stay away from that!"
-    new "{size=-10}{color=#C9887C}H-Hey, stay away from that!"
+    # script.rpy:4930
 
-    old "{size=-8}Make one up."
-    new "{size=-8}Make one up."
+    # script.rpy:6137
 
-    old "I don't think they remember every soul they've ever seen but... {w}I wouldn't lose anything by asking them."
-    new "I don't think they remember every soul they've ever seen but... {w}I wouldn't lose anything by asking them."
+    # script.rpy:3615
 
-    old "More than happy, {w}she seems very excited..."
-    new "More than happy, {w}she seems very excited..."
+    # script.rpy:8286
 
-    old "Can you uncover your tits?"
-    new "Can you uncover your tits?"
+    # script.rpy:4378
 
-    old "{size=-6}So{/size}... {w}remember how no other goddess was supposed to know about me and my memories?"
-    new "{size=-6}So{/size}... {w}remember how no other goddess was supposed to know about me and my memories?"
+    # script.rpy:2119
 
-    old "But one thing she's mentioned lately is that-"
-    new "But one thing she's mentioned lately is that-"
+    # script.rpy:5058
 
-    old "See you in the evening then."
-    new "See you in the evening then."
+    # script.rpy:7873
 
-    old "There's no problem with his heartbeat! {w}Go ahead, Hana!"
-    new "There's no problem with his heartbeat! {w}Go ahead, Hana!"
+    # script.rpy:8842
 
-    old "In your death."
-    new "In your death."
+    # script.rpy:6492
 
-    old "What did she mean by \"Tell her what I did?\""
-    new "What did she mean by \"Tell her what I did?\""
+    # script.rpy:8820
 
-    old "Master [mc] is too strong~"
-    new "Master [mc] is too strong~"
+    # script.rpy:5026
 
-    old "{i}{size=-6}A very good one... {w}I could say that you even used a potion..."
-    new "{i}{size=-6}A very good one... {w}I could say that you even used a potion..."
+    # script.rpy:7225
 
-    old "Hey, what are you doing here?"
-    new "Hey, what are you doing here?"
+    # script.rpy:4504
 
-    old "{color=#e8e3cf}You can come in!"
-    new "{color=#e8e3cf}You can come in!"
+    # script.rpy:7160
 
-    old "I thought I was feeling better."
-    new "I thought I was feeling better."
+    # script.rpy:5930
 
-    old "That voice..."
-    new "That voice..."
+    # script.rpy:3524
 
-    old "The day I stop being myself... {w}that's the day my life becomes meaningless."
-    new "The day I stop being myself... {w}that's the day my life becomes meaningless."
+    # script.rpy:1899
 
-    old "She said, \"Until next time\"... I guess I just have to wait for more answers."
-    new "She said, \"Until next time\"... I guess I just have to wait for more answers."
+    # script.rpy:8823
 
-    old "{sc=1}{outlinecolor=#000000}{size=-6}I never really had a chance..."
-    new "{sc=1}{outlinecolor=#000000}{size=-6}I never really had a chance..."
+    # script.rpy:1699
 
-    old "{size=-10}W-Who is she..."
-    new "{size=-10}W-Who is she..."
+    # script.rpy:4108
 
-    old "Wait! And how'll I know who I should protect?"
-    new "Wait! And how'll I know who I should protect?"
+    # script.rpy:796
 
-    old "How do you feel? Ready for this meeting?"
-    new "How do you feel? Ready for this meeting?"
+    # script.rpy:8099
 
-    old "Watch out!"
-    new "Watch out!"
+    # script.rpy:3240
 
     old "It's a fairly simple analogy."
     new "It's a fairly simple analogy."
 
-    old "Take it out."
-    new "Take it out."
+    # script.rpy:7364
 
-    old "The northern and southern areas of the village are the blind spots, and monsters tend to hang around there."
-    new "The northern and southern areas of the village are the blind spots, and monsters tend to hang around there."
+    # script.rpy:8243
 
     old "You equip your katana and pick up the bag Ryoko prepared for you."
     new "You equip your katana and pick up the bag Ryoko prepared for you."
 
-    old "Do you think that I of all people in the world would be capable of-"
-    new "Do you think that I of all people in the world would be capable of-"
+    # script.rpy:5667
 
-    old "I think I've found your first mission, my friend."
-    new "I think I've found your first mission, my friend."
+    # script.rpy:909
 
-    old "{color=#F5B6F2}Well, I guess I'm not surprised anymore."
-    new "{color=#F5B6F2}Well, I guess I'm not surprised anymore."
+    # script.rpy:8610
 
-    old "I told Akane everything you've been doing."
-    new "I told Akane everything you've been doing."
+    # script.rpy:5217
 
-    old "Oh Master~ {w}sorry for waking you up so early."
-    new "Oh Master~ {w}sorry for waking you up so early."
+    # script.rpy:4945
 
-    old "But I must endure. {w}This is a goddess in front of me..."
-    new "But I must endure. {w}This is a goddess in front of me..."
+    # script.rpy:1859
 
-    old "Do you really call yourself normal? {w}\"Thigh lover\" guy."
-    new "Do you really call yourself normal? {w}\"Thigh lover\" guy."
+    # script.rpy:7206
 
-    old "H-How about t-this?"
-    new "H-How about t-this?"
+    # script.rpy:5201
 
-    old "Then let's start the first village meeting."
-    new "Then let's start the first village meeting."
+    # script.rpy:8142
 
-    old "{size=-5}Besides... {w}if it were false information..."
-    new "{size=-5}Besides... {w}if it were false information..."
+    # script.rpy:6326
 
-    old "The red thing surrounding the village is obviously the wall."
-    new "The red thing surrounding the village is obviously the wall."
+    # script.rpy:8241
 
-    old "{size=-10}Snif* {w}Snif*"
-    new "{size=-10}Snif* {w}Snif*"
+    # script.rpy:5868
 
-    old "Tell me, was it her?"
-    new "Tell me, was it her?"
+    # script.rpy:7481
 
-    old "Listen to me carefully."
-    new "Listen to me carefully."
+    # script.rpy:4293
 
-    old "Seeing her smile more and more fills me with joy."
-    new "Seeing her smile more and more fills me with joy."
+    # script.rpy:5067
 
-    old "Thanks Tomoe, {w=0.5}I think I stopped feeling my legs 4 minutes ago."
-    new "Thanks Tomoe, {w=0.5}I think I stopped feeling my legs 4 minutes ago."
+    # script.rpy:8129
 
-    old "Something important...? {w}I hope it's not what I think..."
-    new "Something important...? {w}I hope it's not what I think..."
+    # script.rpy:2304
 
-    old "It's all your fault! {w}Take that off!"
-    new "It's all your fault! {w}Take that off!"
+    # script.rpy:4975
 
-    old "We wanted to make you feel good..."
-    new "We wanted to make you feel good..."
+    # script.rpy:5482
 
-    old "And I look forward to whatever Yui has planned!"
-    new "And I look forward to whatever Yui has planned!"
+    # script.rpy:8181
 
-    old "Looks like I'll have to train you harder so you don't lose your stamina."
-    new "Looks like I'll have to train you harder so you don't lose your stamina."
+    # script.rpy:3762
 
-    old "Fuck fuck fuck!"
-    new "Fuck fuck fuck!"
+    # script.rpy:993
 
-    old "Alright... {w}I'll make it as painless as possible."
-    new "Alright... {w}I'll make it as painless as possible."
+    # script.rpy:2607
 
-    old "{size=-10}When it comes to mating... {w}Haannm~{image=corazon} {w}y-you never cease to amaze me, Human..."
-    new "{size=-10}When it comes to mating... {w}Haannm~{image=corazon} {w}y-you never cease to amaze me, Human..."
+    # script.rpy:5614
 
-    old "M-Maybe you're confused..."
-    new "M-Maybe you're confused..."
+    # script.rpy:4859
 
-    old "{size=-6}What am I even doing..."
-    new "{size=-6}What am I even doing..."
+    # script.rpy:3820
 
-    old "Uh... {w}Do you need help...?"
-    new "Uh... {w}Do you need help...?"
+    # script.rpy:2579
 
-    old "Are you really sure you want to sacrifice yourself?"
-    new "Are you really sure you want to sacrifice yourself?"
+    # script.rpy:2603
 
-    old "You don't bother me, {w}or I would have made you wait outside."
-    new "You don't bother me, {w}or I would have made you wait outside."
+    # script.rpy:7189
 
-    old "Gghmnm~{image=corazon}{image=corazon} {w}My body g-gets ready to receive it..."
-    new "Gghmnm~{image=corazon}{image=corazon} {w}My body g-gets ready to receive it..."
+    # script.rpy:5591
 
-    old "Hey... {w}could you move?"
-    new "Hey... {w}could you move?"
+    # script.rpy:2487
 
-    old "Maybe it's because of something in the town? Now I will be helping here-"
-    new "Maybe it's because of something in the town? Now I will be helping here-"
+    # script.rpy:4696
 
-    old "{size=-10}Who are you calling weird! {w}Come here!"
-    new "{size=-10}Who are you calling weird! {w}Come here!"
+    # script.rpy:4893
 
-    old "{size=-6}I should get up and make breakfast..."
-    new "{size=-6}I should get up and make breakfast..."
+    # script.rpy:8828
 
     old "You can now fish in the lake!"
     new "You can now fish in the lake!"
 
-    old "Yes! Please!"
-    new "Yes! Please!"
+    # script.rpy:3204
 
-    old "N-No! I am n-not interested in his face!"
-    new "N-No! I am n-not interested in his face!"
+    # script.rpy:7301
 
-    old "And will I see you again?"
-    new "And will I see you again?"
+    # script.rpy:799
 
-    old "Well, let's get to work."
-    new "Well, let's get to work."
+    # script.rpy:8494
 
-    old "Just take me, but please leave the doctor alone!"
-    new "Just take me, but please leave the doctor alone!"
+    # script.rpy:2589
 
-    old "Thanks, Shika."
-    new "Thanks, Shika."
+    # script.rpy:2674
 
-    old "{sc=2}{outlinecolor=#000000}I didn't mean to intrude."
-    new "{sc=2}{outlinecolor=#000000}I didn't mean to intrude."
+    # script.rpy:1154
 
-    old "Those types of wolves are really hard to kill, you know?"
-    new "Those types of wolves are really hard to kill, you know?"
+    # script.rpy:1355
 
-    old "I hope [mc] is okay..."
-    new "I hope [mc] is okay..."
+    # script.rpy:8370
 
-    old "Don't worry, I'll pick them up right away."
-    new "Don't worry, I'll pick them up right away."
+    # script.rpy:3273
 
-    old "Careful, why don't we sit down?"
-    new "Careful, why don't we sit down?"
+    # script.rpy:8677
 
-    old "Should I really kill something that looks like that?"
-    new "Should I really kill something that looks like that?"
+    # script.rpy:8455
 
-    old "Haaa mooh~"
-    new "Haaa mooh~"
+    # script.rpy:5706
 
-    old "But let me tell you something."
-    new "But let me tell you something."
+    # script.rpy:1888
 
-    old "That's why I recovered so quickly when I was attacked by those wolves."
-    new "That's why I recovered so quickly when I was attacked by those wolves."
+    # script.rpy:4432
 
-    old "I also have to talk to Natsuki."
-    new "I also have to talk to Natsuki."
+    # script.rpy:4751
 
-    old "But that story will be for another day."
-    new "But that story will be for another day."
+    # script.rpy:2727
 
-    old "Then you promise!?"
-    new "Then you promise!?"
+    # script.rpy:4880
 
-    old "Does anyone have anything else to say?"
-    new "Does anyone have anything else to say?"
+    # script.rpy:6487
 
-    old "{color=#e8e3cf}Hmm? {w}I didn't think it would be you."
-    new "{color=#e8e3cf}Hmm? {w}I didn't think it would be you."
+    # script.rpy:7167
 
-    old "No matter how strong he is, he needs to breathe..."
-    new "No matter how strong he is, he needs to breathe..."
+    # script.rpy:8374
 
-    old "I love wood and we should cut more trees!"
-    new "I love wood and we should cut more trees!"
+    # script.rpy:8174
 
-    old "When she told me \"new world\"."
-    new "When she told me \"new world\"."
+    # script.rpy:618
 
-    old "The summoning portals?"
-    new "The summoning portals?"
+    # script.rpy:4023
 
-    old "Sure, come here, I don't see anything dangerous around."
-    new "Sure, come here, I don't see anything dangerous around."
+    # script.rpy:6899
 
-    old "But I only asked for a cape."
-    new "But I only asked for a cape."
+    # script.rpy:7510
 
-    old "Even if it kills me..."
-    new "Even if it kills me..."
+    # script.rpy:1904
 
-    old "Hey, what are you doing?"
-    new "Hey, what are you doing?"
+    # script.rpy:7764
 
-    old "I think I had the wrong idea of what conversations are supposed to be like."
-    new "I think I had the wrong idea of what conversations are supposed to be like."
+    # script.rpy:1996
 
-    old "We must show you the consequences!"
-    new "We must show you the consequences!"
+    # script.rpy:6432
 
-    old "D-Don't do {w}{size=-10}sob*{/size} {w}that again..."
-    new "D-Don't do {w}{size=-10}sob*{/size} {w}that again..."
+    # script.rpy:6834
 
-    old "... {w}Uh... yes, {w}there are all kinds of people in that town...."
-    new "... {w}Uh... yes, {w}there are all kinds of people in that town...."
+    # script.rpy:5377
 
-    old "Would you also like to fight him?"
-    new "Would you also like to fight him?"
+    # script.rpy:4568
 
-    old "I think starting with Yui's project is the best thing to do now!"
-    new "I think starting with Yui's project is the best thing to do now!"
+    # script.rpy:8170
 
-    old "You should've said so earlier!"
-    new "You should've said so earlier!"
+    # script.rpy:2670
 
-    old "{size=-6}My head... {w}I feel sleepy..."
-    new "{size=-6}My head... {w}I feel sleepy..."
+    # script.rpy:2165
 
-    old "Better not add another \"good memory\" today."
-    new "Better not add another \"good memory\" today."
+    # script.rpy:2714
 
-    old "What's my point?"
-    new "What's my point?"
+    # script.rpy:8196
 
     old "Now you can flee from combats."
     new "Now you can flee from combats."
 
-    old "A fishing rod."
-    new "A fishing rod."
+    # script.rpy:3210
 
-    old "{size=-6}But next time I will look."
-    new "{size=-6}But next time I will look."
+    # script.rpy:7530
 
-    old "I came with the intention of knowing everyone's opinion and ideas, {w=0.5}so that's a good start."
-    new "I came with the intention of knowing everyone's opinion and ideas, {w=0.5}so that's a good start."
+    # script.rpy:8218
 
-    old "{size=-6}You'll know when the time comes..."
-    new "{size=-6}You'll know when the time comes..."
+    # script.rpy:798
 
-    old "I feel so weak..."
-    new "I feel so weak..."
+    # script.rpy:6918
 
-    old "We are all there."
-    new "We are all there."
+    # script.rpy:8226
 
-    old "{i}The girl leaves without another word."
-    new "{i}The girl leaves without another word."
+    # script.rpy:2526
 
-    old "And you might gain some weight."
-    new "And you might gain some weight."
+    # script.rpy:3659
 
-    old "But to give your blessing to a man who is the son of a demon?"
-    new "But to give your blessing to a man who is the son of a demon?"
+    # script.rpy:8715
 
-    old "I'll do my best to help them."
-    new "I'll do my best to help them."
+    # script.rpy:4749
 
-    old "It's always been just you and me."
-    new "It's always been just you and me."
+    # script.rpy:4834
 
-    old "{size=-8}And if I suck you too much, {w}I will leave you very tired by the time you go to the other town."
-    new "{size=-8}And if I suck you too much, {w}I will leave you very tired by the time you go to the other town."
+    # script.rpy:5186
 
-    old "Tell her what I did... and tell her..."
-    new "Tell her what I did... and tell her..."
+    # script.rpy:8761
 
-    old "No problem! {w}Come whenever you want~"
-    new "No problem! {w}Come whenever you want~"
+    # script.rpy:4601
 
-    old "I'm really happy with what you're saying, {w}but..."
-    new "I'm really happy with what you're saying, {w}but..."
+    # script.rpy:1416
 
-    old "Your master hasn't recovered yet."
-    new "Your master hasn't recovered yet."
+    # script.rpy:2215
 
-    old "{size=-8}But I'm getting really..."
-    new "{size=-8}But I'm getting really..."
+    # script.rpy:1764
 
-    old "We're finished here!"
-    new "We're finished here!"
+    # script.rpy:2796
 
-    old "How strange, must be a very big rock."
-    new "How strange, must be a very big rock."
+    # script.rpy:676
 
-    old "At least I landed on something soft."
-    new "At least I landed on something soft."
+    # script.rpy:2486
 
-    old "I got water in my eyes..."
-    new "I got water in my eyes..."
+    # script.rpy:5310
 
-    old "I think you could handle it on your own."
-    new "I think you could handle it on your own."
+    # script.rpy:6904
 
-    old "She told me that she has been with you since she escaped from the slavers."
-    new "She told me that she has been with you since she escaped from the slavers."
+    # script.rpy:4701
 
-    old "W-Wait... {w}where is my other hand?"
-    new "W-Wait... {w}where is my other hand?"
+    # script.rpy:5407
 
-    old "I'm glad you can speak so confidently about me."
-    new "I'm glad you can speak so confidently about me."
+    # script.rpy:5672
 
-    old "I doubt it, {w}unlike mercenaries who are more organized and do most things for a purpose or for money."
-    new "I doubt it, {w}unlike mercenaries who are more organized and do most things for a purpose or for money."
+    # script.rpy:5772
 
     old "Thanks to the trees, the sun doesn't bother you at all."
     new "Thanks to the trees, the sun doesn't bother you at all."
 
-    old "I wonder whose house this is..."
-    new "I wonder whose house this is..."
+    # script.rpy:2284
 
-    old "And now that most of the path is safe, it won't be as dangerous as before."
-    new "And now that most of the path is safe, it won't be as dangerous as before."
+    # script.rpy:3698
 
-    old "Wow, and all this f-?"
-    new "Wow, and all this f-?"
+    # script.rpy:5194
 
-    old "I am his woman friend, and I must respect his space."
-    new "I am his woman friend, and I must respect his space."
+    # script.rpy:5993
 
-    old "I hope the same Keiko..."
-    new "I hope the same Keiko..."
+    # script.rpy:598
 
-    old "But everyone here knows that you have the qualities of a leader."
-    new "But everyone here knows that you have the qualities of a leader."
+    # script.rpy:8296
 
-    old "If I see them again, we're going to have a long talk."
-    new "If I see them again, we're going to have a long talk."
+    # script.rpy:1514
 
-    old "And what are you looking for?"
-    new "And what are you looking for?"
+    # script.rpy:3209
 
-    old "Stop, you flatter me."
-    new "Stop, you flatter me."
+    # script.rpy:468
 
     old "It's like floating in nothingness."
     new "It's like floating in nothingness."
 
-    old "But even so, {w}she couldn't defeat a mere mortal in seconds."
-    new "But even so, {w}she couldn't defeat a mere mortal in seconds."
+    # script.rpy:4004
 
-    old "Actually... {w}yeah. I need you to come closer."
-    new "Actually... {w}yeah. I need you to come closer."
+    # script.rpy:2313
 
-    old "{size=-6}But I wouldn't have made it without..."
-    new "{size=-6}But I wouldn't have made it without..."
+    # script.rpy:1267
 
-    old "And here I was, hoping for a nice peaceful moment with everyone together..."
-    new "And here I was, hoping for a nice peaceful moment with everyone together..."
+    # script.rpy:8770
 
-    old "Maybe I can ask the goddesses..."
-    new "Maybe I can ask the goddesses..."
+    # script.rpy:3614
 
-    old "Especially if you are the one we are talking about."
-    new "Especially if you are the one we are talking about."
+    # script.rpy:5671
 
-    old "Oh, that's very fast."
-    new "Oh, that's very fast."
+    # script.rpy:7077
 
-    old "Right here, get naked."
-    new "Right here, get naked."
+    # script.rpy:7523
 
     old "But I didn't expect it to be so soon..."
     new "But I didn't expect it to be so soon..."
 
-    old "{size=-8}Just stay out of the way."
-    new "{size=-8}Just stay out of the way."
+    # script.rpy:6154
 
-    old "I'll think about it for a moment."
-    new "I'll think about it for a moment."
+    # script.rpy:4011
 
-    old "Oh, of course."
-    new "Oh, of course."
+    # script.rpy:8191
 
-    old "I will proceed to explain everything I have discovered so far."
-    new "I will proceed to explain everything I have discovered so far."
+    # script.rpy:8229
 
-    old "Hey! Are you okay?"
-    new "Hey! Are you okay?"
+    # script.rpy:4082
 
-    old "I don't know yet."
-    new "I don't know yet."
+    # script.rpy:8257
 
-    old "When she told me that you could be the next leader I decided to find Charlotte and come right away."
-    new "When she told me that you could be the next leader I decided to find Charlotte and come right away."
+    # script.rpy:8032
 
-    old "I see you have been quite busy."
-    new "I see you have been quite busy."
+    # script.rpy:8227
 
-    old "{size=-10}If it were an emergency I could not count on you."
-    new "{size=-10}If it were an emergency I could not count on you."
+    # script.rpy:5165
 
-    old "Bye-bye, Master!"
-    new "Bye-bye, Master!"
+    # script.rpy:3794
 
-    old "I can feel a gentle breeze."
-    new "I can feel a gentle breeze."
+    # script.rpy:823
 
-    old "Where's Ryoko...? {w}And my clothes..."
-    new "Where's Ryoko...? {w}And my clothes..."
+    # script.rpy:2253
 
-    old "If you're willing to give me that option."
-    new "If you're willing to give me that option."
+    # script.rpy:540
 
     old "One day later."
     new "One day later."
 
-    old "I should get some rest... it'll help me clear my thoughts too."
-    new "I should get some rest... it'll help me clear my thoughts too."
+    # script.rpy:8803
 
-    old "And the overwhelming bloodlust..."
-    new "And the overwhelming bloodlust..."
+    # script.rpy:975
 
-    old "Come, let me wash your back."
-    new "Come, let me wash your back."
+    # script.rpy:5313
 
     old "You approach the girls."
     new "You approach the girls."
 
-    old "Oh, {w}what bad manners I have."
-    new "Oh, {w}what bad manners I have."
+    # script.rpy:3976
 
-    old "{size=+10}I will not let her go!"
-    new "{size=+10}I will not let her go!"
+    # script.rpy:6726
 
-    old "Just look for the sign I'll put back up."
-    new "Just look for the sign I'll put back up."
+    # script.rpy:4722
 
-    old "Tell that to Mirai. {w}She's the one who told me to come today and reveal those things while Hikari was present."
-    new "Tell that to Mirai. {w}She's the one who told me to come today and reveal those things while Hikari was present."
+    # script.rpy:8754
 
-    old "And if she hadn't given me that katana, I would've... {w}damn..."
-    new "And if she hadn't given me that katana, I would've... {w}damn..."
+    # script.rpy:1513
 
-    old "What happened? {w}Did I say something that turned you on?~~"
-    new "What happened? {w}Did I say something that turned you on?~~"
+    # script.rpy:4398
 
-    old "Would be nice if you stopped using my head to talk to yourself..."
-    new "Would be nice if you stopped using my head to talk to yourself..."
+    # script.rpy:8534
 
-    old "Sorry, I had to talk to the soldiers and I ran out of time."
-    new "Sorry, I had to talk to the soldiers and I ran out of time."
+    # script.rpy:8107
 
-    old "I need some wood."
-    new "I need some wood."
+    # script.rpy:3402
 
-    old "I c-can't hold on anymore..."
-    new "I c-can't hold on anymore..."
+    # script.rpy:2023
 
-    old "How much time has passed...?"
-    new "How much time has passed...?"
+    # script.rpy:2246
 
-    old "{size=-10}W-Well, {w}m-maybe-"
-    new "{size=-10}W-Well, {w}m-maybe-"
+    # script.rpy:4940
 
-    old "Here, {w}I prepared a bento with the leftover food, {w}eat it when you feel hungry..."
-    new "Here, {w}I prepared a bento with the leftover food, {w}eat it when you feel hungry..."
+    # script.rpy:5694
 
-    old "What's wrong with this girl, this is more than just fear."
-    new "What's wrong with this girl, this is more than just fear."
+    # script.rpy:1208
 
-    old "I have a deal for you."
-    new "I have a deal for you."
+    # script.rpy:641
 
-    old "Oh, hey, you managed to convince Charlotte."
-    new "Oh, hey, you managed to convince Charlotte."
+    # script.rpy:8074
 
-    old "Ok {w}but if you see a problem, you have to be the first to run."
-    new "Ok {w}but if you see a problem, you have to be the first to run."
+    # script.rpy:2764
 
     old "Just a simple cut."
     new "Just a simple cut."
 
-    old "Hmm... I know Ryoko's trying to act like she's fine, but she looks exhausted."
-    new "Hmm... I know Ryoko's trying to act like she's fine, but she looks exhausted."
+    # script.rpy:2311
 
-    old "Naatsuki!!"
-    new "Naatsuki!!"
+    # script.rpy:4639
 
-    old "Her face is too erotic... {w}even if I just cum, {w}Ryoko manages to turn me on to an extreme point."
-    new "Her face is too erotic... {w}even if I just cum, {w}Ryoko manages to turn me on to an extreme point."
+    # script.rpy:5510
 
-    old "I'm just saying she hasn't broken any rules."
-    new "I'm just saying she hasn't broken any rules."
+    # script.rpy:8720
 
-    old "I should talk to Ryoko. She said she wanted to tell me something."
-    new "I should talk to Ryoko. She said she wanted to tell me something."
+    # script.rpy:4750
 
-    old "I have something in my eyes?"
-    new "I have something in my eyes?"
+    # script.rpy:3542
 
-    old "It was not necessary, and I agree."
-    new "It was not necessary, and I agree."
+    # script.rpy:7199
 
-    old "{i}{size=-6}Will it be understood? {w}Or is it too messy?"
-    new "{i}{size=-6}Will it be understood? {w}Or is it too messy?"
+    # script.rpy:7906
 
     old "{size=-10}My little crybaby..."
     new "{size=-10}My little crybaby..."
 
-    old "I-If you say so... {w}{size=-8}NHmn~{image=corazon}{/size}"
-    new "I-If you say so... {w}{size=-8}NHmn~{image=corazon}{/size}"
+    # script.rpy:5442
 
-    old "If you want to keep talking, {w}I'll be in the water."
-    new "If you want to keep talking, {w}I'll be in the water."
+    # script.rpy:1840
 
-    old "I was investigating the surrounding area and realized that the lake is now safe enough to fish."
-    new "I was investigating the surrounding area and realized that the lake is now safe enough to fish."
+    # script.rpy:3154
 
-    old "You can go and sit down in the meantime."
-    new "You can go and sit down in the meantime."
+    # script.rpy:5114
 
-    old "I've noticed that Yui has been acting like this since everything happened..."
-    new "I've noticed that Yui has been acting like this since everything happened..."
+    # script.rpy:6902
 
-    old "Hahaha!! {w}This is what she earned for breaking the rules!"
-    new "Hahaha!! {w}This is what she earned for breaking the rules!"
+    # script.rpy:4051
 
-    old "Hahaha, {w}what's up with that belly?"
-    new "Hahaha, {w}what's up with that belly?"
+    # script.rpy:5244
 
-    old "Yui I can take care of one, you take care of the other!"
-    new "Yui I can take care of one, you take care of the other!"
+    # script.rpy:2806
 
-    old "Aaahnmn~~{image=corazon}{image=corazon} Master [mc]~~{image=corazon}{image=corazon}"
-    new "Aaahnmn~~{image=corazon}{image=corazon} Master [mc]~~{image=corazon}{image=corazon}"
+    # script.rpy:5537
 
-    old "I will do my best as long as I have all of you by my side."
-    new "I will do my best as long as I have all of you by my side."
+    # script.rpy:8325
 
-    old "So this is what was making it hard to breathe..."
-    new "So this is what was making it hard to breathe..."
+    # script.rpy:8793
 
-    old "Who ate all the rice balls?"
-    new "Who ate all the rice balls?"
+    # script.rpy:3759
 
-    old "Wow, that was delicious."
-    new "Wow, that was delicious."
+    # script.rpy:5238
 
-    old "T-This... {w}my mind is not working well anymore..."
-    new "T-This... {w}my mind is not working well anymore..."
+    # script.rpy:2019
 
-    old "P-Please keep giving m-me love... {w}NHhgmn~~{image=corazon}{image=corazon} {w}u-until you are satisfied!"
-    new "P-Please keep giving m-me love... {w}NHhgmn~~{image=corazon}{image=corazon} {w}u-until you are satisfied!"
+    # script.rpy:5507
 
-    old "What do you say Shika?"
-    new "What do you say Shika?"
+    # script.rpy:8279
 
-    old "You're the strongest person I've ever seen!"
-    new "You're the strongest person I've ever seen!"
+    # script.rpy:1485
 
-    old "It would be a good source of money."
-    new "It would be a good source of money."
+    # script.rpy:8237
 
-    old "As if I were forgetting something."
-    new "As if I were forgetting something."
+    # script.rpy:5280
 
-    old "I always live my own way acting on impulse more than for any other reason."
-    new "I always live my own way acting on impulse more than for any other reason."
+    # script.rpy:8301
 
-    old "And why are your soldiers running?"
-    new "And why are your soldiers running?"
+    # script.rpy:5752
 
-    old "What was I doing? {w}I think I feel a little bad."
-    new "What was I doing? {w}I think I feel a little bad."
+    # script.rpy:6615
 
-    old "Woah... {w}right here? {w}Well... who am I to refuse..."
-    new "Woah... {w}right here? {w}Well... who am I to refuse..."
+    # script.rpy:3386
 
-    old "{size=-10}T-Thank you... {w}Haamn~{image=corazon}{image=corazon} {w}M-Master [mc]..."
-    new "{size=-10}T-Thank you... {w}Haamn~{image=corazon}{image=corazon} {w}M-Master [mc]..."
+    # script.rpy:5540
 
-    old "Yes!{w} I want to obtain my rank."
-    new "Yes!{w} I want to obtain my rank."
+    # script.rpy:4717
 
-    old "{size=-10}Don't do anything stupid."
-    new "{size=-10}Don't do anything stupid."
+    # script.rpy:4098
 
-    old "At first she was calm, but when I told her my name her attitude changed completely."
-    new "At first she was calm, but when I told her my name her attitude changed completely."
+    # script.rpy:4243
 
-    old "{size=-10}Those are not just bandits."
-    new "{size=-10}Those are not just bandits."
+    # script.rpy:6301
 
-    old "And with Ryoko I've been able to enjoy my new life."
-    new "And with Ryoko I've been able to enjoy my new life."
+    # script.rpy:3483
 
-    old "{size=-9}You took too long, {w}[mc]..."
-    new "{size=-9}You took too long, {w}[mc]..."
+    # script.rpy:6514
 
-    old "Mmm? {w}But the other day I heard you say that you felt Master was tired."
-    new "Mmm? {w}But the other day I heard you say that you felt Master was tired."
+    # script.rpy:5258
 
-    old "I admit that you are really skilled to manage to sneak behind my back without me noticing."
-    new "I admit that you are really skilled to manage to sneak behind my back without me noticing."
+    # script.rpy:5871
 
-    old "And no. {w}Not everyone would take care of a demon as if they were part of their family."
-    new "And no. {w}Not everyone would take care of a demon as if they were part of their family."
+    # script.rpy:4708
 
-    old "{size=-10}Gulp* {w}I-It does not stop coming out..."
-    new "{size=-10}Gulp* {w}I-It does not stop coming out..."
+    # script.rpy:5551
 
-    old "What? {w}Is it changing!?"
-    new "What? {w}Is it changing!?"
+    # script.rpy:4510
 
-    old "But in a few years, she could become really strong."
-    new "But in a few years, she could become really strong."
+    # script.rpy:3670
 
-    old "Oh you are also..."
-    new "Oh you are also..."
+    # script.rpy:4953
 
-    old "You'd better get back to your \"world\" now."
-    new "You'd better get back to your \"world\" now."
+    # script.rpy:4463
 
-    old "Is this what I think it is?"
-    new "Is this what I think it is?"
+    # script.rpy:500
 
-    old "How is that even possible?"
-    new "How is that even possible?"
+    # script.rpy:8120
 
-    old "Another girl who lives with me."
-    new "Another girl who lives with me."
+    # script.rpy:5936
 
-    old "Except for..."
-    new "Except for..."
+    # script.rpy:7552
 
-    old "It does me no good that she is injured if her death is not confirmed."
-    new "It does me no good that she is injured if her death is not confirmed."
+    # script.rpy:6190
 
-    old "Oh, what a drastic change."
-    new "Oh, what a drastic change."
+    # script.rpy:1176
 
-    old "Your way of fighting."
-    new "Your way of fighting."
+    # script.rpy:3066
 
-    old "Her tits felt so good that day, {w}so soft and perfect..."
-    new "Her tits felt so good that day, {w}so soft and perfect..."
+    # script.rpy:3421
 
-    old "Are we really going to do this?"
-    new "Are we really going to do this?"
+    # script.rpy:5830
 
-    old "And quite a lot of construction materials."
-    new "And quite a lot of construction materials."
+    # script.rpy:3379
 
-    old "And I wanted to know what kind of person you were."
-    new "And I wanted to know what kind of person you were."
+    # script.rpy:467
 
-    old "Yes... {w}in fact, I need to enter the western kingdom without being seen."
-    new "Yes... {w}in fact, I need to enter the western kingdom without being seen."
+    # script.rpy:7372
 
-    old "Don't worry. How do you feel?"
-    new "Don't worry. How do you feel?"
+    # script.rpy:1344
 
-    old "All my girls are busy right now..."
-    new "All my girls are busy right now..."
+    # script.rpy:6952
 
-    old "It's a giant wolf, and it's literally on top of me trying to devour me."
-    new "It's a giant wolf, and it's literally on top of me trying to devour me."
+    # script.rpy:1019
 
-    old "I should look for wood to build a fire."
-    new "I should look for wood to build a fire."
+    # script.rpy:880
 
-    old "Keiko told me that the other goddesses shouldn't know about me..."
-    new "Keiko told me that the other goddesses shouldn't know about me..."
+    # script.rpy:4017
 
-    old "Nothing has changed in me, even though I have died, I am still me."
-    new "Nothing has changed in me, even though I have died, I am still me."
+    # script.rpy:727
 
-    old "She had never screamed like that before."
-    new "She had never screamed like that before."
+    # script.rpy:6095
 
-    old "Leave it to me, {w}you don't have to worry."
-    new "Leave it to me, {w}you don't have to worry."
+    # script.rpy:729
 
-    old "{size=-6}Maybe it's-{w=0.5}{nw}"
-    new "{size=-6}Maybe it's-{w=0.5}{nw}"
+    # script.rpy:2161
 
-    old "I n-need your help doctor."
-    new "I n-need your help doctor."
+    # script.rpy:7800
 
-    old "Fallen Angel? I don't understand anything!"
-    new "Fallen Angel? I don't understand anything!"
+    # script.rpy:4263
 
-    old "Hey Ryoko... {w}yeah, I think I scared you all, didn't I?"
-    new "Hey Ryoko... {w}yeah, I think I scared you all, didn't I?"
+    # script.rpy:8857
 
-    old "But maybe we could settle this like civilized man and wolf?"
-    new "But maybe we could settle this like civilized man and wolf?"
+    # script.rpy:998
 
-    old "What are you waiting for? {w}Jump in too!"
-    new "What are you waiting for? {w}Jump in too!"
+    # script.rpy:8355
 
-    old "Haaa? {w}I hope you didn't do anything to them."
-    new "Haaa? {w}I hope you didn't do anything to them."
+    # script.rpy:5655
 
-    old "Wait... {w}I didn't bring you here just to talk~"
-    new "Wait... {w}I didn't bring you here just to talk~"
+    # script.rpy:493
 
-    old "This would be a part of what you call heaven."
-    new "This would be a part of what you call heaven."
+    # script.rpy:453
 
-    old "{size=-6}I can't answer her... {w}all my strength is going into keeping my eyes open."
-    new "{size=-6}I can't answer her... {w}all my strength is going into keeping my eyes open."
+    # script.rpy:2213
 
-    old "So I can't tell her that I was looking for her..."
-    new "So I can't tell her that I was looking for her..."
+    # script.rpy:4018
 
-    old "Everything will be fine."
-    new "Everything will be fine."
+    # script.rpy:5229
 
-    old "{size=-10}{sc=3}{outlinecolor=#000000}Ghmn~{/sc}{/size} {size=-6}{w}What will I cook today...?~ {w=0.5}I could buy right now."
-    new "{size=-10}{sc=3}{outlinecolor=#000000}Ghmn~{/sc}{/size} {size=-6}{w}What will I cook today...?~ {w=0.5}I could buy right now."
+    # script.rpy:7681
 
-    old "So she doesn't like water either, another feline discovery."
-    new "So she doesn't like water either, another feline discovery."
+    # script.rpy:5361
 
-    old "Sorry to scare you."
-    new "Sorry to scare you."
+    # script.rpy:7069
 
-    old "Those that are crossed out are houses that are in too bad condition to be habitable."
-    new "Those that are crossed out are houses that are in too bad condition to be habitable."
+    # script.rpy:8234
 
-    old "M-Master? {w}Are you listening...?"
-    new "M-Master? {w}Are you listening...?"
+    # script.rpy:5427
 
-    old "Coming to see a grave without a name."
-    new "Coming to see a grave without a name."
+    # script.rpy:4850
 
-    old "{size=-8}Who are you, {w}and why did you help me?"
-    new "{size=-8}Who are you, {w}and why did you help me?"
+    # script.rpy:6130
 
     old "You both get up and prepare to leave."
     new "You both get up and prepare to leave."
 
-    old "It looks like a map of the entire village."
-    new "It looks like a map of the entire village."
+    # script.rpy:7902
 
-    old "I almost had a heart attack."
-    new "I almost had a heart attack."
+    # script.rpy:4483
 
-    old "I thought... {w}I would never see you again."
-    new "I thought... {w}I would never see you again."
+    # script.rpy:6840
 
-    old "I can't take these chains off, and if I'm alone, sooner or later someone will figure out I'm a runaway slave."
-    new "I can't take these chains off, and if I'm alone, sooner or later someone will figure out I'm a runaway slave."
+    # script.rpy:1386
 
-    old "You'll understand when you see it, but let's say there's a lot of... {w}difference between... {w}uhm... \"things\"."
-    new "You'll understand when you see it, but let's say there's a lot of... {w}difference between... {w}uhm... \"things\"."
+    # script.rpy:701
 
-    old "But I feel that something's watching us... but it has no evil intentions, perhaps it's a squirrel or something."
-    new "But I feel that something's watching us... but it has no evil intentions, perhaps it's a squirrel or something."
+    # script.rpy:2762
 
-    old "Long time no see."
-    new "Long time no see."
+    # script.rpy:4508
 
-    old "Well, {w}our first job since we closed the store arrived at our doorstep."
-    new "Well, {w}our first job since we closed the store arrived at our doorstep."
+    # script.rpy:7275
 
-    old "Oh~ I've been found out."
-    new "Oh~ I've been found out."
+    # script.rpy:8640
 
-    old "Well, what did she tell you?"
-    new "Well, what did she tell you?"
+    # script.rpy:2154
 
-    old "If only the world were filled with people like you..."
-    new "If only the world were filled with people like you..."
+    # script.rpy:4733
 
-    old "And she was friends with Shika."
-    new "And she was friends with Shika."
+    # script.rpy:8818
 
-    old "Now everyone thinks they're a big deal or what."
-    new "Now everyone thinks they're a big deal or what."
+    # script.rpy:6115
 
-    old "I think that made him angrier..."
-    new "I think that made him angrier..."
+    # script.rpy:1004
 
-    old "Shit, {w}w-what a sensual body..."
-    new "Shit, {w}w-what a sensual body..."
+    # script.rpy:1928
 
-    old "So... {w}there you are..."
-    new "So... {w}there you are..."
+    # script.rpy:5554
 
-    old "What if we take a walk around?"
-    new "What if we take a walk around?"
+    # script.rpy:6516
 
-    old "Do you think so? I think it's already incredible what she does."
-    new "Do you think so? I think it's already incredible what she does."
+    # script.rpy:7202
 
-    old "More constructions!?"
-    new "More constructions!?"
+    # script.rpy:8222
 
-    old "HAHA! {w}False information? {w}That's the best you can come up with?"
-    new "HAHA! {w}False information? {w}That's the best you can come up with?"
+    # script.rpy:6322
 
-    old "{size=-6}On my signa-"
-    new "{size=-6}On my signa-"
+    # script.rpy:6349
 
-    old "Haven't you found anything that made you doubt all these years?"
-    new "Haven't you found anything that made you doubt all these years?"
+    # script.rpy:4064
 
-    old "And what would my reward be?"
-    new "And what would my reward be?"
+    # script.rpy:3417
 
-    old "You really don't waste your time."
-    new "You really don't waste your time."
+    # script.rpy:3355
 
-    old "She seems to be more excited about it than you are."
-    new "She seems to be more excited about it than you are."
+    # script.rpy:5750
 
-    old "Give me something else!"
-    new "Give me something else!"
+    # script.rpy:8066
 
-    old "Perhaps their differences and situations made them get along immediately."
-    new "Perhaps their differences and situations made them get along immediately."
+    # script.rpy:5155
 
-    old "The entrance should be fixed by now..."
-    new "The entrance should be fixed by now..."
+    # script.rpy:7113
 
-    old "I am hallucinating."
-    new "I am hallucinating."
+    # script.rpy:6777
 
-    old "If you don't, I won't tell you anything."
-    new "If you don't, I won't tell you anything."
+    # script.rpy:4278
 
-    old "Stay back, Ryoko!"
-    new "Stay back, Ryoko!"
+    # script.rpy:1585
 
-    old "Understood! {w}I'll guide you to the village, then!"
-    new "Understood! {w}I'll guide you to the village, then!"
+    # script.rpy:1553
 
-    old "Did you also see me get cut by a crazy guy?"
-    new "Did you also see me get cut by a crazy guy?"
+    # script.rpy:633
 
-    old "[mc]? {w}Do you have a headache?"
-    new "[mc]? {w}Do you have a headache?"
+    # script.rpy:5978
 
-    old "I think I've spoiled you too much~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    new "I think I've spoiled you too much~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    # script.rpy:4403
 
-    old "Even if nothing comes from visiting those stones, at least I'll have tried."
-    new "Even if nothing comes from visiting those stones, at least I'll have tried."
+    # script.rpy:3691
 
     old "Rest for now. Until next time."
     new "Rest for now. Until next time."
 
-    old "I don't know if it's just my imagination but..."
-    new "I don't know if it's just my imagination but..."
+    # script.rpy:1855
 
-    old "{size=-10}S-Stop joking... {w}you're always telling me not to lie down on the floor."
-    new "{size=-10}S-Stop joking... {w}you're always telling me not to lie down on the floor."
+    # script.rpy:6702
 
-    old "Yes, you must know very well the reason for that."
-    new "Yes, you must know very well the reason for that."
+    # script.rpy:7654
 
-    old "{size=-10}Come on, get down, don't make any noise."
-    new "{size=-10}Come on, get down, don't make any noise."
+    # script.rpy:6293
 
-    old "That we will both enjoy~{image=corazon}"
-    new "That we will both enjoy~{image=corazon}"
+    # script.rpy:497
 
-    old "Move. You're blocking the doorway."
-    new "Move. You're blocking the doorway."
+    # script.rpy:2516
 
-    old "Monsters are too strong for the level of adventurers, {w}couldn't I start by fighting simple monsters? {w}A slime maybe?"
-    new "Monsters are too strong for the level of adventurers, {w}couldn't I start by fighting simple monsters? {w}A slime maybe?"
+    # script.rpy:2950
 
-    old "It was near some strange stones."
-    new "It was near some strange stones."
+    # script.rpy:3734
 
-    old "I really did get stronger..."
-    new "I really did get stronger..."
+    # script.rpy:1055
 
-    old "Is this some kind of sick joke?"
-    new "Is this some kind of sick joke?"
+    # script.rpy:1600
 
-    old "She's too scared to even hear me out."
-    new "She's too scared to even hear me out."
+    # script.rpy:1159
 
-    old "{sc=3}{outlinecolor=#000000}Aah- {w}Wuu- {w}Mun-"
-    new "{sc=3}{outlinecolor=#000000}Aah- {w}Wuu- {w}Mun-"
+    # script.rpy:1334
 
-    old "{size=-6}I'm running away..."
-    new "{size=-6}I'm running away..."
+    # script.rpy:1246
 
-    old "Because of you she escaped."
-    new "Because of you she escaped."
+    # script.rpy:6188
 
-    old "I know it's not necessary to mention it but..."
-    new "I know it's not necessary to mention it but..."
+    # script.rpy:589
 
-    old "{sc=2}{outlinecolor=#000000}This way! {w}Please, hurry!"
-    new "{sc=2}{outlinecolor=#000000}This way! {w}Please, hurry!"
+    # script.rpy:1771
 
-    old "Yes, you're right, I'll do that."
-    new "Yes, you're right, I'll do that."
+    # script.rpy:8881
 
-    old "When I arrived, {w}the wolf was about to pounce on you..."
-    new "When I arrived, {w}the wolf was about to pounce on you..."
+    # script.rpy:1539
 
-    old "{size=-6}Are we a joke to you...?"
-    new "{size=-6}Are we a joke to you...?"
+    # script.rpy:8733
 
-    old "Don't worry, Ryoko... {w}Just stay behind me..."
-    new "Don't worry, Ryoko... {w}Just stay behind me..."
+    # script.rpy:1596
 
-    old "Ryoko behind me..."
-    new "Ryoko behind me..."
+    # script.rpy:1621
 
-    old "Okay, focus [mc]. You've been through worse."
-    new "Okay, focus [mc]. You've been through worse."
+    # script.rpy:1615
 
-    old "And when I felt your soul, {w}you had no regret about your action."
-    new "And when I felt your soul, {w}you had no regret about your action."
+    # script.rpy:465
 
-    old "Let's just say it was my reward {w}for the entertainment you've been giving me-"
-    new "Let's just say it was my reward {w}for the entertainment you've been giving me-"
+    # script.rpy:2178
 
-    old "Could she have eaten something that made her sick?"
-    new "Could she have eaten something that made her sick?"
+    # script.rpy:8852
 
-    old "Such cowardly tricks are typical of mercenaries."
-    new "Such cowardly tricks are typical of mercenaries."
+    # script.rpy:6210
 
-    old "Did you take so long to bathe?"
-    new "Did you take so long to bathe?"
+    # script.rpy:5652
 
-    old "There are many, but the most important ones are not to interfere with or harm mortals."
-    new "There are many, but the most important ones are not to interfere with or harm mortals."
+    # script.rpy:4334
 
-    old "{image=/bg/icons/heart_text.png}Karyn's affection has increased to [karyn_affection]{image=/bg/icons/heart_text.png}"
-    new "{image=/bg/icons/heart_text.png}Karyn's affection has increased to [karyn_affection]{image=/bg/icons/heart_text.png}"
+    # script.rpy:6875
 
-    old "What I will do..."
-    new "What I will do..."
+    # script.rpy:4962
 
-    old "HAHAHA, {w}since we broke down this door."
-    new "HAHAHA, {w}since we broke down this door."
+    # script.rpy:6374
 
-    old "Ah... {w}so that's what it was..."
-    new "Ah... {w}so that's what it was..."
+    # script.rpy:578
 
-    old "All right, I think that was the last one."
-    new "All right, I think that was the last one."
+    # script.rpy:8505
 
-    old "How do you feel? {w}Are you in pain? {w}Do you want me to get you some water?"
-    new "How do you feel? {w}Are you in pain? {w}Do you want me to get you some water?"
+    # script.rpy:2211
 
-    old "I see you two have already met."
-    new "I see you two have already met."
+    # script.rpy:2632
 
-    old "Because I was watching you."
-    new "Because I was watching you."
+    # script.rpy:462
 
-    old "{size=-6}Much better, {w}thanks to you..."
-    new "{size=-6}Much better, {w}thanks to you..."
+    # script.rpy:1346
 
-    old "Not at all, I would never stick to someone like that."
-    new "Not at all, I would never stick to someone like that."
+    # script.rpy:8682
 
-    old "Wow, you really messed up."
-    new "Wow, you really messed up."
+    # script.rpy:2530
 
-    old "Ahm... {w}y-yeah?"
-    new "Ahm... {w}y-yeah?"
+    # script.rpy:7018
 
-    old "Even if I am not at home, she practices alone."
-    new "Even if I am not at home, she practices alone."
+    # script.rpy:4990
 
-    old "Again with your games no one understands?"
-    new "Again with your games no one understands?"
+    # script.rpy:8755
 
-    old "Besides, she wants to save someone, unlike Keiko who only wants to entertain herself."
-    new "Besides, she wants to save someone, unlike Keiko who only wants to entertain herself."
+    # script.rpy:733
 
-    old "Sigh~ {w}What a careless man, you should take more care of your image."
-    new "Sigh~ {w}What a careless man, you should take more care of your image."
+    # script.rpy:5122
 
-    old "{size=-10}Was it necessary for you to look at me while I was doing it?"
-    new "{size=-10}Was it necessary for you to look at me while I was doing it?"
+    # script.rpy:5167
 
-    old "{size=-6}I feel sore... and like something heavy is pressing down on me."
-    new "{size=-6}I feel sore... and like something heavy is pressing down on me."
+    # script.rpy:8788
 
-    old "Well, I'll see you later, Yu-"
-    new "Well, I'll see you later, Yu-"
+    # script.rpy:5798
 
-    old "Do you know how to fish?"
-    new "Do you know how to fish?"
+    # script.rpy:3163
 
-    old "You're going to cum, aren't you?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    new "You're going to cum, aren't you?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    # script.rpy:4406
 
-    old "Are you coming Akane?"
-    new "Are you coming Akane?"
+    # script.rpy:8366
 
-    old "No matter how much she teases me... {w}she's still a goddess!"
-    new "No matter how much she teases me... {w}she's still a goddess!"
+    # script.rpy:1939
 
-    old "{size=-8}Why did you save me... \"Karyn\"?"
-    new "{size=-8}Why did you save me... \"Karyn\"?"
+    # script.rpy:6141
 
-    old "Let me introduce myself, {w} I am-"
-    new "Let me introduce myself, {w} I am-"
+    # script.rpy:4618
 
-    old "Her eyes have been glued to a very specific part of me since I got in the water..."
-    new "Her eyes have been glued to a very specific part of me since I got in the water..."
+    # script.rpy:1857
 
-    old "It seems that they have known each other for years."
-    new "It seems that they have known each other for years."
+    # script.rpy:4656
 
-    old "Although it calmed the pain, the dizziness didn't disappear all day..."
-    new "Although it calmed the pain, the dizziness didn't disappear all day..."
+    # script.rpy:7787
 
-    old "D-Don't make fun of me, or I'll erase it all and do it again..."
-    new "D-Don't make fun of me, or I'll erase it all and do it again..."
+    # script.rpy:7938
 
-    old "I'll be more careful from now on."
-    new "I'll be more careful from now on."
+    # script.rpy:8867
 
-    old "{size=-7}Haha... {w}take that..."
-    new "{size=-7}Haha... {w}take that..."
+    # script.rpy:1762
 
-    old "Adventurers are ranked? Good to know."
-    new "Adventurers are ranked? Good to know."
+    # script.rpy:1493
 
-    old "W-What's wrong? {w}Don't you want me to call Diana?"
-    new "W-What's wrong? {w}Don't you want me to call Diana?"
+    # script.rpy:6026
 
-    old "{size=-10}{color=#319B85}If you say so."
-    new "{size=-10}{color=#319B85}If you say so."
+    # script.rpy:4935
 
-    old "You don't like the cemetery?"
-    new "You don't like the cemetery?"
+    # script.rpy:4852
 
-    old "Are you three having fun?"
-    new "Are you three having fun?"
+    # script.rpy:5089
 
-    old "{size=-10}Looks like I gave you a good scare."
-    new "{size=-10}Looks like I gave you a good scare."
+    # script.rpy:6819
 
-    old "Her presence... {w}it's so overwhelming..."
-    new "Her presence... {w}it's so overwhelming..."
+    # script.rpy:3973
 
-    old "D-Don't worry, {w}you're just doing your job..."
-    new "D-Don't worry, {w}you're just doing your job..."
+    # script.rpy:3328
 
-    old "Eehh~ {w}But I can't do any push-ups and I still don't know how to cook well!"
-    new "Eehh~ {w}But I can't do any push-ups and I still don't know how to cook well!"
+    # script.rpy:4968
 
-    old "A normal person wouldn't use that as an accessory."
-    new "A normal person wouldn't use that as an accessory."
+    # script.rpy:1239
 
-    old "Hunm~~{image=corazon} {w}T-This is the deepest {w}NHnm~~{image=corazon} {w}you've e-ever put it in me..."
-    new "Hunm~~{image=corazon} {w}T-This is the deepest {w}NHnm~~{image=corazon} {w}you've e-ever put it in me..."
+    # script.rpy:5506
 
-    old "It's the dog, how rare to see her so early in the mor-"
-    new "It's the dog, how rare to see her so early in the mor-"
+    # script.rpy:6008
 
-    old "I don't like it, {w}but this one is warm...~"
-    new "I don't like it, {w}but this one is warm...~"
+    # script.rpy:5355
 
-    old "There are a lot of boxes!"
-    new "There are a lot of boxes!"
+    # script.rpy:3214
 
-    old "Thank you. Sorry for the trouble."
-    new "Thank you. Sorry for the trouble."
+    # script.rpy:2401
 
-    old "This world...."
-    new "This world...."
+    # script.rpy:6545
 
-    old "Why are they staring at me like that...?"
-    new "Why are they staring at me like that...?"
+    # script.rpy:3985
 
-    old "Their fangs and pelts sell for a lot in the markets."
-    new "Their fangs and pelts sell for a lot in the markets."
+    # script.rpy:1356
 
     old "{outlinecolor=#000000}{i}I let you see the world..."
     new "{outlinecolor=#000000}{i}I let you see the world..."
 
-    old "Hana is moving!"
-    new "Hana is moving!"
+    # script.rpy:6783
 
-    old "Not even a day has passed."
-    new "Not even a day has passed."
+    # script.rpy:4481
 
-    old "As if that were part of it, idiot."
-    new "As if that were part of it, idiot."
+    # script.rpy:7617
 
-    old "It will be a pleasure to have you on our side."
-    new "It will be a pleasure to have you on our side."
+    # script.rpy:4598
 
-    old "What was that feeling I had when I first came here?"
-    new "What was that feeling I had when I first came here?"
+    # script.rpy:3825
 
-    old "Why don't you rest for a while?"
-    new "Why don't you rest for a while?"
+    # script.rpy:5926
 
-    old "{size=-6}{i}And I still can't get any samples from him."
-    new "{size=-6}{i}And I still can't get any samples from him."
+    # script.rpy:7330
 
-    old "{sc=3}{outlinecolor=#000000}And give me b-back my name!"
-    new "{sc=3}{outlinecolor=#000000}And give me b-back my name!"
+    # script.rpy:7949
 
-    old "That's what I thought, let's just take care of the village for now."
-    new "That's what I thought, let's just take care of the village for now."
+    # script.rpy:8262
 
-    old "If you gave yourself the time to know them, you wouldn't see them as mere monkeys."
-    new "If you gave yourself the time to know them, you wouldn't see them as mere monkeys."
+    # script.rpy:8736
 
-    old "I hope I'm not interrupting something~{image=corazon}"
-    new "I hope I'm not interrupting something~{image=corazon}"
+    # script.rpy:8837
 
-    old "Err Yui? {w}A little help?"
-    new "Err Yui? {w}A little help?"
+    # script.rpy:3115
 
-    old "Don't worry, I'll be back as soon as I can."
-    new "Don't worry, I'll be back as soon as I can."
+    # script.rpy:3779
 
-    old "In the blink of an eye."
-    new "In the blink of an eye."
+    # script.rpy:483
 
-    old "Hikari's mindset and way of thinking are those of a true high goddess."
-    new "Hikari's mindset and way of thinking are those of a true high goddess."
+    # script.rpy:8749
 
-    old "Why are you sitting so far away? {w}I don't bite, you know...?"
-    new "Why are you sitting so far away? {w}I don't bite, you know...?"
+    # script.rpy:1861
 
-    old "Y-yes.. {w}{size=-10}Master...{w}{size=-10}[mc]..."
-    new "Y-yes.. {w}{size=-10}Master...{w}{size=-10}[mc]..."
+    # script.rpy:3250
 
-    old "Am I going to..."
-    new "Am I going to..."
+    # script.rpy:3006
 
-    old "Why are there two of the Queen's slaves with you? {w}We had reached an agreement."
-    new "Why are there two of the Queen's slaves with you? {w}We had reached an agreement."
+    # script.rpy:6308
 
-    old "The truth is, I know I'm not the right person for this."
-    new "The truth is, I know I'm not the right person for this."
+    # script.rpy:8298
 
-    old "Come on, what are you afraid of?"
-    new "Come on, what are you afraid of?"
+    # script.rpy:8636
 
-    old "I'm looking for something."
-    new "I'm looking for something."
+    # script.rpy:3201
 
-    old "Hello! My name is Shika."
-    new "Hello! My name is Shika."
+    # script.rpy:2545
 
-    old "I don't understand what happened this time."
-    new "I don't understand what happened this time."
+    # script.rpy:4220
 
-    old "G-Great warrior?"
-    new "G-Great warrior?"
+    # script.rpy:2391
 
-    old "More than you think."
-    new "More than you think."
+    # script.rpy:6219
 
-    old "I should probably just head back home."
-    new "I should probably just head back home."
+    # script.rpy:3815
 
-    old "No wonder I felt like I was being crushed."
-    new "No wonder I felt like I was being crushed."
+    # script.rpy:8796
 
-    old "Hmm... {w}well, Miss Diana is taking too long..."
-    new "Hmm... {w}well, Miss Diana is taking too long..."
+    # script.rpy:7250
 
     old "Thank you for taking care of the village."
     new "Thank you for taking care of the village."
 
-    old "This village is now in your care."
-    new "This village is now in your care."
+    # script.rpy:8387
 
-    old "I may be an idiot, but I'm not stupid."
-    new "I may be an idiot, but I'm not stupid."
+    # script.rpy:700
 
     old "{sc=2}{outlinecolor=#000000}Watch out!{w=0.5}{nw}"
     new "{sc=2}{outlinecolor=#000000}Watch out!{w=0.5}{nw}"
 
-    old "This world you're going to. It's not a happy place for everyone."
-    new "This world you're going to. It's not a happy place for everyone."
+    # script.rpy:697
 
-    old "{size=-10}Ryoko... {w}Were you talking to me?"
-    new "{size=-10}Ryoko... {w}Were you talking to me?"
+    # script.rpy:4948
 
-    old "This is even worse than I thought..."
-    new "This is even worse than I thought..."
+    # script.rpy:1630
 
-    old "But not like this, and not right now!"
-    new "But not like this, and not right now!"
+    # script.rpy:995
 
-    old "{size=+7}Stop playing along and start eating!!!"
-    new "{size=+7}Stop playing along and start eating!!!"
+    # script.rpy:5232
 
-    old "When I follow the thread of a soul, I can witness everything it has learned, lived, and felt, as if it were my own."
-    new "When I follow the thread of a soul, I can witness everything it has learned, lived, and felt, as if it were my own."
+    # script.rpy:8633
 
-    old "We finished all the preparations."
-    new "We finished all the preparations."
+    # script.rpy:3359
 
-    old "I am at my limit!"
-    new "I am at my limit!"
+    # script.rpy:5447
 
-    old "I-I sat down to rest there, and when I opened my eyes I was here..."
-    new "I-I sat down to rest there, and when I opened my eyes I was here..."
+    # script.rpy:4020
 
-    old "They sound quite harsh."
-    new "They sound quite harsh."
+    # script.rpy:4338
 
-    old "I live it, too."
-    new "I live it, too."
+    # script.rpy:8629
 
-    old "You know that because of my weakness Alice punishes me by not allowing me to do extra work."
-    new "You know that because of my weakness Alice punishes me by not allowing me to do extra work."
+    # script.rpy:5915
 
-    old "Why don't we talk in the living room while Shika recovers from your deadly attack?"
-    new "Why don't we talk in the living room while Shika recovers from your deadly attack?"
+    # script.rpy:2641
 
-    old "Don't compare me to that idiot."
-    new "Don't compare me to that idiot."
+    # script.rpy:4152
 
-    old "And my girls haven't been able to rest since we started this whole thing."
-    new "And my girls haven't been able to rest since we started this whole thing."
+    # script.rpy:3403
 
-    old "And they left you alone to set the table?"
-    new "And they left you alone to set the table?"
+    # script.rpy:8663
 
-    old "{i}{size=-10}What an annoying kitten."
-    new "{i}{size=-10}What an annoying kitten."
+    # script.rpy:6170
 
-    old "If no one came to check, {w}this place must be far from civilization."
-    new "If no one came to check, {w}this place must be far from civilization."
+    # script.rpy:876
 
-    old "I'll take it from here."
-    new "I'll take it from here."
+    # script.rpy:4164
 
-    old "That's not something I want to hear."
-    new "That's not something I want to hear."
+    # script.rpy:4831
 
-    old "If it weren't for this huge penis {image=/bg/icons/heart_text.png}, I'd think you were just a kid sucking breasts."
-    new "If it weren't for this huge penis {image=/bg/icons/heart_text.png}, I'd think you were just a kid sucking breasts."
+    # script.rpy:4404
 
-    old "This is a place totally related to wood."
-    new "This is a place totally related to wood."
+    # script.rpy:3380
 
-    old "She already knew how to fight people, and her ability left me paralyzed."
-    new "She already knew how to fight people, and her ability left me paralyzed."
+    # script.rpy:6209
 
-    old "To sum it up..."
-    new "To sum it up..."
+    # script.rpy:695
 
-    old "Oh, at what point did I take it off?"
-    new "Oh, at what point did I take it off?"
+    # script.rpy:7027
 
-    old "So I am checking every corner of the surroundings of this village."
-    new "So I am checking every corner of the surroundings of this village."
+    # script.rpy:6948
 
-    old "Have you ever thought about what it's like to have children or a family?"
-    new "Have you ever thought about what it's like to have children or a family?"
+    # script.rpy:8704
 
-    old "Well, it doesn't matter."
-    new "Well, it doesn't matter."
+    # script.rpy:7384
 
-    old "Unless... {w}{size=-10}you don't want to be with me..."
-    new "Unless... {w}{size=-10}you don't want to be with me..."
+    # script.rpy:4876
 
-    old "Look what you did!"
-    new "Look what you did!"
+    # script.rpy:5081
 
-    old "You seemed to know a lot about this place."
-    new "You seemed to know a lot about this place."
+    # script.rpy:4663
 
-    old "H-Hey! {w}What are you doing, you can barely stand up!"
-    new "H-Hey! {w}What are you doing, you can barely stand up!"
+    # script.rpy:6244
 
-    old "Can you stop that? We are about to start the meeting..."
-    new "Can you stop that? We are about to start the meeting..."
+    # script.rpy:8124
 
-    old "So you're all muscle, no brains, huh?"
-    new "So you're all muscle, no brains, huh?"
+    # script.rpy:2513
 
-    old "R-Really? And why are you still looking like a perverted idiot?"
-    new "R-Really? And why are you still looking like a perverted idiot?"
+    # script.rpy:5690
 
-    old "Annoying."
-    new "Annoying."
+    # script.rpy:6185
 
-    old "I should see if I can find any missions on the adventurers' board."
-    new "I should see if I can find any missions on the adventurers' board."
+    # script.rpy:7127
 
-    old "I'll gladly take it."
-    new "I'll gladly take it."
+    # script.rpy:552
 
-    old "That was a rather peculiar experience."
-    new "That was a rather peculiar experience."
+    # script.rpy:4495
 
-    old "What? {w}You don't like the idea?"
-    new "What? {w}You don't like the idea?"
+    # script.rpy:5832
 
-    old "{size=-8}And don't come back hurt..."
-    new "{size=-8}And don't come back hurt..."
+    # script.rpy:5715
 
-    old "It'd be great if I could catch some fish."
-    new "It'd be great if I could catch some fish."
+    # script.rpy:903
 
-    old "Thanks for showing us around!"
-    new "Thanks for showing us around!"
+    # script.rpy:4600
 
-    old "Three wolves..."
-    new "Three wolves..."
+    # script.rpy:1620
 
-    old "{size=+9}Right girls!?"
-    new "{size=+9}Right girls!?"
+    # script.rpy:2722
 
-    old "Even if it's close, I don't want anything happening to either of them."
-    new "Even if it's close, I don't want anything happening to either of them."
+    # script.rpy:3746
 
-    old "Since I had no way to get medicinal plants before, creating potions for the village was no longer an option."
-    new "Since I had no way to get medicinal plants before, creating potions for the village was no longer an option."
+    # script.rpy:7777
 
-    old "Give me your wrist..."
-    new "Give me your wrist..."
+    # script.rpy:4448
 
-    old "This brings back a lot of memories."
-    new "This brings back a lot of memories."
+    # script.rpy:4658
 
-    old "It must have caused a lot of noise..."
-    new "It must have caused a lot of noise..."
+    # script.rpy:874
 
-    old "I think you've been watching mortals too much lately."
-    new "I think you've been watching mortals too much lately."
+    # script.rpy:8706
 
-    old "N-No... I just came to-"
-    new "N-No... I just came to-"
+    # script.rpy:2560
 
-    old "We'd better get this over with before we run out of time~"
-    new "We'd better get this over with before we run out of time~"
+    # script.rpy:2026
 
-    old "This is the first time I put two things."
-    new "This is the first time I put two things."
+    # script.rpy:8065
 
-    old "I... {w}I'll pass."
-    new "I... {w}I'll pass."
+    # script.rpy:8367
 
-    old "Ah~{image=corazon} {w}H-How much bigger can you get?~{image=corazon}"
-    new "Ah~{image=corazon} {w}H-How much bigger can you get?~{image=corazon}"
+    # script.rpy:2017
 
-    old "{size=-8}I was stopped by a goddess named Fumiko!"
-    new "{size=-8}I was stopped by a goddess named Fumiko!"
+    # script.rpy:2129
 
-    old "I didn't make a mistake on purpose just so you don't want to show it!"
-    new "I didn't make a mistake on purpose just so you don't want to show it!"
+    # script.rpy:7573
 
-    old "{size=-6}{i}Hmm... full body pillow, \"Leader's Edition\" or \"[mc]'s Edition\"."
-    new "{size=-6}{i}Hmm... full body pillow, \"Leader's Edition\" or \"[mc]'s Edition\"."
+    # script.rpy:7682
 
-    old "It's not good to overdo it right after waking up."
-    new "It's not good to overdo it right after waking up."
+    # script.rpy:2281
 
-    old "I'm sure you've already noticed..."
-    new "I'm sure you've already noticed..."
+    # script.rpy:1474
 
-    old "Do you want to cry on your mother's chest now?!"
-    new "Do you want to cry on your mother's chest now?!"
+    # script.rpy:4842
 
-    old "Mmm? What kind of nightmare?"
-    new "Mmm? What kind of nightmare?"
+    # script.rpy:2782
 
-    old "{size=-10}I don't know... I feel that something's bothering me."
-    new "{size=-10}I don't know... I feel that something's bothering me."
+    # script.rpy:4096
 
-    old "So she really has been watching me..."
-    new "So she really has been watching me..."
+    # script.rpy:1881
 
-    old "Let's go home. Ryoko must be worried."
-    new "Let's go home. Ryoko must be worried."
+    # script.rpy:4540
 
-    old "{size=-10}Time is running out..."
-    new "{size=-10}Time is running out..."
+    # script.rpy:4862
 
-    old "Such a busy man decided to come visit me."
-    new "Such a busy man decided to come visit me."
+    # script.rpy:7771
 
-    old "{i}{size=-6}I may have drawn too many indications..."
-    new "{i}{size=-6}I may have drawn too many indications..."
+    # script.rpy:7905
 
-    old "{size=-10}It looks like we will be staying a while longer."
-    new "{size=-10}It looks like we will be staying a while longer."
+    # script.rpy:4646
 
-    old "There you go..."
-    new "There you go..."
+    # script.rpy:8077
 
-    old "Hahaha, she's been pretty quiet even though all this means jobs for her."
-    new "Hahaha, she's been pretty quiet even though all this means jobs for her."
+    # script.rpy:8264
 
-    old "You know monsters, {w}magic... {w}bad people."
-    new "You know monsters, {w}magic... {w}bad people."
+    # script.rpy:549
 
-    old "Cleaning up all that mess was a big job, but we all helped..."
-    new "Cleaning up all that mess was a big job, but we all helped..."
+    # script.rpy:6844
 
-    old "Haven't anyone told you how annoying you are?"
-    new "Haven't anyone told you how annoying you are?"
+    # script.rpy:6213
 
-    old "Did I just bump into someone?"
-    new "Did I just bump into someone?"
+    # script.rpy:2485
 
     old "Y-You just answered me!"
     new "Y-You just answered me!"
 
-    old "I was wondering what could entertain a goddess if they can see everything."
-    new "I was wondering what could entertain a goddess if they can see everything."
+    # script.rpy:699
 
-    old "What?! {w}Are there even more enemies? {w}And that one even cooks especially for you!?"
-    new "What?! {w}Are there even more enemies? {w}And that one even cooks especially for you!?"
+    # script.rpy:5938
 
-    old "I'll go get her right now."
-    new "I'll go get her right now."
+    # script.rpy:2673
 
-    old "I can't give you many details but..."
-    new "I can't give you many details but..."
+    # script.rpy:704
 
-    old "Y-Yeah, we will only talk about the problems of the village, won't we?"
-    new "Y-Yeah, we will only talk about the problems of the village, won't we?"
+    # script.rpy:8100
 
-    old "Not necessarily. She's not separate from me, everything she learns and feels."
-    new "Not necessarily. She's not separate from me, everything she learns and feels."
+    # script.rpy:8628
 
-    old "Although, I think they were pretty much abandoned, you might have to invest in materials and stuff."
-    new "Although, I think they were pretty much abandoned, you might have to invest in materials and stuff."
+    # script.rpy:3175
 
-    old "You look so much like her. It makes me sick."
-    new "You look so much like her. It makes me sick."
+    # script.rpy:4080
 
-    old "Ryoko? Do your feet hurt?"
-    new "Ryoko? Do your feet hurt?"
+    # script.rpy:1567
 
-    old "She bit her tongue..."
-    new "She bit her tongue..."
+    # script.rpy:7355
 
-    old "That girl was way too strong... {w}If we had kept fighting, I would've-"
-    new "That girl was way too strong... {w}If we had kept fighting, I would've-"
+    # script.rpy:3936
 
-    old "I feel Keiko's magic..."
-    new "I feel Keiko's magic..."
+    # script.rpy:4183
 
-    old "Is something wrong, Human?"
-    new "Is something wrong, Human?"
+    # script.rpy:5339
 
-    old "I'm screwed... {w}but if I do nothing, {w}we'll both die here."
-    new "I'm screwed... {w}but if I do nothing, {w}we'll both die here."
+    # script.rpy:1622
 
-    old "Akane continues to research possible recipes to help better control her bloodlust."
-    new "Akane continues to research possible recipes to help better control her bloodlust."
+    # script.rpy:5120
 
-    old "She was here a moment ago."
-    new "She was here a moment ago."
+    # script.rpy:8268
 
-    old "What the hell was that I saw? It was like I was blinking really fast."
-    new "What the hell was that I saw? It was like I was blinking really fast."
+    # script.rpy:5997
 
-    old "Hahaha, relax, it's not going anywhere."
-    new "Hahaha, relax, it's not going anywhere."
+    # script.rpy:3228
 
-    old "Whose voice was that?"
-    new "Whose voice was that?"
+    # script.rpy:3926
 
-    old "A m-mask? {w}Why do y-you want to h-hide your face?"
-    new "A m-mask? {w}Why do y-you want to h-hide your face?"
+    # script.rpy:7298
 
-    old "You haven't moved since I arrived..."
-    new "You haven't moved since I arrived..."
+    # script.rpy:4527
 
-    old "Aaah, I'm bored already."
-    new "Aaah, I'm bored already."
+    # script.rpy:4104
 
-    old "You talk like you knew this was going to happen all along."
-    new "You talk like you knew this was going to happen all along."
+    # script.rpy:8522
 
-    old "Oh, all right."
-    new "Oh, all right."
+    # script.rpy:7651
 
-    old "But anyway, sorry, I'll be more careful next time."
-    new "But anyway, sorry, I'll be more careful next time."
+    # script.rpy:7924
 
-    old "From what she has told me, the {w}\"soldier girl\"{w}, which is what she calls Yui, {w}cannot cover all the sectors of this place."
-    new "From what she has told me, the {w}\"soldier girl\"{w}, which is what she calls Yui, {w}cannot cover all the sectors of this place."
+    # script.rpy:5052
 
-    old "I didn't want it to end like that... {w}but I had no choice."
-    new "I didn't want it to end like that... {w}but I had no choice."
+    # script.rpy:1872
 
-    old "M-Maybe it was just my imagination... {w}Thanks, Ryoko."
-    new "M-Maybe it was just my imagination... {w}Thanks, Ryoko."
+    # script.rpy:1543
 
-    old "{size=-13}Not---ng, I'll expla-- it to you another t---."
-    new "{size=-13}Not---ng, I'll expla-- it to you another t---."
+    # script.rpy:2187
 
-    old "The girls can handle it. They haven't endured their training for nothing."
-    new "The girls can handle it. They haven't endured their training for nothing."
+    # script.rpy:2720
 
-    old "M-Miss Yui!"
-    new "M-Miss Yui!"
+    # script.rpy:3318
 
-    old "Wait, {w}how did you know I already am?"
-    new "Wait, {w}how did you know I already am?"
+    # script.rpy:5746
 
-    old "I have to go somewhere."
-    new "I have to go somewhere."
+    # script.rpy:6121
 
-    old "They don't seem to take the no-intervention rule very seriously..."
-    new "They don't seem to take the no-intervention rule very seriously..."
+    # script.rpy:833
 
-    old "According to everyone, gods and demons are like cats and dogs."
-    new "According to everyone, gods and demons are like cats and dogs."
+    # script.rpy:3491
 
-    old "I stopped hearing her voice and now I see strange things?"
-    new "I stopped hearing her voice and now I see strange things?"
+    # script.rpy:6000
 
-    old "{size=-8}Answer or I will consider you my enemy."
-    new "{size=-8}Answer or I will consider you my enemy."
+    # script.rpy:6135
 
-    old "Oh! Sorry about that."
-    new "Oh! Sorry about that."
+    # script.rpy:2540
 
-    old "{i}You hear someone humming in the distance."
-    new "{i}You hear someone humming in the distance."
+    # script.rpy:1792
 
-    old "Are you ready? {w}Let's go..."
-    new "Are you ready? {w}Let's go..."
+    # script.rpy:5170
 
-    old "And just for that."
-    new "And just for that."
+    # script.rpy:7986
 
-    old "{size=+6}[mc] Idiiioooooot!!!"
-    new "{size=+6}[mc] Idiiioooooot!!!"
+    # script.rpy:5806
 
-    old "I mean... {w}I want to spend some more time with you before I leave..."
-    new "I mean... {w}I want to spend some more time with you before I leave..."
+    # script.rpy:5332
 
-    old "Chunchunmaru...?"
-    new "Chunchunmaru...?"
+    # script.rpy:841
 
-    old "We are on time!"
-    new "We are on time!"
+    # script.rpy:5287
 
-    old "If you can come closer please."
-    new "If you can come closer please."
+    # script.rpy:8219
 
-    old "You, {w}blondie, {w}tell the one in front to stop looking at me like that."
-    new "You, {w}blondie, {w}tell the one in front to stop looking at me like that."
+    # script.rpy:6328
 
-    old "If you were to clean it, would you let me take care of it?"
-    new "If you were to clean it, would you let me take care of it?"
+    # script.rpy:8255
 
-    old "I-I'm not used to fighting so many at o-once."
-    new "I-I'm not used to fighting so many at o-once."
+    # script.rpy:1663
 
-    old "More to the left! No! Your other left!"
-    new "More to the left! No! Your other left!"
+    # script.rpy:8122
 
-    old "Stones with symbols?"
-    new "Stones with symbols?"
+    # script.rpy:4022
 
-    old "Hey.. {w}Thank-"
-    new "Hey.. {w}Thank-"
+    # script.rpy:3064
 
-    old "Right! I'll bring it to you!"
-    new "Right! I'll bring it to you!"
+    # script.rpy:3223
 
-    old "Ah, {w}do you know if there are any villages or towns nearby?"
-    new "Ah, {w}do you know if there are any villages or towns nearby?"
+    # script.rpy:1517
 
-    old "Well, {w}you should go home now~"
-    new "Well, {w}you should go home now~"
+    # script.rpy:4724
 
-    old "Do you know where we are?"
-    new "Do you know where we are?"
+    # script.rpy:1507
 
-    old "But the feeling that I am forgetting something is still there..."
-    new "But the feeling that I am forgetting something is still there..."
+    # script.rpy:5931
 
     old "You start looking for flat ground to prepare the fire."
     new "You start looking for flat ground to prepare the fire."
 
-    old "Still not leaving?"
-    new "Still not leaving?"
+    # script.rpy:5647
 
-    old "You know, [mc]... love between goddesses and mortals is forbidden..."
-    new "You know, [mc]... love between goddesses and mortals is forbidden..."
+    # script.rpy:1952
 
-    old "I'll use my power. I need you to be ready for when I can't \"take it anymore\"."
-    new "I'll use my power. I need you to be ready for when I can't \"take it anymore\"."
+    # script.rpy:2872
 
-    old "{size=-6}They came out of nowhere..."
-    new "{size=-6}They came out of nowhere..."
+    # script.rpy:1599
 
-    old "Better this way, now it is not necessary for me to tell him."
-    new "Better this way, now it is not necessary for me to tell him."
+    # script.rpy:7634
 
-    old "I feel so stupid."
-    new "I feel so stupid."
+    # script.rpy:3823
 
-    old "So? What are you doing?"
-    new "So? What are you doing?"
+    # script.rpy:7926
 
-    old "With a cute face like that, {w}I couldn't help but play along..."
-    new "With a cute face like that, {w}I couldn't help but play along..."
+    # script.rpy:7485
 
-    old "A cat... {w}no, {w}fox girl?"
-    new "A cat... {w}no, {w}fox girl?"
+    # script.rpy:622
 
-    old "You know a lot about it."
-    new "You know a lot about it."
+    # script.rpy:5776
 
-    old "Thanks to Natsuki's directions, it didn't take me long to get there."
-    new "Thanks to Natsuki's directions, it didn't take me long to get there."
+    # script.rpy:8436
 
-    old "Like the trees..."
-    new "Like the trees..."
+    # script.rpy:971
 
-    old "Y-Yui? {w}The same Yui? {w}Did she just kiss my cheek?"
-    new "Y-Yui? {w}The same Yui? {w}Did she just kiss my cheek?"
+    # script.rpy:5809
 
-    old "Better now that I'm in a place I know..."
-    new "Better now that I'm in a place I know..."
+    # script.rpy:4216
 
-    old "{size=-8}... {w}Isn't it enough for you to know that I'm not on either side?"
-    new "{size=-8}... {w}Isn't it enough for you to know that I'm not on either side?"
+    # script.rpy:6134
 
-    old "{size=-10}Oiii~ {w}I'm talking to you~"
-    new "{size=-10}Oiii~ {w}I'm talking to you~"
+    # script.rpy:6208
 
-    old "{size=-10}Do you know of any?"
-    new "{size=-10}Do you know of any?"
+    # script.rpy:6302
 
-    old "Clap* {w}Clap* {w}Clap*"
-    new "Clap* {w}Clap* {w}Clap*"
+    # script.rpy:6461
 
-    old "Why am I covered in blood, and why are we sleeping on the floor with Shika?"
-    new "Why am I covered in blood, and why are we sleeping on the floor with Shika?"
+    # script.rpy:6801
 
-    old "Don't take too long~{image=corazon}{image=corazon}"
-    new "Don't take too long~{image=corazon}{image=corazon}"
+    # script.rpy:1843
 
-    old "And have you met new people Master?"
-    new "And have you met new people Master?"
+    # script.rpy:5372
 
-    old "Don't ignore me..."
-    new "Don't ignore me..."
+    # script.rpy:7686
 
-    old "Well, {w}things have changed, {w}now either you surrender or we kill them all and take only the demon."
-    new "Well, {w}things have changed, {w}now either you surrender or we kill them all and take only the demon."
+    # script.rpy:6371
 
-    old "{i}You put on your clothes and prepare to leave the room."
-    new "{i}You put on your clothes and prepare to leave the room."
+    # script.rpy:2256
 
-    old "{size=-7}Sorry to interrupt."
-    new "{size=-7}Sorry to interrupt."
+    # script.rpy:5291
 
-    old "Every time I mention the demon your gaze looks worse."
-    new "Every time I mention the demon your gaze looks worse."
+    # script.rpy:6337
 
-    old "{i}My answer is quite clear."
-    new "{i}My answer is quite clear."
+    # script.rpy:726
 
-    old "{color=#6998bc}{size=-8}Shh! Don't be rude!"
-    new "{color=#6998bc}{size=-8}Shh! Don't be rude!"
+    # script.rpy:2386
 
-    old "I have nothing to do today, I could go visit Hana."
-    new "I have nothing to do today, I could go visit Hana."
+    # script.rpy:7691
 
-    old "{size=-6}Okay, okay, I got it."
-    new "{size=-6}Okay, okay, I got it."
+    # script.rpy:2686
 
-    old "{size=-8}What were you doing?"
-    new "{size=-8}What were you doing?"
+    # script.rpy:1339
 
-    old "I see you have competent people after all."
-    new "I see you have competent people after all."
+    # script.rpy:6464
 
-    old "Okay, I won't ask any more questions this time."
-    new "Okay, I won't ask any more questions this time."
+    # script.rpy:7503
 
-    old "{sc=1}{outlinecolor=#000000}{size=-8}GaaAaahhgg!!"
-    new "{sc=1}{outlinecolor=#000000}{size=-8}GaaAaahhgg!!"
+    # script.rpy:4202
 
-    old "And I don't think you're disgusting. {w}You're actually really cute."
-    new "And I don't think you're disgusting. {w}You're actually really cute."
+    # script.rpy:1217
 
-    old "I can see that your time is still moving."
-    new "I can see that your time is still moving."
+    # script.rpy:4067
 
-    old "I think this must be it, it's right in front of the hot springs."
-    new "I think this must be it, it's right in front of the hot springs."
+    # script.rpy:7148
 
-    old "{size=-10}I told you not to say anything!"
-    new "{size=-10}I told you not to say anything!"
+    # script.rpy:5224
 
-    old "What's up? {w}Not hungry?"
-    new "What's up? {w}Not hungry?"
+    # script.rpy:5214
 
-    old "I feel much better now, and it's all thanks to you"
-    new "I feel much better now, and it's all thanks to you"
+    # script.rpy:2276
 
-    old "Eh? {w}What did you say?"
-    new "Eh? {w}What did you say?"
+    # script.rpy:7576
 
-    old "I screamed for help for a long time, but no one answered."
-    new "I screamed for help for a long time, but no one answered."
+    # script.rpy:2295
 
-    old "W-What? {w}Then who warned me at the start of the fight?"
-    new "W-What? {w}Then who warned me at the start of the fight?"
+    # script.rpy:1537
 
-    old "What's that?"
-    new "What's that?"
+    # script.rpy:1351
 
-    old "If you help me with something."
-    new "If you help me with something."
+    # script.rpy:646
 
-    old "I could approach those stones where I first arrived..."
-    new "I could approach those stones where I first arrived..."
+    # script.rpy:3621
 
-    old "Don't you think that decision is a bit drastic?"
-    new "Don't you think that decision is a bit drastic?"
+    # script.rpy:4005
 
-    old "I think it looks g-"
-    new "I think it looks g-"
+    # script.rpy:7907
 
-    old "I'll {w}never see you again..."
-    new "I'll {w}never see you again..."
+    # script.rpy:3562
 
-    old "Now because of that, we have gone through some difficult times."
-    new "Now because of that, we have gone through some difficult times."
+    # script.rpy:8149
 
-    old "You are lying again, you still have it on!"
-    new "You are lying again, you still have it on!"
+    # script.rpy:5034
 
-    old "{size=-6}This is a great discovery."
-    new "{size=-6}This is a great discovery."
+    # script.rpy:7408
 
-    old "Doctor, {w}please... {w}get up, {w}I will not misbehave again..."
-    new "Doctor, {w}please... {w}get up, {w}I will not misbehave again..."
+    # script.rpy:6704
 
-    old "I remember when she told me that as long as the other goddesses didn't know, nothing would happen."
-    new "I remember when she told me that as long as the other goddesses didn't know, nothing would happen."
+    # script.rpy:4343
 
-    old "Are you coming for tea?"
-    new "Are you coming for tea?"
+    # script.rpy:8644
 
-    old "It took a while, but at least I won't starve on my first day."
-    new "It took a while, but at least I won't starve on my first day."
+    # script.rpy:915
 
-    old "I should come back another day, it hasn't been long since they started working on my clothes."
-    new "I should come back another day, it hasn't been long since they started working on my clothes."
+    # script.rpy:7141
 
     old "I was too careless..."
     new "I was too careless..."
 
-    old "Buuji jiji."
-    new "Buuji jiji."
+    # script.rpy:2971
 
-    old "{size=-8}And I think too much."
-    new "{size=-8}And I think too much."
+    # script.rpy:755
 
-    old "When I arrived, I was unconscious and wounded."
-    new "When I arrived, I was unconscious and wounded."
+    # script.rpy:2697
 
-    old "How did you build this place so fast?"
-    new "How did you build this place so fast?"
+    # script.rpy:3353
 
     old "You're getting stronger! Soon we'll be able to-"
     new "You're getting stronger! Soon we'll be able to-"
 
-    old "And colorful..."
-    new "And colorful..."
+    # script.rpy:4775
 
-    old "If he does not keep his promise, {w}I will kill him."
-    new "If he does not keep his promise, {w}I will kill him."
+    # script.rpy:6239
 
-    old "I'm a fast learner."
-    new "I'm a fast learner."
+    # script.rpy:3164
 
-    old "Y-Yes...{image=corazon} {w}so-sorry... {w}I can't help i-it if Master hits me so haaaard~{image=corazon}{image=corazon}"
-    new "Y-Yes...{image=corazon} {w}so-sorry... {w}I can't help i-it if Master hits me so haaaard~{image=corazon}{image=corazon}"
+    # script.rpy:5509
 
-    old "{size=-10}They seem to be talking... {w}those girls are super brave to confront so many."
-    new "{size=-10}They seem to be talking... {w}those girls are super brave to confront so many."
+    # script.rpy:6298
 
-    old "Yes! {w}As long as you keep your promise and leave without hurting anyone!"
-    new "Yes! {w}As long as you keep your promise and leave without hurting anyone!"
+    # script.rpy:2605
 
-    old "O-Of course! {size=-6}I like you..."
-    new "O-Of course! {size=-6}I like you..."
+    # script.rpy:1930
 
-    old "They killed him!"
-    new "They killed him!"
+    # script.rpy:2967
 
-    old "H-Here is the cape, give m-me a second to b-bring you the rest."
-    new "H-Here is the cape, give m-me a second to b-bring you the rest."
+    # script.rpy:7519
 
-    old "I have to think of some-"
-    new "I have to think of some-"
+    # script.rpy:1022
 
-    old "Just so you know, I'm trained to kill!"
-    new "Just so you know, I'm trained to kill!"
+    # script.rpy:2559
 
-    old "It was already here before, we just fixed it."
-    new "It was already here before, we just fixed it."
+    # script.rpy:3354
 
-    old "GnGNhgnmnMnyaa~{image=corazon}{image=corazon}{image=corazon}"
-    new "GnGNhgnmnMnyaa~{image=corazon}{image=corazon}{image=corazon}"
+    # script.rpy:5601
 
-    old "Don't you ever learn?"
-    new "Don't you ever learn?"
+    # script.rpy:8773
 
-    old "And she just walks away?"
-    new "And she just walks away?"
+    # script.rpy:3934
 
-    old "Mayu, did you hear that? {w}Time to start preparing the tools."
-    new "Mayu, did you hear that? {w}Time to start preparing the tools."
+    # script.rpy:8263
 
-    old "{sc=2}{outlinecolor=#000000}Shit...! No time to switch hands!"
-    new "{sc=2}{outlinecolor=#000000}Shit...! No time to switch hands!"
+    # script.rpy:1089
 
-    old "{sc=3}{outlinecolor=#000000}She is dead{/sc}, {w}I mean, {w=0.5}Mayu fainted."
-    new "{sc=3}{outlinecolor=#000000}She is dead{/sc}, {w}I mean, {w=0.5}Mayu fainted."
+    # script.rpy:8280
 
-    old "Which thing? {w}A chair?"
-    new "Which thing? {w}A chair?"
+    # script.rpy:8067
 
-    old "I don't know why I hadn't thought of that, so thanks for mentioning it Tomoe."
-    new "I don't know why I hadn't thought of that, so thanks for mentioning it Tomoe."
+    # script.rpy:8216
 
-    old "I should find a way to test my skills..."
-    new "I should find a way to test my skills..."
+    # script.rpy:968
 
-    old "Don't worry~{image=corazon} {w}You wouldn't be here if I didn't want you to be."
-    new "Don't worry~{image=corazon} {w}You wouldn't be here if I didn't want you to be."
+    # script.rpy:1823
 
-    old "{image=corazon}Everyone's affection has increased!{image=corazon}"
-    new "{image=corazon}Everyone's affection has increased!{image=corazon}"
+    # script.rpy:8416
 
-    old "You are right... {w}it's like a massage..."
-    new "You are right... {w}it's like a massage..."
+    # script.rpy:5417
 
-    old "I wonder when was the last time I felt so at peace..."
-    new "I wonder when was the last time I felt so at peace..."
+    # script.rpy:5813
 
-    old "What will I tell Hana..."
-    new "What will I tell Hana..."
+    # script.rpy:7044
 
-    old "Maybe it's just my imagination...."
-    new "Maybe it's just my imagination...."
+    # script.rpy:2792
 
-    old "I don't think I've gone to that gate yet."
-    new "I don't think I've gone to that gate yet."
+    # script.rpy:3306
 
-    old "There's only one way to find out..."
-    new "There's only one way to find out..."
+    # script.rpy:1026
 
-    old "N-No, it's nothing..."
-    new "N-No, it's nothing..."
+    # script.rpy:5980
 
-    old "It makes sense."
-    new "It makes sense."
+    # script.rpy:7182
 
     old "{outlinecolor=#000000}{i}Breathe... control your mind, [mc]."
     new "{outlinecolor=#000000}{i}Breathe... control your mind, [mc]."
 
-    old "You really won't do anything to me?"
-    new "You really won't do anything to me?"
+    # script.rpy:1198
 
-    old "{size=-10}It's amazing how long it takes you to get dressed."
-    new "{size=-10}It's amazing how long it takes you to get dressed."
+    # script.rpy:5164
 
-    old "You can wait for her if you need both of us to listen to you."
-    new "You can wait for her if you need both of us to listen to you."
+    # script.rpy:7185
 
-    old "Boss, {w}leave him to me."
-    new "Boss, {w}leave him to me."
+    # script.rpy:6567
 
-    old "Yes, Master!"
-    new "Yes, Master!"
+    # script.rpy:1500
 
-    old "Sayori's punches are serious business {w}and you haven't been dodging even 70 percent of them."
-    new "Sayori's punches are serious business {w}and you haven't been dodging even 70 percent of them."
+    # script.rpy:5921
 
-    old "You got lost, and you found me here?"
-    new "You got lost, and you found me here?"
+    # script.rpy:4506
 
-    old "I won't change who I am."
-    new "I won't change who I am."
+    # script.rpy:1905
 
-    old "So it's not the end yet."
-    new "So it's not the end yet."
+    # script.rpy:600
 
-    old "Mmm... {w}you have to lower your head more, try to make your shoulders touch the floor but not your butt."
-    new "Mmm... {w}you have to lower your head more, try to make your shoulders touch the floor but not your butt."
+    # script.rpy:5198
 
-    old "Are you defending her?"
-    new "Are you defending her?"
+    # script.rpy:8719
 
-    old "I recovered my senses."
-    new "I recovered my senses."
+    # script.rpy:6266
 
-    old "Oh my~ {w}I'm the luckiest girl."
-    new "Oh my~ {w}I'm the luckiest girl."
+    # script.rpy:7770
 
-    old "You are right, {w}the human takes his time when bathing."
-    new "You are right, {w}the human takes his time when bathing."
+    # script.rpy:5288
 
-    old "Shika, can you prepare the table in the meantime? I need to talk to Keiko."
-    new "Shika, can you prepare the table in the meantime? I need to talk to Keiko."
+    # script.rpy:8646
 
-    old "{sc=2}{outlinecolor=#000000}Aaaaaaaah!"
-    new "{sc=2}{outlinecolor=#000000}Aaaaaaaah!"
+    # script.rpy:1678
 
-    old "{size=-10}You are suffocating!"
-    new "{size=-10}You are suffocating!"
+    # script.rpy:4894
 
-    old "{sc=1}{outlinecolor=#000000}NooOoOOoo~"
-    new "{sc=1}{outlinecolor=#000000}NooOoOOoo~"
+    # script.rpy:3763
 
-    old "Yes... {w}I think I needed that..."
-    new "Yes... {w}I think I needed that..."
+    # script.rpy:4417
 
-    old "And you want me to protect her?"
-    new "And you want me to protect her?"
+    # script.rpy:706
 
-    old "So... Keiko found someone interesting."
-    new "So... Keiko found someone interesting."
+    # script.rpy:638
 
-    old "It's been a long time since a human entertained me this much."
-    new "It's been a long time since a human entertained me this much."
+    # script.rpy:1883
 
-    old "{size=-6}{i}What's happening to me..."
-    new "{size=-6}{i}What's happening to me..."
+    # script.rpy:744
 
-    old "I-I don't know... {w}{size=-8}Gngn~{image=corazon}{/size} {w}but she has reinforced more the east zone..."
-    new "I-I don't know... {w}{size=-8}Gngn~{image=corazon}{/size} {w}but she has reinforced more the east zone..."
+    # script.rpy:5437
 
-    old "I wish that could be possible..."
-    new "I wish that could be possible..."
+    # script.rpy:6991
 
-    old "This is a good place to start."
-    new "This is a good place to start."
+    # script.rpy:2728
 
-    old "Maybe... {w} we could go together sometime?"
-    new "Maybe... {w} we could go together sometime?"
+    # script.rpy:4673
 
-    old "Ha! I got the hang of it!"
-    new "Ha! I got the hang of it!"
+    # script.rpy:6046
 
-    old "{color=#E4D8AA}Oh, how foolish of me to forget..."
-    new "{color=#E4D8AA}Oh, how foolish of me to forget..."
+    # script.rpy:2397
 
-    old "You don't do this in 2 minutes, I won't let you redo something you've been working on all day."
-    new "You don't do this in 2 minutes, I won't let you redo something you've been working on all day."
+    # script.rpy:7944
 
-    old "{i}{size=-10}I have to protect your village..."
-    new "{i}{size=-10}I have to protect your village..."
+    # script.rpy:6251
 
-    old "A man has been going in and out of this shitty town{w} and lately he has been seen leaving here with a disgusting and nasty demon."
-    new "A man has been going in and out of this shitty town{w} and lately he has been seen leaving here with a disgusting and nasty demon."
+    # script.rpy:6323
 
-    old "I won't let anything happen to her...."
-    new "I won't let anything happen to her...."
+    # script.rpy:1312
 
-    old "There's no one else here..."
-    new "There's no one else here..."
+    # script.rpy:2248
 
-    old "Or what? {w}Did he fuck you guys so much that your memory is failing you?"
-    new "Or what? {w}Did he fuck you guys so much that your memory is failing you?"
+    # script.rpy:6325
 
-    old "{sc=2}{outlinecolor=#000000}{size=-6}{i}Watch out!!"
-    new "{sc=2}{outlinecolor=#000000}{size=-6}{i}Watch out!!"
+    # script.rpy:1073
 
-    old "And just like that, I got my first... {w}partner..."
-    new "And just like that, I got my first... {w}partner..."
+    # script.rpy:1405
 
-    old "I didn't notice anything strange, are you sure you are sick?"
-    new "I didn't notice anything strange, are you sure you are sick?"
+    # script.rpy:7836
 
-    old "That doesn't make me any better than those guys. {w}I just left her behind!"
-    new "That doesn't make me any better than those guys. {w}I just left her behind!"
+    # script.rpy:1271
 
-    old "Orcs have more than one heart!"
-    new "Orcs have more than one heart!"
+    # script.rpy:3002
 
-    old "I don't blame you."
-    new "I don't blame you."
+    # script.rpy:4292
 
-    old "{size=-10}That's him!"
-    new "{size=-10}That's him!"
+    # script.rpy:2447
 
-    old "I too am glad to see you doing so much better~{image=corazon}"
-    new "I too am glad to see you doing so much better~{image=corazon}"
+    # script.rpy:7735
 
-    old "{size=-10}Look! It's the new guy."
-    new "{size=-10}Look! It's the new guy."
+    # script.rpy:2442
 
-    old "D-Don't worry, I'll hold you."
-    new "D-Don't worry, I'll hold you."
+    # script.rpy:5516
 
-    old "When are you going to learn to be a better judge of people."
-    new "When are you going to learn to be a better judge of people."
+    # script.rpy:5836
 
-    old "Take a bath with her?"
-    new "Take a bath with her?"
+    # script.rpy:1838
 
-    old "We have to go-"
-    new "We have to go-"
+    # script.rpy:5072
 
-    old "{size=-10}{i}And if I give you a passionate kiss right here, {w}what will they say?"
-    new "{size=-10}{i}And if I give you a passionate kiss right here, {w}what will they say?"
+    # script.rpy:6935
 
-    old "{sc=3}{outlinecolor=#000000}Ghn mhng ahg!~"
-    new "{sc=3}{outlinecolor=#000000}Ghn mhng ahg!~"
+    # script.rpy:7717
 
-    old "{size=-10}I'm so happy..."
-    new "{size=-10}I'm so happy..."
+    # script.rpy:6814
 
-    old "Thank you for inviting me."
-    new "Thank you for inviting me."
+    # script.rpy:205
 
-    old "Bye [mc], thanks to you the girls will be able to leave their homes."
-    new "Bye [mc], thanks to you the girls will be able to leave their homes."
+    # script.rpy:7097
 
-    old "And knowing that I'm the reason for it... makes it worse."
-    new "And knowing that I'm the reason for it... makes it worse."
+    # script.rpy:2227
 
-    old "What was that noise? {w}Master?"
-    new "What was that noise? {w}Master?"
+    # script.rpy:8557
 
-    old "Hehehe... your penis is swelling"
-    new "Hehehe... your penis is swelling"
+    # script.rpy:5519
 
-    old "Tell me, what do you need? I'll be happy to help you."
-    new "Tell me, what do you need? I'll be happy to help you."
+    # script.rpy:3395
 
-    old "What do you plan to build?"
-    new "What do you plan to build?"
+    # script.rpy:3404
 
-    old "Now tell me, how did you get here."
-    new "Now tell me, how did you get here."
+    # script.rpy:4014
 
-    old "There must be a way to contact the goddesses without having to almost die."
-    new "There must be a way to contact the goddesses without having to almost die."
+    # script.rpy:3617
 
-    old "She must have gone through something terrible..."
-    new "She must have gone through something terrible..."
+    # script.rpy:1209
 
-    old "That doesn't look like something I can stop by blocking..."
-    new "That doesn't look like something I can stop by blocking..."
+    # script.rpy:3914
 
-    old "At what point did this happen?"
-    new "At what point did this happen?"
+    # script.rpy:4360
 
-    old "Since we got back from Natsuki's visit and everything that has happened, she has been much more motivated."
-    new "Since we got back from Natsuki's visit and everything that has happened, she has been much more motivated."
+    # script.rpy:5016
 
-    old "May I know what these rules are...?"
-    new "May I know what these rules are...?"
+    # script.rpy:4331
 
-    old "{size=-10}C-Can we talk about it...?"
-    new "{size=-10}C-Can we talk about it...?"
+    # script.rpy:5560
 
-    old "Gaaghn! {w}GgaaGH!"
-    new "Gaaghn! {w}GgaaGH!"
+    # script.rpy:6475
 
-    old "{size=-10}Haanm...~{image=corazon} Haanm~{image=corazon}{image=corazon}"
-    new "{size=-10}Haanm...~{image=corazon} Haanm~{image=corazon}{image=corazon}"
+    # script.rpy:5539
 
-    old "Need something from the great Shika?!"
-    new "Need something from the great Shika?!"
+    # script.rpy:7700
 
-    old "F-Fofofor his head!? {w}Iris! He is dangerous, kick him o-!"
-    new "F-Fofofor his head!? {w}Iris! He is dangerous, kick him o-!"
+    # script.rpy:7320
 
-    old "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
-    new "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
+    # script.rpy:2644
 
-    old "Don't think I'll let you do it for free, everything has a reward."
-    new "Don't think I'll let you do it for free, everything has a reward."
+    # script.rpy:3415
 
-    old "I-I just think... {w}it's not a good idea to get too close..."
-    new "I-I just think... {w}it's not a good idea to get too close..."
+    # script.rpy:1864
 
-    old "I really hope she didn't put anything weird in this tea..."
-    new "I really hope she didn't put anything weird in this tea..."
+    # script.rpy:3986
 
-    old "She's touching it!"
-    new "She's touching it!"
+    # script.rpy:663
 
-    old "She already has everyone working as usual, as expected of Yui."
-    new "She already has everyone working as usual, as expected of Yui."
+    # script.rpy:6946
 
-    old "To become stronger-"
-    new "To become stronger-"
+    # script.rpy:4361
 
-    old "Then maybe I won't look so out of place when I show up in front of others."
-    new "Then maybe I won't look so out of place when I show up in front of others."
+    # script.rpy:1481
 
-    old "I'm suddenly feeling very religious..."
-    new "I'm suddenly feeling very religious..."
+    # script.rpy:1846
 
-    old "Ohh really?"
-    new "Ohh really?"
+    # script.rpy:4615
 
-    old "Now we've lost the doctor and I'm not going to let you go out and do crazy things anymore!"
-    new "Now we've lost the doctor and I'm not going to let you go out and do crazy things anymore!"
+    # script.rpy:6776
 
-    old "H-Hana? {w}I have a slight suspicion that you are trying to convince me."
-    new "H-Hana? {w}I have a slight suspicion that you are trying to convince me."
+    # script.rpy:7869
 
-    old "We think that maybe five people came back and took them away."
-    new "We think that maybe five people came back and took them away."
+    # script.rpy:7038
 
-    old "If I catch the timing I can coordinate it with me!"
-    new "If I catch the timing I can coordinate it with me!"
+    # script.rpy:6056
 
-    old "I'll keep your secret, and everyone will be happy!"
-    new "I'll keep your secret, and everyone will be happy!"
+    # script.rpy:722
 
-    old "Now I really like your look."
-    new "Now I really like your look."
+    # script.rpy:4435
 
-    old "Yeah, yeah, and I'm the protagonist of a visual novel."
-    new "Yeah, yeah, and I'm the protagonist of a visual novel."
+    # script.rpy:2627
 
-    old "It's just a bit farther than the lake. I won't be long."
-    new "It's just a bit farther than the lake. I won't be long."
+    # script.rpy:3745
 
-    old "Shika seems to have caused an explosion of magic..."
-    new "Shika seems to have caused an explosion of magic..."
+    # script.rpy:6762
 
-    old "{size=-6}Y-You're right... {w}I s-should be more professional."
-    new "{size=-6}Y-You're right... {w}I s-should be more professional."
+    # script.rpy:7379
 
-    old "I was coming for something else but a cup of tea wouldn't hurt."
-    new "I was coming for something else but a cup of tea wouldn't hurt."
+    # script.rpy:8645
 
-    old "Fufufu, just kidding~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    new "Fufufu, just kidding~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    # script.rpy:4383
 
-    old "And you start with that question?"
-    new "And you start with that question?"
+    # script.rpy:4362
 
-    old "I got a little out of control in the shower..."
-    new "I got a little out of control in the shower..."
+    # script.rpy:5637
 
     old "{outlinecolor=#000000}{i}You've seen the dark side up close..."
     new "{outlinecolor=#000000}{i}You've seen the dark side up close..."
 
-    old "{size=-7}{i}It looks like he stayed up all night keeping watch..."
-    new "{size=-7}{i}It looks like he stayed up all night keeping watch..."
+    # script.rpy:1325
 
-    old "Hahaha, initiative is in abundance in this girl."
-    new "Hahaha, initiative is in abundance in this girl."
+    # script.rpy:8168
 
-    old "I see... you don't have a name?"
-    new "I see... you don't have a name?"
+    # script.rpy:8397
 
     old "Fish also have categories! Each zone has different types. \nThe higher the category the harder it'll be for you to catch it!"
     new "Fish also have categories! Each zone has different types. \nThe higher the category the harder it'll be for you to catch it!"
 
-    old "{size=-10}Yes... {w}Haaa~~{image=corazon} {w}give me a few minutes..."
-    new "{size=-10}Yes... {w}Haaa~~{image=corazon} {w}give me a few minutes..."
+    # script.rpy:5618
 
-    old "You're finally awake!"
-    new "You're finally awake!"
+    # script.rpy:2270
 
-    old "Is there any way to see you again without going to the wrong place?"
-    new "Is there any way to see you again without going to the wrong place?"
+    # script.rpy:4443
 
-    old "W-What do we do, Miss Yui?"
-    new "W-What do we do, Miss Yui?"
+    # script.rpy:6380
 
-    old "This looks very delicious..."
-    new "This looks very delicious..."
+    # script.rpy:5209
 
-    old "Well, I'm just consider myself a merchant and my opinions are quite simple."
-    new "Well, I'm just consider myself a merchant and my opinions are quite simple."
+    # script.rpy:8192
 
-    old "I bet he has a huge p-"
-    new "I bet he has a huge p-"
+    # script.rpy:4589
 
-    old "It is true that you seem very distracted today..."
-    new "It is true that you seem very distracted today..."
+    # script.rpy:5924
 
-    old "S-Sorry, I sneezed."
-    new "S-Sorry, I sneezed."
+    # script.rpy:7917
 
-    old "{size=-6}If you got hurt or something... I'm going to be really upset.."
-    new "{size=-6}If you got hurt or something... I'm going to be really upset.."
+    # script.rpy:8570
 
-    old "{size=-6}I was distracted for just a second..."
-    new "{size=-6}I was distracted for just a second..."
+    # script.rpy:1690
 
-    old "Deal or no deal, I will not let anything bad happen to her."
-    new "Deal or no deal, I will not let anything bad happen to her."
+    # script.rpy:731
 
-    old "W-Why do you think that...?"
-    new "W-Why do you think that...?"
+    # script.rpy:1488
 
-    old "I don't need it! {w}I have to hurry back!"
-    new "I don't need it! {w}I have to hurry back!"
+    # script.rpy:6263
 
     old "{image=quest_text}You've received a new missions!"
     new "{image=quest_text}You've received a new missions!"
 
-    old "She's a different case..."
-    new "She's a different case..."
+    # script.rpy:4312
 
-    old "Mmm? What happened?"
-    new "Mmm? What happened?"
+    # script.rpy:8117
 
-    old "It is the best fish I have ever tasted..."
-    new "It is the best fish I have ever tasted..."
+    # script.rpy:5246
 
-    old "A-Are you talking about..."
-    new "A-Are you talking about..."
+    # script.rpy:7659
 
-    old "I don't want to wake them up, but I think I've lost all circulation in my body..."
-    new "I don't want to wake them up, but I think I've lost all circulation in my body..."
+    # script.rpy:8814
 
-    old "For the little time you have been practicing, you are making a lot of progress."
-    new "For the little time you have been practicing, you are making a lot of progress."
+    # script.rpy:5027
 
-    old "Keiko said it would enhance my physical abilities."
-    new "Keiko said it would enhance my physical abilities."
+    # script.rpy:964
 
-    old "But even though life feels peaceful, between fighting monsters and everything else-"
-    new "But even though life feels peaceful, between fighting monsters and everything else-"
+    # script.rpy:3684
 
-    old "Yes, I wasn't always so busy, you know?"
-    new "Yes, I wasn't always so busy, you know?"
+    # script.rpy:7776
 
-    old "This is my normal face my dear Akane."
-    new "This is my normal face my dear Akane."
+    # script.rpy:5691
 
-    old "{size=-10}{color=#319B85}Woah, it would take two of me to fill this."
-    new "{size=-10}{color=#319B85}Woah, it would take two of me to fill this."
+    # script.rpy:4931
 
-    old "You can't heal that kind of wound!"
-    new "You can't heal that kind of wound!"
+    # script.rpy:6722
 
-    old "She now does this without warning, {w}I should have known, {w}she always gets like a tomato when she's going to do this."
-    new "She now does this without warning, {w}I should have known, {w}she always gets like a tomato when she's going to do this."
+    # script.rpy:5180
 
-    old "And I am happy to see your beautiful face in the morning!"
-    new "And I am happy to see your beautiful face in the morning!"
+    # script.rpy:6960
 
-    old "Are you already having those dreams?"
-    new "Are you already having those dreams?"
+    # script.rpy:4268
 
-    old "Yes, we will both listen to you."
-    new "Yes, we will both listen to you."
+    # script.rpy:7289
 
-    old "If Mayu had not made it, it might have already been broken."
-    new "If Mayu had not made it, it might have already been broken."
+    # script.rpy:5031
 
-    old "Where to start..."
-    new "Where to start..."
+    # script.rpy:7291
 
-    old "My mother had wings... {w}and they called that girl Shika..."
-    new "My mother had wings... {w}and they called that girl Shika..."
+    # script.rpy:8801
 
-    old "I want you to be my Master!"
-    new "I want you to be my Master!"
+    # script.rpy:1378
 
-    old "I don't know how to talk to her after what we just did..."
-    new "I don't know how to talk to her after what we just did..."
+    # script.rpy:2092
 
-    old "We have no way of quickly warning if the village is in danger."
-    new "We have no way of quickly warning if the village is in danger."
+    # script.rpy:8197
 
-    old "I heard a very soft voice, whose was it?"
-    new "I heard a very soft voice, whose was it?"
+    # script.rpy:6082
 
-    old "Sorry for that interruption."
-    new "Sorry for that interruption."
+    # script.rpy:6485
 
-    old "No response..."
-    new "No response..."
+    # script.rpy:3060
 
-    old "But what she says makes a lot of sense..."
-    new "But what she says makes a lot of sense..."
+    # script.rpy:1393
 
-    old "You should get some rest too... {w}You've been awake since we arrived in the village."
-    new "You should get some rest too... {w}You've been awake since we arrived in the village."
+    # script.rpy:2222
 
     old "{image=corazon_wing}{color=#D16992}Ryoko{/color} has been added!"
     new "{image=corazon_wing}{color=#D16992}Ryoko{/color} has been added!"
 
-    old "Maybe they did it to attract more adventurers."
-    new "Maybe they did it to attract more adventurers."
+    # script.rpy:4671
 
-    old "HAHAHAHA!!"
-    new "HAHAHAHA!!"
+    # script.rpy:6662
 
-    old "Yes, {w}he looked at me a lot..."
-    new "Yes, {w}he looked at me a lot..."
+    # script.rpy:4583
 
-    old "{sc=1}{outlinecolor=#000000}Maybe you want to sell me, but I'm not worth much, {w}believe me!"
-    new "{sc=1}{outlinecolor=#000000}Maybe you want to sell me, but I'm not worth much, {w}believe me!"
+    # script.rpy:1165
 
-    old "I don't plan to drink anything made by vampires ever again."
-    new "I don't plan to drink anything made by vampires ever again."
+    # script.rpy:7788
 
-    old "{sc=3}{outlinecolor=#000000}Yes, yes, me!"
-    new "{sc=3}{outlinecolor=#000000}Yes, yes, me!"
+    # script.rpy:8163
 
-    old "I see why Keiko let you be reborn like this."
-    new "I see why Keiko let you be reborn like this."
+    # script.rpy:780
 
-    old "It's stuck in something..."
-    new "It's stuck in something..."
+    # script.rpy:3232
 
-    old "Of course, {w}thank you Akane."
-    new "Of course, {w}thank you Akane."
+    # script.rpy:5255
 
-    old "I haven't done anything yet."
-    new "I haven't done anything yet."
+    # script.rpy:7810
 
-    old "I did my best."
-    new "I did my best."
+    # script.rpy:637
 
-    old "Are you going alone?"
-    new "Are you going alone?"
+    # script.rpy:3738
 
-    old "But this time it's different."
-    new "But this time it's different."
+    # script.rpy:2698
 
-    old "If you don't, {w}I might just finish that fight you were about to lose."
-    new "If you don't, {w}I might just finish that fight you were about to lose."
+    # script.rpy:3946
 
-    old "And she continues talking..."
-    new "And she continues talking..."
+    # script.rpy:7723
 
-    old "Know your place!"
-    new "Know your place!"
+    # script.rpy:2957
 
-    old "I'm still thinking about what it could be."
-    new "I'm still thinking about what it could be."
+    # script.rpy:3419
 
-    old "It has been a long time since I dreamed about my mother."
-    new "It has been a long time since I dreamed about my mother."
+    # script.rpy:3605
 
-    old "I c-can't help it, {w}like you said it's a natural reaction."
-    new "I c-can't help it, {w}like you said it's a natural reaction."
+    # script.rpy:582
 
-    old "I doubt I'm stronger than a six foot wolf..."
-    new "I doubt I'm stronger than a six foot wolf..."
+    # script.rpy:1020
 
-    old "Mmm... no, not this one."
-    new "Mmm... no, not this one."
+    # script.rpy:2438
 
-    old "Don't you think there's a proper time to do this kind of thing...?"
-    new "Don't you think there's a proper time to do this kind of thing...?"
+    # script.rpy:4228
 
-    old "{size=-6}Nom~ {w}You should move more."
-    new "{size=-6}Nom~ {w}You should move more."
+    # script.rpy:5901
 
-    old "I can see why that woman is so interested in you."
-    new "I can see why that woman is so interested in you."
+    # script.rpy:6599
 
-    old "{size=-10}I'll give you my life if you get up..."
-    new "{size=-10}I'll give you my life if you get up..."
+    # script.rpy:6715
 
-    old "Just kidding."
-    new "Just kidding."
+    # script.rpy:844
 
-    old "Did something happen?"
-    new "Did something happen?"
+    # script.rpy:5398, script.rpy:7635
 
-    old "And let Hana know about the situation."
-    new "And let Hana know about the situation."
+    # script.rpy:4752
 
-    old "My wings changed recently, Mirai hasn't moved up just because she doesn't want to."
-    new "My wings changed recently, Mirai hasn't moved up just because she doesn't want to."
+    # script.rpy:8724
 
-    old "Just by looking at the condition of her training katana, I can tell how much effort she has put in."
-    new "Just by looking at the condition of her training katana, I can tell how much effort she has put in."
+    # script.rpy:5030
 
-    old "It's all... {w}his-"
-    new "It's all... {w}his-"
+    # script.rpy:6621
 
-    old "I forgot to ask Yui the doctor's name..."
-    new "I forgot to ask Yui the doctor's name..."
+    # script.rpy:2469
 
-    old "He looks strong..."
-    new "He looks strong..."
+    # script.rpy:4575
 
-    old "It's time to start moving."
-    new "It's time to start moving."
+    # script.rpy:1551
 
-    old "She went to the High Priestess for advice."
-    new "She went to the High Priestess for advice."
+    # script.rpy:7191
 
-    old "No! {w}M-Maybe this is normal for goddesses! I-I have to stay calm..."
-    new "No! {w}M-Maybe this is normal for goddesses! I-I have to stay calm..."
+    # script.rpy:1929
 
-    old "I will strive to help you make this place a good town~"
-    new "I will strive to help you make this place a good town~"
+    # script.rpy:7984
 
-    old "there's still this weight on my mind that just won't go away."
-    new "there's still this weight on my mind that just won't go away."
+    # script.rpy:3685
 
-    old "Why did Hikari know my mother, and why did she hate her?"
-    new "Why did Hikari know my mother, and why did she hate her?"
+    # script.rpy:4262
 
-    old "On the handle it says..."
-    new "On the handle it says..."
+    # script.rpy:839
 
-    old "Oh! How are you today?"
-    new "Oh! How are you today?"
+    # script.rpy:3150
 
-    old "{size=-10}Ughhgnm~{image=corazon}{image=corazon} {w}I feel my whole belly full..."
-    new "{size=-10}Ughhgnm~{image=corazon}{image=corazon} {w}I feel my whole belly full..."
+    # script.rpy:5609
 
-    old "I'll take this as a reward for my action."
-    new "I'll take this as a reward for my action."
+    # script.rpy:480
 
-    old "{size=-8}She knows she's not getting anywhere with that wound, so she warns them in another way."
-    new "{size=-8}She knows she's not getting anywhere with that wound, so she warns them in another way."
+    # script.rpy:6247
 
-    old "A part? {w}Why?"
-    new "A part? {w}Why?"
+    # script.rpy:454
 
-    old "Now I can chat with someone while I wait for her to arrive."
-    new "Now I can chat with someone while I wait for her to arrive."
+    # script.rpy:7190
 
-    old "It scares me to know that there can be a human version of me living in another world."
-    new "It scares me to know that there can be a human version of me living in another world."
+    # script.rpy:8627
 
-    old "{size=-6}I died again..."
-    new "{size=-6}I died again..."
+    # script.rpy:1871
 
-    old "But these bandages say otherwise..."
-    new "But these bandages say otherwise..."
+    # script.rpy:2252
 
-    old "I'm going to break my record!"
-    new "I'm going to break my record!"
+    # script.rpy:7002
 
-    old "T-They are... {w}heavier than they look..."
-    new "T-They are... {w}heavier than they look..."
+    # script.rpy:6993
 
-    old "I'll be there~"
-    new "I'll be there~"
+    # script.rpy:7874
 
-    old "HAHAAHAHHAHA."
-    new "HAHAAHAHHAHA."
+    # script.rpy:4810
 
-    old "What are you doing?! You fucking weirdo!"
-    new "What are you doing?! You fucking weirdo!"
+    # script.rpy:4813
 
-    old "I-I don't even know how I ended up here..."
-    new "I-I don't even know how I ended up here..."
+    # script.rpy:3970
 
-    old "{size=-8}Uhm? {w}So fast?"
-    new "{size=-8}Uhm? {w}So fast?"
+    # script.rpy:5183
 
-    old "The {w}\"Queen\" {w}has branded this town as treasonous."
-    new "The {w}\"Queen\" {w}has branded this town as treasonous."
+    # script.rpy:6317
 
-    old "How is that possible if she died when..."
-    new "How is that possible if she died when..."
+    # script.rpy:4256
 
-    old "Who is it? {w}Why is he attacking me?"
-    new "Who is it? {w}Why is he attacking me?"
+    # script.rpy:6613
 
-    old "What do you mean? {w}You tell us if it feels comfortable or if it feels tight in any part."
-    new "What do you mean? {w}You tell us if it feels comfortable or if it feels tight in any part."
+    # script.rpy:7545
 
-    old "But I need to become stronger..."
-    new "But I need to become stronger..."
+    # script.rpy:4320
 
-    old "Wow... {w}what happened to my body...?"
-    new "Wow... {w}what happened to my body...?"
+    # script.rpy:5612
 
-    old "All right... {w}but-"
-    new "All right... {w}but-"
+    # script.rpy:1396
 
-    old "Anyway, {w} I was already bored."
-    new "Anyway, {w} I was already bored."
+    # script.rpy:4166
 
-    old "All the girls in the village were happy to know that you could be the new leader."
-    new "All the girls in the village were happy to know that you could be the new leader."
+    # script.rpy:7845
 
-    old "We're goddesses, we're supposed to create and maintain order."
-    new "We're goddesses, we're supposed to create and maintain order."
+    # script.rpy:8617
 
-    old "Why is there no one defending?"
-    new "Why is there no one defending?"
+    # script.rpy:6292
 
-    old "Hey, {w}are you okay?"
-    new "Hey, {w}are you okay?"
+    # script.rpy:1130
 
-    old "{size=+10}It won't happen again."
-    new "{size=+10}It won't happen again."
+    # script.rpy:3330
 
-    old "Are you really that weak?"
-    new "Are you really that weak?"
+    # script.rpy:1016
 
-    old "And since she likes to do everything in secret, if she sees a girl already defending an area, she looks for another one to balance the protection."
-    new "And since she likes to do everything in secret, if she sees a girl already defending an area, she looks for another one to balance the protection."
+    # script.rpy:5054
 
-    old "She doesn't move."
-    new "She doesn't move."
+    # script.rpy:4083
 
     old "{outlinecolor=#000000}{i}Don't be surprised when you realize how everything is connected..."
     new "{outlinecolor=#000000}{i}Don't be surprised when you realize how everything is connected..."
 
-    old "Diana concentrating on her book is a completely different person."
-    new "Diana concentrating on her book is a completely different person."
+    # script.rpy:7393
 
-    old "Someone like me can't be called a leader..."
-    new "Someone like me can't be called a leader..."
+    # script.rpy:7100
 
-    old "And Fumiko told me it was a pretty powerful blessing."
-    new "And Fumiko told me it was a pretty powerful blessing."
+    # script.rpy:965
 
-    old "Her clothes look shabby and worn out."
-    new "Her clothes look shabby and worn out."
+    # script.rpy:1123
 
-    old "Goodbye, Human."
-    new "Goodbye, Human."
+    # script.rpy:3796
 
-    old "Why would I go this way if I have already been given directions."
-    new "Why would I go this way if I have already been given directions."
+    # script.rpy:2423
 
-    old "Are you feeling okay!?"
-    new "Are you feeling okay!?"
+    # script.rpy:3547
 
-    old "I don't know... {w}I can feel it..."
-    new "I don't know... {w}I can feel it..."
+    # script.rpy:4857
 
-    old "Have you ever cut down any trees?"
-    new "Have you ever cut down any trees?"
+    # script.rpy:3399
 
-    old "That shitty cat only had one job and she did it poorly."
-    new "That shitty cat only had one job and she did it poorly."
+    # script.rpy:6281
 
-    old "We will talk about money later."
-    new "We will talk about money later."
+    # script.rpy:7423
 
-    old "That you made a fictional world for a human version of yourself to live as a mortal is one thing."
-    new "That you made a fictional world for a human version of yourself to live as a mortal is one thing."
+    # script.rpy:8714
 
-    old "-celebrate!"
-    new "-celebrate!"
+    # script.rpy:5075
 
-    old "Hehehe~ {w}now the doctor looks much better, I don't feel so worried anymore."
-    new "Hehehe~ {w}now the doctor looks much better, I don't feel so worried anymore."
+    # script.rpy:7729
 
-    old "I see... {w}and what kind of potions?"
-    new "I see... {w}and what kind of potions?"
+    # script.rpy:7241
 
-    old "Gngh~{image=corazon} {w}Ghnm~{image=corazon}{image=corazon} {w}Mnh~{image=corazon}"
-    new "Gngh~{image=corazon} {w}Ghnm~{image=corazon}{image=corazon} {w}Mnh~{image=corazon}"
+    # script.rpy:5503
 
-    old "That's why all the information you have, whether good or bad, can help us avoid that kind of thing."
-    new "That's why all the information you have, whether good or bad, can help us avoid that kind of thing."
+    # script.rpy:8157
 
-    old "You have a strong body, even if I gave you a little help during your recovery~"
-    new "You have a strong body, even if I gave you a little help during your recovery~"
+    # script.rpy:2173
 
-    old "Looking to die? {w}Human?"
-    new "Looking to die? {w}Human?"
+    # script.rpy:3070
 
-    old "They look so relaxed, but they're making a mess of this place."
-    new "They look so relaxed, but they're making a mess of this place."
+    # script.rpy:8488
 
-    old "I'm fucked."
-    new "I'm fucked."
+    # script.rpy:671
 
-    old "I have two in fact."
-    new "I have two in fact."
+    # script.rpy:4356
 
-    old "And I trust."
-    new "And I trust."
+    # script.rpy:7858
 
-    old "{size=-10}Whoever is in charge here was super quick to notice the bandits' att-"
-    new "{size=-10}Whoever is in charge here was super quick to notice the bandits' att-"
+    # script.rpy:6299
 
-    old "I want you to cook fish for me forever~"
-    new "I want you to cook fish for me forever~"
+    # script.rpy:5249
 
-    old "Did Hikari tell you?"
-    new "Did Hikari tell you?"
+    # script.rpy:4323
 
-    old "But {w}I feel the same..."
-    new "But {w}I feel the same..."
+    # script.rpy:967
 
-    old "FINALLY SOMEONE LIKE THAT GUY SHOWED UP!"
-    new "FINALLY SOMEONE LIKE THAT GUY SHOWED UP!"
+    # script.rpy:6665
 
-    old "I don't even know what I expected to happen."
-    new "I don't even know what I expected to happen."
+    # script.rpy:3814
 
-    old "Do you think I'm stupid?"
-    new "Do you think I'm stupid?"
+    # script.rpy:4039
 
-    old "Ryoko has become more relaxed and I practically see her playing or hanging out with Charlotte every day."
-    new "Ryoko has become more relaxed and I practically see her playing or hanging out with Charlotte every day."
+    # script.rpy:4982
 
-    old "I w-will never do it aga-"
-    new "I w-will never do it aga-"
+    # script.rpy:5071
 
-    old "The brat is gone."
-    new "The brat is gone."
+    # script.rpy:6236
 
-    old "The others are almost burned, except for the one I dropped earlier..."
-    new "The others are almost burned, except for the one I dropped earlier..."
+    # script.rpy:1163
 
-    old "Ah, I used your katana, hope you don't mind."
-    new "Ah, I used your katana, hope you don't mind."
+    # script.rpy:1358
 
-    old "Let's say I gave you the keys to my house.~~{image=/bg/icons/heart_text.png}"
-    new "Let's say I gave you the keys to my house.~~{image=/bg/icons/heart_text.png}"
+    # script.rpy:4460
 
     old "{image=quest_text}You've taken the gates to Mayu."
     new "{image=quest_text}You've taken the gates to Mayu."
 
-    old "What do they contain?"
-    new "What do they contain?"
+    # script.rpy:3217
 
-    old "We also sell books."
-    new "We also sell books."
+    # script.rpy:7240
 
-    old "Yesterday-"
-    new "Yesterday-"
+    # script.rpy:7215
 
-    old "And take your shoes off! Don't you have any manners?"
-    new "And take your shoes off! Don't you have any manners?"
+    # script.rpy:2683
 
-    old "I learned that much from my previous life..."
-    new "I learned that much from my previous life..."
+    # script.rpy:1901
 
-    old "She is using her ability to run away...?"
-    new "She is using her ability to run away...?"
+    # script.rpy:5807
 
-    old "Master! {w}You're making me blush..."
-    new "Master! {w}You're making me blush..."
+    # script.rpy:1575
 
-    old "Too careless."
-    new "Too careless."
+    # script.rpy:3068
 
-    old "One last thing...{w} Ryoko mentioned that you guys are pretty close."
-    new "One last thing...{w} Ryoko mentioned that you guys are pretty close."
+    # script.rpy:4728
 
-    old "What kind of dangers?"
-    new "What kind of dangers?"
+    # script.rpy:547
 
-    old "Sorry Akane, {w}I got distracted with Charlotte..."
-    new "Sorry Akane, {w}I got distracted with Charlotte..."
+    # script.rpy:5095
 
-    old "She must feel guilty about my stupidity..."
-    new "She must feel guilty about my stupidity..."
+    # script.rpy:4178
 
-    old "What is the point now? I won't be able to escape from this..."
-    new "What is the point now? I won't be able to escape from this..."
+    # script.rpy:1722
 
-    old "I will give them all to Ryoko..."
-    new "I will give them all to Ryoko..."
+    # script.rpy:6707
 
-    old "Look, {w}that must be it."
-    new "Look, {w}that must be it."
+    # script.rpy:3221
 
-    old "That would be very helpful..."
-    new "That would be very helpful..."
+    # script.rpy:5323
 
     old "Congratulations! You can now go to the forest and its surroundings!"
     new "Congratulations! You can now go to the forest and its surroundings!"
 
-    old "Don't worry, I'll get Diana to-"
-    new "Don't worry, I'll get Diana to-"
+    # script.rpy:6016
 
-    old "Where did she come from? {w}That was a nasty fall..."
-    new "Where did she come from? {w}That was a nasty fall..."
+    # script.rpy:1116
 
-    old "Sorry Keiko."
-    new "Sorry Keiko."
+    # script.rpy:636
 
-    old "I see... {w}so you have more freedom to do... {w}things..."
-    new "I see... {w}so you have more freedom to do... {w}things..."
+    # script.rpy:2099
 
-    old "My consciousness... and my soul..."
-    new "My consciousness... and my soul..."
+    # script.rpy:3832
 
-    old "Akane has magic hands..."
-    new "Akane has magic hands..."
+    # script.rpy:5248
 
-    old "I promise you on my soul that is in front of you."
-    new "I promise you on my soul that is in front of you."
+    # script.rpy:732
 
-    old "It burns because it is working."
-    new "It burns because it is working."
+    # script.rpy:6262
 
-    old "I need to take all your measurements."
-    new "I need to take all your measurements."
+    # script.rpy:7362
 
-    old "See you in a few hours."
-    new "See you in a few hours."
+    # script.rpy:7989
 
-    old "OK, ok, I guess we're doing this the hard way."
-    new "OK, ok, I guess we're doing this the hard way."
+    # script.rpy:1012
 
-    old "Are you not hungry?"
-    new "Are you not hungry?"
+    # script.rpy:3531
 
-    old "Sure, I will do that."
-    new "Sure, I will do that."
+    # script.rpy:7186
 
-    old "What? {w}You got attached to the little brat?"
-    new "What? {w}You got attached to the little brat?"
+    # script.rpy:5838
 
-    old "I'm starting to get annoyed."
-    new "I'm starting to get annoyed."
+    # script.rpy:6124
 
-    old "{size=-10}Wow, you got kicked out the front door."
-    new "{size=-10}Wow, you got kicked out the front door."
+    # script.rpy:6297
 
-    old "Well thanks for answering my questions."
-    new "Well thanks for answering my questions."
+    # script.rpy:478
 
-    old "She looks very focused, is she drawing?"
-    new "She looks very focused, is she drawing?"
+    # script.rpy:7899
 
-    old "He wants to rip my arm off!"
-    new "He wants to rip my arm off!"
+    # script.rpy:1669
 
-    old "Do you want me to lie down there...?"
-    new "Do you want me to lie down there...?"
+    # script.rpy:4275
 
-    old "Telling me I'm the new hero who must save the world?"
-    new "Telling me I'm the new hero who must save the world?"
+    # script.rpy:958
 
-    old "Well, they gave her false information."
-    new "Well, they gave her false information."
+    # script.rpy:6320
 
-    old "Where the hell am I?"
-    new "Where the hell am I?"
+    # script.rpy:3935
 
-    old "Don't you think you should introduce yourself?"
-    new "Don't you think you should introduce yourself?"
+    # script.rpy:3960
 
-    old "Why don't you try to make friends? Now you don't get sick like you used to."
-    new "Why don't you try to make friends? Now you don't get sick like you used to."
+    # script.rpy:4794
 
-    old "I wonder if the goddesses are still watching me."
-    new "I wonder if the goddesses are still watching me."
+    # script.rpy:3475
 
-    old "If you were trying to scare us, it didn't work, you perv-"
-    new "If you were trying to scare us, it didn't work, you perv-"
+    # script.rpy:8560
 
-    old "I'm just kidding."
-    new "I'm just kidding."
+    # script.rpy:4479
 
-    old "However, a goddess chooses when to become pregnant."
-    new "However, a goddess chooses when to become pregnant."
+    # script.rpy:4340
 
-    old "{size=+6}Aren't you going to come closer, little mortal?"
-    new "{size=+6}Aren't you going to come closer, little mortal?"
+    # script.rpy:3943
 
-    old "Ryoko told me to do it."
-    new "Ryoko told me to do it."
+    # script.rpy:4957
 
-    old "This is a beautiful place, I don't know who put up that fence but it won't stop a slime."
-    new "This is a beautiful place, I don't know who put up that fence but it won't stop a slime."
+    # script.rpy:8486
 
-    old "I hope you know what you're doing..."
-    new "I hope you know what you're doing..."
+    # script.rpy:8767
 
-    old "{size=-10}The fucker who is talking to that woman."
-    new "{size=-10}The fucker who is talking to that woman."
+    # script.rpy:6303
 
-    old "Look for Hana quickly!"
-    new "Look for Hana quickly!"
+    # script.rpy:3088
 
-    old "Charlotte's voice is breaking, too..."
-    new "Charlotte's voice is breaking, too..."
+    # script.rpy:5443
 
-    old "Glad to hear that [mc]."
-    new "Glad to hear that [mc]."
+    # script.rpy:595
 
-    old "And I will stop asking him to play with me so much..."
-    new "And I will stop asking him to play with me so much..."
+    # script.rpy:6710
 
-    old "Nothing bad, I just ran into Akane and wanted to know how you two did on your little trip."
-    new "Nothing bad, I just ran into Akane and wanted to know how you two did on your little trip."
+    # script.rpy:7637
 
-    old "That girl... {w}her curiosity always gets the best of her."
-    new "That girl... {w}her curiosity always gets the best of her."
+    # script.rpy:2145
 
-    old "Tomoe is very mysterious about how she gets her mercancy, does it have anything to do with it?"
-    new "Tomoe is very mysterious about how she gets her mercancy, does it have anything to do with it?"
+    # script.rpy:8213
 
-    old "N-No! {w}I mean..."
-    new "N-No! {w}I mean..."
+    # script.rpy:4783
 
-    old "I will stop giving [mc] problems..."
-    new "I will stop giving [mc] problems..."
+    # script.rpy:6709
 
-    old "Thank you [mc], you are worthy to be called the leader of the town."
-    new "Thank you [mc], you are worthy to be called the leader of the town."
+    # script.rpy:7091
 
-    old "Leave my butt up?"
-    new "Leave my butt up?"
+    # script.rpy:5199
 
-    old "Looking for a fight, cow tits?"
-    new "Looking for a fight, cow tits?"
+    # script.rpy:8685
 
-    old "{sc=2}{outlinecolor=#000000}OH! Hell no!"
-    new "{sc=2}{outlinecolor=#000000}OH! Hell no!"
+    # script.rpy:1025
 
-    old "Do you think I would do something you wouldn't want me to do?"
-    new "Do you think I would do something you wouldn't want me to do?"
+    # script.rpy:5793
 
-    old "Well, she looks pretty OK to me."
-    new "Well, she looks pretty OK to me."
+    # script.rpy:2785
 
-    old "It was a reflex! {w}They were so soft that- {w}I-"
-    new "It was a reflex! {w}They were so soft that- {w}I-"
+    # script.rpy:1430
 
-    old "Go and inform Hana."
-    new "Go and inform Hana."
+    # script.rpy:3361
 
-    old "Don't worry Ryoko, {w}you gave me time to prepare the last of it."
-    new "Don't worry Ryoko, {w}you gave me time to prepare the last of it."
+    # script.rpy:5097
 
-    old "Not at all, I just think it's cute that you drew us all."
-    new "Not at all, I just think it's cute that you drew us all."
+    # script.rpy:7935
 
-    old "There is no moss on the broken parts..."
-    new "There is no moss on the broken parts..."
+    # script.rpy:872
 
-    old "Stupid dog, you're getting too carried away."
-    new "Stupid dog, you're getting too carried away."
+    # script.rpy:6430
 
-    old "And aren't you surprised to see a goddess?"
-    new "And aren't you surprised to see a goddess?"
+    # script.rpy:4037
 
-    old "Our garden is not so good for that kind of plants."
-    new "Our garden is not so good for that kind of plants."
+    # script.rpy:8250
 
-    old "Ah! My food!"
-    new "Ah! My food!"
+    # script.rpy:1071
 
-    old "When will you learn to take better care of yourself!"
-    new "When will you learn to take better care of yourself!"
+    # script.rpy:6773
 
-    old "{sc=2}{outlinecolor=#000000}{size=-8}WW-Www-ww-wW-W-"
-    new "{sc=2}{outlinecolor=#000000}{size=-8}WW-Www-ww-wW-W-"
+    # script.rpy:763
 
-    old "Not at all, do you need something?"
-    new "Not at all, do you need something?"
+    # script.rpy:3153
 
-    old "I could look at her forever and never get tired of it..."
-    new "I could look at her forever and never get tired of it..."
+    # script.rpy:1829
 
-    old "But it seems that I didn't manage to get everything out..."
-    new "But it seems that I didn't manage to get everything out..."
+    # script.rpy:5489
 
-    old "An Oni? {w}Do Oni look like that too...?"
-    new "An Oni? {w}Do Oni look like that too...?"
+    # script.rpy:5998
 
-    old "They know what?"
-    new "They know what?"
+    # script.rpy:7626
 
-    old "Hiaaah! I looked directly at it again!"
-    new "Hiaaah! I looked directly at it again!"
+    # script.rpy:7560
 
-    old "Goddesses, {w}was it necessary?"
-    new "Goddesses, {w}was it necessary?"
+    # script.rpy:6523
 
-    old "So this is what Fumiko meant when she said the blessing was powerful..."
-    new "So this is what Fumiko meant when she said the blessing was powerful..."
+    # script.rpy:1062
 
-    old "Did I... {w}make it?"
-    new "Did I... {w}make it?"
+    # script.rpy:1761
 
-    old "Technically, his mother was human, so he is not a demon."
-    new "Technically, his mother was human, so he is not a demon."
+    # script.rpy:8718
 
-    old "Yes, the girls gave me a little \"celebration\" at my house."
-    new "Yes, the girls gave me a little \"celebration\" at my house."
+    # script.rpy:5739
 
-    old "{size=+10}Understood!!"
-    new "{size=+10}Understood!!"
+    # script.rpy:2731
 
-    old "Tell me, [mc]... {w}why are you trespassing in my house?"
-    new "Tell me, [mc]... {w}why are you trespassing in my house?"
+    # script.rpy:3967
 
-    old "W-Wow, Charlotte got even tighter..."
-    new "W-Wow, Charlotte got even tighter..."
+    # script.rpy:5581
 
-    old "Mmm? {w}Ryoko, {w}she has told everyone."
-    new "Mmm? {w}Ryoko, {w}she has told everyone."
+    # script.rpy:5748
 
-    old "Hahaha, ok..."
-    new "Hahaha, ok..."
+    # script.rpy:7950
 
-    old "Don't worry. Now that the area's safer, I shouldn't run into any trouble."
-    new "Don't worry. Now that the area's safer, I shouldn't run into any trouble."
+    # script.rpy:3744
 
-    old "I'm expecting a lot of fish for the next dinner."
-    new "I'm expecting a lot of fish for the next dinner."
+    # script.rpy:8076
 
-    old "W-Where is she getting all that magic from?"
-    new "W-Where is she getting all that magic from?"
+    # script.rpy:6734
 
-    old "I think I'll go p-put up the s-store sign now..."
-    new "I think I'll go p-put up the s-store sign now..."
+    # script.rpy:7443
 
-    old "Ohm~ {w=0.5}My poor man."
-    new "Ohm~ {w=0.5}My poor man."
+    # script.rpy:7801
 
-    old "I just saw her, I'm sure she'll be here in a few minutes."
-    new "I just saw her, I'm sure she'll be here in a few minutes."
+    # script.rpy:8082
 
-    old "A cape or a mask."
-    new "A cape or a mask."
+    # script.rpy:7297
 
     old "Hey? Are you listening?"
     new "Hey? Are you listening?"
 
-    old "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few — we---..."
-    new "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few — we---..."
+    # script.rpy:2185
 
-    old "I'll go talk to her. Maybe if I explain the situation, she'll understand better."
-    new "I'll go talk to her. Maybe if I explain the situation, she'll understand better."
+    # script.rpy:8757
 
-    old "And now it sounds more interesting knowing his situation."
-    new "And now it sounds more interesting knowing his situation."
+    # script.rpy:7675
 
-    old "M-Master please!"
-    new "M-Master please!"
+    # script.rpy:6688
 
-    old "Mmm? {w}What's wrong Human?"
-    new "Mmm? {w}What's wrong Human?"
+    # script.rpy:5369
 
-    old "Oh? {w}What's that?"
-    new "Oh? {w}What's that?"
+    # script.rpy:5933
 
-    old "She doesn't seem to be able to tell me much more..."
-    new "She doesn't seem to be able to tell me much more..."
+    # script.rpy:4373
 
-    old "W-Why did you suddenly stop t-talking [mc]?"
-    new "W-Why did you suddenly stop t-talking [mc]?"
+    # script.rpy:1991
 
-    old "M-Master... {w}sorry... {w}I can't hold on anymore...~{image=corazon}{image=corazon}"
-    new "M-Master... {w}sorry... {w}I can't hold on anymore...~{image=corazon}{image=corazon}"
+    # script.rpy:5515
 
-    old "Whatever it is, {w}I must first keep my promise."
-    new "Whatever it is, {w}I must first keep my promise."
+    # script.rpy:816
 
-    old "{sc=2}{outlinecolor=#000000}{i}{size=-8}You want me to do what?!"
-    new "{sc=2}{outlinecolor=#000000}{i}{size=-8}You want me to do what?!"
+    # script.rpy:8651
 
-    old "I-I just... {w}don't want to disrespect you..."
-    new "I-I just... {w}don't want to disrespect you..."
+    # script.rpy:1817
 
-    old "It turns out that I was walking through a forest and I found some strange stones with some strange symbols on them..."
-    new "It turns out that I was walking through a forest and I found some strange stones with some strange symbols on them..."
+    # script.rpy:4019
 
-    old "The wolves weren't attacking, they were running!"
-    new "The wolves weren't attacking, they were running!"
+    # script.rpy:2866
 
-    old "Can I come closer?"
-    new "Can I come closer?"
+    # script.rpy:6898
 
-    old "I said I wanted to test myself..."
-    new "I said I wanted to test myself..."
+    # script.rpy:994
 
-    old "I thought you wouldn't get to meet our new allies."
-    new "I thought you wouldn't get to meet our new allies."
+    # script.rpy:4614
 
-    old "It seems that this is the first time you visit a magic store..."
-    new "It seems that this is the first time you visit a magic store..."
+    # script.rpy:7236
 
-    old "Still as whiny as ever..."
-    new "Still as whiny as ever..."
+    # script.rpy:4631
 
-    old "Why did you do that? She just offered you tea!"
-    new "Why did you do that? She just offered you tea!"
+    # script.rpy:4077
 
-    old "Well, whatever, {w}I'll think about it later."
-    new "Well, whatever, {w}I'll think about it later."
+    # script.rpy:877
 
-    old "{size=-8}I-Is it you? {w}Natsuki..."
-    new "{size=-8}I-Is it you? {w}Natsuki..."
+    # script.rpy:4627
 
-    old "Don't let it slip out of your hands every time you swing, {w}keep a firm grip."
-    new "Don't let it slip out of your hands every time you swing, {w}keep a firm grip."
+    # script.rpy:5023
 
-    old "{color=#F5B6F2}I hope she never changes."
-    new "{color=#F5B6F2}I hope she never changes."
+    # script.rpy:8613
 
-    old "{size=-10}You didn't let me finish..."
-    new "{size=-10}You didn't let me finish..."
+    # script.rpy:5670
 
-    old "Well, whatever... {w}it's not like I thought I could just visit them whenever I wanted."
-    new "Well, whatever... {w}it's not like I thought I could just visit them whenever I wanted."
+    # script.rpy:3840
 
-    old "I have checked them, {w=0.5}{sc=3}{outlinecolor=#000000}a lot of materials will be needed..."
-    new "I have checked them, {w=0.5}{sc=3}{outlinecolor=#000000}a lot of materials will be needed..."
+    # script.rpy:8238
 
-    old "Ryoko is full of energy."
-    new "Ryoko is full of energy."
+    # script.rpy:2770
 
-    old "{size=-10}Are they waiting for something?"
-    new "{size=-10}Are they waiting for something?"
+    # script.rpy:2749
 
-    old "It was no big deal, {w}they were wimps, and well, {w}it was also because we ambushed them."
-    new "It was no big deal, {w}they were wimps, and well, {w}it was also because we ambushed them."
+    # script.rpy:5758
 
-    old "That's why you appeared out of nowhere..."
-    new "That's why you appeared out of nowhere..."
+    # script.rpy:4522
 
-    old "Besides, {w}That boy seems to be the son of-"
-    new "Besides, {w}That boy seems to be the son of-"
+    # script.rpy:4159
 
-    old "Did you really die?"
-    new "Did you really die?"
+    # script.rpy:3581
 
-    old "Would you rather continue to watch a mortal pee on himself and eat bananas than be a High Goddess?"
-    new "Would you rather continue to watch a mortal pee on himself and eat bananas than be a High Goddess?"
+    # script.rpy:8735
 
     old "What kind of people will I meet?"
     new "What kind of people will I meet?"
 
-    old "It is not necessary for it to cover my entire face, the more subtle the better."
-    new "It is not necessary for it to cover my entire face, the more subtle the better."
+    # script.rpy:7387
 
-    old "That's not what I mean!"
-    new "That's not what I mean!"
+    # script.rpy:5036
 
-    old "That sounds perfect, {w}where would I be without you?"
-    new "That sounds perfect, {w}where would I be without you?"
+    # script.rpy:1522
 
-    old "Hana told me that they used to keep things here."
-    new "Hana told me that they used to keep things here."
+    # script.rpy:3212
 
     old "You send Ryoko off to rest while you go look for the adventurer."
     new "You send Ryoko off to rest while you go look for the adventurer."
 
-    old "Yes, what will you do now?"
-    new "Yes, what will you do now?"
+    # script.rpy:6384
 
-    old "{i}{size=-10}How am I supposed to stop these feelings if he keeps treating me like this...?"
-    new "{i}{size=-10}How am I supposed to stop these feelings if he keeps treating me like this...?"
+    # script.rpy:2335
 
-    old "{sc=3}{outlinecolor=#000000}{i}{size=-9}Watching them again? What do you find so interesting?"
-    new "{sc=3}{outlinecolor=#000000}{i}{size=-9}Watching them again? What do you find so interesting?"
+    # script.rpy:8554
 
-    old "Are you in charge?"
-    new "Are you in charge?"
+    # script.rpy:4715
 
-    old "Look! It's the wimpy one."
-    new "Look! It's the wimpy one."
+    # script.rpy:4803
 
-    old "I saw his mother once, she's super hot!! Hahaha."
-    new "I saw his mother once, she's super hot!! Hahaha."
+    # script.rpy:4808
 
-    old "Mmm... {w}whatever happens, this life will no longer be the same as before."
-    new "Mmm... {w}whatever happens, this life will no longer be the same as before."
+    # script.rpy:603
 
-    old "How many times have you done this?"
-    new "How many times have you done this?"
+    # script.rpy:8059
 
-    old "I'm glad she decided to help me, I'll tell Charlotte that everything went well."
-    new "I'm glad she decided to help me, I'll tell Charlotte that everything went well."
+    # script.rpy:7395
 
-    old "Yes, using the correct magic circles I could... hnm... {size=-6}{i}murmur~ murmur~"
-    new "Yes, using the correct magic circles I could... hnm... {size=-6}{i}murmur~ murmur~"
+    # script.rpy:7392
 
-    old "{sc=1}{outlinecolor=#000000}{size=-6}Ghnm~{/sc} {w}What time is it...?"
-    new "{sc=1}{outlinecolor=#000000}{size=-6}Ghnm~{/sc} {w}What time is it...?"
+    # script.rpy:8826
 
-    old "This one was because of my carelessness, {w}how could they be so quiet!"
-    new "This one was because of my carelessness, {w}how could they be so quiet!"
+    # script.rpy:7041
 
-    old "For being just your soul, you have too much... {w}\"energy\"~{image=corazon}"
-    new "For being just your soul, you have too much... {w}\"energy\"~{image=corazon}"
+    # script.rpy:580
 
-    old "But changing the subject."
-    new "But changing the subject."
+    # script.rpy:5917
 
-    old "Maybe it has to do with magic."
-    new "Maybe it has to do with magic."
+    # script.rpy:7282
 
-    old "And... {w}why am I not screaming or crying in fear?"
-    new "And... {w}why am I not screaming or crying in fear?"
+    # script.rpy:1018
 
-    old "Keiko's gentle movement is driving me crazy..."
-    new "Keiko's gentle movement is driving me crazy..."
+    # script.rpy:1973
 
-    old "{color=#E4D8AA}Maybe my memory will come back if you accompany me to my house and-"
-    new "{color=#E4D8AA}Maybe my memory will come back if you accompany me to my house and-"
+    # script.rpy:2398
 
-    old "{i}{size=-10}I'm sure I hit her,{w} why is it still not-"
-    new "{i}{size=-10}I'm sure I hit her,{w} why is it still not-"
+    # script.rpy:6157
 
-    old "All thanks to this."
-    new "All thanks to this."
+    # script.rpy:2741
 
-    old "I've been noticing it for a while, but..."
-    new "I've been noticing it for a while, but..."
+    # script.rpy:1014
 
-    old "{sc=2}{outlinecolor=#000000}{i}{size=-8}A-And how am I supposed to know when to do it?!"
-    new "{sc=2}{outlinecolor=#000000}{i}{size=-8}A-And how am I supposed to know when to do it?!"
+    # script.rpy:8654
 
-    old "Is she the heroine they talk about, the one who saved people?"
-    new "Is she the heroine they talk about, the one who saved people?"
+    # script.rpy:4254
 
-    old "Whatever you say, {w}{i}{size=-6}thighs guy."
-    new "Whatever you say, {w}{i}{size=-6}thighs guy."
+    # script.rpy:7211
 
-    old "But I admit that women like you give me goosebumps HAHAHA."
-    new "But I admit that women like you give me goosebumps HAHAHA."
+    # script.rpy:6339
 
-    old "Listen, Ryoko..."
-    new "Listen, Ryoko..."
+    # script.rpy:1407
 
-    old "{sc=1}{outlinecolor=#000000}{size=-10}Ghg... {w}Chains...?"
-    new "{sc=1}{outlinecolor=#000000}{size=-10}Ghg... {w}Chains...?"
+    # script.rpy:4119
 
-    old "She said she would let me accompany her on one of her rounds of the outskirts of town."
-    new "She said she would let me accompany her on one of her rounds of the outskirts of town."
+    # script.rpy:5043
 
-    old "{size=-10}Hnm... {w}It feels a little strange with the Human's hand..."
-    new "{size=-10}Hnm... {w}It feels a little strange with the Human's hand..."
+    # script.rpy:5350
 
-    old "I have to do what I can to get out of this!"
-    new "I have to do what I can to get out of this!"
+    # script.rpy:1617
 
-    old "It was not necessary for me to come too..."
-    new "It was not necessary for me to come too..."
+    # script.rpy:8034
 
-    old "Yes! Let's sit down."
-    new "Yes! Let's sit down."
+    # script.rpy:2280
 
-    old "I won't let it end here."
-    new "I won't let it end here."
+    # script.rpy:4194
 
-    old "Well, {w}they say that garbage tends to gather with garbage."
-    new "Well, {w}they say that garbage tends to gather with garbage."
+    # script.rpy:6119
 
-    old "And where do I change?"
-    new "And where do I change?"
+    # script.rpy:7521
 
-    old "Don't worry, the important thing is that we are all here."
-    new "Don't worry, the important thing is that we are all here."
+    # script.rpy:8108
 
-    old "You again."
-    new "You again."
+    # script.rpy:8517
 
-    old "Burned fish?"
-    new "Burned fish?"
+    # script.rpy:1211
 
-    old "{size=-6}{i}That voice again..."
-    new "{size=-6}{i}That voice again..."
+    # script.rpy:1715
 
-    old "My little crybaby..."
-    new "My little crybaby..."
+    # script.rpy:3572
 
-    old "She doesn't like to get involved with people."
-    new "She doesn't like to get involved with people."
+    # script.rpy:5055
 
-    old "Having Keiko on top of me trying to make me cum...."
-    new "Having Keiko on top of me trying to make me cum...."
+    # script.rpy:2037
 
-    old "Would you like another cup of tea?"
-    new "Would you like another cup of tea?"
+    # script.rpy:4070
 
-    old "Look, the breasts on which you always cried!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    new "Look, the breasts on which you always cried!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    # script.rpy:4866
 
-    old "{size=-6}He only buys them to abuse them..."
-    new "{size=-6}He only buys them to abuse them..."
+    # script.rpy:1261
 
-    old "You dared to attack me!"
-    new "You dared to attack me!"
+    # script.rpy:2622
 
-    old "Wait! {w}It's warm!"
-    new "Wait! {w}It's warm!"
+    # script.rpy:4976
 
-    old "That's the look I like~{image=corazon}"
-    new "That's the look I like~{image=corazon}"
+    # script.rpy:4289
 
-    old "I'm not sure. I heard fighting noises and ran over to check."
-    new "I'm not sure. I heard fighting noises and ran over to check."
+    # script.rpy:1538
 
-    old "I don't want you to travel at night."
-    new "I don't want you to travel at night."
+    # script.rpy:4725
 
-    old "Damn, I'm a-about to cum..."
-    new "Damn, I'm a-about to cum..."
+    # script.rpy:5511
 
-    old "{size=-10}Aaah damn, {w}the noise doesn't stop."
-    new "{size=-10}Aaah damn, {w}the noise doesn't stop."
+    # script.rpy:6571
 
-    old "You were very focused doing that."
-    new "You were very focused doing that."
+    # script.rpy:7922
 
-    old "It's a{w}... {w}{size=-5}rock.{w=1.0}"
-    new "It's a{w}... {w}{size=-5}rock.{w=1.0}"
+    # script.rpy:668
 
-    old "Alright, {w}no talking then."
-    new "Alright, {w}no talking then."
+    # script.rpy:1005
 
-    old "I thought you had already left."
-    new "I thought you had already left."
+    # script.rpy:5651
 
-    old "{size=+10}I'm so sorry!"
-    new "{size=+10}I'm so sorry!"
+    # script.rpy:3327
 
-    old "And I need your help with something."
-    new "And I need your help with something."
+    # script.rpy:3385
 
-    old "I'll reward you with a new life."
-    new "I'll reward you with a new life."
+    # script.rpy:516
 
-    old "It's swelling..."
-    new "It's swelling..."
+    # script.rpy:4407
 
-    old "Akane takes the trays and leaves quickly."
-    new "Akane takes the trays and leaves quickly."
+    # script.rpy:5269
 
-    old "Let's just say... {w}I saved myself a trip..."
-    new "Let's just say... {w}I saved myself a trip..."
+    # script.rpy:7056
 
-    old "I thought that instead of talking about everything, I could show it in more detail."
-    new "I thought that instead of talking about everything, I could show it in more detail."
+    # script.rpy:7929
 
-    old "I hope I'm not intruding, I'm looking for the doc-"
-    new "I hope I'm not intruding, I'm looking for the doc-"
+    # script.rpy:2476
 
-    old "Maybe... {w}I saw something of myself in her..."
-    new "Maybe... {w}I saw something of myself in her..."
+    # script.rpy:1306
 
-    old "Oh, right... Sorry."
-    new "Oh, right... Sorry."
+    # script.rpy:2517
 
-    old "You can learn a lot from them."
-    new "You can learn a lot from them."
+    # script.rpy:5386
 
-    old "The one who will get nowhere will be you if you keep moving! {w}You make the poison spread faster!"
-    new "The one who will get nowhere will be you if you keep moving! {w}You make the poison spread faster!"
+    # script.rpy:6248
 
-    old "He's not dead yet!"
-    new "He's not dead yet!"
+    # script.rpy:3004
 
-    old "W-Why don't you want to?"
-    new "W-Why don't you want to?"
+    # script.rpy:8727
 
-    old "I feel, {w}if I close my eyes.."
-    new "I feel, {w}if I close my eyes.."
+    # script.rpy:3557
 
-    old "And those that resist, {w}just kill them."
-    new "And those that resist, {w}just kill them."
+    # script.rpy:6289
 
-    old "Everyone already takes this for granted?"
-    new "Everyone already takes this for granted?"
+    # script.rpy:7753
 
-    old "But Fumiko isn't the type to cause problems."
-    new "But Fumiko isn't the type to cause problems."
+    # script.rpy:2150
 
-    old "What else? {w}The fucking cat already ratted us out, {w}go in and kidnap all the bitches you can find."
-    new "What else? {w}The fucking cat already ratted us out, {w}go in and kidnap all the bitches you can find."
+    # script.rpy:6287
 
-    old "Master [mc]! {w}Are you ok?"
-    new "Master [mc]! {w}Are you ok?"
+    # script.rpy:6758
 
-    old "Do you plan to sleep all day?"
-    new "Do you plan to sleep all day?"
+    # script.rpy:5094
 
-    old "Oh! {w}You're back!"
-    new "Oh! {w}You're back!"
+    # script.rpy:4610
 
-    old "{size=-10}I've done my share of the work, {w}I'm going to sleep."
-    new "{size=-10}I've done my share of the work, {w}I'm going to sleep."
+    # script.rpy:6240
 
-    old "Why are you sitting here?"
-    new "Why are you sitting here?"
+    # script.rpy:4525
 
-    old "Keiko, I have one last favor to ask."
-    new "Keiko, I have one last favor to ask."
+    # script.rpy:8759
 
-    old "All right, sorr-"
-    new "All right, sorr-"
+    # script.rpy:7718
 
-    old "... {w}When will be the day she treats me like that?"
-    new "... {w}When will be the day she treats me like that?"
+    # script.rpy:5102
 
-    old "Heeey~ {w}My cheek will turn red."
-    new "Heeey~ {w}My cheek will turn red."
+    # script.rpy:8886
 
-    old "I haven't had the opportunity to talk with him that much."
-    new "I haven't had the opportunity to talk with him that much."
+    # script.rpy:7431
 
-    old "Is that why she looked worried?"
-    new "Is that why she looked worried?"
+    # script.rpy:5259
 
-    old "I was only experimenting with certain recipes."
-    new "I was only experimenting with certain recipes."
+    # script.rpy:5679
 
-    old "Hello, I'm coming in."
-    new "Hello, I'm coming in."
+    # script.rpy:2475
 
-    old "{sc=2}{outlinecolor=#000000}{size=-6}{i}Deep breath...*"
-    new "{sc=2}{outlinecolor=#000000}{size=-6}{i}Deep breath...*"
+    # script.rpy:1619
 
-    old "In the evening, don't be late~"
-    new "In the evening, don't be late~"
+    # script.rpy:7680
 
-    old "After I made it out of the forest, I hit a big wall."
-    new "After I made it out of the forest, I hit a big wall."
+    # script.rpy:2294
 
-    old "How do you know my name?!"
-    new "How do you know my name?!"
+    # script.rpy:2676
 
-    old "You can go in now. She's waiting for you in the living room."
-    new "You can go in now. She's waiting for you in the living room."
+    # script.rpy:2682
 
-    old "I like your enthusiasm but-"
-    new "I like your enthusiasm but-"
+    # script.rpy:3252
 
     old "{image=quest_text}Now you can collect wood!"
     new "{image=quest_text}Now you can collect wood!"
 
-    old "I haven't seen Keiko so angry before..."
-    new "I haven't seen Keiko so angry before..."
+    # script.rpy:4147
 
-    old "Although I know that if something like that happened... {w}you would have no problem to take care of it hahaha..."
-    new "Although I know that if something like that happened... {w}you would have no problem to take care of it hahaha..."
+    # script.rpy:6901
 
-    old "No matter how much you suck nothing is going to come out.."
-    new "No matter how much you suck nothing is going to come out.."
+    # script.rpy:4397
 
-    old "Got it! {w}You two with me! {w}The rest of you stay with the materials!"
-    new "Got it! {w}You two with me! {w}The rest of you stay with the materials!"
+    # script.rpy:2807
 
-    old "Keiko takes a long breath."
-    new "Keiko takes a long breath."
+    # script.rpy:4302
 
-    old "Err... {w}S-So soon..."
-    new "Err... {w}S-So soon..."
+    # script.rpy:2219
 
-    old "{size=-10}Oii~ {w}You should get that treated or it will get worse."
-    new "{size=-10}Oii~ {w}You should get that treated or it will get worse."
+    # script.rpy:6206
 
-    old "{size=-6}Hana, {w}it's up to you."
-    new "{size=-6}Hana, {w}it's up to you."
+    # script.rpy:6333
 
-    old "In the past, they weren't mixed."
-    new "In the past, they weren't mixed."
+    # script.rpy:4670
 
-    old "{sc=2}{outlinecolor=#000000}I was just passing by!"
-    new "{sc=2}{outlinecolor=#000000}I was just passing by!"
+    # script.rpy:1152
 
-    old "{size=-9}Bye Bye handsome... {w}{sc=1}{outlinecolor=#000000}{size=-8}Chu~{image=corazon}{image=corazon}"
-    new "{size=-9}Bye Bye handsome... {w}{sc=1}{outlinecolor=#000000}{size=-8}Chu~{image=corazon}{image=corazon}"
+    # script.rpy:2192
 
-    old "Yes... {w}sorry."
-    new "Yes... {w}sorry."
+    # script.rpy:3272
 
-    old "{sc=1}{outlinecolor=#000000}{color=#2cd390}{size=-10}{i}Maybe... if they disappear..."
-    new "{sc=1}{outlinecolor=#000000}{color=#2cd390}{size=-10}{i}Maybe... if they disappear..."
+    # script.rpy:8745
 
-    old "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
-    new "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
+    # script.rpy:2342
 
-    old "Now I understand why I felt your power. You were coming this way."
-    new "Now I understand why I felt your power. You were coming this way."
+    # script.rpy:4141
 
-    old "MhMN~ {w}Mom! {w}I can't breathe!"
-    new "MhMN~ {w}Mom! {w}I can't breathe!"
+    # script.rpy:4867
 
-    old "I can't say no to something like this."
-    new "I can't say no to something like this."
+    # script.rpy:8365
 
-    old "Err... well... {w}yeah."
-    new "Err... well... {w}yeah."
+    # script.rpy:2746
 
-    old "And the cat is paralyzed."
-    new "And the cat is paralyzed."
+    # script.rpy:6237
 
-    old "One by one I guess?"
-    new "One by one I guess?"
+    # script.rpy:7055
 
-    old "She didn't ask me for anything in return... {w}I feel that something isn't right."
-    new "She didn't ask me for anything in return... {w}I feel that something isn't right."
+    # script.rpy:602
 
-    old "I know Keiko didn't want me to survive only a few days in this world."
-    new "I know Keiko didn't want me to survive only a few days in this world."
+    # script.rpy:1063
 
-    old "Are you a thief?"
-    new "Are you a thief?"
+    # script.rpy:2553
 
-    old "Maybe it's because we had to fight there before."
-    new "Maybe it's because we had to fight there before."
+    # script.rpy:3778
 
-    old "Erm... {w}yes, I was accompanied by Ryoko and Charlotte."
-    new "Erm... {w}yes, I was accompanied by Ryoko and Charlotte."
+    # script.rpy:5653
 
-    old "How lucky~"
-    new "How lucky~"
+    # script.rpy:4587
 
-    old "{size=-8}{i}Well, {w}whatever happens will happen~"
-    new "{size=-8}{i}Well, {w}whatever happens will happen~"
+    # script.rpy:556
 
-    old "{size=-10}Since we'll always be together."
-    new "{size=-10}Since we'll always be together."
+    # script.rpy:4891
 
-    old "You saved that girl without even thinking about it!"
-    new "You saved that girl without even thinking about it!"
+    # script.rpy:463
 
-    old "Yes... Sayori is right, it's strange to see you like this."
-    new "Yes... Sayori is right, it's strange to see you like this."
+    # script.rpy:5983
 
-    old "Another thing, if you want to learn magic, you'll have to find someone to teach you."
-    new "Another thing, if you want to learn magic, you'll have to find someone to teach you."
+    # script.rpy:558
 
-    old "The doctor...?"
-    new "The doctor...?"
+    # script.rpy:2664
 
-    old "Fishing rod? {w}Here?"
-    new "Fishing rod? {w}Here?"
+    # script.rpy:3211
 
-    old "What's wrong with it? You even gave him your blessing."
-    new "What's wrong with it? You even gave him your blessing."
+    # script.rpy:8710
 
     old "Before you know it, night has fallen."
     new "Before you know it, night has fallen."
 
-    old "When you want to see me, just go to the stones and think of this place or me."
-    new "When you want to see me, just go to the stones and think of this place or me."
+    # script.rpy:4485
 
-    old "If you help me-"
-    new "If you help me-"
+    # script.rpy:720
 
-    old "This way you will never find a male that wants to mate with you."
-    new "This way you will never find a male that wants to mate with you."
+    # script.rpy:6258
 
-    old "{sc=2}{outlinecolor=#000000}{size=-8}No, please! A-Anything but this! Hahaha!"
-    new "{sc=2}{outlinecolor=#000000}{size=-8}No, please! A-Anything but this! Hahaha!"
+    # script.rpy:2620
 
-    old "Well, I'll start washing her back."
-    new "Well, I'll start washing her back."
+    # script.rpy:5335
 
-    old "Hahaha~ {w}I didn't know you were the competitive type as well~"
-    new "Hahaha~ {w}I didn't know you were the competitive type as well~"
+    # script.rpy:5744
 
-    old "Wait- {w}A-Rank??"
-    new "Wait- {w}A-Rank??"
+    # script.rpy:1492
 
-    old "Yui! {w}I was the one who took them!"
-    new "Yui! {w}I was the one who took them!"
+    # script.rpy:7047
 
-    old "I have to think of something extremely convincing."
-    new "I have to think of something extremely convincing."
+    # script.rpy:664
 
-    old "There are rooms which you can easily transform into bedrooms."
-    new "There are rooms which you can easily transform into bedrooms."
+    # script.rpy:3173
 
-    old "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Laa~ la~ laa~"
-    new "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Laa~ la~ laa~"
+    # script.rpy:1793
 
-    old "Is this their way of protecting you?"
-    new "Is this their way of protecting you?"
+    # script.rpy:4061
 
-    old "I never thought I'd meet someone who would treat me kindly, even with these chains on."
-    new "I never thought I'd meet someone who would treat me kindly, even with these chains on."
+    # script.rpy:1381
 
-    old "Do you think we didn't think about that?"
-    new "Do you think we didn't think about that?"
+    # script.rpy:2738
 
-    old "I'm looking for the doc-"
-    new "I'm looking for the doc-"
+    # script.rpy:2551
 
-    old "Of course, do you have something in mind?"
-    new "Of course, do you have something in mind?"
+    # script.rpy:8256
 
-    old "Take care, I won't be long."
-    new "Take care, I won't be long."
+    # script.rpy:4603
 
-    old "Please, be careful..."
-    new "Please, be careful..."
+    # script.rpy:1597
 
-    old "{size=-8}That should do it."
-    new "{size=-8}That should do it."
+    # script.rpy:5182
 
-    old "And I thought someone would finally be a worthy opponent..."
-    new "And I thought someone would finally be a worthy opponent..."
+    # script.rpy:6608
 
-    old "{size=-6}That had to hurt~"
-    new "{size=-6}That had to hurt~"
+    # script.rpy:5900
 
-    old "It's not that, but what's the point of coming to see an empty tomb?"
-    new "It's not that, but what's the point of coming to see an empty tomb?"
+    # script.rpy:4854
 
-    old "{size=-6}J-Just when I made my first friend..."
-    new "{size=-6}J-Just when I made my first friend..."
+    # script.rpy:1707
 
-    old "Of course... {w}why am I surprised? {w}So it is just as normal to kill a monster as it is to kill a bandit..."
-    new "Of course... {w}why am I surprised? {w}So it is just as normal to kill a monster as it is to kill a bandit..."
+    # script.rpy:5765
 
-    old "{size=-8}That was a signal to her teammates."
-    new "{size=-8}That was a signal to her teammates."
+    # script.rpy:6246
 
-    old "A-Are the beasts of t-this world so intelligent?"
-    new "A-Are the beasts of t-this world so intelligent?"
+    # script.rpy:1745
 
     old "You quickly get up from the floor. You offer her help, but she refuses."
     new "You quickly get up from the floor. You offer her help, but she refuses."
 
-    old "Our only choice was to escape..."
-    new "Our only choice was to escape..."
+    # script.rpy:1265
 
-    old "{size=-6}I'm sure she just feels sorry for those animals..."
-    new "{size=-6}I'm sure she just feels sorry for those animals..."
+    # script.rpy:8743
 
-    old "Hmm~{image=corazon} {w}And what exactly do you mean by that...?"
-    new "Hmm~{image=corazon} {w}And what exactly do you mean by that...?"
+    # script.rpy:2101
 
-    old "{sc=2}{outlinecolor=#000000}Ah...{w} Uhm...{w} Yes!"
-    new "{sc=2}{outlinecolor=#000000}Ah...{w} Uhm...{w} Yes!"
+    # script.rpy:735
 
-    old "When I was losing hope, {w}an adventurer opened the gate and offered to help me."
-    new "When I was losing hope, {w}an adventurer opened the gate and offered to help me."
+    # script.rpy:2296
 
-    old "That sounds pretty good, Ryoko has had to sleep with me all this time."
-    new "That sounds pretty good, Ryoko has had to sleep with me all this time."
+    # script.rpy:3176
 
-    old "Really?! {w}Hey, crybaby, you can play with us if you bring us your mother's panties."
-    new "Really?! {w}Hey, crybaby, you can play with us if you bring us your mother's panties."
+    # script.rpy:4809
 
-    old "You leave your guard wide open on every move."
-    new "You leave your guard wide open on every move."
+    # script.rpy:5020
 
-    old "{sc=3}{outlinecolor=#000000}I just ran and ran!"
-    new "{sc=3}{outlinecolor=#000000}I just ran and ran!"
+    # script.rpy:1274
 
     old "You quickly take off your clothes, clean yourself, and walk toward Keiko."
     new "You quickly take off your clothes, clean yourself, and walk toward Keiko."
 
-    old "You really don't remember anything?"
-    new "You really don't remember anything?"
+    # script.rpy:4060
 
-    old "Yes, it wasn't that bad, it healed me immediately."
-    new "Yes, it wasn't that bad, it healed me immediately."
+    # script.rpy:7791
 
-    old "And what's a fallen angel?"
-    new "And what's a fallen angel?"
+    # script.rpy:4328
 
-    old "Until she finally fell asleep..."
-    new "Until she finally fell asleep..."
+    # script.rpy:1297
 
-    old "I won't let you!"
-    new "I won't let you!"
+    # script.rpy:1648
 
-    old "{size=-10}W-What do you mean...?"
-    new "{size=-10}W-What do you mean...?"
+    # script.rpy:2174
 
-    old "You know what? I'm not even going to argue anymore..."
-    new "You know what? I'm not even going to argue anymore..."
+    # script.rpy:2671
 
-    old "Aside from those strange symbols..."
-    new "Aside from those strange symbols..."
+    # script.rpy:3810
 
-    old "Good morning, {w}did you sleep well?"
-    new "Good morning, {w}did you sleep well?"
+    # script.rpy:4947
 
-    old "WAAaaaAAAAaaaa!!"
-    new "WAAaaaAAAAaaaa!!"
+    # script.rpy:6828
 
-    old "I need clothes, in which I can go unnoticed."
-    new "I need clothes, in which I can go unnoticed."
+    # script.rpy:7295
 
-    old "They must've stayed by my side... and ended up falling asleep on top of me."
-    new "They must've stayed by my side... and ended up falling asleep on top of me."
+    # script.rpy:8795
 
-    old "But in terms of strength, you're nothing like her."
-    new "But in terms of strength, you're nothing like her."
+    # script.rpy:4106
 
-    old "Is this really h-happening? {w}I-I'm not dreaming?"
-    new "Is this really h-happening? {w}I-I'm not dreaming?"
+    # script.rpy:1977
 
-    old "Look, {w}we got off on the wrong foot."
-    new "Look, {w}we got off on the wrong foot."
+    # script.rpy:1214
 
-    old "What did Hikari tell you?"
-    new "What did Hikari tell you?"
+    # script.rpy:4240
 
-    old "Just that?"
-    new "Just that?"
+    # script.rpy:2326
 
-    old "It's not s-safe to be here anymore, these people are crazy!"
-    new "It's not s-safe to be here anymore, these people are crazy!"
+    # script.rpy:6465
 
-    old "Do you have any other questions?"
-    new "Do you have any other questions?"
+    # script.rpy:4354
 
-    old "Hmm... {w}whatever you say~{image=corazon}"
-    new "Hmm... {w}whatever you say~{image=corazon}"
+    # script.rpy:1867
 
     old "But things were going too well to be true..."
     new "But things were going too well to be true..."
 
-    old "{size=-10}D-Doctor, {w}please get up..."
-    new "{size=-10}D-Doctor, {w}please get up..."
+    # script.rpy:6701
 
-    old "You were able to use a summoning portal to get here."
-    new "You were able to use a summoning portal to get here."
+    # script.rpy:4034
 
-    old "And maybe a few tables outside my store would be nice~ Hahaha."
-    new "And maybe a few tables outside my store would be nice~ Hahaha."
+    # script.rpy:8202
 
-    old "What's wrong? Did I say something bad?"
-    new "What's wrong? Did I say something bad?"
+    # script.rpy:1418
 
-    old "No problem, Master. But... {w}I only remember warning you once."
-    new "No problem, Master. But... {w}I only remember warning you once."
+    # script.rpy:1536
 
-    old "Yes, for your act of bravery."
-    new "Yes, for your act of bravery."
+    # script.rpy:515
 
-    old "{size=-10}That's all I can do."
-    new "{size=-10}That's all I can do."
+    # script.rpy:6077
 
-    old "So the water that reaches the hot springs comes from here."
-    new "So the water that reaches the hot springs comes from here."
+    # script.rpy:8484
 
-    old "That was better than I expected..."
-    new "That was better than I expected..."
+    # script.rpy:8185
 
-    old "Hahaha, I appreciate your support."
-    new "Hahaha, I appreciate your support."
+    # script.rpy:8187
 
-    old "I don't want anything bad to happen to you because of me."
-    new "I don't want anything bad to happen to you because of me."
+    # script.rpy:2331
 
-    old "Luckily I didn't even have to draw my katana..."
-    new "Luckily I didn't even have to draw my katana..."
+    # script.rpy:1067
 
     old "You feel in a complete emptiness but with a clear destination."
     new "You feel in a complete emptiness but with a clear destination."
 
-    old "T-This has gone beyond teasing...!"
-    new "T-This has gone beyond teasing...!"
+    # script.rpy:1950
 
-    old "At Mayu's house in the evening..."
-    new "At Mayu's house in the evening..."
+    # script.rpy:7690
 
-    old "Nothing serious."
-    new "Nothing serious."
+    # script.rpy:7786
 
-    old "Besides, I need to start preparing for the trip to the kingdom."
-    new "Besides, I need to start preparing for the trip to the kingdom."
+    # script.rpy:8895
 
-    old "Looks like she's been taking care of me all this time."
-    new "Looks like she's been taking care of me all this time."
+    # script.rpy:2271
 
-    old "Now I understand why she didn't attack us while you were telling me about your life."
-    new "Now I understand why she didn't attack us while you were telling me about your life."
+    # script.rpy:6203
 
-    old "Her worried expression came back the moment I asked."
-    new "Her worried expression came back the moment I asked."
+    # script.rpy:1236
 
-    old "Yes, and if you have observed well, they are perfect places to be used."
-    new "Yes, and if you have observed well, they are perfect places to be used."
+    # script.rpy:8244
 
-    old "Hahaha, {w}well, I'm glad it wasn't like that."
-    new "Hahaha, {w}well, I'm glad it wasn't like that."
+    # script.rpy:959
 
-    old "Were you looking after me?"
-    new "Were you looking after me?"
+    # script.rpy:4535
 
-    old "I think I'm getting better..."
-    new "I think I'm getting better..."
+    # script.rpy:7808
 
-    old "Oh hey, I didn't know you two were coming."
-    new "Oh hey, I didn't know you two were coming."
+    # script.rpy:8029
 
-    old "The falling leaves..."
-    new "The falling leaves..."
+    # script.rpy:972
 
-    old "And for what purpose? {w}For what reason-"
-    new "And for what purpose? {w}For what reason-"
+    # script.rpy:677
 
-    old "The last time we spoke you opened my eyes."
-    new "The last time we spoke you opened my eyes."
+    # script.rpy:7982
 
-    old "R-Ryoko... {w}She noticed my erection..."
-    new "R-Ryoko... {w}She noticed my erection..."
+    # script.rpy:5373
 
-    old "It was Miss Diana who looked for you and told you to come, {w}right?"
-    new "It was Miss Diana who looked for you and told you to come, {w}right?"
+    # script.rpy:7477
 
-    old "{size=-6}No rush. Take your time."
-    new "{size=-6}No rush. Take your time."
+    # script.rpy:8829
 
-    old "Can I help them?"
-    new "Can I help them?"
+    # script.rpy:2754
 
-    old "I'll follow Hana's advice... I don't want them to worry again."
-    new "I'll follow Hana's advice... I don't want them to worry again."
+    # script.rpy:8894
 
-    old "If it had been any other goddess, {w}maybe."
-    new "If it had been any other goddess, {w}maybe."
+    # script.rpy:2149
 
-    old "The good thing is that you treated it in time and with good medicine..."
-    new "The good thing is that you treated it in time and with good medicine..."
+    # script.rpy:7224
 
-    old "{color=#6998bc}No trouble at all. Take care~"
-    new "{color=#6998bc}No trouble at all. Take care~"
+    # script.rpy:2403
 
-    old "H-Hey! {w}Are you ok?"
-    new "H-Hey! {w}Are you ok?"
+    # script.rpy:5473
 
-    old "{color=#8cc1e9}Hey, don't bring Shika into your weird games."
-    new "{color=#8cc1e9}Hey, don't bring Shika into your weird games."
+    # script.rpy:8638
 
-    old "Veeeery much!"
-    new "Veeeery much!"
+    # script.rpy:2274
 
-    old "Those dreams you're having will tell you everything you want to know."
-    new "Those dreams you're having will tell you everything you want to know."
+    # script.rpy:4319
 
-    old "Of course, I must be there for your coronation!"
-    new "Of course, I must be there for your coronation!"
+    # script.rpy:7739
 
-    old "Do they know each other..?"
-    new "Do they know each other..?"
+    # script.rpy:4629
 
-    old "Wait! {w}Seriously! If you pull it off me, you're going to-"
-    new "Wait! {w}Seriously! If you pull it off me, you're going to-"
+    # script.rpy:4979
 
-    old "Nothing better than seeing that face after she acts so serious."
-    new "Nothing better than seeing that face after she acts so serious."
+    # script.rpy:5797
 
-    old "Relax soldier, {w}he has my permission."
-    new "Relax soldier, {w}he has my permission."
+    # script.rpy:3316
 
-    old "I feel like I had a long dream..."
-    new "I feel like I had a long dream..."
+    # script.rpy:6803
 
-    old "I don't know where to start."
-    new "I don't know where to start."
+    # script.rpy:4241
 
-    old "Are you sure you don't want me to help move the materials?"
-    new "Are you sure you don't want me to help move the materials?"
+    # script.rpy:2718
 
-    old "One more thing."
-    new "One more thing."
+    # script.rpy:588
 
-    old "Spirits? {w}I remember Yui saying that dryads exist."
-    new "Spirits? {w}I remember Yui saying that dryads exist."
+    # script.rpy:8212
 
-    old "Hehehe, so you see yourself as [mc]'s woman?"
-    new "Hehehe, so you see yourself as [mc]'s woman?"
+    # script.rpy:5990
 
-    old "{size=-6}{i}My time has come..."
-    new "{size=-6}{i}My time has come..."
+    # script.rpy:2610
 
-    old "We are leaving, {w}we have to report the situation of this place."
-    new "We are leaving, {w}we have to report the situation of this place."
+    # script.rpy:4594
 
-    old "You were able to stop my maid's attacks."
-    new "You were able to stop my maid's attacks."
+    # script.rpy:4036
 
-    old "Y-You've been cumming for a while..."
-    new "Y-You've been cumming for a while..."
+    # script.rpy:5508
 
-    old "Don't move until I finish examining you~{image=corazon}"
-    new "Don't move until I finish examining you~{image=corazon}"
+    # script.rpy:7805
 
-    old "Wasn't it just two questions?"
-    new "Wasn't it just two questions?"
+    # script.rpy:4380
 
-    old "{size=-6}Though I admit... I got a little carried away~"
-    new "{size=-6}Though I admit... I got a little carried away~"
+    # script.rpy:2177
 
-    old "You're crazy! {w}No one will ever play with you!"
-    new "You're crazy! {w}No one will ever play with you!"
+    # script.rpy:4814
 
-    old "I don't know how others feel just by watching them."
-    new "I don't know how others feel just by watching them."
+    # script.rpy:8305
 
-    old "B-But even I don't know how I got here."
-    new "B-But even I don't know how I got here."
+    # script.rpy:4002
 
-    old "A-Are you... {w}crazy?"
-    new "A-Are you... {w}crazy?"
+    # script.rpy:7376
 
-    old "Mmm? Yes, it looks strange?"
-    new "Mmm? Yes, it looks strange?"
+    # script.rpy:7933
 
-    old "M-My Instincts are m-messing with my head!{image=corazon}{image=corazon}"
-    new "M-My Instincts are m-messing with my head!{image=corazon}{image=corazon}"
+    # script.rpy:5590
 
-    old "You're the best thing that ever happened to me [mc]."
-    new "You're the best thing that ever happened to me [mc]."
+    # script.rpy:4887
 
-    old "I was going to rebirth you as a new-born baby."
-    new "I was going to rebirth you as a new-born baby."
+    # script.rpy:519
 
-    old "I wanted to ask her when we were done with all this."
-    new "I wanted to ask her when we were done with all this."
+    # script.rpy:2783
 
-    old "If you eat too much, you'll get sick."
-    new "If you eat too much, you'll get sick."
+    # script.rpy:3657
 
-    old "Ryoko! {w}They just got out!"
-    new "Ryoko! {w}They just got out!"
+    # script.rpy:5033
 
-    old "Okay~ {w}then I'll do it for you."
-    new "Okay~ {w}then I'll do it for you."
+    # script.rpy:5302
 
-    old "You won't always be this lucky."
-    new "You won't always be this lucky."
+    # script.rpy:1893
 
-    old "We were going to put a person in charge of that."
-    new "We were going to put a person in charge of that."
+    # script.rpy:3158
 
-    old "Sorry, I'll be right back."
-    new "Sorry, I'll be right back."
+    # script.rpy:5986
 
-    old "I was... {w}meditating..."
-    new "I was... {w}meditating..."
+    # script.rpy:4530
 
-    old "I approached you like I always do..."
-    new "I approached you like I always do..."
+    # script.rpy:7921
 
-    old "Charlotte told me that she got used to bathing with a friend."
-    new "Charlotte told me that she got used to bathing with a friend."
+    # script.rpy:5357
 
-    old "W-What ag youg foing!?"
-    new "W-What ag youg foing!?"
+    # script.rpy:8875
 
-    old "And you're a goddess from what I can see..."
-    new "And you're a goddess from what I can see..."
+    # script.rpy:627
 
-    old "Is Akane still in the house?"
-    new "Is Akane still in the house?"
+    # script.rpy:8046
 
-    old "{size=-6}It's yours..."
-    new "{size=-6}It's yours..."
+    # script.rpy:3570
 
-    old "I feel like I've been run over by a truck..."
-    new "I feel like I've been run over by a truck..."
+    # script.rpy:4111
 
-    old "Well, I'll see if I'm lucky."
-    new "Well, I'll see if I'm lucky."
+    # script.rpy:3180
 
-    old "It's such a strange feeling..."
-    new "It's such a strange feeling..."
+    # script.rpy:2235
 
-    old "Is it better if I show it to you myself?"
-    new "Is it better if I show it to you myself?"
+    # script.rpy:4115
 
-    old "These are all the houses in which people live."
-    new "These are all the houses in which people live."
+    # script.rpy:8233
 
-    old "{size=-10}{i}Don't make me hug you in front of your girls..."
-    new "{size=-10}{i}Don't make me hug you in front of your girls..."
+    # script.rpy:6931
 
-    old "Well, while you work, I'll think abo-"
-    new "Well, while you work, I'll think abo-"
+    # script.rpy:3423
 
-    old "Buujii jiji!"
-    new "Buujii jiji!"
+    # script.rpy:2920
 
-    old "That place, don't touch it yet."
-    new "That place, don't touch it yet."
+    # script.rpy:8253
 
-    old "{sc=2}{outlinecolor=#000000}{size=-6}I will not die in such a pathetic way!"
-    new "{sc=2}{outlinecolor=#000000}{size=-6}I will not die in such a pathetic way!"
+    # script.rpy:1742
 
     old "After walking 15 minutes."
     new "After walking 15 minutes."
 
-    old "Also, {w}since we secured the lake, if you catch something you can sell it there."
-    new "Also, {w}since we secured the lake, if you catch something you can sell it there."
+    # script.rpy:3411
 
-    old "Do you think so? {w}Like I can feel a warmth... from the others, but in this one there's nothing..."
-    new "Do you think so? {w}Like I can feel a warmth... from the others, but in this one there's nothing..."
+    # script.rpy:4861
 
-    old "And you haven't seen the size of her t-"
-    new "And you haven't seen the size of her t-"
+    # script.rpy:4811
 
-    old "But after what happened, it only raised more..."
-    new "But after what happened, it only raised more..."
+    # script.rpy:4225
 
-    old "I always wondered if that knowledge would ever come in handy."
-    new "I always wondered if that knowledge would ever come in handy."
+    # script.rpy:940
 
-    old "You'll practically be resurrected."
-    new "You'll practically be resurrected."
+    # script.rpy:523
 
-    old "I hope that if we meet again, {w}it will be under different circumstances~{image=corazon}"
-    new "I hope that if we meet again, {w}it will be under different circumstances~{image=corazon}"
+    # script.rpy:596
 
-    old "Besides, without her I would be dead."
-    new "Besides, without her I would be dead."
+    # script.rpy:4704
 
-    old "I wanna do it too!"
-    new "I wanna do it too!"
+    # script.rpy:3708
 
-    old "Why are you so reckless?"
-    new "Why are you so reckless?"
+    # script.rpy:4219
 
-    old "Ah.. {w}ehm... {w}yeah..."
-    new "Ah.. {w}ehm... {w}yeah..."
+    # script.rpy:5293
 
-    old "The girls are standing guard, nothing bad will happen to her."
-    new "The girls are standing guard, nothing bad will happen to her."
+    # script.rpy:2759
 
-    old "Charlotte has also settled into the house pretty well."
-    new "Charlotte has also settled into the house pretty well."
+    # script.rpy:3673
 
-    old "Did she just completely ignore me...?"
-    new "Did she just completely ignore me...?"
+    # script.rpy:721
 
-    old "It might be a little dirty, but it's better than the others..."
-    new "It might be a little dirty, but it's better than the others..."
+    # script.rpy:1168
 
-    old "Hmm... Have you searched your house? I remember there was a room where they kept that kind of stuff..."
-    new "Hmm... Have you searched your house? I remember there was a room where they kept that kind of stuff..."
+    # script.rpy:3166
 
-    old "Now I understand why I found bruises on her head..."
-    new "Now I understand why I found bruises on her head..."
+    # script.rpy:8073
 
-    old "I guess now I'll go to heaven... or wherever you're supposed to send me."
-    new "I guess now I'll go to heaven... or wherever you're supposed to send me."
+    # script.rpy:1875
 
-    old "She said those wolves are hard to kill... {w}I hope they're worth something at the market she mentioned."
-    new "She said those wolves are hard to kill... {w}I hope they're worth something at the market she mentioned."
+    # script.rpy:1451
 
-    old "We don't want you to last only a few days in this world, hehe."
-    new "We don't want you to last only a few days in this world, hehe."
+    # script.rpy:551
 
-    old "{size=-6}{i}Sigh~{/size}{/i} {w}she's still worried about her..."
-    new "{size=-6}{i}Sigh~{/size}{/i} {w}she's still worried about her..."
+    # script.rpy:2167
 
-    old "Oh wait, she's dead."
-    new "Oh wait, she's dead."
+    # script.rpy:8284
 
-    old "No... {w}Sometimes I hear a voice in my head."
-    new "No... {w}Sometimes I hear a voice in my head."
+    # script.rpy:4324
 
-    old "Gulp* {w}Are you ok...?"
-    new "Gulp* {w}Are you ok...?"
+    # script.rpy:5617
 
-    old "So, what did you want to tell us?"
-    new "So, what did you want to tell us?"
+    # script.rpy:3727
 
-    old "Although lately I accompany her when she climbs on the roof."
-    new "Although lately I accompany her when she climbs on the roof."
+    # script.rpy:5041
 
-    old "Not to mention that she was also friends with Keiko and, strangely enough, Hikari as well."
-    new "Not to mention that she was also friends with Keiko and, strangely enough, Hikari as well."
+    # script.rpy:8819
 
-    old "Oh... sorry, {w}it was a reflex."
-    new "Oh... sorry, {w}it was a reflex."
+    # script.rpy:765
 
-    old "He is a strangely nice person, especially since he told us something so important out of the blue and in the most carefree way."
-    new "He is a strangely nice person, especially since he told us something so important out of the blue and in the most carefree way."
+    # script.rpy:7432
 
-    old "Y-Yes... {w}I'm a-about to."
-    new "Y-Yes... {w}I'm a-about to."
+    # script.rpy:5586
 
-    old "Hmm? {w}T-Thanks..."
-    new "Hmm? {w}T-Thanks..."
+    # script.rpy:5695
 
-    old "{size=-10}Everything is fine now..."
-    new "{size=-10}Everything is fine now..."
+    # script.rpy:6820
 
-    old "Who is there?"
-    new "Who is there?"
+    # script.rpy:3313
