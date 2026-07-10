@@ -8,7 +8,7 @@ translate ukrainian strings:
 
     # game/gallery.rpy:95
     old "{size=+9}Keiko"
-    new "{size=+9}Keiko"
+    new "{size=+9}Кейко"
 
     # game/gallery.rpy:103
     old "{size=+9}Fumiko"
