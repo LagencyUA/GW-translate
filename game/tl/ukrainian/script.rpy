@@ -1457,6 +1457,8 @@ translate ukrainian choice4_5f0a1bed:
     # mc "Dangers?"
     mc "Небезпекам?"
 
+    
+
 # game/game/script.rpy:547
 translate ukrainian choice4_256e9728:
 
