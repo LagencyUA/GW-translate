@@ -1461,7 +1461,7 @@ translate ukrainian choice4_5f0a1bed:
 translate ukrainian choice4_256e9728:
 
     # mc "What kind of dangers?"
-    mc "What kind of dangers?"
+    mc "Які це небезпеки?"
 
 # game/game/script.rpy:549
 translate ukrainian choice4_a0a797a5:
