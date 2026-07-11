@@ -23,3 +23,8 @@ game/fonts/*
 
 # Ignore vscode settings
 .vscode/
+
+!README.md
+!LISENCE
+!.github/
+!.github/**
