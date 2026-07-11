@@ -140,11 +140,11 @@
 3. Готово.
 
 ## ⚖️ Ліцензія / License
-Цей мод поширюється під ліцензією MIT (див. файл [`LICENSE`](LICENSE)). Ліцензія поширюється виключно на створені файли перекладу та кастомні скрипти автоматизації, що містяться в цьому репозиторії. Усі права на оригінальну гру, графіку та персонажів належать оригінальному розробнику.
+Цей мод поширюється під міжнародною ліцензією Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) (див. файл [`LICENSE`](LICENSE)). Ліцензія поширюється виключно на створені файли перекладу та кастомні скрипти автоматизації, що містяться в цьому репозиторії. Усі права на оригінальну гру, графіку та персонажів належать оригінальному розробнику.
 
 У проєкті використовуються шрифти з платформи **Google Fonts** під відповідними відкритими ліцензіями.
 
 ---
-This mod is distributed under the MIT License (see the [`LICENSE`](LICENSE) file). The license applies exclusively to the translation files and custom automation scripts created and contained in this repository. All rights to the original game, graphics, and characters belong to the original developer.
+This mod is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license (see the [`LICENSE`](LICENSE) file). The license applies exclusively to the translation files and custom automation scripts created and contained in this repository. All rights to the original game, graphics, and characters belong to the original developer.
 
 The project uses fonts from the **Google Fonts** platform under the respective open-source licenses.
