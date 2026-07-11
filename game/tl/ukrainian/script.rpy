@@ -1449,13 +1449,13 @@ translate ukrainian choice4_b7242d76:
 translate ukrainian choice4_be3dd219:
 
     # k "Take it as something to face the dangers you'll encounter~{image=corazon}"
-    k "Take it as something to face the dangers you'll encounter~{image=corazon}"
+    k "Прийми його, щоб мати змогу дати відсіч небезпекам, що на тебе чекатимуть~{image=corazon}"
 
 # game/game/script.rpy:546
 translate ukrainian choice4_5f0a1bed:
 
     # mc "Dangers?"
-    mc "Dangers?"
+    mc "Небезпекам?"
 
 # game/game/script.rpy:547
 translate ukrainian choice4_256e9728:
