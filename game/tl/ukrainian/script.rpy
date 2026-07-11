@@ -1443,7 +1443,7 @@ translate ukrainian choice4_c7bdb283:
 translate ukrainian choice4_b7242d76:
 
     # k "I'll also give you my blessing."
-    k "I'll also give you my blessing."
+    k "Я також подарую тобі своє благословення."
 
 # game/game/script.rpy:545
 translate ukrainian choice4_be3dd219:
