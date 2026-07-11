@@ -60,14 +60,6 @@
     old "Default"
     new "За замовчуванням"
 
-    # renpy/common/00accessibility.rpy:146
-    old "DejaVu Sans"
-    new "DejaVu Sans"
-
-    # renpy/common/00accessibility.rpy:150
-    old "Opendyslexic"
-    new "Opendyslexic"
-
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
     new "Масштабування розміру тексту"
@@ -276,10 +268,6 @@
     old "{#month_short}Dec"
     new "{#month_short}Гру"
 
-    # renpy/common/00action_file.rpy:250
-    old "%b %d, %H:%M"
-    new "%b %d, %H:%M"
-
     # renpy/common/00action_file.rpy:364
     old "Save slot %s: [text]"
     new "Зберегти слот %s: [text]"
@@ -335,14 +323,6 @@
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
     new "Інтерактивний директор тут не ввімкнено."
-
-    # renpy/common/00director.rpy:1481
-    old "⬆"
-    new "⬆"
-
-    # renpy/common/00director.rpy:1487
-    old "⬇"
-    new "⬇"
 
     # renpy/common/00director.rpy:1551
     old "Done"
@@ -967,11 +947,11 @@
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "Завантаження ігрових даних."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "Завантаження ігрових даних."
+    new "Ігрові дані завантажено."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
@@ -1052,14 +1032,6 @@
     # renpy/common/00gltest.rpy:177
     old "Screen"
     new "Екран"
-
-    # renpy/common/00gltest.rpy:181
-    old "60"
-    new "60"
-
-    # renpy/common/00gltest.rpy:185
-    old "30"
-    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
@@ -1204,4 +1176,3 @@
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
     new "Помилка аналізу сторінки."
-
