@@ -1437,7 +1437,7 @@ translate ukrainian choice4_dd079e79:
 translate ukrainian choice4_c7bdb283:
 
     # k "I'm glad~{image=corazon} {w}I'll always be watching you."
-    k "Я рада~{image=corazon} {w}Я буду завжди спостерігати за тобою."
+    k "Я рада~{image=corazon} {w}Я завжди спостерігатимему за тобою."
 
 # game/game/script.rpy:544
 translate ukrainian choice4_b7242d76:
@@ -1449,13 +1449,13 @@ translate ukrainian choice4_b7242d76:
 translate ukrainian choice4_be3dd219:
 
     # k "Take it as something to face the dangers you'll encounter~{image=corazon}"
-    k "Прийми його, щоб мати змогу дати відсіч небезпекам, що на тебе чекатимуть~{image=corazon}"
+    k "Прийми його як захист від небезпек, що на тебе чекатимуть~{image=corazon}"
 
 # game/game/script.rpy:546
 translate ukrainian choice4_5f0a1bed:
 
     # mc "Dangers?"
-    mc "Небезпекам?"
+    mc "«Небезпек»?"
 
 # game/game/script.rpy:547
 translate ukrainian choice4_256e9728:
@@ -1467,25 +1467,25 @@ translate ukrainian choice4_256e9728:
 translate ukrainian choice4_a0a797a5:
 
     # k "You know monsters, {w}magic... {w}bad people."
-    k "You know monsters, {w}magic... {w}bad people."
+    k "Ну, знаєш: монстри, {w}магія... {w}різні поганці."
 
 # game/game/script.rpy:550
 translate ukrainian choice4_4cab5e33:
 
     # k "Also, with my blessing, your physical attributes will improve."
-    k "Also, with my blessing, your physical attributes will improve."
+    k "Крім того, моє благословення також посилить тебе фізично."
 
 # game/game/script.rpy:551
 translate ukrainian choice4_4d553db5:
 
     # k "We don't want you to last only a few days in this world, hehe."
-    k "We don't want you to last only a few days in this world, hehe."
+    k "Ми ж не хочемо, щоб ти прожив у цьому світі лише кілька днів, хе-хе."
 
 # game/game/script.rpy:552
 translate ukrainian choice4_e48286f1:
 
     # mc "I'll gladly take it."
-    mc "I'll gladly take it."
+    mc "Я з радістю прийму його."
 
 # game/game/script.rpy:554
 translate ukrainian choice4_8fb0e523:
