@@ -1,4 +1,4 @@
-#Привіт світ!
+
 # game/game/script.rpy:50
 translate ukrainian start_a55bd194:
 
