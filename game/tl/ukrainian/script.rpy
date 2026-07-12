@@ -1497,13 +1497,13 @@ translate ukrainian choice4_8fb0e523:
 translate ukrainian choice4_b1be5325:
 
     # k "{size=-8}{i}I hope it works, it wasn't that difficult..."
-    k "{size=-8}{i}Споіваюсь спрацює, наче це не було чимось складним..."
+    k "{size=-8}{i}Споіваюся, спрацює. Наче й не так склажно було..."
 
 # game/game/script.rpy:556
 translate ukrainian choice4_9762900f:
 
     # k "{size=-8}{i}Well, {w}whatever happens will happen~"
-    k "{size=-8}{i}Well, {w}whatever happens will happen~"
+    k "{size=-8}{i}Ну, {w}що трапиться, те й трапится~"
 
 # game/game/script.rpy:558
 translate ukrainian choice4_f7fd9909:
