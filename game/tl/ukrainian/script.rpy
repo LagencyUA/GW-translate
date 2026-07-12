@@ -1491,13 +1491,13 @@ translate ukrainian choice4_e48286f1:
 translate ukrainian choice4_8fb0e523:
 
     # k "{size=-8}{i}I've never done this before..."
-    k "{size=-8}{i}I've never done this before..."
+    k "{size=-8}{i}Ніколи цього раніше не робила..."
 
 # game/game/script.rpy:555
 translate ukrainian choice4_b1be5325:
 
     # k "{size=-8}{i}I hope it works, it wasn't that difficult..."
-    k "{size=-8}{i}I hope it works, it wasn't that difficult..."
+    k "{size=-8}{i}Споіваюсь спрацює, наче це не було чимось складним..."
 
 # game/game/script.rpy:556
 translate ukrainian choice4_9762900f:
