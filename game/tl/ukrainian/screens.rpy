@@ -41,8 +41,8 @@
     new "Завантажити"
 
     # game/screens.rpy:392
-    old "Patreon"
-    new "Patreon"
+    # old "Patreon"
+    # new "Patreon"
 
     # game/screens.rpy:398
     old "Options"
@@ -86,7 +86,7 @@
 
     # game/screens.rpy:581
     old "Ver. 0.4.6 Public"
-    new "Ver. 0.4.6 Public"
+    new "Вер. 0.4.6 Public"
 
     # game/screens.rpy:770
     old "Return"
@@ -110,7 +110,33 @@
 
     # game/screens.rpy:874
     old "\n                                            Story by Ncrow\n                                            Models by Ncrow\n                                            Events by Ncrow\n                                            Ideas by Ncrow\n                                            Animations by Ncrow\n                                            Renders by Ncrow\n                                            Bug creation by Ncrow\n                                            Bug fixing (sometimes) by Ncrow\n                                            Existential crisis by Ncrow\n                                            Produced by Ncrow\n                                            Directed by Ncrow\n                                            Suffered by Ncrow\n                                            Survived by... barely... Ncrow.\n                                            Everything else... guess who? Ncrow."
-    new "\n                                            Розповідь - Ncrow\n                                            Моделі - Ncrow\n                                            Події - Ncrow\n                                            Ідеї - Ncrow\n                                            Анімації - Ncrow\n                                            Рендери - Ncrow\n                                            Баги створені - Ncrow\n                                            Баги виправленні (іноді) - Ncrow\n                                            Екзистенційна криза - Ncrow\n                                            Виробництво - Ncrow\n                                            Режисер - Ncrow\n                                            Страждав - Ncrow\n                                            Вижив... ледве... - Ncrow.\n                                            Все інше... Вгадайте хто? - Ncrow.\n\nНу й переклав для вас українською мовою, щоб ви могли насолоджуватися грою - Lagency."
+    new """
+                                            Розповідь - Ncrow
+                                            Моделі - Ncrow
+                                            Події - Ncrow
+                                            Ідеї - Ncrow
+                                            Анімації - Ncrow
+                                            Рендери - Ncrow
+                                            Баги створені - Ncrow
+                                            Баги виправленні (іноді) - Ncrow
+                                            Екзистенційна криза - Ncrow
+                                            Виробництво - Ncrow
+                                            Режисер - Ncrow
+                                            Страждав - Ncrow
+                                            Вижив... ледве... - Ncrow.
+                                            Все інше... Вгадайте хто? - Ncrow.
+
+Ну й створювали цей переклад для вас українською мовою, щоб ви могли насолоджуватися грою, наступні люди:
+                                            Переклад з англійської - Lagency
+                                            Редактура - Ernallid_Dual
+                                            Декомпіляція рядків тексту - Lagency
+                                            Підбір шрифтів - Lagency
+                                            Інтеграція у гру - Lagency
+                                            Скрипти для полегшення життя - Dadmon
+
+Lagency: Переклад створенао за моєї особистої ініціативи. Дякую моєму другу Dadmon за технічну допомогу та полегшення роботи над перекладом. Дякую Ernallid_Dual, що погодився на цю авантюру.
+Створено під крилом команди перекладу 17 Жовтня ({a=https://t.me/group_17_october}Телеграм{/a}).
+Мій особистий {a=https://t.me/Lagency_public}ТГК{/a}."""
 
     # game/screens.rpy:927
     old "Page {}"
@@ -208,17 +234,9 @@
     old "Gamepad"
     new "Геймпад"
 
-    # game/screens.rpy:1391
-    old "Enter"
-    new "Enter"
-
     # game/screens.rpy:1392
     old "Advances dialogue and activates the interface."
     new "Розвиває діалог і активує інтерфейс."
-
-    # game/screens.rpy:1395
-    old "Space"
-    new "Space"
 
     # game/screens.rpy:1396
     old "Advances dialogue without selecting choices."
@@ -232,41 +250,21 @@
     old "Navigate the interface."
     new "Навігація інтерфейсом."
 
-    # game/screens.rpy:1403
-    old "Escape"
-    new "Escape"
-
     # game/screens.rpy:1404
     old "Accesses the game menu."
     new "Відкрити ігрове меню."
-
-    # game/screens.rpy:1407
-    old "Ctrl"
-    new "Ctrl"
 
     # game/screens.rpy:1408
     old "Skips dialogue while held down."
     new "Пропускає діалог при утриманні."
 
-    # game/screens.rpy:1411
-    old "Tab"
-    new "Tab"
-
     # game/screens.rpy:1412
     old "Toggles dialogue skipping."
     new "Вмикає пропуск діалогу."
 
-    # game/screens.rpy:1415
-    old "Page Up"
-    new "Page Up"
-
     # game/screens.rpy:1416
     old "Rolls back to earlier dialogue."
     new "Відкат до попереднього діалогу."
-
-    # game/screens.rpy:1419
-    old "Page Down"
-    new "Page Down"
 
     # game/screens.rpy:1420
     old "Rolls forward to later dialogue."

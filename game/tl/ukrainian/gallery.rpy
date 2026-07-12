@@ -19,8 +19,8 @@ translate ukrainian strings:
     new "{size=+9}Рьоко"
 
     # game/gallery.rpy:118
-    old "?"
-    new "?"
+    # old "?"
+    # new "?"
 
     # game/gallery.rpy:125
     old "{size=+9}Yui"
@@ -79,8 +79,8 @@ translate ukrainian strings:
     new "{size=+9}Солдатки"
 
     # game/gallery.rpy:314
-    old "{size=+9}Patreons"
-    new "{size=+9}Patreons"
+    # old "{size=+9}Patreons"
+    # new "{size=+9}Patreons"
 
     # game/gallery.rpy:321
     old "{size=+9}C hristmas"
