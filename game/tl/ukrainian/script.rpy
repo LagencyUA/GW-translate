@@ -813,7 +813,7 @@ translate ukrainian start_83375684:
 translate ukrainian start_0f3abe46:
 
     # m "Calm down, it's a natural reaction."
-    m "Заспокойся, це природня реакція."
+    m "Заспокойся, це природна реакція."
 
 # game/game/script.rpy:358
 translate ukrainian start_1241ac69:
@@ -1569,25 +1569,25 @@ translate ukrainian choice4_30eefe6f:
 translate ukrainian choice4_e384244e:
 
     # mc "Ah... {w}so that's what it was..."
-    mc "Ah... {w}so that's what it was..."
+    mc "Ах... {w}то ось що це було..."
 
 # game/game/script.rpy:579
 translate ukrainian choice4_6b0d5083:
 
     # t "{size=-8}Come on man! {w}Not in front of a goddess!"
-    t "{size=-8}Come on man! {w}Not in front of a goddess!"
+    t "{size=-8}Ну ж бо, друже! {w}Тільки не перд Богинею!"
 
 # game/game/script.rpy:580
 translate ukrainian choice4_8f09da1e:
 
     # k "For being just your soul, you have too much... {w}\"energy\"~{image=corazon}"
-    k "For being just your soul, you have too much... {w}\"energy\"~{image=corazon}"
+    k "Як на звичайну душу, у тебе забагато... {w}«енергії»~{image=corazon}"
 
 # game/game/script.rpy:582
 translate ukrainian choice4_2aaa86bf:
 
     # mc "I c-can't help it, {w}like you said it's a natural reaction."
-    mc "I c-can't help it, {w}like you said it's a natural reaction."
+    mc "Н-Не можу нічого вдіяти, {w}як ти казала, — це природна реакція."
 
 # game/game/script.rpy:583
 translate ukrainian choice4_82091822_1:
@@ -1605,31 +1605,31 @@ translate ukrainian choice4_2b35b6fe_2:
 translate ukrainian choice4_4572680b:
 
     # mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}Ahem*"
-    mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}Ahem*"
+    mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}*Ахем*"
 
 # game/game/script.rpy:587
 translate ukrainian choice4_a0942e75:
 
     # k "Ah! Well, {w}I think it's time for you to go."
-    k "Ah! Well, {w}I think it's time for you to go."
+    k "Ах! Ну, {w}гадаю, вже час тобі рушати."
 
 # game/game/script.rpy:588
 translate ukrainian choice4_05935060:
 
     # k "One more thing."
-    k "One more thing."
+    k "І ще одне."
 
 # game/game/script.rpy:589
 translate ukrainian choice4_3aff2bb7:
 
     # k "I know it's not necessary to mention it but..."
-    k "I know it's not necessary to mention it but..."
+    k "Знаю, це не обов'язково казати, але..."
 
 # game/game/script.rpy:591
 translate ukrainian choice4_53aa9e04:
 
     # k "{size=-6}Never mention any of this, {w}if the Gods found out that someone was reborn with their memories..."
-    k "{size=-6}Never mention any of this, {w}if the Gods found out that someone was reborn with their memories..."
+    k "{size=-6}Ніколи не згадуй нічого з цього. {w}Якщо інші Боги дізнаються, що хтось переродився з усіма спогадами..."
 
 # game/game/script.rpy:592
 translate ukrainian choice4_c1e74259:
