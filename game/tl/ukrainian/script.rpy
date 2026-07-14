@@ -1497,7 +1497,7 @@ translate ukrainian choice4_8fb0e523:
 translate ukrainian choice4_b1be5325:
 
     # k "{size=-8}{i}I hope it works, it wasn't that difficult..."
-    k "{size=-8}{i}Споіваюся, спрацює. Наче й не так склажно було..."
+    k "{size=-8}{i}Споіваюся, спрацює. Пам'ятаю, це не було чимось складним..."
 
 # game/game/script.rpy:556
 translate ukrainian choice4_9762900f:
@@ -1509,61 +1509,61 @@ translate ukrainian choice4_9762900f:
 translate ukrainian choice4_f7fd9909:
 
     # k "Another thing, if you want to learn magic, you'll have to find someone to teach you."
-    k "Another thing, if you want to learn magic, you'll have to find someone to teach you."
+    k "Ще одне: якщо ти хочеш освоїти магію, тобі доведеться знайти когось, хто тебе неї навчить."
 
 # game/game/script.rpy:559
 translate ukrainian choice4_5f9e12df:
 
     # t "Magic? A world with magic, {w}what will that be like..."
-    t "Magic? A world with magic, {w}what will that be like..."
+    t "Магія? Світ, де існує магія. {w}Цікаво, як то воно буде..."
 
 # game/game/script.rpy:560
 translate ukrainian choice4_83c2be3d:
 
     # mc "Understood, I'm already more or less clear, Keiko."
-    mc "Understood, I'm already more or less clear, Keiko."
+    mc "Зрозумів. Мені вже більш-менш все ясно, Кейко."
 
 # game/game/script.rpy:561
 translate ukrainian choice4_e90ee6a4:
 
     # k "Perfect! {w}Now come closer and close your eyes."
-    k "Perfect! {w}Now come closer and close your eyes."
+    k "Чудово! {w}А тепер підійди до мене та заплющ очі."
 
 # game/game/script.rpy:563
 translate ukrainian choice4_46cfa2f4:
 
     # mc "All right..."
-    mc "All right..."
+    mc "Гаразд..."
 
 # game/game/script.rpy:571
 translate ukrainian choice4_79ebfcf8:
 
     # k "Awesome!"
-    k "Awesome!"
+    k "Супер!"
 
 # game/game/script.rpy:572
 translate ukrainian choice4_87e124a2:
 
     # mc "I feel like something is growing in my body..."
-    mc "I feel like something is growing in my body..."
+    mc "Мені здається, ніби щось росте в моєму тілі..."
 
 # game/game/script.rpy:573
 translate ukrainian choice4_0e480cb0:
 
     # mc "Th-This power, {w}I feel better than ever!"
-    mc "Th-This power, {w}I feel better than ever!"
+    mc "Ц-Ця сила, {w}почуваюся краще ніж будь-коли!"
 
 # game/game/script.rpy:575
 translate ukrainian choice4_7607a6b1:
 
     # k "Uhm..."
-    k "Uhm..."
+    k "Угу..."
 
 # game/game/script.rpy:576
 translate ukrainian choice4_30eefe6f:
 
     # k "Yeah... {w}I can see it~{image=corazon}"
-    k "Yeah... {w}I can see it~{image=corazon}"
+    k "Так... {w}Я бачу~{image=corazon}"
 
 # game/game/script.rpy:578
 translate ukrainian choice4_e384244e:
@@ -29126,19 +29126,24 @@ translate ukrainian strings:
 
     # scrip.rpy:1187
     # ...
+    # scrip.rpy:1536
+    
+    old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
+    new "{i}Ти підходиш до Богині, й вона одразу ніжно та лагідно цілує тебе у чоло."
+    
+    old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
+    new "{i}Ти відчуваєш, ніби якась незрозуміла енергія пронизує все твоє «тіло»."
+    
+    # scrip.rpy:1542
+    # ...
     # scrip.rpy:2622
 
 
 
 ### NOT SORTED
-    old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
-    new "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
 
     old "You have collected some sticks"
     new "You have collected some sticks"
-
-    old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
-    new "{i}You feel like an inexplicable energy runs through your whole \"body\"."
 
     old "And the wolf died."
     new "And the wolf died."
