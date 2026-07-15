@@ -921,13 +921,13 @@ translate ukrainian choice1_2e200f54:
 translate ukrainian choice1_6a253736:
 
     # k "As you can see, I'm a goddess."
-    k "Як бачиш, я — Богиня."
+    k "Як бачиш, я — богиня."
 
 # game/game/script.rpy:405
 translate ukrainian choice1_06275d9e:
 
     # t "Ah she was a goddess, not an angel."
-    t "Ах, то вона Богиня, а не янгол."
+    t "Ах, то вона богиня, а не янгол."
 
 # game/game/script.rpy:406
 translate ukrainian choice1_22a8485d:
@@ -1191,7 +1191,7 @@ translate ukrainian choice4_75b0e01e:
 translate ukrainian choice4_02028834:
 
     # mc "I didn't think a goddess would take the time to talk to me."
-    mc "Не думав, що Богиня виділить свій час на балачки зі мною."
+    mc "Не думав, що богиня виділить свій час на балачки зі мною."
 
 # game/game/script.rpy:480
 translate ukrainian choice4_0154605c:
@@ -1575,7 +1575,7 @@ translate ukrainian choice4_e384244e:
 translate ukrainian choice4_6b0d5083:
 
     # t "{size=-8}Come on man! {w}Not in front of a goddess!"
-    t "{size=-8}Ну ж бо, друже! {w}Тільки не перд Богинею!"
+    t "{size=-8}Ну ж бо, друже! {w}Тільки не перд богинею!"
 
 # game/game/script.rpy:580
 translate ukrainian choice4_8f09da1e:
@@ -1629,7 +1629,7 @@ translate ukrainian choice4_3aff2bb7:
 translate ukrainian choice4_53aa9e04:
 
     # k "{size=-6}Never mention any of this, {w}if the Gods found out that someone was reborn with their memories..."
-    k "{size=-6}Ніколи не згадуй нічого з цього. {w}Якщо інші Боги дізнаються, що хтось переродився з усіма спогадами..."
+    k "{size=-6}Ніколи не згадуй нічого з цього. {w}Якщо інші боги дізнаються, що хтось переродився з усіма спогадами..."
 
 # game/game/script.rpy:592
 translate ukrainian choice4_c1e74259:
@@ -1683,7 +1683,7 @@ translate ukrainian choice4_7614d7fe:
 translate ukrainian choice4_f8212696:
 
     # t "She didn't ask me for anything in return... {w}I feel that something isn't right."
-    t "Вона навіть не попросила нічого натомість... {w}Мені здається, це не правильно."
+    t "Вона навіть не попросила нічого натомість... {w}Мені здається, це неправильно."
 
 # game/game/script.rpy:603
 translate ukrainian choice4_f924da31:
@@ -29133,7 +29133,7 @@ translate ukrainian strings:
     # scrip.rpy:1536
     
     old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
-    new "{i}Ти підходиш до Богині, й вона одразу ніжно та лагідно цілує тебе у чоло."
+    new "{i}Ти підходиш до богині, й вона одразу ніжно та лагідно цілує тебе у чоло."
     
     old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
     new "{i}Ти відчуваєш, ніби якась незрозуміла енергія пронизує все твоє «тіло»."
