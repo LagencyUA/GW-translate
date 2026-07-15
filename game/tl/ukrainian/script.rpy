@@ -1701,145 +1701,145 @@ translate ukrainian choice4_2b35b6fe_3:
 translate ukrainian choice4_3b78366f:
 
     # mc "When she told me \"new world\"."
-    mc "When she told me \"new world\"."
+    mc "Коли вона мені сказала «новий світ»..."
 
 # game/game/script.rpy:620
 translate ukrainian choice4_acf36d8a:
 
     # mc "I wasn't expecting this."
-    mc "I wasn't expecting this."
+    mc "Я точно не очікував цього."
 
 # game/game/script.rpy:621
 translate ukrainian choice4_293ee232:
 
     # t "But I'm not complaining."
-    t "But I'm not complaining."
+    t "Хоча я не скаржуся."
 
 # game/game/script.rpy:622
 translate ukrainian choice4_40200c7d:
 
     # t "A cat... {w}no, {w}fox girl?"
-    t "A cat... {w}no, {w}fox girl?"
+    t "Дівчина-кішка... {w}ні, {w}дівчина-лисичка?"
 
 # game/game/script.rpy:623
 translate ukrainian choice4_f712ad20:
 
     # f "Silly~"
-    f "Silly~"
+    f "Дурнику~"
 
 # game/game/script.rpy:624
 translate ukrainian choice4_0a4eba9e:
 
     # f "You're not there yet."
-    f "You're not there yet."
+    f "Ти ще не прибув туди."
 
 # game/game/script.rpy:625
 translate ukrainian choice4_83fd8940:
 
     # t "Not yet?"
-    t "Not yet?"
+    t "Ще ні?"
 
 # game/game/script.rpy:626
 translate ukrainian choice4_d4ffbc4d:
 
     # t "Wait, {w}she has wings like Keiko's?"
-    t "Wait, {w}she has wings like Keiko's?"
+    t "Стоп, {w}у неї крила як у Кейко?"
 
 # game/game/script.rpy:627
 translate ukrainian choice4_7dd9c800:
 
     # mc "And you're a goddess from what I can see..."
-    mc "And you're a goddess from what I can see..."
+    mc "А ти, судячи з усього, — богиня..."
 
 # game/game/script.rpy:628
 translate ukrainian choice4_d8fd949c:
 
     # t "All goddesses do this?"
-    t "All goddesses do this?"
+    t "Усі богині так роблять?"
 
 # game/game/script.rpy:629
 translate ukrainian choice4_f910301a:
 
     # t "They'll make me addicted to waking up this way."
-    t "They'll make me addicted to waking up this way."
+    t "Від подібних пробуджень у мене скоро з'явиться залежність."
 
 # game/game/script.rpy:630
 translate ukrainian choice4_8459b0a7:
 
     # f "Yes."
-    f "Yes."
+    f "Так."
 
 # game/game/script.rpy:631
 translate ukrainian choice4_03ff68bf:
 
     # f "I'm Fumiko."
-    f "I'm Fumiko."
+    f "Я Фуміко."
 
 # game/game/script.rpy:632
 translate ukrainian choice4_a8257873:
 
     # mc "I'm [mc]."
-    mc "I'm [mc]."
+    mc "Я [mc]."
 
 # game/game/script.rpy:633
 translate ukrainian choice4_54f8e219:
 
     # mc "Did you also see me get cut by a crazy guy?"
-    mc "Did you also see me get cut by a crazy guy?"
+    mc "Ти теж бачила, як мене рубанув той божевільний?"
 
 # game/game/script.rpy:634
 translate ukrainian choice4_7b5882c5:
 
     # fu "Hmm... {w}and you have your memories..."
-    fu "Hmm... {w}and you have your memories..."
+    fu "Хмм... {w}і ти зберіг власні спогади..."
 
 # game/game/script.rpy:635
 translate ukrainian choice4_425a2a0b:
 
     # t "Fuck."
-    t "Fuck."
+    t "Бля."
 
 # game/game/script.rpy:636
 translate ukrainian choice4_6ede8cbd:
 
     # t "Sorry Keiko."
-    t "Sorry Keiko."
+    t "Пробач мені, Кейко."
 
 # game/game/script.rpy:637
 translate ukrainian choice4_0501cc09:
 
     # t "I did my best."
-    t "I did my best."
+    t "Я зробив усе, що було в моїх силах."
 
 # game/game/script.rpy:638
 translate ukrainian choice4_a9f9e9bf:
 
     # fu "So... Keiko found someone interesting."
-    fu "So... Keiko found someone interesting."
+    fu "Тож... Кейко знайшла когось цікавого."
 
 # game/game/script.rpy:639
 translate ukrainian choice4_728ebb20:
 
     # fu "I can feel her blessing on you... {w=0.5}a very strong one."
-    fu "I can feel her blessing on you... {w=0.5}a very strong one."
+    fu "Я також відчуваю її благословіння на тобі... {w=0.5}доволі таки сильне."
 
 # game/game/script.rpy:641
 translate ukrainian choice4_f8be3ea1:
 
     # fu "I have a deal for you."
-    fu "I have a deal for you."
+    fu "Пропоную тобі угоду."
 
 # game/game/script.rpy:642
 translate ukrainian choice4_c4577cb8:
 
     # mc "What kind of deal?"
-    mc "What kind of deal?"
+    mc "Яку ще угоду?"
 
 # game/game/script.rpy:643
 translate ukrainian choice4_557ec9c4:
 
     # fu "I won't say anything about this..."
-    fu "I won't say anything about this..."
+    fu "Я триматиму рот на замку..."
 
 # game/game/script.rpy:644
 translate ukrainian choice4_2b35b6fe_4:
@@ -1851,7 +1851,7 @@ translate ukrainian choice4_2b35b6fe_4:
 translate ukrainian choice4_8aeeddef:
 
     # fu "If you help me with something."
-    fu "If you help me with something."
+    fu "Якщо ти мені допоможеш з дечим."
 
 # game/game/script.rpy:647
 translate ukrainian choice4_2b35b6fe_5:
@@ -1863,19 +1863,19 @@ translate ukrainian choice4_2b35b6fe_5:
 translate ukrainian choice4_006df670:
 
     # t "I don't think I have any other option."
-    t "I don't think I have any other option."
+    t "Гадаю, в мене немає вибору."
 
 # game/game/script.rpy:649
 translate ukrainian choice4_5c82388b:
 
     # mc "If there's anything I can help you with..."
-    mc "If there's anything I can help you with..."
+    mc "Якщо дійсно є щось, з чим я можу допомогти..."
 
 # game/game/script.rpy:651
 translate ukrainian choice4_4aaa4c98:
 
     # fu "Perfect, {w}look you-"
-    fu "Perfect, {w}look you-"
+    fu "Ідеально! {w}Дивись, ти-"
 
 # game/game/script.rpy:652
 translate ukrainian choice4_eb0840d5:
@@ -1893,7 +1893,7 @@ translate ukrainian choice4_2b35b6fe_6:
 translate ukrainian choice4_8e0ff536:
 
     # fu "Why do I feel like there's something hitting my stomach?"
-    fu "Why do I feel like there's something hitting my stomach?"
+    fu "Чому мені здається ніби щось упирається мені у живіт?"
 
 # game/game/script.rpy:659
 translate ukrainian choice4_2b35b6fe_7:
@@ -1905,31 +1905,31 @@ translate ukrainian choice4_2b35b6fe_7:
 translate ukrainian choice4_5529d495:
 
     # t "{size=-6}Come on man! Really?"
-    t "{size=-6}Come on man! Really?"
+    t "{size=-6}Друже! Ти серйозно?"
 
 # game/game/script.rpy:661
 translate ukrainian choice4_e8e6ed0b:
 
     # t "I'm starting to think I have a problem down there."
-    t "I'm starting to think I have a problem down there."
+    t "Починаю думати, що у мене там унизу не все гаразд."
 
 # game/game/script.rpy:663
 translate ukrainian choice4_fc182a3f:
 
     # t "She's touching it!"
-    t "She's touching it!"
+    t "Вона його торкається!"
 
 # game/game/script.rpy:664
 translate ukrainian choice4_0cae3f7d:
 
     # t "I have to think of something extremely convincing."
-    t "I have to think of something extremely convincing."
+    t "Треба вигадати щось надзвичайно переконуюче."
 
 # game/game/script.rpy:665
 translate ukrainian choice4_c33b515c:
 
     # mc "Err..."
-    mc "Err..."
+    mc "Емм..."
 
 # game/game/script.rpy:666
 translate ukrainian choice4_2b35b6fe_8:
@@ -1941,7 +1941,7 @@ translate ukrainian choice4_2b35b6fe_8:
 translate ukrainian choice4_c6c5a261:
 
     # mc "It's a{w}... {w}{size=-5}rock.{w=1.0}"
-    mc "It's a{w}... {w}{size=-5}rock.{w=1.0}"
+    mc "Це{w}... {w}{size=-5}камінчик."
 
 # game/game/script.rpy:669
 translate ukrainian choice4_eb0840d5_1:
@@ -1959,151 +1959,151 @@ translate ukrainian choice4_2b35b6fe_9:
 translate ukrainian choice4_171daf06:
 
     # t "I'm fucked."
-    t "I'm fucked."
+    t "Мені пизда."
 
 # game/game/script.rpy:676
 translate ukrainian choice4_5ee2c0fe:
 
     # fu "How strange, must be a very big rock."
-    fu "How strange, must be a very big rock."
+    fu "Оце дивина, мабуть, там якийсь здоровезний камінь."
 
 # game/game/script.rpy:677
 translate ukrainian choice4_3c8c2eb9:
 
     # fu "And for what purpose? {w}For what reason-"
-    fu "And for what purpose? {w}For what reason-"
+    fu "І для чого? {w}Навіщо він-"
 
 # game/game/script.rpy:679
 translate ukrainian choice4_7ae2d043:
 
     # fu "Well, {w}whatever."
-    fu "Well, {w}whatever."
+    fu "Ну, {w}неважливо."
 
 # game/game/script.rpy:680
 translate ukrainian choice4_75415721:
 
     # t "Wait, really?"
-    t "Wait, really?"
+    t "Чекай, серйозно?"
 
 # game/game/script.rpy:681
 translate ukrainian choice4_c728cd7e:
 
     # t "Did she really believe it?"
-    t "Did she really believe it?"
+    t "Вона дійсно сприйняла це за чисту монету?"
 
 # game/game/script.rpy:682
 translate ukrainian choice4_48f986ab:
 
     # fu "Let's get up to talk better."
-    fu "Let's get up to talk better."
+    fu "Нумо встанемо, щоб зручніше було говорити."
 
 # game/game/script.rpy:683
 translate ukrainian choice4_a123dfb6:
 
     # fu "And drop that rock. Sometimes I don't understand humans."
-    fu "And drop that rock. Sometimes I don't understand humans."
+    fu "І облиш той камінь. Інколи я зовсім не розумію людей."
 
 # game/game/script.rpy:684
 translate ukrainian choice4_ed862fd2:
 
     # mc "Ok..."
-    mc "Ok..."
+    mc "Гаразд..."
 
 # game/game/script.rpy:692
 translate ukrainian choice4_c21622d2:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "*Ахем*"
 
 # game/game/script.rpy:693
 translate ukrainian choice4_8f42c95e:
 
     # mc "Then explain to me, {w}what do you want me to do?"
-    mc "Then explain to me, {w}what do you want me to do?"
+    mc "Отже, поясни мені, {w}що ти хочеш, щоб я зробив?"
 
 # game/game/script.rpy:694
 translate ukrainian choice4_99b0aa4e:
 
     # fu "Okay..."
-    fu "Okay..."
+    fu "Добре..."
 
 # game/game/script.rpy:695
 translate ukrainian choice4_2d096732:
 
     # fu "To sum it up..."
-    fu "To sum it up..."
+    fu "У загальному..."
 
 # game/game/script.rpy:697
 translate ukrainian choice4_30e7fdb8:
 
     # fu "This world you're going to. It's not a happy place for everyone."
-    fu "This world you're going to. It's not a happy place for everyone."
+    fu "Світ, у який ти прямуєш... далеко не для кожного є щасливим місцем."
 
 # game/game/script.rpy:698
 translate ukrainian choice4_c997dc16:
 
     # t "I knew that Keiko was hiding something from me."
-    t "I knew that Keiko was hiding something from me."
+    t "Знав, що Кейко щось приховувала від мене."
 
 # game/game/script.rpy:699
 translate ukrainian choice4_cdb4aaab:
 
     # t "I was wondering what could entertain a goddess if they can see everything."
-    t "I was wondering what could entertain a goddess if they can see everything."
+    t "Що б ще могло розважити богиню, котра й так все бачить."
 
 # game/game/script.rpy:700
 translate ukrainian choice4_580bddd3:
 
     # t "I may be an idiot, but I'm not stupid."
-    t "I may be an idiot, but I'm not stupid."
+    t "Може я й ідіот, але не дурний."
 
 # game/game/script.rpy:701
 translate ukrainian choice4_62c7c31c:
 
     # fu "You'll understand when you see it, but let's say there's a lot of... {w}difference between... {w}uhm... \"things\"."
-    fu "You'll understand when you see it, but let's say there's a lot of... {w}difference between... {w}uhm... \"things\"."
+    fu "Ти зрозумієш, коли сам побачиш. Скажімо, що там є велика... {w}різниця між... {w}угм... «поняттями»."
 
 # game/game/script.rpy:703
 translate ukrainian choice4_698b44db:
 
     # fu "And someone very important to me is in that place."
-    fu "And someone very important to me is in that place."
+    fu "Також там перебуває дехто дуже важлива для мене."
 
 # game/game/script.rpy:704
 translate ukrainian choice4_028b9e44:
 
     # fu "I can't give you many details but..."
-    fu "I can't give you many details but..."
+    fu "Не можу тобі назвати повні деталі, але..."
 
 # game/game/script.rpy:705
 translate ukrainian choice4_506575c9:
 
     # fu "She's in danger or will be soon."
-    fu "She's in danger or will be soon."
+    fu "Вона у небезпеці, або скоро потрабить у неї."
 
 # game/game/script.rpy:706
 translate ukrainian choice4_30557b6f:
 
     # mc "And you want me to protect her?"
-    mc "And you want me to protect her?"
+    mc "І ти хочеш, щоб я захистив її?"
 
 # game/game/script.rpy:708
 translate ukrainian choice4_0d6ba0dd:
 
     # fu "Exactly."
-    fu "Exactly."
+    fu "Саме так!"
 
 # game/game/script.rpy:710
 translate ukrainian choice4_162304f1:
 
     # fu "{size=-8}Goddesses can't intervene in the \"human\" world..."
-    fu "{size=-8}Goddesses can't intervene in the \"human\" world..."
+    fu "{size=-8}Богині не можуть втручатися у «людський» світ..."
 
 # game/game/script.rpy:712
 translate ukrainian choice4_4e7a91ae:
 
     # mc "But didn't you just intervene in the pure fact of sending me there?"
-    mc "But didn't you just intervene in the pure fact of sending me there?"
+    mc "Але хіба сам факт того, що ти відправляєш мене туди, — це не втручання?"
 
 # game/game/script.rpy:714
 translate ukrainian choice4_eb0840d5_2:
@@ -2121,115 +2121,115 @@ translate ukrainian choice4_2b35b6fe_10:
 translate ukrainian choice4_6519430a:
 
     # fu "If you help me-"
-    fu "If you help me-"
+    fu "Якщо мені допоможеш-"
 
 # game/game/script.rpy:721
 translate ukrainian choice4_03725709:
 
     # t "Did she just completely ignore me...?"
-    t "Did she just completely ignore me...?"
+    t "Вона мене щойно повністю проігнорувала...?"
 
 # game/game/script.rpy:722
 translate ukrainian choice4_19c84800:
 
     # fu "I'll keep your secret, and everyone will be happy!"
-    fu "I'll keep your secret, and everyone will be happy!"
+    fu "Я збережу твій секрет, і всі будуть щасливі!"
 
 # game/game/script.rpy:723
 translate ukrainian choice4_349dc824:
 
     # fu "What do you think?"
-    fu "What do you think?"
+    fu "То що скажеш?"
 
 # game/game/script.rpy:725
 translate ukrainian choice4_b4376984:
 
     # mc "Mmh..."
-    mc "Mmh..."
+    mc "Ммг..."
 
 # game/game/script.rpy:726
 translate ukrainian choice4_2a6b14d6:
 
     # t "{i}My answer is quite clear."
-    t "{i}My answer is quite clear."
+    t "{i}Моя відповідь досить очевидна."
 
 # game/game/script.rpy:727
 translate ukrainian choice4_3ec1c555:
 
     # t "Nothing has changed in me, even though I have died, I am still me."
-    t "Nothing has changed in me, even though I have died, I am still me."
+    t "Для мене нічого не змінилося: навіть після смерті я — це все ще я.."
 
 # game/game/script.rpy:728
 translate ukrainian choice4_64f9df60:
 
     # t "I know that even if she hadn't discovered my secret, {w}I would have helped her anyway."
-    t "I know that even if she hadn't discovered my secret, {w}I would have helped her anyway."
+    t "Навіть якби вона не дізналася моєї таємниці, {w}я б всеодно допоміг їй."
 
 # game/game/script.rpy:729
 translate ukrainian choice4_6f5a8120:
 
     # mc "Leave it to me, {w}you don't have to worry."
-    mc "Leave it to me, {w}you don't have to worry."
+    mc "Залиш це на мене, {w}тобі не слід хвилюватися."
 
 # game/game/script.rpy:731
 translate ukrainian choice4_34f0d6c4:
 
     # mc "Deal or no deal, I will not let anything bad happen to her."
-    mc "Deal or no deal, I will not let anything bad happen to her."
+    mc "Буде це угода, чи ні, я не дозволю, щоб з нею сталося щось погане."
 
 # game/game/script.rpy:732
 translate ukrainian choice4_2198ca2d:
 
     # mc "I promise you on my soul that is in front of you."
-    mc "I promise you on my soul that is in front of you."
+    mc "Присягаюся своєю душею, що зараз стоїть перед тобою."
 
 # game/game/script.rpy:733
 translate ukrainian choice4_0a561f37:
 
     # t "Besides, she wants to save someone, unlike Keiko who only wants to entertain herself."
-    t "Besides, she wants to save someone, unlike Keiko who only wants to entertain herself."
+    t "До того ж вона хоче врятувати когось, на відміну від Кейко, яка бажає лише розваг."
 
 # game/game/script.rpy:735
 translate ukrainian choice4_6de3474c:
 
     # fu "{sc=2}{outlinecolor=#000000}Ah...{w} Uhm...{w} Yes!"
-    fu "{sc=2}{outlinecolor=#000000}Ah...{w} Uhm...{w} Yes!"
+    fu "{sc=2}{outlinecolor=#000000}Ах...{w} Угу...{w} Так!"
 
 # game/game/script.rpy:736
 translate ukrainian choice4_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:737
 translate ukrainian choice4_b761c438:
 
     # fu "{size=-6}I..."
-    fu "{size=-6}I..."
+    fu "{size=-6}Я..."
 
 # game/game/script.rpy:739
 translate ukrainian choice4_c58051df:
 
     # fu "{size=-6}I'm counting on you..."
-    fu "{size=-6}I'm counting on you..."
+    fu "{size=-6}Я розраховую на тебе..."
 
 # game/game/script.rpy:740
 translate ukrainian choice4_cde5bd9b:
 
     # mc "Is something wrong, Fumiko?"
-    mc "Is something wrong, Fumiko?"
+    mc "Щось не так, Фуміко?"
 
 # game/game/script.rpy:742
 translate ukrainian choice4_920e63be:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-8}Ah! No, {w}of course not."
-    fu "{sc=2}{outlinecolor=#000000}{size=-8}Ah! No, {w}of course not."
+    fu "{sc=2}{outlinecolor=#000000}{size=-8}Ах! Ні, {w}звісно ні."
 
 # game/game/script.rpy:744
 translate ukrainian choice4_ec3014b8:
 
     # fu "{size=-6}{i}What's happening to me..."
-    fu "{size=-6}{i}What's happening to me..."
+    fu "{size=-6}{i}Що це зі мною..."
 
 # game/game/script.rpy:745
 translate ukrainian choice4_2b35b6fe_11:
@@ -2241,139 +2241,139 @@ translate ukrainian choice4_2b35b6fe_11:
 translate ukrainian choice4_b08fff4a:
 
     # t "Her face turned red, she must be very worried."
-    t "Her face turned red, she must be very worried."
+    t "Вона почервоніла. Певно, надто схвильована."
 
 # game/game/script.rpy:747
 translate ukrainian choice4_aa7a6f93:
 
     # mc "Well, I should go."
-    mc "Well, I should go."
+    mc "Що ж, мені час вирушати."
 
 # game/game/script.rpy:748
 translate ukrainian choice4_17fc71db:
 
     # mc "The sooner I arrive, the safer she'll be."
-    mc "The sooner I arrive, the safer she'll be."
+    mc "Чим швидше я приїду, тим безпечніше їй буде."
 
 # game/game/script.rpy:750
 translate ukrainian choice4_7bcd1cc8:
 
     # fu "{size=-8}Ah, right!"
-    fu "{size=-8}Ah, right!"
+    fu "{size=-8}Ах, звісно!"
 
 # game/game/script.rpy:751
 translate ukrainian choice4_c7c82e3d:
 
     # fu "{size=-8}Will you need anything?"
-    fu "{size=-8}Will you need anything?"
+    fu "{size=-8}Можливо тобі щось знадобится?"
 
 # game/game/script.rpy:752
 translate ukrainian choice4_ed387a82:
 
     # t "Why does she speak more quietly if there's no one here...?"
-    t "Why does she speak more quietly if there's no one here...?"
+    t "Чому вона так шепоче, коли тут навіть нікого немає...?"
 
 # game/game/script.rpy:754
 translate ukrainian choice4_4ca8f719:
 
     # fu "{size=-8}I'd give you my blessing, but the one you have is already... {w}strong enough..."
-    fu "{size=-8}I'd give you my blessing, but the one you have is already... {w}strong enough..."
+    fu "{size=-8}Я б дарувала тобі своє благословення, але те, що у тебе, вже й так... {w}достатньо потужне..."
 
 # game/game/script.rpy:755
 translate ukrainian choice4_b20d7bdc:
 
     # fu "{size=-8}And I think too much."
-    fu "{size=-8}And I think too much."
+    fu "{size=-8}Як на мене, аж занадто."
 
 # game/game/script.rpy:757
 translate ukrainian choice4_577f33b3:
 
     # mc "Mmm..."
-    mc "Mmm..."
+    mc "Ммм..."
 
 # game/game/script.rpy:758
 translate ukrainian choice4_9e4ae962:
 
     # t "I don't know..."
-    t "I don't know..."
+    t "Навіть не знаю..."
 
 # game/game/script.rpy:759
 translate ukrainian choice4_cda340a9:
 
     # t "Can she give me material things?"
-    t "Can she give me material things?"
+    t "Чи зможе вона мені дати щось матеріальне?"
 
 # game/game/script.rpy:760
 translate ukrainian choice4_829ed19e:
 
     # fu "{sc=2}{outlinecolor=#000000}W-WH-"
-    fu "{sc=2}{outlinecolor=#000000}W-WH-"
+    fu "{sc=2}{outlinecolor=#000000}Щ-ЩО-"
 
 # game/game/script.rpy:763
 translate ukrainian choice4_f0d319f7:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-8}WW-Www-ww-wW-W-"
-    fu "{sc=2}{outlinecolor=#000000}{size=-8}WW-Www-ww-wW-W-"
+    fu "{sc=2}{outlinecolor=#000000}{size=-8}Щ-Щщш-шш-шЩ-Щ-"
 
 # game/game/script.rpy:764
 translate ukrainian choice4_b6845304:
 
     # fu "{sc=2}{outlinecolor=#000000}W-What are you doing!?"
-    fu "{sc=2}{outlinecolor=#000000}W-What are you doing!?"
+    fu "{sc=2}{outlinecolor=#000000}Щ-Що ти це робиш!?"
 
 # game/game/script.rpy:765
 translate ukrainian choice4_56e82d39:
 
     # mc "Oh... sorry, {w}it was a reflex."
-    mc "Oh... sorry, {w}it was a reflex."
+    mc "Ох... пробач, {w}я рефлекторно."
 
 # game/game/script.rpy:767
 translate ukrainian choice4_3ab84f0c:
 
     # t "Something that suits me in a world where I'll start from zero..."
-    t "Something that suits me in a world where I'll start from zero..."
+    t "Щось, що мені знадобится у світі, де я почну з чистого аркуша..."
 
 # game/game/script.rpy:768
 translate ukrainian choice4_20f3d2de:
 
     # t "If I'll have to face monsters or magic..."
-    t "If I'll have to face monsters or magic..."
+    t "Якщо мені доведеться зіткнутися з монстрами чи магією..."
 
 # game/game/script.rpy:769
 translate ukrainian choice4_c5cc843c:
 
     # mc "Can you get me a katana?"
-    mc "Can you get me a katana?"
+    mc "Ти зможеш дати мені катану?"
 
 # game/game/script.rpy:771
 translate ukrainian choice4_30d9ee49:
 
     # fu "A katana? {w}Is that the only thing you want?"
-    fu "A katana? {w}Is that the only thing you want?"
+    fu "Катану? {w}Це все, що ти бажаєш?"
 
 # game/game/script.rpy:772
 translate ukrainian choice4_ea17b5c5:
 
     # t "Mmm... Also, {w}I don't know what the clothes of this world will be like, but I want to make sure."
-    t "Mmm... Also, {w}I don't know what the clothes of this world will be like, but I want to make sure."
+    t "Ммм... Також, {w}я не знаю, який одяг вдягають у цьому світі, перестрахуватися не буде зайвим."
 
 # game/game/script.rpy:773
 translate ukrainian choice4_12054b7d:
 
     # mc "Yes, and clothes according to the world, {w}I don't want to arrive like this."
-    mc "Yes, and clothes according to the world, {w}I don't want to arrive like this."
+    mc "Так, і вбрання, відповідно до цього світу, {w}не хочу прибути туди якось так."
 
 # game/game/script.rpy:774
 translate ukrainian choice4_1b7759fb:
 
     # mc "It would attract a lot of attention if I look different than \"normal\"."
-    mc "It would attract a lot of attention if I look different than \"normal\"."
+    mc "Я перевртатиму забагато зайвої уваги, якщо виглядатиму інакше від «звичного»."
 
 # game/game/script.rpy:775
 translate ukrainian choice4_1feb2d9c:
 
     # fu "Yes... {w}I can do that."
-    fu "Yes... {w}I can do that."
+    fu "Добре... {w}Я це зможу."
 
 # game/game/script.rpy:776
 translate ukrainian choice4_eb0840d5_3:
@@ -2385,7 +2385,7 @@ translate ukrainian choice4_eb0840d5_3:
 translate ukrainian choice4_775cb365:
 
     # fu "Hahaha~"
-    fu "Hahaha~"
+    fu "Хахаха~"
 
 # game/game/script.rpy:779
 translate ukrainian choice4_989a1cf6:
@@ -29128,9 +29128,9 @@ translate ukrainian strings:
 
     # script.rpy:28895 - Фінальний вибір
 
-    # scrip.rpy:1187
+    # script.rpy:1187
     # ...
-    # scrip.rpy:1536
+    # script.rpy:1536
     
     old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
     new "{i}Ти підходиш до богині, й вона одразу ніжно та лагідно цілує тебе у чоло."
@@ -29138,9 +29138,27 @@ translate ukrainian strings:
     old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
     new "{i}Ти відчуваєш, ніби якась незрозуміла енергія пронизує все твоє «тіло»."
     
-    # scrip.rpy:1542
+    # script.rpy:1542
     # ...
-    # scrip.rpy:2622
+    # script.rpy:1692
+
+    old "Slowly, both your consciousness and your soul are transported."
+    new "Твоя свідомість разом із душею повільно переносяться."
+    
+    old "You feel in a complete emptiness but with a clear destination."
+    new "Ти перебуваєш у цілковитій порожнечі, але з чітким відчуттям кінцевої мети."
+
+    old "You let yourself go until something stops you in your tracks"
+    new "Ти поступово віддаєшся цьому руху, аж поки щось раптово не зупиняє тебе."
+
+    # script.rpy:1698
+    # ...
+    # script.rpy:2010
+
+    old "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
+    new "Щойно вона обертається, я роблю швидкий рух ногами, аби впоратися з ерекцією."
+
+    # script.rpy:2622
 
 
 
@@ -29231,9 +29249,6 @@ translate ukrainian strings:
     old "So, you've already become the leader..."
     new "So, you've already become the leader..."
 
-    old "You let yourself go until something stops you in your tracks"
-    new "You let yourself go until something stops you in your tracks"
-
     old "This empty feeling again..."
     new "This empty feeling again..."
 
@@ -29272,12 +29287,6 @@ translate ukrainian strings:
 
     old "Some time ago."
     new "Some time ago."
-
-    old "Slowly, both your consciousness and your soul are transported."
-    new "Slowly, both your consciousness and your soul are transported."
-
-    old "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
-    new "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
 
     old "You finish washing up, get dressed, and sit down for a while."
     new "You finish washing up, get dressed, and sit down for a while."
@@ -29425,9 +29434,6 @@ translate ukrainian strings:
 
     old "But things were going too well to be true..."
     new "But things were going too well to be true..."
-
-    old "You feel in a complete emptiness but with a clear destination."
-    new "You feel in a complete emptiness but with a clear destination."
 
     old "After walking 15 minutes."
     new "After walking 15 minutes."
