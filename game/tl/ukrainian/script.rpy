@@ -1635,61 +1635,61 @@ translate ukrainian choice4_53aa9e04:
 translate ukrainian choice4_c1e74259:
 
     # k "{size=-6}I don't know what they would do..."
-    k "{size=-6}I don't know what they would do..."
+    k "{size=-6}Не знаю, що вони тоді зроблять..."
 
 # game/game/script.rpy:593
 translate ukrainian choice4_a8339026:
 
     # mc "{size=-6}I promise, I'm the best at keeping secrets."
-    mc "{size=-6}I promise, I'm the best at keeping secrets."
+    mc "{size=-6}Запевняю: найкраще, що в мене виходить, — це зберігати таємниці."
 
 # game/game/script.rpy:595
 translate ukrainian choice4_162aced7:
 
     # k "Glad to hear that [mc]."
-    k "Glad to hear that [mc]."
+    k "Рада це чути, [mc]."
 
 # game/game/script.rpy:596
 translate ukrainian choice4_2924f301:
 
     # k "I hope that if we meet again, {w}it will be under different circumstances~{image=corazon}"
-    k "I hope that if we meet again, {w}it will be under different circumstances~{image=corazon}"
+    k "Сподіваюся, якщо ми знову зумтрінемося, {w}то це буде за інших обставин~{image=corazon}"
 
 # game/game/script.rpy:597
 translate ukrainian choice4_7d2f8064:
 
     # t "When did I tell her my name?"
-    t "When did I tell her my name?"
+    t "Хіба я казав їй ім'я?"
 
 # game/game/script.rpy:598
 translate ukrainian choice4_b23cd129:
 
     # mc "I hope the same Keiko..."
-    mc "I hope the same Keiko..."
+    mc "Я теж на це сподіваюся..."
 
 # game/game/script.rpy:600
 translate ukrainian choice4_101d39c8:
 
     # t "So it's not the end yet."
-    t "So it's not the end yet."
+    t "Отже, це ще не кінець."
 
 # game/game/script.rpy:601
 translate ukrainian choice4_7614d7fe:
 
     # t "But to think that everything that just happened was out of the sheer boredom of that goddess."
-    t "But to think that everything that just happened was out of the sheer boredom of that goddess."
+    t "Але подумати тільки: все, що щойно сталося, було суто через нудьгу тієї богині."
 
 # game/game/script.rpy:602
 translate ukrainian choice4_f8212696:
 
     # t "She didn't ask me for anything in return... {w}I feel that something isn't right."
-    t "She didn't ask me for anything in return... {w}I feel that something isn't right."
+    t "Вона навіть не попросила нічого натомість... {w}Мені здається, це не правильно."
 
 # game/game/script.rpy:603
 translate ukrainian choice4_f924da31:
 
     # t "Mmm... {w}whatever happens, this life will no longer be the same as before."
-    t "Mmm... {w}whatever happens, this life will no longer be the same as before."
+    t "Ммм... {w}Що б там не було, це життя ні за що не стане схожим на моє минуле."
 
 # game/game/script.rpy:617
 translate ukrainian choice4_2b35b6fe_3:
