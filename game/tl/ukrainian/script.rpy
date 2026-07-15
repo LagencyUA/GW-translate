@@ -28935,6 +28935,10 @@ translate ukrainian strings:
     new "Try again"
 
 translate ukrainian strings:
+    ## Дисклеймер
+    old "{font=fonts/Ebrima.ttf}Goddesses' Whim is an {b}Adult Visual Novel{/b}, \ncharacters depicted in this game are 18 years of age or older."
+    new "{font=fonts/ukr/Arial.ttf}«Goddesses' Whim» — це {b}візуальна новела для дорослих{/b}. \nУсі персонажі, зображені у цій грі, досягли 18 років."
+
     ## ПРОМО: Початок гри
     old "Those who don't know their past are condemned to repeat it."
     new "Ті, хто не знають свого минулого, приречені повторювати його."
@@ -29160,8 +29164,6 @@ translate ukrainian strings:
     old "{size=-10}{b}I could show you..."
     new "{size=-10}{b}I could show you..."
 
-    old "{font=fonts/Ebrima.ttf}Goddesses' Whim is an {b}Adult Visual Novel{/b}, \ncharacters depicted in this game are 18 years of age or older."
-    new "{font=fonts/Ebrima.ttf}Goddesses' Whim is an {b}Adult Visual Novel{/b}, \ncharacters depicted in this game are 18 years of age or older."
 
     old "You go back to sit next to the fire."
     new "You go back to sit next to the fire."
