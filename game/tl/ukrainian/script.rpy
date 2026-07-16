@@ -2499,31 +2499,31 @@ translate ukrainian choice4_7c0de4a9:
 translate ukrainian choice4_2ccf79eb:
 
     # mc "Whatever it is, {w}I must first keep my promise."
-    mc "Whatever it is, {w}I must first keep my promise."
+    mc "У будь-якому разі, {w}спершу я маю виконати власну обіцянку."
 
 # game/game/script.rpy:823
 translate ukrainian choice4_cdf4ef0f:
 
     # t "I can feel a gentle breeze."
-    t "I can feel a gentle breeze."
+    t "Відчуваю приємний вітерець."
 
 # game/game/script.rpy:824
 translate ukrainian choice4_fe4b2659:
 
     # t "The sun reaches me directly but it's not uncomfortable, in fact, it's a soft warm feeling."
-    t "The sun reaches me directly but it's not uncomfortable, in fact, it's a soft warm feeling."
+    t "Сонце світить прямісінько на мене, але це зовсім не дошкуляє — навпаки, воно приємно огортає м'яким теплом."
 
 # game/game/script.rpy:825
 translate ukrainian choice4_4f0fc2b6:
 
     # mc "So, {w}I've truly been reborn."
-    mc "So, {w}I've truly been reborn."
+    mc "Тож, {w}я таки справді переродився."
 
 # game/game/script.rpy:826
 translate ukrainian choice4_fa70aa52:
 
     # t "What kind of place is this?"
-    t "What kind of place is this?"
+    t "І де це я взагалі?"
 
 # game/game/script.rpy:827
 translate ukrainian choice4_9bd9b90d:
@@ -29166,14 +29166,16 @@ translate ukrainian strings:
     new "Знову це відчуття порожнечі..."
 
     old "It's like floating in nothingness."
-    new "It's like floating in nothingness."
+    new "Ніби пливеш у небутті."
 
     old "A new world sounds good..."
-    new "A new world sounds good..."
+    new "Новий світ — звучить непогано..."
 
     old "What kind of people will I meet?"
-    new "What kind of people will I meet?"
+    new "Цікаво, кого я там зустріну?"
 
+    # script.rpy:2502
+    # ...
     # script.rpy:2622
 
 
