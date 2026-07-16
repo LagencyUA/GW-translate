@@ -1821,7 +1821,7 @@ translate ukrainian choice4_a9f9e9bf:
 translate ukrainian choice4_728ebb20:
 
     # fu "I can feel her blessing on you... {w=0.5}a very strong one."
-    fu "Я також відчуваю її благословіння на тобі... {w=0.5}доволі таки сильне."
+    fu "Я також відчуваю її благословіння на тобі... {w=0.5}доволі-таки сильне."
 
 # game/game/script.rpy:641
 translate ukrainian choice4_f8be3ea1:
@@ -2781,49 +2781,49 @@ translate ukrainian lake_fb8214d9:
 translate ukrainian set_fire_a15486c8:
 
     # mc "Ok,{w} let's see if lighting a campfire is really that hard."
-    mc "Ok,{w} let's see if lighting a campfire is really that hard."
+    mc "Гаразд,{w} поглянемо, чи справді розвести багаття настільки важко."
 
 # game/game/script.rpy:939
 translate ukrainian set_fire_ed3d66a3:
 
     # t "I've seen lots of people do it on the internet."
-    t "I've seen lots of people do it on the internet."
+    t "Я вже достатньо бачив, як це робили інші в Інтернеті."
 
 # game/game/script.rpy:940
 translate ukrainian set_fire_e4e93437:
 
     # t "I always wondered if that knowledge would ever come in handy."
-    t "I always wondered if that knowledge would ever come in handy."
+    t "Завжди задавався питанням, чи знадобляться мені колись ці знання."
 
 # game/game/script.rpy:941
 translate ukrainian set_fire_684bf0a1:
 
     # t "Well done, past [mc]."
-    t "Well done, past [mc]."
+    t "Молодець, минулий [mc]."
 
 # game/game/script.rpy:942
 translate ukrainian set_fire_8392086d:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Агх!"
 
 # game/game/script.rpy:944
 translate ukrainian set_fire_b26884b8:
 
     # "With a stick and dry leaves, you manage to create a small flame."
-    "With a stick and dry leaves, you manage to create a small flame."
+    "За допомогою палиці та сухого листя тобі вдається розпалити невелике полум'я."
 
 # game/game/script.rpy:945
 translate ukrainian set_fire_36a527e6:
 
     # mc "Wow! Quick! I've got to place it under the sticks!"
-    mc "Wow! Quick! I've got to place it under the sticks!"
+    mc "Ого! Швидше! Треба розмістити його під палицями!"
 
 # game/game/script.rpy:947
 translate ukrainian set_fire_4517a425:
 
     # t "One small step for man, one giant leap for [mc]."
-    t "One small step for man, one giant leap for [mc]."
+    t "Один маленький крок для людини, й величезний стрибок для [mc]."
 
 # game/game/script.rpy:951
 translate ukrainian set_fire_2b35b6fe:
@@ -2835,49 +2835,49 @@ translate ukrainian set_fire_2b35b6fe:
 translate ukrainian set_fire_a07c7a0f:
 
     # mc "Well, time to cook the fish."
-    mc "Well, time to cook the fish."
+    mc "Ну, час готувати рибу."
 
 # game/game/script.rpy:954
 translate ukrainian set_fire_90cdc177:
 
     # t "For a first day, it was pretty quiet... not to say boring."
-    t "For a first day, it was pretty quiet... not to say boring."
+    t "Як для першого дня, було досить тихо... не те щоб нудно."
 
 # game/game/script.rpy:955
 translate ukrainian set_fire_36823d49:
 
     # t "I haven't seen anyone."
-    t "I haven't seen anyone."
+    t "Я так нікого не зустрів."
 
 # game/game/script.rpy:956
 translate ukrainian set_fire_c4e2d1f4:
 
     # t "Then again, I don't know what I was expecting."
-    t "Then again, I don't know what I was expecting."
+    t "З іншого боку, я й сам не знаю, чого я очікував."
 
 # game/game/script.rpy:957
 translate ukrainian set_fire_5cfe6831:
 
     # t "A beautiful girl waiting for me?"
-    t "A beautiful girl waiting for me?"
+    t "Вродливої дівчини, що на мене чекає?"
 
 # game/game/script.rpy:958
 translate ukrainian set_fire_72b46801:
 
     # t "Telling me I'm the new hero who must save the world?"
-    t "Telling me I'm the new hero who must save the world?"
+    t "Котра скаже мені, що я новий герой й маю врятувати світ?"
 
 # game/game/script.rpy:959
 translate ukrainian set_fire_2291a267:
 
     # t "Hahaha, {w}well, I'm glad it wasn't like that."
-    t "Hahaha, {w}well, I'm glad it wasn't like that."
+    t "Хахаха, {w}ну, принаймні я вдячний, що цього не було."
 
 # game/game/script.rpy:960
 translate ukrainian set_fire_bc2c3ccf:
 
     # t "I don't look like a hero at all."
-    t "I don't look like a hero at all."
+    t "Не схожий я на героя, зовсім."
 
 # game/game/script.rpy:961
 translate ukrainian set_fire_2b35b6fe_1:
@@ -2889,73 +2889,73 @@ translate ukrainian set_fire_2b35b6fe_1:
 translate ukrainian set_fire_1bfd557e:
 
     # t "Now that I think about it..."
-    t "Now that I think about it..."
+    t "Тепер оце я думаю..."
 
 # game/game/script.rpy:964
 translate ukrainian set_fire_5d997831:
 
     # t "Keiko said it would enhance my physical abilities."
-    t "Keiko said it would enhance my physical abilities."
+    t "Кейко сказала, що воно посилить мене фізично."
 
 # game/game/script.rpy:965
 translate ukrainian set_fire_5d3343eb:
 
     # t "And Fumiko told me it was a pretty powerful blessing."
-    t "And Fumiko told me it was a pretty powerful blessing."
+    t "Однак Фуміко розповіла, що це благословення доволі-таки потужне."
 
 # game/game/script.rpy:967
 translate ukrainian set_fire_956cc7fc:
 
     # t "But {w}I feel the same..."
-    t "But {w}I feel the same..."
+    t "Хоча {w}я почуваюся так само..."
 
 # game/game/script.rpy:968
 translate ukrainian set_fire_f63b309d:
 
     # t "I should find a way to test my skills..."
-    t "I should find a way to test my skills..."
+    t "Треба знайти спосіб перевірити власні навички..."
 
 # game/game/script.rpy:970
 translate ukrainian set_fire_cd8ed672:
 
     # t "The only real change I feel is a heightened awareness of my surroundings."
-    t "The only real change I feel is a heightened awareness of my surroundings."
+    t "Єдина відчутна зміна — у мене ніби загострилося сприйняття всього навколо."
 
 # game/game/script.rpy:971
 translate ukrainian set_fire_0db493f2:
 
     # t "Like the trees..."
-    t "Like the trees..."
+    t "Наприклад, ці дерева..."
 
 # game/game/script.rpy:972
 translate ukrainian set_fire_495e9716:
 
     # t "The falling leaves..."
-    t "The falling leaves..."
+    t "Листя, що падає..."
 
 # game/game/script.rpy:974
 translate ukrainian set_fire_ebf129a3:
 
     # t "The wind..."
-    t "The wind..."
+    t "Вітер..."
 
 # game/game/script.rpy:975
 translate ukrainian set_fire_abe10485:
 
     # t "And the overwhelming bloodlust..."
-    t "And the overwhelming bloodlust..."
+    t "І нестримна жага крові..."
 
 # game/game/script.rpy:986
 translate ukrainian set_fire_12bd19e8:
 
     # mc "What the-{w=0.3}{nw}"
-    mc "What the-{w=0.3}{nw}"
+    mc "Якого-{w=0.3}{nw}"
 
 # game/game/script.rpy:993
 translate ukrainian set_fire_f085b7c6:
 
     # t "Fuck fuck fuck!"
-    t "Fuck fuck fuck!"
+    t "Бля, бля, бля!"
 
 # game/game/script.rpy:994
 translate ukrainian set_fire_6c38f3ba:
@@ -29206,6 +29206,11 @@ translate ukrainian strings:
 
     # script.rpy:2784
     # ...
+    # script.rpy:2946
+
+    old "{sc=2}{outlinecolor=#000000}Watch out!{w=0.5}{nw}"
+    new "{sc=2}{outlinecolor=#000000}Стережись!{w=0.5}{nw}"
+
     # script.rpy:4560
 
 ### NOT SORTED
@@ -29401,9 +29406,6 @@ translate ukrainian strings:
 
     old "Thank you for taking care of the village."
     new "Thank you for taking care of the village."
-
-    old "{sc=2}{outlinecolor=#000000}Watch out!{w=0.5}{nw}"
-    new "{sc=2}{outlinecolor=#000000}Watch out!{w=0.5}{nw}"
 
     old "Y-You just answered me!"
     new "Y-You just answered me!"

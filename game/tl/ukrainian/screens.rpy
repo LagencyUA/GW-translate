@@ -364,3 +364,13 @@ translate ukrainian strings:
 
     old "Devlog!"
     new "Девлог!"
+
+    old "{#auto_page}A"
+    new "{#auto_page}А"
+
+    old "{#quick_page}Q"
+    new "{#quick_page}Ш"
+
+# Зменшено розмір нумерації сторінок у вкрадці збереження та завантаження
+translate ukrainian style page_button_text:
+    size 32
