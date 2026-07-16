@@ -2625,91 +2625,91 @@ translate ukrainian choice4_dec0d59e:
 translate ukrainian stones_d416a847:
 
     # t "This is where I appeared."
-    t "This is where I appeared."
+    t "Саме тут я опинився спочатку."
 
 # game/game/script.rpy:869
 translate ukrainian stones_61222beb:
 
     # t "If it weren't for those strange symbols, I'd think these were just simple ruins."
-    t "If it weren't for those strange symbols, I'd think these were just simple ruins."
+    t "Якби не ці химерні символи, я б подумав, що це лише прості розвалини."
 
 # game/game/script.rpy:870
 translate ukrainian stones_ecbfcdc3:
 
     # mc "But... {w}why is everything destroyed?"
-    mc "But... {w}why is everything destroyed?"
+    mc "Але... {w}чому тут все зруйновано?"
 
 # game/game/script.rpy:872
 translate ukrainian stones_f64252a1:
 
     # t "There is no moss on the broken parts..."
-    t "There is no moss on the broken parts..."
+    t "Не бачу, аби щось встигло обрости мохом..."
 
 # game/game/script.rpy:873
 translate ukrainian stones_88261b7c:
 
     # t "Did I cause the collapse?"
-    t "Did I cause the collapse?"
+    t "Це через мене воно все розвалилося?"
 
 # game/game/script.rpy:874
 translate ukrainian stones_202891d3:
 
     # t "It must have caused a lot of noise..."
-    t "It must have caused a lot of noise..."
+    t "Певно, воно добряче так гепнуло..."
 
 # game/game/script.rpy:876
 translate ukrainian stones_63e9e0df:
 
     # t "If no one came to check, {w}this place must be far from civilization."
-    t "If no one came to check, {w}this place must be far from civilization."
+    t "Якщо ніхто не прийде на шум, {w}значить я досить далеко від цивілізації."
 
 # game/game/script.rpy:877
 translate ukrainian stones_dba10701:
 
     # t "Well, whatever, {w}I'll think about it later."
-    t "Well, whatever, {w}I'll think about it later."
+    t "Ну, хай там як, {w}пізніше буду думати про це."
 
 # game/game/script.rpy:879
 translate ukrainian stones_8cf016e4:
 
     # mc "I'll camp here for the night."
-    mc "I'll camp here for the night."
+    mc "Зупинюся тут на ніч."
 
 # game/game/script.rpy:880
 translate ukrainian stones_a70ec429:
 
     # mc "I should look for wood to build a fire."
-    mc "I should look for wood to build a fire."
+    mc "Мені варто пошукати якусь деревину для вогнища."
 
 # game/game/script.rpy:882
 translate ukrainian stones_68901ebd:
 
     # mc "This will do, {w}they look pretty dry."
-    mc "This will do, {w}they look pretty dry."
+    mc "Підійде, {w}виглядають достатньо сухо."
 
 # game/game/script.rpy:894
 translate ukrainian lake_d86a32f3:
 
     # t "This lake is close to where I appeared."
-    t "This lake is close to where I appeared."
+    t "Це озеро майже поруч із місцем, де я з'явився."
 
 # game/game/script.rpy:895
 translate ukrainian lake_8858b9ee:
 
     # t "It doesn't look like this place has been getting visitors lately."
-    t "It doesn't look like this place has been getting visitors lately."
+    t "Не схоже, щоб це місце останнім часом було шалено популярним."
 
 # game/game/script.rpy:896
 translate ukrainian lake_1bfd557e:
 
     # t "Now that I think about it..."
-    t "Now that I think about it..."
+    t "Тепер, коли я про це замислився..."
 
 # game/game/script.rpy:898
 translate ukrainian lake_5dcbd18b:
 
     # t "I haven't seen a single soul... {w}Did they really send me this far?"
-    t "I haven't seen a single soul... {w}Did they really send me this far?"
+    t "Я не бачив ні душі... {w}Невже мене відправили аж так далеко?"
 
 # game/game/script.rpy:899
 translate ukrainian lake_2b35b6fe:
@@ -2721,25 +2721,25 @@ translate ukrainian lake_2b35b6fe:
 translate ukrainian lake_6aa827fb:
 
     # t "The water looks crystal clear."
-    t "The water looks crystal clear."
+    t "Вода кришталево чиста."
 
 # game/game/script.rpy:903
 translate ukrainian lake_7fc1547b:
 
     # t "It'd be great if I could catch some fish."
-    t "It'd be great if I could catch some fish."
+    t "Було б непогано спіймати пару рибин."
 
 # game/game/script.rpy:904
 translate ukrainian lake_dcb4c999:
 
     # t "I just need a rod... or something makeshift."
-    t "I just need a rod... or something makeshift."
+    t "Мені лише потрібна вудка... або щось схоже на неї."
 
 # game/game/script.rpy:906
 translate ukrainian lake_489df257:
 
     # t "But what could I use...?"
-    t "But what could I use...?"
+    t "Але що б зійшло за неї...?"
 
 # game/game/script.rpy:907
 translate ukrainian lake_2b35b6fe_1:
@@ -2751,31 +2751,31 @@ translate ukrainian lake_2b35b6fe_1:
 translate ukrainian lake_d023c69f:
 
     # mc "I think I've found your first mission, my friend."
-    mc "I think I've found your first mission, my friend."
+    mc "Здається, напарнику, я знайшов тобі перше завдання."
 
 # game/game/script.rpy:913
 translate ukrainian lake_04745eeb:
 
     # "You tear off part of your clothes and use it to craft a makeshift rope, tying it to your katana."
-    "You tear off part of your clothes and use it to craft a makeshift rope, tying it to your katana."
+    "Ти відриваєш частину свого одягу, перетворюючи її на імпровізовану мотузку, прив’язуєш її до своєї катани."
 
 # game/game/script.rpy:914
 translate ukrainian lake_82004fb3:
 
     # "As if by some miracle, you manage to catch a fish."
-    "As if by some miracle, you manage to catch a fish."
+    "Наче якимось дивом тобі вдається спіймати рибу."
 
 # game/game/script.rpy:915
 translate ukrainian lake_ca871376:
 
     # t "It took a while, but at least I won't starve on my first day."
-    t "It took a while, but at least I won't starve on my first day."
+    t "Знадобилося трохи часу, але принаймні я не буду голодувати першого ж дня."
 
 # game/game/script.rpy:916
 translate ukrainian lake_fb8214d9:
 
     # "If the katana were alive, would it be wondering {w}\"what's the purpose of its existence?\""
-    "If the katana were alive, would it be wondering {w}\"what's the purpose of its existence?\""
+    "Якби катана була живою, чи задавалася б вона питанням: {w}«У чому сенс її існування?»"
 
 # game/game/script.rpy:938
 translate ukrainian set_fire_a15486c8:
@@ -28896,15 +28896,15 @@ translate ukrainian strings:
 
     # game/script.rpy:854
     old "Check the stones"
-    new "Check the stones"
+    new "Перевірити розвалини"
 
     # game/script.rpy:854
     old "Check the lake"
-    new "Check the lake"
+    new "Перевірити озеро"
 
     # game/script.rpy:854
     old "Make a bonfire"
-    new "Make a bonfire"
+    new "Розпалити вогнище"
 
     # game/script.rpy:1459
     old "Current situation"
@@ -29178,12 +29178,37 @@ translate ukrainian strings:
     # ...
     # script.rpy:2622
 
+    # script.rpy:28899
 
-
-### NOT SORTED
+    # script.rpy:2628
+    # ...
+    # script.rpy:2688
 
     old "You have collected some sticks"
-    new "You have collected some sticks"
+    new "Ти зібрав кілька палиць"
+
+    # script.rpy:28903
+
+    # script.rpy:2694
+    # ...
+    # script.rpy:2778
+
+    old "You obtained a fish!"
+    new "Ти отримав рибу!"
+
+    # script.rpy:28907
+
+    old "Before you know it, night has fallen."
+    new "Ніч наступила, перш ніж ти встиг усвідомити."
+    
+    old "You start looking for flat ground to prepare the fire."
+    new "Ти почав шукати рівне місце, щоб розвести багаття."
+
+    # script.rpy:2784
+    # ...
+    # script.rpy:4560
+
+### NOT SORTED
 
     old "And the wolf died."
     new "And the wolf died."
@@ -29199,7 +29224,6 @@ translate ukrainian strings:
 
     old "{size=-10}{b}I could show you..."
     new "{size=-10}{b}I could show you..."
-
 
     old "You go back to sit next to the fire."
     new "You go back to sit next to the fire."
@@ -29281,9 +29305,6 @@ translate ukrainian strings:
 
     old "Both girls leave."
     new "Both girls leave."
-
-    old "You obtained a fish!"
-    new "You obtained a fish!"
 
     old "Yes, they are."
     new "Yes, they are."
@@ -29387,9 +29408,6 @@ translate ukrainian strings:
     old "Y-You just answered me!"
     new "Y-You just answered me!"
 
-    old "You start looking for flat ground to prepare the fire."
-    new "You start looking for flat ground to prepare the fire."
-
     old "I was too careless..."
     new "I was too careless..."
 
@@ -29428,9 +29446,6 @@ translate ukrainian strings:
 
     old "{image=quest_text}Now you can collect wood!"
     new "{image=quest_text}Now you can collect wood!"
-
-    old "Before you know it, night has fallen."
-    new "Before you know it, night has fallen."
 
     old "You quickly get up from the floor. You offer her help, but she refuses."
     new "You quickly get up from the floor. You offer her help, but she refuses."
