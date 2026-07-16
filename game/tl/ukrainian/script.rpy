@@ -2523,19 +2523,19 @@ translate ukrainian choice4_4f0fc2b6:
 translate ukrainian choice4_fa70aa52:
 
     # t "What kind of place is this?"
-    t "І де це я взагалі?"
+    t "Що це за місце?"
 
 # game/game/script.rpy:827
 translate ukrainian choice4_9bd9b90d:
 
     # t "It feels so peaceful.. It doesn't feel like my original world at all."
-    t "It feels so peaceful.. It doesn't feel like my original world at all."
+    t "Тут так спокійно... Зовсім не схоже на мій звичний світ."
 
 # game/game/script.rpy:828
 translate ukrainian choice4_7df3dd67:
 
     # t "Infinity of trees, a clear sky."
-    t "Infinity of trees, a clear sky."
+    t "Нескінченне море дерев, чисте небо."
 
 # game/game/script.rpy:830
 translate ukrainian choice4_a20cefa7:
@@ -2547,55 +2547,55 @@ translate ukrainian choice4_a20cefa7:
 translate ukrainian choice4_dfa9307f:
 
     # t "The katana that I asked for."
-    t "The katana that I asked for."
+    t "Катана, про яку я просив."
 
 # game/game/script.rpy:832
 translate ukrainian choice4_0f860aa3:
 
     # t "Fumiko really gave it to me."
-    t "Fumiko really gave it to me."
+    t "Фуміко справді дала її мені."
 
 # game/game/script.rpy:833
 translate ukrainian choice4_5a7c4c6f:
 
     # t "They don't seem to take the no-intervention rule very seriously..."
-    t "They don't seem to take the no-intervention rule very seriously..."
+    t "Здається, вони не надто серйозно сприймають правило невтручання..."
 
 # game/game/script.rpy:834
 translate ukrainian choice4_302779c8:
 
     # t "There must be special cases."
-    t "There must be special cases."
+    t "Можливо, є певні винятки."
 
 # game/game/script.rpy:836
 translate ukrainian choice4_d4544747:
 
     # mc "This is a very good katana."
-    mc "This is a very good katana."
+    mc "Яка чудова катана."
 
 # game/game/script.rpy:837
 translate ukrainian choice4_d7e2d0b5:
 
     # mc "Just by holding it I can tell."
-    mc "Just by holding it I can tell."
+    mc "Можу це сказати, лише тримаючи її."
 
 # game/game/script.rpy:838
 translate ukrainian choice4_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:839
 translate ukrainian choice4_c54d7121:
 
     # mc "On the handle it says..."
-    mc "On the handle it says..."
+    mc "На руків'ї написано..."
 
 # game/game/script.rpy:841
 translate ukrainian choice4_cb9e692c:
 
     # mc "Chunchunmaru...?"
-    mc "Chunchunmaru...?"
+    mc "Чунчунмару...?"
 
 # game/game/script.rpy:842
 translate ukrainian choice4_2b35b6fe_12:
@@ -2607,19 +2607,19 @@ translate ukrainian choice4_2b35b6fe_12:
 translate ukrainian choice4_65e54d3a:
 
     # t "Just kidding."
-    t "Just kidding."
+    t "Жартую."
 
 # game/game/script.rpy:845
 translate ukrainian choice4_ecd3c6b2:
 
     # t "Now, {w}I need to know where I am."
-    t "Now, {w}I need to know where I am."
+    t "Тепер {w}мені треба зрозуміти де я взагалі."
 
 # game/game/script.rpy:846
 translate ukrainian choice4_dec0d59e:
 
     # t "I'd better check the area, {w}or it'll get dark, and I don't want to have a bad time..."
-    t "I'd better check the area, {w}or it'll get dark, and I don't want to have a bad time..."
+    t "Варто оглянути місцевість, {w}інакше скоро стемніє, а мені зовсім не хочеться потрапити в халепу..."
 
 # game/game/script.rpy:868
 translate ukrainian stones_d416a847:
