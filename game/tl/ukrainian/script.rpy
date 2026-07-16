@@ -29158,6 +29158,22 @@ translate ukrainian strings:
     old "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
     new "Щойно вона обертається, я роблю швидкий рух ногами, аби впоратися з ерекцією."
 
+    # script.rpy:2016
+    # ...
+    # script.rpy:2496
+
+    old "This empty feeling again..."
+    new "Знову це відчуття порожнечі..."
+
+    old "It's like floating in nothingness."
+    new "It's like floating in nothingness."
+
+    old "A new world sounds good..."
+    new "A new world sounds good..."
+
+    old "What kind of people will I meet?"
+    new "What kind of people will I meet?"
+
     # script.rpy:2622
 
 
@@ -29243,14 +29259,8 @@ translate ukrainian strings:
     old "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
     new "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
 
-    old "A new world sounds good..."
-    new "A new world sounds good..."
-
     old "So, you've already become the leader..."
     new "So, you've already become the leader..."
-
-    old "This empty feeling again..."
-    new "This empty feeling again..."
 
     old "{image=quest_text}A cruel reality."
     new "{image=quest_text}A cruel reality."
@@ -29342,9 +29352,6 @@ translate ukrainian strings:
     old "Thanks to the trees, the sun doesn't bother you at all."
     new "Thanks to the trees, the sun doesn't bother you at all."
 
-    old "It's like floating in nothingness."
-    new "It's like floating in nothingness."
-
     old "But I didn't expect it to be so soon..."
     new "But I didn't expect it to be so soon..."
 
@@ -29413,9 +29420,6 @@ translate ukrainian strings:
 
     old "Hey? Are you listening?"
     new "Hey? Are you listening?"
-
-    old "What kind of people will I meet?"
-    new "What kind of people will I meet?"
 
     old "You send Ryoko off to rest while you go look for the adventurer."
     new "You send Ryoko off to rest while you go look for the adventurer."
