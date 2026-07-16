@@ -2391,43 +2391,43 @@ translate ukrainian choice4_775cb365:
 translate ukrainian choice4_989a1cf6:
 
     # fu "You're a strange human."
-    fu "You're a strange human."
+    fu "Ти дивна людина."
 
 # game/game/script.rpy:780
 translate ukrainian choice4_6d8b25c7:
 
     # fu "I see why Keiko let you be reborn like this."
-    fu "I see why Keiko let you be reborn like this."
+    fu "Тепер зрозуміло, чому Кейко дозволила тобі так переродитися."
 
 # game/game/script.rpy:781
 translate ukrainian choice4_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:782
 translate ukrainian choice4_3d996037:
 
     # mc "What are you talking about?"
-    mc "What are you talking about?"
+    mc "Про що це ти?"
 
 # game/game/script.rpy:784
 translate ukrainian choice4_e56a59b7:
 
     # fu "Nothing, nothing fufu~"
-    fu "Nothing, nothing fufu~"
+    fu "Нічого, нічого, хуху~"
 
 # game/game/script.rpy:785
 translate ukrainian choice4_c3093409:
 
     # t "I don't know what happened but seeing her laugh, it seems that all her worries vanished."
-    t "I don't know what happened but seeing her laugh, it seems that all her worries vanished."
+    t "Не знаю, що щойно трапилося, але коли бачу, як вона сміється, аж спокійніше стає на душі."
 
 # game/game/script.rpy:786
 translate ukrainian choice4_10c34bb9:
 
     # mc "Hmm... {w}you look really cute when you laugh."
-    mc "Hmm... {w}you look really cute when you laugh."
+    mc "Гмм... {w}ти доволі мила, коли смієшся."
 
 # game/game/script.rpy:787
 translate ukrainian choice4_eb0840d5_4:
@@ -2439,49 +2439,49 @@ translate ukrainian choice4_eb0840d5_4:
 translate ukrainian choice4_52d02e9a:
 
     # fu "Ah..."
-    fu "Ah..."
+    fu "Ах..."
 
 # game/game/script.rpy:790
 translate ukrainian choice4_b530327b:
 
     # fu "W-Well I'll send you now, are you ready?"
-    fu "W-Well I'll send you now, are you ready?"
+    fu "Щ-Що ж, я вже відправлятиму тебе. Ти готовий?"
 
 # game/game/script.rpy:791
 translate ukrainian choice4_c20b45ed:
 
     # fu "{size=-8}Why's my heart beating so fast with the things this mortal says...?"
-    fu "{size=-8}Why's my heart beating so fast with the things this mortal says...?"
+    fu "{size=-8}Чому моє серденько так швидко тьохкає після слів цього смертного...?"
 
 # game/game/script.rpy:792
 translate ukrainian choice4_75e276c7:
 
     # mc "Yes, whenever you like."
-    mc "Yes, whenever you like."
+    mc "Так, можеш починати."
 
 # game/game/script.rpy:794
 translate ukrainian choice4_a01f5f88:
 
     # fu "Okay... {w}close your eyes."
-    fu "Okay... {w}close your eyes."
+    fu "Гаразд... {w}заплющ очі."
 
 # game/game/script.rpy:796
 translate ukrainian choice4_67711e8a:
 
     # mc "Wait! And how'll I know who I should protect?"
-    mc "Wait! And how'll I know who I should protect?"
+    mc "Стривай! А як я взагалі зрозумію, кого я маю захистити?"
 
 # game/game/script.rpy:798
 translate ukrainian choice4_4fd9cda2:
 
     # fu "{size=-6}You'll know when the time comes..."
-    fu "{size=-6}You'll know when the time comes..."
+    fu "{size=-6}Дізнаєшся коли настане час..."
 
 # game/game/script.rpy:799
 translate ukrainian choice4_cd69749b:
 
     # mc "And will I see you again?"
-    mc "And will I see you again?"
+    mc "Ми ще побачимось?"
 
 # game/game/script.rpy:800
 translate ukrainian choice4_eb0840d5_5:
@@ -2493,7 +2493,7 @@ translate ukrainian choice4_eb0840d5_5:
 translate ukrainian choice4_7c0de4a9:
 
     # fu "{size=-6}M-Maybe..."
-    fu "{size=-6}M-Maybe..."
+    fu "{size=-6}М-Можливо..."
 
 # game/game/script.rpy:816
 translate ukrainian choice4_2ccf79eb:
