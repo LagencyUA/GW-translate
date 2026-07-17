@@ -237,7 +237,7 @@ translate ukrainian start_b78a40de:
 translate ukrainian start_f84e7d0b:
 
     # t "{size=-6}{i}Whatever...{/size} {w}let's get this over with soon."
-    t "{size=-6}{i}Біс із ним...{/size} {w}нумо швидше з цим покінчу."
+    t "{size=-6}{i}Біс із ним...{/i}{/size} {w}нумо швидше з цим покінчу."
 
 # game/game/script.rpy:161
 translate ukrainian start_32684e28:
@@ -3267,7 +3267,7 @@ translate ukrainian set_fire_5d7e1146:
 translate ukrainian set_fire_463bbce5:
 
     # t "What is she doing in the woods at this hour...?"
-    t "Що вона забула у лісі у таку годину...?"
+    t "Що вона забула у лісі ще й у таку годину...?"
 
 # game/game/script.rpy:1125
 translate ukrainian set_fire_652650d3:
@@ -3315,7 +3315,7 @@ translate ukrainian set_fire_2b35b6fe_7:
 translate ukrainian set_fire_d27b1fd4:
 
     # t "I can't leave her here-"
-    t "Не можу я її тут кинути-"
+    t "Не можу ж я її тут кинути-"
 
 # game/game/script.rpy:1140
 translate ukrainian set_fire_20086df9:
@@ -3333,13 +3333,13 @@ translate ukrainian set_fire_2dc4b443:
 translate ukrainian set_fire_e963a4e6:
 
     # a "{sc=2}{outlinecolor=#000000}Please don't do anything to me!"
-    a "{sc=2}{outlinecolor=#000000}Будь ласка, не чипайте мене!"
+    a "{sc=2}{outlinecolor=#000000}Будь ласка, не чіпайте мене!"
 
 # game/game/script.rpy:1152
 translate ukrainian set_fire_ef5cdd73:
 
     # a "{sc=2}{outlinecolor=#000000}I was just passing by!"
-    a "{sc=2}{outlinecolor=#000000}Я просто проходила мимо!"
+    a "{sc=2}{outlinecolor=#000000}Я просто проходила повз!"
 
 # game/game/script.rpy:1153
 translate ukrainian set_fire_92984e35:
@@ -3363,7 +3363,7 @@ translate ukrainian set_fire_5ff0a044:
 translate ukrainian set_fire_fd450bac:
 
     # a "{sc=2}{outlinecolor=#000000}If you're going to eat me, please make it quick and painless!"
-    a "{sc=2}{outlinecolor=#000000}Якщо плануєте мене зїсти, зробіть це швидко та безболісно!"
+    a "{sc=2}{outlinecolor=#000000}Якщо плануєте мене з'їсти, зробіть це швидко та безболісно!"
 
 # game/game/script.rpy:1158
 translate ukrainian set_fire_138174df:
@@ -3375,7 +3375,7 @@ translate ukrainian set_fire_138174df:
 translate ukrainian set_fire_aa29ac93:
 
     # t "She's too scared to even hear me out."
-    t "Вона настільки налякана, що навіть не чує."
+    t "Вона настільки налякана, що навіть не слухає."
 
 # game/game/script.rpy:1160
 translate ukrainian set_fire_83de3b28:
@@ -3399,7 +3399,7 @@ translate ukrainian set_fire_11d15444:
 translate ukrainian set_fire_fdd47c77:
 
     # a "{sc=1}{outlinecolor=#000000}Maybe you want to sell me, but I'm not worth much, {w}believe me!"
-    a "{sc=1}{outlinecolor=#000000}Можливо ви хочете мене продати, але я мацже нічого не вартую, {w}запевняю!"
+    a "{sc=1}{outlinecolor=#000000}{size=-5}Можливо ви хочете мене продати, але\nя майже нічого не вартую, {w}запевняю!"
 
 # game/game/script.rpy:1166
 translate ukrainian set_fire_3f78b787:
@@ -3411,13 +3411,13 @@ translate ukrainian set_fire_3f78b787:
 translate ukrainian set_fire_d7c1b248:
 
     # mc "Take it, {w}are you hungry?"
-    mc "Візьми. {w}Мабуть ти зголодніла?"
+    mc "Візьми. {w}Мабуть, ти зголодніла?"
 
 # game/game/script.rpy:1168
 translate ukrainian set_fire_2a87c271:
 
     # mc "It might be a little dirty, but it's better than the others..."
-    mc "Вона, мабуть, трохи брудна, але значно краще за інші..."
+    mc "Вона, певно, трохи брудна, але значно краще за інші..."
 
 # game/game/script.rpy:1169
 translate ukrainian set_fire_490cd218:
@@ -3447,7 +3447,7 @@ translate ukrainian set_fire_17c68526:
 translate ukrainian set_fire_3de31b30:
 
     # a "Can I really eat it?!"
-    a "Я справді можу це зїсти?!"
+    a "Я справді можу це з'їсти?!"
 
 # game/game/script.rpy:1176
 translate ukrainian set_fire_b574606e:
@@ -3459,7 +3459,7 @@ translate ukrainian set_fire_b574606e:
 translate ukrainian set_fire_f4faff9a:
 
     # t "She's devouring that fish like she hasn't eaten in days."
-    t "Вона запихується тією рибою, ніби вже кілька днів не їла."
+    t "Вона так запихається тією рибою, ніби вже кілька днів не їла."
 
 # game/game/script.rpy:1179
 translate ukrainian set_fire_37adc040:
@@ -3483,7 +3483,7 @@ translate ukrainian set_fire_545bc5d6:
 translate ukrainian set_fire_36c95f66:
 
     # mc "{size=-6}{i}Sigh...*{/size} {w}They burned..."
-    mc "{size=-6}{i}Хах...*{/size} {w}Вони згоріли..."
+    mc "{size=-6}{i}Хах...{/i}{/size} {w}Вони згоріли..."
 
 # game/game/script.rpy:1196
 translate ukrainian set_fire_2c2b4a28:
@@ -3495,7 +3495,7 @@ translate ukrainian set_fire_2c2b4a28:
 translate ukrainian set_fire_2a28f6bf:
 
     # t "I hope the blessing also protects me from stomachaches..."
-    t "Сподіваюся, багословення мене також захистить від болю в животі..."
+    t "Сподіваюся, благословення мене також захистить від болю в животі..."
 
 # game/game/script.rpy:1198
 translate ukrainian set_fire_c06ca724:
@@ -3531,7 +3531,7 @@ translate ukrainian set_fire_2fc1fc7c:
 translate ukrainian set_fire_bcea4c97:
 
     # mc "Besides, if I wanted to hurt you, I wouldn't warn you about it."
-    mc "До того ж якби я хотів тобі зашкодити, то не попереджав."
+    mc "До того ж якби я хотів тобі зашкодити, зробив би це без попереджень."
 
 # game/game/script.rpy:1207
 translate ukrainian set_fire_af8e4b6a:
@@ -3549,7 +3549,7 @@ translate ukrainian set_fire_f2b66154:
 translate ukrainian set_fire_6fea4520:
 
     # t "She must have gone through something terrible..."
-    t "Здається, вона пройшла через щось жахливе..."
+    t "Здається, їй довелося пройти через щось жахливе..."
 
 # game/game/script.rpy:1211
 translate ukrainian set_fire_80221a99:
@@ -29232,6 +29232,16 @@ translate ukrainian strings:
 
     # script.rpy:3228
     # ...
+    # script.rpy:3480
+
+    old "You go back to sit next to the fire."
+    new "Ти поверташся і сідаєш біля багаття."
+
+    old "When she finishes eating, she slowly approaches you."
+    new "Доївши, вона обережно підходить до тебе."
+
+    # script.rpy:3486
+    # ...
     # script.rpy:4560
 
 ### NOT SORTED
@@ -29247,9 +29257,6 @@ translate ukrainian strings:
 
     old "{size=-10}{b}I could show you..."
     new "{size=-10}{b}I could show you..."
-
-    old "You go back to sit next to the fire."
-    new "You go back to sit next to the fire."
 
     old "You continue on your way."
     new "You continue on your way."
@@ -29346,9 +29353,6 @@ translate ukrainian strings:
 
     old "You approach Yui."
     new "You approach Yui."
-
-    old "When she finishes eating, she slowly approaches you."
-    new "When she finishes eating, she slowly approaches you."
 
     old "You stop for a moment to eat some fruit Ryoko found."
     new "You stop for a moment to eat some fruit Ryoko found."
