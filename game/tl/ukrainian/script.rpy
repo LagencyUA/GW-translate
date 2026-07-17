@@ -3393,7 +3393,7 @@ translate ukrainian set_fire_58e50efb:
 translate ukrainian set_fire_11d15444:
 
     # t "The others are almost burned, except for the one I dropped earlier..."
-    t "Усі інші майже згоріли, окрім тієї, що я впустив..."
+    t "Усі інші майже згоріли, окрім цієї, що я впустив..."
 
 # game/game/script.rpy:1165
 translate ukrainian set_fire_fdd47c77:
@@ -3579,7 +3579,7 @@ translate ukrainian set_fire_86bb65cd:
 translate ukrainian set_fire_e9fad0b0:
 
     # mc "Without you, I'd probably be dead."
-    mc "Якби не ти, мені б вже були гайки."
+    mc "Якби не ти, мені б уже були гайки."
 
 # game/game/script.rpy:1217
 translate ukrainian set_fire_48066075:
@@ -3603,19 +3603,19 @@ translate ukrainian set_fire_0c393e90:
 translate ukrainian set_fire_79ab54ab:
 
     # mc "I'm not going to hurt you. {w}You already have my trust."
-    mc "I'm not going to hurt you. {w}You already have my trust."
+    mc "Я тебе точно не скривджу. {w}Ти вже отримала мою довіру."
 
 # game/game/script.rpy:1222
 translate ukrainian set_fire_268f29f5:
 
     # mc "Could you tell me your name?"
-    mc "Could you tell me your name?"
+    mc "Не скажеш мені, як тебе звати?"
 
 # game/game/script.rpy:1224
 translate ukrainian set_fire_e235274f:
 
     # mc "Please...?"
-    mc "Please...?"
+    mc "Будь ласка...?"
 
 # game/game/script.rpy:1225
 translate ukrainian set_fire_bb8e4b4e:
@@ -3627,97 +3627,97 @@ translate ukrainian set_fire_bb8e4b4e:
 translate ukrainian set_fire_3db10650:
 
     # a "{size=-9}...ko~"
-    a "{size=-9}...ko~"
+    a "{size=-9}...ко~"
 
 # game/game/script.rpy:1227
 translate ukrainian set_fire_93774c00:
 
     # mc "Ko?"
-    mc "Ko?"
+    mc "Ко?"
 
 # game/game/script.rpy:1229
 translate ukrainian set_fire_155123d2:
 
     # a "R-Ryoko..."
-    a "R-Ryoko..."
+    a "Р-Рьоко..."
 
 # game/game/script.rpy:1230
 translate ukrainian set_fire_841e49cc:
 
     # mc "Ryoko, {w}that's a really cute name."
-    mc "Ryoko, {w}that's a really cute name."
+    mc "Рьоко {w}— дуже миле ім'я."
 
 # game/game/script.rpy:1231
 translate ukrainian set_fire_f745bf93:
 
     # mc "I'm [mc], {w}nice to meet you."
-    mc "I'm [mc], {w}nice to meet you."
+    mc "Я [mc], {w}приємно познайомитися."
 
 # game/game/script.rpy:1233
 translate ukrainian set_fire_dac1fa99:
 
     # r "{size=-7}Nice to meet you too..."
-    r "{size=-7}Nice to meet you too..."
+    r "{size=-7}Мені теж приємно..."
 
 # game/game/script.rpy:1234
 translate ukrainian set_fire_9d38234d:
 
     # mc "Now... {w}can you tell me what you were doing in the middle of the forest at this hour?"
-    mc "Now... {w}can you tell me what you were doing in the middle of the forest at this hour?"
+    mc "Отже... {w}розкажеш мені, що ти робиш посеред лісу о такій годині?"
 
 # game/game/script.rpy:1236
 translate ukrainian set_fire_1e80e35d:
 
     # t "Her worried expression came back the moment I asked."
-    t "Her worried expression came back the moment I asked."
+    t "Її стурбований вираз обличчя повернувся, щойно я запитав."
 
 # game/game/script.rpy:1238
 translate ukrainian set_fire_8caab161:
 
     # t "I'm not stupid. {w}That necklace she's wearing..."
-    t "I'm not stupid. {w}That necklace she's wearing..."
+    t "Я не дурень. {w}Цей нашийник, що на ній..."
 
 # game/game/script.rpy:1239
 translate ukrainian set_fire_4fb7b2ea:
 
     # t "A normal person wouldn't use that as an accessory."
-    t "A normal person wouldn't use that as an accessory."
+    t "Нормальна людина не носила б таке як прикрасу."
 
 # game/game/script.rpy:1240
 translate ukrainian set_fire_7db91794:
 
     # t "If she doesn't want to talk, {w}I won't force her-"
-    t "If she doesn't want to talk, {w}I won't force her-"
+    t "Якщо вона не хоче розповідати, {w}не заставлятиму її-"
 
 # game/game/script.rpy:1241
 translate ukrainian set_fire_7bf13600:
 
     # r "I..."
-    r "I..."
+    r "Я..."
 
 # game/game/script.rpy:1242
 translate ukrainian set_fire_3f871f46_1:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:1244
 translate ukrainian set_fire_d61a90c2:
 
     # mc "{size=-6}Eh-"
-    mc "{size=-6}Eh-"
+    mc "{size=-6}Ех-"
 
 # game/game/script.rpy:1245
 translate ukrainian set_fire_bd6d661c:
 
     # t "S-She already finished the fish?"
-    t "S-She already finished the fish?"
+    t "В-Вона вже й цю злопала?"
 
 # game/game/script.rpy:1246
 translate ukrainian set_fire_da9108f9:
 
     # r "{size=-6}I'm running away..."
-    r "{size=-6}I'm running away..."
+    r "{size=-6}Я втікаю..."
 
 # game/game/script.rpy:1247
 translate ukrainian set_fire_2b35b6fe_8:
@@ -3729,25 +3729,25 @@ translate ukrainian set_fire_2b35b6fe_8:
 translate ukrainian set_fire_e56fcc3e:
 
     # r "As you can see, {w}I'm a slave..."
-    r "As you can see, {w}I'm a slave..."
+    r "Я ви можете помітити, {w}Я рабиня..."
 
 # game/game/script.rpy:1253
 translate ukrainian set_fire_098184ac:
 
     # r "My friend and I were captured by mercenaries."
-    r "My friend and I were captured by mercenaries."
+    r "Мою подругу й мене спіймали найманці."
 
 # game/game/script.rpy:1254
 translate ukrainian set_fire_34fb5c19:
 
     # r "Horrendous people who capture whatever they can to sell them."
-    r "Horrendous people who capture whatever they can to sell them."
+    r "Жахливі люди, які виловлюють усіх, кого тільки можуть, щоб потім продати."
 
 # game/game/script.rpy:1258
 translate ukrainian set_fire_ff08e9c6:
 
     # r "They kept us in cages and mistreated us if we did anything they didn't like."
-    r "They kept us in cages and mistreated us if we did anything they didn't like."
+    r "Вони тримали нас у клітках і жорстоко поводилися з нами, коли ми робили щось, що їм не подобалося."
 
 # game/game/script.rpy:1259
 translate ukrainian set_fire_2b35b6fe_9:
@@ -3759,85 +3759,85 @@ translate ukrainian set_fire_2b35b6fe_9:
 translate ukrainian set_fire_4493eea9:
 
     # r "They were going to sell us to a new owner, someone known for being cruel to slaves..."
-    r "They were going to sell us to a new owner, someone known for being cruel to slaves..."
+    r "Вони збиралися продати нас новому господареві, який славився жорстоким поводженням із рабами..."
 
 # game/game/script.rpy:1261
 translate ukrainian set_fire_b0b92a74:
 
     # r "{size=-6}He only buys them to abuse them..."
-    r "{size=-6}He only buys them to abuse them..."
+    r "{size=-6}Він їх купує лише, щоб знущатися з них..."
 
 # game/game/script.rpy:1263
 translate ukrainian set_fire_aad4d4af:
 
     # r "We heard from the others slaves that anyone sold to him was as good as dead..."
-    r "We heard from the others slaves that anyone sold to him was as good as dead..."
+    r "Ми почули від інших рабів, що кожного, кого продавали йому, можна вважати уже мертвим..."
 
 # game/game/script.rpy:1264
 translate ukrainian set_fire_8fea2db2:
 
     # mc "Hmm..."
-    mc "Hmm..."
+    mc "Гмм..."
 
 # game/game/script.rpy:1265
 translate ukrainian set_fire_559e876b:
 
     # r "Our only choice was to escape..."
-    r "Our only choice was to escape..."
+    r "Ми мали лише один вибір — втікти..."
 
 # game/game/script.rpy:1267
 translate ukrainian set_fire_876d14a3:
 
     # r "{size=-6}But I wouldn't have made it without..."
-    r "{size=-6}But I wouldn't have made it without..."
+    r "{size=-6}Але б я не впоралася без..."
 
 # game/game/script.rpy:1268
 translate ukrainian set_fire_a7bcf340:
 
     # mc "I see..."
-    mc "I see..."
+    mc "Ясно..."
 
 # game/game/script.rpy:1270
 translate ukrainian set_fire_a93d67e7:
 
     # r "I hate being weak! I couldn't do anything!"
-    r "I hate being weak! I couldn't do anything!"
+    r "Ненавиджу бути слабкою! Я ні на що не здатна!"
 
 # game/game/script.rpy:1271
 translate ukrainian set_fire_40b03e09:
 
     # r "That doesn't make me any better than those guys. {w}I just left her behind!"
-    r "That doesn't make me any better than those guys. {w}I just left her behind!"
+    r "Я не краща за тих людей. {w}Я просто залишила її там!"
 
 # game/game/script.rpy:1273
 translate ukrainian set_fire_02792021:
 
     # r "{sc=3}{outlinecolor=#000000}And now I don't know if she's okay!"
-    r "{sc=3}{outlinecolor=#000000}And now I don't know if she's okay!"
+    r "{sc=3}{outlinecolor=#000000}І тепер я навіть не знаю, чи з нею все гаразд!"
 
 # game/game/script.rpy:1274
 translate ukrainian set_fire_fff2c58d:
 
     # r "{sc=3}{outlinecolor=#000000}I just ran and ran!"
-    r "{sc=3}{outlinecolor=#000000}I just ran and ran!"
+    r "{sc=3}{outlinecolor=#000000}Я лише бігла й бігла!"
 
 # game/game/script.rpy:1275
 translate ukrainian set_fire_a7116f59:
 
     # r "{sc=3}{outlinecolor=#000000}She told me not to look back, {w}but I did... {w}and I saw..."
-    r "{sc=3}{outlinecolor=#000000}She told me not to look back, {w}but I did... {w}and I saw..."
+    r "{sc=3}{outlinecolor=#000000}{size=-6}Вона сказала мені не озиратися, {w}але я не послухала... {w}і побачила..."
 
 # game/game/script.rpy:1278
 translate ukrainian set_fire_ffae4ed0:
 
     # mc "{size=-8}It's okay..."
-    mc "{size=-8}It's okay..."
+    mc "{size=-8}Усе гаразд..."
 
 # game/game/script.rpy:1279
 translate ukrainian set_fire_6848fcc0:
 
     # mc "{size=-7}You don't have to say anything else..."
-    mc "{size=-7}You don't have to say anything else..."
+    mc "{size=-7}Ти не мусиш більше нічого говорити..."
 
 # game/game/script.rpy:1280
 translate ukrainian set_fire_b9b755e5:
@@ -3849,13 +3849,13 @@ translate ukrainian set_fire_b9b755e5:
 translate ukrainian set_fire_453299ab:
 
     # mc "{size=-7}Everything's fine now."
-    mc "{size=-7}Everything's fine now."
+    mc "{size=-7}Відтепер усе буде добре."
 
 # game/game/script.rpy:1283
 translate ukrainian set_fire_5f8aac5a:
 
     # mc "{size=-6}You probably already know this, {w}but blaming yourself won't change anything."
-    mc "{size=-6}You probably already know this, {w}but blaming yourself won't change anything."
+    mc "{size=-6}Ти, напевно, вже це зрозуміла, {w}але, звинувачуючи себе, ти нічого не зміниш."
 
 # game/game/script.rpy:1284
 translate ukrainian set_fire_ee99b730:
