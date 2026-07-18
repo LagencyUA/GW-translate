@@ -2475,7 +2475,7 @@ translate ukrainian choice4_67711e8a:
 translate ukrainian choice4_4fd9cda2:
 
     # fu "{size=-6}You'll know when the time comes..."
-    fu "{size=-6}Дізнаєшся коли настане час..."
+    fu "{size=-6}Дізнаєшся, коли настане час..."
 
 # game/game/script.rpy:799
 translate ukrainian choice4_cd69749b:
@@ -3861,25 +3861,25 @@ translate ukrainian set_fire_5f8aac5a:
 translate ukrainian set_fire_ee99b730:
 
     # mc "{size=-6}What matters is that you had someone who wanted you to escape, and you did."
-    mc "{size=-6}What matters is that you had someone who wanted you to escape, and you did."
+    mc "{size=-6}Головне — у тебе був той, хто хотів твого порятунку, і тобі це вдалося."
 
 # game/game/script.rpy:1285
 translate ukrainian set_fire_e3212d48:
 
     # mc "{size=-6}You may say you're weak, {w}but your heart is incredibly strong, Ryoko..."
-    mc "{size=-6}You may say you're weak, {w}but your heart is incredibly strong, Ryoko..."
+    mc "{size=-6}Можеш казати, що слабка, {w}але в тебе хоробре серце, Рьоко..."
 
 # game/game/script.rpy:1287
 translate ukrainian set_fire_5e6eac92:
 
     # mc "Be proud to have such a friend."
-    mc "Be proud to have such a friend."
+    mc "Пишайся тим, що у тебе є така подруга."
 
 # game/game/script.rpy:1288
 translate ukrainian set_fire_d677b456:
 
     # r "{sc=3}{outlinecolor=#000000}I-I..."
-    r "{sc=3}{outlinecolor=#000000}I-I..."
+    r "{sc=3}{outlinecolor=#000000}Я-Я..."
 
 # game/game/script.rpy:1290
 translate ukrainian set_fire_a20cefa7:
@@ -3903,31 +3903,31 @@ translate ukrainian set_fire_d7edd024:
 translate ukrainian set_fire_cb611780:
 
     # t "After that..."
-    t "After that..."
+    t "Після цього..."
 
 # game/game/script.rpy:1296
 translate ukrainian set_fire_3d82b6d0:
 
     # t "She cried in my arms for a while."
-    t "She cried in my arms for a while."
+    t "Певний час вона ще плакала у моїх обіймах."
 
 # game/game/script.rpy:1297
 translate ukrainian set_fire_76dec257:
 
     # t "Until she finally fell asleep..."
-    t "Until she finally fell asleep..."
+    t "Допоки нарешті не заснула..."
 
 # game/game/script.rpy:1300
 translate ukrainian set_fire_93c30dbc:
 
     # t "So, slavery still exists in this world..."
-    t "So, slavery still exists in this world..."
+    t "То рабство досі існує у цьому світі..."
 
 # game/game/script.rpy:1301
 translate ukrainian set_fire_dc4a26fb:
 
     # t "This is what she meant by {w}\"You'll know it when the time comes\"?"
-    t "This is what she meant by {w}\"You'll know it when the time comes\"?"
+    t "Це вона мала на увазі, коли казала: {w}«Дізнаєшся, коли настане час»?"
 
 # game/game/script.rpy:1302
 translate ukrainian set_fire_2b35b6fe_10:
@@ -3939,19 +3939,19 @@ translate ukrainian set_fire_2b35b6fe_10:
 translate ukrainian set_fire_745ee7d7:
 
     # t "I shouldn't bring this up again... {w}at least not until she wants to talk about it."
-    t "I shouldn't bring this up again... {w}at least not until she wants to talk about it."
+    t "Мені не слід знову піднімати цю тему... {w}принаймні доти, доки вона сама не захоче про це поговорити."
 
 # game/game/script.rpy:1305
 translate ukrainian set_fire_2b852aca:
 
     # t "It's been years since I hugged someone... {w}What made me do it now?"
-    t "It's been years since I hugged someone... {w}What made me do it now?"
+    t "Я вже роками нікого не обіймав... {w}І що це на мене найшло саме зараз?"
 
 # game/game/script.rpy:1306
 translate ukrainian set_fire_7a8be6b3:
 
     # t "Maybe... {w}I saw something of myself in her..."
-    t "Maybe... {w}I saw something of myself in her..."
+    t "Можливо... {w}я побачив у ній частинку себе..."
 
 # game/game/script.rpy:1307
 translate ukrainian set_fire_2b35b6fe_11:
@@ -3963,25 +3963,25 @@ translate ukrainian set_fire_2b35b6fe_11:
 translate ukrainian set_fire_8ebfa5bf:
 
     # mc "Good night Ryoko."
-    mc "Good night Ryoko."
+    mc "На добраніч, Рьоко."
 
 # game/game/script.rpy:1310
 translate ukrainian set_fire_1b2b53de:
 
     # r "{size=-6}Mmm..."
-    r "{size=-6}Mmm..."
+    r "{size=-6}Ммм..."
 
 # game/game/script.rpy:1311
 translate ukrainian set_fire_e37c826b:
 
     # t "It doesn't matter. {w}As long as she's here..."
-    t "It doesn't matter. {w}As long as she's here..."
+    t "Не важливо. {w}Допоки вона тут..."
 
 # game/game/script.rpy:1312
 translate ukrainian set_fire_ced3f453:
 
     # t "I won't let anything happen to her...."
-    t "I won't let anything happen to her...."
+    t "Я не дозволю, аби з нею щось трапилося...."
 
 # game/game/script.rpy:1318
 translate ukrainian set_fire_a20cefa7_1:
@@ -29241,6 +29241,13 @@ translate ukrainian strings:
     new "Доївши, вона обережно підходить до тебе."
 
     # script.rpy:3486
+    # ...
+    # script.rpy:4002
+
+    old "The next day."
+    new "Наступного дня."
+
+    # script.rpy:4008
     # ...
     # script.rpy:4560
 
