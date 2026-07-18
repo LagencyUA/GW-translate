@@ -4005,19 +4005,19 @@ translate ukrainian set_fire_d7edd024_1:
 translate ukrainian set_fire_df16bef4:
 
     # r "{size=-7}{i}He looks so calm..."
-    r "{size=-7}{i}He looks so calm..."
+    r "{size=-7}{i}Він такий спокійний..."
 
 # game/game/script.rpy:1325
 translate ukrainian set_fire_ea40cd4d:
 
     # r "{size=-7}{i}It looks like he stayed up all night keeping watch..."
-    r "{size=-7}{i}It looks like he stayed up all night keeping watch..."
+    r "{size=-7}{i}Здається, він усю ніч не спав, вартуючи..."
 
 # game/game/script.rpy:1326
 translate ukrainian set_fire_7520577d:
 
     # r "{size=-7}{i}I don't want to wake him..."
-    r "{size=-7}{i}I don't want to wake him..."
+    r "{size=-7}{i}Не хочу його будити..."
 
 # game/game/script.rpy:1328
 translate ukrainian set_fire_b9b755e5_1:
@@ -4029,181 +4029,181 @@ translate ukrainian set_fire_b9b755e5_1:
 translate ukrainian set_fire_6397cfef:
 
     # mc "{size=-6}Mmm...?"
-    mc "{size=-6}Mmm...?"
+    mc "{size=-6}Ммм...?"
 
 # game/game/script.rpy:1334
 translate ukrainian set_fire_ad32147b:
 
     # r "{sc=3}{outlinecolor=#000000}Aah- {w}Wuu- {w}Mun-"
-    r "{sc=3}{outlinecolor=#000000}Aah- {w}Wuu- {w}Mun-"
-
+    r "{sc=3}{outlinecolor=#000000}Аах- {w}Щьо- {w}Ран-"
+# Примітка: поки вважаю, что два інші: "Що" та "Ранку".
 # game/game/script.rpy:1335
 translate ukrainian set_fire_556cf21b:
 
     # mc "Ahwumun?"
-    mc "Ahwumun?"
+    mc "«Ахщоран»?"
 
 # game/game/script.rpy:1336
 translate ukrainian set_fire_f68732e8:
 
     # r "S-Sorry, I didn't mean to wake you..."
-    r "S-Sorry, I didn't mean to wake you..."
+    r "П-Пробачте, я не хотіла вас розбудити..."
 
 # game/game/script.rpy:1338
 translate ukrainian set_fire_8b2b4ef2:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Yaaawn*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}Yaaawn*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}*Хаааах*"
 
 # game/game/script.rpy:1339
 translate ukrainian set_fire_60e7bffd:
 
     # mc "{size=-8}What were you doing?"
-    mc "{size=-8}What were you doing?"
+    mc "{size=-8}Що це ти робила?"
 
 # game/game/script.rpy:1341
 translate ukrainian set_fire_582518ed:
 
     # r "N-Nothing! {w}Did you sleep well?"
-    r "N-Nothing! {w}Did you sleep well?"
+    r "Н-Нічого! {w}Вам гарно спалося?"
 
 # game/game/script.rpy:1342
 translate ukrainian set_fire_5f6800e2:
 
     # mc "It wasn't the best but there's not much to expect from the cold ground."
-    mc "It wasn't the best but there's not much to expect from the cold ground."
+    mc "Не дуже, однак я на більше й не розраховував від холодної замлі."
 
 # game/game/script.rpy:1343
 translate ukrainian set_fire_100ac79b:
 
     # r "Sorry... {w}It must've been uncomfortable with me lying on your leg."
-    r "Sorry... {w}It must've been uncomfortable with me lying on your leg."
+    r "Пробачте... {w}Мабуть, було незручно, коли я лежала у вас на ногах."
 
 # game/game/script.rpy:1344
 translate ukrainian set_fire_09e63ca8:
 
     # mc "Don't worry. How do you feel?"
-    mc "Don't worry. How do you feel?"
+    mc "Не переймайся. Сама то як почуваєшся?"
 
 # game/game/script.rpy:1346
 translate ukrainian set_fire_4cbc661b:
 
     # r "{size=-6}Much better, {w}thanks to you..."
-    r "{size=-6}Much better, {w}thanks to you..."
+    r "{size=-6}Значно краще, {w}завдяки вам..."
 
 # game/game/script.rpy:1347
 translate ukrainian set_fire_e04395ed:
 
     # mc "I'm glad to hear that."
-    mc "I'm glad to hear that."
+    mc "Радий це чути."
 
 # game/game/script.rpy:1348
 translate ukrainian set_fire_3f871f46_2:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:1349
 translate ukrainian set_fire_08cd443c:
 
     # r "Uhm?"
-    r "Uhm?"
+    r "Угм?"
 
 # game/game/script.rpy:1351
 translate ukrainian set_fire_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "Що це?"
 
 # game/game/script.rpy:1352
 translate ukrainian set_fire_75d43957:
 
     # r "Oh! {w}Do you remember the wolf from last night?"
-    r "Oh! {w}Do you remember the wolf from last night?"
+    r "Ох! {w}Пам'ятаєте вчорашнього вовка?"
 
 # game/game/script.rpy:1353
 translate ukrainian set_fire_84f602bb:
 
     # mc "How could I forget..."
-    mc "How could I forget..."
+    mc "Чк я міг забути..."
 
 # game/game/script.rpy:1354
 translate ukrainian set_fire_af688275:
 
     # r "Well, {w}I took what was usable and left it there for you."
-    r "Well, {w}I took what was usable and left it there for you."
+    r "Тож, {w}я дістала з нього все корисне і запакувала для вас."
 
 # game/game/script.rpy:1355
 translate ukrainian set_fire_29887496:
 
     # r "Those types of wolves are really hard to kill, you know?"
-    r "Those types of wolves are really hard to kill, you know?"
+    r "Цей вид вовків не так вже й просто вбити, знаєте?"
 
 # game/game/script.rpy:1356
 translate ukrainian set_fire_59a93ff4:
 
     # r "Their fangs and pelts sell for a lot in the markets."
-    r "Their fangs and pelts sell for a lot in the markets."
+    r "За їхні ікла та шкури можна чимало отримати на ринках."
 
 # game/game/script.rpy:1358
 translate ukrainian set_fire_fcdd8231:
 
     # r "Ah, I used your katana, hope you don't mind."
-    r "Ah, I used your katana, hope you don't mind."
+    r "Ах, я скористалася вашою катаною. Сподіваюся, ви не проти."
 
 # game/game/script.rpy:1359
 translate ukrainian set_fire_5f1c7ae9:
 
     # mc "My katana?"
-    mc "My katana?"
+    mc "Моєю катаною?"
 
 # game/game/script.rpy:1360
 translate ukrainian set_fire_493544c7:
 
     # r "Yes! {w}It must have been forged by a skilled blacksmith."
-    r "Yes! {w}It must have been forged by a skilled blacksmith."
+    r "Так! {w}Здається, її викував дуже майстерний коваль."
 
 # game/game/script.rpy:1361
 translate ukrainian set_fire_95533a2a:
 
     # t "Ryoko knows a lot about this... {w}Is this kind of knowledge common in this world?"
-    t "Ryoko knows a lot about this... {w}Is this kind of knowledge common in this world?"
+    t "Рьоко так багато знає про подібні речі... {w}Невже у цьому світі такі знання є чимось буденним?"
 
 # game/game/script.rpy:1362
 translate ukrainian set_fire_cae838e9:
 
     # mc "Well... {w}thank you, Ryoko."
-    mc "Well... {w}thank you, Ryoko."
+    mc "Що ж... {w}дякую тобі, Рьоко."
 
 # game/game/script.rpy:1363
 translate ukrainian set_fire_b3d86042:
 
     # mc "I really appreciate it."
-    mc "I really appreciate it."
+    mc "Я дійсно ціную таою допомогу."
 
 # game/game/script.rpy:1365
 translate ukrainian set_fire_b85ceb92:
 
     # r "Uhm!"
-    r "Uhm!"
+    r "Угу!"
 
 # game/game/script.rpy:1366
 translate ukrainian set_fire_d1c37cce:
 
     # t "Mmm...?"
-    t "Mmm...?"
+    t "Ммм...?"
 
 # game/game/script.rpy:1367
 translate ukrainian set_fire_16cce728:
 
     # t "Why did she lower her head?"
-    t "Why did she lower her head?"
+    t "Чому це вона схолила голову?"
 
 # game/game/script.rpy:1368
 translate ukrainian set_fire_2192aa97:
 
     # t "Does she want... {w}headpats...?"
-    t "Does she want... {w}headpats...?"
+    t "Невже вона хоче... {w}що я погладив...?"
 
 # game/game/script.rpy:1370
 translate ukrainian set_fire_2139d2d7:
@@ -4215,25 +4215,25 @@ translate ukrainian set_fire_2139d2d7:
 translate ukrainian set_fire_de72a4c5:
 
     # t "I know I already said this, but... she's really cute.."
-    t "I know I already said this, but... she's really cute.."
+    t "Знаю, що вже це казав, але... вона справді дуже мила."
 
 # game/game/script.rpy:1372
 translate ukrainian set_fire_594ff858:
 
     # t "Her hair is so soft and delicate..."
-    t "Her hair is so soft and delicate..."
+    t "Її волосся таке м'яке й ніжне..."
 
 # game/game/script.rpy:1373
 translate ukrainian set_fire_6b4844ee:
 
     # r "Hehehe..."
-    r "Hehehe..."
+    r "Хехехе..."
 
 # game/game/script.rpy:1374
 translate ukrainian set_fire_37dfefcc:
 
     # r "{size=-6}Thank you M-Master..."
-    r "{size=-6}Thank you M-Master..."
+    r "{size=-6}Дякую, Г-Господарю..."
 
 # game/game/script.rpy:1375
 translate ukrainian set_fire_070ae04f:
