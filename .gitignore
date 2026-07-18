@@ -22,7 +22,7 @@ game/fonts/*
 *.rpyc
 
 # Ignore vscode settings
-.vscode/
+**/.vscode/**
 
 !README.md
 !LISENSE
