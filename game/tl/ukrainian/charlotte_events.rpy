@@ -20001,8 +20001,8 @@ translate ukrainian strings:
     old "Charlotte leaves quickly."
     new "Charlotte leaves quickly."
 
-    old "The next day."
-    new "The next day."
+    # old "The next day." перенесено у script.rpy
+    # new "The next day."
 
     old "She still won't talk to you unless you lure her with food."
     new "She still won't talk to you unless you lure her with food."
