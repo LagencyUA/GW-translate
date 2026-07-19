@@ -4689,7 +4689,7 @@ translate ukrainian situation_3ffe5f96:
 translate ukrainian situation_1d5393dd:
 
     # r "Yes, Master!"
-    r "Так, Господарю!"
+    r "Так, господарю!"
 
 # game/game/script.rpy:1501
 translate ukrainian situation_37ad2cdb:
@@ -4755,73 +4755,73 @@ translate ukrainian where_6cd9b760:
 translate ukrainian where_c63da6c1:
 
     # r "I remember seeing a map the mercenaries had."
-    r "I remember seeing a map the mercenaries had."
+    r "Пам'ятаю, я бачила мапу найманців."
 
 # game/game/script.rpy:1520
 translate ukrainian where_48d31dd9:
 
     # r "If I'm not mistaken, there should be one close by."
-    r "If I'm not mistaken, there should be one close by."
+    r "Якщо не помиляюся, є одне недалеко."
 
 # game/game/script.rpy:1521
 translate ukrainian where_48b4a8f4:
 
     # r "If we leave now, we can get there before sunset."
-    r "If we leave now, we can get there before sunset."
+    r "Рушимо зараз — і встигнемо до заходу сонця."
 
 # game/game/script.rpy:1522
 translate ukrainian where_58c3ab96:
 
     # mc "That sounds perfect, {w}where would I be without you?"
-    mc "That sounds perfect, {w}where would I be without you?"
+    mc "Звучить чудово, {w}що б я робив без тебе?"
 
 # game/game/script.rpy:1524
 translate ukrainian where_d8320aab:
 
     # r "{size=-8}Ah..."
-    r "{size=-8}Ah..."
+    r "{size=-8}Ах..."
 
 # game/game/script.rpy:1526
 translate ukrainian where_8006ed4d:
 
     # r "Hehehe~~{image=corazon}"
-    r "Hehehe~~{image=corazon}"
+    r "Хехехе~~{image=corazon}"
 
 # game/game/script.rpy:1533
 translate ukrainian wolf_068bd44c:
 
     # mc "I almost forgot, thanks again for warning me when that wolf attacked."
-    mc "I almost forgot, thanks again for warning me when that wolf attacked."
+    mc "Я майже забув: хочу знову як слід подякувати тобі за те, що попередила мене тоді, перед нападом вовка."
 
 # game/game/script.rpy:1534
 translate ukrainian wolf_2d8bc2aa:
 
     # mc "Not once, but twice. {w}I'll have to be more careful next time, haha..."
-    mc "Not once, but twice. {w}I'll have to be more careful next time, haha..."
+    mc "І не раз, а двічі. {w}Варто мені бути обачнішим наступного разу, хаха..."
 
 # game/game/script.rpy:1536
 translate ukrainian wolf_8db313ae:
 
     # r "No problem, Master. But... {w}I only remember warning you once."
-    r "No problem, Master. But... {w}I only remember warning you once."
+    r "Дрібниці, господарю. Але... {w}я пам'ятаю, що попередила вас лише раз."
 
 # game/game/script.rpy:1537
 translate ukrainian wolf_d56f8e1e:
 
     # mc "W-What? {w}Then who warned me at the start of the fight?"
-    mc "W-What? {w}Then who warned me at the start of the fight?"
+    mc "Щ-Що? {w}Тоді хто крикнув мені перед самим початком бою?"
 
 # game/game/script.rpy:1538
 translate ukrainian wolf_f46e276c:
 
     # r "I'm not sure. I heard fighting noises and ran over to check."
-    r "I'm not sure. I heard fighting noises and ran over to check."
+    r "Не знаю. Я почула шум, коли битва вже почалася, й побігла перевірити."
 
 # game/game/script.rpy:1539
 translate ukrainian wolf_0f439de4:
 
     # r "When I arrived, {w}the wolf was about to pounce on you..."
-    r "When I arrived, {w}the wolf was about to pounce on you..."
+    r "Коли я прибігла, {w}вовк вже збирався накинутися на вас..."
 
 # game/game/script.rpy:1540
 translate ukrainian wolf_2b35b6fe:
@@ -4833,19 +4833,19 @@ translate ukrainian wolf_2b35b6fe:
 translate ukrainian wolf_e4fcc0d1:
 
     # r "Mmm...?"
-    r "Mmm...?"
+    r "Ммм...?"
 
 # game/game/script.rpy:1543
 translate ukrainian wolf_109b00eb:
 
     # mc "M-Maybe it was just my imagination... {w}Thanks, Ryoko."
-    mc "M-Maybe it was just my imagination... {w}Thanks, Ryoko."
+    mc "М-Мабуть, мені просто почулося... {w}Дякую тобі, Рьоко."
 
 # game/game/script.rpy:1545
 translate ukrainian wolf_80ff26fc:
 
     # r "Yes!{image=corazon}"
-    r "Yes!{image=corazon}"
+    r "Будь ласка!{image=corazon}"
 
 # game/game/script.rpy:1551
 translate ukrainian go_5e0f2063:
@@ -29270,6 +29270,11 @@ translate ukrainian strings:
     # script.rpy:4704
     # ...
     # script.rpy:4788
+
+    # script.rpy:28919 - Option 3
+    # script.rpy:4794
+    # ...
+    # script.rpy:4848
 
 ### NOT SORTED
 
