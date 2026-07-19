@@ -4851,151 +4851,151 @@ translate ukrainian wolf_80ff26fc:
 translate ukrainian go_5e0f2063:
 
     # mc "It's time to start moving."
-    mc "It's time to start moving."
+    mc "Пора вже нам рушати."
 
 # game/game/script.rpy:1553
 translate ukrainian go_ec487fa1:
 
     # r "Understood! {w}I'll guide you to the village, then!"
-    r "Understood! {w}I'll guide you to the village, then!"
+    r "Зрозуміла! {w}Тоді я проведу вас до села!"
 
 # game/game/script.rpy:1554
 translate ukrainian go_a4877141:
 
     # mc "I'm right behind you."
-    mc "I'm right behind you."
+    mc "Уперед, я йтиму слідом."
 
 # game/game/script.rpy:1567
 translate ukrainian go_fa6ca85c:
 
     # mc "Ryoko? Do your feet hurt?"
-    mc "Ryoko? Do your feet hurt?"
+    mc "Рьоко? Твоїм ногам не боляче?"
 
 # game/game/script.rpy:1568
 translate ukrainian go_2af06ddd:
 
     # mc "I can lend you my boots if you want..."
-    mc "I can lend you my boots if you want..."
+    mc "Можу позичити тобі свої чоботи, якщо хочеш..."
 
 # game/game/script.rpy:1569
 translate ukrainian go_87d2683f:
 
     # r "Don't worry! I've been walking like this all my life!"
-    r "Don't worry! I've been walking like this all my life!"
+    r "Не переймайтеся! Я так ходила все своє життя!"
 
 # game/game/script.rpy:1570
 translate ukrainian go_a44c8837:
 
     # mc "Not sure if that's something to be proud of..."
-    mc "Not sure if that's something to be proud of..."
+    mc "Не впевнений, що цим варто пишатися..."
 
 # game/game/script.rpy:1574
 translate ukrainian go_fdd5d161:
 
     # mc "I'll say it again, {w}where would I be without you, Ryoko."
-    mc "I'll say it again, {w}where would I be without you, Ryoko."
+    mc "Скажу це знову: {w}що б я робив без тебе, Рьоко."
 
 # game/game/script.rpy:1575
 translate ukrainian go_1e038366:
 
     # r "Master! {w}You're making me blush..."
-    r "Master! {w}You're making me blush..."
+    r "Господарю! {w}Ви змушуєте мене червоніти..."
 
 # game/game/script.rpy:1576
 translate ukrainian go_c42c5741:
 
     # t "Between you and me, {w}I love it when she blushes."
-    t "Between you and me, {w}I love it when she blushes."
+    t "Між нами кажучи, {w}я обожнюю, коли вона червоніє."
 
 # game/game/script.rpy:1581
 translate ukrainian go_9c17969e:
 
     # r "Master!!"
-    r "Master!!"
+    r "Господарю!!"
 
 # game/game/script.rpy:1585
 translate ukrainian go_35951817:
 
     # mc "Stay back, Ryoko!"
-    mc "Stay back, Ryoko!"
+    mc "Залишайся позаду, Рьоко!"
 
 # game/game/script.rpy:1593
 translate ukrainian go_c78b56f4:
 
     # t "{sc=2}{outlinecolor=#000000}Shit, shit, shit."
-    t "{sc=2}{outlinecolor=#000000}Shit, shit, shit."
+    t "{sc=2}{outlinecolor=#000000}Лайно, лайно, лайно."
 
 # game/game/script.rpy:1594
 translate ukrainian go_5917e7ba:
 
     # r "Master! {w}Beyond those bushes is the way out of the forest!"
-    r "Master! {w}Beyond those bushes is the way out of the forest!"
+    r "Господарю! {w}За цими кущами лежить вихід із лісу!"
 
 # game/game/script.rpy:1596
 translate ukrainian go_6db10707:
 
     # mc "Don't worry, Ryoko... {w}Just stay behind me..."
-    mc "Don't worry, Ryoko... {w}Just stay behind me..."
+    mc "Не хвилюйся, Рьоко... {w}Просто стій за мною..."
 
 # game/game/script.rpy:1597
 translate ukrainian go_b3f44cb6:
 
     # r "Please, be careful..."
-    r "Please, be careful..."
+    r "Будь ласка, будьте обережними..."
 
 # game/game/script.rpy:1599
 translate ukrainian go_080380a4:
 
     # t "{size=-6}They came out of nowhere..."
-    t "{size=-6}They came out of nowhere..."
+    t "{size=-6}Вони прийшли нізвідки..."
 
 # game/game/script.rpy:1600
 translate ukrainian go_74c7eeb0:
 
     # t "Is this some kind of sick joke?"
-    t "Is this some kind of sick joke?"
+    t "Це що, якийсь злий жарт?"
 
 # game/game/script.rpy:1601
 translate ukrainian go_c3758aaa:
 
     # t "Is someone testing me, or is it just my terrible luck again?"
-    t "Is someone testing me, or is it just my terrible luck again?"
+    t "Хтось мене випробовує, чи це знову моя жахлива невдача?"
 
 # game/game/script.rpy:1602
 translate ukrainian go_08ea3625:
 
     # mc "Ryoko!"
-    mc "Ryoko!"
+    mc "Рьоко!"
 
 # game/game/script.rpy:1604
 translate ukrainian go_747cf4de:
 
     # r "{sc=2}{outlinecolor=#000000}Ye-{w}Yes!?"
-    r "{sc=2}{outlinecolor=#000000}Ye-{w}Yes!?"
+    r "{sc=2}{outlinecolor=#000000}Та-{w}Так!?"
 
 # game/game/script.rpy:1605
 translate ukrainian go_2624ae1a:
 
     # mc "I'll distract them."
-    mc "I'll distract them."
+    mc "Я відверну їхню увагу."
 
 # game/game/script.rpy:1606
 translate ukrainian go_64caae57:
 
     # mc "Run as fast as you can and get out of the forest."
-    mc "Run as fast as you can and get out of the forest."
+    mc "А ти біжи щодуху і вибирайся з лісу."
 
 # game/game/script.rpy:1607
 translate ukrainian go_4a28ad9e:
 
     # r "B-But what about you...?"
-    r "B-But what about you...?"
+    r "А-А як же ви...?"
 
 # game/game/script.rpy:1608
 translate ukrainian go_c368f380:
 
     # mc "That's an {sc=2}{outlinecolor=#000000}ORDER!"
-    mc "That's an {sc=2}{outlinecolor=#000000}ORDER!"
+    mc "Це {sc=2}{outlinecolor=#000000}НАКАЗ!"
 
 # game/game/script.rpy:1610
 translate ukrainian go_b9b755e5:
@@ -5007,31 +5007,31 @@ translate ukrainian go_b9b755e5:
 translate ukrainian go_9ddd47c1:
 
     # mc "Ryoko!"
-    mc "Ryoko!"
+    mc "Рьоко!"
 
 # game/game/script.rpy:1613
 translate ukrainian go_c917deff:
 
     # r "{sc=2}{outlinecolor=#000000}I-I understand!"
-    r "{sc=2}{outlinecolor=#000000}I-I understand!"
+    r "{sc=2}{outlinecolor=#000000}З-Зрозуміла!"
 
 # game/game/script.rpy:1615
 translate ukrainian go_0e0a7592:
 
     # t "Okay, focus [mc]. You've been through worse."
-    t "Okay, focus [mc]. You've been through worse."
+    t "Гаразд, зосередься, [mc]. Ти проходив і через гірше."
 
 # game/game/script.rpy:1616
 translate ukrainian go_931041e8:
 
     # t "... Not really, but..."
-    t "... Not really, but..."
+    t "... Насправді ні, але..."
 
 # game/game/script.rpy:1617
 translate ukrainian go_2b85e4bd:
 
     # t "I have to do what I can to get out of this!"
-    t "I have to do what I can to get out of this!"
+    t "Я маю вкласти всі свої сили, щоб вибратися з цього!"
 
 # game/game/script.rpy:1619
 translate ukrainian go_d5e1b275:
@@ -28920,7 +28920,7 @@ translate ukrainian strings:
 
     # game/script.rpy:1459
     old "Let's go"
-    new "Let's go"
+    new "Ходімо"
 
     # game/script.rpy:2594
     old "Play along"
@@ -29276,6 +29276,40 @@ translate ukrainian strings:
     # ...
     # script.rpy:4848
 
+    # script.rpy:28923 - Option 4 (продовження історії)
+    # script.rpy:4854
+    # ...
+    # script.rpy:4866
+
+    old "You both begin your journey."
+    new "Разом ви ропочали свою подорож."
+
+    old "Thanks to the trees, the sun doesn't bother you at all."
+    new "Завдяки деревам, яскраве сонце вам не дошкуляло."
+
+    # script.rpy:4872
+    # ...
+    # script.rpy:4890
+
+    old "You stop for a moment to eat some fruit Ryoko found."
+    new "Ви зупинилися на мить поїсти фруктів, що знайшла Рьоко."
+
+    # script.rpy:4896
+    # ...
+    # script.rpy:4908
+
+    old "You continue on your way."
+    new "Ви продовжили свій шлях."
+
+    # script.rpy:4914
+
+    old "But things were going too well to be true..."
+    new "Але все йшло надто добре, щоб бути правдою..."
+
+    # script.rpy:4920
+    # ...
+    # script.rpy:5952
+
 ### NOT SORTED
 
     old "Without hesitation, as if your shame of being naked in front of someone had vanished..."
@@ -29289,9 +29323,6 @@ translate ukrainian strings:
 
     old "{size=-10}{b}I could show you..."
     new "{size=-10}{b}I could show you..."
-
-    old "You continue on your way."
-    new "You continue on your way."
 
     old "Damn it, he doesn't listen to me."
     new "Damn it, he doesn't listen to me."
@@ -29313,9 +29344,6 @@ translate ukrainian strings:
 
     old "Not to mention that watching her get dressed awakened something new in you..."
     new "Not to mention that watching her get dressed awakened something new in you..."
-
-    old "You both begin your journey."
-    new "You both begin your journey."
 
     old "After leaving the village."
     new "After leaving the village."
@@ -29386,9 +29414,6 @@ translate ukrainian strings:
     old "You approach Yui."
     new "You approach Yui."
 
-    old "You stop for a moment to eat some fruit Ryoko found."
-    new "You stop for a moment to eat some fruit Ryoko found."
-
     old "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
     new "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
 
@@ -29421,9 +29446,6 @@ translate ukrainian strings:
 
     old "Now you can flee from combats."
     new "Now you can flee from combats."
-
-    old "Thanks to the trees, the sun doesn't bother you at all."
-    new "Thanks to the trees, the sun doesn't bother you at all."
 
     old "One day later."
     new "One day later."
@@ -29490,9 +29512,6 @@ translate ukrainian strings:
 
     old "You quickly take off your clothes, clean yourself, and walk toward Keiko."
     new "You quickly take off your clothes, clean yourself, and walk toward Keiko."
-
-    old "But things were going too well to be true..."
-    new "But things were going too well to be true..."
 
     old "After walking 15 minutes."
     new "After walking 15 minutes."
