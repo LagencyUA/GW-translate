@@ -19,55 +19,55 @@
 <!-- PROGRESS_START -->
 | File Name            |   Statistics (Total) |   Statistics (Dialogues) |   Statistics (Strings) |   Progress |
 |----------------------|----------------------|--------------------------|------------------------|------------|
-| Xmas_event.rpy       |           0 /   1331 |               0 /   1322 |             0 /      9 |      0.00% |
-| akane_events.rpy     |           0 /   4930 |               0 /   4870 |             0 /     60 |      0.00% |
-| alice_events.rpy     |           0 /   2805 |               0 /   2785 |             0 /     20 |      0.00% |
-| aoi_events.rpy       |           0 /   2141 |               0 /   2127 |             0 /     14 |      0.00% |
-| bath_events.rpy      |           0 /     81 |               0 /     79 |             0 /      2 |      0.00% |
-| beach_events.rpy     |           0 /   2267 |               0 /   2253 |             0 /     14 |      0.00% |
-| blacksmith_store.rpy |           2 /    189 |               0 /    159 |             2 /     30 |      1.06% |
-| charlotte_events.rpy |           0 /   3354 |               0 /   3304 |             0 /     50 |      0.00% |
+| Xmas_event.rpy       |         123 /   1331 |             123 /   1322 |             0 /      9 |      9.24% |
+| akane_events.rpy     |         562 /   4930 |             562 /   4870 |             0 /     60 |     11.40% |
+| alice_events.rpy     |         236 /   2805 |             236 /   2785 |             0 /     20 |      8.41% |
+| aoi_events.rpy       |         188 /   2141 |             188 /   2127 |             0 /     14 |      8.78% |
+| bath_events.rpy      |           6 /     81 |               6 /     79 |             0 /      2 |      7.41% |
+| beach_events.rpy     |         244 /   2267 |             244 /   2253 |             0 /     14 |     10.76% |
+| blacksmith_store.rpy |          19 /    189 |              14 /    159 |             5 /     30 |     10.05% |
+| charlotte_events.rpy |         407 /   3354 |             407 /   3304 |             0 /     50 |     12.13% |
 | cleaning_events.rpy  |           0 /      4 |               0 /      3 |             0 /      1 |      0.00% |
 | common.rpy           |         294 /    294 |               0 /      0 |           294 /    294 |    100.00% |
 | day_time.rpy         |           0 /    284 |               0 /      5 |             0 /    279 |      0.00% |
 | definitions.rpy      |          60 /     60 |               0 /      0 |            60 /     60 |    100.00% |
 | devlog_text.rpy      |          13 /     13 |               0 /      0 |            13 /     13 |    100.00% |
-| fumiko_events.rpy    |           0 /    898 |               0 /    895 |             0 /      3 |      0.00% |
+| fumiko_events.rpy    |         132 /    898 |             132 /    895 |             0 /      3 |     14.70% |
 | gallery.rpy          |          21 /     21 |               0 /      0 |            21 /     21 |    100.00% |
-| god_world.rpy        |           0 /    166 |               0 /    162 |             0 /      4 |      0.00% |
-| halloween_events.rpy |           0 /   1913 |               0 /   1905 |             0 /      8 |      0.00% |
-| hana_events.rpy      |           0 /   2525 |               0 /   2503 |             0 /     22 |      0.00% |
-| house.rpy            |           0 /     47 |               0 /     27 |             0 /     20 |      0.00% |
+| god_world.rpy        |          22 /    166 |              22 /    162 |             0 /      4 |     13.25% |
+| halloween_events.rpy |         142 /   1913 |             142 /   1905 |             0 /      8 |      7.42% |
+| hana_events.rpy      |         188 /   2525 |             187 /   2503 |             1 /     22 |      7.45% |
+| house.rpy            |           1 /     47 |               1 /     27 |             0 /     20 |      2.13% |
 | images.rpy           |           0 /      3 |               0 /      0 |             0 /      3 |      0.00% |
-| karyn_events.rpy     |           0 /   2284 |               0 /   2269 |             0 /     15 |      0.00% |
-| keiko_events.rpy     |           0 /   1484 |               0 /   1478 |             0 /      6 |      0.00% |
-| kingdom_events.rpy   |           0 /    575 |               0 /    573 |             0 /      2 |      0.00% |
-| lycoris_clan.rpy     |           0 /    751 |               0 /    737 |             0 /     14 |      0.00% |
-| magic_store.rpy      |           0 /    227 |               0 /    202 |             0 /     25 |      0.00% |
-| map.rpy              |           0 /     16 |               0 /      5 |             0 /     11 |      0.00% |
-| map_GW.rpy           |           0 /    451 |               0 /    442 |             0 /      9 |      0.00% |
+| karyn_events.rpy     |         274 /   2284 |             274 /   2269 |             0 /     15 |     12.00% |
+| keiko_events.rpy     |         142 /   1484 |             142 /   1478 |             0 /      6 |      9.57% |
+| kingdom_events.rpy   |          56 /    575 |              56 /    573 |             0 /      2 |      9.74% |
+| lycoris_clan.rpy     |          69 /    751 |              69 /    737 |             0 /     14 |      9.19% |
+| magic_store.rpy      |           9 /    227 |               9 /    202 |             0 /     25 |      3.96% |
+| map.rpy              |           9 /     16 |               0 /      5 |             9 /     11 |     56.25% |
+| map_GW.rpy           |          42 /    451 |              42 /    442 |             0 /      9 |      9.31% |
 | map_ST.rpy           |           0 /      1 |               0 /      1 |             0 /      0 |      0.00% |
 | map_ST_outside.rpy   |           0 /      5 |               0 /      5 |             0 /      0 |      0.00% |
-| mayu_events.rpy      |           0 /   2389 |               0 /   2323 |             0 /     66 |      0.00% |
+| mayu_events.rpy      |         182 /   2389 |             170 /   2323 |            12 /     66 |      7.62% |
 | menus.rpy            |           1 /     26 |               0 /      2 |             1 /     24 |      3.85% |
-| natsuki_events.rpy   |           0 /   2383 |               0 /   2362 |             0 /     21 |      0.00% |
-| pa_gal.rpy           |           0 /   1400 |               0 /    832 |             0 /    568 |      0.00% |
+| natsuki_events.rpy   |         163 /   2383 |             163 /   2362 |             0 /     21 |      6.84% |
+| pa_gal.rpy           |          96 /   1400 |              96 /    832 |             0 /    568 |      6.86% |
 | quest.rpy            |           0 /    339 |               0 /      0 |             0 /    339 |      0.00% |
-| rpg_battle.rpy       |           0 /     80 |               0 /      3 |             0 /     77 |      0.00% |
-| ryoko_events.rpy     |           0 /   5245 |               0 /   5176 |             0 /     69 |      0.00% |
-| sayori_events.rpy    |           0 /   2265 |               0 /   2250 |             0 /     15 |      0.00% |
+| rpg_battle.rpy       |           1 /     80 |               0 /      3 |             1 /     77 |      1.25% |
+| ryoko_events.rpy     |         473 /   5245 |             472 /   5176 |             1 /     69 |      9.02% |
+| sayori_events.rpy    |         218 /   2265 |             218 /   2250 |             0 /     15 |      9.62% |
 | screens.rpy          |          87 /     87 |               0 /      0 |            87 /     87 |    100.00% |
-| script.rpy           |         729 /   4959 |             665 /   4812 |            64 /    147 |     14.70% |
-| shika_events.rpy     |           0 /   2960 |               0 /   2936 |             0 /     24 |      0.00% |
-| tablon_task.rpy      |           0 /     98 |               0 /     66 |             0 /     32 |      0.00% |
-| tea_events.rpy       |           0 /    224 |               0 /    214 |             0 /     10 |      0.00% |
-| tomoe_events.rpy     |           0 /   2461 |               0 /   2428 |             0 /     33 |      0.00% |
+| script.rpy           |        1319 /   4959 |            1249 /   4812 |            70 /    147 |     26.60% |
+| shika_events.rpy     |         279 /   2960 |             279 /   2936 |             0 /     24 |      9.43% |
+| tablon_task.rpy      |           3 /     98 |               2 /     66 |             1 /     32 |      3.06% |
+| tea_events.rpy       |          18 /    224 |              18 /    214 |             0 /     10 |      8.04% |
+| tomoe_events.rpy     |         186 /   2461 |             179 /   2428 |             7 /     33 |      7.56% |
 | updater_screen.rpy   |          11 /     11 |               0 /      0 |            11 /     11 |    100.00% |
-| yeahfish.rpy         |           0 /    138 |               0 /    126 |             0 /     12 |      0.00% |
+| yeahfish.rpy         |          10 /    138 |              10 /    126 |             0 /     12 |      7.25% |
 | yeahwood.rpy         |           0 /      6 |               0 /      4 |             0 /      2 |      0.00% |
-| yui_events.rpy       |           0 /   4090 |               0 /   4037 |             0 /     53 |      0.00% |
-| yumeko_events.rpy    |           0 /    566 |               0 /    563 |             0 /      3 |      0.00% |
-| **GLOBAL TOTAL**     |     **1218 / 58847** |                    **-** |                  **-** |  **2.07%** |
+| yui_events.rpy       |         399 /   4090 |             399 /   4037 |             0 /     53 |      9.76% |
+| yumeko_events.rpy    |          72 /    566 |              72 /    563 |             0 /      3 |     12.72% |
+| **GLOBAL TOTAL**     |     **6777 / 58847** |                    **-** |                  **-** | **11.52%** |
 <!-- PROGRESS_END -->
 
 ### 🔍 Пояснення вмісту стану
