@@ -5673,127 +5673,127 @@ translate ukrainian go_4efbdc0b:
 translate ukrainian go_dd8fe536:
 
     # t "Take a bath with her?"
-    t "Take a bath with her?"
+    t "Купатися з нею?"
 
 # game/game/script.rpy:1840
 translate ukrainian go_b56be0e1:
 
     # k "If you want to keep talking, {w}I'll be in the water."
-    k "If you want to keep talking, {w}I'll be in the water."
+    k "Якщо хочеш продовжити нашу розмову, {w}чекатиму тебе у воді."
 
 # game/game/script.rpy:1841
 translate ukrainian go_795f03c6:
 
     # t "Oh {w}my{w} Goddesses!"
-    t "Oh {w}my{w} Goddesses!"
+    t "О, {w}мої{w} Богині!"
 
 # game/game/script.rpy:1843
 translate ukrainian go_34716290:
 
     # k "Don't take too long~{image=corazon}{image=corazon}"
-    k "Don't take too long~{image=corazon}{image=corazon}"
+    k "Не затримуйся~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1844
 translate ukrainian go_bd470c8c:
 
     # t "The first naked woman I ever see is a goddess... {w}I don't know what reality is anymore."
-    t "The first naked woman I ever see is a goddess... {w}I don't know what reality is anymore."
+    t "Перша оголена дівчина, яку я взагалі бачу в житті, — і одразу богиня... {w}Я вже не розумію, де реальність, а де сон."
 
 # game/game/script.rpy:1846
 translate ukrainian go_a36b8e79:
 
     # t "I'm suddenly feeling very religious..."
-    t "I'm suddenly feeling very religious..."
+    t "Я раптом щиро увірував..."
 
 # game/game/script.rpy:1855
 translate ukrainian go_d37c6b7e:
 
     # t "I don't know if it's just my imagination but..."
-    t "I don't know if it's just my imagination but..."
+    t "Можливо, мені лише здається, але..."
 
 # game/game/script.rpy:1857
 translate ukrainian go_798ccf4c:
 
     # t "Her eyes have been glued to a very specific part of me since I got in the water..."
-    t "Her eyes have been glued to a very specific part of me since I got in the water..."
+    t "Вона очей не зводить з певної специфічної частини мого тіла, відтоді коли я заліз у воду..."
 
 # game/game/script.rpy:1858
 translate ukrainian go_7bd391cd:
 
     # t "Something's... reacting, and her gaze isn't helping."
-    t "Something's... reacting, and her gaze isn't helping."
+    t "Дещо там... пробуджується, а її пильний погляд взагалі не допомагає."
 
 # game/game/script.rpy:1859
 translate ukrainian go_a7ddcfe8:
 
     # t "But I must endure. {w}This is a goddess in front of me..."
-    t "But I must endure. {w}This is a goddess in front of me..."
+    t "Але я мушу триматися. {w}Переді мною богиня як-не-як..."
 
 # game/game/script.rpy:1861
 translate ukrainian go_8d182158:
 
     # k "Why are you sitting so far away? {w}I don't bite, you know...?"
-    k "Why are you sitting so far away? {w}I don't bite, you know...?"
+    k "Чому ти так далеко сів? {w}Не бійся, я не вкушу...?"
 
 # game/game/script.rpy:1862
 translate ukrainian go_2defae74:
 
     # k "{size=-6}Well, sometimes~{image=corazon}"
-    k "{size=-6}Well, sometimes~{image=corazon}"
+    k "{size=-6}Ну, можливо, тільки разочок~{image=corazon}"
 
 # game/game/script.rpy:1863
 translate ukrainian go_1fff66c5:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Gulp*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Gulp*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Ковть*"
 
 # game/game/script.rpy:1864
 translate ukrainian go_98b01132:
 
     # mc "I-I just think... {w}it's not a good idea to get too close..."
-    mc "I-I just think... {w}it's not a good idea to get too close..."
+    mc "Я-Я просто думаю... {w}не варто нам сідати занадто близько..."
 
 # game/game/script.rpy:1865
 translate ukrainian go_089ab716:
 
     # mc "Also, this way we can talk more comfortably..."
-    mc "Also, this way we can talk more comfortably..."
+    mc "До того ж так нам буде зручніше розмовляти..."
 
 # game/game/script.rpy:1867
 translate ukrainian go_94720862:
 
     # k "Hmm... {w}whatever you say~{image=corazon}"
-    k "Hmm... {w}whatever you say~{image=corazon}"
+    k "Гмм... {w}Як скажеш~{image=corazon}"
 
 # game/game/script.rpy:1868
 translate ukrainian go_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "Отже..."
 
 # game/game/script.rpy:1870
 translate ukrainian go_77486374:
 
     # k "Hmm?~"
-    k "Hmm?~"
+    k "Гмм?~"
 
 # game/game/script.rpy:1871
 translate ukrainian go_b8a96654:
 
     # mc "{size=-6}I died again..."
-    mc "{size=-6}I died again..."
+    mc "{size=-6}Я зному помер..."
 
 # game/game/script.rpy:1872
 translate ukrainian go_7d8142d3:
 
     # mc "I didn't want it to end like that... {w}but I had no choice."
-    mc "I didn't want it to end like that... {w}but I had no choice."
+    mc "Не хотів я так закінчити... {w}але іншого вибору в мене не було."
 
 # game/game/script.rpy:1873
 translate ukrainian go_5ece8753:
 
     # mc "Sorry, Keiko... {w}I wasted the life you gave me..."
-    mc "Sorry, Keiko... {w}I wasted the life you gave me..."
+    mc "Пробач, Кейко... {w}Я лише змарнував дароване тобою життя..."
 
 # game/game/script.rpy:1874
 translate ukrainian go_82091822:
@@ -5805,13 +5805,13 @@ translate ukrainian go_82091822:
 translate ukrainian go_c2e2fbef:
 
     # mc "I guess now I'll go to heaven... or wherever you're supposed to send me."
-    mc "I guess now I'll go to heaven... or wherever you're supposed to send me."
+    mc "Гадаю, тепер я відправлюся у рай... або куди ти там мене маєш відправити."
 
 # game/game/script.rpy:1877
 translate ukrainian go_d88e4b7a:
 
     # k "Hahaha~ {w}Silly~{image=corazon}{image=corazon}"
-    k "Hahaha~ {w}Silly~{image=corazon}{image=corazon}"
+    k "Хахаха~ {w}Дурнику~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1878
 translate ukrainian go_652650d3:
@@ -5823,37 +5823,37 @@ translate ukrainian go_652650d3:
 translate ukrainian go_1e79ae81:
 
     # k "You're not dead. {w}You're just asleep."
-    k "You're not dead. {w}You're just asleep."
+    k "Ти не вмер. {w}Ти просто спиш."
 
 # game/game/script.rpy:1880
 translate ukrainian go_aa2d27e9:
 
     # k "That was quite the battle, wasn't it?"
-    k "That was quite the battle, wasn't it?"
+    k "Ото була справжня битва, так не думаєш?"
 
 # game/game/script.rpy:1881
 translate ukrainian go_4193d750:
 
     # t "So she really has been watching me..."
-    t "So she really has been watching me..."
+    t "То вона справді спостерігала за мною..."
 
 # game/game/script.rpy:1883
 translate ukrainian go_8dcaea94:
 
     # k "It's been a long time since a human entertained me this much."
-    k "It's been a long time since a human entertained me this much."
+    k "Давно мене так не забавляла звичайна людина."
 
 # game/game/script.rpy:1884
 translate ukrainian go_157f5178:
 
     # k "Every decision you make... {w}every interaction..."
-    k "Every decision you make... {w}every interaction..."
+    k "Кожне твоє рішення... {w}кожна твоя дія..."
 
 # game/game/script.rpy:1885
 translate ukrainian go_ad83d540:
 
     # k "Haha~ {w}You even hesitated to kill that first wolf."
-    k "Haha~ {w}You even hesitated to kill that first wolf."
+    k "Хаха~ {w}Ти навіть вагався, чи вбивати того першого вовка."
 
 # game/game/script.rpy:1886
 translate ukrainian go_2b35b6fe_7:
@@ -5865,67 +5865,67 @@ translate ukrainian go_2b35b6fe_7:
 translate ukrainian go_c7f4a9c1:
 
     # k "But let me tell you something."
-    k "But let me tell you something."
+    k "Але дозволь мені дещо сказати."
 
 # game/game/script.rpy:1891
 translate ukrainian go_9cc8b714:
 
     # t "Is she testing me!?"
-    t "Is she testing me!?"
+    t "Вона мене випробовує!?"
 
 # game/game/script.rpy:1892
 translate ukrainian go_675fe55e:
 
     # k "If you keep acting like that, {w}you'll get yourself killed eventually."
-    k "If you keep acting like that, {w}you'll get yourself killed eventually."
+    k "Якщо продовжиш так діяти, {w}рано чи пізно тебе й справді вб'ють."
 
 # game/game/script.rpy:1893
 translate ukrainian go_c3283e26:
 
     # k "You won't always be this lucky."
-    k "You won't always be this lucky."
+    k "Ніколи не знаєш, коли фортуна повернеться боком."
 
 # game/game/script.rpy:1894
 translate ukrainian go_c642f108:
 
     # k "You can be the kindest person in the world, but if it gets you killed, what good does it do?"
-    k "You can be the kindest person in the world, but if it gets you killed, what good does it do?"
+    k "Ти можеш бути найдобрішою людиною у світі, але якщо це призведе до твоєї смерті, то яка з того користь?"
 
 # game/game/script.rpy:1895
 translate ukrainian go_5ded1c3a:
 
     # t "She's right... {w}I've already been saved twice..."
-    t "She's right... {w}I've already been saved twice..."
+    t "Вона права... {w}Мене вже двічі врятували..."
 
 # game/game/script.rpy:1897
 translate ukrainian go_00d6d1ca_1:
 
     # t "But..."
-    t "But..."
+    t "Але..."
 
 # game/game/script.rpy:1898
 translate ukrainian go_3aa77b34:
 
     # mc "It's not something I can change. {w}That's just who I am."
-    mc "It's not something I can change. {w}That's just who I am."
+    mc "Я нічого не можу з собою вдіяти. {w}Такий я вже є."
 
 # game/game/script.rpy:1899
 translate ukrainian go_ac9ed97f:
 
     # mc "The day I stop being myself... {w}that's the day my life becomes meaningless."
-    mc "The day I stop being myself... {w}that's the day my life becomes meaningless."
+    mc "День, коли я перестану бути собою... {w}тоді моє життя просто перетвориться на пустку."
 
 # game/game/script.rpy:1900
 translate ukrainian go_10d2e92b:
 
     # mc "What's the point of living if you can't live the way you want?"
-    mc "What's the point of living if you can't live the way you want?"
+    mc "Бо який взагалі сенс життя, якщо не можеш жити так, як хочеш?"
 
 # game/game/script.rpy:1901
 translate ukrainian go_39a50f9c:
 
     # mc "I learned that much from my previous life..."
-    mc "I learned that much from my previous life..."
+    mc "Саме цьому мене навчило моє попереднє..."
 
 # game/game/script.rpy:1902
 translate ukrainian go_82091822_1:
@@ -5937,25 +5937,25 @@ translate ukrainian go_82091822_1:
 translate ukrainian go_d82257d0:
 
     # mc "Even if it kills me..."
-    mc "Even if it kills me..."
+    mc "Навіть якщо з рештою мене чекає смерть..."
 
 # game/game/script.rpy:1905
 translate ukrainian go_99319117:
 
     # mc "I won't change who I am."
-    mc "I won't change who I am."
+    mc "Я залишуся собою, до самого кінця."
 
 # game/game/script.rpy:1907
 translate ukrainian go_034695b9:
 
     # mc "I won't leave anyone behind who needs help."
-    mc "I won't leave anyone behind who needs help."
+    mc "Я не облишу нікого, хто потребуватиме моєї допомоги."
 
 # game/game/script.rpy:1913
 translate ukrainian keiko_gal1_6dbb4af1:
 
     # mc "And-"
-    mc "And-"
+    mc "І-"
 
 # game/game/script.rpy:1914
 translate ukrainian keiko_gal1_2b35b6fe:
@@ -5967,73 +5967,73 @@ translate ukrainian keiko_gal1_2b35b6fe:
 translate ukrainian keiko_gal1_c33b515c:
 
     # mc "Err..."
-    mc "Err..."
+    mc "Егг..."
 
 # game/game/script.rpy:1919
 translate ukrainian keiko_gal1_8f75747a:
 
     # k "Ufufu~{image=corazon}{image=corazon} {w}I knew you'd say something like that, that's why I find you so interesting."
-    k "Ufufu~{image=corazon}{image=corazon} {w}I knew you'd say something like that, that's why I find you so interesting."
+    k "Ухуху~{image=corazon}{image=corazon} {w}Знала, що ти говоритимеш щось подібне, саме тому ти й здався мені цікавим."
 
 # game/game/script.rpy:1921
 translate ukrainian keiko_gal1_cbb397c2:
 
     # mc "K-Keiko?"
-    mc "K-Keiko?"
+    mc "К-Кейко?"
 
 # game/game/script.rpy:1922
 translate ukrainian keiko_gal1_16f0d8b9:
 
     # k "Yes?"
-    k "Yes?"
+    k "Так?"
 
 # game/game/script.rpy:1923
 translate ukrainian keiko_gal1_e45d995d:
 
     # mc "W-What are you doing?"
-    mc "W-What are you doing?"
+    mc "Щ-Що це ти робиш?"
 
 # game/game/script.rpy:1924
 translate ukrainian keiko_gal1_099d8006:
 
     # k "Isn't it obvious? {w}I'm just getting a bit more comfortable."
-    k "Isn't it obvious? {w}I'm just getting a bit more comfortable."
+    k "Хіба не видно? {w}Я просто вирішила зручніше вмоститися."
 
 # game/game/script.rpy:1925
 translate ukrainian keiko_gal1_ce9aaafe:
 
     # mc "Yes... but-"
-    mc "Yes... but-"
+    mc "Так... але-"
 
 # game/game/script.rpy:1927
 translate ukrainian keiko_gal1_98071568:
 
     # k "Do you not like this? {w}Or is it that you don't like me being this close to you, [mc]?"
-    k "Do you not like this? {w}Or is it that you don't like me being this close to you, [mc]?"
+    k "Тобі це не подобається? {w}Чи тобі не подобаюся я, яка сідає поруч із тобою, [mc]?"
 
 # game/game/script.rpy:1928
 translate ukrainian keiko_gal1_c2a15ae1:
 
     # t "Shit, {w}w-what a sensual body..."
-    t "Shit, {w}w-what a sensual body..."
+    t "Дідько, {w}я-яке спокусливе тіло..."
 
 # game/game/script.rpy:1929
 translate ukrainian keiko_gal1_27e4a94f:
 
     # t "No! {w}M-Maybe this is normal for goddesses! I-I have to stay calm..."
-    t "No! {w}M-Maybe this is normal for goddesses! I-I have to stay calm..."
+    t "Ні! {w}М-Можливо для богинь це у рамках норми! Я-Я маю заспокоїтися..."
 
 # game/game/script.rpy:1930
 translate ukrainian keiko_gal1_bb9b006b:
 
     # mc "O-Of course! {size=-6}I like you..."
-    mc "O-Of course! {size=-6}I like you..."
+    mc "З-Звісно ні! {size=-6}Ти мені подобаєшся..."
 
 # game/game/script.rpy:1932
 translate ukrainian keiko_gal1_b9dbfbc1:
 
     # k "That makes me very happy~{image=corazon}"
-    k "That makes me very happy~{image=corazon}"
+    k "Це мене дуже тішить~{image=corazon}"
 
 # game/game/script.rpy:1933
 translate ukrainian keiko_gal1_d3f4c1ae:
@@ -29321,12 +29321,19 @@ translate ukrainian strings:
 
     # script.rpy:5262
     # ...
+    # script.rpy:5706
+
+    old "Without hesitation, as if your shame of being naked in front of someone had vanished..."
+    new "Без вагань, ніби сором від того, що ти стоїш голим перед кимось, зник..."
+
+    old "You quickly take off your clothes, clean yourself, and walk toward Keiko."
+    new "Ти швидко роздягаєшся, обмиваєшся і йдеш до Кейко."
+
+    # script.rpy:5712
+    # ...
     # script.rpy:5952
 
 ### NOT SORTED
-
-    old "Without hesitation, as if your shame of being naked in front of someone had vanished..."
-    new "Without hesitation, as if your shame of being naked in front of someone had vanished..."
 
     old "{b}Don't leave."
     new "{b}Don't leave."
@@ -29516,9 +29523,6 @@ translate ukrainian strings:
 
     old "You quickly get up from the floor. You offer her help, but she refuses."
     new "You quickly get up from the floor. You offer her help, but she refuses."
-
-    old "You quickly take off your clothes, clean yourself, and walk toward Keiko."
-    new "You quickly take off your clothes, clean yourself, and walk toward Keiko."
 
     old "After walking 15 minutes."
     new "After walking 15 minutes."
