@@ -5037,49 +5037,49 @@ translate ukrainian go_2b85e4bd:
 translate ukrainian go_d5e1b275:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Deep breath...*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Deep breath...*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Глибокий подих...*"
 
 # game/game/script.rpy:1620
 translate ukrainian go_c7c5b51b:
 
     # t "Three wolves..."
-    t "Three wolves..."
+    t "Три вовка..."
 
 # game/game/script.rpy:1621
 translate ukrainian go_db467fb0:
 
     # t "Ryoko behind me..."
-    t "Ryoko behind me..."
+    t "Рьоко позаду мене..."
 
 # game/game/script.rpy:1622
 translate ukrainian go_a5fca812:
 
     # t "I'm screwed... {w}but if I do nothing, {w}we'll both die here."
-    t "I'm screwed... {w}but if I do nothing, {w}we'll both die here."
+    t "Мені гаплик... {w}Але якщо я так і стоятиму, {w}помремо обоє."
 
 # game/game/script.rpy:1623
 translate ukrainian go_982fe390:
 
     # mc "{size=-6}All right..."
-    mc "{size=-6}All right..."
+    mc "{size=-6}Гаразд..."
 
 # game/game/script.rpy:1628
 translate ukrainian go_3ccab323:
 
     # t "Two wolves moved forward as soon as the giant growled."
-    t "Two wolves moved forward as soon as the giant growled."
+    t "Двоє вовків рушили уперед, щойно велетень загарчав."
 
 # game/game/script.rpy:1629
 translate ukrainian go_63c1bb53:
 
     # t "I have read about this, the biggest must be the alpha..."
-    t "I have read about this, the biggest must be the alpha..."
+    t "Я колись читав про це. Здається, найбільший — це альфа самець..."
 
 # game/game/script.rpy:1630
 translate ukrainian go_c6b9615f:
 
     # t "This is even worse than I thought..."
-    t "This is even worse than I thought..."
+    t "Ситуація навіть гірше, ніж я думав..."
 
 # game/game/script.rpy:1631
 translate ukrainian go_2b35b6fe:
@@ -5091,115 +5091,115 @@ translate ukrainian go_2b35b6fe:
 translate ukrainian go_916f5999:
 
     # mc "{sc=2}{outlinecolor=#000000}NOW!"
-    mc "{sc=2}{outlinecolor=#000000}NOW!"
+    mc "{sc=2}{outlinecolor=#000000}ЗАРАЗ!"
 
 # game/game/script.rpy:1636
 translate ukrainian go_b1447213:
 
     # r "{sc=2}{outlinecolor=#000000}Master!"
-    r "{sc=2}{outlinecolor=#000000}Master!"
+    r "{sc=2}{outlinecolor=#000000}Господарю!"
 
 # game/game/script.rpy:1647
 translate ukrainian go_196f0b84:
 
     # r "{sc=2}{outlinecolor=#000000}Aaah!"
-    r "{sc=2}{outlinecolor=#000000}Aaah!"
+    r "{sc=2}{outlinecolor=#000000}Ааах!"
 
 # game/game/script.rpy:1648
 translate ukrainian go_f22299a0:
 
     # mc "I won't let you!"
-    mc "I won't let you!"
+    mc "Не дозволю!"
 
 # game/game/script.rpy:1651
 translate ukrainian go_08bd860f:
 
     # t "One down, two to g-{w=0.5}{nw}"
-    t "One down, two to g-{w=0.5}{nw}"
+    t "Один готовий, залишилося дв-{w=0.5}{nw}"
 
 # game/game/script.rpy:1662
 translate ukrainian go_bbac7587:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghg!"
-    mc "{sc=2}{outlinecolor=#000000}Ghg!"
+    mc "{sc=2}{outlinecolor=#000000}Ґхм!"
 
 # game/game/script.rpy:1663
 translate ukrainian go_5b1e3b08:
 
     # t "I-I'm not used to fighting so many at o-once."
-    t "I-I'm not used to fighting so many at o-once."
+    t "Н-Не звик я битися зі с-стількома одразу."
 
 # game/game/script.rpy:1665
 translate ukrainian go_8e7a979e:
 
     # r "{sc=2}{outlinecolor=#000000}M-Master [mc]!"
-    r "{sc=2}{outlinecolor=#000000}M-Master [mc]!"
+    r "{sc=2}{outlinecolor=#000000}Г-Господарю [mc]!"
 
 # game/game/script.rpy:1666
 translate ukrainian go_13403a9b:
 
     # mc "Just keep running!"
-    mc "Just keep running!"
+    mc "Продовжуй бігти!"
 
 # game/game/script.rpy:1669
 translate ukrainian go_b8b3f76d:
 
     # t "He wants to rip my arm off!"
-    t "He wants to rip my arm off!"
+    t "Він намагається відгризти мені руку!"
 
 # game/game/script.rpy:1678
 translate ukrainian go_39b1cf3f:
 
     # mc "{sc=2}{outlinecolor=#000000}Aaaaaaaah!"
-    mc "{sc=2}{outlinecolor=#000000}Aaaaaaaah!"
+    mc "{sc=2}{outlinecolor=#000000}Аааааааах!"
 
 # game/game/script.rpy:1686
 translate ukrainian go_41d0217d:
 
     # r "{sc=2}{outlinecolor=#000000}Someone, please! {w}HELP!"
-    r "{sc=2}{outlinecolor=#000000}Someone, please! {w}HELP!"
+    r "{sc=2}{outlinecolor=#000000}Хто-небудь, прошу! {w}ДОПОМОЖІТЬ!"
 
 # game/game/script.rpy:1687
 translate ukrainian go_20daaddb:
 
     # r "{sc=2}{outlinecolor=#000000}Anyone!"
-    r "{sc=2}{outlinecolor=#000000}Anyone!"
+    r "{sc=2}{outlinecolor=#000000}Благаю!"
 
 # game/game/script.rpy:1689
 translate ukrainian go_c0a72876:
 
     # mc "{size=-6}W-What happened...?"
-    mc "{size=-6}W-What happened...?"
+    mc "{size=-6}Щ-Що трапилося...?"
 
 # game/game/script.rpy:1690
 translate ukrainian go_6240c1cc:
 
     # mc "{size=-6}I was distracted for just a second..."
-    mc "{size=-6}I was distracted for just a second..."
+    mc "{size=-6}Лише на мить відволікся..."
 
 # game/game/script.rpy:1693
 translate ukrainian go_354e384c:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Cough*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}Cough*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}*Кхе*"
 
 # game/game/script.rpy:1694
 translate ukrainian go_6b9b7651:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}He waited for the perfect moment..."
-    t "{sc=1}{outlinecolor=#000000}{size=-6}He waited for the perfect moment..."
+    t "{sc=1}{outlinecolor=#000000}{size=-6}Він очікував слушного моменту..."
 
 # game/game/script.rpy:1698
 translate ukrainian go_e98b0038:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}T-These wolves are nothing like the first one..."
-    t "{sc=1}{outlinecolor=#000000}{size=-6}T-These wolves are nothing like the first one..."
+    t "{sc=1}{outlinecolor=#000000}{size=-6}Ц-Ці вовки абсолютно не схожі на першого..."
 
 # game/game/script.rpy:1699
 translate ukrainian go_eebf27da:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}I never really had a chance..."
-    t "{sc=1}{outlinecolor=#000000}{size=-6}I never really had a chance..."
+    t "{sc=1}{outlinecolor=#000000}{size=-6}У мене з самого початку не було шансів..."
 
 # game/game/script.rpy:1704
 translate ukrainian go_2b35b6fe_1:
@@ -5211,19 +5211,19 @@ translate ukrainian go_2b35b6fe_1:
 translate ukrainian go_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
-    mc "{size=-6}{i}Sigh...*"
+    mc "{size=-6}{i}*Хааах...*"
 
 # game/game/script.rpy:1706
 translate ukrainian go_d6b82820:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}Damn it..."
-    t "{sc=1}{outlinecolor=#000000}{size=-6}Damn it..."
+    t "{sc=1}{outlinecolor=#000000}{size=-6}До біса..."
 
 # game/game/script.rpy:1707
 translate ukrainian go_0f5703e5:
 
     # t "{size=-6}J-Just when I made my first friend..."
-    t "{size=-6}J-Just when I made my first friend..."
+    t "{size=-6}Я-Якраз коли я знайшов свою першу подругу..."
 
 # game/game/script.rpy:1708
 translate ukrainian go_a20cefa7:
@@ -5253,25 +5253,25 @@ translate ukrainian go_2b35b6fe_2:
 translate ukrainian go_806f3a2b:
 
     # t "{size=-6}{i}That voice again..."
-    t "{size=-6}{i}That voice again..."
+    t "{size=-6}{i}Знову цей голос..."
 
 # game/game/script.rpy:1720
 translate ukrainian go_ed0fff05:
 
     # t "Those words feel like a dejavu echoing in my head..."
-    t "Those words feel like a dejavu echoing in my head..."
+    t "Ці слова наче дежавю лунають у моїй голові..."
 
 # game/game/script.rpy:1721
 translate ukrainian go_00d6d1ca:
 
     # t "But..."
-    t "But..."
+    t "Але..."
 
 # game/game/script.rpy:1722
 translate ukrainian go_d81bf0db:
 
     # t "What is the point now? I won't be able to escape from this..."
-    t "What is the point now? I won't be able to escape from this..."
+    t "Який тепер у цьому сенс? Мені з цього точно не вибратися..."
 
 # game/game/script.rpy:1723
 translate ukrainian go_2b35b6fe_3:
@@ -5283,55 +5283,55 @@ translate ukrainian go_2b35b6fe_3:
 translate ukrainian go_6a83a996:
 
     # t "{size=-7}At least Ryoko got away..."
-    t "{size=-7}At least Ryoko got away..."
+    t "{size=-7}На щастя, Рьоко змогла втекти..."
 
 # game/game/script.rpy:1725
 translate ukrainian go_5edf3d53:
 
     # t "{sc=1}{outlinecolor=#000000}Ha haha..."
-    t "{sc=1}{outlinecolor=#000000}Ha haha..."
+    t "{sc=1}{outlinecolor=#000000}Ха хаха..."
 
 # game/game/script.rpy:1734
 translate ukrainian go_6e6a5048:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Ghgh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}Ghgh!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}Ґхгм!"
 
 # game/game/script.rpy:1735
 translate ukrainian go_916cc0a5:
 
     # t "I a-am losing my strength."
-    t "I a-am losing my strength."
+    t "Я в-втрачаю сили."
 
 # game/game/script.rpy:1736
 translate ukrainian go_61469714:
 
     # t "{sc=2}{outlinecolor=#000000}{size=-6}Let go of me!"
-    t "{sc=2}{outlinecolor=#000000}{size=-6}Let go of me!"
+    t "{sc=2}{outlinecolor=#000000}{size=-6}Пусти мене!"
 
 # game/game/script.rpy:1742
 translate ukrainian go_8631b7bb:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}I will not die in such a pathetic way!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}I will not die in such a pathetic way!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}Я не збираюся так жалюгідно помирати!"
 
 # game/game/script.rpy:1744
 translate ukrainian go_2a3c1b7a:
 
     # t "T-The second I tried to fight back, he started tossing me around to stop me!"
-    t "T-The second I tried to fight back, he started tossing me around to stop me!"
+    t "Щ-Щойно я почав чинити опір, як він став розмахувати мною, аби спинити мене!"
 
 # game/game/script.rpy:1745
 translate ukrainian go_a63c3912:
 
     # t "A-Are the beasts of t-this world so intelligent?"
-    t "A-Are the beasts of t-this world so intelligent?"
+    t "З-Звірі цього світу аж на с-стільки розумні?"
 
 # game/game/script.rpy:1746
 translate ukrainian go_35b6219e:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}GhnHhg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}GhnHhg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}ҐхммНхг!"
 
 # game/game/script.rpy:1752
 translate ukrainian go_b4794d2c:
@@ -5343,85 +5343,85 @@ translate ukrainian go_b4794d2c:
 translate ukrainian go_4aad7b96:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh...*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh...*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Хааа...*"
 
 # game/game/script.rpy:1761
 translate ukrainian go_373143ec:
 
     # t "Did I... {w}make it?"
-    t "Did I... {w}make it?"
+    t "В мене... {w}вийшло?"
 
 # game/game/script.rpy:1762
 translate ukrainian go_b4665402:
 
     # mc "{size=-7}Haha... {w}take that..."
-    mc "{size=-7}Haha... {w}take that..."
+    mc "{size=-7}Хаха... {w}отримуй..."
 
 # game/game/script.rpy:1763
 translate ukrainian go_6cd0447f:
 
     # mc "{size=-8}I have to... {w}get back to Ryoko... {w}she must be worried..."
-    mc "{size=-8}I have to... {w}get back to Ryoko... {w}she must be worried..."
+    mc "{size=-8}Я маю... {w}наздогнати Рьоко... {w}Вона, певно, хвилюється..."
 
 # game/game/script.rpy:1764
 translate ukrainian go_6f3ef14f:
 
     # mc "{size=-8}But I'm getting really..."
-    mc "{size=-8}But I'm getting really..."
+    mc "{size=-8}Але щось мене дуже клонить..."
 
 # game/game/script.rpy:1766
 translate ukrainian go_ae6d8b95:
 
     # mc "{size=-8}...sleepy..."
-    mc "{size=-8}...sleepy..."
+    mc "{size=-8}...у сон..."
 
 # game/game/script.rpy:1771
 translate ukrainian go_87129f9f:
 
     # r "{sc=2}{outlinecolor=#000000}This way! {w}Please, hurry!"
-    r "{sc=2}{outlinecolor=#000000}This way! {w}Please, hurry!"
+    r "{sc=2}{outlinecolor=#000000}Сюди! {w}Будь ласка, швидше!"
 
 # game/game/script.rpy:1772
 translate ukrainian go_952d9c5d:
 
     # "{color=#FFFCA9}Are those... three dead wolves?"
-    "{color=#FFFCA9}Are those... three dead wolves?"
+    "{color=#FFFCA9}Це що... три мертві вовки?"
 
 # game/game/script.rpy:1773
 translate ukrainian go_c0b0b880:
 
     # r "He must be nearby!"
-    r "He must be nearby!"
+    r "Він має бути десь тут!"
 
 # game/game/script.rpy:1774
 translate ukrainian go_acb53731:
 
     # "{color=#FFFCA9}H-He took them all down by himself?"
-    "{color=#FFFCA9}H-He took them all down by himself?"
+    "{color=#FFFCA9}В-Він вбив їх всіх самотужки?"
 
 # game/game/script.rpy:1775
 translate ukrainian go_b1447213_1:
 
     # r "{sc=2}{outlinecolor=#000000}Master!"
-    r "{sc=2}{outlinecolor=#000000}Master!"
+    r "{sc=2}{outlinecolor=#000000}Господарю!"
 
 # game/game/script.rpy:1776
 translate ukrainian go_44792762:
 
     # "{color=#FFFCA9}He's bleeding! {w}We have to get him to the village, fast!"
-    "{color=#FFFCA9}He's bleeding! {w}We have to get him to the village, fast!"
+    "{color=#FFFCA9}У нього кровотеча! {w}Необхідно його терміново доправити до селища!"
 
 # game/game/script.rpy:1777
 translate ukrainian go_6bc72e29:
 
     # r "{sc=2}{outlinecolor=#000000}Master [mc]!"
-    r "{sc=2}{outlinecolor=#000000}Master [mc]!"
+    r "{sc=2}{outlinecolor=#000000}Госопдарю [mc]!"
 
 # game/game/script.rpy:1778
 translate ukrainian go_99552732:
 
     # mc "{size=-10}Ryo-{w}ko..."
-    mc "{size=-10}Ryo-{w}ko..."
+    mc "{size=-10}Рьо-{w}ко..."
 
 # game/game/script.rpy:1783
 translate ukrainian go_a20cefa7_1:
@@ -5445,49 +5445,49 @@ translate ukrainian go_d7edd024_1:
 translate ukrainian go_0ec8dd18:
 
     # "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Na~ nana~ na~"
-    "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Na~ nana~ na~"
+    "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}На~ нана~ на~"
 
 # game/game/script.rpy:1791
 translate ukrainian go_4bf5e730:
 
     # mc "Mhm?"
-    mc "Mhm?"
+    mc "Мгм?"
 
 # game/game/script.rpy:1792
 translate ukrainian go_72c13c2b:
 
     # "{i}You hear someone humming in the distance."
-    "{i}You hear someone humming in the distance."
+    "{i}Ти чуєш, як хтось наспівує десь удалині."
 
 # game/game/script.rpy:1793
 translate ukrainian go_4a62588b:
 
     # "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Laa~ la~ laa~"
-    "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Laa~ la~ laa~"
+    "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Лаа~ ла~ лаа~"
 
 # game/game/script.rpy:1795
 translate ukrainian go_2a953051:
 
     # mc "When did I get here?"
-    mc "When did I get here?"
+    mc "Коли це я тут опинився?"
 
 # game/game/script.rpy:1796
 translate ukrainian go_53b5b842:
 
     # mc "I don't have any wounds, that means that..."
-    mc "I don't have any wounds, that means that..."
+    mc "На мені не подряпини, а отже..."
 
 # game/game/script.rpy:1797
 translate ukrainian go_8be8d37c:
 
     # "{color=#8CDAE9}{size=-6}Oh!"
-    "{color=#8CDAE9}{size=-6}Oh!"
+    "{color=#8CDAE9}{size=-6}Ох!"
 
 # game/game/script.rpy:1798
 translate ukrainian go_ca4bb8c7:
 
     # "{color=#8CDAE9}{size=-6}You're finally awake! {w}Come on down!"
-    "{color=#8CDAE9}{size=-6}You're finally awake! {w}Come on down!"
+    "{color=#8CDAE9}{size=-6}Нарешті отямився! {w}Спускайся до мене!"
 
 # game/game/script.rpy:1799
 translate ukrainian go_2b35b6fe_4:
@@ -5499,7 +5499,7 @@ translate ukrainian go_2b35b6fe_4:
 translate ukrainian go_9e2b0b98:
 
     # "{color=#8CDAE9}{size=-6}Don't you know it's rude to enter a bath with your clothes on?"
-    "{color=#8CDAE9}{size=-6}Don't you know it's rude to enter a bath with your clothes on?"
+    "{color=#8CDAE9}{size=-6}Тобі не казали, що не ввічливо заходити у купальню в речах?"
 
 # game/game/script.rpy:1803
 translate ukrainian go_fcdeab6d:
@@ -5511,55 +5511,55 @@ translate ukrainian go_fcdeab6d:
 translate ukrainian go_830b59cd:
 
     # t "No wonder her voice sounded so familiar..."
-    t "No wonder her voice sounded so familiar..."
+    t "Не дивно, що голос здався мені знайомим..."
 
 # game/game/script.rpy:1805
 translate ukrainian go_a34cd226:
 
     # mc "Keiko..."
-    mc "Keiko..."
+    mc "Кейко..."
 
 # game/game/script.rpy:1807
 translate ukrainian go_b2e0664e:
 
     # k "Fufufu~{image=corazon} I see you still remember me."
-    k "Fufufu~{image=corazon} I see you still remember me."
+    k "Хухуху~{image=corazon} Бачу, ти досі мене пам'ятаєш."
 
 # game/game/script.rpy:1808
 translate ukrainian go_e5937207:
 
     # mc "W-We just spoke a few days ago..."
-    mc "W-We just spoke a few days ago..."
+    mc "М-Ми ж розмовляли кілька днів тому..."
 
 # game/game/script.rpy:1809
 translate ukrainian go_b31b951b:
 
     # k "Maybe. {w}I'm not sure."
-    k "Maybe. {w}I'm not sure."
+    k "Можливо. {w}Не впевнена."
 
 # game/game/script.rpy:1810
 translate ukrainian go_6fa3e7ae:
 
     # k "Most of us don't really worry about the passage of time..."
-    k "Most of us don't really worry about the passage of time..."
+    k "Більшість з нас не звертають увагу на плин часу..."
 
 # game/game/script.rpy:1812
 translate ukrainian go_f87ef72b:
 
     # mc "{size=-6}I t-think I understand why..."
-    mc "{size=-6}I t-think I understand why..."
+    mc "{size=-6}Гадаю, я розумію чому..."
 
 # game/game/script.rpy:1813
 translate ukrainian go_4a05a6ed:
 
     # k "Hmm...?"
-    k "Hmm...?"
+    k "Гмм...?"
 
 # game/game/script.rpy:1814
 translate ukrainian go_924706d3:
 
     # k "What's wrong? {w}Something bothering you?"
-    k "What's wrong? {w}Something bothering you?"
+    k "Що таке? {w}Тебе щось турбує?"
 
 # game/game/script.rpy:1815
 translate ukrainian go_2b35b6fe_5:
@@ -5571,13 +5571,13 @@ translate ukrainian go_2b35b6fe_5:
 translate ukrainian go_d41c373a:
 
     # mc "I-I just... {w}don't want to disrespect you..."
-    mc "I-I just... {w}don't want to disrespect you..."
+    mc "Я-Я просто... {w}не хочу здатися нахабним..."
 
 # game/game/script.rpy:1818
 translate ukrainian go_510513d2:
 
     # mc "I didn't mean to interrupt your bath..."
-    mc "I didn't mean to interrupt your bath..."
+    mc "Я зовсім не збирався заважати тобі, поки ти купаєшся..."
 
 # game/game/script.rpy:1819
 translate ukrainian go_88427d84:
@@ -5589,49 +5589,49 @@ translate ukrainian go_88427d84:
 translate ukrainian go_09ed4df7:
 
     # k "Aside from being handsome, you're also adorable~{image=corazon}{image=corazon}"
-    k "Aside from being handsome, you're also adorable~{image=corazon}{image=corazon}"
+    k "А ти не тільки красень, але й дуже милий~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1822
 translate ukrainian go_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/script.rpy:1823
 translate ukrainian go_3e6e33fd:
 
     # k "Don't worry~{image=corazon} {w}You wouldn't be here if I didn't want you to be."
-    k "Don't worry~{image=corazon} {w}You wouldn't be here if I didn't want you to be."
+    k "Не хвилюйся~{image=corazon} {w}Тебе тут не було б, якби я не хотіла цього."
 
 # game/game/script.rpy:1824
 translate ukrainian go_66e893f1:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}Gulp*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}Gulp*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}*Ковть*"
 
 # game/game/script.rpy:1826
 translate ukrainian go_1519ddc1:
 
     # t "Her figure is perfect and graceful..."
-    t "Her figure is perfect and graceful..."
+    t "Її фігура ідеальна й витончена..."
 
 # game/game/script.rpy:1827
 translate ukrainian go_4f3c1bae:
 
     # t "I didn't think I'd ever see someone this beautiful...."
-    t "I didn't think I'd ever see someone this beautiful...."
+    t "Й подумати не міг, що колись побачу настільки вродливу дівчину...."
 
 # game/game/script.rpy:1829
 translate ukrainian go_f280b97e:
 
     # t "I could look at her forever and never get tired of it..."
-    t "I could look at her forever and never get tired of it..."
+    t "Я міг би споглядати на неї цілу вічність й ніколи б не втомився..."
 
 # game/game/script.rpy:1830
 translate ukrainian go_57ce5707:
 
     # t "I'm definitely in heaven..."
-    t "I'm definitely in heaven..."
+    t "Я сто відсотків у раю..."
 
 # game/game/script.rpy:1831
 translate ukrainian go_2b35b6fe_6:
@@ -5643,31 +5643,31 @@ translate ukrainian go_2b35b6fe_6:
 translate ukrainian go_97f428f0:
 
     # k "{size=-6}Hmn~ hnm~"
-    k "{size=-6}Hmn~ hnm~"
+    k "{size=-6}Хм~ хм~"
 
 # game/game/script.rpy:1834
 translate ukrainian go_8a84a3ba:
 
     # k "Are you going to bathe with me, or just keep staring at my butt all night?~{image=corazon}"
-    k "Are you going to bathe with me, or just keep staring at my butt all night?~{image=corazon}"
+    k "Ти збираєшся доєднатися, чи будеш всю ніч розглядувати мої сідниці?~{image=corazon}"
 
 # game/game/script.rpy:1835
 translate ukrainian go_debc2f64:
 
     # k "Not that I mind, {w}but I don't like being the only one without clothes..."
-    k "Not that I mind, {w}but I don't like being the only one without clothes..."
+    k "Я, звісно, не проти, {w}але мені не подобається бути єдиною голяка..."
 
 # game/game/script.rpy:1836
 translate ukrainian go_68695dad:
 
     # mc "A-Ah! Yes-"
-    mc "A-Ah! Yes-"
+    mc "А-Ах! Так-"
 
 # game/game/script.rpy:1837
 translate ukrainian go_4efbdc0b:
 
     # mc "{size=-6}W-Wait what?"
-    mc "{size=-6}W-Wait what?"
+    mc "{size=-6}С-Стривай, що?"
 
 # game/game/script.rpy:1838
 translate ukrainian go_dd8fe536:
@@ -29308,6 +29308,19 @@ translate ukrainian strings:
 
     # script.rpy:4920
     # ...
+    # script.rpy:5244
+
+    old "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
+    new "{sc=2}{outlinecolor=#000000}{i}Не здавайся!"
+
+    # script.rpy:5250
+    # script.rpy:5256
+
+    old "{sc=2}{outlinecolor=#000000}{i}You know it can't end like this! You haven't tried everything yet!"
+    new "{sc=2}{outlinecolor=#000000}{i}Ти знаєш, що все не може так скінчитися!\nТи ще далеко не все спробував!"
+
+    # script.rpy:5262
+    # ...
     # script.rpy:5952
 
 ### NOT SORTED
@@ -29369,9 +29382,6 @@ translate ukrainian strings:
     old "I'm happy that everything is going as it should."
     new "I'm happy that everything is going as it should."
 
-    old "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
-    new "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
-
     old "So, you've already become the leader..."
     new "So, you've already become the leader..."
 
@@ -29428,9 +29438,6 @@ translate ukrainian strings:
 
     old "{outlinecolor=#000000}{i}It's what allowed you to grow and feel things you could never experience in an empty world."
     new "{outlinecolor=#000000}{i}It's what allowed you to grow and feel things you could never experience in an empty world."
-
-    old "{sc=2}{outlinecolor=#000000}{i}You know it can't end like this! You haven't tried everything yet!"
-    new "{sc=2}{outlinecolor=#000000}{i}You know it can't end like this! You haven't tried everything yet!"
 
     old "You take your katana and prepare to leave."
     new "You take your katana and prepare to leave."
