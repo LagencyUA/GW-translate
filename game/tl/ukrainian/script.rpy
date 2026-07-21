@@ -6873,19 +6873,19 @@ translate ukrainian keiko_gal1_711c0434:
 translate ukrainian keiko_gal1_7408d63a:
 
     # t "I don't even have the strength to move my head... I feel something pressing against my chest..."
-    t "I don't even have the strength to move my head... I feel something pressing against my chest..."
+    t "У мене не залишилося сил навіть поворухнути головою... Відчуваю щось у себе на грудях..."
 
 # game/game/script.rpy:2203
 translate ukrainian keiko_gal1_520a926d:
 
     # t "I'm trying to speak, but my mouth won't move..."
-    t "I'm trying to speak, but my mouth won't move..."
+    t "Я намагаюся заговорити, але мій язик не рухається..."
 
 # game/game/script.rpy:2204
 translate ukrainian keiko_gal1_9ed52dc3:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ry-{w}oko..."
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ry-{w}oko..."
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Рьо-{w}ко..."
 
 # game/game/script.rpy:2205
 translate ukrainian keiko_gal1_5159028c:
@@ -6897,25 +6897,25 @@ translate ukrainian keiko_gal1_5159028c:
 translate ukrainian keiko_gal1_79bcef39:
 
     # r "Master [mc]!"
-    r "Master [mc]!"
+    r "Гсподарю [mc]!"
 
 # game/game/script.rpy:2208
 translate ukrainian keiko_gal1_80854cfd:
 
     # r "I-I thought you'd never open your eyes."
-    r "I-I thought you'd never open your eyes."
+    r "Я-Я думала, ви вже ніколи не розплющите очі."
 
 # game/game/script.rpy:2209
 translate ukrainian keiko_gal1_adbb9d7c:
 
     # a "{size=-12}What a scare... did he really wake up?"
-    a "{size=-12}What a scare... did he really wake up?"
+    a "{size=-12}Що за переполох... Невже він отямився?"
 
 # game/game/script.rpy:2211
 translate ukrainian keiko_gal1_34ef80bf:
 
     # r "How do you feel? {w}Are you in pain? {w}Do you want me to get you some water?"
-    r "How do you feel? {w}Are you in pain? {w}Do you want me to get you some water?"
+    r "Як себе почуваєте? {w}Вам боляче? {w}Мені принести вам трохи води?"
 
 # game/game/script.rpy:2212
 translate ukrainian keiko_gal1_2b35b6fe_3:
@@ -6927,25 +6927,25 @@ translate ukrainian keiko_gal1_2b35b6fe_3:
 translate ukrainian keiko_gal1_7f62da09:
 
     # t "{size=-6}I can't answer her... {w}all my strength is going into keeping my eyes open."
-    t "{size=-6}I can't answer her... {w}all my strength is going into keeping my eyes open."
+    t "{size=-6}Я не можу їй відповісти... {w}Уся моя сила йде на те, щоб не заплющити очі."
 
 # game/game/script.rpy:2214
 translate ukrainian keiko_gal1_dfaf98f0:
 
     # a "I don't think he can speak right now, Ryoko."
-    a "I don't think he can speak right now, Ryoko."
+    a "Не думаю, він може зараз розмовляти, Рьоко."
 
 # game/game/script.rpy:2215
 translate ukrainian keiko_gal1_bb735ea0:
 
     # a "Your master hasn't recovered yet."
-    a "Your master hasn't recovered yet."
+    a "Твій господар ще не оклигав."
 
 # game/game/script.rpy:2216
 translate ukrainian keiko_gal1_d468a633:
 
     # a "In fact, {w}according to the doctor, it would've been a miracle if he ever woke up..."
-    a "In fact, {w}according to the doctor, it would've been a miracle if he ever woke up..."
+    a "Насправді, {w}зважаючи на слова лікарки, це буде справжнім дивом, якщо він взагалі прокинеться..."
 
 # game/game/script.rpy:2218
 translate ukrainian keiko_gal1_3f34ddf9:
@@ -6957,25 +6957,25 @@ translate ukrainian keiko_gal1_3f34ddf9:
 translate ukrainian keiko_gal1_0275452b:
 
     # a "Err... {w}S-So soon..."
-    a "Err... {w}S-So soon..."
+    a "Емм... {w}Т-Так швидко..."
 
 # game/game/script.rpy:2220
 translate ukrainian keiko_gal1_b7851fd7:
 
     # a "{size=-6}{i}Sigh...~"
-    a "{size=-6}{i}Sigh...~"
+    a "{size=-6}{i}Хааах...~"
 
 # game/game/script.rpy:2221
 translate ukrainian keiko_gal1_7dbdf747:
 
     # a "Let him rest for now. When he's fully recovered, tell him to come and speak with me."
-    a "Let him rest for now. When he's fully recovered, tell him to come and speak with me."
+    a "Дозволь йому відпочити. А коли він повністю одужає, передай йому, щоб він зайшов до мене побалакати."
 
 # game/game/script.rpy:2222
 translate ukrainian keiko_gal1_87d181f3:
 
     # a "You should get some rest too... {w}You've been awake since we arrived in the village."
-    a "You should get some rest too... {w}You've been awake since we arrived in the village."
+    a "І ти теж маєш трохи відпочити... {w}Ти не спала із самого візиту до нашого селища."
 
 # game/game/script.rpy:2223
 translate ukrainian keiko_gal1_b9b755e5:
@@ -6987,49 +6987,49 @@ translate ukrainian keiko_gal1_b9b755e5:
 translate ukrainian keiko_gal1_558f23cb:
 
     # r "{size=-10}Okay..."
-    r "{size=-10}Okay..."
+    r "{size=-10}Гаразд..."
 
 # game/game/script.rpy:2226
 translate ukrainian keiko_gal1_9217203d:
 
     # t "I hate seeing Ryoko sad."
-    t "I hate seeing Ryoko sad."
+    t "Так боляче бачити Рьоко засмученою."
 
 # game/game/script.rpy:2227
 translate ukrainian keiko_gal1_c8e44e3f:
 
     # t "And knowing that I'm the reason for it... makes it worse."
-    t "And knowing that I'm the reason for it... makes it worse."
+    t "А ще гірше... усвідомлювати, що я — причина її сліз."
 
 # game/game/script.rpy:2228
 translate ukrainian keiko_gal1_00e5cceb:
 
     # t "{size=-6}If only I could just..."
-    t "{size=-6}If only I could just..."
+    t "{size=-6}Якби я тільки..."
 
 # game/game/script.rpy:2232
 translate ukrainian keiko_gal1_60c49b37:
 
     # r "{size=-6}M-Master... {w}I'll be right here for you..."
-    r "{size=-6}M-Master... {w}I'll be right here for you..."
+    r "{size=-6}Г-Господарю... {w}Я завжди буду поруч із вами..."
 
 # game/game/script.rpy:2234
 translate ukrainian keiko_gal1_f17eed6c:
 
     # t "I never thought I'd grow so attached to someone I met just a few days ago..."
-    t "I never thought I'd grow so attached to someone I met just a few days ago..."
+    t "Я й подумати не міг, що так сильно прив'яжуся до людини, яку зустрів лише кілька днів тому..."
 
 # game/game/script.rpy:2235
 translate ukrainian keiko_gal1_bd811cb2:
 
     # t "It's such a strange feeling..."
-    t "It's such a strange feeling..."
+    t "Таке дивне відчуття..."
 
 # game/game/script.rpy:2236
 translate ukrainian keiko_gal1_31000283:
 
     # t "{size=-6}I need to recover soon..."
-    t "{size=-6}I need to recover soon..."
+    t "{size=-6}Маю якнайшвидше одужати..."
 
 # game/game/script.rpy:2238
 translate ukrainian keiko_gal1_a20cefa7_1:
@@ -7053,55 +7053,55 @@ translate ukrainian keiko_gal1_d7edd024_1:
 translate ukrainian keiko_gal1_f44ea7f9:
 
     # mc "{size=-6}Hmm..."
-    mc "{size=-6}Hmm..."
+    mc "{size=-6}Гмм..."
 
 # game/game/script.rpy:2246
 translate ukrainian keiko_gal1_ebf884cf:
 
     # t "How much time has passed...?"
-    t "How much time has passed...?"
+    t "Скільки часу вже минуло...?"
 
 # game/game/script.rpy:2247
 translate ukrainian keiko_gal1_618aeec7:
 
     # t "My head's still spinning, but I feel better now."
-    t "My head's still spinning, but I feel better now."
+    t "Голова досі обертом, але почуваюся вже значно краще."
 
 # game/game/script.rpy:2248
 translate ukrainian keiko_gal1_cb4a7850:
 
     # t "There's no one else here..."
-    t "There's no one else here..."
+    t "Поруч нікого..."
 
 # game/game/script.rpy:2251
 translate ukrainian keiko_gal1_af5052a5:
 
     # t "It almost feels like that battle with the wolves was just a dream..."
-    t "It almost feels like that battle with the wolves was just a dream..."
+    t "Таке відчуття, ніби битва з вовками була лише жахливим сном..."
 
 # game/game/script.rpy:2252
 translate ukrainian keiko_gal1_36dbabf2:
 
     # t "But these bandages say otherwise..."
-    t "But these bandages say otherwise..."
+    t "Але ці бинти свідчать про інше..."
 
 # game/game/script.rpy:2253
 translate ukrainian keiko_gal1_b4d30e38:
 
     # t "Where's Ryoko...? {w}And my clothes..."
-    t "Where's Ryoko...? {w}And my clothes..."
+    t "Де Рьоко...? {w}І мій одяг..."
 
 # game/game/script.rpy:2255
 translate ukrainian keiko_gal1_94a8eb26:
 
     # t "There they are."
-    t "There they are."
+    t "Ось де він."
 
 # game/game/script.rpy:2256
 translate ukrainian keiko_gal1_8fd0301d:
 
     # "{i}You put on your clothes and prepare to leave the room."
-    "{i}You put on your clothes and prepare to leave the room."
+    "{i}Ти вдягаєшся і готуєшся вийти з кімнати."
 
 # game/game/script.rpy:2264
 translate ukrainian ryoko_encounter_b1926a30:
@@ -7113,259 +7113,259 @@ translate ukrainian ryoko_encounter_b1926a30:
 translate ukrainian ryoko_encounter_f76fc5e8:
 
     # r "{size=-6}M-Master [mc]..."
-    r "{size=-6}M-Master [mc]..."
+    r "{size=-6}Г-Господарю [mc]..."
 
 # game/game/script.rpy:2270
 translate ukrainian ryoko_encounter_8a5dcd81:
 
     # r "You're finally awake!"
-    r "You're finally awake!"
+    r "Ви нарешті прокинулися!"
 
 # game/game/script.rpy:2271
 translate ukrainian ryoko_encounter_9adc91fd:
 
     # t "Looks like she's been taking care of me all this time."
-    t "Looks like she's been taking care of me all this time."
+    t "Видно, вона весь цей час піклувалася про мене."
 
 # game/game/script.rpy:2272
 translate ukrainian ryoko_encounter_8f7cb6dd:
 
     # mc "Were you really that worried?"
-    mc "Were you really that worried?"
+    mc "Ти й справді так сильно переймалася?"
 
 # game/game/script.rpy:2274
 translate ukrainian ryoko_encounter_4ae5f57f:
 
     # r "Veeeery much!"
-    r "Veeeery much!"
+    r "Дууууже сильно!"
 
 # game/game/script.rpy:2275
 translate ukrainian ryoko_encounter_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/script.rpy:2276
 translate ukrainian ryoko_encounter_32109810:
 
     # mc "I feel much better now, and it's all thanks to you"
-    mc "I feel much better now, and it's all thanks to you"
+    mc "Почуваюся вже значно краще, і все це завдяки тобі."
 
 # game/game/script.rpy:2277
 translate ukrainian ryoko_encounter_66ed9611:
 
     # r "Hehehe~{image=corazon}"
-    r "Hehehe~{image=corazon}"
+    r "Хехехе~{image=corazon}"
 
 # game/game/script.rpy:2278
 translate ukrainian ryoko_encounter_ab0c1a84:
 
     # mc "Can you give me an update on what happened?"
-    mc "Can you give me an update on what happened?"
+    mc "Розкажеш мені, що взагалі трапилося?"
 
 # game/game/script.rpy:2280
 translate ukrainian ryoko_encounter_e287f124:
 
     # r "Yes! Let's sit down."
-    r "Yes! Let's sit down."
+    r "Так! Нумо присядемо."
 
 # game/game/script.rpy:2281
 translate ukrainian ryoko_encounter_b8d12618:
 
     # r "It's not good to overdo it right after waking up."
-    r "It's not good to overdo it right after waking up."
+    r "Не варто перенапружуватися відразу після того, як встали."
 
 # game/game/script.rpy:2282
 translate ukrainian ryoko_encounter_495c71c2:
 
     # mc "Hahaha, all right. After you."
-    mc "Hahaha, all right. After you."
+    mc "Хахаха, гаразд. Веди, я за тобою."
 
 # game/game/script.rpy:2284
 translate ukrainian ryoko_encounter_1643e592:
 
     # t "I wonder whose house this is..."
-    t "I wonder whose house this is..."
+    t "Цікаво, чий це дім..."
 
 # game/game/script.rpy:2286
 translate ukrainian ryoko_encounter_6d695b84:
 
     # r "Well, where do you want to start?"
-    r "Well, where do you want to start?"
+    r "Отже, з чого б ви хотіли почати?"
 
 # game/game/script.rpy:2287
 translate ukrainian ryoko_encounter_577f33b3:
 
     # mc "Mmm..."
-    mc "Mmm..."
+    mc "Ммм..."
 
 # game/game/script.rpy:2288
 translate ukrainian ryoko_encounter_22cc9567:
 
     # mc "Where are we?"
-    mc "Where are we?"
+    mc "Де це ми?"
 
 # game/game/script.rpy:2290
 translate ukrainian ryoko_encounter_239b6568:
 
     # r "We're in the village I told you about!"
-    r "We're in the village I told you about!"
+    r "Ми у селищі, про яке я згадувала!"
 
 # game/game/script.rpy:2291
 translate ukrainian ryoko_encounter_e3fc1a7c:
 
     # mc "And how? Did you carry me all the way here by yourself?"
-    mc "And how? Did you carry me all the way here by yourself?"
+    mc "І як ми тут опинилися? Невже ти самотужки мене дотягнула?"
 
 # game/game/script.rpy:2293
 translate ukrainian ryoko_encounter_1d53767a:
 
     # r "Well..."
-    r "Well..."
+    r "Ну..."
 
 # game/game/script.rpy:2294
 translate ukrainian ryoko_encounter_c7c1dd12:
 
     # r "After I made it out of the forest, I hit a big wall."
-    r "After I made it out of the forest, I hit a big wall."
+    r "Коли я вибралася з лісу, я натрапила на велику стіну."
 
 # game/game/script.rpy:2295
 translate ukrainian ryoko_encounter_8265a239:
 
     # r "I screamed for help for a long time, but no one answered."
-    r "I screamed for help for a long time, but no one answered."
+    r "Я довго кричала про допомогу, але ніхто не відповідав."
 
 # game/game/script.rpy:2296
 translate ukrainian ryoko_encounter_dc429b48:
 
     # r "When I was losing hope, {w}an adventurer opened the gate and offered to help me."
-    r "When I was losing hope, {w}an adventurer opened the gate and offered to help me."
+    r "Коли я вже втрачала надію, {w}одна шукачка пригод відкрила браму і запропонувала допомогу."
 
 # game/game/script.rpy:2298
 translate ukrainian ryoko_encounter_803c7b0a:
 
     # r "{size=-6}If it wasn't for her... {w}I don't know what would've happened to you..."
-    r "{size=-6}If it wasn't for her... {w}I don't know what would've happened to you..."
+    r "{size=-6}Якби не вона... {w}не можу й уявити, що б з вами було..."
 
 # game/game/script.rpy:2299
 translate ukrainian ryoko_encounter_4a87b5e4:
 
     # mc "So, an adventurer... I'll have to thank her."
-    mc "So, an adventurer... I'll have to thank her."
+    mc "Отже, шукачка пригод... Маю їй пізніше віддячити."
 
 # game/game/script.rpy:2301
 translate ukrainian ryoko_encounter_5616ce3a:
 
     # r "She said that once you're better, you should come to the village."
-    r "She said that once you're better, you should come to the village."
+    r "Вона казала, аби ви прогулялися селом, щойно почуватиметеся краще." #прим.: Мабуть це про Акане, треба перевірити
 
 # game/game/script.rpy:2302
 translate ukrainian ryoko_encounter_955cef77:
 
     # r "Ask for Yui."
-    r "Ask for Yui."
+    r "Пошукайте Юї."
 
 # game/game/script.rpy:2303
 translate ukrainian ryoko_encounter_88ccade7:
 
     # r "She said she has something important to discuss with you."
-    r "She said she has something important to discuss with you."
+    r "Юї казала, що хоче обговорити з вами дещо важливе."
 
 # game/game/script.rpy:2304
 translate ukrainian ryoko_encounter_ccbdf867:
 
     # t "Something important...? {w}I hope it's not what I think..."
-    t "Something important...? {w}I hope it's not what I think..."
+    t "Дещо важливе...? {w}Сподіваюся, це не те, про що я думаю..."
 
 # game/game/script.rpy:2305
 translate ukrainian ryoko_encounter_1119d545:
 
     # mc "Thanks for telling me, Ryoko."
-    mc "Thanks for telling me, Ryoko."
+    mc "Дякую тобі, що розповіла, Рьоко."
 
 # game/game/script.rpy:2307
 translate ukrainian ryoko_encounter_cee94512:
 
     # r "No problem! Anything else you want to know?"
-    r "No problem! Anything else you want to know?"
+    r "Звертайтеся! Можливо, ви ще щось хотіли?"
 
 # game/game/script.rpy:2311
 translate ukrainian ryoko_encounter_5e0a242f:
 
     # t "Hmm... I know Ryoko's trying to act like she's fine, but she looks exhausted."
-    t "Hmm... I know Ryoko's trying to act like she's fine, but she looks exhausted."
+    t "Гмм... Знаю, що Рьоко намагається вдавати, ніби з нею все гаразд, але вона виглядає виснаженою."
 
 # game/game/script.rpy:2312
 translate ukrainian ryoko_encounter_0098ac1a:
 
     # t "She must've stayed by my side this whole time..."
-    t "She must've stayed by my side this whole time..."
+    t "Певно, вона весь час була лише поруч зі мною..."
 
 # game/game/script.rpy:2313
 translate ukrainian ryoko_encounter_de4c87a7:
 
     # mc "Actually... {w}yeah. I need you to come closer."
-    mc "Actually... {w}yeah. I need you to come closer."
+    mc "Насправді... {w}так. Можеш підійти ближче?"
 
 # game/game/script.rpy:2315
 translate ukrainian ryoko_encounter_0143c86a:
 
     # r "Hmm? Okay..."
-    r "Hmm? Okay..."
+    r "Гмм? Гаразд..."
 
 # game/game/script.rpy:2320
 translate ukrainian ryoko_encounter_7ecdca18:
 
     # r "What's wrong? {w}Do you need help with something...? {w}Or are you still not feeling well?"
-    r "What's wrong? {w}Do you need help with something...? {w}Or are you still not feeling well?"
+    r "Що ви хотіли? {w}Вам треба моя допомога з чимось...? {w}Чи ви досі себе погано почуваєте?"
 
 # game/game/script.rpy:2322
 translate ukrainian ryoko_encounter_895c6b6c:
 
     # r "{sc=1}{outlinecolor=#000000}M-Master??"
-    r "{sc=1}{outlinecolor=#000000}M-Master??"
+    r "{sc=1}{outlinecolor=#000000}Г-Господарю??"
 
 # game/game/script.rpy:2323
 translate ukrainian ryoko_encounter_bb2a78d0:
 
     # r "What's wrong?"
-    r "What's wrong?"
+    r "Щось трапилося?"
 
 # game/game/script.rpy:2324
 translate ukrainian ryoko_encounter_b7df4fac:
 
     # mc "Nothing. I just wanted to pet you, that's all."
-    mc "Nothing. I just wanted to pet you, that's all."
+    mc "Нічого такого. Я лише хотів погладити тебе, та й все."
 
 # game/game/script.rpy:2326
 translate ukrainian ryoko_encounter_58324477:
 
     # r "Just that?"
-    r "Just that?"
+    r "Лише погладити?"
 
 # game/game/script.rpy:2327
 translate ukrainian ryoko_encounter_3861e8e3:
 
     # mc "Yeah, just that. {w}You don't like it?"
-    mc "Yeah, just that. {w}You don't like it?"
+    mc "Так, лише погладити. {w}Тобі не подобається?"
 
 # game/game/script.rpy:2328
 translate ukrainian ryoko_encounter_becbdfea:
 
     # r "O-Of course I do... {w}but if you do it so suddenly..."
-    r "O-Of course I do... {w}but if you do it so suddenly..."
+    r "З-Звісно подобається... {w}але якщо ви це робитимете так раптово..."
 
 # game/game/script.rpy:2330
 translate ukrainian ryoko_encounter_7fa78f09:
 
     # mc "Thank you for taking care of me. But now you need to rest too, right?"
-    mc "Thank you for taking care of me. But now you need to rest too, right?"
+    mc "Дякую, що піклувалася про мене. Але тепер ти теж маєш відпочити, я правий?"
 
 # game/game/script.rpy:2331
 translate ukrainian ryoko_encounter_898a1b36:
 
     # mc "I don't want anything bad to happen to you because of me."
-    mc "I don't want anything bad to happen to you because of me."
+    mc "Не хочу, аби щось погане трапилося з тобою через мене."
 
 # game/game/script.rpy:2332
 translate ukrainian ryoko_encounter_b9b755e5:
@@ -7377,37 +7377,37 @@ translate ukrainian ryoko_encounter_b9b755e5:
 translate ukrainian ryoko_encounter_b41083b1:
 
     # r "{i}{size=-10}Why is he so kind to me...?"
-    r "{i}{size=-10}Why is he so kind to me...?"
+    r "{i}{size=-10}Чоу він такий добрий до мене...?"
 
 # game/game/script.rpy:2335
 translate ukrainian ryoko_encounter_501791e8:
 
     # r "{i}{size=-10}How am I supposed to stop these feelings if he keeps treating me like this...?"
-    r "{i}{size=-10}How am I supposed to stop these feelings if he keeps treating me like this...?"
+    r "{i}{size=-10}Як я маю стримувати ці почуття, коли він продовжує так до мене ставитися...?"
 
 # game/game/script.rpy:2337
 translate ukrainian ryoko_encounter_a142a3aa:
 
     # mc "Understood, Ryoko?"
-    mc "Understood, Ryoko?"
+    mc "Зрозуміло, Рьоко?"
 
 # game/game/script.rpy:2339
 translate ukrainian ryoko_encounter_16fc3ed2:
 
     # r "Yes~{image=corazon}{image=corazon}"
-    r "Yes~{image=corazon}{image=corazon}"
+    r "Так~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2342
 translate ukrainian ryoko_encounter_5ffa9935:
 
     # "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
-    "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
+    "{image=corazon} Прихильність Рьоко зросла до [ryoko_affection] {image=corazon}"
 
 # game/game/script.rpy:2354
 translate ukrainian ryoko_encounter_acf752a9:
 
     # t "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
-    t "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
+    t "Треба пошукати Юї у селищі. Варто також скористатися нагодою та оглянути все, зібравши трохи інформації."
 
 # game/game/script.rpy:2367
 translate ukrainian town1_2e0621f0:
@@ -29341,7 +29341,14 @@ translate ukrainian strings:
 
     # script.rpy:6438
     # ...
-    # script.rpy:7104
+    # script.rpy:7050
+
+    old "One day later."
+    new "Через день."
+
+    # script.rpy:7056
+    # ...
+    # script.rpy:7410
 
 ### NOT SORTED
 
@@ -29464,9 +29471,6 @@ translate ukrainian strings:
 
     old "Now you can flee from combats."
     new "Now you can flee from combats."
-
-    old "One day later."
-    new "One day later."
 
     old "You approach the girls."
     new "You approach the girls."
