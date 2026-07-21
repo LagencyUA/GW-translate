@@ -999,59 +999,98 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#F5B6F2}Tail and Magic{/color}\"."
     new "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#F5B6F2}Tail and Magic{/color}\"."
 
+translate ukrainian strings:
+    ### Меню stats_showani
+    old "{size=-10}Rank: {size=-4}[rank]"
+    new "{size=-10}Ранг: {size=-4}[rank]"
+
+    old "{size=-10}Lvl: {size=-4}[store.player_stats['level']]"
+    new "{size=-10}Рівень: {size=-4}[store.player_stats['level']]"
+
     # game/day_time.rpy:4057
     old "{size=-15}All"
-    new "{size=-15}All"
+    new "{size=-15}Усе"
 
     # game/day_time.rpy:4064
     old "{size=-22}Useables"
-    new "{size=-22}Useables"
+    new "{size=-23}Розхідн."
 
     # game/day_time.rpy:4071
     old "{size=-18}Fish"
-    new "{size=-18}Fish"
+    new "{size=-18}Риба"
 
     # game/day_time.rpy:4078
     old "{size=-18}Gear"
-    new "{size=-18}Gear"
+    new "{size=-23}Споряд."
 
     # game/day_time.rpy:4085
     old "{size=-18}Loot"
-    new "{size=-18}Loot"
+    new "{size=-22}Здобич"
+
+    old "{size=-10}{size=+5}Skill Tree"
+    new "{size=-10}{size=+5}Дерево навичок"
+
+    old "{size=-10}{size=-8}Points: [store.player_stats['skill_points']]"
+    new "{size=-10}{size=-8}Очків: [store.player_stats['skill_points']]"
+
+    old "{size=-10}{size=-7}STRENGTH"
+    new "{size=-10}{size=-7}СИЛА"
+
+    old "{size=-10}{size=-7}DEFENCE"
+    new "{size=-10}{size=-7}ЗАХИСТ"
+
+    old "{size=-10}{size=-7}VITALITY"
+    new "{size=-10}{size=-7}ЖИТТЄВА СИЛА"
+
+    old "{size=-10}{size=+5}Fishing"
+    new "{size=-10}{size=+5}Рибальство"
+
+    old "{size=-16}Lvl [fishing_level]"
+    new "{size=-16}Рівень [fishing_level]"
+
+    old "{size=-10}{size=-8}Points: [fishing_skill_points]"
+    new "{size=-10}{size=-8}Очків: [fishing_skill_points]"
 
     # game/day_time.rpy:4401
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fishing Mastery{/font}\nYou will tire the fish faster with each {color=#39A761}correct zone{/color} hit."
-    new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fishing Mastery{/font}\nYou will tire the fish faster with each {color=#39A761}correct zone{/color} hit."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Майстерність риболовлі{/b}{/size}{/font}\nЗ кожним влучанням у {color=#39A761}зелену зону{/color} риба швидше втомлюватиметься."
 
     # game/day_time.rpy:4410
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fish Dominance{/font}\nEach point invested will make the fish {color=#39A761}move slower{/color}."
-    new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fish Dominance{/font}\nEach point invested will make the fish {color=#39A761}move slower{/color}."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Домінація над рибами{/b}{/size}{/font}\nКожене вкладене очко змусить рибу {color=#39A761}рухатися повільніше{/color}."
 
     # game/day_time.rpy:4419
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Two For One{/font}\nThere will be a chance to get {color=#39A761}twice{/color} as many fish!\n20% for each point."
-    new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Two For One{/font}\nThere will be a chance to get {color=#39A761}twice{/color} as many fish!\n20% for each point."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Дві за ціною одної{/b}{/size}{/font}\nЗ'являється можливість виловити {color=#39A761}вдвічі{/color} більше риби!\n20% за кожне очко."
+
+    old "{size=-10}{size=+5}Logging"
+    new "{size=-10}{size=+5}Лісозаготівля"
+
+    old "{size=-16}Lvl [harvesting_level]"
+    new "{size=-16}Рівень [harvesting_level]"
+
+    old "{size=-10}{size=-8}Points: [harvesting_skill_points]"
+    new "{size=-10}{size=-8}Очків: [harvesting_skill_points]"
 
     # game/day_time.rpy:4430
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Hands of Steel{/font}\nIncreases the strength of your strikes, dealing {color=#39A761}more damage{/color} to the tree"
-    new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Hands of Steel{/font}\nIncreases the strength of your strikes, dealing {color=#39A761}more damage{/color} to the tree"
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Сталеві руки{/b}{/size}{/font}\nЗбільшує силу твоїх ударів, завдаючи {color=#39A761}більше шкоди{/color} дереву."
 
     # game/day_time.rpy:4439
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Lumberjack Mastery{/font}\nIncreases the {color=#39A761}amount{/color} of wood obtained."
-    new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Lumberjack Mastery{/font}\nIncreases the {color=#39A761}amount{/color} of wood obtained."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Майстерність лісоруба{/b}{/size}{/font}\nЗбільшує {color=#39A761}кількість{/color} отриманої деревини."
 
     # game/day_time.rpy:4448
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Critical Hits{/font}\nYour perfect hits do more {color=#FFD700}critical damage{/color}."
-    new "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Critical Hits{/font}\nYour perfect hits do more {color=#FFD700}critical damage{/color}."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Критичні влучання{/b}{/size}{/font}\nТвої влучні удари завдають більше {color=#FFD700}критичного шкоди{/color}."
 
-translate ukrainian strings:
+    ###
+
     old "{size=-3}Lycoris \nClan"
     new "{size=-3}Lycoris \nClan"
 
     old "skill_points"
     new "skill_points"
-
-    old "{size=-10}{size=-7}STRENGTH"
-    new "{size=-10}{size=-7}STRENGTH"
 
     old "{size=-13}Evening\n Your room"
     new "{size=-13}Evening\n Your room"
@@ -1080,9 +1119,6 @@ translate ukrainian strings:
     old "Consumibles"
     new "Consumibles"
 
-    old "{size=-10}{size=+5}Skill Tree"
-    new "{size=-10}{size=+5}Skill Tree"
-
     old "{size=-13}Night\n Her room"
     new "{size=-13}Night\n Her room"
 
@@ -1100,9 +1136,6 @@ translate ukrainian strings:
 
     old "{size=-13}Morning\n Living-room"
     new "{size=-13}Morning\n Living-room"
-
-    old "{size=-10}{size=-7}VITALITY"
-    new "{size=-10}{size=-7}VITALITY"
 
     old "materiales"
     new "materiales"

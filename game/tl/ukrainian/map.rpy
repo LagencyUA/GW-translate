@@ -3,13 +3,13 @@
 translate ukrainian call_room1_5afcdf51:
 
     # "I should let Ryoko sleep while I go see Yui in the village."
-    "I should let Ryoko sleep while I go see Yui in the village."
+    "Мені слід дати Рьоко поспати, а самому піти до Юї у селище."
 
 # game/game/map.rpy:157
 translate ukrainian pasillo_19d1a239:
 
     # "This house is pretty big but I shouldn't touch anything."
-    "This house is pretty big but I shouldn't touch anything."
+    "Цей будинок доволі великий, але мені не слід нічого чіпати."
 
 # game/game/map.rpy:645
 translate ukrainian gate_outside_5ffbe72e:
