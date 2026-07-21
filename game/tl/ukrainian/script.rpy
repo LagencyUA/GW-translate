@@ -5967,7 +5967,7 @@ translate ukrainian keiko_gal1_2b35b6fe:
 translate ukrainian keiko_gal1_c33b515c:
 
     # mc "Err..."
-    mc "Егг..."
+    mc "Емм..."
 
 # game/game/script.rpy:1919
 translate ukrainian keiko_gal1_8f75747a:
@@ -6039,37 +6039,37 @@ translate ukrainian keiko_gal1_b9dbfbc1:
 translate ukrainian keiko_gal1_d3f4c1ae:
 
     # t "I don't think I can hold back much longer... {w}I'm at my limit."
-    t "I don't think I can hold back much longer... {w}I'm at my limit."
+    t "Не думаю, що зможу ще протриматися... {w}Я вже на межі."
 
 # game/game/script.rpy:1937
 translate ukrainian keiko_gal1_9c5fe85a:
 
     # k "{size=-9}Ara~{image=corazon}{image=corazon}"
-    k "{size=-9}Ara~{image=corazon}{image=corazon}"
+    k "{size=-9}Йой~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1938
 translate ukrainian keiko_gal1_83c7a85b:
 
     # t "Shit, I hope she's not mad..."
-    t "Shit, I hope she's not mad..."
+    t "Бляха, сподіваюся, вона не злиться..."
 
 # game/game/script.rpy:1939
 translate ukrainian keiko_gal1_3efd2eb9:
 
     # t "No matter how much she teases me... {w}she's still a goddess!"
-    t "No matter how much she teases me... {w}she's still a goddess!"
+    t "Байдуже скільки вона гратиметься зі мною... {w}вона досі залишається богинею!"
 
 # game/game/script.rpy:1941
 translate ukrainian keiko_gal1_efa3e671:
 
     # t "Her body is so soft... why hasn't she moved yet...? {w}Maybe I should act like nothing happened..."
-    t "Her body is so soft... why hasn't she moved yet...? {w}Maybe I should act like nothing happened..."
+    t "Її тіло таке ніжне... Чому вона досі не ворухнулася...? {w}Мабуть, мені варто вдати, ніби нічого не трапилося..."
 
 # game/game/script.rpy:1942
 translate ukrainian keiko_gal1_b6f568d9:
 
     # mc "K-Keiko, {w}w-was it you who spoke to me before I passed out?"
-    mc "K-Keiko, {w}w-was it you who spoke to me before I passed out?"
+    mc "К-Кейко, {w}ц-це ти зі мною говорила перед тим, як я вирубився?"
 
 # game/game/script.rpy:1943
 translate ukrainian keiko_gal1_82091822:
@@ -6081,277 +6081,277 @@ translate ukrainian keiko_gal1_82091822:
 translate ukrainian keiko_gal1_a83455f7:
 
     # mc "Keiko...?"
-    mc "Keiko...?"
+    mc "Кейко...?"
 
 # game/game/script.rpy:1945
 translate ukrainian keiko_gal1_c89e8745:
 
     # t "Did I mess up...? Did I offend her?"
-    t "Did I mess up...? Did I offend her?"
+    t "Я напартачив...? Невже я її образив?"
 
 # game/game/script.rpy:1946
 translate ukrainian keiko_gal1_ece52b0b:
 
     # mc "Sorry... I tried to hold it back, but-"
-    mc "Sorry... I tried to hold it back, but-"
+    mc "Пробач... Я намагався стримуватися, але-"
 
 # game/game/script.rpy:1948
 translate ukrainian keiko_gal1_a4452825:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Hng...!?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Hng...!?"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Хмг...!?"
 
 # game/game/script.rpy:1949
 translate ukrainian keiko_gal1_d634c7bd:
 
     # t "She just sat on me...!"
-    t "She just sat on me...!"
+    t "Вона щойно сіла зверху...!"
 
 # game/game/script.rpy:1950
 translate ukrainian keiko_gal1_c2b9828c:
 
     # t "T-This has gone beyond teasing...!"
-    t "T-This has gone beyond teasing...!"
+    t "Ц-Це вже вийшло за межі ігор...!"
 
 # game/game/script.rpy:1952
 translate ukrainian keiko_gal1_367fa2e6:
 
     # k "You know, [mc]... love between goddesses and mortals is forbidden..."
-    k "You know, [mc]... love between goddesses and mortals is forbidden..."
+    k "Знаєш, [mc]... кохання між богинею та смертним під забороною..."
 
 # game/game/script.rpy:1953
 translate ukrainian keiko_gal1_513464dd:
 
     # k "But... {w}only if the other goddesses find out~"
-    k "But... {w}only if the other goddesses find out~"
+    k "Але... {w}тільки якщо інші богині про це дізнаються~"
 
 # game/game/script.rpy:1954
 translate ukrainian keiko_gal1_02651a0b:
 
     # mc "Aah... Uhm.."
-    mc "Aah... Uhm.."
+    mc "Аах... Угм.."
 
 # game/game/script.rpy:1955
 translate ukrainian keiko_gal1_9c54bad5:
 
     # k "What's wrong? {w}Is there something else you wanted to talk about?"
-    k "What's wrong? {w}Is there something else you wanted to talk about?"
+    k "Що таке? {w}Можливо, ти хотів ще про щось поговорити?"
 
 # game/game/script.rpy:1956
 translate ukrainian keiko_gal1_c14c584c:
 
     # mc "Well..."
-    mc "Well..."
+    mc "Ну..."
 
 # game/game/script.rpy:1957
 translate ukrainian keiko_gal1_76d72f1e:
 
     # mc "Y-You really like breaking the rules, don't you...?"
-    mc "Y-You really like breaking the rules, don't you...?"
+    mc "Б-Бачу, ти не любителька слідувати правилам, так...?"
 
 # game/game/script.rpy:1968
 translate ukrainian keiko_gal1_b100695e:
 
     # mc "K-Keiko...!"
-    mc "K-Keiko...!"
+    mc "К-Кейко...!"
 
 # game/game/script.rpy:1969
 translate ukrainian keiko_gal1_3e691387:
 
     # k "Mmm~{image=corazon} What was it you were saying before~?"
-    k "Mmm~{image=corazon} What was it you were saying before~?"
+    k "Ммм~{image=corazon} Про що ти там щойно казав~?"
 
 # game/game/script.rpy:1970
 translate ukrainian keiko_gal1_fc29271b:
 
     # mc "I think... {w}I forgot..."
-    mc "I think... {w}I forgot..."
+    mc "Гадаю... {w}я забув..."
 
 # game/game/script.rpy:1971
 translate ukrainian keiko_gal1_3b9fa451:
 
     # k "Hmm... {w}O-Oh, okay~{image=corazon}{image=corazon}"
-    k "Hmm... {w}O-Oh, okay~{image=corazon}{image=corazon}"
+    k "Гмм... {w}О-Ох, от і добре~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1972
 translate ukrainian keiko_gal1_bbbdb4b5:
 
     # t "I can no longer order my thoughts..."
-    t "I can no longer order my thoughts..."
+    t "Я вже не можу зібрати до купи думок..."
 
 # game/game/script.rpy:1973
 translate ukrainian keiko_gal1_4b55b085:
 
     # t "Keiko's gentle movement is driving me crazy..."
-    t "Keiko's gentle movement is driving me crazy..."
+    t "Ніжні рухи Кейко просто зводять мене з розуму..."
 
 # game/game/script.rpy:1974
 translate ukrainian keiko_gal1_34d3ade4:
 
     # t "I have never felt this way before."
-    t "I have never felt this way before."
+    t "Ніколи так не почувався до цього."
 
 # game/game/script.rpy:1975
 translate ukrainian keiko_gal1_cd5034e8:
 
     # k "Ufufu~ {w}You can't even move... how cute~{image=corazon}{image=corazon}"
-    k "Ufufu~ {w}You can't even move... how cute~{image=corazon}{image=corazon}"
+    k "Ухуху~ {w}Ти навіть зрушити не можеш... як мило~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1976
 translate ukrainian keiko_gal1_186d39ca:
 
     # k "Hmn~{image=corazon} {w}Nnmn~{image=corazon}{image=corazon} {w}Come on, you can do it~{image=corazon}"
-    k "Hmn~{image=corazon} {w}Nnmn~{image=corazon}{image=corazon} {w}Come on, you can do it~{image=corazon}"
+    k "Гнм~{image=corazon} {w}Ммнм~{image=corazon}{image=corazon} {w}Нужбо, не стримуйся~{image=corazon}"
 
 # game/game/script.rpy:1977
 translate ukrainian keiko_gal1_2f37a681:
 
     # t "Is this really h-happening? {w}I-I'm not dreaming?"
-    t "Is this really h-happening? {w}I-I'm not dreaming?"
+    t "Це справді в-відбувається? {w}Я-Я не сплю?"
 
 # game/game/script.rpy:1978
 translate ukrainian keiko_gal1_0000d7b4:
 
     # mc "W-Wait..."
-    mc "W-Wait..."
+    mc "Л-Легше..."
 
 # game/game/script.rpy:1979
 translate ukrainian keiko_gal1_8f5967a2:
 
     # mc "{size=-6}I-I'm going to-"
-    mc "{size=-6}I-I'm going to-"
+    mc "{size=-6}Я-Я зараз-"
 
 # game/game/script.rpy:1990
 translate ukrainian keiko_gal1_16bc3a76:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Hgm...!?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Hgm...!?"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Хгм...!?"
 
 # game/game/script.rpy:1991
 translate ukrainian keiko_gal1_611b95d8:
 
     # k "W-Why did you suddenly stop t-talking [mc]?"
-    k "W-Why did you suddenly stop t-talking [mc]?"
+    k "Ч-Чому це ти раптом замовк, [mc]?"
 
 # game/game/script.rpy:1992
 translate ukrainian keiko_gal1_e045a2c4:
 
     # mc "{size=-6}This feels so good Keiko..."
-    mc "{size=-6}This feels so good Keiko..."
+    mc "{size=-6}Це дуже приємно, Кейко..."
 
 # game/game/script.rpy:1993
 translate ukrainian keiko_gal1_dbf85238:
 
     # k "Mmm... what... {w}do you mean, {w}we're having a conversation, r-right?"
-    k "Mmm... what... {w}do you mean, {w}we're having a conversation, r-right?"
+    k "Ммм... Про що... {w}це ти, {w}ми ж просто спілкуємося, т-так?"
 
 # game/game/script.rpy:1994
 translate ukrainian keiko_gal1_d21f9565:
 
     # k "But just to clarify, {w}I haven't spoken to you since the last time we met... {w}mmm...~{image=corazon}{image=corazon}"
-    k "But just to clarify, {w}I haven't spoken to you since the last time we met... {w}mmm...~{image=corazon}{image=corazon}"
+    k "Але, щоб уточнити, {w}я з тобою більше не говорила з моменту нашої останньої зустрічі... {w}ммм...~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1995
 translate ukrainian keiko_gal1_676479e4:
 
     # t "S-She heard me..."
-    t "S-She heard me..."
+    t "Т-То вона мене чула..."
 
 # game/game/script.rpy:1996
 translate ukrainian keiko_gal1_3f2df9e5:
 
     # t "I think I had the wrong idea of what conversations are supposed to be like."
-    t "I think I had the wrong idea of what conversations are supposed to be like."
+    t "Мені здається, я неправильно собі уявляв, якими мають бути розмови."
 
 # game/game/script.rpy:1997
 translate ukrainian keiko_gal1_381e64c8:
 
     # t "But I think this is the best one I've ever had..."
-    t "But I think this is the best one I've ever had..."
+    t "Однак, гадаю, це найкраща яку я мав у житті..."
 
 # game/game/script.rpy:1998
 translate ukrainian keiko_gal1_05e9edf5:
 
     # k "{size=-7}Ahh~{image=corazon} {w}Aamnh~{image=corazon}{image=corazon}"
-    k "{size=-7}Ahh~{image=corazon} {w}Aamnh~{image=corazon}{image=corazon}"
+    k "{size=-7}Ахх~{image=corazon} {w}Ааммх~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1999
 translate ukrainian keiko_gal1_e3381972:
 
     # t "Her sweet moans delight my ears..."
-    t "Her sweet moans delight my ears..."
+    t "Її солодкі стогони — наче музика для вух..."
 
 # game/game/script.rpy:2004
 translate ukrainian keiko_gal1_8e8d58ba:
 
     # mc "E-Eeh?"
-    mc "E-Eeh?"
+    mc "Е-Еех?"
 
 # game/game/script.rpy:2005
 translate ukrainian keiko_gal1_17e198f1:
 
     # k "Don't worry, {w}just enjoy this warm conversation."
-    k "Don't worry, {w}just enjoy this warm conversation."
+    k "Не хвилюйся, {w}просто насолоджуйся цією приємною розмовою."
 
 # game/game/script.rpy:2016
 translate ukrainian keiko_gal1_596a7d94:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghn!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghn!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Гхм!"
 
 # game/game/script.rpy:2017
 translate ukrainian keiko_gal1_ebd3683c:
 
     # k "Ah~{image=corazon} {w}H-How much bigger can you get?~{image=corazon}"
-    k "Ah~{image=corazon} {w}H-How much bigger can you get?~{image=corazon}"
+    k "Ах~{image=corazon} {w}Н-Наскільки ж більшим ти ще можеш стати?~{image=corazon}"
 
 # game/game/script.rpy:2018
 translate ukrainian keiko_gal1_1f1037b4:
 
     # t "I can see how she rubs her soft pussy against me..."
-    t "I can see how she rubs her soft pussy against me..."
+    t "Я можу бачити, як її м'яка кицька треться об мене..."
 
 # game/game/script.rpy:2019
 translate ukrainian keiko_gal1_aa0cd6d7:
 
     # mc "T-This... {w}my mind is not working well anymore..."
-    mc "T-This... {w}my mind is not working well anymore..."
+    mc "Ц-Це... {w}я більше не здатний мислити..."
 
 # game/game/script.rpy:2020
 translate ukrainian keiko_gal1_fc800b45:
 
     # k "Mmm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}{image=corazon}{image=corazon}"
-    k "Mmm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}{image=corazon}{image=corazon}"
+    k "Ммм~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2021
 translate ukrainian keiko_gal1_a431bc84:
 
     # k "You don't need to think right now, {w}just let your Goddess take care of your tired body~{image=corazon}"
-    k "You don't need to think right now, {w}just let your Goddess take care of your tired body~{image=corazon}"
+    k "Тобі й не треба зараз ні про що думати, {w}просто дозволь твоїй богині подбати про твоє стомлене тіло~{image=corazon}"
 
 # game/game/script.rpy:2023
 translate ukrainian keiko_gal1_3b659fd0:
 
     # mc "I c-can't hold on anymore..."
-    mc "I c-can't hold on anymore..."
+    mc "Я б-більше не можу стримуватися..."
 
 # game/game/script.rpy:2024
 translate ukrainian keiko_gal1_91fa9332:
 
     # mc "I think... I'm reaching the limit of this... {w}conversation..."
-    mc "I think... I'm reaching the limit of this... {w}conversation..."
+    mc "Гадаю... я вже на межі... {w}нашої розмови..."
 
 # game/game/script.rpy:2025
 translate ukrainian keiko_gal1_674b57ae:
 
     # k "Aah~{image=corazon}{image=corazon} {w}M-Me too...{image=corazon}{image=corazon}"
-    k "Aah~{image=corazon}{image=corazon} {w}M-Me too...{image=corazon}{image=corazon}"
+    k "Аах~{image=corazon}{image=corazon} {w}Я-Я теж...{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2026
 translate ukrainian keiko_gal1_8ae1622a:
 
     # k "We'd better get this over with before we run out of time~"
-    k "We'd better get this over with before we run out of time~"
+    k "Нам краще поквапитися, поки не скінчився час~"
 
 # game/game/script.rpy:2036
 translate ukrainian keiko_gal1_1d82a7e7:
@@ -6363,73 +6363,73 @@ translate ukrainian keiko_gal1_1d82a7e7:
 translate ukrainian keiko_gal1_e8dcd854:
 
     # t "Having Keiko on top of me trying to make me cum...."
-    t "Having Keiko on top of me trying to make me cum...."
+    t "Кейко прямо на мені, робить усе, аби я кінчив..."
 
 # game/game/script.rpy:2038
 translate ukrainian keiko_gal1_da2d61af:
 
     # t "I wouldn't think a Goddess would be the first person to do that."
-    t "I wouldn't think a Goddess would be the first person to do that."
+    t "Ніколи б не подумав, що мій перший раз буде аж з богинею."
 
 # game/game/script.rpy:2039
 translate ukrainian keiko_gal1_16288c6a:
 
     # t "But there she is, looking at me with those playful eyes."
-    t "But there she is, looking at me with those playful eyes."
+    t "Але ось вона, дивиться на мене своїми грайливими очима."
 
 # game/game/script.rpy:2040
 translate ukrainian keiko_gal1_8cab7fc5:
 
     # k "{size=-8}Aah~{image=corazon} {w}Hnmh~{image=corazon} {w}Ghnh~{image=corazon}"
-    k "{size=-8}Aah~{image=corazon} {w}Hnmh~{image=corazon} {w}Ghnh~{image=corazon}"
+    k "{size=-8}Аах~{image=corazon} {w}Гммх~{image=corazon} {w}Гмхм~{image=corazon}"
 
 # game/game/script.rpy:2041
 translate ukrainian keiko_gal1_77239f0f:
 
     # t "W-Waiting for the moment when I..."
-    t "W-Waiting for the moment when I..."
+    t "Ч-Чекаючи момента, коли я..."
 
 # game/game/script.rpy:2043
 translate ukrainian keiko_gal1_104844a9:
 
     # mc "{sc=1}{outlinecolor=#000000}K-Keiko!"
-    mc "{sc=1}{outlinecolor=#000000}K-Keiko!"
+    mc "{sc=1}{outlinecolor=#000000}К-Кейко!"
 
 # game/game/script.rpy:2057
 translate ukrainian keiko_gal1_04836d49:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Gnhgmhgn~{image=corazon}{image=corazon}{image=corazon}"
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Gnhgmhgn~{image=corazon}{image=corazon}{image=corazon}"
+    k "{sc=1}{outlinecolor=#000000}{size=-8}Гнхгмхґн~{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2065
 translate ukrainian keiko_gal1_31bdadf4:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Gnhg!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Gnhg!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ґмхг!"
 
 # game/game/script.rpy:2067
 translate ukrainian keiko_gal1_f7dfda59:
 
     # k "{size=-6}Ufufu~{image=corazon} {w}Look at how much came~{image=corazon}"
-    k "{size=-6}Ufufu~{image=corazon} {w}Look at how much came~{image=corazon}"
+    k "{size=-6}Ухуху~{image=corazon} {w}Поглянь, як багато з тебе вийшло~{image=corazon}"
 
 # game/game/script.rpy:2068
 translate ukrainian keiko_gal1_e2d909ad:
 
     # mc "{size=-6}It felt amazing, Keiko..."
-    mc "{size=-6}It felt amazing, Keiko..."
+    mc "{size=-6}Це було неймовірно, Кейко..."
 
 # game/game/script.rpy:2069
 translate ukrainian keiko_gal1_f6ac9e18:
 
     # k "{size=-6}It looks like we'll have to wash again..."
-    k "{size=-6}It looks like we'll have to wash again..."
+    k "{size=-6}Здається, нам знову доведеться митися..."
 
 # game/game/script.rpy:2070
 translate ukrainian keiko_gal1_043978eb:
 
     # mc "{size=-6}Y-Yeah... {w}that's a good idea."
-    mc "{size=-6}Y-Yeah... {w}that's a good idea."
+    mc "{size=-6}Т-Так... {w}гарна ідея."
 
 # game/game/script.rpy:2091
 translate ukrainian keiko_gal1_2b35b6fe_1:
@@ -6441,13 +6441,13 @@ translate ukrainian keiko_gal1_2b35b6fe_1:
 translate ukrainian keiko_gal1_aa8b517e:
 
     # t "I don't know how to talk to her after what we just did..."
-    t "I don't know how to talk to her after what we just did..."
+    t "Не знаю, як з нею розмовляти після того, що ми щойно зробили..."
 
 # game/game/script.rpy:2093
 translate ukrainian keiko_gal1_f6ab7002:
 
     # t "I need to think of something to avoid making things awkward."
-    t "I need to think of something to avoid making things awkward."
+    t "Треба щось вигадати, щоб уникнути незручної паузи."
 
 # game/game/script.rpy:2094
 translate ukrainian keiko_gal1_1bb01731:
@@ -6459,103 +6459,103 @@ translate ukrainian keiko_gal1_1bb01731:
 translate ukrainian keiko_gal1_c7a074f9:
 
     # t "Oh!"
-    t "Oh!"
+    t "О!"
 
 # game/game/script.rpy:2096
 translate ukrainian keiko_gal1_4f0673c0:
 
     # mc "Hey, Keiko... what about your wings?"
-    mc "Hey, Keiko... what about your wings?"
+    mc "Слухай, Кейко... а де твої крила?"
 
 # game/game/script.rpy:2098
 translate ukrainian keiko_gal1_a854dca0:
 
     # k "Ah~ {w}I can hide them whenever I want, {w}so they don't get in the way during a bath."
-    k "Ah~ {w}I can hide them whenever I want, {w}so they don't get in the way during a bath."
+    k "Ах~ {w}я можу їх ховати, коли захочу, {w}наприклад, щоб вони не заважали, коли я миюся."
 
 # game/game/script.rpy:2099
 translate ukrainian keiko_gal1_ce5286a2:
 
     # mc "I see... {w}so you have more freedom to do... {w}things..."
-    mc "I see... {w}so you have more freedom to do... {w}things..."
+    mc "Ясно... {w}Отже в тебе достатньо свободи, щоб робити... {w}різне..."
 
 # game/game/script.rpy:2101
 translate ukrainian keiko_gal1_2ab9bb68:
 
     # k "Hmm~{image=corazon} {w}And what exactly do you mean by that...?"
-    k "Hmm~{image=corazon} {w}And what exactly do you mean by that...?"
+    k "Гмм~{image=corazon} {w}І що саме ти хочеш цим сказати...?"
 
 # game/game/script.rpy:2102
 translate ukrainian keiko_gal1_1fdffebe:
 
     # mc "Well... {w}{size=-6}Err..."
-    mc "Well... {w}{size=-6}Err..."
+    mc "Ну... {w}{size=-6}Емм..."
 
 # game/game/script.rpy:2103
 translate ukrainian keiko_gal1_b1033445:
 
     # mc "Y-You know..."
-    mc "Y-You know..."
+    mc "З-Знаєш..."
 
 # game/game/script.rpy:2108
 translate ukrainian keiko_gal1_a6a3ebf3:
 
     # k "Hahaha~ {w}You're so silly~{image=corazon}{image=corazon}"
-    k "Hahaha~ {w}You're so silly~{image=corazon}{image=corazon}"
+    k "Хахаха~ {w}Ти такий кумедний~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2109
 translate ukrainian keiko_gal1_8def3de2:
 
     # t "Well... {w}at least the atmosphere lightened up."
-    t "Well... {w}at least the atmosphere lightened up."
+    t "Ну... {w}принаймні атмосфера трохи розрядилася."
 
 # game/game/script.rpy:2110
 translate ukrainian keiko_gal1_c0279291:
 
     # mc "We need to talk about something important."
-    mc "We need to talk about something important."
+    mc "Нам треба поговорити про дещо важливе."
 
 # game/game/script.rpy:2111
 translate ukrainian keiko_gal1_bf323b67:
 
     # k "Then speak quickly."
-    k "Then speak quickly."
+    k "Тоді не тягни."
 
 # game/game/script.rpy:2113
 translate ukrainian keiko_gal1_2f55a6bb:
 
     # k "Keeping your consciousness here while your body is so weak is dangerous. You need to wake up soon."
-    k "Keeping your consciousness here while your body is so weak is dangerous. You need to wake up soon."
+    k "Небезпечно тримати твою свідомість тут, поки твоє тіло так ослабло. Скоро ти маєш прокинутися."
 
 # game/game/script.rpy:2114
 translate ukrainian keiko_gal1_7e5d33ff:
 
     # k "You'll have to endure the pain of your wounds, but that is the price you must pay after such a battle."
-    k "You'll have to endure the pain of your wounds, but that is the price you must pay after such a battle."
+    k "Тобі доведеться терпіти біль від ран, але це та ціна, яку ти мусиш заплатити після такої битви."
 
 # game/game/script.rpy:2115
 translate ukrainian keiko_gal1_de90047c:
 
     # mc "I almost forgot that I'm wounded..."
-    mc "I almost forgot that I'm wounded..."
+    mc "Я майже забув, що мене погризли..."
 
 # game/game/script.rpy:2116
 translate ukrainian keiko_gal1_b7579e64:
 
     # mc "{size=-6}Well, at least I'm not dead..."
-    mc "{size=-6}Well, at least I'm not dead..."
+    mc "{size=-6}Ну, принаймні я ще живий..."
 
 # game/game/script.rpy:2118
 translate ukrainian keiko_gal1_cbf166d4:
 
     # k "That's the \"spirit\"~{image=corazon}"
-    k "That's the \"spirit\"~{image=corazon}"
+    k "Оце так бойовий «дух»~{image=corazon}" # прим.: каламбур на те, що тут тільки його душа зараз
 
 # game/game/script.rpy:2119
 translate ukrainian keiko_gal1_1dd151a5:
 
     # mc "{size=-6}So{/size}... {w}remember how no other goddess was supposed to know about me and my memories?"
-    mc "{size=-6}So{/size}... {w}remember how no other goddess was supposed to know about me and my memories?"
+    mc "{size=-6}Ще{/size}... {w}пам'ятаєш про те, що ні яка богиня більше не повинна знати про мене і мої спогади?"
 
 # game/game/script.rpy:2122
 translate ukrainian keiko_gal1_82091822_1:
@@ -6567,25 +6567,25 @@ translate ukrainian keiko_gal1_82091822_1:
 translate ukrainian keiko_gal1_95109ca5:
 
     # k "{b}Hmm...?"
-    k "{b}Hmm...?"
+    k "{b}Гмм...?"
 
 # game/game/script.rpy:2125
 translate ukrainian keiko_gal1_6a3c430c:
 
     # t "Shit."
-    t "Shit."
+    t "Трясця."
 
 # game/game/script.rpy:2126
 translate ukrainian keiko_gal1_6d220ff0:
 
     # mc "Err... {w}When you sent me into the world..."
-    mc "Err... {w}When you sent me into the world..."
+    mc "Емм... {w}Коли ти відправила мене у новий світ..."
 
 # game/game/script.rpy:2127
 translate ukrainian keiko_gal1_0ef53410:
 
     # mc "{size=-6}A goddess..."
-    mc "{size=-6}A goddess..."
+    mc "{size=-6}Певна богиня..."
 
 # game/game/script.rpy:2128
 translate ukrainian keiko_gal1_2b35b6fe_2:
@@ -6597,7 +6597,7 @@ translate ukrainian keiko_gal1_2b35b6fe_2:
 translate ukrainian keiko_gal1_77637a12:
 
     # mc "{size=-8}I was stopped by a goddess named Fumiko!"
-    mc "{size=-8}I was stopped by a goddess named Fumiko!"
+    mc "{size=-8}Мене спіймала богиня, на ім'я Фуміко!"
 
 # game/game/script.rpy:2131
 translate ukrainian keiko_gal1_82091822_2:
@@ -6609,13 +6609,13 @@ translate ukrainian keiko_gal1_82091822_2:
 translate ukrainian keiko_gal1_0d0d9c62:
 
     # mc "I tried not to let anything slip, but she was really smart!"
-    mc "I tried not to let anything slip, but she was really smart!"
+    mc "Я намагався нічого не виказати, але вона досить розумна!"
 
 # game/game/script.rpy:2133
 translate ukrainian keiko_gal1_14ddfe09:
 
     # t "{size=-6}Or at least I tried..."
-    t "{size=-6}Or at least I tried..."
+    t "{size=-6}Принаймні, я хочу у це вірити..."
 
 # game/game/script.rpy:2134
 translate ukrainian keiko_gal1_757c9836:
@@ -6633,13 +6633,13 @@ translate ukrainian keiko_gal1_fb0b2ccf:
 translate ukrainian keiko_gal1_acf08a6c:
 
     # mc "{size=-6}Uhm-"
-    mc "{size=-6}Uhm-"
+    mc "{size=-6}Ухм-"
 
 # game/game/script.rpy:2141
 translate ukrainian keiko_gal1_06e75701:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-6}Pff-"
-    k "{sc=1}{outlinecolor=#000000}{size=-6}Pff-"
+    k "{sc=1}{outlinecolor=#000000}{size=-6}Пфф-"
 
 # game/game/script.rpy:2142
 translate ukrainian keiko_gal1_652650d3:
@@ -6651,109 +6651,109 @@ translate ukrainian keiko_gal1_652650d3:
 translate ukrainian keiko_gal1_c18eb93b:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Ahahaha~"
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Ahahaha~"
+    k "{sc=1}{outlinecolor=#000000}{size=-8}Ахахаха~"
 
 # game/game/script.rpy:2145
 translate ukrainian keiko_gal1_d07314d8:
 
     # k "That girl... {w}her curiosity always gets the best of her."
-    k "That girl... {w}her curiosity always gets the best of her."
+    k "Та дівчина... {w}її цікавість завжди бере над нею верх."
 
 # game/game/script.rpy:2146
 translate ukrainian keiko_gal1_42b3c52f:
 
     # mc "{size=-6}Eh...?"
-    mc "{size=-6}Eh...?"
+    mc "{size=-6}Ех...?"
 
 # game/game/script.rpy:2147
 translate ukrainian keiko_gal1_3536f256:
 
     # mc "You're not mad?"
-    mc "You're not mad?"
+    mc "Ти не сердишся?"
 
 # game/game/script.rpy:2149
 translate ukrainian keiko_gal1_6eded538:
 
     # k "If it had been any other goddess, {w}maybe."
-    k "If it had been any other goddess, {w}maybe."
+    k "Якби це була будь-яка інша богиня, {w}можливо."
 
 # game/game/script.rpy:2150
 translate ukrainian keiko_gal1_1f4a0ce8:
 
     # k "But Fumiko isn't the type to cause problems."
-    k "But Fumiko isn't the type to cause problems."
+    k "Але Фуміко — не з тих, хто створює проблеми."
 
 # game/game/script.rpy:2151
 translate ukrainian keiko_gal1_b3783a99:
 
     # k "{size=-6}Besides..."
-    k "{size=-6}Besides..."
+    k "{size=-6}Крім того..."
 
 # game/game/script.rpy:2153
 translate ukrainian keiko_gal1_b8242b96:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Ahem..."
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Ahem..."
+    k "{sc=1}{outlinecolor=#000000}{size=-8}Ахем..."
 
 # game/game/script.rpy:2154
 translate ukrainian keiko_gal1_0044da3e:
 
     # k "Well, what did she tell you?"
-    k "Well, what did she tell you?"
+    k "Ну, і що вона тобі сказала?"
 
 # game/game/script.rpy:2155
 translate ukrainian keiko_gal1_78fcb543:
 
     # t "So she does know her..."
-    t "So she does know her..."
+    t "То вони знайомі..."
 
 # game/game/script.rpy:2156
 translate ukrainian keiko_gal1_a8699d8f:
 
     # mc "She made me an offer"
-    mc "She made me an offer"
+    mc "Вона запропонувала мені угоду."
 
 # game/game/script.rpy:2158
 translate ukrainian keiko_gal1_619ae082:
 
     # k "An offer? What kind of offer?"
-    k "An offer? What kind of offer?"
+    k "Угоду? Яку це угоду?"
 
 # game/game/script.rpy:2159
 translate ukrainian keiko_gal1_3427a477:
 
     # mc "To protect {size=-6}someone."
-    mc "To protect {size=-6}someone."
+    mc "Захистити {size=-6}декого."
 
 # game/game/script.rpy:2160
 translate ukrainian keiko_gal1_bd4a82df:
 
     # mc "{i}{size=-8}In exchange, she promised {size=-8}not to say anything about me."
-    mc "{i}{size=-8}In exchange, she promised {size=-8}not to say anything about me."
+    mc "{i}{size=-6}Натомість вона пообіцяла {size=-6}нічого не розповідати про мене."
 
 # game/game/script.rpy:2161
 translate ukrainian keiko_gal1_df387649:
 
     # k "{size=-6}Maybe it's-{w=0.5}{nw}"
-    k "{size=-6}Maybe it's-{w=0.5}{nw}"
+    k "{size=-6}Можливо це-{w=0.5}{nw}"
 
 # game/game/script.rpy:2165
 translate ukrainian keiko_gal1_f9e43a4b:
 
     # t "{size=-6}My head... {w}I feel sleepy..."
-    t "{size=-6}My head... {w}I feel sleepy..."
+    t "{size=-6}Моя голова... {w}Щось спати закортіло..."
 
 # game/game/script.rpy:2166
 translate ukrainian keiko_gal1_979dd13f:
 
     # k "{size=-6}So that's why she was watching the souls entering that world..."
-    k "{size=-6}So that's why she was watching the souls entering that world..."
+    k "{size=-6}Ось чому вона спостерігала, як душі входили в той світ..."
 
 # game/game/script.rpy:2167
 translate ukrainian keiko_gal1_99f12b87:
 
     # k "{size=-6}{i}Sigh~{/size}{/i} {w}she's still worried about her..."
-    k "{size=-6}{i}Sigh~{/size}{/i} {w}she's still worried about her..."
+    k "{size=-6}{i}Хаах~{/size}{/i} {w}вона досі хвилюється через неї..."
 
 # game/game/script.rpy:2168
 translate ukrainian keiko_gal1_82091822_3:
@@ -6765,85 +6765,85 @@ translate ukrainian keiko_gal1_82091822_3:
 translate ukrainian keiko_gal1_c942fbe9:
 
     # k "Looks like you need to go now..."
-    k "Looks like you need to go now..."
+    k "Видно, тобі вже пора йти..."
 
 # game/game/script.rpy:2171
 translate ukrainian keiko_gal1_ac9a2ed7:
 
     # mc "{size=-6}Yeah... {w}I can feel it too..."
-    mc "{size=-6}Yeah... {w}I can feel it too..."
+    mc "{size=-6}Так... {w}Мені теж так здається..."
 
 # game/game/script.rpy:2173
 translate ukrainian keiko_gal1_3998cbd5:
 
     # k "You have a strong body, even if I gave you a little help during your recovery~"
-    k "You have a strong body, even if I gave you a little help during your recovery~"
+    k "У тебе міцне тіло, не зважаючи навіть на мою невеличку допомогу під час твого одужання~"
 
 # game/game/script.rpy:2174
 translate ukrainian keiko_gal1_6feb2ee5:
 
     # mc "{size=-10}W-What do you mean...?"
-    mc "{size=-10}W-What do you mean...?"
+    mc "{size=-10}П-Про що це ти...?"
 
 # game/game/script.rpy:2175
 translate ukrainian keiko_gal1_431777ef:
 
     # k "What we did in the water just now wasn't only for... {w}fun~{image=corazon}"
-    k "What we did in the water just now wasn't only for... {w}fun~{image=corazon}"
+    k "Те, чим ми займалися там, у воді, не було лише задля... {w}веселощів~{image=corazon}"
 
 # game/game/script.rpy:2177
 translate ukrainian keiko_gal1_c8501fbf:
 
     # k "{size=-6}Though I admit... I got a little carried away~"
-    k "{size=-6}Though I admit... I got a little carried away~"
+    k "{size=-6}Хоча, мушу визнати... Я трішки захопилася~"
 
 # game/game/script.rpy:2178
 translate ukrainian keiko_gal1_f2f4436a:
 
     # k "Let's just say it was my reward {w}for the entertainment you've been giving me-"
-    k "Let's just say it was my reward {w}for the entertainment you've been giving me-"
+    k "Скажімо так, це була моя нагорода {w}за те, як добре ти мене розважав-"
 
 # game/game/script.rpy:2185
 translate ukrainian keiko_gal1_b56fd501:
 
     # k "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few — we---..."
-    k "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few — we---..."
+    k "{size=-8}Якби я не... т- б лежав без тями щ- кілька... тиж---..."
 
 # game/game/script.rpy:2186
 translate ukrainian keiko_gal1_6752d29f:
 
     # mc "{size=-10}What...? {w}Did you say something...?"
-    mc "{size=-10}What...? {w}Did you say something...?"
+    mc "{size=-8}Що...? {w}Ти щось сказала...?"
 
 # game/game/script.rpy:2187
 translate ukrainian keiko_gal1_cff0da2d:
 
     # k "{size=-13}Not---ng, I'll expla-- it to you another t---."
-    k "{size=-13}Not---ng, I'll expla-- it to you another t---."
+    k "{size=-11}Ні--го, пояс-- тобі іншим раз--."
 
 # game/game/script.rpy:2188
 translate ukrainian keiko_gal1_9443b6d1:
 
     # k "{size=-11}Now you must return and rest—body and soul."
-    k "{size=-11}Now you must return and rest—body and soul."
+    k "{size=-9}Тепер тобі час повернутися і відпочити...душею та тілом."
 
 # game/game/script.rpy:2190
 translate ukrainian keiko_gal1_b505c216:
 
     # t "{size=-6}Keiko's voice is fading... more and more..."
-    t "{size=-6}Keiko's voice is fading... more and more..."
+    t "{size=-6}Голос Кейко стихає... все більше й більше..."
 
 # game/game/script.rpy:2191
 translate ukrainian keiko_gal1_119f7ce0:
 
     # k "{size=-9}We'll m--- again [mc]. I also need t- talk to Fum--."
-    k "{size=-9}We'll m--- again [mc]. I also need t- talk to Fum--."
+    k "{size=-9}Ще зуст----мось, [mc]. Я також муш- поговорити з Фум---."
 
 # game/game/script.rpy:2192
 translate ukrainian keiko_gal1_4a288ed3:
 
     # k "{size=-9}Bye Bye handsome... {w}{sc=1}{outlinecolor=#000000}{size=-8}Chu~{image=corazon}{image=corazon}"
-    k "{size=-9}Bye Bye handsome... {w}{sc=1}{outlinecolor=#000000}{size=-8}Chu~{image=corazon}{image=corazon}"
+    k "{size=-9}Бувай, красеню... {w}{sc=1}{outlinecolor=#000000}{size=-8}Чмок~{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2194
 translate ukrainian keiko_gal1_a20cefa7:
@@ -6867,7 +6867,7 @@ translate ukrainian keiko_gal1_d7edd024:
 translate ukrainian keiko_gal1_711c0434:
 
     # t "Where... {w}am I?"
-    t "Where... {w}am I?"
+    t "Де... {w}це я?"
 
 # game/game/script.rpy:2202
 translate ukrainian keiko_gal1_7408d63a:
@@ -29331,7 +29331,17 @@ translate ukrainian strings:
 
     # script.rpy:5712
     # ...
-    # script.rpy:5952
+    # script.rpy:6432
+
+    old "You finish washing up, get dressed, and sit down for a while."
+    new "Ти закінчуєш митися, вдягаєшся, й на мить вирішуєш присісти."
+
+    old "Not to mention that watching her get dressed awakened something new in you..."
+    new "Мимо волі спостерігаючи за тим, як вона вдягається, ти відчув, як щось нове пробудилося у тобі..."
+
+    # script.rpy:6438
+    # ...
+    # script.rpy:7104
 
 ### NOT SORTED
 
@@ -29361,9 +29371,6 @@ translate ukrainian strings:
 
     old "I think the title fits you perfectly..."
     new "I think the title fits you perfectly..."
-
-    old "Not to mention that watching her get dressed awakened something new in you..."
-    new "Not to mention that watching her get dressed awakened something new in you..."
 
     old "After leaving the village."
     new "After leaving the village."
@@ -29424,9 +29431,6 @@ translate ukrainian strings:
 
     old "Some time ago."
     new "Some time ago."
-
-    old "You finish washing up, get dressed, and sit down for a while."
-    new "You finish washing up, get dressed, and sit down for a while."
 
     old "You approach Yui."
     new "You approach Yui."

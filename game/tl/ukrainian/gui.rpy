@@ -50,22 +50,6 @@ translate ukrainian style say_label:
 translate ukrainian style choice_button_text:
     size 28          # Зменшуємо текст у кнопках вибору сюжету
 
-# Фікс зміщення картинок у тексті
-init 999 python:
-    # 1. Витягуємо з пам'яті гри ОРИГІНАЛЬНИЙ фізичний об'єкт серця, створений автором
-    original_heart = renpy.display.image.images.get(("corazon",))
-    
-    if original_heart:
-        # 2. Робимо зсув прямо для ОБ'ЄКТА (передаємо сам original_heart замінь рядка "corazon")
-        ukr_heart = Transform(original_heart, yoffset=8)
-        
-        # 3. Перереєструємо зображення "corazon" через ConditionSwitch.
-        # Замість текстів у лапках передаємо готові змінні об'єктів. Тепер немає кругових посилань!
-        renpy.image("corazon", ConditionSwitch(
-            "renpy.game.preferences.language == 'ukrainian'", ukr_heart,
-            "True", original_heart
-        ))
-
 ## Перевизначаємо меню налаштувань, щоб додати українську мову як опцію вибору мови
 init 10 screen preferences():
     tag menu
