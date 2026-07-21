@@ -13548,9 +13548,6 @@ translate ukrainian strings:
     old "{image=quest_text}You've paid Tomoe. -250 gold."
     new "{image=quest_text}You've paid Tomoe. -250 gold."
 
-    old "{image=quest_text}You've received a new mission!"
-    new "{image=quest_text}You've received a new mission!"
-
     old "{size=-3}{image=quest_text}All the events have been added to the gallery."
     new "{size=-3}{image=quest_text}All the events have been added to the gallery."
 

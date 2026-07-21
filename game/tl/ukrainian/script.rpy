@@ -7377,13 +7377,13 @@ translate ukrainian ryoko_encounter_b9b755e5:
 translate ukrainian ryoko_encounter_b41083b1:
 
     # r "{i}{size=-10}Why is he so kind to me...?"
-    r "{i}{size=-10}Чоу він такий добрий до мене...?"
+    r "{i}{size=-9}Чому він такий добрий до мене...?"
 
 # game/game/script.rpy:2335
 translate ukrainian ryoko_encounter_501791e8:
 
     # r "{i}{size=-10}How am I supposed to stop these feelings if he keeps treating me like this...?"
-    r "{i}{size=-10}Як я маю стримувати ці почуття, коли він продовжує так до мене ставитися...?"
+    r "{i}{size=-9}Як я маю стримувати ці почуття, коли він продовжує так до мене ставитися...?"
 
 # game/game/script.rpy:2337
 translate ukrainian ryoko_encounter_a142a3aa:
@@ -7407,7 +7407,7 @@ translate ukrainian ryoko_encounter_5ffa9935:
 translate ukrainian ryoko_encounter_acf752a9:
 
     # t "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
-    t "Треба пошукати Юї у селищі. Варто також скористатися нагодою та оглянути все, зібравши трохи інформації."
+    t "Треба пошукати Юї у селищі. Варто також скористатися нагодою та оглянути все й зібрати трохи інформації."
 
 # game/game/script.rpy:2367
 translate ukrainian town1_2e0621f0:
@@ -29348,6 +29348,17 @@ translate ukrainian strings:
 
     # script.rpy:7056
     # ...
+    # script.rpy:7404
+
+    old "You send Ryoko off to rest while you go look for the adventurer."
+    new "Ти відправляєш Рьоко відпочивати, а сам вирушаєш на пошуки шукачки пригод."
+
+    old "{image=quest_text}You've received a new mission!"
+    new "{image=quest_text}Ти отримав нове завдання!"
+
+    old "{image=corazon_wing}{color=#D16992}Ryoko{/color} has been added!"
+    new "{image=corazon_wing}Додано знайомство з {color=#D16992}Рьоко{/color}!"
+
     # script.rpy:7410
 
 ### NOT SORTED
@@ -29508,9 +29519,6 @@ translate ukrainian strings:
     old "{image=quest_text}You've received a new missions!"
     new "{image=quest_text}You've received a new missions!"
 
-    old "{image=corazon_wing}{color=#D16992}Ryoko{/color} has been added!"
-    new "{image=corazon_wing}{color=#D16992}Ryoko{/color} has been added!"
-
     old "{outlinecolor=#000000}{i}Don't be surprised when you realize how everything is connected..."
     new "{outlinecolor=#000000}{i}Don't be surprised when you realize how everything is connected..."
 
@@ -29522,9 +29530,6 @@ translate ukrainian strings:
 
     old "Hey? Are you listening?"
     new "Hey? Are you listening?"
-
-    old "You send Ryoko off to rest while you go look for the adventurer."
-    new "You send Ryoko off to rest while you go look for the adventurer."
 
     old "{image=quest_text}Now you can collect wood!"
     new "{image=quest_text}Now you can collect wood!"

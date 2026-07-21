@@ -19992,17 +19992,11 @@ translate ukrainian strings:
     old "After a somewhat strange explanation..."
     new "After a somewhat strange explanation..."
 
-    old "Continue"
-    new "Continue"
-
     old "She gets up and proceeds to leave."
     new "She gets up and proceeds to leave."
 
     old "Charlotte leaves quickly."
     new "Charlotte leaves quickly."
-
-    # old "The next day." перенесено у script.rpy
-    # new "The next day."
 
     old "She still won't talk to you unless you lure her with food."
     new "She still won't talk to you unless you lure her with food."
