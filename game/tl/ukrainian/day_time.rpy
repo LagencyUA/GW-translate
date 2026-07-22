@@ -1040,7 +1040,7 @@ translate ukrainian strings:
     new "Ліс"
 
     old "{size=-3}Sakura\n Town"
-    new "{size=-3}Місто\nСакура"
+    new "{size=-3}Містечко\nСакура"
 
     old "{size=+5}Lake"
     new "{size=+5}Озеро"

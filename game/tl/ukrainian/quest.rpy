@@ -143,6 +143,11 @@ translate ukrainian strings:
     old "{s}-On the right you should look for a house with bamboos at the entrance.{/s}"
     new "{s}- Праворуч слід пошукати будинок, біля входу до якого ростуть бамбуки.{/s}"
 
+    old "-Look for {color=#F3915B}Hana's{/color} house on the opposite side from where you came from."
+    new "- Пошукай будинок {color=#F3915B}Хани{/color} з протилежної сторони від тої, звідки ти прийшов."
+    old "{s}-Look for {color=#F3915B}Hana's{/color} house on the opposite side from where you came from.{/s}"
+    new "{s}- Пошукай будинок {color=#F3915B}Хани{/color} з протилежної сторони від тої, звідки ти прийшов.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -238,9 +243,6 @@ translate ukrainian strings:
 
     old "-Get 40 wood and talk to {color=#BD4A17}Sayori{/color} on the bridge (Morning)."
     new "-Get 40 wood and talk to {color=#BD4A17}Sayori{/color} on the bridge (Morning)."
-
-    old "-Look for {color=#F3915B}Hana's{/color} house on the opposite side from where you came from."
-    new "-Look for {color=#F3915B}Hana's{/color} house on the opposite side from where you came from."
 
     old "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
     new "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
