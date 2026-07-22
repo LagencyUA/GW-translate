@@ -7257,7 +7257,7 @@ translate ukrainian ryoko_encounter_4a87b5e4:
 translate ukrainian ryoko_encounter_5616ce3a:
 
     # r "She said that once you're better, you should come to the village."
-    r "Вона казала, аби ви прогулялися селом, щойно почуватиметеся краще." #прим.: Мабуть це про Акане, треба перевірити
+    r "Вона казала, аби ви прогулялися селом, щойно почуватиметеся краще."
 
 # game/game/script.rpy:2302
 translate ukrainian ryoko_encounter_955cef77:
@@ -7269,7 +7269,7 @@ translate ukrainian ryoko_encounter_955cef77:
 translate ukrainian ryoko_encounter_88ccade7:
 
     # r "She said she has something important to discuss with you."
-    r "Юї казала, що хоче обговорити з вами дещо важливе."
+    r "Вона також казала, що хоче обговорити з вами дещо важливе."
 
 # game/game/script.rpy:2304
 translate ukrainian ryoko_encounter_ccbdf867:
