@@ -103,14 +103,6 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nSleep until the next day."
     new "{color=#FF438D}H{/color}-Event\nSleep until the next day."
 
-    # game/day_time.rpy:734
-    old "{size=-13}Afternoon\n Yui's Home"
-    new "{size=-13}Afternoon\n Yui's Home"
-
-    # game/day_time.rpy:742
-    old "{size=-13}Evening\n Sawmill"
-    new "{size=-13}Evening\n Sawmill"
-
     # game/day_time.rpy:791
     old "{color=#FF438D}H{/color}-Event\nTalk with Yui in the afternoon."
     new "{color=#FF438D}H{/color}-Event\nTalk with Yui in the afternoon."
@@ -1134,6 +1126,18 @@ translate ukrainian strings:
     # game/day_time.rpy:621
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#C9887C}Ryoko{/color}."
     new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#C9887C}Рьоко{/color}."
+
+    # Меню з Юї yui_stats
+    old "{size=+65}Yui"
+    new "{size=+65}Юї"
+
+    # game/day_time.rpy:734
+    old "{size=-13}Afternoon\n Yui's Home"
+    new "{size=-13}Полудень\n Дім Юї"
+
+    # game/day_time.rpy:742
+    old "{size=-13}Evening\n Sawmill"
+    new "{size=-13}Вечір\n Лісопилка"
 
     ###
 
