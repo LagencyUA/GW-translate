@@ -16,6 +16,8 @@ init python early hide:
                     fn = "fonts/ukr/PlaypenSans-Medium.ttf"
                 elif fn == "fonts/Sacred Bridge Demo.ttf":
                     fn = "fonts/ukr/Monomakh-Regular.ttf"
+                elif fn == "Sacred Bridge Demo.ttf": # У деяких рядках використовується такий шлях
+                    fn = "fonts/ukr/Monomakh-Regular.ttf"
                 elif fn == "fonts/Ebrima.ttf":
                     fn = "fonts/ukr/Arial.ttf"
                 elif fn == "fonts/Bohemian Soul.otf":

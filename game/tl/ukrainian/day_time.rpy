@@ -51,29 +51,9 @@ translate ukrainian strings:
     old "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
     new "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
 
-    # game/day_time.rpy:126
-    old "{size=+6}Girls Relationship"
-    new "{size=+6}Girls Relationship"
-
-    # game/day_time.rpy:131
-    old "{size=+20}C lose"
-    new "{size=+20}C lose"
-
-    # game/day_time.rpy:447
-    old "{size=+2}BACK"
-    new "{size=+2}BACK"
-
-    # game/day_time.rpy:539
-    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need more affection to be able to see this hint."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need more affection to be able to see this hint."
-
     # game/day_time.rpy:548
     old "{color=#FF438D}H{/color}-Event\nTalk with Ryoko in the morning."
     new "{color=#FF438D}H{/color}-Event\nTalk with Ryoko in the morning."
-
-    # game/day_time.rpy:561
-    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
 
     # game/day_time.rpy:574
     old "{color=#FF438D}H{/color}-Event\nYou need to advance further in the story, complete missions!"
@@ -91,10 +71,6 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nGo to your backyard in the afternoon."
     new "{color=#FF438D}H{/color}-Event\nGo to your backyard in the afternoon."
 
-    # game/day_time.rpy:593
-    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to complete missions to be able to see this hint."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to complete missions to be able to see this hint."
-
     # game/day_time.rpy:604
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
     new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
@@ -103,25 +79,9 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
     new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
 
-    # game/day_time.rpy:619
-    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to repair {color=#C9887C}Ryoko's{/color} room."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to repair {color=#C9887C}Ryoko's{/color} room."
-
-    # game/day_time.rpy:621
-    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#C9887C}Ryoko{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#C9887C}Ryoko{/color}."
-
     # game/day_time.rpy:629
     old "{color=#FF438D}H{/color}-Event\nHelp {color=#C9887C}Ryoko{/color} in her room in the afternoon."
     new "{color=#FF438D}H{/color}-Event\nHelp {color=#C9887C}Ryoko{/color} in her room in the afternoon."
-
-    # game/day_time.rpy:644
-    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to advance further in the story, complete missions!"
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to advance further in the story, complete missions!"
-
-    # game/day_time.rpy:646
-    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nComplete the mission \"Good news?\"."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nComplete the mission \"Good news?\"."
 
     # game/day_time.rpy:648
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nRepair the gate! More information on {color=#E7CAE5}Shika's{/color} hints!"
@@ -259,10 +219,6 @@ translate ukrainian strings:
     old "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#F3915B}Hana{/color} at her home."
     new "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#F3915B}Hana{/color} at her home."
 
-    # game/day_time.rpy:1079
-    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to advance further in the story, complete missions!"
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to advance further in the story, complete missions!"
-
     # game/day_time.rpy:1081
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
     new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
@@ -311,10 +267,6 @@ translate ukrainian strings:
     old "{size=-15}Afternoon\n Mayu's Home"
     new "{size=-15}Afternoon\n Mayu's Home"
 
-    # game/day_time.rpy:1268
-    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need more affection to be able to see this hint."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need more affection to be able to see this hint."
-
     # game/day_time.rpy:1278
     old "{color=#FF438D}H{/color}-Event\nGo talk to {color=#E7CAE5}Shika{/color} in the morning."
     new "{color=#FF438D}H{/color}-Event\nGo talk to {color=#E7CAE5}Shika{/color} in the morning."
@@ -322,10 +274,6 @@ translate ukrainian strings:
     # game/day_time.rpy:1295
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#E7CAE5}Shika{/color}."
     new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#E7CAE5}Shika{/color}."
-
-    # game/day_time.rpy:1307
-    old "{color=#CACACA}Hint Blocked{/color}\nYou need to advance further in the story, complete missions!"
-    new "{color=#CACACA}Hint Blocked{/color}\nYou need to advance further in the story, complete missions!"
 
     # game/day_time.rpy:1309
     old "{color=#FFFFFF}N{/color}-Event\nSee what {color=#E7CAE5}Shika{/color} is doing outside {color=#919191}Mayu's{/color} house in the afternoon."
@@ -1046,7 +994,7 @@ translate ukrainian strings:
     new "{size=-10}{size=+5}Рибальство"
 
     old "{size=-16}Lvl [fishing_level]"
-    new "{size=-16}Рівень [fishing_level]"
+    new "{size=-16}Рівень [fishing_level]  "
 
     old "{size=-10}{size=-8}Points: [fishing_skill_points]"
     new "{size=-10}{size=-8}Очків: [fishing_skill_points]"
@@ -1067,7 +1015,7 @@ translate ukrainian strings:
     new "{size=-10}{size=+5}Лісозаготівля"
 
     old "{size=-16}Lvl [harvesting_level]"
-    new "{size=-16}Рівень [harvesting_level]"
+    new "{size=-16}Рівень [harvesting_level]  "
 
     old "{size=-10}{size=-8}Points: [harvesting_skill_points]"
     new "{size=-10}{size=-8}Очків: [harvesting_skill_points]"
@@ -1084,16 +1032,110 @@ translate ukrainian strings:
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Critical Hits{/font}\nYour perfect hits do more {color=#FFD700}critical damage{/color}."
     new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Критичні влучання{/b}{/size}{/font}\nТвої влучні удари завдають більше {color=#FFD700}критичного шкоди{/color}."
 
-    ###
+    ## Написи на мапі map_gw
+    old "Town"
+    new "{size=-3}Селище"
+
+    old "Forest"
+    new "Ліс"
+
+    old "{size=-3}Sakura\n Town"
+    new "{size=-3}Місто\nСакура"
+
+    old "{size=+5}Lake"
+    new "{size=+5}Озеро"
+
+    old "Stone"
+    new "{size=-3}Розвалини"
+
+    old "Lands"
+    new "Землі"
 
     old "{size=-3}Lycoris \nClan"
-    new "{size=-3}Lycoris \nClan"
-
-    old "skill_points"
-    new "skill_points"
+    new "{size=-3}Клан\nЛікоріс"
 
     old "{size=-13}Evening\n Your room"
     new "{size=-13}Evening\n Your room"
+
+    old "{size=-3}Kingdom"
+    new "{size=-3}Королівство"
+
+    old "{size=-6}Pond"
+    new "{size=-6}Ставок"
+
+    ## Екран підсказок по відносинам з дівчатами girls_affection
+    # game/day_time.rpy:126
+    old "{size=+6}Girls Relationship"
+    new "{size=+2}Стосунки з дівчатами"
+
+    # game/day_time.rpy:131
+    old "{size=+20}C lose"
+    new "{size=+8}Закрити"
+
+    # Загальні написи у меню з дівчатами
+    old "{size=-3}Locations"
+    new "{size=-3}Де знайти"
+
+    old "{size=+3}Hints"
+    new "{size=+1}   Підказки"
+
+    old "{size=+8}Affection"
+    new "{size=+8}Прихильність"
+
+    old "{i}Hover a card"
+    new "{i}Наведіть на карту"
+
+    # game/day_time.rpy:447
+    old "{size=+2}BACK"
+    new "{size=+2}НАЗАД"
+
+    # game/day_time.rpy:539
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need more affection to be able to see this hint."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТобі знадобиться вищий рівень прихильності, щоб побачити підказку."
+
+    # game/day_time.rpy:1268
+    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need more affection to be able to see this hint."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nnТобі знадобиться вищий рівень прихильності, щоб побачити підказку."
+
+    # game/day_time.rpy:561
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії у попередній підказці!"
+
+    # game/day_time.rpy:593
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to complete missions to be able to see this hint."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш спершу виконати певні завдання, щоб побачити підказку."
+
+    # game/day_time.rpy:644
+    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to advance further in the story, complete missions!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nТи повинен просунутися далі історією, виконуй поточні завдання!"
+
+    # game/day_time.rpy:1079
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to advance further in the story, complete missions!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи повинен просунутися далі історією, виконуй поточні завдання!"
+
+    # game/day_time.rpy:1307
+    old "{color=#CACACA}Hint Blocked{/color}\nYou need to advance further in the story, complete missions!"
+    new "{color=#CACACA}Підказка заблокована{/color}\nТи повинен просунутися далі історією, виконуй поточні завдання!"
+
+    ### хз чиї
+    # game/day_time.rpy:646
+    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nComplete the mission \"Good news?\"."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпочатку виконай завдання «Гарні новини?»."
+
+
+    # Меню з Рьоко ryoko_stats
+    old "{size=+65}Ryoko"
+    new "{size=+65}Рьоко"
+
+    # game/day_time.rpy:619
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to repair {color=#C9887C}Ryoko's{/color} room."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку відремонтуй кімнату {color=#C9887C}Рьоко{/color}."
+
+    # game/day_time.rpy:621
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#C9887C}Ryoko{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#C9887C}Рьоко{/color}."
+
+    ###
 
     old "melon pan"
     new "melon pan"
@@ -1110,9 +1152,6 @@ translate ukrainian strings:
     old "monstruos"
     new "monstruos"
 
-    old "{i}Hover a card"
-    new "{i}Hover a card"
-
     old "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
     new "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
 
@@ -1122,17 +1161,8 @@ translate ukrainian strings:
     old "{size=-13}Night\n Her room"
     new "{size=-13}Night\n Her room"
 
-    old "{size=-3}Sakura\n Town"
-    new "{size=-3}Sakura\n Town"
-
     old "Monstruos"
     new "Monstruos"
-
-    old "{size=-3}Locations"
-    new "{size=-3}Locations"
-
-    old "{size=+8}Affection"
-    new "{size=+8}Affection"
 
     old "{size=-13}Morning\n Living-room"
     new "{size=-13}Morning\n Living-room"
