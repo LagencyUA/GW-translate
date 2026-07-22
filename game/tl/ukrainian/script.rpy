@@ -7551,73 +7551,73 @@ translate ukrainian street_1_54d60c6a:
 translate ukrainian village_street_8abd8b01:
 
     # t "Somewhere around here... I just have to look for a house with red cloth..."
-    t "Somewhere around here... I just have to look for a house with red cloth..."
+    t "Десь у цьому напрямку... Мені просто треба шукати будинок із червоною тканиною..."
 
 # game/game/script.rpy:2438
 translate ukrainian village_street_1acc0927:
 
     # t "Mmm... no, not this one."
-    t "Mmm... no, not this one."
+    t "Ммм... ні, не цей."
 
 # game/game/script.rpy:2440
 translate ukrainian village_street_23bc4ff6:
 
     # t "Not this one either."
-    t "Not this one either."
+    t "Цей також ні."
 
 # game/game/script.rpy:2442
 translate ukrainian village_street_dc993384:
 
     # v "{size=-10}Look! It's the new guy."
-    v "{size=-10}Look! It's the new guy."
+    v "{size=-10}Дивися! Це той новий хлопець."
 
 # game/game/script.rpy:2443
 translate ukrainian village_street_cd8cf881:
 
     # v "{size=-10}Wow, he doesn't look like a noble."
-    v "{size=-10}Wow, he doesn't look like a noble."
+    v "{size=-10}Ого, по ньому не скажеш, що він якийсь аристократ."
 
 # game/game/script.rpy:2444
 translate ukrainian village_street_6eeadfcd:
 
     # v "{size=-10}Why don't you go talk to him?"
-    v "{size=-10}Why don't you go talk to him?"
+    v "{size=-10}Чому б тобі не заговорити з ним?"
 
 # game/game/script.rpy:2445
 translate ukrainian village_street_43e4f477:
 
     # v "{size=-10}S-Silly! My heart's not ready... I haven't seen a man in ages..."
-    v "{size=-10}S-Silly! My heart's not ready... I haven't seen a man in ages..."
+    v "{size=-10}С-Смієшся! Моє серденько не готове... Я вже вічність не бачила жодного чоловіка..."
 
 # game/game/script.rpy:2447
 translate ukrainian village_street_5245773e:
 
     # v "{size=-10}That's him!"
-    v "{size=-10}That's him!"
+    v "{size=-10}Це він!"
 
 # game/game/script.rpy:2448
 translate ukrainian village_street_202fb7e1:
 
     # v "{size=-10}Even if he has a demon slave, he doesn't seem like a bad person..."
-    v "{size=-10}Even if he has a demon slave, he doesn't seem like a bad person..."
+    v "{size=-10}Попри те, що він з рабинею-демоном, він не здається таким вже поганцем..."
 
 # game/game/script.rpy:2450
 translate ukrainian village_street_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:2452
 translate ukrainian village_street_20033bf7:
 
     # mc "Hello, good morn-"
-    mc "Hello, good morn-"
+    mc "Доброго ран-"
 
 # game/game/script.rpy:2454
 translate ukrainian village_street_b86e9817:
 
     # v "{sc=1}{outlinecolor=#000000}Hia!"
-    v "{sc=1}{outlinecolor=#000000}Hia!"
+    v "{sc=1}{outlinecolor=#000000}Хія!"
 
 # game/game/script.rpy:2456
 translate ukrainian village_street_2b35b6fe:
@@ -7635,7 +7635,7 @@ translate ukrainian village_street_2b35b6fe_1:
 translate ukrainian village_street_0ae40874:
 
     # t "Okay... something weird is going on here..."
-    t "Okay... something weird is going on here..."
+    t "Гаразд... щось тут дивне коїться..."
 
 # game/game/script.rpy:2464
 translate ukrainian village_street_ee3aa969:
