@@ -3,7 +3,7 @@
 translate ukrainian yui_house_90cded82:
 
     # mc "I shouldn't just wander around blindly, I should talk to those girls first."
-    mc "I shouldn't just wander around blindly, I should talk to those girls first."
+    mc "Мені не слід тинятися довкола. Варто спочатку запитати тих дівчат."
 
 # game/game/yui_events.rpy:85
 translate ukrainian yui_inside_house_99526308:
@@ -15,7 +15,7 @@ translate ukrainian yui_inside_house_99526308:
 translate ukrainian yui_first_meet_13407081:
 
     # t "This way, all the way to the end."
-    t "This way, all the way to the end."
+    t "Сюдою, аж до самого кінця."
 
 # game/game/yui_events.rpy:152
 translate ukrainian yui_first_meet_072bbec3:

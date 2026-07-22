@@ -411,7 +411,7 @@ translate ukrainian start_82d20a35:
 translate ukrainian start_8e862ce5:
 
     # "{color=#956F7B}Shh!"
-    "{color=#956F7B}Шшш!"
+    "{color=#956F7B}Тсс!"
 
 # game/game/script.rpy:234
 translate ukrainian start_8ab9b498:
@@ -7413,139 +7413,139 @@ translate ukrainian ryoko_encounter_acf752a9:
 translate ukrainian town1_2e0621f0:
 
     # t "So, this is the town... {w}It looks kind of... empty?"
-    t "So, this is the town... {w}It looks kind of... empty?"
+    t "Отже, ось воно — селище... {w}Виглядає дещо... безлюдно?"
 
 # game/game/script.rpy:2368
 translate ukrainian town1_98726bac:
 
     # t "I don't even know what this \"Yui\" looks like. {w}Guess I should try to find someone who can help me."
-    t "I don't even know what this \"Yui\" looks like. {w}Guess I should try to find someone who can help me."
+    t "Я навіть не знаю, як та «Юї» виглядає. {w}Гадаю, мені варто пошукати когось, хто б міг допомогти."
 
 # game/game/script.rpy:2369
 translate ukrainian town1_6c70c421:
 
     # mc "That must be the way out of this alley."
-    mc "That must be the way out of this alley."
+    mc "Мабуть, це і є вихід із цього провулку."
 
 # game/game/script.rpy:2378
 translate ukrainian villagers_help_b27ea96b:
 
     # t "I'll ask them if they know where Yui is."
-    t "I'll ask them if they know where Yui is."
+    t "Спитаю у них, чи вони знають де Юї."
 
 # game/game/script.rpy:2380
 translate ukrainian villagers_help_21e17cc6:
 
     # mc "Excuse me."
-    mc "Excuse me."
+    mc "Перепрошую."
 
 # game/game/script.rpy:2381
 translate ukrainian villagers_help_803fbc63:
 
     # mc "Do you happen to know someone named Yui?"
-    mc "Do you happen to know someone named Yui?"
+    mc "Можливо, вам знайома дівчина на ім'я Юї?"
 
 # game/game/script.rpy:2383
 translate ukrainian villagers_help_fe72dfbb:
 
     # "{color=#E4D8AA}Ah, {w}you're..."
-    "{color=#E4D8AA}Ah, {w}you're..."
+    "{color=#E4D8AA}Ах, {w}ти..."
 
 # game/game/script.rpy:2384
 translate ukrainian villagers_help_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:2386
 translate ukrainian villagers_help_062a951b:
 
     # "{color=#6998bc}{size=-8}Shh! Don't be rude!"
-    "{color=#6998bc}{size=-8}Shh! Don't be rude!"
+    "{color=#6998bc}{size=-8}Тихо! Поводься ввічливо!"
 
 # game/game/script.rpy:2387
 translate ukrainian villagers_help_32f611ae:
 
     # "{color=#E4D8AA}{size=-8}I know, I know, I just didn't expect him to be so handsome!"
-    "{color=#E4D8AA}{size=-8}I know, I know, I just didn't expect him to be so handsome!"
+    "{color=#E4D8AA}{size=-8}Знаю, знаю. Просто не очікувала, що він буде таким красенем!"
 
 # game/game/script.rpy:2388
 translate ukrainian villagers_help_305b9b52:
 
     # mc "Err... is there a problem?"
-    mc "Err... is there a problem?"
+    mc "Емм... щось не так?"
 
 # game/game/script.rpy:2390
 translate ukrainian villagers_help_27f0aac1:
 
     # "{color=#E4D8AA}{size=-8}O-Oh! Not at all, great warrior! Say, do you have a girlfriend?"
-    "{color=#E4D8AA}{size=-8}O-Oh! Not at all, great warrior! Say, do you have a girlfriend?"
+    "{color=#E4D8AA}{size=-8}О-Ох! Зовсім ні, величний воїне! Скажи но, у тебе часом немає дівчини?"
 
 # game/game/script.rpy:2391
 translate ukrainian villagers_help_d0270029:
 
     # t "G-Great warrior?"
-    t "G-Great warrior?"
+    t "В-Величний воїн?"
 
 # game/game/script.rpy:2393
 translate ukrainian villagers_help_816905b8:
 
     # "{color=#6998bc}You asked about Yui, right?"
-    "{color=#6998bc}You asked about Yui, right?"
+    "{color=#6998bc}Ти питав за Юї, так?"
 
 # game/game/script.rpy:2395
 translate ukrainian villagers_help_adeef2d3:
 
     # "{color=#E4D8AA}{size=-8}I think she's probably at home right now."
-    "{color=#E4D8AA}{size=-8}I think she's probably at home right now."
+    "{color=#E4D8AA}{size=-8}Гадаю, вона зараз має бути у себе вдома."
 
 # game/game/script.rpy:2396
 translate ukrainian villagers_help_3f6e421d:
 
     # mc "And where would that be?"
-    mc "And where would that be?"
+    mc "І де її дім?"
 
 # game/game/script.rpy:2397
 translate ukrainian villagers_help_f5a90963:
 
     # "{color=#E4D8AA}Oh, how foolish of me to forget..."
-    "{color=#E4D8AA}Oh, how foolish of me to forget..."
+    "{color=#E4D8AA}Ох, як же я могла забути..."
 
 # game/game/script.rpy:2398
 translate ukrainian villagers_help_67ea5869:
 
     # "{color=#E4D8AA}Maybe my memory will come back if you accompany me to my house and-"
-    "{color=#E4D8AA}Maybe my memory will come back if you accompany me to my house and-"
+    "{color=#E4D8AA}Можливо, моя пам’ять повернеться, якщо ти проведеш мене додому і-"
 
 # game/game/script.rpy:2400
 translate ukrainian villagers_help_0e242fbb:
 
     # "{color=#6998bc}Just turn that corner and go straight to the end! {w}You'll see a house with bamboo trees, she should be there!"
-    "{color=#6998bc}Just turn that corner and go straight to the end! {w}You'll see a house with bamboo trees, she should be there!"
+    "{color=#6998bc}Просто поверни за той ріг і йди прямо до кінця! {w}Ти побачиш будинок з бамбуковими деревами — вона має бути саме там!"
 
 # game/game/script.rpy:2401
 translate ukrainian villagers_help_2598c2ea:
 
     # mc "Thank you. Sorry for the trouble."
-    mc "Thank you. Sorry for the trouble."
+    mc "Вельми вдячний. Пробачте, що потурбував."
 
 # game/game/script.rpy:2403
 translate ukrainian villagers_help_7660943e:
 
     # "{color=#6998bc}No trouble at all. Take care~"
-    "{color=#6998bc}No trouble at all. Take care~"
+    "{color=#6998bc}Та пусте. Бережи себе~"
 
 # game/game/script.rpy:2417
 translate ukrainian street_1_0ff54cd0:
 
     # mc "I shouldn't go around blindly, I should talk to those girls first."
-    mc "I shouldn't go around blindly, I should talk to those girls first."
+    mc "Погана ідея йти наосліп. Варто спочатку запитати тих дівчат."
 
 # game/game/script.rpy:2423
 translate ukrainian street_1_54d60c6a:
 
     # mc "Why would I go this way if I have already been given directions."
-    mc "Why would I go this way if I have already been given directions."
+    mc "Навіщо я маю йти сюди, якщо мені вже дали вказівки?"
 
 # game/game/script.rpy:2436
 translate ukrainian village_street_8abd8b01:
@@ -28964,10 +28964,6 @@ translate ukrainian strings:
     old "Oh... forgive me, perhaps you were expecting something different."
     new "Ох... пробач мене, можливо, твої очікування були інакшими."
 
-    ## тут промпт із введенням ім'я гравця, файл menus.rpy:99
-
-    # script.rpy:6
-
     old "{outlinecolor=#000000}That's right, [mc]. That's who you are."
     new "{outlinecolor=#000000}Саме так, [mc]. Це той, ким ти є."
 
@@ -28986,38 +28982,20 @@ translate ukrainian strings:
     old "{sc=1}{outlinecolor=#000000}We'll talk again s-"
     new "{sc=1}{outlinecolor=#000000}Незабаром ми знову погов-"
 
-    # script.rpy:18
-
-    # script.rpy:24
-
     old "{sc=2}{outlinecolor=#000000}{i}You are about to witness the final fight of this championship!"
     new "{sc=2}{outlinecolor=#000000}{i}Ви ось-ось станете свідками фінального поєдинку\nцього чемпіонату!"
-
-    # script.rpy:30
-
-    # script.rpy:36
 
     old "{sc=2}{outlinecolor=#000000}{i}After many duels, the strongest are face to face!"
     new "{sc=2}{outlinecolor=#000000}{i}Після численних поєдинків найсильніші зійшлися віч-на-віч!"
 
-    ## script.rpy:42
-
     old "{sc=2}{outlinecolor=#000000}{i}Our challenger who came out of nowhere, winning all his fights!"
     new "{sc=2}{outlinecolor=#000000}{i}Темна конячка. Він з'явився нізвідки і виграв усі свої поєдинки!"
-
-    # script.rpy:48
-    # ...
-    # script.rpy:84
 
     old "{sc=2}{outlinecolor=#000000}{i}I will always be here."
     new "{sc=2}{outlinecolor=#000000}{i}Я завжди буду тут."
 
     old "{sc=2}{outlinecolor=#000000}{i}Against our 3 times champion of the region!"
     new "{sc=2}{outlinecolor=#000000}{i}Проти нашого триразового регіонального чемпіона!"
-
-    # script.rpy:90
-    # ...
-    # script.rpy:150
 
     old "{sc=2}{outlinecolor=#000000}{i}But this time it is special!"
     new "{sc=2}{outlinecolor=#000000}{i}Але цього разу це особливий поєдинок!"
@@ -29028,37 +29006,17 @@ translate ukrainian strings:
     old "{sc=2}{outlinecolor=#000000}{i}The Kendo Federation will award a great prize to the winner!"
     new "{sc=2}{outlinecolor=#000000}{i}Федерація Кендо вручить великий приз переможцю!"
 
-    # script.rpy:156
-    # ...
-    # script.rpy:174
-
     old "{sc=2}{outlinecolor=#000000}Wake up."
     new "{sc=2}{outlinecolor=#000000}Прокинься."
-
-    # script.rpy:180
-
-    # script.rpy:186
 
     old "{sc=3}{outlinecolor=#000000}Wake up!"
     new "{sc=3}{outlinecolor=#000000}Прокинься!"
 
-    # script.rpy:192
-    # ...
-    # script.rpy:240
-
     old "{sc=2}{outlinecolor=#000000}{i}Ready..."
     new "{sc=2}{outlinecolor=#000000}{i}Увага..."
 
-    # script.rpy:246
-    # ...
-    # script.rpy:258
-
     old "{sc=2}{outlinecolor=#000000}{i}Go!"
     new "{sc=2}{outlinecolor=#000000}{i}Уперед!"
-
-    # script.rpy:264
-    # ...
-    # script.rpy:270
 
     old "{sc=2}{outlinecolor=#000000}{i}And the winner is..."
     new "{sc=2}{outlinecolor=#000000}{i}І переможцем стає..."
@@ -29066,81 +29024,26 @@ translate ukrainian strings:
     old "{sc=2}{outlinecolor=#000000}{i}[mc]!!"
     new "{sc=2}{outlinecolor=#000000}{i}[mc]!!"
 
-    # script.rpy:282
-    # ...
-    # script.rpy:294
-
     old "{outlinecolor=#000000}Wait, don't you want to dedicate a few words to us? You just became the champion of this region!"
     new "{outlinecolor=#000000}Чекай, не бажаєш присвятити нам кілька слів?\nТи щойно став регіональним чемпіоном!"
-
-    # script.rpy:300
-
-    # script.rpy:306
 
     old "{sc=1}{outlinecolor=#000000}A man of few words! \nLet's give a round of applause to our new champion and winner!"
     new "{sc=1}{outlinecolor=#000000}Людина лаконічна!\nГайда поапладуємо нашому переможцю й новому чемпіону!"
 
-    # script.rpy:312
-    # ...
-    # script.rpy:534
-
     old "{sc=2}{outlinecolor=#000000}Heey~ Wake up."
     new "{sc=2}{outlinecolor=#000000}Геей~ Прокинься."
-
-    # script.rpy:540
-    # ...
-    # script.rpy:552
 
     old "{sc=2}{outlinecolor=#000000}Heeey~"
     new "{sc=2}{outlinecolor=#000000}Гееей~"
 
-    # script.rpy:558
-    # ...
-    # script.rpy:636
-
     old "{i}Hooy~~{image=corazon} open your eyes~"
     new "{i}Агоов~~{image=corazon} розплющуй очі~"
 
-    # script.rpy:28879
-
-    # script.rpy:642
-    # ...
-    # script.rpy:912
-
-    # script.rpy:28882 - Перший вибір (з'являється лише сам спочатку)
-
-    # script.rpy:918
-    # ...
-    # script.rpy:978
-
-    ## РІЗНІ ВИБОРИ (Після першого)
-    # script.rpy:28887 - Другий вибір
-
-    # script.rpy:984
-    # ...
-    # script.rpy:1092
-
-    # script.rpy:28891 - Третій вибір
-
-    # script.rpy:1098
-    # ...
-    # script.rpy:1182
-
-    # script.rpy:28895 - Фінальний вибір
-
-    # script.rpy:1187
-    # ...
-    # script.rpy:1536
-    
     old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
     new "{i}Ти підходиш до богині, й вона одразу ніжно та лагідно цілує тебе у чоло."
     
     old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
     new "{i}Ти відчуваєш, ніби якась незрозуміла енергія пронизує все твоє «тіло»."
-    
-    # script.rpy:1542
-    # ...
-    # script.rpy:1692
 
     old "Slowly, both your consciousness and your soul are transported."
     new "Твоя свідомість разом із душею повільно переносяться."
@@ -29151,16 +29054,8 @@ translate ukrainian strings:
     old "You let yourself go until something stops you in your tracks"
     new "Ти поступово віддаєшся цьому руху, аж поки щось раптово не зупиняє тебе."
 
-    # script.rpy:1698
-    # ...
-    # script.rpy:2010
-
     old "The moment she turns around, I do a quick movement of the legs to accommodate my erection."
     new "Щойно вона обертається, я роблю швидкий рух ногами, аби впоратися з ерекцією."
-
-    # script.rpy:2016
-    # ...
-    # script.rpy:2496
 
     old "This empty feeling again..."
     new "Знову це відчуття порожнечі..."
@@ -29174,29 +29069,11 @@ translate ukrainian strings:
     old "What kind of people will I meet?"
     new "Цікаво, кого я там зустріну?"
 
-    # script.rpy:2502
-    # ...
-    # script.rpy:2622
-
-    # script.rpy:28899
-
-    # script.rpy:2628
-    # ...
-    # script.rpy:2688
-
     old "You have collected some sticks"
     new "Ти зібрав кілька палиць"
 
-    # script.rpy:28903
-
-    # script.rpy:2694
-    # ...
-    # script.rpy:2778
-
     old "You obtained a fish!"
     new "Ти отримав рибу!"
-
-    # script.rpy:28907
 
     old "Before you know it, night has fallen."
     new "Ніч наступила, перш ніж ти встиг усвідомити."
@@ -29204,16 +29081,8 @@ translate ukrainian strings:
     old "You start looking for flat ground to prepare the fire."
     new "Ти почав шукати рівне місце, щоб розвести багаття."
 
-    # script.rpy:2784
-    # ...
-    # script.rpy:2946
-
     old "{sc=2}{outlinecolor=#000000}Watch out!{w=0.5}{nw}"
     new "{sc=2}{outlinecolor=#000000}Стережись!{w=0.5}{nw}"
-
-    # script.rpy:2952
-    # ...
-    # script.rpy:3222
 
     old "Just a simple cut."
     new "Лише один простий змах."
@@ -29230,26 +29099,14 @@ translate ukrainian strings:
     old "But I didn't expect it to be so soon..."
     new "Але не думав, що це відбудеться так скоро..."
 
-    # script.rpy:3228
-    # ...
-    # script.rpy:3480
-
     old "You go back to sit next to the fire."
     new "Ти поверташся і сідаєш біля багаття."
 
     old "When she finishes eating, she slowly approaches you."
     new "Доївши, вона обережно підходить до тебе."
 
-    # script.rpy:3486
-    # ...
-    # script.rpy:4002
-
     old "The next day."
     new "Наступного дня."
-
-    # script.rpy:4008
-    # ...
-    # script.rpy:4536
 
     old "You both get up and prepare to leave."
     new "Ви обоє підвелися й приготувалися рушати."
@@ -29257,71 +29114,26 @@ translate ukrainian strings:
     old "You equip your katana and pick up the bag Ryoko prepared for you."
     new "Ти береш свою катану та мішечок, який тобі приготувала Рьоко."
 
-    # script.rpy:4542
-    # ...
-    # script.rpy:4560
-
-    # script.rpy:28911 - Option 1
-    # script.rpy:4566
-    # ...
-    # script.rpy:4698
-
-    # script.rpy:28915 - Option 2
-    # script.rpy:4704
-    # ...
-    # script.rpy:4788
-
-    # script.rpy:28919 - Option 3
-    # script.rpy:4794
-    # ...
-    # script.rpy:4848
-
-    # script.rpy:28923 - Option 4 (продовження історії)
-    # script.rpy:4854
-    # ...
-    # script.rpy:4866
-
     old "You both begin your journey."
     new "Разом ви ропочали свою подорож."
 
     old "Thanks to the trees, the sun doesn't bother you at all."
     new "Завдяки деревам, яскраве сонце вам не дошкуляло."
 
-    # script.rpy:4872
-    # ...
-    # script.rpy:4890
-
     old "You stop for a moment to eat some fruit Ryoko found."
     new "Ви зупинилися на мить поїсти фруктів, що знайшла Рьоко."
-
-    # script.rpy:4896
-    # ...
-    # script.rpy:4908
 
     old "You continue on your way."
     new "Ви продовжили свій шлях."
 
-    # script.rpy:4914
-
     old "But things were going too well to be true..."
     new "Але все йшло надто добре, щоб бути правдою..."
-
-    # script.rpy:4920
-    # ...
-    # script.rpy:5244
 
     old "{sc=2}{outlinecolor=#000000}{i}Don't give up!"
     new "{sc=2}{outlinecolor=#000000}{i}Не здавайся!"
 
-    # script.rpy:5250
-    # script.rpy:5256
-
     old "{sc=2}{outlinecolor=#000000}{i}You know it can't end like this! You haven't tried everything yet!"
     new "{sc=2}{outlinecolor=#000000}{i}Ти знаєш, що все не може так скінчитися!\nТи ще далеко не все спробував!"
-
-    # script.rpy:5262
-    # ...
-    # script.rpy:5706
 
     old "Without hesitation, as if your shame of being naked in front of someone had vanished..."
     new "Без вагань, ніби сором від того, що ти стоїш голим перед кимось, зник..."
@@ -29329,26 +29141,14 @@ translate ukrainian strings:
     old "You quickly take off your clothes, clean yourself, and walk toward Keiko."
     new "Ти швидко роздягаєшся, обмиваєшся і йдеш до Кейко."
 
-    # script.rpy:5712
-    # ...
-    # script.rpy:6432
-
     old "You finish washing up, get dressed, and sit down for a while."
     new "Ти закінчуєш митися, вдягаєшся, й на мить вирішуєш присісти."
 
     old "Not to mention that watching her get dressed awakened something new in you..."
     new "Мимо волі спостерігаючи за тим, як вона вдягається, ти відчув, як щось нове пробудилося у тобі..."
 
-    # script.rpy:6438
-    # ...
-    # script.rpy:7050
-
     old "One day later."
     new "Через день."
-
-    # script.rpy:7056
-    # ...
-    # script.rpy:7404
 
     old "You send Ryoko off to rest while you go look for the adventurer."
     new "Ти відправляєш Рьоко відпочивати, а сам вирушаєш на пошуки шукачки пригод."
@@ -29359,7 +29159,8 @@ translate ukrainian strings:
     old "{image=corazon_wing}{color=#D16992}Ryoko{/color} has been added!"
     new "{image=corazon_wing}Додано знайомство з {color=#D16992}Рьоко{/color}!"
 
-    # script.rpy:7410
+    old "{image=quest_text}Mission updated!"
+    new "{image=quest_text}Завдання оновлене!"
 
 ### NOT SORTED
 

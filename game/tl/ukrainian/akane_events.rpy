@@ -29344,9 +29344,6 @@ translate ukrainian strings:
     old "{sc=3}{outlinecolor=#000000}Have you already forgotten?"
     new "{sc=3}{outlinecolor=#000000}Have you already forgotten?"
 
-    old "{image=quest_text}Mission updated!"
-    new "{image=quest_text}Mission updated!"
-
     old "A new construction has been added!"
     new "A new construction has been added!"
 

@@ -135,6 +135,13 @@ translate ukrainian strings:
 
     old "-Find someone in the village to give you directions."
     new "- Знайдіть когось у селищі, хто може підказати дорогу."
+    old "{s}-Find someone in the village to give you directions.{/s}"
+    new "{s}- Знайдіть когось у селищі, хто може підказати дорогу.{/s}"
+
+    old "-On the right you should look for a house with bamboos at the entrance."
+    new "- Праворуч слід пошукати будинок, біля входу до якого ростуть бамбуки."
+    old "{s}-On the right you should look for a house with bamboos at the entrance.{/s}"
+    new "{s}- Праворуч слід пошукати будинок, біля входу до якого ростуть бамбуки.{/s}"
 
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
@@ -639,9 +646,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go to your room at {color=#FFFFFF}night{/color}."
     new "{color=#E3CD5B}{b}•{/b}{/color} Go to your room at {color=#FFFFFF}night{/color}."
-
-    old "-On the right you should look for a house with bamboos at the entrance."
-    new "-On the right you should look for a house with bamboos at the entrance."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go talk to {color=#E12E50}Akane{/color} in the evening."
     new "{color=#E3CD5B}{b}•{/b}{/color} Go talk to {color=#E12E50}Akane{/color} in the evening."
