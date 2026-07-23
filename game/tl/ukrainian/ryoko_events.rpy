@@ -285,49 +285,49 @@ translate ukrainian ryoko_bath_1fcb1404:
 translate ukrainian ryoko_1_326fe28a:
 
     # t "To think they gave me a house... {w}I feel like I don't deserve everything they're giving me."
-    t "To think they gave me a house... {w}I feel like I don't deserve everything they're giving me."
+    t "Подумати тільки, вони подарували мені цілий дім... {w}Мені здається, що я не заслуговую на все це."
 
 # game/game/ryoko_events.rpy:164
 translate ukrainian ryoko_1_46a03079:
 
     # t "Well, I'll just have to make sure they don't regret their decision."
-    t "Well, I'll just have to make sure they don't regret their decision."
+    t "Що ж, зроблю все, щоб вони не пошкодували про своє рішення."
 
 # game/game/ryoko_events.rpy:165
 translate ukrainian ryoko_1_cfbb9e88:
 
     # t "I'll help out however I can."
-    t "I'll help out however I can."
+    t "Допомагатиму чим зможу."
 
 # game/game/ryoko_events.rpy:173
 translate ukrainian ryoko_1_6c3c8b73:
 
     # t "I can't wait to see Ryoko in her new clothes. I hope they fit her well."
-    t "I can't wait to see Ryoko in her new clothes. I hope they fit her well."
+    t "Не можу дочекатися, щоб побачити Рьоко у новому вбранні. Сподіваюся, воно їй добре пасуватиме."
 
 # game/game/ryoko_events.rpy:174
 translate ukrainian ryoko_1_401974df:
 
     # t "Will she still be sleeping?"
-    t "Will she still be sleeping?"
+    t "Можливо, вона досі спить?"
 
 # game/game/ryoko_events.rpy:176
 translate ukrainian ryoko_1_7e7e7a01:
 
     # t "I'll move carefully so I don't wake her up."
-    t "I'll move carefully so I don't wake her up."
+    t "Заходитиму обережно, щоб її не розбудити."
 
 # game/game/ryoko_events.rpy:179
 translate ukrainian ryoko_1_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/ryoko_events.rpy:180
 translate ukrainian ryoko_1_df0e92e9:
 
     # mc "Ryoko?"
-    mc "Ryoko?"
+    mc "Рьоко?"
 
 # game/game/ryoko_events.rpy:181
 translate ukrainian ryoko_1_b1926a30:
@@ -339,13 +339,13 @@ translate ukrainian ryoko_1_b1926a30:
 translate ukrainian ryoko_1_c29ecc21:
 
     # r "Master [mc]!"
-    r "Master [mc]!"
+    r "Господарю [mc]!"
 
 # game/game/ryoko_events.rpy:184
 translate ukrainian ryoko_1_0fb14244:
 
     # r "You're finally here!"
-    r "You're finally here!"
+    r "Нарешті ви повернулися!"
 
 # game/game/ryoko_events.rpy:185
 translate ukrainian ryoko_1_4fd90e75:
@@ -31142,11 +31142,11 @@ translate ukrainian strings:
     new "Hold her hands."
 
 translate ukrainian strings:
+    old "You enter your new home."
+    new "Ти заходиш вже у свій новий дім."
+
     old "You take Ryoko to Sakura Town."
     new "You take Ryoko to Sakura Town."
-
-    old "You enter your new home."
-    new "You enter your new home."
 
     old "{size=-4}Now you can choose to \"sleep\" with Ryoko at night."
     new "{size=-4}Now you can choose to \"sleep\" with Ryoko at night."
