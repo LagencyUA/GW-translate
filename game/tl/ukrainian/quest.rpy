@@ -148,6 +148,11 @@ translate ukrainian strings:
     old "{s}-Look for {color=#F3915B}Hana's{/color} house on the opposite side from where you came from.{/s}"
     new "{s}- Пошукай будинок {color=#F3915B}Хани{/color} з протилежної сторони від тої, звідки ти прийшов.{/s}"
 
+    old "-You should go back to your new home to see {color=#C9887C}Ryoko{/color}."
+    new "- Тобі слід повернутися до свого нового дому, щоб побачитися з {color=#C9887C}Рьоко{/color}."
+    old "{s}-You should go back to your new home to see {color=#C9887C}Ryoko{/color}.{/s}"
+    new "{s}- Тобі слід повернутися до свого нового дому, щоб побачитися з {color=#C9887C}Рьоко{/color}.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -435,9 +440,6 @@ translate ukrainian strings:
 
     old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}Sandwich{/color} [item_sandwich]/1"
     new "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}Sandwich{/color} [item_sandwich]/1"
-
-    old "-You should go back to your new home to see {color=#C9887C}Ryoko{/color}."
-    new "-You should go back to your new home to see {color=#C9887C}Ryoko{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Try sneaking into the Kingdom on your own.(30 Gold)"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Try sneaking into the Kingdom on your own.(30 Gold)"

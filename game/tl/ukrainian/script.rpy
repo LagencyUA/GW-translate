@@ -7575,7 +7575,7 @@ translate ukrainian village_street_dc993384:
 translate ukrainian village_street_cd8cf881:
 
     # v "{size=-10}Wow, he doesn't look like a noble."
-    v "{size=-10}Ого, по ньому не скажеш, що він якийсь аристократ."
+    v "{size=-10}Ого, по ньому не скажеш, що він якийсь дворянин."
 
 # game/game/script.rpy:2444
 translate ukrainian village_street_6eeadfcd:
@@ -7977,7 +7977,7 @@ translate ukrainian shika_tickling_896035dd:
 translate ukrainian shika_tickling_3a71204c:
 
     # s "I hope you live a long life, Doctor."
-    s "Сподіваюся, ви проживете довге життя, лікарко."
+    s "Сподіваюся, ви проживете довге життя, Лікарко."
 
 # game/game/script.rpy:2610
 translate ukrainian shika_tickling_ca8b27c3:
@@ -8055,7 +8055,7 @@ translate ukrainian shika_tickling_3f871f46:
 translate ukrainian shika_tickling_2782b41b:
 
     # s "Oh Doctor! You came to save me!"
-    s "Ох, лікарко! Ви прийшли врятувати мене!"
+    s "Ох, Лікарко! Ви прийшли врятувати мене!"
 
 # game/game/script.rpy:2640
 translate ukrainian shika_tickling_8ebd5f53:

@@ -705,7 +705,7 @@ translate ukrainian yui_first_meet_4b368396:
 translate ukrainian yui_first_meet_3d4bc294:
 
     # y "You can come to my house in the afternoons, {w}I'm usually free around that time."
-    y "Заходь до мене десь по обіду, {w}зазвичай я вільна у цей час."
+    y "Заходь до мене десь у день, {w}зазвичай я вільна у цей час."
 
 # game/game/yui_events.rpy:356
 translate ukrainian yui_first_meet_5d410f13:
@@ -24306,6 +24306,9 @@ translate ukrainian strings:
     old "{image=corazon_wing}{color=#FFFCA9}Yui{/color} has been added!"
     new "{image=corazon_wing}Додано знайомство з {color=#FFFCA9}Юї{/color}!"
 
+    old "I should come in the afternoon, she must be busy now."
+    new "Мені варто повернутися у день. Вона, певно, зараз зайнята."
+
     old "{i}I want to see them again..."
     new "{i}I want to see them again..."
 
@@ -24383,9 +24386,6 @@ translate ukrainian strings:
 
     old "Until you'd gone through all of them..."
     new "Until you'd gone through all of them..."
-
-    old "I should come in the afternoon, she must be busy now."
-    new "I should come in the afternoon, she must be busy now."
 
     old "You talk to Yui until it gets dark."
     new "You talk to Yui until it gets dark."

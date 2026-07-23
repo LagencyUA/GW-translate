@@ -51,10 +51,6 @@ translate ukrainian strings:
     old "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
     new "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
 
-    # game/day_time.rpy:548
-    old "{color=#FF438D}H{/color}-Event\nTalk with Ryoko in the morning."
-    new "{color=#FF438D}H{/color}-Event\nTalk with Ryoko in the morning."
-
     # game/day_time.rpy:574
     old "{color=#FF438D}H{/color}-Event\nYou need to advance further in the story, complete missions!"
     new "{color=#FF438D}H{/color}-Event\nYou need to advance further in the story, complete missions!"
@@ -194,10 +190,6 @@ translate ukrainian strings:
     # game/day_time.rpy:1037
     old "{color=#FF438D}H{/color}-Event\nTalk with {color=#F3915B}Hana{/color} in the morning."
     new "{color=#FF438D}H{/color}-Event\nTalk with {color=#F3915B}Hana{/color} in the morning."
-
-    # game/day_time.rpy:1050
-    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFirst complete the previous hint!"
 
     # game/day_time.rpy:1052
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to complete missions to be able to see this hint."
@@ -859,10 +851,6 @@ translate ukrainian strings:
     old "{color=#FFFFFF}N{/color}-Event\nYou must complete your missions!"
     new "{color=#FFFFFF}N{/color}-Event\nYou must complete your missions!"
 
-    # game/day_time.rpy:3191
-    old "{color=#CACACA}Hint Blocked{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Hint Blocked{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
-
     # game/day_time.rpy:3204
     old "{color=#FFFFFF}N{/color}-Event\nBuild {color=#21c3de}Karyn's{/color} room. Talk to Mayu."
     new "{color=#FFFFFF}N{/color}-Event\nBuild {color=#21c3de}Karyn's{/color} room. Talk to Mayu."
@@ -1046,9 +1034,6 @@ translate ukrainian strings:
     old "{size=-3}Lycoris \nClan"
     new "{size=-3}Клан\nЛікоріс"
 
-    old "{size=-13}Evening\n Your room"
-    new "{size=-13}Evening\n Your room"
-
     old "{size=-3}Kingdom"
     new "{size=-3}Королівство"
 
@@ -1093,6 +1078,14 @@ translate ukrainian strings:
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
     new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії у попередній підказці!"
 
+    # game/day_time.rpy:1050
+    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFirst complete the previous hint!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпочатку виконай дії у попередній підказці!"
+
+    # game/day_time.rpy:3191
+    old "{color=#CACACA}Hint Blocked{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
+    new "{color=#CACACA}Підказка заблокована{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії у попередній підказці!"
+
     # game/day_time.rpy:593
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to complete missions to be able to see this hint."
     new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш спершу виконати певні завдання, щоб побачити підказку."
@@ -1115,9 +1108,25 @@ translate ukrainian strings:
     new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпочатку виконай завдання «Гарні новини?»."
 
 
-    # Меню з Рьоко ryoko_stats
+    ############################ Меню з Рьоко ryoko_stats ###################################
     old "{size=+65}Ryoko"
     new "{size=+65}Рьоко"
+
+    old "{size=-13}Morning\n Living-room"
+    new "{size=-13}Ранок\n Вітальня"
+
+    old "{size=-13}Evening\n Your room"
+    new "{size=-13}Вечір\n Твоя кімната"
+
+    old "{size=-13}Night\n Her room"
+    new "{size=-13}Ніч\n Її кімната"
+
+    old "{size=-13}Afternoon\n Her room"
+    new "{size=-13}День\n Її кімната"
+
+    # game/day_time.rpy:548
+    old "{color=#FF438D}H{/color}-Event\nTalk with Ryoko in the morning."
+    new "{color=#FF438D}Х{/color}-подія\nПоговори з Рьоко вранці."
 
     # game/day_time.rpy:619
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to repair {color=#C9887C}Ryoko's{/color} room."
@@ -1127,65 +1136,28 @@ translate ukrainian strings:
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#C9887C}Ryoko{/color}."
     new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#C9887C}Рьоко{/color}."
 
-    # Меню з Юї yui_stats
+    ############################ Меню з Юї yui_stats ###################################
     old "{size=+65}Yui"
     new "{size=+65}Юї"
 
     # game/day_time.rpy:734
     old "{size=-13}Afternoon\n Yui's Home"
-    new "{size=-13}Полудень\n Дім Юї"
+    new "{size=-13}День\n Дім Юї"
 
     # game/day_time.rpy:742
     old "{size=-13}Evening\n Sawmill"
     new "{size=-13}Вечір\n Лісопилка"
 
+    ############################ Меню з Ханою hana_stats ###################################
+    ############################ Меню з Шикою shika_stats ###################################
+
     ###
-
-    old "melon pan"
-    new "melon pan"
-
-    old "{size=-13}Afternoon\n Her room"
-    new "{size=-13}Afternoon\n Her room"
-
-    old "blue flower"
-    new "blue flower"
-
-    old "sandwich"
-    new "sandwich"
-
-    old "monstruos"
-    new "monstruos"
 
     old "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
     new "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
 
-    old "Consumibles"
-    new "Consumibles"
-
-    old "{size=-13}Night\n Her room"
-    new "{size=-13}Night\n Her room"
-
-    old "Monstruos"
-    new "Monstruos"
-
-    old "{size=-13}Morning\n Living-room"
-    new "{size=-13}Morning\n Living-room"
-
-    old "materiales"
-    new "materiales"
-
-    old "red flower"
-    new "red flower"
-
     old "{size=+65}Charlotte"
     new "{size=+65}Charlotte"
 
-    old "yellow flower"
-    new "yellow flower"
-
     old "No description available."
     new "No description available."
-
-    old "consumibles"
-    new "consumibles"
-
