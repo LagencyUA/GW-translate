@@ -1311,7 +1311,7 @@ translate ukrainian choice4_dcd86e92:
 translate ukrainian choice4_d4099de1:
 
     # mc "I mean, {w}n-new world?"
-    mc "Тобто, {w}н-новий світ?"
+    mc "Тобто {w}н-новий світ?"
 
 # game/game/script.rpy:513
 translate ukrainian choice4_b1a79461:
@@ -2517,7 +2517,7 @@ translate ukrainian choice4_fe4b2659:
 translate ukrainian choice4_4f0fc2b6:
 
     # mc "So, {w}I've truly been reborn."
-    mc "Тож, {w}я таки справді переродився."
+    mc "Тож {w}я таки справді переродився."
 
 # game/game/script.rpy:826
 translate ukrainian choice4_fa70aa52:
@@ -3537,7 +3537,7 @@ translate ukrainian set_fire_bcea4c97:
 translate ukrainian set_fire_af8e4b6a:
 
     # a "{size=-6}You're right..."
-    a "{size=-6}Ви праві..."
+    a "{size=-6}Маєте рацію..."
 
 # game/game/script.rpy:1208
 translate ukrainian set_fire_f2b66154:
@@ -4131,7 +4131,7 @@ translate ukrainian set_fire_84f602bb:
 translate ukrainian set_fire_af688275:
 
     # r "Well, {w}I took what was usable and left it there for you."
-    r "Тож, {w}я дістала з нього все корисне і запакувала для вас."
+    r "Тож {w}я дістала з нього все корисне і запакувала для вас."
 
 # game/game/script.rpy:1355
 translate ukrainian set_fire_29887496:
@@ -5895,7 +5895,7 @@ translate ukrainian go_c642f108:
 translate ukrainian go_5ded1c3a:
 
     # t "She's right... {w}I've already been saved twice..."
-    t "Вона права... {w}Мене вже двічі врятували..."
+    t "Вона має рацію... {w}Мене вже двічі врятували..."
 
 # game/game/script.rpy:1897
 translate ukrainian go_00d6d1ca_1:
@@ -7359,7 +7359,7 @@ translate ukrainian ryoko_encounter_becbdfea:
 translate ukrainian ryoko_encounter_7fa78f09:
 
     # mc "Thank you for taking care of me. But now you need to rest too, right?"
-    mc "Дякую, що піклувалася про мене. Але тепер ти теж маєш відпочити, я правий?"
+    mc "Дякую, що піклувалася про мене. Але тепер ти теж маєш відпочити, гаразд?"
 
 # game/game/script.rpy:2331
 translate ukrainian ryoko_encounter_898a1b36:
@@ -7641,13 +7641,13 @@ translate ukrainian village_street_0ae40874:
 translate ukrainian village_street_ee3aa969:
 
     # t "This must be the place..."
-    t "This must be the place..."
+    t "Виглядає так, ніби це тут..."
 
 # game/game/script.rpy:2466
 translate ukrainian village_street_6d15450b:
 
     # mc "Hello? Is anyone there?"
-    mc "Hello? Is anyone there?"
+    mc "Вітаю? Тут хтось є?"
 
 # game/game/script.rpy:2467
 translate ukrainian village_street_2b35b6fe_2:
@@ -7659,61 +7659,61 @@ translate ukrainian village_street_2b35b6fe_2:
 translate ukrainian village_street_d6e0ebea:
 
     # mc "Doctor?"
-    mc "Doctor?"
+    mc "Лікарко?"
 
 # game/game/script.rpy:2469
 translate ukrainian village_street_ad6d5425:
 
     # t "I forgot to ask Yui the doctor's name..."
-    t "I forgot to ask Yui the doctor's name..."
+    t "Забув спитати у Юї ім'я лікарки..."
 
 # game/game/script.rpy:2474
 translate ukrainian village_street_975f9a71:
 
     # t "The door... {w}is open?"
-    t "The door... {w}is open?"
+    t "Двері... {w}не зачинені?"
 
 # game/game/script.rpy:2475
 translate ukrainian village_street_ba4ef615:
 
     # mc "Hello, I'm coming in."
-    mc "Hello, I'm coming in."
+    mc "Вибачте, я заходжу."
 
 # game/game/script.rpy:2476
 translate ukrainian village_street_115dbcbb:
 
     # mc "I hope I'm not intruding, I'm looking for the doc-"
-    mc "I hope I'm not intruding, I'm looking for the doc-"
+    mc "Сподіваюся, я не завадив, я шукаю ліка-"
 
 # game/game/script.rpy:2484
 translate ukrainian village_street_c62bd3a6:
 
     # mc "{sc=1}{outlinecolor=#000000}Ahg."
-    mc "{sc=1}{outlinecolor=#000000}Ahg."
+    mc "{sc=1}{outlinecolor=#000000}Агх."
 
 # game/game/script.rpy:2485
 translate ukrainian village_street_d17e1299:
 
     # t "Did I just bump into someone?"
-    t "Did I just bump into someone?"
+    t "Я щойно у когось влетів?"
 
 # game/game/script.rpy:2486
 translate ukrainian village_street_9aef862a:
 
     # t "At least I landed on something soft."
-    t "At least I landed on something soft."
+    t "Принаймні приземлився я на щось м’яке."
 
 # game/game/script.rpy:2487
 translate ukrainian village_street_54fa82b7:
 
     # a "Hey... {w}could you move?"
-    a "Hey... {w}could you move?"
+    a "Гей... {w}може злізеш?"
 
 # game/game/script.rpy:2488
 translate ukrainian village_street_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:2492
 translate ukrainian village_street_2b35b6fe_3:
@@ -7725,25 +7725,25 @@ translate ukrainian village_street_2b35b6fe_3:
 translate ukrainian village_street_34c78d82:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "Ох!"
 
 # game/game/script.rpy:2498
 translate ukrainian village_street_9986eeb9:
 
     # mc "SORRY!"
-    mc "SORRY!"
+    mc "ВИБАЧ!"
 
 # game/game/script.rpy:2499
 translate ukrainian village_street_bb5b606e:
 
     # mc "I'm getting up right away!"
-    mc "I'm getting up right away!"
+    mc "Зараз же встану!"
 
 # game/game/script.rpy:2505
 translate ukrainian village_street_27279f1b:
 
     # t "I don't even know what to say..."
-    t "I don't even know what to say..."
+    t "Навіть не знаю, що й казати..."
 
 # game/game/script.rpy:2506
 translate ukrainian village_street_2b35b6fe_4:
@@ -7755,49 +7755,49 @@ translate ukrainian village_street_2b35b6fe_4:
 translate ukrainian village_street_8d09390c:
 
     # a "I heard rumors about you, but no one said you were a pervert."
-    a "I heard rumors about you, but no one said you were a pervert."
+    a "Я чула багато чуток про тебе, але жодна не каже, що ти збоченець."
 
 # game/game/script.rpy:2510
 translate ukrainian village_street_4e463f58:
 
     # mc "S-Sorry! It was an accident..."
-    mc "S-Sorry! It was an accident..."
+    mc "П-Пробач! Я випадково..."
 
 # game/game/script.rpy:2511
 translate ukrainian village_street_e57901ec:
 
     # mc "I came in and didn't see you..."
-    mc "I came in and didn't see you..."
+    mc "Коли заходив, зовсім не побачив тебе..."
 
 # game/game/script.rpy:2513
 translate ukrainian village_street_387a84f7:
 
     # a "So you're all muscle, no brains, huh?"
-    a "So you're all muscle, no brains, huh?"
+    a "Отже, сила є — мізків не треба, та?"
 
 # game/game/script.rpy:2514
 translate ukrainian village_street_e0715dbc:
 
     # mc "But-"
-    mc "But-"
+    mc "Ну-"
 
 # game/game/script.rpy:2516
 translate ukrainian village_street_a6feba68:
 
     # a "Move. You're blocking the doorway."
-    a "Move. You're blocking the doorway."
+    a "Рухайся вже. Ти у проході стоїш."
 
 # game/game/script.rpy:2517
 translate ukrainian village_street_35882fba:
 
     # mc "Oh, right... Sorry."
-    mc "Oh, right... Sorry."
+    mc "А, так... Вибач."
 
 # game/game/script.rpy:2519
 translate ukrainian village_street_29a608f8:
 
     # a "Do you only know how to apologize?"
-    a "Do you only know how to apologize?"
+    a "Ти тільки вибачатися навчився?"
 
 # game/game/script.rpy:2520
 translate ukrainian village_street_2b35b6fe_5:
@@ -7815,25 +7815,25 @@ translate ukrainian village_street_bb8e4b4e:
 translate ukrainian village_street_15cad8a0:
 
     # "{i}The girl leaves without another word."
-    "{i}The girl leaves without another word."
+    "{i}Дівчина мовчки пішла."
 
 # game/game/script.rpy:2528
 translate ukrainian village_street_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
-    mc "{size=-6}{i}Sigh...*"
+    mc "{size=-6}{i}*Хааах...*"
 
 # game/game/script.rpy:2530
 translate ukrainian village_street_8eabdf40:
 
     # a "Wow, you really messed up."
-    a "Wow, you really messed up."
+    a "Ого, майстерно налажав."
 
 # game/game/script.rpy:2532
 translate ukrainian village_street_9719e0f8:
 
     # a "Out of everyone, you had to make {b}her{/b} angry."
-    a "Out of everyone, you had to make {b}her{/b} angry."
+    a "З усіх людей ти розлютив саме {b}її{/b}."
 
 # game/game/script.rpy:2534
 translate ukrainian village_street_2b35b6fe_6:
@@ -7845,79 +7845,79 @@ translate ukrainian village_street_2b35b6fe_6:
 translate ukrainian village_street_172301b5:
 
     # mc "And you are...?"
-    mc "And you are...?"
+    mc "А ти...?"
 
 # game/game/script.rpy:2540
 translate ukrainian village_street_5d0e903b:
 
     # a "Oh! Sorry about that."
-    a "Oh! Sorry about that."
+    a "Ох! Вибач, що не представилася."
 
 # game/game/script.rpy:2545
 translate ukrainian village_street_538cb09b:
 
     # a "Hello! My name is Shika."
-    a "Hello! My name is Shika."
+    a "Привіт! Мене звати Шика."
 
 # game/game/script.rpy:2546
 translate ukrainian village_street_a8257873:
 
     # mc "I'm [mc]."
-    mc "I'm [mc]."
+    mc "Я [mc]."
 
 # game/game/script.rpy:2548
 translate ukrainian village_street_8c749e64:
 
     # s "Nice to meet you, [mc]."
-    s "Nice to meet you, [mc]."
+    s "Рада знайомству, [mc]."
 
 # game/game/script.rpy:2550
 translate ukrainian village_street_c132e95b:
 
     # t "What's going on...? Is she scared?"
-    t "What's going on...? Is she scared?"
+    t "Що вже...? Вона боїться?"
 
 # game/game/script.rpy:2551
 translate ukrainian village_street_ea351707:
 
     # mc "I'm looking for the doc-"
-    mc "I'm looking for the doc-"
+    mc "Я шукаю лікар-"
 
 # game/game/script.rpy:2553
 translate ukrainian village_street_be8bee75:
 
     # s "Are you a thief?"
-    s "Are you a thief?"
+    s "Ти — крадій?"
 
 # game/game/script.rpy:2557
 translate ukrainian village_street_42bd829d:
 
     # mc "Wait, what?"
-    mc "Wait, what?"
+    mc "Стоп, що?"
 
 # game/game/script.rpy:2559
 translate ukrainian village_street_eceeca1d:
 
     # s "Just so you know, I'm trained to kill!"
-    s "Just so you know, I'm trained to kill!"
+    s "До твого відома, я навчена вбивати!"
 
 # game/game/script.rpy:2560
 translate ukrainian village_street_d0090d19:
 
     # mc "N-No... I just came to-"
-    mc "N-No... I just came to-"
+    mc "Н-Ні... Я лише прийшов до-"
 
 # game/game/script.rpy:2562
 translate ukrainian village_street_0971ffc8:
 
     # s "{sc=1}{outlinecolor=#000000}Haaa!!"
-    s "{sc=1}{outlinecolor=#000000}Haaa!!"
+    s "{sc=1}{outlinecolor=#000000}Хааа!!"
 
 # game/game/script.rpy:2569
 translate ukrainian village_street_5c2aa7fd:
 
     # s "a-"
-    s "a-"
+    s "...а-"
 
 # game/game/script.rpy:2575
 translate ukrainian village_street_2b35b6fe_7:
@@ -7935,247 +7935,247 @@ translate ukrainian village_street_2b35b6fe_8:
 translate ukrainian village_street_25558010:
 
     # mc "Uh... {w}Do you need help...?"
-    mc "Uh... {w}Do you need help...?"
+    mc "Ух... {w}Тобі допомогти...?"
 
 # game/game/script.rpy:2586
 translate ukrainian village_street_cc2027aa:
 
     # s "You're stronger than you look!"
-    s "You're stronger than you look!"
+    s "А ти сильніший, ніж здаєшся!"
 
 # game/game/script.rpy:2587
 translate ukrainian village_street_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Я..."
 
 # game/game/script.rpy:2589
 translate ukrainian village_street_f5b7fcd8:
 
     # s "Just take me, but please leave the doctor alone!"
-    s "Just take me, but please leave the doctor alone!"
+    s "Можеш забрати мене, але, будь ласка, облиш лікарку!"
 
 # game/game/script.rpy:2603
 translate ukrainian shika_tickling_cc92f30b:
 
     # mc "Are you really sure you want to sacrifice yourself?"
-    mc "Are you really sure you want to sacrifice yourself?"
+    mc "Ти справді впевнена, що хочеш пожертвувати собою?"
 
 # game/game/script.rpy:2605
 translate ukrainian shika_tickling_11add0f4:
 
     # s "Yes! {w}As long as you keep your promise and leave without hurting anyone!"
-    s "Yes! {w}As long as you keep your promise and leave without hurting anyone!"
+    s "Так! {w}Лише стримай обіцянку і йди, не чіпаючи нікого!"
 
 # game/game/script.rpy:2607
 translate ukrainian shika_tickling_896035dd:
 
     # mc "Alright... {w}I'll make it as painless as possible."
-    mc "Alright... {w}I'll make it as painless as possible."
+    mc "Гаразд... {w}Постараюся зробити це якомога безболісніше."
 
 # game/game/script.rpy:2609
 translate ukrainian shika_tickling_3a71204c:
 
     # s "I hope you live a long life, Doctor."
-    s "I hope you live a long life, Doctor."
+    s "Сподіваюся, ви проживете довге життя, лікарко."
 
 # game/game/script.rpy:2610
 translate ukrainian shika_tickling_ca8b27c3:
 
     # s "{size=-6}{i}My time has come..."
-    s "{size=-6}{i}My time has come..."
+    s "{size=-6}{i}Мій час настав..."
 
 # game/game/script.rpy:2612
 translate ukrainian shika_tickling_dbd31391:
 
     # s "Goodbye... always remember m-"
-    s "Goodbye... always remember m-"
+    s "Прощавайте... Не забудьте пом'янути незлим тих-" #Відсилка на Заповіт
 
 # game/game/script.rpy:2619
 translate ukrainian shika_tickling_60cbe841:
 
     # s "{sc=2}{outlinecolor=#000000}HAHAHAHA!"
-    s "{sc=2}{outlinecolor=#000000}HAHAHAHA!"
+    s "{sc=2}{outlinecolor=#000000}ХАХАХАХА!"
 
 # game/game/script.rpy:2620
 translate ukrainian shika_tickling_ba6ea9e0:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}No, please! A-Anything but this! Hahaha!"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}No, please! A-Anything but this! Hahaha!"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}Ні, благаю! Щ-Що завгодно, але тільки не це! Хахаха!"
 
 # game/game/script.rpy:2622
 translate ukrainian shika_tickling_27f1be10:
 
     # mc "You dared to attack me!"
-    mc "You dared to attack me!"
+    mc "Ти наважилася напасти на мене!"
 
 # game/game/script.rpy:2624
 translate ukrainian shika_tickling_940f97bc:
 
     # mc "Now I have no choice but to punish you with all my might!"
-    mc "Now I have no choice but to punish you with all my might!"
+    mc "У мене не залишилося вибору, окрім як застосувати найсуворіше покарання!"
 
 # game/game/script.rpy:2625
 translate ukrainian shika_tickling_e6bc6421:
 
     # s "{sc=1}{outlinecolor=#000000}I-It was a mistake! I-I was just passing by! Hahaha!"
-    s "{sc=1}{outlinecolor=#000000}I-It was a mistake! I-I was just passing by! Hahaha!"
+    s "{sc=1}{outlinecolor=#000000}Ц-Це непорозуміння! Я-Я лише повз йшла! Хахаха!"
 
 # game/game/script.rpy:2627
 translate ukrainian shika_tickling_0e4316d2:
 
     # mc "Yeah, yeah, and I'm the protagonist of a visual novel."
-    mc "Yeah, yeah, and I'm the protagonist of a visual novel."
+    mc "Так, так, а я — протагоніст візуальної новели."
 
 # game/game/script.rpy:2629
 translate ukrainian shika_tickling_b126f0a9:
 
     # mc "I won't fall for your lies! Mwahaha!"
-    mc "I won't fall for your lies! Mwahaha!"
+    mc "Я не піддамся твоїй облуді! Мухаха!"
 
 # game/game/script.rpy:2630
 translate ukrainian shika_tickling_172183bd:
 
     # s "{sc=1}{outlinecolor=#000000}I-I don't even k-know what you're t-talking about! \nStop or I'll die! Hahaha!"
-    s "{sc=1}{outlinecolor=#000000}I-I don't even k-know what you're t-talking about! \nStop or I'll die! Hahaha!"
+    s "{sc=1}{outlinecolor=#000000}Я-Я навіть не розумію, п-про що ти кажеш! \nЗупинись, або помреш! Хахаха!"
 
 # game/game/script.rpy:2632
 translate ukrainian shika_tickling_d3b98e59:
 
     # a "I see you two have already met."
-    a "I see you two have already met."
+    a "Бачу, ви двоє вже познайомилися."
 
 # game/game/script.rpy:2634
 translate ukrainian shika_tickling_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:2638
 translate ukrainian shika_tickling_2782b41b:
 
     # s "Oh Doctor! You came to save me!"
-    s "Oh Doctor! You came to save me!"
+    s "Ох, лікарко! Ви прийшли врятувати мене!"
 
 # game/game/script.rpy:2640
 translate ukrainian shika_tickling_8ebd5f53:
 
     # mc "H-Hello, you're the doctor?"
-    mc "H-Hello, you're the doctor?"
+    mc "В-Вітаю, то це ти лікарка?"
 
 # game/game/script.rpy:2641
 translate ukrainian shika_tickling_6ff60c05:
 
     # a "Why don't we talk in the living room while Shika recovers from your deadly attack?"
-    a "Why don't we talk in the living room while Shika recovers from your deadly attack?"
+    a "Чому б нам не поговорити у вітальні, поки Шика оговтується від твоєї смертельної атаки?"
 
 # game/game/script.rpy:2643
 translate ukrainian shika_tickling_6bedd863:
 
     # mc "{size=-6}Oh..."
-    mc "{size=-6}Oh..."
+    mc "{size=-6}Ох..."
 
 # game/game/script.rpy:2644
 translate ukrainian shika_tickling_101c0557:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
-    s "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
+    s "{sc=1}{outlinecolor=#000000}{size=-8}Бабусю...? Це ти...?"
 
 # game/game/script.rpy:2646
 translate ukrainian shika_tickling_7783b0d2:
 
     # mc "Ok, I'll follow you."
-    mc "Ok, I'll follow you."
+    mc "Гаразд, ходімо."
 
 # game/game/script.rpy:2652
 translate ukrainian shika_tickling_1b1c65df:
 
     # "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
-    "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шики зросла до [shika_affection]{image=corazon}"
 
 # game/game/script.rpy:2660
 translate ukrainian doctor_1_9d315002:
 
     # mc "Ahem*, I'm looking for the doctor. Yui told me I could find her here..."
-    mc "Ahem*, I'm looking for the doctor. Yui told me I could find her here..."
+    mc "Ахем, я шукаю лікарку. Юї сказала мені, що вона тут..."
 
 # game/game/script.rpy:2664
 translate ukrainian doctor_1_c1e70408:
 
     # s "The doctor...?"
-    s "The doctor...?"
+    s "Лікарку...?"
 
 # game/game/script.rpy:2666
 translate ukrainian doctor_1_c0cd1ba7:
 
     # s "So you're not here to rob and kill us while no one's looking?"
-    s "So you're not here to rob and kill us while no one's looking?"
+    s "То ти тут не для того, щоб пограбувати й убити нас, поки ніхто не бачить?"
 
 # game/game/script.rpy:2667
 translate ukrainian doctor_1_9719281c:
 
     # mc "That... {w}{size=-6}sigh*"
-    mc "That... {w}{size=-6}sigh*"
+    mc "Саме... {w}{size=-6}*Хааах*"
 
 # game/game/script.rpy:2668
 translate ukrainian doctor_1_9d141740:
 
     # mc "That's what I've been trying to explain from the beginning..."
-    mc "That's what I've been trying to explain from the beginning..."
+    mc "Саме це я й намагався пояснити із самого початку..."
 
 # game/game/script.rpy:2670
 translate ukrainian doctor_1_a30d169a:
 
     # s "You should've said so earlier!"
-    s "You should've said so earlier!"
+    s "Ти мав сказати раніше!"
 
 # game/game/script.rpy:2671
 translate ukrainian doctor_1_56dec67d:
 
     # t "You know what? I'm not even going to argue anymore..."
-    t "You know what? I'm not even going to argue anymore..."
+    t "Знаєш? Я навіть не буду більше сперечатися..."
 
 # game/game/script.rpy:2673
 translate ukrainian doctor_1_3fb0f7ae:
 
     # s "I'll go get her right now."
-    s "I'll go get her right now."
+    s "Зараз покличу її."
 
 # game/game/script.rpy:2674
 translate ukrainian doctor_1_72f9210e:
 
     # mc "Thanks, Shika."
-    mc "Thanks, Shika."
+    mc "Дякую, Шико."
 
 # game/game/script.rpy:2676
 translate ukrainian doctor_1_8bfb123c:
 
     # s "How do you know my name?!"
-    s "How do you know my name?!"
+    s "Звідки ти знаєш, як мене звати?!"
 
 # game/game/script.rpy:2678
 translate ukrainian doctor_1_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
-    mc "{size=-6}{i}Sigh...*"
+    mc "{size=-6}{i}*Хааах...*"
 
 # game/game/script.rpy:2682
 translate ukrainian doctor_1_9fed6771:
 
     # s "You can go in now. She's waiting for you in the living room."
-    s "You can go in now. She's waiting for you in the living room."
+    s "Можеш заходити. Вона очікує тебе у вітальні."
 
 # game/game/script.rpy:2683
 translate ukrainian doctor_1_911b8314:
 
     # s "And take your shoes off! Don't you have any manners?"
-    s "And take your shoes off! Don't you have any manners?"
+    s "І ану роззувайся! Про манери ти взагалі чув?"
 
 # game/game/script.rpy:2684
 translate ukrainian doctor_1_9d89cde5:
 
     # mc "But you-"
-    mc "But you-"
+    mc "Але ти ж-"
 
 # game/game/script.rpy:2685
 translate ukrainian doctor_1_2b35b6fe:
@@ -8187,7 +8187,7 @@ translate ukrainian doctor_1_2b35b6fe:
 translate ukrainian doctor_1_dd0a2602:
 
     # mc "{size=-6}Okay, okay, I got it."
-    mc "{size=-6}Okay, okay, I got it."
+    mc "{size=-6}Так, так, гаразд."
 
 # game/game/script.rpy:2697
 translate ukrainian expedicion_forest_e29843bd:
@@ -28924,11 +28924,11 @@ translate ukrainian strings:
 
     # game/script.rpy:2594
     old "Play along"
-    new "Play along"
+    new "Підіграти"
 
     # game/script.rpy:2594
     old "Ask for the doctor"
-    new "Ask for the doctor"
+    new "Запитати про лікарку"
 
     # game/script.rpy:2894
     old "Try again"
@@ -29162,6 +29162,12 @@ translate ukrainian strings:
     old "{image=quest_text}Mission updated!"
     new "{image=quest_text}Завдання оновлене!"
 
+    old "You quickly get up from the floor. You offer her help, but she refuses."
+    new "Ти швидко підводишся та хочеш їй допомогти, але вона відмовляється."
+
+    old "Shika leaves, but returns just a few seconds later."
+    new "Шика вибігла й повернулася через кілька секунд."
+
 ### NOT SORTED
 
     old "{b}Don't leave."
@@ -29260,9 +29266,6 @@ translate ukrainian strings:
     old "You and the girls go back to your village."
     new "You and the girls go back to your village."
 
-    old "Shika leaves, but returns just a few seconds later."
-    new "Shika leaves, but returns just a few seconds later."
-
     old "Can't you hear me?"
     new "Can't you hear me?"
 
@@ -29334,9 +29337,6 @@ translate ukrainian strings:
 
     old "{image=quest_text}Now you can collect wood!"
     new "{image=quest_text}Now you can collect wood!"
-
-    old "You quickly get up from the floor. You offer her help, but she refuses."
-    new "You quickly get up from the floor. You offer her help, but she refuses."
 
     old "After walking 15 minutes."
     new "After walking 15 minutes."

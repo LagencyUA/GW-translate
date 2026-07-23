@@ -9,241 +9,241 @@ translate ukrainian hana_house_9b244468:
 translate ukrainian hana_talk_7745131c:
 
     # a "I didn't expect to see you here so soon."
-    a "I didn't expect to see you here so soon."
+    a "Не очікувала тебе так швидко побачити тут."
 
 # game/game/hana_events.rpy:96
 translate ukrainian hana_talk_acd81eee:
 
     # mc "Yeah, I'm already feeling better."
-    mc "Yeah, I'm already feeling better."
+    mc "Так, мені вже краще."
 
 # game/game/hana_events.rpy:97
 translate ukrainian hana_talk_52f1bbd2:
 
     # mc "Yui told me you were the one who saved my life."
-    mc "Yui told me you were the one who saved my life."
+    mc "Юї розповіла, що це саме ти мене на ноги поставила."
 
 # game/game/hana_events.rpy:99
 translate ukrainian hana_talk_c52ce9e2:
 
     # mc "So I came to thank you, {w}umm..."
-    mc "So I came to thank you, {w}umm..."
+    mc "Тож я прийшов тобі подякувати, {w}умм..."
 
 # game/game/hana_events.rpy:100
 translate ukrainian hana_talk_9bf150be:
 
     # a "Hana."
-    a "Hana."
+    a "Хана."
 
 # game/game/hana_events.rpy:102
 translate ukrainian hana_talk_12db36b4:
 
     # h "My name is Hana."
-    h "My name is Hana."
+    h "Мене звати Хана."
 
 # game/game/hana_events.rpy:104
 translate ukrainian hana_talk_3fba56e7:
 
     # mc "Thank you, Hana... for saving my life."
-    mc "Thank you, Hana... for saving my life."
+    mc "Дякую тобі, Хано... за те, що урятувала мені життя."
 
 # game/game/hana_events.rpy:106
 translate ukrainian hana_talk_8edac5d5:
 
     # h "I can tell you're a good person, [mc]."
-    h "I can tell you're a good person, [mc]."
+    h "Можу сказати, ти хороша людина, [mc]."
 
 # game/game/hana_events.rpy:108
 translate ukrainian hana_talk_78153510:
 
     # mc "Wait... how do you know my name?"
-    mc "Wait... how do you know my name?"
+    mc "Стривай... коли це я встиг представитися?"
 
 # game/game/hana_events.rpy:110
 translate ukrainian hana_talk_8ac2e955:
 
     # h "Well, when Yui showed up with a dying man and a slave girl who wouldn't stop screaming your name..."
-    h "Well, when Yui showed up with a dying man and a slave girl who wouldn't stop screaming your name..."
+    h "Ну, коли Юї з'явилася з хлопцем, що вже збирався коней двинути, та малою рабинею, яка постійно кричала твоє ім'я..."
 
 # game/game/hana_events.rpy:112
 translate ukrainian hana_talk_9052af24:
 
     # h "It kind of sticks."
-    h "It kind of sticks."
+    h "Якось важко не запам'ятати."
 
 # game/game/hana_events.rpy:113
 translate ukrainian hana_talk_b19e6511:
 
     # mc "Hahaha, yeah, I guess you're right."
-    mc "Hahaha, yeah, I guess you're right."
+    mc "Хахаха, згоден. Мабуть, ти маєш рацію."
 
 # game/game/hana_events.rpy:115
 translate ukrainian hana_talk_c7f7979e:
 
     # h "Hmm... I thought someone who owns a demon would act a bit differently."
-    h "Hmm... I thought someone who owns a demon would act a bit differently."
+    h "Гмм... Гадала, власник демона поводитиметься інакше."
 
 # game/game/hana_events.rpy:117
 translate ukrainian hana_talk_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Про що це ти?"
 
 # game/game/hana_events.rpy:118
 translate ukrainian hana_talk_f15666f8:
 
     # mc "Now that you mention it, ever since I came to this wor— {w}I mean, village... everyone's been staring at me like I'm some kind of weirdo."
-    mc "Now that you mention it, ever since I came to this wor— {w}I mean, village... everyone's been staring at me like I'm some kind of weirdo."
+    mc "Тепер, коли ти згадала, відтоді, як я прибув у цей сві— {w}тобто селище... усі витріщаються на мене, ніби я якийсь дивак."
 
 # game/game/hana_events.rpy:119
 translate ukrainian hana_talk_e1a5d186:
 
     # h "I figured you weren't from around here."
-    h "I figured you weren't from around here."
+    h "Я здогадалася, що ти не з тутешніх земель."
 
 # game/game/hana_events.rpy:121
 translate ukrainian hana_talk_a828d37b:
 
     # mc "Ah, no... I come from pretty far away."
-    mc "Ah, no... I come from pretty far away."
+    mc "Ах, так... Я прибув з досить далеких країв."
 
 # game/game/hana_events.rpy:123
 translate ukrainian hana_talk_e59e05c1:
 
     # h "Yeah, I noticed something was off when I saw how concerned a \"slave\" was for her owner."
-    h "Yeah, I noticed something was off when I saw how concerned a \"slave\" was for her owner."
+    h "Ага, я одразу запідозрила неладне, коли побачила, як «рабиня» настільки переймалася за власного господаря."
 
 # game/game/hana_events.rpy:125
 translate ukrainian hana_talk_f698eed8:
 
     # mc "Her name's Ryoko."
-    mc "Her name's Ryoko."
+    mc "Її звати Рьоко."
 
 # game/game/hana_events.rpy:126
 translate ukrainian hana_talk_13b3789d:
 
     # mc "And she's not a slave... {w}not anymore."
-    mc "And she's not a slave... {w}not anymore."
+    mc "І вона не рабиня... {w}відтепер точно."
 
 # game/game/hana_events.rpy:128
 translate ukrainian hana_talk_fb386c35:
 
     # h "Hmm..."
-    h "Hmm..."
+    h "Гмм..."
 
 # game/game/hana_events.rpy:130
 translate ukrainian hana_talk_d8a80b0b:
 
     # h "Well, I think it's time for a checkup."
-    h "Well, I think it's time for a checkup."
+    h "Ну, думаю, настав час для обстеження."
 
 # game/game/hana_events.rpy:131
 translate ukrainian hana_talk_03bb4ffa:
 
     # mc "Oh, right, {w}that's actually the other reason Yui sent me here."
-    mc "Oh, right, {w}that's actually the other reason Yui sent me here."
+    mc "Ох, так, {w}це, власне, інша причина, чому Юї відправила мене сюди."
 
 # game/game/hana_events.rpy:133
 translate ukrainian hana_talk_95064381:
 
     # h "Yes, I need to make sure the village's savior is in good health."
-    h "Yes, I need to make sure the village's savior is in good health."
+    h "Так, мені треба переконатися, що рятівник нашого селища почувається добре."
 
 # game/game/hana_events.rpy:134
 translate ukrainian hana_talk_22ed364c:
 
     # t "Savior...?"
-    t "Savior...?"
+    t "Рятівник...?"
 
 # game/game/hana_events.rpy:136
 translate ukrainian hana_talk_1fe5ecca:
 
     # h "Shika, {w}can you come here for a moment?"
-    h "Shika, {w}can you come here for a moment?"
+    h "Шико, {w}можеш підійти на хвильку?"
 
 # game/game/hana_events.rpy:137
 translate ukrainian hana_talk_0287578a:
 
     # s "Yeees~"
-    s "Yeees~"
+    s "Тааак~"
 
 # game/game/hana_events.rpy:140
 translate ukrainian hana_talk_f6c71214:
 
     # h "You can stop spying on our guest and come help me."
-    h "You can stop spying on our guest and come help me."
+    h "Можеш перестати підглядати за нашим гостем і прийти допомогти мені."
 
 # game/game/hana_events.rpy:144
 translate ukrainian hana_talk_82928cac:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}Gigh..."
-    s "{sc=1}{outlinecolor=#000000}{size=-8}Gigh..."
+    s "{sc=1}{outlinecolor=#000000}{size=-8}Гімх..."
 
 # game/game/hana_events.rpy:146
 translate ukrainian hana_talk_31c2f7fa:
 
     # s "Y{w}-Yees... Doctor..."
-    s "Y{w}-Yees... Doctor..."
+    s "Т{w}-Таак... лікарко..."
 
 # game/game/hana_events.rpy:152
 translate ukrainian hana_talk_fac88981:
 
     # mc "Could you explain why I'm considered \"so weird\" in this village?"
-    mc "Could you explain why I'm considered \"so weird\" in this village?"
+    mc "Могла б ти мені пояснити, чому всі у цьому селищі вважають мене «таким дивним»?"
 
 # game/game/hana_events.rpy:153
 translate ukrainian hana_talk_75950370:
 
     # mc "Everyone keeps staring at me, and Yui also said something strange about Ryoko..."
-    mc "Everyone keeps staring at me, and Yui also said something strange about Ryoko..."
+    mc "Усі постійно витріщаються, а Юї також казала щось дивне про Рьоко..."
 
 # game/game/hana_events.rpy:158
 translate ukrainian hana_talk_20e3e160:
 
     # h "Shika, you take the bottom half. I'll take the top."
-    h "Shika, you take the bottom half. I'll take the top."
+    h "Шико, ти бери за верх. А я — за низ."
 
 # game/game/hana_events.rpy:159
 translate ukrainian hana_talk_701d2464:
 
     # mc "What!?"
-    mc "What!?"
+    mc "Га!?"
 
 # game/game/hana_events.rpy:161
 translate ukrainian hana_talk_f9956746:
 
     # s "Understood."
-    s "Understood."
+    s "Прийнято."
 
 # game/game/hana_events.rpy:162
 translate ukrainian hana_talk_f8aa9a63:
 
     # mc "Shika?"
-    mc "Shika?"
+    mc "Шика?"
 
 # game/game/hana_events.rpy:164
 translate ukrainian hana_talk_515bc060:
 
     # t "What's going on?"
-    t "What's going on?"
+    t "Що відбувається?"
 
 # game/game/hana_events.rpy:166
 translate ukrainian hana_talk_53faae66:
 
     # h "Relax... {w}Just relax and leave everything to me. Ufufu~"
-    h "Relax... {w}Just relax and leave everything to me. Ufufu~"
+    h "Спокійно... {w}Просто розслабся і довір усе мені. Ухуху~"
 
 # game/game/hana_events.rpy:169
 translate ukrainian hana_talk_d20500e0:
 
     # t "Finally... {w}Mother... I'm becoming a man."
-    t "Finally... {w}Mother... I'm becoming a man."
+    t "Нарешті... {w}Мамо... я зараз стану чоловіком."
 
 # game/game/hana_events.rpy:170
 translate ukrainian hana_talk_7070242e:
 
     # t "And not just with one, but with two beautiful girls..."
-    t "And not just with one, but with two beautiful girls..."
+    t "І не з однією, а аж з двома красивими дівчатами..."
 
 # game/game/hana_events.rpy:173
 translate ukrainian hana_talk_2b35b6fe:
@@ -255,91 +255,91 @@ translate ukrainian hana_talk_2b35b6fe:
 translate ukrainian hana_talk_4faba10f:
 
     # t "Why aren't they doing anything?"
-    t "Why aren't they doing anything?"
+    t "Чому вони нічого не роблять?"
 
 # game/game/hana_events.rpy:176
 translate ukrainian hana_talk_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/hana_events.rpy:178
 translate ukrainian hana_talk_c68d8bd5:
 
     # t "Why is everything glowing?"
-    t "Why is everything glowing?"
+    t "Що це за світло?"
 
 # game/game/hana_events.rpy:179
 translate ukrainian hana_talk_10d92692:
 
     # t "Is this... {w}magic?"
-    t "Is this... {w}magic?"
+    t "Це... {w}магія?"
 
 # game/game/hana_events.rpy:181
 translate ukrainian hana_talk_f7c1fdde:
 
     # h "It looks like you've made a full recovery, {w}and in just a few days."
-    h "It looks like you've made a full recovery, {w}and in just a few days."
+    h "Видно, ти повністю одужав, {w}і всього за кілька днів."
 
 # game/game/hana_events.rpy:183
 translate ukrainian hana_talk_e1ea158a:
 
     # s "How is that possible, Doctor? He was practically dying when he got here!"
-    s "How is that possible, Doctor? He was practically dying when he got here!"
+    s "Як це можливо, лікарко? Він же був при смерті, коли його сюди принесли!"
 
 # game/game/hana_events.rpy:184
 translate ukrainian hana_talk_4ede8e9c:
 
     # mc "{size=-6}{i}Gulp...*"
-    mc "{size=-6}{i}Gulp...*"
+    mc "{size=-6}{i}*Ковть...*"
 
 # game/game/hana_events.rpy:186
 translate ukrainian hana_talk_314864ac:
 
     # h "[mc] might have rapid regeneration."
-    h "[mc] might have rapid regeneration."
+    h "Мабуть, у [mc] прискорена регенерація."
 
 # game/game/hana_events.rpy:187
 translate ukrainian hana_talk_99126473:
 
     # h "A rare trait, very few people have it."
-    h "A rare trait, very few people have it."
+    h "Рідкісна особливість, мало в кого вона є."
 
 # game/game/hana_events.rpy:188
 translate ukrainian hana_talk_d1d92341:
 
     # t "Or maybe... {w}the blessing of a certain goddess."
-    t "Or maybe... {w}the blessing of a certain goddess."
+    t "Ну, або... {w}благословіння певної богині."
 
 # game/game/hana_events.rpy:189
 translate ukrainian hana_talk_bcc0fcf8:
 
     # t "But I can't say that out loud..."
-    t "But I can't say that out loud..."
+    t "Але я не казатиму цього вголос..."
 
 # game/game/hana_events.rpy:191
 translate ukrainian hana_talk_7ed621ed:
 
     # h "This is fascinating. It's like nothing ever happened to you."
-    h "This is fascinating. It's like nothing ever happened to you."
+    h "Це просто неймовірно. Виглядає так, ніби з тобою нічого й не сталося."
 
 # game/game/hana_events.rpy:193
 translate ukrainian hana_talk_d8caab6d:
 
     # t "Yeah... {w}very fascinating indeed..."
-    t "Yeah... {w}very fascinating indeed..."
+    t "Ага... {w}справді неймовірно, згоден..."
 
 # game/game/hana_events.rpy:194
 translate ukrainian hana_talk_044b7416:
 
     # s "{size=-10}What's that? {w}There's a bulge in his pants..."
-    s "{size=-10}What's that? {w}There's a bulge in his pants..."
+    s "{size=-10}Що це? {w}У нього щось випирає у штанях..."
 
 # game/game/hana_events.rpy:199
 translate ukrainian hana_talk_ddad5f46:
 
     # h "Let me tell you a story, [mc]."
-    h "Let me tell you a story, [mc]."
+    h "Дозволь мені розповісти тобі історію, [mc]."
 
 # game/game/hana_events.rpy:201
 translate ukrainian hana_talk_3a34d891:
@@ -15056,6 +15056,9 @@ translate ukrainian strings:
     new "Want to spend some time? {image=/bg/icons/heart_text.png}"
 
 translate ukrainian strings:
+    old "Hana asks you to remove your sweatshirt and lie down."
+    new "Хана просить тебе знати кофту і лягти."
+
     old "You tell Hana everything that happened."
     new "You tell Hana everything that happened."
 
@@ -15073,9 +15076,6 @@ translate ukrainian strings:
 
     old "{image=corazon_wing}{color=#F5B6F2}Shika{/color} and {color=#DEA45B}Hana{/color} has been added!"
     new "{image=corazon_wing}{color=#F5B6F2}Shika{/color} and {color=#DEA45B}Hana{/color} has been added!"
-
-    old "Hana asks you to remove your sweatshirt and lie down."
-    new "Hana asks you to remove your sweatshirt and lie down."
 
     old "Hana and you start walking."
     new "Hana and you start walking."
