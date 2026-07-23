@@ -51,34 +51,6 @@ translate ukrainian strings:
     old "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
     new "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
 
-    # game/day_time.rpy:574
-    old "{color=#FF438D}H{/color}-Event\nYou need to advance further in the story, complete missions!"
-    new "{color=#FF438D}H{/color}-Event\nYou need to advance further in the story, complete missions!"
-
-    # game/day_time.rpy:576
-    old "{color=#FF438D}H{/color}-Event\nYou should go check the lake."
-    new "{color=#FF438D}H{/color}-Event\nYou should go check the lake."
-
-    # game/day_time.rpy:578
-    old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"Fishing Rod\"{/color}."
-    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"Fishing Rod\"{/color}."
-
-    # game/day_time.rpy:580
-    old "{color=#FF438D}H{/color}-Event\nGo to your backyard in the afternoon."
-    new "{color=#FF438D}H{/color}-Event\nGo to your backyard in the afternoon."
-
-    # game/day_time.rpy:604
-    old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
-    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
-
-    # game/day_time.rpy:606
-    old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
-    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
-
-    # game/day_time.rpy:629
-    old "{color=#FF438D}H{/color}-Event\nHelp {color=#C9887C}Ryoko{/color} in her room in the afternoon."
-    new "{color=#FF438D}H{/color}-Event\nHelp {color=#C9887C}Ryoko{/color} in her room in the afternoon."
-
     # game/day_time.rpy:648
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nRepair the gate! More information on {color=#E7CAE5}Shika's{/color} hints!"
     new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nRepair the gate! More information on {color=#E7CAE5}Shika's{/color} hints!"
@@ -182,10 +154,6 @@ translate ukrainian strings:
     # game/day_time.rpy:922
     old "{color=#FF438D}H{/color}-Event\nPass outside {color=#919191}Mayu's{/color} shop in the morning."
     new "{color=#FF438D}H{/color}-Event\nPass outside {color=#919191}Mayu's{/color} shop in the morning."
-
-    # game/day_time.rpy:990
-    old "{size=-13}Morning\n Hana's Home"
-    new "{size=-13}Morning\n Hana's Home"
 
     # game/day_time.rpy:1037
     old "{color=#FF438D}H{/color}-Event\nTalk with {color=#F3915B}Hana{/color} in the morning."
@@ -891,10 +859,6 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nGo to the hot springs at night."
     new "{color=#FF438D}H{/color}-Event\nGo to the hot springs at night."
 
-    # game/day_time.rpy:3414
-    old "{size=-13}Stones"
-    new "{size=-13}Stones"
-
     # game/day_time.rpy:3444
     old "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#ffffff}Runes and Goddesses{/color}\"."
     new "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#ffffff}Runes and Goddesses{/color}\"."
@@ -1102,7 +1066,6 @@ translate ukrainian strings:
     old "{color=#CACACA}Hint Blocked{/color}\nYou need to advance further in the story, complete missions!"
     new "{color=#CACACA}Підказка заблокована{/color}\nТи повинен просунутися далі історією, виконуй поточні завдання!"
 
-    ### хз чиї
     # game/day_time.rpy:646
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nComplete the mission \"Good news?\"."
     new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпочатку виконай завдання «Гарні новини?»."
@@ -1128,6 +1091,30 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nTalk with Ryoko in the morning."
     new "{color=#FF438D}Х{/color}-подія\nПоговори з Рьоко вранці."
 
+    # game/day_time.rpy:574
+    old "{color=#FF438D}H{/color}-Event\nYou need to advance further in the story, complete missions!"
+    new "{color=#FF438D}Х{/color}-подія\nТи повинен просунутися далі історією, виконуй поточні завдання!"
+
+    # game/day_time.rpy:576
+    old "{color=#FF438D}H{/color}-Event\nYou should go check the lake."
+    new "{color=#FF438D}Х{/color}-подія\nТобі варто відвідати озеро."
+
+    # game/day_time.rpy:578
+    old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"Fishing Rod\"{/color}."
+    new "{color=#FF438D}Х{/color}-подія\nВиконай місію {color=#FBE5A2}«Вудка»{/color}."
+
+    # game/day_time.rpy:580
+    old "{color=#FF438D}H{/color}-Event\nGo to your backyard in the afternoon."
+    new "{color=#FF438D}Х{/color}-Подія\nЗавітай на задній двір удень."
+
+    # game/day_time.rpy:604
+    old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
+    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
+
+    # game/day_time.rpy:606
+    old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
+    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
+
     # game/day_time.rpy:619
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to repair {color=#C9887C}Ryoko's{/color} room."
     new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку відремонтуй кімнату {color=#C9887C}Рьоко{/color}."
@@ -1135,6 +1122,10 @@ translate ukrainian strings:
     # game/day_time.rpy:621
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#C9887C}Ryoko{/color}."
     new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#C9887C}Рьоко{/color}."
+
+    # game/day_time.rpy:629
+    old "{color=#FF438D}H{/color}-Event\nHelp {color=#C9887C}Ryoko{/color} in her room in the afternoon."
+    new "{color=#FF438D}H{/color}-Event\nHelp {color=#C9887C}Ryoko{/color} in her room in the afternoon."
 
     ############################ Меню з Юї yui_stats ###################################
     old "{size=+65}Yui"
@@ -1149,8 +1140,28 @@ translate ukrainian strings:
     new "{size=-13}Вечір\n Лісопилка"
 
     ############################ Меню з Ханою hana_stats ###################################
-    ############################ Меню з Шикою shika_stats ###################################
+    old "{size=+65}Hana"
+    new "{size=+65}Хана"
 
+    # game/day_time.rpy:990
+    old "{size=-13}Morning\n Hana's Home"
+    new "{size=-13}Ранок\n Дім Хани"
+
+    ############################ Меню з Шикою shika_stats ###################################
+    old "{size=+65}Shika"
+    new "{size=+65}Шика"
+
+    ############################ Меню з Кейко keiko_stats ###################################
+    old "{size=+65}Keiko"
+    new "{size=+65}Кейко"
+
+    # game/day_time.rpy:3414
+    old "{size=-13}Stones"
+    new "{size=-13}Розвалини"
+
+    ############################ Меню з Фуміко fumiko_stats ###################################
+    old "{size=+65}Fumiko"
+    new "{size=+65}Фуміко"
     ###
 
     old "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
