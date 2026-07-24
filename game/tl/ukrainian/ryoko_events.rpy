@@ -393,13 +393,13 @@ translate ukrainian ryoko_1_2b35b6fe:
 translate ukrainian ryoko_1_f9f9f1dd:
 
     # t "Part of me wants to ask her where she used to sleep before... {w}but I know I shouldn't bring that up yet."
-    t "Частина мене хоче спитати, де вона звикла спати... {w}але розумію, що це не найкраща тема, яку можна зачепити."
+    t "Частина мене хоче поцікавитися, де вона звикла спати... {w}але розумію, що це не найкраща тема, яку можна зачепити."
 
 # game/game/ryoko_events.rpy:196
 translate ukrainian ryoko_1_d9ba1fa2:
 
     # t "I guess I'll have to be more specific when I ask Ryoko to do things."
-    t "Гадаю, мені слід висловлюватися чіткіше, коли я проситиму про щось Рьоко."
+    t "Гадаю, мені слід висловлюватися чіткіше, коли я проситиму Рьоко про щось."
 
 # game/game/ryoko_events.rpy:198
 translate ukrainian ryoko_1_7a4881c0:

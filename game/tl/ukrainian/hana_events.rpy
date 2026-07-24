@@ -51,7 +51,7 @@ translate ukrainian hana_talk_3fba56e7:
 translate ukrainian hana_talk_8edac5d5:
 
     # h "I can tell you're a good person, [mc]."
-    h "Можу сказати, ти хороша людина, [mc]."
+    h "Одразу видно, що ти хороша людина, [mc]."
 
 # game/game/hana_events.rpy:108
 translate ukrainian hana_talk_78153510:
@@ -159,7 +159,7 @@ translate ukrainian hana_talk_22ed364c:
 translate ukrainian hana_talk_1fe5ecca:
 
     # h "Shika, {w}can you come here for a moment?"
-    h "Шико, {w}можеш підійти на хвильку?"
+    h "Шико, {w}підійдеш, будь ласка, на хвильку?"
 
 # game/game/hana_events.rpy:137
 translate ukrainian hana_talk_0287578a:
@@ -171,7 +171,7 @@ translate ukrainian hana_talk_0287578a:
 translate ukrainian hana_talk_f6c71214:
 
     # h "You can stop spying on our guest and come help me."
-    h "Можеш перестати підглядати за нашим гостем і прийти допомогти мені."
+    h "Могла б ти перестати підглядати за нашим гостем і прийти допомогти мені."
 
 # game/game/hana_events.rpy:144
 translate ukrainian hana_talk_82928cac:
@@ -189,7 +189,7 @@ translate ukrainian hana_talk_31c2f7fa:
 translate ukrainian hana_talk_fac88981:
 
     # mc "Could you explain why I'm considered \"so weird\" in this village?"
-    mc "Могла б ти мені пояснити, чому всі у цьому селищі вважають мене «таким дивним»?"
+    mc "Не поясниш мені, будь ласка, чому всі у цьому селищі вважають мене «таким дивним»?"
 
 # game/game/hana_events.rpy:153
 translate ukrainian hana_talk_75950370:
@@ -267,7 +267,7 @@ translate ukrainian hana_talk_03fb3e88:
 translate ukrainian hana_talk_c68d8bd5:
 
     # t "Why is everything glowing?"
-    t "Що це за світло?"
+    t "Що це за сяйво?"
 
 # game/game/hana_events.rpy:179
 translate ukrainian hana_talk_10d92692:
@@ -459,7 +459,7 @@ translate ukrainian hana_talk_5eaa51d3:
 translate ukrainian hana_talk_2af076c6:
 
     # s "When \"she\" disappeared, we were left at the mercy of the nobles."
-    s "Коли «вона» знакла, ми опинилися в повній залежності від дворян."
+    s "Коли «вона» зникла, ми опинилися в повній залежності від дворян."
 
 # game/game/hana_events.rpy:241
 translate ukrainian hana_talk_d46b3b67:
@@ -567,7 +567,7 @@ translate ukrainian hana_talk_df2fba10:
 translate ukrainian hana_talk_dc8c13c9:
 
     # h "Exactly. But now that he's gone, Yui and the other trained girls can finally go out and gather resources."
-    h "Саме так. А тепер, коли його немає, Юї та інші підготовлені дівчата нарешті можуть вийти й зібрати ресурси."
+    h "Саме так. А тепер, коли його немає, Юї та інші підготовлені дівчата нарешті можуть вийти на пошуки ресурсів."
 
 # game/game/hana_events.rpy:280
 translate ukrainian hana_talk_6cff7e3f:
@@ -15057,7 +15057,7 @@ translate ukrainian strings:
 
 translate ukrainian strings:
     old "Hana asks you to remove your sweatshirt and lie down."
-    new "Хана просить тебе знати кофту і лягти."
+    new "Хана просить тебе зняти кофту і лягти."
 
     old "{image=corazon_wing}{color=#F5B6F2}Shika{/color} and {color=#DEA45B}Hana{/color} has been added!"
     new "{image=corazon_wing}Додано знайомство з {color=#F5B6F2}Шикою{/color} та {color=#DEA45B}Ханою{/color}!"

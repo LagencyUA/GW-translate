@@ -75,7 +75,7 @@ translate ukrainian yui_first_meet_0df0256f:
 translate ukrainian yui_first_meet_a8fcc20d:
 
     # y "I'm still getting ready to head out and gather supplies, so I can't go drinking this time."
-    y "Я все ще збираюся вийти на пошуки припасів, тож цього разу піти випити не зможу."
+    y "Я все ще готуюся вийти на пошуки припасів, тож цього разу піти випити не зможу."
 
 # game/game/yui_events.rpy:168
 translate ukrainian yui_first_meet_58ad06be:
@@ -207,7 +207,7 @@ translate ukrainian yui_first_meet_93194269:
 translate ukrainian yui_first_meet_89d92f6b:
 
     # y "You didn't have to come if you're still recovering."
-    y "Тобі не варто було приходити, якщо ти досі поправляєшся."
+    y "Тобі не варто було приходити, якщо ти досі відновлюєшся."
 
 # game/game/yui_events.rpy:205
 translate ukrainian yui_first_meet_440a92cf:
@@ -231,7 +231,7 @@ translate ukrainian yui_first_meet_1efbe7fa:
 translate ukrainian yui_first_meet_05954276:
 
     # y "If you want, I can bring some tea."
-    y "Якщо хочеш, можу зробити нам чаю."
+    y "Якщо хочеш, можу заварити нам чаю."
 
 # game/game/yui_events.rpy:210
 translate ukrainian yui_first_meet_5f3587b2:
@@ -375,7 +375,7 @@ translate ukrainian yui_first_meet_22d84454:
 translate ukrainian yui_first_meet_24346f9b:
 
     # y "What kind of technique did you use?"
-    y "Яку техніку ти використовуєш?"
+    y "Яку техніку використовуєш?"
 
 # game/game/yui_events.rpy:257
 translate ukrainian yui_first_meet_d75a1a7c:
@@ -411,7 +411,7 @@ translate ukrainian yui_first_meet_055c4f14:
 translate ukrainian yui_first_meet_c2e35a55:
 
     # "{i}You explain to Yui how you got here, {w}leaving out most of the important details, of course."
-    "{i}Ти розповідаєш Юї, як ти тут опинився, {w}звичайно ж, оминувши більшість важливих подробиць."
+    "{i}Ти розповідаєш Юї, як тут опинився, {w}звичайно ж, оминувши більшість важливих подробиць."
 
 # game/game/yui_events.rpy:265
 translate ukrainian yui_first_meet_a20cefa7:
@@ -561,7 +561,7 @@ translate ukrainian yui_first_meet_fc896afd:
 translate ukrainian yui_first_meet_05e9f66f:
 
     # y "If you don't, I'll never forgive you for seeing me in my underwear."
-    y "Якщо ти відмовишся, ніколи тобі не пробачу, що бачив мене у спідньому."
+    y "Тільки спробуй відмовитися — і я ніколи не пробачу, що ти застав мене у спідньому."
 
 # game/game/yui_events.rpy:313
 translate ukrainian yui_first_meet_2b35b6fe_1:
@@ -597,7 +597,7 @@ translate ukrainian yui_first_meet_f58727b5:
 translate ukrainian yui_first_meet_b89fd437:
 
     # t "I still don't know how to control my strength... {w}I barely remember how the last fight ended..."
-    t "Я досі до кінця не розумію як контролювати власну силу... {w}Ледве пам’ятаю, як закінчився останній бій..."
+    t "Я досі до кінця не розумію, як контролювати власну силу... {w}Ледве пам’ятаю, як закінчився останній бій..."
 
 # game/game/yui_events.rpy:321
 translate ukrainian yui_first_meet_9a2c75d2:
@@ -699,7 +699,7 @@ translate ukrainian yui_first_meet_6d02ebd4:
 translate ukrainian yui_first_meet_4b368396:
 
     # y "Y-Yes! {w}By the way, once Hana says you're fully recovered..."
-    y "Д-Добре! {w}До речі, як тільки Хана скаже, що ти повністю одужав..."
+    y "Д-Добре! {w}До речі, щойно Хана скаже, що ти повністю одужав..."
 
 # game/game/yui_events.rpy:353
 translate ukrainian yui_first_meet_3d4bc294:
@@ -24298,7 +24298,7 @@ translate ukrainian strings:
 
 translate ukrainian strings:
     old "5 minutes later."
-    new "5 Хвилин потому."
+    new "5 хвилин потому."
 
     old "After a brief explanation..."
     new "Після короткого пояснення..."

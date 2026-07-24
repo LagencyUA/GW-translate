@@ -7545,7 +7545,7 @@ translate ukrainian street_1_0ff54cd0:
 translate ukrainian street_1_54d60c6a:
 
     # mc "Why would I go this way if I have already been given directions."
-    mc "Навіщо я маю йти сюди, якщо мені вже дали вказівки?"
+    mc "Навіщо я маю йти туди, якщо мені вже дали вказівки?"
 
 # game/game/script.rpy:2436
 translate ukrainian village_street_8abd8b01:
@@ -7953,7 +7953,7 @@ translate ukrainian village_street_2485f494:
 translate ukrainian village_street_f5b7fcd8:
 
     # s "Just take me, but please leave the doctor alone!"
-    s "Можеш забрати мене, але, будь ласка, облиш лікарку!"
+    s "Можеш забрати мене, але, будь ласка, облиш Лікарку!"
 
 # game/game/script.rpy:2603
 translate ukrainian shika_tickling_cc92f30b:
