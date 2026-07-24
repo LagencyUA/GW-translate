@@ -957,43 +957,43 @@ translate ukrainian ryoko_1_7e6c57d1:
 translate ukrainian ryoko_1_9dafffe3:
 
     # t "There's shampoo and soap over here"
-    t "There's shampoo and soap over here"
+    t "Тут є і шампунь, і мило."
 
 # game/game/ryoko_events.rpy:379
 translate ukrainian ryoko_1_b6b61549:
 
     # t "This is very strange, I'll have to ask Hana about who owned this house before."
-    t "This is very strange, I'll have to ask Hana about who owned this house before."
+    t "Дуже дивно. Варто спитати у Хани, хто був минулим власником цього дому."
 
 # game/game/ryoko_events.rpy:380
 translate ukrainian ryoko_1_5f3bcfdb:
 
     # mc "Look Ryoko let's use this."
-    mc "Look Ryoko let's use this."
+    mc "Поглянь, Рьоко. Нумо скористаємося цим."
 
 # game/game/ryoko_events.rpy:381
 translate ukrainian ryoko_1_79f08707_1:
 
     # r "Mmm?"
-    r "Mmm?"
+    r "Ммм?"
 
 # game/game/ryoko_events.rpy:386
 translate ukrainian ryoko_1_35771c1d:
 
     # r "What's this Master? {w}It smells super good!"
-    r "What's this Master? {w}It smells super good!"
+    r "Що це, господарю? {w}Воно так добре пахне!"
 
 # game/game/ryoko_events.rpy:387
 translate ukrainian ryoko_1_40275d0a:
 
     # mc "Something that'll help you to get even cleaner."
-    mc "Something that'll help you to get even cleaner."
+    mc "Те, що допоможе тобі стати ще чистішою."
 
 # game/game/ryoko_events.rpy:389
 translate ukrainian ryoko_1_ecc58108:
 
     # r "Yay!"
-    r "Yay!"
+    r "Ура!"
 
 # game/game/ryoko_events.rpy:391
 translate ukrainian ryoko_1_b9b755e5_1:
@@ -1005,55 +1005,55 @@ translate ukrainian ryoko_1_b9b755e5_1:
 translate ukrainian ryoko_1_b08b6cc5:
 
     # r "{size=-10}{i}It's the first time I've seen one..."
-    r "{size=-10}{i}It's the first time I've seen one..."
+    r "{size=-10}{i}То ось він який... Уперше бачу..."
 
 # game/game/ryoko_events.rpy:394
 translate ukrainian ryoko_1_f37de966:
 
     # r "{size=-10}{i}I didn't know they could be so big..."
-    r "{size=-10}{i}I didn't know they could be so big..."
+    r "{size=-10}{i}Не знала, що вони бувають такими великими..."
 
 # game/game/ryoko_events.rpy:396
 translate ukrainian ryoko_1_f12772a9:
 
     # r "{size=-10}{i}But it seems that Master doesn't react when he sees my body..."
-    r "{size=-10}{i}But it seems that Master doesn't react when he sees my body..."
+    r "{size=-10}{i}Але, видно, господар ніяк не реагує, коли бачить моє тіло..."
 
 # game/game/ryoko_events.rpy:401
 translate ukrainian ryoko_1_319e5c40:
 
     # t "Think of nothing, think of nothing, think of nothing, think of nothing, think of nothing, think of nothing, think of nothing, think of nothing."
-    t "Think of nothing, think of nothing, think of nothing, think of nothing, think of nothing, think of nothing, think of nothing, think of nothing."
+    t "Звільни розум, звільни розум, звільни розум, звільни розум, звільни розум, звільни розум, звільни розум, звільни розум."
 
 # game/game/ryoko_events.rpy:402
 translate ukrainian ryoko_1_865efa59:
 
     # r "Master! {w}I want to help you too!"
-    r "Master! {w}I want to help you too!"
+    r "Господарю! {w}Я хочу теж вам допомогти!"
 
 # game/game/ryoko_events.rpy:403
 translate ukrainian ryoko_1_9655706d:
 
     # t "Think of n-"
-    t "Think of n-"
+    t "Звільни роз-"
 
 # game/game/ryoko_events.rpy:407
 translate ukrainian ryoko_1_4cb8a803:
 
     # mc "Ok... let's change then..."
-    mc "Ok... let's change then..."
+    mc "Гаразд... тоді міняймося..."
 
 # game/game/ryoko_events.rpy:413
 translate ukrainian ryoko_1_e1fd59fb:
 
     # mc "Then...{w} please."
-    mc "Then...{w} please."
+    mc "Що ж...{w} будь ласка."
 
 # game/game/ryoko_events.rpy:418
 translate ukrainian ryoko_1_5d9497a5_3:
 
     # r "Yes!"
-    r "Yes!"
+    r "Так!"
 
 # game/game/ryoko_events.rpy:420
 translate ukrainian ryoko_1_2b35b6fe_4:
@@ -1065,13 +1065,13 @@ translate ukrainian ryoko_1_2b35b6fe_4:
 translate ukrainian ryoko_1_5bfd84c7:
 
     # t "I mustn't think about anything..."
-    t "I mustn't think about anything..."
+    t "Я мушу ні про що не думати..."
 
 # game/game/ryoko_events.rpy:422
 translate ukrainian ryoko_1_4b70500f:
 
     # r "Still no reaction..."
-    r "Still no reaction..."
+    r "Досі жодної реакції..."
 
 # game/game/ryoko_events.rpy:423
 translate ukrainian ryoko_1_b5099be1:
@@ -31151,6 +31151,9 @@ translate ukrainian strings:
     old "You wait for Ryoko to put her clothes away, and together you head toward the large door of the living room."
     new "Ти чекаєш, поки Рьоко сховає свій одяг, і разом ви прямуєте до великих дверей вітальні."
 
+    old "You take off your clothes and fill the bathtub."
+    new "Ти роздягаєшся і наповнюєш ванну."
+
     old "You take Ryoko to Sakura Town."
     new "You take Ryoko to Sakura Town."
 
@@ -31210,9 +31213,6 @@ translate ukrainian strings:
 
     old "Now you can repeat this event in your backyard!"
     new "Now you can repeat this event in your backyard!"
-
-    old "You take off your clothes and fill the bathtub."
-    new "You take off your clothes and fill the bathtub."
 
     old "You spend the night in Ryoko's room."
     new "You spend the night in Ryoko's room."
