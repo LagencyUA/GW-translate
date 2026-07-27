@@ -3,19 +3,19 @@
 translate ukrainian shika_interactions_178e8596:
 
     # s "Oh, the nice guy."
-    s "Oh, the nice guy."
+    s "О, добряк."
 
 # game/game/shika_events.rpy:14
 translate ukrainian shika_interactions_afc1da3a:
 
     # mc "Now I'm the nice guy?"
-    mc "Now I'm the nice guy?"
+    mc "То тепер я добряк?"
 
 # game/game/shika_events.rpy:16
 translate ukrainian shika_interactions_58babae6:
 
     # s "What do you need?"
-    s "What do you need?"
+    s "Що ти хотів?"
 
 # game/game/shika_events.rpy:21
 translate ukrainian shika_interactions_4806573b:
@@ -63,13 +63,13 @@ translate ukrainian shika_interactions_8e8fb440:
 translate ukrainian shika_interactions_52ffefd0:
 
     # mc "Hey, Shika."
-    mc "Hey, Shika."
+    mc "Привіт, Шико."
 
 # game/game/shika_events.rpy:45
 translate ukrainian shika_interactions_67d9c716:
 
     # s "Hello, hello!"
-    s "Hello, hello!"
+    s "Привіт, привіт!"
 
 # game/game/shika_events.rpy:73
 translate ukrainian shika_spending_1_a5606483:
@@ -17619,11 +17619,11 @@ translate ukrainian strings:
 
     # game/shika_events.rpy:28
     old "Spending time with Shika {image=/bg/icons/heart_text.png}"
-    new "Spending time with Shika {image=/bg/icons/heart_text.png}"
+    new "Провести час з Шикою {image=/bg/icons/heart_text.png}"
 
     # game/shika_events.rpy:28
     old "I came to see the Doctor {image=/bg/icons/heart_text.png}"
-    new "I came to see the Doctor {image=/bg/icons/heart_text.png}"
+    new "Я прийшов до лікарки {image=/bg/icons/heart_text.png}"
 
     # game/shika_events.rpy:811
     old "Hang out {image=/bg/icons/heart_text.png}"

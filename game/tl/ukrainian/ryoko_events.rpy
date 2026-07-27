@@ -2307,25 +2307,25 @@ translate ukrainian ryoko_spending_1_1fcb1404:
 translate ukrainian ryoko_event_2_f1122569:
 
     # r "Master, what shall we do today?"
-    r "Master, what shall we do today?"
+    r "Господарю, що ми робитимемо сьогодні?"
 
 # game/game/ryoko_events.rpy:825
 translate ukrainian ryoko_event_2_8833c4cf:
 
     # mc "Let me think..."
-    mc "Let me think..."
+    mc "Дай-но подумати..."
 
 # game/game/ryoko_events.rpy:827
 translate ukrainian ryoko_event_2_2b0d1857:
 
     # mc "Come Ryoko, come up."
-    mc "Come Ryoko, come up."
+    mc "Нумо, Рьоко, залазь."
 
 # game/game/ryoko_events.rpy:828
 translate ukrainian ryoko_event_2_460a2db5:
 
     # r "Okay!~"
-    r "Okay!~"
+    r "Добре!~"
 
 # game/game/ryoko_events.rpy:832
 translate ukrainian ryoko_event_2_e9895b80:
@@ -2343,67 +2343,67 @@ translate ukrainian ryoko_event_2_1d5cbe06:
 translate ukrainian ryoko_event_2_69175094:
 
     # mc "Now, help me by holding me here."
-    mc "Now, help me by holding me here."
+    mc "Тепер, допоможи мені, тримаючи мене тут."
 
 # game/game/ryoko_events.rpy:839
 translate ukrainian ryoko_event_2_d4d60e9b:
 
     # r "Ok Master!"
-    r "Ok Master!"
+    r "Гаразд, господарю!"
 
 # game/game/ryoko_events.rpy:841
 translate ukrainian ryoko_event_2_5979559b:
 
     # r "Is this okay?"
-    r "Is this okay?"
+    r "Ось так?"
 
 # game/game/ryoko_events.rpy:842
 translate ukrainian ryoko_event_2_3d190d68:
 
     # mc "Perfect, {w}I'm going to start."
-    mc "Perfect, {w}I'm going to start."
+    mc "Ідеально, {w}я почну."
 
 # game/game/ryoko_events.rpy:844
 translate ukrainian ryoko_event_2_350b5df4:
 
     # mc "One-"
-    mc "One-"
+    mc "Один-"
 
 # game/game/ryoko_events.rpy:845
 translate ukrainian ryoko_event_2_e6f8368f:
 
     # r "a"
-    r "a"
+    r "а"
 
 # game/game/ryoko_events.rpy:847
 translate ukrainian ryoko_event_2_0067b151:
 
     # r "Mmm!"
-    r "Mmm!"
+    r "Ммм!"
 
 # game/game/ryoko_events.rpy:848
 translate ukrainian ryoko_event_2_b405f5f2:
 
     # t "Oh."
-    t "Oh."
+    t "Ох."
 
 # game/game/ryoko_events.rpy:850
 translate ukrainian ryoko_event_2_a1cb139d:
 
     # r "Sorry Master, I fell down."
-    r "Sorry Master, I fell down."
+    r "Вибачте, господарю, я впала."
 
 # game/game/ryoko_events.rpy:851
 translate ukrainian ryoko_event_2_98bd99c4:
 
     # mc "D-Don't w-worry..."
-    mc "D-Don't w-worry..."
+    mc "Н-Не х-хвилюйся..."
 
 # game/game/ryoko_events.rpy:857
 translate ukrainian ryoko_event_2_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:867
 translate ukrainian ryoko_go_hana_773ff7b4:
