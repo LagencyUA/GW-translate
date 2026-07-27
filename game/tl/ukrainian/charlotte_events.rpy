@@ -123,67 +123,67 @@ translate ukrainian charlotte_cat_03df0dc4:
 translate ukrainian charlotte_event_1_0396080b:
 
     # mc "Oh it's you."
-    mc "Oh it's you."
+    mc "О, це знову ти."
 
 # game/game/charlotte_events.rpy:70
 translate ukrainian charlotte_event_1_e6d6913d:
 
     # mc "As cute as ever."
-    mc "As cute as ever."
+    mc "Така ж мила, як і завжди."
 
 # game/game/charlotte_events.rpy:71
 translate ukrainian charlotte_event_1_cb1b2c53:
 
     # "Nya!"
-    "Nya!"
+    "Ня!"
 
 # game/game/charlotte_events.rpy:73
 translate ukrainian charlotte_event_1_880294dd:
 
     # t "She's no longer afraid of me."
-    t "She's no longer afraid of me."
+    t "Вона більше не боїться мене."
 
 # game/game/charlotte_events.rpy:75
 translate ukrainian charlotte_event_1_6af67d1e:
 
     # mc "How not to want to pet you."
-    mc "How not to want to pet you."
+    mc "Не можу не погладити."
 
 # game/game/charlotte_events.rpy:76
 translate ukrainian charlotte_event_1_0816b046:
 
     # "Purring*"
-    "Purring*"
+    "*Муркоче*"
 
 # game/game/charlotte_events.rpy:78
 translate ukrainian charlotte_event_1_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/charlotte_events.rpy:79
 translate ukrainian charlotte_event_1_26388dad:
 
     # t "Shall I try to hold her?"
-    t "Shall I try to hold her?"
+    t "Можливо, варто знову спробувати взяти її?"
 
 # game/game/charlotte_events.rpy:83
 translate ukrainian charlotte_event_1_2acd1004:
 
     # mc "No wait..."
-    mc "No wait..."
+    mc "Ні, стій..."
 
 # game/game/charlotte_events.rpy:87
 translate ukrainian charlotte_event_1_436a8654:
 
     # mc "It seems like she discovered my intentions..."
-    mc "It seems like she discovered my intentions..."
+    mc "Видно, вона зрозуміла мої наміри..."
 
 # game/game/charlotte_events.rpy:89
 translate ukrainian charlotte_event_1_3b35e791:
 
     # mc "Bye bye"
-    mc "Bye bye"
+    mc "Бувай."
 
 # game/game/charlotte_events.rpy:90
 translate ukrainian charlotte_event_1_a20cefa7:
@@ -195,13 +195,13 @@ translate ukrainian charlotte_event_1_a20cefa7:
 translate ukrainian charlotte_event_1_03df0dc4:
 
     # "Cat's affection has increased to [charlotte_affection]"
-    "Cat's affection has increased to [charlotte_affection]"
+    "Прихильність кішки зросла до [charlotte_affection]"
 
 # game/game/charlotte_events.rpy:103
 translate ukrainian charlotte_event_1_736c69f8:
 
     # t "Better go back."
-    t "Better go back."
+    t "Мені слід вертатися додому."
 
 # game/game/charlotte_events.rpy:111
 translate ukrainian charlotte_first_meet_7740cb7e:
@@ -19827,7 +19827,7 @@ translate ukrainian strings:
 
     # game/charlotte_events.rpy:66
     old "Headpat"
-    new "Headpat"
+    new "Погладити"
 
     # game/charlotte_events.rpy:130
     old "Touch her ears"

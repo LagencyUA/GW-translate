@@ -1024,7 +1024,7 @@ translate ukrainian strings:
     new "{size=+8}Прихильність"
 
     old "{i}Hover a card"
-    new "{i}Наведіть на карту"
+    new "{i}Наведи на карту"
 
     # game/day_time.rpy:447
     old "{size=+2}BACK"
@@ -1032,11 +1032,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:539
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need more affection to be able to see this hint."
-    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТобі знадобиться вищий рівень прихильності, щоб побачити підказку."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nНеобхідно здобути вищий рівень прихильності, щоб побачити підказку."
 
     # game/day_time.rpy:1268
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need more affection to be able to see this hint."
-    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nnТобі знадобиться вищий рівень прихильності, щоб побачити підказку."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nНеобхідно здобути вищий рівень прихильності, щоб побачити підказку."
 
     # game/day_time.rpy:561
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
