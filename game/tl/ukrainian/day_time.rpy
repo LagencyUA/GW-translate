@@ -3,7 +3,7 @@
 translate ukrainian bed_actions_9e5e76e4:
 
     # mc "I should sleep."
-    mc "I should sleep."
+    mc "Мені варто вже лягати спати."
 
 # game/game/day_time.rpy:37
 translate ukrainian bed_actions_96daab9f:
@@ -41,11 +41,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:33
     old "Sleep"
-    new "Sleep"
+    new "Спати"
 
     # game/day_time.rpy:33
     old "Sleep until morning"
-    new "Sleep until morning"
+    new "Спати до наступного ранку"
 
     # game/day_time.rpy:33
     old "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"

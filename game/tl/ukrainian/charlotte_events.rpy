@@ -3,31 +3,31 @@
 translate ukrainian charlotte_cat_ad61f083:
 
     # mc "Oh, I didn't think there would be... {w}normal animals."
-    mc "Oh, I didn't think there would be... {w}normal animals."
+    mc "Ох, я й не думав, що тут будуть... {w}звичні тварини."
 
 # game/game/charlotte_events.rpy:17
 translate ukrainian charlotte_cat_d4ad71a3:
 
     # t "She looks pretty cute, let's see if she lets me pet her."
-    t "She looks pretty cute, let's see if she lets me pet her."
+    t "Вона виглядає досить мило, поглянемо, чи дозволить погладити себе."
 
 # game/game/charlotte_events.rpy:19
 translate ukrainian charlotte_cat_474a8731:
 
     # mc "Don't worry, I won't hurt you."
-    mc "Don't worry, I won't hurt you."
+    mc "Не хвилюйся, я тебе не скривджу."
 
 # game/game/charlotte_events.rpy:20
 translate ukrainian charlotte_cat_fd5be946:
 
     # mc "You're a very cute kitty, you know?"
-    mc "You're a very cute kitty, you know?"
+    mc "Ти дуже миле кошеня, знаєш?"
 
 # game/game/charlotte_events.rpy:22
 translate ukrainian charlotte_cat_268ed6fd:
 
     # mc "Do you give me permission to pet you?"
-    mc "Do you give me permission to pet you?"
+    mc "Дозволиш мені себе погладити?"
 
 # game/game/charlotte_events.rpy:23
 translate ukrainian charlotte_cat_a20cefa7:
@@ -39,31 +39,31 @@ translate ukrainian charlotte_cat_a20cefa7:
 translate ukrainian charlotte_cat_3b65b5f0:
 
     # mc "Oh! {w}Is that a yes?"
-    mc "Oh! {w}Is that a yes?"
+    mc "Ох! {w}То це «так»?"
 
 # game/game/charlotte_events.rpy:27
 translate ukrainian charlotte_cat_13ea3859:
 
     # mc "You're so soft and fluffy!"
-    mc "You're so soft and fluffy!"
+    mc "Ти така м'яка та пухнаста!"
 
 # game/game/charlotte_events.rpy:29
 translate ukrainian charlotte_cat_7dbb9c1a:
 
     # mc "I wonder who your owner is."
-    mc "I wonder who your owner is."
+    mc "Цікаво, хто твій власник."
 
 # game/game/charlotte_events.rpy:31
 translate ukrainian charlotte_cat_2d4624a9:
 
     # t "She has some scratches on her face"
-    t "She has some scratches on her face"
+    t "У неї кілька шрамів на обличчі."
 
 # game/game/charlotte_events.rpy:32
 translate ukrainian charlotte_cat_efcf4608:
 
     # t "Will she let me hold her?"
-    t "Will she let me hold her?"
+    t "Можливо, вона дозволить себе потримати?"
 
 # game/game/charlotte_events.rpy:34
 translate ukrainian charlotte_cat_9d0b3953:
@@ -75,25 +75,25 @@ translate ukrainian charlotte_cat_9d0b3953:
 translate ukrainian charlotte_cat_f2316b97:
 
     # mc "Ah."
-    mc "Ah."
+    mc "Ах."
 
 # game/game/charlotte_events.rpy:38
 translate ukrainian charlotte_cat_c9694e60:
 
     # mc "Hey don't be afraid."
-    mc "Hey don't be afraid."
+    mc "Гей, не бійся."
 
 # game/game/charlotte_events.rpy:40
 translate ukrainian charlotte_cat_cb1b2c53:
 
     # "Nya!"
-    "Nya!"
+    "Ня!"
 
 # game/game/charlotte_events.rpy:46
 translate ukrainian charlotte_cat_5c50e8a4:
 
     # mc "Bye Bye, Hope to see you again!"
-    mc "Bye Bye, Hope to see you again!"
+    mc "Бувай. Сподіваюся, ще тебе побачу!"
 
 # game/game/charlotte_events.rpy:47
 translate ukrainian charlotte_cat_a20cefa7_1:
@@ -105,19 +105,19 @@ translate ukrainian charlotte_cat_a20cefa7_1:
 translate ukrainian charlotte_cat_ff9b52f1:
 
     # t "Maybe if I get closer to her she'll let me pick her up."
-    t "Maybe if I get closer to her she'll let me pick her up."
+    t "Можливо, якщо отримую її довіру, вона дозволить себе взяти на руки."
 
 # game/game/charlotte_events.rpy:50
 translate ukrainian charlotte_cat_e8294f35:
 
     # t "I'll see if I can find her on other nights."
-    t "I'll see if I can find her on other nights."
+    t "Спробую пошукати її іншими ночами."
 
 # game/game/charlotte_events.rpy:57
 translate ukrainian charlotte_cat_03df0dc4:
 
     # "Cat's affection has increased to [charlotte_affection]"
-    "Cat's affection has increased to [charlotte_affection]"
+    "Прихильність кішки зросла до [charlotte_affection]"
 
 # game/game/charlotte_events.rpy:65
 translate ukrainian charlotte_event_1_0396080b:

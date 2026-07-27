@@ -44,6 +44,19 @@ translate ukrainian strings:
 
     old "Continue"
     new "Продовжити"
+
+    # Часові проміжки
+    old "{size=-3}Morning"
+    new "{size=-3}Ранок"
+
+    old "{size=-6}Afternoon"
+    new "{size=-3}День"
+
+    old "{size=-5}Evening"
+    new "{size=-3}Вечір"
+
+    old "{size=-3}Night"
+    new "{size=-3}Ніч"
 ###
 
     old "{size=-10}Adventurer interface"
@@ -78,9 +91,6 @@ translate ukrainian strings:
 
     old "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
     new "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
-
-    old "{size=-6}Afternoon"
-    new "{size=-6}Afternoon"
 
     old "Since it is based on an advanced part of the story, the girls may have more confidence with you.\nThere may be spoilers in their interactions."
     new "Since it is based on an advanced part of the story, the girls may have more confidence with you.\nThere may be spoilers in their interactions."
