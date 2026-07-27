@@ -29168,6 +29168,9 @@ translate ukrainian strings:
     old "Shika leaves, but returns just a few seconds later."
     new "Шика вибігла й повернулася через кілька секунд."
 
+    old "{image=quest_text}Mission completed!"
+    new "{image=quest_text}Завдання виконано!"
+
 ### NOT SORTED
 
     old "{b}Don't leave."

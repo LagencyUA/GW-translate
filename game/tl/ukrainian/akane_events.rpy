@@ -29227,7 +29227,7 @@ translate ukrainian strings:
 
     # game/akane_events.rpy:18
     old "Go back"
-    new "Go back"
+    new "Повернутися"
 
     # game/akane_events.rpy:416
     old "More than energy{image=/bg/icons/tenshi_text.png}"
@@ -29367,9 +29367,6 @@ translate ukrainian strings:
 
     old "You manage to fall asleep."
     new "You manage to fall asleep."
-
-    old "{image=quest_text}Mission completed!"
-    new "{image=quest_text}Mission completed!"
 
     old "{sc=3}{outlinecolor=#000000}Or was all that talk about protecting them-"
     new "{sc=3}{outlinecolor=#000000}Or was all that talk about protecting them-"

@@ -19,7 +19,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:187
     old "Learn More"
-    new "Learn More"
+    new "Дізнатися більше"
 
     # game/quest.rpy:193
     old "New Places"
@@ -153,11 +153,21 @@ translate ukrainian strings:
     old "{s}-You should go back to your new home to see {color=#C9887C}Ryoko{/color}.{/s}"
     new "{s}- Тобі слід повернутися до свого нового дому, щоб побачитися з {color=#C9887C}Рьоко{/color}.{/s}"
 
+    old "I came to this new world and almost died in the first day, I should get more information while I get to know the people of this village."
+    new "Я потрапив у цей новий світ і ледь не загинув уже першого дня. Мені слід дізнатися більше, поки я знайомлюся з мешканцями цього селища."
+
+    old "-Spend time with {color=#F3915B}Hana{/color} / Morning."
+    new "- Провести час з {color=#F3915B}Ханою{/color} (ранок)."
+    old "{s}-Spend time with {color=#F3915B}Hana{/color} / Morning.{/s}"
+    new "{s}- Провести час з {color=#F3915B}Ханою{/color} (ранок).{/s}"
+
+    old "-Spend time with {color=#FBE5A2}Yui{/color} / Afternoon."
+    new "- Провести час з {color=#FBE5A2}ЮЇ{/color} (день)."
+    old "{s}-Spend time with {color=#FBE5A2}Yui{/color} / Afternoon.{/s}"
+    new "{s}- Провести час з {color=#FBE5A2}ЮЇ{/color} (день).{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
-
-    old "-Busca el cartel fuera de una de las casas de Sakura Town."
-    new "-Busca el cartel fuera de una de las casas de Sakura Town."
 
     old "-First repair the gate that the bandits broke down.(Follow Shika's hints.)"
     new "-First repair the gate that the bandits broke down.(Follow Shika's hints.)"
@@ -170,9 +180,6 @@ translate ukrainian strings:
 
     old "-Look for {color=#BD4A17}Sayori{/color}, she must be training.\nGo to the Sakura Tree and use the shortcut. (Morning)"
     new "-Look for {color=#BD4A17}Sayori{/color}, she must be training.\nGo to the Sakura Tree and use the shortcut. (Morning)"
-
-    old "-Spend time with {color=#FBE5A2}Yui{/color} / Afternoon."
-    new "-Spend time with {color=#FBE5A2}Yui{/color} / Afternoon."
 
     old "-Go to {color=#BCB2CC}Tomoe's{/color} store in the morning."
     new "-Go to {color=#BCB2CC}Tomoe's{/color} store in the morning."
@@ -290,9 +297,6 @@ translate ukrainian strings:
 
     old "-Go talk to {color=#C9887C}Ryoko{/color} in the morning."
     new "-Go talk to {color=#C9887C}Ryoko{/color} in the morning."
-
-    old "I came to this new world and almost died in the first day, I should get more information while I get to know the people of this village."
-    new "I came to this new world and almost died in the first day, I should get more information while I get to know the people of this village."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Accept your new mission on the adventurers' board and help {color=#4eca35}Kaede{/color}."
     new "{color=#E3CD5B}{b}•{/b}{/color} Accept your new mission on the adventurers' board and help {color=#4eca35}Kaede{/color}."
@@ -494,9 +498,6 @@ translate ukrainian strings:
 
     old "-Spend time with {color=#F3915B}Hana{/color} and make sure she rests."
     new "-Spend time with {color=#F3915B}Hana{/color} and make sure she rests."
-
-    old "-Spend time with {color=#F3915B}Hana{/color} / Morning."
-    new "-Spend time with {color=#F3915B}Hana{/color} / Morning."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go talk to {color=#319B85}Charlotte{/color}, she's at the {color=#FCDEB3}lake{/color} right now. (Afternoon)"
     new "{color=#E3CD5B}{b}•{/b}{/color} Go talk to {color=#319B85}Charlotte{/color}, she's at the {color=#FCDEB3}lake{/color} right now. (Afternoon)"

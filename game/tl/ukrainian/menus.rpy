@@ -3,13 +3,13 @@
 translate ukrainian name_change_274965fb:
 
     # "Do you want to change your name?"
-    "Do you want to change your name?"
+    "Бажаєш змінити ім'я?"
 
 # game/game/menus.rpy:188
 translate ukrainian name_change_cee18412:
 
     # "From now on you will be called [mc_name]."
-    "From now on you will be called [mc_name]."
+    "Від тепер тебе зватимуть [mc_name]."
 
 translate ukrainian strings:
 
