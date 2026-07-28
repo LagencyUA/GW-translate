@@ -381,13 +381,13 @@ translate ukrainian shika_spending_1_1ca7820c:
 translate ukrainian shika_event_1_40879997:
 
     # "{i}You and Shika hang out together."
-    "{i}You and Shika hang out together."
+    "{i}Ти проводиш час разом з Шикою."
 
 # game/game/shika_events.rpy:200
 translate ukrainian shika_event_1_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:214
 translate ukrainian shika_event_2_8aa26765:
