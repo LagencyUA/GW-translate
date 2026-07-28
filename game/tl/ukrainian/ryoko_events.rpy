@@ -99,7 +99,7 @@ translate ukrainian ryoko_bath_49ffe2ef:
 translate ukrainian ryoko_bath_710d20e0:
 
     # mc "Hahaha don't run or you might fall."
-    mc "Хахаха, не біжи, щоб не впасти."
+    mc "Хахаха, не біжи, а то впадеш."
 
 # game/game/ryoko_events.rpy:101
 translate ukrainian ryoko_bath_73dc65ce:
@@ -2169,7 +2169,7 @@ translate ukrainian ryoko_spending_1_a5ad0cfa:
 translate ukrainian ryoko_spending_1_d1114bdf:
 
     # mc "If you learn to accept them and make them a part of you, you'll become stronger..."
-    mc "Коли ти навчишся миритися з ними, аби вони ставали частиною тебе, тоді ти й станєш сильним..."
+    mc "Коли ти навчишся миритися з ними, аби вони ставали частиною тебе, тоді ти й станеш сильним..."
 
 # game/game/ryoko_events.rpy:776
 translate ukrainian ryoko_spending_1_1197b443:
@@ -2217,7 +2217,7 @@ translate ukrainian ryoko_spending_1_29355945:
 translate ukrainian ryoko_spending_1_93df9fee:
 
     # r "I like you soooo much!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "Ви мені дуууже подобаєтесь!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "Ви мені дуууже подобаєтеся!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:792
 translate ukrainian ryoko_spending_1_7c2dc6e9:
@@ -2295,7 +2295,7 @@ translate ukrainian ryoko_spending_1_b3803eb5:
 translate ukrainian ryoko_spending_1_1f937028:
 
     # mc "Yes, I'll let you know when I go training."
-    mc "Звісно. Я скажу тобі, коли знову йтиму тренуватися."
+    mc "Так. Я скажу тобі, коли знову йтиму тренуватися."
 
 # game/game/ryoko_events.rpy:816
 translate ukrainian ryoko_spending_1_1fcb1404:
@@ -2505,7 +2505,7 @@ translate ukrainian ryoko_go_hana_9b6ca465:
 translate ukrainian ryoko_go_hana_a8e82b99:
 
     # mc "Be careful, don't bump into somebody."
-    mc "Гляди уперед, а то налетиш на когось."
+    mc "Гляди під ноги, а то налетиш на когось."
 
 # game/game/ryoko_events.rpy:899
 translate ukrainian ryoko_go_hana_169bdf83:
@@ -3051,7 +3051,7 @@ translate ukrainian ryoko_go_hana_48c3bc01:
 translate ukrainian ryoko_go_hana_8226a0a7:
 
     # h "Like what?"
-    h "Що дивне?"
+    h "Дивного?"
 
 # game/game/ryoko_events.rpy:1062
 translate ukrainian ryoko_go_hana_8cd4acc4:
@@ -3369,7 +3369,7 @@ translate ukrainian ryoko_go_hana_b4817b35:
 translate ukrainian ryoko_go_hana_1ba6533a:
 
     # t "So, this is where the girl who disappeared out of nowhere used to live?"
-    t "Отже, саме тут колись жила дівчина, що знакла безвісти?"
+    t "Отже, саме тут колись жила дівчина, що зникла безвісти?"
 
 # game/game/ryoko_events.rpy:1147
 translate ukrainian ryoko_go_hana_852f48f3:
@@ -31170,7 +31170,7 @@ translate ukrainian strings:
     new "Рьоко побігла всередину, а ти тим часом сів на траву."
 
     old "If you learn to accept them and make them a part of you, you'll become stronger [mc]."
-    new "Коли ти навчишся миритися з ними, аби вони ставали частиною тебе, тоді ти й станєш сильним, [mc]."
+    new "Коли ти навчишся миритися з ними, аби вони ставали частиною тебе, тоді ти й станеш сильним, [mc]."
 
     old "You leave the house and head to Hana's place."
     new "Ви виходите з дому та прямуєте до Хани."

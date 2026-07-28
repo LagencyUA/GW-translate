@@ -195,7 +195,7 @@ translate ukrainian shika_spending_1_6cb92b9a:
 translate ukrainian shika_spending_1_4e2a2214:
 
     # mc "Wow, looks like the perfect place."
-    mc "Вау, місце наче створене для цього."
+    mc "Вау, наче й справді створене для цього."
 
 # game/game/shika_events.rpy:108
 translate ukrainian shika_spending_1_d36d0666:
