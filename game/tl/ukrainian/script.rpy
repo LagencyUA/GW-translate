@@ -1605,7 +1605,7 @@ translate ukrainian choice4_2b35b6fe_2:
 translate ukrainian choice4_4572680b:
 
     # mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}Ahem*"
-    mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}*Ахем*"
+    mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}*Кхм*"
 
 # game/game/script.rpy:587
 translate ukrainian choice4_a0942e75:
@@ -2013,7 +2013,7 @@ translate ukrainian choice4_ed862fd2:
 translate ukrainian choice4_c21622d2:
 
     # mc "Ahem*"
-    mc "*Ахем*"
+    mc "*Кхм*"
 
 # game/game/script.rpy:693
 translate ukrainian choice4_8f42c95e:
@@ -6693,7 +6693,7 @@ translate ukrainian keiko_gal1_b3783a99:
 translate ukrainian keiko_gal1_b8242b96:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Ahem..."
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Ахем..."
+    k "{sc=1}{outlinecolor=#000000}{size=-8}Кхм..."
 
 # game/game/script.rpy:2154
 translate ukrainian keiko_gal1_0044da3e:
@@ -8097,7 +8097,7 @@ translate ukrainian shika_tickling_1b1c65df:
 translate ukrainian doctor_1_9d315002:
 
     # mc "Ahem*, I'm looking for the doctor. Yui told me I could find her here..."
-    mc "Ахем, я шукаю лікарку. Юї сказала мені, що вона тут..."
+    mc "Кхм, я шукаю лікарку. Юї сказала мені, що вона тут..."
 
 # game/game/script.rpy:2664
 translate ukrainian doctor_1_c1e70408:

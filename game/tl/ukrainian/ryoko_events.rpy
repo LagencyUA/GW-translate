@@ -2049,7 +2049,7 @@ translate ukrainian ryoko_spending_1_110b5710:
 translate ukrainian ryoko_spending_1_b962e215:
 
     # mc "I couldn't go to sch- {w}Ahem* {w} couldn't leave my house."
-    mc "Я не міг піти до шко- {w}*Ахем* {w} навіть із дому вийти."
+    mc "Я не міг піти до шко- {w}*Кхм* {w} навіть із дому вийти."
 
 # game/game/ryoko_events.rpy:739
 translate ukrainian ryoko_spending_1_669eadcc:
