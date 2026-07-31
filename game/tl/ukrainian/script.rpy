@@ -29028,7 +29028,7 @@ translate ukrainian strings:
     new "{outlinecolor=#000000}Чекай, не бажаєш присвятити нам кілька слів?\nТи щойно став регіональним чемпіоном!"
 
     old "{sc=1}{outlinecolor=#000000}A man of few words! \nLet's give a round of applause to our new champion and winner!"
-    new "{sc=1}{outlinecolor=#000000}Людина лаконічна!\nГайда поапладуємо нашому переможцю й новому чемпіону!"
+    new "{sc=1}{outlinecolor=#000000}Людина діла, а не слова!\nГайда поапладуємо нашому переможцю й новому чемпіону!"
 
     old "{sc=2}{outlinecolor=#000000}Heey~ Wake up."
     new "{sc=2}{outlinecolor=#000000}Геей~ Прокинься."
