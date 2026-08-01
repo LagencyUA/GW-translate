@@ -4437,7 +4437,7 @@ translate ukrainian ryoko_handjob1_5fca63c2:
 translate ukrainian ryoko_handjob1_52e43a1e:
 
     # mc "Ryoko...{w}I'm at my limit!"
-    mc "Рьоко...{w}Я вже на межі!"
+    mc "Рьоко...{w} Я вже на межі!"
 
 # game/game/ryoko_events.rpy:1503
 translate ukrainian ryoko_handjob1_edb28dd0:
@@ -31071,7 +31071,7 @@ translate ukrainian strings:
 
     # game/ryoko_events.rpy:60
     old "Take a long bath {image=/bg/icons/tenshi_text.png}"
-    new "Прийняти довше ванну {image=/bg/icons/tenshi_text.png}"
+    new "Прийняти ванну подовше {image=/bg/icons/tenshi_text.png}"
 
     # game/ryoko_events.rpy:75
     old "Take a bath {image=/bg/icons/heart_text.png}"

@@ -1821,7 +1821,7 @@ translate ukrainian shika_gal1_259c1999:
 translate ukrainian shika_gal1_1e83229e:
 
     # s "Are you sure it's not a weapon? {w}Although, it's too strange to be.."
-    s "Упевнений, що це не зброя? {w}Хоча, воно надто дивне для цього..."
+    s "Упевнений, що це не зброя? {w}Хоча, воно досить дивне для цього..."
 
 # game/game/shika_events.rpy:632
 translate ukrainian shika_gal1_a5ef85a4:
@@ -1863,7 +1863,7 @@ translate ukrainian shika_gal1_177d3eb2:
 translate ukrainian shika_gal1_eda5a685:
 
     # s "I thought that with less clothes I'd feel better... {w}but I can't get rid of the horny thing."
-    s "Гадала, що, позбувшись її, почуватимуся краще... {w}але досі не можу позбутися цього збудження."
+    s "Гадала, що без неї почуватимуся краще... {w}але досі не можу позбутися цього збудження."
 
 # game/game/shika_events.rpy:640
 translate ukrainian shika_gal1_8ba9f553:
@@ -2253,7 +2253,7 @@ translate ukrainian shika_gal1_b2b88c4d:
 translate ukrainian shika_gal1_6f4dd6dd:
 
     # mc "Semen, it comes out when it feels really good."
-    mc "Сім'я, воно виходить, коли мені надзвичайно приємно."
+    mc "Сім'я — воно виходить, коли мені надзвичайно приємно."
 
 # game/game/shika_events.rpy:720
 translate ukrainian shika_gal1_6d31f2da:
@@ -2283,7 +2283,7 @@ translate ukrainian shika_gal1_ba906e11:
 translate ukrainian shika_gal1_521455af:
 
     # t "This girl will give me another erection."
-    t "Через цю дівчину мій кинджал невдовзі знову стане до бою."
+    t "Через цю дівчину мій «кинджал» невдовзі знову стане до бою."
 
 # game/game/shika_events.rpy:737
 translate ukrainian shika_gal1_06e5adb2:
