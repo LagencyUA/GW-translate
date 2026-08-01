@@ -1125,79 +1125,79 @@ translate ukrainian hana_first_talk_9b1845fb:
 translate ukrainian hana_event_1_7cd818c2:
 
     # mc "Hana, I'm coming in!"
-    mc "Hana, I'm coming in!"
+    mc "Хано, я захожду!"
 
 # game/game/hana_events.rpy:487
 translate ukrainian hana_event_1_8fc6d666:
 
     # h "I'm here!"
-    h "I'm here!"
+    h "Я тут!"
 
 # game/game/hana_events.rpy:489
 translate ukrainian hana_event_1_a13bd99a:
 
     # v "{size=-10}It's the new guy!"
-    v "{size=-10}It's the new guy!"
+    v "{size=-10}Це той новий хлопець!"
 
 # game/game/hana_events.rpy:491
 translate ukrainian hana_event_1_057811bb:
 
     # t "She's not in the usual room."
-    t "She's not in the usual room."
+    t "Вона не там, де зазвичай."
 
 # game/game/hana_events.rpy:492
 translate ukrainian hana_event_1_80d655f1:
 
     # h "Shh, don't move or I won't be able to cure you."
-    h "Shh, don't move or I won't be able to cure you."
+    h "Тсс, не рухайся, інакше не зможу тебе вилікувати."
 
 # game/game/hana_events.rpy:493
 translate ukrainian hana_event_1_5701c638:
 
     # v "Sorry."
-    v "Sorry."
+    v "Пробач."
 
 # game/game/hana_events.rpy:495
 translate ukrainian hana_event_1_a063a325:
 
     # mc "Hey Hana what are you doi-"
-    mc "Hey Hana what are you doi-"
+    mc "Слухай, Хано, що ти ро-"
 
 # game/game/hana_events.rpy:497
 translate ukrainian hana_event_1_409aa7a1:
 
     # v "Hey!"
-    v "Hey!"
+    v "Привіт!"
 
 # game/game/hana_events.rpy:498
 translate ukrainian hana_event_1_62031dbd:
 
     # h "I'll just finish with her and then I'll be free."
-    h "I'll just finish with her and then I'll be free."
+    h "Зараз, закінчу з нею і я вільна."
 
 # game/game/hana_events.rpy:499
 translate ukrainian hana_event_1_20b11f09:
 
     # mc "Sorry!"
-    mc "Sorry!"
+    mc "Вибач!"
 
 # game/game/hana_events.rpy:501
 translate ukrainian hana_event_1_4db5bf17:
 
     # v "No! {w}Don't leave!"
-    v "No! {w}Don't leave!"
+    v "Пусте! {w}Не йди!"
 
 # game/game/hana_events.rpy:502
 translate ukrainian hana_event_1_81471343:
 
     # h "Fufufu, {w}I'll go with you right away."
-    h "Fufufu, {w}I'll go with you right away."
+    h "Хухуху, {w}скоро доєднаюся до тебе."
 
 # game/game/hana_events.rpy:504
 translate ukrainian hana_event_1_a94210de:
 
     # t "I'll wait for Hana to finish."
-    t "I'll wait for Hana to finish."
+    t "Почекаю, доки Хана завершить."
 
 # game/game/hana_events.rpy:506
 translate ukrainian hana_event_1_2b35b6fe:
@@ -1209,31 +1209,31 @@ translate ukrainian hana_event_1_2b35b6fe:
 translate ukrainian hana_event_1_3329c97e:
 
     # mc "You're a very cute cat."
-    mc "You're a very cute cat."
+    mc "Ти дуже мила кішка."
 
 # game/game/hana_events.rpy:509
 translate ukrainian hana_event_1_dfe14f27:
 
     # mc "And your fur is very soft."
-    mc "And your fur is very soft."
+    mc "А твоя шорстка така м'яка."
 
 # game/game/hana_events.rpy:511
 translate ukrainian hana_event_1_64978a95:
 
     # h "Hmm, she's not very friendly with strangers."
-    h "Hmm, she's not very friendly with strangers."
+    h "Гмм, вона не дуже ладить з незнайомцями."
 
 # game/game/hana_events.rpy:513
 translate ukrainian hana_event_1_268d038e:
 
     # mc "That can't be true, she's so cute."
-    mc "That can't be true, she's so cute."
+    mc "Не вірю, вона така мила."
 
 # game/game/hana_events.rpy:514
 translate ukrainian hana_event_1_8578dce8:
 
     # "Prrr."
-    "Prrr."
+    "Мррр."
 
 # game/game/hana_events.rpy:516
 translate ukrainian hana_event_1_5c7ac574:
@@ -1245,43 +1245,43 @@ translate ukrainian hana_event_1_5c7ac574:
 translate ukrainian hana_event_1_74732b8f:
 
     # h "Ah~ {w}she always leaves when I approach her."
-    h "Ah~ {w}she always leaves when I approach her."
+    h "Ах~ {w}вона завжди тікає, коли я підходжу."
 
 # game/game/hana_events.rpy:519
 translate ukrainian hana_event_1_051569cf:
 
     # mc "I don't think she left because of you."
-    mc "I don't think she left because of you."
+    mc "Не думаю, що вона втікла через тебе."
 
 # game/game/hana_events.rpy:521
 translate ukrainian hana_event_1_03f04116:
 
     # h "At least you stay with me."
-    h "At least you stay with me."
+    h "Принаймні зі мною залишився ти."
 
 # game/game/hana_events.rpy:522
 translate ukrainian hana_event_1_78053a1b:
 
     # mc "You know..."
-    mc "You know..."
+    mc "Знаєш..."
 
 # game/game/hana_events.rpy:524
 translate ukrainian hana_event_1_55f6ea08:
 
     # mc "I'm just very friendly."
-    mc "I'm just very friendly."
+    mc "Я просто дуже дружній."
 
 # game/game/hana_events.rpy:526
 translate ukrainian hana_event_1_0e7578c8:
 
     # h "Yes, {w}I noticed..."
-    h "Yes, {w}I noticed..."
+    h "Так, {w}я помітила..."
 
 # game/game/hana_events.rpy:533
 translate ukrainian hana_event_1_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:549
 translate ukrainian hana_event_2_44f3b1b9:

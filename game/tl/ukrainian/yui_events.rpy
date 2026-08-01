@@ -873,19 +873,19 @@ translate ukrainian yui_talk_1_c378f7e5:
 translate ukrainian yui_event_1_016b341b:
 
     # t "I'll see if Yui is free."
-    t "I'll see if Yui is free."
+    t "Подивлюся, чи Юї вільна."
 
 # game/game/yui_events.rpy:426
 translate ukrainian yui_event_1_4e605330:
 
     # t "Looks like she's busy."
-    t "Looks like she's busy."
+    t "Видно, вона зайнята."
 
 # game/game/yui_events.rpy:428
 translate ukrainian yui_event_1_25c4eed1:
 
     # t "I'd better come back another d-"
-    t "I'd better come back another d-"
+    t "Мені варто зайти іншим ра-"
 
 # game/game/yui_events.rpy:430
 translate ukrainian yui_event_1_c79108bf:
@@ -897,37 +897,37 @@ translate ukrainian yui_event_1_c79108bf:
 translate ukrainian yui_event_1_1e4e085a:
 
     # t "Just in time."
-    t "Just in time."
+    t "Якраз вчасно."
 
 # game/game/yui_events.rpy:433
 translate ukrainian yui_event_1_7196a324:
 
     # y "Thank you, {w}my \"savior\"~"
-    y "Thank you, {w}my \"savior\"~"
+    y "Дякую, {w}мій «рятівнику»~"
 
 # game/game/yui_events.rpy:434
 translate ukrainian yui_event_1_5e75596a:
 
     # mc "{size=-10}I told you..."
-    mc "{size=-10}I told you..."
+    mc "{size=-10}Я ж казав..."
 
 # game/game/yui_events.rpy:435
 translate ukrainian yui_event_1_577664e5:
 
     # y "Hahaha."
-    y "Hahaha."
+    y "Хахаха."
 
 # game/game/yui_events.rpy:437
 translate ukrainian yui_event_1_2883f5fe:
 
     # t "She doesn't seem to be the type to ask for help..."
-    t "She doesn't seem to be the type to ask for help..."
+    t "Здається, вона не з тих, хто просить про допомогу..."
 
 # game/game/yui_events.rpy:441
 translate ukrainian yui_event_1_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:451
 translate ukrainian yui_fight_pratice_32d2ea9e:

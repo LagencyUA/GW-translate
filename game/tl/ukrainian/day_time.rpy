@@ -290,7 +290,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:580
     old "{color=#FF438D}H{/color}-Event\nGo to your backyard in the afternoon."
-    new "{color=#FF438D}Х{/color}-Подія\nЗавітай на задній двір удень."
+    new "{color=#FF438D}Х{/color}-подія\nЗавітай на задній двір удень."
 
     # game/day_time.rpy:604
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
@@ -343,7 +343,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:791
     old "{color=#FF438D}H{/color}-Event\nTalk with Yui in the afternoon."
-    new "{color=#FF438D}H{/color}-Event\nTalk with Yui in the afternoon."
+    new "{color=#FF438D}Х{/color}-подія\nПоговори з {color=#CEA976}Юї{/color} удень."
 
     # game/day_time.rpy:805
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFinish the {color=#FBE5A2}\"Learn More\"{/color} mission to see this hint."
@@ -436,7 +436,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1037
     old "{color=#FF438D}H{/color}-Event\nTalk with {color=#F3915B}Hana{/color} in the morning."
-    new "{color=#FF438D}H{/color}-Event\nTalk with {color=#F3915B}Hana{/color} in the morning."
+    new "{color=#FF438D}Х{/color}-подія\nПоговори з {color=#F3915B}Ханою{/color} вранці."
 
     # game/day_time.rpy:1054
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
