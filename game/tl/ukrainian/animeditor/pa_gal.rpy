@@ -4992,9 +4992,6 @@ translate ukrainian start_event_tier3_4_e47a0e88:
     mc "Sayori...?"
 
 translate ukrainian strings:
-    old "old:1783157112.3502007_1"
-    new "new:1783157112.3502007_1"
-
     old "Haa~{image=corazon} {w}Mnhm~{image=corazon}{image=corazon} {w}I-I see...{image=corazon}"
     new "Haa~{image=corazon} {w}Mnhm~{image=corazon}{image=corazon} {w}I-I see...{image=corazon}"
 
@@ -5543,9 +5540,6 @@ translate ukrainian strings:
 
     old "I felt like I was running out of strength!"
     new "I felt like I was running out of strength!"
-
-    old "Some time later."
-    new "Some time later."
 
     old "I reflexively stood still again."
     new "I reflexively stood still again."

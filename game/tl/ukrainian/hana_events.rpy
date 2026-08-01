@@ -777,31 +777,31 @@ translate ukrainian hana_talk_86d15191:
 translate ukrainian hana_first_talk_cf9d6536:
 
     # h "How do you feel?"
-    h "How do you feel?"
+    h "Як почуваєшся?"
 
 # game/game/hana_events.rpy:368
 translate ukrainian hana_first_talk_dc59c82c:
 
     # a "Normal..."
-    a "Normal..."
+    a "Нормально..."
 
 # game/game/hana_events.rpy:370
 translate ukrainian hana_first_talk_a171871d:
 
     # mc "Hello, I'm coming...{w} Hana?"
-    mc "Hello, I'm coming...{w} Hana?"
+    mc "Привіт, я заходжу...{w} Хано?"
 
 # game/game/hana_events.rpy:371
 translate ukrainian hana_first_talk_29d701d8:
 
     # h "Has your bloodlust been controlled a little?"
-    h "Has your bloodlust been controlled a little?"
+    h "Ти почала трохи справлятися зі свюєю жагою до крові?"
 
 # game/game/hana_events.rpy:373
 translate ukrainian hana_first_talk_718a365b:
 
     # t "She seems to be talking to someone..."
-    t "She seems to be talking to someone..."
+    t "Здається, вона з кимось розмовляє..."
 
 # game/game/hana_events.rpy:374
 translate ukrainian hana_first_talk_bb8e4b4e:
@@ -813,49 +813,49 @@ translate ukrainian hana_first_talk_bb8e4b4e:
 translate ukrainian hana_first_talk_72981e46:
 
     # h "Mmm... with my magic I can diminish it, but..."
-    h "Mmm... with my magic I can diminish it, but..."
+    h "Ммм... я можу придушити її за допомогою магії, але..."
 
 # game/game/hana_events.rpy:377
 translate ukrainian hana_first_talk_e0bc25d3:
 
     # h "I don't know how much more you'll be able to take..."
-    h "I don't know how much more you'll be able to take..."
+    h "Не знаю, скільки ще ти зможеш протриматися..."
 
 # game/game/hana_events.rpy:379
 translate ukrainian hana_first_talk_c4b8774c:
 
     # a "That's why I come here every morning..."
-    a "That's why I come here every morning..."
+    a "Саме тому я і приходжу до тебе щоранку..."
 
 # game/game/hana_events.rpy:380
 translate ukrainian hana_first_talk_994f2499:
 
     # t "Isn't that the girl from before?"
-    t "Isn't that the girl from before?"
+    t "Хіба це не та сама дівчина?"
 
 # game/game/hana_events.rpy:382
 translate ukrainian hana_first_talk_d12ac013:
 
     # h "Oh, look who decided to visit me."
-    h "Oh, look who decided to visit me."
+    h "Ох, погляньте, хто вирішив до нас завітати."
 
 # game/game/hana_events.rpy:384
 translate ukrainian hana_first_talk_33e0f318:
 
     # mc "H-Hey, have I come at a bad time?"
-    mc "H-Hey, have I come at a bad time?"
+    mc "Р-Ранку. Можливо, я невчасно?"
 
 # game/game/hana_events.rpy:386
 translate ukrainian hana_first_talk_ee564beb:
 
     # h "Not at all! {w}We were just talking."
-    h "Not at all! {w}We were just talking."
+    h "Зовсім ні! {w}Ми просто спілкуємося."
 
 # game/game/hana_events.rpy:388
 translate ukrainian hana_first_talk_93dfaf2e:
 
     # a "I didn't know you were friends with that pervert."
-    a "I didn't know you were friends with that pervert."
+    a "Не знала, що ти дружиш з цим збоченцем."
 
 # game/game/hana_events.rpy:389
 translate ukrainian hana_first_talk_2b35b6fe:
@@ -867,13 +867,13 @@ translate ukrainian hana_first_talk_2b35b6fe:
 translate ukrainian hana_first_talk_66a3ef5e:
 
     # mc "Hello... {w}we meet again..."
-    mc "Hello... {w}we meet again..."
+    mc "Привіт... {w}ось ми й знову зустрілися..."
 
 # game/game/hana_events.rpy:393
 translate ukrainian hana_first_talk_2e0848c3:
 
     # a "Hmm... you seem to be able to say more than two words."
-    a "Hmm... you seem to be able to say more than two words."
+    a "Гмм... а ти, видно, все ж можеш скласти більше ніж два слова."
 
 # game/game/hana_events.rpy:394
 translate ukrainian hana_first_talk_2b35b6fe_1:
@@ -885,55 +885,55 @@ translate ukrainian hana_first_talk_2b35b6fe_1:
 translate ukrainian hana_first_talk_22915bff:
 
     # t "She's still angry about before..."
-    t "She's still angry about before..."
+    t "Вона досі зла на мене через те..."
 
 # game/game/hana_events.rpy:397
 translate ukrainian hana_first_talk_ec7cdffa:
 
     # h "Do you know each other?"
-    h "Do you know each other?"
+    h "Ви вже знайомі?"
 
 # game/game/hana_events.rpy:399
 translate ukrainian hana_first_talk_72276eab:
 
     # mc "We had a little {w}accident..."
-    mc "We had a little {w}accident..."
+    mc "У нас сталася невеличка {w}неприємність..."
 
 # game/game/hana_events.rpy:404
 translate ukrainian hana_first_talk_0aca236d:
 
     # a "This guy jumped on me as soon as he walked into your house."
-    a "This guy jumped on me as soon as he walked into your house."
+    a "Цей хлопець наскочив на мене, щойно увійшов до твого дому."
 
 # game/game/hana_events.rpy:405
 translate ukrainian hana_first_talk_d5c9df98:
 
     # mc "That's not-"
-    mc "That's not-"
+    mc "Усе було-"
 
 # game/game/hana_events.rpy:407
 translate ukrainian hana_first_talk_b37bcf18:
 
     # h "Huuh..."
-    h "Huuh..."
+    h "Хах..."
 
 # game/game/hana_events.rpy:408
 translate ukrainian hana_first_talk_66e77df8:
 
     # mc "No no! {w}That's not exactly what happened!"
-    mc "No no! {w}That's not exactly what happened!"
+    mc "Ні-ні! {w}Усе було не зовсім так!"
 
 # game/game/hana_events.rpy:417
 translate ukrainian hana_first_talk_395353f6:
 
     # h "HAHAHAHA"
-    h "HAHAHAHA"
+    h "ХАХАХАХА!"
 
 # game/game/hana_events.rpy:419
 translate ukrainian hana_first_talk_eebade2d:
 
     # h "Did that really happen?"
-    h "Did that really happen?"
+    h "Таке дійсно сталося?"
 
 # game/game/hana_events.rpy:421
 translate ukrainian hana_first_talk_bb8e4b4e_1:
@@ -951,85 +951,85 @@ translate ukrainian hana_first_talk_2b35b6fe_2:
 translate ukrainian hana_first_talk_6ccc9d1d:
 
     # h "Hahahaha, {w}my stomach hurts."
-    h "Hahahaha, {w}my stomach hurts."
+    h "Хахахаха, {w}у мене аж живіт скрутило."
 
 # game/game/hana_events.rpy:426
 translate ukrainian hana_first_talk_bea2a7b4:
 
     # a "Ok! {w}I think I've finished what I came to do."
-    a "Ok! {w}I think I've finished what I came to do."
+    a "Усе! {w}Гадаю, я тут завершила зі справами."
 
 # game/game/hana_events.rpy:427
 translate ukrainian hana_first_talk_8aa9410b:
 
     # h "No {w}no, Akane wait!"
-    h "No {w}no, Akane wait!"
+    h "Ні, {w}ні, стривай, Акане!"
 
 # game/game/hana_events.rpy:429
 translate ukrainian hana_first_talk_fbb910af:
 
     # ak "What do you want."
-    ak "What do you want."
+    ak "Що ти хотіла."
 
 # game/game/hana_events.rpy:430
 translate ukrainian hana_first_talk_2b85ae97:
 
     # h "Come, {w}come closer."
-    h "Come, {w}come closer."
+    h "Підійди... {w}Підійди-но до мене."
 
 # game/game/hana_events.rpy:432
 translate ukrainian hana_first_talk_a82f5dea:
 
     # ak "If you want to continue making fun of me, I'll leave immediately."
-    ak "If you want to continue making fun of me, I'll leave immediately."
+    ak "Якщо продовжиш глузувати з мене, я негайно піду."
 
 # game/game/hana_events.rpy:433
 translate ukrainian hana_first_talk_aabe304b:
 
     # h "Relax, don't get mad."
-    h "Relax, don't get mad."
+    h "Розслабся, не нервуй."
 
 # game/game/hana_events.rpy:435
 translate ukrainian hana_first_talk_e297ef1f:
 
     # h "{size=-10}Now I understand why your bloodlust became strong from one day to another."
-    h "{size=-10}Now I understand why your bloodlust became strong from one day to another."
+    h "{size=-10}Тепер я зрозуміла, чому твоя жага крові так різко посилилася того дня."
 
 # game/game/hana_events.rpy:437
 translate ukrainian hana_first_talk_658a92d7:
 
     # ak "W-What!"
-    ak "W-What!"
+    ak "Щ-Що!"
 
 # game/game/hana_events.rpy:439
 translate ukrainian hana_first_talk_d45837d4:
 
     # ak "I'm leaving!!"
-    ak "I'm leaving!!"
+    ak "Я йду!!"
 
 # game/game/hana_events.rpy:440
 translate ukrainian hana_first_talk_de243994:
 
     # h "Okay~{image=corazon}{image=corazon} {w}come back whenever you're feeling bad."
-    h "Okay~{image=corazon}{image=corazon} {w}come back whenever you're feeling bad."
+    h "Бувай~{image=corazon}{image=corazon} {w}Приходь, якщо почуватимешся погано."
 
 # game/game/hana_events.rpy:441
 translate ukrainian hana_first_talk_1290d279:
 
     # ak "...! {w}Bye!"
-    ak "...! {w}Bye!"
+    ak "...! {w}Бувай!"
 
 # game/game/hana_events.rpy:442
 translate ukrainian hana_first_talk_4b000d00:
 
     # mc "By-"
-    mc "By-"
+    mc "Був-"
 
 # game/game/hana_events.rpy:443
 translate ukrainian hana_first_talk_3c1ae210:
 
     # "{i}Akane leaves before you can say goodbye."
-    "{i}Akane leaves before you can say goodbye."
+    "{i}Акане пішла, не давши тобі навіть попрощатися."
 
 # game/game/hana_events.rpy:445
 translate ukrainian hana_first_talk_2b35b6fe_3:
@@ -1041,85 +1041,85 @@ translate ukrainian hana_first_talk_2b35b6fe_3:
 translate ukrainian hana_first_talk_20816dd5:
 
     # mc "Sorry, maybe she's angry because of me."
-    mc "Sorry, maybe she's angry because of me."
+    mc "Пробач, певно, вона лютує через мене."
 
 # game/game/hana_events.rpy:449
 translate ukrainian hana_first_talk_adcff2d8:
 
     # h "No no, she's not angry~~{image=/bg/icons/heart_text.png}"
-    h "No no, she's not angry~~{image=/bg/icons/heart_text.png}"
+    h "Ні-ні, вона не зла~~{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:451
 translate ukrainian hana_first_talk_22e351dc:
 
     # h "She's like that, when you get to know her better, you'll understand."
-    h "She's like that, when you get to know her better, you'll understand."
+    h "Просто у неї такий характер. Коли зблизишся з нею, зрозумієш."
 
 # game/game/hana_events.rpy:452
 translate ukrainian hana_first_talk_36e64194:
 
     # mc "If she speaks to me for more than 5 seconds..."
-    mc "If she speaks to me for more than 5 seconds..."
+    mc "Якщо тільки вона захоче говорити зі мною більше 5 секунд..."
 
 # game/game/hana_events.rpy:454
 translate ukrainian hana_first_talk_04d3deeb:
 
     # h "Hahaha, you're right."
-    h "Hahaha, you're right."
+    h "Хахаха, теж правда."
 
 # game/game/hana_events.rpy:456
 translate ukrainian hana_first_talk_ee6a7ce2:
 
     # h "Just give her time to get used to seeing you around here."
-    h "Just give her time to get used to seeing you around here."
+    h "Просто дай їй трохи часу звикнути до тебе."
 
 # game/game/hana_events.rpy:457
 translate ukrainian hana_first_talk_0f240219:
 
     # mc "If you say so..."
-    mc "If you say so..."
+    mc "Як скажеш..."
 
 # game/game/hana_events.rpy:459
 translate ukrainian hana_first_talk_c64d569a:
 
     # s "Doctor! You have visitors."
-    s "Doctor! You have visitors."
+    s "Лікарко! У вас новий відвідувач."
 
 # game/game/hana_events.rpy:461
 translate ukrainian hana_first_talk_70aae361:
 
     # mc "Well, {w}I'd better get going."
-    mc "Well, {w}I'd better get going."
+    mc "Ну, {w}тоді я теж вже піду."
 
 # game/game/hana_events.rpy:463
 translate ukrainian hana_first_talk_852d08d2:
 
     # h "Yes, I have to get back to work..."
-    h "Yes, I have to get back to work..."
+    h "Так, мені слід повертатися до роботи..."
 
 # game/game/hana_events.rpy:465
 translate ukrainian hana_first_talk_1212df99:
 
     # mc "See you later."
-    mc "See you later."
+    mc "Побачимося."
 
 # game/game/hana_events.rpy:466
 translate ukrainian hana_first_talk_71fbd49d:
 
     # h "Bye bye [mc]~."
-    h "Bye bye [mc]~."
+    h "Бувай, [mc]~."
 
 # game/game/hana_events.rpy:473
 translate ukrainian hana_first_talk_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:475
 translate ukrainian hana_first_talk_9b1845fb:
 
     # t "I should find an opportunity to talk properly with Akane."
-    t "I should find an opportunity to talk properly with Akane."
+    t "Мені варто знайти нагоду, щоб як слід поговорити з Акане."
 
 # game/game/hana_events.rpy:486
 translate ukrainian hana_event_1_7cd818c2:
@@ -15062,6 +15062,9 @@ translate ukrainian strings:
     old "{image=corazon_wing}{color=#F5B6F2}Shika{/color} and {color=#DEA45B}Hana{/color} has been added!"
     new "{image=corazon_wing}Додано знайомство з {color=#F5B6F2}Шикою{/color} та {color=#DEA45B}Ханою{/color}!"
 
+    old "You explain to Hana what happened the first time you came here."
+    new "Ти пояснюєш Хані, що трапилося першого разу, коли ти сюди прийшов."
+
     old "You tell Hana everything that happened."
     new "You tell Hana everything that happened."
 
@@ -15082,9 +15085,6 @@ translate ukrainian strings:
 
     old "You spend the night with Hana."
     new "You spend the night with Hana."
-
-    old "You explain to Hana what happened the first time you came here."
-    new "You explain to Hana what happened the first time you came here."
 
     old "You hang out having ice cream with Hana."
     new "You hang out having ice cream with Hana."
