@@ -1269,7 +1269,7 @@ translate ukrainian hana_event_1_78053a1b:
 translate ukrainian hana_event_1_55f6ea08:
 
     # mc "I'm just very friendly."
-    mc "Я просто дуже дружній."
+    mc "Я просто надто привітний."
 
 # game/game/hana_events.rpy:526
 translate ukrainian hana_event_1_0e7578c8:
@@ -1533,7 +1533,7 @@ translate ukrainian hana_event_2_997e8c4c:
 translate ukrainian hana_event_2_58f24683:
 
     # h "You know I'm a doctor... and I can help you when you feel-"
-    h "Ти ж знаєш, що я лікарка... і я завжди допоможу, коли ти відчуваєш себе-"
+    h "Ти ж знаєш, що я лікарка... і я завжди допоможу, коли ти відчуватимеш себе-"
 
 # game/game/hana_events.rpy:622
 translate ukrainian hana_event_2_e75dbb8c:
@@ -1653,7 +1653,7 @@ translate ukrainian hana_event_2_698d7569:
 translate ukrainian hana_event_2_e710ac29:
 
     # h "And now I'm testing a new formula to create a potion."
-    h "А зараз, я перевіряю новий рецепт зілля."
+    h "А зараз, я пробую новий рецепт зілля."
 
 # game/game/hana_events.rpy:654
 translate ukrainian hana_event_2_e0ea5b4f:
@@ -1725,13 +1725,13 @@ translate ukrainian hana_event_2_40fb41b8:
 translate ukrainian hana_event_2_8d264327:
 
     # h "I was going to ask you, but I didn't know when."
-    h "Хотіла в тебе спитати, але не знала коли."
+    h "Як раз хотіла в тебе спитати, але не знала коли."
 
 # game/game/hana_events.rpy:673
 translate ukrainian hana_event_2_70074f0f:
 
     # mc "Well, you have my answer."
-    mc "Ну, тепер ти знаєш, що я відповім."
+    mc "Ну, тепер ти знаєш мою відповідь."
 
 # game/game/hana_events.rpy:675
 translate ukrainian hana_event_2_84303f05:
@@ -1839,7 +1839,7 @@ translate ukrainian hana_event_2_23e39aeb:
 translate ukrainian hana_event_2_cf9d6536:
 
     # h "How do you feel?"
-    h "Як почіваєшся?"
+    h "Як почуваєшся?"
 
 # game/game/hana_events.rpy:709
 translate ukrainian hana_event_2_2b35b6fe:

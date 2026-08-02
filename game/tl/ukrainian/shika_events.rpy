@@ -2601,7 +2601,7 @@ translate ukrainian shika_horny_b88210dd:
 translate ukrainian shika_horny_cc6c4da8:
 
     # s "But it would seem that doing it here increases the horny."
-    s "Але тепер я розумію, що робити це тут — лище посилює збудженість."
+    s "Але тепер я розумію, що робити це тут — лише посилює збудженість."
 
 # game/game/shika_events.rpy:855
 translate ukrainian shika_horny_4d3e2bb1:
@@ -2787,7 +2787,7 @@ translate ukrainian shika_horny_c3d20660:
 translate ukrainian shika_horny_508f14c0:
 
     # mc "I see you're learning."
-    mc "Бачу ти швидко вчишся."
+    mc "Бачу, ти швидко вчишся."
 
 # game/game/shika_events.rpy:899
 translate ukrainian shika_horny_8e8fb440:
@@ -2805,7 +2805,7 @@ translate ukrainian shika_horny_8b801634:
 translate ukrainian shika_horny_107689a8:
 
     # v "It must be that thing that fell off...."
-    v "Схоже це той зонт упав...."
+    v "Видно, це той зонт упав...."
 
 # game/game/shika_events.rpy:907
 translate ukrainian shika_horny_1ca7820c:
