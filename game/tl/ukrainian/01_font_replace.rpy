@@ -43,6 +43,7 @@ init python early hide:
 translate ukrainian style say_dialogue:
     size 30          # Зменшуємо основний сюжетний текст
     line_spacing 1   # Додаємо мікро-відступ між рядками, щоб читалося легше
+    yoffset -8       # Підняти трохи текст
 
 translate ukrainian style say_label:
     size 46          # Зменшуємо імена персонажів
