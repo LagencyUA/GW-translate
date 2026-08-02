@@ -138,19 +138,19 @@ translate ukrainian strings:
 
     ## Написи на мапі map_gw
     old "Town"
-    new "{size=-3}Селище"
+    new "{size=-4}Селище"
 
     old "Forest"
     new "Ліс"
 
     old "{size=-3}Sakura\n Town"
-    new "{size=-3}Містечко\nСакура"
+    new "{size=-8}Містечко\nСакура"
 
     old "{size=+5}Lake"
-    new "{size=+5}Озеро"
+    new "{size=+3}Озеро"
 
     old "Stone"
-    new "{size=-3}Розвалини"
+    new "{size=-5}Розвалини"
 
     old "Lands"
     new "Землі"
@@ -159,10 +159,10 @@ translate ukrainian strings:
     new "{size=-3}Клан\nЛікоріс"
 
     old "{size=-3}Kingdom"
-    new "{size=-3}Королівство"
+    new "{size=-8}Королівство"
 
     old "{size=-6}Pond"
-    new "{size=-6}Ставок"
+    new "{size=-8}Ставок"
 
     ## Екран підсказок по відносинам з дівчатами girls_affection
     # game/day_time.rpy:126
@@ -188,7 +188,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:447
     old "{size=+2}BACK"
-    new "{size=+2}НАЗАД"
+    new "{size=+2}НАЗАД "
 
     ############## Спільні написи про заблоковану підсказку #########################
     # game/day_time.rpy:539
