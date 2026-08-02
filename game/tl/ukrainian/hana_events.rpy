@@ -1857,25 +1857,25 @@ translate ukrainian hana_gal1_7a2af95b:
 translate ukrainian hana_gal1_95adbb5d:
 
     # mc "I feel energized!"
-    mc "I feel energized!"
+    mc "Я почуваюся сповненим сил!"
 
 # game/game/hana_events.rpy:719
 translate ukrainian hana_gal1_0498cd3d:
 
     # h "Woah."
-    h "Woah."
+    h "Овва."
 
 # game/game/hana_events.rpy:720
 translate ukrainian hana_gal1_3b0732a5:
 
     # "A warmth begins to invade your body."
-    "A warmth begins to invade your body."
+    "Тепло починає проникати у твоє тіло."
 
 # game/game/hana_events.rpy:721
 translate ukrainian hana_gal1_68433f68:
 
     # mc "What..."
-    mc "What..."
+    mc "Що..."
 
 # game/game/hana_events.rpy:722
 translate ukrainian hana_gal1_7a2af95b_1:
@@ -1887,7 +1887,7 @@ translate ukrainian hana_gal1_7a2af95b_1:
 translate ukrainian hana_gal1_566ef481:
 
     # h "Wh-{w=0.3}{nw}"
-    h "Wh-{w=0.3}{nw}"
+    h "Га-{w=0.3}{nw}"
 
 # game/game/hana_events.rpy:732
 translate ukrainian hana_gal1_0b2d284b:
@@ -1899,91 +1899,91 @@ translate ukrainian hana_gal1_0b2d284b:
 translate ukrainian hana_gal1_085722e2:
 
     # mc "What?!"
-    mc "What?!"
+    mc "Якого?!"
 
 # game/game/hana_events.rpy:735
 translate ukrainian hana_gal1_190a7814:
 
     # mc "What just happened?"
-    mc "What just happened?"
+    mc "Що відбулося?"
 
 # game/game/hana_events.rpy:740
 translate ukrainian hana_gal1_874b0bd3:
 
     # h "It must be a side effect..."
-    h "It must be a side effect..."
+    h "Здається, це побічний ефект..."
 
 # game/game/hana_events.rpy:742
 translate ukrainian hana_gal1_283d8679:
 
     # h "That's why I told you not to drink it... things like this have already happened to me..."
-    h "That's why I told you not to drink it... things like this have already happened to me..."
+    h "Саме тому я казала тобі не пити... мені вже доводилося проходити через подібне..."
 
 # game/game/hana_events.rpy:743
 translate ukrainian hana_gal1_a1371073:
 
     # mc "And what should I do to make it go away?! I feel like my whole body is on fire!"
-    mc "And what should I do to make it go away?! I feel like my whole body is on fire!"
+    mc "І що мені робити, щоб це пройшло?! Здається, ніби все моє тіло горить!"
 
 # game/game/hana_events.rpy:744
 translate ukrainian hana_gal1_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/hana_events.rpy:749
 translate ukrainian hana_gal1_4a8416e2:
 
     # h "Remember, {w}I'm a doctor~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Remember, {w}I'm a doctor~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Не забувай, {w}я лікарка~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:754
 translate ukrainian hana_gal1_5137c386:
 
     # h "Come, sit here."
-    h "Come, sit here."
+    h "Нумо сідай тут."
 
 # game/game/hana_events.rpy:755
 translate ukrainian hana_gal1_51887bcf:
 
     # mc "Hana... I can't take it anymore..."
-    mc "Hana... I can't take it anymore..."
+    mc "Хано... Я більше не можу терпіти..."
 
 # game/game/hana_events.rpy:756
 translate ukrainian hana_gal1_eeb9b07f:
 
     # h "I'll get comfortable then..."
-    h "I'll get comfortable then..."
+    h "Я теж сяду зручніше..."
 
 # game/game/hana_events.rpy:758
 translate ukrainian hana_gal1_98dd91be:
 
     # h "This is what you get for not listening to me."
-    h "This is what you get for not listening to me."
+    h "Ось що буває, коли мене не слухаєш."
 
 # game/game/hana_events.rpy:759
 translate ukrainian hana_gal1_27dee146:
 
     # mc "I don't know if that's a bad thing or a good thing..."
-    mc "I don't know if that's a bad thing or a good thing..."
+    mc "Не знаю, чи погано це, чи добре..."
 
 # game/game/hana_events.rpy:761
 translate ukrainian hana_gal1_eb31f253:
 
     # h "Hmm... {w}You'll soon find out."
-    h "Hmm... {w}You'll soon find out."
+    h "Гмм... {w}Скоро дізнаєшся."
 
 # game/game/hana_events.rpy:763
 translate ukrainian hana_gal1_d364e7d9:
 
     # h "And it'll be really soon because you're burning my hand..."
-    h "And it'll be really soon because you're burning my hand..."
+    h "І це буде дуже скоро, бо ти мені аж руку обпалюєш..."
 
 # game/game/hana_events.rpy:764
 translate ukrainian hana_gal1_26e430a4:
 
     # mc "Hana..."
-    mc "Hana..."
+    mc "Хано..."
 
 # game/game/hana_events.rpy:773
 translate ukrainian hana_gal1_30c5147c:
@@ -1995,37 +1995,37 @@ translate ukrainian hana_gal1_30c5147c:
 translate ukrainian hana_gal1_87e27d10:
 
     # h "It looks like you almost came."
-    h "It looks like you almost came."
+    h "Здається, ніби ти майже кінчив."
 
 # game/game/hana_events.rpy:775
 translate ukrainian hana_gal1_e6759533:
 
     # h "Maybe you should've... {w}Tsuunm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}you'd feel better."
-    h "Maybe you should've... {w}Tsuunm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}you'd feel better."
+    h "Можливо, тобі слід було... {w}Тсуунм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}одразу б стало краще."
 
 # game/game/hana_events.rpy:776
 translate ukrainian hana_gal1_2dfe6c44:
 
     # mc "A-And not enjoy watching you sucking my penis with your tits almost uncovered?"
-    mc "A-And not enjoy watching you sucking my penis with your tits almost uncovered?"
+    mc "І-І не насолодитися спогляданням того, як ти смокчеш мій член, а твої цицьки майже видно?"
 
 # game/game/hana_events.rpy:777
 translate ukrainian hana_gal1_9c75e483:
 
     # h "Mnm~~{image=/bg/icons/heart_text.png} {w}Sluurrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} GHuummn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Mnm~~{image=/bg/icons/heart_text.png} {w}Sluurrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} GHuummn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Мнм~~{image=/bg/icons/heart_text.png} {w}Сьююррбб~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} ГХууммн~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:786
 translate ukrainian hana_gal1_27e39b20:
 
     # h "Mmmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Mmmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Мммм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:787
 translate ukrainian hana_gal1_347d39e1:
 
     # h "You should listen to your {w}Hmnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}doctor..."
-    h "You should listen to your {w}Hmnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}doctor..."
+    h "Варто слухатися своєї {w}Хмнмн~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}лікарки..."
 
 # game/game/hana_events.rpy:788
 translate ukrainian hana_gal1_78dc3e84:
