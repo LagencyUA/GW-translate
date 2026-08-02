@@ -49,3 +49,24 @@ translate ukrainian style say_label:
 
 translate ukrainian style choice_button_text:
     size 28          # Зменшуємо текст у кнопках вибору сюжету
+
+
+# --- ВАРІАНТ 1: Рубі над текстом ---
+translate ukrainian style ukr_ruby_top:
+    size 16
+    yoffset -38
+
+translate ukrainian style ukr_say_ruby_top is say_dialogue:
+    line_spacing 6
+    ruby_style style.ukr_ruby_top
+
+
+# --- ВАРІАНТ 2: Рубі ПІД текстом (твоя ідея) ---
+translate ukrainian style ukr_ruby_bottom:
+    size 16
+    # Додатне значення зміщує текст УНИЗ від базової лінії
+    yoffset 38  
+    
+translate ukrainian style ukr_say_ruby_bottom is say_dialogue:
+    # Якщо підказка на останньому рядку
+    ruby_style style.ukr_ruby_bottom
