@@ -27,6 +27,30 @@ screen ukr_menu_credits_overlay():
             outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
             size 25
             at text_anim_bw_2
+        
+        imagebutton:
+            at smooth_sway
+            xpos 5
+            ypos 460
+            idle "tl/ukrainian/images/lagency_link_btn.png"
+            hover im.MatrixColor("tl/ukrainian/images/lagency_link_btn.png", im.matrix.brightness(0.1))
+            action OpenURL("https://t.me/Lagency_public")
+        text "За ініціативи":
+            pos (45, 410)
+            color "#FFFFFF"
+            font "fonts/ukr/PlaypenSans-Medium.ttf"
+            text_align 0.5
+            outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
+            size 25
+            at text_anim_bw
+        text "Lagency":
+            pos (35, 540)
+            color "#FFFFFF"
+            font "fonts/ukr/PlaypenSans-Medium.ttf"
+            text_align 0.5
+            outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
+            size 25
+            at text_anim_bw_2
 
 
 transform -1 smooth_sway:
