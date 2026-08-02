@@ -207,19 +207,19 @@ translate ukrainian charlotte_event_1_736c69f8:
 translate ukrainian charlotte_first_meet_7740cb7e:
 
     # mc "Something about this cat looks very familiar."
-    mc "У цій кішці є щось дуже знайоме."
+    mc "Ця кішка здається мені дуже знайомою."
 
 # game/game/charlotte_events.rpy:112
 translate ukrainian charlotte_first_meet_2d4af059:
 
     # mc "I should look for a way to hold her in my arms."
-    mc "Варто мені пошукати спосіб вз'яти її на руки."
+    mc "Варто пошукати спосіб вз'яти її на руки."
 
 # game/game/charlotte_events.rpy:113
 translate ukrainian charlotte_first_meet_3cf7394a:
 
     # mc "Maybe with food..."
-    mc "Можливо, мені допоможе їжа..."
+    mc "Можливо, приманити її їжею?..."
 
 # game/game/charlotte_events.rpy:127
 translate ukrainian char_unlock_cd038ab5:
