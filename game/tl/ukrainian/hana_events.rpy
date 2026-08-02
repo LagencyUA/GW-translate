@@ -1287,559 +1287,559 @@ translate ukrainian hana_event_1_658e5639:
 translate ukrainian hana_event_2_44f3b1b9:
 
     # mc "Hanaa, it's me!"
-    mc "Hanaa, it's me!"
+    mc "Хано, це я!"
 
 # game/game/hana_events.rpy:550
 translate ukrainian hana_event_2_037b3356:
 
     # h "{size=-10}[mc]? {w}I'm in the garden!"
-    h "{size=-10}[mc]? {w}I'm in the garden!"
+    h "{size=-10}[mc]? {w}Я у саду!"
 
 # game/game/hana_events.rpy:551
 translate ukrainian hana_event_2_d7bbd93a:
 
     # t "Garden?"
-    t "Garden?"
+    t "У саду?"
 
 # game/game/hana_events.rpy:553
 translate ukrainian hana_event_2_c3bb4b1e:
 
     # h "{size=-10}Come over here! I'm in the back!"
-    h "{size=-10}Come over here! I'm in the back!"
+    h "{size=-10}Ходи сюди! Я на задньому дворі!"
 
 # game/game/hana_events.rpy:554
 translate ukrainian hana_event_2_47e5c024:
 
     # mc "Ok!"
-    mc "Ok!"
+    mc "Гаразд!"
 
 # game/game/hana_events.rpy:556
 translate ukrainian hana_event_2_3bdbc382:
 
     # t "It must be that way."
-    t "It must be that way."
+    t "Певно, що сюди."
 
 # game/game/hana_events.rpy:558
 translate ukrainian hana_event_2_80ab26d1:
 
     # t "There she is."
-    t "There she is."
+    t "А ось і вона."
 
 # game/game/hana_events.rpy:559
 translate ukrainian hana_event_2_adabd813:
 
     # h "You arrived just in time."
-    h "You arrived just in time."
+    h "Ти як раз вчасно."
 
 # game/game/hana_events.rpy:561
 translate ukrainian hana_event_2_db2c6600:
 
     # mc "Just in time for what exactly...?"
-    mc "Just in time for what exactly...?"
+    mc "Вчасно для чого саме...?"
 
 # game/game/hana_events.rpy:563
 translate ukrainian hana_event_2_b6318dcd:
 
     # h "If you came a little closer you could guess what I'm doing..."
-    h "If you came a little closer you could guess what I'm doing..."
+    h "Якщо підійдеш ближче, можливо, вгадаєш, чим я тут займаюся..."
 
 # game/game/hana_events.rpy:564
 translate ukrainian hana_event_2_12b8a7ba:
 
     # mc "I don't want to get in the way..."
-    mc "I don't want to get in the way..."
+    mc "Не хочу завадити..."
 
 # game/game/hana_events.rpy:566
 translate ukrainian hana_event_2_cf80514b:
 
     # h "I'm trying to get this sunflower out but it's pretty stuck."
-    h "I'm trying to get this sunflower out but it's pretty stuck."
+    h "Я намагаюся витягти цього соняха, але він унівець не йде."
 
 # game/game/hana_events.rpy:567
 translate ukrainian hana_event_2_a2e1be34:
 
     # mc "I'll have to leave this beautiful view and help you then."
-    mc "I'll have to leave this beautiful view and help you then."
+    mc "У такому разі доведеться полишити цей прекрасний краєвид і допомогти тобі."
 
 # game/game/hana_events.rpy:569
 translate ukrainian hana_event_2_d6d0fec4:
 
     # h "Maybe if you can get it out, I'll let you see it again."
-    h "Maybe if you can get it out, I'll let you see it again."
+    h "Можливо, якщо зможеш його витягти, я дозволю тобі насолодитися цим знову."
 
 # game/game/hana_events.rpy:570
 translate ukrainian hana_event_2_9dea2d1a:
 
     # mc "How many do you need, {w}a hundred?!"
-    mc "How many do you need, {w}a hundred?!"
+    mc "Скільки треба, {w}сотню?!"
 
 # game/game/hana_events.rpy:572
 translate ukrainian hana_event_2_d515f8f7:
 
     # h "Hahaha, only one."
-    h "Hahaha, only one."
+    h "Хахаха, одного достатньо."
 
 # game/game/hana_events.rpy:573
 translate ukrainian hana_event_2_928bebab:
 
     # mc "I'll take care of it."
-    mc "I'll take care of it."
+    mc "Я про нього подбаю."
 
 # game/game/hana_events.rpy:575
 translate ukrainian hana_event_2_91437412:
 
     # t "Only one then."
-    t "Only one then."
+    t "Отже, лише один."
 
 # game/game/hana_events.rpy:577
 translate ukrainian hana_event_2_224db34f:
 
     # mc "Here we go."
-    mc "Here we go."
+    mc "Оп-па."
 
 # game/game/hana_events.rpy:583
 translate ukrainian hana_event_2_02c5ff27:
 
     # h "What?!"
-    h "What?!"
+    h "Ого?!"
 
 # game/game/hana_events.rpy:584
 translate ukrainian hana_event_2_38cb8147:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "Бля!"
 
 # game/game/hana_events.rpy:586
 translate ukrainian hana_event_2_686aabd2:
 
     # h "Ah{w=0.5}{nw}"
-    h "Ah{w=0.5}{nw}"
+    h "Ах.{w=0.5}{nw}"
 
 # game/game/hana_events.rpy:591
 translate ukrainian hana_event_2_0e6af590:
 
     # mc "And that's how I lost my life."
-    mc "And that's how I lost my life."
+    mc "І ось так закінчилося моє життя."
 
 # game/game/hana_events.rpy:592
 translate ukrainian hana_event_2_a435ef09:
 
     # mc "In the most heroic way possible."
-    mc "In the most heroic way possible."
+    mc "Найбільш героїчним чином."
 
 # game/game/hana_events.rpy:593
 translate ukrainian hana_event_2_b49923d0:
 
     # mc "Pulling a sunflower."
-    mc "Pulling a sunflower."
+    mc "Коли я тягнув соняха."
 
 # game/game/hana_events.rpy:594
 translate ukrainian hana_event_2_0f23e884:
 
     # h "[mc], {w}will you stop your monologue and open your eyes?"
-    h "[mc], {w}will you stop your monologue and open your eyes?"
+    h "[mc], {w}не бажаєш припинити свій монолог і розплющити очі?"
 
 # game/game/hana_events.rpy:599
 translate ukrainian hana_event_2_264c7c7f:
 
     # mc "I was getting to the best part."
-    mc "I was getting to the best part."
+    mc "Я саме підходив до найцікавішого."
 
 # game/game/hana_events.rpy:601
 translate ukrainian hana_event_2_0839ed1a:
 
     # h "Hmm... {w}I could help you finish it."
-    h "Hmm... {w}I could help you finish it."
+    h "Гмм... {w}Я б могла допомогти тобі закінчити."
 
 # game/game/hana_events.rpy:602
 translate ukrainian hana_event_2_20b9d0ce:
 
     # mc "I don't know if we're thinking the same."
-    mc "I don't know if we're thinking the same."
+    mc "Не знаю, чи ми думаємо про те саме."
 
 # game/game/hana_events.rpy:604
 translate ukrainian hana_event_2_6150844f:
 
     # h "Hahaha we'll see."
-    h "Hahaha we'll see."
+    h "Хахаха, побачимо."
 
 # game/game/hana_events.rpy:605
 translate ukrainian hana_event_2_3f9f31bf:
 
     # mc "What are you going to d-"
-    mc "What are you going to d-"
+    mc "Що ти роб-"
 
 # game/game/hana_events.rpy:607
 translate ukrainian hana_event_2_1e05e888:
 
     # h "I'll go pick up the sunflower you threw away."
-    h "I'll go pick up the sunflower you threw away."
+    h "Хочу підняти соняха, який ти викинув."
 
 # game/game/hana_events.rpy:608
 translate ukrainian hana_event_2_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Овва..."
 
 # game/game/hana_events.rpy:610
 translate ukrainian hana_event_2_3d72feb3:
 
     # h "You took it out like it was nothing."
-    h "You took it out like it was nothing."
+    h "Вирвав його так, наче це раз плюнути."
 
 # game/game/hana_events.rpy:611
 translate ukrainian hana_event_2_f5c8723c:
 
     # mc "Yes, even I'm surprised."
-    mc "Yes, even I'm surprised."
+    mc "Ага, я теж здивований."
 
 # game/game/hana_events.rpy:612
 translate ukrainian hana_event_2_92c28bb3:
 
     # h "Your strength is quite unusual."
-    h "Your strength is quite unusual."
+    h "У тебе надзвичайна сила."
 
 # game/game/hana_events.rpy:613
 translate ukrainian hana_event_2_86b2e58d:
 
     # mc "Err..{w} I think you should make sure it's okay."
-    mc "Err..{w} I think you should make sure it's okay."
+    mc "Емм...{w} Гадаю, тобі слід переконатися, чи він у нормі."
 
 # game/game/hana_events.rpy:615
 translate ukrainian hana_event_2_74f30415:
 
     # h "You're right... {w}you got it out pretty fast after all..."
-    h "You're right... {w}you got it out pretty fast after all..."
+    h "Авжеж... {w}ти все-таки досить швидко його вирвав..."
 
 # game/game/hana_events.rpy:616
 translate ukrainian hana_event_2_6020ecc7:
 
     # mc "Yes... I hope I didn't damage anything..."
-    mc "Yes... I hope I didn't damage anything..."
+    mc "Так... Сподіваюся, я його не пошкодив..."
 
 # game/game/hana_events.rpy:618
 translate ukrainian hana_event_2_e068e1c1:
 
     # h "Mmm..{w} I don't think so... maybe you were more hurt..."
-    h "Mmm..{w} I don't think so... maybe you were more hurt..."
+    h "Ммм...{w} Я б не сказала... мабуть, тобі більше дісталося..."
 
 # game/game/hana_events.rpy:619
 translate ukrainian hana_event_2_997e8c4c:
 
     # mc "Now that you mention it, I think I feel something."
-    mc "Now that you mention it, I think I feel something."
+    mc "Тепер, коли ти це сказала, мені здається, я дещо відчуваю."
 
 # game/game/hana_events.rpy:620
 translate ukrainian hana_event_2_58f24683:
 
     # h "You know I'm a doctor... and I can help you when you feel-"
-    h "You know I'm a doctor... and I can help you when you feel-"
+    h "Ти ж знаєш, що я лікарка... і я завжди допоможу, коли ти відчуваєш себе-"
 
 # game/game/hana_events.rpy:622
 translate ukrainian hana_event_2_e75dbb8c:
 
     # h "Sick."
-    h "Sick."
+    h "Хворим."
 
 # game/game/hana_events.rpy:627
 translate ukrainian hana_event_2_257802e0:
 
     # s "Doctor!"
-    s "Doctor!"
+    s "Лікарко!"
 
 # game/game/hana_events.rpy:628
 translate ukrainian hana_event_2_3a15970a:
 
     # s "I'm going to take my break!"
-    s "I'm going to take my break!"
+    s "Я піду на перерву!"
 
 # game/game/hana_events.rpy:629
 translate ukrainian hana_event_2_4baad9ce:
 
     # mc "Shit!"
-    mc "Shit!"
+    mc "Трясця!"
 
 # game/game/hana_events.rpy:630
 translate ukrainian hana_event_2_478ae93a:
 
     # h "Ah! {w}Yes!{w} Don't sleep too much or you'll get a headache!"
-    h "Ah! {w}Yes!{w} Don't sleep too much or you'll get a headache!"
+    h "Ах! {w}Так!{w} Тільки довго не спи, а то голова болітиме!"
 
 # game/game/hana_events.rpy:631
 translate ukrainian hana_event_2_f6ceb8e4:
 
     # s "Yeess!"
-    s "Yeess!"
+    s "Тааак!"
 
 # game/game/hana_events.rpy:632
 translate ukrainian hana_event_2_dda365c8:
 
     # h "Do you want to join me while I do something with this flower?"
-    h "Do you want to join me while I do something with this flower?"
+    h "Не бажаєш доєднатися, доки я дещо робитиму з цією квіткою?"
 
 # game/game/hana_events.rpy:633
 translate ukrainian hana_event_2_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Звісно."
 
 # game/game/hana_events.rpy:634
 translate ukrainian hana_event_2_720e81a8:
 
     # "You watch Hana grind and gather different plants."
-    "You watch Hana grind and gather different plants."
+    "Ти спостерігаєш, як Хана збирає та перемелює різні рослини."
 
 # game/game/hana_events.rpy:639
 translate ukrainian hana_event_2_c0f1ecb0:
 
     # h "Now I should light the fire."
-    h "Now I should light the fire."
+    h "Тепер треба розпалити вогонь."
 
 # game/game/hana_events.rpy:640
 translate ukrainian hana_event_2_1a7ac97e:
 
     # mc "Are you making some kind of medicine?"
-    mc "Are you making some kind of medicine?"
+    mc "Ти робиш якісь ліки?"
 
 # game/game/hana_events.rpy:641
 translate ukrainian hana_event_2_dd9b571b:
 
     # h "Yes, something like that."
-    h "Yes, something like that."
+    h "Ну, можна й так назвати."
 
 # game/game/hana_events.rpy:643
 translate ukrainian hana_event_2_d847a964:
 
     # mc "What's the difference?"
-    mc "What's the difference?"
+    mc "Тобто, це не зовсім ліки?"
 
 # game/game/hana_events.rpy:644
 translate ukrainian hana_event_2_862c557f:
 
     # h "Do you remember I told you that we could hardly leave the village?"
-    h "Do you remember I told you that we could hardly leave the village?"
+    h "Пам'ятаєш, я казала, що ми майже не в змозі лишити селище?"
 
 # game/game/hana_events.rpy:645
 translate ukrainian hana_event_2_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/hana_events.rpy:647
 translate ukrainian hana_event_2_a0ef5897:
 
     # h "With limited resources, I had to experiment with everything to maintain the health of this town."
-    h "With limited resources, I had to experiment with everything to maintain the health of this town."
+    h "Маючи обмежені ресурси, мені довелося пробувати все, щоб кожна мешканка цього села була здоровою."
 
 # game/game/hana_events.rpy:649
 translate ukrainian hana_event_2_fd2ce399:
 
     # h "I've planted all kinds of plants."
-    h "I've planted all kinds of plants."
+    h "Я вирощувала всі можливі рослини."
 
 # game/game/hana_events.rpy:650
 translate ukrainian hana_event_2_2cd378ff:
 
     # h "And tested different recipes."
-    h "And tested different recipes."
+    h "Та перевіряла різні рецепти."
 
 # game/game/hana_events.rpy:651
 translate ukrainian hana_event_2_698d7569:
 
     # mc "Wow."
-    mc "Wow."
+    mc "Вау."
 
 # game/game/hana_events.rpy:653
 translate ukrainian hana_event_2_e710ac29:
 
     # h "And now I'm testing a new formula to create a potion."
-    h "And now I'm testing a new formula to create a potion."
+    h "А зараз, я перевіряю новий рецепт зілля."
 
 # game/game/hana_events.rpy:654
 translate ukrainian hana_event_2_e0ea5b4f:
 
     # mc "Potion?"
-    mc "Potion?"
+    mc "Зілля?"
 
 # game/game/hana_events.rpy:655
 translate ukrainian hana_event_2_b1c20115:
 
     # mc "Like mana or HP?"
-    mc "Like mana or HP?"
+    mc "По типу мани чи {rb}ОЗ{/rb}{rt}очки здоров'я{/rt}?" (what_style="ukr_say_ruby_top")
 
 # game/game/hana_events.rpy:657
 translate ukrainian hana_event_2_ff932e82:
 
     # h "What?"
-    h "What?"
+    h "Га?"
 
 # game/game/hana_events.rpy:658
 translate ukrainian hana_event_2_34a74b8d:
 
     # mc "Nothing, continue..."
-    mc "Nothing, continue..."
+    mc "Нічого, продовжуй..."
 
 # game/game/hana_events.rpy:660
 translate ukrainian hana_event_2_c16461ab:
 
     # h "I've only been able to use the plants I find near the walls."
-    h "I've only been able to use the plants I find near the walls."
+    h "Мені вдалося використовувати лише ті рослини, що я знайшла біля стін довкола."
 
 # game/game/hana_events.rpy:662
 translate ukrainian hana_event_2_8abc4a65:
 
     # h "But now Yui is preparing an expedition to secure the forest."
-    h "But now Yui is preparing an expedition to secure the forest."
+    h "Але тепер Юї готує експедицію, щоб убезпечити ліс."
 
 # game/game/hana_events.rpy:663
 translate ukrainian hana_event_2_affd6f8a:
 
     # mc "That's why she's been looking so busy."
-    mc "That's why she's been looking so busy."
+    mc "Ось чому вона здавалася мені такою зайнятою."
 
 # game/game/hana_events.rpy:665
 translate ukrainian hana_event_2_791f750d:
 
     # h "The idea is to set up guard posts, so that any girl who wants to go out will be sure not to meet a wolf."
-    h "The idea is to set up guard posts, so that any girl who wants to go out will be sure not to meet a wolf."
+    h "План полягає в тому, аби облаштувати лінію оборони, щоб дівчата, які захочуть вийти туди, не натрапили на вовка."
 
 # game/game/hana_events.rpy:667
 translate ukrainian hana_event_2_c6231c8c:
 
     # mc "I hope you're including me in this plan."
-    mc "I hope you're including me in this plan."
+    mc "Сподіваюся, мене теж врахували у цей план."
 
 # game/game/hana_events.rpy:668
 translate ukrainian hana_event_2_7f993e86:
 
     # mc "You've done so much for me, {w}I don't even know where Ryoko gets the food she gives me."
-    mc "You've done so much for me, {w}I don't even know where Ryoko gets the food she gives me."
+    mc "Ви так багато для мене зробили, {w}я навіть не знаю, звідки Рьоко бере ту їжу, яку вона мені готує."
 
 # game/game/hana_events.rpy:670
 translate ukrainian hana_event_2_40fb41b8:
 
     # h "Hahaha."
-    h "Hahaha."
+    h "Хахаха."
 
 # game/game/hana_events.rpy:671
 translate ukrainian hana_event_2_8d264327:
 
     # h "I was going to ask you, but I didn't know when."
-    h "I was going to ask you, but I didn't know when."
+    h "Хотіла в тебе спитати, але не знала коли."
 
 # game/game/hana_events.rpy:673
 translate ukrainian hana_event_2_70074f0f:
 
     # mc "Well, you have my answer."
-    mc "Well, you have my answer."
+    mc "Ну, тепер ти знаєш, що я відповім."
 
 # game/game/hana_events.rpy:675
 translate ukrainian hana_event_2_84303f05:
 
     # h "When we have everything ready, we'll let you know."
-    h "When we have everything ready, we'll let you know."
+    h "Дам знати, коли все буде готово."
 
 # game/game/hana_events.rpy:676
 translate ukrainian hana_event_2_85785fdb:
 
     # mc "Perfect."
-    mc "Perfect."
+    mc "Домовилися."
 
 # game/game/hana_events.rpy:678
 translate ukrainian hana_event_2_ff9aba69:
 
     # h "It seems to be ready."
-    h "It seems to be ready."
+    h "Здається, воно вже приготувалося."
 
 # game/game/hana_events.rpy:680
 translate ukrainian hana_event_2_2058ce7a:
 
     # "{i}Hana takes the contents and pours them into a jar."
-    "{i}Hana takes the contents and pours them into a jar."
+    "{i}Хана переливає зілля у банку."
 
 # game/game/hana_events.rpy:681
 translate ukrainian hana_event_2_4912dcf5:
 
     # h "I think it worked..."
-    h "I think it worked..."
+    h "Гадаю, спрацювало..."
 
 # game/game/hana_events.rpy:682
 translate ukrainian hana_event_2_4bc647ac:
 
     # h "It has the color I expected but it looks a little strange...."
-    h "It has the color I expected but it looks a little strange...."
+    h "Колір у нього очікуваний, але дещо дивно виглядає..."
 
 # game/game/hana_events.rpy:683
 translate ukrainian hana_event_2_157e1e8e:
 
     # mc "Do you want me to drink it to make sure?"
-    mc "Do you want me to drink it to make sure?"
+    mc "Хочеш, аби я випив та перевірив?"
 
 # game/game/hana_events.rpy:684
 translate ukrainian hana_event_2_aea19a88:
 
     # h "Mmm... {w} I don't know..."
-    h "Mmm... {w} I don't know..."
+    h "Ммм... {w} не впевнена..."
 
 # game/game/hana_events.rpy:686
 translate ukrainian hana_event_2_5ad4168f:
 
     # mc "What could go wrong? They're only medicinal plants."
-    mc "What could go wrong? They're only medicinal plants."
+    mc "Що може піти не так? Адже це всього-на-всього цілющі трави."
 
 # game/game/hana_events.rpy:688
 translate ukrainian hana_event_2_8f304edf:
 
     # mc "How did you test your other experiments?"
-    mc "How did you test your other experiments?"
+    mc "Як ти перевіряла інші зілля?"
 
 # game/game/hana_events.rpy:690
 translate ukrainian hana_event_2_075a1d04:
 
     # h "I used to drink them myself... {w}{size=-10}that's why..."
-    h "I used to drink them myself... {w}{size=-10}that's why..."
+    h "Я їх пила сама... {w}{size=-10}і саме тому..."
 
 # game/game/hana_events.rpy:696
 translate ukrainian hana_event_2_0cdbc4c2:
 
     # mc "I'll just give it a try."
-    mc "I'll just give it a try."
+    mc "Я просто спробую."
 
 # game/game/hana_events.rpy:697
 translate ukrainian hana_event_2_c76e36d4:
 
     # h "Ah..."
-    h "Ah..."
+    h "Ах..."
 
 # game/game/hana_events.rpy:699
 translate ukrainian hana_event_2_9fcc39cc:
 
     # h "[mc] wait..."
-    h "[mc] wait..."
+    h "[mc], стій..."
 
 # game/game/hana_events.rpy:704
 translate ukrainian hana_event_2_f996b655:
 
     # mc "Haaa~~"
-    mc "Haaa~~"
+    mc "Ааам~~"
 
 # game/game/hana_events.rpy:705
 translate ukrainian hana_event_2_8b55b3a4:
 
     # mc "It has a sweet taste."
-    mc "It has a sweet taste."
+    mc "Воно солоденьке."
 
 # game/game/hana_events.rpy:706
 translate ukrainian hana_event_2_23e39aeb:
 
     # h "It should be a neutral flavor..."
-    h "It should be a neutral flavor..."
+    h "А має бути без виразного смаку..."
 
 # game/game/hana_events.rpy:708
 translate ukrainian hana_event_2_cf9d6536:
 
     # h "How do you feel?"
-    h "How do you feel?"
+    h "Як почіваєшся?"
 
 # game/game/hana_events.rpy:709
 translate ukrainian hana_event_2_2b35b6fe:
