@@ -177,7 +177,7 @@ translate ukrainian hana_talk_f6c71214:
 translate ukrainian hana_talk_82928cac:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}Gigh..."
-    s "{sc=1}{outlinecolor=#000000}{size=-8}Гімх..."
+    s "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гімх..."
 
 # game/game/hana_events.rpy:146
 translate ukrainian hana_talk_31c2f7fa:
@@ -513,13 +513,13 @@ translate ukrainian hana_talk_3cc592f0:
 translate ukrainian hana_talk_9895039e:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}{b}Snoring~"
-    s "{sc=1}{outlinecolor=#000000}{size=-8}{b}*Хрррр~*"
+    s "{sc=1}{outlinecolor=#000000}{size=-8}{b}{i}*Хрррр~*{/i}"
 
 # game/game/hana_events.rpy:263
 translate ukrainian hana_talk_f449d236:
 
     # s "{size=-8}{i}What are you hiding there, [mc]... let me see... {w}{sc=1}{outlinecolor=#000000}{size=-8}snoring*"
-    s "{size=-8}{i}Що ти там ховаєш, [mc]... покажи-но... {w}{sc=1}{outlinecolor=#000000}{size=-8}*хрррр*"
+    s "{size=-8}{i}Що ти там ховаєш, [mc]... покажи-но... {w}{sc=1}{outlinecolor=#000000}{size=-8}{i}*хрррр*{/i}"
 
 # game/game/hana_events.rpy:264
 translate ukrainian hana_talk_a20cefa7:
@@ -1233,7 +1233,7 @@ translate ukrainian hana_event_1_268d038e:
 translate ukrainian hana_event_1_8578dce8:
 
     # "Prrr."
-    "Мррр."
+    "{i}Мррр.{/i}"
 
 # game/game/hana_events.rpy:516
 translate ukrainian hana_event_1_5c7ac574:
@@ -1821,7 +1821,7 @@ translate ukrainian hana_event_2_9fcc39cc:
 translate ukrainian hana_event_2_f996b655:
 
     # mc "Haaa~~"
-    mc "Ааам~~"
+    mc "{i}Ааам~~{/i}"
 
 # game/game/hana_events.rpy:705
 translate ukrainian hana_event_2_8b55b3a4:
@@ -2001,7 +2001,7 @@ translate ukrainian hana_gal1_87e27d10:
 translate ukrainian hana_gal1_e6759533:
 
     # h "Maybe you should've... {w}Tsuunm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}you'd feel better."
-    h "Можливо, тобі слід було... {w}Тсуунм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}одразу б стало краще."
+    h "Можливо, тобі слід було... {w}{i}Тсуунм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}одразу б стало краще."
 
 # game/game/hana_events.rpy:776
 translate ukrainian hana_gal1_2dfe6c44:
@@ -2013,193 +2013,193 @@ translate ukrainian hana_gal1_2dfe6c44:
 translate ukrainian hana_gal1_9c75e483:
 
     # h "Mnm~~{image=/bg/icons/heart_text.png} {w}Sluurrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} GHuummn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Мнм~~{image=/bg/icons/heart_text.png} {w}Сьююррбб~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} ГХууммн~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "{i}Мнм~~{/i}{image=/bg/icons/heart_text.png} {w}{i}Сьююррбб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} {i}ГХууммн~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:786
 translate ukrainian hana_gal1_27e39b20:
 
     # h "Mmmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Мммм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "{i}Мммм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:787
 translate ukrainian hana_gal1_347d39e1:
 
     # h "You should listen to your {w}Hmnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}doctor..."
-    h "Варто слухатися своєї {w}Хмнмн~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}лікарки..."
+    h "Варто слухатися своєї {w}{i}Хмнмн~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}лікарки..."
 
 # game/game/hana_events.rpy:788
 translate ukrainian hana_gal1_78dc3e84:
 
     # t "She's constantly flicking her tongue and each time she does so she sucks my tip hard."
-    t "She's constantly flicking her tongue and each time she does so she sucks my tip hard."
+    t "Вона постійно ворушить язиком, і щоразу сильніше засмоктує мою голівку."
 
 # game/game/hana_events.rpy:789
 translate ukrainian hana_gal1_03c48962:
 
     # mc "H-Hana... {w}your treatment feels too good..."
-    mc "H-Hana... {w}your treatment feels too good..."
+    mc "Х-Хано... {w}твоє лікування надто приємне..."
 
 # game/game/hana_events.rpy:790
 translate ukrainian hana_gal1_da09a5d3:
 
     # t "I feel like my penis is boiling, I know I should be cumming but this feels really good."
-    t "I feel like my penis is boiling, I know I should be cumming but this feels really good."
+    t "Відчуття, наче мій член кипить. Знаю, що мені варто було вже кінчити, але це так приємно."
 
 # game/game/hana_events.rpy:791
 translate ukrainian hana_gal1_3fd9e005:
 
     # mc "I don't think I can last long like this...."
-    mc "I don't think I can last long like this...."
+    mc "Не впевнений, що протримаюся так довше..."
 
 # game/game/hana_events.rpy:800
 translate ukrainian hana_gal1_b1039fad:
 
     # mc "Han-"
-    mc "Han-"
+    mc "Хан-"
 
 # game/game/hana_events.rpy:801
 translate ukrainian hana_gal1_8ee83667:
 
     # h "You're a bad patient {w}Tsurrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "You're a bad patient {w}Tsurrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Ти поганий пацієнт. {w}{i}Тсуррпп~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:802
 translate ukrainian hana_gal1_3d7b0848:
 
     # h "Don't you know {w}Sluurrp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}you won't get better {w}Ghnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} this way?"
-    h "Don't you know {w}Sluurrp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}you won't get better {w}Ghnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} this way?"
+    h "Хіба ти не розумієш, {w}{i}Сьооррб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}так тобі не стане {w}{i}Гхнм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} краще?"
 
 # game/game/hana_events.rpy:803
 translate ukrainian hana_gal1_d7afdc3b_1:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/hana_events.rpy:804
 translate ukrainian hana_gal1_6cff661e:
 
     # h "I feel your penis throbbing in my hand."
-    h "I feel your penis throbbing in my hand."
+    h "Відчуваю, як твій член пульсує у руках."
 
 # game/game/hana_events.rpy:805
 translate ukrainian hana_gal1_4c6ef484:
 
     # h "You can't take it anymore, {w}right honey?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "You can't take it anymore, {w}right honey?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Більше не можеш стримуватися, {w}так, любий?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:814
 translate ukrainian hana_gal1_fa6d1681:
 
     # h "Come on, let it out~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Come on, let it out~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Ну ж бо дозволь їй вийти~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:815
 translate ukrainian hana_gal1_af909fd5:
 
     # h "Show me [mc]."
-    h "Show me [mc]."
+    h "Покажи мені, [mc]."
 
 # game/game/hana_events.rpy:816
 translate ukrainian hana_gal1_ff98a381:
 
     # h "I want to see you cum while I use my tongue~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "I want to see you cum while I use my tongue~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Я хочу побачити, як ти кінчаєш від мого язичка~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:817
 translate ukrainian hana_gal1_d8547d03:
 
     # h "SLurrRrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}TsuUuU~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "SLurrRrpp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}TsuUuU~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "{i}СьоррРрбб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}ТсуУуУ~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:818
 translate ukrainian hana_gal1_b444bb4f:
 
     # mc "H-Hana!"
-    mc "H-Hana!"
+    mc "Х-Хано!"
 
 # game/game/hana_events.rpy:829
 translate ukrainian hana_gal1_52122851:
 
     # mc "Holy fuck Hana!"
-    mc "Holy fuck Hana!"
+    mc "Їбанутися, Хано!"
 
 # game/game/hana_events.rpy:830
 translate ukrainian hana_gal1_3d170879:
 
     # h "Mhm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Ghnmhm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Gluup~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Mhm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Ghnmhm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Gluup~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "{i}Мгм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Гхнмгм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Ковт~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:834
 translate ukrainian hana_gal1_d81ffdfa:
 
     # h "Fuuhaa~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Fuuhaa~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "{i}Фууаах~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:839
 translate ukrainian hana_gal1_40ee6226:
 
     # h "Do you feel better now?"
-    h "Do you feel better now?"
+    h "Тобі вже краще?"
 
 # game/game/hana_events.rpy:840
 translate ukrainian hana_gal1_afe8fcd2:
 
     # mc "I've never cum so hard."
-    mc "I've never cum so hard."
+    mc "Ніколи так сильно не кінчав."
 
 # game/game/hana_events.rpy:841
 translate ukrainian hana_gal1_f749a4c7:
 
     # mc "You are amazing."
-    mc "You are amazing."
+    mc "Ти неймовірна."
 
 # game/game/hana_events.rpy:843
 translate ukrainian hana_gal1_c9cc0e0b:
 
     # h "It must be because of the medicine."
-    h "It must be because of the medicine."
+    h "Видно, це через зілля."
 
 # game/game/hana_events.rpy:844
 translate ukrainian hana_gal1_6b9ce1d0:
 
     # t "She just swallowed all my cum and is talking to me like it was nothing."
-    t "She just swallowed all my cum and is talking to me like it was nothing."
+    t "Вона щойно проковтнула усю кінчу й говорить зі мною, наче нічого не трапилося."
 
 # game/game/hana_events.rpy:845
 translate ukrainian hana_gal1_1153b213:
 
     # t "And she still won't let go of my dick."
-    t "And she still won't let go of my dick."
+    t "І вона досі не відпускає мій прутень."
 
 # game/game/hana_events.rpy:847
 translate ukrainian hana_gal1_fdb3cbfc:
 
     # h "But it seems that the effect hasn't yet worn off...~{image=/bg/icons/heart_text.png}"
-    h "But it seems that the effect hasn't yet worn off...~{image=/bg/icons/heart_text.png}"
+    h "Але, здається, ефект ще не минув...~{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:849
 translate ukrainian hana_gal1_f6b3c6b2:
 
     # h "Maybe.."
-    h "Maybe.."
+    h "Можливо..."
 
 # game/game/hana_events.rpy:851
 translate ukrainian hana_gal1_caca8853:
 
     # h "{size=-10}A little more...~{image=/bg/icons/heart_text.png}"
-    h "{size=-10}A little more...~{image=/bg/icons/heart_text.png}"
+    h "{size=-10}Знадобиться ще...~{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:852
 translate ukrainian hana_gal1_b966c03d:
 
     # mc "Gulp*"
-    mc "Gulp*"
+    mc "{i}*Ковть*{/i}"
 
 # game/game/hana_events.rpy:854
 translate ukrainian hana_gal1_bd440913:
 
     # s "{size=-10}Doctor! I'm back!"
-    s "{size=-10}Doctor! I'm back!"
+    s "{size=-10}Лікарко! Я повернулася!"
 
 # game/game/hana_events.rpy:856
 translate ukrainian hana_gal1_8b955c23:
@@ -2211,109 +2211,109 @@ translate ukrainian hana_gal1_8b955c23:
 translate ukrainian hana_gal1_046b5dd3:
 
     # mc "{size=-10}Yes!"
-    mc "{size=-10}Yes!"
+    mc "{size=-10}Так!"
 
 # game/game/hana_events.rpy:870
 translate ukrainian hana_gal1_aec37d11:
 
     # mc "Your boobs!"
-    mc "Your boobs!"
+    mc "Твої груди!"
 
 # game/game/hana_events.rpy:871
 translate ukrainian hana_gal1_1fb810bd:
 
     # h "Your dick!"
-    h "Your dick!"
+    h "Твій член!"
 
 # game/game/hana_events.rpy:872
 translate ukrainian hana_gal1_3bc8942e:
 
     # "{i}You both quickly get dressed and sit down."
-    "{i}You both quickly get dressed and sit down."
+    "{i}Ви обоє швидко вдягаєтеся та сідаєте."
 
 # game/game/hana_events.rpy:874
 translate ukrainian hana_gal1_d591512a:
 
     # s "I'm ready."
-    s "I'm ready."
+    s "Я готова."
 
 # game/game/hana_events.rpy:875
 translate ukrainian hana_gal1_182eb4df:
 
     # s "Shall we start right away?"
-    s "Shall we start right away?"
+    s "Ми можемо починати?"
 
 # game/game/hana_events.rpy:877
 translate ukrainian hana_gal1_10a25256:
 
     # s "Doctor?"
-    s "Doctor?"
+    s "Лікарко?"
 
 # game/game/hana_events.rpy:879
 translate ukrainian hana_gal1_e23bd615:
 
     # mc "{size=-10}Ahem*"
-    mc "{size=-10}Ahem*"
+    mc "{size=-10}{i}*Кхем*{/i}"
 
 # game/game/hana_events.rpy:881
 translate ukrainian hana_gal1_30199710:
 
     # h "Ah! {w}Yes!"
-    h "Ah! {w}Yes!"
+    h "Ах! {w}Так!"
 
 # game/game/hana_events.rpy:882
 translate ukrainian hana_gal1_e417371f:
 
     # h "Get everything ready Shika."
-    h "Get everything ready Shika."
+    h "Підготуй все, будь ласка, Шико."
 
 # game/game/hana_events.rpy:884
 translate ukrainian hana_gal1_a0d8634f:
 
     # s "Yees!"
-    s "Yees!"
+    s "Таак!"
 
 # game/game/hana_events.rpy:886
 translate ukrainian hana_gal1_1c51b961:
 
     # mc "Are you okay? You seem distracted."
-    mc "Are you okay? You seem distracted."
+    mc "Все гаразд? Ти, наче, трохи розгублена."
 
 # game/game/hana_events.rpy:888
 translate ukrainian hana_gal1_d7466120:
 
     # h "Y-Yes! {w}It's just.."
-    h "Y-Yes! {w}It's just.."
+    h "Т-Так! {w}Просто..."
 
 # game/game/hana_events.rpy:889
 translate ukrainian hana_gal1_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/hana_events.rpy:891
 translate ukrainian hana_gal1_937f5fe0:
 
     # h "I got a little carried away."
-    h "I got a little carried away."
+    h "Я трохи задумалася."
 
 # game/game/hana_events.rpy:892
 translate ukrainian hana_gal1_39038a10:
 
     # h "I hope you didn't dislike that side of me..."
-    h "I hope you didn't dislike that side of me..."
+    h "Сподіваюся, ця моя риса тебе не відштовхнула..."
 
 # game/game/hana_events.rpy:894
 translate ukrainian hana_gal1_1450b60a:
 
     # mc "Are you kidding?"
-    mc "Are you kidding?"
+    mc "Жартуєш?"
 
 # game/game/hana_events.rpy:895
 translate ukrainian hana_gal1_ce98d333:
 
     # mc "I wish I had drunk that potion much earlier."
-    mc "I wish I had drunk that potion much earlier."
+    mc "Хотів би я випити те зілля значно раніше."
 
 # game/game/hana_events.rpy:896
 translate ukrainian hana_gal1_2fded262:
@@ -2325,55 +2325,55 @@ translate ukrainian hana_gal1_2fded262:
 translate ukrainian hana_gal1_8203253c:
 
     # h "Hmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Hmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Гмм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:900
 translate ukrainian hana_gal1_3ca6a63c:
 
     # h "Hehehe~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Hehehe~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Хехехе~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:901
 translate ukrainian hana_gal1_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/hana_events.rpy:903
 translate ukrainian hana_gal1_154db793:
 
     # h "Nothing {w} I'd better get back to work...."
-    h "Nothing {w} I'd better get back to work...."
+    h "Нічого, {w} мені слід повертатися до роботи..."
 
 # game/game/hana_events.rpy:904
 translate ukrainian hana_gal1_fc256555:
 
     # mc "Yes, I'll be on my way then."
-    mc "Yes, I'll be on my way then."
+    mc "Так, я тоді теж вже піду."
 
 # game/game/hana_events.rpy:905
 translate ukrainian hana_gal1_8bea2aba:
 
     # mc "Remember about the expedition to the forest, let me know when it's time."
-    mc "Remember about the expedition to the forest, let me know when it's time."
+    mc "Не забуть про експедицію у ліс. Обов'язково скажи мені, коли прийде час."
 
 # game/game/hana_events.rpy:907
 translate ukrainian hana_gal1_8e82eda0:
 
     # h "Okay~ {w}See you later [mc]~{image=/bg/icons/heart_text.png}"
-    h "Okay~ {w}See you later [mc]~{image=/bg/icons/heart_text.png}"
+    h "Гаразд~ {w}Побачимося, [mc]~{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:908
 translate ukrainian hana_gal1_888ca5fc:
 
     # mc "Bye Hana."
-    mc "Bye Hana."
+    mc "Бувай, Хано."
 
 # game/game/hana_events.rpy:915
 translate ukrainian hana_gal1_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:939
 translate ukrainian hana_blowjob_438a9079:
