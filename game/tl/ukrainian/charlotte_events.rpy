@@ -19891,7 +19891,7 @@ translate ukrainian strings:
 
     # game/charlotte_events.rpy:4582
     old "Try Again"
-    new "Try Again"
+    new "Спробувати знову"
 
     # game/charlotte_events.rpy:5591
     old "{size=-8}It seems I didn't let my guard down this time."
