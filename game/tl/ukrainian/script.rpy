@@ -603,7 +603,7 @@ translate ukrainian start_4c6f8bdd:
 translate ukrainian start_e4be6021:
 
     # mc "Sigh*"
-    mc "*Хааах*"
+    mc "{i}*Хааах*{/i}"
 
 # game/game/script.rpy:297
 translate ukrainian start_acd643b9:
@@ -1269,7 +1269,7 @@ translate ukrainian choice4_c70cc9b1:
 translate ukrainian choice4_ceaada45:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Gulp*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}*Ковть*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}*Ковть*{/i}"
 
 # game/game/script.rpy:500
 translate ukrainian choice4_55cec405:
@@ -2013,7 +2013,7 @@ translate ukrainian choice4_ed862fd2:
 translate ukrainian choice4_c21622d2:
 
     # mc "Ahem*"
-    mc "*Кхм*"
+    mc "{i}*Кхм*{/i}"
 
 # game/game/script.rpy:693
 translate ukrainian choice4_8f42c95e:
@@ -4053,7 +4053,7 @@ translate ukrainian set_fire_f68732e8:
 translate ukrainian set_fire_8b2b4ef2:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Yaaawn*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}*Хаааах*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Хаааах*{/i}"
 
 # game/game/script.rpy:1339
 translate ukrainian set_fire_60e7bffd:
@@ -5181,7 +5181,7 @@ translate ukrainian go_6240c1cc:
 translate ukrainian go_354e384c:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Cough*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}*Кхе*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Кхе*{/i}"
 
 # game/game/script.rpy:1694
 translate ukrainian go_6b9b7651:
