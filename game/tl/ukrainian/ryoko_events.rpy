@@ -1341,7 +1341,7 @@ translate ukrainian ryoko_1_79e2c81f:
 translate ukrainian ryoko_1_04023024:
 
     # r "Yayrbrbrbrbrbrbr-!"
-    r "Урабрбрбрбрбрбр-!"
+    r "Ура{i}брбрбрбрбрбр-{/i}!"
 
 # game/game/ryoko_events.rpy:492
 translate ukrainian ryoko_1_1f5b224d:
@@ -1593,7 +1593,7 @@ translate ukrainian ryoko_1_c9046e6b:
 translate ukrainian ryoko_1_210ffe3b:
 
     # r "And for everything... {w}sob*"
-    r "І за все інше... {w}*хник*"
+    r "І за все інше... {w}{i}*хник*{/i}"
 
 # game/game/ryoko_events.rpy:580
 translate ukrainian ryoko_1_32ca5bbe:
@@ -2049,7 +2049,7 @@ translate ukrainian ryoko_spending_1_110b5710:
 translate ukrainian ryoko_spending_1_b962e215:
 
     # mc "I couldn't go to sch- {w}Ahem* {w} couldn't leave my house."
-    mc "Я не міг піти до шко- {w}*Кхм* {w} навіть із дому вийти."
+    mc "Я не міг піти до шко- {w}{i}*Кхм*{/i} {w} навіть із дому вийти."
 
 # game/game/ryoko_events.rpy:739
 translate ukrainian ryoko_spending_1_669eadcc:
@@ -2691,7 +2691,7 @@ translate ukrainian ryoko_go_hana_2fcf3b3e:
 translate ukrainian ryoko_go_hana_b966c03d:
 
     # mc "Gulp*"
-    mc "*Ковть*"
+    mc "{i}*Ковть*{/i}"
 
 # game/game/ryoko_events.rpy:949
 translate ukrainian ryoko_go_hana_a6ecc68e:
@@ -2781,7 +2781,7 @@ translate ukrainian ryoko_go_hana_b6240d0f:
 translate ukrainian ryoko_go_hana_e4f58226:
 
     # s "Hmp, {w}hmp!"
-    s "Хмф, {w}хмф!"
+    s "{i}Хмф{/i}, {w}{i}хмф{/i}!"
 
 # game/game/ryoko_events.rpy:980
 translate ukrainian ryoko_go_hana_b9b755e5_1:
@@ -2823,7 +2823,7 @@ translate ukrainian ryoko_go_hana_6d2d6a5c:
 translate ukrainian ryoko_go_hana_e4be6021:
 
     # mc "Sigh*"
-    mc "*Хааах*"
+    mc "{i}*Хааах*{/i}"
 
 # game/game/ryoko_events.rpy:991
 translate ukrainian ryoko_go_hana_f09f874f:
@@ -3015,7 +3015,7 @@ translate ukrainian ryoko_go_hana_94ae14c9:
 translate ukrainian ryoko_go_hana_8d525864:
 
     # s "Gigh."
-    s "Гігх."
+    s "{i}Гігх.{/i}"
 
 # game/game/ryoko_events.rpy:1054
 translate ukrainian ryoko_go_hana_24085112:
@@ -3171,7 +3171,7 @@ translate ukrainian ryoko_go_hana_1067db5d:
 translate ukrainian ryoko_go_hana_c2cf707a:
 
     # k "{size=-10}Fufuju~~"
-    k "{size=-10}Фуфух~~"
+    k "{size=-10}Хухух~~"
 
 # game/game/ryoko_events.rpy:1093
 translate ukrainian ryoko_go_hana_52fe6c7d:
@@ -3243,7 +3243,7 @@ translate ukrainian ryoko_go_hana_3c46b32b:
 translate ukrainian ryoko_go_hana_173f0ded:
 
     # h "{size=-10}{i}Whispering*, Whispering*, Whispering*..."
-    h "{size=-10}{i}*Шу-шу-шу*..."
+    h "{size=-10}{i}{i}*Шу-шу-шу*{/i}..."
 
 # game/game/ryoko_events.rpy:1111
 translate ukrainian ryoko_go_hana_190d3fa3:
@@ -4479,7 +4479,7 @@ translate ukrainian ryoko_handjob1_14f552a3:
 translate ukrainian ryoko_handjob1_6a6bfa1f:
 
     # r "Hmmp."
-    r "Хммф."
+    r "{i}Хммф.{/i}"
 
 # game/game/ryoko_events.rpy:1520
 translate ukrainian ryoko_handjob1_8b083621:

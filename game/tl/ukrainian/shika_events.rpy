@@ -231,7 +231,7 @@ translate ukrainian shika_spending_1_08f9e96d:
 translate ukrainian shika_spending_1_90961e6b:
 
     # s "Gigh!"
-    s "Гігх!"
+    s "{i}Гігх!{/i}"
 
 # game/game/shika_events.rpy:126
 translate ukrainian shika_spending_1_d9332f69:
@@ -291,7 +291,7 @@ translate ukrainian shika_spending_1_f859669c:
 translate ukrainian shika_spending_1_90158a48:
 
     # mc "MMmmMM MMmmM Mmmm!"
-    mc "ММммММ ММммМ Мммм!"
+    mc "{i}ММммММ ММммМ Мммм!{/i}"
 
 # game/game/shika_events.rpy:143
 translate ukrainian shika_spending_1_8cb7ee5f:
@@ -303,7 +303,7 @@ translate ukrainian shika_spending_1_8cb7ee5f:
 translate ukrainian shika_spending_1_5063c527:
 
     # mc "I-MMm Can'tmm bre-athe MmMMm."
-    mc "Не-Мм М-можу-мМ диха-ти МмММм."
+    mc "Не-{i}Мм{/i} М-можу-{i}мМ{/i} диха-ти {i}МмММм{/i}."
 
 # game/game/shika_events.rpy:146
 translate ukrainian shika_spending_1_33e985f0:
@@ -327,7 +327,7 @@ translate ukrainian shika_spending_1_ca338f3e:
 translate ukrainian shika_spending_1_904535af:
 
     # mc "Shi-Mm-ka..."
-    mc "Ши-Мм-ка..."
+    mc "Ши-{i}Мм{/i}-ка..."
 
 # game/game/shika_events.rpy:152
 translate ukrainian shika_spending_1_e3c4fd07:
@@ -339,7 +339,7 @@ translate ukrainian shika_spending_1_e3c4fd07:
 translate ukrainian shika_spending_1_eb66c1b5:
 
     # mc "MMm!"
-    mc "ММм!"
+    mc "{i}ММм!{/i}"
 
 # game/game/shika_events.rpy:155
 translate ukrainian shika_spending_1_7cc4d8bd:
@@ -837,7 +837,7 @@ translate ukrainian shika_event_2_35aae786:
 translate ukrainian shika_event_2_89040cfc:
 
     # v "Hurry up! {w} Before Shika co-{w} Ahem* {w} I don't have all day!"
-    v "Поквапся! {w} Поки Шика не-{w} *Кхм* {w} Я ж не збираюся тут до вечора сидіти!"
+    v "Поквапся! {w} Поки Шика не-{w} {i}*Кхм*{/i} {w} Я ж не збираюся тут до вечора сидіти!"
 
 # game/game/shika_events.rpy:339
 translate ukrainian shika_event_2_2b35b6fe_5:
@@ -1491,7 +1491,7 @@ translate ukrainian shika_event_2_5889a629:
 translate ukrainian shika_event_2_24a20c24:
 
     # s "Hmmp!"
-    s "Хммф!"
+    s "{i}Хммф!{/i}"
 
 # game/game/shika_events.rpy:528
 translate ukrainian shika_event_2_1d82a7e7_1:
@@ -1503,7 +1503,7 @@ translate ukrainian shika_event_2_1d82a7e7_1:
 translate ukrainian shika_event_2_24a20c24_1:
 
     # s "Hmmp!"
-    s "Хммф!"
+    s "{i}Хммф!{/i}"
 
 # game/game/shika_events.rpy:531
 translate ukrainian shika_event_2_b25645f7:
@@ -1515,7 +1515,7 @@ translate ukrainian shika_event_2_b25645f7:
 translate ukrainian shika_event_2_c77c055b:
 
     # s "Hmmp-"
-    s "Хммф-"
+    s "{i}Хммф{/i}-"
 
 # game/game/shika_events.rpy:539
 translate ukrainian shika_event_2_b96ff2f7:
@@ -1605,7 +1605,7 @@ translate ukrainian shika_gal1_f95b483c:
 translate ukrainian shika_gal1_a2ac846d:
 
     # mc "Ugh"
-    mc "Угх"
+    mc "Угх."
 
 # game/game/shika_events.rpy:577
 translate ukrainian shika_gal1_0c285426:
@@ -2079,7 +2079,7 @@ translate ukrainian shika_gal1_611d1b9f:
 translate ukrainian shika_gal1_26a92c41:
 
     # s "{size=-10}Aah~{image=corazon}{image=corazon} {w}Hmnmm~~{image=corazon}{image=corazon}{image=corazon}"
-    s "{size=-10}Аах~{image=corazon}{image=corazon} {w}Хмнмм~~{image=corazon}{image=corazon}{image=corazon}"
+    s "{size=-10}Аах~{image=corazon}{image=corazon} {w}{i}Хмнмм~~{/i}{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/shika_events.rpy:680
 translate ukrainian shika_gal1_ea74a274:
@@ -2175,7 +2175,7 @@ translate ukrainian shika_gal1_66bb9612:
 translate ukrainian shika_gal1_623f7d1d:
 
     # s "Ahh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} Nmnm~{image=/bg/icons/heart_text.png}"
-    s "Ахх~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} Нмнм~{image=/bg/icons/heart_text.png}"
+    s "Ахх~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} {i}Нмнм~{/i}{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:698
 translate ukrainian shika_gal1_90251048:
@@ -2661,7 +2661,7 @@ translate ukrainian shika_horny_df6974ee:
 translate ukrainian shika_horny_211d16ff:
 
     # s "{size=-10}Ahh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} HMnnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    s "{size=-10}Ахх~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} ХМннм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    s "{size=-10}Ахх~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} {i}ХМннм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:869
 translate ukrainian shika_horny_2b35b6fe_1:
@@ -2703,7 +2703,7 @@ translate ukrainian shika_horny_57f4b5bd:
 translate ukrainian shika_horny_da6968a4:
 
     # s "Ahnm~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Aaah~{image=/bg/icons/heart_text.png} {w}Aah~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    s "Ахнм~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Ааах~{image=/bg/icons/heart_text.png} {w}Аах~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    s "{i}Ахнм~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Ааах~{image=/bg/icons/heart_text.png} {w}Аах~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:877
 translate ukrainian shika_horny_6378386a:

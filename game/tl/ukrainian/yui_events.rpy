@@ -189,7 +189,7 @@ translate ukrainian yui_first_meet_9896347e:
 translate ukrainian yui_first_meet_654a0de2:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Cough* Cough*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}*Кхм* *Кхм*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Кхм* *Кхм*{/i}"
 
 # game/game/yui_events.rpy:201
 translate ukrainian yui_first_meet_ab80997a:
@@ -585,7 +585,7 @@ translate ukrainian yui_first_meet_a5c21e29:
 translate ukrainian yui_first_meet_64e714a7:
 
     # mc "{size=-6}{i}Sigh...* Ok..."
-    mc "{size=-6}{i}*Хааах...* Добре..."
+    mc "{size=-6}{i}*Хааах...*{/i} Добре..."
 
 # game/game/yui_events.rpy:318
 translate ukrainian yui_first_meet_f58727b5:

@@ -153,7 +153,7 @@ translate ukrainian charlotte_event_1_6af67d1e:
 translate ukrainian charlotte_event_1_0816b046:
 
     # "Purring*"
-    "*Муркоче*"
+    "{i}*Муркоче*{/i}"
 
 # game/game/charlotte_events.rpy:78
 translate ukrainian charlotte_event_1_1f5b224d:

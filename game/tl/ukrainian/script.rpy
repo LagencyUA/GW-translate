@@ -6099,7 +6099,7 @@ translate ukrainian keiko_gal1_ece52b0b:
 translate ukrainian keiko_gal1_a4452825:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Hng...!?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Хмг...!?"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Хмг...!?{/i}"
 
 # game/game/script.rpy:1949
 translate ukrainian keiko_gal1_d634c7bd:
@@ -6129,7 +6129,7 @@ translate ukrainian keiko_gal1_513464dd:
 translate ukrainian keiko_gal1_02651a0b:
 
     # mc "Aah... Uhm.."
-    mc "Аах... Угм.."
+    mc "Аах... Угм..."
 
 # game/game/script.rpy:1955
 translate ukrainian keiko_gal1_9c54bad5:
@@ -6201,7 +6201,7 @@ translate ukrainian keiko_gal1_cd5034e8:
 translate ukrainian keiko_gal1_186d39ca:
 
     # k "Hmn~{image=corazon} {w}Nnmn~{image=corazon}{image=corazon} {w}Come on, you can do it~{image=corazon}"
-    k "Гнм~{image=corazon} {w}Ммнм~{image=corazon}{image=corazon} {w}Нужбо, не стримуйся~{image=corazon}"
+    k "{i}Гнм~{/i}{image=corazon} {w}{i}Ммнм~{/i}{image=corazon}{image=corazon} {w}Нужбо, не стримуйся~{image=corazon}"
 
 # game/game/script.rpy:1977
 translate ukrainian keiko_gal1_2f37a681:
@@ -6225,7 +6225,7 @@ translate ukrainian keiko_gal1_8f5967a2:
 translate ukrainian keiko_gal1_16bc3a76:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Hgm...!?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Хгм...!?"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Хгм...!?{/i}"
 
 # game/game/script.rpy:1991
 translate ukrainian keiko_gal1_611b95d8:
@@ -6273,7 +6273,7 @@ translate ukrainian keiko_gal1_381e64c8:
 translate ukrainian keiko_gal1_05e9edf5:
 
     # k "{size=-7}Ahh~{image=corazon} {w}Aamnh~{image=corazon}{image=corazon}"
-    k "{size=-7}Ахх~{image=corazon} {w}Ааммх~{image=corazon}{image=corazon}"
+    k "{size=-7}Ахх~{image=corazon} {w}{i}Ааммх~{/i}{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:1999
 translate ukrainian keiko_gal1_e3381972:
@@ -6297,7 +6297,7 @@ translate ukrainian keiko_gal1_17e198f1:
 translate ukrainian keiko_gal1_596a7d94:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghn!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Гхм!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхм!{/i}"
 
 # game/game/script.rpy:2017
 translate ukrainian keiko_gal1_ebd3683c:
@@ -6381,7 +6381,7 @@ translate ukrainian keiko_gal1_16288c6a:
 translate ukrainian keiko_gal1_8cab7fc5:
 
     # k "{size=-8}Aah~{image=corazon} {w}Hnmh~{image=corazon} {w}Ghnh~{image=corazon}"
-    k "{size=-8}Аах~{image=corazon} {w}Гммх~{image=corazon} {w}Гмхм~{image=corazon}"
+    k "{size=-8}Аах~{image=corazon} {w}{i}Гммх~{/i}{image=corazon} {w}{i}Гмхм~{/i}{image=corazon}"
 
 # game/game/script.rpy:2041
 translate ukrainian keiko_gal1_77239f0f:
@@ -6399,13 +6399,13 @@ translate ukrainian keiko_gal1_104844a9:
 translate ukrainian keiko_gal1_04836d49:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Gnhgmhgn~{image=corazon}{image=corazon}{image=corazon}"
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Гнхгмхґн~{image=corazon}{image=corazon}{image=corazon}"
+    k "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гнхгмхґн~{/i}{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2065
 translate ukrainian keiko_gal1_31bdadf4:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Gnhg!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ґмхг!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Ґмхг!{/i}"
 
 # game/game/script.rpy:2067
 translate ukrainian keiko_gal1_f7dfda59:
@@ -6639,7 +6639,7 @@ translate ukrainian keiko_gal1_acf08a6c:
 translate ukrainian keiko_gal1_06e75701:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-6}Pff-"
-    k "{sc=1}{outlinecolor=#000000}{size=-6}Пфф-"
+    k "{sc=1}{outlinecolor=#000000}{size=-6}{i}Пфф-{/i}"
 
 # game/game/script.rpy:2142
 translate ukrainian keiko_gal1_652650d3:
@@ -6693,7 +6693,7 @@ translate ukrainian keiko_gal1_b3783a99:
 translate ukrainian keiko_gal1_b8242b96:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Ahem..."
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Кхм..."
+    k "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Кхм...*{/i}"
 
 # game/game/script.rpy:2154
 translate ukrainian keiko_gal1_0044da3e:
@@ -6843,7 +6843,7 @@ translate ukrainian keiko_gal1_119f7ce0:
 translate ukrainian keiko_gal1_4a288ed3:
 
     # k "{size=-9}Bye Bye handsome... {w}{sc=1}{outlinecolor=#000000}{size=-8}Chu~{image=corazon}{image=corazon}"
-    k "{size=-9}Бувай, красеню... {w}{sc=1}{outlinecolor=#000000}{size=-8}Чмок~{image=corazon}{image=corazon}"
+    k "{size=-9}Бувай, красеню... {w}{sc=1}{outlinecolor=#000000}{size=-8}{i}*Чмок~*{/i}{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2194
 translate ukrainian keiko_gal1_a20cefa7:
@@ -8115,7 +8115,7 @@ translate ukrainian doctor_1_c0cd1ba7:
 translate ukrainian doctor_1_9719281c:
 
     # mc "That... {w}{size=-6}sigh*"
-    mc "Саме... {w}{size=-6}*Хааах*"
+    mc "Саме... {w}{size=-6}{i}*Хааах*{/i}"
 
 # game/game/script.rpy:2668
 translate ukrainian doctor_1_9d141740:
