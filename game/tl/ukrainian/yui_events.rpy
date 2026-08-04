@@ -3135,25 +3135,25 @@ translate ukrainian yui_gal1_c378f7e5:
 translate ukrainian yui_menu_lust_5b78ae15:
 
     # y "Hey [mc]."
-    y "Hey [mc]."
+    y "Привіт, [mc]."
 
 # game/game/yui_events.rpy:1178
 translate ukrainian yui_menu_lust_bddd5368:
 
     # mc "Are you busy?"
-    mc "Are you busy?"
+    mc "Ти вільна?"
 
 # game/game/yui_events.rpy:1201
 translate ukrainian yui_boobjob_e1ac9c46:
 
     # y "Practice?"
-    y "Practice?"
+    y "Потренуватися?"
 
 # game/game/yui_events.rpy:1202
 translate ukrainian yui_boobjob_78053a1b:
 
     # mc "You know..."
-    mc "You know..."
+    mc "Ну, знаєш..."
 
 # game/game/yui_events.rpy:1203
 translate ukrainian yui_boobjob_71a86863:
@@ -3165,61 +3165,61 @@ translate ukrainian yui_boobjob_71a86863:
 translate ukrainian yui_boobjob_12b92de4:
 
     # y "Ah."
-    y "Ah."
+    y "Ах."
 
 # game/game/yui_events.rpy:1209
 translate ukrainian yui_boobjob_8e11daff:
 
     # y "Let's go to my room then..."
-    y "Let's go to my room then..."
+    y "Тоді ходімо до моєї кімнати..."
 
 # game/game/yui_events.rpy:1211
 translate ukrainian yui_boobjob_f608632f:
 
     # mc "I'll follow you."
-    mc "I'll follow you."
+    mc "Так, ходімо."
 
 # game/game/yui_events.rpy:1216
 translate ukrainian yui_boobjob_b26637cb:
 
     # y "Then the same as before..."
-    y "Then the same as before..."
+    y "Так само, як і минулого разу?..."
 
 # game/game/yui_events.rpy:1217
 translate ukrainian yui_boobjob_e10c2670:
 
     # mc "Yes please..."
-    mc "Yes please..."
+    mc "Ага, будь ласка..."
 
 # game/game/yui_events.rpy:1219
 translate ukrainian yui_boobjob_ae7f22e8:
 
     # y "Well..."
-    y "Well..."
+    y "Тоді..."
 
 # game/game/yui_events.rpy:1221
 translate ukrainian yui_boobjob_d07bdb0a:
 
     # y "Excuse me..."
-    y "Excuse me..."
+    y "З твого дозволу..."
 
 # game/game/yui_events.rpy:1225
 translate ukrainian yui_boobjob_bac31085:
 
     # mc "You're as beautiful as always, Yui..."
-    mc "You're as beautiful as always, Yui..."
+    mc "А ти як завжди гарна, Юї..."
 
 # game/game/yui_events.rpy:1226
 translate ukrainian yui_boobjob_a56382ae:
 
     # y "I-Idiot."
-    y "I-Idiot."
+    y "Д-Дурко."
 
 # game/game/yui_events.rpy:1228
 translate ukrainian yui_boobjob_617c7851:
 
     # y "You should take off your pants..."
-    y "You should take off your pants..."
+    y "Ти теж знімай штани..."
 
 # game/game/yui_events.rpy:1229
 translate ukrainian yui_boobjob_d31220f3:
@@ -3489,43 +3489,43 @@ translate ukrainian yui_boobjob_c378f7e5:
 translate ukrainian yui_spending2_da95dfd7:
 
     # mc "Hey, do you want to do something?"
-    mc "Hey, do you want to do something?"
+    mc "Привіт, не хочеш погуляти?"
 
 # game/game/yui_events.rpy:1308
 translate ukrainian yui_spending2_5c53d1aa:
 
     # y "Mmm..."
-    y "Mmm..."
+    y "Ммм..."
 
 # game/game/yui_events.rpy:1310
 translate ukrainian yui_spending2_31c42f55:
 
     # y "Do you want to help me?"
-    y "Do you want to help me?"
+    y "Допоможеш мені з дечим?"
 
 # game/game/yui_events.rpy:1312
 translate ukrainian yui_spending2_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Звісно."
 
 # game/game/yui_events.rpy:1313
 translate ukrainian yui_spending2_3b695c9b:
 
     # mc "What do you have to do?"
-    mc "What do you have to do?"
+    mc "То що мені робити?"
 
 # game/game/yui_events.rpy:1315
 translate ukrainian yui_spending2_22236c5b:
 
     # y "It's a small thing."
-    y "It's a small thing."
+    y "Нічого складного."
 
 # game/game/yui_events.rpy:1316
 translate ukrainian yui_spending2_7df4ae3f:
 
     # "You help Yui to move boxes and store weapons."
-    "You help Yui to move boxes and store weapons."
+    "Ти допомагаєш Юї перенести коробки та скасти зброю."
 
 # game/game/yui_events.rpy:1321
 translate ukrainian yui_spending2_c378f7e5:
@@ -24225,7 +24225,7 @@ translate ukrainian strings:
 
     # game/yui_events.rpy:1179
     old "Can we... practice? {image=/bg/icons/tenshi_text.png}"
-    new "Can we... practice? {image=/bg/icons/tenshi_text.png}"
+    new "Не бажаєш...потренуватися? {image=/bg/icons/tenshi_text.png}"
 
     # game/yui_events.rpy:1179
     old "Wood mission {image=/bg/icons/quest_text.png}"

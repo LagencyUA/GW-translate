@@ -17627,7 +17627,7 @@ translate ukrainian strings:
 
     # game/shika_events.rpy:811
     old "Hang out {image=/bg/icons/heart_text.png}"
-    new "Hang out {image=/bg/icons/heart_text.png}"
+    new "Погуляти {image=/bg/icons/heart_text.png}"
 
     # game/shika_events.rpy:811
     old "Horny thing..{image=/bg/icons/tenshi_text.png}"
