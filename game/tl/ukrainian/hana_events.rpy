@@ -1977,7 +1977,7 @@ translate ukrainian hana_gal1_eb31f253:
 translate ukrainian hana_gal1_d364e7d9:
 
     # h "And it'll be really soon because you're burning my hand..."
-    h "І це буде дуже скоро, бо ти мені аж руку обпалюєш..."
+    h "І це буде дуже скоро, бо ти мені аж руку обпікаєш..."
 
 # game/game/hana_events.rpy:764
 translate ukrainian hana_gal1_26e430a4:
@@ -2379,13 +2379,13 @@ translate ukrainian hana_gal1_658e5639:
 translate ukrainian hana_blowjob_438a9079:
 
     # h "Oh, Hey [mc]."
-    h "Oh, Hey [mc]."
+    h "О, привіт, [mc]."
 
 # game/game/hana_events.rpy:940
 translate ukrainian hana_blowjob_623c1c05:
 
     # mc "Hello."
-    mc "Hello."
+    mc "Привіт."
 
 # game/game/hana_events.rpy:944
 translate ukrainian hana_blowjob_eeb6b5d0:
@@ -2403,157 +2403,157 @@ translate ukrainian hana_blowjob_3d2e0bec:
 translate ukrainian hana_blowjob_928f6b7b:
 
     # mc "I just came to say hello."
-    mc "I just came to say hello."
+    mc "Я зайшов лише привітатися."
 
 # game/game/hana_events.rpy:975
 translate ukrainian hana_blowjob_2e1ddeeb:
 
     # h "Oh my~ {w}How nice of you."
-    h "Oh my~ {w}How nice of you."
+    h "Он як~ {w}Дуже мило з твого боку."
 
 # game/game/hana_events.rpy:976
 translate ukrainian hana_blowjob_52182120:
 
     # h "Have a nice day [mc]~{image=corazon}"
-    h "Have a nice day [mc]~{image=corazon}"
+    h "Гарного тобі дня, [mc]~{image=corazon}"
 
 # game/game/hana_events.rpy:983
 translate ukrainian hana_potion_blow_8203253c:
 
     # h "Hmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Hmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Гмм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:985
 translate ukrainian hana_potion_blow_005e73d0:
 
     # h "And what'll we do with the side effects?"
-    h "And what'll we do with the side effects?"
+    h "І що ми робитимемо із побічними ефектами?"
 
 # game/game/hana_events.rpy:986
 translate ukrainian hana_potion_blow_d5f14462:
 
     # mc "I have my favorite doctor by my side."
-    mc "I have my favorite doctor by my side."
+    mc "Ну, моя улюблена лікарка завжди поруч."
 
 # game/game/hana_events.rpy:988
 translate ukrainian hana_potion_blow_d8b42357:
 
     # h "Then we'd better go while Shika takes her break."
-    h "Then we'd better go while Shika takes her break."
+    h "Тоді треба нам якомога швидше почати, поки Шика буде на перерві."
 
 # game/game/hana_events.rpy:990
 translate ukrainian hana_potion_blow_cf5debe8:
 
     # h "Shika! You can go take your break early just for today!"
-    h "Shika! You can go take your break early just for today!"
+    h "Шико! Лише сьогодні дозволю тобі вз'яти перерву раніше!"
 
 # game/game/hana_events.rpy:991
 translate ukrainian hana_potion_blow_78894165:
 
     # s "What? Really?!"
-    s "What? Really?!"
+    s "Що? Справді?!"
 
 # game/game/hana_events.rpy:992
 translate ukrainian hana_potion_blow_3705deca:
 
     # s "Yuhu!"
-    s "Yuhu!"
+    s "Юху!"
 
 # game/game/hana_events.rpy:993
 translate ukrainian hana_potion_blow_b7a68aa5:
 
     # h "Come~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Come~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Ходімо~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:994
 translate ukrainian hana_potion_blow_91f9ec2f:
 
     # mc "{size=-10}Gulp*"
-    mc "{size=-10}Gulp*"
+    mc "{size=-10}{i}*Ковть*{/i}"
 
 # game/game/hana_events.rpy:995
 translate ukrainian hana_potion_blow_e0e34fd6:
 
     # "You and Hana head to the back of the house."
-    "You and Hana head to the back of the house."
+    "Ви з Ханою попрямували на задній двір."
 
 # game/game/hana_events.rpy:996
 translate ukrainian hana_potion_blow_9bd2290b:
 
     # h "Are you sure? {w}Last time you said you were on fire..."
-    h "Are you sure? {w}Last time you said you were on fire..."
+    h "Ти точно впевнений? {w}Останнього разу в тебе була досить сильна гарячка..."
 
 # game/game/hana_events.rpy:997
 translate ukrainian hana_potion_blow_8dc6c203:
 
     # mc "If it's to help people, it's a price I'm willing to pay."
-    mc "If it's to help people, it's a price I'm willing to pay."
+    mc "Якщо це, щоб допомогти комусь, я готовий заплатити таку ціну."
 
 # game/game/hana_events.rpy:998
 translate ukrainian hana_potion_blow_e723d59e:
 
     # h "Suure~~{image=/bg/icons/heart_text.png}"
-    h "Suure~~{image=/bg/icons/heart_text.png}"
+    h "Звііісно~~{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1000
 translate ukrainian hana_potion_blow_81ad56bd:
 
     # "You drink another potion."
-    "You drink another potion."
+    "Ти випив інше зілля."
 
 # game/game/hana_events.rpy:1002
 translate ukrainian hana_potion_blow_98fccdca:
 
     # h "And how do you feel-{w=1}{nw}"
-    h "And how do you feel-{w=1}{nw}"
+    h "І як почуваєш-{w=1}{nw}"
 
 # game/game/hana_events.rpy:1004
 translate ukrainian hana_potion_blow_b07871a6:
 
     # h "Ara~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Ara~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Овва~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1005
 translate ukrainian hana_potion_blow_9e904d3a:
 
     # h "Too bad, it looks like I'll have to take care of you...."
-    h "Too bad, it looks like I'll have to take care of you...."
+    h "Нічого не поробиш. Видно, мені доведеться подбати про тебе..."
 
 # game/game/hana_events.rpy:1006
 translate ukrainian hana_potion_blow_0c624971:
 
     # mc "Please doctor..."
-    mc "Please doctor..."
+    mc "Будь ласка, лікарко..."
 
 # game/game/hana_events.rpy:1008
 translate ukrainian hana_potion_blow_85a1ba0f:
 
     # h "Hmm, let's see what we can do here~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Hmm, let's see what we can do here~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Гмм, поглянемо, що я зможу тут вдіяти~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1009
 translate ukrainian hana_potion_blow_c9423bf5:
 
     # mc "I'm starting to think that you don't show me your boobs just to tease me more..."
-    mc "I'm starting to think that you don't show me your boobs just to tease me more..."
+    mc "Починаю гадати, що ти навмисно не показуєш мені груди, лише щоб подражнити мене..."
 
 # game/game/hana_events.rpy:1011
 translate ukrainian hana_potion_blow_9980c9f1:
 
     # h "Fufu~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} I don't know what you're talking about~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Fufu~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} I don't know what you're talking about~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Хуху~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} Не знаю про що ти говориш~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1012
 translate ukrainian hana_potion_blow_c3502046:
 
     # h "I'd better start the treatment before you burn my hand."
-    h "I'd better start the treatment before you burn my hand."
+    h "Мені варто вже почати лікування, перш ніж ти обпечеш мою руку."
 
 # game/game/hana_events.rpy:1013
 translate ukrainian hana_potion_blow_2c7426a2:
 
     # mc "What will be the treatme-?"
-    mc "What will be the treatme-?"
+    mc "І яким буде лікува-?"
 
 # game/game/hana_events.rpy:1016
 translate ukrainian hana_potion_blow_36eeb24f:
@@ -2565,25 +2565,25 @@ translate ukrainian hana_potion_blow_36eeb24f:
 translate ukrainian hana_potion_blow_4134d477:
 
     # h "Mhh~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Hmnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuuu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Mhh~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Hmnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuuu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Мхх~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Хмнмн~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Стуу~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1018
 translate ukrainian hana_potion_blow_56f7a46d:
 
     # mc "Hana I won't last long like this..."
-    mc "Hana I won't last long like this..."
+    mc "Хано, я так довго не протримаюся..."
 
 # game/game/hana_events.rpy:1019
 translate ukrainian hana_potion_blow_81beb3bc:
 
     # t "She's moving her tongue all over the tip of my penis."
-    t "She's moving her tongue all over the tip of my penis."
+    t "Вона рухає своїм язичком довкола моєї голівки."
 
 # game/game/hana_events.rpy:1020
 translate ukrainian hana_potion_blow_995c2d47:
 
     # h "I gaan't get borednm ob dhe taaaste ob your bgenis~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "I gaan't get borednm ob dhe taaaste ob your bgenis~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Мені ніхови фе наблимне смах увохо слена~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" (what_style="ukr_say_ruby_top")
 
 # game/game/hana_events.rpy:1021
 translate ukrainian hana_potion_blow_5d0a4bf4:
@@ -2787,37 +2787,37 @@ translate ukrainian hana_potion_blow_d7afdc3b:
 translate ukrainian hana_potion_blow_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1092
 translate ukrainian hana_spending2_168ef536:
 
     # h "Of course, I've got nothing to do until we open."
-    h "Of course, I've got nothing to do until we open."
+    h "Звісно! Зараз мені нічого робити, поки ми ще не відкриті."
 
 # game/game/hana_events.rpy:1094
 translate ukrainian hana_spending2_83867b1c:
 
     # h "Do you want to talk for a while?"
-    h "Do you want to talk for a while?"
+    h "Не хочеш побалакати?"
 
 # game/game/hana_events.rpy:1096
 translate ukrainian hana_spending2_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Гаразд."
 
 # game/game/hana_events.rpy:1101
 translate ukrainian hana_spending2_09e15a71:
 
     # "You spend the morning chatting with Hana."
-    "You spend the morning chatting with Hana."
+    "Ти проводиш ранок, спілкуючись з Ханою."
 
 # game/game/hana_events.rpy:1116
 translate ukrainian hana_spending2_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1130
 translate ukrainian hana_hevent_2_803ebf8b:
@@ -4137,7 +4137,7 @@ translate ukrainian hana_hevent_2_2cc421de:
 translate ukrainian hana_hevent_2_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:1475
 translate ukrainian shika_hanatalk_f2bdfaaa:
@@ -4311,7 +4311,7 @@ translate ukrainian shika_hanatalk_d03f5dde:
 translate ukrainian shika_hanatalk_7725dbd8:
 
     # "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
-    "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
+    "{image=corazon}Прихильність Хани зросла до [hana_affection]{image=corazon}"
 
 # game/game/hana_events.rpy:1528
 translate ukrainian hana_town_mission_2b7fb103:
@@ -6009,7 +6009,7 @@ translate ukrainian hana_gal2_30c5147c:
 translate ukrainian hana_gal2_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:2012
 translate ukrainian Gnews_1_5d91eb7a:
@@ -6561,7 +6561,7 @@ translate ukrainian Gnews_1_30ac9fc9:
 translate ukrainian Gnews_1_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:2174
 translate ukrainian hana_eventuno_03fb3e88:
@@ -7359,7 +7359,7 @@ translate ukrainian hana_eventuno_72092b5c:
 translate ukrainian hana_eventuno_2de98124:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:2420
 translate ukrainian hana_eventdos_cdb8dd8a:
@@ -7887,7 +7887,7 @@ translate ukrainian hana_eventdos_f02f5455:
 translate ukrainian hana_eventdos_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:2582
 translate ukrainian hana_eventtres_0ddf3981:
@@ -8679,7 +8679,7 @@ translate ukrainian hana_eventtres_021d9a57:
 translate ukrainian hana_eventtres_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:2854
 translate ukrainian hana_eventcuatro_03fb3e88:
@@ -9495,7 +9495,7 @@ translate ukrainian hana_gal3_fa685cf5:
 translate ukrainian hana_gal3_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:3090
 translate ukrainian hana_gal3_c7eaa9b4:
@@ -10329,7 +10329,7 @@ translate ukrainian hana_eventcinco_85d475fe:
 translate ukrainian hana_eventcinco_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:3311
 translate ukrainian hana_eventcinco_2fded262_5:
@@ -11175,7 +11175,7 @@ translate ukrainian hana_eventseis_56e70f9f:
 translate ukrainian hana_eventseis_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:3536
 translate ukrainian hana_eventseis_2b35b6fe_5:
@@ -11937,7 +11937,7 @@ translate ukrainian hana_eventsiete_528ea8cd:
 translate ukrainian hana_eventsiete_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:3744
 translate ukrainian hana_eventsiete_3d17f91e:
@@ -13077,7 +13077,7 @@ translate ukrainian hana_gal4_1c8c1693:
 translate ukrainian hana_gal4_658e5639:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:4050
 translate ukrainian hana_gal4_a92cced1:
@@ -14757,7 +14757,7 @@ translate ukrainian hana_gal5_acb54b31:
 translate ukrainian hana_gal5_7725dbd8:
 
     # "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
-    "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
+    "{image=corazon}Прихильність Хани зросла до [hana_affection]{image=corazon}"
 
 # game/game/hana_events.rpy:4503
 translate ukrainian hana_favor_15_c753ecca:
@@ -15015,7 +15015,7 @@ translate ukrainian hana_favor_15_47ab5704:
 translate ukrainian hana_favor_15_7725dbd8:
 
     # "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
-    "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
+    "{image=corazon}Прихильність Хани зросла до [hana_affection]{image=corazon}"
 
 translate ukrainian strings:
 
@@ -15049,11 +15049,11 @@ translate ukrainian strings:
 
     # game/hana_events.rpy:942
     old "Do you want to...make more potions?{image=/bg/icons/tenshi_text.png}"
-    new "Do you want to...make more potions?{image=/bg/icons/tenshi_text.png}"
+    new "Не бажаєш...приготувати ще зілля?{image=/bg/icons/tenshi_text.png}"
 
     # game/hana_events.rpy:942
     old "Want to spend some time? {image=/bg/icons/heart_text.png}"
-    new "Want to spend some time? {image=/bg/icons/heart_text.png}"
+    new "Проведімо час разом? {image=/bg/icons/heart_text.png}"
 
 translate ukrainian strings:
     old "Hana asks you to remove your sweatshirt and lie down."

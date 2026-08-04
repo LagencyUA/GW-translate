@@ -2265,19 +2265,19 @@ translate ukrainian yui_start_fight_29b9880a:
 translate ukrainian yui_gal1_2511d5b0:
 
     # y "{size=-10}Come follow me..."
-    y "{size=-10}Come follow me..."
+    y "{size=-10}Йди за мною..."
 
 # game/game/yui_events.rpy:889
 translate ukrainian yui_gal1_2b50a9f2:
 
     # mc "Mmm? Okay..."
-    mc "Mmm? Okay..."
+    mc "Ммм? Добре..."
 
 # game/game/yui_events.rpy:890
 translate ukrainian yui_gal1_24e4faf1:
 
     # y "Sit down here..."
-    y "Sit down here..."
+    y "Сідай тут..."
 
 # game/game/yui_events.rpy:891
 translate ukrainian yui_gal1_2b35b6fe:
@@ -2289,37 +2289,37 @@ translate ukrainian yui_gal1_2b35b6fe:
 translate ukrainian yui_gal1_9d79ce8f:
 
     # y "{size=-7}So...{/s} what do you want?"
-    y "{size=-7}So...{/s} what do you want?"
+    y "{size=-7}Отже...{/s} яке твоє бажання?"
 
 # game/game/yui_events.rpy:894
 translate ukrainian yui_gal1_c071ad40:
 
     # mc "Are you sure about this?"
-    mc "Are you sure about this?"
+    mc "Ти точно впевнена?"
 
 # game/game/yui_events.rpy:896
 translate ukrainian yui_gal1_010c5b8c:
 
     # y "Yes, after all you defeated me..."
-    y "Yes, after all you defeated me..."
+    y "Так, ти мене переміг усе ж таки..."
 
 # game/game/yui_events.rpy:898
 translate ukrainian yui_gal1_87f9f194:
 
     # y "So..."
-    y "So..."
+    y "Ну, то..."
 
 # game/game/yui_events.rpy:900
 translate ukrainian yui_gal1_6cd1fbe1:
 
     # y "What you want...?"
-    y "What you want...?"
+    y "Що ти хочеш...?"
 
 # game/game/yui_events.rpy:901
 translate ukrainian yui_gal1_fc24721a:
 
     # t "Do I really have such a pretty girl willing to do whatever I ask?..."
-    t "Do I really have such a pretty girl willing to do whatever I ask?..."
+    t "Невже переді мною справді така гарненька дівчина, яка готова зробити все, про що я попрошу?..."
 
 # game/game/yui_events.rpy:902
 translate ukrainian yui_gal1_2b35b6fe_1:
@@ -2331,49 +2331,49 @@ translate ukrainian yui_gal1_2b35b6fe_1:
 translate ukrainian yui_gal1_dff63b06:
 
     # mc "Your tits..."
-    mc "Your tits..."
+    mc "Твої цицьки..."
 
 # game/game/yui_events.rpy:905
 translate ukrainian yui_gal1_0dd780a9:
 
     # y "{size=-10}Hnm-"
-    y "{size=-10}Hnm-"
+    y "{size=-10}{i}Гнм-{/i}"
 
 # game/game/yui_events.rpy:907
 translate ukrainian yui_gal1_54519804:
 
     # y "I told you something not so lewd..."
-    y "I told you something not so lewd..."
+    y "Я ж казала, нічого надто хтивого..."
 
 # game/game/yui_events.rpy:908
 translate ukrainian yui_gal1_a46c4848:
 
     # mc "Yui, {w}that's all I can think right now."
-    mc "Yui, {w}that's all I can think right now."
+    mc "Юї, {w}це єдине, про що я зараз думаю."
 
 # game/game/yui_events.rpy:912
 translate ukrainian yui_gal1_05d1cb16:
 
     # y "Okay.."
-    y "Okay.."
+    y "Добре.."
 
 # game/game/yui_events.rpy:914
 translate ukrainian yui_gal1_f73239c7:
 
     # y "{size=-10}But I don't know about these things..."
-    y "{size=-10}But I don't know about these things..."
+    y "{size=-10}Але я в цьому не дуже тямлю..."
 
 # game/game/yui_events.rpy:915
 translate ukrainian yui_gal1_c561474e:
 
     # mc "Don't worry, I have an idea."
-    mc "Don't worry, I have an idea."
+    mc "Не хвилюйся, у мене є ідея."
 
 # game/game/yui_events.rpy:916
 translate ukrainian yui_gal1_182d7df0:
 
     # mc "Could you start by showing them to me..."
-    mc "Could you start by showing them to me..."
+    mc "Могла б ти для початку показати їх..."
 
 # game/game/yui_events.rpy:917
 translate ukrainian yui_gal1_71a86863:
@@ -2385,103 +2385,103 @@ translate ukrainian yui_gal1_71a86863:
 translate ukrainian yui_gal1_c1766140:
 
     # y "Let me take this off..."
-    y "Let me take this off..."
+    y "Зараз, лише зніму..."
 
 # game/game/yui_events.rpy:922
 translate ukrainian yui_gal1_91f9ec2f:
 
     # mc "{size=-10}Gulp*"
-    mc "{size=-10}Gulp*"
+    mc "{size=-10}{i}*Ковть*{/i}"
 
 # game/game/yui_events.rpy:923
 translate ukrainian yui_gal1_48ac76ff:
 
     # y "I feel so ashamed right now..."
-    y "I feel so ashamed right now..."
+    y "Мені зараз дуже соромно..."
 
 # game/game/yui_events.rpy:924
 translate ukrainian yui_gal1_7cd27d8b:
 
     # mc "You shouldn't, they're beautiful."
-    mc "You shouldn't, they're beautiful."
+    mc "Не варто соромитися, вони гарні."
 
 # game/game/yui_events.rpy:926
 translate ukrainian yui_gal1_c257ee89:
 
     # y "Y-You think so?"
-    y "Y-You think so?"
+    y "Т-Так думаєш?"
 
 # game/game/yui_events.rpy:927
 translate ukrainian yui_gal1_9ce2653b:
 
     # mc "Yeah, they have a perfect shape..."
-    mc "Yeah, they have a perfect shape..."
+    mc "Ага, у них ідеальна форма..."
 
 # game/game/yui_events.rpy:929
 translate ukrainian yui_gal1_41169d37:
 
     # y "I know you aren't lying... I can see a very big lump..."
-    y "I know you aren't lying... I can see a very big lump..."
+    y "Знаю, що ти не брешеш... Я бачу у тебе величезний бугор..."
 
 # game/game/yui_events.rpy:930
 translate ukrainian yui_gal1_e6b13649:
 
     # mc "{size=-7}Yui..."
-    mc "{size=-7}Yui..."
+    mc "{size=-7}Юї..."
 
 # game/game/yui_events.rpy:932
 translate ukrainian yui_gal1_09af6661:
 
     # mc "Do you feel ready?"
-    mc "Do you feel ready?"
+    mc "Ти вже приготувалася?"
 
 # game/game/yui_events.rpy:933
 translate ukrainian yui_gal1_c29408b8:
 
     # y "O-Ok...{w} you can take off your pants."
-    y "O-Ok...{w} you can take off your pants."
+    y "Т-Так...{w} можеш знімати штани."
 
 # game/game/yui_events.rpy:934
 translate ukrainian yui_gal1_08b5df7f:
 
     # mc "Ok."
-    mc "Ok."
+    mc "Гаразд."
 
 # game/game/yui_events.rpy:936
 translate ukrainian yui_gal1_c30b54ee:
 
     # y "D-Doesn't it feel too tight in there?"
-    y "D-Doesn't it feel too tight in there?"
+    y "Т-Тобі там не затісно?"
 
 # game/game/yui_events.rpy:937
 translate ukrainian yui_gal1_36788b29:
 
     # y "Did I really cause this?"
-    y "Did I really cause this?"
+    y "Невже це через мене?"
 
 # game/game/yui_events.rpy:938
 translate ukrainian yui_gal1_417e21d2:
 
     # mc "Can you take them off?"
-    mc "Can you take them off?"
+    mc "Можеш їх зняти?"
 
 # game/game/yui_events.rpy:940
 translate ukrainian yui_gal1_95e09ea2:
 
     # y "S-Sure..."
-    y "S-Sure..."
+    y "З-Звісно..."
 
 # game/game/yui_events.rpy:944
 translate ukrainian yui_gal1_01f564eb:
 
     # y "Wow {w}I've never seen one before..."
-    y "Wow {w}I've never seen one before..."
+    y "Ого, {w}ніколи не бачила жодного..."
 
 # game/game/yui_events.rpy:945
 translate ukrainian yui_gal1_0c62ec9d:
 
     # y "Are they always this big?"
-    y "Are they always this big?"
+    y "Вони всі такі величезні?"
 
 # game/game/yui_events.rpy:946
 translate ukrainian yui_gal1_71a86863_1:
@@ -2493,19 +2493,19 @@ translate ukrainian yui_gal1_71a86863_1:
 translate ukrainian yui_gal1_03076fa2:
 
     # y "Can I touch it?"
-    y "Can I touch it?"
+    y "Можна доторкнутися?"
 
 # game/game/yui_events.rpy:949
 translate ukrainian yui_gal1_5aa72ccd:
 
     # mc "Y-Yeah..."
-    mc "Y-Yeah..."
+    mc "А-Ага..."
 
 # game/game/yui_events.rpy:950
 translate ukrainian yui_gal1_cc3d7cc2:
 
     # y "{size=-10}O-Okay..."
-    y "{size=-10}O-Okay..."
+    y "{size=-10}Г-Гаразд..."
 
 # game/game/yui_events.rpy:960
 translate ukrainian yui_gal1_e9ee7796:
@@ -2517,7 +2517,7 @@ translate ukrainian yui_gal1_e9ee7796:
 translate ukrainian yui_gal1_88a0c65c:
 
     # y "So that's how they feel..."
-    y "So that's how they feel..."
+    y "То ось які вони на дотик..."
 
 # game/game/yui_events.rpy:962
 translate ukrainian yui_gal1_2b35b6fe_2:
@@ -2529,121 +2529,121 @@ translate ukrainian yui_gal1_2b35b6fe_2:
 translate ukrainian yui_gal1_982d4cc0:
 
     # y "It feels quite soft but thick."
-    y "It feels quite soft but thick."
+    y "Він досить м'який, але такий товстенький."
 
 # game/game/yui_events.rpy:964
 translate ukrainian yui_gal1_32793806:
 
     # y "What a strange feeling..."
-    y "What a strange feeling..."
+    y "Яке дивне відчуття..."
 
 # game/game/yui_events.rpy:965
 translate ukrainian yui_gal1_797aa433:
 
     # t "If she keeps this up, I'll be done before I can enjoy her tits."
-    t "If she keeps this up, I'll be done before I can enjoy her tits."
+    t "Якщо вона продовжить, то все скінчиться раніше, ніж я встигну насолодитися її цицьками."
 
 # game/game/yui_events.rpy:967
 translate ukrainian yui_gal1_83a43fb2:
 
     # y "T-This bottom part... {w}is this where s-semen is produced?..."
-    y "T-This bottom part... {w}is this where s-semen is produced?..."
+    y "Ц-Ця частина знизу... {w}саме там виробляється с-сім'я?..."
 
 # game/game/yui_events.rpy:968
 translate ukrainian yui_gal1_33fb06c3:
 
     # y "I've never held anything like this before..."
-    y "I've never held anything like this before..."
+    y "Уперше тримаю щось подібне..."
 
 # game/game/yui_events.rpy:969
 translate ukrainian yui_gal1_371f3070:
 
     # y "{size=-10}It's starting to feel sticky..."
-    y "{size=-10}It's starting to feel sticky..."
+    y "{size=-10}Потроху він стає липким..."
 
 # game/game/yui_events.rpy:970
 translate ukrainian yui_gal1_d921e5ca:
 
     # mc "Yui..."
-    mc "Yui..."
+    mc "Юї..."
 
 # game/game/yui_events.rpy:971
 translate ukrainian yui_gal1_932d9047:
 
     # y "Y-Yes?"
-    y "Y-Yes?"
+    y "Т-Так?"
 
 # game/game/yui_events.rpy:972
 translate ukrainian yui_gal1_018ecb54:
 
     # mc "Can you use your boobs?"
-    mc "Can you use your boobs?"
+    mc "Можеш використати груди?"
 
 # game/game/yui_events.rpy:973
 translate ukrainian yui_gal1_b858542e:
 
     # y "Ah... {w}that's what you wanted..."
-    y "Ah... {w}that's what you wanted..."
+    y "Ах... {w}то ось, що ти хочеш..."
 
 # game/game/yui_events.rpy:974
 translate ukrainian yui_gal1_3b624b1a:
 
     # y "Okay..."
-    y "Okay..."
+    y "Добре..."
 
 # game/game/yui_events.rpy:978
 translate ukrainian yui_gal1_795f7f20:
 
     # y "Is this okay?"
-    y "Is this okay?"
+    y "Ось так?"
 
 # game/game/yui_events.rpy:979
 translate ukrainian yui_gal1_1d9ec835:
 
     # t "Holy fuck..."
-    t "Holy fuck..."
+    t "Ні хуя..."
 
 # game/game/yui_events.rpy:980
 translate ukrainian yui_gal1_f90e413a:
 
     # mc "I-It's perfect, try to squeeze it a little more..."
-    mc "I-It's perfect, try to squeeze it a little more..."
+    mc "М-Майже ідеально, спробуй сильніше його стиснути..."
 
 # game/game/yui_events.rpy:981
 translate ukrainian yui_gal1_001838ed:
 
     # y "Hmm... {w}{size=-10}okay..."
-    y "Hmm... {w}{size=-10}okay..."
+    y "Гмм... {w}{size=-10}гаразд..."
 
 # game/game/yui_events.rpy:983
 translate ukrainian yui_gal1_255979e4:
 
     # y "I can feel all your warmth in my chest..."
-    y "I can feel all your warmth in my chest..."
+    y "Я відчуваю все твоє тепло на грудях..."
 
 # game/game/yui_events.rpy:984
 translate ukrainian yui_gal1_73b31cb7:
 
     # y "{size=-10}Something started to come out of the tip..."
-    y "{size=-10}Something started to come out of the tip..."
+    y "{size=-10}Щось почало виходити з голівки..."
 
 # game/game/yui_events.rpy:985
 translate ukrainian yui_gal1_f6bfc70f:
 
     # t "It feels amazing and it hasn't even started...."
-    t "It feels amazing and it hasn't even started...."
+    t "Як же неймовірно, а вона ще навіть не розпочала..."
 
 # game/game/yui_events.rpy:987
 translate ukrainian yui_gal1_04274353:
 
     # mc "I think... {w}you can start moving..."
-    mc "I think... {w}you can start moving..."
+    mc "Гадаю... {w}можеш почати рухатися..."
 
 # game/game/yui_events.rpy:988
 translate ukrainian yui_gal1_71e1c741:
 
     # y "Ok... {w}{size=-10}I just have to squeeze it, right?"
-    y "Ok... {w}{size=-10}I just have to squeeze it, right?"
+    y "Добре... {w}{size=-10}Мені лише треба його стискати, так?"
 
 # game/game/yui_events.rpy:998
 translate ukrainian yui_gal1_2b35b6fe_3:
@@ -2655,67 +2655,67 @@ translate ukrainian yui_gal1_2b35b6fe_3:
 translate ukrainian yui_gal1_3b041fe2:
 
     # y "Ah... {w}it got harder..."
-    y "Ah... {w}it got harder..."
+    y "Ах... {w}він став твердішим..."
 
 # game/game/yui_events.rpy:1000
 translate ukrainian yui_gal1_ceb13bcb:
 
     # mc "Yui... your boobs feel amazing..."
-    mc "Yui... your boobs feel amazing..."
+    mc "Юї... твої груди дивовижні..."
 
 # game/game/yui_events.rpy:1001
 translate ukrainian yui_gal1_822545b1:
 
     # y "I-I don't know if I s-should take that as a compliment..."
-    y "I-I don't know if I s-should take that as a compliment..."
+    y "Н-Не знаю, чи с-сприймати мені це за комплімент..."
 
 # game/game/yui_events.rpy:1003
 translate ukrainian yui_gal1_b62658db:
 
     # mc "I don't think I can hold out much longer."
-    mc "I don't think I can hold out much longer."
+    mc "Не впевнений, що зможу протриматися довше."
 
 # game/game/yui_events.rpy:1004
 translate ukrainian yui_gal1_2591bd70:
 
     # mc "I'm losing my sanity..."
-    mc "I'm losing my sanity..."
+    mc "Я втрачаю глузд..."
 
 # game/game/yui_events.rpy:1005
 translate ukrainian yui_gal1_b5173688:
 
     # y "I-Idiot..."
-    y "I-Idiot..."
+    y "Д-Дурко..."
 
 # game/game/yui_events.rpy:1006
 translate ukrainian yui_gal1_e66a3fd2:
 
     # y "{size=-10}Why did it get even stickier...?"
-    y "{size=-10}Why did it get even stickier...?"
+    y "{size=-10}Чому він став ще більш липким...?"
 
 # game/game/yui_events.rpy:1007
 translate ukrainian yui_gal1_8a854a52:
 
     # mc "Your breasts are mesmerizing..."
-    mc "Your breasts are mesmerizing..."
+    mc "Твої груди мене зачаровують..."
 
 # game/game/yui_events.rpy:1008
 translate ukrainian yui_gal1_b7298855:
 
     # y "S-S-Shup up!"
-    y "S-S-Shup up!"
+    y "З-З-Замовкни!"
 
 # game/game/yui_events.rpy:1010
 translate ukrainian yui_gal1_25bd8e78:
 
     # y "You know what? {w}I'll take my revenge for you defeating me so easily."
-    y "You know what? {w}I'll take my revenge for you defeating me so easily."
+    y "Знаєш що? {w}Настав час помсти за те, що так легко переміг мене."
 
 # game/game/yui_events.rpy:1011
 translate ukrainian yui_gal1_dbff1cd2:
 
     # mc "What do y-"
-    mc "What do y-"
+    mc "Що т-"
 
 # game/game/yui_events.rpy:1024
 translate ukrainian yui_gal1_1d82a7e7:
@@ -2727,67 +2727,67 @@ translate ukrainian yui_gal1_1d82a7e7:
 translate ukrainian yui_gal1_5ad3bec3:
 
     # y "Take this! {w}And this! {w}And this!!"
-    y "Take this! {w}And this! {w}And this!!"
+    y "Отримуй! {w}І ще! {w}І ще!!"
 
 # game/game/yui_events.rpy:1026
 translate ukrainian yui_gal1_b406b450:
 
     # y "[mc] i-di-ot~~"
-    y "[mc] i-di-ot~~"
+    y "[mc], дур-ни-ку~~"
 
 # game/game/yui_events.rpy:1027
 translate ukrainian yui_gal1_d1aa2fbe:
 
     # mc "Y-Yui..."
-    mc "Y-Yui..."
+    mc "Ю-Юї..."
 
 # game/game/yui_events.rpy:1028
 translate ukrainian yui_gal1_7cae6cfe:
 
     # y "Are you giving up now?"
-    y "Are you giving up now?"
+    y "Уже здаєшся?"
 
 # game/game/yui_events.rpy:1029
 translate ukrainian yui_gal1_ba4cb3e7:
 
     # y "{size=-10}H-How did I end up squeezing the p-penis of the man who defeated me?..."
-    y "{size=-10}H-How did I end up squeezing the p-penis of the man who defeated me?..."
+    y "{size=-10}Я-Як усе скінчилося тим, що я стискаю ч-член чоловіка, яки мене переміг?..."
 
 # game/game/yui_events.rpy:1031
 translate ukrainian yui_gal1_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/yui_events.rpy:1041
 translate ukrainian yui_gal1_76d2bec4:
 
     # "Yui accelerates her speed."
-    "Yui accelerates her speed."
+    "Юї пришвидшує темп."
 
 # game/game/yui_events.rpy:1042
 translate ukrainian yui_gal1_3aedd96f:
 
     # t "I can't talk, the feeling I have right now is driving me crazy."
-    t "I can't talk, the feeling I have right now is driving me crazy."
+    t "Не можу говорити — це відчуття зараз зводить мене з розуму."
 
 # game/game/yui_events.rpy:1043
 translate ukrainian yui_gal1_3b4914b4:
 
     # y "Your expression is very lewd, {w}it's nothing like the one you had during the fight..."
-    y "Your expression is very lewd, {w}it's nothing like the one you had during the fight..."
+    y "У тебе дуже хтивий вираз обличчя, {w}повна протилежність того, що був під час бою..."
 
 # game/game/yui_events.rpy:1044
 translate ukrainian yui_gal1_1de6c0ef:
 
     # y "M-My breasts are getting stickier and stickier because of your t-thing that keeps expelling that goo..."
-    y "M-My breasts are getting stickier and stickier because of your t-thing that keeps expelling that goo..."
+    y "М-Мої груди невпинно стають все більш липкими через твою ш-штуковину, яка постійно виділяє цей слиз..."
 
 # game/game/yui_events.rpy:1045
 translate ukrainian yui_gal1_74975786:
 
     # t "All the pre-cum that came out is making Yui's boobs even more slippery..."
-    t "All the pre-cum that came out is making Yui's boobs even more slippery..."
+    t "Увесь цей прееякулят робить груди Юї ще слизькішими..."
 
 # game/game/yui_events.rpy:1046
 translate ukrainian yui_gal1_2b35b6fe_4:
@@ -2799,163 +2799,163 @@ translate ukrainian yui_gal1_2b35b6fe_4:
 translate ukrainian yui_gal1_89b397b2:
 
     # y "Is it just me or did it swell even more?..."
-    y "Is it just me or did it swell even more?..."
+    y "Мені це здалося, чи він ще збільшився?..."
 
 # game/game/yui_events.rpy:1048
 translate ukrainian yui_gal1_23240ae4:
 
     # mc "I- {w}I'm cummm-"
-    mc "I- {w}I'm cummm-"
+    mc "Я- {w}кінчч-"
 
 # game/game/yui_events.rpy:1059
 translate ukrainian yui_gal1_0705a9cb:
 
     # y "Ahh~~"
-    y "Ahh~~"
+    y "Ахх~~"
 
 # game/game/yui_events.rpy:1060
 translate ukrainian yui_gal1_2ba84be8:
 
     # y "I didn't know so much would come out."
-    y "I didn't know so much would come out."
+    y "Не думала, що так багато вийде."
 
 # game/game/yui_events.rpy:1062
 translate ukrainian yui_gal1_ae03a5c5:
 
     # y "You left a lot on my b-boobs..."
-    y "You left a lot on my b-boobs..."
+    y "Як же багато ти залишив на моїх г-грудях..."
 
 # game/game/yui_events.rpy:1063
 translate ukrainian yui_gal1_fc0979fd:
 
     # mc "It felt too good..."
-    mc "It felt too good..."
+    mc "Це було занадто приємно..."
 
 # game/game/yui_events.rpy:1065
 translate ukrainian yui_gal1_d4300b02:
 
     # y "It's quite hot."
-    y "It's quite hot."
+    y "Воно гаряченьке."
 
 # game/game/yui_events.rpy:1066
 translate ukrainian yui_gal1_56c72f63:
 
     # t "This scene is hot..."
-    t "This scene is hot..."
+    t "Ця картина справді гаряча..."
 
 # game/game/yui_events.rpy:1067
 translate ukrainian yui_gal1_87f9f194_1:
 
     # y "So..."
-    y "So..."
+    y "То..."
 
 # game/game/yui_events.rpy:1069
 translate ukrainian yui_gal1_cb0f2856:
 
     # y "Did I do well?"
-    y "Did I do well?"
+    y "Тобі було добре?"
 
 # game/game/yui_events.rpy:1070
 translate ukrainian yui_gal1_948a8388:
 
     # mc "More than well."
-    mc "More than well."
+    mc "Більше ніж добре."
 
 # game/game/yui_events.rpy:1072
 translate ukrainian yui_gal1_055e4d34:
 
     # y "Then {w}the bet is paid."
-    y "Then {w}the bet is paid."
+    y "Тоді {w}я виконала свою частину."
 
 # game/game/yui_events.rpy:1073
 translate ukrainian yui_gal1_626afec6:
 
     # mc "Err... {w}I think there were some details that-"
-    mc "Err... {w}I think there were some details that-"
+    mc "Емм... {w}Гадаю, були певні моменти-"
 
 # game/game/yui_events.rpy:1075
 translate ukrainian yui_gal1_403689e4:
 
     # y "Hahaha idiot..."
-    y "Hahaha idiot..."
+    y "Хахаха, дурнику..."
 
 # game/game/yui_events.rpy:1089
 translate ukrainian yui_gal1_5388c7b0:
 
     # mc "Shall I help you clean yourself?"
-    mc "Shall I help you clean yourself?"
+    mc "Тобі допомогти привести себе до ладу?"
 
 # game/game/yui_events.rpy:1090
 translate ukrainian yui_gal1_9708d3d7:
 
     # y "Don't worry, I'm already too embarrassed by what I just did to watch you wipe my chest...."
-    y "Don't worry, I'm already too embarrassed by what I just did to watch you wipe my chest...."
+    y "Не переймайся. Мені й так занадто ніяково через те, що ми щойно утнули, аби ще дивитися, як ти протиратимеш мені груди..."
 
 # game/game/yui_events.rpy:1094
 translate ukrainian yui_gal1_bf5ae535:
 
     # mc "We should practice more often."
-    mc "We should practice more often."
+    mc "Варто нам частіше практикуватися."
 
 # game/game/yui_events.rpy:1095
 translate ukrainian yui_gal1_8096fb59:
 
     # y "Hmmn... what happened to not wanting to fight?"
-    y "Hmmn... what happened to not wanting to fight?"
+    y "Гммн... і що ж це трапилося з твоїм небажанням битися?"
 
 # game/game/yui_events.rpy:1096
 translate ukrainian yui_gal1_1b2d29f8:
 
     # y "Besides, it's already clear to me that you're too strong."
-    y "Besides, it's already clear to me that you're too strong."
+    y "До того ж я вже цілком розумію, що ти мені не по зубах."
 
 # game/game/yui_events.rpy:1097
 translate ukrainian yui_gal1_a2f2e878:
 
     # t "Fuck, I must learn to control my strength."
-    t "Fuck, I must learn to control my strength."
+    t "Блять, треба навчитися контролювати свої сили."
 
 # game/game/yui_events.rpy:1098
 translate ukrainian yui_gal1_7d9b66e1:
 
     # y "{size=-10}But..."
-    y "{size=-10}But..."
+    y "{size=-10}Але..."
 
 # game/game/yui_events.rpy:1103
 translate ukrainian yui_gal1_5ab3cf43:
 
     # y "Y-You know..."
-    y "Y-You know..."
+    y "З-Знаєш..."
 
 # game/game/yui_events.rpy:1104
 translate ukrainian yui_gal1_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/yui_events.rpy:1106
 translate ukrainian yui_gal1_1759d7f2:
 
     # y "You always help me... {w}so I could do this for you from time to time."
-    y "You always help me... {w}so I could do this for you from time to time."
+    y "Ти завжди мені допомагаєш... {w}то ж я можу іноді це робити для тебе."
 
 # game/game/yui_events.rpy:1107
 translate ukrainian yui_gal1_a707bf6d:
 
     # mc "I'll come every day."
-    mc "I'll come every day."
+    mc "Буду приходити щодня."
 
 # game/game/yui_events.rpy:1109
 translate ukrainian yui_gal1_c16bbfd3:
 
     # y "Idiot! {w}My boobs wouldn't be able to take it!"
-    y "Idiot! {w}My boobs wouldn't be able to take it!"
+    y "Дурко! {w}Мої груди цього не витримають!"
 
 # game/game/yui_events.rpy:1110
 translate ukrainian yui_gal1_cd04c6d0:
 
     # mc "Is that what bothers you and not that I come every day?"
-    mc "Is that what bothers you and not that I come every day?"
+    mc "То тебе хвилює лише це, а не те, що я приходитиму щодня?"
 
 # game/game/yui_events.rpy:1112
 translate ukrainian yui_gal1_0080db22:
@@ -2967,103 +2967,103 @@ translate ukrainian yui_gal1_0080db22:
 translate ukrainian yui_gal1_52047e77:
 
     # y "{size=-10}Huumm..."
-    y "{size=-10}Huumm..."
+    y "{size=-10}{i}Хуумм...{/i}"
 
 # game/game/yui_events.rpy:1115
 translate ukrainian yui_gal1_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/yui_events.rpy:1116
 translate ukrainian yui_gal1_8111ff42:
 
     # t "How can someone as strong and fast as her be so cute?"
-    t "How can someone as strong and fast as her be so cute?"
+    t "Як хтось настільки спритна і сильна, як вона, може бути такою милою?"
 
 # game/game/yui_events.rpy:1117
 translate ukrainian yui_gal1_16dba5bb:
 
     # t "Now that I think about it."
-    t "Now that I think about it."
+    t "Тепер, коли я це згадав."
 
 # game/game/yui_events.rpy:1119
 translate ukrainian yui_gal1_a4182a01:
 
     # mc "There was something I wanted to ask you."
-    mc "There was something I wanted to ask you."
+    mc "Я хотів у тебе дещо спитати."
 
 # game/game/yui_events.rpy:1120
 translate ukrainian yui_gal1_d3b63e75:
 
     # y "If it's to make fun of me..."
-    y "If it's to make fun of me..."
+    y "Сподіваюся, ти не збираєшся далі глузувати..."
 
 # game/game/yui_events.rpy:1121
 translate ukrainian yui_gal1_1d861c83:
 
     # mc "No{w} no {w}did you use magic during the fight?"
-    mc "No{w} no {w}did you use magic during the fight?"
+    mc "Ні{w}, ні. {w}Ти користувалася магією у бою?"
 
 # game/game/yui_events.rpy:1123
 translate ukrainian yui_gal1_108b48b4:
 
     # y "Yes,{w} remember I said we can use any technique as long as it's not lethal..."
-    y "Yes,{w} remember I said we can use any technique as long as it's not lethal..."
+    y "Так,{w} якщо пам'ятаєш, я казала, що ми можемо користуватися всім, що є, доки це не летально..."
 
 # game/game/yui_events.rpy:1124
 translate ukrainian yui_gal1_775af995:
 
     # mc "That's how you became so fast?"
-    mc "That's how you became so fast?"
+    mc "І саме це зробило тебе такою швидкою?"
 
 # game/game/yui_events.rpy:1126
 translate ukrainian yui_gal1_493a9d54:
 
     # y "It's known as physical attribute magic."
-    y "It's known as physical attribute magic."
+    y "Її називають магією фізичного типу."
 
 # game/game/yui_events.rpy:1127
 translate ukrainian yui_gal1_5162c074:
 
     # y "I used electric magic to accelerate my speed..."
-    y "I used electric magic to accelerate my speed..."
+    y "Я використала електричну магію, щоб прискоритися..."
 
 # game/game/yui_events.rpy:1128
 translate ukrainian yui_gal1_0ad848af:
 
     # t "It seems that magic encompasses much more than I thought it would."
-    t "It seems that magic encompasses much more than I thought it would."
+    t "Здається, що магія охоплює набагато більше, ніж я спочатку думав."
 
 # game/game/yui_events.rpy:1130
 translate ukrainian yui_gal1_ed334696:
 
     # y "Didn't you know?"
-    y "Didn't you know?"
+    y "А ти не знав?"
 
 # game/game/yui_events.rpy:1131
 translate ukrainian yui_gal1_eaa7f2d5:
 
     # mc "Eh, {w}I just wanted to be sure..."
-    mc "Eh, {w}I just wanted to be sure..."
+    mc "Ех, {w}хотів переконатися..."
 
 # game/game/yui_events.rpy:1133
 translate ukrainian yui_gal1_eab142d5:
 
     # y "Even so, it was useless against you..."
-    y "Even so, it was useless against you..."
+    y "Навіть так, вона виявилася марною проти тебе..."
 
 # game/game/yui_events.rpy:1134
 translate ukrainian yui_gal1_d36eda73:
 
     # t "Maybe she feels bad about losing like that..."
-    t "Maybe she feels bad about losing like that..."
+    t "Можливо, їй прикро, що вона ось так програла..."
 
 # game/game/yui_events.rpy:1135
 translate ukrainian yui_gal1_265bda37:
 
     # t "If it wasn't for Keiko and her blessing, it would've been a different story...."
-    t "If it wasn't for Keiko and her blessing, it would've been a different story...."
+    t "Якби не Кейко з її благословенням, усе б скалося зовсім інакше..."
 
 # game/game/yui_events.rpy:1136
 translate ukrainian yui_gal1_1bb01731:
@@ -3075,19 +3075,19 @@ translate ukrainian yui_gal1_1bb01731:
 translate ukrainian yui_gal1_e57e0beb:
 
     # t "I may regret this, but..."
-    t "I may regret this, but..."
+    t "Я, мабуть, пожалкую, але..."
 
 # game/game/yui_events.rpy:1138
 translate ukrainian yui_gal1_327d54f1:
 
     # mc "I could teach you some things I know..."
-    mc "I could teach you some things I know..."
+    mc "Я можу спробувати тебе дечому навчити, що сам знаю..."
 
 # game/game/yui_events.rpy:1141
 translate ukrainian yui_gal1_73dc424b:
 
     # y "Really!?"
-    y "Really!?"
+    y "Справді!?"
 
 # game/game/yui_events.rpy:1142
 translate ukrainian yui_gal1_2b35b6fe_5:
@@ -3099,37 +3099,37 @@ translate ukrainian yui_gal1_2b35b6fe_5:
 translate ukrainian yui_gal1_9ef9ac82:
 
     # mc "Yes, but don't expect too much, I don't know if I'm good at teaching."
-    mc "Yes, but don't expect too much, I don't know if I'm good at teaching."
+    mc "Так, але на багато не очікуй. Не знаю, чи вийде з мене гарний вчитель."
 
 # game/game/yui_events.rpy:1144
 translate ukrainian yui_gal1_ffdf9f7a:
 
     # mc "We also use different types of weapons and fighting styles..."
-    mc "We also use different types of weapons and fighting styles..."
+    mc "А також у нас різна зброя та стиль бою..."
 
 # game/game/yui_events.rpy:1146
 translate ukrainian yui_gal1_48b72745:
 
     # y "It doesn't matter! Everything is welcome!"
-    y "It doesn't matter! Everything is welcome!"
+    y "Байдуже! Усе приймається!"
 
 # game/game/yui_events.rpy:1147
 translate ukrainian yui_gal1_3a2069f2:
 
     # y "Especially if it's from someone as strong as you!"
-    y "Especially if it's from someone as strong as you!"
+    y "Особливо якщо це від когось такого сильного, як ти!"
 
 # game/game/yui_events.rpy:1148
 translate ukrainian yui_gal1_9667bfac:
 
     # mc "I'll do what I can..."
-    mc "I'll do what I can..."
+    mc "Зроблю все, що у моїх силах..."
 
 # game/game/yui_events.rpy:1154
 translate ukrainian yui_gal1_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:1177
 translate ukrainian yui_menu_lust_5b78ae15:
@@ -3483,7 +3483,7 @@ translate ukrainian yui_boobjob_15aba4fb:
 translate ukrainian yui_boobjob_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:1306
 translate ukrainian yui_spending2_da95dfd7:
@@ -3531,7 +3531,7 @@ translate ukrainian yui_spending2_7df4ae3f:
 translate ukrainian yui_spending2_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:1331
 translate ukrainian yui_store_mision_0a7b8335:
@@ -6051,7 +6051,7 @@ translate ukrainian training_doll_f26bf387:
 translate ukrainian training_doll_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2055
 translate ukrainian training_doll_1912bc99:
@@ -6975,7 +6975,7 @@ translate ukrainian yui_h_mission2_75744ae2:
 translate ukrainian yui_h_mission2_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:2293
 translate ukrainian yui_h_mission2_82ac464c:
@@ -7575,7 +7575,7 @@ translate ukrainian training_work_3b624b1a:
 translate ukrainian training_work_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:2514
 translate ukrainian training_work_c0268a1a:
@@ -7593,7 +7593,7 @@ translate ukrainian training_work_6dd75496:
 translate ukrainian training_work_2a8c4977_1:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:2536
 translate ukrainian yui_1_S_18404a4b:
@@ -9831,7 +9831,7 @@ translate ukrainian yui_gal3_80ee73e2:
 translate ukrainian yui_gal3_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:3098
 translate ukrainian yui_bandisttalk_e7e7ba01:
@@ -10443,7 +10443,7 @@ translate ukrainian yui_bandisttalk_65079c7b:
 translate ukrainian yui_bandisttalk_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:3283
 translate ukrainian sol_eventuno_722e9f16:
@@ -11193,7 +11193,7 @@ translate ukrainian sol_eventuno_ef98bd50:
 translate ukrainian sol_eventuno_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3527
 translate ukrainian sol_eventdos_2d727812:
@@ -11727,7 +11727,7 @@ translate ukrainian sol_eventdos_a2ba8aed:
 translate ukrainian sol_eventdos_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3712
 translate ukrainian sol_eventtres_623c1c05:
@@ -12357,7 +12357,7 @@ translate ukrainian sol_eventtres_fb257559:
 translate ukrainian sol_eventtres_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3918
 translate ukrainian yui_eventuno_69705684:
@@ -13275,7 +13275,7 @@ translate ukrainian yui_eventuno_e45afcc1:
 translate ukrainian yui_eventuno_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:4156
 translate ukrainian yui_eventuno_3806dc27:
@@ -14277,7 +14277,7 @@ translate ukrainian yui_eventdos_437ee29b:
 translate ukrainian yui_eventdos_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:4434
 translate ukrainian yui_eventdos_55ee4f68:
@@ -15135,7 +15135,7 @@ translate ukrainian yui_eventtres_ff07c16e:
 translate ukrainian yui_eventtres_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:4668
 translate ukrainian yui_eventtres_db972506:
@@ -16659,7 +16659,7 @@ translate ukrainian yui_gal4_1ebcd192:
 translate ukrainian yui_gal4_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:5077
 translate ukrainian yui_gal4_2b35b6fe_2:
@@ -17331,7 +17331,7 @@ translate ukrainian yui_eventnueve_9f80d6f3:
 translate ukrainian yui_eventnueve_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:5264
 translate ukrainian yui_eventnueve_2b35b6fe_3:
@@ -18093,7 +18093,7 @@ translate ukrainian yui_eventdiez_f2316b97:
 translate ukrainian yui_eventdiez_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:5479
 translate ukrainian yui_eventdiez_41b6b30e:
@@ -18915,7 +18915,7 @@ translate ukrainian yui_eventonce_69092884:
 translate ukrainian yui_eventonce_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:5694
 translate ukrainian yui_eventonce_221732dc:
@@ -20697,7 +20697,7 @@ translate ukrainian yui_gal5_e2802d1d:
 translate ukrainian yui_gal5_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:6142
 translate ukrainian yui_gal5_c1ae1064:
@@ -22545,7 +22545,7 @@ translate ukrainian yui_gal6_b425bf3d:
 translate ukrainian yui_gal6_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:6637
 translate ukrainian yui_gal6_6dd5d242:
@@ -24069,7 +24069,7 @@ translate ukrainian yui_dateuno_8719ca00:
 translate ukrainian yui_dateuno_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:7071
 translate ukrainian yui_dateuno_71a86863_8:
@@ -24183,7 +24183,7 @@ translate ukrainian yui_dateuno_c225e2a4:
 translate ukrainian yui_dateuno_2a8c4977_1:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
-    "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
+    "{image=corazon}Прихильність Юї зросла до [yui_affection]{image=corazon}"
 
 # game/game/yui_events.rpy:7102
 translate ukrainian yui_dateuno_ee4328ec:
@@ -24312,6 +24312,12 @@ translate ukrainian strings:
     old "Meanwhile, at Yui's house..."
     new "Тим часом у будинку Юї..."
 
+    old "While Yui goes to clean up, you put on your clothes."
+    new "Поки Юї пішла наводити лад, ти вдягаєшся."
+
+    old "You talk to Yui until it gets dark."
+    new "Ти розмовляєш з Юї аж поки не стемніло."
+
     old "{i}I want to see them again..."
     new "{i}I want to see them again..."
 
@@ -24363,9 +24369,6 @@ translate ukrainian strings:
     old "You take Yui home."
     new "You take Yui home."
 
-    old "While Yui goes to clean up, you put on your clothes."
-    new "While Yui goes to clean up, you put on your clothes."
-
     old "A few days ago."
     new "A few days ago."
 
@@ -24386,9 +24389,6 @@ translate ukrainian strings:
 
     old "Until you'd gone through all of them..."
     new "Until you'd gone through all of them..."
-
-    old "You talk to Yui until it gets dark."
-    new "You talk to Yui until it gets dark."
 
     old "You help Yui clean up and go home."
     new "You help Yui clean up and go home."
