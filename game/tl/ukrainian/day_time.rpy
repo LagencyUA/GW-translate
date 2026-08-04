@@ -59,6 +59,12 @@ translate ukrainian strings:
     old "{size=-10}Lvl: {size=-4}[store.player_stats['level']]"
     new "{size=-10}Рівень: {size=-4}[store.player_stats['level']]"
 
+    old "{size=-19}[player_hp]/[player.max_vit]"
+    new "{size=-19}[player_hp]/[player.max_vit]\n" # Фікс позиції
+
+    old "{size=-19}[store.player_stats['exp']]/[exp_to_next_level]"
+    new "{size=-19}[store.player_stats['exp']]/[exp_to_next_level]\n" # Фікс позиції
+
     # game/day_time.rpy:4057
     old "{size=-15}All"
     new "{size=-15}Усе"
