@@ -3225,19 +3225,19 @@ translate ukrainian yui_boobjob_617c7851:
 translate ukrainian yui_boobjob_d31220f3:
 
     # mc "Ah, yes, {w}I was distracted for a second."
-    mc "Ah, yes, {w}I was distracted for a second."
+    mc "Ах, так, {w}я трохи відволікся."
 
 # game/game/yui_events.rpy:1231
 translate ukrainian yui_boobjob_7a4efe4c:
 
     # y "Ah~"
-    y "Ah~"
+    y "Ах~"
 
 # game/game/yui_events.rpy:1233
 translate ukrainian yui_boobjob_f476173e:
 
     # y "You're already so big..."
-    y "You're already so big..."
+    y "Він вже такий великий..."
 
 # game/game/yui_events.rpy:1234
 translate ukrainian yui_boobjob_2b35b6fe:
