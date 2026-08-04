@@ -3255,43 +3255,43 @@ translate ukrainian yui_boobjob_1d82a7e7:
 translate ukrainian yui_boobjob_b9d63bf5:
 
     # y "How can you walk around with this between your legs...?"
-    y "How can you walk around with this between your legs...?"
+    y "І він між ніг тобі ходити не заважає...?"
 
 # game/game/yui_events.rpy:1238
 translate ukrainian yui_boobjob_4ef9bf78:
 
     # t "She seems to be more confident with my penis."
-    t "She seems to be more confident with my penis."
+    t "Здається, вона почувається впевненіше з моїм членом."
 
 # game/game/yui_events.rpy:1239
 translate ukrainian yui_boobjob_2bc75cbe:
 
     # y "I'd better get started... it looks like it's going to explode..."
-    y "I'd better get started... it looks like it's going to explode..."
+    y "Варто мені вже почати... він виглядає, наче невдовзі вибухне..."
 
 # game/game/yui_events.rpy:1241
 translate ukrainian yui_boobjob_8595f5b0:
 
     # y "It's okay this way, right?"
-    y "It's okay this way, right?"
+    y "Так нормально, правда?"
 
 # game/game/yui_events.rpy:1242
 translate ukrainian yui_boobjob_5aa72ccd:
 
     # mc "Y-Yeah..."
-    mc "Y-Yeah..."
+    mc "А-Ага..."
 
 # game/game/yui_events.rpy:1244
 translate ukrainian yui_boobjob_1a86c5aa:
 
     # y "You seem quieter than usual."
-    y "You seem quieter than usual."
+    y "Ти ніби сьогодні мовчазніший, ніж зазвичай."
 
 # game/game/yui_events.rpy:1245
 translate ukrainian yui_boobjob_88be2848:
 
     # mc "It's becau-"
-    mc "It's becau-"
+    mc "Це том-"
 
 # game/game/yui_events.rpy:1247
 translate ukrainian yui_boobjob_1d82a7e7_1:
@@ -3303,85 +3303,85 @@ translate ukrainian yui_boobjob_1d82a7e7_1:
 translate ukrainian yui_boobjob_d884664a:
 
     # y "You were going to say something to make fun of me, weren't you?"
-    y "You were going to say something to make fun of me, weren't you?"
+    y "Зізнайся, ти ж хотів щойно поглузувати з мне?"
 
 # game/game/yui_events.rpy:1249
 translate ukrainian yui_boobjob_542f2c28:
 
     # mc "Haha...{w} not at all..."
-    mc "Haha...{w} not at all..."
+    mc "Хаха...{w} зовсім ні..."
 
 # game/game/yui_events.rpy:1250
 translate ukrainian yui_boobjob_39282b43:
 
     # y "Hmm~"
-    y "Hmm~"
+    y "Гмм~"
 
 # game/game/yui_events.rpy:1253
 translate ukrainian yui_boobjob_f2ae8c8a:
 
     # y "You always make a lewd face when you're going to do it..."
-    y "You always make a lewd face when you're going to do it..."
+    y "У тебе завжди таке хтиве лице, коли ти збираєшся це зробити..."
 
 # game/game/yui_events.rpy:1254
 translate ukrainian yui_boobjob_c33b515c:
 
     # mc "Err..."
-    mc "Err..."
+    mc "Емм..."
 
 # game/game/yui_events.rpy:1255
 translate ukrainian yui_boobjob_c47dff88:
 
     # y "And now you're doing nothing but stare at my tits."
-    y "And now you're doing nothing but stare at my tits."
+    y "А тепер ти лише витріщаєшся на мої цицьки."
 
 # game/game/yui_events.rpy:1256
 translate ukrainian yui_boobjob_4a5ad775:
 
     # mc "Not only that, but also your beautiful pink nip-"
-    mc "Not only that, but also your beautiful pink nip-"
+    mc "Не тільки на них, а також на твої гарні рожеві сос-"
 
 # game/game/yui_events.rpy:1258
 translate ukrainian yui_boobjob_f7baf8b4:
 
     # mc "Ugh."
-    mc "Ugh."
+    mc "Угх."
 
 # game/game/yui_events.rpy:1259
 translate ukrainian yui_boobjob_97e9c844:
 
     # y "You were going to do it again!"
-    y "You were going to do it again!"
+    y "Ти знову намагався це зробити!"
 
 # game/game/yui_events.rpy:1260
 translate ukrainian yui_boobjob_c0853b23:
 
     # y "But now I'm in control."
-    y "But now I'm in control."
+    y "Але тепер я тут вирішую."
 
 # game/game/yui_events.rpy:1261
 translate ukrainian yui_boobjob_653b8dcc:
 
     # y "And I can stop you before you make fun of me..."
-    y "And I can stop you before you make fun of me..."
+    y "І я можу тебе спинити перед тим, як ти знову глузуватимеш..."
 
 # game/game/yui_events.rpy:1262
 translate ukrainian yui_boobjob_f17644fd:
 
     # mc "Yui... if you continue like this..."
-    mc "Yui... if you continue like this..."
+    mc "Юї... якщо так продовжиш..."
 
 # game/game/yui_events.rpy:1263
 translate ukrainian yui_boobjob_b83ad773:
 
     # y "Yes?"
-    y "Yes?"
+    y "Так?"
 
 # game/game/yui_events.rpy:1264
 translate ukrainian yui_boobjob_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/yui_events.rpy:1266
 translate ukrainian yui_boobjob_36eeb24f:
@@ -3393,91 +3393,91 @@ translate ukrainian yui_boobjob_36eeb24f:
 translate ukrainian yui_boobjob_08691a54:
 
     # y "What happened?"
-    y "What happened?"
+    y "Що таке?"
 
 # game/game/yui_events.rpy:1268
 translate ukrainian yui_boobjob_13d5c752:
 
     # y "You can't even talk anymore, you're completely defeated."
-    y "You can't even talk anymore, you're completely defeated."
+    y "Уже навіть сил немає говорити — повна поразка."
 
 # game/game/yui_events.rpy:1269
 translate ukrainian yui_boobjob_44a5d07c:
 
     # y "With your sword you're so strong, but with your penis between my tits you're just a helpless man."
-    y "With your sword you're so strong, but with your penis between my tits you're just a helpless man."
+    y "З мечем ти такий сильний, але з членом між моїми грудьми ти — просто безпорадний."
 
 # game/game/yui_events.rpy:1270
 translate ukrainian yui_boobjob_7115902d:
 
     # y "[mc] i{w}di{w}ot."
-    y "[mc] i{w}di{w}ot."
+    y "[mc], дур{w}ни{w}ку."
 
 # game/game/yui_events.rpy:1271
 translate ukrainian yui_boobjob_de4d40ad:
 
     # mc "I'm cumming!"
-    mc "I'm cumming!"
+    mc "Кінчаю!"
 
 # game/game/yui_events.rpy:1276
 translate ukrainian yui_boobjob_8b132124:
 
     # y "{size=-10}Ahh~~"
-    y "{size=-10}Ahh~~"
+    y "{size=-10}Ахх~~"
 
 # game/game/yui_events.rpy:1278
 translate ukrainian yui_boobjob_8b98ffaa:
 
     # y "Look at the mess you made."
-    y "Look at the mess you made."
+    y "Поглянь на весь цей безлад, що ти лишив."
 
 # game/game/yui_events.rpy:1279
 translate ukrainian yui_boobjob_ba30d50f:
 
     # y "You completely covered my {w}tits..."
-    y "You completely covered my {w}tits..."
+    y "Ти повністю облив мої {w}цицьки..."
 
 # game/game/yui_events.rpy:1281
 translate ukrainian yui_boobjob_f006d7b9:
 
     # mc "It felt very good Yui..."
-    mc "It felt very good Yui..."
+    mc "Було дуже приємно, Юї..."
 
 # game/game/yui_events.rpy:1283
 translate ukrainian yui_boobjob_34643d94:
 
     # y "Hehehe."
-    y "Hehehe."
+    y "Хехехе."
 
 # game/game/yui_events.rpy:1284
 translate ukrainian yui_boobjob_32eacb02:
 
     # y "How do you expect me to take that as a compliment."
-    y "How do you expect me to take that as a compliment."
+    y "І як, по-твоєму, я маю сприйняти це за комплімент?"
 
 # game/game/yui_events.rpy:1286
 translate ukrainian yui_boobjob_8dcab065:
 
     # y "I'd better go clean up."
-    y "I'd better go clean up."
+    y "Краще піду приберусь."
 
 # game/game/yui_events.rpy:1287
 translate ukrainian yui_boobjob_c03dd0de:
 
     # mc "My proposal to clean you still stands."
-    mc "My proposal to clean you still stands."
+    mc "Моя пропозиція допомогти досі в силі."
 
 # game/game/yui_events.rpy:1288
 translate ukrainian yui_boobjob_818aa117:
 
     # mc "I'm a perfectionist cleaner."
-    mc "I'm a perfectionist cleaner."
+    mc "Я перфекціоніст у питанні прибирання."
 
 # game/game/yui_events.rpy:1289
 translate ukrainian yui_boobjob_15aba4fb:
 
     # y "Hahaha, now that I let you go, you take the opportunity to make fun of me?"
-    y "Hahaha, now that I let you go, you take the opportunity to make fun of me?"
+    y "Хахаха, щойно я тебе відпустила, одразу користуєшся нагодою поглузувати з мене?"
 
 # game/game/yui_events.rpy:1295
 translate ukrainian yui_boobjob_c378f7e5:
