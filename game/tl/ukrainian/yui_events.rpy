@@ -933,7 +933,7 @@ translate ukrainian yui_event_1_c378f7e5:
 translate ukrainian yui_fight_pratice_32d2ea9e:
 
     # t "I'll see if Yui is at home."
-    t "Подивлюся, чи Юї дома."
+    t "Подивлюся, чи Юї вдома."
 
 # game/game/yui_events.rpy:453
 translate ukrainian yui_fight_pratice_ce6d7a3c:
@@ -24316,7 +24316,7 @@ translate ukrainian strings:
     new "Поки Юї пішла наводити лад, ти вдягаєшся."
 
     old "You talk to Yui until it gets dark."
-    new "Ти розмовляєш з Юї аж поки не стемніло."
+    new "Ти розмовляв з Юї, аж поки не стемніло."
 
     old "{i}I want to see them again..."
     new "{i}I want to see them again..."
