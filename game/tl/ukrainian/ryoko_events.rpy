@@ -5445,7 +5445,7 @@ translate ukrainian ryoko_gal2_b9b755e5:
 translate ukrainian ryoko_gal2_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1803
 translate ukrainian ryoko_gal2_82ba1e7a:
@@ -5811,7 +5811,7 @@ translate ukrainian ryoko_h_2rep_b9b755e5_1:
 translate ukrainian ryoko_h_2rep_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1909
 translate ukrainian r_room_1st_a9accb89:
@@ -6195,7 +6195,7 @@ translate ukrainian r_room_1st_c444fd93:
 translate ukrainian r_room_1st_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2030
 translate ukrainian ryoko_mission_training_b8eb71a6:
@@ -6645,7 +6645,7 @@ translate ukrainian ryoko_mission_training_1e3845c0:
 translate ukrainian ryoko_mission_training_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2188
 translate ukrainian ryoko_first_sex_50e3435e:
@@ -7905,7 +7905,7 @@ translate ukrainian ryoko_gal3_66b35236:
 translate ukrainian ryoko_gal3_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2532
 translate ukrainian ryoko_sex1_rep_7fed0ec4:
@@ -8559,7 +8559,7 @@ translate ukrainian ryoko_sex1_rep_c0caa68d:
 translate ukrainian ryoko_sex1_rep_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2720
 translate ukrainian ryoko_streching_289c09ad:
@@ -9147,7 +9147,7 @@ translate ukrainian ryoko_streching_5b155ac3:
 translate ukrainian ryoko_streching_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2900
 translate ukrainian ryoko_streching_6153f22e:
@@ -9441,7 +9441,7 @@ translate ukrainian ryoko_streching_2a33d9bc:
 translate ukrainian ryoko_streching_1fcb1404_1:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:3004
 translate ukrainian ryoko_gal4_3e9de79a:
@@ -10185,7 +10185,7 @@ translate ukrainian ryoko_gal4_35a8aa36:
 translate ukrainian ryoko_gal4_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:3211
 translate ukrainian r_sleeping_32238fd7:
@@ -15225,7 +15225,7 @@ translate ukrainian ryoko_historiatres_40d1e06e:
 translate ukrainian ryoko_historiatres_1fcb1404:
 
     # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:4851
 translate ukrainian ryoko_historiatres_22cae04a:
@@ -17115,7 +17115,7 @@ translate ukrainian ryoko_eventcinco_fd6dac5b:
 translate ukrainian ryoko_eventcinco_0375fb3e:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:5367
 translate ukrainian ryoko_eventseis_dba68496:
@@ -17727,7 +17727,7 @@ translate ukrainian ryoko_eventseis_04645f0d:
 translate ukrainian ryoko_eventseis_8dbdc340:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}\n {image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:5542
 translate ukrainian ryoko_eventseis_c63d802f:
@@ -18615,7 +18615,7 @@ translate ukrainian ryoko_eventsiete_90abaf80:
 translate ukrainian ryoko_eventsiete_07b8cdc0:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:5798
 translate ukrainian ryoko_eventsiete_f29bbb96_1:
@@ -20019,7 +20019,7 @@ translate ukrainian ryoko_gal5_737c2db6:
 translate ukrainian ryoko_gal5_0375fb3e:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:6169
 translate ukrainian ryoko_gal5_3e239ff3:
@@ -23511,7 +23511,7 @@ translate ukrainian on_the_way_4e2737ac:
 translate ukrainian on_the_way_72f4ab3c:
 
     # "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:7214
 translate ukrainian ryoko_toilet_peep_821db523:
@@ -25359,7 +25359,7 @@ translate ukrainian ryoko_past_dream_b2bcef9a:
 translate ukrainian ryoko_past_dream_0375fb3e:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:7834
 translate ukrainian ryoko_new_katana_231acf8b:
@@ -27735,7 +27735,7 @@ translate ukrainian helping_adventurers_63056eab:
 translate ukrainian helping_adventurers_3a53875a:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Natsuki's affection has increased to [natsuki_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Natsuki's affection has increased to [natsuki_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}\n {image=corazon}Natsuki's affection has increased to [natsuki_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:8517
 translate ukrainian ryoko_correction_d7417e50:
@@ -29445,7 +29445,7 @@ translate ukrainian ryoko_correction_end_8114a09f:
 translate ukrainian ryoko_correction_end_0375fb3e:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:8988
 translate ukrainian ryoko_dateuno_d1954752:
@@ -30909,7 +30909,7 @@ translate ukrainian ryoko_start_dateuno_52f06538:
 translate ukrainian ryoko_start_dateuno_0375fb3e:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:9417
 translate ukrainian ryoko_start_dateuno_82e04b47:
@@ -31023,7 +31023,7 @@ translate ukrainian ryoko_start_dateuno_536c4966:
 translate ukrainian ryoko_start_dateuno_0375fb3e_1:
 
     # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
-    "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:9446
 translate ukrainian ryoko_start_dateuno_f162f09e:

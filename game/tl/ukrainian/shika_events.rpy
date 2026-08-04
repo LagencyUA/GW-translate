@@ -3381,7 +3381,7 @@ translate ukrainian shika_mission1_36360df3:
 translate ukrainian shika_mission1_1b1c65df:
 
     # "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
-    "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шики зросла до [shika_affection]{image=corazon}"
 
 # game/game/shika_events.rpy:1100
 translate ukrainian shika_firsth_1be7f573:
@@ -5127,7 +5127,7 @@ translate ukrainian shika_gal2_c3b50b6e:
 translate ukrainian shika_gal2_1b1c65df:
 
     # "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
-    "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шики зросла до [shika_affection]{image=corazon}"
 
 # game/game/shika_events.rpy:1550
 translate ukrainian shika_gal2_74fc6761:
@@ -5997,7 +5997,7 @@ translate ukrainian shika_hrep_f9531d98:
 translate ukrainian shika_hrep_1b1c65df:
 
     # "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
-    "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шики зросла до [shika_affection]{image=corazon}"
 
 # game/game/shika_events.rpy:1826
 translate ukrainian shika_spend_events_cc81157d:
@@ -6687,7 +6687,7 @@ translate ukrainian shika_eventuno_9ccf3372:
 translate ukrainian shika_eventuno_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:2030
 translate ukrainian shika_eventdos_afc51417:
@@ -7533,7 +7533,7 @@ translate ukrainian shika_eventdos_247d9504:
 translate ukrainian shika_eventdos_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:2281
 translate ukrainian shika_eventdos_2c8e7b36_1:
@@ -9195,7 +9195,7 @@ translate ukrainian shika_eventtres_03fb3e88_2:
 translate ukrainian shika_eventtres_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:2735
 translate ukrainian shika_eventtres_a13951ed:
@@ -11697,7 +11697,7 @@ translate ukrainian shika_gal3_14e438c6:
 translate ukrainian shika_gal3_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:3423
 translate ukrainian shika_eventcinco_619a4a8d:
@@ -12537,7 +12537,7 @@ translate ukrainian shika_eventcinco_6b3f7723:
 translate ukrainian shika_eventcinco_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:3620
 translate ukrainian shika_eventcinco_469b330a:
@@ -13389,7 +13389,7 @@ translate ukrainian shika_eventseis_ecbd4294:
 translate ukrainian shika_eventseis_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:3847
 translate ukrainian shika_eventsiete_cd2362fa:
@@ -14817,7 +14817,7 @@ translate ukrainian shika_eventsiete_e1554201_2:
 translate ukrainian shika_eventsiete_591ab74b:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:4263
 translate ukrainian shika_eventocho_a6238661:
@@ -16689,7 +16689,7 @@ translate ukrainian shika_eventocho_next_e918608c_1:
 translate ukrainian shika_eventocho_next_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:4757
 translate ukrainian shika_eventocho_next_e1554201:
@@ -17079,7 +17079,7 @@ translate ukrainian shika_magic_38060a92:
 translate ukrainian shika_magic_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:4869
 translate ukrainian same_feelings_15c32adc:
@@ -17577,7 +17577,7 @@ translate ukrainian same_feelings_eeb65726:
 translate ukrainian same_feelings_1ca7820c:
 
     # "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Shika's affection has increased to [shika_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шики зросла до [shika_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/shika_events.rpy:4999
 translate ukrainian same_feelings_b4ac6404:
