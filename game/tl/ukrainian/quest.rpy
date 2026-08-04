@@ -166,6 +166,11 @@ translate ukrainian strings:
     old "{s}-Spend time with {color=#FBE5A2}Yui{/color} / Afternoon.{/s}"
     new "{s}- Провести час з {color=#FBE5A2}ЮЇ{/color} (день).{/s}"
 
+    old "-Time to secure the {color=#ffffff}forest{/color} (Select it on the map)."
+    new "- Настав час убезпечити {color=#ffffff}ліс{/color} (обери його на мапі)."
+    old "{s}-Time to secure the {color=#ffffff}forest{/color} (Select it on the map).{/s}"
+    new "{s}- Настав час убезпечити {color=#ffffff}ліс{/color} (обери його на мапі).{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -399,9 +404,6 @@ translate ukrainian strings:
 
     old "-Prepare the bath for {color=#21c3de}Karyn{/color}. (Night)"
     new "-Prepare the bath for {color=#21c3de}Karyn{/color}. (Night)"
-
-    old "-Time to secure the {color=#ffffff}forest{/color} (Select it on the map)."
-    new "-Time to secure the {color=#ffffff}forest{/color} (Select it on the map)."
 
     old "-You seem to be missing unlocking events or finishing some missions. Go now!"
     new "-You seem to be missing unlocking events or finishing some missions. Go now!"
