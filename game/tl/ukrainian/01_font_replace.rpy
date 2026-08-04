@@ -59,6 +59,7 @@ translate ukrainian style ukr_ruby_top:
 
 translate ukrainian style ukr_say_ruby_top is say_dialogue:
     line_spacing 6
+    line_leading 16
     ruby_style style.ukr_ruby_top
 
 
