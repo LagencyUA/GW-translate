@@ -81,7 +81,7 @@ translate ukrainian first_forest_event_988a4fd5:
 translate ukrainian first_forest_event_99826961:
 
     # mc "You're right... {w}do you feel lonely?"
-    mc "Твоя правда... {w}тобі самотньо?"
+    mc "Твоя правда... {w}Тобі самотньо?"
 
 # game/game/map_GW.rpy:77
 translate ukrainian first_forest_event_e7a059b6:
@@ -99,7 +99,7 @@ translate ukrainian first_forest_event_2b35b6fe:
 translate ukrainian first_forest_event_7b7f5719:
 
     # r "I've never been happier~"
-    r "Я ніколи не була щасливіша~"
+    r "Я ніколи не була щасливішою~"
 
 # game/game/map_GW.rpy:81
 translate ukrainian first_forest_event_32ca5bbe:
@@ -621,7 +621,7 @@ translate ukrainian first_forest_event_cc53648b:
 translate ukrainian first_forest_event_671dc927:
 
     # t "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
-    t "Хіба рьоко не казала, що тікала від когось? {w}Якщо то було найближче селище..."
+    t "Хіба Рьоко не казала, що тікала від когось? {w}Якщо то було найближче селище..."
 
 # game/game/map_GW.rpy:226
 translate ukrainian first_forest_event_b8d8d0d3:
@@ -1161,7 +1161,7 @@ translate ukrainian first_forest_event_0019e4bc:
 translate ukrainian first_forest_event_12ba34ef:
 
     # h "She's well respected here in the village."
-    h "У нашому селі її дуже поважають."
+    h "У нашому селищі її дуже поважають."
 
 # game/game/map_GW.rpy:402
 translate ukrainian first_forest_event_20ec62bc:
@@ -1311,7 +1311,7 @@ translate ukrainian first_forest_event_5d9497a5_2:
 translate ukrainian first_forest_event_6a72e58b:
 
     # mc "We'd better go with them."
-    mc "Нам теж краще піти за ними."
+    mc "Нам теж краще не відставати."
 
 # game/game/map_GW.rpy:448
 translate ukrainian first_forest_event_5d9497a5_3:

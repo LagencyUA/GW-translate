@@ -3321,7 +3321,7 @@ translate ukrainian yui_boobjob_39282b43:
 translate ukrainian yui_boobjob_f2ae8c8a:
 
     # y "You always make a lewd face when you're going to do it..."
-    y "У тебе завжди таке хтиве лице, коли ти збираєшся це зробити..."
+    y "У тебе завжди таке хтиве обличчя, коли ти збираєшся це зробити..."
 
 # game/game/yui_events.rpy:1254
 translate ukrainian yui_boobjob_c33b515c:
@@ -3525,7 +3525,7 @@ translate ukrainian yui_spending2_22236c5b:
 translate ukrainian yui_spending2_7df4ae3f:
 
     # "You help Yui to move boxes and store weapons."
-    "Ти допомагаєш Юї перенести коробки та скасти зброю."
+    "Ти допомагаєш Юї перенести коробки та скласти зброю."
 
 # game/game/yui_events.rpy:1321
 translate ukrainian yui_spending2_c378f7e5:

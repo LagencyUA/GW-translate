@@ -8259,7 +8259,7 @@ translate ukrainian expedicion_forest_113dd889:
 translate ukrainian expedicion_forest_e2e69d79:
 
     # y "The girls can handle it. They haven't endured their training for nothing."
-    y "Дівчата з цим впораються. Вони не ж дарма пройшли через таке тренування."
+    y "Дівчата з цим впораються. Вони ж не дарма пройшли через таке тренування."
 
 # game/game/script.rpy:2722
 translate ukrainian expedicion_forest_b90daffe:
