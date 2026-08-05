@@ -6027,7 +6027,7 @@ translate ukrainian keiko_gal1_27e4a94f:
 translate ukrainian keiko_gal1_bb9b006b:
 
     # mc "O-Of course! {size=-6}I like you..."
-    mc "З-Звісно ні! {size=-6}Ти мені подобаєшся..."
+    mc "З-Звісно ні! {size=-6}Ти мені до вподоби..."
 
 # game/game/script.rpy:1932
 translate ukrainian keiko_gal1_b9dbfbc1:
