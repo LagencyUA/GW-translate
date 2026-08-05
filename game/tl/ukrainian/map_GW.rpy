@@ -27,67 +27,67 @@ translate ukrainian forest_dialogue_a0d178d9:
 translate ukrainian first_forest_event_9fafad11:
 
     # t "These days I've been helping the girls as much as I can."
-    t "These days I've been helping the girls as much as I can."
+    t "Останніми днями я намагаюся допомагати дівчатам, як тільки можу."
 
 # game/game/map_GW.rpy:62
 translate ukrainian first_forest_event_9acba429:
 
     # t "I should stay home and get some rest."
-    t "I should stay home and get some rest."
+    t "Мені варто залишитися вдома та трохи відпочити."
 
 # game/game/map_GW.rpy:63
 translate ukrainian first_forest_event_049908a1:
 
     # r "Will you stay home today Master?"
-    r "Will you stay home today Master?"
+    r "Господарю, ви согодні не плануєте нікуди йти?"
 
 # game/game/map_GW.rpy:64
 translate ukrainian first_forest_event_9d63bfc5:
 
     # r "Can I make you some tea?"
-    r "Can I make you some tea?"
+    r "Можливо, вам заварити чаю?"
 
 # game/game/map_GW.rpy:65
 translate ukrainian first_forest_event_10fb622b:
 
     # mc "That would be great, thanks Ryoko."
-    mc "That would be great, thanks Ryoko."
+    mc "Не відмовлюся. Дякую, Рьоко."
 
 # game/game/map_GW.rpy:66
 translate ukrainian first_forest_event_5d9497a5:
 
     # r "Yes!"
-    r "Yes!"
+    r "Будь ласка!"
 
 # game/game/map_GW.rpy:71
 translate ukrainian first_forest_event_2342e720:
 
     # mc "You look quite happy."
-    mc "You look quite happy."
+    mc "Така радісна."
 
 # game/game/map_GW.rpy:72
 translate ukrainian first_forest_event_02198538:
 
     # r "He~ he~{image=/bg/icons/heart_text.png}"
-    r "He~ he~{image=/bg/icons/heart_text.png}"
+    r "Хе~ хе~{image=/bg/icons/heart_text.png}"
 
 # game/game/map_GW.rpy:74
 translate ukrainian first_forest_event_988a4fd5:
 
     # r "It's been days since you've stayed at home."
-    r "It's been days since you've stayed at home."
+    r "Це ви вперше за останні дні залишилися вдома."
 
 # game/game/map_GW.rpy:75
 translate ukrainian first_forest_event_99826961:
 
     # mc "You're right... {w}do you feel lonely?"
-    mc "You're right... {w}do you feel lonely?"
+    mc "Твоя правда... {w}тобі самотньо?"
 
 # game/game/map_GW.rpy:77
 translate ukrainian first_forest_event_e7a059b6:
 
     # r "Compared to how I used to live before..."
-    r "Compared to how I used to live before..."
+    r "Якщо порівнювати з тим, як я жила раніше..."
 
 # game/game/map_GW.rpy:78
 translate ukrainian first_forest_event_2b35b6fe:
@@ -99,43 +99,43 @@ translate ukrainian first_forest_event_2b35b6fe:
 translate ukrainian first_forest_event_7b7f5719:
 
     # r "I've never been happier~"
-    r "I've never been happier~"
+    r "Я ніколи не була щасливіша~"
 
 # game/game/map_GW.rpy:81
 translate ukrainian first_forest_event_32ca5bbe:
 
     # mc "Ryoko..."
-    mc "Ryoko..."
+    mc "Рьоко..."
 
 # game/game/map_GW.rpy:83
 translate ukrainian first_forest_event_4f4410ba:
 
     # r "Everyone is good to me."
-    r "Everyone is good to me."
+    r "Усі такі добрі до мене."
 
 # game/game/map_GW.rpy:85
 translate ukrainian first_forest_event_7cd2231b:
 
     # r "I can eat every day with you."
-    r "I can eat every day with you."
+    r "Я можу щодня їсти поруч із вами."
 
 # game/game/map_GW.rpy:87
 translate ukrainian first_forest_event_fddaac96:
 
     # r "I can also take baths with Master."
-    r "I can also take baths with Master."
+    r "І також можу купатися з господарем."
 
 # game/game/map_GW.rpy:88
 translate ukrainian first_forest_event_df0e92e9:
 
     # mc "Ryoko?"
-    mc "Ryoko?"
+    mc "Рьоко?"
 
 # game/game/map_GW.rpy:90
 translate ukrainian first_forest_event_161f8a18:
 
     # mc "Did you drop something?"
-    mc "Did you drop something?"
+    mc "Ти щось впустила?"
 
 # game/game/map_GW.rpy:91
 translate ukrainian first_forest_event_b9b755e5:
@@ -147,13 +147,13 @@ translate ukrainian first_forest_event_b9b755e5:
 translate ukrainian first_forest_event_9bc3f62f:
 
     # mc "Heey...?"
-    mc "Heey...?"
+    mc "Агоов...?"
 
 # game/game/map_GW.rpy:94
 translate ukrainian first_forest_event_b4cb12cb:
 
     # r "{size=-10}Hmnp!"
-    r "{size=-10}Hmnp!"
+    r "{size=-10}{i}Хмнп!{/i}"
 
 # game/game/map_GW.rpy:95
 translate ukrainian first_forest_event_652650d3:
@@ -165,7 +165,7 @@ translate ukrainian first_forest_event_652650d3:
 translate ukrainian first_forest_event_b8a2223b:
 
     # r "Since I met you{w}, I've never felt lonely again..."
-    r "Since I met you{w}, I've never felt lonely again..."
+    r "Відколи я вас зустріла{w}, я більше ніколи не почувалася самотньо..."
 
 # game/game/map_GW.rpy:98
 translate ukrainian first_forest_event_2b35b6fe_1:
@@ -177,127 +177,127 @@ translate ukrainian first_forest_event_2b35b6fe_1:
 translate ukrainian first_forest_event_e04395ed:
 
     # mc "I'm glad to hear that."
-    mc "I'm glad to hear that."
+    mc "Радий це чути."
 
 # game/game/map_GW.rpy:101
 translate ukrainian first_forest_event_3ea6b08d:
 
     # mc "Whatever happened to you, I won't let you go through anything like that again."
-    mc "Whatever happened to you, I won't let you go through anything like that again."
+    mc "Що б з тобою не сталося, я не дозволю, аби ти ще раз пережила щось подібне."
 
 # game/game/map_GW.rpy:103
 translate ukrainian first_forest_event_4735c1ba:
 
     # r "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
-    r "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
+    r "Господарю, [mc]... {w}хехехе~{image=/bg/icons/heart_text.png}"
 
 # game/game/map_GW.rpy:105
 translate ukrainian first_forest_event_4b72c907:
 
     # "{i}Knock* Knock*"
-    "{i}Knock* Knock*"
+    "{i}*Тук* *Тук*"
 
 # game/game/map_GW.rpy:107
 translate ukrainian first_forest_event_5e96a22c:
 
     # mc "Looks like we have visitors."
-    mc "Looks like we have visitors."
+    mc "Видно, у нас гості."
 
 # game/game/map_GW.rpy:108
 translate ukrainian first_forest_event_a47afcda:
 
     # r "Who could it be?"
-    r "Who could it be?"
+    r "Хто б це міг бути?"
 
 # game/game/map_GW.rpy:110
 translate ukrainian first_forest_event_9415a8ff:
 
     # mc "I think... {w}I have an idea."
-    mc "I think... {w}I have an idea."
+    mc "Гадаю... {w}я знаю хто."
 
 # game/game/map_GW.rpy:111
 translate ukrainian first_forest_event_f285c0b4:
 
     # mc "Come in! {w}It's open."
-    mc "Come in! {w}It's open."
+    mc "Заходьте! {w}Відчинено."
 
 # game/game/map_GW.rpy:115
 translate ukrainian first_forest_event_e7002357:
 
     # "The door opens."
-    "The door opens."
+    "Двері розчинилися."
 
 # game/game/map_GW.rpy:116
 translate ukrainian first_forest_event_f27044b5:
 
     # r "Oh, Hello!"
-    r "Oh, Hello!"
+    r "О, вітаю!"
 
 # game/game/map_GW.rpy:117
 translate ukrainian first_forest_event_7efe11c8:
 
     # mc "Hey Hana."
-    mc "Hey Hana."
+    mc "Привіт, Хано."
 
 # game/game/map_GW.rpy:118
 translate ukrainian first_forest_event_d8b7808a:
 
     # mc "Oh, {w}you bring company."
-    mc "Oh, {w}you bring company."
+    mc "Ох, {w}ти не одна."
 
 # game/game/map_GW.rpy:120
 translate ukrainian first_forest_event_6ddb73a8:
 
     # h "Hey, sorry to bother you."
-    h "Hey, sorry to bother you."
+    h "Привіт, перепрошуємо, що потурбували."
 
 # game/game/map_GW.rpy:121
 translate ukrainian first_forest_event_8c71478e:
 
     # y "Hello Ryoko! {w}You look totally different from the first time I met you!"
-    y "Hello Ryoko! {w}You look totally different from the first time I met you!"
+    y "Привіт, Рьоко! {w}Як же ти відрізняєшся з нашої першої зустрічі!"
 
 # game/game/map_GW.rpy:123
 translate ukrainian first_forest_event_363f87c4:
 
     # r "Yui! {w}I haven't seen you for days!"
-    r "Yui! {w}I haven't seen you for days!"
+    r "Юї! {w}Давно тебе не бачила!"
 
 # game/game/map_GW.rpy:125
 translate ukrainian first_forest_event_56c65f14:
 
     # r "Thanks again for saving me and my Master!"
-    r "Thanks again for saving me and my Master!"
+    r "Ще раз дякую, що врятувала мене та господаря!"
 
 # game/game/map_GW.rpy:127
 translate ukrainian first_forest_event_5a49fc04:
 
     # y "Hey, don't worry, your master already thanked me."
-    y "Hey, don't worry, your master already thanked me."
+    y "Ну-ну, не треба перейматися, твій господар вже мені подякував."
 
 # game/game/map_GW.rpy:129
 translate ukrainian first_forest_event_480b32b8:
 
     # h "Yes? In what way?"
-    h "Yes? In what way?"
+    h "Справді? А як саме?"
 
 # game/game/map_GW.rpy:130
 translate ukrainian first_forest_event_e7eeee29:
 
     # y "Well... he let me have a fight with him..."
-    y "Well... he let me have a fight with him..."
+    y "Ну... він дозволив мені побитися з ним..."
 
 # game/game/map_GW.rpy:132
 translate ukrainian first_forest_event_fb386c35:
 
     # h "Hmm..."
-    h "Hmm..."
+    h "Гмм..."
 
 # game/game/map_GW.rpy:134
 translate ukrainian first_forest_event_14c55b40:
 
     # y "And he beat me so..."
-    y "And he beat me so..."
+    y "І він мене переміг, тож..."
 
 # game/game/map_GW.rpy:135
 translate ukrainian first_forest_event_2b35b6fe_2:
@@ -309,289 +309,289 @@ translate ukrainian first_forest_event_2b35b6fe_2:
 translate ukrainian first_forest_event_47e5c024:
 
     # mc "Ok!"
-    mc "Ok!"
+    mc "Добре!"
 
 # game/game/map_GW.rpy:139
 translate ukrainian first_forest_event_9fe3f6a8:
 
     # mc "Why don't you two take a seat?"
-    mc "Why don't you two take a seat?"
+    mc "Чому б вам не присісти?"
 
 # game/game/map_GW.rpy:141
 translate ukrainian first_forest_event_ec9d5050:
 
     # h "Hahaha {w}Okay, let's get to what we came for, Yui."
-    h "Hahaha {w}Okay, let's get to what we came for, Yui."
+    h "Хахаха{w}, гаразд. Перейдімо до мети нашого візиту, Юї."
 
 # game/game/map_GW.rpy:142
 translate ukrainian first_forest_event_a217d7cf:
 
     # y "Ok..."
-    y "Ok..."
+    y "Так..."
 
 # game/game/map_GW.rpy:143
 translate ukrainian first_forest_event_98f7d3c5:
 
     # r "I'll bring more tea!"
-    r "I'll bring more tea!"
+    r "Я зроблю ще чаю!"
 
 # game/game/map_GW.rpy:144
 translate ukrainian first_forest_event_2d7f32ee:
 
     # mc "Thank you Ryoko."
-    mc "Thank you Ryoko."
+    mc "Дякую, Рьоко."
 
 # game/game/map_GW.rpy:145
 translate ukrainian first_forest_event_83c67368:
 
     # r "Hehehe~"
-    r "Hehehe~"
+    r "Хехехе~"
 
 # game/game/map_GW.rpy:147
 translate ukrainian first_forest_event_10620477:
 
     # h "You must already know why we came here."
-    h "You must already know why we came here."
+    h "Мабуть, ти вже здогадався, навіщо ми тут."
 
 # game/game/map_GW.rpy:148
 translate ukrainian first_forest_event_b439af8a:
 
     # mc "Do you have everything ready for the expedition?"
-    mc "Do you have everything ready for the expedition?"
+    mc "Усе готово для експедиції?"
 
 # game/game/map_GW.rpy:150
 translate ukrainian first_forest_event_10d5d192:
 
     # y "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
-    y "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
+    y "Так, завтра вранці ми вирушаємо до входу у Ревучий ліс."
 
 # game/game/map_GW.rpy:152
 translate ukrainian first_forest_event_a4590349:
 
     # h "When I told Yui you offered to come, she was super happy."
-    h "When I told Yui you offered to come, she was super happy."
+    h "Коли я розповіла Юї про твоє бажання піти, вона була на сьомому небі від щастя."
 
 # game/game/map_GW.rpy:153
 translate ukrainian first_forest_event_698d7569:
 
     # mc "Wow."
-    mc "Wow."
+    mc "Невже?"
 
 # game/game/map_GW.rpy:155
 translate ukrainian first_forest_event_ac79938f:
 
     # y "W-What!"
-    y "W-What!"
+    y "Щ-Що!"
 
 # game/game/map_GW.rpy:156
 translate ukrainian first_forest_event_acfdd60d:
 
     # mc "Good thing she wants me to go."
-    mc "Good thing she wants me to go."
+    mc "Як добре, що вона хоче, аби я пішов."
 
 # game/game/map_GW.rpy:158
 translate ukrainian first_forest_event_dfbeed22:
 
     # y "I just said that with someone so strong we would make it!"
-    y "I just said that with someone so strong we would make it!"
+    y "Я тільки сказала, що з кимось настільки сильним ми точно впораємося!"
 
 # game/game/map_GW.rpy:159
 translate ukrainian first_forest_event_8461add3:
 
     # mc "Thank you Yui, {w}I'm glad you trust me, {w}I like you too."
-    mc "Thank you Yui, {w}I'm glad you trust me, {w}I like you too."
+    mc "Дякую тобі, Юї. {w}Радий, що ти мені довіряєш, {w}ти мені теж до вподоби."
 
 # game/game/map_GW.rpy:161
 translate ukrainian first_forest_event_4cbffae4:
 
     # y "I didn't say that!"
-    y "I didn't say that!"
+    y "Я такого не казала!"
 
 # game/game/map_GW.rpy:162
 translate ukrainian first_forest_event_80e32d5a:
 
     # h "Hahaha!"
-    h "Hahaha!"
+    h "Хахаха!"
 
 # game/game/map_GW.rpy:164
 translate ukrainian first_forest_event_6f94d775:
 
     # r "Here is the tea!"
-    r "Here is the tea!"
+    r "А ось і чай!"
 
 # game/game/map_GW.rpy:166
 translate ukrainian first_forest_event_29b54724:
 
     # h "Thank you Ryoko."
-    h "Thank you Ryoko."
+    h "Спасибі, Рьоко."
 
 # game/game/map_GW.rpy:167
 translate ukrainian first_forest_event_367d95a2:
 
     # y "{size=-10}Thank you..."
-    y "{size=-10}Thank you..."
+    y "{size=-10}Дякую..."
 
 # game/game/map_GW.rpy:168
 translate ukrainian first_forest_event_a19fe7ca:
 
     # mc "Rest for a while, I don't want you to spend all day working."
-    mc "Rest for a while, I don't want you to spend all day working."
+    mc "Відпочинь трохи, не хочу, щоб ти весь день лише працювала."
 
 # game/game/map_GW.rpy:169
 translate ukrainian first_forest_event_ec8e315f:
 
     # r "Okay Master."
-    r "Okay Master."
+    r "Гаразд, господарю."
 
 # game/game/map_GW.rpy:171
 translate ukrainian first_forest_event_e904cdd2:
 
     # mc "Then explain to me how we'll do it."
-    mc "Then explain to me how we'll do it."
+    mc "Отже, поясни мені, як саме ми це зробимо."
 
 # game/game/map_GW.rpy:173
 translate ukrainian first_forest_event_95652ff0:
 
     # y "As you know, we're a small town."
-    y "As you know, we're a small town."
+    y "Як тобі відомо, ми — невеличке селище."
 
 # game/game/map_GW.rpy:175
 translate ukrainian first_forest_event_d87d1769:
 
     # y "I've trained a lot of people, but most of them are just villagers."
-    y "I've trained a lot of people, but most of them are just villagers."
+    y "Я вже багато кого встигла натренувати, але все-ж-таки вони досі прості селянки."
 
 # game/game/map_GW.rpy:176
 translate ukrainian first_forest_event_2e639836:
 
     # h "{size=-10}Haa~"
-    h "{size=-10}Haa~"
+    h "{size=-10}Хаа~"
 
 # game/game/map_GW.rpy:178
 translate ukrainian first_forest_event_d5fb5502:
 
     # y "The idea is that we form a wall along the safest roads, so that we can walk around without fear of encountering a beast."
-    y "The idea is that we form a wall along the safest roads, so that we can walk around without fear of encountering a beast."
+    y "Ідея полягає в тому, щоб ми збудували стіну вздовж найбезпечніших шляхів так, що інші зможуть там ходити без страху натрапити на звіра."
 
 # game/game/map_GW.rpy:180
 translate ukrainian first_forest_event_15bd107e:
 
     # y "We just have to take care of defending the girls who'll prepare the defenses and bring the materials."
-    y "We just have to take care of defending the girls who'll prepare the defenses and bring the materials."
+    y "Нам тільки треба дбати про безпеку дівчат, які зводитимуть оборону і носитимуть матеріали."
 
 # game/game/map_GW.rpy:182
 translate ukrainian first_forest_event_75ccb31b:
 
     # mc "Perfect, we just have to protect them at all times."
-    mc "Perfect, we just have to protect them at all times."
+    mc "Чудово! Отже, наша головна ціль — цілодобовий захист."
 
 # game/game/map_GW.rpy:183
 translate ukrainian first_forest_event_2e214a9f:
 
     # y "Now that there's no S-Rank Boss, the plan has become much easier."
-    y "Now that there's no S-Rank Boss, the plan has become much easier."
+    y "Тепер, коли там більше немає S-рангового ватажка, весь план став значно простішим."
 
 # game/game/map_GW.rpy:185
 translate ukrainian first_forest_event_416f52e9:
 
     # y "{size=-10}A-And because you're coming too."
-    y "{size=-10}A-And because you're coming too."
+    y "{size=-10}Н-Ну, і завдяки тому, що ти теж там будеш."
 
 # game/game/map_GW.rpy:186
 translate ukrainian first_forest_event_d396b36a:
 
     # h "Hehehe~~"
-    h "Hehehe~~"
+    h "Хехехе~~"
 
 # game/game/map_GW.rpy:187
 translate ukrainian first_forest_event_2954b747:
 
     # t "If the idea is to build a wall in a short period of time, there must be several people coming."
-    t "If the idea is to build a wall in a short period of time, there must be several people coming."
+    t "Якщо основна задача — це збудувати стіну якомога швидше, то там точно буде чимало дівчат."
 
 # game/game/map_GW.rpy:189
 translate ukrainian first_forest_event_7fe9933d:
 
     # mc "Is Hana also coming?"
-    mc "Is Hana also coming?"
+    mc "Хано, ти теж йдеш?"
 
 # game/game/map_GW.rpy:191
 translate ukrainian first_forest_event_ac01a1f5:
 
     # h "Of course, I have to go in case someone gets hurt."
-    h "Of course, I have to go in case someone gets hurt."
+    h "Звісно, я маю там бути, якщо хтось пораниться."
 
 # game/game/map_GW.rpy:193
 translate ukrainian first_forest_event_7a43621e:
 
     # h "Akane will also come."
-    h "Akane will also come."
+    h "Акане теж там буде."
 
 # game/game/map_GW.rpy:195
 translate ukrainian first_forest_event_2c4a1ed3:
 
     # mc "Wow, I didn't know she could fight."
-    mc "Wow, I didn't know she could fight."
+    mc "Ого, не знав, що вона вміє битися."
 
 # game/game/map_GW.rpy:196
 translate ukrainian first_forest_event_62a68bc2:
 
     # mc "Wait, {w}does she know I'm coming?"
-    mc "Wait, {w}does she know I'm coming?"
+    mc "Стоп, {w}а вона знає, що я там буду?"
 
 # game/game/map_GW.rpy:198
 translate ukrainian first_forest_event_6954ee06:
 
     # h "Mmm... no."
-    h "Mmm... no."
+    h "Ммм... ні."
 
 # game/game/map_GW.rpy:199
 translate ukrainian first_forest_event_43968449:
 
     # mc "Don't you think she'll be angry if she sees me? {w}You know..."
-    mc "Don't you think she'll be angry if she sees me? {w}You know..."
+    mc "Гадаєш, вона не буде сердитися, коли побачить мене? {w}Ну, ти знаєш..."
 
 # game/game/map_GW.rpy:209
 translate ukrainian first_forest_event_12b1d378:
 
     # h "If we achieve this, we'll have greater access to the forest and its surroundings!"
-    h "If we achieve this, we'll have greater access to the forest and its surroundings!"
+    h "Якщо нам це вдасться, ми отримаємо ширший доступ до лісу та його околиць!"
 
 # game/game/map_GW.rpy:210
 translate ukrainian first_forest_event_22b4be8f:
 
     # t "Hey! Don't ignore me!"
-    t "Hey! Don't ignore me!"
+    t "Гей! Не ігноруй мене!"
 
 # game/game/map_GW.rpy:212
 translate ukrainian first_forest_event_5ff71807:
 
     # h "And you know the best part?"
-    h "And you know the best part?"
+    h "А знаєш, що найкраще?"
 
 # game/game/map_GW.rpy:213
 translate ukrainian first_forest_event_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/map_GW.rpy:215
 translate ukrainian first_forest_event_61c41582:
 
     # h "Maybe we can open a safe way to another village!"
-    h "Maybe we can open a safe way to another village!"
+    h "Можливо, нам вдасться відкрити безпечний шлях до іншого селища!"
 
 # game/game/map_GW.rpy:216
 translate ukrainian first_forest_event_ed94cc7b:
 
     # mc "Wow, really?"
-    mc "Wow, really?"
+    mc "Ого, справді?"
 
 # game/game/map_GW.rpy:217
 translate ukrainian first_forest_event_92a3c04c:
 
     # t "Strange, why didn't I think there would be more villages like this one?"
-    t "Strange, why didn't I think there would be more villages like this one?"
+    t "Дивно, чому я одразу не подумав, що тут існують й інші селища, схожі на це?"
 
 # game/game/map_GW.rpy:219
 translate ukrainian first_forest_event_b9b755e5_1:
@@ -603,91 +603,91 @@ translate ukrainian first_forest_event_b9b755e5_1:
 translate ukrainian first_forest_event_73004d72:
 
     # y "To the northwest lies a neighboring village."
-    y "To the northwest lies a neighboring village."
+    y "На північному заході розташоване сусіднє селище."
 
 # game/game/map_GW.rpy:222
 translate ukrainian first_forest_event_2150d8d4:
 
     # y "If we make the roads safe to travel on, we can revive commerce and maybe open a few stores!"
-    y "If we make the roads safe to travel on, we can revive commerce and maybe open a few stores!"
+    y "Якщо ми зробимо дороги безпечними для руху, у нас вийде пожвавити торгівлю і, можливо, відкрити кілька крамничок!"
 
 # game/game/map_GW.rpy:223
 translate ukrainian first_forest_event_cc53648b:
 
     # t "Mmm?"
-    t "Mmm?"
+    t "Ммм?"
 
 # game/game/map_GW.rpy:224
 translate ukrainian first_forest_event_671dc927:
 
     # t "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
-    t "Didn't Ryoko say she had run away from someone? {w}If that's the closest village..."
+    t "Хіба рьоко не казала, що тікала від когось? {w}Якщо то було найближче селище..."
 
 # game/game/map_GW.rpy:226
 translate ukrainian first_forest_event_b8d8d0d3:
 
     # y "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
-    y "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
+    y "І якщо нічого не змінилося з останнього разу, як ми виходили на контакт, там досі має бути світлиця шукачів пригод."
 
 # game/game/map_GW.rpy:228
 translate ukrainian first_forest_event_a2c79199:
 
     # mc "Adventurer's Lounge?"
-    mc "Adventurer's Lounge?"
+    mc "Світлиця шукачів пригод?"
 
 # game/game/map_GW.rpy:230
 translate ukrainian first_forest_event_c0160edd:
 
     # y "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
-    y "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
+    y "Ти ж казав, що завжди тренувався сам, так? {w}У такому разі це твій шанс офіційно стати шукачем пригод, і вони також дадуть тобі ранг."
 
 # game/game/map_GW.rpy:231
 translate ukrainian first_forest_event_c137b2f9:
 
     # t "Being an official adventurer would take a lot of trouble away from me."
-    t "Being an official adventurer would take a lot of trouble away from me."
+    t "Стати офіційним шукачем пригод справді позбавить мене багатьох проблем."
 
 # game/game/map_GW.rpy:233
 translate ukrainian first_forest_event_11467660:
 
     # h "You have to pass some tests, but we'll talk about that once we've taken the first step."
-    h "You have to pass some tests, but we'll talk about that once we've taken the first step."
+    h "Тобі доведеться скласти пару тестів, але поговоримо про це вже, як виконаємо перший крок."
 
 # game/game/map_GW.rpy:235
 translate ukrainian first_forest_event_4e9eab7e:
 
     # h "And we'd better let you rest."
-    h "And we'd better let you rest."
+    h "І нам краще дати тобі відпочити."
 
 # game/game/map_GW.rpy:236
 translate ukrainian first_forest_event_3756bf64:
 
     # h "We should also do the same."
-    h "We should also do the same."
+    h "Нам також варто."
 
 # game/game/map_GW.rpy:238
 translate ukrainian first_forest_event_f47c6c1a:
 
     # y "See you tomorrow morning."
-    y "See you tomorrow morning."
+    y "Побачимося вранці."
 
 # game/game/map_GW.rpy:239
 translate ukrainian first_forest_event_88759579:
 
     # mc "Ok, I'll be there."
-    mc "Ok, I'll be there."
+    mc "Гаразд, завтра буду там."
 
 # game/game/map_GW.rpy:240
 translate ukrainian first_forest_event_9b56e36d:
 
     # h "And bring your katana, don't forget it."
-    h "And bring your katana, don't forget it."
+    h "І не забуть про свою катану."
 
 # game/game/map_GW.rpy:241
 translate ukrainian first_forest_event_a4c25dcd:
 
     # mc "Do you think I would forget something so important?"
-    mc "Do you think I would forget something so important?"
+    mc "Гадаєш, я справді забуду щось настільки важливе?"
 
 # game/game/map_GW.rpy:242
 translate ukrainian first_forest_event_71a86863:
@@ -705,25 +705,25 @@ translate ukrainian first_forest_event_2fded262:
 translate ukrainian first_forest_event_22e071bd:
 
     # mc "{size=-10}See you tomorrow..."
-    mc "{size=-10}See you tomorrow..."
+    mc "{size=-10}Побачимося завтра..."
 
 # game/game/map_GW.rpy:251
 translate ukrainian first_forest_event_f375b662:
 
     # r "Master?..."
-    r "Master?..."
+    r "Господарю?..."
 
 # game/game/map_GW.rpy:255
 translate ukrainian first_forest_event_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/map_GW.rpy:257
 translate ukrainian first_forest_event_e8d356ba:
 
     # mc "Did you say something Ryoko?"
-    mc "Did you say something Ryoko?"
+    mc "Ти щось сказала, Рьоко?"
 
 # game/game/map_GW.rpy:258
 translate ukrainian first_forest_event_b9b755e5_2:
@@ -735,61 +735,61 @@ translate ukrainian first_forest_event_b9b755e5_2:
 translate ukrainian first_forest_event_94729eb9:
 
     # mc "You can't sleep?"
-    mc "You can't sleep?"
+    mc "Тобі не спиться?"
 
 # game/game/map_GW.rpy:262
 translate ukrainian first_forest_event_6df7c3b4:
 
     # r "It's not that..."
-    r "It's not that..."
+    r "Справа не зовсім у цьому..."
 
 # game/game/map_GW.rpy:263
 translate ukrainian first_forest_event_582359ea:
 
     # mc "Hm?"
-    mc "Hm?"
+    mc "Гм?"
 
 # game/game/map_GW.rpy:265
 translate ukrainian first_forest_event_ce9040d0:
 
     # r "Tomorrow..."
-    r "Tomorrow..."
+    r "Завтра..."
 
 # game/game/map_GW.rpy:267
 translate ukrainian first_forest_event_369dbf3d:
 
     # r "Can I go with you?"
-    r "Can I go with you?"
+    r "Чи можу я піти з вами?"
 
 # game/game/map_GW.rpy:268
 translate ukrainian first_forest_event_d33e7ce7:
 
     # mc "Were you listening?"
-    mc "Were you listening?"
+    mc "То ти нас слухала?"
 
 # game/game/map_GW.rpy:269
 translate ukrainian first_forest_event_ebef1d16:
 
     # mc "Why do you want to go?"
-    mc "Why do you want to go?"
+    mc "І чому ти хочеш піти?"
 
 # game/game/map_GW.rpy:271
 translate ukrainian first_forest_event_22df1ded:
 
     # r "I want to...{w}help too.."
-    r "I want to...{w}help too.."
+    r "Я хочу...{w}теж допомогти..."
 
 # game/game/map_GW.rpy:272
 translate ukrainian first_forest_event_47a330a8:
 
     # mc "But you know it can be dangerous."
-    mc "But you know it can be dangerous."
+    mc "Але ж ти розумієш, що це може бути небезпечно."
 
 # game/game/map_GW.rpy:274
 translate ukrainian first_forest_event_e5ed659c:
 
     # r "I know, but I still want to do it..."
-    r "I know, but I still want to do it..."
+    r "Знаю, але я все одно хочу..."
 
 # game/game/map_GW.rpy:275
 translate ukrainian first_forest_event_2b35b6fe_3:
@@ -801,37 +801,37 @@ translate ukrainian first_forest_event_2b35b6fe_3:
 translate ukrainian first_forest_event_964f5fbe:
 
     # r "I promise I won't do anything rash."
-    r "I promise I won't do anything rash."
+    r "Обіцяю, я не робитиму нічого необачного."
 
 # game/game/map_GW.rpy:278
 translate ukrainian first_forest_event_2973dd30:
 
     # t "It seems that Ryoko really wants to go."
-    t "It seems that Ryoko really wants to go."
+    t "Здається, я не зможу її переконати не йти."
 
 # game/game/map_GW.rpy:280
 translate ukrainian first_forest_event_f93cba98:
 
     # r "Master..."
-    r "Master..."
+    r "Господарю..."
 
 # game/game/map_GW.rpy:281
 translate ukrainian first_forest_event_731ebc3b:
 
     # t "I don't want anything to happen to her.... but she seems insistent, which is rare..."
-    t "I don't want anything to happen to her.... but she seems insistent, which is rare..."
+    t "Я не хочу, аби з нею щось трапилося.... але зараз вона наполеглива, не часто таке буває..."
 
 # game/game/map_GW.rpy:282
 translate ukrainian first_forest_event_a11bc457:
 
     # mc "Mmm.."
-    mc "Mmm.."
+    mc "Ммм.."
 
 # game/game/map_GW.rpy:283
 translate ukrainian first_forest_event_f04836a8:
 
     # t "This is the first time Ryoko has asked me for something."
-    t "This is the first time Ryoko has asked me for something."
+    t "Це вперше Рьоко так просить мене про щось."
 
 # game/game/map_GW.rpy:284
 translate ukrainian first_forest_event_2b35b6fe_4:
@@ -843,37 +843,37 @@ translate ukrainian first_forest_event_2b35b6fe_4:
 translate ukrainian first_forest_event_62ddf4bb:
 
     # mc "Stay close to me or the other at all times."
-    mc "Stay close to me or the other at all times."
+    mc "Завжди залишайся поруч зі мною та іншими."
 
 # game/game/map_GW.rpy:286
 translate ukrainian first_forest_event_acca04ea:
 
     # r "Mas-!"
-    r "Mas-!"
+    r "Госп-!"
 
 # game/game/map_GW.rpy:288
 translate ukrainian first_forest_event_7837341d:
 
     # mc "Never leave my side, got it?"
-    mc "Never leave my side, got it?"
+    mc "Ніколи не віходь від мене. Зрозуміла?"
 
 # game/game/map_GW.rpy:290
 translate ukrainian first_forest_event_5d9497a5_1:
 
     # r "Yes!"
-    r "Yes!"
+    r "Так!"
 
 # game/game/map_GW.rpy:291
 translate ukrainian first_forest_event_f3f56fd4:
 
     # mc "Promise me."
-    mc "Promise me."
+    mc "Пообіцяй."
 
 # game/game/map_GW.rpy:293
 translate ukrainian first_forest_event_e279bc09:
 
     # r "I promise, I'll never leave your side."
-    r "I promise, I'll never leave your side."
+    r "Обіцяю, я завжди буду поруч з господарем."
 
 # game/game/map_GW.rpy:294
 translate ukrainian first_forest_event_30c5147c:
@@ -885,13 +885,13 @@ translate ukrainian first_forest_event_30c5147c:
 translate ukrainian first_forest_event_8e917409:
 
     # mc "Hey, {w}Ryoko..."
-    mc "Hey, {w}Ryoko..."
+    mc "Слухай, {w}Рьоко..."
 
 # game/game/map_GW.rpy:297
 translate ukrainian first_forest_event_662a14ca:
 
     # r "We'd better get some sleep, I don't want you to be tired for tomorrow..."
-    r "We'd better get some sleep, I don't want you to be tired for tomorrow..."
+    r "Нам краще трохи поспати, я не хочу, щоб ви завтра були втомлені..."
 
 # game/game/map_GW.rpy:298
 translate ukrainian first_forest_event_2b35b6fe_5:
@@ -903,55 +903,55 @@ translate ukrainian first_forest_event_2b35b6fe_5:
 translate ukrainian first_forest_event_2c5bd7c9:
 
     # t "Do you think I can sleep like this?"
-    t "Do you think I can sleep like this?"
+    t "Гадаєш, я так зможу заснути?"
 
 # game/game/map_GW.rpy:301
 translate ukrainian first_forest_event_c14ae8d2:
 
     # r "ZzZZz."
-    r "ZzZZz."
+    r "{i}ХрРРр.{/i}"
 
 # game/game/map_GW.rpy:303
 translate ukrainian first_forest_event_119b8850:
 
     # t "I hope everythin-"
-    t "I hope everythin-"
+    t "Сподіваюся все-"
 
 # game/game/map_GW.rpy:304
 translate ukrainian first_forest_event_f3c9790a:
 
     # t "No, that's bad luck."
-    t "No, that's bad luck."
+    t "Ні, це погана прикмета."
 
 # game/game/map_GW.rpy:305
 translate ukrainian first_forest_event_35bd06b7:
 
     # t "It will all go fine tomorrow."
-    t "It will all go fine tomorrow."
+    t "Завтра все пройде добре."
 
 # game/game/map_GW.rpy:315
 translate ukrainian first_forest_event_3e360d22:
 
     # a "{size=-10}{i}Ryoko, everything will be fine."
-    a "{size=-10}{i}Ryoko, everything will be fine."
+    a "{size=-10}{i}Рьоко, все буде добре."
 
 # game/game/map_GW.rpy:316
 translate ukrainian first_forest_event_99599a44:
 
     # a "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
-    a "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
+    a "{size=-10}{i}Ти маєш втекти; не хвилюйся за мене, зі мною все буде гаразд."
 
 # game/game/map_GW.rpy:320
 translate ukrainian first_forest_event_bba3c113:
 
     # a "{size=-10}{i}Thanks to that strange rumble they're distracted, you just have to run and not look back."
-    a "{size=-10}{i}Thanks to that strange rumble they're distracted, you just have to run and not look back."
+    a "{size=-10}{i}Той дивний гуркіт відвернув їх увагу, тобі залишається тільки бігти й не озиратися."
 
 # game/game/map_GW.rpy:327
 translate ukrainian first_forest_event_3f4b91a4:
 
     # a "{size=-10}{i}Just {w}don't {w}look back."
-    a "{size=-10}{i}Just {w}don't {w}look back."
+    a "{size=-10}{i}Просто {w}не {w}озирайся."
 
 # game/game/map_GW.rpy:337
 translate ukrainian first_forest_event_18c6c47c:
@@ -963,7 +963,7 @@ translate ukrainian first_forest_event_18c6c47c:
 translate ukrainian first_forest_event_6355db99:
 
     # mc "You looked like you were having a nightmare."
-    mc "You looked like you were having a nightmare."
+    mc "Видно, тобі наснилося жахіття."
 
 # game/game/map_GW.rpy:340
 translate ukrainian first_forest_event_b9b755e5_3:
@@ -975,67 +975,67 @@ translate ukrainian first_forest_event_b9b755e5_3:
 translate ukrainian first_forest_event_d4bcee31:
 
     # mc "Everything is fine now."
-    mc "Everything is fine now."
+    mc "Тихо-тихо, тепер усе гараз."
 
 # game/game/map_GW.rpy:346
 translate ukrainian first_forest_event_d596c20b:
 
     # r "{size=-10}Uhm!"
-    r "{size=-10}Uhm!"
+    r "{size=-10}Угу!"
 
 # game/game/map_GW.rpy:351
 translate ukrainian first_forest_event_30fe5da4:
 
     # mc "Are you sure you want to come?"
-    mc "Are you sure you want to come?"
+    mc "Упевнена, що досі хочеш піти?"
 
 # game/game/map_GW.rpy:352
 translate ukrainian first_forest_event_c008eca0:
 
     # r "Mooh~{w} Master, I already told you I'm fine."
-    r "Mooh~{w} Master, I already told you I'm fine."
+    r "Нууу~{w} Господарю, я вже казала, не хвилюйтеся."
 
 # game/game/map_GW.rpy:353
 translate ukrainian first_forest_event_3257c325:
 
     # mc "I just want to make sure."
-    mc "I just want to make sure."
+    mc "Просто хочу переконатися."
 
 # game/game/map_GW.rpy:355
 translate ukrainian first_forest_event_80eae0a7:
 
     # mc "Looks like they're all here."
-    mc "Looks like they're all here."
+    mc "Видно, всі вже у зборі."
 
 # game/game/map_GW.rpy:360
 translate ukrainian first_forest_event_bbd37a19:
 
     # t "Everything is already well prepared, {w}as expected from Yui and Hana."
-    t "Everything is already well prepared, {w}as expected from Yui and Hana."
+    t "І все вже гарно підготовлено, {w}як і слід було очікувати від Юї та Хани."
 
 # game/game/map_GW.rpy:361
 translate ukrainian first_forest_event_9fb89b5a:
 
     # r "Master look! {w}There are a lot of people."
-    r "Master look! {w}There are a lot of people."
+    r "Господарю, погляньте! {w}Як багато тут дівчат."
 
 # game/game/map_GW.rpy:363
 translate ukrainian first_forest_event_a9a1e4c3:
 
     # mc "Let's not interrupt them, they seem to be talking about something important."
-    mc "Let's not interrupt them, they seem to be talking about something important."
+    mc "Варто нам не заважати їм, здається, вони говорять про щось дуже важливе."
 
 # game/game/map_GW.rpy:364
 translate ukrainian first_forest_event_3c807e4c:
 
     # r "{size=-10}Yees~"
-    r "{size=-10}Yees~"
+    r "{size=-10}Таак~"
 
 # game/game/map_GW.rpy:366
 translate ukrainian first_forest_event_24522e47:
 
     # h "{size=+15}Oh [mc]! {w}You're just in time!"
-    h "{size=+15}Oh [mc]! {w}You're just in time!"
+    h "{size=+15}О, [mc]! {w}Як раз вчасно!"
 
 # game/game/map_GW.rpy:368
 translate ukrainian first_forest_event_bd8739a3:
@@ -1047,277 +1047,277 @@ translate ukrainian first_forest_event_bd8739a3:
 translate ukrainian first_forest_event_917f9a9c:
 
     # ak "Don't tell me..."
-    ak "Don't tell me..."
+    ak "Тільки не кажи..."
 
 # game/game/map_GW.rpy:372
 translate ukrainian first_forest_event_e2ac0e9b:
 
     # ak "Haa?"
-    ak "Haa?"
+    ak "Хаа?"
 
 # game/game/map_GW.rpy:373
 translate ukrainian first_forest_event_7aec0757:
 
     # mc "I'm also glad to see you again Akane."
-    mc "I'm also glad to see you again Akane."
+    mc "Я теж радий тебе знову бачити, Акане."
 
 # game/game/map_GW.rpy:374
 translate ukrainian first_forest_event_27bfefc9:
 
     # r "Hello doctor!"
-    r "Hello doctor!"
+    r "Доброгу ранку, лікарко!"
 
 # game/game/map_GW.rpy:376
 translate ukrainian first_forest_event_53dad3eb:
 
     # so "Mmm?"
-    so "Mmm?"
+    so "Ммм?"
 
 # game/game/map_GW.rpy:377
 translate ukrainian first_forest_event_f39e266e:
 
     # so "Did anyone else arrive?"
-    so "Did anyone else arrive?"
+    so "Хтось ще прийшов?"
 
 # game/game/map_GW.rpy:379
 translate ukrainian first_forest_event_c3aff495:
 
     # so "It's him!"
-    so "It's him!"
+    so "Це він!"
 
 # game/game/map_GW.rpy:380
 translate ukrainian first_forest_event_33f6e149:
 
     # so "Will he come with us?"
-    so "Will he come with us?"
+    so "Він теж піде з нами?"
 
 # game/game/map_GW.rpy:381
 translate ukrainian first_forest_event_8b87fc59:
 
     # so "I've never seen him before!"
-    so "I've never seen him before!"
+    so "Уперше його бачу!"
 
 # game/game/map_GW.rpy:383
 translate ukrainian first_forest_event_341f9169:
 
     # y "{size=+10}Ahem!"
-    y "{size=+10}Ahem!"
+    y "{size=+10}{i}Кхм!{/i}"
 
 # game/game/map_GW.rpy:385
 translate ukrainian first_forest_event_9d921db8:
 
     # so "{size=+10}Sorry!"
-    so "{size=+10}Sorry!"
+    so "{size=+10}Пробачте!"
 
 # game/game/map_GW.rpy:387
 translate ukrainian first_forest_event_8b3125a1:
 
     # y "I hope the plan is clear to all of you."
-    y "I hope the plan is clear to all of you."
+    y "Сподіваюся, вам усе зрозуміло."
 
 # game/game/map_GW.rpy:388
 translate ukrainian first_forest_event_93da24e3:
 
     # so "{size=+10}YES!"
-    so "{size=+10}YES!"
+    so "{size=+10}ТАК!"
 
 # game/game/map_GW.rpy:390
 translate ukrainian first_forest_event_b8dbfb20:
 
     # y "I don't want anyone to get hurt! If everyone does their part, nothing will go wrong."
-    y "I don't want anyone to get hurt! If everyone does their part, nothing will go wrong."
+    y "Я не хочу, аби хтось постраждав! Якщо кожен виконає свою частину роботи, нічого поганого не трапиться."
 
 # game/game/map_GW.rpy:391
 translate ukrainian first_forest_event_4fae1665:
 
     # so "{size=+10}YES!"
-    so "{size=+10}YES!"
+    so "{size=+10}ТАК!"
 
 # game/game/map_GW.rpy:393
 translate ukrainian first_forest_event_689976bc:
 
     # y "We leave in 5 minutes!{w} Understood!?"
-    y "We leave in 5 minutes!{w} Understood!?"
+    y "Вирушаємо за п'ять хвилин!{w} Зрозуміло!?"
 
 # game/game/map_GW.rpy:394
 translate ukrainian first_forest_event_77dd67d5:
 
     # so "{size=+10}YES!!"
-    so "{size=+10}YES!!"
+    so "{size=+10}ТАК!!"
 
 # game/game/map_GW.rpy:396
 translate ukrainian first_forest_event_dd31bc96:
 
     # mc "Woah, {w}I've never seen Yui like that before."
-    mc "Woah, {w}I've never seen Yui like that before."
+    mc "Овва, {w}уперше бачу Юї такою."
 
 # game/game/map_GW.rpy:398
 translate ukrainian first_forest_event_0019e4bc:
 
     # h "Hahaha Yui has always been in charge of training the girls since this whole thing started."
-    h "Hahaha Yui has always been in charge of training the girls since this whole thing started."
+    h "Хахаха, від самого початку Юї завжди відповідала за підготовку дівчат."
 
 # game/game/map_GW.rpy:400
 translate ukrainian first_forest_event_12ba34ef:
 
     # h "She's well respected here in the village."
-    h "She's well respected here in the village."
+    h "У нашому селі її дуже поважають."
 
 # game/game/map_GW.rpy:402
 translate ukrainian first_forest_event_20ec62bc:
 
     # h "If it weren't for her, no one would've learned to fight."
-    h "If it weren't for her, no one would've learned to fight."
+    h "Якби не вона, ніхто б не зміг навчитися битися."
 
 # game/game/map_GW.rpy:403
 translate ukrainian first_forest_event_fe30257f:
 
     # t "I feel like Akane hasn't taken her eyes off me the whole time...."
-    t "I feel like Akane hasn't taken her eyes off me the whole time...."
+    t "Відчуваю, ніби Акане весь цей час не зводить з мене очей..."
 
 # game/game/map_GW.rpy:404
 translate ukrainian first_forest_event_08d20d44:
 
     # t "She's examining me?"
-    t "She's examining me?"
+    t "Вона мене оцінює?"
 
 # game/game/map_GW.rpy:406
 translate ukrainian first_forest_event_fc0ad44d:
 
     # y "Hey! How are you doing?"
-    y "Hey! How are you doing?"
+    y "Привіт! Як настрій?"
 
 # game/game/map_GW.rpy:408
 translate ukrainian first_forest_event_32acf73a:
 
     # mc "I'm more than ready."
-    mc "I'm more than ready."
+    mc "Більше ніж готовий."
 
 # game/game/map_GW.rpy:409
 translate ukrainian first_forest_event_775db880:
 
     # t "Her attitude changed completely."
-    t "Her attitude changed completely."
+    t "Її поведінка повністю змінилася."
 
 # game/game/map_GW.rpy:411
 translate ukrainian first_forest_event_73f429dc:
 
     # y "I can't wait to see you fight!"
-    y "I can't wait to see you fight!"
+    y "Не можу дочекатися побачити тебе у бою!"
 
 # game/game/map_GW.rpy:412
 translate ukrainian first_forest_event_d3350169:
 
     # mc "Wouldn't it be better if we didn't have to fight?"
-    mc "Wouldn't it be better if we didn't have to fight?"
+    mc "Мабуть, було б все ж краще, якщо до цього не дійде?"
 
 # game/game/map_GW.rpy:414
 translate ukrainian first_forest_event_c197fc27:
 
     # ak "Great wolves are territorial, so I doubt that none will show up."
-    ak "Great wolves are territorial, so I doubt that none will show up."
+    ak "Величні вовки — тереторіальні тварини, тому сумніваюся, що жоден з них не з'явиться."
 
 # game/game/map_GW.rpy:415
 translate ukrainian first_forest_event_db99afe4:
 
     # t "Oh, that's the first time she speaks to me without insulting me."
-    t "Oh, that's the first time she speaks to me without insulting me."
+    t "О, це вперше, коли вона зі мною розмовляє, не ображаючи."
 
 # game/game/map_GW.rpy:417
 translate ukrainian first_forest_event_ec2519f3:
 
     # mc "Now that you mention it, it makes a lot of sense."
-    mc "Now that you mention it, it makes a lot of sense."
+    mc "Коли ти про це сказала, дійсно має сенс."
 
 # game/game/map_GW.rpy:418
 translate ukrainian first_forest_event_4746d2ec:
 
     # t "I still don't understand if she's still angry..."
-    t "I still don't understand if she's still angry..."
+    t "Я досі не розумію, чи вона все ще сердиться..."
 
 # game/game/map_GW.rpy:420
 translate ukrainian first_forest_event_e2692fea:
 
     # mc "By the way, Ryoko will also come."
-    mc "By the way, Ryoko will also come."
+    mc "До речі, Рьоко теж піде з нами."
 
 # game/game/map_GW.rpy:422
 translate ukrainian first_forest_event_8015a0fc:
 
     # h "Really?"
-    h "Really?"
+    h "Справді?"
 
 # game/game/map_GW.rpy:424
 translate ukrainian first_forest_event_f7a21e2e:
 
     # r "Sorry for my selfish request!"
-    r "Sorry for my selfish request!"
+    r "Вибачте за моє егоїстичне прохання!"
 
 # game/game/map_GW.rpy:426
 translate ukrainian first_forest_event_ac5f31ca:
 
     # mc "She insisted that she wants to help."
-    mc "She insisted that she wants to help."
+    mc "Вона наполягала на тому, що хоче допомогти."
 
 # game/game/map_GW.rpy:428
 translate ukrainian first_forest_event_22959ef1:
 
     # h "Mmm."
-    h "Mmm."
+    h "Ммм."
 
 # game/game/map_GW.rpy:429
 translate ukrainian first_forest_event_cc299629:
 
     # mc "I'll protect her no matter what happens."
-    mc "I'll protect her no matter what happens."
+    mc "Я її захищатиму попри все."
 
 # game/game/map_GW.rpy:431
 translate ukrainian first_forest_event_7e2890c9:
 
     # mc "And that goes for all of you too, I won't let anything bad happen to anyone."
-    mc "And that goes for all of you too, I won't let anything bad happen to anyone."
+    mc "І це стосується й усіх вас — я не допущу, щоб з кимось щось трапилося."
 
 # game/game/map_GW.rpy:433
 translate ukrainian first_forest_event_3e92a27b:
 
     # r "Hehehe."
-    r "Hehehe."
+    r "Хехехе."
 
 # game/game/map_GW.rpy:435
 translate ukrainian first_forest_event_be9b73ac:
 
     # ak "Ha!{w} As if I'd need your help!"
-    ak "Ha!{w} As if I'd need your help!"
+    ak "Ха!{w} Буцімто мені знадобиться твоя допомога!"
 
 # game/game/map_GW.rpy:437
 translate ukrainian first_forest_event_1e48fc4d:
 
     # y "W-Well, we'd better get going, I'll go and tell the girls."
-    y "W-Well, we'd better get going, I'll go and tell the girls."
+    y "Щ-Що ж, пора нам вже вирушати, піду скажу дівчатам."
 
 # game/game/map_GW.rpy:441
 translate ukrainian first_forest_event_465b4260:
 
     # h "Well, I'm counting on you too Ryoko."
-    h "Well, I'm counting on you too Ryoko."
+    h "Розраховую і на тебе, Рьоко."
 
 # game/game/map_GW.rpy:442
 translate ukrainian first_forest_event_5d9497a5_2:
 
     # r "Yes!"
-    r "Yes!"
+    r "Так!"
 
 # game/game/map_GW.rpy:446
 translate ukrainian first_forest_event_6a72e58b:
 
     # mc "We'd better go with them."
-    mc "We'd better go with them."
+    mc "Нам теж краще піти за ними."
 
 # game/game/map_GW.rpy:448
 translate ukrainian first_forest_event_5d9497a5_3:
 
     # r "Yes!"
-    r "Yes!"
+    r "Так!"
 
 # game/game/map_GW.rpy:451
 translate ukrainian first_forest_event_a20cefa7:
@@ -2658,6 +2658,15 @@ translate ukrainian strings:
     new "{size=-10}Do you want to use a monster bait?"
 
 translate ukrainian strings:
+    old "The next morning."
+    new "Наступного ранку."
+
+    old "You spend the rest of the day with Ryoko."
+    new "Решту дня ти проводиш разом з Рьоко."
+
+    old "I'd be lying if I said I wasn't a little nervous."
+    new "Я б збрехав, якби сказав, що зовсім не хвилювався."
+
     old "You don't have any monster bait!"
     new "You don't have any monster bait!"
 
@@ -2669,15 +2678,6 @@ translate ukrainian strings:
 
     old "{image=quest_text}A new mission has been added!"
     new "{image=quest_text}A new mission has been added!"
-
-    old "I'd be lying if I said I wasn't a little nervous."
-    new "I'd be lying if I said I wasn't a little nervous."
-
-    old "The next morning."
-    new "The next morning."
-
-    old "You spend the rest of the day with Ryoko."
-    new "You spend the rest of the day with Ryoko."
 
     old "After lunch, we continued on our way."
     new "After lunch, we continued on our way."

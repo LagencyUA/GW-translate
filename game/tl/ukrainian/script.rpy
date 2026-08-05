@@ -8193,121 +8193,121 @@ translate ukrainian doctor_1_dd0a2602:
 translate ukrainian expedicion_forest_e29843bd:
 
     # t "When I arrived, I was unconscious and wounded."
-    t "When I arrived, I was unconscious and wounded."
+    t "Коли я сюди потрапив, я був без свідомості та поранений."
 
 # game/game/script.rpy:2698
 translate ukrainian expedicion_forest_f8d1e4f9:
 
     # t "But this time it's different."
-    t "But this time it's different."
+    t "Але цього разу все інакше."
 
 # game/game/script.rpy:2700
 translate ukrainian expedicion_forest_457c7566:
 
     # mc "Wow! We really went back to the forest."
-    mc "Wow! We really went back to the forest."
+    mc "Оце так! Ми дійсно вернулися до лісу."
 
 # game/game/script.rpy:2701
 translate ukrainian expedicion_forest_bcbe4d9d:
 
     # y "Are you scared?"
-    y "Are you scared?"
+    y "Злякався?"
 
 # game/game/script.rpy:2706
 translate ukrainian expedicion_forest_77799a1b:
 
     # mc "Nostalgic, I would say."
-    mc "Nostalgic, I would say."
+    mc "Ностальгую, я б сказав."
 
 # game/game/script.rpy:2708
 translate ukrainian expedicion_forest_d9eb0247:
 
     # mc "It seems like only yesterday that a wolf three times my size buried its fangs in my stomach."
-    mc "It seems like only yesterday that a wolf three times my size buried its fangs in my stomach."
+    mc "Здається, ніби лише вчора вовк, який був утричі більший за мене, впився іклами мені в живіт."
 
 # game/game/script.rpy:2710
 translate ukrainian expedicion_forest_fdf7c366:
 
     # mc "Haaa~ {w}What good memories..."
-    mc "Haaa~ {w}What good memories..."
+    mc "Хааа~ {w}Які гарні спогади..."
 
 # game/game/script.rpy:2712
 translate ukrainian expedicion_forest_8915c3de:
 
     # y "Hahaha, Are you crazy?"
-    y "Hahaha, Are you crazy?"
+    y "Хахаха, не жартуй так, дурнику."
 
 # game/game/script.rpy:2714
 translate ukrainian expedicion_forest_9211fdc6:
 
     # y "Better not add another \"good memory\" today."
-    y "Better not add another \"good memory\" today."
+    y "Обійдемося сьогодні без таких «гарних спогадів»."
 
 # game/game/script.rpy:2716
 translate ukrainian expedicion_forest_e41bd257:
 
     # mc "Now in the company of all of you, I have nothing to fear."
-    mc "Now in the company of all of you, I have nothing to fear."
+    mc "Тепер, коли я з вами всіма, мені нічого боятися."
 
 # game/game/script.rpy:2718
 translate ukrainian expedicion_forest_113dd889:
 
     # r "Are you sure you don't want me to help move the materials?"
-    r "Are you sure you don't want me to help move the materials?"
+    r "Упевнена, що не хочете, аби я допомогла перенести матеріали?"
 
 # game/game/script.rpy:2720
 translate ukrainian expedicion_forest_e2e69d79:
 
     # y "The girls can handle it. They haven't endured their training for nothing."
-    y "The girls can handle it. They haven't endured their training for nothing."
+    y "Дівчата з цим впораються. Вони не ж дарма пройшли через таке тренування."
 
 # game/game/script.rpy:2722
 translate ukrainian expedicion_forest_b90daffe:
 
     # y "{size=+9}Right girls!?"
-    y "{size=+9}Right girls!?"
+    y "{size=+9}Правда, дівчата!?"
 
 # game/game/script.rpy:2723
 translate ukrainian expedicion_forest_4fae1665:
 
     # so "{size=+10}YES!"
-    so "{size=+10}YES!"
+    so "{size=+10}ТАК!"
 
 # game/game/script.rpy:2725
 translate ukrainian expedicion_forest_89b36d9d:
 
     # mc "You have them well trained."
-    mc "You have them well trained."
+    mc "Ти гарно їх вимуштрувала."
 
 # game/game/script.rpy:2726
 translate ukrainian expedicion_forest_c0e9d037:
 
     # y "You should have seen them when they first started."
-    y "You should have seen them when they first started."
+    y "Варто було тобі їх побачити, коли вони тільки починали."
 
 # game/game/script.rpy:2727
 translate ukrainian expedicion_forest_f99bde99:
 
     # y "But that story will be for another day."
-    y "But that story will be for another day."
+    y "Але про це — іншим разом."
 
 # game/game/script.rpy:2728
 translate ukrainian expedicion_forest_414448cb:
 
     # y "This is a good place to start."
-    y "This is a good place to start."
+    y "Гадаю, це гарне місце, щоб почати."
 
 # game/game/script.rpy:2730
 translate ukrainian expedicion_forest_985a610b:
 
     # y "Start by securing the perimeter, {w}the others will begin to assemble the walls!"
-    y "Start by securing the perimeter, {w}the others will begin to assemble the walls!"
+    y "Спочатку необхідно убезпечити периметр, {w}а решта займеться стінами!"
 
 # game/game/script.rpy:2731
 translate ukrainian expedicion_forest_dba62412:
 
     # so "{size=+10}Understood!!"
-    so "{size=+10}Understood!!"
+    so "{size=+10}Прийнято!!"
 
 # game/game/script.rpy:2732
 translate ukrainian expedicion_forest_18e292ec:
@@ -29171,6 +29171,9 @@ translate ukrainian strings:
     old "{image=quest_text}Mission completed!"
     new "{image=quest_text}Завдання виконано!"
 
+    old "Yui gives the signal and you all prepare to leave the village."
+    new "Юї дає команду, і ви всі готуєтеся рушити з селища."
+
 ### NOT SORTED
 
     old "{b}Don't leave."
@@ -29277,9 +29280,6 @@ translate ukrainian strings:
 
     old "You take your katana and prepare to leave."
     new "You take your katana and prepare to leave."
-
-    old "Yui gives the signal and you all prepare to leave the village."
-    new "Yui gives the signal and you all prepare to leave the village."
 
     old "It's a fairly simple analogy."
     new "It's a fairly simple analogy."
