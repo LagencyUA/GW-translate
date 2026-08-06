@@ -175,9 +175,9 @@ translate ukrainian strings:
     new "Тепер, коли {color=#ffffff}ліс{/color} у безпеці, я можу вільно його досліджувати. Мені слід оглянути нові місця й подивитися, чим я можу допомогти."
 
     old "-Explore the big door of the {color=#ffffff}forest{/color}."
-    new "- Оглянь великі ворота до {color=#ffffff}лісу{/color}."
+    new "- Оглянь великі ворота у {color=#ffffff}лісі{/color}."
     old "{s}-Explore the big door of the {color=#ffffff}forest{/color}.{/s}"
-    new "{s}- Оглянь великі ворота до {color=#ffffff}лісу{/color}.{/s}"
+    new "{s}- Оглянь великі ворота у {color=#ffffff}лісі{/color}.{/s}"
 
     old "-Explore the {color=#ffffff}lake{/color}."
     new "- Оглянь {color=#ffffff}озеро{/color}."
