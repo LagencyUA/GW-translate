@@ -1335,73 +1335,73 @@ translate ukrainian forest_inicio_5ce62be6:
 translate ukrainian forest_inicio_fcff7c84:
 
     # t "Woah they really secured this place well."
-    t "Woah they really secured this place well."
+    t "Ого, а вони гарно постаралися, щоб зробити це місце безпечним."
 
 # game/game/map_GW.rpy:467
 translate ukrainian forest_inicio_ec4b88d2:
 
     # t "They even set up guard posts."
-    t "They even set up guard posts."
+    t "Вони навіть облаштували вартові пости."
 
 # game/game/map_GW.rpy:468
 translate ukrainian forest_inicio_560cab82:
 
     # t "It was probably Yui's idea."
-    t "It was probably Yui's idea."
+    t "Гадаю, це була ідея Юї."
 
 # game/game/map_GW.rpy:470
 translate ukrainian forest_inicio_18ca6dff:
 
     # so "{size=-10}Oh! It's him again!"
-    so "{size=-10}Oh! It's him again!"
+    so "{size=-10}О! Це знову він!"
 
 # game/game/map_GW.rpy:472
 translate ukrainian forest_inicio_6b54efce:
 
     # so "{size=-10}Hehehe."
-    so "{size=-10}Hehehe."
+    so "{size=-10}Хехехе."
 
 # game/game/map_GW.rpy:474
 translate ukrainian forest_inicio_6d4bea12:
 
     # t "The road continues over there."
-    t "The road continues over there."
+    t "Дорога пролягає далі."
 
 # game/game/map_GW.rpy:475
 translate ukrainian forest_inicio_786aee52:
 
     # so "{size=+10}Ahem*"
-    so "{size=+10}Ahem*"
+    so "{size=+10}{i}*Кхм*{/i}"
 
 # game/game/map_GW.rpy:477
 translate ukrainian forest_inicio_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/map_GW.rpy:481
 translate ukrainian forest_inicio_9906d0a7:
 
     # mc "Wooah."
-    mc "Wooah."
+    mc "Овва."
 
 # game/game/map_GW.rpy:482
 translate ukrainian forest_inicio_a1b8e687:
 
     # mc "This place is definitely well secured."
-    mc "This place is definitely well secured."
+    mc "Це місце справді гарно захищене."
 
 # game/game/map_GW.rpy:485
 translate ukrainian forest_inicio_b966c03d:
 
     # mc "Gulp*"
-    mc "Gulp*"
+    mc "{i}*Ковть*{/i}"
 
 # game/game/map_GW.rpy:487
 translate ukrainian forest_inicio_a83b0a77:
 
     # mc "Maybe someday I can help out at the guard posts..."
-    mc "Maybe someday I can help out at the guard posts..."
+    mc "Можливо, колись я зможу допомогти на вартових постах..."
 
 # game/game/map_GW.rpy:502
 translate ukrainian sato_event_1_5ecb153f:

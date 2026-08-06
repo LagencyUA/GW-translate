@@ -9705,25 +9705,25 @@ translate ukrainian wood_mission_5ce62be6:
 translate ukrainian wood_mission_c7f4681b:
 
     # t "I don't think I've gone to that gate yet."
-    t "I don't think I've gone to that gate yet."
+    t "Не думаю, що я ще виходив за ці ворота."
 
 # game/game/script.rpy:3308
 translate ukrainian wood_mission_c9d156c5:
 
     # t "I see a building in the distance."
-    t "I see a building in the distance."
+    t "Бачу якийсь будиночок."
 
 # game/game/script.rpy:3309
 translate ukrainian wood_mission_a2c41be2:
 
     # t "What do they do here?"
-    t "What do they do here?"
+    t "Що вони тут роблять?"
 
 # game/game/script.rpy:3310
 translate ukrainian wood_mission_bf7d45a6:
 
     # so "Hey!"
-    so "Hey!"
+    so "Агов!"
 
 # game/game/script.rpy:3311
 translate ukrainian wood_mission_652650d3:
@@ -9735,43 +9735,43 @@ translate ukrainian wood_mission_652650d3:
 translate ukrainian wood_mission_542316e7:
 
     # so "Who is there?"
-    so "Who is there?"
+    so "Хто тут?"
 
 # game/game/script.rpy:3314
 translate ukrainian wood_mission_453328cb:
 
     # so "For the moment the villagers aren't allowed to pass."
-    so "For the moment the villagers aren't allowed to pass."
+    so "Наразі мешканцям селища заборонено сюди заходити."
 
 # game/game/script.rpy:3315
 translate ukrainian wood_mission_9dafe136:
 
     # mc "But... I-"
-    mc "But... I-"
+    mc "Але... я-"
 
 # game/game/script.rpy:3316
 translate ukrainian wood_mission_290e48a8:
 
     # y "Relax soldier, {w}he has my permission."
-    y "Relax soldier, {w}he has my permission."
+    y "Спокійно, солдатко, {w}у нього мій дозвіл."
 
 # game/game/script.rpy:3318
 translate ukrainian wood_mission_9e4cfe6f:
 
     # so "M-Miss Yui!"
-    so "M-Miss Yui!"
+    so "П-Пані Юї!"
 
 # game/game/script.rpy:3319
 translate ukrainian wood_mission_372828ef:
 
     # y "Didn't you realize who he is?"
-    y "Didn't you realize who he is?"
+    y "Хіба ти не впізнала його?"
 
 # game/game/script.rpy:3321
 translate ukrainian wood_mission_53dad3eb:
 
     # so "Mmm?"
-    so "Mmm?"
+    so "Ммм?"
 
 # game/game/script.rpy:3324
 translate ukrainian wood_mission_51942114:
@@ -9783,91 +9783,91 @@ translate ukrainian wood_mission_51942114:
 translate ukrainian wood_mission_ba72d5af:
 
     # mc "Yo."
-    mc "Yo."
+    mc "Привітик."
 
 # game/game/script.rpy:3327
 translate ukrainian wood_mission_7ba57d38:
 
     # so "{size=+10}I'm so sorry!"
-    so "{size=+10}I'm so sorry!"
+    so "{size=+10}Мені шкода!"
 
 # game/game/script.rpy:3328
 translate ukrainian wood_mission_4c88d80b:
 
     # mc "D-Don't worry, {w}you're just doing your job..."
-    mc "D-Don't worry, {w}you're just doing your job..."
+    mc "Н-Не хвилюйся, {w}ти просто робиш свою роботу..."
 
 # game/game/script.rpy:3330
 translate ukrainian wood_mission_9198b1e5:
 
     # so "{size=+10}It won't happen again."
-    so "{size=+10}It won't happen again."
+    so "{size=+10}Це більше не повториться."
 
 # game/game/script.rpy:3331
 translate ukrainian wood_mission_2515c914:
 
     # mc "It's ok..."
-    mc "It's ok..."
+    mc "Все гаразд..."
 
 # game/game/script.rpy:3332
 translate ukrainian wood_mission_a6de7695:
 
     # t "I don't feel comfortable being treated with so much respect..."
-    t "I don't feel comfortable being treated with so much respect..."
+    t "Мені незручно, коли до мене ставляться з такою великою повагою..."
 
 # game/game/script.rpy:3334
 translate ukrainian wood_mission_a9fdac90:
 
     # y "Are you coming or will you keep scaring my soldier?"
-    y "Are you coming or will you keep scaring my soldier?"
+    y "Ти заходиш, чи будеш далі розглядати мою солдатку?"
 
 # game/game/script.rpy:3335
 translate ukrainian wood_mission_4aadf486:
 
     # mc "Hahaha..."
-    mc "Hahaha..."
+    mc "Хахаха..."
 
 # game/game/script.rpy:3337
 translate ukrainian wood_mission_140fd6c0:
 
     # so "{size=-8}Psst!"
-    so "{size=-8}Psst!"
+    so "{size=-8}{i}Пссс!{/i}"
 
 # game/game/script.rpy:3338
 translate ukrainian wood_mission_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:3340
 translate ukrainian wood_mission_09d19417:
 
     # so "{size=-8}So-rry..."
-    so "{size=-8}So-rry..."
+    so "{size=-8}Про-бач..."
 
 # game/game/script.rpy:3341
 translate ukrainian wood_mission_d3b8696b:
 
     # t "Sorr-?"
-    t "Sorr-?"
+    t "Про-?"
 
 # game/game/script.rpy:3343
 translate ukrainian wood_mission_6dff3a44:
 
     # t "What-"
-    t "What-"
+    t "Що-"
 
 # game/game/script.rpy:3344
 translate ukrainian wood_mission_49a9e302:
 
     # y "Hurry up!"
-    y "Hurry up!"
+    y "Поквапся!"
 
 # game/game/script.rpy:3346
 translate ukrainian wood_mission_f4ca4e3f:
 
     # mc "I-I'm coming!"
-    mc "I-I'm coming!"
+    mc "І-Іду!"
 
 # game/game/script.rpy:3347
 translate ukrainian wood_mission_2b35b6fe:
@@ -9879,79 +9879,79 @@ translate ukrainian wood_mission_2b35b6fe:
 translate ukrainian wood_mission_af6727cd:
 
     # t "Apology accepted..."
-    t "Apology accepted..."
+    t "Вибачення прийнято..."
 
 # game/game/script.rpy:3353
 translate ukrainian wood_mission_24700f63:
 
     # mc "How did you build this place so fast?"
-    mc "How did you build this place so fast?"
+    mc "Як вам вдалося так швидко це збудувати?"
 
 # game/game/script.rpy:3354
 translate ukrainian wood_mission_13aadd7f:
 
     # y "It was already here before, we just fixed it."
-    y "It was already here before, we just fixed it."
+    y "Це все вже було тут, ми тільки полагодили."
 
 # game/game/script.rpy:3355
 translate ukrainian wood_mission_4d7966cf:
 
     # mc "You really don't waste your time."
-    mc "You really don't waste your time."
+    mc "Ви точно не марнуєте свій час."
 
 # game/game/script.rpy:3356
 translate ukrainian wood_mission_62ecb2bc:
 
     # y "Hahaha I've been waiting for this moment!"
-    y "Hahaha I've been waiting for this moment!"
+    y "Хахаха, я чекала цього моменту!"
 
 # game/game/script.rpy:3357
 translate ukrainian wood_mission_9fd2e901:
 
     # sob "Miss Yui!"
-    sob "Miss Yui!"
+    sob "Пані Юї!"
 
 # game/game/script.rpy:3359
 translate ukrainian wood_mission_ec032cd7:
 
     # soc "We finished all the preparations."
-    soc "We finished all the preparations."
+    soc "Підготовка завершена."
 
 # game/game/script.rpy:3360
 translate ukrainian wood_mission_73d1a25e:
 
     # y "Perfect, {w}then we just have to put this place to work."
-    y "Perfect, {w}then we just have to put this place to work."
+    y "Чудово, {w}тоді нам залишається тільки розпочати тут роботу."
 
 # game/game/script.rpy:3361
 translate ukrainian wood_mission_c2a8059d:
 
     # y "Go and inform Hana."
-    y "Go and inform Hana."
+    y "Йдіть і повідомте Хану."
 
 # game/game/script.rpy:3363
 translate ukrainian wood_mission_eb55279f:
 
     # y "After that, go to rest."
-    y "After that, go to rest."
+    y "Ну а потім, відпочивайте."
 
 # game/game/script.rpy:3364
 translate ukrainian wood_mission_9bcef327:
 
     # y "Good job girls."
-    y "Good job girls."
+    y "Гарна робота, дівчата."
 
 # game/game/script.rpy:3366
 translate ukrainian wood_mission_4477c300:
 
     # sob "Understood!"
-    sob "Understood!"
+    sob "Зрозуміла!"
 
 # game/game/script.rpy:3367
 translate ukrainian wood_mission_c10a57fc:
 
     # soc "Understood!"
-    soc "Understood!"
+    soc "Зрозуміла!"
 
 # game/game/script.rpy:3372
 translate ukrainian wood_mission_6c686b04:
@@ -9963,67 +9963,67 @@ translate ukrainian wood_mission_6c686b04:
 translate ukrainian wood_mission_7c927b78:
 
     # mc "Yes?"
-    mc "Yes?"
+    mc "Так?"
 
 # game/game/script.rpy:3374
 translate ukrainian wood_mission_f7783141:
 
     # y "You must have already realized what this place is for."
-    y "You must have already realized what this place is for."
+    y "Ти мав би вже здогадатися, для чого це місце."
 
 # game/game/script.rpy:3376
 translate ukrainian wood_mission_8d2c6a6a:
 
     # mc "Well, I've only seen axes."
-    mc "Well, I've only seen axes."
+    mc "Ну, я бачив одні сокири."
 
 # game/game/script.rpy:3377
 translate ukrainian wood_mission_4a9283de:
 
     # mc "Lots of wood."
-    mc "Lots of wood."
+    mc "Багато дерева."
 
 # game/game/script.rpy:3379
 translate ukrainian wood_mission_2e53c163:
 
     # mc "And quite a lot of construction materials."
-    mc "And quite a lot of construction materials."
+    mc "І чимало будівельних матеріалів."
 
 # game/game/script.rpy:3380
 translate ukrainian wood_mission_50f6ff1b:
 
     # mc "This is a place totally related to wood."
-    mc "This is a place totally related to wood."
+    mc "Отже, це місце повністю пов'язане з деревом."
 
 # game/game/script.rpy:3382
 translate ukrainian wood_mission_b9a0a172:
 
     # y "Hahaha, idiot~"
-    y "Hahaha, idiot~"
+    y "Хахаха, дурко~"
 
 # game/game/script.rpy:3383
 translate ukrainian wood_mission_7fce0143:
 
     # y "As we're completely surrounded by trees, {w}it's time to make use of them."
-    y "As we're completely surrounded by trees, {w}it's time to make use of them."
+    y "Оскільки довкола нас лише дерева, {w}треба знайти для них застосування."
 
 # game/game/script.rpy:3385
 translate ukrainian wood_mission_d2928354:
 
     # y "And I need your help with something."
-    y "And I need your help with something."
+    y "І мені знадобиться твоя допомога з дечим."
 
 # game/game/script.rpy:3386
 translate ukrainian wood_mission_a59e4808:
 
     # mc "Woah... {w}right here? {w}Well... who am I to refuse..."
-    mc "Woah... {w}right here? {w}Well... who am I to refuse..."
+    mc "Невже... {w}прямо тут? {w}Ну... хто я такий, аби відмовитися..."
 
 # game/game/script.rpy:3388
 translate ukrainian wood_mission_811835de:
 
     # y "Eh? {w}W-What do {size=-5}you mea-..."
-    y "Eh? {w}W-What do {size=-5}you mea-..."
+    y "Ех? {w}П-Про що {size=-5}це ти-..."
 
 # game/game/script.rpy:3389
 translate ukrainian wood_mission_71a86863:
@@ -10035,25 +10035,25 @@ translate ukrainian wood_mission_71a86863:
 translate ukrainian wood_mission_784224a9:
 
     # y "I-Idiot!!"
-    y "I-Idiot!!"
+    y "Д-Дурко!!"
 
 # game/game/script.rpy:3392
 translate ukrainian wood_mission_14a87610:
 
     # mc "Hahaha, I'm just kidding!"
-    mc "Hahaha, I'm just kidding!"
+    mc "Хахаха, я лише жартую!"
 
 # game/game/script.rpy:3394
 translate ukrainian wood_mission_8e8bdefc:
 
     # y "{size=-6}Hmmp!"
-    y "{size=-6}Hmmp!"
+    y "{size=-6}{i}Хммп!{/i}"
 
 # game/game/script.rpy:3395
 translate ukrainian wood_mission_31f47b4a:
 
     # mc "Tell me, what do you need? I'll be happy to help you."
-    mc "Tell me, what do you need? I'll be happy to help you."
+    mc "Скажи, що тобі потрібно? Я з радістю допоможу."
 
 # game/game/script.rpy:3396
 translate ukrainian wood_mission_71a86863_1:
@@ -10065,127 +10065,127 @@ translate ukrainian wood_mission_71a86863_1:
 translate ukrainian wood_mission_7c927b78_1:
 
     # mc "Yes?"
-    mc "Yes?"
+    mc "Ну?"
 
 # game/game/script.rpy:3399
 translate ukrainian wood_mission_54ca7bf0:
 
     # y "Have you ever cut down any trees?"
-    y "Have you ever cut down any trees?"
+    y "Чи доводилося тобі коли-небудь рубати дерева?"
 
 # game/game/script.rpy:3400
 translate ukrainian wood_mission_5d156af5:
 
     # mc "No, but I'm a fast learner."
-    mc "No, but I'm a fast learner."
+    mc "Ні, але я швидко вчуся."
 
 # game/game/script.rpy:3402
 translate ukrainian wood_mission_cc56920c:
 
     # y "I need some wood."
-    y "I need some wood."
+    y "Мені треба трохи деревини."
 
 # game/game/script.rpy:3403
 translate ukrainian wood_mission_48a276ed:
 
     # y "And my girls haven't been able to rest since we started this whole thing."
-    y "And my girls haven't been able to rest since we started this whole thing."
+    y "А мої дівчата не мали змоги відпочити відтоді, як ми розпочали всю цю справу."
 
 # game/game/script.rpy:3404
 translate ukrainian wood_mission_44a2e412:
 
     # mc "What do you plan to build?"
-    mc "What do you plan to build?"
+    mc "Збираєшся щось збудувати?"
 
 # game/game/script.rpy:3406
 translate ukrainian wood_mission_7569adbe:
 
     # y "Rebuild, I would say, {w}have you noticed that our village has stores but they're closed?"
-    y "Rebuild, I would say, {w}have you noticed that our village has stores but they're closed?"
+    y "Відбудувати, я б сказала. {w}Ти помітив, що в нашому селищі є крамнички, але вони закриті?"
 
 # game/game/script.rpy:3407
 translate ukrainian wood_mission_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/script.rpy:3408
 translate ukrainian wood_mission_702db948:
 
     # t "Yes...?"
-    t "Yes...?"
+    t "Ніби-то...?"
 
 # game/game/script.rpy:3410
 translate ukrainian wood_mission_82cd58e3:
 
     # y "Well, that was because there was no need to have them open when there was no one to do business with, {w}but now we must prepare."
-    y "Well, that was because there was no need to have them open when there was no one to do business with, {w}but now we must prepare."
+    y "Ну, раніше просто не виникало потреби їх відчиняти — не було із ким мати справи, {w}але тепер мусимо підготуватися."
 
 # game/game/script.rpy:3411
 translate ukrainian wood_mission_d77ab9a8:
 
     # y "Also, {w}since we secured the lake, if you catch something you can sell it there."
-    y "Also, {w}since we secured the lake, if you catch something you can sell it there."
+    y "Крім того, {w}оскільки ми також взяли під контроль озеро, якщо вдасться щось зловити, то зможеш продати це там."
 
 # game/game/script.rpy:3412
 translate ukrainian wood_mission_73bff30e:
 
     # t "That sounds interesting."
-    t "That sounds interesting."
+    t "Звучить цікаво."
 
 # game/game/script.rpy:3413
 translate ukrainian wood_mission_e77ec5d2:
 
     # mc "Just tell me how much wood you need and I'll get to work."
-    mc "Just tell me how much wood you need and I'll get to work."
+    mc "Просто скажи, скільки деревени тобі потрібно, і я візьмуся за роботу."
 
 # game/game/script.rpy:3415
 translate ukrainian wood_mission_eb89336c:
 
     # y "Don't think I'll let you do it for free, everything has a reward."
-    y "Don't think I'll let you do it for free, everything has a reward."
+    y "Тільки не думай, що робитимеш це задарма — за все передбачена винагорода."
 
 # game/game/script.rpy:3416
 translate ukrainian wood_mission_c9f5d8f4:
 
     # t "Ooho...?"
-    t "Ooho...?"
+    t "{i}Оо-хо...?{/i}"
 
 # game/game/script.rpy:3417
 translate ukrainian wood_mission_d498d112:
 
     # mc "And what would my reward be?"
-    mc "And what would my reward be?"
+    mc "І яка ж буде моя винагорода?"
 
 # game/game/script.rpy:3419
 translate ukrainian wood_mission_9b08f97f:
 
     # y "I'm still thinking about what it could be."
-    y "I'm still thinking about what it could be."
+    y "Я досі думаю над нею."
 
 # game/game/script.rpy:3420
 translate ukrainian wood_mission_2c00972e:
 
     # y "You could earn money."
-    y "You could earn money."
+    y "Можу виплатити тобі монетами."
 
 # game/game/script.rpy:3421
 translate ukrainian wood_mission_9178fdda:
 
     # t "Her tits felt so good that day, {w}so soft and perfect..."
-    t "Her tits felt so good that day, {w}so soft and perfect..."
+    t "Її цицьки були такі приємні того дня, {w}м'які та ідеальні..."
 
 # game/game/script.rpy:3423
 translate ukrainian wood_mission_c5540a9a:
 
     # y "Well, while you work, I'll think abo-"
-    y "Well, while you work, I'll think abo-"
+    y "Ну, поки працюватимеш, я поду-"
 
 # game/game/script.rpy:3424
 translate ukrainian wood_mission_f542cd6a:
 
     # t "And her figure is so feminine despite training so hard."
-    t "And her figure is so feminine despite training so hard."
+    t "І її фігура така жіночна, незважаючи на те, що вона так інтенсивно тренується."
 
 # game/game/script.rpy:3425
 translate ukrainian wood_mission_71a86863_2:
@@ -10209,19 +10209,19 @@ translate ukrainian wood_mission_049333a8:
 translate ukrainian wood_mission_eede1145:
 
     # y "May I know what you're thinking?"
-    y "May I know what you're thinking?"
+    y "Можна дізнатися, про що ти думаєш?"
 
 # game/game/script.rpy:3431
 translate ukrainian wood_mission_701d2464:
 
     # mc "What!?"
-    mc "What!?"
+    mc "Га!?"
 
 # game/game/script.rpy:3432
 translate ukrainian wood_mission_ea669f1e:
 
     # mc "What thighs! {w}I'm not thinking about anything!"
-    mc "What thighs! {w}I'm not thinking about anything!"
+    mc "Оце так стегна! {w}Я ні про що не думаю!"
 
 # game/game/script.rpy:3433
 translate ukrainian wood_mission_71a86863_3:
@@ -10239,7 +10239,7 @@ translate ukrainian wood_mission_2b35b6fe_2:
 translate ukrainian wood_mission_e981d742:
 
     # y "{size=-10}F-First get the wood and t-then we'll see..."
-    y "{size=-10}F-First get the wood and t-then we'll see..."
+    y "{size=-10}С-Спочатку підготуй деревину, а п-потім побачимо..."
 
 # game/game/script.rpy:3437
 translate ukrainian wood_mission_2b35b6fe_3:
@@ -10251,19 +10251,19 @@ translate ukrainian wood_mission_2b35b6fe_3:
 translate ukrainian wood_mission_8fb81757:
 
     # y "I-I have to go now... {w}I need 40 pieces of wood. {w}I'll leave you to it."
-    y "I-I have to go now... {w}I need 40 pieces of wood. {w}I'll leave you to it."
+    y "М-Мені вже треба йти... {w}Принеси 40 колод. {w}Залишаю це на тебе."
 
 # game/game/script.rpy:3440
 translate ukrainian wood_mission_86ed24f7:
 
     # y "B-Bye..."
-    y "B-Bye..."
+    y "Б-Бувай..."
 
 # game/game/script.rpy:3441
 translate ukrainian wood_mission_31e7d7c2:
 
     # y "Good luck with that..."
-    y "Good luck with that..."
+    y "І удачі тобі з цим..."
 
 # game/game/script.rpy:3444
 translate ukrainian wood_mission_2b35b6fe_4:
@@ -10275,13 +10275,13 @@ translate ukrainian wood_mission_2b35b6fe_4:
 translate ukrainian wood_mission_f93108b8:
 
     # mc "HAAAAAAA!!"
-    mc "HAAAAAAA!!"
+    mc "ХААААААА!!"
 
 # game/game/script.rpy:3450
 translate ukrainian wood_mission_aab3383c:
 
     # y "Idiot.."
-    y "Idiot.."
+    y "Дурко..."
 
 # game/game/script.rpy:3468
 translate ukrainian mother_dream_7f7620e0:
@@ -29198,6 +29198,15 @@ translate ukrainian strings:
     old "{image=corazon_wing}{color=#FF5C5C}Akane{/color} has been added!"
     new "{image=corazon_wing}Додано знайомство з {color=#FF5C5C}Акане{/color}!"
 
+    old "You approach Yui."
+    new "Ти підходиш до Юї."
+
+    old "Both girls leave."
+    new "Обидві дівчини йдуть."
+
+    old "{image=quest_text}Now you can collect wood!"
+    new "{image=quest_text}Тепер можна збирати деревину!"
+
 ### NOT SORTED
 
     old "{b}Don't leave."
@@ -29260,9 +29269,6 @@ translate ukrainian strings:
     old "{size=+10}{b}Stay, {w}just stay..."
     new "{size=+10}{b}Stay, {w}just stay..."
 
-    old "Both girls leave."
-    new "Both girls leave."
-
     old "Yes, they are."
     new "Yes, they are."
 
@@ -29277,9 +29283,6 @@ translate ukrainian strings:
 
     old "Some time ago."
     new "Some time ago."
-
-    old "You approach Yui."
-    new "You approach Yui."
 
     old "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
     new "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
@@ -29343,6 +29346,3 @@ translate ukrainian strings:
 
     old "Hey? Are you listening?"
     new "Hey? Are you listening?"
-
-    old "{image=quest_text}Now you can collect wood!"
-    new "{image=quest_text}Now you can collect wood!"
