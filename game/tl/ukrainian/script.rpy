@@ -29160,7 +29160,7 @@ translate ukrainian strings:
     new "{image=corazon_wing}Додано знайомство з {color=#D16992}Рьоко{/color}!"
 
     old "{image=quest_text}Mission updated!"
-    new "{image=quest_text}Завдання оновлене!"
+    new "{image=quest_text}Завдання оновлено!"
 
     old "You quickly get up from the floor. You offer her help, but she refuses."
     new "Ти швидко підводишся та хочеш їй допомогти, але вона відмовляється."
