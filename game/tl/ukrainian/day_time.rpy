@@ -357,15 +357,15 @@ translate ukrainian strings:
 
     # game/day_time.rpy:807
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou should check the forest."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou should check the forest."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТобі варто відвідати ліс."
 
     # game/day_time.rpy:816
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"Wood for Yui\"{/color}."
-    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"Wood for Yui\"{/color}."
+    new "{color=#FF438D}Х{/color}-подія\nВиконай завдання {color=#FBE5A2}«Деревина для Юї»{/color}."
 
     # game/day_time.rpy:830
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#CEA976}Yui{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#CEA976}Yui{/color}."
+    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#CEA976}Юї{/color}."
 
     # game/day_time.rpy:840
     old "{color=#FF438D}H{/color}-Event\nGo to {color=#F3915B}Hana's{/color} house in the afternoon."
@@ -446,15 +446,15 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1054
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nТи маєш провести більше часу з {color=#F3915B}Ханою{/color}."
 
     # game/day_time.rpy:1064
     old "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#F3915B}Hana{/color} at her home."
-    new "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#F3915B}Hana{/color} at her home."
+    new "{color=#FFFFFF}З{/color}-подія\nЗавітай до {color=#F3915B}Хани{/color} додому."
 
     # game/day_time.rpy:1081
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#F3915B}Hana{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#F3915B}Ханою{/color}."
 
     # game/day_time.rpy:1091
     old "{color=#FF438D}H{/color}-Event\nGo to {color=#BCB2CC}Tomoe's{/color} shop at night."
@@ -580,11 +580,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1501
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nSearch the forest in the evening."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nSearch the forest in the evening."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nПошукай її в лісі ввечері."
 
     # game/day_time.rpy:1513
     old "{color=#FF438D}H{/color}-Event\nTalk with {color=#E12E50}Akane{/color} in the evening."
-    new "{color=#FF438D}H{/color}-Event\nTalk with {color=#E12E50}Akane{/color} in the evening."
+    new "{color=#FF438D}Х{/color}-подія\nПоговори з {color=#E12E50}Акане{/color} ввечері."
 
     # game/day_time.rpy:1538
     old "{color=#FF438D}H{/color}-Event\nGo see {color=#E12E50}Akane{/color} in the evening."
