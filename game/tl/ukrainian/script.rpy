@@ -8313,19 +8313,19 @@ translate ukrainian expedicion_forest_dba62412:
 translate ukrainian expedicion_forest_18e292ec:
 
     # mc "Can I help them with the walls? They look pretty heav-"
-    mc "Can I help them with the walls? They look pretty heav-"
+    mc "Я можу допомогти їм зі стінами? Вони виглядають важ-"
 
 # game/game/script.rpy:2734
 translate ukrainian expedicion_forest_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ого?"
 
 # game/game/script.rpy:2735
 translate ukrainian expedicion_forest_1b453a9d:
 
     # h "Fufu."
-    h "Fufu."
+    h "Хуху."
 
 # game/game/script.rpy:2736
 translate ukrainian expedicion_forest_652650d3:
@@ -8337,85 +8337,85 @@ translate ukrainian expedicion_forest_652650d3:
 translate ukrainian expedicion_forest_cf3763aa:
 
     # h "Do you think we didn't think about that?"
-    h "Do you think we didn't think about that?"
+    h "Гадаєш, ми про це не подумали?"
 
 # game/game/script.rpy:2739
 translate ukrainian expedicion_forest_91905ede:
 
     # mc "How?"
-    mc "How?"
+    mc "І як?..."
 
 # game/game/script.rpy:2741
 translate ukrainian expedicion_forest_2fe1fc0b:
 
     # h "All thanks to this."
-    h "All thanks to this."
+    h "Усе завдяки цьому."
 
 # game/game/script.rpy:2742
 translate ukrainian expedicion_forest_671d9444:
 
     # mc "That is..."
-    mc "That is..."
+    mc "Це ж..."
 
 # game/game/script.rpy:2744
 translate ukrainian expedicion_forest_88cf6b8c:
 
     # y "Hana told me that you helped her complete it."
-    y "Hana told me that you helped her complete it."
+    y "Хана мені розповіла, що ти допоміг їй завершити його."
 
 # game/game/script.rpy:2746
 translate ukrainian expedicion_forest_0016ac50:
 
     # mc "Err... well... {w}yeah."
-    mc "Err... well... {w}yeah."
+    mc "Емм... ну... {w}наче."
 
 # game/game/script.rpy:2748
 translate ukrainian expedicion_forest_5879d32b:
 
     # ak "{size=-10}Why has nothing appeared yet..."
-    ak "{size=-10}Why has nothing appeared yet..."
+    ak "{size=-10}Ще жоден звір не показав себе..."
 
 # game/game/script.rpy:2749
 translate ukrainian expedicion_forest_fe192618:
 
     # ak "{size=-10}Are they waiting for something?"
-    ak "{size=-10}Are they waiting for something?"
+    ak "{size=-10}Вони на щось чекають?"
 
 # game/game/script.rpy:2751
 translate ukrainian expedicion_forest_6153f22e:
 
     # r "Master!"
-    r "Master!"
+    r "Господарю!"
 
 # game/game/script.rpy:2752
 translate ukrainian expedicion_forest_354f4563:
 
     # mc "Ye-Yeah?"
-    mc "Ye-Yeah?"
+    mc "Т-Так?"
 
 # game/game/script.rpy:2754
 translate ukrainian expedicion_forest_32317109:
 
     # r "Can I help them?"
-    r "Can I help them?"
+    r "Я можу їм допомогти?"
 
 # game/game/script.rpy:2755
 translate ukrainian expedicion_forest_5e0102d1:
 
     # mc "But.."
-    mc "But.."
+    mc "Але..."
 
 # game/game/script.rpy:2757
 translate ukrainian expedicion_forest_79f32437:
 
     # h "We're safe here. A little help won't hurt."
-    h "We're safe here. A little help won't hurt."
+    h "Тут ми в безпеці. Невелика допомога не нашкодить."
 
 # game/game/script.rpy:2759
 translate ukrainian expedicion_forest_a90c4c14:
 
     # y "The girls are standing guard, nothing bad will happen to her."
-    y "The girls are standing guard, nothing bad will happen to her."
+    y "Дівчата стоять на варті, з нею все буде добре."
 
 # game/game/script.rpy:2760
 translate ukrainian expedicion_forest_2b35b6fe:
@@ -8427,211 +8427,211 @@ translate ukrainian expedicion_forest_2b35b6fe:
 translate ukrainian expedicion_forest_a8d04a91:
 
     # t "I don't feel anything or anyone in the vicinity..."
-    t "I don't feel anything or anyone in the vicinity..."
+    t "Я не відчуваю поблизу нас жодної живої істоти..."
 
 # game/game/script.rpy:2762
 translate ukrainian expedicion_forest_140e90f8:
 
     # t "But I feel that something's watching us... but it has no evil intentions, perhaps it's a squirrel or something."
-    t "But I feel that something's watching us... but it has no evil intentions, perhaps it's a squirrel or something."
+    t "Хоча ні, все ж хтось на нас дивиться... але без злих намірів, можливо, це білка чи інша тваринка."
 
 # game/game/script.rpy:2764
 translate ukrainian expedicion_forest_dd91aa36:
 
     # mc "Ok {w}but if you see a problem, you have to be the first to run."
-    mc "Ok {w}but if you see a problem, you have to be the first to run."
+    mc "Добре, {w}але якщо щось трапиться, ти маєш першою бігти до мене."
 
 # game/game/script.rpy:2766
 translate ukrainian expedicion_forest_5d9497a5:
 
     # r "Yes!"
-    r "Yes!"
+    r "Так!"
 
 # game/game/script.rpy:2770
 translate ukrainian expedicion_forest_aaf7558b:
 
     # h "Ryoko is full of energy."
-    h "Ryoko is full of energy."
+    h "Рьоко така жвава."
 
 # game/game/script.rpy:2771
 translate ukrainian expedicion_forest_55435cc4:
 
     # mc "Yeah.."
-    mc "Yeah.."
+    mc "Ага..."
 
 # game/game/script.rpy:2773
 translate ukrainian expedicion_forest_7802d6a0:
 
     # h "Are you all right? You look a little worried."
-    h "Are you all right? You look a little worried."
+    h "Все гаразд? Видно, ти трохи схвильований."
 
 # game/game/script.rpy:2775
 translate ukrainian expedicion_forest_f705863b:
 
     # mc "It's just..."
-    mc "It's just..."
+    mc "Просто..."
 
 # game/game/script.rpy:2777
 translate ukrainian expedicion_forest_546500fc:
 
     # t "I don't know if it's the right time to talk about this now."
-    t "I don't know if it's the right time to talk about this now."
+    t "Не знаю, чи зараз вдалий час про це говорити."
 
 # game/game/script.rpy:2779
 translate ukrainian expedicion_forest_f0a4cb14:
 
     # mc "No, nothing. {w}Yesterday Ryoko had a nightmare."
-    mc "No, nothing. {w}Yesterday Ryoko had a nightmare."
+    mc "Та, дурниці. {w}Уночі Рьоко наснилося жахіття."
 
 # game/game/script.rpy:2780
 translate ukrainian expedicion_forest_48fd223e:
 
     # mc "So I was worried that she wasn't feeling well."
-    mc "So I was worried that she wasn't feeling well."
+    mc "Ось я і переймався, що їй недобре."
 
 # game/game/script.rpy:2782
 translate ukrainian expedicion_forest_08827c03:
 
     # y "Mmm? What kind of nightmare?"
-    y "Mmm? What kind of nightmare?"
+    y "Ммм? І про що було це жахіття?"
 
 # game/game/script.rpy:2783
 translate ukrainian expedicion_forest_2964b068:
 
     # mc "I wanted to ask her when we were done with all this."
-    mc "I wanted to ask her when we were done with all this."
+    mc "Хотів її спитати, вже коли ми тут завершимо з усім."
 
 # game/game/script.rpy:2785
 translate ukrainian expedicion_forest_ab930a7f:
 
     # y "Well, she looks pretty OK to me."
-    y "Well, she looks pretty OK to me."
+    y "Ну, як на мене, з нею все гаразд."
 
 # game/game/script.rpy:2787
 translate ukrainian expedicion_forest_0a0d2024:
 
     # so "Ah, I forgot to bring the hammer."
-    so "Ah, I forgot to bring the hammer."
+    so "Ах, я забула взяти молоток."
 
 # game/game/script.rpy:2789
 translate ukrainian expedicion_forest_2f831f54:
 
     # r "Here!"
-    r "Here!"
+    r "Ось!"
 
 # game/game/script.rpy:2791
 translate ukrainian expedicion_forest_db294ae5:
 
     # so "W-Wow, Thanks!"
-    so "W-Wow, Thanks!"
+    so "О-Ого, дякую!"
 
 # game/game/script.rpy:2792
 translate ukrainian expedicion_forest_d7935b16:
 
     # t "Maybe it's just my imagination...."
-    t "Maybe it's just my imagination...."
+    t "Мабуть, я надто сильно переймаюся..."
 
 # game/game/script.rpy:2794
 translate ukrainian expedicion_forest_dbe98fed:
 
     # ak "{size=-10}These are human... footprints?"
-    ak "{size=-10}These are human... footprints?"
+    ak "{size=-10}Хіба це людські... сліди?"
 
 # game/game/script.rpy:2796
 translate ukrainian expedicion_forest_8a045ba9:
 
     # so "We're finished here!"
-    so "We're finished here!"
+    so "Тут все готово!"
 
 # game/game/script.rpy:2797
 translate ukrainian expedicion_forest_1ef59fac:
 
     # y "Perfect, let's move on, to the lake area."
-    y "Perfect, let's move on, to the lake area."
+    y "Чудово, просуваймося далі до озера."
 
 # game/game/script.rpy:2798
 translate ukrainian expedicion_forest_889ec1f6:
 
     # so "Ok!"
-    so "Ok!"
+    so "Так!"
 
 # game/game/script.rpy:2804
 translate ukrainian expedicion_forest_a3f6eb99:
 
     # mc "Ryoko, stand behind Hana with the rest."
-    mc "Ryoko, stand behind Hana with the rest."
+    mc "Рьоко, стій позаду Хани разом з іншими."
 
 # game/game/script.rpy:2805
 translate ukrainian expedicion_forest_1b962705:
 
     # r "Y-Yes!"
-    r "Y-Yes!"
+    r "Т-Так!"
 
 # game/game/script.rpy:2806
 translate ukrainian expedicion_forest_a643a993:
 
     # mc "Yui I can take care of one, you take care of the other!"
-    mc "Yui I can take care of one, you take care of the other!"
+    mc "Юї, я займуся одним, на тобі інший!"
 
 # game/game/script.rpy:2807
 translate ukrainian expedicion_forest_3280be41:
 
     # y "Got it! {w}You two with me! {w}The rest of you stay with the materials!"
-    y "Got it! {w}You two with me! {w}The rest of you stay with the materials!"
+    y "Зрозуміла! {w}Ви двоє, за мною! {w}Решта — залишайтеся біля матеріалів!"
 
 # game/game/script.rpy:2808
 translate ukrainian expedicion_forest_2e52cb52:
 
     # so "Yes!"
-    so "Yes!"
+    so "Так!"
 
 # game/game/script.rpy:2810
 translate ukrainian expedicion_forest_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Гей."
 
 # game/game/script.rpy:2811
 translate ukrainian expedicion_forest_ffba88df:
 
     # mc "I'm sorry for what I'm about to do but, {w}it's nothing personal."
-    mc "I'm sorry for what I'm about to do but, {w}it's nothing personal."
+    mc "Звиняй за те, що я зараз зроблю, але {w}нічого особистого."
 
 # game/game/script.rpy:2813
 translate ukrainian expedicion_forest_f9f3efc1:
 
     # y "Get ready."
-    y "Get ready."
+    y "Готуйтесь."
 
 # game/game/script.rpy:2817
 translate ukrainian expedicion_forest_f93cba98:
 
     # r "Master..."
-    r "Master..."
+    r "Господарю..."
 
 # game/game/script.rpy:2819
 translate ukrainian expedicion_forest_655e3898:
 
     # h "Don't worry, this is nothing compared to when he fought three at the same time."
-    h "Don't worry, this is nothing compared to when he fought three at the same time."
+    h "Не хвилюйся, це ніщо в порівнянні з тим, коли він бився з трьома одночасно."
 
 # game/game/script.rpy:2821
 translate ukrainian expedicion_forest_1ead44b0:
 
     # mc "You don't plan to attack?"
-    mc "You don't plan to attack?"
+    mc "Не плануєш нападати?"
 
 # game/game/script.rpy:2823
 translate ukrainian expedicion_forest_7f859e76:
 
     # mc "Then I'll make the first mov-"
-    mc "Then I'll make the first mov-"
+    mc "Тоді я зроблю перший кро-"
 
 # game/game/script.rpy:2828
 translate ukrainian expedicion_forest_17b5d26f:
 
     # mc "What?{w=0.5}{nw}"
-    mc "What?{w=0.5}{nw}"
+    mc "Що?{w=0.5}{nw}"
 
 # game/game/script.rpy:2848
 translate ukrainian expedicion_forest_1d82a7e7:
@@ -8643,127 +8643,127 @@ translate ukrainian expedicion_forest_1d82a7e7:
 translate ukrainian expedicion_forest_9a06772f:
 
     # ak "Who?!"
-    ak "Who?!"
+    ak "Хто це?!"
 
 # game/game/script.rpy:2852
 translate ukrainian expedicion_forest_5fc70695:
 
     # y "That is-"
-    y "That is-"
+    y "Невже-"
 
 # game/game/script.rpy:2857
 translate ukrainian expedicion_forest_ee4d8d6f:
 
     # y "An Orc?!"
-    y "An Orc?!"
+    y "Орк?!"
 
 # game/game/script.rpy:2858
 translate ukrainian expedicion_forest_e0e2f65d:
 
     # orco "Buujiii jiji!"
-    orco "Buujiii jiji!"
+    orco "{i}Буужііі жіжі!{/i}"
 
 # game/game/script.rpy:2860
 translate ukrainian expedicion_forest_3d5c28b0:
 
     # ak "{size=-10}{i}The footprints I found weren't human."
-    ak "{size=-10}{i}The footprints I found weren't human."
+    ak "{size=-10}{i}Отже, сліди, що я знайшла, були не людськими."
 
 # game/game/script.rpy:2861
 translate ukrainian expedicion_forest_1ff6e737:
 
     # ak "{size=-10}{i}That's why no wolves appeared at the beginning."
-    ak "{size=-10}{i}That's why no wolves appeared at the beginning."
+    ak "{size=-10}{i}І ось чому на початку ми не бачили жодного вовка."
 
 # game/game/script.rpy:2863
 translate ukrainian expedicion_forest_91f79622:
 
     # ak "Hey pervert! Change of plans!"
-    ak "Hey pervert! Change of plans!"
+    ak "Агов, збоченцю! Зміна планів!"
 
 # game/game/script.rpy:2864
 translate ukrainian expedicion_forest_d9e68409:
 
     # mc "Akane?"
-    mc "Akane?"
+    mc "Акане?"
 
 # game/game/script.rpy:2866
 translate ukrainian expedicion_forest_c09fde7f:
 
     # ak "The wolves weren't attacking, they were running!"
-    ak "The wolves weren't attacking, they were running!"
+    ak "Вовки не планували напад, вони тікали!"
 
 # game/game/script.rpy:2867
 translate ukrainian expedicion_forest_7be08bdb:
 
     # mc "Running? {w}From that thing?"
-    mc "Running? {w}From that thing?"
+    mc "Тікали? {w}Від цього здорованя?"
 
 # game/game/script.rpy:2869
 translate ukrainian expedicion_forest_099f2b65:
 
     # ak "Hana."
-    ak "Hana."
+    ak "Хано."
 
 # game/game/script.rpy:2870
 translate ukrainian expedicion_forest_65715fd6:
 
     # h "Y-Yes?"
-    h "Y-Yes?"
+    h "Т-Так?"
 
 # game/game/script.rpy:2872
 translate ukrainian expedicion_forest_7e94dc19:
 
     # ak "I'll use my power. I need you to be ready for when I can't \"take it anymore\"."
-    ak "I'll use my power. I need you to be ready for when I can't \"take it anymore\"."
+    ak "Я скористаюся своєю силою. Мені потрібно, щоб ти була готова до того моменту, коли я не зможу «більше стримуватися»."
 
 # game/game/script.rpy:2873
 translate ukrainian expedicion_forest_4a69fb73:
 
     # h "Okay, I'll get the girls out of here."
-    h "Okay, I'll get the girls out of here."
+    h "Гаразд, я відведу дівчат звідси."
 
 # game/game/script.rpy:2875
 translate ukrainian expedicion_forest_b2ed50f3:
 
     # h "Come on girls, let's take this back the way we came."
-    h "Come on girls, let's take this back the way we came."
+    h "Нумо, дівчата, ходімо назад, звідки ми почали."
 
 # game/game/script.rpy:2876
 translate ukrainian expedicion_forest_cc198762:
 
     # v "Y-Yes!"
-    v "Y-Yes!"
+    v "Т-Так!"
 
 # game/game/script.rpy:2877
 translate ukrainian expedicion_forest_8a9f6bb6:
 
     # r "{size=-10}Master..."
-    r "{size=-10}Master..."
+    r "{size=-10}Господарю..."
 
 # game/game/script.rpy:2879
 translate ukrainian expedicion_forest_42e7c366:
 
     # ak "Yui! Let's take care of this one right away!"
-    ak "Yui! Let's take care of this one right away!"
+    ak "Юї! Одразу ж розберімося з ним!"
 
 # game/game/script.rpy:2880
 translate ukrainian expedicion_forest_b7f51ed2:
 
     # y "Ok!"
-    y "Ok!"
+    y "Гаразд!"
 
 # game/game/script.rpy:2882
 translate ukrainian expedicion_forest_e33bdc6e:
 
     # ak "Hey! Don't get overconfident, and don't let him catch you."
-    ak "Hey! Don't get overconfident, and don't let him catch you."
+    ak "Гей! Не будь занадто самовпевненим і не дай йому тебе спіймати."
 
 # game/game/script.rpy:2884
 translate ukrainian expedicion_forest_66e90fce:
 
     # t "Catch m-?"
-    t "Catch m-?"
+    t "Спійма-?"
 
 # game/game/script.rpy:2890
 translate ukrainian orc_losefight_c79108bf:
@@ -8775,73 +8775,73 @@ translate ukrainian orc_losefight_c79108bf:
 translate ukrainian orc_losefight_0cfba1f8:
 
     # t "I can't believe I was defeated by a pig."
-    t "I can't believe I was defeated by a pig."
+    t "Не можу повірити, що цей свино-пикий мене переміг."
 
 # game/game/script.rpy:2892
 translate ukrainian orc_losefight_e37aefb9:
 
     # orco "Buuji jiji!"
-    orco "Buuji jiji!"
+    orco "{i}Буужі жіжі!{/i}"
 
 # game/game/script.rpy:2911
 translate ukrainian orcfight_start_ffd3e515:
 
     # mc "This guy!{w=0.2}{nw}"
-    mc "This guy!{w=0.2}{nw}"
+    mc "Цей здоровань!{w=0.5}{nw}"
 
 # game/game/script.rpy:2920
 translate ukrainian orcfight_start_2ffc2a3d:
 
     # orco "Buujii jiji!"
-    orco "Buujii jiji!"
+    orco "{i}Буужіі жіжі!{/i}"
 
 # game/game/script.rpy:2921
 translate ukrainian orcfight_start_9004c71d:
 
     # t "How can it be so fast?"
-    t "How can it be so fast?"
+    t "Як йому вдається так швидко рухатися?"
 
 # game/game/script.rpy:2937
 translate ukrainian orcfight_start_8e366486:
 
     # y "Ha!"
-    y "Ha!"
+    y "Ха!"
 
 # game/game/script.rpy:2946
 translate ukrainian orcfight_start_0a6d6fa1:
 
     # ak "Keep it there!"
-    ak "Keep it there!"
+    ak "Тримайте його!"
 
 # game/game/script.rpy:2949
 translate ukrainian orcfight_start_4c4149fa:
 
     # t "This is very strange. This world is very unbalanced. {w}I know I don't have any experience fighting but."
-    t "This is very strange. This world is very unbalanced. {w}I know I don't have any experience fighting but."
+    t "Якось дуже дивно. Цей світ якийсь не збалансований. {w}Розумію, у мене не так багато досвіду у битвах, але..."
 
 # game/game/script.rpy:2950
 translate ukrainian orcfight_start_a7bed691:
 
     # t "Monsters are too strong for the level of adventurers, {w}couldn't I start by fighting simple monsters? {w}A slime maybe?"
-    t "Monsters are too strong for the level of adventurers, {w}couldn't I start by fighting simple monsters? {w}A slime maybe?"
+    t "Монстри надто сильні для такого рівня шукача пригод як я, {w}чи не можна було б почати з більш простіших? {w}Наприклад, слиз?"
 
 # game/game/script.rpy:2951
 translate ukrainian orcfight_start_a86ae47b:
 
     # orco "Buuuji jiji."
-    orco "Buuuji jiji."
+    orco "{i}Бууужі жіжі{/i}."
 
 # game/game/script.rpy:2955
 translate ukrainian orcfight_start_dfab3f72:
 
     # ak "Haaa!"
-    ak "Haaa!"
+    ak "Хааа!"
 
 # game/game/script.rpy:2957
 translate ukrainian orcfight_start_da26df10:
 
     # ak "Know your place!"
-    ak "Know your place!"
+    ak "Знай своє місце!"
 
 # game/game/script.rpy:2959
 translate ukrainian orcfight_start_cb68918d:
@@ -8859,121 +8859,121 @@ translate ukrainian orcfight_start_8e43d802:
 translate ukrainian orcfight_start_21e673d7:
 
     # mc "Woah!"
-    mc "Woah!"
+    mc "Овва!"
 
 # game/game/script.rpy:2967
 translate ukrainian orcfight_start_b9f2b2ed:
 
     # t "They killed him!"
-    t "They killed him!"
+    t "Вони з ним впоралися!"
 
 # game/game/script.rpy:2969
 translate ukrainian orcfight_start_93da0e37:
 
     # t "I'll have to do my part."
-    t "I'll have to do my part."
+    t "Час і мені завершити."
 
 # game/game/script.rpy:2971
 translate ukrainian orcfight_start_a8b5b19f:
 
     # orco "Buuji jiji."
-    orco "Buuji jiji."
+    orco "{i}Буужі жіжі{/i}."
 
 # game/game/script.rpy:2972
 translate ukrainian orcfight_start_5ea0e790:
 
     # t "This guy is annoying me, It's like he doesn't take me seriously."
-    t "This guy is annoying me, It's like he doesn't take me seriously."
+    t "Він вже почав мені набридати. Таке відчуття, ніби він не сприймає мене серйозно."
 
 # game/game/script.rpy:2980
 translate ukrainian orcfight_start_a0e2e461:
 
     # mc "Now!{w=0.2}{nw}"
-    mc "Now!{w=0.2}{nw}"
+    mc "Зараз!{w=0.2}{nw}"
 
 # game/game/script.rpy:2983
 translate ukrainian orcfight_start_1b2f094e:
 
     # ak "Wait!{w=0.5}{nw}"
-    ak "Wait!{w=0.5}{nw}"
+    ak "Стій!{w=0.5}{nw}"
 
 # game/game/script.rpy:2992
 translate ukrainian orcfight_start_4e3eb2a5:
 
     # mc "Ha!"
-    mc "Ha!"
+    mc "Ха!"
 
 # game/game/script.rpy:2997
 translate ukrainian orcfight_start_87f848d8:
 
     # mc "I pierced his heart, {w}he should no longer..."
-    mc "I pierced his heart, {w}he should no longer..."
+    mc "Я проткнув його серце, {w}він має вже..."
 
 # game/game/script.rpy:2998
 translate ukrainian orcfight_start_3c0f98bd:
 
     # ak "Stay away from him!"
-    ak "Stay away from him!"
+    ak "Забирайся від нього!"
 
 # game/game/script.rpy:3000
 translate ukrainian orcfight_start_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:3002
 translate ukrainian orcfight_start_eed3897a:
 
     # y "Orcs have more than one heart!"
-    y "Orcs have more than one heart!"
+    y "У орків декілька сердець!"
 
 # game/game/script.rpy:3004
 translate ukrainian orcfight_start_aae115e2:
 
     # y "He's not dead yet!"
-    y "He's not dead yet!"
+    y "Він ще не помер!"
 
 # game/game/script.rpy:3006
 translate ukrainian orcfight_start_baf68029:
 
     # t "Am I going to..."
-    t "Am I going to..."
+    t "Невже мені зараз..."
 
 # game/game/script.rpy:3012
 translate ukrainian orcfight_start_46ff4a61:
 
     # t "Die?"
-    t "Die?"
+    t "Кінець?"
 
 # game/game/script.rpy:3022
 translate ukrainian orcfight_start_5ef674c3:
 
     # orco "BUUjiii!!??"
-    orco "BUUjiii!!??"
+    orco "{i}БУУжііі!!??{/i}"
 
 # game/game/script.rpy:3028
 translate ukrainian orcfight_start_1ef706f6:
 
     # mc "Who?"
-    mc "Who?"
+    mc "Га?"
 
 # game/game/script.rpy:3036
 translate ukrainian orcfight_start_394dd499:
 
     # orco "Buu Jiii?!!"
-    orco "Buu Jiii?!!"
+    orco "{i}Буу Жііі?!!{/i}"
 
 # game/game/script.rpy:3038
 translate ukrainian orcfight_start_0ec6b952:
 
     # a "Now."
-    a "Now."
+    a "Зараз."
 
 # game/game/script.rpy:3040
 translate ukrainian orcfight_start_3f3eeed6:
 
     # a "Neck!"
-    a "Neck!"
+    a "Шию!"
 
 # game/game/script.rpy:3042
 translate ukrainian orcfight_start_652650d3:
@@ -8991,19 +8991,19 @@ translate ukrainian orcfight_start_1d82a7e7:
 translate ukrainian orcfight_start_1c3fefd6:
 
     # mc "Aaaah!"
-    mc "Aaaah!"
+    mc "Аааах!"
 
 # game/game/script.rpy:3054
 translate ukrainian orcfight_start_e8554f22:
 
     # t "That voice again."
-    t "That voice again."
+    t "Знову цей голос."
 
 # game/game/script.rpy:3058
 translate ukrainian orcfight_start_af110f56:
 
     # t "What?{w} We'll be able to what?"
-    t "What?{w} We'll be able to what?"
+    t "Що?{w} Що ми скоро зможемо?"
 
 # game/game/script.rpy:3059
 translate ukrainian orcfight_start_1bb01731:
@@ -9015,97 +9015,97 @@ translate ukrainian orcfight_start_1bb01731:
 translate ukrainian orcfight_start_51fb453f:
 
     # t "No response..."
-    t "No response..."
+    t "Тиша..."
 
 # game/game/script.rpy:3062
 translate ukrainian orcfight_start_c52d83a1:
 
     # t "Who is she?"
-    t "Who is she?"
+    t "Хто вона така?"
 
 # game/game/script.rpy:3063
 translate ukrainian orcfight_start_f11cdade:
 
     # t "And why does she seem familiar to me?"
-    t "And why does she seem familiar to me?"
+    t "І чому вона виглядає так знайомо?"
 
 # game/game/script.rpy:3064
 translate ukrainian orcfight_start_3941206f:
 
     # mc "Hey.. {w}Thank-"
-    mc "Hey.. {w}Thank-"
+    mc "Цейво... {w}Дяку-"
 
 # game/game/script.rpy:3066
 translate ukrainian orcfight_start_b49200e3:
 
     # a "Your way of fighting."
-    a "Your way of fighting."
+    a "Те, як ти б'єшся."
 
 # game/game/script.rpy:3068
 translate ukrainian orcfight_start_78e877c0:
 
     # a "Too careless."
-    a "Too careless."
+    a "Надто нерозважливо."
 
 # game/game/script.rpy:3070
 translate ukrainian orcfight_start_e54a1ef3:
 
     # a "Looking to die? {w}Human?"
-    a "Looking to die? {w}Human?"
+    a "Шукаєш смерті? {w}Людино?"
 
 # game/game/script.rpy:3072
 translate ukrainian orcfight_start_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Я..."
 
 # game/game/script.rpy:3074
 translate ukrainian orcfight_start_64fb3745:
 
     # y "Akane!"
-    y "Akane!"
+    y "Акане!"
 
 # game/game/script.rpy:3079
 translate ukrainian orcfight_start_bd7b747e:
 
     # mc "Ah.."
-    mc "Ah.."
+    mc "Ах..."
 
 # game/game/script.rpy:3081
 translate ukrainian orcfight_start_ef0995ec:
 
     # mc "She left."
-    mc "She left."
+    mc "Вона пішла."
 
 # game/game/script.rpy:3086
 translate ukrainian orcfight_start_dd6e9d03:
 
     # mc "What's wrong with Akane?"
-    mc "What's wrong with Akane?"
+    mc "Що трапилося з Акане?"
 
 # game/game/script.rpy:3087
 translate ukrainian orcfight_start_9aa4483b:
 
     # y "I don't know. She suddenly started to feel bad."
-    y "I don't know. She suddenly started to feel bad."
+    y "Не знаю. Їй раптово стало погано."
 
 # game/game/script.rpy:3088
 translate ukrainian orcfight_start_5b8bf29c:
 
     # y "Look for Hana quickly!"
-    y "Look for Hana quickly!"
+    y "Покличте Хану, швидко!"
 
 # game/game/script.rpy:3089
 translate ukrainian orcfight_start_2e52cb52:
 
     # so "Yes!"
-    so "Yes!"
+    so "Так!"
 
 # game/game/script.rpy:3091
 translate ukrainian orcfight_start_165bfd11:
 
     # mc "Hey, are you okay?"
-    mc "Hey, are you okay?"
+    mc "Агов, ти у нормі?"
 
 # game/game/script.rpy:3092
 translate ukrainian orcfight_start_46b79df3:
@@ -9117,121 +9117,121 @@ translate ukrainian orcfight_start_46b79df3:
 translate ukrainian orcfight_start_bfd491a2:
 
     # y "She stopped responding a moment ago."
-    y "She stopped responding a moment ago."
+    y "Вона перестала відповідати хвилину тому."
 
 # game/game/script.rpy:3094
 translate ukrainian orcfight_start_6607fe2e:
 
     # t "Her face is red, it looks like she has a fever..."
-    t "Her face is red, it looks like she has a fever..."
+    t "Її лице червоне, здається у неї гарячка..."
 
 # game/game/script.rpy:3096
 translate ukrainian orcfight_start_28789c8a:
 
     # mc "Wow, it's boiling."
-    mc "Wow, it's boiling."
+    mc "Жах, вона вся горить."
 
 # game/game/script.rpy:3097
 translate ukrainian orcfight_start_7ff513b1:
 
     # y "What's taking so long?"
-    y "What's taking so long?"
+    y "Чому так довго?"
 
 # game/game/script.rpy:3099
 translate ukrainian orcfight_start_9f380771:
 
     # ak "Ha~"
-    ak "Ha~"
+    ak "Ха~"
 
 # game/game/script.rpy:3100
 translate ukrainian orcfight_start_5f8a68f7:
 
     # mc "Oh, you're back?"
-    mc "Oh, you're back?"
+    mc "О, ти з нами?"
 
 # game/game/script.rpy:3102
 translate ukrainian orcfight_start_680b8e7e:
 
     # mc "What are you-?"
-    mc "What are you-?"
+    mc "Що ти-?"
 
 # game/game/script.rpy:3103
 translate ukrainian orcfight_start_1602d98f:
 
     # y "Akane?"
-    y "Akane?"
+    y "Акане?"
 
 # game/game/script.rpy:3105
 translate ukrainian orcfight_start_76f975d0:
 
     # "Kigh*"
-    "Kigh*"
+    "{i}*Кусь*{/i}"
 
 # game/game/script.rpy:3109
 translate ukrainian orcfight_start_d58404be:
 
     # y "Whaaat?"
-    y "Whaaat?"
+    y "Щоооо?"
 
 # game/game/script.rpy:3111
 translate ukrainian orcfight_start_3b915abd:
 
     # ak "Chuuu~"
-    ak "Chuuu~"
+    ak "{i}Чмоок~{/i}"
 
 # game/game/script.rpy:3113
 translate ukrainian orcfight_start_6c8374f0:
 
     # y "Wa wa wa wa."
-    y "Wa wa wa wa."
+    y "{i}Ва ва ва вах.{/i}"
 
 # game/game/script.rpy:3115
 translate ukrainian orcfight_start_aaa91e92:
 
     # mc "Err Yui? {w}A little help?"
-    mc "Err Yui? {w}A little help?"
+    mc "Емм, Юї? {w}Допоможеш трохи?"
 
 # game/game/script.rpy:3116
 translate ukrainian orcfight_start_6c8374f0_1:
 
     # y "Wa wa wa wa."
-    y "Wa wa wa wa."
+    y "{i}Ва ва ва вах.{/i}"
 
 # game/game/script.rpy:3118
 translate ukrainian orcfight_start_3b915abd_1:
 
     # ak "Chuuu~"
-    ak "Chuuu~"
+    ak "{i}Чмоок~{/i}"
 
 # game/game/script.rpy:3119
 translate ukrainian orcfight_start_d64c5287:
 
     # t "Strange, I don't feel pain..."
-    t "Strange, I don't feel pain..."
+    t "Дивно, зовсім не боляче..."
 
 # game/game/script.rpy:3121
 translate ukrainian orcfight_start_21a501a3:
 
     # h "Ara~ {w}we are too late..."
-    h "Ara~ {w}we are too late..."
+    h "Овва~ {w}ми не встигли..."
 
 # game/game/script.rpy:3122
 translate ukrainian orcfight_start_fc3a95ab:
 
     # r "Master?"
-    r "Master?"
+    r "Господарю?"
 
 # game/game/script.rpy:3123
 translate ukrainian orcfight_start_a88c5771:
 
     # mc "Hana, what's going-"
-    mc "Hana, what's going-"
+    mc "Хана, що вона ро-"
 
 # game/game/script.rpy:3125
 translate ukrainian orcfight_start_ab2010fe:
 
     # mc "On-"
-    mc "On-"
+    mc "...-бить."
 
 # game/game/script.rpy:3128
 translate ukrainian orcfight_start_7cf0f5af:
@@ -9243,13 +9243,13 @@ translate ukrainian orcfight_start_7cf0f5af:
 translate ukrainian orcfight_start_d14216c9:
 
     # h "Oh."
-    h "Oh."
+    h "Ох."
 
 # game/game/script.rpy:3130
 translate ukrainian orcfight_start_6c8374f0_2:
 
     # y "Wa wa wa wa."
-    y "Wa wa wa wa."
+    y "{i}Ва ва ва вах.{/i}"
 
 # game/game/script.rpy:3150
 translate ukrainian rod_mision_97ac5e41:
@@ -28932,7 +28932,7 @@ translate ukrainian strings:
 
     # game/script.rpy:2894
     old "Try again"
-    new "Try again"
+    new "Спробувати знову"
 
 translate ukrainian strings:
     ## Дисклеймер
@@ -29174,6 +29174,30 @@ translate ukrainian strings:
     old "Yui gives the signal and you all prepare to leave the village."
     new "Юї дає команду, і ви всі готуєтеся рушити з селища."
 
+    old "After walking 15 minutes."
+    new "Після 15 хвилин ходьби."
+
+    old "Two wolves appear."
+    new "З'явилося два вовки."
+
+    old "Well done!"
+    new "Гарна робота!"
+
+    old "You're getting stronger! Soon we'll be able to-"
+    new "Ти стаєш усе сильнішим! Скоро ми зможемо-"
+
+    old "You approach the girls."
+    new "Ти підійшов до дівчат."
+
+    old "You feel two stings followed by soft lips on your neck."
+    new "Ти відчув два невеликі уколи, а слідом — дотик ніжних губ до шиї."
+
+    old "Congratulations! You can now go to the forest and its surroundings!"
+    new "Вітаємо! Тепер ти можеш ходити до лісу та його околиць!"
+
+    old "{image=corazon_wing}{color=#FF5C5C}Akane{/color} has been added!"
+    new "{image=corazon_wing}Додано знайомство з {color=#FF5C5C}Акане{/color}!"
+
 ### NOT SORTED
 
     old "{b}Don't leave."
@@ -29197,9 +29221,6 @@ translate ukrainian strings:
     old "If something bad happens {size=-6}don't fall  {size=-15}into madness..."
     new "If something bad happens {size=-6}don't fall  {size=-15}into madness..."
 
-    old "You feel two stings followed by soft lips on your neck."
-    new "You feel two stings followed by soft lips on your neck."
-
     old "I think the title fits you perfectly..."
     new "I think the title fits you perfectly..."
 
@@ -29211,12 +29232,6 @@ translate ukrainian strings:
 
     old "You're still too weak to remember."
     new "You're still too weak to remember."
-
-    old "Two wolves appear."
-    new "Two wolves appear."
-
-    old "{image=corazon_wing}{color=#FF5C5C}Akane{/color} has been added!"
-    new "{image=corazon_wing}{color=#FF5C5C}Akane{/color} has been added!"
 
     old "But at the same time... it scares me."
     new "But at the same time... it scares me."
@@ -29290,9 +29305,6 @@ translate ukrainian strings:
     old "Now you can flee from combats."
     new "Now you can flee from combats."
 
-    old "You approach the girls."
-    new "You approach the girls."
-
     old "{size=-10}My little crybaby..."
     new "{size=-10}My little crybaby..."
 
@@ -29310,9 +29322,6 @@ translate ukrainian strings:
 
     old "I was too careless..."
     new "I was too careless..."
-
-    old "You're getting stronger! Soon we'll be able to-"
-    new "You're getting stronger! Soon we'll be able to-"
 
     old "{outlinecolor=#000000}{i}Breathe... control your mind, [mc]."
     new "{outlinecolor=#000000}{i}Breathe... control your mind, [mc]."
@@ -29332,14 +29341,8 @@ translate ukrainian strings:
     old "{image=quest_text}You've taken the gates to Mayu."
     new "{image=quest_text}You've taken the gates to Mayu."
 
-    old "Congratulations! You can now go to the forest and its surroundings!"
-    new "Congratulations! You can now go to the forest and its surroundings!"
-
     old "Hey? Are you listening?"
     new "Hey? Are you listening?"
 
     old "{image=quest_text}Now you can collect wood!"
     new "{image=quest_text}Now you can collect wood!"
-
-    old "After walking 15 minutes."
-    new "After walking 15 minutes."
