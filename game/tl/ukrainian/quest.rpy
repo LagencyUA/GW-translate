@@ -23,7 +23,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:193
     old "New Places"
-    new "New Places"
+    new "Нові місця"
 
     # game/quest.rpy:199
     old "Fishing Rod"
@@ -171,6 +171,24 @@ translate ukrainian strings:
     old "{s}-Time to secure the {color=#ffffff}forest{/color} (Select it on the map).{/s}"
     new "{s}- Настав час убезпечити {color=#ffffff}ліс{/color} (обери його на мапі).{/s}"
 
+    old "With the {color=#ffffff}forest{/color} secured I can now explore freely. I should investigate the new places and see what I can do to help."
+    new "Тепер, коли {color=#ffffff}ліс{/color} у безпеці, я можу вільно його досліджувати. Мені слід оглянути нові місця й подивитися, чим я можу допомогти."
+
+    old "-Explore the big door of the {color=#ffffff}forest{/color}."
+    new "- Оглянь великі ворота до {color=#ffffff}лісу{/color}."
+    old "{s}-Explore the big door of the {color=#ffffff}forest{/color}.{/s}"
+    new "{s}- Оглянь великі ворота до {color=#ffffff}лісу{/color}.{/s}"
+
+    old "-Explore the {color=#ffffff}lake{/color}."
+    new "- Оглянь {color=#ffffff}озеро{/color}."
+    old "{s}-Explore the {color=#ffffff}lake{/color}.{/s}"
+    new "{s}- Оглянь {color=#ffffff}озеро{/color}.{/s}"
+
+    old "-Finish your new missions."
+    new "- Виконай інші завдання, що з'являться."
+    old "{s}-Finish your new missions.{/s}"
+    new "{s}- Виконай інші завдання, що з'являться.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -212,9 +230,6 @@ translate ukrainian strings:
 
     old "-Go to the bridge in the morning and meet {color=#BD4A17}Sayori{/color}."
     new "-Go to the bridge in the morning and meet {color=#BD4A17}Sayori{/color}."
-
-    old "-Explore the big door of the {color=#ffffff}forest{/color}."
-    new "-Explore the big door of the {color=#ffffff}forest{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Time to go swimming! (Select the location on the map)."
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Time to go swimming! (Select the location on the map)."
@@ -420,9 +435,6 @@ translate ukrainian strings:
     old "{size=-8}Was it a trap? Does the queen have that kind of power? \nI remember that the spell was directed at Charlotte. Should I try it alone this time?"
     new "{size=-8}Was it a trap? Does the queen have that kind of power? \nI remember that the spell was directed at Charlotte. Should I try it alone this time?"
 
-    old "With the {color=#ffffff}forest{/color} secured I can now explore freely. I should investigate the new places and see what I can do to help."
-    new "With the {color=#ffffff}forest{/color} secured I can now explore freely. I should investigate the new places and see what I can do to help."
-
     old "{color=#E3CD5B}{b}•{/b}{/color} Wait for Kaede to open her shop. \n   {color=#ff9900}{b}•{/b}{/color} Complete adventurer quests, and advance Natsuki's story."
     new "{color=#E3CD5B}{b}•{/b}{/color} Wait for Kaede to open her shop. \n   {color=#ff9900}{b}•{/b}{/color} Complete adventurer quests, and advance Natsuki's story."
 
@@ -516,9 +528,6 @@ translate ukrainian strings:
     old "-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house."
     new "-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house."
 
-    old "-Finish your new missions."
-    new "-Finish your new missions."
-
     old "{size=-8}A dream or a memory? Could it be the work of the Goddesses, or is something playing with my mind?\nWhatever, Hana told me to rest so I'll take care of the pending tasks."
     new "{size=-8}A dream or a memory? Could it be the work of the Goddesses, or is something playing with my mind?\nWhatever, Hana told me to rest so I'll take care of the pending tasks."
 
@@ -566,9 +575,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Clear the new area.(Morning)"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Clear the new area.(Morning)"
-
-    old "-Explore the {color=#ffffff}lake{/color}."
-    new "-Explore the {color=#ffffff}lake{/color}."
 
     old "-You should talk to {color=#F3915B}Hana{/color}."
     new "-You should talk to {color=#F3915B}Hana{/color}."
