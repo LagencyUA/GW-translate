@@ -105,55 +105,55 @@ translate ukrainian aka_night_inte_b1805c96:
 translate ukrainian akane_forestmeet_78502bbe:
 
     # ak "Sigh*"
-    ak "Sigh*"
+    ak "{i}*Хааах*{/i}"
 
 # game/game/akane_events.rpy:64
 translate ukrainian akane_forestmeet_2b862b6d:
 
     # ak "{size=-10}{i}I did it again..."
-    ak "{size=-10}{i}I did it again..."
+    ak "{size=-10}{i}Я знову це злобила..."
 
 # game/game/akane_events.rpy:65
 translate ukrainian akane_forestmeet_164c7889:
 
     # ak "{size=-10}{i}With Hana's help I had managed to control myself all this time."
-    ak "{size=-10}{i}With Hana's help I had managed to control myself all this time."
+    ak "{size=-10}{i}Завдяки Хані мені вдавалося стримуватися весь цей час."
 
 # game/game/akane_events.rpy:67
 translate ukrainian akane_forestmeet_c1c0c9ae:
 
     # ak "{size=-10}{i}Will I have to leave this place too?"
-    ak "{size=-10}{i}Will I have to leave this place too?"
+    ak "{size=-10}{i}Невже мені доведеться піти й звідси?"
 
 # game/game/akane_events.rpy:68
 translate ukrainian akane_forestmeet_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Привіт."
 
 # game/game/akane_events.rpy:70
 translate ukrainian akane_forestmeet_6f0ceefa:
 
     # ak "{size=-10}{i}But I've never tasted anything so delicious..."
-    ak "{size=-10}{i}But I've never tasted anything so delicious..."
+    ak "{size=-10}{i}Але це я вперше скуштувала щось настільки смачне..."
 
 # game/game/akane_events.rpy:71
 translate ukrainian akane_forestmeet_68208f52:
 
     # mc "Hello? {w}I'll sit here if you don't mind."
-    mc "Hello? {w}I'll sit here if you don't mind."
+    mc "Агов? {w}Сяду поруч, якщо не проти."
 
 # game/game/akane_events.rpy:73
 translate ukrainian akane_forestmeet_5ef08cb9:
 
     # ak "{size=-10}{i}Now I can even hear his voice, what's happening to me?"
-    ak "{size=-10}{i}Now I can even hear his voice, what's happening to me?"
+    ak "{size=-10}{i}Тепер мені навіть його голос ввижається, що це зі мною?"
 
 # game/game/akane_events.rpy:74
 translate ukrainian akane_forestmeet_aacbf591:
 
     # mc "Now this place is pretty safe, isn't it?"
-    mc "Now this place is pretty safe, isn't it?"
+    mc "Це місце стало досить безпечним, як гадаєш?"
 
 # game/game/akane_events.rpy:76
 translate ukrainian akane_forestmeet_fd6dac5b:
@@ -165,7 +165,7 @@ translate ukrainian akane_forestmeet_fd6dac5b:
 translate ukrainian akane_forestmeet_2438b97c:
 
     # mc "The girls did a lot in a short time."
-    mc "The girls did a lot in a short time."
+    mc "Дівчата так багато зробили у такий короткий проміжок."
 
 # game/game/akane_events.rpy:79
 translate ukrainian akane_forestmeet_46b79df3:
@@ -177,73 +177,73 @@ translate ukrainian akane_forestmeet_46b79df3:
 translate ukrainian akane_forestmeet_2cd78439:
 
     # ak "Haaa?"
-    ak "Haaa?"
+    ak "Гааа?"
 
 # game/game/akane_events.rpy:82
 translate ukrainian akane_forestmeet_41124d0c:
 
     # mc "I'm also happy to see you."
-    mc "I'm also happy to see you."
+    mc "І я радий тебе бачити."
 
 # game/game/akane_events.rpy:84
 translate ukrainian akane_forestmeet_1c80f7ac:
 
     # ak "What the hell are you doing here?"
-    ak "What the hell are you doing here?"
+    ak "Якого біса ти тут робиш?"
 
 # game/game/akane_events.rpy:85
 translate ukrainian akane_forestmeet_bd8853d0:
 
     # mc "Shouldn’t I be here?"
-    mc "Shouldn’t I be here?"
+    mc "А мені не треба тут бути?"
 
 # game/game/akane_events.rpy:87
 translate ukrainian akane_forestmeet_83d76ea3:
 
     # ak "You know what I mean."
-    ak "You know what I mean."
+    ak "Ти прекрасно розумієш про що я."
 
 # game/game/akane_events.rpy:88
 translate ukrainian akane_forestmeet_4d52d1cc:
 
     # mc "Aah what a beautiful day."
-    mc "Aah what a beautiful day."
+    mc "Аах, який чудовий день."
 
 # game/game/akane_events.rpy:90
 translate ukrainian akane_forestmeet_737a2cb8:
 
     # ak "Are you looking for a fight?"
-    ak "Are you looking for a fight?"
+    ak "На бійку просишся?"
 
 # game/game/akane_events.rpy:91
 translate ukrainian akane_forestmeet_c396e6b0:
 
     # mc "I was looking for you."
-    mc "I was looking for you."
+    mc "Я тебе шукав."
 
 # game/game/akane_events.rpy:93
 translate ukrainian akane_forestmeet_5ba95e21:
 
     # ak "Haaa!?"
-    ak "Haaa!?"
+    ak "Гааа!?"
 
 # game/game/akane_events.rpy:95
 translate ukrainian akane_forestmeet_ec8e56b3:
 
     # ak "S-Surely it's because of something p-perverted, isn't it? {w}You and your simple mind."
-    ak "S-Surely it's because of something p-perverted, isn't it? {w}You and your simple mind."
+    ak "А-Авжеш це через якісь з-збочення, так? {w}Ти і твій обмежений розум."
 
 # game/game/akane_events.rpy:96
 translate ukrainian akane_forestmeet_fddec73d:
 
     # ak "You're all the same {w}Sigh* {w}you ruined my day."
-    ak "You're all the same {w}Sigh* {w}you ruined my day."
+    ak "Всі ви однакові... {w}{i}*Хааах*{/i} {w}лише зіпсував мій день."
 
 # game/game/akane_events.rpy:97
 translate ukrainian akane_forestmeet_4d26c57d:
 
     # mc "About what happened the other day-"
-    mc "About what happened the other day-"
+    mc "Щодо того, що сталося тоді-"
 
 # game/game/akane_events.rpy:100
 translate ukrainian akane_forestmeet_46b79df3_1:
@@ -255,13 +255,13 @@ translate ukrainian akane_forestmeet_46b79df3_1:
 translate ukrainian akane_forestmeet_f1821768:
 
     # ak "Sigh*..."
-    ak "Sigh*..."
+    ak "{i}*Хааах*...{/i}"
 
 # game/game/akane_events.rpy:104
 translate ukrainian akane_forestmeet_13a0a5b2:
 
     # ak "{size=-10}{i}What'll it be this time, monster? Beast? Disgusting?"
-    ak "{size=-10}{i}What'll it be this time, monster? Beast? Disgusting?"
+    ak "{size=-10}{i}І ким я буду цього разу, монстром? Звіром? Кимось огидною?"
 
 # game/game/akane_events.rpy:105
 translate ukrainian akane_forestmeet_d07c75f1:
