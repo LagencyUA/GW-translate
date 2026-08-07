@@ -8601,7 +8601,7 @@ translate ukrainian expedicion_forest_ffba88df:
 translate ukrainian expedicion_forest_f9f3efc1:
 
     # y "Get ready."
-    y "Готуйтесь."
+    y "Готуйтеся."
 
 # game/game/script.rpy:2817
 translate ukrainian expedicion_forest_f93cba98:
@@ -9183,7 +9183,7 @@ translate ukrainian orcfight_start_3b915abd:
 translate ukrainian orcfight_start_6c8374f0:
 
     # y "Wa wa wa wa."
-    y "{i}Ва ва ва вах.{/i}"
+    y "{i}Ва-ва-ва-вах.{/i}"
 
 # game/game/script.rpy:3115
 translate ukrainian orcfight_start_aaa91e92:
@@ -9195,7 +9195,7 @@ translate ukrainian orcfight_start_aaa91e92:
 translate ukrainian orcfight_start_6c8374f0_1:
 
     # y "Wa wa wa wa."
-    y "{i}Ва ва ва вах.{/i}"
+    y "{i}Ва-ва-ва-вах.{/i}"
 
 # game/game/script.rpy:3118
 translate ukrainian orcfight_start_3b915abd_1:
@@ -9249,7 +9249,7 @@ translate ukrainian orcfight_start_d14216c9:
 translate ukrainian orcfight_start_6c8374f0_2:
 
     # y "Wa wa wa wa."
-    y "{i}Ва ва ва вах.{/i}"
+    y "{i}Ва-ва-ва-вах.{/i}"
 
 # game/game/script.rpy:3150
 translate ukrainian rod_mision_97ac5e41:
