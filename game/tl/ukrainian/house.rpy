@@ -3,25 +3,25 @@
 translate ukrainian toilet_door_f450d4e9:
 
     # t "No one is there."
-    t "No one is there."
+    t "Там нікого."
 
 # game/game/house.rpy:627
 translate ukrainian room1_trash_e949394c:
 
     # t "It seems that the wall is broken and the floor is rotten..."
-    t "It seems that the wall is broken and the floor is rotten..."
+    t "Видно, що одна зі стін пошкоджена, а підлога прогнила..."
 
 # game/game/house.rpy:629
 translate ukrainian room1_trash_43eb7681:
 
     # t "There's not much here but garbage, who can fix this?"
-    t "There's not much here but garbage, who can fix this?"
+    t "Тут майже нічого немає, крім сміття. Хто б міг її полагодити?"
 
 # game/game/house.rpy:631
 translate ukrainian room1_trash_125f0fbd:
 
     # t "Will Yui be able to help me with this?"
-    t "Will Yui be able to help me with this?"
+    t "Можливо, Юї зможе мені допомогти із цим?"
 
 # game/game/house.rpy:642
 translate ukrainian room2_trash_90c3f7e0:
@@ -33,19 +33,19 @@ translate ukrainian room2_trash_90c3f7e0:
 translate ukrainian room2_trash_5c21fd65:
 
     # t "The floor is broken and I think I can see the sky through the ceiling."
-    t "The floor is broken and I think I can see the sky through the ceiling."
+    t "Підлога пошкоджена, і, здається мені, я можу бачити небо крізь стелю."
 
 # game/game/house.rpy:648
 translate ukrainian room2_trash_43eb7681:
 
     # t "There's not much here but garbage, who can fix this?"
-    t "There's not much here but garbage, who can fix this?"
+    t "Тут майже нічого немає, крім сміття. Хто б міг її полагодити?"
 
 # game/game/house.rpy:650
 translate ukrainian room2_trash_125f0fbd:
 
     # t "Will Yui be able to help me with this?"
-    t "Will Yui be able to help me with this?"
+    t "Можливо, Юї зможе мені допомогти із цим?"
 
 # game/game/house.rpy:722
 translate ukrainian call_karyn_room_6c057ed5:
@@ -165,19 +165,19 @@ translate ukrainian strings:
 
     # game/house.rpy:31
     old "SHOWER"
-    new "SHOWER"
+    new "Ванна кімната"
 
     # game/house.rpy:39
     old "TOILET"
-    new "TOILET"
+    new "Туалет"
 
     # game/house.rpy:47
     old "STORAGE"
-    new "STORAGE"
+    new "Комора"
 
     # game/house.rpy:56
     old "A room in bad condition."
-    new "A room in bad condition."
+    new "Кімната у поганому стані"
 
     # game/house.rpy:58
     old "{color=#319B85}Charlotte's{/color} room"
@@ -189,19 +189,23 @@ translate ukrainian strings:
 
     # game/house.rpy:77
     old "Other rooms"
-    new "Other rooms"
+    new "Інші кімнати"
 
     # game/house.rpy:149
     old "{size=-8}Do you want to take a bath?"
-    new "{size=-8}Do you want to take a bath?"
+    new "{size=-8}Бажаєш прийняти ванну?"
 
     # game/house.rpy:214
     old "Knock on the door? {font=fonts/Ebrima.ttf}{size=-15}{color=#EED1AB}([por_occu] of being occupied)"
-    new "Knock on the door? {font=fonts/Ebrima.ttf}{size=-15}{color=#EED1AB}([por_occu] of being occupied)"
+    new "Постукати? {font=fonts/Ebrima.ttf}{size=-12}{color=#EED1AB}([por_occu] ймовірність, що там хтось є)"
+
+    # game/house.rpy:214
+    old "Enter"
+    new "Увійти"
 
     # game/house.rpy:283
     old "BACKYARD"
-    new "BACKYARD"
+    new "Задній двір"
 
     # game/house.rpy:295
     old "{size=-8}A kitchen in poor condition.\n{color=#FFFFFF}Maybe if there's{/color} {color=#E12E50}someone{/color} {color=#FFFFFF}who knows how to cook I could use it."
@@ -209,7 +213,7 @@ translate ukrainian strings:
 
     # game/house.rpy:297
     old "{size=-8}You must complete more missions!"
-    new "{size=-8}You must complete more missions!"
+    new "Доступно після певного завдання!"
 
     # game/house.rpy:299
     old "{size=-8}{color=#E12E50}Akane{/color} can cook!?\n{color=#FFFFFF}I should talk to Mayu to repair it."
@@ -221,7 +225,7 @@ translate ukrainian strings:
 
     # game/house.rpy:315
     old "I don't need so many rooms."
-    new "I don't need so many rooms."
+    new "Мені поки не треба так багато кімнат."
 
     # game/house.rpy:317
     old "{size=-8}I should go talk to {color=#919191}Mayu{/color} about repairing the second floor."
