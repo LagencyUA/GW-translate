@@ -653,15 +653,15 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1755
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nTry to talk to {color=#319B85}Charlotte{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nTry to talk to {color=#319B85}Charlotte{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпробуй поговорити з {color=#319B85}Шарлоттою{/color}."
 
     # game/day_time.rpy:1757
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFollow the instructions of the mission {color=#319B85}\"Cat's Curiosity\"{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFollow the instructions of the mission {color=#319B85}\"Cat's Curiosity\"{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nДотримуйтеся вказівок завдання {color=#319B85}«Кошача цікавість»{/color}."
 
     # game/day_time.rpy:1767
     old "{color=#FFFFFF}N{/color}-Event\nTalk with {color=#319B85}Charlotte{/color} in the afternoon."
-    new "{color=#FFFFFF}N{/color}-Event\nTalk with {color=#319B85}Charlotte{/color} in the afternoon."
+    new "{color=#FFFFFF}З{/color}-подія\nПоговори з {color=#319B85}Шарлоттою{/color} удень."
 
     # game/day_time.rpy:1782
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#319B85}Charlotte{/color}."

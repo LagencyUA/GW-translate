@@ -39,7 +39,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:217
     old "Cat Curiosity"
-    new "Cat Curiosity"
+    new "Кошача цікавість"
 
     # game/quest.rpy:223
     old "Runes and Goddesses"
@@ -214,6 +214,24 @@ translate ukrainian strings:
     new "- У мене вже достатньо деревини, варто завітати до {color=#FBE5A2}Юї{/color} додому та сказати їй."
     old "{s}-I already have the wood, I should go to {color=#FBE5A2}Yui's{/color} house to let her know.{/s}"
     new "{s}- У мене вже достатньо деревини, варто завітати до {color=#FBE5A2}Юї{/color} додому та сказати їй.{/s}"
+
+    old "{color=#319B85}Charlotte{/color} seems to be quite distant, there must be some way I can get close to her."
+    new "Видно, що {color=#319B85}Шарлотта{/color} досить віддалена, але ж має бути якийсь спосіб наблизитися до неї."
+
+    old "-Talk to her again."
+    new "- Поговори з нею знову."
+    old "{s}-Talk to her again.{/s}"
+    new "{s}- Поговори з нею знову.{/s}"
+
+    old "-Follow your instincts and get 3 E-rank fish."
+    new "- Довірся інстинкам і злови 3 риби E-рангу."
+    old "{s}-Follow your instincts and get 3 E-rank fish.{/s}"
+    new "{s}- Довірся інстинкам і злови 3 риби E-рангу.{/s}"
+
+    old "-Even though it has worked, she won't talk to me if I don't give her food, I should keep doing that."
+    new "- Хоча це й спрацювало, вона не хоче зі мною розмовляти, якщо я не дам їй їжі, тож мені слід продовжувати так робити."
+    old "{s}-Even though it has worked, she won't talk to me if I don't give her food, I should keep doing that.{/s}"
+    new "{s}- Хоча це й спрацювало, вона не хоче зі мною розмовляти, якщо я не дам їй їжі, тож мені слід продовжувати так робити.{/s}"
 
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
@@ -407,9 +425,6 @@ translate ukrainian strings:
     old "-Spend time with {color=#319B85}Charlotte{/color}."
     new "-Spend time with {color=#319B85}Charlotte{/color}."
 
-    old "-Talk to her again."
-    new "-Talk to her again."
-
     old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
     new "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
 
@@ -518,9 +533,6 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color}  {font=fonts/Ebrima.ttf}Go to your living room in the evening."
     new "{color=#E3CD5B}{b}•{/b}{/color}  {font=fonts/Ebrima.ttf}Go to your living room in the evening."
 
-    old "-Follow your instincts and get 3 E-rank fish."
-    new "-Follow your instincts and get 3 E-rank fish."
-
     old "{color=#E3CD5B}{b}•{/b}{/color} Head to the {color=#ff0058}Lycoris clan{/color} in the morning."
     new "{color=#E3CD5B}{b}•{/b}{/color} Head to the {color=#ff0058}Lycoris clan{/color} in the morning."
 
@@ -550,9 +562,6 @@ translate ukrainian strings:
 
     old "-You can now go to the new village (Select it on the map)."
     new "-You can now go to the new village (Select it on the map)."
-
-    old "{color=#319B85}Charlotte{/color} seems to be quite distant, there must be some way I can get close to her."
-    new "{color=#319B85}Charlotte{/color} seems to be quite distant, there must be some way I can get close to her."
 
     old "-I should go to the {color=#ffffff}Stones{/color} now (Select it on the map)."
     new "-I should go to the {color=#ffffff}Stones{/color} now (Select it on the map)."
@@ -658,9 +667,6 @@ translate ukrainian strings:
 
     old "-Look for the sign outside one of the houses in Sakura Town."
     new "-Look for the sign outside one of the houses in Sakura Town."
-
-    old "-Even though it has worked, she won't talk to me if I don't give her food, I should keep doing that."
-    new "-Even though it has worked, she won't talk to me if I don't give her food, I should keep doing that."
 
     old "-It's time to rest, you deserve it, go to sleep until the next day."
     new "-It's time to rest, you deserve it, go to sleep until the next day."
