@@ -3,13 +3,13 @@
 translate ukrainian fishing_menu_lake_8bf86694:
 
     # t "I should go home, it's too late for fishing."
-    t "I should go home, it's too late for fishing."
+    t "Запізно для рибальства, варто мені вже додому."
 
 # game/game/yeahfish.rpy:285
 translate ukrainian fishing_menu_lake_0e13958e:
 
     # t "It seems that something has bitten!"
-    t "It seems that something has bitten!"
+    t "Здається, щось клює!"
 
 # game/game/yeahfish.rpy:310
 translate ukrainian fishing_menu_st_c85c9bb2:
@@ -45,25 +45,25 @@ translate ukrainian fishing_menu_st_0e13958e:
 translate ukrainian end_fishing_8693a646:
 
     # "You have obtained [fish_count] [fish_message]"
-    "You have obtained [fish_count] [fish_message]"
+    "Ти зловив: [fish_message] (x[fish_count])!"
 
 # game/game/yeahfish.rpy:512
 translate ukrainian end_fishing_8bf86694:
 
     # t "I should go home, it's too late for fishing."
-    t "I should go home, it's too late for fishing."
+    t "Запізно для рибальства, варто мені вже додому."
 
 # game/game/yeahfish.rpy:536
 translate ukrainian end_fishing_0e13958e:
 
     # t "It seems that something has bitten!"
-    t "It seems that something has bitten!"
+    t "Здається, щось клює!"
 
 # game/game/yeahfish.rpy:555
 translate ukrainian fish_escaped_377c29c8:
 
     # "The fish escaped!"
-    "The fish escaped!"
+    "Риба вирвалася!"
 
 # game/game/yeahfish.rpy:571
 translate ukrainian fishing_mission_e44bee7d:
@@ -759,39 +759,27 @@ translate ukrainian strings:
 
     # game/yeahfish.rpy:276
     old "Fishing"
-    new "Fishing"
+    new "Рибальство"
 
     # game/yeahfish.rpy:520
     old "Continue fishing"
-    new "Continue fishing"
+    new "Рибалити далі"
 
 translate ukrainian strings:
-    old "D rank fish!"
-    new "D rank fish!"
+    old "Fishing Tutorial"
+    new "{size=-5}Посібник з рибальства"
+
+    old "Good"
+    new "Гарно"
+
+    old "Bad"
+    new "Погано"
 
     old "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
-    new "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
-
-    old "S rank fish!"
-    new "S rank fish!"
-
-    old "B rank fish!"
-    new "B rank fish!"
+    new "Кожного разу, коли ти промахуєшся або {color=#39A761}зелена зона{/color} змінює положення з часом, гачок зазнає {color=#C23833}шкоди{/color}."
 
     old "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
-    new "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
+    new "Риба рухається з {color=#7FAED9}ліва{/color} на {color=#7FAED9}право{/color}, і коли вона пропливе над {color=#39A761}зеленою зоною{/color} (або {color=#C23833}червоною зоною{/color}), необхідно клацнути або натиснути пробіл (тиснути на екран для Android)."
 
     old "Now you can fish in Sakura Town!"
     new "Now you can fish in Sakura Town!"
-
-    old "Fishing Tutorial"
-    new "Fishing Tutorial"
-
-    old "C rank fish!"
-    new "C rank fish!"
-
-    old "E rank fish!"
-    new "E rank fish!"
-
-    old "A rank fish!"
-    new "A rank fish!"
