@@ -32,6 +32,15 @@ translate ukrainian strings:
     new "Volver al menú principal"
 
 translate ukrainian strings:
+    # Досвід випливаючі сповіщення зверху
+    ## loggingexp_bar_frame
+    old "{size=-10}{size=+1}Logging"
+    new "{size=-10}{size=+1}Лісозаготівля"
+
+    ## fishexp_bar_frame
+    old "{size=-10}{size=+1}Fishing"
+    new "{size=-10}{size=+1}Рибальство"
+
     old "A sweet bread"
     new "A sweet bread"
 

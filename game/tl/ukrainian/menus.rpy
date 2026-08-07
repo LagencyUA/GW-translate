@@ -57,6 +57,20 @@ translate ukrainian strings:
 
     old "{size=-3}Night"
     new "{size=-3}Ніч"
+
+    # Меню навчання лісозаготівлі
+    old "Logging Tutorial"
+    new "{size=-10}Посібник з\nлісозаготівлі{/size}"
+
+    old "You must {color=#39A761}Click / Space bar/ Tap for Android{/color} when the bar is as full as possible.\nEvery time you make a perfect hit, it counts as a {color=#FFD952}Critical Hit."
+    new "Треба {color=#39A761}клацати / натискати пробіл / тиснути екран (на Android){/color}, коли смуга заповниться якомога максимально. Кожен раз, коли ти робиш ідеальний удар, він зараховується як {color=#FFD952}критичний удар."
+
+    old "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
+    new "{color=#C23833}Але обережніше{/color}, адже чим більше ти робиш {color=#FFD952}критичних ударів{/color}, тим {color=#39A761}швидше{/color} смуга заповнюється!"
+
+    old "Each tree will have different {color=#7FAED9}resistance{/color}\nThe faster you knock down the tree, the {color=#39A761}more wood{/color} you get!"
+    new "У кожного дерева різний {color=#7FAED9}захист{/color}.\nЧим швидше його зрубиш, тим {color=#39A761}більше деревини{/color} отримуєш!\n\n"
+
 ###
 
     old "{size=-10}Adventurer interface"
@@ -64,9 +78,6 @@ translate ukrainian strings:
 
     old "You will not be charged for the money."
     new "You will not be charged for the money."
-
-    old "Each tree will have different {color=#7FAED9}resistance{/color}\nThe faster you knock down the tree, the {color=#39A761}more wood{/color} you get!"
-    new "Each tree will have different {color=#7FAED9}resistance{/color}\nThe faster you knock down the tree, the {color=#39A761}more wood{/color} you get!"
 
     old "vertical"
     new "vertical"
@@ -83,14 +94,8 @@ translate ukrainian strings:
     old "You are about to play the Halloween event again."
     new "You are about to play the Halloween event again."
 
-    old "Logging Tutorial"
-    new "Logging Tutorial"
-
     old "missions"
     new "missions"
-
-    old "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
-    new "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
 
     old "Since it is based on an advanced part of the story, the girls may have more confidence with you.\nThere may be spoilers in their interactions."
     new "Since it is based on an advanced part of the story, the girls may have more confidence with you.\nThere may be spoilers in their interactions."
@@ -103,6 +108,3 @@ translate ukrainian strings:
 
     old "If you want to {color=#ffffff}adjust its position{/color}, you can grab it from {color=#FFD952}the top bar{/color} and move it wherever you like.\nIf you want to {color=#ffffff}hide it{/color}, just press the {color=#fff}eye icon{/color} in the {color=#FFD952}top-right corner{/color}."
     new "If you want to {color=#ffffff}adjust its position{/color}, you can grab it from {color=#FFD952}the top bar{/color} and move it wherever you like.\nIf you want to {color=#ffffff}hide it{/color}, just press the {color=#fff}eye icon{/color} in the {color=#FFD952}top-right corner{/color}."
-
-    old "You must {color=#39A761}Click / Space bar/ Tap for Android{/color} when the bar is as full as possible.\nEvery time you make a perfect hit, it counts as a {color=#FFD952}Critical Hit."
-    new "You must {color=#39A761}Click / Space bar/ Tap for Android{/color} when the bar is as full as possible.\nEvery time you make a perfect hit, it counts as a {color=#FFD952}Critical Hit."
