@@ -69,19 +69,19 @@ translate ukrainian fish_escaped_377c29c8:
 translate ukrainian fishing_mission_e44bee7d:
 
     # t "Looks like a good place to fish but I need a rod."
-    t "Looks like a good place to fish but I need a rod."
+    t "Виглядає як ідеальне місце для риболовлі, але мені треба вудка."
 
 # game/game/yeahfish.rpy:572
 translate ukrainian fishing_mission_b0cb457c:
 
     # t "Maybe Hana knows where to get one."
-    t "Maybe Hana knows where to get one."
+    t "Можливо, Хана знає де мені дістати її."
 
 # game/game/yeahfish.rpy:576
 translate ukrainian fishing_mission_f61d95d8:
 
     # t "I must go and talk to Hana."
-    t "I must go and talk to Hana."
+    t "Варто мені запитати у Хани."
 
 # game/game/yeahfish.rpy:588
 translate ukrainian st_first_fishing_8fea2db2:

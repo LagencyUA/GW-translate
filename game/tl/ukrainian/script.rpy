@@ -9255,307 +9255,307 @@ translate ukrainian orcfight_start_6c8374f0_2:
 translate ukrainian rod_mision_97ac5e41:
 
     # h "Oh! How are you today?"
-    h "Oh! How are you today?"
+    h "О! Привіт. Як справи?"
 
 # game/game/script.rpy:3151
 translate ukrainian rod_mision_9a523ff8:
 
     # mc "Hey Hana, are you busy?"
-    mc "Hey Hana, are you busy?"
+    mc "Привіт, Хано. Ти зараз зайнята?"
 
 # game/game/script.rpy:3153
 translate ukrainian rod_mision_4a278b99:
 
     # h "Not at all, do you need something?"
-    h "Not at all, do you need something?"
+    h "Зовсім ні. Треба моя допомога?"
 
 # game/game/script.rpy:3154
 translate ukrainian rod_mision_9ea8fe28:
 
     # mc "I was investigating the surrounding area and realized that the lake is now safe enough to fish."
-    mc "I was investigating the surrounding area and realized that the lake is now safe enough to fish."
+    mc "Я досліджував околиці й зрозумів, що озеро зараз стало достатньо безпечне, аби рибалити у ньому."
 
 # game/game/script.rpy:3156
 translate ukrainian rod_mision_e3619e8c:
 
     # h "You're right, Yui mentioned something like that."
-    h "You're right, Yui mentioned something like that."
+    h "А й справді, Юї теж щось подібне казала."
 
 # game/game/script.rpy:3158
 translate ukrainian rod_mision_638113b4:
 
     # h "We were going to put a person in charge of that."
-    h "We were going to put a person in charge of that."
+    h "Ми планували зробити когось відповідальним за це."
 
 # game/game/script.rpy:3160
 translate ukrainian rod_mision_c65a8e10:
 
     # h "{size=-10}And now that I remember, there was a girl who loved to fish."
-    h "{size=-10}And now that I remember, there was a girl who loved to fish."
+    h "{size=-10}А тепер, коли я це згадала, колись тут була дівчина, яка обожнювала ловити рибу."
 
 # game/game/script.rpy:3161
 translate ukrainian rod_mision_d401ed24:
 
     # mc "Do you know where I can get a fishing rod?"
-    mc "Do you know where I can get a fishing rod?"
+    mc "Не знаєш де я можу вз'яти вудку?"
 
 # game/game/script.rpy:3163
 translate ukrainian rod_mision_ddb33831:
 
     # h "Do you know how to fish?"
-    h "Do you know how to fish?"
+    h "Ти вмієш рибалити?"
 
 # game/game/script.rpy:3164
 translate ukrainian rod_mision_d68efc84:
 
     # mc "I'm a fast learner."
-    mc "I'm a fast learner."
+    mc "Я швидко вчуся."
 
 # game/game/script.rpy:3166
 translate ukrainian rod_mision_1c7940fa:
 
     # h "Hmm... Have you searched your house? I remember there was a room where they kept that kind of stuff..."
-    h "Hmm... Have you searched your house? I remember there was a room where they kept that kind of stuff..."
+    h "Гмм... Не дивився у власному будинку? Пам'ятаю там була кімната, де зберігалися подібні речі..."
 
 # game/game/script.rpy:3167
 translate ukrainian rod_mision_4ca02bdb:
 
     # mc "Oh.."
-    mc "Oh.."
+    mc "Ох..."
 
 # game/game/script.rpy:3169
 translate ukrainian rod_mision_dc1c1cd3:
 
     # mc "Now that you mention it, I haven't checked anything but the bathroom and the backyard...."
-    mc "Now that you mention it, I haven't checked anything but the bathroom and the backyard...."
+    mc "Якщо вже про це заговорили, то я справді перевірив лише ванну кімнату та задній двір..."
 
 # game/game/script.rpy:3171
 translate ukrainian rod_mision_61533207:
 
     # h "Hahaha why am I not surprised."
-    h "Hahaha why am I not surprised."
+    h "Хахаха, чому я не здивована."
 
 # game/game/script.rpy:3173
 translate ukrainian rod_mision_8df368fe:
 
     # h "There are rooms which you can easily transform into bedrooms."
-    h "There are rooms which you can easily transform into bedrooms."
+    h "Там повно кімнат, які можна легко перетворити на спальні."
 
 # game/game/script.rpy:3175
 translate ukrainian rod_mision_2c81517c:
 
     # h "Although, I think they were pretty much abandoned, you might have to invest in materials and stuff."
-    h "Although, I think they were pretty much abandoned, you might have to invest in materials and stuff."
+    h "Хоча, гадаю, вони практично занедбані. Тобі, можливо, доведеться витратитися на матеріали та інше."
 
 # game/game/script.rpy:3176
 translate ukrainian rod_mision_ca17a820:
 
     # mc "That sounds pretty good, Ryoko has had to sleep with me all this time."
-    mc "That sounds pretty good, Ryoko has had to sleep with me all this time."
+    mc "Звучить чудово, Рьоко постійно доводиться спати поруч зі мною."
 
 # game/game/script.rpy:3178
 translate ukrainian rod_mision_0c1be5d6:
 
     # h "{size=-10}{i}I wouldn't consider that as a bad thing..."
-    h "{size=-10}{i}I wouldn't consider that as a bad thing..."
+    h "{size=-10}{i}Я б не назвала це чимось поганим..."
 
 # game/game/script.rpy:3180
 translate ukrainian rod_mision_f5cd0367:
 
     # mc "Well, I'll see if I'm lucky."
-    mc "Well, I'll see if I'm lucky."
+    mc "Ну, подивимося, чи пощастить мені."
 
 # game/game/script.rpy:3182
 translate ukrainian rod_mision_c046956a:
 
     # h "Ok! Say hi to Ryoko for me!"
-    h "Ok! Say hi to Ryoko for me!"
+    h "Гаразд! Передавай Рьоко привіт від мене!"
 
 # game/game/script.rpy:3184
 translate ukrainian rod_mision_07dc4120:
 
     # mc "Seeya."
-    mc "Seeya."
+    mc "Побачимося."
 
 # game/game/script.rpy:3194
 translate ukrainian storage_rod_4aa6a25a:
 
     # t "This must be the room that Hana told me about."
-    t "This must be the room that Hana told me about."
+    t "Здаєтья, це та кімната, про яку мені казала Хана."
 
 # game/game/script.rpy:3195
 translate ukrainian storage_rod_fc3a95ab:
 
     # r "Master?"
-    r "Master?"
+    r "Господарю?"
 
 # game/game/script.rpy:3197
 translate ukrainian storage_rod_2a45732e:
 
     # mc "Oh, what's up?"
-    mc "Oh, what's up?"
+    mc "О, як спави?"
 
 # game/game/script.rpy:3199
 translate ukrainian storage_rod_9b7fef51:
 
     # r "What are you doing?"
-    r "What are you doing?"
+    r "Чудово. Що ви робите?"
 
 # game/game/script.rpy:3201
 translate ukrainian storage_rod_c4cfde76:
 
     # mc "I'm looking for something."
-    mc "I'm looking for something."
+    mc "Я дещо шукаю."
 
 # game/game/script.rpy:3202
 translate ukrainian storage_rod_bf051c37:
 
     # mc "Do you want to help me?"
-    mc "Do you want to help me?"
+    mc "Хочеш мені допомогти?"
 
 # game/game/script.rpy:3204
 translate ukrainian storage_rod_25aa9a8d:
 
     # r "Yes! Please!"
-    r "Yes! Please!"
+    r "Так! Дякую!"
 
 # game/game/script.rpy:3205
 translate ukrainian storage_rod_e15055f8:
 
     # mc "Hahaha, I'm the one who should be thanking you."
-    mc "Hahaha, I'm the one who should be thanking you."
+    mc "Хахаха, це мені треба дякувати тобі."
 
 # game/game/script.rpy:3207
 translate ukrainian storage_rod_3e92a27b:
 
     # r "Hehehe."
-    r "Hehehe."
+    r "Хехехе."
 
 # game/game/script.rpy:3209
 translate ukrainian storage_rod_80336fbd:
 
     # r "And what are you looking for?"
-    r "And what are you looking for?"
+    r "І що саме ви шукаєте?"
 
 # game/game/script.rpy:3210
 translate ukrainian storage_rod_2743998f:
 
     # mc "A fishing rod."
-    mc "A fishing rod."
+    mc "Вудку."
 
 # game/game/script.rpy:3211
 translate ukrainian storage_rod_4b08bb47:
 
     # r "Fishing rod? {w}Here?"
-    r "Fishing rod? {w}Here?"
+    r "Вудку? {w}Тут?"
 
 # game/game/script.rpy:3212
 translate ukrainian storage_rod_b5b97ab3:
 
     # mc "Hana told me that they used to keep things here."
-    mc "Hana told me that they used to keep things here."
+    mc "Хана мені сказала, що тут зберігали різні речі."
 
 # game/game/script.rpy:3214
 translate ukrainian storage_rod_d517828a:
 
     # r "There are a lot of boxes!"
-    r "There are a lot of boxes!"
+    r "Як багато коробок!"
 
 # game/game/script.rpy:3215
 translate ukrainian storage_rod_55435cc4:
 
     # mc "Yeah.."
-    mc "Yeah.."
+    mc "Ага..."
 
 # game/game/script.rpy:3217
 translate ukrainian storage_rod_069596a0:
 
     # r "What do they contain?"
-    r "What do they contain?"
+    r "І що в них?"
 
 # game/game/script.rpy:3218
 translate ukrainian storage_rod_ec382866:
 
     # mc "I don't-"
-    mc "I don't-"
+    mc "Не зна-"
 
 # game/game/script.rpy:3219
 translate ukrainian storage_rod_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:3221
 translate ukrainian storage_rod_8745dd60:
 
     # mc "Look, {w}that must be it."
-    mc "Look, {w}that must be it."
+    mc "Поглянь, {w}здається, це вона."
 
 # game/game/script.rpy:3223
 translate ukrainian storage_rod_782d1076:
 
     # r "Right! I'll bring it to you!"
-    r "Right! I'll bring it to you!"
+    r "Дійсно! Зараз вам її подам!"
 
 # game/game/script.rpy:3225
 translate ukrainian storage_rod_f2316b97:
 
     # mc "Ah."
-    mc "Ah."
+    mc "Ах."
 
 # game/game/script.rpy:3226
 translate ukrainian storage_rod_c79c2f03:
 
     # t "She's always so enthusiastic."
-    t "She's always so enthusiastic."
+    t "У неї завжди так багато ентузіазму."
 
 # game/game/script.rpy:3228
 translate ukrainian storage_rod_1f872ae9:
 
     # mc "Hahaha, relax, it's not going anywhere."
-    mc "Hahaha, relax, it's not going anywhere."
+    mc "Хахаха, спокійніше, я не поспішаю."
 
 # game/game/script.rpy:3230
 translate ukrainian storage_rod_638d6422:
 
     # r "Hm?"
-    r "Hm?"
+    r "Гм?"
 
 # game/game/script.rpy:3232
 translate ukrainian storage_rod_d3dc0b3b:
 
     # r "It's stuck in something..."
-    r "It's stuck in something..."
+    r "Щось її тримає..."
 
 # game/game/script.rpy:3233
 translate ukrainian storage_rod_e6fa8b1c:
 
     # mc "Let me help you."
-    mc "Let me help you."
+    mc "Дозволь, я допоможу."
 
 # game/game/script.rpy:3235
 translate ukrainian storage_rod_570ddf9c:
 
     # r "Hmmp!"
-    r "Hmmp!"
+    r "{i}Гммп!{/i}"
 
 # game/game/script.rpy:3236
 translate ukrainian storage_rod_328de178:
 
     # mc "Wait, I think there's a box-"
-    mc "Wait, I think there's a box-"
+    mc "Стривай, видно, там короб-"
 
 # game/game/script.rpy:3238
 translate ukrainian storage_rod_d222d065:
 
     # r "I got it!"
-    r "I got it!"
+    r "Вийшло!"
 
 # game/game/script.rpy:3240
 translate ukrainian storage_rod_21358d67:
 
     # mc "Watch out!"
-    mc "Watch out!"
+    mc "Обережно!"
 
 # game/game/script.rpy:3242
 translate ukrainian storage_rod_a20cefa7:
@@ -9567,19 +9567,19 @@ translate ukrainian storage_rod_a20cefa7:
 translate ukrainian storage_rod_bc2b07bc:
 
     # mc "Are you okay? That box was pretty heavy."
-    mc "Are you okay? That box was pretty heavy."
+    mc "Не забилася? Та коробка доволі важка."
 
 # game/game/script.rpy:3244
 translate ukrainian storage_rod_99155f58:
 
     # r "{size=-10}Yes.."
-    r "{size=-10}Yes.."
+    r "{size=-10}Ні..."
 
 # game/game/script.rpy:3246
 translate ukrainian storage_rod_16525ed2:
 
     # mc "I told you to be more careful."
-    mc "I told you to be more careful."
+    mc "Казав же тобі, будь обережнішою."
 
 # game/game/script.rpy:3247
 translate ukrainian storage_rod_b9b755e5:
@@ -9591,19 +9591,19 @@ translate ukrainian storage_rod_b9b755e5:
 translate ukrainian storage_rod_ca4e5eee:
 
     # mc "Are you sure it didn't hit you?"
-    mc "Are you sure it didn't hit you?"
+    mc "Упевнена, що я випадково не задів тебе?"
 
 # game/game/script.rpy:3250
 translate ukrainian storage_rod_acee4f45:
 
     # r "Y-yes.. {w}{size=-10}Master...{w}{size=-10}[mc]..."
-    r "Y-yes.. {w}{size=-10}Master...{w}{size=-10}[mc]..."
+    r "Т-Так... {w}{size=-10}господарю...{w}{size=-5}[mc]..."
 
 # game/game/script.rpy:3252
 translate ukrainian storage_rod_ec60237f:
 
     # mc "I like your enthusiasm but-"
-    mc "I like your enthusiasm but-"
+    mc "Мені подобається твій ентузіазм, але-"
 
 # game/game/script.rpy:3253
 translate ukrainian storage_rod_b9b755e5_1:
@@ -9621,79 +9621,79 @@ translate ukrainian storage_rod_2b35b6fe:
 translate ukrainian storage_rod_e2f0c6d1:
 
     # t "Why... does she look so pretty right now...?"
-    t "Why... does she look so pretty right now...?"
+    t "Чому... зараз вона виглядає такою привабливою...?"
 
 # game/game/script.rpy:3257
 translate ukrainian storage_rod_e46f6f05:
 
     # r "{size=-10}Mas..{w}ter."
-    r "{size=-10}Mas..{w}ter."
+    r "{size=-10}Госпо...{w}дарю."
 
 # game/game/script.rpy:3259
 translate ukrainian storage_rod_32ca5bbe:
 
     # mc "Ryoko..."
-    mc "Ryoko..."
+    mc "Рьоко..."
 
 # game/game/script.rpy:3263
 translate ukrainian storage_rod_8dbc0be7:
 
     # r "Ah."
-    r "Ah."
+    r "Ах."
 
 # game/game/script.rpy:3264
 translate ukrainian storage_rod_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "Ох."
 
 # game/game/script.rpy:3266
 translate ukrainian storage_rod_7f9f6dd4:
 
     # t "I was about to..."
-    t "I was about to..."
+    t "Невже я збирався..."
 
 # game/game/script.rpy:3268
 translate ukrainian storage_rod_c21622d2:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "{i}*Кхм*{/i}"
 
 # game/game/script.rpy:3270
 translate ukrainian storage_rod_2039c3cd:
 
     # mc "The boxes fell off... haha..."
-    mc "The boxes fell off... haha..."
+    mc "Йой, коробки впали... хаха..."
 
 # game/game/script.rpy:3272
 translate ukrainian storage_rod_9783e33a:
 
     # r "Yes... {w}sorry."
-    r "Yes... {w}sorry."
+    r "Так... {w}пробачте."
 
 # game/game/script.rpy:3273
 translate ukrainian storage_rod_6f81aae8:
 
     # mc "Don't worry, I'll pick them up right away."
-    mc "Don't worry, I'll pick them up right away."
+    mc "Пусте, я зараз їх підніму."
 
 # game/game/script.rpy:3275
 translate ukrainian storage_rod_de433ff6:
 
     # r "Let me help you..."
-    r "Let me help you..."
+    r "Я вам допоможу..."
 
 # game/game/script.rpy:3277
 translate ukrainian storage_rod_ed862fd2:
 
     # mc "Ok..."
-    mc "Ok..."
+    mc "Дякую..."
 
 # game/game/script.rpy:3280
 translate ukrainian storage_rod_6612ab6d:
 
     # r "{i}{size=-10}I ruined it!!!"
-    r "{i}{size=-10}I ruined it!!!"
+    r "{i}{size=-10}Я все зіпсувала!!!"
 
 # game/game/script.rpy:3304
 translate ukrainian wood_mission_5ce62be6:
@@ -29207,6 +29207,21 @@ translate ukrainian strings:
     old "{image=quest_text}Now you can collect wood!"
     new "{image=quest_text}Тепер можна збирати деревину!"
 
+    old "You got a fishing rod!"
+    new "Ти отримав вудку!"
+
+    old "Now you can go and try your luck in every area that has a fishing icon!"
+    new "Тепер ти можеш випробувати свою удачу в місцях з піктограмою риболовлі!"
+
+    old "Fish also have categories! Each zone has different types. \nThe higher the category the harder it'll be for you to catch it!"
+    new "Риби також поділяються на ранги! У кожній зоні є різні види. \nЧим вищий ранг, тим складніше буде її зловити!"
+
+    old "If you already unlocked a store, you can sell them and get some gold! Good luck!"
+    new "Якщо ти вже відкрив крамничку, то можеш продати їх там! Удачі!"
+
+    old "You can now fish in the lake!"
+    new "Тепер ти можеш рибалити на озері!"
+
 ### NOT SORTED
 
     old "{b}Don't leave."
@@ -29221,9 +29236,6 @@ translate ukrainian strings:
     old "Damn it, he doesn't listen to me."
     new "Damn it, he doesn't listen to me."
 
-    old "Now you can go and try your luck in every area that has a fishing icon!"
-    new "Now you can go and try your luck in every area that has a fishing icon!"
-
     old "You put on your new clothes."
     new "You put on your new clothes."
 
@@ -29235,9 +29247,6 @@ translate ukrainian strings:
 
     old "After leaving the village."
     new "After leaving the village."
-
-    old "If you already unlocked a store, you can sell them and get some gold! Good luck!"
-    new "If you already unlocked a store, you can sell them and get some gold! Good luck!"
 
     old "You're still too weak to remember."
     new "You're still too weak to remember."
@@ -29262,9 +29271,6 @@ translate ukrainian strings:
 
     old "Too much knowledge at once could damage your mind, so we'll stop here."
     new "Too much knowledge at once could damage your mind, so we'll stop here."
-
-    old "You got a fishing rod!"
-    new "You got a fishing rod!"
 
     old "{size=+10}{b}Stay, {w}just stay..."
     new "{size=+10}{b}Stay, {w}just stay..."
@@ -29302,9 +29308,6 @@ translate ukrainian strings:
     old "It's a fairly simple analogy."
     new "It's a fairly simple analogy."
 
-    old "You can now fish in the lake!"
-    new "You can now fish in the lake!"
-
     old "Now you can flee from combats."
     new "Now you can flee from combats."
 
@@ -29331,9 +29334,6 @@ translate ukrainian strings:
 
     old "{outlinecolor=#000000}{i}You've seen the dark side up close..."
     new "{outlinecolor=#000000}{i}You've seen the dark side up close..."
-
-    old "Fish also have categories! Each zone has different types. \nThe higher the category the harder it'll be for you to catch it!"
-    new "Fish also have categories! Each zone has different types. \nThe higher the category the harder it'll be for you to catch it!"
 
     old "{image=quest_text}You've received a new missions!"
     new "{image=quest_text}You've received a new missions!"
