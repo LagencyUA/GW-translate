@@ -27,11 +27,11 @@ translate ukrainian strings:
 
     # game/quest.rpy:199
     old "Fishing Rod"
-    new "Fishing Rod"
+    new "Вудка"
 
     # game/quest.rpy:205
     old "Wood for {color=#CEA976}Yui{/color}"
-    new "Wood for {color=#CEA976}Yui{/color}"
+    new "Деревина для {color=#CEA976}Юї{/color}"
 
     # game/quest.rpy:211
     old "New Stores"
@@ -189,6 +189,32 @@ translate ukrainian strings:
     old "{s}-Finish your new missions.{/s}"
     new "{s}- Виконай інші завдання, що з'являться.{/s}"
 
+    old "I need to get a {color=#ffffff}fishing rod{/color}, maybe {color=#F3915B}Hana{/color} can help me."
+    new "Мені потрібно знайти {color=#ffffff}вудку{/color}. Можливо, {color=#F3915B}Хана{/color} зможе мені допомогти із цим."
+
+    old "-Go visit {color=#F3915B}Hana{/color} at her home.(Morning)"
+    new "- Завітай до {color=#F3915B}Хани{/color} додому. (Ранок)"
+    old "{s}-Go visit {color=#F3915B}Hana{/color} at her home.(Morning){/s}"
+    new "{s}- Завітай до {color=#F3915B}Хани{/color} додому. (Ранок){/s}"
+
+    old "-Check the doors in your house, there must be a storage room in it."
+    new "- Перевір кімнати у власному будинку — там обов'язково має бути комора."
+    old "{s}-Check the doors in your house, there must be a storage room in it.{/s}"
+    new "{s}- Перевір кімнати у власному будинку — там обов'язково має бути комора.{/s}"
+
+    old "{color=#FBE5A2}Yui{/color} asked me to help her with the collection of wood to repair the village stores."
+    new "{color=#FBE5A2}Юї{/color} попросила мене допомогти їй зібрати деревину для ремонту крамничок у селищі."
+
+    old "-Get {color=#ffffff}40{/color} of wood."
+    new "- Нарубай {color=#ffffff}40{/color} одиниць деревини."
+    old "{s}-Get {color=#ffffff}40{/color} of wood.{/s}"
+    new "{s}- Нарубай {color=#ffffff}40{/color} одиниць деревини.{/s}"
+
+    old "-I already have the wood, I should go to {color=#FBE5A2}Yui's{/color} house to let her know."
+    new "- У мене вже достатньо деревини, варто завітати до {color=#FBE5A2}Юї{/color} додому та сказати їй."
+    old "{s}-I already have the wood, I should go to {color=#FBE5A2}Yui's{/color} house to let her know.{/s}"
+    new "{s}- У мене вже достатньо деревини, варто завітати до {color=#FBE5A2}Юї{/color} додому та сказати їй.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -270,17 +296,11 @@ translate ukrainian strings:
     old "-Go talk to {color=#319B85}Charlotte{/color} about her room."
     new "-Go talk to {color=#319B85}Charlotte{/color} about her room."
 
-    old "-Get {color=#ffffff}40{/color} of wood."
-    new "-Get {color=#ffffff}40{/color} of wood."
-
     old "-Get 40 wood and talk to {color=#BD4A17}Sayori{/color} on the bridge (Morning)."
     new "-Get 40 wood and talk to {color=#BD4A17}Sayori{/color} on the bridge (Morning)."
 
     old "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
     new "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
-
-    old "-Check the doors in your house, there must be a storage room in it."
-    new "-Check the doors in your house, there must be a storage room in it."
 
     old "-Spend time with all the girls in Sakura town."
     new "-Spend time with all the girls in Sakura town."
@@ -290,9 +310,6 @@ translate ukrainian strings:
 
     old "{size=-6}-Meet a clan feared by everyone? Sure.   \nMeet {color=#E12E50}Akane's{/color} mother? I admit I'm a little nervous..."
     new "{size=-6}-Meet a clan feared by everyone? Sure.   \nMeet {color=#E12E50}Akane's{/color} mother? I admit I'm a little nervous..."
-
-    old "-Go visit {color=#F3915B}Hana{/color} at her home.(Morning)"
-    new "-Go visit {color=#F3915B}Hana{/color} at her home.(Morning)"
 
     old "{size=-6}-As much as they insist that I take charge of this village, there are many things we need to discuss first."
     new "{size=-6}-As much as they insist that I take charge of this village, there are many things we need to discuss first."
@@ -471,9 +488,6 @@ translate ukrainian strings:
     old "-{color=#ff00b5}Diana{/color} wants to talk to you, come to her store in the morning."
     new "-{color=#ff00b5}Diana{/color} wants to talk to you, come to her store in the morning."
 
-    old "{color=#FBE5A2}Yui{/color} asked me to help her with the collection of wood to repair the village stores."
-    new "{color=#FBE5A2}Yui{/color} asked me to help her with the collection of wood to repair the village stores."
-
     old "-Enter {color=#C9887C}Ryoko's{/color} room in the afternoon."
     new "-Enter {color=#C9887C}Ryoko's{/color} room in the afternoon."
 
@@ -554,9 +568,6 @@ translate ukrainian strings:
 
     old "-Go to your {color=#ffffff}living room{/color} in the afternoon."
     new "-Go to your {color=#ffffff}living room{/color} in the afternoon."
-
-    old "I need to get a {color=#ffffff}fishing rod{/color}, maybe {color=#F3915B}Hana{/color} can help me."
-    new "I need to get a {color=#ffffff}fishing rod{/color}, maybe {color=#F3915B}Hana{/color} can help me."
 
     old "-Go and talk to {color=#F3915B}Hana{/color} at her home."
     new "-Go and talk to {color=#F3915B}Hana{/color} at her home."
@@ -653,9 +664,6 @@ translate ukrainian strings:
 
     old "-It's time to rest, you deserve it, go to sleep until the next day."
     new "-It's time to rest, you deserve it, go to sleep until the next day."
-
-    old "-I already have the wood, I should go to {color=#FBE5A2}Yui's{/color} house to let her know."
-    new "-I already have the wood, I should go to {color=#FBE5A2}Yui's{/color} house to let her know."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go to your room at {color=#FFFFFF}night{/color}."
     new "{color=#E3CD5B}{b}•{/b}{/color} Go to your room at {color=#FFFFFF}night{/color}."
