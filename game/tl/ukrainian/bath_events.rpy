@@ -3,37 +3,37 @@
 translate ukrainian bath_alone_f66b5f17:
 
     # mc "Nothing better than taking a relaxing bath."
-    mc "Nothing better than taking a relaxing bath."
+    mc "Немає нічого кращого, ніж розслаблююча ванна."
 
 # game/game/bath_events.rpy:4
 translate ukrainian bath_alone_7f12c891:
 
     # t "I have always thought that this bathroom is really great, it has a lot of space."
-    t "I have always thought that this bathroom is really great, it has a lot of space."
+    t "Я завжди вважав, що ця ванна кімната просто чудова — у ній так багато місця."
 
 # game/game/bath_events.rpy:5
 translate ukrainian bath_alone_cf8a3c68:
 
     # t "No noise is heard except the sound of the water and my thoughts."
-    t "No noise is heard except the sound of the water and my thoughts."
+    t "Як тут тихо, лише звуки води та мої думки."
 
 # game/game/bath_events.rpy:7
 translate ukrainian bath_alone_d884c1ec:
 
     # t "Taking a nap here would be bad for me, but I can't help feeling so calm."
-    t "Taking a nap here would be bad for me, but I can't help feeling so calm."
+    t "Подрімати тут було б не дуже корисно, але важко опиратися, коли тут так спокійно."
 
 # game/game/bath_events.rpy:8
 translate ukrainian bath_alone_e6d8ca3f:
 
     # t "I will close my eyes for a few minutes to clear my mind."
-    t "I will close my eyes for a few minutes to clear my mind."
+    t "Закрию очі на кілька хвилин, щоб прояснити думки"
 
 # game/game/bath_events.rpy:13
 translate ukrainian bath_alone_c2bb5d9f:
 
     # mc "That was great."
-    mc "That was great."
+    mc "Було чудово."
 
 # game/game/bath_events.rpy:27
 translate ukrainian char_bath_join_80f80ead:
@@ -477,7 +477,7 @@ translate ukrainian strings:
 
     # game/bath_events.rpy:11
     old "Finish bathing"
-    new "Finish bathing"
+    new "Завершити купання"
 
     # game/bath_events.rpy:11
     old "Wait a little longer 20+{image=/bg/icons/tenshi_text.png}"
