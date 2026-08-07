@@ -115,7 +115,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:4410
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fish Dominance{/font}\nEach point invested will make the fish {color=#39A761}move slower{/color}."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Домінація над рибами{/b}{/size}{/font}\nКожене вкладене очко змусить рибу {color=#39A761}рухатися повільніше{/color}."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Домінація над рибами{/b}{/size}{/font}\nКожне вкладене очко змусить рибу {color=#39A761}рухатися повільніше{/color}."
 
     # game/day_time.rpy:4419
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Two For One{/font}\nThere will be a chance to get {color=#39A761}twice{/color} as many fish!\n20% for each point."
@@ -140,7 +140,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:4448
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Critical Hits{/font}\nYour perfect hits do more {color=#FFD700}critical damage{/color}."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Критичні влучання{/b}{/size}{/font}\nТвої влучні удари завдають більше {color=#FFD700}критичного шкоди{/color}."
+    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Критичні влучання{/b}{/size}{/font}\nТвої влучні удари завдають більше {color=#FFD700}критичної шкоди{/color}."
 
     ## Написи на мапі map_gw
     old "Town"
