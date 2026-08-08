@@ -825,19 +825,19 @@ translate ukrainian char_leaving_2eeb2d5c:
 translate ukrainian char_menu_1_1fdcb277:
 
     # t "If I manage to catch some fish, maybe she'll talk to me..."
-    t "If I manage to catch some fish, maybe she'll talk to me..."
+    t "Можливо, вона захоче поговорити, якщо спіймаю пару рибин..."
 
 # game/game/charlotte_events.rpy:351
 translate ukrainian char_wake_657298e9:
 
     # t "I would like to talk to her..."
-    t "I would like to talk to her..."
+    t "Хочу поговорити з нею..."
 
 # game/game/charlotte_events.rpy:352
 translate ukrainian char_wake_6844eb63:
 
     # t "But she doesn't seem to want to get along with me..."
-    t "But she doesn't seem to want to get along with me..."
+    t "Але, здається, вона не бажає зі мною ладнати..."
 
 # game/game/charlotte_events.rpy:354
 translate ukrainian char_wake_1bb01731:
@@ -849,55 +849,55 @@ translate ukrainian char_wake_1bb01731:
 translate ukrainian char_wake_58835f4e:
 
     # t "Well, I don't lose anything by trying..."
-    t "Well, I don't lose anything by trying..."
+    t "Ну, спробувати не завадить..."
 
 # game/game/charlotte_events.rpy:357
 translate ukrainian char_wake_6ab925b8:
 
     # mc "{size=-8}Hey-"
-    mc "{size=-8}Hey-"
+    mc "{size=-8}Приві-"
 
 # game/game/charlotte_events.rpy:364
 translate ukrainian char_wake_ac1c57fa:
 
     # t "What?!!"
-    t "What?!!"
+    t "Що?!!"
 
 # game/game/charlotte_events.rpy:366
 translate ukrainian char_wake_abed9053:
 
     # t "She just threw a kunai at me while she slept?"
-    t "She just threw a kunai at me while she slept?"
+    t "Вона щойно кинула в мене кунай, поки спала?"
 
 # game/game/charlotte_events.rpy:367
 translate ukrainian char_wake_641d535b:
 
     # t "If it were someone else he would be dead!"
-    t "If it were someone else he would be dead!"
+    t "Хтось інший вже б точно помер!"
 
 # game/game/charlotte_events.rpy:369
 translate ukrainian char_wake_1e0ac8f7:
 
     # t "She seems to be more alert since the last time we talked..."
-    t "She seems to be more alert since the last time we talked..."
+    t "Здається, вона стала більш пильною з часу нашої останньої розмови..."
 
 # game/game/charlotte_events.rpy:370
 translate ukrainian char_wake_1682aa7d:
 
     # t "I don't think I can get close like this."
-    t "I don't think I can get close like this."
+    t "Не думаю, що мені так вдасться наблизитися."
 
 # game/game/charlotte_events.rpy:372
 translate ukrainian char_wake_4ad052fb:
 
     # t "I'll have to find another way to approach her..."
-    t "I'll have to find another way to approach her..."
+    t "Треба знайти інший спосіб зблизитися з нею..."
 
 # game/game/charlotte_events.rpy:373
 translate ukrainian char_wake_8287ec0c:
 
     # t "But how..."
-    t "But how..."
+    t "Але ж як..."
 
 # game/game/charlotte_events.rpy:375
 translate ukrainian char_wake_1bb01731_1:
@@ -909,109 +909,109 @@ translate ukrainian char_wake_1bb01731_1:
 translate ukrainian char_wake_31f7978f:
 
     # t "Wait..."
-    t "Wait..."
+    t "Хвилинку..."
 
 # game/game/charlotte_events.rpy:378
 translate ukrainian char_wake_182d0bb3:
 
     # t "She's half cat... {w}right?"
-    t "She's half cat... {w}right?"
+    t "Вона ж напівкішка... {w}так?"
 
 # game/game/charlotte_events.rpy:380
 translate ukrainian char_wake_76ef9f03:
 
     # t "Maybe she'll let her guard down with a little food..."
-    t "Maybe she'll let her guard down with a little food..."
+    t "Можливо, трошки їжі змусить її послабити пильність..."
 
 # game/game/charlotte_events.rpy:395
 translate ukrainian charlotte_event_2_92a2501f:
 
     # t "Why does she always sleep in this same place?"
-    t "Why does she always sleep in this same place?"
+    t "Чому вона завжди спить саме тут?"
 
 # game/game/charlotte_events.rpy:396
 translate ukrainian charlotte_event_2_efc63d22:
 
     # t "Well, it'd be better not to wake her up."
-    t "Well, it'd be better not to wake her up."
+    t "Ну, краще її не будити."
 
 # game/game/charlotte_events.rpy:397
 translate ukrainian charlotte_event_2_680bfc2d:
 
     # t "I don't want to come close to death again."
-    t "I don't want to come close to death again."
+    t "Не хочу знову гратися зі смертю."
 
 # game/game/charlotte_events.rpy:399
 translate ukrainian charlotte_event_2_acda1058:
 
     # t "Hmm..."
-    t "Hmm..."
+    t "Хмм..."
 
 # game/game/charlotte_events.rpy:400
 translate ukrainian charlotte_event_2_8629f83a:
 
     # t "This place is fine."
-    t "This place is fine."
+    t "Місце просто ідеальне."
 
 # game/game/charlotte_events.rpy:405
 translate ukrainian charlotte_event_2_6cb6912f:
 
     # t "Perfect, now the fish."
-    t "Perfect, now the fish."
+    t "Чудово, а тепер рибка."
 
 # game/game/charlotte_events.rpy:409
 translate ukrainian charlotte_event_2_beadefee:
 
     # a "{i}{size=-10}Don't worry Charlotte."
-    a "{i}{size=-10}Don't worry Charlotte."
+    a "{i}{size=-10}Не хвилюйся, Шарлотто."
 
 # game/game/charlotte_events.rpy:410
 translate ukrainian charlotte_event_2_030aaf67:
 
     # a "{i}{size=-10}Where I'm going you can't accompany me."
-    a "{i}{size=-10}Where I'm going you can't accompany me."
+    a "{i}{size=-10}Навряд чи ти зможеш піти зі мною туди, куди я прямую."
 
 # game/game/charlotte_events.rpy:412
 translate ukrainian charlotte_event_2_533be0b1:
 
     # a "{i}{size=-10}Just wait for me here."
-    a "{i}{size=-10}Just wait for me here."
+    a "{i}{size=-10}Просто чекай на мене тут."
 
 # game/game/charlotte_events.rpy:413
 translate ukrainian charlotte_event_2_0ea60892:
 
     # a "{i}{size=-10}Protect this village, I entrust it to you."
-    a "{i}{size=-10}Protect this village, I entrust it to you."
+    a "{i}{size=-10}Захищай селище, довіряю його тобі."
 
 # game/game/charlotte_events.rpy:415
 translate ukrainian charlotte_event_2_0f171c09:
 
     # c "{size=-10}Don't leave me..."
-    c "{size=-10}Don't leave me..."
+    c "{size=-10}Не залишай мене..."
 
 # game/game/charlotte_events.rpy:416
 translate ukrainian charlotte_event_2_2b92ef1d:
 
     # c "{size=-10}If you leave now, I know I'll never see you again."
-    c "{size=-10}If you leave now, I know I'll never see you again."
+    c "{size=-10}Знаю, ти зараз підеш, і ми більше ніколи не побачимося."
 
 # game/game/charlotte_events.rpy:417
 translate ukrainian charlotte_event_2_c25b2ce3:
 
     # a "{i}{size=-10}And please {w}try to make more friends..."
-    a "{i}{size=-10}And please {w}try to make more friends..."
+    a "{i}{size=-10}І, будь ласка, {w}спробуй знайти собі більше друзів..."
 
 # game/game/charlotte_events.rpy:419
 translate ukrainian charlotte_event_2_d05821a4:
 
     # c "{sc=1}{outlinecolor=#000000}Sniff* sniff*"
-    c "{sc=1}{outlinecolor=#000000}Sniff* sniff*"
+    c "{sc=1}{outlinecolor=#000000}{i}*Нюх* *Нюх*{/i}"
 
 # game/game/charlotte_events.rpy:420
 translate ukrainian charlotte_event_2_40b53ee0:
 
     # c "{i}{size=-6}This smell."
-    c "{i}{size=-6}This smell."
+    c "{i}{size=-6}Цей аромат."
 
 # game/game/charlotte_events.rpy:422
 translate ukrainian charlotte_event_2_3784857a:
@@ -1023,37 +1023,37 @@ translate ukrainian charlotte_event_2_3784857a:
 translate ukrainian charlotte_event_2_1a8c5b5d:
 
     # c "{i}{size=-6}The weird human... {w}what is he doing?"
-    c "{i}{size=-6}The weird human... {w}what is he doing?"
+    c "{i}{size=-6}Дивна людина... {w}Що він робить?"
 
 # game/game/charlotte_events.rpy:427
 translate ukrainian charlotte_event_2_b19ae624:
 
     # t "This brings back memories..."
-    t "This brings back memories..."
+    t "Навіює спогади..."
 
 # game/game/charlotte_events.rpy:429
 translate ukrainian charlotte_event_2_cc7d6795:
 
     # t "The first time I met Ryoko, I was doing this same thing."
-    t "The first time I met Ryoko, I was doing this same thing."
+    t "Коли я вперше зустрів Рьоко, то теж смажив рибку."
 
 # game/game/charlotte_events.rpy:430
 translate ukrainian charlotte_event_2_a700296e:
 
     # t "I would never have imagined seeing a girl appear and push a wolf to save me."
-    t "I would never have imagined seeing a girl appear and push a wolf to save me."
+    t "Я ніколи б не подумав, що побачу, як з'явиться дівчина і відштовхне вовка, щоб врятувати мене."
 
 # game/game/charlotte_events.rpy:432
 translate ukrainian charlotte_event_2_471c6b94:
 
     # t "And what about the goddesses? {w}I haven't heard from them yet."
-    t "And what about the goddesses? {w}I haven't heard from them yet."
+    t "І як там богині? {w}Давно я не чув нічого від них."
 
 # game/game/charlotte_events.rpy:433
 translate ukrainian charlotte_event_2_b9596880:
 
     # t "Partly it's good, it means I haven't been between life and death again hahaha..."
-    t "Partly it's good, it means I haven't been between life and death again hahaha..."
+    t "З одного боку, це добре — значить, я досі не опинився знову на межі життя і смерті, хахаха..."
 
 # game/game/charlotte_events.rpy:434
 translate ukrainian charlotte_event_2_1bb01731:
@@ -1065,61 +1065,61 @@ translate ukrainian charlotte_event_2_1bb01731:
 translate ukrainian charlotte_event_2_b405f5f2:
 
     # t "Oh."
-    t "Oh."
+    t "О."
 
 # game/game/charlotte_events.rpy:437
 translate ukrainian charlotte_event_2_4fc36432:
 
     # mc "Did it work?"
-    mc "Did it work?"
+    mc "Невже, спрацювало?"
 
 # game/game/charlotte_events.rpy:439
 translate ukrainian charlotte_event_2_fab9171d:
 
     # c "What are you doing human."
-    c "What are you doing human."
+    c "Що ти робиш, Людино?"
 
 # game/game/charlotte_events.rpy:440
 translate ukrainian charlotte_event_2_81855192:
 
     # c "And what do you mean \"did it work\"?"
-    c "And what do you mean \"did it work\"?"
+    c "А що ти маєш на увазі під «невже, спрацювало»?"
 
 # game/game/charlotte_events.rpy:441
 translate ukrainian charlotte_event_2_584e8cf6:
 
     # mc "I meant the fire! It worked."
-    mc "I meant the fire! It worked."
+    mc "Я про багаття! Зміг розпалити."
 
 # game/game/charlotte_events.rpy:442
 translate ukrainian charlotte_event_2_4aadf486:
 
     # mc "Hahaha..."
-    mc "Hahaha..."
+    mc "Хахаха..."
 
 # game/game/charlotte_events.rpy:444
 translate ukrainian charlotte_event_2_abe50b9f:
 
     # t "I didn't think she'd come to talk to me..."
-    t "I didn't think she'd come to talk to me..."
+    t "Не думав, що вона вирішить підійти поговорити..."
 
 # game/game/charlotte_events.rpy:445
 translate ukrainian charlotte_event_2_86bccf51:
 
     # t "I must take this opportunity."
-    t "I must take this opportunity."
+    t "Треба скористатися цим шансом."
 
 # game/game/charlotte_events.rpy:447
 translate ukrainian charlotte_event_2_f761c945:
 
     # mc "Would you like to join me?"
-    mc "Would you like to join me?"
+    mc "Не хочеш доєднатися?"
 
 # game/game/charlotte_events.rpy:448
 translate ukrainian charlotte_event_2_8eda8159:
 
     # mc "I managed to catch a few, {w=0.5}but it's too much for me."
-    mc "I managed to catch a few, {w=0.5}but it's too much for me."
+    mc "Я зміг зловити кілька, {w=0.5}але для мене одного буде забагато."
 
 # game/game/charlotte_events.rpy:449
 translate ukrainian charlotte_event_2_d19f855d:
@@ -1131,7 +1131,7 @@ translate ukrainian charlotte_event_2_d19f855d:
 translate ukrainian charlotte_event_2_800103dd:
 
     # mc "Please?"
-    mc "Please?"
+    mc "Будь ласка?"
 
 # game/game/charlotte_events.rpy:453
 translate ukrainian charlotte_event_2_d19f855d_1:
@@ -1143,19 +1143,19 @@ translate ukrainian charlotte_event_2_d19f855d_1:
 translate ukrainian charlotte_event_2_bef0ff95:
 
     # mc "{i}{size=-6}Hm hm hmm..."
-    mc "{i}{size=-6}Hm hm hmm..."
+    mc "{i}{size=-6}Гм хм хмм..."
 
 # game/game/charlotte_events.rpy:458
 translate ukrainian charlotte_event_2_6085f18e:
 
     # mc "I think this one is ready."
-    mc "I think this one is ready."
+    mc "Гадаю, ця вже готова."
 
 # game/game/charlotte_events.rpy:460
 translate ukrainian charlotte_event_2_a38994a6:
 
     # mc "Here, wait until it cools down or you will burn your tongue."
-    mc "Here, wait until it cools down or you will burn your tongue."
+    mc "Тримай. Тільки почекай поки вони охолонуть, а то язика обпечеш."
 
 # game/game/charlotte_events.rpy:461
 translate ukrainian charlotte_event_2_d19f855d_2:
@@ -1167,7 +1167,7 @@ translate ukrainian charlotte_event_2_d19f855d_2:
 translate ukrainian charlotte_event_2_9c251468:
 
     # mc "Hurry up or the others will burn."
-    mc "Hurry up or the others will burn."
+    mc "Швидше бери, зараз інші згорять."
 
 # game/game/charlotte_events.rpy:465
 translate ukrainian charlotte_event_2_d19f855d_3:
@@ -1179,109 +1179,109 @@ translate ukrainian charlotte_event_2_d19f855d_3:
 translate ukrainian charlotte_event_2_533d5b93:
 
     # c "Human."
-    c "Human."
+    c "Людино."
 
 # game/game/charlotte_events.rpy:467
 translate ukrainian charlotte_event_2_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/charlotte_events.rpy:468
 translate ukrainian charlotte_event_2_2cfe5066:
 
     # c "What are you?"
-    c "What are you?"
+    c "Ким ти насправді є?"
 
 # game/game/charlotte_events.rpy:469
 translate ukrainian charlotte_event_2_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Га?"
 
 # game/game/charlotte_events.rpy:471
 translate ukrainian charlotte_event_2_a85fcb93:
 
     # mc "A... {w=0.5}human...?"
-    mc "A... {w=0.5}human...?"
+    mc "Я... {w=0.5}людина...?"
 
 # game/game/charlotte_events.rpy:472
 translate ukrainian charlotte_event_2_99d42389:
 
     # mc "That's how you call me, right?"
-    mc "That's how you call me, right?"
+    mc "Ти сама мене так кличиш, хіба ні?"
 
 # game/game/charlotte_events.rpy:474
 translate ukrainian charlotte_event_2_f7828bc6:
 
     # c "That's not what I mean."
-    c "That's not what I mean."
+    c "Я не про це."
 
 # game/game/charlotte_events.rpy:475
 translate ukrainian charlotte_event_2_978b737b:
 
     # c "Your scent and your presence is not the same as others."
-    c "Your scent and your presence is not the same as others."
+    c "Твій запах та твоя присутність відрізняються від інших."
 
 # game/game/charlotte_events.rpy:476
 translate ukrainian charlotte_event_2_7194b00c:
 
     # t "Does she know I'm not from \"here\"?"
-    t "Does she know I'm not from \"here\"?"
+    t "Вона знає, що я не «звідси»?"
 
 # game/game/charlotte_events.rpy:478
 translate ukrainian charlotte_event_2_6f81ae7b:
 
     # t "I have to avoid this kind of questions."
-    t "I have to avoid this kind of questions."
+    t "Мені варто уникати подібних питань."
 
 # game/game/charlotte_events.rpy:482
 translate ukrainian charlotte_event_2_37533d0f:
 
     # mc "You know we're all different, don't you?"
-    mc "You know we're all different, don't you?"
+    mc "Знаєш, усі ми різні, як гадаєш?"
 
 # game/game/charlotte_events.rpy:483
 translate ukrainian charlotte_event_2_e68fd79a:
 
     # mc "Each person is unique, including-"
-    mc "Each person is unique, including-"
+    mc "Кожен по своєму унікальний, влючно з-..."
 
 # game/game/charlotte_events.rpy:485
 translate ukrainian charlotte_event_2_d589e032:
 
     # mc "{size=-6}{i}You..."
-    mc "{size=-6}{i}You..."
+    mc "{size=-6}{i}Тобою..."
 
 # game/game/charlotte_events.rpy:486
 translate ukrainian charlotte_event_2_994df5bb:
 
     # c "Yes, {w=0.5}but you're different from the different."
-    c "Yes, {w=0.5}but you're different from the different."
+    c "Так, {w=0.5}але ти вирізняєшся навіть з-поміж цього різноманіття."
 
 # game/game/charlotte_events.rpy:487
 translate ukrainian charlotte_event_2_f07e7181:
 
     # t "In one bite...?"
-    t "In one bite...?"
+    t "За один укус...?"
 
 # game/game/charlotte_events.rpy:488
 translate ukrainian charlotte_event_2_b09c6f2d:
 
     # mc "I don't know what to say... {w=0.5}I come from far away and-"
-    mc "I don't know what to say... {w=0.5}I come from far away and-"
+    mc "Не знаю, що й сказати... {w=0.5}Я прийшов здалеку і-"
 
 # game/game/charlotte_events.rpy:490
 translate ukrainian charlotte_event_2_ef361f1a:
 
     # c "Your guard is always down, {w}you always help others, {w}and you look away every time you kill a beast."
-    c "Your guard is always down, {w}you always help others, {w}and you look away every time you kill a beast."
+    c "Ти ніколи не пильнуєш, {w}завжди всім допомагаєш, {w}і щоразу відвертаєш погляд, коли вбиваєш звіра."
 
 # game/game/charlotte_events.rpy:491
 translate ukrainian charlotte_event_2_0c609b59:
 
     # c "People like you always end up dead."
-    c "People like you always end up dead."
+    c "Такі люди, як ти, довго не живуть."
 
 # game/game/charlotte_events.rpy:492
 translate ukrainian charlotte_event_2_2b35b6fe:
@@ -1293,31 +1293,31 @@ translate ukrainian charlotte_event_2_2b35b6fe:
 translate ukrainian charlotte_event_2_3943a1a1:
 
     # t "Is that why she doesn't like me?"
-    t "Is that why she doesn't like me?"
+    t "Це тому я їй не до вподоби?"
 
 # game/game/charlotte_events.rpy:495
 translate ukrainian charlotte_event_2_1e5eb91c:
 
     # t "And since when has she been watching me?"
-    t "And since when has she been watching me?"
+    t "І відколи вона спостерігає за мною?"
 
 # game/game/charlotte_events.rpy:496
 translate ukrainian charlotte_event_2_a71b2903:
 
     # mc "So why did you help me?"
-    mc "So why did you help me?"
+    mc "Тоді, чому ти мене врятувала?"
 
 # game/game/charlotte_events.rpy:497
 translate ukrainian charlotte_event_2_ac839373:
 
     # mc "You had nothing to gain by doing so, and you put yourself in danger."
-    mc "You had nothing to gain by doing so, and you put yourself in danger."
+    mc "Тобі з цього користі нуль, і довелося лише наражати себе на небезпеку."
 
 # game/game/charlotte_events.rpy:499
 translate ukrainian charlotte_event_2_cf127f85:
 
     # c "I don't know..."
-    c "I don't know..."
+    c "Не знаю..."
 
 # game/game/charlotte_events.rpy:500
 translate ukrainian charlotte_event_2_652650d3:
@@ -1329,7 +1329,7 @@ translate ukrainian charlotte_event_2_652650d3:
 translate ukrainian charlotte_event_2_f704c3a1:
 
     # c "I just felt I had to do it..."
-    c "I just felt I had to do it..."
+    c "Просто відчула, що мушу так вчинити..."
 
 # game/game/charlotte_events.rpy:502
 translate ukrainian charlotte_event_2_2b35b6fe_1:
@@ -1341,61 +1341,61 @@ translate ukrainian charlotte_event_2_2b35b6fe_1:
 translate ukrainian charlotte_event_2_35755ed2:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/charlotte_events.rpy:506
 translate ukrainian charlotte_event_2_ef0221b0:
 
     # c "Why are you laughing human."
-    c "Why are you laughing human."
+    c "Чому ти смієшся, Людино?"
 
 # game/game/charlotte_events.rpy:507
 translate ukrainian charlotte_event_2_a9826c41:
 
     # mc "We're not so different then."
-    mc "We're not so different then."
+    mc "Тоді не такі вже ми й різні."
 
 # game/game/charlotte_events.rpy:508
 translate ukrainian charlotte_event_2_7bdc0b86:
 
     # mc "I'm not much of a think-before-you-act kind of guy."
-    mc "I'm not much of a think-before-you-act kind of guy."
+    mc "Я теж не той, хто багато думає, перед тим, як щось зробити."
 
 # game/game/charlotte_events.rpy:510
 translate ukrainian charlotte_event_2_b8664c8c:
 
     # c "What a strange human."
-    c "What a strange human."
+    c "Яка дивна людина."
 
 # game/game/charlotte_events.rpy:511
 translate ukrainian charlotte_event_2_e75a5408:
 
     # c "{size=-10}{i}You're too much like her..."
-    c "{size=-10}{i}You're too much like her..."
+    c "{size=-10}{i}Ти дуже схожий на неї..."
 
 # game/game/charlotte_events.rpy:512
 translate ukrainian charlotte_event_2_05475f3d:
 
     # mc "But at least now I'm sure."
-    mc "But at least now I'm sure."
+    mc "Але принаймні тепер я впевнений."
 
 # game/game/charlotte_events.rpy:514
 translate ukrainian charlotte_event_2_f3e8ace0:
 
     # c "Mmm?"
-    c "Mmm?"
+    c "Ммм?"
 
 # game/game/charlotte_events.rpy:515
 translate ukrainian charlotte_event_2_81bca8ab:
 
     # c "Of what?"
-    c "Of what?"
+    c "У чому?"
 
 # game/game/charlotte_events.rpy:516
 translate ukrainian charlotte_event_2_9c03300a:
 
     # mc "That you don't hate me."
-    mc "That you don't hate me."
+    mc "Щоб ти мене не ненавидиш."
 
 # game/game/charlotte_events.rpy:517
 translate ukrainian charlotte_event_2_d19f855d_4:
@@ -1407,19 +1407,19 @@ translate ukrainian charlotte_event_2_d19f855d_4:
 translate ukrainian charlotte_event_2_e940ebfa:
 
     # c "I have to go."
-    c "I have to go."
+    c "Мені вже час."
 
 # game/game/charlotte_events.rpy:520
 translate ukrainian charlotte_event_2_3053ba58:
 
     # mc "W-Wait."
-    mc "W-Wait."
+    mc "З-Зажди."
 
 # game/game/charlotte_events.rpy:523
 translate ukrainian charlotte_event_2_820f8e57:
 
     # mc "There is still one left."
-    mc "There is still one left."
+    mc "Тут ще одна залишилася."
 
 # game/game/charlotte_events.rpy:524
 translate ukrainian charlotte_event_2_d19f855d_5:
@@ -1431,37 +1431,37 @@ translate ukrainian charlotte_event_2_d19f855d_5:
 translate ukrainian charlotte_event_2_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:554
 translate ukrainian char_spend_792ec9c3:
 
     # t "I won't bother her."
-    t "I won't bother her."
+    t "Не буду її турбувати."
 
 # game/game/charlotte_events.rpy:561
 translate ukrainian char_spend_41c1c90c:
 
     # t "I don't have enough fish."
-    t "I don't have enough fish."
+    t "У мене недостатньо риби."
 
 # game/game/charlotte_events.rpy:569
 translate ukrainian char_hangout_0ac8a05c:
 
     # t "Let's see if I can hang out with her again."
-    t "Let's see if I can hang out with her again."
+    t "Подивимося, чи не захоче вона сьогодні погуляти зі мною."
 
 # game/game/charlotte_events.rpy:571
 translate ukrainian char_hangout_ad26d0ee:
 
     # mc "Everything is ready, now let the smell do its thing."
-    mc "Everything is ready, now let the smell do its thing."
+    mc "Усе готово, тепер нехай аромат зробить свою справу."
 
 # game/game/charlotte_events.rpy:575
 translate ukrainian char_hangout_d05821a4:
 
     # c "{sc=1}{outlinecolor=#000000}Sniff* sniff*"
-    c "{sc=1}{outlinecolor=#000000}Sniff* sniff*"
+    c "{sc=1}{outlinecolor=#000000}{i}*Нюх* *Нюх*{/i}"
 
 # game/game/charlotte_events.rpy:576
 translate ukrainian char_hangout_d19f855d:
@@ -1473,13 +1473,13 @@ translate ukrainian char_hangout_d19f855d:
 translate ukrainian char_hangout_b405f5f2:
 
     # t "Oh."
-    t "Oh."
+    t "О."
 
 # game/game/charlotte_events.rpy:583
 translate ukrainian char_hangout_7416303a:
 
     # mc "Will you join me?"
-    mc "Will you join me?"
+    mc "Доєднаєшся до мене?"
 
 # game/game/charlotte_events.rpy:584
 translate ukrainian char_hangout_d19f855d_1:
@@ -1491,7 +1491,7 @@ translate ukrainian char_hangout_d19f855d_1:
 translate ukrainian char_hangout_32c81d30:
 
     # mc "This way I don't waste food."
-    mc "This way I don't waste food."
+    mc "Допоможи, щоб я не змарнував їх."
 
 # game/game/charlotte_events.rpy:588
 translate ukrainian char_hangout_d19f855d_2:
@@ -1503,7 +1503,7 @@ translate ukrainian char_hangout_d19f855d_2:
 translate ukrainian char_hangout_a7fdfb72:
 
     # mc "{size=-6}{i}Hmm hmm hmm..."
-    mc "{size=-6}{i}Hmm hmm hmm..."
+    mc "{size=-6}{i}Гмм хмм хмм..."
 
 # game/game/charlotte_events.rpy:591
 translate ukrainian char_hangout_d19f855d_3:
@@ -1515,31 +1515,31 @@ translate ukrainian char_hangout_d19f855d_3:
 translate ukrainian char_hangout_527a54d9:
 
     # c "{size=-6}Mmm..."
-    c "{size=-6}Mmm..."
+    c "{size=-6}Ммм..."
 
 # game/game/charlotte_events.rpy:594
 translate ukrainian char_hangout_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Ось так."
 
 # game/game/charlotte_events.rpy:595
 translate ukrainian char_hangout_6b67e575:
 
     # mc "It's ready."
-    mc "It's ready."
+    mc "Готово."
 
 # game/game/charlotte_events.rpy:597
 translate ukrainian char_hangout_0cf07d9c:
 
     # mc "Be careful, it's still hot."
-    mc "Be careful, it's still hot."
+    mc "Обережніше, вона досі гаряча."
 
 # game/game/charlotte_events.rpy:599
 translate ukrainian char_hangout_306ed835:
 
     # mc "Here, don't be shy, {w=0.5}I've noticed how much you like it."
-    mc "Here, don't be shy, {w=0.5}I've noticed how much you like it."
+    mc "Тримай, не соромся, {w=0.5}я помітив, як вони тобі подобаються."
 
 # game/game/charlotte_events.rpy:601
 translate ukrainian char_hangout_d19f855d_4:
@@ -1551,19 +1551,19 @@ translate ukrainian char_hangout_d19f855d_4:
 translate ukrainian char_hangout_b6d67d54:
 
     # c "{size=-10}Thanks {w}Human."
-    c "{size=-10}Thanks {w}Human."
+    c "{size=-10}Дякую, {w}Людино."
 
 # game/game/charlotte_events.rpy:604
 translate ukrainian char_hangout_3d0b9aa4:
 
     # mc "Thanks to you for joining me."
-    mc "Thanks to you for joining me."
+    mc "І тобі дякую, що склала компанію."
 
 # game/game/charlotte_events.rpy:611
 translate ukrainian char_hangout_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:619
 translate ukrainian char_event3_03fb3e88:
@@ -1995,7 +1995,7 @@ translate ukrainian char_event3_8c0805fc:
 translate ukrainian char_event3_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:734
 translate ukrainian char_event3_2b35b6fe_1:
@@ -2163,7 +2163,7 @@ translate ukrainian char_real_spend_d19f855d_4:
 translate ukrainian char_real_spend_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:823
 translate ukrainian char_real_spend_817302d4:
@@ -3897,7 +3897,7 @@ translate ukrainian char_gal1_d7edd024:
 translate ukrainian char_gal1_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:1251
 translate ukrainian char_gal1_ef13f179:
@@ -4575,7 +4575,7 @@ translate ukrainian char_blow1_4c867d03:
 translate ukrainian char_blow1_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:1444
 translate ukrainian char_room_event_b972d2bf:
@@ -5175,7 +5175,7 @@ translate ukrainian char_room_event_dda77ceb:
 translate ukrainian char_room_event_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:1659
 translate ukrainian char_night_spend_ebc076b1:
@@ -5307,7 +5307,7 @@ translate ukrainian char_night_spend_1bf60051:
 translate ukrainian char_night_spend_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:1719
 translate ukrainian char_first_H_798d65f4:
@@ -6057,7 +6057,7 @@ translate ukrainian char_gal2_9f979785:
 translate ukrainian char_gal2_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:1944
 translate ukrainian char_gal2_a20cefa7:
@@ -6531,7 +6531,7 @@ translate ukrainian char_sex_rep1_c68f71f3:
 translate ukrainian char_sex_rep1_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:2101
 translate ukrainian char_tea_1_73be6851:
@@ -7623,7 +7623,7 @@ translate ukrainian char_gal3_63b390b6:
 translate ukrainian char_gal3_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:2490
 translate ukrainian char_peep_2b35b6fe:
@@ -8517,7 +8517,7 @@ translate ukrainian char_eventuno_dcee8cb0_1:
 translate ukrainian char_eventuno_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:2788
 translate ukrainian char_eventuno_74355c67:
@@ -9357,7 +9357,7 @@ translate ukrainian char_eventdos_b8de06d3:
 translate ukrainian char_eventdos_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:3063
 translate ukrainian char_eventtres_acda1058:
@@ -10173,7 +10173,7 @@ translate ukrainian char_eventtres_91299778:
 translate ukrainian char_eventtres_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:3292
 translate ukrainian char_eventcuatro_906be7f2:
@@ -11805,7 +11805,7 @@ translate ukrainian char_gal4_3c181d3b:
 translate ukrainian char_gal4_9246c750:
 
     # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/charlotte_events.rpy:3742
 translate ukrainian char_gal4_2b35b6fe_9:
@@ -14055,7 +14055,7 @@ translate ukrainian char_eventcinco_1e665559_2:
 translate ukrainian char_eventcinco_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:4332
 translate ukrainian char_eventcinco_f3bb45d3:
@@ -14799,7 +14799,7 @@ translate ukrainian char_start_training_72db4f40:
 translate ukrainian char_start_training_0e493f0e:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}{w=0.5}{nw}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}{w=0.5}{nw}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}{w=0.5}{nw}"
 
 # game/game/charlotte_events.rpy:4550
 translate ukrainian char_start_training_d19f855d:
@@ -15741,7 +15741,7 @@ translate ukrainian char_eventsiete_d7edd024_1:
 translate ukrainian char_eventsiete_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:4799
 translate ukrainian char_eventsiete_ff2a92b7:
@@ -17103,7 +17103,7 @@ translate ukrainian char_gal5_30c5147c:
 translate ukrainian char_gal5_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:5169
 translate ukrainian char_gal5_5537a576:
@@ -17607,7 +17607,7 @@ translate ukrainian char_debt_2c62a17a:
 translate ukrainian char_debt_cb42bf09:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}\n {image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}\n {image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}\n {image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:5334
 translate ukrainian char_training_669664cb:
@@ -18225,7 +18225,7 @@ translate ukrainian char_training_3f559e61:
 translate ukrainian char_training_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:5528
 translate ukrainian char_date_activated_9c2351b8:
@@ -19665,7 +19665,7 @@ translate ukrainian char_dateuno_61cbc5b2_1:
 translate ukrainian char_dateuno_d7c4a413:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:5946
 translate ukrainian char_dateuno_9e104937:
@@ -19767,7 +19767,7 @@ translate ukrainian char_dateuno_64161193:
 translate ukrainian char_dateuno_d7c4a413_1:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
-    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:5975
 translate ukrainian char_dateuno_2eb41ffb:
@@ -19839,7 +19839,7 @@ translate ukrainian strings:
 
     # game/charlotte_events.rpy:550
     old "Cook the fish (-3{image=/bg/icons/efish_text.png})"
-    new "Cook the fish (-3{image=/bg/icons/efish_text.png})"
+    new "Приготувати рибку (-3{image=/bg/icons/efish_text.png})"
 
     # game/charlotte_events.rpy:752
     old "Date{image=corazon}"
@@ -19944,17 +19944,23 @@ translate ukrainian strings:
     old "{image=corazon_wing}{color=#86CDB7}Charlotte{/color} has been added!"
     new "{image=corazon_wing}Додано знайомство з {color=#86CDB7}Шарлоттою{/color}!"
 
+    old "Get three fish of E-Rank!"
+    new "Злови три E-рангові риби!"
+
+    old "5 minutes later"
+    new "5 хвилин потому."
+
+    old "Charlotte is still on the defensive."
+    new "Шарлотта досі насторожі."
+
+    old "She still won't talk to you unless you lure her with food."
+    new "Вона так і не буде з тобою розмовляти, якщо тільки ти не заманеш її їжею."
+
     old "Now you can \"sleep\" with {color=#86CDB7}Charlotte{/color} at night."
     new "Now you can \"sleep\" with {color=#86CDB7}Charlotte{/color} at night."
 
     old "You and Charlotte leave the house."
     new "You and Charlotte leave the house."
-
-    old "Charlotte is still on the defensive."
-    new "Charlotte is still on the defensive."
-
-    old "Get three fish of E-Rank!"
-    new "Get three fish of E-Rank!"
 
     old "{size=-5}{color=#EED1AB}Event Activated{/color}: Date with {color=#319B85}Charlotte{/color} in the morning."
     new "{size=-5}{color=#EED1AB}Event Activated{/color}: Date with {color=#319B85}Charlotte{/color} in the morning."
@@ -19964,9 +19970,6 @@ translate ukrainian strings:
 
     old "{image=quest_text}You've unlocked a new room!"
     new "{image=quest_text}You've unlocked a new room!"
-
-    old "5 minutes later"
-    new "5 minutes later"
 
     old "{color=#319B85}Charlotte's{/color} room unlocked in Mayu's shop!"
     new "{color=#319B85}Charlotte's{/color} room unlocked in Mayu's shop!"
@@ -19997,6 +20000,3 @@ translate ukrainian strings:
 
     old "Charlotte leaves quickly."
     new "Charlotte leaves quickly."
-
-    old "She still won't talk to you unless you lure her with food."
-    new "She still won't talk to you unless you lure her with food."
