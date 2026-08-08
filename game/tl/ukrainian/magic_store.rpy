@@ -1278,9 +1278,6 @@ translate ukrainian strings:
     new "{i}You know this is a \nmagic store, don't you?"
 
 translate ukrainian strings:
-    old "Magic Rings"
-    new "Magic Rings"
-
     old "You already have too much of this copy!"
     new "You already have too much of this copy!"
 
@@ -1290,17 +1287,8 @@ translate ukrainian strings:
     old "You already have the maximum amount of HP Potions!"
     new "You already have the maximum amount of HP Potions!"
 
-    old "Healing potion"
-    new "Healing potion"
-
-    old "Magic Clothes"
-    new "Magic Clothes"
-
     old "Not enough money."
     new "Not enough money."
 
     old "{size=+70}Magic Store"
     new "{size=+70}Magic Store"
-
-    old "Monster Bait"
-    new "Monster Bait"

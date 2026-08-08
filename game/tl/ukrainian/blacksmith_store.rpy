@@ -1048,9 +1048,6 @@ translate ukrainian strings:
     old "{size=-4}Your defense has increased!"
     new "{size=-4}Your defense has increased!"
 
-    old "Shoulder Armor"
-    new "Shoulder Armor"
-
     old "Not enough gold."
     new "Not enough gold."
 
@@ -1059,6 +1056,3 @@ translate ukrainian strings:
 
     old "Not enough gold to buy this item."
     new "Not enough gold to buy this item."
-
-    old "Ryokos Katana"
-    new "Ryokos Katana"
