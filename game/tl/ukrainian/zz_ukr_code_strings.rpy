@@ -41,8 +41,29 @@ init 999 python:
         if _original_replace_text:
             s = _original_replace_text(s)
 
+        ## Перевірка поточного екрану
+        def is_screen_active(screen_name):
+            # 1. Перевіряємо, чи екран вже зареєстрований як активний
+            if renpy.get_screen(screen_name):
+                return True
+
+            # 2. Перевіряємо, чи екран будується прямо зараз в цей мікрокадр
+            try:
+                curr = renpy.current_screen()
+                if curr:
+                    # Отримуємо назву екрана, який зараз у процесі генерації
+                    sn = getattr(curr, "screen_name", None) or getattr(curr, "name", None)
+                    if isinstance(sn, (tuple, list)) and len(sn) > 0:
+                        sn = sn[0]
+                    if sn == screen_name:
+                        return True
+            except Exception:
+                pass
+
+            return False
+
         # Перевіряємо, чи є поточний текст у нашому словнику замін
-        if s in contextual_text_replacements:
+        if s in contextual_text_replacements.keys():
             rules = contextual_text_replacements[s]
 
             # Зручність: якщо передано один кортеж замість списку, загортаємо у список
@@ -52,12 +73,9 @@ init 999 python:
             # Проходимо по всіх правилах для цього слова
             for new_text, ctx_type, ctx_target in rules:
                 
-                # Перевірка контексту для ЕКРАНІВ
-                if ctx_type == "screen" and renpy.get_screen(ctx_target):
-                    return new_text
-
-                # Перевірка контексту для СЮЖЕТНИХ ЛЕЙБЛІВ
-                elif ctx_type == "label" and renpy.current_label() == ctx_target:
+                is_text_in_screen = (ctx_type == "screen" and is_screen_active(ctx_target))
+                is_text_in_label = (ctx_type == "label" and renpy.current_label() == ctx_target)
+                if is_text_in_screen or is_text_in_label:
                     return new_text
 
         return s
