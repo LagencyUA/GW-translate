@@ -2013,19 +2013,19 @@ translate ukrainian char_event3_0621ea59:
 translate ukrainian char_real_spend_ecdf424a:
 
     # t "Today she's back in the same place..."
-    t "Today she's back in the same place..."
+    t "Сьогодні вона знову тут же..."
 
 # game/game/charlotte_events.rpy:767
 translate ukrainian char_real_spend_7add8b39:
 
     # t "Hmm...?"
-    t "Hmm...?"
+    t "Гмм...?"
 
 # game/game/charlotte_events.rpy:769
 translate ukrainian char_real_spend_d917fc8d:
 
     # t "She woke up?"
-    t "She woke up?"
+    t "Вона прокинулася?"
 
 # game/game/charlotte_events.rpy:770
 translate ukrainian char_real_spend_d19f855d:
@@ -2037,7 +2037,7 @@ translate ukrainian char_real_spend_d19f855d:
 translate ukrainian char_real_spend_eae9e40c:
 
     # c "Coming to fish again?"
-    c "Coming to fish again?"
+    c "Прийшов знову порибалити?"
 
 # game/game/charlotte_events.rpy:773
 translate ukrainian char_real_spend_2b35b6fe:
@@ -2049,13 +2049,13 @@ translate ukrainian char_real_spend_2b35b6fe:
 translate ukrainian char_real_spend_74e14819:
 
     # mc "Ah, y-yes."
-    mc "Ah, y-yes."
+    mc "Ах, т-так."
 
 # game/game/charlotte_events.rpy:776
 translate ukrainian char_real_spend_c2f0a463:
 
     # t "I didn't expect her to initiate the conversation..."
-    t "I didn't expect her to initiate the conversation..."
+    t "Не очікував, що вона перша заговорить..."
 
 # game/game/charlotte_events.rpy:778
 translate ukrainian char_real_spend_d19f855d_1:
@@ -2067,7 +2067,7 @@ translate ukrainian char_real_spend_d19f855d_1:
 translate ukrainian char_real_spend_f7128c13:
 
     # c "Good luck..."
-    c "Good luck..."
+    c "Удачі..."
 
 # game/game/charlotte_events.rpy:781
 translate ukrainian char_real_spend_2b35b6fe_1:
@@ -2079,13 +2079,13 @@ translate ukrainian char_real_spend_2b35b6fe_1:
 translate ukrainian char_real_spend_596add55:
 
     # mc "In fact, I need to prepare the rod."
-    mc "In fact, I need to prepare the rod."
+    mc "Спочатку мені треба приготувати вудку."
 
 # game/game/charlotte_events.rpy:784
 translate ukrainian char_real_spend_73636687:
 
     # mc "Can I sit here while I do it?"
-    mc "Can I sit here while I do it?"
+    mc "Я можу сісти поруч?"
 
 # game/game/charlotte_events.rpy:786
 translate ukrainian char_real_spend_d19f855d_2:
@@ -2097,37 +2097,37 @@ translate ukrainian char_real_spend_d19f855d_2:
 translate ukrainian char_real_spend_50c15c3c:
 
     # t "Did I rush?"
-    t "Did I rush?"
+    t "Невже я поспішив?"
 
 # game/game/charlotte_events.rpy:789
 translate ukrainian char_real_spend_8c0805fc:
 
     # c "Ok..."
-    c "Ok..."
+    c "Авжеж..."
 
 # game/game/charlotte_events.rpy:790
 translate ukrainian char_real_spend_660a9a17:
 
     # t "Oh..."
-    t "Oh..."
+    t "Ох..."
 
 # game/game/charlotte_events.rpy:791
 translate ukrainian char_real_spend_7ac9e788:
 
     # mc "Thanks Charlotte."
-    mc "Thanks Charlotte."
+    mc "Дякую, Шарлотто."
 
 # game/game/charlotte_events.rpy:803
 translate ukrainian char_real_spend_85785fdb:
 
     # mc "Perfect."
-    mc "Perfect."
+    mc "Ідеально."
 
 # game/game/charlotte_events.rpy:805
 translate ukrainian char_real_spend_a9d2db5c:
 
     # t "Charlotte?"
-    t "Charlotte?"
+    t "Шарлотта?"
 
 # game/game/charlotte_events.rpy:807
 translate ukrainian char_real_spend_2b35b6fe_2:
@@ -2145,7 +2145,7 @@ translate ukrainian char_real_spend_d19f855d_3:
 translate ukrainian char_real_spend_d4799e2f:
 
     # t "Gulp*"
-    t "Gulp*"
+    t "{i}*Ковть*{/i}"
 
 # game/game/charlotte_events.rpy:813
 translate ukrainian char_real_spend_bda3ff80:
@@ -2169,7 +2169,7 @@ translate ukrainian char_real_spend_9246c750:
 translate ukrainian char_real_spend_817302d4:
 
     # mc "{size=-10}Fishing can wait..."
-    mc "{size=-10}Fishing can wait..."
+    mc "{size=-10}Риболовля зачекає..."
 
 # game/game/charlotte_events.rpy:841
 translate ukrainian char_event4_00f4c26e:
@@ -19855,7 +19855,7 @@ translate ukrainian strings:
 
     # game/charlotte_events.rpy:752
     old "Hang out{image=/bg/icons/heart_text.png}"
-    new "Hang out{image=/bg/icons/heart_text.png}"
+    new "Погуляти{image=/bg/icons/heart_text.png}"
 
     # game/charlotte_events.rpy:1653
     old "More than company{image=/bg/icons/tenshi_text.png}"
