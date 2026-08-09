@@ -665,11 +665,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1782
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#319B85}Charlotte{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#319B85}Charlotte{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nТи маєш провести більше часу з {color=#319B85}Шарлоттою{/color}."
 
     # game/day_time.rpy:1795
     old "{color=#FF438D}H{/color}-Event\nGo see {color=#319B85}Charlotte{/color} at the lake."
-    new "{color=#FF438D}H{/color}-Event\nGo see {color=#319B85}Charlotte{/color} at the lake."
+    new "{color=#FF438D}Х{/color}-подія\nПошукай {color=#319B85}Шарлотту{/color} біля озера."
 
     # game/day_time.rpy:1810
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte{/color} room."
