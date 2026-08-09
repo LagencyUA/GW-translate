@@ -393,7 +393,7 @@ translate ukrainian ear_touch_8aa50284:
 translate ukrainian ear_touch_6899f133:
 
     # mc "I couldn't help it!"
-    mc "Я нічого не міг вдіяти!"
+    mc "Я не встояв!"
 
 # game/game/charlotte_events.rpy:191
 translate ukrainian ear_touch_f38f9f0f:
@@ -501,7 +501,7 @@ translate ukrainian bench_rest_66766ad0:
 translate ukrainian bench_rest_139e401e:
 
     # t "I'd say she's an adventurer? {w}When I saw her kicking that orc I couldn't process what was happening."
-    t "Я б сказав, що вона — шукачка пригод? {w}Коли я побачив, як вона надавала тому орку, я не встиг навіть збагнути, що відбувається."
+    t "Я б сказав, що вона — шукачка пригод? {w}Коли побачив, як вона надавала тому орку, я не встиг навіть збагнути, що відбувається."
 
 # game/game/charlotte_events.rpy:224
 translate ukrainian bench_rest_96888a1d:
@@ -1083,7 +1083,7 @@ translate ukrainian charlotte_event_2_fab9171d:
 translate ukrainian charlotte_event_2_81855192:
 
     # c "And what do you mean \"did it work\"?"
-    c "А що ти маєш на увазі під «невже, спрацювало»?"
+    c "І що ти маєш на увазі під «невже, спрацювало»?"
 
 # game/game/charlotte_events.rpy:441
 translate ukrainian charlotte_event_2_584e8cf6:
@@ -1155,7 +1155,7 @@ translate ukrainian charlotte_event_2_6085f18e:
 translate ukrainian charlotte_event_2_a38994a6:
 
     # mc "Here, wait until it cools down or you will burn your tongue."
-    mc "Тримай. Тільки почекай поки вони охолонуть, а то язика обпечеш."
+    mc "Тримай. Тільки почекай поки вона охолоне, а то язика обпечеш."
 
 # game/game/charlotte_events.rpy:461
 translate ukrainian charlotte_event_2_d19f855d_2:
@@ -1395,7 +1395,7 @@ translate ukrainian charlotte_event_2_81bca8ab:
 translate ukrainian charlotte_event_2_9c03300a:
 
     # mc "That you don't hate me."
-    mc "Щоб ти мене не ненавидиш."
+    mc "Що ти мене не ненавидиш."
 
 # game/game/charlotte_events.rpy:517
 translate ukrainian charlotte_event_2_d19f855d_4:
@@ -1521,13 +1521,13 @@ translate ukrainian char_hangout_527a54d9:
 translate ukrainian char_hangout_669664cb:
 
     # mc "Hey."
-    mc "Ось так."
+    mc "Ось."
 
 # game/game/charlotte_events.rpy:595
 translate ukrainian char_hangout_6b67e575:
 
     # mc "It's ready."
-    mc "Готово."
+    mc "Уже готово."
 
 # game/game/charlotte_events.rpy:597
 translate ukrainian char_hangout_0cf07d9c:

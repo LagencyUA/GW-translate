@@ -111,13 +111,13 @@ translate ukrainian akane_forestmeet_78502bbe:
 translate ukrainian akane_forestmeet_2b862b6d:
 
     # ak "{size=-10}{i}I did it again..."
-    ak "{size=-10}{i}Я знову це злобила..."
+    ak "{size=-10}{i}Я знову це зробила..."
 
 # game/game/akane_events.rpy:65
 translate ukrainian akane_forestmeet_164c7889:
 
     # ak "{size=-10}{i}With Hana's help I had managed to control myself all this time."
-    ak "{size=-10}{i}Завдяки Хані мені вдавалося стримуватися весь цей час."
+    ak "{size=-10}{i}Завдяки Хані мені вдавалося стримувати себе весь цей час."
 
 # game/game/akane_events.rpy:67
 translate ukrainian akane_forestmeet_c1c0c9ae:
@@ -195,7 +195,7 @@ translate ukrainian akane_forestmeet_1c80f7ac:
 translate ukrainian akane_forestmeet_bd8853d0:
 
     # mc "Shouldn’t I be here?"
-    mc "А мені не треба тут бути?"
+    mc "А мені не слід тут бути?"
 
 # game/game/akane_events.rpy:87
 translate ukrainian akane_forestmeet_83d76ea3:
@@ -297,7 +297,7 @@ translate ukrainian akane_forestmeet_46b79df3_2:
 translate ukrainian akane_forestmeet_fffb3d74:
 
     # mc "The other time you were boiling and I didn't know what to do."
-    mc "Тоді в тебе була така гарячка, а навіть не знав, що робити."
+    mc "Тоді в тебе була така гарячка, а я навіть не знав, що й робити."
 
 # game/game/akane_events.rpy:116
 translate ukrainian akane_forestmeet_d6c851da:
@@ -903,7 +903,7 @@ translate ukrainian akane_event_1_08914d1c:
 translate ukrainian akane_event_1_811e9967:
 
     # mc "But it's a small wound, it'll heal quickly."
-    mc "Але це лише подряпина; швидко загоїться."
+    mc "Але це лише подряпина — швидко загоїться."
 
 # game/game/akane_events.rpy:316
 translate ukrainian akane_event_1_f603b8e4:
