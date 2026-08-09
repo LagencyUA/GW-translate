@@ -111,15 +111,15 @@ translate ukrainian strings:
 
     # game/day_time.rpy:4401
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fishing Mastery{/font}\nYou will tire the fish faster with each {color=#39A761}correct zone{/color} hit."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Майстерність риболовлі{/b}{/size}{/font}\nЗ кожним влучанням у {color=#39A761}зелену зону{/color} риба швидше втомлюватиметься."
+    new "{size=-18}{font=fonts/ukr/KyivRegion-Regular.ttf}{size=+4}{b}Майстерність риболовлі{/b}{/size}{/font}\nЗ кожним влучанням у {color=#39A761}зелену зону{/color} риба швидше втомлюватиметься."
 
     # game/day_time.rpy:4410
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fish Dominance{/font}\nEach point invested will make the fish {color=#39A761}move slower{/color}."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Домінація над рибами{/b}{/size}{/font}\nКожне вкладене очко змусить рибу {color=#39A761}рухатися повільніше{/color}."
+    new "{size=-18}{font=fonts/ukr/KyivRegion-Regular.ttf}{size=+4}{b}Домінація над рибами{/b}{/size}{/font}\nКожне вкладене очко змусить рибу {color=#39A761}рухатися повільніше{/color}."
 
     # game/day_time.rpy:4419
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Two For One{/font}\nThere will be a chance to get {color=#39A761}twice{/color} as many fish!\n20% for each point."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Дві за ціною одної{/b}{/size}{/font}\nЗ'являється можливість виловити {color=#39A761}вдвічі{/color} більше риби!\n20% за кожне очко."
+    new "{size=-18}{font=fonts/ukr/KyivRegion-Regular.ttf}{size=+4}{b}Дві за ціною одної{/b}{/size}{/font}\nЗ'являється можливість виловити {color=#39A761}вдвічі{/color} більше риби!\n20% за кожне очко."
 
     old "{size=-10}{size=+5}Logging"
     new "{size=-10}{size=+5}Лісозаготівля"
@@ -132,15 +132,15 @@ translate ukrainian strings:
 
     # game/day_time.rpy:4430
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Hands of Steel{/font}\nIncreases the strength of your strikes, dealing {color=#39A761}more damage{/color} to the tree"
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Сталеві руки{/b}{/size}{/font}\nЗбільшує силу твоїх ударів, завдаючи {color=#39A761}більше шкоди{/color} дереву."
+    new "{size=-18}{font=fonts/ukr/KyivRegion-Regular.ttf}{size=+4}{b}Сталеві руки{/b}{/size}{/font}\nЗбільшує силу твоїх ударів, завдаючи {color=#39A761}більше шкоди{/color} дереву."
 
     # game/day_time.rpy:4439
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Lumberjack Mastery{/font}\nIncreases the {color=#39A761}amount{/color} of wood obtained."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Майстерність лісоруба{/b}{/size}{/font}\nЗбільшує {color=#39A761}кількість{/color} отриманої деревини."
+    new "{size=-18}{font=fonts/ukr/KyivRegion-Regular.ttf}{size=+4}{b}Майстерність лісоруба{/b}{/size}{/font}\nЗбільшує {color=#39A761}кількість{/color} отриманої деревини."
 
     # game/day_time.rpy:4448
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Critical Hits{/font}\nYour perfect hits do more {color=#FFD700}critical damage{/color}."
-    new "{size=-18}{font=fonts/ukr/Monomakh-Regular.ttf}{size=+4}{b}Критичні влучання{/b}{/size}{/font}\nТвої влучні удари завдають більше {color=#FFD700}критичної шкоди{/color}."
+    new "{size=-18}{font=fonts/ukr/KyivRegion-Regular.ttf}{size=+4}{b}Критичні влучання{/b}{/size}{/font}\nТвої влучні удари завдають більше {color=#FFD700}критичної шкоди{/color}."
 
     ## Написи на мапі map_gw
     old "Town"
@@ -150,7 +150,7 @@ translate ukrainian strings:
     new "Ліс"
 
     old "{size=-3}Sakura\n Town"
-    new "{size=-8}Містечко\nСакура"
+    new "{size=-10}Містечко\nСакура"
 
     old "{size=+5}Lake"
     new "{size=+3}Озеро"
@@ -165,7 +165,7 @@ translate ukrainian strings:
     new "{size=-3}Клан\nЛікоріс"
 
     old "{size=-3}Kingdom"
-    new "{size=-8}Королівство"
+    new "{size=-12}   Королівство"
 
     old "{size=-6}Pond"
     new "{size=-8}Ставок"
@@ -177,24 +177,24 @@ translate ukrainian strings:
 
     # game/day_time.rpy:131
     old "{size=+20}C lose"
-    new "{size=+8}Закрити"
+    new "{size=+4}Закрити"
 
     # Загальні написи у меню з дівчатами
     old "{size=-3}Locations"
     new "{size=-3}Де знайти"
 
     old "{size=+3}Hints"
-    new "{size=+1}   Підказки"
+    new "{size=-4}   Підказки"
 
     old "{size=+8}Affection"
-    new "{size=+8}Прихильність"
+    new "{size=+4}Прихильність"
 
     old "{i}Hover a card"
     new "{i}Наведи на карту"
 
     # game/day_time.rpy:447
     old "{size=+2}BACK"
-    new "{size=+2}НАЗАД "
+    new "{size=+2}Назад "
 
     ############## Спільні написи про заблоковану підсказку #########################
     # game/day_time.rpy:539
