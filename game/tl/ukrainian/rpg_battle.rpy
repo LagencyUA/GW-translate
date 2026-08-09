@@ -33,6 +33,9 @@ translate ukrainian strings:
     old "{size=-10}{size=+1}Fishing"
     new "{size=-10}{size=+1}Рибальство"
 
+    old "{size=-12}Lvl up!"
+    new "{size=-20}Новий рівень!"
+
     # Назви та пописи предметів інвернаря
     old "Fish S"
     new "Риба S-рангу"
