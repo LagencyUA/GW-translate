@@ -1617,19 +1617,19 @@ translate ukrainian akane_aff_2_205343d6:
 translate ukrainian akane_aff_2_bba101cb:
 
     # mc "If you don't want me to start acting up, you'd better get it out of there."
-    mc "If you don't want me to start acting up, you'd better get it out of there."
+    mc "Краще тобі її звідти прибрати, якщо не хочеш, щоб я теж почав чудити."
 
 # game/game/akane_events.rpy:575
 translate ukrainian akane_aff_2_7cdd42c4:
 
     # ak "Haaa???!"
-    ak "Haaa???!"
+    ak "Гааа???!"
 
 # game/game/akane_events.rpy:580
 translate ukrainian akane_aff_2_ef53b5d9:
 
     # t "Now, that's the Akane I know."
-    t "Now, that's the Akane I know."
+    t "Ось тепер переді мною Акане, яку я знаю."
 
 # game/game/akane_events.rpy:582
 translate ukrainian akane_aff_2_2b35b6fe_3:
@@ -1641,133 +1641,133 @@ translate ukrainian akane_aff_2_2b35b6fe_3:
 translate ukrainian akane_aff_2_f4991eb8:
 
     # mc "All good?"
-    mc "All good?"
+    mc "Усе добре?"
 
 # game/game/akane_events.rpy:585
 translate ukrainian akane_aff_2_2657dab1:
 
     # ak "{i}{size=-10}I was really doing that?"
-    ak "{i}{size=-10}I was really doing that?"
+    ak "{i}{size=-10}Я дійсно це робила?"
 
 # game/game/akane_events.rpy:587
 translate ukrainian akane_aff_2_f96e1a25:
 
     # ak "{i}{size=-10}Why does the blood of this pervert turn me on like this?"
-    ak "{i}{size=-10}Why does the blood of this pervert turn me on like this?"
+    ak "{i}{size=-10}Чому кров цього збоченця мене так заводить?"
 
 # game/game/akane_events.rpy:589
 translate ukrainian akane_aff_2_ef1bcf31:
 
     # ak "{i}{size=-10}Is it because I don't drink blood often?"
-    ak "{i}{size=-10}Is it because I don't drink blood often?"
+    ak "{i}{size=-10}Можливо, це тому, що я не так часто її п'ю?"
 
 # game/game/akane_events.rpy:591
 translate ukrainian akane_aff_2_5e381d7a:
 
     # ak "{i}{size=-10}But I can't let him know..."
-    ak "{i}{size=-10}But I can't let him know..."
+    ak "{i}{size=-10}Але він не має про це знати..."
 
 # game/game/akane_events.rpy:593
 translate ukrainian akane_aff_2_be187342:
 
     # ak "Ahem!"
-    ak "Ahem!"
+    ak "{i}Кхем!{/i}"
 
 # game/game/akane_events.rpy:595
 translate ukrainian akane_aff_2_f3e3f5ca:
 
     # ak "It seems that you're good for something."
-    ak "It seems that you're good for something."
+    ak "Здається, з тебе є хоч якась користь."
 
 # game/game/akane_events.rpy:597
 translate ukrainian akane_aff_2_b5c8507e:
 
     # ak "Take the end as a reward."
-    ak "Take the end as a reward."
+    ak "Сприймай те, що було в кінці, як винагороду."
 
 # game/game/akane_events.rpy:598
 translate ukrainian akane_aff_2_23887b7c:
 
     # mc "Reward-?"
-    mc "Reward-?"
+    mc "Винагоро-?"
 
 # game/game/akane_events.rpy:600
 translate ukrainian akane_aff_2_13d9deb6:
 
     # ak "Yes! {w}Reward!"
-    ak "Yes! {w}Reward!"
+    ak "Так! {w}Винагороду!"
 
 # game/game/akane_events.rpy:601
 translate ukrainian akane_aff_2_c0929f9c:
 
     # mc "O-Ok?"
-    mc "O-Ok?"
+    mc "Д-Добре?"
 
 # game/game/akane_events.rpy:603
 translate ukrainian akane_aff_2_e7b52e54:
 
     # mc "So you'll reward me that way every time I give you blood?"
-    mc "So you'll reward me that way every time I give you blood?"
+    mc "То ти тепер завжди будеш мене так винагороджувати?"
 
 # game/game/akane_events.rpy:605
 translate ukrainian akane_aff_2_5543462f:
 
     # ak "Yes, ye-"
-    ak "Yes, ye-"
+    ak "Так, аг-"
 
 # game/game/akane_events.rpy:607
 translate ukrainian akane_aff_2_0aaf7157:
 
     # ak "You wish!"
-    ak "You wish!"
+    ak "У твоїх мріях!"
 
 # game/game/akane_events.rpy:608
 translate ukrainian akane_aff_2_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Ох..."
 
 # game/game/akane_events.rpy:610
 translate ukrainian akane_aff_2_fa3aabe2:
 
     # mc "But then why did you reward me this time?"
-    mc "But then why did you reward me this time?"
+    mc "Але чому тоді вирішила це зробити сьогодні?"
 
 # game/game/akane_events.rpy:612
 translate ukrainian akane_aff_2_1f8e5f85:
 
     # ak "Ahh, {w}Err..."
-    ak "Ahh, {w}Err..."
+    ak "Ахх, {w}Емм..."
 
 # game/game/akane_events.rpy:614
 translate ukrainian akane_aff_2_5396347c:
 
     # ak "Maybe if you become useful to me and give me a lot of energy I could reward you again."
-    ak "Maybe if you become useful to me and give me a lot of energy I could reward you again."
+    ak "Можливо, якщо ти станеш мені корисним і подаруєш мені багато енергії, тоді я зможу знову тебе винагородити."
 
 # game/game/akane_events.rpy:616
 translate ukrainian akane_aff_2_5eab7acc:
 
     # mc "Perfect, it's a deal!"
-    mc "Perfect, it's a deal!"
+    mc "Чудово, домовилися!"
 
 # game/game/akane_events.rpy:618
 translate ukrainian akane_aff_2_40bb61bd:
 
     # mc "I have to go."
-    mc "I have to go."
+    mc "Я маю бігти."
 
 # game/game/akane_events.rpy:620
 translate ukrainian akane_aff_2_c8443abd:
 
     # ak "No, wait! {w}I don't mean that kind of reward!"
-    ak "No, wait! {w}I don't mean that kind of reward!"
+    ak "Ні, стій! {w}Я не про таку винагороду!"
 
 # game/game/akane_events.rpy:621
 translate ukrainian akane_aff_2_f07db495:
 
     # mc "Remember the deal!"
-    mc "Remember the deal!"
+    mc "Не забувай про угоду!"
 
 # game/game/akane_events.rpy:628
 translate ukrainian akane_aff_2_65e8f930:
@@ -29341,6 +29341,9 @@ translate ukrainian strings:
     old "You take off your shirt."
     new "Ти знімаєш сорочку."
 
+    old "Akane gets up quickly."
+    new "Акане хутко встає."
+
     old "{i}{sc=3}{outlinecolor=#000000}{color=#ff0058}That's enough."
     new "{i}{sc=3}{outlinecolor=#000000}{color=#ff0058}That's enough."
 
@@ -29373,9 +29376,6 @@ translate ukrainian strings:
 
     old "{sc=3}{outlinecolor=#000000}Or was all that talk about protecting them-"
     new "{sc=3}{outlinecolor=#000000}Or was all that talk about protecting them-"
-
-    old "Akane gets up quickly."
-    new "Akane gets up quickly."
 
     old "You spend the night with Akane."
     new "You spend the night with Akane."

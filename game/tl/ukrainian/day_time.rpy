@@ -345,7 +345,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:742
     old "{size=-13}Evening\n Sawmill"
-    new "{size=-13}Вечір\nЛісопилка"
+    new "{size=-13}Вечір\nЛісопильня"
 
     # game/day_time.rpy:791
     old "{color=#FF438D}H{/color}-Event\nTalk with Yui in the afternoon."
