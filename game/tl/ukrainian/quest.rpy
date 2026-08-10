@@ -35,7 +35,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:211
     old "New Stores"
-    new "New Stores"
+    new "Нові крамнички"
 
     # game/quest.rpy:217
     old "Cat Curiosity"
@@ -233,6 +233,19 @@ translate ukrainian strings:
     old "{s}-Even though it has worked, she won't talk to me if I don't give her food, I should keep doing that.{/s}"
     new "{s}- Хоча це й спрацювало, вона не хоче зі мною розмовляти, якщо я не дам їй їжі, тож мені слід продовжувати так робити.{/s}"
 
+    old "The new stores must be fixed up, and I also want to meet the {color=#919191}girl{/color} who's in charge of the constructions."
+    new "Нові крамнички вже мають запрацювати. Я також хочу зустрітися з {color=#919191}дівчиною{/color}, яка відповідає за будівництво."
+
+    old "-Look for the new store, it should be in the direction of {color=#F3915B}Hana's{/color} house."
+    new "- Пошукай нову крамничку, вона має бути у напрямку будинку {color=#F3915B}Хани{/color}."
+    old "{s}-Look for the new store, it should be in the direction of {color=#F3915B}Hana's{/color} house.{/s}"
+    new "{s}- Пошукай нову крамничку, вона має бути у напрямку будинку {color=#F3915B}Хани{/color}.{/s}"
+
+    old "-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house."
+    new "- Пошукай {color=#919191}Маю{/color}, її дім має бути у тому ж напрямку де й дім {color=#FBE5A2}Юї{/color}."
+    old "{s}-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house.{/s}"
+    new "{s}- Пошукай {color=#919191}Маю{/color}, її дім має бути у тому ж напрямку де й дім {color=#FBE5A2}Юї{/color}.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -334,9 +347,6 @@ translate ukrainian strings:
 
     old "-You are missing events with:"
     new "-You are missing events with:"
-
-    old "The new stores must be fixed up, and I also want to meet the {color=#919191}girl{/color} who's in charge of the constructions."
-    new "The new stores must be fixed up, and I also want to meet the {color=#919191}girl{/color} who's in charge of the constructions."
 
     old "-They seem to be all in the kitchen. (Afternoon)"
     new "-They seem to be all in the kitchen. (Afternoon)"
@@ -461,9 +471,6 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Go talk to Tomoe in the evening (250 Gold)."
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Go talk to Tomoe in the evening (250 Gold)."
 
-    old "-Look for the new store, it should be in the direction of {color=#F3915B}Hana's{/color} house."
-    new "-Look for the new store, it should be in the direction of {color=#F3915B}Hana's{/color} house."
-
     old "{size=-8}Was it a trap? Does the queen have that kind of power? \nI remember that the spell was directed at Charlotte. Should I try it alone this time?"
     new "{size=-8}Was it a trap? Does the queen have that kind of power? \nI remember that the spell was directed at Charlotte. Should I try it alone this time?"
 
@@ -550,9 +557,6 @@ translate ukrainian strings:
 
     old "-Search for {color=#F3915B}Hana{/color} in the village. (Afternoon)"
     new "-Search for {color=#F3915B}Hana{/color} in the village. (Afternoon)"
-
-    old "-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house."
-    new "-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house."
 
     old "{size=-8}A dream or a memory? Could it be the work of the Goddesses, or is something playing with my mind?\nWhatever, Hana told me to rest so I'll take care of the pending tasks."
     new "{size=-8}A dream or a memory? Could it be the work of the Goddesses, or is something playing with my mind?\nWhatever, Hana told me to rest so I'll take care of the pending tasks."

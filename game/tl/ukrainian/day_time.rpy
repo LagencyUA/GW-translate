@@ -365,7 +365,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:830
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#CEA976}Yui{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#CEA976}Юї{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nТи маєш провести більше часу з {color=#CEA976}Юї{/color}."
 
     # game/day_time.rpy:840
     old "{color=#FF438D}H{/color}-Event\nGo to {color=#F3915B}Hana's{/color} house in the afternoon."
@@ -511,7 +511,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1295
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#E7CAE5}Shika{/color}."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to spend more time with {color=#E7CAE5}Shika{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nТи маєш провести більше часу з {color=#E7CAE5}Шикою{/color}."
 
     # game/day_time.rpy:1309
     old "{color=#FFFFFF}N{/color}-Event\nSee what {color=#E7CAE5}Shika{/color} is doing outside {color=#919191}Mayu's{/color} house in the afternoon."
