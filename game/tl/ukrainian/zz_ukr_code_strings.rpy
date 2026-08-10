@@ -31,7 +31,9 @@ init 999 python:
     #   ("Новий текст", "label", "назва_лейбла")   -- для сюжету/діалогів
     # =========================================================================
     contextual_text_replacements = {
-        "Увійти": [("Enter", "screen", "help")]
+        "Увійти": [("Enter", "screen", "help")],
+        "Melon Pan": [("динну булочку", "screen", "buy_confirm_screen")],
+        "Ні": [(" Ні", "screen", "buy_confirm_screen")], # Виправлення положення
     }
 
     _original_replace_text = config.replace_text

@@ -3,25 +3,25 @@
 translate ukrainian shop_variables_ae8b5e7c:
 
     # t "It's closed, I should come back tomorrow."
-    t "It's closed, I should come back tomorrow."
+    t "Зачинено, мені слід прийти завтра."
 
 # game/game/tomoe_events.rpy:35
 translate ukrainian tomoe_event_1_273fa2d0:
 
     # mc "Woah."
-    mc "Woah."
+    mc "Ого."
 
 # game/game/tomoe_events.rpy:36
 translate ukrainian tomoe_event_1_d73d33eb:
 
     # mc "So this is the store."
-    mc "So this is the store."
+    mc "То це крамничка."
 
 # game/game/tomoe_events.rpy:37
 translate ukrainian tomoe_event_1_9cf36dd9:
 
     # mc "The girls built it pretty fast, I can't wait to see the inside of it."
-    mc "The girls built it pretty fast, I can't wait to see the inside of it."
+    mc "Дівчата відбудували її досить швидко, я вже не можу дочекатися, щоб подивитися, як там усередині."
 
 # game/game/tomoe_events.rpy:39
 translate ukrainian tomoe_event_1_bb8e4b4e:
@@ -33,25 +33,25 @@ translate ukrainian tomoe_event_1_bb8e4b4e:
 translate ukrainian tomoe_event_1_342f2d8a:
 
     # a "I was finally able to reopen the store again."
-    a "I was finally able to reopen the store again."
+    a "Нарешті мені вдалося знову відкрити крамничку."
 
 # game/game/tomoe_events.rpy:41
 translate ukrainian tomoe_event_1_41876b0d:
 
     # a "Yui took no time at all to gather the necessary materials."
-    a "Yui took no time at all to gather the necessary materials."
+    a "Юї миттю зібрала всі необхідні матеріали."
 
 # game/game/tomoe_events.rpy:43
 translate ukrainian tomoe_event_1_85837c01:
 
     # a "Why this luck? {w}Out of nowhere, the village began to prosper."
-    a "Why this luck? {w}Out of nowhere, the village began to prosper."
+    a "Звідки така удача? {w}Несподівано селище почало процвітати."
 
 # game/game/tomoe_events.rpy:44
 translate ukrainian tomoe_event_1_8a23db85:
 
     # a "We have been in decline ever since she left."
-    a "We have been in decline ever since she left."
+    a "Відколи вона пішла, справи наші ставали все гірше і гірше."
 
 # game/game/tomoe_events.rpy:45
 translate ukrainian tomoe_event_1_bb8e4b4e_1:
@@ -63,25 +63,25 @@ translate ukrainian tomoe_event_1_bb8e4b4e_1:
 translate ukrainian tomoe_event_1_181cd0e7:
 
     # a "Well, whatever."
-    a "Well, whatever."
+    a "Ну, яка вже різниця."
 
 # game/game/tomoe_events.rpy:48
 translate ukrainian tomoe_event_1_f2e18b50:
 
     # a "I won't think too much about it."
-    a "I won't think too much about it."
+    a "Не треба мені надто над цим замислюватися."
 
 # game/game/tomoe_events.rpy:50
 translate ukrainian tomoe_event_1_4ba5dc16:
 
     # a "But.."
-    a "But.."
+    a "Але..."
 
 # game/game/tomoe_events.rpy:51
 translate ukrainian tomoe_event_1_29bc32f1:
 
     # a "It all started when that new guy arrived.."
-    a "It all started when that new guy arrived.."
+    a "Все почалося з моменту появи того нового хлопця..."
 
 # game/game/tomoe_events.rpy:52
 translate ukrainian tomoe_event_1_bb8e4b4e_2:
@@ -93,7 +93,7 @@ translate ukrainian tomoe_event_1_bb8e4b4e_2:
 translate ukrainian tomoe_event_1_9906d0a7:
 
     # mc "Wooah."
-    mc "Wooah."
+    mc "Огооо."
 
 # game/game/tomoe_events.rpy:54
 translate ukrainian tomoe_event_1_4d218a56:
@@ -105,163 +105,163 @@ translate ukrainian tomoe_event_1_4d218a56:
 translate ukrainian tomoe_event_1_6b0065aa:
 
     # mc "They really put a lot of effort into this place."
-    mc "They really put a lot of effort into this place."
+    mc "Вони дійсно доклали чимало зусиль, щоб облаштувати це місце."
 
 # game/game/tomoe_events.rpy:56
 translate ukrainian tomoe_event_1_075f7cc8:
 
     # mc "I'm glad to have been able to help."
-    mc "I'm glad to have been able to help."
+    mc "Радий, що теж зміг допомогти."
 
 # game/game/tomoe_events.rpy:58
 translate ukrainian tomoe_event_1_5132d24b:
 
     # mc "But no one is here?"
-    mc "But no one is here?"
+    mc "Але невже тут нікого?"
 
 # game/game/tomoe_events.rpy:59
 translate ukrainian tomoe_event_1_626c22f7:
 
     # mc "Maybe I should come back later-"
-    mc "Maybe I should come back later-"
+    mc "Мабуть, мені треба зайти пізн-"
 
 # game/game/tomoe_events.rpy:61
 translate ukrainian tomoe_event_1_23e6fa12:
 
     # a "Welcome Miss!"
-    a "Welcome Miss!"
+    a "Ласкаво прошу, пані!"
 
 # game/game/tomoe_events.rpy:62
 translate ukrainian tomoe_event_1_5cf264b7:
 
     # mc "Miss?"
-    mc "Miss?"
+    mc "Пані?"
 
 # game/game/tomoe_events.rpy:64
 translate ukrainian tomoe_event_1_495bf961:
 
     # a "Ohh."
-    a "Ohh."
+    a "Охх."
 
 # game/game/tomoe_events.rpy:66
 translate ukrainian tomoe_event_1_35d208f8:
 
     # a "You're the new guy everyone is talking about!"
-    a "You're the new guy everyone is talking about!"
+    a "Ти той новий хлопець, про якого всі торочать!"
 
 # game/game/tomoe_events.rpy:67
 translate ukrainian tomoe_event_1_22299721:
 
     # t "Do they still talk about me?"
-    t "Do they still talk about me?"
+    t "Невже про мене досі гворять?"
 
 # game/game/tomoe_events.rpy:68
 translate ukrainian tomoe_event_1_e84af2d9:
 
     # mc "And you are?"
-    mc "And you are?"
+    mc "А ти?"
 
 # game/game/tomoe_events.rpy:70
 translate ukrainian tomoe_event_1_abc2b72a:
 
     # a "I'm the one who will be in charge of this place."
-    a "I'm the one who will be in charge of this place."
+    a "Я та, хто керує цим всим."
 
 # game/game/tomoe_events.rpy:72
 translate ukrainian tomoe_event_1_db228e0c:
 
     # a "Call me Tomoe."
-    a "Call me Tomoe."
+    to "Клич мене Томое."
 
 # game/game/tomoe_events.rpy:74
 translate ukrainian tomoe_event_1_edb73539:
 
     # to "If you need to buy or sell something just talk to me."
-    to "If you need to buy or sell something just talk to me."
+    to "Якщо потрібно щось купити чи продати, просто звертайся до мене."
 
 # game/game/tomoe_events.rpy:76
 translate ukrainian tomoe_event_1_89b7582b:
 
     # mc "A pleasure Tomoe, my name is [mc]."
-    mc "A pleasure Tomoe, my name is [mc]."
+    mc "Радий знайомству, Томое. Мене звати [mc]."
 
 # game/game/tomoe_events.rpy:78
 translate ukrainian tomoe_event_1_8106aa14:
 
     # to "Hmm.."
-    to "Hmm.."
+    to "Гмм..."
 
 # game/game/tomoe_events.rpy:79
 translate ukrainian tomoe_event_1_61b10410:
 
     # to "You're a well-mannered person..."
-    to "You're a well-mannered person..."
+    to "А ти добре вихований..."
 
 # game/game/tomoe_events.rpy:80
 translate ukrainian tomoe_event_1_8d54ecfd:
 
     # to "Just as the rumors say."
-    to "Just as the rumors say."
+    to "Прямо як і говорять чутки."
 
 # game/game/tomoe_events.rpy:81
 translate ukrainian tomoe_event_1_228e654d:
 
     # mc "I was just wondering that."
-    mc "I was just wondering that."
+    mc "Мені все ж цікаво."
 
 # game/game/tomoe_events.rpy:82
 translate ukrainian tomoe_event_1_a4143b02:
 
     # mc "What do they say about me?"
-    mc "What do they say about me?"
+    mc "Що там про мене кажуть?"
 
 # game/game/tomoe_events.rpy:84
 translate ukrainian tomoe_event_1_73f45aa9:
 
     # to "That you always help others."
-    to "That you always help others."
+    to "Те, що ти ніколи не відмовиш у допомозі іншим."
 
 # game/game/tomoe_events.rpy:85
 translate ukrainian tomoe_event_1_367ef9da:
 
     # to "And that you're quite kind and considerate to all the girls."
-    to "And that you're quite kind and considerate to all the girls."
+    to "І що ти дуже добрий і уважний до всіх дівчат."
 
 # game/game/tomoe_events.rpy:86
 translate ukrainian tomoe_event_1_5258b4e8:
 
     # t "Oh, I didn't expect that."
-    t "Oh, I didn't expect that."
+    t "Ох, цього я не очікував."
 
 # game/game/tomoe_events.rpy:88
 translate ukrainian tomoe_event_1_bd2a046d:
 
     # to "That if someone keeps eye contact with you for more than 5 seconds you generate instant orgasms."
-    to "That if someone keeps eye contact with you for more than 5 seconds you generate instant orgasms."
+    to "А також, якщо хтось дивитиметься тобі увічі понад 5 секунд, то можна отримати миттєвий оргазм."
 
 # game/game/tomoe_events.rpy:89
 translate ukrainian tomoe_event_1_463dfd54:
 
     # t "What?"
-    t "What?"
+    t "Стоп?"
 
 # game/game/tomoe_events.rpy:91
 translate ukrainian tomoe_event_1_34abf879:
 
     # to "That if you touch someone you'll give them luck for 1 year."
-    to "That if you touch someone you'll give them luck for 1 year."
+    to "Ще, якщо ти торкнешся до когось, то наділиш удачею на цілий рік."
 
 # game/game/tomoe_events.rpy:92
 translate ukrainian tomoe_event_1_506c8fd0:
 
     # mc "Err.."
-    mc "Err.."
+    mc "Емм.."
 
 # game/game/tomoe_events.rpy:94
 translate ukrainian tomoe_event_1_fd415d8e:
 
     # to "That what's inside your pants is the size of a forearm."
-    to "That what's inside your pants is the size of a forearm."
+    to "Також те, що у тебе в штанях, розміром з передпліччя."
 
 # game/game/tomoe_events.rpy:95
 translate ukrainian tomoe_event_1_2b35b6fe:
@@ -273,91 +273,91 @@ translate ukrainian tomoe_event_1_2b35b6fe:
 translate ukrainian tomoe_event_1_62c8ec23:
 
     # to "And that they're all waiting for you to repopulate the village with your seed."
-    to "And that they're all waiting for you to repopulate the village with your seed."
+    to "І те, що всі мешканки з нетерпінням чекають, що ти відновиш популяцю цього селища власним сім'ям."
 
 # game/game/tomoe_events.rpy:98
 translate ukrainian tomoe_event_1_9b9bf9fd:
 
     # t "R-Repopulate the village?"
-    t "R-Repopulate the village?"
+    t "В-Відновлю популяцію?"
 
 # game/game/tomoe_events.rpy:100
 translate ukrainian tomoe_event_1_89323f9b:
 
     # mc "Ok, ok! {w}I got it!"
-    mc "Ok, ok! {w}I got it!"
+    mc "Усе, годі! {w}Я зрозумів!"
 
 # game/game/tomoe_events.rpy:102
 translate ukrainian tomoe_event_1_74635ed0:
 
     # to "Hahaha."
-    to "Hahaha."
+    to "Хахаха."
 
 # game/game/tomoe_events.rpy:103
 translate ukrainian tomoe_event_1_e4be6021:
 
     # mc "Sigh*"
-    mc "Sigh*"
+    mc "{i}*Хааах*{/i}"
 
 # game/game/tomoe_events.rpy:105
 translate ukrainian tomoe_event_1_cc53648b:
 
     # t "Mmm?"
-    t "Mmm?"
+    t "Ммм?"
 
 # game/game/tomoe_events.rpy:106
 translate ukrainian tomoe_event_1_f2fadc26:
 
     # t "Those ears..."
-    t "Those ears..."
+    t "Її вуха..."
 
 # game/game/tomoe_events.rpy:107
 translate ukrainian tomoe_event_1_96aab9c8:
 
     # mc "An elf?"
-    mc "An elf?"
+    mc "Вона ельфійка?"
 
 # game/game/tomoe_events.rpy:109
 translate ukrainian tomoe_event_1_25f52c03:
 
     # to "Mmm?"
-    to "Mmm?"
+    to "Ммм?"
 
 # game/game/tomoe_events.rpy:111
 translate ukrainian tomoe_event_1_a93cada5:
 
     # to "Are you trying to give me an orgasm?"
-    to "Are you trying to give me an orgasm?"
+    to "Намагаєшся довести мене до оргазму?"
 
 # game/game/tomoe_events.rpy:112
 translate ukrainian tomoe_event_1_3fe6b27a:
 
     # mc "What?! No no."
-    mc "What?! No no."
+    mc "Шо?! Ні-ні."
 
 # game/game/tomoe_events.rpy:114
 translate ukrainian tomoe_event_1_f7e3391d:
 
     # mc "I've never seen an elf before."
-    mc "I've never seen an elf before."
+    mc "Ніколи раніше не бачив ельфійок."
 
 # game/game/tomoe_events.rpy:116
 translate ukrainian tomoe_event_1_9deb867e:
 
     # to "Really?"
-    to "Really?"
+    to "Справді?"
 
 # game/game/tomoe_events.rpy:118
 translate ukrainian tomoe_event_1_755dbf8b:
 
     # v "Hello."
-    v "Hello."
+    v "Добрий день."
 
 # game/game/tomoe_events.rpy:119
 translate ukrainian tomoe_event_1_beb0272f:
 
     # v "Ahh~ It's him! {w}{size=-10}I'm not ready for an orgasm..."
-    v "Ahh~ It's him! {w}{size=-10}I'm not ready for an orgasm..."
+    v "Ахх~ Це він! {w}{size=-10}Я не готова до оргазму..."
 
 # game/game/tomoe_events.rpy:120
 translate ukrainian tomoe_event_1_2b35b6fe_1:
@@ -369,43 +369,43 @@ translate ukrainian tomoe_event_1_2b35b6fe_1:
 translate ukrainian tomoe_event_1_7ccca43c:
 
     # to "Well, we can talk about it another day."
-    to "Well, we can talk about it another day."
+    to "Ну, про це можна поговорити іншим разом."
 
 # game/game/tomoe_events.rpy:123
 translate ukrainian tomoe_event_1_c9a40383:
 
     # mc "Sure, I'll come to sell fish next time."
-    mc "Sure, I'll come to sell fish next time."
+    mc "Звісно, я зайду продати риби наступного разу."
 
 # game/game/tomoe_events.rpy:127
 translate ukrainian tomoe_event_1_d19260ef:
 
     # to "And I'll receive them with pleasure!"
-    to "And I'll receive them with pleasure!"
+    to "А я із задоволенням куплю її у тебе!"
 
 # game/game/tomoe_events.rpy:129
 translate ukrainian tomoe_event_1_4cc2b2a1:
 
     # mc "Bye Tomoe."
-    mc "Bye Tomoe."
+    mc "Бувай, Томое."
 
 # game/game/tomoe_events.rpy:130
 translate ukrainian tomoe_event_1_4c1f1d9c:
 
     # to "Bye bye."
-    to "Bye bye."
+    to "Бувай-бувай."
 
 # game/game/tomoe_events.rpy:138
 translate ukrainian tomoe_event_1_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:237
 translate ukrainian shop_interface_1238a666:
 
     # to "Welcome [mc]!"
-    to "Welcome [mc]!"
+    to "Ласкаво прошу, [mc]!"
 
 # game/game/tomoe_events.rpy:608
 translate ukrainian no_enough_765f9cf6:
@@ -1485,7 +1485,7 @@ translate ukrainian tomoe_eventuno_545fad00:
 translate ukrainian tomoe_eventuno_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:947
 translate ukrainian tomoe_eventdos_a7883b8b:
@@ -2241,7 +2241,7 @@ translate ukrainian tomoe_eventdos_9b75d8db:
 translate ukrainian tomoe_eventdos_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:1165
 translate ukrainian tomoe_eventdos_c05571c0:
@@ -2853,7 +2853,7 @@ translate ukrainian tomoe_eventtres_a3a981c3:
 translate ukrainian tomoe_eventtres_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:1364
 translate ukrainian tomoe_eventcuatro_b7b60d34:
@@ -3771,7 +3771,7 @@ translate ukrainian tomoe_gal1_2f17dba2:
 translate ukrainian tomoe_gal1_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:1623
 translate ukrainian halloween_start_dcafbb9c:
@@ -4137,7 +4137,7 @@ translate ukrainian hall_on_1f8d9084_1:
 translate ukrainian hall_on_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:1721
 translate ukrainian hall_on_08e60ab0:
@@ -4953,7 +4953,7 @@ translate ukrainian tomoe_eventcinco_d003bf8f:
 translate ukrainian tomoe_eventcinco_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:1935
 translate ukrainian tomoe_eventseis_d4eff1b4:
@@ -6099,7 +6099,7 @@ translate ukrainian tomoe_eventseis_1e234c29:
 translate ukrainian tomoe_eventseis_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:2264
 translate ukrainian tomoe_eventsiete_26b68820:
@@ -6927,7 +6927,7 @@ translate ukrainian tomoe_eventsiete_08f2daba_2:
 translate ukrainian tomoe_eventsiete_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:2463
 translate ukrainian tomoe_eventsiete_b0b6aa71:
@@ -8457,7 +8457,7 @@ translate ukrainian tomoe_gal2_7cce8ad6:
 translate ukrainian tomoe_gal2_7421dcf4:
 
     # "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Tomoe's affection has increased to [tomoe_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Томое зросла до [tomoe_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/tomoe_events.rpy:2850
 translate ukrainian some_interesting_e413ba28:
@@ -9177,7 +9177,7 @@ translate ukrainian tomoe_eventnueve_33d44fec:
 translate ukrainian tomoe_eventnueve_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:3071
 translate ukrainian tomoe_eventdiez_03fb3e88:
@@ -9549,7 +9549,7 @@ translate ukrainian tomoe_eventdiez_57322203:
 translate ukrainian tomoe_eventdiez_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:3158
 translate ukrainian tomoe_eventdiez_65072ad4:
@@ -10323,7 +10323,7 @@ translate ukrainian tomoe_eventonce_97e49bf5:
 translate ukrainian tomoe_eventonce_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:3375
 translate ukrainian tomoe_eventdoce_a20cefa7:
@@ -10863,7 +10863,7 @@ translate ukrainian tomoe_eventdoce_48ef566e:
 translate ukrainian tomoe_eventdoce_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:3503
 translate ukrainian tomoe_eventdoce_8a85ab19:
@@ -11655,7 +11655,7 @@ translate ukrainian tomoe_eventtrece_3733cf80:
 translate ukrainian tomoe_eventtrece_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:3763
 translate ukrainian tomoe_eventcatorce_d9635de8:
@@ -12531,7 +12531,7 @@ translate ukrainian tomoe_gal3_7450eec9:
 translate ukrainian tomoe_gal3_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:3985
 translate ukrainian tomoe_gal3_84ef21ae:
@@ -13203,7 +13203,7 @@ translate ukrainian tomoe_rep_uno_1f8d9084_1:
 translate ukrainian tomoe_rep_uno_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:4167
 translate ukrainian tomoe_rep_dos_6758affa:
@@ -13941,7 +13941,7 @@ translate ukrainian tomoe_rep_dos_2f840065:
 translate ukrainian tomoe_rep_dos_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 # game/game/tomoe_events.rpy:4359
 translate ukrainian tomoe_rep_tres_e2ac0ed1:
@@ -14565,7 +14565,7 @@ translate ukrainian tomoe_rep_tres_c6e711fa:
 translate ukrainian tomoe_rep_tres_5c6b6838:
 
     # "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
-    "{image=corazon}Tomoe's affection has increased to [tomoe_affection]{image=corazon}"
+    "{image=corazon}Прихильність Томое зросла до [tomoe_affection]{image=corazon}"
 
 translate ukrainian strings:
 
@@ -14585,58 +14585,6 @@ translate ukrainian strings:
     old "Thank you for \nyour purchase!~{image=corazon}"
     new "Thank you for \nyour purchase!~{image=corazon}"
 
-    # game/tomoe_events.rpy:304
-    old "{size=-13}Sandwich"
-    new "{size=-13}Sandwich"
-
-    # game/tomoe_events.rpy:305
-    old "{size=-8}5"
-    new "{size=-8}5"
-
-    # game/tomoe_events.rpy:315
-    old "{size=-13}Juice"
-    new "{size=-13}Juice"
-
-    # game/tomoe_events.rpy:326
-    old "{size=-13}Melon Pan"
-    new "{size=-13}Melon Pan"
-
-    # game/tomoe_events.rpy:337
-    old "{size=-13}Mini-Cannon"
-    new "{size=-13}Mini-Cannon"
-
-    # game/tomoe_events.rpy:338
-    old "{size=-15}{s}100"
-    new "{size=-15}{s}100"
-
-    # game/tomoe_events.rpy:339
-    old "{size=-8}40"
-    new "{size=-8}40"
-
-    # game/tomoe_events.rpy:349
-    old "{size=-13}Tocky"
-    new "{size=-13}Tocky"
-
-    # game/tomoe_events.rpy:350
-    old "{size=-8}10"
-    new "{size=-8}10"
-
-    # game/tomoe_events.rpy:360
-    old "{size=-13}Chocolate Box"
-    new "{size=-13}Chocolate Box"
-
-    # game/tomoe_events.rpy:361
-    old "{size=-8}15"
-    new "{size=-8}15"
-
-    # game/tomoe_events.rpy:371
-    old "{size=-13}Cards Game"
-    new "{size=-13}Cards Game"
-
-    # game/tomoe_events.rpy:372
-    old "{size=-8}25"
-    new "{size=-8}25"
-
     # game/tomoe_events.rpy:443
     old "{size=-10}[item_data['sell']['gold']]{image=bg/icons/gold_text.png}"
     new "{size=-10}[item_data['sell']['gold']]{image=bg/icons/gold_text.png}"
@@ -14644,10 +14592,6 @@ translate ukrainian strings:
     # game/tomoe_events.rpy:536
     old "{size=-15}Do you want to buy it?"
     new "{size=-15}Do you want to buy it?"
-
-    # game/tomoe_events.rpy:587
-    old "{size=-15}Buy a {color=#ff9900}[item_name]{/color}?"
-    new "{size=-15}Buy a {color=#ff9900}[item_name]{/color}?"
 
     # game/tomoe_events.rpy:632
     old "Help her close the shop.{image=corazon_wing}"
@@ -14662,6 +14606,9 @@ translate ukrainian strings:
     new "back"
 
 translate ukrainian strings:
+    old "{image=corazon_wing}{color=#5e90a1}Tomoe{/color} has been added!"
+    new "{image=corazon_wing}Додано знайомство з {color=#5e90a1}Томое{/color}!"
+
     old "You help Tomoe close the store."
     new "You help Tomoe close the store."
 
@@ -14689,5 +14636,52 @@ translate ukrainian strings:
     old "You always overthink things."
     new "You always overthink things."
 
-    old "{image=corazon_wing}{color=#5e90a1}Tomoe{/color} has been added!"
-    new "{image=corazon_wing}{color=#5e90a1}Tomoe{/color} has been added!"
+translate ukrainian strings: ## Стосується інтерфейсу крамниці
+    old "{size=+27}Buy"
+    new "{size=+16}Купити"
+
+    old "{size=+70}Shop"
+    new "{size=+45}Крамничка"
+
+    old "{size=-8}Tomoe"
+    new "{size=-8}Томое"
+
+    old "{size=-13}Inventory"
+    new "{size=-13}Інвертар"
+
+    old "{size=-10}All"
+    new "{size=-10}Усе"
+
+    old "{size=-5}Sell"
+    new "{size=-16}  Продаж"
+
+    old "Not enough gold."
+    new "Недостатньо золота."
+
+    old "{size=-5}Buy"
+    new "{size=-15}Купити"
+
+    old "{size=-15}Buy a {color=#ff9900}[item_name]{/color}?"
+    new "{size=-15}Купити {color=#ff9900}[item_name]{/color}?"
+
+    ## Назви предметів
+    old "{size=-13}Melon Pan"
+    new "{size=-13}Динна булочка"
+
+    old "{size=-13}Sandwich"
+    new "{size=-13}Sandwich"
+
+    old "{size=-13}Juice"
+    new "{size=-13}Juice"
+
+    old "{size=-13}Mini-Cannon"
+    new "{size=-13}Mini-Cannon"
+
+    old "{size=-13}Tocky"
+    new "{size=-13}Tocky"
+
+    old "{size=-13}Chocolate Box"
+    new "{size=-13}Chocolate Box"
+
+    old "{size=-13}Cards Game"
+    new "{size=-13}Cards Game"

@@ -987,10 +987,6 @@ translate ukrainian strings:
     old "{size=-5}Sold"
     new "{size=-5}Sold"
 
-    # game/blacksmith_store.rpy:96
-    old "{size=-5}Buy"
-    new "{size=-5}Buy"
-
     # game/blacksmith_store.rpy:106
     old "{size=-20}Shoulder armor."
     new "{size=-20}Shoulder armor."
@@ -1047,12 +1043,6 @@ translate ukrainian strings:
 
     old "{size=-4}Your defense has increased!"
     new "{size=-4}Your defense has increased!"
-
-    old "Not enough gold."
-    new "Not enough gold."
-
-    old "{size=-13}Inventory"
-    new "{size=-13}Inventory"
 
     old "Not enough gold to buy this item."
     new "Not enough gold to buy this item."

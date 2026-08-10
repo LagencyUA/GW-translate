@@ -77,7 +77,7 @@ translate ukrainian strings:
     new "A very delicious natural juice."
 
     old "Melon Pan"
-    new "Melon Pan"
+    new "Динна булочка"
 
     old "A sweet bread"
     new "A sweet bread"

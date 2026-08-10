@@ -14043,14 +14043,6 @@ translate ukrainian strings:
     old "{size=-10}2{image=bg/icons/gold_text.png}"
     new "{size=-10}2{image=bg/icons/gold_text.png}"
 
-    # game/mayu_events.rpy:576
-    old "{size=-10}All"
-    new "{size=-10}All"
-
-    # game/mayu_events.rpy:584
-    old "{size=-5}Sell"
-    new "{size=-5}Sell"
-
     # game/mayu_events.rpy:600
     old "{size=-15}Build {color=#C9887C}Ryoko's{/color} room?"
     new "{size=-15}Build {color=#C9887C}Ryoko's{/color} room?"
