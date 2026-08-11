@@ -15,19 +15,19 @@ translate ukrainian mayu_variables_bd13f588:
 translate ukrainian mayu_event_1_c5f90e94:
 
     # t "This should be the home of this Mayu."
-    t "This should be the home of this Mayu."
+    t "Це, певно, і має бути дім цієї Маю."
 
 # game/game/mayu_events.rpy:117
 translate ukrainian mayu_event_1_37c0ef7c:
 
     # t "I hope I'm not wrong..."
-    t "I hope I'm not wrong..."
+    t "Сподіваюся, я не помилився..."
 
 # game/game/mayu_events.rpy:119
 translate ukrainian mayu_event_1_03d30fe2:
 
     # mc "{size=+6}Hello!!"
-    mc "{size=+6}Hello!!"
+    mc "{size=+6}Привіт!!"
 
 # game/game/mayu_events.rpy:120
 translate ukrainian mayu_event_1_a20cefa7:
@@ -39,19 +39,19 @@ translate ukrainian mayu_event_1_a20cefa7:
 translate ukrainian mayu_event_1_3d48e1d6:
 
     # a "{size=+6}Come in! I'm in the back!"
-    a "{size=+6}Come in! I'm in the back!"
+    a "{size=+6}Заходьте! Я на задньому дворі!"
 
 # game/game/mayu_events.rpy:122
 translate ukrainian mayu_event_1_8f0a9192:
 
     # t "Oh, it seems I'm right."
-    t "Oh, it seems I'm right."
+    t "О, здається, не помилився."
 
 # game/game/mayu_events.rpy:133
 translate ukrainian mayu_event_1_5d4bc138:
 
     # t "This house is bigger than it looks..."
-    t "This house is bigger than it looks..."
+    t "А цей дім більший ніж здається..."
 
 # game/game/mayu_events.rpy:134
 translate ukrainian mayu_event_1_a20cefa7_1:
@@ -63,7 +63,7 @@ translate ukrainian mayu_event_1_a20cefa7_1:
 translate ukrainian mayu_event_1_b28b24b6:
 
     # a "Haa...~"
-    a "Haa...~"
+    a "{i}Хаа...~{/i}"
 
 # game/game/mayu_events.rpy:137
 translate ukrainian mayu_event_1_f49431e9:

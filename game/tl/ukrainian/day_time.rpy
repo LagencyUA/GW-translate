@@ -758,27 +758,27 @@ translate ukrainian strings:
 
     # game/day_time.rpy:2041
     old "{color=#FFFFFF}N{/color}-Event\nGo talk to {color=#BCB2CC}Tomoe{/color} in the morning."
-    new "{color=#FFFFFF}N{/color}-Event\nGo talk to {color=#BCB2CC}Tomoe{/color} in the morning."
+    new "{color=#FFFFFF}З{/color}-подія\nПоговори з {color=#BCB2CC}Томое{/color} вранці."
 
     # game/day_time.rpy:2043
     old "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#BCB2CC}Tomoe{/color} in the afternoon."
-    new "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#BCB2CC}Tomoe{/color} in the afternoon."
+    new "{color=#FFFFFF}З{/color}-подія\nЗавітай до {color=#BCB2CC}Томое{/color} вдень."
 
     # game/day_time.rpy:2045
     old "{color=#FFFFFF}N{/color}-Event\n{color=#BCB2CC}Tomoe{/color} wants you to visit her at night."
-    new "{color=#FFFFFF}N{/color}-Event\n{color=#BCB2CC}Tomoe{/color} wants you to visit her at night."
+    new "{color=#FFFFFF}З{/color}-подія\n{color=#BCB2CC}Томое{/color} бажає, щоб ти зайшов уночі."
 
     # game/day_time.rpy:2073
     old "{color=#FFFFFF}N{/color}-Event\nGo talk to {color=#BCB2CC}Tomoe{/color} in the evening."
-    new "{color=#FFFFFF}N{/color}-Event\nGo talk to {color=#BCB2CC}Tomoe{/color} in the evening."
+    new "{color=#FFFFFF}З{/color}-подія\nПоговори з {color=#BCB2CC}Томое{/color} ввечері."
 
     # game/day_time.rpy:2077
     old "{color=#FFFFFF}N{/color}-Event\nGo to {color=#BCB2CC}Tomoe's{/color} house at night."
-    new "{color=#FFFFFF}N{/color}-Event\nGo to {color=#BCB2CC}Tomoe's{/color} house at night."
+    new "{color=#FFFFFF}З{/color}-подія\nЗавітай до {color=#BCB2CC}Томое{/color} додому вночі."
 
     # game/day_time.rpy:2079
     old "{color=#FF438D}H{/color}-Event\nGo talk to {color=#BCB2CC}Tomoe{/color} in the evening."
-    new "{color=#FF438D}H{/color}-Event\nGo talk to {color=#BCB2CC}Tomoe{/color} in the evening."
+    new "{color=#FF438D}Х{/color}-подія\nПоговори з {color=#BCB2CC}Томое{/color} ввечері."
 
     # game/day_time.rpy:2102
     old "{color=#FFFFFF}N{/color}-Event\nThere is a strange light floating outside your house.(Night)"
