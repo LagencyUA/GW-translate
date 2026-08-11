@@ -1,3 +1,6 @@
+# Додаємо змінну у дефоли, щоб вона зберігалася у сейвах
+default current_game_label = None
+
 init python:
     import os
     # =========================================================================
@@ -18,6 +21,9 @@ init python:
         # Фікс перекладу назви клавіші у меню допомоги
         "Увійти": [("Enter", "screen", "help")],
 
+        # Переклад пустого статусу рангу
+        "N/A": [("Н/Д", "screen", "cc_stats")],
+
         # Переклад сповіщення зловлених риб
         "E rank fish!": [("E-рангова риба", "label", "end_fishing")],
         "D rank fish!": [("D-рангова риба", "label", "end_fishing")],
@@ -37,14 +43,15 @@ init python:
     # 📍 ВІДСТЕЖЕННЯ ПОТОЧНОГО LABEL
     # =========================================================================
 
-    if not hasattr(renpy.store, "current_game_label"):
-        renpy.store.current_game_label = None
-
-
     def track_current_label(label_name, jumped):
         # Запам'ятовує останній label, до якого дійшов Ren'Py.
         # label_name -- ім'я label.
         # jumped     -- True, якщо перехід був зроблений через jump/call.
+
+        # Відкидуємо службові лейбли, що починаються з _.
+        # Таким чином заміна при завантаженні має правильно працювати.
+        if label_name.startswith("_"): 
+            return
         renpy.store.current_game_label = label_name
 
 
@@ -69,15 +76,21 @@ init python:
                 )
 
                 if isinstance(sn, (tuple, list)) and len(sn) > 0:
-                    curr_screen = sn[0]
+                    curr = sn[0]
 
                 elif isinstance(sn, str):
-                    curr_screen = sn
+                    curr = sn
 
         except Exception:
-            pass
-        return curr_screen
-
+            return None
+        return curr
+    
+    # Отримання поточного лейблу з контексту
+    def get_current_game_label():
+        try:
+            return getattr(renpy.store, "current_game_label", None)
+        except Exception:
+            return None
 
     # =========================================================================
     # ⚙️ ДЕБАГ-ПЕРЕМИКАЧ ТА ЛОГУВАННЯ
@@ -121,16 +134,9 @@ init python:
         if not getattr(renpy.store, "debug_text_log_active", False):
             return
 
-        curr_label = "None"
-        curr_screen = get_current_screen_name()
+        curr_label = get_current_game_label() or "None"
+        curr_screen = get_current_screen_name() or "None"
 
-        # LABEL
-        try:
-            curr_label = (getattr(renpy.store, "current_game_label", None) or "None")
-        except Exception:
-            pass
-
-        
         # ЗАПИС У ФАЙЛ
         try:
             with open(DEBUG_LOG_FILE, "a", encoding="utf-8") as f:
@@ -170,18 +176,7 @@ init python:
     # =========================================================================
 
     def is_label_active(target_label):
-
-        try:
-            current_label = getattr(renpy.store, "current_game_label", None)
-
-            if not current_label:
-                return False
-
-            return current_label == target_label
-
-
-        except Exception:
-            return False
+        return target_label == get_current_game_label()
 
 
     # =========================================================================
