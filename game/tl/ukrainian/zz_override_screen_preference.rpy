@@ -10,7 +10,8 @@ init 10 screen preferences():
             ypos .5
             hbox:
                 box_wrap True
-
+                if renpy.variant("android") or renpy.variant("mobile") or renpy.variant("tablet"):
+                    xfill True
                 if renpy.variant("pc") or renpy.variant("web"):
                     vbox:
                         style_prefix "radio"
@@ -19,6 +20,8 @@ init 10 screen preferences():
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
 
                 vbox:
+                    if renpy.variant("android") or renpy.variant("mobile") or renpy.variant("tablet"):
+                        xsize 300    ## Фікс багу, коли на андроїді не поміщається бокс із мовами в одну лінію
                     style_prefix "radio"
                     text _("Rollback Side") style "options_label_text"
                     textbutton _("Disable") action Preference("rollback side", "disable")
@@ -26,6 +29,8 @@ init 10 screen preferences():
                     textbutton _("Right") action Preference("rollback side", "right")
 
                 vbox:
+                    if renpy.variant("android") or renpy.variant("mobile") or renpy.variant("tablet"):
+                        xsize 300    ## Фікс багу, коли на андроїді не поміщається бокс із мовами в одну лінію
                     style_prefix "check"
                     text _("Skip") style "options_label_text"
                     textbutton _("Unseen Text") action Preference("skip", "toggle")
@@ -33,6 +38,8 @@ init 10 screen preferences():
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
                 vbox:
+                    if renpy.variant("android") or renpy.variant("mobile") or renpy.variant("tablet"):
+                        xsize 300    ## Фікс багу, коли на андроїді не поміщається бокс із мовами в одну лінію
                     style_prefix "check"
                     text _('language') style "options_label_text"
                     # Лікуємо баг з відображенням буліта перед англійською мовою,
