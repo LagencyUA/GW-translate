@@ -45,7 +45,7 @@ translate ukrainian fishing_menu_st_0e13958e:
 translate ukrainian end_fishing_8693a646:
 
     # "You have obtained [fish_count] [fish_message]"
-    "Ти зловив: [fish_message] (x[fish_count])!"
+    "Ти зловив: {size=+0}[fish_message]{/size} [fish_count] шт.!" #тег для розбиття на токени частини, що перекладена через контекстуальну заміну.
 
 # game/game/yeahfish.rpy:512
 translate ukrainian end_fishing_8bf86694:
