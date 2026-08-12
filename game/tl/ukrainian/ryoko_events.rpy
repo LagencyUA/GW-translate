@@ -5457,55 +5457,55 @@ translate ukrainian ryoko_gal2_82ba1e7a:
 translate ukrainian ryoko_h_2rep_c907f437:
 
     # t "When I see that stick."
-    t "When I see that stick."
+    t "Коли бачу цю палицю."
 
 # game/game/ryoko_events.rpy:1811
 translate ukrainian ryoko_h_2rep_0d6fe537:
 
     # t "All that comes to my mind is what we did that day...."
-    t "All that comes to my mind is what we did that day...."
+    t "Мені на думку спадає лише те, що ми робили того дня..."
 
 # game/game/ryoko_events.rpy:1812
 translate ukrainian ryoko_h_2rep_fc3a95ab:
 
     # r "Master?"
-    r "Master?"
+    r "Господарю?"
 
 # game/game/ryoko_events.rpy:1814
 translate ukrainian ryoko_h_2rep_4c541696:
 
     # r "Why are you here so early?"
-    r "Why are you here so early?"
+    r "Чому ви тут так рано?"
 
 # game/game/ryoko_events.rpy:1815
 translate ukrainian ryoko_h_2rep_4ca02bdb:
 
     # mc "Oh.."
-    mc "Oh.."
+    mc "О..."
 
 # game/game/ryoko_events.rpy:1817
 translate ukrainian ryoko_h_2rep_a053f661:
 
     # mc "I just remembered things..."
-    mc "I just remembered things..."
+    mc "Згадалося різне..."
 
 # game/game/ryoko_events.rpy:1819
 translate ukrainian ryoko_h_2rep_6cb44a41:
 
     # r "What kind of things?"
-    r "What kind of things?"
+    r "І що саме?"
 
 # game/game/ryoko_events.rpy:1821
 translate ukrainian ryoko_h_2rep_ec7e25f4:
 
     # mc "Only when I saw you training alone..."
-    mc "Only when I saw you training alone..."
+    mc "Та лише те, коли я бачив, як ти тренуєшся..."
 
 # game/game/ryoko_events.rpy:1822
 translate ukrainian ryoko_h_2rep_0176575b:
 
     # r "Mmm."
-    r "Mmm."
+    r "Ммм."
 
 # game/game/ryoko_events.rpy:1824
 translate ukrainian ryoko_h_2rep_b9b755e5:
@@ -5517,85 +5517,85 @@ translate ukrainian ryoko_h_2rep_b9b755e5:
 translate ukrainian ryoko_h_2rep_fbd905f0:
 
     # mc "W-Well.. {w}let's go back inside."
-    mc "W-Well.. {w}let's go back inside."
+    mc "Н-Ну... {w}ходімо всередину."
 
 # game/game/ryoko_events.rpy:1826
 translate ukrainian ryoko_h_2rep_156031a3:
 
     # r "Wait."
-    r "Wait."
+    r "Стривайте."
 
 # game/game/ryoko_events.rpy:1828
 translate ukrainian ryoko_h_2rep_3963ee53:
 
     # r "I can help you remember.."
-    r "I can help you remember.."
+    r "Я можу допомогти вам згадати..."
 
 # game/game/ryoko_events.rpy:1829
 translate ukrainian ryoko_h_2rep_02762592:
 
     # mc "Help me?"
-    mc "Help me?"
+    mc "Допомогти?"
 
 # game/game/ryoko_events.rpy:1831
 translate ukrainian ryoko_h_2rep_e72981e6:
 
     # r "Follow me!"
-    r "Follow me!"
+    r "Ходіть за мною!"
 
 # game/game/ryoko_events.rpy:1832
 translate ukrainian ryoko_h_2rep_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/ryoko_events.rpy:1833
 translate ukrainian ryoko_h_2rep_f0673911:
 
     # r "Remember when we were here?"
-    r "Remember when we were here?"
+    r "Пам'ятаєте, коли ми були тут?"
 
 # game/game/ryoko_events.rpy:1834
 translate ukrainian ryoko_h_2rep_e27f172d:
 
     # r "Lay back!"
-    r "Lay back!"
+    r "Лягайте!"
 
 # game/game/ryoko_events.rpy:1835
 translate ukrainian ryoko_h_2rep_38fd2fa5:
 
     # mc "O-Ok.."
-    mc "O-Ok.."
+    mc "Г-Гаразд..."
 
 # game/game/ryoko_events.rpy:1836
 translate ukrainian ryoko_h_2rep_578d9de9:
 
     # r "Excuse me!"
-    r "Excuse me!"
+    r "Даруйте!"
 
 # game/game/ryoko_events.rpy:1838
 translate ukrainian ryoko_h_2rep_48f3d199:
 
     # mc "Yes, that's exactly how it was."
-    mc "Yes, that's exactly how it was."
+    mc "Так, усе саме так і було."
 
 # game/game/ryoko_events.rpy:1840
 translate ukrainian ryoko_h_2rep_6dbb5847:
 
     # r "I told you I'd help you Master!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "I told you I'd help you Master!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "Казала ж вам, що допоможу, господарю!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1842
 translate ukrainian ryoko_h_2rep_2c90746c:
 
     # r "And there was even more!"
-    r "And there was even more!"
+    r "Було ще багато іншого!"
 
 # game/game/ryoko_events.rpy:1844
 translate ukrainian ryoko_h_2rep_8bfc4683:
 
     # r "When I did this!{image=/bg/icons/heart_text.png}"
-    r "When I did this!{image=/bg/icons/heart_text.png}"
+    r "Коли я зробила ось так!{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1846
 translate ukrainian ryoko_h_2rep_36eeb24f:
@@ -5607,199 +5607,199 @@ translate ukrainian ryoko_h_2rep_36eeb24f:
 translate ukrainian ryoko_h_2rep_04250b80:
 
     # mc "R-Ryoko..."
-    mc "R-Ryoko..."
+    mc "Р-Рьоко..."
 
 # game/game/ryoko_events.rpy:1848
 translate ukrainian ryoko_h_2rep_597a9b59:
 
     # r "I-Is your memory still failing you? {w}Because there are still more~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "I-Is your memory still failing you? {w}Because there are still more~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "В-Ваша пам'ять все ще підводить? {w}Адже попереду ще багато чекає~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1849
 translate ukrainian ryoko_h_2rep_c062e969:
 
     # mc "Y-Yes, I don't know what's w-wrong with me today."
-    mc "Y-Yes, I don't know what's w-wrong with me today."
+    mc "Т-Так. Навіть не знаю, що це зі мною сьогодні."
 
 # game/game/ryoko_events.rpy:1850
 translate ukrainian ryoko_h_2rep_c38f814d:
 
     # mc "That feels good."
-    mc "That feels good."
+    mc "Як же приємно."
 
 # game/game/ryoko_events.rpy:1851
 translate ukrainian ryoko_h_2rep_40df220b:
 
     # r "Hehe{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}.."
-    r "Hehe{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}.."
+    r "Хехе{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}..."
 
 # game/game/ryoko_events.rpy:1853
 translate ukrainian ryoko_h_2rep_a15e0a3e:
 
     # r "Master [mc]...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "Master [mc]...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "Господарю [mc]...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1854
 translate ukrainian ryoko_h_2rep_bcc7b25f:
 
     # mc "That... {w}keep it up."
-    mc "That... {w}keep it up."
+    mc "Це... {w}не зупиняйся."
 
 # game/game/ryoko_events.rpy:1855
 translate ukrainian ryoko_h_2rep_4aec60b3:
 
     # t "Watching Ryoko try to lick lick every inch of the head of my penis makes it more erotic."
-    t "Watching Ryoko try to lick lick every inch of the head of my penis makes it more erotic."
+    t "Дивитися на те, як Рьоко намагається облизати кожен сантиметр моєї головки, додає еротичності."
 
 # game/game/ryoko_events.rpy:1856
 translate ukrainian ryoko_h_2rep_fd05f7fd:
 
     # r "I told you to let me know when you feel this way."
-    r "I told you to let me know when you feel this way."
+    r "Я вас просила казати мені, якщо так почуватиметесь."
 
 # game/game/ryoko_events.rpy:1857
 translate ukrainian ryoko_h_2rep_4bbe5891:
 
     # mc "Sorry..."
-    mc "Sorry..."
+    mc "Пробач..."
 
 # game/game/ryoko_events.rpy:1858
 translate ukrainian ryoko_h_2rep_23dd05c6:
 
     # r "I know how Master is so..."
-    r "I know how Master is so..."
+    r "Знаю, що господар буває таким..."
 
 # game/game/ryoko_events.rpy:1859
 translate ukrainian ryoko_h_2rep_5f6f409b:
 
     # mc "Ryoko... {w} can you-"
-    mc "Ryoko... {w} can you-"
+    mc "Рьоко... {w} можеш-"
 
 # game/game/ryoko_events.rpy:1861
 translate ukrainian ryoko_h_2rep_970a7ebd:
 
     # mc "F-Fuck"
-    mc "F-Fuck"
+    mc "Ї-Їбать."
 
 # game/game/ryoko_events.rpy:1862
 translate ukrainian ryoko_h_2rep_6c9127c1:
 
     # r "Mmmh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Ghmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "Mmmh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Ghmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "{i}Мммх~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Гхмм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1863
 translate ukrainian ryoko_h_2rep_7e53e0a2:
 
     # t "She took me by surprise."
-    t "She took me by surprise."
+    t "Вирішила діяти несподівано."
 
 # game/game/ryoko_events.rpy:1864
 translate ukrainian ryoko_h_2rep_7acc6c49:
 
     # t "She did it before I could ask her to do it."
-    t "She did it before I could ask her to do it."
+    t "Я навіть не встиг її попросити, перш ніж вона зробила це."
 
 # game/game/ryoko_events.rpy:1865
 translate ukrainian ryoko_h_2rep_6fbe9e1a:
 
     # t "My dick fills every corner of her little mouth."
-    t "My dick fills every corner of her little mouth."
+    t "Мій член відчуває кожен куточок її ротика."
 
 # game/game/ryoko_events.rpy:1866
 translate ukrainian ryoko_h_2rep_0e4f3b9b:
 
     # r "Mmagghster..{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "Mmagghster..{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "{i}Мгосннодарю...{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1867
 translate ukrainian ryoko_h_2rep_80a0066b:
 
     # r "Sluurp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuu~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} Ghnm~~{image=/bg/icons/heart_text.png}"
-    r "Sluurp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuu~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} Ghnm~~{image=/bg/icons/heart_text.png}"
+    r "{i}Сьоорб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Тсуу~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} {i}Гхнм~~{/i}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1868
 translate ukrainian ryoko_h_2rep_b0bf1d61:
 
     # mc "Y-You're doing too well."
-    mc "Y-You're doing too well."
+    mc "У-У тебе занадто добре виходить."
 
 # game/game/ryoko_events.rpy:1869
 translate ukrainian ryoko_h_2rep_12a5256d:
 
     # mc "I'm-"
-    mc "I'm-"
+    mc "Я-"
 
 # game/game/ryoko_events.rpy:1871
 translate ukrainian ryoko_h_2rep_57c2a8de:
 
     # r "Mmmgm!"
-    r "Mmmgm!"
+    r "{i}Мммгм!{/i}"
 
 # game/game/ryoko_events.rpy:1872
 translate ukrainian ryoko_h_2rep_8bf35d0f:
 
     # mc "T-This is..!"
-    mc "T-This is..!"
+    mc "Ц-Це..!"
 
 # game/game/ryoko_events.rpy:1873
 translate ukrainian ryoko_h_2rep_ba80902d:
 
     # t "When she realizes that I'm at my limit, she increases the speed."
-    t "When she realizes that I'm at my limit, she increases the speed."
+    t "Коли вона розуміє, що я на межі, то одразу прискорює темп."
 
 # game/game/ryoko_events.rpy:1874
 translate ukrainian ryoko_h_2rep_bac3b3d5:
 
     # r "Mggh~{image=/bg/icons/heart_text.png} {w}Sluurrp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuuu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}*"
-    r "Mggh~{image=/bg/icons/heart_text.png} {w}Sluurrp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuuu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}*"
+    r "{i}Мггх~{/i}{image=/bg/icons/heart_text.png} {w}{i}Сьооорб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Тсууу~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}*"
 
 # game/game/ryoko_events.rpy:1875
 translate ukrainian ryoko_h_2rep_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/ryoko_events.rpy:1876
 translate ukrainian ryoko_h_2rep_223aeda8:
 
     # mc "I'm coming!"
-    mc "I'm coming!"
+    mc "Кінчаю!"
 
 # game/game/ryoko_events.rpy:1881
 translate ukrainian ryoko_h_2rep_09869128:
 
     # mc "Holy.."
-    mc "Holy.."
+    mc "Ніхуя..."
 
 # game/game/ryoko_events.rpy:1882
 translate ukrainian ryoko_h_2rep_74e8e005:
 
     # r "Ghmm."
-    r "Ghmm."
+    r "{i}Гхмм.{/i}"
 
 # game/game/ryoko_events.rpy:1883
 translate ukrainian ryoko_h_2rep_aa753042:
 
     # mc "You don't have to swallow it if you don't want to, Ryoko."
-    mc "You don't have to swallow it if you don't want to, Ryoko."
+    mc "Не треба ковтати цього, якщо не хочеш, Рьоко."
 
 # game/game/ryoko_events.rpy:1885
 translate ukrainian ryoko_h_2rep_f469c694:
 
     # r "Sorry Master, it was too much."
-    r "Sorry Master, it was too much."
+    r "Вибачте, господарю, було забагато."
 
 # game/game/ryoko_events.rpy:1887
 translate ukrainian ryoko_h_2rep_239b47a3:
 
     # r "I couldn't take it all..."
-    r "I couldn't take it all..."
+    r "Я не змогла з усім впоратися..."
 
 # game/game/ryoko_events.rpy:1888
 translate ukrainian ryoko_h_2rep_0c1a8bc2:
 
     # mc "Don't worry about it..."
-    mc "Don't worry about it..."
+    mc "Не хвилюйся за це..."
 
 # game/game/ryoko_events.rpy:1892
 translate ukrainian ryoko_h_2rep_b9b755e5_1:
