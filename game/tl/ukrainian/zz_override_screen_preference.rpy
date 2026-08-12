@@ -78,3 +78,15 @@ init 10 screen preferences():
                         textbutton _("Mute All"):
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
+            
+            # Додаємо повзунок налаштування розміру швидкого меню
+            if renpy.variant("touch"):
+                vbox:
+                    text "Розмір нижнього швидкого меню" style "options_barras_text"
+                    bar value FieldValue(
+                        object=renpy.store,
+                        field="quick_menu_scale",
+                        range=4,
+                        step=1,
+                        style="slider"
+                    ) style "options_bar"
