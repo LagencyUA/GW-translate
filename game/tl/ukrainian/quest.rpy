@@ -51,7 +51,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:235
     old "Ryoko Training"
-    new "Ryoko Training"
+    new "Тренування Рьоко"
 
     # game/quest.rpy:241
     old "Need of a Trainer"
@@ -246,6 +246,32 @@ translate ukrainian strings:
     old "{s}-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house.{/s}"
     new "{s}- Пошукай {color=#919191}Маю{/color}, її дім має бути у тому ж напрямку де й дім {color=#FBE5A2}Юї{/color}.{/s}"
 
+    old "When I saw {color=#C9887C}Ryoko{/color} training, she reminded me of me. I must do everything I can to make her strong."
+    new "Коли я побачив, як {color=#C9887C}Рьоко{/color} тренується, вона нагадала мені мене. Я повинен зробити все, що в моїх силах, аби вона стала сильною."
+
+    old "-You still have missions to complete in order to continue."
+    new "- У тебе досі є інші завдання, виконай спочатку їх."
+
+    old "-You should go talk to {color=#FBE5A2}Yui{/color} at her house."
+    new "- Поговори з {color=#FBE5A2}Юї{/color} у неї вдома."
+    old "{s}-You should go talk to {color=#FBE5A2}Yui{/color} at her house.{/s}"
+    new "{s}- Поговори з {color=#FBE5A2}Юї{/color} у неї вдома.{/s}"
+
+    old "-Talk to {color=#919191}Mayu{/color} to find out what you need to make the custom katana."
+    new "- Поровори з {color=#919191}Маю{/color}, аби дізнатися, що потрібно для виготовлення дерев'яної катани."
+    old "{s}-Talk to {color=#919191}Mayu{/color} to find out what you need to make the custom katana.{/s}"
+    new "{s}- Поровори з {color=#919191}Маю{/color}, аби дізнатися, що потрібно для виготовлення дерев'яної катани.{/s}"
+
+    old "-You already have the katana, you just need to get the {color=#FBE5A2}Yui{/color} training doll."
+    new "- Ти вже отримав катану, залишилося лише дістати тренувальну ляльку в {color=#FBE5A2}Юї{/color}."
+    old "{s}-You already have the katana, you just need to get the {color=#FBE5A2}Yui{/color} training doll.{/s}"
+    new "{s}- Ти вже отримав катану, залишилося лише дістати тренувальну ляльку в {color=#FBE5A2}Юї{/color}.{/s}"
+
+    old "-You've everything you need, go talk to {color=#C9887C}Ryoko{/color} in the evening."
+    new "- У тебе вже є все необхідне, поговори з {color=#C9887C}Рьоко{/color} ввечері."
+    old "{s}-You've everything you need, go talk to {color=#C9887C}Ryoko{/color} in the evening.{/s}"
+    new "{s}- У тебе вже є все необхідне, поговори з {color=#C9887C}Рьоко{/color} ввечері.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -302,9 +328,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color}  {font=fonts/Ebrima.ttf}Go to the adventurers' lounge in the afternoon."
     new "{color=#E3CD5B}{b}•{/b}{/color}  {font=fonts/Ebrima.ttf}Go to the adventurers' lounge in the afternoon."
-
-    old "-You already have the katana, you just need to get the {color=#FBE5A2}Yui{/color} training doll."
-    new "-You already have the katana, you just need to get the {color=#FBE5A2}Yui{/color} training doll."
 
     old "-You have what you need, go see Shika at the exit of the village (Afternoon)."
     new "-You have what you need, go see Shika at the exit of the village (Afternoon)."
@@ -378,12 +401,6 @@ translate ukrainian strings:
     old "-{color=#C9887C}Ryoko{/color} is in my room in the evening, it would be a good time."
     new "-{color=#C9887C}Ryoko{/color} is in my room in the evening, it would be a good time."
 
-    old "-You should go talk to {color=#FBE5A2}Yui{/color} at her house."
-    new "-You should go talk to {color=#FBE5A2}Yui{/color} at her house."
-
-    old "-You still have missions to complete in order to continue."
-    new "-You still have missions to complete in order to continue."
-
     old "{size=-8}{color=#F3915B}Hana{/color} mentioned a place where we could go swimming. I should go check it out to make my dream come true."
     new "{size=-8}{color=#F3915B}Hana{/color} mentioned a place where we could go swimming. I should go check it out to make my dream come true."
 
@@ -449,9 +466,6 @@ translate ukrainian strings:
 
     old "-First advance with the mission \"{color=#ffffff}Good News?{/color}\"."
     new "-First advance with the mission \"{color=#ffffff}Good News?{/color}\"."
-
-    old "When I saw {color=#C9887C}Ryoko{/color} training, she reminded me of me. I must do everything I can to make her strong."
-    new "When I saw {color=#C9887C}Ryoko{/color} training, she reminded me of me. I must do everything I can to make her strong."
 
     old "-{color=#C9887C}Ryoko{/color} has been a bit distant these days, make sure nothing bad has happened to her."
     new "-{color=#C9887C}Ryoko{/color} has been a bit distant these days, make sure nothing bad has happened to her."
@@ -606,9 +620,6 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Talk to {color=#FFBD74}Reika{/color}, go to the Lycoris clan living room.(Afternoon)"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Talk to {color=#FFBD74}Reika{/color}, go to the Lycoris clan living room.(Afternoon)"
 
-    old "-Talk to {color=#919191}Mayu{/color} to find out what you need to make the custom katana."
-    new "-Talk to {color=#919191}Mayu{/color} to find out what you need to make the custom katana."
-
     old "Make sure all the girls are well.\n{color=#d63629}Spend time{/color} with them and find out what happened."
     new "Make sure all the girls are well.\n{color=#d63629}Spend time{/color} with them and find out what happened."
 
@@ -623,9 +634,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}This mission is in progress. Please wait for the next version! \nCheck the girls' hints to see if you still have events to unlock. \nThanks for playing!{image=corazon}"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}This mission is in progress. Please wait for the next version! \nCheck the girls' hints to see if you still have events to unlock. \nThanks for playing!{image=corazon}"
-
-    old "-You've everything you need, go talk to {color=#C9887C}Ryoko{/color} in the evening."
-    new "-You've everything you need, go talk to {color=#C9887C}Ryoko{/color} in the evening."
 
     old "-Go to the {color=#ffffff}Sanctuary{/color} at night."
     new "-Go to the {color=#ffffff}Sanctuary{/color} at night."
