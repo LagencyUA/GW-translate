@@ -84,7 +84,7 @@ init 10 screen preferences():
                 vbox:
                     text "Розмір нижнього швидкого меню" style "options_barras_text"
                     bar value FieldValue(
-                        object=renpy.store,
+                        object=persistent,
                         field="quick_menu_scale",
                         range=4,
                         step=1,
