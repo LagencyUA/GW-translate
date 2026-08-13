@@ -50,7 +50,15 @@ translate ukrainian style say_label:
 
 translate ukrainian style choice_button_text:
     size 28          # Зменшуємо текст у кнопках вибору сюжету
-
+translate ukrainian style menu_text_per:
+    font "fonts/ukr/KyivRegion-Regular.ttf"
+    color "#D7BD99"
+    align (.5, .5)
+    text_align 0.5
+    outlines [((absolute(2), "#000000", absolute(0), absolute(0)))]
+    xoffset 120
+    yoffset 20
+    size 36
 
 # --- ВАРІАНТ 1: Рубі над текстом ---
 translate ukrainian style ukr_ruby_top:

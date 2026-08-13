@@ -50,11 +50,11 @@
 
     # game/screens.rpy:406
     old "Upload Sync"
-    new "{size=-8}Вивантаж. синх."
+    new "{size=-6}Вивантаж. синх."
 
     # game/screens.rpy:412
     old "{size=-6}Download Sync"
-    new "{size=-8}Завантаж. синх."
+    new "{size=-6}Завантаж. синх."
 
     # game/screens.rpy:415
     old "End Replay"
