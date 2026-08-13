@@ -300,11 +300,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:604
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"New Stores\"{/color}."
-    new "{color=#FF438D}Х{/color}-подія\nВиконай завдання {color=#FBE5A2}«Нові крамнички»{/color}."
+    new "{color=#FF438D}Х{/color}-подія [[Завдання]\nВиконай завдання {color=#FBE5A2}«Нові крамнички»{/color}."
 
     # game/day_time.rpy:606
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#C9887C}\"Ryoko Training\"{/color}."
-    new "{color=#FF438D}Х{/color}-подія\nВиконай завдання {color=#C9887C}«Тренування Рьоко»{/color}."
+    new "{color=#FF438D}Х{/color}-подія [[Завдання]\nВиконай завдання {color=#C9887C}«Тренування Рьоко»{/color}."
 
     # game/day_time.rpy:619
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to repair {color=#C9887C}Ryoko's{/color} room."
@@ -361,7 +361,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:816
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#FBE5A2}\"Wood for Yui\"{/color}."
-    new "{color=#FF438D}Х{/color}-подія\nВиконай завдання {color=#FBE5A2}«Деревина для Юї»{/color}."
+    new "{color=#FF438D}Х{/color}-подія [[Завдання]\nВиконай завдання {color=#FBE5A2}«Деревина для Юї»{/color}."
 
     # game/day_time.rpy:830
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to spend more time with {color=#CEA976}Yui{/color}."
