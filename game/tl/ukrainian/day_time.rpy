@@ -369,7 +369,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:840
     old "{color=#FF438D}H{/color}-Event\nGo to {color=#F3915B}Hana's{/color} house in the afternoon."
-    new "{color=#FF438D}H{/color}-Event\nGo to {color=#F3915B}Hana's{/color} house in the afternoon."
+    new "{color=#FF438D}Х{/color}-подія\nЗавітай до {color=#F3915B}Хани{/color} додому вдень."
 
     # game/day_time.rpy:842
     old "{color=#FF438D}H{/color}-Event\nAdvance the mission {color=#FBE5A2}\"Needs of a trainer\"{/color}."
