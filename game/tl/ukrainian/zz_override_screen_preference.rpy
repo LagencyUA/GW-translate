@@ -90,7 +90,3 @@ init 10 screen preferences():
                         step=1,
                         style="slider"
                     ) style "options_bar"
-
-translate ukrainian strings:
-    old "Bottom quick menu size"
-    new "Розмір нижнього швидкого меню"

@@ -50,6 +50,11 @@ translate ukrainian style say_label:
 
 translate ukrainian style choice_button_text:
     size 28          # Зменшуємо текст у кнопках вибору сюжету
+
+# Зменшено розмір нумерації сторінок у вкрадці збереження та завантаження
+translate ukrainian style page_button_text:
+    size 32
+
 translate ukrainian style menu_text_per:
     font "fonts/ukr/KyivRegion-Regular.ttf"
     color "#D7BD99"

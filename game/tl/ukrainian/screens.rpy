@@ -372,6 +372,5 @@ translate ukrainian strings:
     old "{#quick_page}Q"
     new "{#quick_page}Ш"
 
-# Зменшено розмір нумерації сторінок у вкрадці збереження та завантаження
-translate ukrainian style page_button_text:
-    size 32
+    old "Bottom quick menu size"
+    new "Розмір нижнього швидкого меню"
