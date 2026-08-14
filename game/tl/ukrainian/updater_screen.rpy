@@ -7,7 +7,7 @@ translate ukrainian strings:
     new "{size=-10}Перевірка наявності оновлень..."
 
     old "{size=-10}The update was cancelled."
-    new "{size=-10}Оновлення було скасовано."
+    new "{size=-10}Оновлення скасовано."
 
     old "The system will check for the latest version and update your game automatically. \nYour progress won't be affected. \n\nDo you want to continue?"
     new "Система перевірить наявність останньої версії та автоматично оновить вашу гру. \nВаш прогрес не буде порушено. \n\nБажаєте продовжити?"
@@ -31,5 +31,10 @@ translate ukrainian strings:
     new "Знайдено нову версію! \n\nБажаєте завантажити її?"
 
     old "{size=-13}Do you want to check for updates?"
-    new "{size=-16}Бажаєте перевірити наявність оновлень?"
+    new "{size=-18}Бажаєте перевірити наявність оновлень?"
 
+    old "{size=-6}Ok"
+    new "{size=-12}Гаразд"
+
+    old "{size=-6}Cancel"
+    new "{size=-20}Скасувати"

@@ -82,7 +82,7 @@ init 10 screen preferences():
             # Додаємо повзунок налаштування розміру швидкого меню
             if renpy.variant("touch"):
                 vbox:
-                    text "Розмір нижнього швидкого меню" style "options_barras_text"
+                    text _("Bottom quick menu size") style "options_barras_text"
                     bar value FieldValue(
                         object=persistent,
                         field="quick_menu_scale",
@@ -90,3 +90,7 @@ init 10 screen preferences():
                         step=1,
                         style="slider"
                     ) style "options_bar"
+
+translate ukrainian strings:
+    old "Bottom quick menu size"
+    new "Розмір нижнього швидкого меню"
