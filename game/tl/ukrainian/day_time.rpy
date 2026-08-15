@@ -373,11 +373,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:842
     old "{color=#FF438D}H{/color}-Event\nAdvance the mission {color=#FBE5A2}\"Needs of a trainer\"{/color}."
-    new "{color=#FF438D}H{/color}-Event\nAdvance the mission {color=#FBE5A2}\"Needs of a trainer\"{/color}."
+    new "{color=#FF438D}Х{/color}-подія\nПросунся завданням {color=#FBE5A2}«Потреби тренера»{/color}."
 
     # game/day_time.rpy:856
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nTrain the three girls."
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nTrain the three girls."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nПотренуй трьох дівчат."
 
     # game/day_time.rpy:860
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nAdvance the mission \"Good news?\""
@@ -588,7 +588,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1538
     old "{color=#FF438D}H{/color}-Event\nGo see {color=#E12E50}Akane{/color} in the evening."
-    new "{color=#FF438D}H{/color}-Event\nGo see {color=#E12E50}Akane{/color} in the evening."
+    new "{color=#FF438D}Х{/color}-подія\nЗустрінься з {color=#E12E50}Акане{/color} ввечері."
 
     # game/day_time.rpy:1555
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nGo see what {color=#E12E50}Akane{/color} is doing outside {color=#BCB2CC}Tomoe's{/color} shop in the afternoon."
