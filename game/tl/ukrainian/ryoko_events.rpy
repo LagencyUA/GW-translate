@@ -2811,7 +2811,7 @@ translate ukrainian ryoko_go_hana_b79a9ae3:
 translate ukrainian ryoko_go_hana_be284397:
 
     # "Yay!"
-    "Ура!"
+    "{color=[r.who_args['color']]}[r]{/color}    та    {color=[s.who_args['color']]}[s]{/color}" "Ура!"
 
 # game/game/ryoko_events.rpy:988
 translate ukrainian ryoko_go_hana_6d2d6a5c:
@@ -2937,7 +2937,7 @@ translate ukrainian ryoko_go_hana_69dfd89b:
 translate ukrainian ryoko_go_hana_bd72399f:
 
     # "Now!!"
-    "Зараз!!"
+    "{color=[r.who_args['color']]}[r]{/color}    та    {color=[s.who_args['color']]}[s]{/color}" "Зараз!!"
 
 # game/game/ryoko_events.rpy:1026
 translate ukrainian ryoko_go_hana_dbe6f1e1:
