@@ -6069,19 +6069,19 @@ translate ukrainian training_doll_a5c387a6:
 translate ukrainian yui_h_event_e6d8d763:
 
     # t "Is that Yui?"
-    t "Is that Yui?"
+    t "Невже це Юї?"
 
 # game/game/yui_events.rpy:2069
 translate ukrainian yui_h_event_8b72ec0c:
 
     # t "Looks like she's talking to Hana."
-    t "Looks like she's talking to Hana."
+    t "Видно, вона говорить з Хано.."
 
 # game/game/yui_events.rpy:2074
 translate ukrainian yui_h_event_243ec5c9:
 
     # h "{size=-8}Y- you s--m cl- to [mc]."
-    h "{size=-8}Y- you s--m cl- to [mc]."
+    h "{size=-8}Юї, т- так- бл---ка з [mc]."
 
 # game/game/yui_events.rpy:2075
 translate ukrainian yui_h_event_985bd9ee:
@@ -6093,7 +6093,7 @@ translate ukrainian yui_h_event_985bd9ee:
 translate ukrainian yui_h_event_d3699139:
 
     # t "I can't quite hear what they're saying."
-    t "I can't quite hear what they're saying."
+    t "Мені звідси погано чутно, про що вони говорять."
 
 # game/game/yui_events.rpy:2078
 translate ukrainian yui_h_event_40570cc9:
@@ -6111,43 +6111,43 @@ translate ukrainian yui_h_event_2fded262:
 translate ukrainian yui_h_event_a4d63896:
 
     # y "I was just saying that he's helped me a lot!"
-    y "I was just saying that he's helped me a lot!"
+    y "Я тільки казала, що він мені дуже допоміг!"
 
 # game/game/yui_events.rpy:2081
 translate ukrainian yui_h_event_f57f1b04:
 
     # h "Are you sure? {w}You bring him up all the time."
-    h "Are you sure? {w}You bring him up all the time."
+    h "Упевнена? {w}Ти постійно про нього згадуєш."
 
 # game/game/yui_events.rpy:2083
 translate ukrainian yui_h_event_6002a114:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}I-I don't always bring him up!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}I-I don't always bring him up!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}Я-Я не постійно згадую його!"
 
 # game/game/yui_events.rpy:2084
 translate ukrainian yui_h_event_6d82c062:
 
     # h "Oh? {w}Sorry, I didn't know you hated him that much."
-    h "Oh? {w}Sorry, I didn't know you hated him that much."
+    h "О? {w}Пробач, не знала, що ти його так ненавидиш."
 
 # game/game/yui_events.rpy:2085
 translate ukrainian yui_h_event_874d9ae1:
 
     # y "I never said I hated him..."
-    y "I never said I hated him..."
+    y "Я ніколи не казала, що ненавиджу його..."
 
 # game/game/yui_events.rpy:2087
 translate ukrainian yui_h_event_30d62c63:
 
     # h "Then?"
-    h "Then?"
+    h "Тоді?"
 
 # game/game/yui_events.rpy:2088
 translate ukrainian yui_h_event_4f791784:
 
     # y "{size=-6}He's kind and reliable to everyone..."
-    y "{size=-6}He's kind and reliable to everyone..."
+    y "{size=-6}Він добрий до всіх та на нього можна покластися..."
 
 # game/game/yui_events.rpy:2089
 translate ukrainian yui_h_event_2b35b6fe:
@@ -6159,7 +6159,7 @@ translate ukrainian yui_h_event_2b35b6fe:
 translate ukrainian yui_h_event_2b10249e:
 
     # y "W-Why would I hate someone like that...?"
-    y "W-Why would I hate someone like that...?"
+    y "Ч-Чому б це я ненавиділа когось на кшталт нього...?"
 
 # game/game/yui_events.rpy:2091
 translate ukrainian yui_h_event_71a86863:
@@ -6171,25 +6171,25 @@ translate ukrainian yui_h_event_71a86863:
 translate ukrainian yui_h_event_a446e5c3:
 
     # y "What have you been watching for a-"
-    y "What have you been watching for a-"
+    y "Куди ти дивишся весь цей..."
 
 # game/game/yui_events.rpy:2095
 translate ukrainian yui_h_event_c9b2616c:
 
     # y "{size=-6}-while...?"
-    y "{size=-6}-while...?"
+    y "{size=-6}...час...?"
 
 # game/game/yui_events.rpy:2096
 translate ukrainian yui_h_event_367fc93d:
 
     # h "Oh [mc], {w}I didn't see you there!"
-    h "Oh [mc], {w}I didn't see you there!"
+    h "О, [mc]! {w}Привіт, я тебе не помітила!"
 
 # game/game/yui_events.rpy:2097
 translate ukrainian yui_h_event_d588dadb:
 
     # t "She's been watching me since I arrived..."
-    t "She's been watching me since I arrived..."
+    t "Вона дивилася на мене із самого початку, як я підійшов..."
 
 # game/game/yui_events.rpy:2098
 translate ukrainian yui_h_event_71a86863_1:
@@ -6201,25 +6201,25 @@ translate ukrainian yui_h_event_71a86863_1:
 translate ukrainian yui_h_event_9a57c08c:
 
     # mc "H-Hey ladies."
-    mc "H-Hey ladies."
+    mc "П-Привіт, дівчата."
 
 # game/game/yui_events.rpy:2101
 translate ukrainian yui_h_event_e6f6b191:
 
     # mc "It's strange to see you two together at this time."
-    mc "It's strange to see you two together at this time."
+    mc "Незвично бачити вас удвох у такий час."
 
 # game/game/yui_events.rpy:2103
 translate ukrainian yui_h_event_20a7c9dc:
 
     # h "We were discussing some things about the village."
-    h "We were discussing some things about the village."
+    h "Ми обговорювали дещо про селище."
 
 # game/game/yui_events.rpy:2104
 translate ukrainian yui_h_event_5b1e4e34:
 
     # h "Right Yui?"
-    h "Right Yui?"
+    h "Правда, Юї?"
 
 # game/game/yui_events.rpy:2105
 translate ukrainian yui_h_event_71a86863_2:
@@ -6231,49 +6231,49 @@ translate ukrainian yui_h_event_71a86863_2:
 translate ukrainian yui_h_event_757c033a:
 
     # y "Y-Yes..."
-    y "Y-Yes..."
+    y "Т-Так..."
 
 # game/game/yui_events.rpy:2108
 translate ukrainian yui_h_event_6ee3d439:
 
     # y "About future plans..."
-    y "About future plans..."
+    y "Певні плани на майбутнє..."
 
 # game/game/yui_events.rpy:2109
 translate ukrainian yui_h_event_20275252:
 
     # t "Is Shika calling me?"
-    t "Is Shika calling me?"
+    t "Шика мене кличе?"
 
 # game/game/yui_events.rpy:2112
 translate ukrainian yui_h_event_ee8f555e:
 
     # mc "Can I know them? Or are they only accessible to the \"top management\" of this village?"
-    mc "Can I know them? Or are they only accessible to the \"top management\" of this village?"
+    mc "Розкажете мені? Чи про них може знати тільки «вище керівництво» цього селища?"
 
 # game/game/yui_events.rpy:2113
 translate ukrainian yui_h_event_c571d912:
 
     # h "Hahaha, what are you talking about, {w}you know we don't have that kind of system here."
-    h "Hahaha, what are you talking about, {w}you know we don't have that kind of system here."
+    h "Хахаха, про що ти говориш? {w}Знаєш же, що в нас немає нічого подібного."
 
 # game/game/yui_events.rpy:2114
 translate ukrainian yui_h_event_6de1e813:
 
     # h "And if we did, you'd definitely be the highest-ranking person here."
-    h "And if we did, you'd definitely be the highest-ranking person here."
+    h "Але якщо ми таке влаштуємо, ти б точно став тут найголовнішим."
 
 # game/game/yui_events.rpy:2116
 translate ukrainian yui_h_event_9e6ab848:
 
     # mc "...{w}I don't think I could handle such an important position...."
-    mc "...{w}I don't think I could handle such an important position...."
+    mc "...{w}Сумніваюся, що впораюся з такою важливою роллю..."
 
 # game/game/yui_events.rpy:2117
 translate ukrainian yui_h_event_6fe42d5d:
 
     # mc "Yui, is something wrong?"
-    mc "Yui, is something wrong?"
+    mc "Юї, тебе щось хвилює?"
 
 # game/game/yui_events.rpy:2118
 translate ukrainian yui_h_event_71a86863_3:
@@ -6285,67 +6285,67 @@ translate ukrainian yui_h_event_71a86863_3:
 translate ukrainian yui_h_event_80345c53:
 
     # y "I-I was j-just thinking..."
-    y "I-I was j-just thinking..."
+    y "Я-Я просто з-замислилася..."
 
 # game/game/yui_events.rpy:2121
 translate ukrainian yui_h_event_318af479:
 
     # mc "About me? {w}I think about you sometimes too."
-    mc "About me? {w}I think about you sometimes too."
+    mc "Про мене? {w}Я теж про тебе іноді думаю."
 
 # game/game/yui_events.rpy:2122
 translate ukrainian yui_h_event_823e94a7:
 
     # y "What-"
-    y "What-"
+    y "Що-"
 
 # game/game/yui_events.rpy:2124
 translate ukrainian yui_h_event_693abdc3:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}N-No!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}N-No!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}Н-Ні!"
 
 # game/game/yui_events.rpy:2125
 translate ukrainian yui_h_event_40fb41b8:
 
     # h "Hahaha."
-    h "Hahaha."
+    h "Хахаха."
 
 # game/game/yui_events.rpy:2127
 translate ukrainian yui_h_event_b41e0382:
 
     # s "What about me?"
-    s "What about me?"
+    s "А як щодо мене?"
 
 # game/game/yui_events.rpy:2128
 translate ukrainian yui_h_event_3e0227e2:
 
     # mc "Of course, I always think of you, Shika."
-    mc "Of course, I always think of you, Shika."
+    mc "Звісно, я завжди думаю про тебе, Шико."
 
 # game/game/yui_events.rpy:2130
 translate ukrainian yui_h_event_5b25bcb1:
 
     # s "Hehehe~"
-    s "Hehehe~"
+    s "Хехехе~"
 
 # game/game/yui_events.rpy:2131
 translate ukrainian yui_h_event_0d79a2e9:
 
     # mc "I always think, \"What would Shika do?\""
-    mc "I always think, \"What would Shika do?\""
+    mc "Я постійно думаю: «Що б зробила Шика?»."
 
 # game/game/yui_events.rpy:2132
 translate ukrainian yui_h_event_d29c0cee:
 
     # s "Really!?"
-    s "Really!?"
+    s "Справді!?"
 
 # game/game/yui_events.rpy:2133
 translate ukrainian yui_h_event_9a575833:
 
     # mc "That way, I always choose the opposite option."
-    mc "That way, I always choose the opposite option."
+    mc "Після чого сміливо обираю інший варіант."
 
 # game/game/yui_events.rpy:2134
 translate ukrainian yui_h_event_e1554201:
@@ -6357,13 +6357,13 @@ translate ukrainian yui_h_event_e1554201:
 translate ukrainian yui_h_event_2dc6fe82:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-6}Hey!"
-    s "{sc=2}{outlinecolor=#000000}{size=-6}Hey!"
+    s "{sc=2}{outlinecolor=#000000}{size=-6}Гей!"
 
 # game/game/yui_events.rpy:2137
 translate ukrainian yui_h_event_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/yui_events.rpy:2138
 translate ukrainian yui_h_event_2c95b7f5:
@@ -6375,19 +6375,19 @@ translate ukrainian yui_h_event_2c95b7f5:
 translate ukrainian yui_h_event_9f814967:
 
     # mc "Hmm? Yes?"
-    mc "Hmm? Yes?"
+    mc "Гмм? Так?"
 
 # game/game/yui_events.rpy:2141
 translate ukrainian yui_h_event_517a11c1:
 
     # y "I need your help for-"
-    y "I need your help for-"
+    y "Мені треба твоя допомога з-"
 
 # game/game/yui_events.rpy:2142
 translate ukrainian yui_h_event_76d77a6f:
 
     # mc "I'm in."
-    mc "I'm in."
+    mc "Згоден."
 
 # game/game/yui_events.rpy:2143
 translate ukrainian yui_h_event_71a86863_4:
@@ -6399,73 +6399,73 @@ translate ukrainian yui_h_event_71a86863_4:
 translate ukrainian yui_h_event_6c9bdb88:
 
     # y "I haven't said anything yet."
-    y "I haven't said anything yet."
+    y "Я ще навіть не сказала нічого конкретного."
 
 # game/game/yui_events.rpy:2146
 translate ukrainian yui_h_event_eebeeb34:
 
     # h "Hahaha, I told you, he is always like this."
-    h "Hahaha, I told you, he is always like this."
+    h "Хахаха, казала ж тобі, він завжди такий."
 
 # game/game/yui_events.rpy:2147
 translate ukrainian yui_h_event_0004a5f0:
 
     # y "Yes, I know..."
-    y "Yes, I know..."
+    y "Так, знаю..."
 
 # game/game/yui_events.rpy:2149
 translate ukrainian yui_h_event_bd02093f:
 
     # y "Do you think you can stop by my house?"
-    y "Do you think you can stop by my house?"
+    y "Зможеш заскочити до мене додому?"
 
 # game/game/yui_events.rpy:2150
 translate ukrainian yui_h_event_aa41c129:
 
     # y "In the evening would be a good time."
-    y "In the evening would be a good time."
+    y "Увечері було б непогано."
 
 # game/game/yui_events.rpy:2151
 translate ukrainian yui_h_event_5d2182f6:
 
     # mc "I'll be there."
-    mc "I'll be there."
+    mc "Обов'язково прийду."
 
 # game/game/yui_events.rpy:2153
 translate ukrainian yui_h_event_7c709ce7:
 
     # y "Thank you."
-    y "Thank you."
+    y "Дякую."
 
 # game/game/yui_events.rpy:2154
 translate ukrainian yui_h_event_78156eb6:
 
     # y "Hana, I have to go now."
-    y "Hana, I have to go now."
+    y "Хано, я вже буду йти."
 
 # game/game/yui_events.rpy:2155
 translate ukrainian yui_h_event_fa1c69d9:
 
     # h "Okay, be careful and don't overwork yourself."
-    h "Okay, be careful and don't overwork yourself."
+    h "Гаразд, бережи себе й не перенапружуйся там з роботою."
 
 # game/game/yui_events.rpy:2156
 translate ukrainian yui_h_event_3ac9b94d:
 
     # y "Okay, bye Shika."
-    y "Okay, bye Shika."
+    y "Добре. Бувай, Шико."
 
 # game/game/yui_events.rpy:2157
 translate ukrainian yui_h_event_0c9608f6:
 
     # s "Bye bye!"
-    s "Bye bye!"
+    s "Бувай!"
 
 # game/game/yui_events.rpy:2162
 translate ukrainian yui_h_event_343662fe:
 
     # t "I should stop by Yui's house when I can."
-    t "I should stop by Yui's house when I can."
+    t "Треба буде зайти до Юї, коли зможу."
 
 # game/game/yui_events.rpy:2173
 translate ukrainian yui_h_mission2_195ec8ea:

@@ -55,7 +55,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:241
     old "Need of a Trainer"
-    new "Need of a Trainer"
+    new "Потреби тренера"
 
     # game/quest.rpy:247
     old "Picnic and Herbs"
@@ -272,6 +272,24 @@ translate ukrainian strings:
     old "{s}-You've everything you need, go talk to {color=#C9887C}Ryoko{/color} in the evening.{/s}"
     new "{s}- У тебе вже є все необхідне, поговори з {color=#C9887C}Рьоко{/color} ввечері.{/s}"
 
+    old "Looks like {color=#FBE5A2}Yui{/color} has a job for me."
+    new "Здається, {color=#FBE5A2}Юї{/color} має для мене роботу."
+
+    old "-Visit {color=#FBE5A2}Yui{/color} in the evening."
+    new "- Завітай до {color=#FBE5A2}Юї{/color} ввечері."
+    old "{s}-Visit {color=#FBE5A2}Yui{/color} in the evening.{/s}"
+    new "{s}- Завітай до {color=#FBE5A2}Юї{/color} ввечері.{/s}"
+
+    old "-Go to {color=#FBE5A2}Yui's{/color} house and train with the girl soldiers in the evening."
+    new "- Потренуйся з солдатками, які стоять поруч з домом {color=#FBE5A2}Юї{/color} ввечері."
+    old "{s}-Go to {color=#FBE5A2}Yui's{/color} house and train with the girl soldiers in the evening.{/s}"
+    new "{s}- Потренуйся з солдатками, які стоять поруч з домом {color=#FBE5A2}Юї{/color} ввечері.{/s}"
+
+    old "-Continue training the girls [soldiers_count]/3.(Evening)"
+    new "- Продовжуй тренувати дівчат: [soldiers_count]/3. (Вечір)"
+    old "{s}-Continue training the girls [soldiers_count]/3.(Evening){/s}"
+    new "{s}- Продовжуй тренувати дівчат: [soldiers_count]/3. (Вечір){/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -344,9 +362,6 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} Kill time, maybe there's someone who wants to chat. (Morning)"
     new "{color=#E3CD5B}{b}•{/b}{/color} Kill time, maybe there's someone who wants to chat. (Morning)"
 
-    old "Looks like {color=#FBE5A2}Yui{/color} has a job for me."
-    new "Looks like {color=#FBE5A2}Yui{/color} has a job for me."
-
     old "-Go talk to {color=#319B85}Charlotte{/color} about her room."
     new "-Go talk to {color=#319B85}Charlotte{/color} about her room."
 
@@ -418,12 +433,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Give the materials to {color=#919191}Mayu{/color}."
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Give the materials to {color=#919191}Mayu{/color}."
-
-    old "-Visit {color=#FBE5A2}Yui{/color} in the evening."
-    new "-Visit {color=#FBE5A2}Yui{/color} in the evening."
-
-    old "-Go to {color=#FBE5A2}Yui's{/color} house and train with the girl soldiers in the evening."
-    new "-Go to {color=#FBE5A2}Yui's{/color} house and train with the girl soldiers in the evening."
 
     old "-Head to Sakura Town in the morning.(select it on the map)"
     new "-Head to Sakura Town in the morning.(select it on the map)"
@@ -688,9 +697,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go talk to {color=#E12E50}Akane{/color} in the evening."
     new "{color=#E3CD5B}{b}•{/b}{/color} Go talk to {color=#E12E50}Akane{/color} in the evening."
-
-    old "-Continue training the girls [soldiers_count]/3.(Evening)"
-    new "-Continue training the girls [soldiers_count]/3.(Evening)"
 
     old "-Go talk to {color=#E7CAE5}Shika{/color}.(Afternoon)"
     new "-Go talk to {color=#E7CAE5}Shika{/color}.(Afternoon)"
