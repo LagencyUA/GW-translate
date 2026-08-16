@@ -28937,7 +28937,7 @@ translate ukrainian strings:
 translate ukrainian strings:
     ## Дисклеймер
     old "{font=fonts/Ebrima.ttf}Goddesses' Whim is an {b}Adult Visual Novel{/b}, \ncharacters depicted in this game are 18 years of age or older."
-    new "{font=fonts/ukr/Arial.ttf}«Примха Богинь» (Goddesses' Whim) — це {b}візуальна новела для дорослих{/b}. \nУсі персонажі, зображені у цій грі, досягли 18 років."
+    new "{font=fonts/Arial.ttf}«Примха Богинь» (Goddesses' Whim) — це {b}візуальна новела для дорослих{/b}. \nУсі персонажі, зображені у цій грі, досягли 18 років."
 
     ## ПРОМО: Початок гри
     old "Those who don't know their past are condemned to repeat it."

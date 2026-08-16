@@ -13,17 +13,17 @@ init python early hide:
                 # Перевіряємо, який саме шрифт гра намагається завантажити,
                 # і підміняємо його на українську версію
                 if fn == "fonts/PinkChicken-Regular.ttf":
-                    fn = "fonts/ukr/PlaypenSans-Medium.ttf"
+                    fn = "fonts/PlaypenSans-Medium.ttf"
                 elif fn == "fonts/Sacred Bridge Demo.ttf":
-                    fn = "fonts/ukr/KyivRegion-Regular.ttf"
+                    fn = "fonts/KyivRegion-Regular.ttf"
                 elif fn == "Sacred Bridge Demo.ttf": # У деяких рядках використовується такий шлях
-                    fn = "fonts/ukr/KyivRegion-Regular.ttf"
+                    fn = "fonts/KyivRegion-Regular.ttf"
                 elif fn == "fonts/Ebrima.ttf":
-                    fn = "fonts/ukr/Arial.ttf"
+                    fn = "fonts/Arial.ttf"
                 elif fn == "fonts/Bohemian Soul.otf":
-                    fn = "fonts/ukr/Lobster-Regular.ttf"
+                    fn = "fonts/Lobster-Regular.ttf"
                 elif fn == "fonts/Mandaly.ttf":
-                    fn = "fonts/ukr/Caveat-Bold.ttf"
+                    fn = "fonts/Caveat-Bold.ttf"
                     
             return old_load_face(fn, *args)
             
@@ -56,7 +56,7 @@ translate ukrainian style page_button_text:
     size 32
 
 translate ukrainian style menu_text_per:
-    font "fonts/ukr/KyivRegion-Regular.ttf"
+    font "fonts/KyivRegion-Regular.ttf"
     color "#D7BD99"
     align (.5, .5)
     text_align 0.5

@@ -14,7 +14,7 @@ screen ukr_menu_credits_overlay():
         text "Перекладено\nкомандою":
             pos (45, 160)
             color "#FFFFFF"
-            font "fonts/ukr/PlaypenSans-Medium.ttf"
+            font "fonts/PlaypenSans-Medium.ttf"
             text_align 0.5
             outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
             size 25
@@ -22,7 +22,7 @@ screen ukr_menu_credits_overlay():
         text "Заходьте до\nнас!":
             pos (15, 320)
             color "#FFFFFF"
-            font "fonts/ukr/PlaypenSans-Medium.ttf"
+            font "fonts/PlaypenSans-Medium.ttf"
             text_align 0.5
             outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
             size 25
@@ -38,7 +38,7 @@ screen ukr_menu_credits_overlay():
         text "За ініціативи":
             pos (45, 410)
             color "#FFFFFF"
-            font "fonts/ukr/PlaypenSans-Medium.ttf"
+            font "fonts/PlaypenSans-Medium.ttf"
             text_align 0.5
             outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
             size 25
@@ -46,7 +46,7 @@ screen ukr_menu_credits_overlay():
         text "Lagency":
             pos (35, 540)
             color "#FFFFFF"
-            font "fonts/ukr/PlaypenSans-Medium.ttf"
+            font "fonts/PlaypenSans-Medium.ttf"
             text_align 0.5
             outlines [((absolute(3), "#000000", absolute(0), absolute(0)))]
             size 25

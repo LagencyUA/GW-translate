@@ -47,7 +47,7 @@ init 10 screen preferences():
                     textbutton _('English') action [ SetVariable("spanish_active", False), Language(None) ] selected (renpy.game.preferences.language is None)
                     textbutton _('Español') action [SetVariable("spanish_active", True),  Language('Spanish') ] selected (renpy.game.preferences.language == 'Spanish')
                     # Нова нопка для перемикання на українську мову
-                    textbutton _('Українська') action [SetVariable("spanish_active", False),  Language('ukrainian') ] selected (renpy.game.preferences.language == 'ukrainian') text_font "fonts/ukr/Arial.ttf"
+                    textbutton _('Українська') action [SetVariable("spanish_active", False),  Language('ukrainian') ] selected (renpy.game.preferences.language == 'ukrainian') text_font "fonts/Arial.ttf"
 
             null height (4 * gui.pref_spacing)
             hbox:
