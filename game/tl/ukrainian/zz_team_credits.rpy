@@ -10,7 +10,7 @@ screen ukr_menu_credits_overlay():
             ypos 240
             idle "tl/ukrainian/images/17october_team_tg.png"
             hover im.MatrixColor("tl/ukrainian/images/17october_team_tg.png", im.matrix.brightness(0.1))
-            action OpenURL("https://t.me/group_17_october")
+            action OpenURL("https://t.me/+s31ZXv2OfVNkYjky")
         text "Перекладено\nкомандою":
             pos (45, 160)
             color "#FFFFFF"
