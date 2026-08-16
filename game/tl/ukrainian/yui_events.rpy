@@ -2787,7 +2787,7 @@ translate ukrainian yui_gal1_1de6c0ef:
 translate ukrainian yui_gal1_74975786:
 
     # t "All the pre-cum that came out is making Yui's boobs even more slippery..."
-    t "Увесь цей прееякулят робить груди Юї ще слизькішими..."
+    t "Увесь цей передеякулят робить груди Юї ще слизькішими..."
 
 # game/game/yui_events.rpy:1046
 translate ukrainian yui_gal1_2b35b6fe_4:
