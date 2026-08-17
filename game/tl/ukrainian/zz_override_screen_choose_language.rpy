@@ -40,6 +40,6 @@ init 15 screen choose_language():
             idle_background "bg/icons/choose_bg.png"
             hover_background im.MatrixColor("bg/icons/choose_bg.png", im.matrix.brightness(0.1))
             # Примусово вказуємо шрифт Arial, щоб слово відобразилося кирилицею без кубиків
-            text "{font=fonts/Arial.ttf}{size=+10}Українська" align (.5, .45) outlines [((absolute(2), "#091519", absolute(0), absolute(0)))]
+            text "{font=tl/ukrainian/fonts/Arial.ttf}{size=+10}Українська" align (.5, .45) outlines [((absolute(2), "#091519", absolute(0), absolute(0)))]
             # Логіка: вимикаємо іспанський режим і вмикаємо нашу локалізацію
             action [ SetVariable("spanish_active", False), Language('ukrainian'), Return() ]
