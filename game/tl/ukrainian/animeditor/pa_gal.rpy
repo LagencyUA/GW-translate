@@ -5772,9 +5772,6 @@ translate ukrainian strings:
     old "But there are still parts to cover..."
     new "But there are still parts to cover..."
 
-    old "A few minutes later."
-    new "A few minutes later."
-
     old "Ok Shika, {w}let's take a bath together so I don't steal your clothes."
     new "Ok Shika, {w}let's take a bath together so I don't steal your clothes."
 

@@ -19948,7 +19948,7 @@ translate ukrainian strings:
     new "Злови три E-рангові риби!"
 
     old "5 minutes later"
-    new "5 хвилин потому."
+    new "5 хвилин по тому."
 
     old "Charlotte is still on the defensive."
     new "Шарлотта досі насторожі."

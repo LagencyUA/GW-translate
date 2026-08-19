@@ -24298,7 +24298,7 @@ translate ukrainian strings:
 
 translate ukrainian strings:
     old "5 minutes later."
-    new "5 хвилин потому."
+    new "5 хвилин по тому."
 
     old "After a brief explanation..."
     new "Після короткого пояснення..."
@@ -24328,7 +24328,7 @@ translate ukrainian strings:
     new "{size=-4}  Тепер можна повторити цю подію на лісопильні!{/size}"
 
     old "3 days later."
-    new "3 дні потому."
+    new "3 дні по тому."
 
     old "You enjoy the evening with Yui."
     new "Ти насолоджуєшся вечором у компанії з Юї."
