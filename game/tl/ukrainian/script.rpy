@@ -6795,7 +6795,7 @@ translate ukrainian keiko_gal1_431777ef:
 translate ukrainian keiko_gal1_c8501fbf:
 
     # k "{size=-6}Though I admit... I got a little carried away~"
-    k "{size=-6}Хоча, мушу визнати... Я трішки захопилася~"
+    k "{size=-6}Хоча мушу визнати... Я трішки захопилася~"
 
 # game/game/script.rpy:2178
 translate ukrainian keiko_gal1_f2f4436a:
