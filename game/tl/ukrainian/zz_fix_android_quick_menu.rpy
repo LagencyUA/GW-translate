@@ -46,7 +46,7 @@ init 999 screen say(who, what):
         text what id "what"
 
 init python:
-    persistent.quick_menu_scale_variants = [
+    quick_menu_scale_variants = [
         {
             "text_size": 30,
             "spacing": 10,
@@ -79,10 +79,10 @@ init python:
         }
     ]
     def get_quick_menu_text_size(scale):
-        return persistent.quick_menu_scale_variants[scale]["text_size"]
+        return quick_menu_scale_variants[scale]["text_size"]
     def get_quick_menu_spacing(scale):
-        return persistent.quick_menu_scale_variants[scale]["spacing"]
+        return quick_menu_scale_variants[scale]["spacing"]
     def get_quick_menu_offset(scale):
-        return persistent.quick_menu_scale_variants[scale]["q_m_offset"]
+        return quick_menu_scale_variants[scale]["q_m_offset"]
     def get_say_offset(scale):
-        return persistent.quick_menu_scale_variants[scale]["say_offset"]
+        return quick_menu_scale_variants[scale]["say_offset"]
