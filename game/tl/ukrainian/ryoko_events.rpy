@@ -4113,7 +4113,7 @@ translate ukrainian ryoko_gal1_1fcb1404:
 translate ukrainian ryoko_bath_handjob_b5874b54:
 
     # r "Then, I'll help you wash up!"
-    r "Тоді, я допоможу вам помитися!"
+    r "Тоді я допоможу вам помитися!"
 
 # game/game/ryoko_events.rpy:1393
 translate ukrainian ryoko_bath_handjob_74153fe4:

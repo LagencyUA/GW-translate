@@ -2367,7 +2367,7 @@ translate ukrainian choice4_12054b7d:
 translate ukrainian choice4_1b7759fb:
 
     # mc "It would attract a lot of attention if I look different than \"normal\"."
-    mc "Я перевртатиму забагато зайвої уваги, якщо виглядатиму інакше від «звичного»."
+    mc "Я привертатиму забагато зайвої уваги, якщо виглядатиму інакше від «звичного»."
 
 # game/game/script.rpy:775
 translate ukrainian choice4_1feb2d9c:
@@ -3729,7 +3729,7 @@ translate ukrainian set_fire_2b35b6fe_8:
 translate ukrainian set_fire_e56fcc3e:
 
     # r "As you can see, {w}I'm a slave..."
-    r "Я ви можете помітити, {w}Я рабиня..."
+    r "Як ви можете помітити, {w}Я рабиня..."
 
 # game/game/script.rpy:1253
 translate ukrainian set_fire_098184ac:

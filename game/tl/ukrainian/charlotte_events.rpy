@@ -1305,7 +1305,7 @@ translate ukrainian charlotte_event_2_1e5eb91c:
 translate ukrainian charlotte_event_2_a71b2903:
 
     # mc "So why did you help me?"
-    mc "Тоді, чому ти мене врятувала?"
+    mc "Тоді чому ти мене врятувала?"
 
 # game/game/charlotte_events.rpy:497
 translate ukrainian charlotte_event_2_ac839373:

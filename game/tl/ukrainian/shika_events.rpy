@@ -2709,7 +2709,7 @@ translate ukrainian shika_horny_da6968a4:
 translate ukrainian shika_horny_6378386a:
 
     # s "T-Then, we should look for one.."
-    s "Тоді, нам треба пошукати таке..."
+    s "Тоді нам треба пошукати таке..."
 
 # game/game/shika_events.rpy:878
 translate ukrainian shika_horny_1d82a7e7:

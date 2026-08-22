@@ -3057,7 +3057,7 @@ translate ukrainian hana_hevent_2_75d0aa10:
 translate ukrainian hana_hevent_2_de34c2ee:
 
     # mc "Then I'd better get going..."
-    mc "Тоді, мені теж уже час..."
+    mc "Тоді мені теж уже час..."
 
 # game/game/hana_events.rpy:1189
 translate ukrainian hana_hevent_2_89d79339:
