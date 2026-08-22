@@ -417,25 +417,25 @@ translate ukrainian no_enough_765f9cf6:
 translate ukrainian talk_tomoe_f9c6200c:
 
     # to "Hey, what do you need?"
-    to "Hey, what do you need?"
+    to "Привіт, за чим прийшов?"
 
 # game/game/tomoe_events.rpy:641
 translate ukrainian talk_tomoe_a59f17b6:
 
     # mc "I just stopped by to say hello."
-    mc "I just stopped by to say hello."
+    mc "Просто зайшов привітатися."
 
 # game/game/tomoe_events.rpy:642
 translate ukrainian talk_tomoe_93d32e0f:
 
     # to "Oh, Hi! Buy something!"
-    to "Oh, Hi! Buy something!"
+    to "Ох, привітик! Купуй щось!"
 
 # game/game/tomoe_events.rpy:643
 translate ukrainian talk_tomoe_b6297e3f:
 
     # mc "Eeh..."
-    mc "Eeh..."
+    mc "Еех..."
 
 # game/game/tomoe_events.rpy:652
 translate ukrainian patron_shop_event_be5f0e63:

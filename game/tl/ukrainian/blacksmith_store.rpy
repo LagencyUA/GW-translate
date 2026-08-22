@@ -1035,9 +1035,6 @@ translate ukrainian strings:
     old "+100 gold, +15 Reputation"
     new "+100 gold, +15 Reputation"
 
-    old "You bought 1 {item_name}!"
-    new "You bought 1 {item_name}!"
-
     old "{size=+50}Blacksmith"
     new "{size=+50}Blacksmith"
 

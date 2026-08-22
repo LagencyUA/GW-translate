@@ -35,6 +35,7 @@ init python:
         # Переклад назв предметів у меню підтвердження купівлі
         "Melon Pan": [("динну булочку", "screen", "buy_confirm_screen")],
         "Ні": [(" Ні", "screen", "buy_confirm_screen")],        # Виправлення положення
+        'You bought 1 Melon Pan!': [("Ти купив динну булочку!", "screen", "notify_stack")]
     }
     # Зберігаємо старий replace_text, якщо він був визначений грою.
     _original_replace_text = config.replace_text

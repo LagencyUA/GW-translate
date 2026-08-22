@@ -281,9 +281,9 @@ translate ukrainian strings:
     new "{s}- Завітай до {color=#FBE5A2}Юї{/color} ввечері.{/s}"
 
     old "-Go to {color=#FBE5A2}Yui's{/color} house and train with the girl soldiers in the evening."
-    new "- Потренуйся з солдатками, які стоять поруч з домом {color=#FBE5A2}Юї{/color} ввечері."
+    new "- Потренуйся з солдатками, які стоять поруч із домом {color=#FBE5A2}Юї{/color} ввечері."
     old "{s}-Go to {color=#FBE5A2}Yui's{/color} house and train with the girl soldiers in the evening.{/s}"
-    new "{s}- Потренуйся з солдатками, які стоять поруч з домом {color=#FBE5A2}Юї{/color} ввечері.{/s}"
+    new "{s}- Потренуйся з солдатками, які стоять поруч із домом {color=#FBE5A2}Юї{/color} ввечері.{/s}"
 
     old "-Continue training the girls [soldiers_count]/3.(Evening)"
     new "- Продовжуй тренувати дівчат: [soldiers_count]/3. (Вечір)"
