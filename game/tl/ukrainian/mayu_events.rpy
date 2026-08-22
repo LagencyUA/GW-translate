@@ -69,43 +69,43 @@ translate ukrainian mayu_event_1_b28b24b6:
 translate ukrainian mayu_event_1_f49431e9:
 
     # a "I've got nothing left to do..."
-    a "I've got nothing left to do..."
+    a "Мені більше нічого робити..."
 
 # game/game/mayu_events.rpy:138
 translate ukrainian mayu_event_1_325e6b5d:
 
     # a "This is what I get for making all the requests too fast...."
-    a "This is what I get for making all the requests too fast...."
+    a "Ось що буває, коли я виконую всі замовлення надто швидко..."
 
 # game/game/mayu_events.rpy:140
 translate ukrainian mayu_event_1_9fa7a399:
 
     # a "Is there no one else in this village who wants to build something?"
-    a "Is there no one else in this village who wants to build something?"
+    a "Хіба більше не залишилося нікого у селищі, кому б знадобилося щось збудувати?"
 
 # game/game/mayu_events.rpy:142
 translate ukrainian mayu_event_1_76da3bb1:
 
     # a "Or repair at least..."
-    a "Or repair at least..."
+    a "Або принаймні полагодити..."
 
 # game/game/mayu_events.rpy:143
 translate ukrainian mayu_event_1_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Привіт!"
 
 # game/game/mayu_events.rpy:145
 translate ukrainian mayu_event_1_236dac79:
 
     # mc "You must be Mayu?"
-    mc "You must be Mayu?"
+    mc "Ти, мабуть, Маю?"
 
 # game/game/mayu_events.rpy:146
 translate ukrainian mayu_event_1_35b21ead:
 
     # a "That's not Yui's voice."
-    a "That's not Yui's voice."
+    a "Голос явно не Юї."
 
 # game/game/mayu_events.rpy:148
 translate ukrainian mayu_event_1_bb8e4b4e:
@@ -117,19 +117,19 @@ translate ukrainian mayu_event_1_bb8e4b4e:
 translate ukrainian mayu_event_1_f57ce201:
 
     # mc "Yo!"
-    mc "Yo!"
+    mc "Здоров!"
 
 # game/game/mayu_events.rpy:151
 translate ukrainian mayu_event_1_13b6a172:
 
     # mc "I'm not Yui but she sent me here."
-    mc "I'm not Yui but she sent me here."
+    mc "Я хоч і не Юї, та це вона мене сюди відправила."
 
 # game/game/mayu_events.rpy:153
 translate ukrainian mayu_event_1_a9dc6b74:
 
     # mc "She told me that you're in charge of construction here in the village."
-    mc "She told me that you're in charge of construction here in the village."
+    mc "Вона мені сказала, що це ти відповідальна за будівництво у цьому селищі."
 
 # game/game/mayu_events.rpy:154
 translate ukrainian mayu_event_1_bb8e4b4e_1:
@@ -141,85 +141,85 @@ translate ukrainian mayu_event_1_bb8e4b4e_1:
 translate ukrainian mayu_event_1_68e9bb60:
 
     # mc "Are you listening?"
-    mc "Are you listening?"
+    mc "Ти слухаєш?"
 
 # game/game/mayu_events.rpy:156
 translate ukrainian mayu_event_1_fec21e7e:
 
     # mc "Or have I come at a bad time-"
-    mc "Or have I come at a bad time-"
+    mc "Чи я зайшов невчас-"
 
 # game/game/mayu_events.rpy:161
 translate ukrainian mayu_event_1_08b5df7f:
 
     # mc "Ok."
-    mc "Ok."
+    mc "Гаразд."
 
 # game/game/mayu_events.rpy:162
 translate ukrainian mayu_event_1_90ecf031:
 
     # mc "Look at the time! I have to go."
-    mc "Look at the time! I have to go."
+    mc "Ого яка година! Мушу бігти."
 
 # game/game/mayu_events.rpy:167
 translate ukrainian mayu_event_1_a83c27dd:
 
     # mc "Wh-"
-    mc "Wh-"
+    mc "Що-"
 
 # game/game/mayu_events.rpy:168
 translate ukrainian mayu_event_1_31d1c7f3:
 
     # a "Nice to meet you! I'm Mayu!"
-    a "Nice to meet you! I'm Mayu!"
+    a "Рада знайомству! Мене звати Маю!"
 
 # game/game/mayu_events.rpy:170
 translate ukrainian mayu_event_1_91336eec:
 
     # ma "If you're here, it's because you want to build something, right?"
-    ma "If you're here, it's because you want to build something, right?"
+    ma "Якщо ти тут, тобі треба щось збудувати, правда?"
 
 # game/game/mayu_events.rpy:171
 translate ukrainian mayu_event_1_5f1d5cbc:
 
     # mc "Err... {w}well, {w}yes."
-    mc "Err... {w}well, {w}yes."
+    mc "Емм... {w}ну, {w}так."
 
 # game/game/mayu_events.rpy:173
 translate ukrainian mayu_event_1_30277a2f:
 
     # ma "I knew this day would come!"
-    ma "I knew this day would come!"
+    ma "Знала, цей день настане!"
 
 # game/game/mayu_events.rpy:174
 translate ukrainian mayu_event_1_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Про що це ти?"
 
 # game/game/mayu_events.rpy:176
 translate ukrainian mayu_event_1_a295fd5d:
 
     # ma "Come!"
-    ma "Come!"
+    ma "Заходь!"
 
 # game/game/mayu_events.rpy:177
 translate ukrainian mayu_event_1_fc60e1ec:
 
     # ma "Let's start immediately!"
-    ma "Let's start immediately!"
+    ma "Почнімо негайно!"
 
 # game/game/mayu_events.rpy:178
 translate ukrainian mayu_event_1_38fd2fa5:
 
     # mc "O-Ok.."
-    mc "O-Ok.."
+    mc "Д-Добре..."
 
 # game/game/mayu_events.rpy:179
 translate ukrainian mayu_event_1_83ef0304:
 
     # t "Yui wasn't lying when she said that Mayu is quite a cheerful girl..."
-    t "Yui wasn't lying when she said that Mayu is quite a cheerful girl..."
+    t "Юї не брехала, коли сказала, що Маю — досить життєрадісна дівчина..."
 
 # game/game/mayu_events.rpy:181
 translate ukrainian mayu_event_1_a20cefa7_2:
@@ -231,37 +231,37 @@ translate ukrainian mayu_event_1_a20cefa7_2:
 translate ukrainian mayu_event_1_9db70216:
 
     # ma "Then, let's begin."
-    ma "Then, let's begin."
+    ma "Тоді розпочнімо."
 
 # game/game/mayu_events.rpy:183
 translate ukrainian mayu_event_1_0c8e4571:
 
     # mc "Mayu?"
-    mc "Mayu?"
+    mc "Маю?"
 
 # game/game/mayu_events.rpy:185
 translate ukrainian mayu_event_1_b18a84e9:
 
     # ma "Come on, don't be shy."
-    ma "Come on, don't be shy."
+    ma "Нумо, не соромся."
 
 # game/game/mayu_events.rpy:186
 translate ukrainian mayu_event_1_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/mayu_events.rpy:187
 translate ukrainian mayu_event_1_923e8036:
 
     # ma "Tell me, will it be inside or outside."
-    ma "Tell me, will it be inside or outside."
+    ma "Розказуй, плануєш усередині чи ззовні?"
 
 # game/game/mayu_events.rpy:189
 translate ukrainian mayu_event_1_d946bf1d:
 
     # t "Inside or outside?"
-    t "Inside or outside?"
+    t "Усередині чи ззовні?"
 
 # game/game/mayu_events.rpy:191
 translate ukrainian mayu_event_1_2b35b6fe:
@@ -273,73 +273,73 @@ translate ukrainian mayu_event_1_2b35b6fe:
 translate ukrainian mayu_event_1_f508c475:
 
     # mc "C-Can it be inside?"
-    mc "C-Can it be inside?"
+    mc "Н-Не проти, якщо всередині?"
 
 # game/game/mayu_events.rpy:193
 translate ukrainian mayu_event_1_02f83551:
 
     # ma "Perfect! {w}Up or down?"
-    ma "Perfect! {w}Up or down?"
+    ma "Ідеально! {w}Згори чи знизу?"
 
 # game/game/mayu_events.rpy:194
 translate ukrainian mayu_event_1_1e377ccd:
 
     # t "She's referring to.."
-    t "She's referring to.."
+    t "Вона зараз про..."
 
 # game/game/mayu_events.rpy:195
 translate ukrainian mayu_event_1_96eda209:
 
     # mc "D-Down?"
-    mc "D-Down?"
+    mc "З-Знизу?"
 
 # game/game/mayu_events.rpy:197
 translate ukrainian mayu_event_1_aa67333e:
 
     # ma "Understood!"
-    ma "Understood!"
+    ma "Зрозуміла!"
 
 # game/game/mayu_events.rpy:198
 translate ukrainian mayu_event_1_7c5a3734:
 
     # mc "A-Are you sure? We've just met and this is-"
-    mc "A-Are you sure? We've just met and this is-"
+    mc "У-Упевнена? Ми лише щойно познайомилися і-"
 
 # game/game/mayu_events.rpy:199
 translate ukrainian mayu_event_1_7fc26e43:
 
     # ma "Will it be big or small?"
-    ma "Will it be big or small?"
+    ma "Яким він буде, великим чи маленьким?"
 
 # game/game/mayu_events.rpy:200
 translate ukrainian mayu_event_1_96efbb35:
 
     # t "She has to prepare herself?..."
-    t "She has to prepare herself?..."
+    t "Вона готується?..."
 
 # game/game/mayu_events.rpy:201
 translate ukrainian mayu_event_1_1c1e80e7:
 
     # mc "I don't know... {w}You'd have to see it..."
-    mc "I don't know... {w}You'd have to see it..."
+    mc "Важко сказати... {w}Тобі варто самій побачити..."
 
 # game/game/mayu_events.rpy:202
 translate ukrainian mayu_event_1_73166bd8:
 
     # ma "Oh don't worry, {w}I've already seen it."
-    ma "Oh don't worry, {w}I've already seen it."
+    ma "Ох, не переймайся, {w}я вже бачила."
 
 # game/game/mayu_events.rpy:203
 translate ukrainian mayu_event_1_957d3a5d:
 
     # t "What!, when?"
-    t "What!, when?"
+    t "Що! Коли це?"
 
 # game/game/mayu_events.rpy:205
 translate ukrainian mayu_event_1_b3447ae5:
 
     # ma "It's super big, don't you think?"
-    ma "It's super big, don't you think?"
+    ma "Він нереально великий, так не гадаєш?"
 
 # game/game/mayu_events.rpy:206
 translate ukrainian mayu_event_1_2b35b6fe_1:
@@ -351,67 +351,67 @@ translate ukrainian mayu_event_1_2b35b6fe_1:
 translate ukrainian mayu_event_1_6b2b9fe2:
 
     # mc "Not that I'm comparing..."
-    mc "Not that I'm comparing..."
+    mc "Ну, я не скаржуся..."
 
 # game/game/mayu_events.rpy:209
 translate ukrainian mayu_event_1_4a3ad2d2:
 
     # ma "Too bad it's in such bad condition."
-    ma "Too bad it's in such bad condition."
+    ma "Шкода, що він у такому поганому стані."
 
 # game/game/mayu_events.rpy:210
 translate ukrainian mayu_event_1_27911543:
 
     # mc "Oh, {w}do you think so?"
-    mc "Oh, {w}do you think so?"
+    mc "Ох, {w}думаєш?"
 
 # game/game/mayu_events.rpy:211
 translate ukrainian mayu_event_1_5c87d7d6:
 
     # ma "Yes, but don't worry, that's what I'm here for."
-    ma "Yes, but don't worry, that's what I'm here for."
+    ma "Так, але не хвилюйся, я тут саме для цього."
 
 # game/game/mayu_events.rpy:212
 translate ukrainian mayu_event_1_07eba8ee:
 
     # mc "R-Really?"
-    mc "R-Really?"
+    mc "С-Справді?"
 
 # game/game/mayu_events.rpy:214
 translate ukrainian mayu_event_1_4ebc7bb3:
 
     # ma "I'll have it as good as new in a couple of days."
-    ma "I'll have it as good as new in a couple of days."
+    ma "За кілька днів він стане як новий."
 
 # game/game/mayu_events.rpy:215
 translate ukrainian mayu_event_1_0532c4a6:
 
     # ma "And you can use it as you please."
-    ma "And you can use it as you please."
+    ma "Зможеш користуватися ним, як заманеться."
 
 # game/game/mayu_events.rpy:216
 translate ukrainian mayu_event_1_1e8776e9:
 
     # mc "That's... {w} good to know."
-    mc "That's... {w} good to know."
+    mc "Добре... {w} знати."
 
 # game/game/mayu_events.rpy:217
 translate ukrainian mayu_event_1_6eeeb579:
 
     # ma "Well, let me know when you want to start!"
-    ma "Well, let me know when you want to start!"
+    ma "Ну, кажи мені, коли готовий почати!"
 
 # game/game/mayu_events.rpy:218
 translate ukrainian mayu_event_1_b966c03d:
 
     # mc "Gulp*"
-    mc "Gulp*"
+    mc "{i}*Ковть*{/i}"
 
 # game/game/mayu_events.rpy:220
 translate ukrainian mayu_event_1_b6b2cb9d:
 
     # ma "I always wanted to fix your house!"
-    ma "I always wanted to fix your house!"
+    ma "Я завжди хотіла полагодити твій дім!"
 
 # game/game/mayu_events.rpy:221
 translate ukrainian mayu_event_1_2b35b6fe_2:
@@ -423,25 +423,25 @@ translate ukrainian mayu_event_1_2b35b6fe_2:
 translate ukrainian mayu_event_1_31d3a4d0:
 
     # mc "My house?"
-    mc "My house?"
+    mc "Мій дім?"
 
 # game/game/mayu_events.rpy:224
 translate ukrainian mayu_event_1_7c181eb9:
 
     # ma "That house has many rooms, we could even repair the second floor!"
-    ma "That house has many rooms, we could even repair the second floor!"
+    ma "У тому домі так багато кімнат, і ми навіть зможемо полагодити другий поверх!"
 
 # game/game/mayu_events.rpy:226
 translate ukrainian mayu_event_1_97522d8c:
 
     # mc "Second floor?"
-    mc "Second floor?"
+    mc "Другий поверх?"
 
 # game/game/mayu_events.rpy:228
 translate ukrainian mayu_event_1_5e646744:
 
     # ma "What's wrong? You're distracted."
-    ma "What's wrong? You're distracted."
+    ma "Що таке? Ти якийсь розгублений."
 
 # game/game/mayu_events.rpy:229
 translate ukrainian mayu_event_1_2b35b6fe_3:
@@ -453,133 +453,133 @@ translate ukrainian mayu_event_1_2b35b6fe_3:
 translate ukrainian mayu_event_1_6d2a5643:
 
     # t "She meant the house!"
-    t "She meant the house!"
+    t "Вона казала про дім!"
 
 # game/game/mayu_events.rpy:231
 translate ukrainian mayu_event_1_adb61149:
 
     # t "What's wrong with me?"
-    t "What's wrong with me?"
+    t "Що не так зі мною?"
 
 # game/game/mayu_events.rpy:232
 translate ukrainian mayu_event_1_7c1ebda6:
 
     # mc "Oh no nothing, I'm excited, haha."
-    mc "Oh no nothing, I'm excited, haha."
+    mc "О, та пусте, я в захваті, хаха."
 
 # game/game/mayu_events.rpy:234
 translate ukrainian mayu_event_1_34044e58:
 
     # ma "Right?!"
-    ma "Right?!"
+    ma "Правда?!"
 
 # game/game/mayu_events.rpy:236
 translate ukrainian mayu_event_1_d29960f3:
 
     # ma "I'll have everything ready for the next time you come!"
-    ma "I'll have everything ready for the next time you come!"
+    ma "Я підготую все до твого наступного візиту!"
 
 # game/game/mayu_events.rpy:237
 translate ukrainian mayu_event_1_fc006ac0:
 
     # ma "So that you know what materials you need."
-    ma "So that you know what materials you need."
+    ma "Аби ти знав, які матеріали знадобляться."
 
 # game/game/mayu_events.rpy:239
 translate ukrainian mayu_event_1_33ea2710:
 
     # mc "T-Thanks Mayu."
-    mc "T-Thanks Mayu."
+    mc "Д-Дякую, Маю."
 
 # game/game/mayu_events.rpy:240
 translate ukrainian mayu_event_1_6f22151c:
 
     # mc "I look forward to working with you."
-    mc "I look forward to working with you."
+    mc "З нетерпінням чекаю на нашу співпрацю."
 
 # game/game/mayu_events.rpy:242
 translate ukrainian mayu_event_1_9dc0282d:
 
     # ma "Yes! I hope we get along well!"
-    ma "Yes! I hope we get along well!"
+    ma "Так! Сподіваюся, ми гарно порозуміємося!"
 
 # game/game/mayu_events.rpy:243
 translate ukrainian mayu_event_1_df7ecb9a:
 
     # t "It seems like she had it all figured out before I arrived."
-    t "It seems like she had it all figured out before I arrived."
+    t "Здається, ніби вона вже все продумала ще до мого візиту."
 
 # game/game/mayu_events.rpy:245
 translate ukrainian mayu_event_1_74801e97:
 
     # mc "Then I'll come back another time so as not to bother you in your wor-"
-    mc "Then I'll come back another time so as not to bother you in your wor-"
+    mc "Тоді зайду іншим разом, аби не заважати тобі прац-"
 
 # game/game/mayu_events.rpy:247
 translate ukrainian mayu_event_1_387b63b5:
 
     # ma "You don't bother me!"
-    ma "You don't bother me!"
+    ma "Ти мені не заважаєш!"
 
 # game/game/mayu_events.rpy:249
 translate ukrainian mayu_event_1_54e29ac8:
 
     # ma "Come whenever you want!"
-    ma "Come whenever you want!"
+    ma "Приходь коли завгодно!"
 
 # game/game/mayu_events.rpy:250
 translate ukrainian mayu_event_1_d03559c2:
 
     # mc "O-Oh, {w}Ok."
-    mc "O-Oh, {w}Ok."
+    mc "О-Ох, {w}добре."
 
 # game/game/mayu_events.rpy:251
 translate ukrainian mayu_event_1_8d65010a:
 
     # mc "Bye Mayu!"
-    mc "Bye Mayu!"
+    mc "Бувай, Маю!"
 
 # game/game/mayu_events.rpy:254
 translate ukrainian mayu_event_1_36d35230:
 
     # ma "Bye Bye!"
-    ma "Bye Bye!"
+    ma "Бувай!"
 
 # game/game/mayu_events.rpy:263
 translate ukrainian mayu_event_1_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:310
 translate ukrainian mayu_interface_32512a62:
 
     # ma "Hey! You're back!"
-    ma "Hey! You're back!"
+    ma "Привіт! Ти повернувся!"
 
 # game/game/mayu_events.rpy:914
 translate ukrainian mayu_talk_a82f1c0d:
 
     # ma "I'm busy with other things, sorry."
-    ma "I'm busy with other things, sorry."
+    ma "Я зараз зайнята дечим іншим, пробач."
 
 # game/game/mayu_events.rpy:915
 translate ukrainian mayu_talk_96ba90bd:
 
     # t "It seems that she's not interested in anything but construction."
-    t "It seems that she's not interested in anything but construction."
+    t "Здається, їй лише цікаве будівництво."
 
 # game/game/mayu_events.rpy:919
 translate ukrainian mayu_talk_a82f1c0d_1:
 
     # ma "I'm busy with other things, sorry."
-    ma "I'm busy with other things, sorry."
+    ma "Я зараз зайнята дечим іншим, пробач."
 
 # game/game/mayu_events.rpy:920
 translate ukrainian mayu_talk_96ba90bd_1:
 
     # t "It seems that she's not interested in anything but construction."
-    t "It seems that she's not interested in anything but construction."
+    t "Здається, їй лише цікаве будівництво."
 
 # game/game/mayu_events.rpy:927
 translate ukrainian cons_ryoko_room_0ea40588:
@@ -717,7 +717,7 @@ translate ukrainian cons_ryoko_room_a921b7b1:
 translate ukrainian cons_ryoko_room_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:979
 translate ukrainian cons_2nd_room_3c17c59c:
@@ -849,7 +849,7 @@ translate ukrainian cons_2nd_room_3e5819fc:
 translate ukrainian cons_2nd_room_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1025
 translate ukrainian cons_2nd_room_0fe924a9:
@@ -2121,7 +2121,7 @@ translate ukrainian mayu_gal1_c1dff962:
 translate ukrainian mayu_gal1_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1406
 translate ukrainian mayu_gal1_79a0cfcb:
@@ -2217,7 +2217,7 @@ translate ukrainian kitchen_build_6c5e6844:
 translate ukrainian kitchen_build_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1451
 translate ukrainian kitchen_build_f7ec6e4d:
@@ -2415,7 +2415,7 @@ translate ukrainian secondfloor_build_1343bca4:
 translate ukrainian secondfloor_build_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1525
 translate ukrainian secondfloor_build_7f55a413:
@@ -3015,7 +3015,7 @@ translate ukrainian mayu_eventuno_6355b9db:
 translate ukrainian mayu_eventuno_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1745
 translate ukrainian mayu_eventuno_6093e3a8:
@@ -3741,7 +3741,7 @@ translate ukrainian mayu_eventdos_e4be6021_1:
 translate ukrainian mayu_eventdos_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1962
 translate ukrainian mayu_eventtres_ba0905c1:
@@ -4365,7 +4365,7 @@ translate ukrainian mayu_etresconti_202488ba:
 translate ukrainian mayu_etresconti_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:2240
 translate ukrainian mayu_nothome_4d162500:
@@ -6165,7 +6165,7 @@ translate ukrainian mayu_postsex_e1cc2bd0:
 translate ukrainian mayu_postsex_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:2770
 translate ukrainian mayu_charstair_316b0d50:
@@ -7329,7 +7329,7 @@ translate ukrainian mayu_eventcinco_29a0d7b2:
 translate ukrainian mayu_eventcinco_a0c826f8:
 
     # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:3131
 translate ukrainian mayu_eventcinco_c457d9ee:
@@ -8109,7 +8109,7 @@ translate ukrainian mayu_eventseis_f6653cc5:
 translate ukrainian mayu_eventseis_4828435b:
 
     # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
-    "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 # game/game/mayu_events.rpy:3336
 translate ukrainian mayu_eventseis_aaa9c893:
@@ -8895,7 +8895,7 @@ translate ukrainian mayu_eventsiete_4864b1cd:
 translate ukrainian mayu_eventsiete_4828435b:
 
     # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
-    "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 # game/game/mayu_events.rpy:3552
 translate ukrainian mayu_eventsiete_0d2ff6ab:
@@ -10371,7 +10371,7 @@ translate ukrainian mayu_footjob_3f3acec7:
 translate ukrainian mayu_tableend_4828435b:
 
     # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
-    "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 # game/game/mayu_events.rpy:3922
 translate ukrainian mayu_tableend_75005453:
@@ -11457,7 +11457,7 @@ translate ukrainian mayu_eventdiez_cfad0565:
 translate ukrainian mayu_eventdiez_4828435b:
 
     # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
-    "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 # game/game/mayu_events.rpy:4204
 translate ukrainian mayu_eventdiez_37595a92:
@@ -12453,7 +12453,7 @@ translate ukrainian mayu_eventdoce_8ef9d4d4:
 translate ukrainian mayu_eventdoce_4828435b:
 
     # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
-    "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 # game/game/mayu_events.rpy:4480
 translate ukrainian mayu_eventtrece_bb9a6a42:
@@ -13935,77 +13935,20 @@ translate ukrainian mayu_gal4_233b3d06:
 translate ukrainian mayu_gal4_4828435b:
 
     # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
-    "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 translate ukrainian strings:
-
-    # game/mayu_events.rpy:335
-    old "{size=-8}Sell\n Wood"
-    new "{size=-8}Sell\n Wood"
-
-    # game/mayu_events.rpy:352
-    old "{image=gold_text}{size=-10}10"
-    new "{image=gold_text}{size=-10}10"
-
-    # game/mayu_events.rpy:384
-    old "{size=-20} Repair the 1st room.\nIt's perfect for {color=#C9887C}Ryoko{/color}."
-    new "{size=-20} Repair the 1st room.\nIt's perfect for {color=#C9887C}Ryoko{/color}."
-
-    # game/mayu_events.rpy:385
-    old "{size=-15} 250"
-    new "{size=-15} 250"
-
-    # game/mayu_events.rpy:386
-    old "{size=-15} 40"
-    new "{size=-15} 40"
-
-    # game/mayu_events.rpy:388
-    old "{image=check_text}"
-    new "{image=check_text}"
-
-    # game/mayu_events.rpy:390
-    old "{size=-15} Buy"
-    new "{size=-15} Buy"
-
-    # game/mayu_events.rpy:398
-    old "{size=-22} Repair the 2nd room.\nWhen will this be {color=#319B85}useful{/color}?"
-    new "{size=-22} Repair the 2nd room.\nWhen will this be {color=#319B85}useful{/color}?"
-
     # game/mayu_events.rpy:413
     old "{size=-22} Build a fully furnished\n {color=#CACACA}kitchen{/color}."
     new "{size=-22} Build a fully furnished\n {color=#CACACA}kitchen{/color}."
-
-    # game/mayu_events.rpy:414
-    old "{size=-15} 300"
-    new "{size=-15} 300"
-
-    # game/mayu_events.rpy:415
-    old "{size=-15} 50"
-    new "{size=-15} 50"
 
     # game/mayu_events.rpy:428
     old "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
     new "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
 
-    # game/mayu_events.rpy:429
-    old "{size=-15} 280"
-    new "{size=-15} 280"
-
-    # game/mayu_events.rpy:430
-    old "{size=-15} 60"
-    new "{size=-15} 60"
-
     # game/mayu_events.rpy:443
     old "{size=-21} Repair and reinforce the gate of the town."
     new "{size=-21} Repair and reinforce the gate of the town."
-
-    # game/mayu_events.rpy:444
-    old "{size=-15} 2"
-    new "{size=-15} 2"
-
-    # game/mayu_events.rpy:445
-    old "{size=-15} 80"
-    new "{size=-15} 80"
 
     # game/mayu_events.rpy:458
     old "{size=-18} Second floor\n {color=#21c3de}Karyn's{/color} Room."
@@ -14014,10 +13957,6 @@ translate ukrainian strings:
     # game/mayu_events.rpy:473
     old "{size=-18} Use all the wood you\ngathered to build \nthe perfect place to rest."
     new "{size=-18} Use all the wood you\ngathered to build \nthe perfect place to rest."
-
-    # game/mayu_events.rpy:475
-    old "{size=-15} 0"
-    new "{size=-15} 0"
 
     # game/mayu_events.rpy:487
     old "You already got it!"
@@ -14031,25 +13970,9 @@ translate ukrainian strings:
     old "You still need to bring me the {color=#7FAED9}gates{/color}!\n They are at the {color=#7FAED9}entrance{/color}!"
     new "You still need to bring me the {color=#7FAED9}gates{/color}!\n They are at the {color=#7FAED9}entrance{/color}!"
 
-    # game/mayu_events.rpy:505
-    old "You still don't have enough materials!"
-    new "You still don't have enough materials!"
-
     # game/mayu_events.rpy:512
     old "No one is going to use it so I don't need it for now."
     new "No one is going to use it so I don't need it for now."
-
-    # game/mayu_events.rpy:532
-    old "{size=-10}2{image=bg/icons/gold_text.png}"
-    new "{size=-10}2{image=bg/icons/gold_text.png}"
-
-    # game/mayu_events.rpy:600
-    old "{size=-15}Build {color=#C9887C}Ryoko's{/color} room?"
-    new "{size=-15}Build {color=#C9887C}Ryoko's{/color} room?"
-
-    # game/mayu_events.rpy:631
-    old "{size=-15}Do you want to build it?"
-    new "{size=-15}Do you want to build it?"
 
     # game/mayu_events.rpy:664
     old "{size=-15}Build the {color=#CACACA}kitchen{/color}?"
@@ -14104,14 +14027,17 @@ translate ukrainian strings:
     new "Mayu's idea (footjob)"
 
 translate ukrainian strings:
+    old "You head to the backyard."
+    new "Ти попрямував на задній двір."
+
+    old "{image=corazon_wing}{color=#7a847d}Mayu{/color} has been added!"
+    new "{image=corazon_wing}Додано знайомство з {color=#7a847d}Маю{/color}!"
+
     old "You and Mayu take the firewood home."
     new "You and Mayu take the firewood home."
 
     old "A few days later."
     new "A few days later."
-
-    old "{size=-8}Inventory"
-    new "{size=-8}Inventory"
 
     old "{image=quest_text}Repair added to Mayu's builds."
     new "{image=quest_text}Repair added to Mayu's builds."
@@ -14155,12 +14081,6 @@ translate ukrainian strings:
     old "30 gold and 10 wood have been removed from your inventory."
     new "30 gold and 10 wood have been removed from your inventory."
 
-    old "You head to the backyard."
-    new "You head to the backyard."
-
-    old "{image=corazon_wing}{color=#7a847d}Mayu{/color} has been added!"
-    new "{image=corazon_wing}{color=#7a847d}Mayu{/color} has been added!"
-
     old "You've unlocked the second floor and a new room!"
     new "You've unlocked the second floor and a new room!"
 
@@ -14172,3 +14092,41 @@ translate ukrainian strings:
 
     old "-80 of wood."
     new "-80 of wood."
+
+translate ukrainian strings: # Рядки інтерфейсу крамниці
+    old "{size=-15} 250"
+    new "{size=-15}  250"
+
+    # game/mayu_events.rpy:335
+    old "{size=-8}Sell\n Wood"
+    new "{size=-14}Продати\n деревину"
+
+    old "{size=-8}Inventory"
+    new "{size=-8}Інвентар"
+
+    old "{size=+75}Build"
+    new "{size=+36}Будувати"
+
+    # game/mayu_events.rpy:390
+    old "{size=-15} Buy"
+    new "{size=-18} Купити"
+
+    # game/mayu_events.rpy:505
+    old "You still don't have enough materials!"
+    new "Тобі досі бракує матеріалів!"
+
+    # game/mayu_events.rpy:600
+    old "{size=-15}Build {color=#C9887C}Ryoko's{/color} room?"
+    new "{size=-15}Полагодити кімнату {color=#C9887C}Рьоко{/color}?"
+
+    # game/mayu_events.rpy:631
+    old "{size=-15}Do you want to build it?"
+    new "{size=-15}Хочеш її полагодити?"
+
+    # game/mayu_events.rpy:384
+    old "{size=-20} Repair the 1st room.\nIt's perfect for {color=#C9887C}Ryoko{/color}."
+    new "{size=-20} Полагодити 1-шу кімнату.\nВона ідеальна для {color=#C9887C}Рьоко{/color}."
+
+    # game/mayu_events.rpy:398
+    old "{size=-22} Repair the 2nd room.\nWhen will this be {color=#319B85}useful{/color}?"
+    new "{size=-22} Полагодити 2-гу кімнату.\nЦікаво, коли вона {color=#319B85}знадобиться{/color}?"
