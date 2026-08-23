@@ -515,11 +515,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1309
     old "{color=#FFFFFF}N{/color}-Event\nSee what {color=#E7CAE5}Shika{/color} is doing outside {color=#919191}Mayu's{/color} house in the afternoon."
-    new "{color=#FFFFFF}N{/color}-Event\nSee what {color=#E7CAE5}Shika{/color} is doing outside {color=#919191}Mayu's{/color} house in the afternoon."
+    new "{color=#FFFFFF}З{/color}-полія\nПоглянь, що робить {color=#E7CAE5}Шика{/color} біля будинку {color=#919191}Маю{/color} вдень."
 
     # game/day_time.rpy:1311
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#E7CAE5}\"Picnic and Herbs\"{/color}."
-    new "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#E7CAE5}\"Picnic and Herbs\"{/color}."
+    new "{color=#FF438D}Х{/color}-подія\nВиконай завдання {color=#E7CAE5}«Пікнік і трави»{/color}."
 
     # game/day_time.rpy:1335
     old "{color=#FFFFFF}N{/color}-Event\nGo \"hang out\" with {color=#E7CAE5}Shika{/color} in the morning."
@@ -592,11 +592,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1555
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nGo see what {color=#E12E50}Akane{/color} is doing outside {color=#BCB2CC}Tomoe's{/color} shop in the afternoon."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nGo see what {color=#E12E50}Akane{/color} is doing outside {color=#BCB2CC}Tomoe's{/color} shop in the afternoon."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nПоглянь, що робить {color=#E12E50}Акане{/color} поруч з крамничкою {color=#BCB2CC}Томое{/color} вдень."
 
     # game/day_time.rpy:1564
     old "{color=#FF438D}H{/color}-Event\nBuild the {color=#CACACA}kitchen{/color} and {color=#FBE5A2}talk to {color=#E12E50}Akane{/color} in the afternoon."
-    new "{color=#FF438D}H{/color}-Event\nBuild the {color=#CACACA}kitchen{/color} and {color=#FBE5A2}talk to {color=#E12E50}Akane{/color} in the afternoon."
+    new "{color=#FF438D}Х{/color}-подія\nВідремонтуй {color=#CACACA}кухню{/color} та {color=#FBE5A2}поговори з {color=#E12E50}Акане{/color} вдень."
 
     # game/day_time.rpy:1579
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou should build {color=#E12E50}Akane's{/color} room!"
@@ -815,7 +815,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:2239
     old "{color=#CACACA}Hint Blocked{/color}\nYou need to advance further in the story, {color=#C9887C}complete missions!{/color}"
-    new "{color=#CACACA}Hint Blocked{/color}\nYou need to advance further in the story, {color=#C9887C}complete missions!{/color}"
+    new "{color=#CACACA}Підказка заблокована{/color}\nТи повинен просунутися далі історією, {color=#C9887C}виконуй поточні завдання!{/color}"
 
     # game/day_time.rpy:2248
     old "{color=#FFFFFF}N{/color}-Event\nGo talk to {color=#919191}Mayu{/color} in the morning."

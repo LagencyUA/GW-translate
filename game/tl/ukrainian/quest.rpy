@@ -59,7 +59,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:247
     old "Picnic and Herbs"
-    new "Picnic and Herbs"
+    new "Пікнік і трави"
 
     # game/quest.rpy:253
     old "Unexpected Reunion"
@@ -130,6 +130,7 @@ translate ukrainian strings:
     new "Beach Episode"
 
 translate ukrainian strings:
+    # Знайти Юї / Find Yui      yui_mission_task
     old "{color=#C9887C}Ryoko{/color} told me that I was saved by a girl named {color=#FBE5A2}Yui{/color}. \nMaybe in the village someone knows where she lives."
     new "{color=#C9887C}Рьоко{/color} розповіла мені, що мене врятувала дівчина на ім'я {color=#FBE5A2}Юї{/color}. \nХтось у селищі, певно, знає де вона живе."
 
@@ -153,6 +154,7 @@ translate ukrainian strings:
     old "{s}-You should go back to your new home to see {color=#C9887C}Ryoko{/color}.{/s}"
     new "{s}- Тобі слід повернутися до свого нового дому, щоб побачитися з {color=#C9887C}Рьоко{/color}.{/s}"
 
+    # Дізнатися більше / Learn More     main_mission1_task
     old "I came to this new world and almost died in the first day, I should get more information while I get to know the people of this village."
     new "Я потрапив у цей новий світ і ледь не загинув уже першого дня. Мені слід дізнатися більше, поки я знайомлюся з мешканцями цього селища."
 
@@ -171,6 +173,7 @@ translate ukrainian strings:
     old "{s}-Time to secure the {color=#ffffff}forest{/color} (Select it on the map).{/s}"
     new "{s}- Настав час убезпечити {color=#ffffff}ліс{/color} (обери його на мапі).{/s}"
 
+    # Нові місця / New Places       forest_mission1_task
     old "With the {color=#ffffff}forest{/color} secured I can now explore freely. I should investigate the new places and see what I can do to help."
     new "Тепер, коли {color=#ffffff}ліс{/color} у безпеці, я можу вільно його досліджувати. Мені слід оглянути нові місця й подивитися, чим я можу допомогти."
 
@@ -189,6 +192,7 @@ translate ukrainian strings:
     old "{s}-Finish your new missions.{/s}"
     new "{s}- Виконай інші завдання, що з'являться.{/s}"
 
+    # Вудка / Fishing Rod       rod_mission_task
     old "I need to get a {color=#ffffff}fishing rod{/color}, maybe {color=#F3915B}Hana{/color} can help me."
     new "Мені потрібно знайти {color=#ffffff}вудку{/color}. Можливо, {color=#F3915B}Хана{/color} зможе мені допомогти із цим."
 
@@ -202,6 +206,7 @@ translate ukrainian strings:
     old "{s}-Check the doors in your house, there must be a storage room in it.{/s}"
     new "{s}- Перевір кімнати у власному будинку — там обов'язково має бути комора.{/s}"
 
+    # Деревина для Юї / Wood for Yui        wood_for_yui
     old "{color=#FBE5A2}Yui{/color} asked me to help her with the collection of wood to repair the village stores."
     new "{color=#FBE5A2}Юї{/color} попросила мене допомогти їй зібрати деревину для ремонту крамничок у селищі."
 
@@ -215,6 +220,7 @@ translate ukrainian strings:
     old "{s}-I already have the wood, I should go to {color=#FBE5A2}Yui's{/color} house to let her know.{/s}"
     new "{s}- У мене вже достатньо деревини, варто завітати до {color=#FBE5A2}Юї{/color} додому та сказати їй.{/s}"
 
+    # Кошача цікавість / Cat Curiosity      cat_curiosity
     old "{color=#319B85}Charlotte{/color} seems to be quite distant, there must be some way I can get close to her."
     new "Видно, що {color=#319B85}Шарлотта{/color} досить віддалена, але ж має бути якийсь спосіб наблизитися до неї."
 
@@ -233,6 +239,7 @@ translate ukrainian strings:
     old "{s}-Even though it has worked, she won't talk to me if I don't give her food, I should keep doing that.{/s}"
     new "{s}- Хоча це й спрацювало, вона не хоче зі мною розмовляти, якщо я не дам їй їжі, тож мені слід продовжувати так робити.{/s}"
 
+    # Нові крамнички / New Stores       stores_task
     old "The new stores must be fixed up, and I also want to meet the {color=#919191}girl{/color} who's in charge of the constructions."
     new "Нові крамнички вже мають запрацювати. Я також хочу зустрітися з {color=#919191}дівчиною{/color}, яка відповідає за будівництво."
 
@@ -246,6 +253,12 @@ translate ukrainian strings:
     old "{s}-Search for {color=#919191}Mayu{/color}, her house is in the direction of {color=#FBE5A2}Yui's{/color} house.{/s}"
     new "{s}- Пошукай {color=#919191}Маю{/color}, її дім має бути у тому ж напрямку де й дім {color=#FBE5A2}Юї{/color}.{/s}"
 
+    old "-I should take a good rest in my bed."
+    new "- Мені треба добряче відпочити у ліжку."
+    old "{s}-I should take a good rest in my bed.{/s}"
+    new "{s}- Мені треба добряче відпочити у ліжку.{/s}"
+
+    # Тренування Рьоко / Ryoko Training     r_training_task
     old "When I saw {color=#C9887C}Ryoko{/color} training, she reminded me of me. I must do everything I can to make her strong."
     new "Коли я побачив, як {color=#C9887C}Рьоко{/color} тренується, вона нагадала мені мене. Я повинен зробити все, що в моїх силах, аби вона стала сильною."
 
@@ -272,6 +285,7 @@ translate ukrainian strings:
     old "{s}-You've everything you need, go talk to {color=#C9887C}Ryoko{/color} in the evening.{/s}"
     new "{s}- У тебе вже є все необхідне, поговори з {color=#C9887C}Рьоко{/color} ввечері.{/s}"
 
+    # Потреби тренера / Need of a Trainer       yui_h_mission
     old "Looks like {color=#FBE5A2}Yui{/color} has a job for me."
     new "Здається, {color=#FBE5A2}Юї{/color} має для мене роботу."
 
@@ -394,9 +408,6 @@ translate ukrainian strings:
 
     old "-Talk to {color=#BD4A17}Sayori{/color}.(Morning)"
     new "-Talk to {color=#BD4A17}Sayori{/color}.(Morning)"
-
-    old "-I should take a good rest in my bed."
-    new "-I should take a good rest in my bed."
 
     old "-Go talk to {color=#C9887C}Ryoko{/color} in the morning."
     new "-Go talk to {color=#C9887C}Ryoko{/color} in the morning."
