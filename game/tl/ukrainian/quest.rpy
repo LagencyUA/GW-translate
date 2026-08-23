@@ -304,6 +304,25 @@ translate ukrainian strings:
     old "{s}-Continue training the girls [soldiers_count]/3.(Evening){/s}"
     new "{s}- Продовжуй тренувати дівчат: [soldiers_count]/3. (Вечір){/s}"
 
+    # Пікнік і трави / Picnic and Herbs     shika_h_mission
+    old "I found Shika trying to get out of the village, but it seems they won't let her go out alone."
+    new "Я побачив, як {color=#E7CAE5}Шика{/color} намагалася вийти за межі селища, але, здається, її не пускають саму."
+
+    old "-Go and talk to {color=#F3915B}Hana{/color} at her home."
+    new "- Зайди до {color=#F3915B}Хани{/color} та поговори з нею."
+    old "{s}-Go and talk to {color=#F3915B}Hana{/color} at her home.{/s}"
+    new "{s}- Зайди до {color=#F3915B}Хани{/color} та поговори з нею.{/s}"
+
+    old "-Shika mentioned a picnic, buy some things at the store."
+    new "- Шика згадувала пікнік, варто щось купити у крамничці."
+    old "{s}-Shika mentioned a picnic, buy some things at the store.{/s}"
+    new "{s}- Шика згадувала пікнік, варто щось купити у крамничці.{/s}"
+
+    old "-You have what you need, go see Shika at the exit of the village (Afternoon)."
+    new "- Усе готово. Поговори з Шикою біля виходу з селища вдень."
+    old "{s}-You have what you need, go see Shika at the exit of the village (Afternoon).{/s}"
+    new "{s}- Усе готово. Поговори з Шикою біля виходу з селища вдень.{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -360,9 +379,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color}  {font=fonts/Ebrima.ttf}Go to the adventurers' lounge in the afternoon."
     new "{color=#E3CD5B}{b}•{/b}{/color}  {font=fonts/Ebrima.ttf}Go to the adventurers' lounge in the afternoon."
-
-    old "-You have what you need, go see Shika at the exit of the village (Afternoon)."
-    new "-You have what you need, go see Shika at the exit of the village (Afternoon)."
 
     old "-Build {color=#C9887C}Ryoko's{/color} room to continue advancing with the mission!"
     new "-Build {color=#C9887C}Ryoko's{/color} room to continue advancing with the mission!"
@@ -474,9 +490,6 @@ translate ukrainian strings:
 
     old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
     new "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
-
-    old "-Shika mentioned a picnic, buy some things at the store."
-    new "-Shika mentioned a picnic, buy some things at the store."
 
     old "It is not yet a good time to leave the village, finish your mission {color=#ffffff}\"My purpose\"{/color} first."
     new "It is not yet a good time to leave the village, finish your mission {color=#ffffff}\"My purpose\"{/color} first."
@@ -616,9 +629,6 @@ translate ukrainian strings:
     old "-Go to your {color=#ffffff}living room{/color} in the afternoon."
     new "-Go to your {color=#ffffff}living room{/color} in the afternoon."
 
-    old "-Go and talk to {color=#F3915B}Hana{/color} at her home."
-    new "-Go and talk to {color=#F3915B}Hana{/color} at her home."
-
     old "-You have seen {color=#E12E50}Akane{/color} worried, go to her to find out what is happening to her."
     new "-You have seen {color=#E12E50}Akane{/color} worried, go to her to find out what is happening to her."
 
@@ -645,9 +655,6 @@ translate ukrainian strings:
 
     old "-It's a quiet day, go fishing in the morning."
     new "-It's a quiet day, go fishing in the morning."
-
-    old "I found Shika trying to get out of the village, but it seems they won't let her go out alone."
-    new "I found Shika trying to get out of the village, but it seems they won't let her go out alone."
 
     old "-Sleep until the next morning! In your bed..."
     new "-Sleep until the next morning! In your bed..."
