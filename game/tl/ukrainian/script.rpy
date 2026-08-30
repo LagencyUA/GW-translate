@@ -9699,7 +9699,7 @@ translate ukrainian storage_rod_6612ab6d:
 translate ukrainian wood_mission_5ce62be6:
 
     # t "I'll go to sleep and come back in the morning."
-    t "I'll go to sleep and come back in the morning."
+    t "Піду посплю й прийду завтра зранку."
 
 # game/game/script.rpy:3306
 translate ukrainian wood_mission_c7f4681b:
@@ -10287,25 +10287,25 @@ translate ukrainian wood_mission_aab3383c:
 translate ukrainian mother_dream_7f7620e0:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}Sigh*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}Sigh*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}{i}*Хааах*{/i}"
 
 # game/game/script.rpy:3469
 translate ukrainian mother_dream_bd301f8a:
 
     # t "The village is feeling more and more cheerful."
-    t "The village is feeling more and more cheerful."
+    t "У селищі з кожним днем стає все веселіше."
 
 # game/game/script.rpy:3470
 translate ukrainian mother_dream_b9f450e8:
 
     # t "The girls are doing a great job."
-    t "The girls are doing a great job."
+    t "Дівчата гарно справляються."
 
 # game/game/script.rpy:3471
 translate ukrainian mother_dream_8d8b78fa:
 
     # t "I can't imagine this place without them."
-    t "I can't imagine this place without them."
+    t "Важко уявити це місце без них."
 
 # game/game/script.rpy:3472
 translate ukrainian mother_dream_1bb01731:
@@ -10317,25 +10317,25 @@ translate ukrainian mother_dream_1bb01731:
 translate ukrainian mother_dream_5c4d413d:
 
     # t "I wonder..."
-    t "I wonder..."
+    t "Цікаво..."
 
 # game/game/script.rpy:3475
 translate ukrainian mother_dream_a760f6dd:
 
     # t "I wonder if the goddesses are still watching me."
-    t "I wonder if the goddesses are still watching me."
+    t "Цікаво, чи богині досі спостерігають за мною."
 
 # game/game/script.rpy:3479
 translate ukrainian mother_dream_130025dc:
 
     # t "Since I've been here, I haven't had a day with nothing to do."
-    t "Since I've been here, I haven't had a day with nothing to do."
+    t "Відколи я тут опинився, не було жодного дня, коли б мені не було чим зайнятися."
 
 # game/game/script.rpy:3483
 translate ukrainian mother_dream_c2421452:
 
     # t "And with Ryoko I've been able to enjoy my new life."
-    t "And with Ryoko I've been able to enjoy my new life."
+    t "І разом з Рьоко я зміг насолоджуватися своїм новим життям."
 
 # game/game/script.rpy:3484
 translate ukrainian mother_dream_1bb01731_1:
@@ -10347,7 +10347,7 @@ translate ukrainian mother_dream_1bb01731_1:
 translate ukrainian mother_dream_cbb29264:
 
     # t "But why did Fumiko want to save a... {w}demon?"
-    t "But why did Fumiko want to save a... {w}demon?"
+    t "Але чому Фуміко хотіла, аби я врятував... {w}демоницю?"
 
 # game/game/script.rpy:3486
 translate ukrainian mother_dream_1bb01731_2:
@@ -10359,25 +10359,25 @@ translate ukrainian mother_dream_1bb01731_2:
 translate ukrainian mother_dream_81ae37a0:
 
     # t "There's a lot I don't understand."
-    t "There's a lot I don't understand."
+    t "Я ще багато чого не розумію."
 
 # game/game/script.rpy:3491
 translate ukrainian mother_dream_4c51d8b6:
 
     # t "According to everyone, gods and demons are like cats and dogs."
-    t "According to everyone, gods and demons are like cats and dogs."
+    t "Як кажуть усі, боги й демони — це як кішки й собаки..."
 
 # game/game/script.rpy:3495
 translate ukrainian mother_dream_95e75b82:
 
     # t "My mother... {w}did she come here via a goddess too?"
-    t "My mother... {w}did she come here via a goddess too?"
+    t "Моя мама... {w}Можливо, вона теж прийшла у цей світ завдяки богині?"
 
 # game/game/script.rpy:3496
 translate ukrainian mother_dream_d2f448cd:
 
     # t "Is she in heaven right now?"
-    t "Is she in heaven right now?"
+    t "Вона зараз у раю?"
 
 # game/game/script.rpy:3497
 translate ukrainian mother_dream_1bb01731_3:
@@ -10389,19 +10389,19 @@ translate ukrainian mother_dream_1bb01731_3:
 translate ukrainian mother_dream_e36ffeb7:
 
     # t "How."
-    t "How."
+    t "Як..."
 
 # game/game/script.rpy:3500
 translate ukrainian mother_dream_d9e2f8e6:
 
     # t "Did she-"
-    t "Did she-"
+    t "...вона..."
 
 # game/game/script.rpy:3502
 translate ukrainian mother_dream_46ff4a61:
 
     # t "Die?"
-    t "Die?"
+    t "...померла?"
 
 # game/game/script.rpy:3508
 translate ukrainian mother_dream_2b35b6fe:
@@ -10413,55 +10413,55 @@ translate ukrainian mother_dream_2b35b6fe:
 translate ukrainian mother_dream_d352d36e:
 
     # mc "Where..."
-    mc "Where..."
+    mc "Де..."
 
 # game/game/script.rpy:3513
 translate ukrainian mother_dream_e59cf96b:
 
     # mc "This is..."
-    mc "This is..."
+    mc "Це..."
 
 # game/game/script.rpy:3519
 translate ukrainian mother_dream_bc70acc1:
 
     # mc "My home?"
-    mc "My home?"
+    mc "Мій дім?"
 
 # game/game/script.rpy:3521
 translate ukrainian mother_dream_88dca032:
 
     # mc "My hands are small..."
-    mc "My hands are small..."
+    mc "Мої руки маленькі..."
 
 # game/game/script.rpy:3522
 translate ukrainian mother_dream_d30a1a90:
 
     # a "Hey, how much longer will you be in there."
-    a "Hey, how much longer will you be in there."
+    a "Ну, і як довго ти ще там стоятимеш."
 
 # game/game/script.rpy:3523
 translate ukrainian mother_dream_ef1ed6d1:
 
     # a "Come or the food will get cold."
-    a "Come or the food will get cold."
+    a "Ходи вже, а то охолоне все."
 
 # game/game/script.rpy:3524
 translate ukrainian mother_dream_80449949:
 
     # t "That voice..."
-    t "That voice..."
+    t "Цей голос..."
 
 # game/game/script.rpy:3525
 translate ukrainian mother_dream_73fa9c82:
 
     # t "Ah right... {w}mom was preparing dinner."
-    t "Ah right... {w}mom was preparing dinner."
+    t "Ах, так... {w}мама готувала вечерю."
 
 # game/game/script.rpy:3527
 translate ukrainian mother_dream_b202b51b:
 
     # mc "I'm coming mom..."
-    mc "I'm coming mom..."
+    mc "Іду, мамо..."
 
 # game/game/script.rpy:3529
 translate ukrainian mother_dream_2b35b6fe_1:
@@ -10473,19 +10473,19 @@ translate ukrainian mother_dream_2b35b6fe_1:
 translate ukrainian mother_dream_129ba0a0:
 
     # mom "What's wrong [mc]."
-    mom "What's wrong [mc]."
+    mom "Що таке, [mc]."
 
 # game/game/script.rpy:3531
 translate ukrainian mother_dream_e0bfb76b:
 
     # mom "Are you not hungry?"
-    mom "Are you not hungry?"
+    mom "Невже не голодний?"
 
 # game/game/script.rpy:3532
 translate ukrainian mother_dream_d57e87bb:
 
     # mc "Ah, {w}err... {w}yes..."
-    mc "Ah, {w}err... {w}yes..."
+    mc "Ах, {w}емм... {w}так..."
 
 # game/game/script.rpy:3534
 translate ukrainian mother_dream_2b35b6fe_2:
@@ -10497,109 +10497,109 @@ translate ukrainian mother_dream_2b35b6fe_2:
 translate ukrainian mother_dream_9608cf71:
 
     # mom "{sc=1}{outlinecolor=#000000}Hmm~ {w}Hmm...~"
-    mom "{sc=1}{outlinecolor=#000000}Hmm~ {w}Hmm...~"
+    mom "{sc=1}{outlinecolor=#000000}{i}Хмм~ {w}Хмм...~"
 
 # game/game/script.rpy:3537
 translate ukrainian mother_dream_12585ec2:
 
     # mom "{sc=1}{outlinecolor=#000000}Hnm~ {w}Hunm...~{image=corazon}"
-    mom "{sc=1}{outlinecolor=#000000}Hnm~ {w}Hunm...~{image=corazon}"
+    mom "{sc=1}{outlinecolor=#000000}{i}Хнм~ {w}Хунм...~{image=corazon}"
 
 # game/game/script.rpy:3539
 translate ukrainian mother_dream_bbfd79f9:
 
     # t "{size=-6}W-What?"
-    t "{size=-6}W-What?"
+    t "{size=-6}Щ-Що?"
 
 # game/game/script.rpy:3540
 translate ukrainian mother_dream_84a05a3c:
 
     # t "I-"
-    t "I-"
+    t "Щось-"
 
 # game/game/script.rpy:3542
 translate ukrainian mother_dream_a398fab8:
 
     # t "I have something in my eyes?"
-    t "I have something in my eyes?"
+    t "Щось потрапило в очі?"
 
 # game/game/script.rpy:3544
 translate ukrainian mother_dream_a78f0123:
 
     # t "Am I... {w}crying?"
-    t "Am I... {w}crying?"
+    t "Невже я... {w}плачу?"
 
 # game/game/script.rpy:3545
 translate ukrainian mother_dream_4cd76835:
 
     # t "Why?"
-    t "Why?"
+    t "Чому?"
 
 # game/game/script.rpy:3546
 translate ukrainian mother_dream_1dbe6b7a:
 
     # mom "What's wrong!?"
-    mom "What's wrong!?"
+    mom "Що трапилося!?"
 
 # game/game/script.rpy:3547
 translate ukrainian mother_dream_c81d4ea7:
 
     # mom "Are you feeling okay!?"
-    mom "Are you feeling okay!?"
+    mom "Усе гаразд!?"
 
 # game/game/script.rpy:3549
 translate ukrainian mother_dream_7a28c915:
 
     # mc "{size=-6}I... {w}I don't know..."
-    mc "{size=-6}I... {w}I don't know..."
+    mc "{size=-6}Я... {w}не знаю..."
 
 # game/game/script.rpy:3550
 translate ukrainian mother_dream_e475ae9c:
 
     # mom "Did those kids bother you again?"
-    mom "Did those kids bother you again?"
+    mom "Ті дітлахи знову дошкуляли тобі?"
 
 # game/game/script.rpy:3551
 translate ukrainian mother_dream_64407f67:
 
     # mc "It's not that..."
-    mc "It's not that..."
+    mc "Справа не у цьому..."
 
 # game/game/script.rpy:3553
 translate ukrainian mother_dream_34da196e:
 
     # mom "Do you have a fever? {w=0.5}Sorry, it's my fault for not noticing."
-    mom "Do you have a fever? {w=0.5}Sorry, it's my fault for not noticing."
+    mom "У тебе температура? {w=0.5}Пробач, я б мала це помітити."
 
 # game/game/script.rpy:3554
 translate ukrainian mother_dream_b39922a5:
 
     # mc "{size=-6}No {w}no..."
-    mc "{size=-6}No {w}no..."
+    mc "{size=-6}Ні{w}, ні..."
 
 # game/game/script.rpy:3555
 translate ukrainian mother_dream_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/script.rpy:3556
 translate ukrainian mother_dream_71b8c963:
 
     # mom "Mmm?"
-    mom "Mmm?"
+    mom "Ммм?"
 
 # game/game/script.rpy:3557
 translate ukrainian mother_dream_9c6bdc74:
 
     # mc "I feel, {w}if I close my eyes.."
-    mc "I feel, {w}if I close my eyes.."
+    mc "Я відчуваю, {w}що якщо зараз заплющу очі..."
 
 # game/game/script.rpy:3558
 translate ukrainian mother_dream_ae91681e:
 
     # mom "Yes?"
-    mom "Yes?"
+    mom "Так?"
 
 # game/game/script.rpy:3559
 translate ukrainian mother_dream_2b35b6fe_3:
@@ -10611,13 +10611,13 @@ translate ukrainian mother_dream_2b35b6fe_3:
 translate ukrainian mother_dream_69be8062:
 
     # mom "Hmm?"
-    mom "Hmm?"
+    mom "Гмм?"
 
 # game/game/script.rpy:3562
 translate ukrainian mother_dream_ecfe2daa:
 
     # mc "I'll {w}never see you again..."
-    mc "I'll {w}never see you again..."
+    mc "Я {w}більше ніколи тебе не побачу..."
 
 # game/game/script.rpy:3563
 translate ukrainian mother_dream_f864b487:
@@ -10629,25 +10629,25 @@ translate ukrainian mother_dream_f864b487:
 translate ukrainian mother_dream_d73f7fdc:
 
     # mom "Why do you think that?"
-    mom "Why do you think that?"
+    mom "Чому ти так думаєш?"
 
 # game/game/script.rpy:3565
 translate ukrainian mother_dream_4a659145:
 
     # mc "Because..."
-    mc "Because..."
+    mc "Тому що..."
 
 # game/game/script.rpy:3567
 translate ukrainian mother_dream_976ff649:
 
     # mc "The shrine in the back."
-    mc "The shrine in the back."
+    mc "Той вівтар позаду."
 
 # game/game/script.rpy:3568
 translate ukrainian mother_dream_46ca356b:
 
     # mc "It's-"
-    mc "It's-"
+    mc "Він-"
 
 # game/game/script.rpy:3569
 translate ukrainian mother_dream_2b35b6fe_4:
@@ -10659,43 +10659,43 @@ translate ukrainian mother_dream_2b35b6fe_4:
 translate ukrainian mother_dream_2667fb40:
 
     # mc "{size=-6}It's yours..."
-    mc "{size=-6}It's yours..."
+    mc "{size=-6}Присвячений тобі..."
 
 # game/game/script.rpy:3572
 translate ukrainian mother_dream_199aa1ab:
 
     # mom "My little crybaby..."
-    mom "My little crybaby..."
+    mom "Маленький мій плаксійко..."
 
 # game/game/script.rpy:3573
 translate ukrainian mother_dream_dcb76466:
 
     # mom "Even if I disappear."
-    mom "Even if I disappear."
+    mom "Навіть якщо я зникну."
 
 # game/game/script.rpy:3575
 translate ukrainian mother_dream_77445e38:
 
     # mom "You have to know that I'll always be with you."
-    mom "You have to know that I'll always be with you."
+    mom "Ти маєш знати: я завжди буду поруч з тобою."
 
 # game/game/script.rpy:3576
 translate ukrainian mother_dream_ee62d3a4:
 
     # mom "As long as you have me in your memory, I'll never disappear."
-    mom "As long as you have me in your memory, I'll never disappear."
+    mom "Допоки ти пам'ятаєш про мене, я ніколи не зникну."
 
 # game/game/script.rpy:3577
 translate ukrainian mother_dream_89d29ebf:
 
     # mc "Mom?"
-    mc "Mom?"
+    mc "Мамо?"
 
 # game/game/script.rpy:3579
 translate ukrainian mother_dream_ae91681e_1:
 
     # mom "Yes?"
-    mom "Yes?"
+    mom "Так?"
 
 # game/game/script.rpy:3580
 translate ukrainian mother_dream_2b35b6fe_5:
@@ -10707,31 +10707,31 @@ translate ukrainian mother_dream_2b35b6fe_5:
 translate ukrainian mother_dream_12044a63:
 
     # mc "Did you really die?"
-    mc "Did you really die?"
+    mc "Ти справді померла?"
 
 # game/game/script.rpy:3582
 translate ukrainian mother_dream_09a776cb:
 
     # mom "I-"
-    mom "I-"
+    mom "Я-"
 
 # game/game/script.rpy:3584
 translate ukrainian mother_dream_851051d1:
 
     # mc "Mom!?"
-    mc "Mom!?"
+    mc "Мамо!?"
 
 # game/game/script.rpy:3588
 translate ukrainian mother_dream_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Про що це ти?"
 
 # game/game/script.rpy:3594
 translate ukrainian mother_dream_c490201b:
 
     # mc "{size=-5}You..."
-    mc "{size=-5}You..."
+    mc "{size=-5}Ти..."
 
 # game/game/script.rpy:3600
 translate ukrainian mother_dream_1d82a7e7:
@@ -10743,31 +10743,31 @@ translate ukrainian mother_dream_1d82a7e7:
 translate ukrainian mother_dream_38f1a25f:
 
     # t "What..."
-    t "What..."
+    t "Що..."
 
 # game/game/script.rpy:3603
 translate ukrainian mother_dream_d0dcf98a:
 
     # t "What a strange dream..."
-    t "What a strange dream..."
+    t "Який дивний сон..."
 
 # game/game/script.rpy:3605
 translate ukrainian mother_dream_0707e878:
 
     # t "It has been a long time since I dreamed about my mother."
-    t "It has been a long time since I dreamed about my mother."
+    t "Давно вже мені не снилася мама."
 
 # game/game/script.rpy:3606
 translate ukrainian mother_dream_e4be6021:
 
     # mc "Sigh*"
-    mc "Sigh*"
+    mc "{i}*Хааах*{/i}"
 
 # game/game/script.rpy:3607
 translate ukrainian mother_dream_f165185b:
 
     # t "It felt very real."
-    t "It felt very real."
+    t "Усе здавалося таким справжнім."
 
 # game/game/script.rpy:3608
 translate ukrainian mother_dream_1bb01731_4:
@@ -10779,7 +10779,7 @@ translate ukrainian mother_dream_1bb01731_4:
 translate ukrainian mother_dream_ff237ad0:
 
     # t "What was she going to tell me in the end?"
-    t "What was she going to tell me in the end?"
+    t "Що вона хотіла сказати мені вкінці?"
 
 # game/game/script.rpy:3611
 translate ukrainian mother_dream_1bb01731_5:
@@ -10791,25 +10791,25 @@ translate ukrainian mother_dream_1bb01731_5:
 translate ukrainian mother_dream_a4668dd0:
 
     # t "But the truth is, I no longer remember how she died..."
-    t "But the truth is, I no longer remember how she died..."
+    t "Але правда в тому, що я вже не пам'ятаю, як вона померла..."
 
 # game/game/script.rpy:3613
 translate ukrainian mother_dream_d8755c70:
 
     # t "Or rather... {w}did I ever remember that?"
-    t "Or rather... {w}did I ever remember that?"
+    t "Або, точніше... {w}чи я взагалі коли-небудь пам'ятав про це?"
 
 # game/game/script.rpy:3614
 translate ukrainian mother_dream_8bb23a12:
 
     # t "Maybe I can ask the goddesses..."
-    t "Maybe I can ask the goddesses..."
+    t "Можливо, мені варто запитати про це у богинь..."
 
 # game/game/script.rpy:3615
 translate ukrainian mother_dream_b77c7782:
 
     # t "I don't think they remember every soul they've ever seen but... {w}I wouldn't lose anything by asking them."
-    t "I don't think they remember every soul they've ever seen but... {w}I wouldn't lose anything by asking them."
+    t "Не думаю, що вони пам'ятають кожну душу, яку коли-небудь бачили, але... {w}Не спробую — не дізнаюся."
 
 # game/game/script.rpy:3616
 translate ukrainian mother_dream_1bb01731_6:
@@ -10821,7 +10821,7 @@ translate ukrainian mother_dream_1bb01731_6:
 translate ukrainian mother_dream_0476ce90:
 
     # t "There must be a way to contact the goddesses without having to almost die."
-    t "There must be a way to contact the goddesses without having to almost die."
+    t "Має ж бути якийсь спосіб зв'язатися з богинями не тільки при смерті."
 
 # game/game/script.rpy:3618
 translate ukrainian mother_dream_1bb01731_7:
@@ -10833,13 +10833,13 @@ translate ukrainian mother_dream_1bb01731_7:
 translate ukrainian mother_dream_4967ca39:
 
     # t "Maybe."
-    t "Maybe."
+    t "Можливо."
 
 # game/game/script.rpy:3621
 translate ukrainian mother_dream_3b76647a:
 
     # t "I could approach those stones where I first arrived..."
-    t "I could approach those stones where I first arrived..."
+    t "Я міг би сходити до тих руїн, біля яких я вперше опинився..."
 
 # game/game/script.rpy:3640
 translate ukrainian stone_mission_3ab93e2d:
@@ -29222,6 +29222,24 @@ translate ukrainian strings:
     old "You can now fish in the lake!"
     new "Тепер ти можеш рибалити на озері!"
 
+    old "Yes, they are."
+    new "Авжеж."
+
+    old "Thank you for taking care of the village."
+    new "Дякую, що дбаєш про це селище."
+
+    old "It's a fairly simple analogy."
+    new "Цілком проста аналогія."
+
+    old "You're still too weak to remember."
+    new "Тобі досі бракує сил, щоб згадати."
+
+    old "Don't worry."
+    new "Не хвилюйся."
+
+    old "{size=-10}My little crybaby..."
+    new "{size=-10}Маленький мій плаксійко..."
+
 ### NOT SORTED
 
     old "{b}Don't leave."
@@ -29248,9 +29266,6 @@ translate ukrainian strings:
     old "After leaving the village."
     new "After leaving the village."
 
-    old "You're still too weak to remember."
-    new "You're still too weak to remember."
-
     old "But at the same time... it scares me."
     new "But at the same time... it scares me."
 
@@ -29274,9 +29289,6 @@ translate ukrainian strings:
 
     old "{size=+10}{b}Stay, {w}just stay..."
     new "{size=+10}{b}Stay, {w}just stay..."
-
-    old "Yes, they are."
-    new "Yes, they are."
 
     old "I think the time has come."
     new "I think the time has come."
@@ -29305,23 +29317,14 @@ translate ukrainian strings:
     old "You take your katana and prepare to leave."
     new "You take your katana and prepare to leave."
 
-    old "It's a fairly simple analogy."
-    new "It's a fairly simple analogy."
-
     old "Now you can flee from combats."
     new "Now you can flee from combats."
-
-    old "{size=-10}My little crybaby..."
-    new "{size=-10}My little crybaby..."
 
     old "Rest for now. Until next time."
     new "Rest for now. Until next time."
 
     old "{outlinecolor=#000000}{i}I let you see the world..."
     new "{outlinecolor=#000000}{i}I let you see the world..."
-
-    old "Thank you for taking care of the village."
-    new "Thank you for taking care of the village."
 
     old "Y-You just answered me!"
     new "Y-You just answered me!"

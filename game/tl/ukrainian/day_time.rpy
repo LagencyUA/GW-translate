@@ -33,7 +33,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:14
     old "Deep Sleep {image=/bg/icons/quest_text.png}"
-    new "Deep Sleep {image=/bg/icons/quest_text.png}"
+    new "Добрячий сон {image=/bg/icons/quest_text.png}"
 
     # game/day_time.rpy:20
     old "Sleep?{image=/bg/icons/tenshi_text.png}"

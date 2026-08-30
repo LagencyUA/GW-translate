@@ -3,7 +3,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:161
     old "Actives"
-    new "Активі"
+    new "Активні"
 
     # game/quest.rpy:162
     old "Objectives"
