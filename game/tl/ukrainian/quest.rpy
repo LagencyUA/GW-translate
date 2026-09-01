@@ -43,7 +43,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:223
     old "Runes and Goddesses"
-    new "Runes and Goddesses"
+    new "Руни та богині"
 
     # game/quest.rpy:229
     old "Sakura Town"
@@ -323,6 +323,44 @@ translate ukrainian strings:
     old "{s}-You have what you need, go see Shika at the exit of the village (Afternoon).{/s}"
     new "{s}- Усе готово. Поговори з Шикою біля виходу з селища вдень.{/s}"
 
+    # Руни та богині / Runes and Goddesses       runes_task
+    old "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
+    new "Той дивний сон змусив мене добряче замислитися: можливо, існує спосіб вийти на зв'язок із богинями."
+
+    old "-You should stop by the lake in the afternoon, maybe you will find {color=#319B85}\"someone\"{/color}."
+    new "- Тобі варто завітати до озера вдень, можливо, ти {color=#319B85}когось{/color} там зустрінеш."
+
+    old "-Spend time with {color=#319B85}Charlotte{/color}."
+    new "- Проведи час із {color=#319B85}Шарлоттою{/color}."
+
+    old "-Build {color=#319B85}Charlotte's{/color} room."
+    new "- Полагодь кімнату для {color=#319B85}Шарлотти{/color}."
+
+    old "-Go talk to {color=#319B85}Charlotte{/color} about her room."
+    new "- Поговори з {color=#319B85}Шарлоттою{/color} про її кімнату."
+    old "{s}-Go talk to {color=#319B85}Charlotte{/color} about her room.{/s}"
+    new "{s}- Поговори з {color=#319B85}Шарлоттою{/color} про її кімнату.{/s}"
+
+    old "-Spend time with {color=#C9887C}Ryoko{/color}."
+    new "- Проведи час із {color=#C9887C}Рьоко{/color}."
+    old "{s}-Spend time with {color=#C9887C}Ryoko{/color}.{/s}"
+    new "{s}- Проведи час із {color=#C9887C}Рьоко{/color}.{/s}"
+
+    old "-I should go to the {color=#ffffff}Stones{/color} now (Select it on the map)."
+    new "- Тепер треба мені піти до {color=#ffffff}розвалин{/color} (обери на мапі)."
+    old "{s}-I should go to the {color=#ffffff}Stones{/color} now (Select it on the map).{/s}"
+    new "{s}- Тепер треба мені піти до {color=#ffffff}розвалин{/color} (обери на мапі).{/s}"
+
+    old "-You should talk to {color=#F3915B}Hana{/color}."
+    new "- Тобі варто поговорити з {color=#F3915B}Ханою{/color}."
+    old "{s}-You should talk to {color=#F3915B}Hana{/color}.{/s}"
+    new "{s}- Тобі варто поговорити з {color=#F3915B}Ханою{/color}.{/s}"
+
+    old "-You can now go to the new village (Select it on the map)."
+    new "- Тепер ти можеш відправитися в інше селище (обери на мапі)."
+    old "{s}-You can now go to the new village (Select it on the map).{/s}"
+    new "{s}- Тепер ти можеш відправитися в інше селище (обери на мапі).{/s}"
+
     old "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
     new "-Go see {color=#CEA976}Yui{/color} at her home. (Afternoon)"
 
@@ -371,9 +409,6 @@ translate ukrainian strings:
     old "{size=-6}I have discovered many things thanks to the goddesses, but I must talk to {color=#E7CAE5}Shika{/color} about that magic and then go to see someone who knows about that."
     new "{size=-6}I have discovered many things thanks to the goddesses, but I must talk to {color=#E7CAE5}Shika{/color} about that magic and then go to see someone who knows about that."
 
-    old "-You should stop by the lake in the afternoon, maybe you will find {color=#319B85}\"someone\"{/color}."
-    new "-You should stop by the lake in the afternoon, maybe you will find {color=#319B85}\"someone\"{/color}."
-
     old "-You have everything ready, now you must go to the Stones to enter her world."
     new "-You have everything ready, now you must go to the Stones to enter her world."
 
@@ -392,14 +427,8 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} Kill time, maybe there's someone who wants to chat. (Morning)"
     new "{color=#E3CD5B}{b}•{/b}{/color} Kill time, maybe there's someone who wants to chat. (Morning)"
 
-    old "-Go talk to {color=#319B85}Charlotte{/color} about her room."
-    new "-Go talk to {color=#319B85}Charlotte{/color} about her room."
-
     old "-Get 40 wood and talk to {color=#BD4A17}Sayori{/color} on the bridge (Morning)."
     new "-Get 40 wood and talk to {color=#BD4A17}Sayori{/color} on the bridge (Morning)."
-
-    old "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
-    new "That weird dream left me a lot to think about, maybe there's a way to communicate with the goddesses."
 
     old "-Spend time with all the girls in Sakura town."
     new "-Spend time with all the girls in Sakura town."
@@ -485,9 +514,6 @@ translate ukrainian strings:
     old "-How is {color=#E7CAE5}Shika{/color} doing? Help her until her worries go away."
     new "-How is {color=#E7CAE5}Shika{/color} doing? Help her until her worries go away."
 
-    old "-Spend time with {color=#319B85}Charlotte{/color}."
-    new "-Spend time with {color=#319B85}Charlotte{/color}."
-
     old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
     new "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
 
@@ -526,9 +552,6 @@ translate ukrainian strings:
 
     old "-{color=#BD4A17}Sayori{/color} mentioned that {color=#F3F3F3}Natsuki{/color} might have a fishing rod, go see her in the morning."
     new "-{color=#BD4A17}Sayori{/color} mentioned that {color=#F3F3F3}Natsuki{/color} might have a fishing rod, go see her in the morning."
-
-    old "-Spend time with {color=#C9887C}Ryoko{/color}."
-    new "-Spend time with {color=#C9887C}Ryoko{/color}."
 
     old "-Have a good rest."
     new "-Have a good rest."
@@ -611,12 +634,6 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Go talk to all the girls; start with {color=#F3915B}Hana{/color} at her house in the morning."
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Go talk to all the girls; start with {color=#F3915B}Hana{/color} at her house in the morning."
 
-    old "-You can now go to the new village (Select it on the map)."
-    new "-You can now go to the new village (Select it on the map)."
-
-    old "-I should go to the {color=#ffffff}Stones{/color} now (Select it on the map)."
-    new "-I should go to the {color=#ffffff}Stones{/color} now (Select it on the map)."
-
     old "-Help all the girls in Sakura Town. (Continued on \"New in the village\")"
     new "-Help all the girls in Sakura Town. (Continued on \"New in the village\")"
 
@@ -644,9 +661,6 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Clear the new area.(Morning)"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Clear the new area.(Morning)"
 
-    old "-You should talk to {color=#F3915B}Hana{/color}."
-    new "-You should talk to {color=#F3915B}Hana{/color}."
-
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Talk to {color=#FFBD74}Reika{/color}, go to the Lycoris clan living room.(Afternoon)"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Talk to {color=#FFBD74}Reika{/color}, go to the Lycoris clan living room.(Afternoon)"
 
@@ -670,9 +684,6 @@ translate ukrainian strings:
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Your {color=#FCDEB3}adventurer's clothes{/color} is ready, go buy it at the {color=#FCDEB3}magic shop{/color}."
     new "{color=#E3CD5B}{b}•{/b}{/color} Your {color=#FCDEB3}adventurer's clothes{/color} is ready, go buy it at the {color=#FCDEB3}magic shop{/color}."
-
-    old "-Build {color=#319B85}Charlotte's{/color} room."
-    new "-Build {color=#319B85}Charlotte's{/color} room."
 
     old "-Visit {color=#1A6FBA}Alice{/color} in the evening."
     new "-Visit {color=#1A6FBA}Alice{/color} in the evening."
