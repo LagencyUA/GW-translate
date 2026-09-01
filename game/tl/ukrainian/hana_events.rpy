@@ -4143,79 +4143,79 @@ translate ukrainian hana_hevent_2_658e5639:
 translate ukrainian shika_hanatalk_f2bdfaaa:
 
     # mc "Did you see Shika wearing a mustache?"
-    mc "Did you see Shika wearing a mustache?"
+    mc "Ти бачила, як Шика ходить з накладними вусами?"
 
 # game/game/hana_events.rpy:1477
 translate ukrainian shika_hanatalk_e0d2d030:
 
     # h "Yes, one day she came in with something stuck to her face and refused to tell me why."
-    h "Yes, one day she came in with something stuck to her face and refused to tell me why."
+    h "Так, днями вона зайшла з чимось на обличчі й не хотіла розповідати, що до чого."
 
 # game/game/hana_events.rpy:1478
 translate ukrainian shika_hanatalk_cccb6f1a:
 
     # h "She just said I'd find out later..."
-    h "She just said I'd find out later..."
+    h "Просто сказала, що я все дізнаюся потім..."
 
 # game/game/hana_events.rpy:1479
 translate ukrainian shika_hanatalk_6143255a:
 
     # mc "Well, {w}I'm here to solve the mystery."
-    mc "Well, {w}I'm here to solve the mystery."
+    mc "Ну, {w}я тут, щоб вирішити цю загадку."
 
 # game/game/hana_events.rpy:1481
 translate ukrainian shika_hanatalk_643f4c28:
 
     # h "What do you mean?"
-    h "What do you mean?"
+    h "Тобто?"
 
 # game/game/hana_events.rpy:1482
 translate ukrainian shika_hanatalk_514713fc:
 
     # mc "Shika told me she wanted to be allowed to leave the village to gather medicinal herbs."
-    mc "Shika told me she wanted to be allowed to leave the village to gather medicinal herbs."
+    mc "Шика мені розповіла, що бажає, аби їй дозволили вийти за межі селища, і вона змогла б позбирати цілющі трави."
 
 # game/game/hana_events.rpy:1483
 translate ukrainian shika_hanatalk_148275dd:
 
     # h "Is she still thinking about that?"
-    h "Is she still thinking about that?"
+    h "Вона досі про це думає?"
 
 # game/game/hana_events.rpy:1484
 translate ukrainian shika_hanatalk_eb8e624f:
 
     # mc "I know you told the guards not to let her out."
-    mc "I know you told the guards not to let her out."
+    mc "Знаю, що ти попрохала вартових не пускати її."
 
 # game/game/hana_events.rpy:1485
 translate ukrainian shika_hanatalk_5eaa51d3:
 
     # h "Yes..."
-    h "Yes..."
+    h "Так..."
 
 # game/game/hana_events.rpy:1486
 translate ukrainian shika_hanatalk_950e3e09:
 
     # h "She felt left out because everyone was busy securing the forest."
-    h "She felt left out because everyone was busy securing the forest."
+    h "Вона засмутилася, що її залишили осторонь, коли всі дбали про безпеку лісу."
 
 # game/game/hana_events.rpy:1487
 translate ukrainian shika_hanatalk_2bbc8ef6:
 
     # t "Just as I thought."
-    t "Just as I thought."
+    t "Як я і думав."
 
 # game/game/hana_events.rpy:1488
 translate ukrainian shika_hanatalk_0a462202:
 
     # h "I'm just afraid something might happen to her..."
-    h "I'm just afraid something might happen to her..."
+    h "Я просто переймаюся, що з нею може щось трапитися..."
 
 # game/game/hana_events.rpy:1489
 translate ukrainian shika_hanatalk_a9c9f206:
 
     # mc "That's exactly why I'm here."
-    mc "That's exactly why I'm here."
+    mc "Саме тому я тут."
 
 # game/game/hana_events.rpy:1491
 translate ukrainian shika_hanatalk_2fded262:
@@ -4227,85 +4227,85 @@ translate ukrainian shika_hanatalk_2fded262:
 translate ukrainian shika_hanatalk_ffca6e23:
 
     # mc "If I go with her, {w}there won't be any danger."
-    mc "If I go with her, {w}there won't be any danger."
+    mc "Якщо я піду з нею, {w}не слід хвилюватися про жодну небезпеку."
 
 # game/game/hana_events.rpy:1494
 translate ukrainian shika_hanatalk_4ea7ba42:
 
     # h "Hahaha~"
-    h "Hahaha~"
+    h "Хахаха~"
 
 # game/game/hana_events.rpy:1495
 translate ukrainian shika_hanatalk_98688fa6:
 
     # h "I keep forgetting you're like this."
-    h "I keep forgetting you're like this."
+    h "Я постійно забуваю, що ти такий."
 
 # game/game/hana_events.rpy:1496
 translate ukrainian shika_hanatalk_9c3599a7:
 
     # mc "An ordinary man?"
-    mc "An ordinary man?"
+    mc "Звичайний чоловік?"
 
 # game/game/hana_events.rpy:1498
 translate ukrainian shika_hanatalk_61ec4639:
 
     # h "A very attractive ordinary man~{image=corazon}"
-    h "A very attractive ordinary man~{image=corazon}"
+    h "Дуже привабливий звичайний чоловік~{image=corazon}"
 
 # game/game/hana_events.rpy:1499
 translate ukrainian shika_hanatalk_6ac2fe83:
 
     # mc "H-Hana..."
-    mc "H-Hana..."
+    mc "Х-Хано..."
 
 # game/game/hana_events.rpy:1501
 translate ukrainian shika_hanatalk_64e2bdd2:
 
     # h "{sc=2}{outlinecolor=#000000}{size=-7}Ahem*"
-    h "{sc=2}{outlinecolor=#000000}{size=-7}Ahem*"
+    h "{sc=2}{outlinecolor=#000000}{size=-7}{i}*Кхм*{/i}"
 
 # game/game/hana_events.rpy:1502
 translate ukrainian shika_hanatalk_25b03be4:
 
     # h "Well, {w}if you go with her, {w}then I won't worry."
-    h "Well, {w}if you go with her, {w}then I won't worry."
+    h "Ну, {w}якщо вже ти підеш з нею, {w}мені немає про що хвилюватися."
 
 # game/game/hana_events.rpy:1503
 translate ukrainian shika_hanatalk_85cc0abe:
 
     # mc "I promise nothing will happen to her."
-    mc "I promise nothing will happen to her."
+    mc "Обіцяю, з нею нічого не трапиться."
 
 # game/game/hana_events.rpy:1505
 translate ukrainian shika_hanatalk_c95a9177:
 
     # h "I know~{image=corazon}"
-    h "I know~{image=corazon}"
+    h "Знаю~{image=corazon}"
 
 # game/game/hana_events.rpy:1506
 translate ukrainian shika_hanatalk_596f3eaa:
 
     # mc "I'll go prepare a few things and then find Shika."
-    mc "I'll go prepare a few things and then find Shika."
+    mc "Я піду тоді, приготую дещо, а потім пошукаю Шику."
 
 # game/game/hana_events.rpy:1507
 translate ukrainian shika_hanatalk_00ee782c:
 
     # h "I'll let the guards know that she can leave with you."
-    h "I'll let the guards know that she can leave with you."
+    h "А я повідомлю вартових, щоб вони пустили її, якщо вона буде з тобою."
 
 # game/game/hana_events.rpy:1508
 translate ukrainian shika_hanatalk_6d363a7c:
 
     # mc "Thanks, Hana."
-    mc "Thanks, Hana."
+    mc "Дякую, Хано."
 
 # game/game/hana_events.rpy:1510
 translate ukrainian shika_hanatalk_d03f5dde:
 
     # h "No, {w}thank you. {w}Shika will be so happy to finally go out again."
-    h "No, {w}thank you. {w}Shika will be so happy to finally go out again."
+    h "Ні, {w}це тобі дякую. {w}Шика буде така рада знову вийти на природу."
 
 # game/game/hana_events.rpy:1516
 translate ukrainian shika_hanatalk_7725dbd8:
@@ -15041,7 +15041,7 @@ translate ukrainian strings:
 
     # game/hana_events.rpy:942
     old "About Shika {image=/bg/icons/quest_text.png}"
-    new "About Shika {image=/bg/icons/quest_text.png}"
+    new "Про Шику {image=/bg/icons/quest_text.png}"
 
     # game/hana_events.rpy:942
     old "+15{image=/bg/icons/tenshi_text.png}?"

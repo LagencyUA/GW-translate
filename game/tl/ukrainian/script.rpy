@@ -10263,7 +10263,7 @@ translate ukrainian wood_mission_86ed24f7:
 translate ukrainian wood_mission_31e7d7c2:
 
     # y "Good luck with that..."
-    y "І удачі тобі з цим..."
+    y "І щасти тобі з цим..."
 
 # game/game/script.rpy:3444
 translate ukrainian wood_mission_2b35b6fe_4:
@@ -29217,7 +29217,7 @@ translate ukrainian strings:
     new "Риби також поділяються на ранги! У кожній зоні є різні види. \nЧим вищий ранг, тим складніше буде її зловити!"
 
     old "If you already unlocked a store, you can sell them and get some gold! Good luck!"
-    new "Якщо ти вже відкрив крамничку, то можеш продати їх там! Удачі!"
+    new "Якщо ти вже відкрив крамничку, то можеш продати їх там! Щасти!"
 
     old "You can now fish in the lake!"
     new "Тепер ти можеш рибалити на озері!"

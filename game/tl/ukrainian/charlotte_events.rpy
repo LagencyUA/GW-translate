@@ -2067,7 +2067,7 @@ translate ukrainian char_real_spend_d19f855d_1:
 translate ukrainian char_real_spend_f7128c13:
 
     # c "Good luck..."
-    c "Удачі..."
+    c "Щасти..."
 
 # game/game/charlotte_events.rpy:781
 translate ukrainian char_real_spend_2b35b6fe_1:

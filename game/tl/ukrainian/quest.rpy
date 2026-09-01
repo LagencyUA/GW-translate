@@ -318,6 +318,12 @@ translate ukrainian strings:
     old "{s}-Shika mentioned a picnic, buy some things at the store.{/s}"
     new "{s}- Шика згадувала пікнік, варто щось купити у крамничці.{/s}"
 
+    old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
+    new "  {color=#ffed2a}{b}•{/b}{/color} Купи {color=#ff9900}сік{/color} [item_juice]/1"
+
+    old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}Sandwich{/color} [item_sandwich]/1"
+    new "  {color=#ffed2a}{b}•{/b}{/color} Купи {color=#ff9900}канапку{/color} [item_sandwich]/1"
+
     old "-You have what you need, go see Shika at the exit of the village (Afternoon)."
     new "- Усе готово. Поговори з Шикою біля виходу з селища вдень."
     old "{s}-You have what you need, go see Shika at the exit of the village (Afternoon).{/s}"
@@ -514,9 +520,6 @@ translate ukrainian strings:
     old "-How is {color=#E7CAE5}Shika{/color} doing? Help her until her worries go away."
     new "-How is {color=#E7CAE5}Shika{/color} doing? Help her until her worries go away."
 
-    old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
-    new "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
-
     old "It is not yet a good time to leave the village, finish your mission {color=#ffffff}\"My purpose\"{/color} first."
     new "It is not yet a good time to leave the village, finish your mission {color=#ffffff}\"My purpose\"{/color} first."
 
@@ -564,9 +567,6 @@ translate ukrainian strings:
 
     old "-Maybe {color=#BCB2CC}Tomoe{/color} sells something interesting...(Afternoon)"
     new "-Maybe {color=#BCB2CC}Tomoe{/color} sells something interesting...(Afternoon)"
-
-    old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}Sandwich{/color} [item_sandwich]/1"
-    new "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}Sandwich{/color} [item_sandwich]/1"
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Try sneaking into the Kingdom on your own.(30 Gold)"
     new "{color=#E3CD5B}{b}•{/b}{/color} {font=fonts/Ebrima.ttf}Try sneaking into the Kingdom on your own.(30 Gold)"
