@@ -6477,7 +6477,7 @@ translate ukrainian keiko_gal1_a854dca0:
 translate ukrainian keiko_gal1_ce5286a2:
 
     # mc "I see... {w}so you have more freedom to do... {w}things..."
-    mc "Ясно... {w}Отже в тебе достатньо свободи, щоб робити... {w}різне..."
+    mc "Ясно... {w}Отже, в тебе достатньо свободи, щоб робити... {w}різне..."
 
 # game/game/script.rpy:2101
 translate ukrainian keiko_gal1_2ab9bb68:

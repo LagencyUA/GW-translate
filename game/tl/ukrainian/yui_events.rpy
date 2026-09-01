@@ -5367,13 +5367,13 @@ translate ukrainian yui_thighjob_rep_983bc77a:
 translate ukrainian yui_katana_task_4a5728a5:
 
     # y "No, what do you need?"
-    y "No, what do you need?"
+    y "Так. Ти щось хотів?"
 
 # game/game/yui_events.rpy:1824
 translate ukrainian yui_katana_task_0f2e1dfc:
 
     # mc "I need help with something."
-    mc "I need help with something."
+    mc "Мені треба твоя допомога з дечим."
 
 # game/game/yui_events.rpy:1826
 translate ukrainian yui_katana_task_71a86863:
@@ -5385,31 +5385,31 @@ translate ukrainian yui_katana_task_71a86863:
 translate ukrainian yui_katana_task_85b97ad2:
 
     # y "Oh really?"
-    y "Oh really?"
+    y "Ох, справді?"
 
 # game/game/yui_events.rpy:1829
 translate ukrainian yui_katana_task_cce70c06:
 
     # y "Right now?..."
-    y "Right now?..."
+    y "Прямо зараз?..."
 
 # game/game/yui_events.rpy:1830
 translate ukrainian yui_katana_task_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/yui_events.rpy:1832
 translate ukrainian yui_katana_task_7c8f9dde:
 
     # y "{size=-10}Well, then let's go to my ro-"
-    y "{size=-10}Well, then let's go to my ro-"
+    y "{size=-10}Ну, тоді ходімо до моєї кім-"
 
 # game/game/yui_events.rpy:1833
 translate ukrainian yui_katana_task_958e0872:
 
     # mc "Do you think you can get me a wooden katana?"
-    mc "Do you think you can get me a wooden katana?"
+    mc "Ти б змогла мені дістати дерев'яну катану?"
 
 # game/game/yui_events.rpy:1835
 translate ukrainian yui_katana_task_71a86863_1:
@@ -5421,85 +5421,85 @@ translate ukrainian yui_katana_task_71a86863_1:
 translate ukrainian yui_katana_task_8be7a0b3:
 
     # mc "Did you say something?"
-    mc "Did you say something?"
+    mc "Ти щось казала?"
 
 # game/game/yui_events.rpy:1838
 translate ukrainian yui_katana_task_7368b611:
 
     # y "No no."
-    y "No no."
+    y "Ні, ні."
 
 # game/game/yui_events.rpy:1839
 translate ukrainian yui_katana_task_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/yui_events.rpy:1841
 translate ukrainian yui_katana_task_ba31a46c:
 
     # y "Why do you need a wooden katana?"
-    y "Why do you need a wooden katana?"
+    y "Навіщо тобі дерев'яна катана?"
 
 # game/game/yui_events.rpy:1842
 translate ukrainian yui_katana_task_eaa24d5f:
 
     # y "Wait..."
-    y "Wait..."
+    y "Зажди..."
 
 # game/game/yui_events.rpy:1844
 translate ukrainian yui_katana_task_1a75b8b3:
 
     # y "You're going to train?!"
-    y "You're going to train?!"
+    y "Ти збираєшся тренуватися?!"
 
 # game/game/yui_events.rpy:1845
 translate ukrainian yui_katana_task_88fb3790:
 
     # mc "I-I'll train someone..."
-    mc "I-I'll train someone..."
+    mc "Я-Я планую тренувати декого..."
 
 # game/game/yui_events.rpy:1847
 translate ukrainian yui_katana_task_2f925aaa:
 
     # y "Who?"
-    y "Who?"
+    y "Кого?"
 
 # game/game/yui_events.rpy:1848
 translate ukrainian yui_katana_task_a30fc994:
 
     # mc "Believe it or not, it's Ryoko."
-    mc "Believe it or not, it's Ryoko."
+    mc "Віриш ти чи ні, але це Рьоко."
 
 # game/game/yui_events.rpy:1850
 translate ukrainian yui_katana_task_8e41b439:
 
     # y "Ryoko??"
-    y "Ryoko??"
+    y "Рьоко??"
 
 # game/game/yui_events.rpy:1852
 translate ukrainian yui_katana_task_f800bed0_1:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/yui_events.rpy:1853
 translate ukrainian yui_katana_task_d0efaa31:
 
     # mc "Since the last fight I had against that orc."
-    mc "Since the last fight I had against that orc."
+    mc "З моменту моєї останньої битиви з тим орком."
 
 # game/game/yui_events.rpy:1854
 translate ukrainian yui_katana_task_733f3932:
 
     # mc "Apparently she has been training on her own to become stronger."
-    mc "Apparently she has been training on her own to become stronger."
+    mc "Судячи з усього, вона тренувалася самостійно, щоб стати сильнішою."
 
 # game/game/yui_events.rpy:1856
 translate ukrainian yui_katana_task_113e1e4a:
 
     # y "She's always trying harder than she should...."
-    y "She's always trying harder than she should...."
+    y "Вона завжди докладає більше зусиль, ніж слід..."
 
 # game/game/yui_events.rpy:1857
 translate ukrainian yui_katana_task_71a86863_2:
@@ -5511,205 +5511,205 @@ translate ukrainian yui_katana_task_71a86863_2:
 translate ukrainian yui_katana_task_377689d9:
 
     # y "Who did she learn that from."
-    y "Who did she learn that from."
+    y "Цікаво, від кого це в неї."
 
 # game/game/yui_events.rpy:1860
 translate ukrainian yui_katana_task_c21622d2:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "{i}*Кхем*{/i}"
 
 # game/game/yui_events.rpy:1861
 translate ukrainian yui_katana_task_2dd41899:
 
     # mc "Do you think you can lend me one?"
-    mc "Do you think you can lend me one?"
+    mc "Тож ти зможеш мені позичити одну?"
 
 # game/game/yui_events.rpy:1863
 translate ukrainian yui_katana_task_5c53d1aa:
 
     # y "Mmm..."
-    y "Mmm..."
+    y "Ммм..."
 
 # game/game/yui_events.rpy:1865
 translate ukrainian yui_katana_task_0c35ebde:
 
     # y "Why don't you make a personalized one?"
-    y "Why don't you make a personalized one?"
+    y "Чому б тобі не зробити індивідуальну?"
 
 # game/game/yui_events.rpy:1866
 translate ukrainian yui_katana_task_a4d1dd0c:
 
     # y "A weapon made just for her will suit her much better."
-    y "A weapon made just for her will suit her much better."
+    y "Зброя, створена суто для неї, пасуватиме значно краще."
 
 # game/game/yui_events.rpy:1867
 translate ukrainian yui_katana_task_91905ede:
 
     # mc "How?"
-    mc "How?"
+    mc "І як мені це зробити?"
 
 # game/game/yui_events.rpy:1869
 translate ukrainian yui_katana_task_a6df6ca8:
 
     # y "If you gather the necessary materials, Mayu can design it especially for you."
-    y "If you gather the necessary materials, Mayu can design it especially for you."
+    y "Якщо підготуєш необхідні матеріали, Маю змайструє її з урахуванням усіх побажань."
 
 # game/game/yui_events.rpy:1870
 translate ukrainian yui_katana_task_dcd7e782:
 
     # mc "She can also make weapons?"
-    mc "She can also make weapons?"
+    mc "То вона вміє і зброю робити?"
 
 # game/game/yui_events.rpy:1872
 translate ukrainian yui_katana_task_ac42e134:
 
     # y "You'd be amazed at all the things this girl can do."
-    y "You'd be amazed at all the things this girl can do."
+    y "Ти б здивувався, скільки всього вміє ця дівчина."
 
 # game/game/yui_events.rpy:1874
 translate ukrainian yui_katana_task_3ec66a97:
 
     # t "Don't take that to mean anything else [mc]."
-    t "Don't take that to mean anything else [mc]."
+    t "Не смій шукати тут інший сенс, [mc]."
 
 # game/game/yui_events.rpy:1876
 translate ukrainian yui_katana_task_b924df2f:
 
     # y "And even if I did lend you one, {w}I can't imagine Ryoko carrying this."
-    y "And even if I did lend you one, {w}I can't imagine Ryoko carrying this."
+    y "І навіть якби я тобі позичила одну, {w}важко уявити, як Рьоко тримала б таку."
 
 # game/game/yui_events.rpy:1877
 translate ukrainian yui_katana_task_e84bbc16:
 
     # mc "I hadn't thought about that..."
-    mc "I hadn't thought about that..."
+    mc "Про це я не подумав..."
 
 # game/game/yui_events.rpy:1879
 translate ukrainian yui_katana_task_cd3932cb:
 
     # y "Obviously, {w}when you can throw someone through the air or kill orcs, you won't notice those details."
-    y "Obviously, {w}when you can throw someone through the air or kill orcs, you won't notice those details."
+    y "Звісно, {w}коли можеш жбурнути когось або вбивати орків, ти перестаєш помічати такі моменти."
 
 # game/game/yui_events.rpy:1880
 translate ukrainian yui_katana_task_1850e49c:
 
     # mc "Ha ha ha..."
-    mc "Ha ha ha..."
+    mc "Ха-ха-ха..."
 
 # game/game/yui_events.rpy:1881
 translate ukrainian yui_katana_task_d174de23:
 
     # mc "Perfect, then I'll go talk to her."
-    mc "Perfect, then I'll go talk to her."
+    mc "Чудово, тоді я піду поговорю з Маю."
 
 # game/game/yui_events.rpy:1883
 translate ukrainian yui_katana_task_aabf6153:
 
     # y "You'll need a training doll as well."
-    y "You'll need a training doll as well."
+    y "Тобі також знадобиться тренувальна лялька."
 
 # game/game/yui_events.rpy:1884
 translate ukrainian yui_katana_task_8a655ec7:
 
     # mc "Do you think so?"
-    mc "Do you think so?"
+    mc "Гадаєш?"
 
 # game/game/yui_events.rpy:1886
 translate ukrainian yui_katana_task_0c8f120d:
 
     # y "You already have in your memory the feeling of hitting something."
-    y "You already have in your memory the feeling of hitting something."
+    y "Ти вже знаєш як це, коли б'єш по чомусь."
 
 # game/game/yui_events.rpy:1888
 translate ukrainian yui_katana_task_ff12dfa2:
 
     # y "But Ryoko has never picked up a weapon."
-    y "But Ryoko has never picked up a weapon."
+    y "Але Рьоко ще ніколи не тримала зброї."
 
 # game/game/yui_events.rpy:1889
 translate ukrainian yui_katana_task_612543e9:
 
     # mc "Y-You are right..."
-    mc "Y-You are right..."
+    mc "Т-Твоя правда..."
 
 # game/game/yui_events.rpy:1890
 translate ukrainian yui_katana_task_c73e7333:
 
     # t "You can tell that Yui has experience training people."
-    t "You can tell that Yui has experience training people."
+    t "Одразу помітно, що Юї має значний досвід у тренуванні людей."
 
 # game/game/yui_events.rpy:1892
 translate ukrainian yui_katana_task_5bf06f5b:
 
     # y "When you get the katana, stop by my house and I'll have it ready for you."
-    y "When you get the katana, stop by my house and I'll have it ready for you."
+    y "Коли отримаєш катану, заскочи до мене і я тобі підготую лялку."
 
 # game/game/yui_events.rpy:1894
 translate ukrainian yui_katana_task_7ae90a75:
 
     # mc "Are you sure? Wouldn't it be better to leave it for the girls you train?"
-    mc "Are you sure? Wouldn't it be better to leave it for the girls you train?"
+    mc "Упевнена? Хіба не краще залишити її, щоб дівчата тренувалися?"
 
 # game/game/yui_events.rpy:1896
 translate ukrainian yui_katana_task_0518c112:
 
     # y "Don't worry, I have plenty."
-    y "Don't worry, I have plenty."
+    y "Не переймайся, у мене їх достатньо."
 
 # game/game/yui_events.rpy:1898
 translate ukrainian yui_katana_task_9fd06a4f:
 
     # mc "Then, thank you Yui."
-    mc "Then, thank you Yui."
+    mc "Тоді дякую тобі, Юї."
 
 # game/game/yui_events.rpy:1899
 translate ukrainian yui_katana_task_b417dc67:
 
     # mc "When you need help again, count on me."
-    mc "When you need help again, count on me."
+    mc "Розраховуй на мене, коли знову знадобиться допомога."
 
 # game/game/yui_events.rpy:1901
 translate ukrainian yui_katana_task_0736e29a:
 
     # y "You're always on my mind."
-    y "You're always on my mind."
+    y "Я ніколи про тебе не забуваю."
 
 # game/game/yui_events.rpy:1903
 translate ukrainian yui_katana_task_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Ох..."
 
 # game/game/yui_events.rpy:1905
 translate ukrainian yui_katana_task_fae79a03:
 
     # y "I mean!"
-    y "I mean!"
+    y "Тобто!"
 
 # game/game/yui_events.rpy:1907
 translate ukrainian yui_katana_task_f88ddc5b:
 
     # y "I always think of you!"
-    y "I always think of you!"
+    y "Я завжди про тебе думаю!"
 
 # game/game/yui_events.rpy:1908
 translate ukrainian yui_katana_task_13852fe0:
 
     # mc "Hmm"
-    mc "Hmm"
+    mc "Гмм."
 
 # game/game/yui_events.rpy:1910
 translate ukrainian yui_katana_task_5e862ada:
 
     # y "I-"
-    y "I-"
+    y "Я-"
 
 # game/game/yui_events.rpy:1912
 translate ukrainian yui_katana_task_f6fcd9fc:
 
     # y "{size=-10}Count on you..."
-    y "{size=-10}Count on you..."
+    y "{size=-10}Розраховую на тебе..."
 
 # game/game/yui_events.rpy:1913
 translate ukrainian yui_katana_task_2b35b6fe:
@@ -5721,31 +5721,31 @@ translate ukrainian yui_katana_task_2b35b6fe:
 translate ukrainian headpat_yui_f7288668:
 
     # mc "May I have your permission to headpat?"
-    mc "May I have your permission to headpat?"
+    mc "Чи не заперечуватимеш, якщо я тебе погладжу?"
 
 # game/game/yui_events.rpy:1926
 translate ukrainian headpat_yui_ac17dec1:
 
     # y "What?"
-    y "What?"
+    y "Що?"
 
 # game/game/yui_events.rpy:1928
 translate ukrainian headpat_yui_05adac9a:
 
     # y "You-"
-    y "You-"
+    y "Ти-"
 
 # game/game/yui_events.rpy:1930
 translate ukrainian headpat_yui_2e7e9bf2:
 
     # mc "See you soon."
-    mc "See you soon."
+    mc "Побачимося."
 
 # game/game/yui_events.rpy:1932
 translate ukrainian headpat_yui_1392cabd:
 
     # y "{size=-10}But you didn't wait for me to respond..."
-    y "{size=-10}But you didn't wait for me to respond..."
+    y "{size=-10}Ти навіть не зачекав на мою відповідь..."
 
 # game/game/yui_events.rpy:1934
 translate ukrainian headpat_yui_71a86863:
@@ -5757,13 +5757,13 @@ translate ukrainian headpat_yui_71a86863:
 translate ukrainian headpat_yui_5b378632:
 
     # y "{size=-10}B-Bye..."
-    y "{size=-10}B-Bye..."
+    y "{size=-10}Б-Бувай..."
 
 # game/game/yui_events.rpy:1945
 translate ukrainian headpat_yui_ae4abd1e:
 
     # t "Then Mayu can help me."
-    t "Then Mayu can help me."
+    t "Отже, мені зможе допомогти Маю."
 
 # game/game/yui_events.rpy:1957
 translate ukrainian training_doll_91a3c643:
@@ -24233,7 +24233,7 @@ translate ukrainian strings:
 
     # game/yui_events.rpy:1179
     old "Training katana {image=/bg/icons/quest_text.png}"
-    new "Training katana {image=/bg/icons/quest_text.png}"
+    new "Тренувальна катана {image=/bg/icons/quest_text.png}"
 
     # game/yui_events.rpy:1179
     old "Training doll {image=/bg/icons/quest_text.png}"
@@ -24241,11 +24241,11 @@ translate ukrainian strings:
 
     # game/yui_events.rpy:1914
     old "Give her Headpats"
-    new "Give her Headpats"
+    new "Погладити як слід"
 
     # game/yui_events.rpy:1914
     old "Definitely give her headpats"
-    new "Definitely give her headpats"
+    new "Неодмінно погладити!"
 
     # game/yui_events.rpy:2356
     old "Sitting down for a chat{image=/bg/icons/tenshi_text.png}"
