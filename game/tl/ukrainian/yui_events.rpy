@@ -10449,25 +10449,25 @@ translate ukrainian yui_bandisttalk_2a8c4977:
 translate ukrainian sol_eventuno_722e9f16:
 
     # so "Looks like Miss Yui has something different in mind for today."
-    so "Looks like Miss Yui has something different in mind for today."
+    so "Видно, у пані Юї на сьогодні якісь інші плани."
 
 # game/game/yui_events.rpy:3284
 translate ukrainian sol_eventuno_fef32089:
 
     # so "I think it means that we'll train more..."
-    so "I think it means that we'll train more..."
+    so "Гадаю, це означає, що ми будемо більше тренуватися..."
 
 # game/game/yui_events.rpy:3285
 translate ukrainian sol_eventuno_95ddecd7:
 
     # so "I don't care as long as [mc] is here."
-    so "I don't care as long as [mc] is here."
+    so "Байдуже, допоки [mc] буде тут."
 
 # game/game/yui_events.rpy:3287
 translate ukrainian sol_eventuno_94f9a9d1:
 
     # mc "Hey, ready to train?"
-    mc "Hey, ready to train?"
+    mc "Привіт, готові до тренувань?"
 
 # game/game/yui_events.rpy:3288
 translate ukrainian sol_eventuno_ca59035c:
@@ -10479,91 +10479,91 @@ translate ukrainian sol_eventuno_ca59035c:
 translate ukrainian sol_eventuno_d69fa79d:
 
     # so "Thank you for your work!"
-    so "Thank you for your work!"
+    so "Дякуємо за працю!"
 
 # game/game/yui_events.rpy:3291
 translate ukrainian sol_eventuno_0411cbce:
 
     # mc "Oh, you guys are motivated."
-    mc "Oh, you guys are motivated."
+    mc "О, ви, дівчата, такі вмотивовані."
 
 # game/game/yui_events.rpy:3293
 translate ukrainian sol_eventuno_8f8e1425:
 
     # so "We look forward to your training today as well!"
-    so "We look forward to your training today as well!"
+    so "Ми з нетерпінням чекаємо на сьогоднішнє тренування з тобою!"
 
 # game/game/yui_events.rpy:3294
 translate ukrainian sol_eventuno_1abecabc:
 
     # mc "Hahaha, I like your attitude."
-    mc "Hahaha, I like your attitude."
+    mc "Хахаха, мені подобається ваш запал."
 
 # game/game/yui_events.rpy:3296
 translate ukrainian sol_eventuno_c7be75c6:
 
     # so "Yes!"
-    so "Yes!"
+    so "Так!"
 
 # game/game/yui_events.rpy:3298
 translate ukrainian sol_eventuno_24b6951d:
 
     # y "You already have them so motivated."
-    y "You already have them so motivated."
+    y "А ти вже добряче підняв їхній бойовий дух."
 
 # game/game/yui_events.rpy:3300
 translate ukrainian sol_eventuno_e69da5b5:
 
     # mc "It looks like they're ready to train."
-    mc "It looks like they're ready to train."
+    mc "Видно, вони готові до тренувань."
 
 # game/game/yui_events.rpy:3302
 translate ukrainian sol_eventuno_c6814496:
 
     # y "I can see that, {w}it'll be perfect for what we'll do today."
-    y "I can see that, {w}it'll be perfect for what we'll do today."
+    y "Я бачу, {w}для наших сьогоднішніх планів це просто ідеально."
 
 # game/game/yui_events.rpy:3303
 translate ukrainian sol_eventuno_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/yui_events.rpy:3305
 translate ukrainian sol_eventuno_bfc22fb1:
 
     # y "As you're already familiar with how we work, {w}today I'll entrust one of them to you for training under your supervision."
-    y "As you're already familiar with how we work, {w}today I'll entrust one of them to you for training under your supervision."
+    y "Оскільки ти вже знайомий з тим, яи ми працюємо, {w}сьогодні я доручу тобі одну з них для треннування під твоїм наглядом."
 
 # game/game/yui_events.rpy:3306
 translate ukrainian sol_eventuno_d95e7891:
 
     # mc "But isn't that what we always do?"
-    mc "But isn't that what we always do?"
+    mc "Але хіба ми так не робили минулого разу?"
 
 # game/game/yui_events.rpy:3308
 translate ukrainian sol_eventuno_069a7ca2:
 
     # y "No, {w}you'll concentrate on only one of them for today and not on all three."
-    y "No, {w}you'll concentrate on only one of them for today and not on all three."
+    y "Ні, {w}ти сконцентруєшся лише на одній сьогодні, а не одразу на всіх трьох."
 
 # game/game/yui_events.rpy:3310
 translate ukrainian sol_eventuno_6374b1f5:
 
     # y "Since I want them to be trained in a real environment, you'll go to the forest with one of them."
-    y "Since I want them to be trained in a real environment, you'll go to the forest with one of them."
+    y "І оскільки я хочу, щоб вони тренувалися в реальних умовах, ти підеш до лісу з одною із них."
 
 # game/game/yui_events.rpy:3311
 translate ukrainian sol_eventuno_83bbbf32:
 
     # so "{size=-10}Whispers* whispers*~~"
-    so "{size=-10}Whispers* whispers*~~"
+    so "{size=-10}{i}*Шу-шу* *шу-шу*~~{/i}"
 
 # game/game/yui_events.rpy:3312
 translate ukrainian sol_eventuno_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Ох..."
 
 # game/game/yui_events.rpy:3314
 translate ukrainian sol_eventuno_4ff80f3c:
