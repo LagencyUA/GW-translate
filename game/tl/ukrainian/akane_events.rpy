@@ -5145,7 +5145,7 @@ translate ukrainian akane_footsrep_1d82a7e7:
 translate ukrainian akane_footsrep_3a8fc64e:
 
     # ak "So, {w}finish quickly{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}, I don't have all day...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ak "Тож, {w}кінчай вже{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}, я не сидітиму тут до завтра...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ak "Тож {w}кінчай вже{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}, я не сидітиму тут до завтра...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/akane_events.rpy:1679
 translate ukrainian akane_footsrep_e5cdda0e:

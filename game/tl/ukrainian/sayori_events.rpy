@@ -13541,9 +13541,6 @@ translate ukrainian strings:
     old "With honor until the end."
     new "With honor until the end."
 
-    old "After some time."
-    new "After some time."
-
     old "{image=quest_text}Mission failed!"
     new "{image=quest_text}Mission failed!"
 

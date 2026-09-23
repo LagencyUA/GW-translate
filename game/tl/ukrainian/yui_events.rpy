@@ -10569,13 +10569,13 @@ translate ukrainian sol_eventuno_c1dff962:
 translate ukrainian sol_eventuno_4ff80f3c:
 
     # y "I know that nothing will happen to her while she's in your care."
-    y "I know that nothing will happen to her while she's in your care."
+    y "Упевнена, що у твоїх руках з нею нічого не трапиться."
 
 # game/game/yui_events.rpy:3316
 translate ukrainian sol_eventuno_90f5025d:
 
     # y "But now, {w}do you feel ready?"
-    y "But now, {w}do you feel ready?"
+    y "Ну що ж, {w}ти готовий?"
 
 # game/game/yui_events.rpy:3317
 translate ukrainian sol_eventuno_2b35b6fe:
@@ -10587,19 +10587,19 @@ translate ukrainian sol_eventuno_2b35b6fe:
 translate ukrainian sol_eventuno_06eb03ff:
 
     # mc "I'll do my best."
-    mc "I'll do my best."
+    mc "Докладу всіх зусиль."
 
 # game/game/yui_events.rpy:3320
 translate ukrainian sol_eventuno_83bbbf32_1:
 
     # so "{size=-10}Whispers* whispers*~~"
-    so "{size=-10}Whispers* whispers*~~"
+    so "{size=-10}{i}*Шу-шу* *шу-шу*~~{/i}"
 
 # game/game/yui_events.rpy:3322
 translate ukrainian sol_eventuno_b3aa4e8c:
 
     # y "Perfect! {w}The first one to do 70 push-ups."
-    y "Perfect! {w}The first one to do 70 push-ups."
+    y "Чудово! {w}Перша, хто зробить 70 віджимань."
 
 # game/game/yui_events.rpy:3323
 translate ukrainian sol_eventuno_62ecf5f1:
@@ -10611,229 +10611,229 @@ translate ukrainian sol_eventuno_62ecf5f1:
 translate ukrainian sol_eventuno_10f1d7ed:
 
     # so "AAAAHHH!!"
-    so "AAAAHHH!!"
+    so "ААААХХХ!!"
 
 # game/game/yui_events.rpy:3326
 translate ukrainian sol_eventuno_17ab8f04:
 
     # t "Yui knows what she's doing..."
-    t "Yui knows what she's doing..."
+    t "Юї знає, що робить..."
 
 # game/game/yui_events.rpy:3332
 translate ukrainian sol_eventuno_017c8d62:
 
     # so "Finished!"
-    so "Finished!"
+    so "Готово!"
 
 # game/game/yui_events.rpy:3333
 translate ukrainian sol_eventuno_7112b20b:
 
     # so "{size=-10}NooOooOo..."
-    so "{size=-10}NooOooOo..."
+    so "{size=-10}НііІііІі..."
 
 # game/game/yui_events.rpy:3334
 translate ukrainian sol_eventuno_cd82603e:
 
     # so "{size=-10}I-I can't do it anymore..."
-    so "{size=-10}I-I can't do it anymore..."
+    so "{size=-10}Я-Я більше не можу..."
 
 # game/game/yui_events.rpy:3335
 translate ukrainian sol_eventuno_ea68fb5e:
 
     # y "Good job, {w}then you'll be the one to go first."
-    y "Good job, {w}then you'll be the one to go first."
+    y "Молодець, {w}тоді ти підеш першою."
 
 # game/game/yui_events.rpy:3337
 translate ukrainian sol_eventuno_711e8c7e:
 
     # y "Well, I'll take care of those two today."
-    y "Well, I'll take care of those two today."
+    y "Ну, а я сьогодні подбаю про цих двох."
 
 # game/game/yui_events.rpy:3338
 translate ukrainian sol_eventuno_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "Гаразд."
 
 # game/game/yui_events.rpy:3340
 translate ukrainian sol_eventuno_a284ea60:
 
     # y "Good luck, {w}and if you want to raise her motivation, maybe a reward would be good."
-    y "Good luck, {w}and if you want to raise her motivation, maybe a reward would be good."
+    y "Щасти! {w}І, можливо, варто подумати про нагороду, якщо хочеш краще мотивувати її."
 
 # game/game/yui_events.rpy:3342
 translate ukrainian sol_eventuno_c00e9c99:
 
     # y "I don't know, buy her a juice or something."
-    y "I don't know, buy her a juice or something."
+    y "Наприклад, купи їй там сік чи щось таке."
 
 # game/game/yui_events.rpy:3343
 translate ukrainian sol_eventuno_71e7c98b:
 
     # t "This girl... {w}she has been watching me closely for a while now..."
-    t "This girl... {w}she has been watching me closely for a while now..."
+    t "Ця дівчина... {w}вона вже певний час так пильно дивиться на мене..."
 
 # game/game/yui_events.rpy:3344
 translate ukrainian sol_eventuno_2051d66a:
 
     # mc "Understood."
-    mc "Understood."
+    mc "Зрозумів."
 
 # game/game/yui_events.rpy:3349
 translate ukrainian sol_eventuno_5c8322da:
 
     # mc "So, {w}let's gear up and head out."
-    mc "So, {w}let's gear up and head out."
+    mc "Тож {w}збираймося і рушаємо."
 
 # game/game/yui_events.rpy:3350
 translate ukrainian sol_eventuno_0796d93d:
 
     # so "Yeees~"
-    so "Yeees~"
+    so "Тааак~"
 
 # game/game/yui_events.rpy:3355
 translate ukrainian sol_eventuno_ed44a621:
 
     # mc "I've already seen you train, {w}you're one of the strongest of the three."
-    mc "I've already seen you train, {w}you're one of the strongest of the three."
+    mc "Я вже бачив, як ти тренуєшся. {w}Ти найсильніша з вашої трійці."
 
 # game/game/yui_events.rpy:3357
 translate ukrainian sol_eventuno_aaa625e9:
 
     # mc "So polishing that further will be beneficial to you."
-    mc "So polishing that further will be beneficial to you."
+    mc "Тому тобі буде корисно доопрацювати це ще трохи."
 
 # game/game/yui_events.rpy:3358
 translate ukrainian sol_eventuno_18a72fe4:
 
     # mc "After that we'll do sword tra-"
-    mc "After that we'll do sword tra-"
+    mc "А потім ми потренуємося на меч-"
 
 # game/game/yui_events.rpy:3360
 translate ukrainian sol_eventuno_6f7fd072:
 
     # so "Is it true that you'll reward me if I do everything you ask?"
-    so "Is it true that you'll reward me if I do everything you ask?"
+    so "То це правда, що ти мене винагородиш, якщо я виконаю всі твої вказівки?"
 
 # game/game/yui_events.rpy:3361
 translate ukrainian sol_eventuno_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/yui_events.rpy:3363
 translate ukrainian sol_eventuno_7c9774a6:
 
     # mc "Uhm yeah, {w}sure, that's what Yui said."
-    mc "Uhm yeah, {w}sure, that's what Yui said."
+    mc "Ем, так, {w}звичайно, саме це і казала Юї."
 
 # game/game/yui_events.rpy:3365
 translate ukrainian sol_eventuno_d8e84443:
 
     # so "Then let's get started right away!"
-    so "Then let's get started right away!"
+    so "Тоді нумо почнемо прямо зараз!"
 
 # game/game/yui_events.rpy:3366
 translate ukrainian sol_eventuno_7a54e851:
 
     # t "Oh, I thought she wouldn't pay much attention to me if Yui wasn't present."
-    t "Oh, I thought she wouldn't pay much attention to me if Yui wasn't present."
+    t "Ох, я гадав, що вона втратить усю увагу, якщо поруч не буде Юї."
 
 # game/game/yui_events.rpy:3368
 translate ukrainian sol_eventuno_20143544:
 
     # mc "Sounds good to me, let's go."
-    mc "Sounds good to me, let's go."
+    mc "Я тільки за, почнімо."
 
 # game/game/yui_events.rpy:3369
 translate ukrainian sol_eventuno_0796d93d_1:
 
     # so "Yeees~"
-    so "Yeees~"
+    so "Тааак~"
 
 # game/game/yui_events.rpy:3375
 translate ukrainian sol_eventuno_732864b2:
 
     # t "She did everything I asked."
-    t "She did everything I asked."
+    t "Вона зробила все, що я просив."
 
 # game/game/yui_events.rpy:3376
 translate ukrainian sol_eventuno_0e39cfbb:
 
     # t "She didn't seem very focused, but at least she always listened to me."
-    t "She didn't seem very focused, but at least she always listened to me."
+    t "Важко сказати, що вона була дуже зосередженою, але принаймі завжди мене слухала."
 
 # game/game/yui_events.rpy:3379
 translate ukrainian sol_eventuno_c17e5b18:
 
     # t "She never complained, and her performance was excellent."
-    t "She never complained, and her performance was excellent."
+    t "Вона ніколи не скаржилася, а її виконання було відмінним."
 
 # game/game/yui_events.rpy:3380
 translate ukrainian sol_eventuno_6b16d4a2:
 
     # t "The only bad thing was..."
-    t "The only bad thing was..."
+    t "Єдиною проблемою було..."
 
 # game/game/yui_events.rpy:3383
 translate ukrainian sol_eventuno_3753fd8f:
 
     # t "That I was more distracted than she was..."
-    t "That I was more distracted than she was..."
+    t "Те, що я відволікався більше, ніж вона..."
 
 # game/game/yui_events.rpy:3385
 translate ukrainian sol_eventuno_3502953e:
 
     # mc "Ok, I think that's good for today."
-    mc "Ok, I think that's good for today."
+    mc "Гаразд, гадаю, на сьогодні досить."
 
 # game/game/yui_events.rpy:3386
 translate ukrainian sol_eventuno_db8d995d:
 
     # so "Okaay~"
-    so "Okaay~"
+    so "Доообре~"
 
 # game/game/yui_events.rpy:3387
 translate ukrainian sol_eventuno_5dc10ea3:
 
     # so "But I feel very tired, can we sit down for a while?"
-    so "But I feel very tired, can we sit down for a while?"
+    so "Але я дуже втомилася. Ми можемо трохи посидіти?"
 
 # game/game/yui_events.rpy:3388
 translate ukrainian sol_eventuno_320ba7c0:
 
     # mc "Mmm... {w}ok."
-    mc "Mmm... {w}ok."
+    mc "Гмм... {w}авжеж."
 
 # game/game/yui_events.rpy:3390
 translate ukrainian sol_eventuno_d10cb6e4:
 
     # t "I hadn't thought about her tiredness, I'm sure Yui would have noticed it right away."
-    t "I hadn't thought about her tiredness, I'm sure Yui would have noticed it right away."
+    t "Я навіть не замислювався про те, що вона могла втомитися. Упевнений, Юї б це одразу помітила."
 
 # game/game/yui_events.rpy:3392
 translate ukrainian sol_eventuno_b62fd158:
 
     # t "What Yui is doing is right, getting their senses used to training in this type of environment will prepare them for future situations."
-    t "What Yui is doing is right, getting their senses used to training in this type of environment will prepare them for future situations."
+    t "Юї правильно робить: привчати тренуватися у таких умовах підготує їх до майбутніх можливих ситуацій."
 
 # game/game/yui_events.rpy:3393
 translate ukrainian sol_eventuno_7d96f4a6:
 
     # t "I still have a lot to learn."
-    t "I still have a lot to learn."
+    t "Мені ще багато чого треба навчитися."
 
 # game/game/yui_events.rpy:3395
 translate ukrainian sol_eventuno_896fda8c:
 
     # so "You're quite serious."
-    so "You're quite serious."
+    so "Ти такий серйозний."
 
 # game/game/yui_events.rpy:3396
 translate ukrainian sol_eventuno_03fb3e88_2:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/yui_events.rpy:3397
 translate ukrainian sol_eventuno_13b87265:
@@ -24356,6 +24356,12 @@ translate ukrainian strings:
     old "A moment later..."
     new "Через мить..."
 
+    old "After some time."
+    new "Через деякий час."
+
+    old "You train the girl for several hours."
+    new "Ти кілька годин тренуєш дівчину."
+
     old "{i}I want to see them again..."
     new "{i}I want to see them again..."
 
@@ -24379,9 +24385,6 @@ translate ukrainian strings:
 
     old "{image=quest_text}You've obtained the training lucky bastard!"
     new "{image=quest_text}You've obtained the training lucky bastard!"
-
-    old "You train the girl for several hours."
-    new "You train the girl for several hours."
 
     old "You take Yui home."
     new "You take Yui home."
