@@ -1,34 +1,6 @@
-# Ігноруємо абсолютно все у грі за замовчуванням
-*
-
-# Але примусово дозволяємо Git бачити цей файл конфігурації
-!.gitignore
-
-# Дозволяємо відстежувати ТІЛЬКИ твою папку перекладу та шрифтів
-!game/
-game/*
-!game/tl/
-game/tl/*
-!game/tl/ukrainian/
-!game/tl/ukrainian/**
-
-# Якщо шрифти лежать в іншій папці, наприклад game/fonts/ukr/
-!game/fonts/
-game/fonts/*
-!game/fonts/ukr/
-!game/fonts/ukr/**
-
 # Ігноруємо автозгенеровані скомпільовані файли Ren'Py, які не потрібні в репозиторії
 *.rpyc
-
-# Додаємо іконки
-!icons/
-!icons/**
+*.rpa
 
 # Ignore vscode settings
 **/.vscode/**
-
-!README.md
-!LISENSE
-!.github/
-!.github/**
