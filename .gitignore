@@ -4,3 +4,9 @@
 
 # Ignore vscode settings
 **/.vscode/**
+
+# Ігноруємо файли утиліт, які не потрібні в репозиторії
+**/pyproject.toml
+**/src/**
+**/translate_logs/**
+**/translate_settings/**
