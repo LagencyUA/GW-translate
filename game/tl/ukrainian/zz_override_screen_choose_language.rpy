@@ -6,7 +6,7 @@ init 15 screen choose_language():
     modal True
     
     # Додаємо українську мову в тайтл.
-    text "Choose your language / Elije tu idioma / {font=fonts/Arial.ttf}Оберіть мову{/font}" font "fonts/Ebrima.ttf" color "#FFE8C9" outlines [((absolute(2), "#091519", absolute(0), absolute(0)))] align (.5, .3) text_align .5
+    text "Choose your language / Elije tu idioma / {font=tl/ukrainian/fonts/Arial.ttf}Оберіть мову{/font}" font "fonts/Ebrima.ttf" color "#FFE8C9" outlines [((absolute(2), "#091519", absolute(0), absolute(0)))] align (.5, .3) text_align .5
     
     hbox:
         align (.5, .5)
