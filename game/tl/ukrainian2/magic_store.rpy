@@ -1282,285 +1282,33 @@ translate ukrainian2 strings:
     old "old:1790154871.302448_25"
     new "new:1790154871.302448_25"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Monster Bait"
     new "Monster Bait"
-
-
-
-
 
     old "You cannot have more than %d of this item."
     new "You cannot have more than %d of this item."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "You already have the maximum amount of HP Potions!"
     new "You already have the maximum amount of HP Potions!"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Magic Clothes"
     new "Magic Clothes"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "{size=+70}Magic Store"
     new "{size=+70}Magic Store"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "You already have the maximum amount of Monster Bait!"
     new "You already have the maximum amount of Monster Bait!"
 
-
-
-
-
-
-
-
-
-
-
     old "You already have too much of this copy!"
     new "You already have too much of this copy!"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Not enough money."
     new "Not enough money."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Magic Rings"
     new "Magic Rings"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Healing potion"
     new "Healing potion"
-
-
-
-
-
-
-
-
 

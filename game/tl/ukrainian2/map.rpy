@@ -80,9 +80,3 @@ translate ukrainian2 strings:
     old "old:1790154871.3439941_26"
     new "new:1790154871.3439941_26"
 
-
-
-
-
-
-

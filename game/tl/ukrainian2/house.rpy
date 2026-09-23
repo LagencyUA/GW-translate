@@ -248,54 +248,12 @@ translate ukrainian2 strings:
     old "old:1790154870.7232442_18"
     new "new:1790154870.7232442_18"
 
-
-
-
-
-
-
-
-
-
-
-
-
     old "E-Eh? What are you collecting?"
     new "E-Eh? What are you collecting?"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "D-Did you just..."
     new "D-Did you just..."
 
-
-
-
-
     old "Uh... what are you going to do with that...?"
     new "Uh... what are you going to do with that...?"
-
-
-
-
 

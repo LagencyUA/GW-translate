@@ -74,8 +74,6 @@ translate ukrainian2 strings:
     old "You are about to play the Halloween event again."
     new "You are about to play the Halloween event again."
 
-
-
     old "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
     new "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
 
@@ -90,8 +88,6 @@ translate ukrainian2 strings:
 
     old "Since it is based on an advanced part of the story, the girls may have more confidence with you.\nThere may be spoilers in their interactions."
     new "Since it is based on an advanced part of the story, the girls may have more confidence with you.\nThere may be spoilers in their interactions."
-
-
 
     old "You need {color=#FFFFFF}550{/color} gold to continue with the event."
     new "You need {color=#FFFFFF}550{/color} gold to continue with the event."

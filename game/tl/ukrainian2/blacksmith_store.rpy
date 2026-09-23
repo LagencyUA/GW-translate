@@ -1028,182 +1028,26 @@ translate ukrainian2 strings:
     old "old:1790154869.5110383_7"
     new "new:1790154869.5110383_7"
 
-
-
-
-
-
-
-
-
-
-
-
-
     old "Ryokos Katana"
     new "Ryokos Katana"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "fonts/Bohemian Soul.otf"
     new "fonts/Bohemian Soul.otf"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "You cannot have more than 5 of this item."
     new "You cannot have more than 5 of this item."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "{size=-13}Inventory"
     new "{size=-13}Inventory"
 
-
-
-
-
-
-
-
-
-
-
-
-
     old "Not enough gold."
     new "Not enough gold."
-
-
 
     old "You already have this item!"
     new "You already have this item!"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "{size=+50}Blacksmith"
     new "{size=+50}Blacksmith"
-
-
-
-
-
-
-
-
 
     old "+100 gold, +15 Reputation"
     new "+100 gold, +15 Reputation"
@@ -1211,105 +1055,21 @@ translate ukrainian2 strings:
     old "You bought 1 {item_name}!"
     new "You bought 1 {item_name}!"
 
-
-
-
-
-
-
-
-
     old "Not enough gold to buy this item."
     new "Not enough gold to buy this item."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "fonts/Sacred Bridge Demo.ttf"
     new "fonts/Sacred Bridge Demo.ttf"
 
-
-
-
-
     old "{size=-4}Your defense has increased!"
     new "{size=-4}Your defense has increased!"
-
-
-
-
-
-
-
-
-
-
 
     old "Shoulder Armor"
     new "Shoulder Armor"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "{size=-6}Now you have a higher chance to get more loot!"
     new "{size=-6}Now you have a higher chance to get more loot!"
 
-
-
-
-
     old "Adventurer's mission completed."
     new "Adventurer's mission completed."
-
-
-
-
 

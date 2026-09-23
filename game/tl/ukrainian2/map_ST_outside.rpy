@@ -12,8 +12,6 @@ translate ukrainian2 strings:
     old "rotation"
     new "rotation"
 
-
-
     old "collecting"
     new "collecting"
 

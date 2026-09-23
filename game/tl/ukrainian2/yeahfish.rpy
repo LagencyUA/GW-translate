@@ -833,208 +833,32 @@ translate ukrainian2 strings:
     old "The next day"
     new "The next day"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "aftern.webp"
     new "aftern.webp"
-
-
-
-
-
-
-
-
-
-
 
     old "A rank fish!"
     new "A rank fish!"
 
-
-
-
-
-
-
-
-
     old "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
     new "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "The creature escaped!"
     new "The creature escaped!"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "E rank fish!"
     new "E rank fish!"
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "You have obtained the Night Beast!"
     new "You have obtained the Night Beast!"
 
-
-
-
-
-
-
     old "B rank fish!"
     new "B rank fish!"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Now you can fish in Sakura Town!"
     new "Now you can fish in Sakura Town!"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "C rank fish!"
     new "C rank fish!"
-
-
-
-
-
-
-
-
-
-
 
     old "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
     new "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
@@ -1042,15 +866,9 @@ translate ukrainian2 strings:
     old "D rank fish!"
     new "D rank fish!"
 
-
-
     old "S rank fish!"
     new "S rank fish!"
 
-
-
     old "Fishing Tutorial"
     new "Fishing Tutorial"
-
-
 

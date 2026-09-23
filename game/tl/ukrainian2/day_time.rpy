@@ -1090,20 +1090,14 @@ translate ukrainian2 strings:
     old "goddesses"
     new "goddesses"
 
-
-
     old "consumibles"
     new "consumibles"
 
     old "{size=-3}Sakura\n Town"
     new "{size=-3}Sakura\n Town"
 
-
-
     old "{i}No events"
     new "{i}No events"
-
-
 
     old "melon pan"
     new "melon pan"

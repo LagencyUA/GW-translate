@@ -34,17 +34,9 @@ translate ukrainian2 strings:
     old "old:1790154874.088394_46"
     new "new:1790154874.088394_46"
 
-
-
-
-
     old "cutanim2"
     new "cutanim2"
 
     old "-[last_logging_damage]\n{size=-25}CRITICAL!"
     new "-[last_logging_damage]\n{size=-25}CRITICAL!"
-
-
-
-
 

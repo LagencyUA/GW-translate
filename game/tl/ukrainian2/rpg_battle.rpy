@@ -142,8 +142,6 @@ translate ukrainian2 strings:
     old "It helps me to heal my wounds. Heals 30% hp."
     new "It helps me to heal my wounds. Heals 30% hp."
 
-
-
     old "Golden Slime Core"
     new "Golden Slime Core"
 
@@ -152,8 +150,6 @@ translate ukrainian2 strings:
 
     old "Wow... You really have these in your inventory.\n{color=#FF5C5C}Perv"
     new "Wow... You really have these in your inventory.\n{color=#FF5C5C}Perv"
-
-
 
     old "Wolf Claw"
     new "Wolf Claw"
@@ -262,8 +258,6 @@ translate ukrainian2 strings:
 
     old "You managed to escape!"
     new "You managed to escape!"
-
-
 
     old "You've reached the current level cap!"
     new "You've reached the current level cap!"

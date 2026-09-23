@@ -557,35 +557,17 @@ translate ukrainian2 strings:
     old "Mother's necklace"
     new "Mother's necklace"
 
-
-
     old "Repeatable mission accepted!"
     new "Repeatable mission accepted!"
 
     old "Golden core"
     new "Golden core"
 
-
-
     old "I need someone strong to help me set up my store, if you do a good job I will pay you more.\n{color=#4eca35}Kaede{/color}."
     new "I need someone strong to help me set up my store, if you do a good job I will pay you more.\n{color=#4eca35}Kaede{/color}."
 
-
-
     old "Look for the lost {color=#FCDEB3}necklace{/color}, the person said it might have been lost around {color=#FCDEB3}Lands{/color}.\n[item_missing_necklace]/1"
     new "Look for the lost {color=#FCDEB3}necklace{/color}, the person said it might have been lost around {color=#FCDEB3}Lands{/color}.\n[item_missing_necklace]/1"
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Help the blacksmith"
     new "Help the blacksmith"
@@ -596,16 +578,8 @@ translate ukrainian2 strings:
     old "Get sticks [item_stick]/15"
     new "Get sticks [item_stick]/15"
 
-
-
-
-
-
-
     old "{color=#E3CD5B}Rank C Promotion!"
     new "{color=#E3CD5B}Rank C Promotion!"
-
-
 
     old "Requirements met to advance to D rank."
     new "Requirements met to advance to D rank."
@@ -613,26 +587,14 @@ translate ukrainian2 strings:
     old "{size=+8}Reputation"
     new "{size=+8}Reputation"
 
-
-
     old "The hot springs are being affected by slimes.\nAny handsome and brave adventurers to get rid of them? \n{color=#8F467D}Aoi{/color}."
     new "The hot springs are being affected by slimes.\nAny handsome and brave adventurers to get rid of them? \n{color=#8F467D}Aoi{/color}."
-
-
 
     old "Obtain a {color=#FCDEB3}Golden Slime Core{color=#FCDEB3} [item_golden_slime_core]/1 \n- {color=#2bcd29}Slimes{/color} can be found in the {color=#FCDEB3}Lands{/color}."
     new "Obtain a {color=#FCDEB3}Golden Slime Core{color=#FCDEB3} [item_golden_slime_core]/1 \n- {color=#2bcd29}Slimes{/color} can be found in the {color=#FCDEB3}Lands{/color}."
 
-
-
-
-
     old "I've lost a necklace that's very important to me. Maybe I lost it somewhere around the Lands while I was running away from the wolves."
     new "I've lost a necklace that's very important to me. Maybe I lost it somewhere around the Lands while I was running away from the wolves."
-
-
-
-
 
     old "Get A-rank fish [item_fish_a]/4 \n- You can fish near the bridge in {color=#FCDEB3}Sakura Town{/color}."
     new "Get A-rank fish [item_fish_a]/4 \n- You can fish near the bridge in {color=#FCDEB3}Sakura Town{/color}."
@@ -640,21 +602,11 @@ translate ukrainian2 strings:
     old "I need 15 bottles of {color=#2bcd29}slime{/color}, don't ask why.\nAnonymous.\n\n[item_slime]/15{image=bg/icons/cc_stats_icons/inv_icons/inv_slime.png}"
     new "I need 15 bottles of {color=#2bcd29}slime{/color}, don't ask why.\nAnonymous.\n\n[item_slime]/15{image=bg/icons/cc_stats_icons/inv_icons/inv_slime.png}"
 
-
-
-
-
     old "{size=-6}More missions were added to the adventurers' board."
     new "{size=-6}More missions were added to the adventurers' board."
 
-
-
-
-
     old "{size=+5}Missions"
     new "{size=+5}Missions"
-
-
 
     old "Get apples [item_apple]/10"
     new "Get apples [item_apple]/10"
@@ -662,69 +614,29 @@ translate ukrainian2 strings:
     old "Go help {color=#4eca35}Kaede{/color} and follow her instructions. \nShe'll be waiting for you near the {color=#FCDEB3}Sakura tree{/color} every {color=#FCDEB3}morning{/color}."
     new "Go help {color=#4eca35}Kaede{/color} and follow her instructions. \nShe'll be waiting for you near the {color=#FCDEB3}Sakura tree{/color} every {color=#FCDEB3}morning{/color}."
 
-
-
     old "It's been days since I've had a nice fish dish, and they're very hard to catch. \nCan someone get me some? \n\n[item_fish_a]/4{image=bg/icons/cc_stats_icons/inv_icons/inv_fish_a.png}"
     new "It's been days since I've had a nice fish dish, and they're very hard to catch. \nCan someone get me some? \n\n[item_fish_a]/4{image=bg/icons/cc_stats_icons/inv_icons/inv_fish_a.png}"
 
     old "You're now {color=#E3CD5B}Rank D{/color}!"
     new "You're now {color=#E3CD5B}Rank D{/color}!"
 
-
-
-
-
-
-
-
-
     old "I need some special flowers that only grow near the Lands, deep in the forest.\nIs there an adventurer who can collect them without getting hurt there?\n\n[item_yellow_flower]/10{image=bg/icons/cc_stats_icons/inv_icons/inv_yellow_flower.png}"
     new "I need some special flowers that only grow near the Lands, deep in the forest.\nIs there an adventurer who can collect them without getting hurt there?\n\n[item_yellow_flower]/10{image=bg/icons/cc_stats_icons/inv_icons/inv_yellow_flower.png}"
-
-
 
     old "Yellow flowers"
     new "Yellow flowers"
 
-
-
-
-
-
-
     old "The other {color=#ffffff}night{/color}, I was fishing under the bridge when a huge fish almost pulled me into the water. \nIt was enormous!\nI'm looking for a strong adventurer who's skilled at fishing. Think you can catch it?"
     new "The other {color=#ffffff}night{/color}, I was fishing under the bridge when a huge fish almost pulled me into the water. \nIt was enormous!\nI'm looking for a strong adventurer who's skilled at fishing. Think you can catch it?"
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "{color=#ff00b5}Diana{/color} and {color=#e8e3cf}Iris'{/color} store has opened!"
     new "{color=#ff00b5}Diana{/color} and {color=#e8e3cf}Iris'{/color} store has opened!"
 
-
-
     old "{size=+5}Description"
     new "{size=+5}Description"
 
-
-
-
-
-
-
     old "Select the new location on the map {color=#FCDEB3}(Lands){/color}, {color=#FCDEB3}head into the area{/color}, and kill all the {color=#2bcd29}slimes{/color}."
     new "Select the new location on the map {color=#FCDEB3}(Lands){/color}, {color=#FCDEB3}head into the area{/color}, and kill all the {color=#2bcd29}slimes{/color}."
-
-
 
     old "{size=-18}Complete"
     new "{size=-18}Complete"
@@ -735,25 +647,11 @@ translate ukrainian2 strings:
     old "Wolves broke my animal traps.\nCan you bring me sticks to create more? \n\n[item_stick]/15{image=bg/icons/cc_stats_icons/inv_icons/inv_stick.png}"
     new "Wolves broke my animal traps.\nCan you bring me sticks to create more? \n\n[item_stick]/15{image=bg/icons/cc_stats_icons/inv_icons/inv_stick.png}"
 
-
-
-
-
-
-
     old "Anyone who can get me 10 wild apples? It is impossible for me because the barrier doesn't protect that place. \n\n[item_apple]/10 {image=bg/icons/cc_stats_icons/inv_icons/inv_apple.png}"
     new "Anyone who can get me 10 wild apples? It is impossible for me because the barrier doesn't protect that place. \n\n[item_apple]/10 {image=bg/icons/cc_stats_icons/inv_icons/inv_apple.png}"
 
-
-
-
-
-
-
     old "Adventurer mission accepted!"
     new "Adventurer mission accepted!"
-
-
 
     old "Reputation: [shown_reputation]"
     new "Reputation: [shown_reputation]"
@@ -761,17 +659,11 @@ translate ukrainian2 strings:
     old "Go fishing at {color=#FCDEB3}night{/color} near the bridge in {color=#FCDEB3}Sakura Town{/color}, it seems to be a very strong fish, so be careful.\n[item_night_beast]/1"
     new "Go fishing at {color=#FCDEB3}night{/color} near the bridge in {color=#FCDEB3}Sakura Town{/color}, it seems to be a very strong fish, so be careful.\n[item_night_beast]/1"
 
-
-
-
-
     old "Kill {color=#2bcd29}Slimes{/color} to get their materials. [item_slime]/15"
     new "Kill {color=#2bcd29}Slimes{/color} to get their materials. [item_slime]/15"
 
     old "Added 3 potions to your inventory."
     new "Added 3 potions to your inventory."
-
-
 
     old "Slime problems"
     new "Slime problems"
@@ -779,12 +671,8 @@ translate ukrainian2 strings:
     old "{size=12}{color=#91c483}Repeatable{/color}"
     new "{size=12}{color=#91c483}Repeatable{/color}"
 
-
-
     old "What? Did you think that just because I let you rank up once, I'd let you do it again?\n\n [nc]"
     new "What? Did you think that just because I let you rank up once, I'd let you do it again?\n\n [nc]"
-
-
 
     old "+{} Reputation"
     new "+{} Reputation"
@@ -795,28 +683,6 @@ translate ukrainian2 strings:
     old "Some {color=#2bcd29}slimes{/color} have a low chance of dropping a magic-rich core. They change color to a {color=#FFFF32}golden one{/color}\nIf you find one, please deliver it to the Lounge. \n{color=#e8e3cf}Iris{/color}"
     new "Some {color=#2bcd29}slimes{/color} have a low chance of dropping a magic-rich core. They change color to a {color=#FFFF32}golden one{/color}\nIf you find one, please deliver it to the Lounge. \n{color=#e8e3cf}Iris{/color}"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Go near the {color=#FCDEB3}Lands{/color} area and pick {color=#FCDEB3}yellow flowers.{/color}\nBe careful with the wolves! They're more dangerous in that area.\n[item_yellow_flower]/10"
     new "Go near the {color=#FCDEB3}Lands{/color} area and pick {color=#FCDEB3}yellow flowers.{/color}\nBe careful with the wolves! They're more dangerous in that area.\n[item_yellow_flower]/10"
-
-
-
-
-
-
 

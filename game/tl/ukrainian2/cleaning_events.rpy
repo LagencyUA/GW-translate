@@ -21,10 +21,6 @@ translate ukrainian2 strings:
     old "old:1790154869.7662284_9"
     new "new:1790154869.7662284_9"
 
-
-
     old "{image=quest_text}Mission Updated!"
     new "{image=quest_text}Mission Updated!"
-
-
 
