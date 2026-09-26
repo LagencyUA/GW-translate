@@ -71,6 +71,7 @@ translate ukrainian mayu_event_1_b7466672:
     # "{color=#7a847d}I've got nothing left to do..."
     "{color=#7a847d}Мені більше нічого робити..."
 
+# game/game/mayu_events.rpy:137
 translate ukrainian mayu_event_1_3d2f37da:
 
     # "{color=#7a847d}This is what I get for finishing all the requests too quickly..."
@@ -205,7 +206,7 @@ translate ukrainian mayu_event_1_f7ba2b97:
 # game/game/mayu_events.rpy:171
 translate ukrainian mayu_event_1_86ec4477:
 
-    # ma "Let's get started right away!
+    # ma "Let's get started right away!"
     ma "Зараз же почнімо!"
 
 # game/game/mayu_events.rpy:172
