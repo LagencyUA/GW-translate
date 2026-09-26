@@ -2031,7 +2031,7 @@ translate ukrainian hana_gal1_347d39e1:
 translate ukrainian hana_gal1_78dc3e84:
 
     # t "She's constantly flicking her tongue and each time she does so she sucks my tip hard."
-    t "Вона постійно ворушить язиком, і щоразу сильніше засмоктує мою голівку."
+    t "Вона постійно ворушить язиком, і щоразу сильніше засмоктує мою головку."
 
 # game/game/hana_events.rpy:789
 translate ukrainian hana_gal1_03c48962:
@@ -2577,7 +2577,7 @@ translate ukrainian hana_potion_blow_56f7a46d:
 translate ukrainian hana_potion_blow_81beb3bc:
 
     # t "She's moving her tongue all over the tip of my penis."
-    t "Вона рухає своїм язичком довкола моєї голівки."
+    t "Вона рухає своїм язичком довкола моєї головки."
 
 # game/game/hana_events.rpy:1020
 translate ukrainian hana_potion_blow_995c2d47:

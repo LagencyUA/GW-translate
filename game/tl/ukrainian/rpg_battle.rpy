@@ -119,10 +119,10 @@ translate ukrainian strings:
     new "An shovel."
 
     old "Wooden Katana"
-    new "Wooden Katana"
+    new "Дерев'яна катана"
 
     old "A wooden practice katana for Ryoko."
-    new "A wooden practice katana for Ryoko."
+    new "Дерев'яна катана для Рьоко."
 
     old "Ryokos Katana"
     new "Ryokos Katana"
