@@ -1042,15 +1042,9 @@ translate ukrainian ignis_explain_6d60cf5d:
 
     # t "Shut up!"
     t "Shut up!"
-# TODO: Translation updated at 2026-09-23 11:34
 
 translate ukrainian strings:
 
     # game/ignis_events.rpy:8
     old "Speak"
     new "Speak"
-
-translate ukrainian strings:
-    old "old:1790154870.7389588_19"
-    new "new:1790154870.7389588_19"
-
