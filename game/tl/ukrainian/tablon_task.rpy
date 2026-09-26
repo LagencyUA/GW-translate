@@ -5,12 +5,6 @@ translate ukrainian tablon_screen_123d8d57:
     # na "Looking for missions? Take a look~"
     na "Looking for missions? Take a look~"
 
-# game/game/tablon_task.rpy:360
-translate ukrainian natsuki_mission_acept_ef0dcbb6:
-
-    # na "Hmm?"
-    na "Hmm?"
-
 # game/game/tablon_task.rpy:363
 translate ukrainian natsuki_mission_acept_7a906fce:
 
@@ -365,35 +359,173 @@ translate ukrainian natsuki_mission_acept_9540f1ca:
     # mc "{size=-6}What is she, a dog...?"
     mc "{size=-6}What is she, a dog...?"
 
-# game/game/tablon_task.rpy:459
-translate ukrainian natsuki_mission_acept_e60b4fb1:
+# game/game/tablon_task.rpy:796
+translate ukrainian natsuki_mission_acept_34cec937:
 
-    # nc "Work in progress!"
-    nc "Work in progress!"
+    # mc "Is something wrong?"
+    mc "Is something wrong?"
 
-# game/game/tablon_task.rpy:460
-translate ukrainian natsuki_mission_acept_52c58cbb:
+# game/game/tablon_task.rpy:797
+translate ukrainian natsuki_mission_acept_f653fcea:
 
-    # nc "Didn't you read what it said there? Why did you click accept anyway?"
-    nc "Didn't you read what it said there? Why did you click accept anyway?"
+    # na "You've been busy, huh."
+    na "You've been busy, huh."
 
-# game/game/tablon_task.rpy:461
-translate ukrainian natsuki_mission_acept_8549a4e4:
+# game/game/tablon_task.rpy:799
+translate ukrainian natsuki_mission_acept_dec673cd:
 
-    # nc "Ooh..."
-    nc "Ooh..."
+    # na "You can now move up in rank."
+    na "You can now move up in rank."
 
-# game/game/tablon_task.rpy:462
-translate ukrainian natsuki_mission_acept_aea302dd:
+# game/game/tablon_task.rpy:800
+translate ukrainian natsuki_mission_acept_6b42a5b5:
 
-    # nc "You wanted to talk to me, didn't you?"
-    nc "You wanted to talk to me, didn't you?"
+    # mc "Woah, really?"
+    mc "Woah, really?"
 
-# game/game/tablon_task.rpy:463
-translate ukrainian natsuki_mission_acept_419fc404:
+# game/game/tablon_task.rpy:801
+translate ukrainian natsuki_mission_acept_6924b829:
 
-    # nc "Perv."
-    nc "Perv."
+    # mc "What should I do?"
+    mc "What should I do?"
+
+# game/game/tablon_task.rpy:802
+translate ukrainian natsuki_mission_acept_f8e1fe38:
+
+    # na "You don't need a ranked mission to move up from E to D."
+    na "You don't need a ranked mission to move up from E to D."
+
+# game/game/tablon_task.rpy:804
+translate ukrainian natsuki_mission_acept_7ef23c88:
+
+    # na "Only once you reach rank C and above."
+    na "Only once you reach rank C and above."
+
+# game/game/tablon_task.rpy:805
+translate ukrainian natsuki_mission_acept_c2d8b6f0:
+
+    # mc "That's good to hear..."
+    mc "That's good to hear..."
+
+# game/game/tablon_task.rpy:807
+translate ukrainian natsuki_mission_acept_1c7b71f5:
+
+    # na "Besides, if it had been necessary."
+    na "Besides, if it had been necessary."
+
+# game/game/tablon_task.rpy:808
+translate ukrainian natsuki_mission_acept_b8bf3d1f:
+
+    # na "Because of all you've done for this town, I would have let you rank up anyway."
+    na "Because of all you've done for this town, I would have let you rank up anyway."
+
+# game/game/tablon_task.rpy:809
+translate ukrainian natsuki_mission_acept_4f745339:
+
+    # mc "You're the best."
+    mc "You're the best."
+
+# game/game/tablon_task.rpy:811
+translate ukrainian natsuki_mission_acept_a9e60a18:
+
+    # na "I know~{image=corazon}"
+    na "I know~{image=corazon}"
+
+# game/game/tablon_task.rpy:812
+translate ukrainian natsuki_mission_acept_b1cae60b:
+
+    # na "Give me a second."
+    na "Give me a second."
+
+# game/game/tablon_task.rpy:813
+translate ukrainian natsuki_mission_acept_a49ed4f8:
+
+    # mc "Okay."
+    mc "Okay."
+
+# game/game/tablon_task.rpy:815
+translate ukrainian natsuki_mission_acept_0c7f2035_1:
+
+    # na "..."
+    na "..."
+
+# game/game/tablon_task.rpy:817
+translate ukrainian natsuki_mission_acept_f00eba13:
+
+    # na "All done!"
+    na "All done!"
+
+# game/game/tablon_task.rpy:818
+translate ukrainian natsuki_mission_acept_af02405a:
+
+    # na "Congratulations, you're now a D-rank adventurer."
+    na "Congratulations, you're now a D-rank adventurer."
+
+# game/game/tablon_task.rpy:820
+translate ukrainian natsuki_mission_acept_5f6012a0:
+
+    # na "Now you'll be able to access more hunting missions."
+    na "Now you'll be able to access more hunting missions."
+
+# game/game/tablon_task.rpy:821
+translate ukrainian natsuki_mission_acept_7eaa3572:
+
+    # mc "Other than that, nothing else changes?"
+    mc "Other than that, nothing else changes?"
+
+# game/game/tablon_task.rpy:823
+translate ukrainian natsuki_mission_acept_6730f07f:
+
+    # na "Good question."
+    na "Good question."
+
+# game/game/tablon_task.rpy:824
+translate ukrainian natsuki_mission_acept_ae531131:
+
+    # na "You can still do low-rank missions, but they won't give you as much reputation as they used to."
+    na "You can still do low-rank missions, but they won't give you as much reputation as they used to."
+
+# game/game/tablon_task.rpy:825
+translate ukrainian natsuki_mission_acept_1893159e:
+
+    # na "Otherwise, it would be too easy to rank up by completing easy missions."
+    na "Otherwise, it would be too easy to rank up by completing easy missions."
+
+# game/game/tablon_task.rpy:826
+translate ukrainian natsuki_mission_acept_99a6dbdf:
+
+    # mc "Makes sense."
+    mc "Makes sense."
+
+# game/game/tablon_task.rpy:827
+translate ukrainian natsuki_mission_acept_c764b6d4:
+
+    # na "You should also keep in mind that the people who post those missions usually don't come back a {color=#FCDEB3}few days later{/color} to post them again"
+    na "You should also keep in mind that the people who post those missions usually don't come back a {color=#FCDEB3}few days later{/color} to post them again"
+
+# game/game/tablon_task.rpy:829
+translate ukrainian natsuki_mission_acept_4c34725b:
+
+    # mc "Thank you, Natsuki."
+    mc "Thank you, Natsuki."
+
+# game/game/tablon_task.rpy:830
+translate ukrainian natsuki_mission_acept_b79b173b:
+
+    # na "I told you you'd rank up fast, I'm sure you'll reach the next rank soon."
+    na "I told you you'd rank up fast, I'm sure you'll reach the next rank soon."
+
+# game/game/tablon_task.rpy:831
+translate ukrainian natsuki_mission_acept_e7133621:
+
+    # na "Good luck, my brave adventurer~{image=corazon}"
+    na "Good luck, my brave adventurer~{image=corazon}"
+
+# game/game/tablon_task.rpy:842
+translate ukrainian natsuki_mission_acept_bf2f0482:
+
+    # nc "What?"
+    nc "What?"
 
 translate ukrainian strings:
 
@@ -423,9 +555,6 @@ translate ukrainian strings:
     old "I need someone strong to help me set up my store, if you do a good job I will pay you more.\n{color=#4eca35}Kaede{/color}."
     new "I need someone strong to help me set up my store, if you do a good job I will pay you more.\n{color=#4eca35}Kaede{/color}."
 
-    old "Ranking mission not available for this version! \nWait for Ncrow!\n{color=#00f8ff}Ncrow{/color}."
-    new "Ranking mission not available for this version! \nWait for Ncrow!\n{color=#00f8ff}Ncrow{/color}."
-
     old "Get sticks [item_stick]/15"
     new "Get sticks [item_stick]/15"
 
@@ -438,8 +567,8 @@ translate ukrainian strings:
     old "Added 3 potions to your inventory."
     new "Added 3 potions to your inventory."
 
-    old "You still don't meet the requirements to complete the mission."
-    new "You still don't meet the requirements to complete the mission."
+    old "You still don't meet the requirements \nto complete the mission."
+    new "You still don't meet the requirements \nto complete the mission."
 
     old "The hot springs are being affected by slimes.\nAny handsome and brave adventurers to get rid of them? \n{color=#8F467D}Aoi{/color}."
     new "The hot springs are being affected by slimes.\nAny handsome and brave adventurers to get rid of them? \n{color=#8F467D}Aoi{/color}."
@@ -447,17 +576,14 @@ translate ukrainian strings:
     old "Go help {color=#4eca35}Kaede{/color} and follow her instructions. \nShe'll be waiting for you near the {color=#FCDEB3}Sakura tree{/color} every {color=#FCDEB3}morning{/color}."
     new "Go help {color=#4eca35}Kaede{/color} and follow her instructions. \nShe'll be waiting for you near the {color=#FCDEB3}Sakura tree{/color} every {color=#FCDEB3}morning{/color}."
 
-    old "Mission completed! You earned {self.reputacion} reputation and {self.oro} gold. Good job!"
-    new "Mission completed! You earned {self.reputacion} reputation and {self.oro} gold. Good job!"
-
-    old "Reputation: [mision.reputacion]"
-    new "Reputation: [mision.reputacion]"
+    old "Reputation: [shown_reputation]"
+    new "Reputation: [shown_reputation]"
 
     old "{size=+5}Missions"
     new "{size=+5}Missions"
 
-    old "It's been months since I've had a nice fish dish, and they're very hard to catch. \nCan someone get me some? \n\n[item_fish_a]/4{image=bg/icons/cc_stats_icons/inv_icons/inv_fish_a.png}"
-    new "It's been months since I've had a nice fish dish, and they're very hard to catch. \nCan someone get me some? \n\n[item_fish_a]/4{image=bg/icons/cc_stats_icons/inv_icons/inv_fish_a.png}"
+    old "It's been days since I've had a nice fish dish, and they're very hard to catch. \nCan someone get me some? \n\n[item_fish_a]/4{image=bg/icons/cc_stats_icons/inv_icons/inv_fish_a.png}"
+    new "It's been days since I've had a nice fish dish, and they're very hard to catch. \nCan someone get me some? \n\n[item_fish_a]/4{image=bg/icons/cc_stats_icons/inv_icons/inv_fish_a.png}"
 
     old "Golden core"
     new "Golden core"
@@ -495,5 +621,62 @@ translate ukrainian strings:
     old "Obtain a {color=#FCDEB3}Golden Slime Core{color=#FCDEB3} [item_golden_slime_core]/1 \n- {color=#2bcd29}Slimes{/color} can be found in the {color=#FCDEB3}Lands{/color}."
     new "Obtain a {color=#FCDEB3}Golden Slime Core{color=#FCDEB3} [item_golden_slime_core]/1 \n- {color=#2bcd29}Slimes{/color} can be found in the {color=#FCDEB3}Lands{/color}."
 
-    old "The next day"
-    new "The next day"
+    old "Requirements met to advance to D rank."
+    new "Requirements met to advance to D rank."
+
+    old "{size=-6}More missions were added to the adventurers' board."
+    new "{size=-6}More missions were added to the adventurers' board."
+
+    old "You're now {color=#E3CD5B}Rank D{/color}!"
+    new "You're now {color=#E3CD5B}Rank D{/color}!"
+
+    old "Mother's necklace"
+    new "Mother's necklace"
+
+    old "I need some special flowers that only grow near the Lands, deep in the forest.\nIs there an adventurer who can collect them without getting hurt there?\n\n[item_yellow_flower]/10{image=bg/icons/cc_stats_icons/inv_icons/inv_yellow_flower.png}"
+    new "I need some special flowers that only grow near the Lands, deep in the forest.\nIs there an adventurer who can collect them without getting hurt there?\n\n[item_yellow_flower]/10{image=bg/icons/cc_stats_icons/inv_icons/inv_yellow_flower.png}"
+
+    old "Yellow flowers"
+    new "Yellow flowers"
+
+    old "Go fishing at {color=#FCDEB3}night{/color} near the bridge in {color=#FCDEB3}Sakura Town{/color}, it seems to be a very strong fish, so be careful.\n[item_night_beast]/1"
+    new "Go fishing at {color=#FCDEB3}night{/color} near the bridge in {color=#FCDEB3}Sakura Town{/color}, it seems to be a very strong fish, so be careful.\n[item_night_beast]/1"
+
+    old "I need 15 bottles of {color=#2bcd29}slime{/color}, don't ask why.\nAnonymous.\n\n[item_slime]/15{image=bg/icons/cc_stats_icons/inv_icons/inv_slime.png}"
+    new "I need 15 bottles of {color=#2bcd29}slime{/color}, don't ask why.\nAnonymous.\n\n[item_slime]/15{image=bg/icons/cc_stats_icons/inv_icons/inv_slime.png}"
+
+    old "{size=12}{color=#91c483}Repeatable{/color}"
+    new "{size=12}{color=#91c483}Repeatable{/color}"
+
+    old "+{} Reputation"
+    new "+{} Reputation"
+
+    old "Repeatable mission accepted!"
+    new "Repeatable mission accepted!"
+
+    old "I've lost a necklace that's very important to me. Maybe I lost it somewhere around the Lands while I was running away from the wolves."
+    new "I've lost a necklace that's very important to me. Maybe I lost it somewhere around the Lands while I was running away from the wolves."
+
+    old "Fishing help"
+    new "Fishing help"
+
+    old "{color=#E3CD5B}Rank D Promotion!"
+    new "{color=#E3CD5B}Rank D Promotion!"
+
+    old "Kill {color=#2bcd29}Slimes{/color} to get their materials. [item_slime]/15"
+    new "Kill {color=#2bcd29}Slimes{/color} to get their materials. [item_slime]/15"
+
+    old "The other {color=#ffffff}night{/color}, I was fishing under the bridge when a huge fish almost pulled me into the water. \nIt was enormous!\nI'm looking for a strong adventurer who's skilled at fishing. Think you can catch it?"
+    new "The other {color=#ffffff}night{/color}, I was fishing under the bridge when a huge fish almost pulled me into the water. \nIt was enormous!\nI'm looking for a strong adventurer who's skilled at fishing. Think you can catch it?"
+
+    old "{color=#E3CD5B}Rank C Promotion!"
+    new "{color=#E3CD5B}Rank C Promotion!"
+
+    old "Look for the lost {color=#FCDEB3}necklace{/color}, the person said it might have been lost around {color=#FCDEB3}Lands{/color}.\n[item_missing_necklace]/1"
+    new "Look for the lost {color=#FCDEB3}necklace{/color}, the person said it might have been lost around {color=#FCDEB3}Lands{/color}.\n[item_missing_necklace]/1"
+
+    old "Go near the {color=#FCDEB3}Lands{/color} area and pick {color=#FCDEB3}yellow flowers.{/color}\nBe careful with the wolves! They're more dangerous in that area.\n[item_yellow_flower]/10"
+    new "Go near the {color=#FCDEB3}Lands{/color} area and pick {color=#FCDEB3}yellow flowers.{/color}\nBe careful with the wolves! They're more dangerous in that area.\n[item_yellow_flower]/10"
+
+    old "What? Did you think that just because I let you rank up once, I'd let you do it again?\n\n [nc]"
+    new "What? Did you think that just because I let you rank up once, I'd let you do it again?\n\n [nc]"

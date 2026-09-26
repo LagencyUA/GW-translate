@@ -4421,11 +4421,3202 @@ translate ukrainian ly_girl_orange_7c73bd4e:
     # mc "I-I think... {w}I like this place..."
     mc "I-I think... {w}I like this place..."
 
+# game/game/lycoris_clan.rpy:1540
+translate ukrainian kaori_reward_f98d82bf:
+
+    # "{color=#FEAD56}Do you think you can just walk up and talk to her whenever you feel like it?"
+    "{color=#FEAD56}Do you think you can just walk up and talk to her whenever you feel like it?"
+
+# game/game/lycoris_clan.rpy:1541
+translate ukrainian kaori_reward_469e3e86:
+
+    # mc "I need to give her some information..."
+    mc "I need to give her some information..."
+
+# game/game/lycoris_clan.rpy:1542
+translate ukrainian kaori_reward_f034f1a4:
+
+    # "{color=#FFC5F1}You'll have to wait until she calls for you."
+    "{color=#FFC5F1}You'll have to wait until she calls for you."
+
+# game/game/lycoris_clan.rpy:1543
+translate ukrainian kaori_reward_b6297e3f:
+
+    # mc "Eeh..."
+    mc "Eeh..."
+
+# game/game/lycoris_clan.rpy:1545
+translate ukrainian kaori_reward_9053ffd6:
+
+    # lu "Don't worry, she's expecting him."
+    lu "Don't worry, she's expecting him."
+
+# game/game/lycoris_clan.rpy:1546
+translate ukrainian kaori_reward_8be857ba:
+
+    # "{color=#FEAD56}Luna? Are you sure?"
+    "{color=#FEAD56}Luna? Are you sure?"
+
+# game/game/lycoris_clan.rpy:1548
+translate ukrainian kaori_reward_a50ed9c9:
+
+    # lu "Yes. Let's not keep her waiting."
+    lu "Yes. Let's not keep her waiting."
+
+# game/game/lycoris_clan.rpy:1549
+translate ukrainian kaori_reward_d27561ed:
+
+    # "{color=#FEAD56}Yes."
+    "{color=#FEAD56}Yes."
+
+# game/game/lycoris_clan.rpy:1551
+translate ukrainian kaori_reward_cb192aa5:
+
+    # "{color=#FFC5F1}Go on, you heard her."
+    "{color=#FFC5F1}Go on, you heard her."
+
+# game/game/lycoris_clan.rpy:1552
+translate ukrainian kaori_reward_292bb247:
+
+    # "{color=#FEAD56}What are you waiting for? We don't have all day."
+    "{color=#FEAD56}What are you waiting for? We don't have all day."
+
+# game/game/lycoris_clan.rpy:1554
+translate ukrainian kaori_reward_b81677ce:
+
+    # t "But just a moment ago, they were trying to kick me out..."
+    t "But just a moment ago, they were trying to kick me out..."
+
+# game/game/lycoris_clan.rpy:1556
+translate ukrainian kaori_reward_c3de6ced:
+
+    # mc "Thanks, Luna."
+    mc "Thanks, Luna."
+
+# game/game/lycoris_clan.rpy:1557
+translate ukrainian kaori_reward_5f9025e6:
+
+    # lu "I'm just following orders."
+    lu "I'm just following orders."
+
+# game/game/lycoris_clan.rpy:1558
+translate ukrainian kaori_reward_7bba0294:
+
+    # lu "Wait here."
+    lu "Wait here."
+
+# game/game/lycoris_clan.rpy:1559
+translate ukrainian kaori_reward_a49ed4f8:
+
+    # mc "Okay."
+    mc "Okay."
+
+# game/game/lycoris_clan.rpy:1561
+translate ukrainian kaori_reward_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1562
+translate ukrainian kaori_reward_d0905b01:
+
+    # t "I need to think carefully about what I'm going to tell her."
+    t "I need to think carefully about what I'm going to tell her."
+
+# game/game/lycoris_clan.rpy:1563
+translate ukrainian kaori_reward_f6666616:
+
+    # t "She might think I'm crazy if I tell her everything."
+    t "She might think I'm crazy if I tell her everything."
+
+# game/game/lycoris_clan.rpy:1565
+translate ukrainian kaori_reward_004b4537:
+
+    # t "Come to think of it, I don't see Akane very often when I come here."
+    t "Come to think of it, I don't see Akane very often when I come here."
+
+# game/game/lycoris_clan.rpy:1566
+translate ukrainian kaori_reward_8cec5f39:
+
+    # t "I wonder what kind of training she's doing."
+    t "I wonder what kind of training she's doing."
+
+# game/game/lycoris_clan.rpy:1567
+translate ukrainian kaori_reward_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1569
+translate ukrainian kaori_reward_d6caa65d:
+
+    # lu "Swordsman."
+    lu "Swordsman."
+
+# game/game/lycoris_clan.rpy:1570
+translate ukrainian kaori_reward_f2316b97:
+
+    # mc "Ah."
+    mc "Ah."
+
+# game/game/lycoris_clan.rpy:1571
+translate ukrainian kaori_reward_d6071151:
+
+    # lu "You can come in now."
+    lu "You can come in now."
+
+# game/game/lycoris_clan.rpy:1572
+translate ukrainian kaori_reward_bc4fd44d:
+
+    # mc "Oh, okay."
+    mc "Oh, okay."
+
+# game/game/lycoris_clan.rpy:1574
+translate ukrainian kaori_reward_e08105c1:
+
+    # t "I thought she was going to come out here."
+    t "I thought she was going to come out here."
+
+# game/game/lycoris_clan.rpy:1578
+translate ukrainian kaori_reward_997a27e3:
+
+    # mc "Excuse me..."
+    mc "Excuse me..."
+
+# game/game/lycoris_clan.rpy:1580
+translate ukrainian kaori_reward_82aedbe6:
+
+    # lu "Madam Kaori, he's here."
+    lu "Madam Kaori, he's here."
+
+# game/game/lycoris_clan.rpy:1581
+translate ukrainian kaori_reward_1f66d86f:
+
+    # mc "Good evening, Madam Kaori."
+    mc "Good evening, Madam Kaori."
+
+# game/game/lycoris_clan.rpy:1583
+translate ukrainian kaori_reward_51e2a9a2:
+
+    # kao "Good. Now go away until you're no longer a burden."
+    kao "Good. Now go away until you're no longer a burden."
+
+# game/game/lycoris_clan.rpy:1584
+translate ukrainian kaori_reward_1375ca82:
+
+    # t "W-What?"
+    t "W-What?"
+
+# game/game/lycoris_clan.rpy:1585
+translate ukrainian kaori_reward_b62aeb2f:
+
+    # lu "Thank you. I'll be back after my break."
+    lu "Thank you. I'll be back after my break."
+
+# game/game/lycoris_clan.rpy:1586
+translate ukrainian kaori_reward_9ea22103:
+
+    # t "Ah..."
+    t "Ah..."
+
+# game/game/lycoris_clan.rpy:1588
+translate ukrainian kaori_reward_814bb4cd:
+
+    # t "Won't it be a problem if Luna isn't here?"
+    t "Won't it be a problem if Luna isn't here?"
+
+# game/game/lycoris_clan.rpy:1589
+translate ukrainian kaori_reward_8683430b:
+
+    # ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}Ghg!"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}Ghg!"
+
+# game/game/lycoris_clan.rpy:1591
+translate ukrainian kaori_reward_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/lycoris_clan.rpy:1592
+translate ukrainian kaori_reward_c4bf2f32:
+
+    # mc "W-What is this?"
+    mc "W-What is this?"
+
+# game/game/lycoris_clan.rpy:1594
+translate ukrainian kaori_reward_46b79df3:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:1595
+translate ukrainian kaori_reward_04e019ff:
+
+    # mc "{size=-6}I don't think I've ever seen magic like that."
+    mc "{size=-6}I don't think I've ever seen magic like that."
+
+# game/game/lycoris_clan.rpy:1596
+translate ukrainian kaori_reward_7fcb4919:
+
+    # kao "That's because we vampires use energy."
+    kao "That's because we vampires use energy."
+
+# game/game/lycoris_clan.rpy:1598
+translate ukrainian kaori_reward_d847a964:
+
+    # mc "What's the difference?"
+    mc "What's the difference?"
+
+# game/game/lycoris_clan.rpy:1599
+translate ukrainian kaori_reward_3b31eb50:
+
+    # kao "Unlike ordinary magic, we draw power from our own life force."
+    kao "Unlike ordinary magic, we draw power from our own life force."
+
+# game/game/lycoris_clan.rpy:1601
+translate ukrainian kaori_reward_77f05eff:
+
+    # ak "{sc=2}{outlinecolor=#000000}{size=-6}...!"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}...!"
+
+# game/game/lycoris_clan.rpy:1604
+translate ukrainian kaori_reward_7dfa9cbb:
+
+    # ak "{sc=2}{outlinecolor=#000000}{size=-6}Hgn!"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}Hgn!"
+
+# game/game/lycoris_clan.rpy:1605
+translate ukrainian kaori_reward_273fa2d0:
+
+    # mc "Woah."
+    mc "Woah."
+
+# game/game/lycoris_clan.rpy:1607
+translate ukrainian kaori_reward_0cf36427:
+
+    # kao "{i}Pathetic."
+    kao "{i}Pathetic."
+
+# game/game/lycoris_clan.rpy:1608
+translate ukrainian kaori_reward_bbd967c8:
+
+    # kao "Again."
+    kao "Again."
+
+# game/game/lycoris_clan.rpy:1610
+translate ukrainian kaori_reward_a453e439:
+
+    # ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}Gulp...*"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}Gulp...*"
+
+# game/game/lycoris_clan.rpy:1611
+translate ukrainian kaori_reward_6b16356d:
+
+    # t "She's so focused that she hasn't even noticed I'm here."
+    t "She's so focused that she hasn't even noticed I'm here."
+
+# game/game/lycoris_clan.rpy:1612
+translate ukrainian kaori_reward_28daf220:
+
+    # kao "Why have you come to bother me with your insignificant presence?"
+    kao "Why have you come to bother me with your insignificant presence?"
+
+# game/game/lycoris_clan.rpy:1614
+translate ukrainian kaori_reward_dfd81e46:
+
+    # mc "Uhh..."
+    mc "Uhh..."
+
+# game/game/lycoris_clan.rpy:1615
+translate ukrainian kaori_reward_f10ab72f:
+
+    # mc "I wanted to talk about the information I gave Luna."
+    mc "I wanted to talk about the information I gave Luna."
+
+# game/game/lycoris_clan.rpy:1617
+translate ukrainian kaori_reward_4a0f9354:
+
+    # kao "A servant working for someone else is helping that Queen."
+    kao "A servant working for someone else is helping that Queen."
+
+# game/game/lycoris_clan.rpy:1618
+translate ukrainian kaori_reward_6d584729:
+
+    # mc "Yeah. She's actually a succubus. I fought her a while back."
+    mc "Yeah. She's actually a succubus. I fought her a while back."
+
+# game/game/lycoris_clan.rpy:1619
+translate ukrainian kaori_reward_0b4bce81:
+
+    # mc "Although our fight didn't last more than two minutes, and she wasn't even using her full power."
+    mc "Although our fight didn't last more than two minutes, and she wasn't even using her full power."
+
+# game/game/lycoris_clan.rpy:1621
+translate ukrainian kaori_reward_b08e7391:
+
+    # kao "You do realize that giving me false information could cost you your life, don't you?"
+    kao "You do realize that giving me false information could cost you your life, don't you?"
+
+# game/game/lycoris_clan.rpy:1622
+translate ukrainian kaori_reward_9531e5bc:
+
+    # mc "Y-Yes."
+    mc "Y-Yes."
+
+# game/game/lycoris_clan.rpy:1623
+translate ukrainian kaori_reward_a9ec582a:
+
+    # mc "That's why... {w}I made sure the information was accurate."
+    mc "That's why... {w}I made sure the information was accurate."
+
+# game/game/lycoris_clan.rpy:1625
+translate ukrainian kaori_reward_c0583042:
+
+    # kao "Speak."
+    kao "Speak."
+
+# game/game/lycoris_clan.rpy:1626
+translate ukrainian kaori_reward_387fe428:
+
+    # mc "That succubus isn't just a maid."
+    mc "That succubus isn't just a maid."
+
+# game/game/lycoris_clan.rpy:1627
+translate ukrainian kaori_reward_645e28b1:
+
+    # t "This is where I need to choose my words carefully..."
+    t "This is where I need to choose my words carefully..."
+
+# game/game/lycoris_clan.rpy:1628
+translate ukrainian kaori_reward_e9124679:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1629
+translate ukrainian kaori_reward_b827f60c:
+
+    # mc "She's the servant of a goddess. You could say she's been blessed by her."
+    mc "She's the servant of a goddess. You could say she's been blessed by her."
+
+# game/game/lycoris_clan.rpy:1631
+translate ukrainian kaori_reward_dc3009dd:
+
+    # kao "...?!"
+    kao "...?!"
+
+# game/game/lycoris_clan.rpy:1633
+translate ukrainian kaori_reward_4c1c9f96:
+
+    # kao "Are you mocking me to my fac-"
+    kao "Are you mocking me to my fac-"
+
+# game/game/lycoris_clan.rpy:1634
+translate ukrainian kaori_reward_e9124679_1:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1636
+translate ukrainian kaori_reward_6eaaa405:
+
+    # kao "Divine magic."
+    kao "Divine magic."
+
+# game/game/lycoris_clan.rpy:1637
+translate ukrainian kaori_reward_ecac9c44:
+
+    # mc "You figured that out just by looking at it?"
+    mc "You figured that out just by looking at it?"
+
+# game/game/lycoris_clan.rpy:1638
+translate ukrainian kaori_reward_f974c76e:
+
+    # mc "I had another idea in mind in case this didn't work."
+    mc "I had another idea in mind in case this didn't work."
+
+# game/game/lycoris_clan.rpy:1639
+translate ukrainian kaori_reward_009a0bbf:
+
+    # kao "This isn't my first time seeing it. I'd already noticed traces of divine magic within your pathetic being."
+    kao "This isn't my first time seeing it. I'd already noticed traces of divine magic within your pathetic being."
+
+# game/game/lycoris_clan.rpy:1640
+translate ukrainian kaori_reward_b554b503:
+
+    # mc "Oh... Well, that's how I know. I have a blessing too."
+    mc "Oh... Well, that's how I know. I have a blessing too."
+
+# game/game/lycoris_clan.rpy:1642
+translate ukrainian kaori_reward_9084e80f:
+
+    # kao "Did the goddess who blessed you tell you that?"
+    kao "Did the goddess who blessed you tell you that?"
+
+# game/game/lycoris_clan.rpy:1643
+translate ukrainian kaori_reward_73b00ab0:
+
+    # t "She's taking this surprisingly well... Just how normal is this kind of thing for her?"
+    t "She's taking this surprisingly well... Just how normal is this kind of thing for her?"
+
+# game/game/lycoris_clan.rpy:1644
+translate ukrainian kaori_reward_f800bed0:
+
+    # mc "Yes."
+    mc "Yes."
+
+# game/game/lycoris_clan.rpy:1645
+translate ukrainian kaori_reward_f4e436ac:
+
+    # kao "That would explain her abnormal strength."
+    kao "That would explain her abnormal strength."
+
+# game/game/lycoris_clan.rpy:1647
+translate ukrainian kaori_reward_f98bf55d:
+
+    # kao "And why she's helping the Queen."
+    kao "And why she's helping the Queen."
+
+# game/game/lycoris_clan.rpy:1648
+translate ukrainian kaori_reward_ffec9039:
+
+    # mc "Hmm? Do you know why a goddess's servant would be helping her?"
+    mc "Hmm? Do you know why a goddess's servant would be helping her?"
+
+# game/game/lycoris_clan.rpy:1649
+translate ukrainian kaori_reward_e9124679_2:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1651
+translate ukrainian kaori_reward_7b2319b1:
+
+    # kao "You're protecting a demon, aren't you?"
+    kao "You're protecting a demon, aren't you?"
+
+# game/game/lycoris_clan.rpy:1652
+translate ukrainian kaori_reward_257aac49:
+
+    # mc "Yes. Ryoko. She's a good friend of Akane's."
+    mc "Yes. Ryoko. She's a good friend of Akane's."
+
+# game/game/lycoris_clan.rpy:1653
+translate ukrainian kaori_reward_e690ba95:
+
+    # kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh...{/i}{/sc} {w}That's why you don't understand."
+    kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh...{/i}{/sc} {w}That's why you don't understand."
+
+# game/game/lycoris_clan.rpy:1654
+translate ukrainian kaori_reward_96aa57ba:
+
+    # mc "Hmm? What?"
+    mc "Hmm? What?"
+
+# game/game/lycoris_clan.rpy:1657
+translate ukrainian kaori_reward_ae79450f:
+
+    # mc "Ahm..."
+    mc "Ahm..."
+
+# game/game/lycoris_clan.rpy:1658
+translate ukrainian kaori_reward_eaa3caa5:
+
+    # kao "And... {w}{b}\"a good friend of Akane's\"?"
+    kao "And... {w}{b}\"a good friend of Akane's\"?"
+
+# game/game/lycoris_clan.rpy:1659
+translate ukrainian kaori_reward_60ddaf08:
+
+    # kao "You say that as if it were a good thing."
+    kao "You say that as if it were a good thing."
+
+# game/game/lycoris_clan.rpy:1661
+translate ukrainian kaori_reward_09d9ec03:
+
+    # mc "I..."
+    mc "I..."
+
+# game/game/lycoris_clan.rpy:1662
+translate ukrainian kaori_reward_2036d3d2:
+
+    # kao "This is definitely your fault."
+    kao "This is definitely your fault."
+
+# game/game/lycoris_clan.rpy:1663
+translate ukrainian kaori_reward_72cf77fe:
+
+    # kao "You've been like a bloodstain on a white dress ever since you showed up."
+    kao "You've been like a bloodstain on a white dress ever since you showed up."
+
+# game/game/lycoris_clan.rpy:1664
+translate ukrainian kaori_reward_a189bf49:
+
+    # kao "If I didn't have a use for your insignificant existence, I'd slit your throat right here and now and solve all my problems."
+    kao "If I didn't have a use for your insignificant existence, I'd slit your throat right here and now and solve all my problems."
+
+# game/game/lycoris_clan.rpy:1666
+translate ukrainian kaori_reward_48366d45:
+
+    # kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh*"
+    kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh*"
+
+# game/game/lycoris_clan.rpy:1667
+translate ukrainian kaori_reward_389b6e0a:
+
+    # kao "Luna, I told you to get lost."
+    kao "Luna, I told you to get lost."
+
+# game/game/lycoris_clan.rpy:1668
+translate ukrainian kaori_reward_bf8c4701:
+
+    # mc "Hmm...?"
+    mc "Hmm...?"
+
+# game/game/lycoris_clan.rpy:1670
+translate ukrainian kaori_reward_86f0e6f8:
+
+    # mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Gulp*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Gulp*"
+
+# game/game/lycoris_clan.rpy:1671
+translate ukrainian kaori_reward_73c45795:
+
+    # t "W-When did she get here?"
+    t "W-When did she get here?"
+
+# game/game/lycoris_clan.rpy:1672
+translate ukrainian kaori_reward_21109471:
+
+    # lu "I've rested enough, {w}Madam Kaori."
+    lu "I've rested enough, {w}Madam Kaori."
+
+# game/game/lycoris_clan.rpy:1674
+translate ukrainian kaori_reward_567a5dd0:
+
+    # kao "It's strange that someone like you would receive a blessing."
+    kao "It's strange that someone like you would receive a blessing."
+
+# game/game/lycoris_clan.rpy:1675
+translate ukrainian kaori_reward_db8df50e:
+
+    # mc "What? {w}Why?"
+    mc "What? {w}Why?"
+
+# game/game/lycoris_clan.rpy:1677
+translate ukrainian kaori_reward_b87966ca:
+
+    # kao "Ignorance must truly be a privilege."
+    kao "Ignorance must truly be a privilege."
+
+# game/game/lycoris_clan.rpy:1678
+translate ukrainian kaori_reward_300e7f8e:
+
+    # kao "Because it was those very same Goddesses who chained the demons."
+    kao "Because it was those very same Goddesses who chained the demons."
+
+# game/game/lycoris_clan.rpy:1679
+translate ukrainian kaori_reward_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1680
+translate ukrainian kaori_reward_88cb0424:
+
+    # kao "They played with the minds of insignificant humans, turning them against any being that had lived even a day longer than they had."
+    kao "They played with the minds of insignificant humans, turning them against any being that had lived even a day longer than they had."
+
+# game/game/lycoris_clan.rpy:1682
+translate ukrainian kaori_reward_1ea0ef5c:
+
+    # kao "Only those of us who have lived long enough to witness it know the truth."
+    kao "Only those of us who have lived long enough to witness it know the truth."
+
+# game/game/lycoris_clan.rpy:1683
+translate ukrainian kaori_reward_8bf6942f:
+
+    # kao "The hidden power, {w}the intervention of the gods, {w}the creation of the chains."
+    kao "The hidden power, {w}the intervention of the gods, {w}the creation of the chains."
+
+# game/game/lycoris_clan.rpy:1684
+translate ukrainian kaori_reward_ff81c8dc:
+
+    # kao "I don't know if this is some kind of cruel joke... blessing someone who protects them."
+    kao "I don't know if this is some kind of cruel joke... blessing someone who protects them."
+
+# game/game/lycoris_clan.rpy:1686
+translate ukrainian kaori_reward_d0744387:
+
+    # mc "{sc=2}{outlinecolor=#000000}{size=-9}{i}W-Was it the Goddesses...?"
+    mc "{sc=2}{outlinecolor=#000000}{size=-9}{i}W-Was it the Goddesses...?"
+
+# game/game/lycoris_clan.rpy:1690
+translate ukrainian kaori_reward_658afd50:
+
+    # hi "{sc=1}{outlinecolor=#000000}{size=-8}{b}The Chains...?"
+    hi "{sc=1}{outlinecolor=#000000}{size=-8}{b}The Chains...?"
+
+# game/game/lycoris_clan.rpy:1691
+translate ukrainian kaori_reward_19341144:
+
+    # hi "{sc=1}{outlinecolor=#000000}{size=-8}{b}We are a joke to you?"
+    hi "{sc=1}{outlinecolor=#000000}{size=-8}{b}We are a joke to you?"
+
+# game/game/lycoris_clan.rpy:1700
+translate ukrainian kaori_reward_09fb7aa6:
+
+    # mir "{i}Wouldn't it be more merciful to end their lives?"
+    mir "{i}Wouldn't it be more merciful to end their lives?"
+
+# game/game/lycoris_clan.rpy:1701
+translate ukrainian kaori_reward_8041f327:
+
+    # mir "{i}Condemning them to a miserable existence would be worse than death."
+    mir "{i}Condemning them to a miserable existence would be worse than death."
+
+# game/game/lycoris_clan.rpy:1707
+translate ukrainian kaori_reward_2895b5e5:
+
+    # mir "{i}..."
+    mir "{i}..."
+
+# game/game/lycoris_clan.rpy:1716
+translate ukrainian kaori_reward_72ab6e82:
+
+    # lu "...?"
+    lu "...?"
+
+# game/game/lycoris_clan.rpy:1717
+translate ukrainian kaori_reward_d6d294db:
+
+    # kao "...?"
+    kao "...?"
+
+# game/game/lycoris_clan.rpy:1718
+translate ukrainian kaori_reward_1d82a7e7:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/lycoris_clan.rpy:1720
+translate ukrainian kaori_reward_f78769e8:
+
+    # kao "Luna."
+    kao "Luna."
+
+# game/game/lycoris_clan.rpy:1721
+translate ukrainian kaori_reward_32dabc03:
+
+    # lu "The Swordsman cut himself on my blade."
+    lu "The Swordsman cut himself on my blade."
+
+# game/game/lycoris_clan.rpy:1722
+translate ukrainian kaori_reward_1df34ce0:
+
+    # mc "S-Sorry, {w}I've been h-having some headaches lately..."
+    mc "S-Sorry, {w}I've been h-having some headaches lately..."
+
+# game/game/lycoris_clan.rpy:1724
+translate ukrainian kaori_reward_adee8cf6:
+
+    # kao "Wipe that off. Are you trying to cause a scene?"
+    kao "Wipe that off. Are you trying to cause a scene?"
+
+# game/game/lycoris_clan.rpy:1725
+translate ukrainian kaori_reward_f977925a:
+
+    # kao "Before you make them waste their energy healing a pathetic creature like you, tell me what you want."
+    kao "Before you make them waste their energy healing a pathetic creature like you, tell me what you want."
+
+# game/game/lycoris_clan.rpy:1726
+translate ukrainian kaori_reward_e9ac17b8:
+
+    # t "Is she talking about my reward?"
+    t "Is she talking about my reward?"
+
+# game/game/lycoris_clan.rpy:1727
+translate ukrainian kaori_reward_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1729
+translate ukrainian kaori_reward_bb0eeaf4:
+
+    # mc "Thank you."
+    mc "Thank you."
+
+# game/game/lycoris_clan.rpy:1730
+translate ukrainian kaori_reward_f29579c3:
+
+    # mc "I'd like to talk to Zuri."
+    mc "I'd like to talk to Zuri."
+
+# game/game/lycoris_clan.rpy:1731
+translate ukrainian kaori_reward_e9124679_3:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1732
+translate ukrainian kaori_reward_1c105e0a:
+
+    # kao "Why all this interest in that traitorous woman?"
+    kao "Why all this interest in that traitorous woman?"
+
+# game/game/lycoris_clan.rpy:1733
+translate ukrainian kaori_reward_b1be0583:
+
+    # mc "I-It's not her I'm interested in, but the information she has."
+    mc "I-It's not her I'm interested in, but the information she has."
+
+# game/game/lycoris_clan.rpy:1734
+translate ukrainian kaori_reward_e4263099:
+
+    # mc "She's the only person who had a direct connection to the mercenary who attacked my village."
+    mc "She's the only person who had a direct connection to the mercenary who attacked my village."
+
+# game/game/lycoris_clan.rpy:1735
+translate ukrainian kaori_reward_aaf4be3d:
+
+    # kao "Hmm..."
+    kao "Hmm..."
+
+# game/game/lycoris_clan.rpy:1736
+translate ukrainian kaori_reward_ed173a71:
+
+    # kao "What a waste of a reward."
+    kao "What a waste of a reward."
+
+# game/game/lycoris_clan.rpy:1738
+translate ukrainian kaori_reward_c7bc74ac:
+
+    # kao "Very well. Permission granted."
+    kao "Very well. Permission granted."
+
+# game/game/lycoris_clan.rpy:1739
+translate ukrainian kaori_reward_e9124679_4:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1740
+translate ukrainian kaori_reward_c638b02d:
+
+    # mc "Thank you, Madam Kaori."
+    mc "Thank you, Madam Kaori."
+
+# game/game/lycoris_clan.rpy:1741
+translate ukrainian kaori_reward_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1742
+translate ukrainian kaori_reward_ca9d00c2:
+
+    # t "What's wrong? She suddenly went quiet."
+    t "What's wrong? She suddenly went quiet."
+
+# game/game/lycoris_clan.rpy:1744
+translate ukrainian kaori_reward_7cdff01a:
+
+    # t "Akane has been doing that ever since I got here, but something feels different now."
+    t "Akane has been doing that ever since I got here, but something feels different now."
+
+# game/game/lycoris_clan.rpy:1745
+translate ukrainian kaori_reward_37125ad4:
+
+    # t "The air feels calmer... Did she manage to get it under control?"
+    t "The air feels calmer... Did she manage to get it under control?"
+
+# game/game/lycoris_clan.rpy:1746
+translate ukrainian kaori_reward_30d111c3:
+
+    # t "I'd like to ask what her goal is, but Luna said these were family matters."
+    t "I'd like to ask what her goal is, but Luna said these were family matters."
+
+# game/game/lycoris_clan.rpy:1747
+translate ukrainian kaori_reward_e9124679_5:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1749
+translate ukrainian kaori_reward_1a98590d:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}Haa..."
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}Haa..."
+
+# game/game/lycoris_clan.rpy:1750
+translate ukrainian kaori_reward_da39e399:
+
+    # kao "Hmm."
+    kao "Hmm."
+
+# game/game/lycoris_clan.rpy:1753
+translate ukrainian kaori_reward_bc0aa904:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}Ghg!"
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}Ghg!"
+
+# game/game/lycoris_clan.rpy:1755
+translate ukrainian kaori_reward_ab203a05:
+
+    # kao "{b}Pathetic."
+    kao "{b}Pathetic."
+
+# game/game/lycoris_clan.rpy:1756
+translate ukrainian kaori_reward_bbd967c8_1:
+
+    # kao "Again."
+    kao "Again."
+
+# game/game/lycoris_clan.rpy:1757
+translate ukrainian kaori_reward_63002dae:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF5C5C}Damn it..."
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF5C5C}Damn it..."
+
+# game/game/lycoris_clan.rpy:1758
+translate ukrainian kaori_reward_9e658b42:
+
+    # kao "But perhaps you won't accomplish anything."
+    kao "But perhaps you won't accomplish anything."
+
+# game/game/lycoris_clan.rpy:1760
+translate ukrainian kaori_reward_75d15b76:
+
+    # mc "Hmm? Why?"
+    mc "Hmm? Why?"
+
+# game/game/lycoris_clan.rpy:1761
+translate ukrainian kaori_reward_821133ca:
+
+    # kao "Do you think I haven't tried getting information out of her?"
+    kao "Do you think I haven't tried getting information out of her?"
+
+# game/game/lycoris_clan.rpy:1762
+translate ukrainian kaori_reward_8bd4ce88:
+
+    # kao "Not even under the influence of my magic did she reveal anything important."
+    kao "Not even under the influence of my magic did she reveal anything important."
+
+# game/game/lycoris_clan.rpy:1763
+translate ukrainian kaori_reward_fdd64ad8:
+
+    # kao "It was as if she were a completely different person..."
+    kao "It was as if she were a completely different person..."
+
+# game/game/lycoris_clan.rpy:1764
+translate ukrainian kaori_reward_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1765
+translate ukrainian kaori_reward_a7bcf340:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/lycoris_clan.rpy:1767
+translate ukrainian kaori_reward_322d0f02:
+
+    # kao "Now, get out of my sight if you have nothing else to tell me."
+    kao "Now, get out of my sight if you have nothing else to tell me."
+
+# game/game/lycoris_clan.rpy:1768
+translate ukrainian kaori_reward_d3d5b7f7:
+
+    # t "She looks angry... What happened?"
+    t "She looks angry... What happened?"
+
+# game/game/lycoris_clan.rpy:1769
+translate ukrainian kaori_reward_58bc4f31:
+
+    # lu "Let's go."
+    lu "Let's go."
+
+# game/game/lycoris_clan.rpy:1770
+translate ukrainian kaori_reward_34d7565c:
+
+    # mc "{size=-6}Y-Yeah..."
+    mc "{size=-6}Y-Yeah..."
+
+# game/game/lycoris_clan.rpy:1775
+translate ukrainian kaori_reward_ca6a8a45:
+
+    # kao "{color=#ff0058}{i}A servant of a goddess..."
+    kao "{color=#ff0058}{i}A servant of a goddess..."
+
+# game/game/lycoris_clan.rpy:1776
+translate ukrainian kaori_reward_2a425207:
+
+    # kao "{color=#ff0058}{i}Damn goddesses... always breaking their own rules."
+    kao "{color=#ff0058}{i}Damn goddesses... always breaking their own rules."
+
+# game/game/lycoris_clan.rpy:1778
+translate ukrainian kaori_reward_f186119d:
+
+    # kao "{color=#ff0058}{i}The plan hasn't changed. I just need him to keep the Queen distracted while we deal with the barrier."
+    kao "{color=#ff0058}{i}The plan hasn't changed. I just need him to keep the Queen distracted while we deal with the barrier."
+
+# game/game/lycoris_clan.rpy:1779
+translate ukrainian kaori_reward_f4627637:
+
+    # kao "{color=#ff0058}{i}My power alone isn't enough to break through that teleportation barrier."
+    kao "{color=#ff0058}{i}My power alone isn't enough to break through that teleportation barrier."
+
+# game/game/lycoris_clan.rpy:1780
+translate ukrainian kaori_reward_98643369:
+
+    # kao "{color=#ff0058}{i}I need Akane to awaken her royal blood."
+    kao "{color=#ff0058}{i}I need Akane to awaken her royal blood."
+
+# game/game/lycoris_clan.rpy:1781
+translate ukrainian kaori_reward_2403e7e7:
+
+    # "{sc=2}{outlinecolor=#000000}{size=-6}{i}Shaking*"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{i}Shaking*"
+
+# game/game/lycoris_clan.rpy:1783
+translate ukrainian kaori_reward_83df277a:
+
+    # kao "{color=#ff0058}{i}And just when I thought Akane had finally succeeded, she failed me again."
+    kao "{color=#ff0058}{i}And just when I thought Akane had finally succeeded, she failed me again."
+
+# game/game/lycoris_clan.rpy:1784
+translate ukrainian kaori_reward_acc0d9a3:
+
+    # kao "{color=#ff0058}{i}At least now I understand why her self-control has become so exceptional... She's been drinking the blood of a blessed being."
+    kao "{color=#ff0058}{i}At least now I understand why her self-control has become so exceptional... She's been drinking the blood of a blessed being."
+
+# game/game/lycoris_clan.rpy:1785
+translate ukrainian kaori_reward_7b7c27dd:
+
+    # kao "{color=#ff0058}{i}All other blood must taste disgusting to her by now."
+    kao "{color=#ff0058}{i}All other blood must taste disgusting to her by now."
+
+# game/game/lycoris_clan.rpy:1786
+translate ukrainian kaori_reward_38263f50:
+
+    # kao "...?"
+    kao "...?"
+
+# game/game/lycoris_clan.rpy:1787
+translate ukrainian kaori_reward_2403e7e7_1:
+
+    # "{sc=2}{outlinecolor=#000000}{size=-6}{i}Shaking*"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{i}Shaking*"
+
+# game/game/lycoris_clan.rpy:1788
+translate ukrainian kaori_reward_e9124679_6:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1789
+translate ukrainian kaori_reward_2dc942fa:
+
+    # kao "{color=#ff0058}This feeling..."
+    kao "{color=#ff0058}This feeling..."
+
+# game/game/lycoris_clan.rpy:1791
+translate ukrainian kaori_reward_e9124679_7:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1793
+translate ukrainian kaori_reward_c0c45b41:
+
+    # kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sniff*"
+    kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sniff*"
+
+# game/game/lycoris_clan.rpy:1794
+translate ukrainian kaori_reward_e9124679_8:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1795
+translate ukrainian kaori_reward_1a6045ef:
+
+    # kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sniff* Sniff*"
+    kao "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sniff* Sniff*"
+
+# game/game/lycoris_clan.rpy:1796
+translate ukrainian kaori_reward_8826a2fa:
+
+    # ak "Madam Kaori."
+    ak "Madam Kaori."
+
+# game/game/lycoris_clan.rpy:1797
+translate ukrainian kaori_reward_e9124679_9:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1799
+translate ukrainian kaori_reward_45bcee4f:
+
+    # kao "Are you finished?"
+    kao "Are you finished?"
+
+# game/game/lycoris_clan.rpy:1800
+translate ukrainian kaori_reward_323e058c:
+
+    # ak "Yes. I just finished the last bottle for today."
+    ak "Yes. I just finished the last bottle for today."
+
+# game/game/lycoris_clan.rpy:1801
+translate ukrainian kaori_reward_c955649a:
+
+    # kao "And yet, your progress was mediocre."
+    kao "And yet, your progress was mediocre."
+
+# game/game/lycoris_clan.rpy:1802
+translate ukrainian kaori_reward_46b79df3_1:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:1804
+translate ukrainian kaori_reward_8b20d386:
+
+    # ak "Let me throw that dirty handkerchief away for you..."
+    ak "Let me throw that dirty handkerchief away for you..."
+
+# game/game/lycoris_clan.rpy:1805
+translate ukrainian kaori_reward_29d578cb:
+
+    # kao "Hmm?"
+    kao "Hmm?"
+
+# game/game/lycoris_clan.rpy:1806
+translate ukrainian kaori_reward_e9124679_10:
+
+    # kao "..."
+    kao "..."
+
+# game/game/lycoris_clan.rpy:1808
+translate ukrainian kaori_reward_3bb55033:
+
+    # kao "Fine. Now get out of my sight."
+    kao "Fine. Now get out of my sight."
+
+# game/game/lycoris_clan.rpy:1809
+translate ukrainian kaori_reward_5aad5195:
+
+    # ak "Yes."
+    ak "Yes."
+
+# game/game/lycoris_clan.rpy:1810
+translate ukrainian kaori_reward_46b79df3_2:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:1812
+translate ukrainian kaori_reward_7e4163fb:
+
+    # "{color=#FF5C5C}That idiot! He really did it this time!"
+    "{color=#FF5C5C}That idiot! He really did it this time!"
+
+# game/game/lycoris_clan.rpy:1813
+translate ukrainian kaori_reward_d1906d12:
+
+    # "{color=#FF5C5C}I don't think his blood would affect my mother, but I'd rather not take any chances."
+    "{color=#FF5C5C}I don't think his blood would affect my mother, but I'd rather not take any chances."
+
+# game/game/lycoris_clan.rpy:1816
+translate ukrainian kaori_reward_f3dcc95b:
+
+    # "{image=corazon}Clan respect increased to [lycoris_respect]{image=corazon}"
+    "{image=corazon}Clan respect increased to [lycoris_respect]{image=corazon}"
+
+# game/game/lycoris_clan.rpy:1829
+translate ukrainian reika_zuri_2fe44a82:
+
+    # "{color=#764C3F}What do you want?"
+    "{color=#764C3F}What do you want?"
+
+# game/game/lycoris_clan.rpy:1830
+translate ukrainian reika_zuri_a3903601:
+
+    # mc "Yesterday-"
+    mc "Yesterday-"
+
+# game/game/lycoris_clan.rpy:1831
+translate ukrainian reika_zuri_ce254b2e:
+
+    # "{color=#764C3F}You want to see the nekomata?"
+    "{color=#764C3F}You want to see the nekomata?"
+
+# game/game/lycoris_clan.rpy:1832
+translate ukrainian reika_zuri_39b8ad8c:
+
+    # mc "I see you've already been informed."
+    mc "I see you've already been informed."
+
+# game/game/lycoris_clan.rpy:1834
+translate ukrainian reika_zuri_b01285b9:
+
+    # "{color=#764C3F}Tell me what you intend to do with her."
+    "{color=#764C3F}Tell me what you intend to do with her."
+
+# game/game/lycoris_clan.rpy:1835
+translate ukrainian reika_zuri_b2b9e19d:
+
+    # mc "What do you mean?"
+    mc "What do you mean?"
+
+# game/game/lycoris_clan.rpy:1836
+translate ukrainian reika_zuri_eb3d1b32:
+
+    # "{color=#764C3F}Talk to her? Hit her?"
+    "{color=#764C3F}Talk to her? Hit her?"
+
+# game/game/lycoris_clan.rpy:1838
+translate ukrainian reika_zuri_f38483a6:
+
+    # "{color=#764C3F}Enjoy her body?"
+    "{color=#764C3F}Enjoy her body?"
+
+# game/game/lycoris_clan.rpy:1839
+translate ukrainian reika_zuri_450bb475:
+
+    # mc "W-What-"
+    mc "W-What-"
+
+# game/game/lycoris_clan.rpy:1840
+translate ukrainian reika_zuri_5384e057:
+
+    # "{color=#764C3F}As long as you don't kill her, you can do whatever you want. Consider it your reward."
+    "{color=#764C3F}As long as you don't kill her, you can do whatever you want. Consider it your reward."
+
+# game/game/lycoris_clan.rpy:1841
+translate ukrainian reika_zuri_e574ff87:
+
+    # mc "I just want to talk to her!"
+    mc "I just want to talk to her!"
+
+# game/game/lycoris_clan.rpy:1843
+translate ukrainian reika_zuri_df1036ab:
+
+    # "{color=#764C3F}I already knew that."
+    "{color=#764C3F}I already knew that."
+
+# game/game/lycoris_clan.rpy:1844
+translate ukrainian reika_zuri_8dab1bb4:
+
+    # mc "Then why-"
+    mc "Then why-"
+
+# game/game/lycoris_clan.rpy:1845
+translate ukrainian reika_zuri_0ad26012:
+
+    # "{color=#764C3F}I just wanted to make sure you weren't planning to take advantage of Madam Kaori's kindness."
+    "{color=#764C3F}I just wanted to make sure you weren't planning to take advantage of Madam Kaori's kindness."
+
+# game/game/lycoris_clan.rpy:1846
+translate ukrainian reika_zuri_9f42dc13:
+
+    # mc "Eh..."
+    mc "Eh..."
+
+# game/game/lycoris_clan.rpy:1848
+translate ukrainian reika_zuri_f97fe011:
+
+    # "{color=#764C3F}Swordsman is permitted to enter the nekomata's cell."
+    "{color=#764C3F}Swordsman is permitted to enter the nekomata's cell."
+
+# game/game/lycoris_clan.rpy:1849
+translate ukrainian reika_zuri_922e48c6:
+
+    # "{color=#764C3F}Don't leave him alone with her."
+    "{color=#764C3F}Don't leave him alone with her."
+
+# game/game/lycoris_clan.rpy:1851
+translate ukrainian reika_zuri_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/lycoris_clan.rpy:1852
+translate ukrainian reika_zuri_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/lycoris_clan.rpy:1853
+translate ukrainian reika_zuri_d7edd024:
+
+    # "."
+    "."
+
+# game/game/lycoris_clan.rpy:1854
+translate ukrainian reika_zuri_fcdda340:
+
+    # mc "So... {w}can I go now?"
+    mc "So... {w}can I go now?"
+
+# game/game/lycoris_clan.rpy:1856
+translate ukrainian reika_zuri_e2184d37:
+
+    # "{color=#764C3F}Why are you still here?"
+    "{color=#764C3F}Why are you still here?"
+
+# game/game/lycoris_clan.rpy:1857
+translate ukrainian reika_zuri_f18b49ee:
+
+    # "{color=#764C3F}You should know better than anyone where the cells are."
+    "{color=#764C3F}You should know better than anyone where the cells are."
+
+# game/game/lycoris_clan.rpy:1858
+translate ukrainian reika_zuri_2da5aa6c:
+
+    # mc "Ah... yeah..."
+    mc "Ah... yeah..."
+
+# game/game/lycoris_clan.rpy:1859
+translate ukrainian reika_zuri_9479a17e:
+
+    # mc "I thought that-"
+    mc "I thought that-"
+
+# game/game/lycoris_clan.rpy:1861
+translate ukrainian reika_zuri_8d588bcd:
+
+    # "{color=#764C3F}Do you need me to hold your hand? I've already given the order. The girls will let you through."
+    "{color=#764C3F}Do you need me to hold your hand? I've already given the order. The girls will let you through."
+
+# game/game/lycoris_clan.rpy:1862
+translate ukrainian reika_zuri_0f5eb043:
+
+    # mc "O-Okay... {w}thank you."
+    mc "O-Okay... {w}thank you."
+
+# game/game/lycoris_clan.rpy:1863
+translate ukrainian reika_zuri_51dbd910:
+
+    # "{color=#764C3F}Save your gratitude for Madam Kaori."
+    "{color=#764C3F}Save your gratitude for Madam Kaori."
+
+# game/game/lycoris_clan.rpy:1865
+translate ukrainian reika_zuri_17bfff99:
+
+    # t "What did I ever do to that woman to make her so angry?"
+    t "What did I ever do to that woman to make her so angry?"
+
+# game/game/lycoris_clan.rpy:1866
+translate ukrainian reika_zuri_29a4dadc:
+
+    # t "Well, whatever."
+    t "Well, whatever."
+
+# game/game/lycoris_clan.rpy:1867
+translate ukrainian reika_zuri_1c0f8ecc:
+
+    # t "Now that I think about it, I haven't even planned what I'm going to ask Zuri."
+    t "Now that I think about it, I haven't even planned what I'm going to ask Zuri."
+
+# game/game/lycoris_clan.rpy:1868
+translate ukrainian reika_zuri_0dee1908:
+
+    # t "And even if I did, I doubt she'd answer me right away."
+    t "And even if I did, I doubt she'd answer me right away."
+
+# game/game/lycoris_clan.rpy:1870
+translate ukrainian reika_zuri_dd547ae4:
+
+    # "{color=#6F3A68}Ah, Swordsman. You're here already."
+    "{color=#6F3A68}Ah, Swordsman. You're here already."
+
+# game/game/lycoris_clan.rpy:1871
+translate ukrainian reika_zuri_4e85cb4d:
+
+    # mc "Hello?"
+    mc "Hello?"
+
+# game/game/lycoris_clan.rpy:1873
+translate ukrainian reika_zuri_3fd87158:
+
+    # "{color=#6F3A68}Before you talk to the prisoner, would you let me suck you off?"
+    "{color=#6F3A68}Before you talk to the prisoner, would you let me suck you off?"
+
+# game/game/lycoris_clan.rpy:1874
+translate ukrainian reika_zuri_c2e0f76d:
+
+    # mc "No, thanks. Someone might kill me if I let anyone suck my blood."
+    mc "No, thanks. Someone might kill me if I let anyone suck my blood."
+
+# game/game/lycoris_clan.rpy:1876
+translate ukrainian reika_zuri_0b17140c:
+
+    # "{color=#6F3A68}Who said anything about blood?"
+    "{color=#6F3A68}Who said anything about blood?"
+
+# game/game/lycoris_clan.rpy:1877
+translate ukrainian reika_zuri_3d6409e6:
+
+    # mc "What?"
+    mc "What?"
+
+# game/game/lycoris_clan.rpy:1878
+translate ukrainian reika_zuri_4582a8c0:
+
+    # "{color=#6F3A68}What?"
+    "{color=#6F3A68}What?"
+
+# game/game/lycoris_clan.rpy:1880
+translate ukrainian reika_zuri_3df3cb6c:
+
+    # "{color=#6F3A68}Anyway, you can talk to her."
+    "{color=#6F3A68}Anyway, you can talk to her."
+
+# game/game/lycoris_clan.rpy:1881
+translate ukrainian reika_zuri_b0c06aae:
+
+    # "{color=#6F3A68}Don't believe a word she says, and don't you dare fuck her in front of me."
+    "{color=#6F3A68}Don't believe a word she says, and don't you dare fuck her in front of me."
+
+# game/game/lycoris_clan.rpy:1882
+translate ukrainian reika_zuri_9c8740cc:
+
+    # mc "What?! That's not why I'm here!"
+    mc "What?! That's not why I'm here!"
+
+# game/game/lycoris_clan.rpy:1884
+translate ukrainian reika_zuri_a3db3621:
+
+    # "{color=#6F3A68}Muehehe~"
+    "{color=#6F3A68}Muehehe~"
+
+# game/game/lycoris_clan.rpy:1885
+translate ukrainian reika_zuri_9775ee39:
+
+    # "{color=#6F3A68}I'll be right here if you need me."
+    "{color=#6F3A68}I'll be right here if you need me."
+
+# game/game/lycoris_clan.rpy:1887
+translate ukrainian reika_zuri_14f1b66b:
+
+    # mc "{sc=2}{outlinecolor=#000000}{size=-8}Sigh*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Sigh*"
+
+# game/game/lycoris_clan.rpy:1888
+translate ukrainian reika_zuri_50292e95:
+
+    # t "Are all vampire girls this hard to deal with?"
+    t "Are all vampire girls this hard to deal with?"
+
+# game/game/lycoris_clan.rpy:1890
+translate ukrainian reika_zuri_eede47d3:
+
+    # "{color=#c6397a}Oh, look who's here. The guy who almost slit my throat."
+    "{color=#c6397a}Oh, look who's here. The guy who almost slit my throat."
+
+# game/game/lycoris_clan.rpy:1891
+translate ukrainian reika_zuri_1932569e:
+
+    # "{color=#c6397a}They really did rob you of your chance for revenge, didn't they?"
+    "{color=#c6397a}They really did rob you of your chance for revenge, didn't they?"
+
+# game/game/lycoris_clan.rpy:1893
+translate ukrainian reika_zuri_8460372e:
+
+    # "{color=#c6397a}Look who it is. The guy who's too afraid to take a life."
+    "{color=#c6397a}Look who it is. The guy who's too afraid to take a life."
+
+# game/game/lycoris_clan.rpy:1894
+translate ukrainian reika_zuri_ff315278:
+
+    # "{color=#c6397a}Or maybe I should say, \"Thank you for sparing my life.\" Hahaha."
+    "{color=#c6397a}Or maybe I should say, \"Thank you for sparing my life.\" Hahaha."
+
+# game/game/lycoris_clan.rpy:1895
+translate ukrainian reika_zuri_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1897
+translate ukrainian reika_zuri_67c64219:
+
+    # mc "Zuri..."
+    mc "Zuri..."
+
+# game/game/lycoris_clan.rpy:1899
+translate ukrainian reika_zuri_c08ef663:
+
+    # zu "I didn't think I'd ever get another visitor before the day I died."
+    zu "I didn't think I'd ever get another visitor before the day I died."
+
+# game/game/lycoris_clan.rpy:1900
+translate ukrainian reika_zuri_f303596a:
+
+    # zu "Though Reika was a little friendlier."
+    zu "Though Reika was a little friendlier."
+
+# game/game/lycoris_clan.rpy:1902
+translate ukrainian reika_zuri_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1903
+translate ukrainian reika_zuri_5e46bab7:
+
+    # zu "I'll admit, I like seeing you like this."
+    zu "I'll admit, I like seeing you like this."
+
+# game/game/lycoris_clan.rpy:1905
+translate ukrainian reika_zuri_2876efd9:
+
+    # mc "Why?"
+    mc "Why?"
+
+# game/game/lycoris_clan.rpy:1906
+translate ukrainian reika_zuri_53f116b4:
+
+    # zu "Why what?~"
+    zu "Why what?~"
+
+# game/game/lycoris_clan.rpy:1907
+translate ukrainian reika_zuri_78c7dbfe:
+
+    # mc "Why did you help that guy?"
+    mc "Why did you help that guy?"
+
+# game/game/lycoris_clan.rpy:1909
+translate ukrainian reika_zuri_d3e75a76:
+
+    # zu "Do you think that just because I'm locked up in here, I have to answer every question like a good little girl?"
+    zu "Do you think that just because I'm locked up in here, I have to answer every question like a good little girl?"
+
+# game/game/lycoris_clan.rpy:1910
+translate ukrainian reika_zuri_23cf3fbc:
+
+    # mc "I thought you hated mercenaries."
+    mc "I thought you hated mercenaries."
+
+# game/game/lycoris_clan.rpy:1912
+translate ukrainian reika_zuri_d9283b9f:
+
+    # zu "Hahaha, don't you know anything about keeping your identity a secret?"
+    zu "Hahaha, don't you know anything about keeping your identity a secret?"
+
+# game/game/lycoris_clan.rpy:1913
+translate ukrainian reika_zuri_7bf9c440:
+
+    # mc "And Natsuki?"
+    mc "And Natsuki?"
+
+# game/game/lycoris_clan.rpy:1914
+translate ukrainian reika_zuri_0f13397a:
+
+    # zu "..."
+    zu "..."
+
+# game/game/lycoris_clan.rpy:1916
+translate ukrainian reika_zuri_eb9ff166:
+
+    # zu "Did you learn how easy it is to deceive people once they trust you?"
+    zu "Did you learn how easy it is to deceive people once they trust you?"
+
+# game/game/lycoris_clan.rpy:1917
+translate ukrainian reika_zuri_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1919
+translate ukrainian reika_zuri_0fc66365:
+
+    # zu "I don't know what you were hoping to accomplish by coming here, but it's not going to work."
+    zu "I don't know what you were hoping to accomplish by coming here, but it's not going to work."
+
+# game/game/lycoris_clan.rpy:1921
+translate ukrainian reika_zuri_0f26ddcf:
+
+    # t "All she's done is answer my questions with more questions."
+    t "All she's done is answer my questions with more questions."
+
+# game/game/lycoris_clan.rpy:1922
+translate ukrainian reika_zuri_b50db2e5:
+
+    # t "I don't think I'm going to get anywhere like this."
+    t "I don't think I'm going to get anywhere like this."
+
+# game/game/lycoris_clan.rpy:1923
+translate ukrainian reika_zuri_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1924
+translate ukrainian reika_zuri_ed87226f:
+
+    # mc "What do you want?"
+    mc "What do you want?"
+
+# game/game/lycoris_clan.rpy:1926
+translate ukrainian reika_zuri_5ff257e3:
+
+    # zu "...?"
+    zu "...?"
+
+# game/game/lycoris_clan.rpy:1927
+translate ukrainian reika_zuri_39d31c3c:
+
+    # zu "Huh? What?"
+    zu "Huh? What?"
+
+# game/game/lycoris_clan.rpy:1928
+translate ukrainian reika_zuri_c839c67a:
+
+    # mc "What do you want in exchange for telling me why you helped Orson?"
+    mc "What do you want in exchange for telling me why you helped Orson?"
+
+# game/game/lycoris_clan.rpy:1930
+translate ukrainian reika_zuri_e3e22d29:
+
+    # zu "What makes you think I had a reason for helping him?"
+    zu "What makes you think I had a reason for helping him?"
+
+# game/game/lycoris_clan.rpy:1931
+translate ukrainian reika_zuri_87f25798:
+
+    # mc "My intuition."
+    mc "My intuition."
+
+# game/game/lycoris_clan.rpy:1932
+translate ukrainian reika_zuri_dc6024b2:
+
+    # zu "Your-"
+    zu "Your-"
+
+# game/game/lycoris_clan.rpy:1934
+translate ukrainian reika_zuri_d374aa7f:
+
+    # zu "{sc=2}{outlinecolor=#000000}{size=-8}Hahahaha!"
+    zu "{sc=2}{outlinecolor=#000000}{size=-8}Hahahaha!"
+
+# game/game/lycoris_clan.rpy:1935
+translate ukrainian reika_zuri_9e4c1a8f:
+
+    # zu "Have you always been this funny?"
+    zu "Have you always been this funny?"
+
+# game/game/lycoris_clan.rpy:1936
+translate ukrainian reika_zuri_110e4b83:
+
+    # mc "You two are nothing alike."
+    mc "You two are nothing alike."
+
+# game/game/lycoris_clan.rpy:1938
+translate ukrainian reika_zuri_8844f512:
+
+    # zu "Yeah? {w}Tell me why."
+    zu "Yeah? {w}Tell me why."
+
+# game/game/lycoris_clan.rpy:1939
+translate ukrainian reika_zuri_b7762ffd:
+
+    # mc "That guy gets a kick out of watching other people suffer."
+    mc "That guy gets a kick out of watching other people suffer."
+
+# game/game/lycoris_clan.rpy:1940
+translate ukrainian reika_zuri_9749bdbf:
+
+    # mc "But you... {w}when you were interacting with the people of Sakura Town..."
+    mc "But you... {w}when you were interacting with the people of Sakura Town..."
+
+# game/game/lycoris_clan.rpy:1942
+translate ukrainian reika_zuri_61a86597:
+
+    # mc "You always seemed like you were putting on an act."
+    mc "You always seemed like you were putting on an act."
+
+# game/game/lycoris_clan.rpy:1943
+translate ukrainian reika_zuri_d5e2d6fd:
+
+    # mc "And you looked incredibly uncomfortable doing it."
+    mc "And you looked incredibly uncomfortable doing it."
+
+# game/game/lycoris_clan.rpy:1945
+translate ukrainian reika_zuri_ce94905e:
+
+    # zu "{sc=2}{outlinecolor=#000000}{size=-8}Pfff-"
+    zu "{sc=2}{outlinecolor=#000000}{size=-8}Pfff-"
+
+# game/game/lycoris_clan.rpy:1946
+translate ukrainian reika_zuri_90277a29:
+
+    # zu "{sc=2}{outlinecolor=#000000}{size=-8}Ahahah!"
+    zu "{sc=2}{outlinecolor=#000000}{size=-8}Ahahah!"
+
+# game/game/lycoris_clan.rpy:1948
+translate ukrainian reika_zuri_2917e82d:
+
+    # zu "I never thought I'd hear a wannabe hero give me a speech like that! Hahaha."
+    zu "I never thought I'd hear a wannabe hero give me a speech like that! Hahaha."
+
+# game/game/lycoris_clan.rpy:1949
+translate ukrainian reika_zuri_63322722:
+
+    # mc "Say whatever you want."
+    mc "Say whatever you want."
+
+# game/game/lycoris_clan.rpy:1951
+translate ukrainian reika_zuri_c49626eb:
+
+    # mc "When we first met, when you talked to Natsuki or the other girls..."
+    mc "When we first met, when you talked to Natsuki or the other girls..."
+
+# game/game/lycoris_clan.rpy:1952
+translate ukrainian reika_zuri_ca5287d3:
+
+    # mc "When you said those awful things about Sayori..."
+    mc "When you said those awful things about Sayori..."
+
+# game/game/lycoris_clan.rpy:1953
+translate ukrainian reika_zuri_ea46dbe5:
+
+    # mc "It all felt like watching someone awkwardly play a role."
+    mc "It all felt like watching someone awkwardly play a role."
+
+# game/game/lycoris_clan.rpy:1954
+translate ukrainian reika_zuri_16746091:
+
+    # mc "Actually... it was more than an act. You seemed like a completely different person."
+    mc "Actually... it was more than an act. You seemed like a completely different person."
+
+# game/game/lycoris_clan.rpy:1955
+translate ukrainian reika_zuri_0f13397a_1:
+
+    # zu "..."
+    zu "..."
+
+# game/game/lycoris_clan.rpy:1957
+translate ukrainian reika_zuri_4750782b:
+
+    # zu "Just get out of here."
+    zu "Just get out of here."
+
+# game/game/lycoris_clan.rpy:1958
+translate ukrainian reika_zuri_e2a31d1d:
+
+    # zu "I have nothing to say to you."
+    zu "I have nothing to say to you."
+
+# game/game/lycoris_clan.rpy:1959
+translate ukrainian reika_zuri_9e7ca305:
+
+    # zu "You won."
+    zu "You won."
+
+# game/game/lycoris_clan.rpy:1960
+translate ukrainian reika_zuri_77445ffe:
+
+    # zu "You're free. I'm not."
+    zu "You're free. I'm not."
+
+# game/game/lycoris_clan.rpy:1965
+translate ukrainian reika_zuri_eee152ab:
+
+    # zu "{size=-6}I won't fall for this again."
+    zu "{size=-6}I won't fall for this again."
+
+# game/game/lycoris_clan.rpy:1970
+translate ukrainian reika_zuri_dcf156c3:
+
+    # zu "You don't know what you're talking about."
+    zu "You don't know what you're talking about."
+
+# game/game/lycoris_clan.rpy:1975
+translate ukrainian reika_zuri_6b58889b:
+
+    # mc "{size=-6}Sigh*"
+    mc "{size=-6}Sigh*"
+
+# game/game/lycoris_clan.rpy:1977
+translate ukrainian reika_zuri_97839fea:
+
+    # t "I knew I probably wouldn't accomplish anything, but I still held on to a glimmer of hope that I might learn something."
+    t "I knew I probably wouldn't accomplish anything, but I still held on to a glimmer of hope that I might learn something."
+
+# game/game/lycoris_clan.rpy:1978
+translate ukrainian reika_zuri_5b977cb8:
+
+    # t "No matter how insignificant it might be."
+    t "No matter how insignificant it might be."
+
+# game/game/lycoris_clan.rpy:1980
+translate ukrainian reika_zuri_182e26d0:
+
+    # rei "I thought you were smarter than that."
+    rei "I thought you were smarter than that."
+
+# game/game/lycoris_clan.rpy:1982
+translate ukrainian reika_zuri_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/lycoris_clan.rpy:1983
+translate ukrainian reika_zuri_fb54f9f0:
+
+    # rei "Trying to talk to someone you tried to kill?"
+    rei "Trying to talk to someone you tried to kill?"
+
+# game/game/lycoris_clan.rpy:1984
+translate ukrainian reika_zuri_5eeb9866:
+
+    # rei "Even an idiot would've known that coming here would be a waste of time."
+    rei "Even an idiot would've known that coming here would be a waste of time."
+
+# game/game/lycoris_clan.rpy:1986
+translate ukrainian reika_zuri_3c129bbc:
+
+    # mc "Because of her, a lot of people in my village nearly died."
+    mc "Because of her, a lot of people in my village nearly died."
+
+# game/game/lycoris_clan.rpy:1987
+translate ukrainian reika_zuri_521591fe:
+
+    # rei "But they didn't."
+    rei "But they didn't."
+
+# game/game/lycoris_clan.rpy:1988
+translate ukrainian reika_zuri_00ffacf0:
+
+    # mc "If we weighed every action we've ever taken on a scale, we'd never reach the end of it."
+    mc "If we weighed every action we've ever taken on a scale, we'd never reach the end of it."
+
+# game/game/lycoris_clan.rpy:1990
+translate ukrainian reika_zuri_fdace6af:
+
+    # rei "Let's say you're right."
+    rei "Let's say you're right."
+
+# game/game/lycoris_clan.rpy:1991
+translate ukrainian reika_zuri_c36343e8:
+
+    # rei "What were you expecting from her at this point?"
+    rei "What were you expecting from her at this point?"
+
+# game/game/lycoris_clan.rpy:1992
+translate ukrainian reika_zuri_7df44a85:
+
+    # rei "Do you want her to apologize? {w}Would that change what already happened?"
+    rei "Do you want her to apologize? {w}Would that change what already happened?"
+
+# game/game/lycoris_clan.rpy:1993
+translate ukrainian reika_zuri_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:1995
+translate ukrainian reika_zuri_b69e59f0:
+
+    # rei "She's already lost her life, {w}her freedom, {w}and her hopes."
+    rei "She's already lost her life, {w}her freedom, {w}and her hopes."
+
+# game/game/lycoris_clan.rpy:1996
+translate ukrainian reika_zuri_7f1eaf04:
+
+    # rei "Isn't it obvious enough? {w}Or will you not be satisfied until you see her dead?"
+    rei "Isn't it obvious enough? {w}Or will you not be satisfied until you see her dead?"
+
+# game/game/lycoris_clan.rpy:1998
+translate ukrainian reika_zuri_4db4a280:
+
+    # rei "Come on, tell me."
+    rei "Come on, tell me."
+
+# game/game/lycoris_clan.rpy:1999
+translate ukrainian reika_zuri_ab1fd75a:
+
+    # rei "Come on, {w}I'm dying to hear your answer."
+    rei "Come on, {w}I'm dying to hear your answer."
+
+# game/game/lycoris_clan.rpy:2000
+translate ukrainian reika_zuri_fca2240e:
+
+    # mc "I... {w}I don't know..."
+    mc "I... {w}I don't know..."
+
+# game/game/lycoris_clan.rpy:2002
+translate ukrainian reika_zuri_195f9150:
+
+    # rei "It seems I overestimated you."
+    rei "It seems I overestimated you."
+
+# game/game/lycoris_clan.rpy:2003
+translate ukrainian reika_zuri_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2005
+translate ukrainian reika_zuri_3fdc682f:
+
+    # rei "Go. We're all responsible for the choices we make."
+    rei "Go. We're all responsible for the choices we make."
+
+# game/game/lycoris_clan.rpy:2006
+translate ukrainian reika_zuri_3b5ff1ff:
+
+    # rei "What matters is what we do next when things don't turn out the way we expected."
+    rei "What matters is what we do next when things don't turn out the way we expected."
+
+# game/game/lycoris_clan.rpy:2007
+translate ukrainian reika_zuri_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2009
+translate ukrainian reika_zuri_d9c98cc1:
+
+    # "{color=#6F3A68}Bye-bye, Swordsman~"
+    "{color=#6F3A68}Bye-bye, Swordsman~"
+
+# game/game/lycoris_clan.rpy:2010
+translate ukrainian reika_zuri_1e9c5a73:
+
+    # t "Do I really want her dead?"
+    t "Do I really want her dead?"
+
+# game/game/lycoris_clan.rpy:2011
+translate ukrainian reika_zuri_0d1a96c1:
+
+    # t "Or am I just trying to find someone else to blame...?"
+    t "Or am I just trying to find someone else to blame...?"
+
+# game/game/lycoris_clan.rpy:2012
+translate ukrainian reika_zuri_2b35b6fe_7:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2013
+translate ukrainian reika_zuri_56cb121f:
+
+    # t "I'd better get some rest and think about what I'm going to do next."
+    t "I'd better get some rest and think about what I'm going to do next."
+
+# game/game/lycoris_clan.rpy:2016
+translate ukrainian reika_zuri_f2b8ef3c:
+
+    # zu "Why didn't you do it?"
+    zu "Why didn't you do it?"
+
+# game/game/lycoris_clan.rpy:2018
+translate ukrainian reika_zuri_0f8f8aee:
+
+    # mc "Hmm? Do what?"
+    mc "Hmm? Do what?"
+
+# game/game/lycoris_clan.rpy:2019
+translate ukrainian reika_zuri_6154fa33:
+
+    # zu "Kill me."
+    zu "Kill me."
+
+# game/game/lycoris_clan.rpy:2021
+translate ukrainian reika_zuri_1cb6cd92:
+
+    # mc "Because it wasn't my decision to make."
+    mc "Because it wasn't my decision to make."
+
+# game/game/lycoris_clan.rpy:2022
+translate ukrainian reika_zuri_b6df26ea:
+
+    # zu "It was back then."
+    zu "It was back then."
+
+# game/game/lycoris_clan.rpy:2023
+translate ukrainian reika_zuri_d9efc459:
+
+    # mc "Did you want to die?"
+    mc "Did you want to die?"
+
+# game/game/lycoris_clan.rpy:2025
+translate ukrainian reika_zuri_0f13397a_2:
+
+    # zu "..."
+    zu "..."
+
+# game/game/lycoris_clan.rpy:2026
+translate ukrainian reika_zuri_23671bf6:
+
+    # zu "If I asked you the same question, what would you say?"
+    zu "If I asked you the same question, what would you say?"
+
+# game/game/lycoris_clan.rpy:2027
+translate ukrainian reika_zuri_79eb7aea:
+
+    # mc "No, {w}I have too many things I want to protect."
+    mc "No, {w}I have too many things I want to protect."
+
+# game/game/lycoris_clan.rpy:2028
+translate ukrainian reika_zuri_fd89f83b:
+
+    # zu "Hahaha, {w}thinking like that will drag you down to the very bottom."
+    zu "Hahaha, {w}thinking like that will drag you down to the very bottom."
+
+# game/game/lycoris_clan.rpy:2029
+translate ukrainian reika_zuri_d7afdc3b:
+
+    # mc "I-"
+    mc "I-"
+
+# game/game/lycoris_clan.rpy:2030
+translate ukrainian reika_zuri_ed740b5c:
+
+    # zu "{size=-6}Do you think I'm warning you? {w}The perfect example is right in front of you."
+    zu "{size=-6}Do you think I'm warning you? {w}The perfect example is right in front of you."
+
+# game/game/lycoris_clan.rpy:2031
+translate ukrainian reika_zuri_2b35b6fe_8:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2032
+translate ukrainian reika_zuri_1dc9ddb9:
+
+    # mc "What was your reason, Zuri? What are you trying to protect?"
+    mc "What was your reason, Zuri? What are you trying to protect?"
+
+# game/game/lycoris_clan.rpy:2033
+translate ukrainian reika_zuri_a20cefa7_1:
+
+    # "..."
+    "..."
+
+# game/game/lycoris_clan.rpy:2034
+translate ukrainian reika_zuri_5f9b772e:
+
+    # "...."
+    "...."
+
+# game/game/lycoris_clan.rpy:2035
+translate ukrainian reika_zuri_07bdde05:
+
+    # "....."
+    "....."
+
+# game/game/lycoris_clan.rpy:2037
+translate ukrainian reika_zuri_fd0f2458:
+
+    # t "I'll have to try something else..."
+    t "I'll have to try something else..."
+
+# game/game/lycoris_clan.rpy:2038
+translate ukrainian reika_zuri_8e53d4c2:
+
+    # rei "How's your sister?"
+    rei "How's your sister?"
+
+# game/game/lycoris_clan.rpy:2040
+translate ukrainian reika_zuri_3f871f46_1:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/lycoris_clan.rpy:2041
+translate ukrainian reika_zuri_c0d8ff5b:
+
+    # mc "Reika?"
+    mc "Reika?"
+
+# game/game/lycoris_clan.rpy:2042
+translate ukrainian reika_zuri_b565f948:
+
+    # rei "Hello~"
+    rei "Hello~"
+
+# game/game/lycoris_clan.rpy:2043
+translate ukrainian reika_zuri_07542d17:
+
+    # mc "Uhm... {w}I don't have a sister..."
+    mc "Uhm... {w}I don't have a sister..."
+
+# game/game/lycoris_clan.rpy:2045
+translate ukrainian reika_zuri_43471a64:
+
+    # rei "Not you."
+    rei "Not you."
+
+# game/game/lycoris_clan.rpy:2046
+translate ukrainian reika_zuri_d7f749c3:
+
+    # rei "I'm talking to the cat who doesn't trust anyone."
+    rei "I'm talking to the cat who doesn't trust anyone."
+
+# game/game/lycoris_clan.rpy:2047
+translate ukrainian reika_zuri_26d896eb:
+
+    # mc "Zuri has a sis?-"
+    mc "Zuri has a sis?-"
+
+# game/game/lycoris_clan.rpy:2049
+translate ukrainian reika_zuri_3cec980b:
+
+    # zu "{sc=1}{outlinecolor=#000000}{size=-8}Reikyan!~"
+    zu "{sc=1}{outlinecolor=#000000}{size=-8}Reikyan!~"
+
+# game/game/lycoris_clan.rpy:2050
+translate ukrainian reika_zuri_62aaa68a:
+
+    # rei "Hihi~"
+    rei "Hihi~"
+
+# game/game/lycoris_clan.rpy:2051
+translate ukrainian reika_zuri_867d3316:
+
+    # mc "Eh-"
+    mc "Eh-"
+
+# game/game/lycoris_clan.rpy:2053
+translate ukrainian reika_zuri_d3322b33:
+
+    # rei "Look what I brought you today!"
+    rei "Look what I brought you today!"
+
+# game/game/lycoris_clan.rpy:2054
+translate ukrainian reika_zuri_08437bd9:
+
+    # zu "Something delicious?!"
+    zu "Something delicious?!"
+
+# game/game/lycoris_clan.rpy:2060
+translate ukrainian reika_zuri_20abd54d:
+
+    # rei "Ah Ham-"
+    rei "Ah Ham-"
+
+# game/game/lycoris_clan.rpy:2061
+translate ukrainian reika_zuri_7ebe50a8:
+
+    # zu "{sc=1}{outlinecolor=#000000}{size=-8}Yaaay~{image=corazon}"
+    zu "{sc=1}{outlinecolor=#000000}{size=-8}Yaaay~{image=corazon}"
+
+# game/game/lycoris_clan.rpy:2063
+translate ukrainian reika_zuri_885f8895:
+
+    # zu "{size=-6}Aah..."
+    zu "{size=-6}Aah..."
+
+# game/game/lycoris_clan.rpy:2064
+translate ukrainian reika_zuri_6893e467:
+
+    # mc "She's... acting just like she did in Sakura Town..."
+    mc "She's... acting just like she did in Sakura Town..."
+
+# game/game/lycoris_clan.rpy:2066
+translate ukrainian reika_zuri_4e5a9a3c:
+
+    # zu "{size=-6}She told me not to talk to you..."
+    zu "{size=-6}She told me not to talk to you..."
+
+# game/game/lycoris_clan.rpy:2067
+translate ukrainian reika_zuri_b3eecaba:
+
+    # mc "Who, {w}Reika?"
+    mc "Who, {w}Reika?"
+
+# game/game/lycoris_clan.rpy:2068
+translate ukrainian reika_zuri_781ec9df:
+
+    # rei "Wrong~"
+    rei "Wrong~"
+
+# game/game/lycoris_clan.rpy:2069
+translate ukrainian reika_zuri_de0af0e9:
+
+    # rei "And acting? {w}No, my friend."
+    rei "And acting? {w}No, my friend."
+
+# game/game/lycoris_clan.rpy:2071
+translate ukrainian reika_zuri_cb76274c:
+
+    # rei "{size=-6}Right now, you're looking at a completely different person."
+    rei "{size=-6}Right now, you're looking at a completely different person."
+
+# game/game/lycoris_clan.rpy:2073
+translate ukrainian reika_zuri_74b2a079:
+
+    # zu "Reika, shut up."
+    zu "Reika, shut up."
+
+# game/game/lycoris_clan.rpy:2074
+translate ukrainian reika_zuri_6761a125:
+
+    # rei "Are you sure you want me to shut up? Your sister seems to be really enjoying the gifts I brought."
+    rei "Are you sure you want me to shut up? Your sister seems to be really enjoying the gifts I brought."
+
+# game/game/lycoris_clan.rpy:2075
+translate ukrainian reika_zuri_18798dcc:
+
+    # rei "And I came all this way to tell you something that might interest you."
+    rei "And I came all this way to tell you something that might interest you."
+
+# game/game/lycoris_clan.rpy:2076
+translate ukrainian reika_zuri_0f13397a_3:
+
+    # zu "..."
+    zu "..."
+
+# game/game/lycoris_clan.rpy:2077
+translate ukrainian reika_zuri_c5ead1a5:
+
+    # zu "{size=-6}Perverted bitch."
+    zu "{size=-6}Perverted bitch."
+
+# game/game/lycoris_clan.rpy:2078
+translate ukrainian reika_zuri_da47f1a5:
+
+    # rei "Hahaha~"
+    rei "Hahaha~"
+
+# game/game/lycoris_clan.rpy:2080
+translate ukrainian reika_zuri_cd7baa7f:
+
+    # zu "This is delicious!~{image=corazon}"
+    zu "This is delicious!~{image=corazon}"
+
+# game/game/lycoris_clan.rpy:2081
+translate ukrainian reika_zuri_1e75642a:
+
+    # mc "This is so confusing..."
+    mc "This is so confusing..."
+
+# game/game/lycoris_clan.rpy:2082
+translate ukrainian reika_zuri_998878ab:
+
+    # rei "That's just how we spiritual beings are."
+    rei "That's just how we spiritual beings are."
+
+# game/game/lycoris_clan.rpy:2084
+translate ukrainian reika_zuri_ae7fe2c6:
+
+    # rei "Well, now it's my turn to talk to her."
+    rei "Well, now it's my turn to talk to her."
+
+# game/game/lycoris_clan.rpy:2085
+translate ukrainian reika_zuri_7c2edbd4:
+
+    # mc "Ah-"
+    mc "Ah-"
+
+# game/game/lycoris_clan.rpy:2087
+translate ukrainian reika_zuri_1af68415:
+
+    # rei "{size=-7}I think I can make this work."
+    rei "{size=-7}I think I can make this work."
+
+# game/game/lycoris_clan.rpy:2088
+translate ukrainian reika_zuri_7001685a:
+
+    # mc "{size=-7}What?"
+    mc "{size=-7}What?"
+
+# game/game/lycoris_clan.rpy:2089
+translate ukrainian reika_zuri_3f87b2c6:
+
+    # rei "{size=-7}I'll explain it to you later."
+    rei "{size=-7}I'll explain it to you later."
+
+# game/game/lycoris_clan.rpy:2090
+translate ukrainian reika_zuri_2b35b6fe_9:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2092
+translate ukrainian reika_zuri_59577fa8:
+
+    # mc "{size=-7}Okay..."
+    mc "{size=-7}Okay..."
+
+# game/game/lycoris_clan.rpy:2093
+translate ukrainian reika_zuri_d9c98cc1_1:
+
+    # "{color=#6F3A68}Bye-bye, Swordsman~"
+    "{color=#6F3A68}Bye-bye, Swordsman~"
+
+# game/game/lycoris_clan.rpy:2094
+translate ukrainian reika_zuri_b7d1ee4a:
+
+    # t "A completely different person...?"
+    t "A completely different person...?"
+
+# game/game/lycoris_clan.rpy:2095
+translate ukrainian reika_zuri_af7c1def:
+
+    # t "We only talked for a little while, but I'm already mentally exhausted."
+    t "We only talked for a little while, but I'm already mentally exhausted."
+
+# game/game/lycoris_clan.rpy:2096
+translate ukrainian reika_zuri_4fc79942:
+
+    # t "I'll rest for a bit in the clan's room."
+    t "I'll rest for a bit in the clan's room."
+
+
+# game/game/lycoris_clan.rpy:2108
+translate ukrainian akane_training_32889c99:
+
+    # t "Well, at least I managed to clear things up with Madam Kaori."
+    t "Well, at least I managed to clear things up with Madam Kaori."
+
+# game/game/lycoris_clan.rpy:2109
+translate ukrainian akane_training_f5426595:
+
+    # t "Things with Zuri didn't go so well, but Reika will take care of it."
+    t "Things with Zuri didn't go so well, but Reika will take care of it."
+
+# game/game/lycoris_clan.rpy:2110
+translate ukrainian akane_training_5782113c:
+
+    # mc "Sigh...*"
+    mc "Sigh...*"
+
+# game/game/lycoris_clan.rpy:2112
+translate ukrainian akane_training_294a1375:
+
+    # t "It seemed like Reika and Zuri knew each other. Maybe I should've let her handle it from the start."
+    t "It seemed like Reika and Zuri knew each other. Maybe I should've let her handle it from the start."
+
+# game/game/lycoris_clan.rpy:2113
+translate ukrainian akane_training_4530cd71:
+
+    # t "It might be best to wait a few days before talking to her again."
+    t "It might be best to wait a few days before talking to her again."
+
+# game/game/lycoris_clan.rpy:2114
+translate ukrainian akane_training_41558a71:
+
+    # t "For now, the only thing I should be doing is..."
+    t "For now, the only thing I should be doing is..."
+
+# game/game/lycoris_clan.rpy:2116
+translate ukrainian akane_training_3f4b26a8:
+
+    # t "Getting stronger... {w}That's my last mission."
+    t "Getting stronger... {w}That's my last mission."
+
+# game/game/lycoris_clan.rpy:2117
+translate ukrainian akane_training_c0303e01:
+
+    # t "Win the tournament, and then let the others take care of the rest."
+    t "Win the tournament, and then let the others take care of the rest."
+
+# game/game/lycoris_clan.rpy:2118
+translate ukrainian akane_training_474752d8:
+
+    # t "But even so... I wonder what I'm supposed to do after that."
+    t "But even so... I wonder what I'm supposed to do after that."
+
+# game/game/lycoris_clan.rpy:2120
+translate ukrainian akane_training_266c4c52:
+
+    # t "Vampires aren't allowed into the kingdom, and if anything happens, I'm supposed to be the one to talk to the Queen."
+    t "Vampires aren't allowed into the kingdom, and if anything happens, I'm supposed to be the one to talk to the Queen."
+
+# game/game/lycoris_clan.rpy:2121
+translate ukrainian akane_training_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2122
+translate ukrainian akane_training_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/lycoris_clan.rpy:2123
+translate ukrainian akane_training_5f9b772e:
+
+    # "...."
+    "...."
+
+# game/game/lycoris_clan.rpy:2124
+translate ukrainian akane_training_07bdde05:
+
+    # "....."
+    "....."
+
+# game/game/lycoris_clan.rpy:2125
+translate ukrainian akane_training_09f6e6e4:
+
+    # mc "Hmm? {sc=2}{outlinecolor=#000000}{size=-8}Sniff*"
+    mc "Hmm? {sc=2}{outlinecolor=#000000}{size=-8}Sniff*"
+
+# game/game/lycoris_clan.rpy:2130
+translate ukrainian akane_training_6ab20355:
+
+    # t "That... smells really good."
+    t "That... smells really good."
+
+# game/game/lycoris_clan.rpy:2132
+translate ukrainian akane_training_1b798f09:
+
+    # t "Is someone cooking?"
+    t "Is someone cooking?"
+
+# game/game/lycoris_clan.rpy:2134
+translate ukrainian akane_training_09c9e08a:
+
+    # t "It's coming from over there..."
+    t "It's coming from over there..."
+
+# game/game/lycoris_clan.rpy:2135
+translate ukrainian akane_training_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2139
+translate ukrainian akane_training_f5f4d759:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-10}{color=#FF5C5C}Hmm~ hmm~"
+    "{sc=1}{outlinecolor=#000000}{size=-10}{color=#FF5C5C}Hmm~ hmm~"
+
+# game/game/lycoris_clan.rpy:2140
+translate ukrainian akane_training_3f944f22:
+
+    # ak "{size=-6}Maybe I made too much food..."
+    ak "{size=-6}Maybe I made too much food..."
+
+# game/game/lycoris_clan.rpy:2142
+translate ukrainian akane_training_4163db1c:
+
+    # ak "{size=-6}Well... {w}he looked a little tired. I'm sure he'll eat it all~"
+    ak "{size=-6}Well... {w}he looked a little tired. I'm sure he'll eat it all~"
+
+# game/game/lycoris_clan.rpy:2143
+translate ukrainian akane_training_d9e68409:
+
+    # mc "Akane?"
+    mc "Akane?"
+
+# game/game/lycoris_clan.rpy:2145
+translate ukrainian akane_training_b36f2e02:
+
+    # ak "Ah-"
+    ak "Ah-"
+
+# game/game/lycoris_clan.rpy:2146
+translate ukrainian akane_training_d650fa3a:
+
+    # ak "When did you wake up?"
+    ak "When did you wake up?"
+
+# game/game/lycoris_clan.rpy:2147
+translate ukrainian akane_training_2c220afc:
+
+    # mc "A few minutes ago. {w}I didn't know there was a kitchen here."
+    mc "A few minutes ago. {w}I didn't know there was a kitchen here."
+
+# game/game/lycoris_clan.rpy:2149
+translate ukrainian akane_training_b0eef556:
+
+    # ak "Haven't you ever looked around the house?"
+    ak "Haven't you ever looked around the house?"
+
+# game/game/lycoris_clan.rpy:2150
+translate ukrainian akane_training_8ad26c98:
+
+    # mc "No. I've been forbidden from going to so many places that I don't even know where I'm allowed to go anymore."
+    mc "No. I've been forbidden from going to so many places that I don't even know where I'm allowed to go anymore."
+
+# game/game/lycoris_clan.rpy:2151
+translate ukrainian akane_training_30c74a75:
+
+    # ak "Hahaha~ At least you're starting to think like a normal person."
+    ak "Hahaha~ At least you're starting to think like a normal person."
+
+# game/game/lycoris_clan.rpy:2153
+translate ukrainian akane_training_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2154
+translate ukrainian akane_training_8c4d7198:
+
+    # ak "Are you okay?"
+    ak "Are you okay?"
+
+# game/game/lycoris_clan.rpy:2155
+translate ukrainian akane_training_fccb9547:
+
+    # mc "Why do you ask?"
+    mc "Why do you ask?"
+
+# game/game/lycoris_clan.rpy:2156
+translate ukrainian akane_training_91a9913c:
+
+    # ak "You're awfully calm. {w}That's kind of unusual-"
+    ak "You're awfully calm. {w}That's kind of unusual-"
+
+# game/game/lycoris_clan.rpy:2158
+translate ukrainian akane_training_46b79df3:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2160
+translate ukrainian akane_training_cf9f6a0a:
+
+    # ak "Okay, {w}{b}now{/b} you're acting normal..."
+    ak "Okay, {w}{b}now{/b} you're acting normal..."
+
+# game/game/lycoris_clan.rpy:2161
+translate ukrainian akane_training_09e8804d:
+
+    # mc "So this counts as normal behavior for you now?"
+    mc "So this counts as normal behavior for you now?"
+
+# game/game/lycoris_clan.rpy:2162
+translate ukrainian akane_training_a815b9e8:
+
+    # ak "If anyone from the clan happens to come by..."
+    ak "If anyone from the clan happens to come by..."
+
+# game/game/lycoris_clan.rpy:2163
+translate ukrainian akane_training_5748047b:
+
+    # mc "They always knock first."
+    mc "They always knock first."
+
+# game/game/lycoris_clan.rpy:2165
+translate ukrainian akane_training_4bc598fb:
+
+    # mc "It smells really good."
+    mc "It smells really good."
+
+# game/game/lycoris_clan.rpy:2166
+translate ukrainian akane_training_cf0b920e:
+
+    # ak "If you're not talking about the food, {w}I'm going to shove this spoon right up where you know."
+    ak "If you're not talking about the food, {w}I'm going to shove this spoon right up where you know."
+
+# game/game/lycoris_clan.rpy:2167
+translate ukrainian akane_training_d0f243ee:
+
+    # mc "Just to be safe, {w}I'll say the food."
+    mc "Just to be safe, {w}I'll say the food."
+
+# game/game/lycoris_clan.rpy:2169
+translate ukrainian akane_training_410d5382:
+
+    # ak "That answer doesn't convince me."
+    ak "That answer doesn't convince me."
+
+# game/game/lycoris_clan.rpy:2170
+translate ukrainian akane_training_3ad2f1ea:
+
+    # mc "Why did you make so much?"
+    mc "Why did you make so much?"
+
+# game/game/lycoris_clan.rpy:2171
+translate ukrainian akane_training_84f9744c:
+
+    # ak "{size=-6}Because I thought you-"
+    ak "{size=-6}Because I thought you-"
+
+# game/game/lycoris_clan.rpy:2173
+translate ukrainian akane_training_ea907f7f:
+
+    # ak "I was hungry!"
+    ak "I was hungry!"
+
+# game/game/lycoris_clan.rpy:2174
+translate ukrainian akane_training_054c5ee0:
+
+    # mc "I see."
+    mc "I see."
+
+# game/game/lycoris_clan.rpy:2175
+translate ukrainian akane_training_312f7f36:
+
+    # ak "Go sit down! {w}It's time to eat!"
+    ak "Go sit down! {w}It's time to eat!"
+
+# game/game/lycoris_clan.rpy:2177
+translate ukrainian akane_training_fe021f01:
+
+    # mc "Don't worry, I've already got the main course in my hands."
+    mc "Don't worry, I've already got the main course in my hands."
+
+# game/game/lycoris_clan.rpy:2180
+translate ukrainian akane_training_fed03ca2:
+
+    # mc "Ah!"
+    mc "Ah!"
+
+# game/game/lycoris_clan.rpy:2181
+translate ukrainian akane_training_8ac9aa2f:
+
+    # ak "What did I tell you about saying things like that here?!"
+    ak "What did I tell you about saying things like that here?!"
+
+# game/game/lycoris_clan.rpy:2182
+translate ukrainian akane_training_1f5b224d:
+
+    # mc "Hahaha."
+    mc "Hahaha."
+
+# game/game/lycoris_clan.rpy:2183
+translate ukrainian akane_training_a20cefa7_1:
+
+    # "..."
+    "..."
+
+# game/game/lycoris_clan.rpy:2184
+translate ukrainian akane_training_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/lycoris_clan.rpy:2185
+translate ukrainian akane_training_d7edd024:
+
+    # "."
+    "."
+
+# game/game/lycoris_clan.rpy:2186
+translate ukrainian akane_training_c2df7721:
+
+    # mc "So... are you feeling okay?"
+    mc "So... are you feeling okay?"
+
+# game/game/lycoris_clan.rpy:2188
+translate ukrainian akane_training_6f1eccd1:
+
+    # ak "Are you talking about what you saw me doing this morning?"
+    ak "Are you talking about what you saw me doing this morning?"
+
+# game/game/lycoris_clan.rpy:2189
+translate ukrainian akane_training_77ec9cf5:
+
+    # mc "Yeah. {w}It looked like something that'd be pretty hard to control."
+    mc "Yeah. {w}It looked like something that'd be pretty hard to control."
+
+# game/game/lycoris_clan.rpy:2191
+translate ukrainian akane_training_3de78096:
+
+    # ak "I can't tell you much about it, but... yeah."
+    ak "I can't tell you much about it, but... yeah."
+
+# game/game/lycoris_clan.rpy:2192
+translate ukrainian akane_training_df919a1c:
+
+    # ak "My mother's vampire magic is extremely unstable."
+    ak "My mother's vampire magic is extremely unstable."
+
+# game/game/lycoris_clan.rpy:2193
+translate ukrainian akane_training_8e3981e3:
+
+    # ak "As you know, we get our energy from the blood we drink."
+    ak "As you know, we get our energy from the blood we drink."
+
+# game/game/lycoris_clan.rpy:2195
+translate ukrainian akane_training_43f2197b:
+
+    # ak "Our magic becomes much stronger when we mix that energy with regular magic."
+    ak "Our magic becomes much stronger when we mix that energy with regular magic."
+
+# game/game/lycoris_clan.rpy:2196
+translate ukrainian akane_training_3309c85c:
+
+    # mc "Wouldn't that make you want to \"drink\" all the time?"
+    mc "Wouldn't that make you want to \"drink\" all the time?"
+
+# game/game/lycoris_clan.rpy:2197
+translate ukrainian akane_training_4e0f3106:
+
+    # ak "That's why they always keep a bottle of wine ready for me."
+    ak "That's why they always keep a bottle of wine ready for me."
+
+# game/game/lycoris_clan.rpy:2199
+translate ukrainian akane_training_5de13da8:
+
+    # ak "But it's so unstable that if- {w}{sc=1}{outlinecolor=#000000}{size=-10}Nom~ Nom~{/sc} {w}I let even a little more of it flow than necessary, it explodes immediately."
+    ak "But it's so unstable that if- {w}{sc=1}{outlinecolor=#000000}{size=-10}Nom~ Nom~{/sc} {w}I let even a little more of it flow than necessary, it explodes immediately."
+
+# game/game/lycoris_clan.rpy:2200
+translate ukrainian akane_training_a7bcf340:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/lycoris_clan.rpy:2201
+translate ukrainian akane_training_87995955:
+
+    # mc "Can everyone in the clan use it?"
+    mc "Can everyone in the clan use it?"
+
+# game/game/lycoris_clan.rpy:2203
+translate ukrainian akane_training_cfeb5116:
+
+    # ak "Yes and no. My mother and I are pure-blooded vampires."
+    ak "Yes and no. My mother and I are pure-blooded vampires."
+
+# game/game/lycoris_clan.rpy:2204
+translate ukrainian akane_training_57535abd:
+
+    # ak "The girls here are half-bloods, so no matter how strong their magic is, it can't compare to my mother's."
+    ak "The girls here are half-bloods, so no matter how strong their magic is, it can't compare to my mother's."
+
+# game/game/lycoris_clan.rpy:2205
+translate ukrainian akane_training_6c24d2a6:
+
+    # ak "Half-bloods can either be born from a vampire and a half-blood, or be humans who were turned into vampires."
+    ak "Half-bloods can either be born from a vampire and a half-blood, or be humans who were turned into vampires."
+
+# game/game/lycoris_clan.rpy:2206
+translate ukrainian akane_training_591d1fc0:
+
+    # mc "Could you turn me into a vampire?"
+    mc "Could you turn me into a vampire?"
+
+# game/game/lycoris_clan.rpy:2208
+translate ukrainian akane_training_cb399ad6:
+
+    # ak "Haa? You want to be my servant for the rest of your life?"
+    ak "Haa? You want to be my servant for the rest of your life?"
+
+# game/game/lycoris_clan.rpy:2209
+translate ukrainian akane_training_4fcd50e8:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-10}Loud sip*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-10}Loud sip*"
+
+# game/game/lycoris_clan.rpy:2210
+translate ukrainian akane_training_46b79df3_1:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2212
+translate ukrainian akane_training_6ac9711e:
+
+    # ak "{size=-6}You pervert."
+    ak "{size=-6}You pervert."
+
+# game/game/lycoris_clan.rpy:2213
+translate ukrainian akane_training_4259001b:
+
+    # mc "And do you know why vampires aren't allowed into the kingdom?"
+    mc "And do you know why vampires aren't allowed into the kingdom?"
+
+# game/game/lycoris_clan.rpy:2214
+translate ukrainian akane_training_f850364d:
+
+    # ak "Isn't it obvious? {w}The insignificant humans who live there would be terrified to have vampires lurking around their homes."
+    ak "Isn't it obvious? {w}The insignificant humans who live there would be terrified to have vampires lurking around their homes."
+
+# game/game/lycoris_clan.rpy:2215
+translate ukrainian akane_training_1af4a1cb:
+
+    # ak "Not everyone is like you, able to sleep soundly in a place full of vampires."
+    ak "Not everyone is like you, able to sleep soundly in a place full of vampires."
+
+# game/game/lycoris_clan.rpy:2216
+translate ukrainian akane_training_d0e6bb39:
+
+    # mc "Ooh... I never thought of it that way."
+    mc "Ooh... I never thought of it that way."
+
+# game/game/lycoris_clan.rpy:2217
+translate ukrainian akane_training_afb7077b:
+
+    # ak "And that reminds me..."
+    ak "And that reminds me..."
+
+# game/game/lycoris_clan.rpy:2219
+translate ukrainian akane_training_bcc1318f:
+
+    # ak "The next time you even think about bleeding in front of my mom, say goodbye to your neck!"
+    ak "The next time you even think about bleeding in front of my mom, say goodbye to your neck!"
+
+# game/game/lycoris_clan.rpy:2220
+translate ukrainian akane_training_93deaf69:
+
+    # mc "Ah..."
+    mc "Ah..."
+
+# game/game/lycoris_clan.rpy:2221
+translate ukrainian akane_training_b593df79:
+
+    # ak "You're lucky her self-control around blood is unshakable."
+    ak "You're lucky her self-control around blood is unshakable."
+
+# game/game/lycoris_clan.rpy:2222
+translate ukrainian akane_training_6cbd4647:
+
+    # mc "S-Sorry..."
+    mc "S-Sorry..."
+
+# game/game/lycoris_clan.rpy:2223
+translate ukrainian akane_training_46b79df3_2:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2225
+translate ukrainian akane_training_96c73458:
+
+    # ak "Sigh~"
+    ak "Sigh~"
+
+# game/game/lycoris_clan.rpy:2226
+translate ukrainian akane_training_01ff86b1:
+
+    # ak "So, how did you get hurt?"
+    ak "So, how did you get hurt?"
+
+# game/game/lycoris_clan.rpy:2227
+translate ukrainian akane_training_008b1bd8:
+
+    # ak "If that bird broke the agreement she made with my mother, {w=0.5}I'll punish her myself."
+    ak "If that bird broke the agreement she made with my mother, {w=0.5}I'll punish her myself."
+
+# game/game/lycoris_clan.rpy:2228
+translate ukrainian akane_training_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2229
+translate ukrainian akane_training_4437ef3b:
+
+    # t "After everything we've been through together, keeping this from her is starting to feel strange."
+    t "After everything we've been through together, keeping this from her is starting to feel strange."
+
+# game/game/lycoris_clan.rpy:2230
+translate ukrainian akane_training_4bddc598:
+
+    # t "Though part of the reason I never told her was because I didn't think it was necessary."
+    t "Though part of the reason I never told her was because I didn't think it was necessary."
+
+# game/game/lycoris_clan.rpy:2231
+translate ukrainian akane_training_10858024:
+
+    # mc "Akane..."
+    mc "Akane..."
+
+# game/game/lycoris_clan.rpy:2233
+translate ukrainian akane_training_4cc1cc84:
+
+    # ak "Hmm?"
+    ak "Hmm?"
+
+# game/game/lycoris_clan.rpy:2234
+translate ukrainian akane_training_994ca499:
+
+    # ak "Why are you suddenly so serious?"
+    ak "Why are you suddenly so serious?"
+
+# game/game/lycoris_clan.rpy:2235
+translate ukrainian akane_training_47e632cc:
+
+    # mc "There's something I haven't told you about myself."
+    mc "There's something I haven't told you about myself."
+
+# game/game/lycoris_clan.rpy:2236
+translate ukrainian akane_training_46b79df3_3:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2241
+translate ukrainian akane_training_c50b7da2:
+
+    # mc "And that was one of the reasons I needed to go to the kingdom."
+    mc "And that was one of the reasons I needed to go to the kingdom."
+
+# game/game/lycoris_clan.rpy:2243
+translate ukrainian akane_training_285276ea:
+
+    # ak "M-Memory loss? A blessing? {w}Your mother...?"
+    ak "M-Memory loss? A blessing? {w}Your mother...?"
+
+# game/game/lycoris_clan.rpy:2244
+translate ukrainian akane_training_4d6254ec:
+
+    # t "Leaving the Goddesses out of it, I can tell her everything else."
+    t "Leaving the Goddesses out of it, I can tell her everything else."
+
+# game/game/lycoris_clan.rpy:2245
+translate ukrainian akane_training_f3bd1738:
+
+    # mc "Yeah... Every time I remember something, I get this splitting headache that feels like it's going to kill me..."
+    mc "Yeah... Every time I remember something, I get this splitting headache that feels like it's going to kill me..."
+
+# game/game/lycoris_clan.rpy:2246
+translate ukrainian akane_training_7b31b3cf:
+
+    # mc "I didn't think I needed to tell you until now."
+    mc "I didn't think I needed to tell you until now."
+
+# game/game/lycoris_clan.rpy:2248
+translate ukrainian akane_training_6db517df:
+
+    # ak "Is that why you fainted that day...?"
+    ak "Is that why you fainted that day...?"
+
+# game/game/lycoris_clan.rpy:2249
+translate ukrainian akane_training_63a2ba6b:
+
+    # mc "Ah... You're right. Hahaha..."
+    mc "Ah... You're right. Hahaha..."
+
+# game/game/lycoris_clan.rpy:2250
+translate ukrainian akane_training_46b79df3_4:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2252
+translate ukrainian akane_training_7a402caf:
+
+    # ak "All of your memories?"
+    ak "All of your memories?"
+
+# game/game/lycoris_clan.rpy:2253
+translate ukrainian akane_training_7884f8c5:
+
+    # mc "Not everything... Well, maybe just the important stuff."
+    mc "Not everything... Well, maybe just the important stuff."
+
+# game/game/lycoris_clan.rpy:2254
+translate ukrainian akane_training_69d551ff:
+
+    # mc "I don't remember... hahaha."
+    mc "I don't remember... hahaha."
+
+# game/game/lycoris_clan.rpy:2255
+translate ukrainian akane_training_6be41347:
+
+    # ak "Now I understand why you never tell us anything about yourself."
+    ak "Now I understand why you never tell us anything about yourself."
+
+# game/game/lycoris_clan.rpy:2256
+translate ukrainian akane_training_dbad47e0:
+
+    # ak "And I treated you so badly without knowing any of this..."
+    ak "And I treated you so badly without knowing any of this..."
+
+# game/game/lycoris_clan.rpy:2257
+translate ukrainian akane_training_7237e26d:
+
+    # mc "Eh?-"
+    mc "Eh?-"
+
+# game/game/lycoris_clan.rpy:2259
+translate ukrainian akane_training_fefe0857:
+
+    # mc "W-Wait, wait! I didn't tell you all that so you'd feel sorry for me or anything!"
+    mc "W-Wait, wait! I didn't tell you all that so you'd feel sorry for me or anything!"
+
+# game/game/lycoris_clan.rpy:2260
+translate ukrainian akane_training_90c56112:
+
+    # mc "I told you because... {w=0.5}I feel like I owe you my complete trust."
+    mc "I told you because... {w=0.5}I feel like I owe you my complete trust."
+
+# game/game/lycoris_clan.rpy:2261
+translate ukrainian akane_training_2cc28b1c:
+
+    # mc "And because I want you to understand why I'm doing all of this."
+    mc "And because I want you to understand why I'm doing all of this."
+
+# game/game/lycoris_clan.rpy:2262
+translate ukrainian akane_training_46b79df3_5:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2264
+translate ukrainian akane_training_7d832a41:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}Hmnp!{/sc} Perv."
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}Hmnp!{/sc} Perv."
+
+# game/game/lycoris_clan.rpy:2265
+translate ukrainian akane_training_4698326e:
+
+    # mc "Eh-"
+    mc "Eh-"
+
+# game/game/lycoris_clan.rpy:2266
+translate ukrainian akane_training_40b3fda9:
+
+    # ak "Who else knows about this?"
+    ak "Who else knows about this?"
+
+# game/game/lycoris_clan.rpy:2267
+translate ukrainian akane_training_b3ae8984:
+
+    # mc "Uhm..."
+    mc "Uhm..."
+
+# game/game/lycoris_clan.rpy:2269
+translate ukrainian akane_training_83308572:
+
+    # mc "Shika knows about my memory loss, {w}and Charlotte knows about my mother."
+    mc "Shika knows about my memory loss, {w}and Charlotte knows about my mother."
+
+# game/game/lycoris_clan.rpy:2270
+translate ukrainian akane_training_24f6d75c:
+
+    # mc "You're the first person I've told about my blessing."
+    mc "You're the first person I've told about my blessing."
+
+# game/game/lycoris_clan.rpy:2271
+translate ukrainian akane_training_33f175b3:
+
+    # mc "{size=-6}Well, your mother knows about my blessing too now, {w}but she doesn't count."
+    mc "{size=-6}Well, your mother knows about my blessing too now, {w}but she doesn't count."
+
+# game/game/lycoris_clan.rpy:2273
+translate ukrainian akane_training_485f929d:
+
+    # ak "I knew something was odd..."
+    ak "I knew something was odd..."
+
+# game/game/lycoris_clan.rpy:2274
+translate ukrainian akane_training_f9204b6f:
+
+    # ak "So that's why she's giving you so much freedom..."
+    ak "So that's why she's giving you so much freedom..."
+
+# game/game/lycoris_clan.rpy:2275
+translate ukrainian akane_training_3e466c69:
+
+    # mc "Freedom? {w=0.5}You mean the part where she can slit my throat if I say something she doesn't like? That's what you call freedom?"
+    mc "Freedom? {w=0.5}You mean the part where she can slit my throat if I say something she doesn't like? That's what you call freedom?"
+
+# game/game/lycoris_clan.rpy:2277
+translate ukrainian akane_training_b4baa6ff:
+
+    # ak "Be grateful she at least lets you finish your sentence first."
+    ak "Be grateful she at least lets you finish your sentence first."
+
+# game/game/lycoris_clan.rpy:2278
+translate ukrainian akane_training_fb0b2ccf:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2279
+translate ukrainian akane_training_abf1a1fe:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2282
+translate ukrainian akane_training_53eec725:
+
+    # mc "Hahaha."
+    mc "Hahaha."
+
+# game/game/lycoris_clan.rpy:2283
+translate ukrainian akane_training_7e13e1b5:
+
+    # ak "Hahaha~"
+    ak "Hahaha~"
+
+# game/game/lycoris_clan.rpy:2284
+translate ukrainian akane_training_08c4482e:
+
+    # mc "You're so beautiful."
+    mc "You're so beautiful."
+
+# game/game/lycoris_clan.rpy:2286
+translate ukrainian akane_training_4c987b49:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}Shut up!"
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}Shut up!"
+
+# game/game/lycoris_clan.rpy:2288
+translate ukrainian akane_training_2d5a4dfb:
+
+    # ak "Well, a lot of things make sense now."
+    ak "Well, a lot of things make sense now."
+
+# game/game/lycoris_clan.rpy:2289
+translate ukrainian akane_training_6ef5d32f:
+
+    # ak "My mother wouldn't choose just any human for this mission, no matter how strong they were."
+    ak "My mother wouldn't choose just any human for this mission, no matter how strong they were."
+
+# game/game/lycoris_clan.rpy:2290
+translate ukrainian akane_training_9579fb10:
+
+    # mc "What about you? {w}It seems like she's preparing you for something bigger."
+    mc "What about you? {w}It seems like she's preparing you for something bigger."
+
+# game/game/lycoris_clan.rpy:2291
+translate ukrainian akane_training_41169a5d:
+
+    # ak "Well... it's a family matter. Part of my responsibility as the next heir."
+    ak "Well... it's a family matter. Part of my responsibility as the next heir."
+
+# game/game/lycoris_clan.rpy:2292
+translate ukrainian akane_training_3a6ae916:
+
+    # ak "And also because I ran away and stopped training."
+    ak "And also because I ran away and stopped training."
+
+# game/game/lycoris_clan.rpy:2293
+translate ukrainian akane_training_f9bcad9d:
+
+    # ak "But more importantly..."
+    ak "But more importantly..."
+
+# game/game/lycoris_clan.rpy:2295
+translate ukrainian akane_training_04e4a91e:
+
+    # ak "I don't want something like what happened to Hana to ever happen again."
+    ak "I don't want something like what happened to Hana to ever happen again."
+
+# game/game/lycoris_clan.rpy:2296
+translate ukrainian akane_training_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/lycoris_clan.rpy:2297
+translate ukrainian akane_training_c17248c4:
+
+    # ak "And the one behind it all was that damned Queen."
+    ak "And the one behind it all was that damned Queen."
+
+# game/game/lycoris_clan.rpy:2298
+translate ukrainian akane_training_b3ba62c0:
+
+    # mc "So you're going straight for the root of the problem? Sounds like you."
+    mc "So you're going straight for the root of the problem? Sounds like you."
+
+# game/game/lycoris_clan.rpy:2299
+translate ukrainian akane_training_453980c1:
+
+    # ak "And you know what?"
+    ak "And you know what?"
+
+# game/game/lycoris_clan.rpy:2301
+translate ukrainian akane_training_25ab0d03:
+
+    # ak "She actually praised me for something!"
+    ak "She actually praised me for something!"
+
+# game/game/lycoris_clan.rpy:2302
+translate ukrainian akane_training_f66e6da4:
+
+    # mc "Oh, really?"
+    mc "Oh, really?"
+
+# game/game/lycoris_clan.rpy:2303
+translate ukrainian akane_training_17ab772a:
+
+    # ak "Apparently, she thought my self-control when I'm craving blood was exceptional."
+    ak "Apparently, she thought my self-control when I'm craving blood was exceptional."
+
+# game/game/lycoris_clan.rpy:2304
+translate ukrainian akane_training_6a76a612:
+
+    # mc "Ooh... {w}I guess most vampires would go crazy if they ran out of energy."
+    mc "Ooh... {w}I guess most vampires would go crazy if they ran out of energy."
+
+# game/game/lycoris_clan.rpy:2306
+translate ukrainian akane_training_388362f6:
+
+    # ak "Right? Hmph~"
+    ak "Right? Hmph~"
+
+# game/game/lycoris_clan.rpy:2307
+translate ukrainian akane_training_5bccf017:
+
+    # ak "Thanks to that, I can keep training without having to stop."
+    ak "Thanks to that, I can keep training without having to stop."
+
+# game/game/lycoris_clan.rpy:2309
+translate ukrainian akane_training_96cdc5b8:
+
+    # mc "Good job."
+    mc "Good job."
+
+# game/game/lycoris_clan.rpy:2310
+translate ukrainian akane_training_46b79df3_6:
+
+    # ak "..."
+    ak "..."
+
+# game/game/lycoris_clan.rpy:2316
+translate ukrainian akane_training_2f1af03f:
+
+    # ak "Who are you treating like a kid?!"
+    ak "Who are you treating like a kid?!"
+
+# game/game/lycoris_clan.rpy:2317
+translate ukrainian akane_training_7a15e4a5:
+
+    # mc "Ah!"
+    mc "Ah!"
+
+# game/game/lycoris_clan.rpy:2319
+translate ukrainian akane_training_bf8b236b:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}Chu~ Hgnhm~"
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}Chu~ Hgnhm~"
+
+# game/game/lycoris_clan.rpy:2321
+translate ukrainian akane_training_951de8db:
+
+    # mc "I thought the food would've been enough..."
+    mc "I thought the food would've been enough..."
+
+# game/game/lycoris_clan.rpy:2322
+translate ukrainian akane_training_c65322bd:
+
+    # ak "{sc=1}{outlinecolor=#000000}{size=-8}Perv~ Nhnm~"
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}Perv~ Nhnm~"
+
+# game/game/lycoris_clan.rpy:2324
+translate ukrainian akane_training_cd2455ad:
+
+    # t "I remember Reika gave me a special adventurer's card."
+    t "I remember Reika gave me a special adventurer's card."
+
+# game/game/lycoris_clan.rpy:2325
+translate ukrainian akane_training_a5a30243:
+
+    # t "I should head to the Adventurers' Lounge in the kingdom and start building my reputation."
+    t "I should head to the Adventurers' Lounge in the kingdom and start building my reputation."
+
 translate ukrainian strings:
 
     # game/lycoris_clan.rpy:279
     old "Wait for {color=#E12E50}Akane{/color}"
     new "Wait for {color=#E12E50}Akane{/color}"
+
+    # game/lycoris_clan.rpy:316
+    old "{image=quest_text}{size=-6}About Zuri..."
+    new "{image=quest_text}{size=-6}About Zuri..."
 
     # game/lycoris_clan.rpy:313
     old "Talk"
@@ -4438,6 +7629,10 @@ translate ukrainian strings:
     # game/lycoris_clan.rpy:412
     old "Give chocolate"
     new "Give chocolate"
+
+    # game/lycoris_clan.rpy:510
+    old "{image=quest_text}{size=-6}I need to speak with Madam Kaori."
+    new "{image=quest_text}{size=-6}I need to speak with Madam Kaori."
 
     # game/lycoris_clan.rpy:505
     old "{color=#FFC5F1}Repeat"
@@ -4459,17 +7654,50 @@ translate ukrainian strings:
     old "-1 Chocolate Box"
     new "-1 Chocolate Box"
 
-    old "Akane and you head to the Lycoris Clan."
-    new "Akane and you head to the Lycoris Clan."
+    old "{i}{outlinecolor=#000000}Let's make a deal."
+    new "{i}{outlinecolor=#000000}Let's make a deal."
+
+    old "+1 Fox amulet."
+    new "+1 Fox amulet."
+
+    old "{i}{outlinecolor=#000000}We're finally free, sis..."
+    new "{i}{outlinecolor=#000000}We're finally free, sis..."
+
+    old "{i}{outlinecolor=#000000}Your body is unstable... Let me help you."
+    new "{i}{outlinecolor=#000000}Your body is unstable... Let me help you."
 
     old "You tell Madam Kaori everything you know."
     new "You tell Madam Kaori everything you know."
 
+    old "{outlinecolor=#000000}Someone with your talent should be able to seal those creatures away."
+    new "{outlinecolor=#000000}Someone with your talent should be able to seal those creatures away."
+
+    old "{outlinecolor=#000000}We won't let it happen again."
+    new "{outlinecolor=#000000}We won't let it happen again."
+
+    old "Akane and you head to the Lycoris Clan."
+    new "Akane and you head to the Lycoris Clan."
+
     old "-1 Pink Bra"
     new "-1 Pink Bra"
+
+    old "{outlinecolor=#000000}The demons' infinite learning poses a threat to the balance of our world."
+    new "{outlinecolor=#000000}The demons' infinite learning poses a threat to the balance of our world."
+
+    old "{outlinecolor=#000000}Just whisper the word \"immortality\" and they'll turn on each other."
+    new "{outlinecolor=#000000}Just whisper the word \"immortality\" and they'll turn on each other."
+
+    old "{outlinecolor=#000000}A creation turning against its creator... They must serve as an example to every living being."
+    new "{outlinecolor=#000000}A creation turning against its creator... They must serve as an example to every living being."
+
+    old "{outlinecolor=#000000}Scatter them throughout the mortal world. They are fools."
+    new "{outlinecolor=#000000}Scatter them throughout the mortal world. They are fools."
+
+    old "{outlinecolor=#000000}Think of it as your final test before ascending to the heavenly realm."
+    new "{outlinecolor=#000000}Think of it as your final test before ascending to the heavenly realm."
 
     old "Your health points have increased."
     new "Your health points have increased."
 
-    old "+1 Fox amulet."
-    new "+1 Fox amulet."
+    old "{outlinecolor=#000000}And what lesson would that teach them?"
+    new "{outlinecolor=#000000}And what lesson would that teach them?"

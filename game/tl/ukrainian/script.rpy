@@ -1575,7 +1575,7 @@ translate ukrainian choice4_e384244e:
 translate ukrainian choice4_6b0d5083:
 
     # t "{size=-8}Come on man! {w}Not in front of a goddess!"
-    t "{size=-8}Ну ж бо, друже! {w}Тільки не перд богинею!"
+    t "{size=-8}Нужбо, друже! {w}Тільки не перд богинею!"
 
 # game/game/script.rpy:580
 translate ukrainian choice4_8f09da1e:
@@ -3095,11 +3095,11 @@ translate ukrainian set_fire_95437497:
     # mc "HA!{w=0.3}{nw}"
     mc "ХА!{w=0.3}{nw}"
 
-# game/game/script.rpy:1039
-translate ukrainian set_fire_60cf6eeb:
+# game/game/script.rpy:1045
+translate ukrainian set_fire_47be42b9:
 
-    # mc "A—"
-    mc "Га—"
+    # mc "A-"
+    mc "Га-"
 
 # game/game/script.rpy:1046
 translate ukrainian set_fire_2b35b6fe_3:
@@ -3419,11 +3419,11 @@ translate ukrainian set_fire_2a87c271:
     # mc "It might be a little dirty, but it's better than the others..."
     mc "Вона, певно, трохи брудна, але значно краще за інші..."
 
-# game/game/script.rpy:1169
-translate ukrainian set_fire_490cd218:
+# game/game/script.rpy:1175
+translate ukrainian set_fire_a8930fa5:
 
-    # a "{size=-6}Maybe we can—"
-    a "{size=-6}Можливо б нам—"
+    # a "{size=-6}Maybe we can-"
+    a "{size=-6}Можливо б нам-"
 
 # game/game/script.rpy:1170
 translate ukrainian set_fire_8c003a78:
@@ -6803,10 +6803,10 @@ translate ukrainian keiko_gal1_f2f4436a:
     # k "Let's just say it was my reward {w}for the entertainment you've been giving me-"
     k "Скажімо так, це була моя нагорода {w}за те, як добре ти мене розважав-"
 
-# game/game/script.rpy:2185
-translate ukrainian keiko_gal1_b56fd501:
+# game/game/script.rpy:2191
+translate ukrainian keiko_gal1_1a56181f:
 
-    # k "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few — we---..."
+    # k "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few - we---..."
     k "{size=-8}Якби я не... т- б лежав без тями щ- кілька... тиж---..."
 
 # game/game/script.rpy:2186
@@ -6821,11 +6821,11 @@ translate ukrainian keiko_gal1_cff0da2d:
     # k "{size=-13}Not---ng, I'll expla-- it to you another t---."
     k "{size=-11}Ні--го, пояс-- тобі іншим раз--."
 
-# game/game/script.rpy:2188
-translate ukrainian keiko_gal1_9443b6d1:
+# game/game/script.rpy:2194
+translate ukrainian keiko_gal1_424d451f:
 
-    # k "{size=-11}Now you must return and rest—body and soul."
-    k "{size=-9}Тепер тобі час повернутися і відпочити...душею та тілом."
+    # k "{size=-11}Now you must return and rest-body and soul."
+    k "{size=-9}Тепер тобі час повернутися і відпочити... душею та тілом."
 
 # game/game/script.rpy:2190
 translate ukrainian keiko_gal1_b505c216:
@@ -8301,7 +8301,7 @@ translate ukrainian expedicion_forest_414448cb:
 translate ukrainian expedicion_forest_985a610b:
 
     # y "Start by securing the perimeter, {w}the others will begin to assemble the walls!"
-    y "Спочатку необхідно убезпечити периметр, {w}а решта займеться стінами!"
+    y "Спочатку необхідно зачистити периметр, {w}а решта займеться стінами!"
 
 # game/game/script.rpy:2731
 translate ukrainian expedicion_forest_dba62412:
@@ -11435,11 +11435,11 @@ translate ukrainian stone_teleport_266ab581:
     # c "And don't do anything stupid."
     c "And don't do anything stupid."
 
-# game/game/script.rpy:3789
-translate ukrainian stone_teleport_2763a3ed:
+# game/game/script.rpy:3795
+translate ukrainian stone_teleport_42f414c1:
 
-    # mc "When have I ever done anythi—"
-    mc "When have I ever done anythi—"
+    # mc "When have I ever done anythi-"
+    mc "When have I ever done anythi-"
 
 # game/game/script.rpy:3790
 translate ukrainian stone_teleport_2b35b6fe_3:
@@ -12011,11 +12011,11 @@ translate ukrainian sucu_start_fight_b1750048:
     # t "I really hope she didn't put anything weird in this tea..."
     t "I really hope she didn't put anything weird in this tea..."
 
-# game/game/script.rpy:3988
-translate ukrainian sucu_start_fight_0e4e37a3:
+# game/game/script.rpy:3994
+translate ukrainian sucu_start_fight_30366e1b:
 
-    # t "It's delici—"
-    t "It's delici—"
+    # t "It's delici-"
+    t "It's delici-"
 
 # game/game/script.rpy:3989
 translate ukrainian sucu_start_fight_c4202957:
@@ -12917,11 +12917,11 @@ translate ukrainian sucu_start_fight_1d82a7e7:
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:4232
-translate ukrainian sucu_start_fight_d26208fe:
+# game/game/script.rpy:4238
+translate ukrainian sucu_start_fight_ebdf3587:
 
-    # mc "My hand—there's something wrong with it!"
-    mc "My hand—there's something wrong with it!"
+    # mc "My hand-there's something wrong with it!"
+    mc "My hand-there's something wrong with it!"
 
 # game/game/script.rpy:4233
 translate ukrainian sucu_start_fight_4e4a03ba:
@@ -28870,7 +28870,1716 @@ translate ukrainian past_dream_dd00600d:
 
     # t "Diana should have my clothes ready by now."
     t "Diana should have my clothes ready by now."
-# TODO: Translation updated at 2026-07-04 12:20
+
+# game/game/script.rpy:8915
+translate ukrainian goddesses_talk_1eb23017:
+
+    # mc "H-Hello..."
+    mc "H-Hello..."
+
+# game/game/script.rpy:8920
+translate ukrainian goddesses_talk_9b443dca:
+
+    # k "You look a little worried. Is something wrong?"
+    k "You look a little worried. Is something wrong?"
+
+# game/game/script.rpy:8921
+translate ukrainian goddesses_talk_fd515af3:
+
+    # fu "Are you okay? Would you like something to drink?"
+    fu "Are you okay? Would you like something to drink?"
+
+# game/game/script.rpy:8922
+translate ukrainian goddesses_talk_1a4084fc:
+
+    # mc "We have to talk."
+    mc "We have to talk."
+
+# game/game/script.rpy:8924
+translate ukrainian goddesses_talk_a48e1d1a:
+
+    # k "So you're getting right to the point..."
+    k "So you're getting right to the point..."
+
+# game/game/script.rpy:8925
+translate ukrainian goddesses_talk_a63b58d7:
+
+    # mc "Keiko, how much of what I'm thinking is true?"
+    mc "Keiko, how much of what I'm thinking is true?"
+
+# game/game/script.rpy:8926
+translate ukrainian goddesses_talk_11a252e3:
+
+    # k "You already know how this works."
+    k "You already know how this works."
+
+# game/game/script.rpy:8928
+translate ukrainian goddesses_talk_74c0a505:
+
+    # mc "You are right..."
+    mc "You are right..."
+
+# game/game/script.rpy:8929
+translate ukrainian goddesses_talk_4b832105:
+
+    # mc "So, I'll just talk to myself."
+    mc "So, I'll just talk to myself."
+
+# game/game/script.rpy:8931
+translate ukrainian goddesses_talk_c629eb6b:
+
+    # fu "Hmm...?"
+    fu "Hmm...?"
+
+# game/game/script.rpy:8932
+translate ukrainian goddesses_talk_12014067:
+
+    # mc "I remember something Fumiko once said when I heard you two talking."
+    mc "I remember something Fumiko once said when I heard you two talking."
+
+# game/game/script.rpy:8933
+translate ukrainian goddesses_talk_41bfb0de:
+
+    # mc "\"{i}Hikari won't stop, especially if she finds out you're breaking the rules too.\""
+    mc "\"{i}Hikari won't stop, especially if she finds out you're breaking the rules too.\""
+
+# game/game/script.rpy:8934
+translate ukrainian goddesses_talk_52d02e9a:
+
+    # fu "Ah..."
+    fu "Ah..."
+
+# game/game/script.rpy:8935
+translate ukrainian goddesses_talk_c9df91eb:
+
+    # mc "At first, I thought it had something to do with my visit to her world."
+    mc "At first, I thought it had something to do with my visit to her world."
+
+# game/game/script.rpy:8937
+translate ukrainian goddesses_talk_8ed90548:
+
+    # mc "But... thinking back to when you told me about Hana."
+    mc "But... thinking back to when you told me about Hana."
+
+# game/game/script.rpy:8938
+translate ukrainian goddesses_talk_157f1304:
+
+    # mc "The Goddesses can interfere indirectly without breaking the rules."
+    mc "The Goddesses can interfere indirectly without breaking the rules."
+
+# game/game/script.rpy:8940
+translate ukrainian goddesses_talk_e5f7b4ba:
+
+    # k "And what are you trying to say with that?"
+    k "And what are you trying to say with that?"
+
+# game/game/script.rpy:8941
+translate ukrainian goddesses_talk_c42d433c:
+
+    # mc "If you've been watching me all this time."
+    mc "If you've been watching me all this time."
+
+# game/game/script.rpy:8942
+translate ukrainian goddesses_talk_dacd5133:
+
+    # mc "You must have seen the girl I saw in Reika's picture."
+    mc "You must have seen the girl I saw in Reika's picture."
+
+# game/game/script.rpy:8943
+translate ukrainian goddesses_talk_4cde01fd:
+
+    # mc "How much she looks like Hikari's servant."
+    mc "How much she looks like Hikari's servant."
+
+# game/game/script.rpy:8945
+translate ukrainian goddesses_talk_041c0c0e:
+
+    # mc "Yuuka."
+    mc "Yuuka."
+
+# game/game/script.rpy:8946
+translate ukrainian goddesses_talk_82091822:
+
+    # k "..."
+    k "..."
+
+# game/game/script.rpy:8948
+translate ukrainian goddesses_talk_dea375a5:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-6}Gghn..."
+    fu "{sc=1}{outlinecolor=#000000}{size=-6}Gghn..."
+
+# game/game/script.rpy:8949
+translate ukrainian goddesses_talk_7a0a361a:
+
+    # fu "This is my fault..."
+    fu "This is my fault..."
+
+# game/game/script.rpy:8950
+translate ukrainian goddesses_talk_3dcd031e:
+
+    # mc "From Fumiko's reaction, I can tell it's really her."
+    mc "From Fumiko's reaction, I can tell it's really her."
+
+# game/game/script.rpy:8952
+translate ukrainian goddesses_talk_f0eac37e:
+
+    # k "Sigh~ {w}This girl is like an open book..."
+    k "Sigh~ {w}This girl is like an open book..."
+
+# game/game/script.rpy:8953
+translate ukrainian goddesses_talk_00866c7a:
+
+    # k "What if that were the case?"
+    k "What if that were the case?"
+
+# game/game/script.rpy:8954
+translate ukrainian goddesses_talk_d877e458:
+
+    # mc "Because that would be just like what you did to me."
+    mc "Because that would be just like what you did to me."
+
+# game/game/script.rpy:8955
+translate ukrainian goddesses_talk_fae2ae4b:
+
+    # mc "Hikari could send a \"soul\" into the mortal world like any other one."
+    mc "Hikari could send a \"soul\" into the mortal world like any other one."
+
+# game/game/script.rpy:8957
+translate ukrainian goddesses_talk_c87cab7f:
+
+    # fu "...!"
+    fu "...!"
+
+# game/game/script.rpy:8958
+translate ukrainian goddesses_talk_afdd900d:
+
+    # mc "So that's what happened."
+    mc "So that's what happened."
+
+# game/game/script.rpy:8959
+translate ukrainian goddesses_talk_b0783124:
+
+    # t "I think I could uncover all the truths in the world just by watching Fumiko's reactions."
+    t "I think I could uncover all the truths in the world just by watching Fumiko's reactions."
+
+# game/game/script.rpy:8961
+translate ukrainian goddesses_talk_20d0264f:
+
+    # mc "Do you know what's going on in the Kingdom? The atrocities they commit, the injustice they inflict on the demons."
+    mc "Do you know what's going on in the Kingdom? The atrocities they commit, the injustice they inflict on the demons."
+
+# game/game/script.rpy:8962
+translate ukrainian goddesses_talk_6fdb8e80:
+
+    # mc "Is Hikari helping with that?"
+    mc "Is Hikari helping with that?"
+
+# game/game/script.rpy:8963
+translate ukrainian goddesses_talk_82091822_1:
+
+    # k "..."
+    k "..."
+
+# game/game/script.rpy:8964
+translate ukrainian goddesses_talk_1e9449b4:
+
+    # mc "Even so, you won't answer me."
+    mc "Even so, you won't answer me."
+
+# game/game/script.rpy:8965
+translate ukrainian goddesses_talk_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:8967
+translate ukrainian goddesses_talk_ad57fb7a:
+
+    # mc "I had some dreams recently."
+    mc "I had some dreams recently."
+
+# game/game/script.rpy:8968
+translate ukrainian goddesses_talk_79a594f5:
+
+    # mc "In which you, Shika, and Hikari were."
+    mc "In which you, Shika, and Hikari were."
+
+# game/game/script.rpy:8970
+translate ukrainian goddesses_talk_b6f6277e:
+
+    # mc "But... my mother was there, too."
+    mc "But... my mother was there, too."
+
+# game/game/script.rpy:8974
+translate ukrainian goddesses_talk_af8408d3:
+
+    # k "{size=-6}It has already reached that point..."
+    k "{size=-6}It has already reached that point..."
+
+# game/game/script.rpy:8976
+translate ukrainian goddesses_talk_eb0840d5:
+
+    # fu "..."
+    fu "..."
+
+# game/game/script.rpy:8977
+translate ukrainian goddesses_talk_a5441b97:
+
+    # mc "Fumiko seems confused."
+    mc "Fumiko seems confused."
+
+# game/game/script.rpy:8978
+translate ukrainian goddesses_talk_2d863978:
+
+    # k "She doesn't know about this, so you won't be able to get an answer out of her this way."
+    k "She doesn't know about this, so you won't be able to get an answer out of her this way."
+
+# game/game/script.rpy:8980
+translate ukrainian goddesses_talk_5064e778:
+
+    # mc "Keiko, the person in my dream, was she really my mother?"
+    mc "Keiko, the person in my dream, was she really my mother?"
+
+# game/game/script.rpy:8981
+translate ukrainian goddesses_talk_dcef67b6:
+
+    # mc "That's the only thing I want to know for know."
+    mc "That's the only thing I want to know for know."
+
+# game/game/script.rpy:8982
+translate ukrainian goddesses_talk_82091822_2:
+
+    # k "..."
+    k "..."
+
+# game/game/script.rpy:8983
+translate ukrainian goddesses_talk_3231d77d:
+
+    # k "It's complicated."
+    k "It's complicated."
+
+# game/game/script.rpy:8984
+translate ukrainian goddesses_talk_5c3b868a:
+
+    # mc "That... doesn't answer my question."
+    mc "That... doesn't answer my question."
+
+# game/game/script.rpy:8985
+translate ukrainian goddesses_talk_dbc1b0c6:
+
+    # fu "She created a world... {w}no... {w}a simulation."
+    fu "She created a world... {w}no... {w}a simulation."
+
+# game/game/script.rpy:8987
+translate ukrainian goddesses_talk_764b9c03:
+
+    # fu "Did she not only create a body..."
+    fu "Did she not only create a body..."
+
+# game/game/script.rpy:8988
+translate ukrainian goddesses_talk_7d0019e8:
+
+    # fu "And if she could experience the same thing the creation did... She used fragments of her own soul."
+    fu "And if she could experience the same thing the creation did... She used fragments of her own soul."
+
+# game/game/script.rpy:8990
+translate ukrainian goddesses_talk_df1d9bea:
+
+    # fu "Basically... she made a copy of herself?!"
+    fu "Basically... she made a copy of herself?!"
+
+# game/game/script.rpy:8992
+translate ukrainian goddesses_talk_8b73e724:
+
+    # fu "A single mistake would cause her soul to be destroyed!"
+    fu "A single mistake would cause her soul to be destroyed!"
+
+# game/game/script.rpy:8993
+translate ukrainian goddesses_talk_5346a76c:
+
+    # k "I was just as impressed as you are."
+    k "I was just as impressed as you are."
+
+# game/game/script.rpy:8994
+translate ukrainian goddesses_talk_865b6fd8:
+
+    # mc "A copy...? What's the difference?"
+    mc "A copy...? What's the difference?"
+
+# game/game/script.rpy:8996
+translate ukrainian goddesses_talk_15b4a3bf:
+
+    # fu "No..."
+    fu "No..."
+
+# game/game/script.rpy:8997
+translate ukrainian goddesses_talk_4816907d:
+
+    # fu "Calling it a copy isn't accurate."
+    fu "Calling it a copy isn't accurate."
+
+# game/game/script.rpy:8998
+translate ukrainian goddesses_talk_476e3f4c:
+
+    # fu "She divided her own soul?"
+    fu "She divided her own soul?"
+
+# game/game/script.rpy:8999
+translate ukrainian goddesses_talk_d2233b59:
+
+    # fu "That is why she was able to experience the same thing as her creation."
+    fu "That is why she was able to experience the same thing as her creation."
+
+# game/game/script.rpy:9000
+translate ukrainian goddesses_talk_2a60051e:
+
+    # mc "But why, when she was punished, didn't the created body undergo the same punishment since they are connected?"
+    mc "But why, when she was punished, didn't the created body undergo the same punishment since they are connected?"
+
+# game/game/script.rpy:9002
+translate ukrainian goddesses_talk_65ebd685:
+
+    # fu "Wait..."
+    fu "Wait..."
+
+# game/game/script.rpy:9003
+translate ukrainian goddesses_talk_15b4a3bf_1:
+
+    # fu "No..."
+    fu "No..."
+
+# game/game/script.rpy:9004
+translate ukrainian goddesses_talk_6dbbcc86:
+
+    # fu "I think I finally understand..."
+    fu "I think I finally understand..."
+
+# game/game/script.rpy:9005
+translate ukrainian goddesses_talk_07bd0914:
+
+    # fu "Don't you remember what happened to my sister recently?"
+    fu "Don't you remember what happened to my sister recently?"
+
+# game/game/script.rpy:9007
+translate ukrainian goddesses_talk_6389674a:
+
+    # fu "We discovered that she is still there, only sealed away."
+    fu "We discovered that she is still there, only sealed away."
+
+# game/game/script.rpy:9008
+translate ukrainian goddesses_talk_3996b777:
+
+    # fu "That means..."
+    fu "That means..."
+
+# game/game/script.rpy:9009
+translate ukrainian goddesses_talk_f01c3ceb:
+
+    # fu "Only the fragment inside her divine being was sealed."
+    fu "Only the fragment inside her divine being was sealed."
+
+# game/game/script.rpy:9011
+translate ukrainian goddesses_talk_99fc575e:
+
+    # fu "That's ridiculous."
+    fu "That's ridiculous."
+
+# game/game/script.rpy:9012
+translate ukrainian goddesses_talk_f7975367:
+
+    # "{color=#8cc1e9}{i}Fumiko has always been very perceptive and intelligent, if it weren't for magic, she would be a better goddess than I am."
+    "{color=#8cc1e9}{i}Fumiko has always been very perceptive and intelligent, if it weren't for magic, she would be a better goddess than I am."
+
+# game/game/script.rpy:9013
+translate ukrainian goddesses_talk_eb0840d5_1:
+
+    # fu "..."
+    fu "..."
+
+# game/game/script.rpy:9015
+translate ukrainian goddesses_talk_b4077477:
+
+    # fu "{size=-7}She... didn't keep her memories when she was exiled... {w}She left them with her other self."
+    fu "{size=-7}She... didn't keep her memories when she was exiled... {w}She left them with her other self."
+
+# game/game/script.rpy:9016
+translate ukrainian goddesses_talk_fb3c7b2b:
+
+    # fu "{size=-7}It's as if she had planned her punishment..."
+    fu "{size=-7}It's as if she had planned her punishment..."
+
+# game/game/script.rpy:9017
+translate ukrainian goddesses_talk_a4f64d3c:
+
+    # fu "Who even does something like that...? And why...?"
+    fu "Who even does something like that...? And why...?"
+
+# game/game/script.rpy:9018
+translate ukrainian goddesses_talk_eb0840d5_2:
+
+    # fu "..."
+    fu "..."
+
+# game/game/script.rpy:9020
+translate ukrainian goddesses_talk_8a21e01c:
+
+    # fu "You said she is your mother?"
+    fu "You said she is your mother?"
+
+# game/game/script.rpy:9021
+translate ukrainian goddesses_talk_d5860e02:
+
+    # mc "Hmm? {w}Yes... I think so..."
+    mc "Hmm? {w}Yes... I think so..."
+
+# game/game/script.rpy:9023
+translate ukrainian goddesses_talk_fd6ada72:
+
+    # fu "Hmm... {w}Then maybe you are a-"
+    fu "Hmm... {w}Then maybe you are a-"
+
+# game/game/script.rpy:9026
+translate ukrainian goddesses_talk_972a4525:
+
+    # k "Okay, that's enough."
+    k "Okay, that's enough."
+
+# game/game/script.rpy:9027
+translate ukrainian goddesses_talk_463705cb:
+
+    # fu "Mmm!?"
+    fu "Mmm!?"
+
+# game/game/script.rpy:9030
+translate ukrainian goddesses_talk_b9c47518:
+
+    # k "You're so cute!~{image=corazon}"
+    k "You're so cute!~{image=corazon}"
+
+# game/game/script.rpy:9031
+translate ukrainian goddesses_talk_84b672d6:
+
+    # fu "K-Keikoo!"
+    fu "K-Keikoo!"
+
+# game/game/script.rpy:9032
+translate ukrainian goddesses_talk_15e6d3fc:
+
+    # mc "Memories, copies..."
+    mc "Memories, copies..."
+
+# game/game/script.rpy:9034
+translate ukrainian goddesses_talk_733eda30:
+
+    # mc "Now that I know all these things."
+    mc "Now that I know all these things."
+
+# game/game/script.rpy:9035
+translate ukrainian goddesses_talk_b6bb7533:
+
+    # mc "What am I supposed to do?"
+    mc "What am I supposed to do?"
+
+# game/game/script.rpy:9036
+translate ukrainian goddesses_talk_fc660ad2:
+
+    # mc "I thought that if I talked about this, if I found out more."
+    mc "I thought that if I talked about this, if I found out more."
+
+# game/game/script.rpy:9037
+translate ukrainian goddesses_talk_0c394c7e:
+
+    # mc "Something would change, but it didn't...."
+    mc "Something would change, but it didn't...."
+
+# game/game/script.rpy:9039
+translate ukrainian goddesses_talk_652650d3:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/script.rpy:9040
+translate ukrainian goddesses_talk_d9eb593e:
+
+    # k "You just answered your own questions."
+    k "You just answered your own questions."
+
+# game/game/script.rpy:9042
+translate ukrainian goddesses_talk_7995fd80:
+
+    # k "Nothing has changed in terms of what you need to do."
+    k "Nothing has changed in terms of what you need to do."
+
+# game/game/script.rpy:9043
+translate ukrainian goddesses_talk_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9044
+translate ukrainian goddesses_talk_74c0a505_1:
+
+    # mc "You are right..."
+    mc "You are right..."
+
+# game/game/script.rpy:9046
+translate ukrainian goddesses_talk_46b05207:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-6}Ghn..."
+    fu "{sc=1}{outlinecolor=#000000}{size=-6}Ghn..."
+
+# game/game/script.rpy:9047
+translate ukrainian goddesses_talk_12091f62:
+
+    # k "Do you need anything else?"
+    k "Do you need anything else?"
+
+# game/game/script.rpy:9048
+translate ukrainian goddesses_talk_93deaf69:
+
+    # mc "Ah..."
+    mc "Ah..."
+
+# game/game/script.rpy:9049
+translate ukrainian goddesses_talk_0314ea6a:
+
+    # mc "It wouldn't be reasonable to tell Madam Kaori that Yuuka is a goddess's servant, would it?"
+    mc "It wouldn't be reasonable to tell Madam Kaori that Yuuka is a goddess's servant, would it?"
+
+# game/game/script.rpy:9051
+translate ukrainian goddesses_talk_f1b6adfb:
+
+    # k "That would be very unwise of you."
+    k "That would be very unwise of you."
+
+# game/game/script.rpy:9052
+translate ukrainian goddesses_talk_4f479c7c:
+
+    # mc "{size=-6}{i}Sigh..."
+    mc "{size=-6}{i}Sigh..."
+
+# game/game/script.rpy:9053
+translate ukrainian goddesses_talk_4636dfab:
+
+    # k "That is, {w}if you weren't blessed."
+    k "That is, {w}if you weren't blessed."
+
+# game/game/script.rpy:9054
+translate ukrainian goddesses_talk_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/script.rpy:9056
+translate ukrainian goddesses_talk_d4a0afc4:
+
+    # k "It is common for blessed people to have a slight connection with the Goddesses."
+    k "It is common for blessed people to have a slight connection with the Goddesses."
+
+# game/game/script.rpy:9057
+translate ukrainian goddesses_talk_0cee28bc:
+
+    # k "If you think it's necessary for her to trust you so you can move forward with your plans, it's your only option."
+    k "If you think it's necessary for her to trust you so you can move forward with your plans, it's your only option."
+
+# game/game/script.rpy:9058
+translate ukrainian goddesses_talk_448fda4f:
+
+    # mc "Are you sure that just that alone will make her accept my answer?"
+    mc "Are you sure that just that alone will make her accept my answer?"
+
+# game/game/script.rpy:9059
+translate ukrainian goddesses_talk_a488ef4f:
+
+    # k "She's a woman who's been around for years and has seen a lot, trust me on this one."
+    k "She's a woman who's been around for years and has seen a lot, trust me on this one."
+
+# game/game/script.rpy:9060
+translate ukrainian goddesses_talk_a7bcf340:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/script.rpy:9062
+translate ukrainian goddesses_talk_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9063
+translate ukrainian goddesses_talk_95f02fb1:
+
+    # mc "Keiko?"
+    mc "Keiko?"
+
+# game/game/script.rpy:9064
+translate ukrainian goddesses_talk_16f0d8b9:
+
+    # k "Yes?"
+    k "Yes?"
+
+# game/game/script.rpy:9065
+translate ukrainian goddesses_talk_332c12f4:
+
+    # mc "Why do you sometimes help me and other times not say anything to me?"
+    mc "Why do you sometimes help me and other times not say anything to me?"
+
+# game/game/script.rpy:9066
+translate ukrainian goddesses_talk_82091822_3:
+
+    # k "..."
+    k "..."
+
+# game/game/script.rpy:9068
+translate ukrainian goddesses_talk_31ffcedc:
+
+    # k "For two reasons."
+    k "For two reasons."
+
+# game/game/script.rpy:9069
+translate ukrainian goddesses_talk_652650d3_1:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/script.rpy:9070
+translate ukrainian goddesses_talk_695a1b51:
+
+    # k "The first reason is because I love you."
+    k "The first reason is because I love you."
+
+# game/game/script.rpy:9071
+translate ukrainian goddesses_talk_93deaf69_1:
+
+    # mc "Ah..."
+    mc "Ah..."
+
+# game/game/script.rpy:9073
+translate ukrainian goddesses_talk_fc538dd3:
+
+    # k "And second... {w}I made a promise..."
+    k "And second... {w}I made a promise..."
+
+# game/game/script.rpy:9074
+translate ukrainian goddesses_talk_28ee83c9:
+
+    # t "A promise? With my mother?"
+    t "A promise? With my mother?"
+
+# game/game/script.rpy:9075
+translate ukrainian goddesses_talk_7ac1996f:
+
+    # k "In which I just have to help you with certain things."
+    k "In which I just have to help you with certain things."
+
+# game/game/script.rpy:9076
+translate ukrainian goddesses_talk_0e244a71:
+
+    # k "{size=-6}All to ensure a bright future..."
+    k "{size=-6}All to ensure a bright future..."
+
+# game/game/script.rpy:9077
+translate ukrainian goddesses_talk_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9079
+translate ukrainian goddesses_talk_4326bc7d:
+
+    # k "{size=-6}{i}Ahem*"
+    k "{size=-6}{i}Ahem*"
+
+# game/game/script.rpy:9080
+translate ukrainian goddesses_talk_131ca2ca:
+
+    # k "Anything else, Darling?"
+    k "Anything else, Darling?"
+
+# game/game/script.rpy:9081
+translate ukrainian goddesses_talk_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9082
+translate ukrainian goddesses_talk_a783109a:
+
+    # mc "Why did the world reject the demons? {w}What did they do wrong to deserve that?"
+    mc "Why did the world reject the demons? {w}What did they do wrong to deserve that?"
+
+# game/game/script.rpy:9083
+translate ukrainian goddesses_talk_82091822_4:
+
+    # k "..."
+    k "..."
+
+# game/game/script.rpy:9085
+translate ukrainian goddesses_talk_325ebcc9:
+
+    # k "{size=-6}Fear..."
+    k "{size=-6}Fear..."
+
+# game/game/script.rpy:9086
+translate ukrainian goddesses_talk_09894123:
+
+    # k "The goddesses are afraid... because they can-"
+    k "The goddesses are afraid... because they can-"
+
+# game/game/script.rpy:9088
+translate ukrainian goddesses_talk_dd87cc09:
+
+    # fu "K-Keiko!"
+    fu "K-Keiko!"
+
+# game/game/script.rpy:9089
+translate ukrainian goddesses_talk_052be652:
+
+    # k "Whoops~ {w}I almost let myself get carried away."
+    k "Whoops~ {w}I almost let myself get carried away."
+
+# game/game/script.rpy:9090
+translate ukrainian goddesses_talk_966f42eb:
+
+    # t "Fear? What would the goddesses be afraid of?"
+    t "Fear? What would the goddesses be afraid of?"
+
+# game/game/script.rpy:9091
+translate ukrainian goddesses_talk_d8cd8cb9:
+
+    # k "I can't talk about that... you'll have to look for information in the mortal world."
+    k "I can't talk about that... you'll have to look for information in the mortal world."
+
+# game/game/script.rpy:9092
+translate ukrainian goddesses_talk_c1dff962:
+
+    # mc "Oh..."
+    mc "Oh..."
+
+# game/game/script.rpy:9094
+translate ukrainian goddesses_talk_27d1dd40:
+
+    # mc "You know... I'm going to compete in that tournament."
+    mc "You know... I'm going to compete in that tournament."
+
+# game/game/script.rpy:9095
+translate ukrainian goddesses_talk_8e3549db:
+
+    # k "I see..."
+    k "I see..."
+
+# game/game/script.rpy:9096
+translate ukrainian goddesses_talk_daa846c3:
+
+    # k "You know that dethroning the Queen won't change the way mortals think, right?"
+    k "You know that dethroning the Queen won't change the way mortals think, right?"
+
+# game/game/script.rpy:9097
+translate ukrainian goddesses_talk_7d4ef59f:
+
+    # k "And even if you managed to do that, who would take her place?"
+    k "And even if you managed to do that, who would take her place?"
+
+# game/game/script.rpy:9098
+translate ukrainian goddesses_talk_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9099
+translate ukrainian goddesses_talk_60613f3b:
+
+    # mc "I still don't know what the plans are beyond that."
+    mc "I still don't know what the plans are beyond that."
+
+# game/game/script.rpy:9101
+translate ukrainian goddesses_talk_32d0a667:
+
+    # k "Fufu~"
+    k "Fufu~"
+
+# game/game/script.rpy:9102
+translate ukrainian goddesses_talk_78aad60d:
+
+    # k "You'd better talk to the vampire, then really think about what you want."
+    k "You'd better talk to the vampire, then really think about what you want."
+
+# game/game/script.rpy:9103
+translate ukrainian goddesses_talk_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9105
+translate ukrainian goddesses_talk_3f871f46_1:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/script.rpy:9107
+translate ukrainian goddesses_talk_0c0ba18c:
+
+    # fu "Will you stay with us a little longer?"
+    fu "Will you stay with us a little longer?"
+
+# game/game/script.rpy:9108
+translate ukrainian goddesses_talk_2b35b6fe_7:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9109
+translate ukrainian goddesses_talk_84f16542:
+
+    # mc "Okay..."
+    mc "Okay..."
+
+# game/game/script.rpy:9111
+translate ukrainian goddesses_talk_b41358aa:
+
+    # mc "Thank you, Fumiko."
+    mc "Thank you, Fumiko."
+
+# game/game/script.rpy:9112
+translate ukrainian goddesses_talk_86b24e6e:
+
+    # fu "...~"
+    fu "...~"
+
+# game/game/script.rpy:9121
+translate ukrainian goddesses_talk_7b462ac4:
+
+    # t "I need to go talk to Madam Kaori."
+    t "I need to go talk to Madam Kaori."
+
+# game/game/script.rpy:9132
+translate ukrainian queen_notice_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/script.rpy:9133
+translate ukrainian queen_notice_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/script.rpy:9134
+translate ukrainian queen_notice_d7edd024:
+
+    # "."
+    "."
+
+# game/game/script.rpy:9139
+translate ukrainian queen_notice_70b7eda2:
+
+    # yu "My Queen, he's here."
+    yu "My Queen, he's here."
+
+# game/game/script.rpy:9140
+translate ukrainian queen_notice_7cd21bc1:
+
+    # qu "Why did you take so long?"
+    qu "Why did you take so long?"
+
+# game/game/script.rpy:9142
+translate ukrainian queen_notice_8a827273:
+
+    # yu "My apologies. I had to use force."
+    yu "My apologies. I had to use force."
+
+# game/game/script.rpy:9143
+translate ukrainian queen_notice_8662e19a:
+
+    # yu "You know how uncooperative he gets when you don't teleport him directly here."
+    yu "You know how uncooperative he gets when you don't teleport him directly here."
+
+# game/game/script.rpy:9145
+translate ukrainian queen_notice_c01bfb33:
+
+    # qu "You know how long it takes me to recover my power."
+    qu "You know how long it takes me to recover my power."
+
+# game/game/script.rpy:9146
+translate ukrainian queen_notice_2600dec1:
+
+    # qu "Lately, there have been far too many rats sneaking around."
+    qu "Lately, there have been far too many rats sneaking around."
+
+# game/game/script.rpy:9147
+translate ukrainian queen_notice_042f0f63:
+
+    # qu "I'm not wasting my power on a good-for-nothing."
+    qu "I'm not wasting my power on a good-for-nothing."
+
+# game/game/script.rpy:9148
+translate ukrainian queen_notice_7159dd8a:
+
+    # ors "Isn't it pathetic that a good-for-nothing has to do your dirty work for you?"
+    ors "Isn't it pathetic that a good-for-nothing has to do your dirty work for you?"
+
+# game/game/script.rpy:9150
+translate ukrainian queen_notice_fb41d7e2:
+
+    # qu "You've been acting awfully high and mighty lately."
+    qu "You've been acting awfully high and mighty lately."
+
+# game/game/script.rpy:9151
+translate ukrainian queen_notice_bf3e54c1:
+
+    # qu "Especially for someone who can't even complete a simple mission."
+    qu "Especially for someone who can't even complete a simple mission."
+
+# game/game/script.rpy:9153
+translate ukrainian queen_notice_5a623313:
+
+    # ors "I'm nobody's errand boy."
+    ors "I'm nobody's errand boy."
+
+# game/game/script.rpy:9154
+translate ukrainian queen_notice_5af1f077:
+
+    # ors "If you want something done, get your majestic ass off that throne and step into the real world."
+    ors "If you want something done, get your majestic ass off that throne and step into the real world."
+
+# game/game/script.rpy:9155
+translate ukrainian queen_notice_86dc0eb6:
+
+    # ors "Or have you been sitting there so long that your ass is stuck to the seat?-"
+    ors "Or have you been sitting there so long that your ass is stuck to the seat?-"
+
+# game/game/script.rpy:9158
+translate ukrainian queen_notice_23fa6c25:
+
+    # ors "..."
+    ors "..."
+
+# game/game/script.rpy:9159
+translate ukrainian queen_notice_441abf50:
+
+    # qu "Do you really think I wouldn't?"
+    qu "Do you really think I wouldn't?"
+
+# game/game/script.rpy:9160
+translate ukrainian queen_notice_cc77aa03:
+
+    # qu "If we had the rabbit, I wouldn't have to entrust important tasks to pathetic mortals."
+    qu "If we had the rabbit, I wouldn't have to entrust important tasks to pathetic mortals."
+
+# game/game/script.rpy:9162
+translate ukrainian queen_notice_72d72ef8:
+
+    # ors "Don't lump me in with the rest of them. I didn't even go on that mission."
+    ors "Don't lump me in with the rest of them. I didn't even go on that mission."
+
+# game/game/script.rpy:9164
+translate ukrainian queen_notice_c311b536:
+
+    # qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Because you'd undoubtedly end up killing her."
+    qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Because you'd undoubtedly end up killing her."
+
+# game/game/script.rpy:9165
+translate ukrainian queen_notice_2c97a012:
+
+    # qu "You useless piece of trash."
+    qu "You useless piece of trash."
+
+# game/game/script.rpy:9166
+translate ukrainian queen_notice_f0d73e40:
+
+    # ors "You know me so well, {sc=1}{outlinecolor=#000000}{size=-6}HAHAHA."
+    ors "You know me so well, {sc=1}{outlinecolor=#000000}{size=-6}HAHAHA."
+
+# game/game/script.rpy:9167
+translate ukrainian queen_notice_e9db0096:
+
+    # ors "If you weren't a slave to the Goddesses, we might actually be friends."
+    ors "If you weren't a slave to the Goddesses, we might actually be friends."
+
+# game/game/script.rpy:9169
+translate ukrainian queen_notice_81b27f15:
+
+    # qu "A slave?"
+    qu "A slave?"
+
+# game/game/script.rpy:9171
+translate ukrainian queen_notice_ca4950dc:
+
+    # qu "{i}I'm the closest thing to a god in this world right now."
+    qu "{i}I'm the closest thing to a god in this world right now."
+
+# game/game/script.rpy:9172
+translate ukrainian queen_notice_d65a7014:
+
+    # ors "{i}Wow... They really did a number on you."
+    ors "{i}Wow... They really did a number on you."
+
+# game/game/script.rpy:9174
+translate ukrainian queen_notice_0952586f:
+
+    # qu "Says the insignificant creature whose death was rejected by the Goddesses."
+    qu "Says the insignificant creature whose death was rejected by the Goddesses."
+
+# game/game/script.rpy:9175
+translate ukrainian queen_notice_fc7fbbee:
+
+    # qu "A soul so corrupt that not even they are willing to touch it."
+    qu "A soul so corrupt that not even they are willing to touch it."
+
+# game/game/script.rpy:9177
+translate ukrainian queen_notice_5b48f0d8:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}You're walking on thin ice, \"Slave Queen\"."
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}You're walking on thin ice, \"Slave Queen\"."
+
+# game/game/script.rpy:9178
+translate ukrainian queen_notice_e25a966b:
+
+    # qu "{b}On your knees."
+    qu "{b}On your knees."
+
+# game/game/script.rpy:9180
+translate ukrainian queen_notice_567c3951:
+
+    # ors "...!"
+    ors "...!"
+
+# game/game/script.rpy:9181
+translate ukrainian queen_notice_f1831ebb:
+
+    # qu "Ha ha ha, {w}who's the slave now?"
+    qu "Ha ha ha, {w}who's the slave now?"
+
+# game/game/script.rpy:9183
+translate ukrainian queen_notice_d87e6ca7:
+
+    # qu "That's better."
+    qu "That's better."
+
+# game/game/script.rpy:9184
+translate ukrainian queen_notice_bef317e5:
+
+    # qu "Obedient, {w}just as you should be."
+    qu "Obedient, {w}just as you should be."
+
+# game/game/script.rpy:9186
+translate ukrainian queen_notice_546f46d5:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}I'll kill you."
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}I'll kill you."
+
+# game/game/script.rpy:9187
+translate ukrainian queen_notice_47377a71:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}You... and that damned Goddess hiding behind your eyes."
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}You... and that damned Goddess hiding behind your eyes."
+
+# game/game/script.rpy:9188
+translate ukrainian queen_notice_ed246478:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Are you watching me?"
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Are you watching me?"
+
+# game/game/script.rpy:9190
+translate ukrainian queen_notice_e5b2ae59:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}That curse you put on me that day..."
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}That curse you put on me that day..."
+
+# game/game/script.rpy:9191
+translate ukrainian queen_notice_4d74ef18:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}It'll be the very thing that ends up destroying you."
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}It'll be the very thing that ends up destroying you."
+
+# game/game/script.rpy:9192
+translate ukrainian queen_notice_e39c9d48:
+
+    # qu "I should've done this from the start."
+    qu "I should've done this from the start."
+
+# game/game/script.rpy:9193
+translate ukrainian queen_notice_7e5df9eb:
+
+    # qu "There's nothing useful inside that worthless mind of yours."
+    qu "There's nothing useful inside that worthless mind of yours."
+
+# game/game/script.rpy:9195
+translate ukrainian queen_notice_58ec23b2:
+
+    # qu "Yuuka."
+    qu "Yuuka."
+
+# game/game/script.rpy:9196
+translate ukrainian queen_notice_18652045:
+
+    # qu "Punish him for disrespecting me."
+    qu "Punish him for disrespecting me."
+
+# game/game/script.rpy:9208
+translate ukrainian queen_notice_38fb3ce7:
+
+    # yu "..."
+    yu "..."
+
+# game/game/script.rpy:9210
+translate ukrainian queen_notice_93557c60:
+
+    # yu "{size=-6}Ah."
+    yu "{size=-6}Ah."
+
+# game/game/script.rpy:9212
+translate ukrainian queen_notice_c9f37663:
+
+    # ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}HAHAHAHA."
+    ors "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}HAHAHAHA."
+
+# game/game/script.rpy:9213
+translate ukrainian queen_notice_cf558aa7:
+
+    # yu "{size=-6}He broke my ankle..."
+    yu "{size=-6}He broke my ankle..."
+
+# game/game/script.rpy:9215
+translate ukrainian queen_notice_c1280eda:
+
+    # ors "Don't bother me, bitch."
+    ors "Don't bother me, bitch."
+
+# game/game/script.rpy:9217
+translate ukrainian queen_notice_256638ea:
+
+    # yu "Do you need anything else?"
+    yu "Do you need anything else?"
+
+# game/game/script.rpy:9218
+translate ukrainian queen_notice_b9be6ed4:
+
+    # qu "Make sure he doesn't do anything stupid before the tournament."
+    qu "Make sure he doesn't do anything stupid before the tournament."
+
+# game/game/script.rpy:9219
+translate ukrainian queen_notice_d9849639:
+
+    # yu "Yes."
+    yu "Yes."
+
+# game/game/script.rpy:9220
+translate ukrainian queen_notice_4dd8c821:
+
+    # qu "And there's something else that's bothering me."
+    qu "And there's something else that's bothering me."
+
+# game/game/script.rpy:9222
+translate ukrainian queen_notice_db690542:
+
+    # qu "I drove out a rat that tried to sneak into my kingdom."
+    qu "I drove out a rat that tried to sneak into my kingdom."
+
+# game/game/script.rpy:9223
+translate ukrainian queen_notice_f6e36b59:
+
+    # qu "But the teleportation point was altered almost immediately."
+    qu "But the teleportation point was altered almost immediately."
+
+# game/game/script.rpy:9224
+translate ukrainian queen_notice_0a9d4bf5:
+
+    # yu "Are you saying you couldn't send it where you wanted?"
+    yu "Are you saying you couldn't send it where you wanted?"
+
+# game/game/script.rpy:9226
+translate ukrainian queen_notice_b913b6b1:
+
+    # qu "I tried to send it to the bottom of the sea, but a different kind of magic interfered with the spell."
+    qu "I tried to send it to the bottom of the sea, but a different kind of magic interfered with the spell."
+
+# game/game/script.rpy:9227
+translate ukrainian queen_notice_4145e10f:
+
+    # yu "Is that why you looked into Orson's mind? Do you want me to investigate?"
+    yu "Is that why you looked into Orson's mind? Do you want me to investigate?"
+
+# game/game/script.rpy:9228
+translate ukrainian queen_notice_fe79fb93:
+
+    # qu "Put on a different face."
+    qu "Put on a different face."
+
+# game/game/script.rpy:9229
+translate ukrainian queen_notice_1459c506:
+
+    # yu "Yes. I'll go right away."
+    yu "Yes. I'll go right away."
+
+# game/game/script.rpy:9231
+translate ukrainian queen_notice_999aebdd:
+
+    # qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}It's almost time."
+    qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}It's almost time."
+
+# game/game/script.rpy:9232
+translate ukrainian queen_notice_5e2d7c3f:
+
+    # qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Soon, this body will become divine."
+    qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Soon, this body will become divine."
+
+# game/game/script.rpy:9233
+translate ukrainian queen_notice_39f6125a:
+
+    # qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}And I will no longer be bound by those stupid rules."
+    qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}And I will no longer be bound by those stupid rules."
+
+# game/game/script.rpy:9234
+translate ukrainian queen_notice_a20cefa7_1:
+
+    # "..."
+    "..."
+
+# game/game/script.rpy:9235
+translate ukrainian queen_notice_8dabefc6_1:
+
+    # ".."
+    ".."
+
+# game/game/script.rpy:9236
+translate ukrainian queen_notice_d7edd024_1:
+
+    # "."
+    "."
+
+# game/game/script.rpy:9241
+translate ukrainian queen_notice_68650860:
+
+    # t "I feel like I barely slept..."
+    t "I feel like I barely slept..."
+
+# game/game/script.rpy:9242
+translate ukrainian queen_notice_02816ab4:
+
+    # t "I don't usually wake up this early, but I can't fall back asleep now."
+    t "I don't usually wake up this early, but I can't fall back asleep now."
+
+# game/game/script.rpy:9247
+translate ukrainian queen_notice_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/script.rpy:9248
+translate ukrainian queen_notice_796d6ca6:
+
+    # y "Oh-"
+    y "Oh-"
+
+# game/game/script.rpy:9250
+translate ukrainian queen_notice_107cdbbe:
+
+    # y "Ryoko told me you'd be asleep."
+    y "Ryoko told me you'd be asleep."
+
+# game/game/script.rpy:9251
+translate ukrainian queen_notice_5ae8adde:
+
+    # mc "I just woke up."
+    mc "I just woke up."
+
+# game/game/script.rpy:9252
+translate ukrainian queen_notice_5605c56c:
+
+    # mc "This is unusual."
+    mc "This is unusual."
+
+# game/game/script.rpy:9254
+translate ukrainian queen_notice_94f2963d:
+
+    # y "Yeah... there's something I'd like to talk to you about."
+    y "Yeah... there's something I'd like to talk to you about."
+
+# game/game/script.rpy:9255
+translate ukrainian queen_notice_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9257
+translate ukrainian queen_notice_ce14f745:
+
+    # y "Hmm?"
+    y "Hmm?"
+
+# game/game/script.rpy:9259
+translate ukrainian queen_notice_059d64b7:
+
+    # mc "I'll love her with all my heart..."
+    mc "I'll love her with all my heart..."
+
+# game/game/script.rpy:9261
+translate ukrainian queen_notice_69b4b241:
+
+    # y "{sc=1}{outlinecolor=#000000}{size=-6}IDIOT!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}IDIOT!"
+
+# game/game/script.rpy:9262
+translate ukrainian queen_notice_42a46e8d:
+
+    # y "{sc=1}{outlinecolor=#000000}{size=-6}And why are you assuming it'll be a girl?!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}And why are you assuming it'll be a girl?!"
+
+# game/game/script.rpy:9263
+translate ukrainian queen_notice_ce675f3e:
+
+    # mc "Would you prefer a boy?"
+    mc "Would you prefer a boy?"
+
+# game/game/script.rpy:9264
+translate ukrainian queen_notice_85976b77:
+
+    # y "...!"
+    y "...!"
+
+# game/game/script.rpy:9266
+translate ukrainian queen_notice_8d208ec9:
+
+    # y "That's not why I came here!"
+    y "That's not why I came here!"
+
+# game/game/script.rpy:9267
+translate ukrainian queen_notice_3d319e78:
+
+    # mc "Hahaha, if that's not it, then what brings you to my room so early?"
+    mc "Hahaha, if that's not it, then what brings you to my room so early?"
+
+# game/game/script.rpy:9268
+translate ukrainian queen_notice_507dcdd3:
+
+    # y "I..."
+    y "I..."
+
+# game/game/script.rpy:9269
+translate ukrainian queen_notice_9f32c1d5:
+
+    # y "I need your help."
+    y "I need your help."
+
+# game/game/script.rpy:9270
+translate ukrainian queen_notice_606e2d02:
+
+    # mc "Sure."
+    mc "Sure."
+
+# game/game/script.rpy:9272
+translate ukrainian queen_notice_48402c89:
+
+    # y "F-First, hear me out..."
+    y "F-First, hear me out..."
+
+# game/game/script.rpy:9273
+translate ukrainian queen_notice_a49ed4f8:
+
+    # mc "Okay."
+    mc "Okay."
+
+# game/game/script.rpy:9275
+translate ukrainian queen_notice_45e02643:
+
+    # y "I want to get stronger."
+    y "I want to get stronger."
+
+# game/game/script.rpy:9277
+translate ukrainian queen_notice_8f005e19:
+
+    # y "And to do that, I need to train like I used to."
+    y "And to do that, I need to train like I used to."
+
+# game/game/script.rpy:9278
+translate ukrainian queen_notice_0f7b34c7:
+
+    # y "You mentioned a dragon girl before."
+    y "You mentioned a dragon girl before."
+
+# game/game/script.rpy:9279
+translate ukrainian queen_notice_bf165464:
+
+    # mc "D-Do you want to train with a dragon girl?"
+    mc "D-Do you want to train with a dragon girl?"
+
+# game/game/script.rpy:9280
+translate ukrainian queen_notice_592d57fb:
+
+    # mc "But what about the village?"
+    mc "But what about the village?"
+
+# game/game/script.rpy:9282
+translate ukrainian queen_notice_3b66d029:
+
+    # y "All my girls are trained and already know exactly what to do."
+    y "All my girls are trained and already know exactly what to do."
+
+# game/game/script.rpy:9283
+translate ukrainian queen_notice_cbc21d76:
+
+    # y "Do you remember when I told you that was my goal?"
+    y "Do you remember when I told you that was my goal?"
+
+# game/game/script.rpy:9284
+translate ukrainian queen_notice_054c5ee0:
+
+    # mc "I see."
+    mc "I see."
+
+# game/game/script.rpy:9285
+translate ukrainian queen_notice_a30ea86a:
+
+    # t "I've seen her secretly training all this time."
+    t "I've seen her secretly training all this time."
+
+# game/game/script.rpy:9286
+translate ukrainian queen_notice_50d40e31:
+
+    # t "I hope she isn't pushing herself too hard..."
+    t "I hope she isn't pushing herself too hard..."
+
+# game/game/script.rpy:9288
+translate ukrainian queen_notice_aef6b791:
+
+    # y "The person responsible for everyone else's safety can't be the weakest of them all..."
+    y "The person responsible for everyone else's safety can't be the weakest of them all..."
+
+# game/game/script.rpy:9289
+translate ukrainian queen_notice_3994e7f9:
+
+    # mc "I don't think you-"
+    mc "I don't think you-"
+
+# game/game/script.rpy:9291
+translate ukrainian queen_notice_f29f983f:
+
+    # y "So? Will you introduce me to that girl?"
+    y "So? Will you introduce me to that girl?"
+
+# game/game/script.rpy:9292
+translate ukrainian queen_notice_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9293
+translate ukrainian queen_notice_d921e5ca:
+
+    # mc "Yui..."
+    mc "Yui..."
+
+# game/game/script.rpy:9294
+translate ukrainian queen_notice_71a86863:
+
+    # y "..."
+    y "..."
+
+# game/game/script.rpy:9296
+translate ukrainian queen_notice_ea596a33:
+
+    # y "No, wait... you're right. It was stupid."
+    y "No, wait... you're right. It was stupid."
+
+# game/game/script.rpy:9297
+translate ukrainian queen_notice_46b974ea:
+
+    # y "Coming here right after waking up was kind of weird, haha."
+    y "Coming here right after waking up was kind of weird, haha."
+
+# game/game/script.rpy:9298
+translate ukrainian queen_notice_c12bb161:
+
+    # t "So that's why she's dressed like that..."
+    t "So that's why she's dressed like that..."
+
+# game/game/script.rpy:9299
+translate ukrainian queen_notice_29597e48:
+
+    # y "You already have your own problems, and I'm sure I'll just be a nuisan-"
+    y "You already have your own problems, and I'm sure I'll just be a nuisan-"
+
+# game/game/script.rpy:9301
+translate ukrainian queen_notice_8a922a32:
+
+    # mc "Didn't you hear me earlier? I said \"sure\"."
+    mc "Didn't you hear me earlier? I said \"sure\"."
+
+# game/game/script.rpy:9302
+translate ukrainian queen_notice_71a86863_1:
+
+    # y "..."
+    y "..."
+
+# game/game/script.rpy:9303
+translate ukrainian queen_notice_941e9a79:
+
+    # y "R-Really?"
+    y "R-Really?"
+
+# game/game/script.rpy:9304
+translate ukrainian queen_notice_006b16fc:
+
+    # mc "Yeah, {w}but going up against a dragon girl..."
+    mc "Yeah, {w}but going up against a dragon girl..."
+
+# game/game/script.rpy:9305
+translate ukrainian queen_notice_ef15276c:
+
+    # mc "I don't want you getting hurt either."
+    mc "I don't want you getting hurt either."
+
+# game/game/script.rpy:9307
+translate ukrainian queen_notice_7c9687cc:
+
+    # y "I have some new techniques in mind, and I can only test them against someone stronger than me."
+    y "I have some new techniques in mind, and I can only test them against someone stronger than me."
+
+# game/game/script.rpy:9308
+translate ukrainian queen_notice_0d84c1a2:
+
+    # y "And you always hold back because you don't want to hurt me."
+    y "And you always hold back because you don't want to hurt me."
+
+# game/game/script.rpy:9309
+translate ukrainian queen_notice_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9310
+translate ukrainian queen_notice_7b26a848:
+
+    # t "Well... she held back when she fought Ryoko."
+    t "Well... she held back when she fought Ryoko."
+
+# game/game/script.rpy:9311
+translate ukrainian queen_notice_97a15332:
+
+    # t "And she'll be more than happy to have someone else to train with."
+    t "And she'll be more than happy to have someone else to train with."
+
+# game/game/script.rpy:9312
+translate ukrainian queen_notice_9b988c4f:
+
+    # mc "I was going to train with her today anyway."
+    mc "I was going to train with her today anyway."
+
+# game/game/script.rpy:9313
+translate ukrainian queen_notice_194a21bf:
+
+    # mc "I'll ask her what she thinks."
+    mc "I'll ask her what she thinks."
+
+# game/game/script.rpy:9315
+translate ukrainian queen_notice_8fb24361:
+
+    # y "Really!?~"
+    y "Really!?~"
+
+# game/game/script.rpy:9316
+translate ukrainian queen_notice_ad25f0f0:
+
+    # mc "Only if you give me a kiss."
+    mc "Only if you give me a kiss."
+
+# game/game/script.rpy:9317
+translate ukrainian queen_notice_2ecce9f1:
+
+    # y "Yees!-"
+    y "Yees!-"
+
+# game/game/script.rpy:9319
+translate ukrainian queen_notice_bbec8726:
+
+    # y "{sc=1}{outlinecolor=#000000}{size=-6}You idiot!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}You idiot!"
+
+# game/game/script.rpy:9320
+translate ukrainian queen_notice_1f5b224d:
+
+    # mc "Hahaha."
+    mc "Hahaha."
+
+# game/game/script.rpy:9322
+translate ukrainian queen_notice_bff3306d:
+
+    # mc "All right, I'll get dressed and head to Sakura Town."
+    mc "All right, I'll get dressed and head to Sakura Town."
+
+# game/game/script.rpy:9323
+translate ukrainian queen_notice_495c984e:
+
+    # mc "When I get back, I'll let you know how it went-"
+    mc "When I get back, I'll let you know how it went-"
+
+# game/game/script.rpy:9326
+translate ukrainian queen_notice_4394138d:
+
+    # y "Chu~"
+    y "Chu~"
+
+# game/game/script.rpy:9328
+translate ukrainian queen_notice_4fce6dad:
+
+    # y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-Th-"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-Th-"
+
+# game/game/script.rpy:9329
+translate ukrainian queen_notice_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/script.rpy:9330
+translate ukrainian queen_notice_2cc4a86b:
+
+    # y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-The deal is sealed!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-The deal is sealed!"
+
+# game/game/script.rpy:9332
+translate ukrainian queen_notice_5cc47e88:
+
+    # y "{sc=1}{outlinecolor=#000000}{size=-6}Idiot! Idiot! Idiot!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}Idiot! Idiot! Idiot!"
+
+# game/game/script.rpy:9334
+translate ukrainian queen_notice_7e1322bf:
+
+    # r "Ah, Yui, leaving already?"
+    r "Ah, Yui, leaving already?"
+
+# game/game/script.rpy:9335
+translate ukrainian queen_notice_2857e699:
+
+    # y "I left the oven on!"
+    y "I left the oven on!"
+
+# game/game/script.rpy:9339
+translate ukrainian queen_notice_d40eb808:
+
+    # r "Oh..."
+    r "Oh..."
+
+# game/game/script.rpy:9340
+translate ukrainian queen_notice_5aaaae92:
+
+    # r "{size=-6}I didn't know you had an oven..."
+    r "{size=-6}I didn't know you had an oven..."
+
+# game/game/script.rpy:9342
+translate ukrainian queen_notice_0bc80d7e:
+
+    # t "Hmm... {w}I should go find Sayori right away."
+    t "Hmm... {w}I should go find Sayori right away."
+
+# game/game/script.rpy:9343
+translate ukrainian queen_notice_0c19f744:
+
+    # t "That sweet kiss made my bad dream all better..."
+    t "That sweet kiss made my bad dream all better..."
 
 translate ukrainian strings:
 
@@ -29349,3 +31058,6 @@ translate ukrainian strings:
 
     old "Hey? Are you listening?"
     new "Hey? Are you listening?"
+
+    old "You tell the Goddesses everything you dreamed about."
+    new "You tell the Goddesses everything you dreamed about."

@@ -2,7 +2,7 @@
 ## щоб додати українську, як опцію
 
 
-init 15 screen choose_language():
+init 15 screen choose_language:
     modal True
     
     # Додаємо українську мову в тайтл.

@@ -2010,22 +2010,16 @@ translate ukrainian char_event3_0621ea59:
     t "{size=-6}{i}Я забув вудку."
 
 # game/game/charlotte_events.rpy:765
-translate ukrainian char_real_spend_ecdf424a:
+translate ukrainian char_real_spend_0cc8eab4:
 
-    # t "Today she's back in the same place..."
-    t "Сьогодні вона знову тут же..."
+    # t "She's back in the same spot today..."
+    t "Вона знову на цьому ж місці сьогодні..."
 
 # game/game/charlotte_events.rpy:767
-translate ukrainian char_real_spend_7add8b39:
+translate ukrainian char_real_spend_d9f32170:
 
-    # t "Hmm...?"
-    t "Гмм...?"
-
-# game/game/charlotte_events.rpy:769
-translate ukrainian char_real_spend_d917fc8d:
-
-    # t "She woke up?"
-    t "Вона прокинулася?"
+    # t "Oh, she's awake."
+    t "О, прокинулася."
 
 # game/game/charlotte_events.rpy:770
 translate ukrainian char_real_spend_d19f855d:
@@ -2033,28 +2027,22 @@ translate ukrainian char_real_spend_d19f855d:
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:772
-translate ukrainian char_real_spend_eae9e40c:
+# game/game/charlotte_events.rpy:770
+translate ukrainian char_real_spend_a88e73ac:
 
-    # c "Coming to fish again?"
+    # c "Back to fishing again?"
     c "Прийшов знову порибалити?"
 
-# game/game/charlotte_events.rpy:773
-translate ukrainian char_real_spend_2b35b6fe:
+# game/game/charlotte_events.rpy:771
+translate ukrainian char_real_spend_6042276a:
 
-    # mc "..."
-    mc "..."
-
-# game/game/charlotte_events.rpy:775
-translate ukrainian char_real_spend_74e14819:
-
-    # mc "Ah, y-yes."
-    mc "Ах, т-так."
+    # mc "A-Ah, yeah..."
+    mc "А-Ах, ага..."
 
 # game/game/charlotte_events.rpy:776
-translate ukrainian char_real_spend_c2f0a463:
+translate ukrainian char_real_spend_cadc754e:
 
-    # t "I didn't expect her to initiate the conversation..."
+    # t "I wasn't expecting her to start the conversation..."
     t "Не очікував, що вона перша заговорить..."
 
 # game/game/charlotte_events.rpy:778
@@ -2070,22 +2058,22 @@ translate ukrainian char_real_spend_f7128c13:
     c "Щасти..."
 
 # game/game/charlotte_events.rpy:781
-translate ukrainian char_real_spend_2b35b6fe_1:
+translate ukrainian char_real_spend_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/charlotte_events.rpy:783
-translate ukrainian char_real_spend_596add55:
+# game/game/charlotte_events.rpy:779
+translate ukrainian char_real_spend_1df44852:
 
-    # mc "In fact, I need to prepare the rod."
-    mc "Спочатку мені треба приготувати вудку."
+    # mc "Actually, I need to get my rod ready."
+    mc "Знаєш, мені треба спочатку приготувати вудку."
 
-# game/game/charlotte_events.rpy:784
-translate ukrainian char_real_spend_73636687:
+# game/game/charlotte_events.rpy:780
+translate ukrainian char_real_spend_f1cbf833:
 
-    # mc "Can I sit here while I do it?"
-    mc "Я можу сісти поруч?"
+    # mc "Mind if I sit here while I do that?"
+    mc "Не проти, якщо я сяду поруч, поки готуватиму?"
 
 # game/game/charlotte_events.rpy:786
 translate ukrainian char_real_spend_d19f855d_2:
@@ -2093,16 +2081,16 @@ translate ukrainian char_real_spend_d19f855d_2:
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:787
-translate ukrainian char_real_spend_50c15c3c:
+# game/game/charlotte_events.rpy:782
+translate ukrainian char_real_spend_740199e0:
 
-    # t "Did I rush?"
-    t "Невже я поспішив?"
+    # t "Did I come on too strong?"
+    t "Не занадто різко я почав?"
 
-# game/game/charlotte_events.rpy:789
-translate ukrainian char_real_spend_8c0805fc:
+# game/game/charlotte_events.rpy:784
+translate ukrainian char_real_spend_4b489c83:
 
-    # c "Ok..."
+    # c "Okay..."
     c "Авжеж..."
 
 # game/game/charlotte_events.rpy:790
@@ -2111,10 +2099,10 @@ translate ukrainian char_real_spend_660a9a17:
     # t "Oh..."
     t "Ох..."
 
-# game/game/charlotte_events.rpy:791
-translate ukrainian char_real_spend_7ac9e788:
+# game/game/charlotte_events.rpy:786
+translate ukrainian char_real_spend_3d5adf01:
 
-    # mc "Thanks Charlotte."
+    # mc "Thanks, Charlotte."
     mc "Дякую, Шарлотто."
 
 # game/game/charlotte_events.rpy:803
@@ -2123,14 +2111,14 @@ translate ukrainian char_real_spend_85785fdb:
     # mc "Perfect."
     mc "Ідеально."
 
-# game/game/charlotte_events.rpy:805
-translate ukrainian char_real_spend_a9d2db5c:
+# game/game/charlotte_events.rpy:797
+translate ukrainian char_real_spend_f2626437:
 
-    # t "Charlotte?"
-    t "Шарлотта?"
+    # mc "Charlotte?"
+    mc "Шарлотто?"
 
 # game/game/charlotte_events.rpy:807
-translate ukrainian char_real_spend_2b35b6fe_2:
+translate ukrainian char_real_spend_2b35b6fe_1:
 
     # mc "..."
     mc "..."
@@ -2141,11 +2129,11 @@ translate ukrainian char_real_spend_d19f855d_3:
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:811
-translate ukrainian char_real_spend_d4799e2f:
+# game/game/charlotte_events.rpy:802
+translate ukrainian char_real_spend_30b315df:
 
-    # t "Gulp*"
-    t "{i}*Ковть*{/i}"
+    # t "{size=-6}Gulp*"
+    t "{size=-6}{i}*Ковть*{/i}"
 
 # game/game/charlotte_events.rpy:813
 translate ukrainian char_real_spend_bda3ff80:
@@ -2153,23 +2141,23 @@ translate ukrainian char_real_spend_bda3ff80:
     # c "...!"
     c "...!"
 
-# game/game/charlotte_events.rpy:815
-translate ukrainian char_real_spend_d19f855d_4:
+# game/game/charlotte_events.rpy:805
+translate ukrainian char_real_spend_e43fcd90:
 
-    # c "..."
-    c "..."
+    # mc "{size=-6}She's so cute..."
+    mc "{size=-6}Вона така мила..."
 
-# game/game/charlotte_events.rpy:821
-translate ukrainian char_real_spend_9246c750:
+# game/game/charlotte_events.rpy:807
+translate ukrainian char_real_spend_66600335:
 
-    # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    # t "{size=-8}Fishing can wait..."
+    t "{size=-8}Риболовля може зачекати..."
 
-# game/game/charlotte_events.rpy:823
-translate ukrainian char_real_spend_817302d4:
+# game/game/charlotte_events.rpy:811
+translate ukrainian char_real_spend_d7c4a413:
 
-    # mc "{size=-10}Fishing can wait..."
-    mc "{size=-10}Риболовля зачекає..."
+    # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:841
 translate ukrainian char_event4_00f4c26e:
@@ -4577,53 +4565,53 @@ translate ukrainian char_blow1_d7c4a413:
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
     "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}"
 
-# game/game/charlotte_events.rpy:1444
-translate ukrainian char_room_event_b972d2bf:
+# game/game/charlotte_events.rpy:1432
+translate ukrainian char_room_event_7c842de2:
 
-    # mc "{size=-10}Psst* Hey."
-    mc "{size=-10}Psst* Hey."
+    # mc "{sc=1}{outlinecolor=#000000}{size=-8}Psst...{/size}{/sc} Hey."
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Psst...{/size}{/sc} Hey."
 
-# game/game/charlotte_events.rpy:1446
+# game/game/charlotte_events.rpy:1433
 translate ukrainian char_room_event_94936157:
 
     # mc "{size=-10}Charlotte?"
     mc "{size=-10}Charlotte?"
 
-# game/game/charlotte_events.rpy:1448
-translate ukrainian char_room_event_d99613ab:
+# game/game/charlotte_events.rpy:1436
+translate ukrainian char_room_event_3f511685:
 
-    # t "I forgot that she can kill me in her sleep!"
-    t "I forgot that she can kill me in her sleep!"
+    # t "Oh no."
+    t "Oh no."
 
-# game/game/charlotte_events.rpy:1450
-translate ukrainian char_room_event_1c23767d:
+# game/game/charlotte_events.rpy:1437
+translate ukrainian char_room_event_d19f855d:
 
-    # t "Hmm?"
-    t "Hmm?"
+    # c "..."
+    c "..."
 
-# game/game/charlotte_events.rpy:1451
+# game/game/charlotte_events.rpy:1438
 translate ukrainian char_room_event_0be996c1:
 
     # mc "H-Hey, you woke up..."
     mc "H-Hey, you woke up..."
 
-# game/game/charlotte_events.rpy:1453
-translate ukrainian char_room_event_b8de06d3:
+# game/game/charlotte_events.rpy:1440
+translate ukrainian char_room_event_f2316b97:
 
-    # mc "Oh."
-    mc "Oh."
+    # mc "Ah."
+    mc "Ah."
 
-# game/game/charlotte_events.rpy:1455
+# game/game/charlotte_events.rpy:1442
 translate ukrainian char_room_event_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/charlotte_events.rpy:1457
-translate ukrainian char_room_event_4e5270bc:
+# game/game/charlotte_events.rpy:1444
+translate ukrainian char_room_event_6f3cfbec:
 
-    # t "At least she's no longer trying to kill me..."
-    t "At least she's no longer trying to kill me..."
+    # t "At least she's not trying to kill me anymore..."
+    t "At least she's not trying to kill me anymore..."
 
 # game/game/charlotte_events.rpy:1459
 translate ukrainian char_room_event_2b35b6fe_1:
@@ -4631,551 +4619,587 @@ translate ukrainian char_room_event_2b35b6fe_1:
     # mc "..."
     mc "..."
 
-# game/game/charlotte_events.rpy:1461
-translate ukrainian char_room_event_b5ab21cc:
+# game/game/charlotte_events.rpy:1446
+translate ukrainian char_room_event_16127969:
 
-    # mc "I'd like to stay like this all day but today we have something to do."
-    mc "I'd like to stay like this all day but today we have something to do."
+    # mc "I'd love to stay like this all day, but we have something to do today."
+    mc "I'd love to stay like this all day, but we have something to do today."
 
-# game/game/charlotte_events.rpy:1463
-translate ukrainian char_room_event_fdc64e83:
+# game/game/charlotte_events.rpy:1447
+translate ukrainian char_room_event_a22485fd:
 
-    # c "Something to do?"
-    c "Something to do?"
+    # c "{size=-6}Something to do...?"
+    c "{size=-6}Something to do...?"
 
-# game/game/charlotte_events.rpy:1465
-translate ukrainian char_room_event_f800bed0:
+# game/game/charlotte_events.rpy:1448
+translate ukrainian char_room_event_cf1adef2:
 
-    # mc "Yes."
-    mc "Yes."
+    # mc "Yeah."
+    mc "Yeah."
 
-# game/game/charlotte_events.rpy:1466
+# game/game/charlotte_events.rpy:1449
 translate ukrainian char_room_event_2b7b815a:
 
     # mc "Your room is ready."
     mc "Your room is ready."
 
-# game/game/charlotte_events.rpy:1467
-translate ukrainian char_room_event_d19f855d:
-
-    # c "..."
-    c "..."
-
-# game/game/charlotte_events.rpy:1469
-translate ukrainian char_room_event_3decab20:
-
-    # c "My room!?"
-    c "My room!?"
-
-# game/game/charlotte_events.rpy:1471
-translate ukrainian char_room_event_2feb2b96:
-
-    # mc "Yes, I haven't seen it either."
-    mc "Yes, I haven't seen it either."
-
-# game/game/charlotte_events.rpy:1473
-translate ukrainian char_room_event_b6f1a873:
-
-    # c "So..."
-    c "So..."
-
-# game/game/charlotte_events.rpy:1475
-translate ukrainian char_room_event_d32745c7:
-
-    # mc "You can now officially live with me."
-    mc "You can now officially live with me."
-
-# game/game/charlotte_events.rpy:1477
-translate ukrainian char_room_event_49e93077:
-
-    # mc "Or with us, hahaha."
-    mc "Or with us, hahaha."
-
-# game/game/charlotte_events.rpy:1478
+# game/game/charlotte_events.rpy:1450
 translate ukrainian char_room_event_d19f855d_1:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1479
-translate ukrainian char_room_event_c27b3d15:
+# game/game/charlotte_events.rpy:1452
+translate ukrainian char_room_event_b5fa74c1:
 
-    # mc "I already want you to meet Ryoko, I'm sure you'll get along well."
-    mc "I already want you to meet Ryoko, I'm sure you'll get along well."
+    # c "My room?!"
+    c "My room?!"
 
-# game/game/charlotte_events.rpy:1481
-translate ukrainian char_room_event_a6f1a94d:
+# game/game/charlotte_events.rpy:1453
+translate ukrainian char_room_event_d2921b40:
 
-    # c "{size=-10}I never thought I'd live in that house again..."
-    c "{size=-10}I never thought I'd live in that house again..."
+    # mc "I was hoping we could go see it together. That's why I came."
+    mc "I was hoping we could go see it together. That's why I came."
 
-# game/game/charlotte_events.rpy:1483
-translate ukrainian char_room_event_720bff92:
+# game/game/charlotte_events.rpy:1454
+translate ukrainian char_room_event_967ff574:
 
-    # mc "Shall we go then?"
-    mc "Shall we go then?"
+    # c "That means..."
+    c "That means..."
 
-# game/game/charlotte_events.rpy:1485
-translate ukrainian char_room_event_eb30f2ec:
+# game/game/charlotte_events.rpy:1455
+translate ukrainian char_room_event_d32745c7:
 
-    # c "Ok..Human.."
-    c "Ok..Human.."
+    # mc "You can now officially live with me."
+    mc "You can now officially live with me."
 
-# game/game/charlotte_events.rpy:1490
-translate ukrainian char_room_event_5d45fc69:
+# game/game/charlotte_events.rpy:1457
+translate ukrainian char_room_event_aa628692:
 
-    # mc "Ryoko, I'm home!"
-    mc "Ryoko, I'm home!"
+    # mc "Or rather, with us, hahaha."
+    mc "Or rather, with us, hahaha."
 
-# game/game/charlotte_events.rpy:1491
-translate ukrainian char_room_event_b318be40:
-
-    # r "Oook!"
-    r "Oook!"
-
-# game/game/charlotte_events.rpy:1492
+# game/game/charlotte_events.rpy:1458
 translate ukrainian char_room_event_d19f855d_2:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1497
-translate ukrainian char_room_event_fb6622a5:
+# game/game/charlotte_events.rpy:1459
+translate ukrainian char_room_event_1259296d:
 
-    # r "Master [mc] you finally arrived."
-    r "Master [mc] you finally arrived."
+    # mc "I can't wait for you to meet Ryoko. I'm sure the two of you will get along."
+    mc "I can't wait for you to meet Ryoko. I'm sure the two of you will get along."
 
-# game/game/charlotte_events.rpy:1499
-translate ukrainian char_room_event_3999a29e:
+# game/game/charlotte_events.rpy:1461
+translate ukrainian char_room_event_8cfeb395:
 
-    # mc "Sorry to keep you waiting."
-    mc "Sorry to keep you waiting."
+    # c "{size=-10}{i}I never thought I'd live in that house again..."
+    c "{size=-10}{i}I never thought I'd live in that house again..."
 
-# game/game/charlotte_events.rpy:1501
-translate ukrainian char_room_event_a0561867:
+# game/game/charlotte_events.rpy:1462
+translate ukrainian char_room_event_720bff92:
 
-    # mc "I want you to meet Charlotte."
-    mc "I want you to meet Charlotte."
+    # mc "Shall we go then?"
+    mc "Shall we go then?"
 
-# game/game/charlotte_events.rpy:1502
+# game/game/charlotte_events.rpy:1464
+translate ukrainian char_room_event_c7402b36:
+
+    # c "Okay... Human..."
+    c "Okay... Human..."
+
+# game/game/charlotte_events.rpy:1469
+translate ukrainian char_room_event_5d45fc69:
+
+    # mc "Ryoko, I'm home!"
+    mc "Ryoko, I'm home!"
+
+# game/game/charlotte_events.rpy:1470
+translate ukrainian char_room_event_ee5afc54:
+
+    # r "Yees~"
+    r "Yees~"
+
+# game/game/charlotte_events.rpy:1471
 translate ukrainian char_room_event_d19f855d_3:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1503
-translate ukrainian char_room_event_bf17aeb3:
+# game/game/charlotte_events.rpy:1476
+translate ukrainian char_room_event_c2f285f1:
 
-    # mc "I already mentioned it to you, but she'll be living with us from now on."
-    mc "I already mentioned it to you, but she'll be living with us from now on."
+    # r "Master [mc], you've finally arrived."
+    r "Master [mc], you've finally arrived."
 
-# game/game/charlotte_events.rpy:1509
-translate ukrainian char_room_event_aa99fbb9:
+# game/game/charlotte_events.rpy:1477
+translate ukrainian char_room_event_3999a29e:
 
-    # c "Ah."
-    c "Ah."
+    # mc "Sorry to keep you waiting."
+    mc "Sorry to keep you waiting."
 
-# game/game/charlotte_events.rpy:1510
-translate ukrainian char_room_event_ae0d5759:
+# game/game/charlotte_events.rpy:1479
+translate ukrainian char_room_event_a0561867:
 
-    # mc "She was the one who helped me kill that orc."
-    mc "She was the one who helped me kill that orc."
+    # mc "I want you to meet Charlotte."
+    mc "I want you to meet Charlotte."
 
-# game/game/charlotte_events.rpy:1512
-translate ukrainian char_room_event_0ddbdce1:
-
-    # r "Really?"
-    r "Really?"
-
-# game/game/charlotte_events.rpy:1514
-translate ukrainian char_room_event_cd6c6709:
-
-    # c "Nice to meet you..."
-    c "Nice to meet you..."
-
-# game/game/charlotte_events.rpy:1516
-translate ukrainian char_room_event_18ea02e8:
-
-    # c "I hope we get along well... {w}Ryoko.."
-    c "I hope we get along well... {w}Ryoko.."
-
-# game/game/charlotte_events.rpy:1518
-translate ukrainian char_room_event_9a8faf6c:
-
-    # r "Me too!"
-    r "Me too!"
-
-# game/game/charlotte_events.rpy:1519
-translate ukrainian char_room_event_bda3ff80:
-
-    # c "...!"
-    c "...!"
-
-# game/game/charlotte_events.rpy:1521
-translate ukrainian char_room_event_cc4f3999:
-
-    # r "I hope we can be friends!"
-    r "I hope we can be friends!"
-
-# game/game/charlotte_events.rpy:1522
-translate ukrainian char_room_event_8530bfea:
-
-    # c "I.."
-    c "I.."
-
-# game/game/charlotte_events.rpy:1524
-translate ukrainian char_room_event_39cb0885:
-
-    # r "If you need anything just let me know!"
-    r "If you need anything just let me know!"
-
-# game/game/charlotte_events.rpy:1526
+# game/game/charlotte_events.rpy:1480
 translate ukrainian char_room_event_d19f855d_4:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1528
-translate ukrainian char_room_event_3a6d1544:
+# game/game/charlotte_events.rpy:1481
+translate ukrainian char_room_event_8be18d93:
 
-    # c "Thank you, I'll be in your care..."
-    c "Thank you, I'll be in your care..."
+    # mc "I already told you about her, but she'll be living with us from now on."
+    mc "I already told you about her, but she'll be living with us from now on."
 
-# game/game/charlotte_events.rpy:1529
-translate ukrainian char_room_event_5d9497a5:
+# game/game/charlotte_events.rpy:1485
+translate ukrainian char_room_event_aa99fbb9:
 
-    # r "Yes!"
-    r "Yes!"
+    # c "Ah."
+    c "Ah."
 
-# game/game/charlotte_events.rpy:1531
-translate ukrainian char_room_event_ff660695:
+# game/game/charlotte_events.rpy:1486
+translate ukrainian char_room_event_c7c5dcc2:
 
-    # mc "Why do you call her by her name, but you just call me Human?"
-    mc "Why do you call her by her name, but you just call me Human?"
+    # mc "She's the one who helped me kill that orc."
+    mc "She's the one who helped me kill that orc."
 
-# game/game/charlotte_events.rpy:1533
-translate ukrainian char_room_event_421ceb3f:
+# game/game/charlotte_events.rpy:1487
+translate ukrainian char_room_event_0ddbdce1:
 
-    # c "Maybe when you stop putting your life at risk I'll start calling you by your name."
-    c "Maybe when you stop putting your life at risk I'll start calling you by your name."
+    # r "Really?"
+    r "Really?"
 
-# game/game/charlotte_events.rpy:1535
-translate ukrainian char_room_event_f76cc6d5:
+# game/game/charlotte_events.rpy:1489
+translate ukrainian char_room_event_cd6c6709:
 
-    # r "Master always puts others before himself."
-    r "Master always puts others before himself."
+    # c "Nice to meet you..."
+    c "Nice to meet you..."
 
-# game/game/charlotte_events.rpy:1537
-translate ukrainian char_room_event_7b91dee2:
+# game/game/charlotte_events.rpy:1490
+translate ukrainian char_room_event_1cea6be0:
 
-    # c "I don't know if he's just an idiot or if he's really that selfless."
-    c "I don't know if he's just an idiot or if he's really that selfless."
+    # c "I hope we can get along... {w}Ryoko..."
+    c "I hope we can get along... {w}Ryoko..."
 
-# game/game/charlotte_events.rpy:1539
-translate ukrainian char_room_event_dce31f2c:
+# game/game/charlotte_events.rpy:1496
+translate ukrainian char_room_event_1d37a04f:
 
-    # mc "You guys are getting along too well..."
-    mc "You guys are getting along too well..."
+    # c "...!"
+    c "...!"
 
-# game/game/charlotte_events.rpy:1545
-translate ukrainian char_room_event_567b903f:
+# game/game/charlotte_events.rpy:1497
+translate ukrainian char_room_event_d7f55276:
 
-    # mc "Let's go see the new room..."
-    mc "Let's go see the new room..."
+    # r "Me too!"
+    r "Me too!"
 
-# game/game/charlotte_events.rpy:1546
-translate ukrainian char_room_event_8c0805fc:
+# game/game/charlotte_events.rpy:1498
+translate ukrainian char_room_event_cc4f3999:
 
-    # c "Ok..."
-    c "Ok..."
+    # r "I hope we can be friends!"
+    r "I hope we can be friends!"
 
-# game/game/charlotte_events.rpy:1547
-translate ukrainian char_room_event_8560f942:
-
-    # mc "Ryoko, can you prepare what I told you before?"
-    mc "Ryoko, can you prepare what I told you before?"
-
-# game/game/charlotte_events.rpy:1548
-translate ukrainian char_room_event_5d9497a5_1:
-
-    # r "Yes!"
-    r "Yes!"
-
-# game/game/charlotte_events.rpy:1549
-translate ukrainian char_room_event_61a8eaed:
-
-    # c "Hmm?"
-    c "Hmm?"
-
-# game/game/charlotte_events.rpy:1550
-translate ukrainian char_room_event_cbef4992:
-
-    # mc "Let's see how it looks."
-    mc "Let's see how it looks."
-
-# game/game/charlotte_events.rpy:1555
-translate ukrainian char_room_event_698d7569:
-
-    # mc "Wow."
-    mc "Wow."
-
-# game/game/charlotte_events.rpy:1556
-translate ukrainian char_room_event_d19f855d_5:
-
-    # c "..."
-    c "..."
-
-# game/game/charlotte_events.rpy:1558
-translate ukrainian char_room_event_013d4c53:
-
-    # mc "Mayu never ceases to amaze me."
-    mc "Mayu never ceases to amaze me."
-
-# game/game/charlotte_events.rpy:1560
-translate ukrainian char_room_event_6db316be:
-
-    # mc "What do you think Charlotte?"
-    mc "What do you think Charlotte?"
-
-# game/game/charlotte_events.rpy:1561
-translate ukrainian char_room_event_9f8b2331:
-
-    # c "This will be my room?"
-    c "This will be my room?"
-
-# game/game/charlotte_events.rpy:1563
-translate ukrainian char_room_event_62266bdc:
-
-    # mc "How many years Mayu must've been in her job to be able to do these things."
-    mc "How many years Mayu must've been in her job to be able to do these things."
-
-# game/game/charlotte_events.rpy:1565
-translate ukrainian char_room_event_a66c616a:
-
-    # mc "Oh, it illuminates."
-    mc "Oh, it illuminates."
-
-# game/game/charlotte_events.rpy:1567
-translate ukrainian char_room_event_2c3474ae:
-
-    # mc "Do you like it?"
-    mc "Do you like it?"
-
-# game/game/charlotte_events.rpy:1568
+# game/game/charlotte_events.rpy:1499
 translate ukrainian char_room_event_9499934f:
 
     # c "I..."
     c "I..."
 
-# game/game/charlotte_events.rpy:1570
-translate ukrainian char_room_event_16e3da9b:
+# game/game/charlotte_events.rpy:1501
+translate ukrainian char_room_event_9c362ec1:
 
-    # c "I like it..."
-    c "I like it..."
+    # r "If you need anything, just let me know!"
+    r "If you need anything, just let me know!"
 
-# game/game/charlotte_events.rpy:1571
-translate ukrainian char_room_event_2bda79a4:
+# game/game/charlotte_events.rpy:1502
+translate ukrainian char_room_event_d19f855d_5:
 
-    # mc "I'm glad."
-    mc "I'm glad."
+    # c "..."
+    c "..."
 
-# game/game/charlotte_events.rpy:1573
-translate ukrainian char_room_event_3bd7202b:
+# game/game/charlotte_events.rpy:1504
+translate ukrainian char_room_event_0e84af5f:
 
-    # mc "You even have a sofa!"
-    mc "You even have a sofa!"
+    # c "T-Thank you, I look forward to living with you..."
+    c "T-Thank you, I look forward to living with you..."
 
-# game/game/charlotte_events.rpy:1575
-translate ukrainian char_room_event_8ae4e6b9:
+# game/game/charlotte_events.rpy:1505
+translate ukrainian char_room_event_5d9497a5:
 
-    # mc "And it's quite comfortable."
-    mc "And it's quite comfortable."
+    # r "Yes!"
+    r "Yes!"
 
-# game/game/charlotte_events.rpy:1576
+# game/game/charlotte_events.rpy:1506
+translate ukrainian char_room_event_98dbbbeb:
+
+    # mc "Why do you call her by her name, but only call me Human?"
+    mc "Why do you call her by her name, but only call me Human?"
+
+# game/game/charlotte_events.rpy:1508
+translate ukrainian char_room_event_6b478aec:
+
+    # c "Maybe when you stop risking your life, I'll start calling you by your name."
+    c "Maybe when you stop risking your life, I'll start calling you by your name."
+
+# game/game/charlotte_events.rpy:1509
+translate ukrainian char_room_event_f76cc6d5:
+
+    # r "Master always puts others before himself."
+    r "Master always puts others before himself."
+
+# game/game/charlotte_events.rpy:1511
+translate ukrainian char_room_event_5f77a67e:
+
+    # c "I can't tell if he's just an idiot or genuinely that selfless."
+    c "I can't tell if he's just an idiot or genuinely that selfless."
+
+# game/game/charlotte_events.rpy:1512
+translate ukrainian char_room_event_5ebc7aa0:
+
+    # r "Well, on the positive side, I think it's cute~"
+    r "Well, on the positive side, I think it's cute~"
+
+# game/game/charlotte_events.rpy:1513
+translate ukrainian char_room_event_f0be817e:
+
+    # mc "{size=-6}{i}Y-You two are getting along a little too well..."
+    mc "{size=-6}{i}Y-You two are getting along a little too well..."
+
+# game/game/charlotte_events.rpy:1517
+translate ukrainian char_room_event_f29bbb96:
+
+    # r "Hahaha~"
+    r "Hahaha~"
+
+# game/game/charlotte_events.rpy:1518
+translate ukrainian char_room_event_69118cc3:
+
+    # c "Hahaha..."
+    c "Hahaha..."
+
+# game/game/charlotte_events.rpy:1520
+translate ukrainian char_room_event_4e4fb046:
+
+    # mc "Let's go check out your new room..."
+    mc "Let's go check out your new room..."
+
+# game/game/charlotte_events.rpy:1521
+translate ukrainian char_room_event_4b489c83:
+
+    # c "Okay..."
+    c "Okay..."
+
+# game/game/charlotte_events.rpy:1522
+translate ukrainian char_room_event_2992a7d4:
+
+    # mc "Ryoko, can you prepare what I asked you earlier?"
+    mc "Ryoko, can you prepare what I asked you earlier?"
+
+# game/game/charlotte_events.rpy:1523
+translate ukrainian char_room_event_5d9497a5_1:
+
+    # r "Yes!"
+    r "Yes!"
+
+# game/game/charlotte_events.rpy:1524
+translate ukrainian char_room_event_61a8eaed:
+
+    # c "Hmm?"
+    c "Hmm?"
+
+# game/game/charlotte_events.rpy:1525
+translate ukrainian char_room_event_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/charlotte_events.rpy:1526
+translate ukrainian char_room_event_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/charlotte_events.rpy:1527
+translate ukrainian char_room_event_d7edd024:
+
+    # "."
+    "."
+
+# game/game/charlotte_events.rpy:1528
+translate ukrainian char_room_event_0aac1b99:
+
+    # mc "Let's see how it turned out."
+    mc "Let's see how it turned out."
+
+# game/game/charlotte_events.rpy:1532
+translate ukrainian char_room_event_698d7569:
+
+    # mc "Wow."
+    mc "Wow."
+
+# game/game/charlotte_events.rpy:1533
 translate ukrainian char_room_event_d19f855d_6:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1577
-translate ukrainian char_room_event_a58dc56f:
+# game/game/charlotte_events.rpy:1535
+translate ukrainian char_room_event_013d4c53:
 
-    # mc "What's the matter Charlotte?"
-    mc "What's the matter Charlotte?"
+    # mc "Mayu never ceases to amaze me."
+    mc "Mayu never ceases to amaze me."
 
-# game/game/charlotte_events.rpy:1579
-translate ukrainian char_room_event_448a5540:
+# game/game/charlotte_events.rpy:1536
+translate ukrainian char_room_event_ea7ca406:
 
-    # c "Will you really give me this room?"
-    c "Will you really give me this room?"
+    # mc "What do you think, Charlotte?"
+    mc "What do you think, Charlotte?"
 
-# game/game/charlotte_events.rpy:1580
-translate ukrainian char_room_event_8fea2db2:
+# game/game/charlotte_events.rpy:1537
+translate ukrainian char_room_event_9f8b2331:
 
-    # mc "Hmm..."
-    mc "Hmm..."
+    # c "This will be my room?"
+    c "This will be my room?"
 
-# game/game/charlotte_events.rpy:1582
-translate ukrainian char_room_event_bd2abcf0:
+# game/game/charlotte_events.rpy:1539
+translate ukrainian char_room_event_4963e91b:
 
-    # mc "Look, come closer."
-    mc "Look, come closer."
+    # mc "{size=-7}Oh, you can turn this thing on."
+    mc "{size=-7}Oh, you can turn this thing on."
 
-# game/game/charlotte_events.rpy:1583
+# game/game/charlotte_events.rpy:1540
+translate ukrainian char_room_event_34980c88:
+
+    # mc "How many years must Mayu have spent doing this to be able to make something like this?"
+    mc "How many years must Mayu have spent doing this to be able to make something like this?"
+
+# game/game/charlotte_events.rpy:1542
+translate ukrainian char_room_event_2c3474ae:
+
+    # mc "Do you like it?"
+    mc "Do you like it?"
+
+# game/game/charlotte_events.rpy:1543
+translate ukrainian char_room_event_bc7850b3:
+
+    # c "{size=-6}I..."
+    c "{size=-6}I..."
+
+# game/game/charlotte_events.rpy:1544
+translate ukrainian char_room_event_16e3da9b:
+
+    # c "I like it..."
+    c "I like it..."
+
+# game/game/charlotte_events.rpy:1545
+translate ukrainian char_room_event_e04395ed:
+
+    # mc "I'm glad to hear that."
+    mc "I'm glad to hear that."
+
+# game/game/charlotte_events.rpy:1547
+translate ukrainian char_room_event_3bd7202b:
+
+    # mc "You even have a sofa!"
+    mc "You even have a sofa!"
+
+# game/game/charlotte_events.rpy:1549
+translate ukrainian char_room_event_e7796421:
+
+    # mc "And it's really comfortable."
+    mc "And it's really comfortable."
+
+# game/game/charlotte_events.rpy:1550
 translate ukrainian char_room_event_d19f855d_7:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1585
-translate ukrainian char_room_event_60d445f6:
+# game/game/charlotte_events.rpy:1551
+translate ukrainian char_room_event_6dac204a:
 
-    # mc "The thing is-"
-    mc "The thing is-"
+    # mc "What's wrong, Charlotte?"
+    mc "What's wrong, Charlotte?"
 
-# game/game/charlotte_events.rpy:1587
-translate ukrainian char_room_event_f5767e49:
+# game/game/charlotte_events.rpy:1553
+translate ukrainian char_room_event_2e270c68:
 
-    # mc "Gotcha!"
-    mc "Gotcha!"
+    # c "Are you really giving me this room?"
+    c "Are you really giving me this room?"
 
-# game/game/charlotte_events.rpy:1588
-translate ukrainian char_room_event_ebc3e891:
+# game/game/charlotte_events.rpy:1554
+translate ukrainian char_room_event_8fea2db2:
 
-    # c "Human?!"
-    c "Human?!"
+    # mc "Hmm..."
+    mc "Hmm..."
 
-# game/game/charlotte_events.rpy:1591
-translate ukrainian char_room_event_ee924956:
+# game/game/charlotte_events.rpy:1555
+translate ukrainian char_room_event_f2c549aa:
 
-    # c "Nya!?"
-    c "Nya!?"
+    # mc "Here, come closer."
+    mc "Here, come closer."
 
-# game/game/charlotte_events.rpy:1592
-translate ukrainian char_room_event_af0bdec3:
-
-    # t "Did she just say Nya?"
-    t "Did she just say Nya?"
-
-# game/game/charlotte_events.rpy:1594
-translate ukrainian char_room_event_8bcff6d0:
-
-    # mc "Sorry, I had to do it."
-    mc "Sorry, I had to do it."
-
-# game/game/charlotte_events.rpy:1596
-translate ukrainian char_room_event_1d8021cc:
-
-    # mc "I never see you with your guard down."
-    mc "I never see you with your guard down."
-
-# game/game/charlotte_events.rpy:1597
+# game/game/charlotte_events.rpy:1556
 translate ukrainian char_room_event_d19f855d_8:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1599
-translate ukrainian char_room_event_5d2b0506:
+# game/game/charlotte_events.rpy:1558
+translate ukrainian char_room_event_60d445f6:
 
-    # mc "From now on this is your room and no one and nothing can say otherwise."
-    mc "From now on this is your room and no one and nothing can say otherwise."
+    # mc "The thing is-"
+    mc "The thing is-"
 
-# game/game/charlotte_events.rpy:1600
+# game/game/charlotte_events.rpy:1560
+translate ukrainian char_room_event_3960ef70:
+
+    # mc "Gotcha!"
+    mc "Gotcha!"
+
+# game/game/charlotte_events.rpy:1561
+translate ukrainian char_room_event_656287f6:
+
+    # c "{sc=1}{outlinecolor=#000000}{size=-8}H-Human?!"
+    c "{sc=1}{outlinecolor=#000000}{size=-8}H-Human?!"
+
+# game/game/charlotte_events.rpy:1563
+translate ukrainian char_room_event_5fad9738:
+
+    # c "{sc=1}{outlinecolor=#000000}{size=-8}Ghnya!?"
+    c "{sc=1}{outlinecolor=#000000}{size=-8}Ghnya!?"
+
+# game/game/charlotte_events.rpy:1564
+translate ukrainian char_room_event_4e0ec564:
+
+    # t "Did she just say \"nya\"?"
+    t "Did she just say \"nya\"?"
+
+# game/game/charlotte_events.rpy:1566
+translate ukrainian char_room_event_8905ab33:
+
+    # mc "Sorry, I couldn't resist."
+    mc "Sorry, I couldn't resist."
+
+# game/game/charlotte_events.rpy:1567
+translate ukrainian char_room_event_0997dc38:
+
+    # mc "I never get to see you with your guard down."
+    mc "I never get to see you with your guard down."
+
+# game/game/charlotte_events.rpy:1568
+translate ukrainian char_room_event_21abb2c4:
+
+    # mc "From now on, this is your room, and no one can take that away from you."
+    mc "From now on, this is your room, and no one can take that away from you."
+
+# game/game/charlotte_events.rpy:1569
 translate ukrainian char_room_event_d19f855d_9:
 
     # c "..."
     c "..."
 
-# game/game/charlotte_events.rpy:1602
-translate ukrainian char_room_event_b20dbf7f:
+# game/game/charlotte_events.rpy:1571
+translate ukrainian char_room_event_5d85f0da:
 
-    # c "Thanks Human..."
-    c "Thanks Human..."
+    # c "Thanks, Human..."
+    c "Thanks, Human..."
 
-# game/game/charlotte_events.rpy:1604
-translate ukrainian char_room_event_82c53b6c:
+# game/game/charlotte_events.rpy:1572
+translate ukrainian char_room_event_12937b52:
 
-    # mc "We're friends after all."
-    mc "We're friends after all."
+    # mc "We're friends, after all."
+    mc "We're friends, after all."
 
-# game/game/charlotte_events.rpy:1605
-translate ukrainian char_room_event_13329e0d:
+# game/game/charlotte_events.rpy:1573
+translate ukrainian char_room_event_4dd3e575:
 
-    # c "Umh..."
-    c "Umh..."
+    # c "{size=-6}Uhm..."
+    c "{size=-6}Uhm..."
 
-# game/game/charlotte_events.rpy:1607
-translate ukrainian char_room_event_40d6ebea:
+# game/game/charlotte_events.rpy:1575
+translate ukrainian char_room_event_80d9a514:
 
-    # r "{size=+5}Master! I have everything ready!"
-    r "{size=+5}Master! I have everything ready!"
+    # r "{sc=1}{outlinecolor=#000000}{size=-8}Master! I have everything ready!"
+    r "{sc=1}{outlinecolor=#000000}{size=-8}Master! I have everything ready!"
 
-# game/game/charlotte_events.rpy:1608
-translate ukrainian char_room_event_50896fb9:
+# game/game/charlotte_events.rpy:1576
+translate ukrainian char_room_event_389e9186:
 
-    # mc "{size=+5}Ok!"
-    mc "{size=+5}Ok!"
+    # mc "{sc=1}{outlinecolor=#000000}{size=-8}We're coming!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}We're coming!"
 
-# game/game/charlotte_events.rpy:1609
+# game/game/charlotte_events.rpy:1577
 translate ukrainian char_room_event_61a8eaed_1:
 
     # c "Hmm?"
     c "Hmm?"
 
-# game/game/charlotte_events.rpy:1611
+# game/game/charlotte_events.rpy:1579
 translate ukrainian char_room_event_8efa3de7:
 
     # mc "Let's go to the living room."
     mc "Let's go to the living room."
 
-# game/game/charlotte_events.rpy:1612
-translate ukrainian char_room_event_d4aacc7b:
+# game/game/charlotte_events.rpy:1580
+translate ukrainian char_room_event_cc5a5299:
 
-    # c "O-Ok..."
-    c "O-Ok..."
+    # c "O-Okay..."
+    c "O-Okay..."
 
-# game/game/charlotte_events.rpy:1614
-translate ukrainian char_room_event_1166e121:
+# game/game/charlotte_events.rpy:1582
+translate ukrainian char_room_event_ffccf899:
 
-    # r "Please sit down."
-    r "Please sit down."
+    # r "Please, have a seat."
+    r "Please, have a seat."
 
-# game/game/charlotte_events.rpy:1616
-translate ukrainian char_room_event_7bf78f67:
+# game/game/charlotte_events.rpy:1583
+translate ukrainian char_room_event_69da72ca:
 
-    # mc "Sorry to bother you with this Ryoko."
-    mc "Sorry to bother you with this Ryoko."
+    # mc "Sorry for asking you to do this, Ryoko."
+    mc "Sorry for asking you to do this, Ryoko."
 
-# game/game/charlotte_events.rpy:1618
-translate ukrainian char_room_event_4d7f5888:
+# game/game/charlotte_events.rpy:1585
+translate ukrainian char_room_event_48bf8f40:
 
-    # r "Master! You never bother me!"
-    r "Master! You never bother me!"
+    # r "Master! You're never a bother!"
+    r "Master! You're never a bother!"
 
-# game/game/charlotte_events.rpy:1620
-translate ukrainian char_room_event_cd33336d:
+# game/game/charlotte_events.rpy:1586
+translate ukrainian char_room_event_174aba15:
 
-    # mc "Are you not hungry, Charlotte?"
-    mc "Are you not hungry, Charlotte?"
+    # r "I'm not a good cook, but this is easy to make."
+    r "I'm not a good cook, but this is easy to make."
 
-# game/game/charlotte_events.rpy:1622
-translate ukrainian char_room_event_a4bb2f8e:
+# game/game/charlotte_events.rpy:1588
+translate ukrainian char_room_event_96a6610d:
 
-    # c "{size=-10}That's..."
-    c "{size=-10}That's..."
+    # mc "I hope you're hungry, Charlotte."
+    mc "I hope you're hungry, Charlotte."
 
-# game/game/charlotte_events.rpy:1627
-translate ukrainian char_room_event_dda77ceb:
+# game/game/charlotte_events.rpy:1589
+translate ukrainian char_room_event_b3b14f3b:
 
-    # c "I'm very hungry!"
-    c "I'm very hungry!"
+    # c "{size=-10}Fish..."
+    c "{size=-10}Fish..."
 
-# game/game/charlotte_events.rpy:1633
-translate ukrainian char_room_event_9246c750:
+# game/game/charlotte_events.rpy:1592
+translate ukrainian char_room_event_fc1c0342:
 
-    # "{image=/bg/icons/heart_text.png}Charlotte's affection has increased to [charlotte_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Прихильність Шарлотти зросла до [charlotte_affection]{image=/bg/icons/heart_text.png}"
+    # c "I'm starving!"
+    c "I'm starving!"
+
+# game/game/charlotte_events.rpy:1598
+translate ukrainian char_room_event_d7c4a413:
+
+    # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
+    "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:1659
 translate ukrainian char_night_spend_ebc076b1:
@@ -19854,8 +19878,8 @@ translate ukrainian strings:
     new "Fishing{image=/bg/icons/tenshi_text.png}"
 
     # game/charlotte_events.rpy:752
-    old "Hang out{image=/bg/icons/heart_text.png}"
-    new "Погуляти{image=/bg/icons/heart_text.png}"
+    old "Hang out{image=corazon}"
+    new "Погуляти{image=corazon}"
 
     # game/charlotte_events.rpy:1653
     old "More than company{image=/bg/icons/tenshi_text.png}"

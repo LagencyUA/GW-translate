@@ -1278,6 +1278,9 @@ translate ukrainian strings:
     new "{i}You know this is a \nmagic store, don't you?"
 
 translate ukrainian strings:
+    old "You cannot have more than %d of this item."
+    new "You cannot have more than %d of this item."
+
     old "You already have too much of this copy!"
     new "You already have too much of this copy!"
 

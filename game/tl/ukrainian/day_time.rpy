@@ -192,6 +192,9 @@ translate ukrainian strings:
     old "{i}Hover a card"
     new "{i}Наведи на карту"
 
+    old "{i}No events"
+    new "{i}Немає подій"
+
     # game/day_time.rpy:447
     old "{size=+2}BACK"
     new "{size=+2}Назад "
@@ -672,8 +675,8 @@ translate ukrainian strings:
     new "{color=#FF438D}Х{/color}-подія\nПошукай {color=#319B85}Шарлотту{/color} біля озера."
 
     # game/day_time.rpy:1810
-    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte{/color} room."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte{/color} room."
+    old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte's{/color} room."
+    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte's{/color} room."
 
     # game/day_time.rpy:1821
     old "{color=#FFFFFF}N{/color}-Event\nLet {color=#319B85}Charlotte{/color} know that her room is ready."
@@ -877,6 +880,9 @@ translate ukrainian strings:
     # game/day_time.rpy:2385
     old "{size=-13}Morning\n ST-Bridge"
     new "{size=-13}Ранок\nМіст у містечку\nСакура"
+
+    old "{size=-13}Afternoon\n Training field"
+    new "{size=-13}День\nПоле для тренування"
 
     # game/day_time.rpy:2412
     old "{color=#CACACA}Hint Blocked{/color}\nYou need to spend more time with {color=#BD4A17}Sayori{/color}."
@@ -1179,6 +1185,19 @@ translate ukrainian strings:
     old "{color=#FF438D}H{/color}-Event\nGo to the hot springs at night."
     new "{color=#FF438D}H{/color}-Event\nGo to the hot springs at night."
 
+    ############################ Меню з Айріс iris_stats ###################################
+    old "{size=+65}Iris"
+    new "{size=+65}Айріс"
+
+    old "{size=-13}Magic Shop"
+    new "{size=-13}Магічна крамничка"
+
+    old "{color=#FF438D}H{/color}-Event\nGo talk to Diana and Iris at the magic shop."
+    new "{color=#FF438D}H{/color}-Event\nGo talk to Diana and Iris at the magic shop."
+
+    ############################ Меню з Діаною diana_stats ###################################
+    old "{size=+65}Diana"
+    new "{size=+65}Діана"
 
     ############################ Меню з Кейко keiko_stats ###################################
     old "{size=+65}Keiko"
@@ -1223,6 +1242,46 @@ translate ukrainian strings:
     # game/day_time.rpy:3517
     old "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#F5B6F2}Tail and Magic{/color}\"."
     new "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#F5B6F2}Tail and Magic{/color}\"."
+
+    old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nBuy the cards at Tomoe's shop and give them to Fumiko."
+    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nBuy the cards at Tomoe's shop and give them to Fumiko."
+
+    old "{color=#FF438D}H{/color}-Event\nGo spend the afternoon in Keiko's world."
+    new "{color=#FF438D}H{/color}-Event\nGo spend the afternoon in Keiko's world."
+
+    ############################ Меню з Каорі kaori_stats ###################################
+    old "{size=+65}Kaori"
+    new "{size=+65}Каорі"
+
+    ############################ Меню з Луною luna_stats ###################################
+    old "{size=+65}Luna"
+    new "{size=+65}Луна"
+
+    ############################ Меню з Рейкою reika_stats ###################################
+    old "{size=+65}Reika"
+    new "{size=+65}Рейка"
+
+    ############################ Меню з Іґніс ignis_stats ###################################
+    old "{size=+65}Ignis"
+    new "{size=+65}Іґніс"
+
+    old "{size=-13}Morning\n Training field"
+    new "{size=-13}Ранок\nПоле для тренування"
+
+    old "{i}No events yet"
+    new "{i}Немає поки подій"
+
+    ############################ Меню з Хікарі hikari_stats ###################################
+    old "{size=+65}Hikari"
+    new "{size=+65}Хікарі"
+
+    ############################ Меню з Юка yuuka_stats ###################################
+    old "{size=+65}Yuuka"
+    new "{size=+65}Юка"
+
+    ############################ Меню з Зурі zuri_stats ###################################
+    old "{size=+65}Zuri"
+    new "{size=+65}Зурі"
 
     ###########################################################################################
     # consume_item_confirm

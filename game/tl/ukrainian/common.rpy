@@ -88,6 +88,10 @@
     old "Self-Voicing"
     new "Самоозвучення"
 
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new "Під час використання сенсорного екрану функція самоозвучення працює в обмеженому режимі."
+
     # renpy/common/00accessibility.rpy:197
     old "Off"
     new "Вимкнуто"
@@ -740,6 +744,18 @@
     old "Self-voicing enabled. Press 'v' to disable."
     new "Увімкнено самоозвучення. Натисніть 'v', щоб вимкнути."
 
+    # renpy/common/00speechbubble.rpy:421
+    old "(hide)"
+    new "(сховати)"
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new "(видалити залишки бульбашок)"
+
+    # renpy/common/00speechbubble.rpy:416
+    old "Speech Bubble Editor"
+    new "Редактор розмовноъ бульбашки"
+
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
     new "Порожній слот."
@@ -894,7 +910,7 @@
     new "Оновлення"
 
     # renpy/common/00updater.rpy:1631
-    old "An error has occurred:"
+    old "An error has occured:"
     new "Сталася помилка:"
 
     # renpy/common/00updater.rpy:1633

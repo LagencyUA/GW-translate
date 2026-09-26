@@ -5369,6 +5369,2730 @@ translate ukrainian fumi_cardgame_f6c55327:
     # "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}"
     "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}"
 
+# game/game/fumiko_events.rpy:1474
+translate ukrainian fumi_keiko_saw_c67a05f0:
+
+    # fu "[mc]!"
+    fu "[mc]!"
+
+# game/game/fumiko_events.rpy:1475
+translate ukrainian fumi_keiko_saw_7a46dc4b:
+
+    # k "Ara~ Hello, handsome~"
+    k "Ara~ Hello, handsome~"
+
+# game/game/fumiko_events.rpy:1476
+translate ukrainian fumi_keiko_saw_d221873f:
+
+    # mc "Hmm? {w}Is everything okay, Fumiko?"
+    mc "Hmm? {w}Is everything okay, Fumiko?"
+
+# game/game/fumiko_events.rpy:1481
+translate ukrainian fumi_keiko_saw_4ebaff98:
+
+    # fu "Ah! {w}Y-Yes, it's nothing..."
+    fu "Ah! {w}Y-Yes, it's nothing..."
+
+# game/game/fumiko_events.rpy:1482
+translate ukrainian fumi_keiko_saw_12d45e9f:
+
+    # k "She was just wondering when you were going to come visit us again."
+    k "She was just wondering when you were going to come visit us again."
+
+# game/game/fumiko_events.rpy:1483
+translate ukrainian fumi_keiko_saw_addfbd95:
+
+    # k "She was getting rather impatient."
+    k "She was getting rather impatient."
+
+# game/game/fumiko_events.rpy:1485
+translate ukrainian fumi_keiko_saw_c5db13fd:
+
+    # fu "T-That's not true! I just..."
+    fu "T-That's not true! I just..."
+
+# game/game/fumiko_events.rpy:1486
+translate ukrainian fumi_keiko_saw_94023229:
+
+    # fu "I- Ah..."
+    fu "I- Ah..."
+
+# game/game/fumiko_events.rpy:1488
+translate ukrainian fumi_keiko_saw_bf46f959:
+
+    # fu "As goddesses, it's our duty to care for mortals."
+    fu "As goddesses, it's our duty to care for mortals."
+
+# game/game/fumiko_events.rpy:1489
+translate ukrainian fumi_keiko_saw_32d0a667:
+
+    # k "Fufu~"
+    k "Fufu~"
+
+# game/game/fumiko_events.rpy:1490
+translate ukrainian fumi_keiko_saw_a7bcf340:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/fumiko_events.rpy:1491
+translate ukrainian fumi_keiko_saw_1b31ac07:
+
+    # mc "So, what were you doing?"
+    mc "So, what were you doing?"
+
+# game/game/fumiko_events.rpy:1493
+translate ukrainian fumi_keiko_saw_f0814d18:
+
+    # k "We were talking about trivial matters and some of the things mortals have created."
+    k "We were talking about trivial matters and some of the things mortals have created."
+
+# game/game/fumiko_events.rpy:1494
+translate ukrainian fumi_keiko_saw_00ab51b2:
+
+    # mc "Things mortals have created?"
+    mc "Things mortals have created?"
+
+# game/game/fumiko_events.rpy:1495
+translate ukrainian fumi_keiko_saw_25f6936b:
+
+    # k "Yes, like the card game you gave Fumiko."
+    k "Yes, like the card game you gave Fumiko."
+
+# game/game/fumiko_events.rpy:1496
+translate ukrainian fumi_keiko_saw_112214e5:
+
+    # fu "It's a lot of fun! {w}I've played it with Keiko many times."
+    fu "It's a lot of fun! {w}I've played it with Keiko many times."
+
+# game/game/fumiko_events.rpy:1498
+translate ukrainian fumi_keiko_saw_8d95636b:
+
+    # mc "{size=-6}Ah, thank you."
+    mc "{size=-6}Ah, thank you."
+
+# game/game/fumiko_events.rpy:1499
+translate ukrainian fumi_keiko_saw_4375bbb7:
+
+    # fu "Although... {w=0.5}I can never beat her... {w=0.5}I always end up naked."
+    fu "Although... {w=0.5}I can never beat her... {w=0.5}I always end up naked."
+
+# game/game/fumiko_events.rpy:1501
+translate ukrainian fumi_keiko_saw_63ddb2d4:
+
+    # mc "I'd like to see that..."
+    mc "I'd like to see that..."
+
+# game/game/fumiko_events.rpy:1502
+translate ukrainian fumi_keiko_saw_b7903140:
+
+    # fu "Hmm?"
+    fu "Hmm?"
+
+# game/game/fumiko_events.rpy:1503
+translate ukrainian fumi_keiko_saw_7c79d85b:
+
+    # mc "I-I'd like to see you beat her sometime, I mean."
+    mc "I-I'd like to see you beat her sometime, I mean."
+
+# game/game/fumiko_events.rpy:1505
+translate ukrainian fumi_keiko_saw_bbd2f0ba:
+
+    # fu "{size=-6}{i}I don't think I can. It's almost as if she's using some kind of magic to see right through me."
+    fu "{size=-6}{i}I don't think I can. It's almost as if she's using some kind of magic to see right through me."
+
+# game/game/fumiko_events.rpy:1506
+translate ukrainian fumi_keiko_saw_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1508
+translate ukrainian fumi_keiko_saw_13f956e6:
+
+    # mc "{i}Keeeiko..."
+    mc "{i}Keeeiko..."
+
+# game/game/fumiko_events.rpy:1509
+translate ukrainian fumi_keiko_saw_cdfa90cc:
+
+    # k "...~"
+    k "...~"
+
+# game/game/fumiko_events.rpy:1511
+translate ukrainian fumi_keiko_saw_5c51a3dc:
+
+    # k "Whaaat?~ {w}You know it's not my fault."
+    k "Whaaat?~ {w}You know it's not my fault."
+
+# game/game/fumiko_events.rpy:1512
+translate ukrainian fumi_keiko_saw_4b8abc46:
+
+    # k "Besides, getting to watch her blush as she slowly undresses..."
+    k "Besides, getting to watch her blush as she slowly undresses..."
+
+# game/game/fumiko_events.rpy:1514
+translate ukrainian fumi_keiko_saw_1148c688:
+
+    # k "{size=-6}Fufu~"
+    k "{size=-6}Fufu~"
+
+# game/game/fumiko_events.rpy:1515
+translate ukrainian fumi_keiko_saw_092af923:
+
+    # k "Thank you for giving her that game."
+    k "Thank you for giving her that game."
+
+# game/game/fumiko_events.rpy:1516
+translate ukrainian fumi_keiko_saw_95e1efa2:
+
+    # t "That's not fair!"
+    t "That's not fair!"
+
+# game/game/fumiko_events.rpy:1517
+translate ukrainian fumi_keiko_saw_d29864d0:
+
+    # mc "You're welcome... I guess."
+    mc "You're welcome... I guess."
+
+# game/game/fumiko_events.rpy:1519
+translate ukrainian fumi_keiko_saw_729f1cf8:
+
+    # fu "Shall we play now?"
+    fu "Shall we play now?"
+
+# game/game/fumiko_events.rpy:1520
+translate ukrainian fumi_keiko_saw_10e57080:
+
+    # mc "Oh? {w}Do you always carry it with you?"
+    mc "Oh? {w}Do you always carry it with you?"
+
+# game/game/fumiko_events.rpy:1521
+translate ukrainian fumi_keiko_saw_e4005a61:
+
+    # fu "I just had a feeling you were going to come, that's all."
+    fu "I just had a feeling you were going to come, that's all."
+
+# game/game/fumiko_events.rpy:1522
+translate ukrainian fumi_keiko_saw_185892c4:
+
+    # k "Then that feeling must be constant, considering you always-"
+    k "Then that feeling must be constant, considering you always-"
+
+# game/game/fumiko_events.rpy:1524
+translate ukrainian fumi_keiko_saw_ca6db0e2:
+
+    # fu "L-Let's play!"
+    fu "L-Let's play!"
+
+# game/game/fumiko_events.rpy:1525
+translate ukrainian fumi_keiko_saw_23c38059:
+
+    # k "Hahaha~"
+    k "Hahaha~"
+
+# game/game/fumiko_events.rpy:1526
+translate ukrainian fumi_keiko_saw_ec37aa44:
+
+    # mc "Well, let's do it."
+    mc "Well, let's do it."
+
+# game/game/fumiko_events.rpy:1528
+translate ukrainian fumi_keiko_saw_bcb8180f:
+
+    # fu "Yes~"
+    fu "Yes~"
+
+# game/game/fumiko_events.rpy:1530
+translate ukrainian fumi_keiko_saw_39e3bc86:
+
+    # fu "But..."
+    fu "But..."
+
+# game/game/fumiko_events.rpy:1531
+translate ukrainian fumi_keiko_saw_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/fumiko_events.rpy:1532
+translate ukrainian fumi_keiko_saw_4066a5bd:
+
+    # fu "How about we try a different kind of punishment?"
+    fu "How about we try a different kind of punishment?"
+
+# game/game/fumiko_events.rpy:1533
+translate ukrainian fumi_keiko_saw_6559e374:
+
+    # mc "Punishment?"
+    mc "Punishment?"
+
+# game/game/fumiko_events.rpy:1534
+translate ukrainian fumi_keiko_saw_10c0bd92:
+
+    # fu "The losers..."
+    fu "The losers..."
+
+# game/game/fumiko_events.rpy:1536
+translate ukrainian fumi_keiko_saw_c4c00119:
+
+    # fu "Have to wash the winner's back!"
+    fu "Have to wash the winner's back!"
+
+# game/game/fumiko_events.rpy:1537
+translate ukrainian fumi_keiko_saw_11455b53:
+
+    # mc "What?"
+    mc "What?"
+
+# game/game/fumiko_events.rpy:1538
+translate ukrainian fumi_keiko_saw_1c7b6c08:
+
+    # k "Oh, I like that idea."
+    k "Oh, I like that idea."
+
+# game/game/fumiko_events.rpy:1539
+translate ukrainian fumi_keiko_saw_46765d02:
+
+    # mc "Does she mean we're taking another bath together?"
+    mc "Does she mean we're taking another bath together?"
+
+# game/game/fumiko_events.rpy:1541
+translate ukrainian fumi_keiko_saw_042d06e4:
+
+    # fu "Is that... not okay?"
+    fu "Is that... not okay?"
+
+# game/game/fumiko_events.rpy:1542
+translate ukrainian fumi_keiko_saw_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1544
+translate ukrainian fumi_keiko_saw_9e6c910f:
+
+    # k "{i}Is that... not okay?"
+    k "{i}Is that... not okay?"
+
+# game/game/fumiko_events.rpy:1545
+translate ukrainian fumi_keiko_saw_da5f3e37:
+
+    # mc "Why do I get a completely different feeling when you say it?"
+    mc "Why do I get a completely different feeling when you say it?"
+
+# game/game/fumiko_events.rpy:1547
+translate ukrainian fumi_keiko_saw_900e1e4f:
+
+    # k "Chu~{image=corazon}"
+    k "Chu~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1549
+translate ukrainian fumi_keiko_saw_9b988902:
+
+    # mc "Mine."
+    mc "Mine."
+
+# game/game/fumiko_events.rpy:1550
+translate ukrainian fumi_keiko_saw_83c7a88d:
+
+    # k "Fufu~{image=corazon}"
+    k "Fufu~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1551
+translate ukrainian fumi_keiko_saw_c49b1fb9:
+
+    # mc "All right."
+    mc "All right."
+
+# game/game/fumiko_events.rpy:1552
+translate ukrainian fumi_keiko_saw_98745368:
+
+    # mc "I accept."
+    mc "I accept."
+
+# game/game/fumiko_events.rpy:1553
+translate ukrainian fumi_keiko_saw_8d581097:
+
+    # fu "O-Okay! Let's start!~"
+    fu "O-Okay! Let's start!~"
+
+# game/game/fumiko_events.rpy:1555
+translate ukrainian fumi_keiko_saw_4321bb14:
+
+    # fu "{i}Keiko told me this was a way to thank [mc] for everything he's done for me."
+    fu "{i}Keiko told me this was a way to thank [mc] for everything he's done for me."
+
+# game/game/fumiko_events.rpy:1556
+translate ukrainian fumi_keiko_saw_285f922c:
+
+    # fu "{i}I still don't understand what he gets out of this, but if that's true, maybe it's not such a bad idea."
+    fu "{i}I still don't understand what he gets out of this, but if that's true, maybe it's not such a bad idea."
+
+# game/game/fumiko_events.rpy:1557
+translate ukrainian fumi_keiko_saw_1adba5e7:
+
+    # fu "{i}And... {w}it won't feel as weird seeing his body while we're bathing together."
+    fu "{i}And... {w}it won't feel as weird seeing his body while we're bathing together."
+
+# game/game/fumiko_events.rpy:1559
+translate ukrainian fumi_keiko_saw_205a8fc7:
+
+    # t "If I win... I'll have two beautiful goddesses washing my body..."
+    t "If I win... I'll have two beautiful goddesses washing my body..."
+
+# game/game/fumiko_events.rpy:1560
+translate ukrainian fumi_keiko_saw_b966c03d:
+
+    # mc "Gulp*"
+    mc "Gulp*"
+
+# game/game/fumiko_events.rpy:1561
+translate ukrainian fumi_keiko_saw_c48a8b10:
+
+    # t "Fumiko should be easy, {w}but Keiko is the real challenge."
+    t "Fumiko should be easy, {w}but Keiko is the real challenge."
+
+# game/game/fumiko_events.rpy:1562
+translate ukrainian fumi_keiko_saw_9df8ad41:
+
+    # t "But maybe she'll decide to play fair this time."
+    t "But maybe she'll decide to play fair this time."
+
+# game/game/fumiko_events.rpy:1563
+translate ukrainian fumi_keiko_saw_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1565
+translate ukrainian fumi_keiko_saw_69d9ee8a:
+
+    # k "{sc=2}{outlinecolor=#000000}{size=-7}Hehehe~{image=corazon}"
+    k "{sc=2}{outlinecolor=#000000}{size=-7}Hehehe~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1566
+translate ukrainian fumi_keiko_saw_613caa1c:
+
+    # k "{sc=2}{outlinecolor=#000000}{size=-7}Sluurp~ {w}Hehe~{image=corazon}"
+    k "{sc=2}{outlinecolor=#000000}{size=-7}Sluurp~ {w}Hehe~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1568
+translate ukrainian fumi_keiko_saw_c5ccd17a:
+
+    # t "I've already lost."
+    t "I've already lost."
+
+# game/game/fumiko_events.rpy:1569
+translate ukrainian fumi_keiko_saw_4e0be314:
+
+    # fu "Since it's a two-winner game, we'll play two matches. One to determine the loser, and another to determine the winner."
+    fu "Since it's a two-winner game, we'll play two matches. One to determine the loser, and another to determine the winner."
+
+# game/game/fumiko_events.rpy:1570
+translate ukrainian fumi_keiko_saw_054c5ee0:
+
+    # mc "I see."
+    mc "I see."
+
+# game/game/fumiko_events.rpy:1571
+translate ukrainian fumi_keiko_saw_8c9125ee:
+
+    # fu "Once Keiko stops drooling, let's get started!"
+    fu "Once Keiko stops drooling, let's get started!"
+
+# game/game/fumiko_events.rpy:1572
+translate ukrainian fumi_keiko_saw_a49ed4f8:
+
+    # mc "Okay."
+    mc "Okay."
+
+# game/game/fumiko_events.rpy:1573
+translate ukrainian fumi_keiko_saw_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/fumiko_events.rpy:1574
+translate ukrainian fumi_keiko_saw_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/fumiko_events.rpy:1575
+translate ukrainian fumi_keiko_saw_d7edd024:
+
+    # "."
+    "."
+
+# game/game/fumiko_events.rpy:1576
+translate ukrainian fumi_keiko_saw_74339c9d:
+
+    # fu "{sc=2}{outlinecolor=#000000}{size=-7}Hnm..."
+    fu "{sc=2}{outlinecolor=#000000}{size=-7}Hnm..."
+
+# game/game/fumiko_events.rpy:1578
+translate ukrainian fumi_keiko_saw_b15be257:
+
+    # fu "How did I lose so quickly...?"
+    fu "How did I lose so quickly...?"
+
+# game/game/fumiko_events.rpy:1579
+translate ukrainian fumi_keiko_saw_aa464e4c:
+
+    # k "Come on, pick whichever one you want~"
+    k "Come on, pick whichever one you want~"
+
+# game/game/fumiko_events.rpy:1580
+translate ukrainian fumi_keiko_saw_cc3b256c:
+
+    # mc "Ghg..."
+    mc "Ghg..."
+
+# game/game/fumiko_events.rpy:1582
+translate ukrainian fumi_keiko_saw_49ac4f24:
+
+    # t "The same old trick again."
+    t "The same old trick again."
+
+# game/game/fumiko_events.rpy:1583
+translate ukrainian fumi_keiko_saw_9784eca1:
+
+    # k "Come on, Darling."
+    k "Come on, Darling."
+
+# game/game/fumiko_events.rpy:1584
+translate ukrainian fumi_keiko_saw_3a4bb0f1:
+
+    # k "Pick a card, {w}I'm ready to take a shower..."
+    k "Pick a card, {w}I'm ready to take a shower..."
+
+# game/game/fumiko_events.rpy:1585
+translate ukrainian fumi_keiko_saw_5ac93c70:
+
+    # t "Last time, I fell for it and lost."
+    t "Last time, I fell for it and lost."
+
+# game/game/fumiko_events.rpy:1587
+translate ukrainian fumi_keiko_saw_0e87880a:
+
+    # t "Which means..."
+    t "Which means..."
+
+# game/game/fumiko_events.rpy:1588
+translate ukrainian fumi_keiko_saw_d4ace90e:
+
+    # k "Come on, what will the outcome be?"
+    k "Come on, what will the outcome be?"
+
+# game/game/fumiko_events.rpy:1589
+translate ukrainian fumi_keiko_saw_a20345c7:
+
+    # k "It's a 50-50 chance."
+    k "It's a 50-50 chance."
+
+# game/game/fumiko_events.rpy:1590
+translate ukrainian fumi_keiko_saw_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1591
+translate ukrainian fumi_keiko_saw_752bb4af:
+
+    # mc "You think I'll fall for it again?!"
+    mc "You think I'll fall for it again?!"
+
+# game/game/fumiko_events.rpy:1597
+translate ukrainian fumi_keiko_saw_9f7be043:
+
+    # mc "Which means this must be the right one!"
+    mc "Which means this must be the right one!"
+
+# game/game/fumiko_events.rpy:1600
+translate ukrainian fumi_keiko_saw_fadcc44a:
+
+    # k "{sc=2}{outlinecolor=#000000}{size=-7}Hahaha~{image=corazon}"
+    k "{sc=2}{outlinecolor=#000000}{size=-7}Hahaha~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1601
+translate ukrainian fumi_keiko_saw_a910518e:
+
+    # k "You really did it! I knew you'd do it again!"
+    k "You really did it! I knew you'd do it again!"
+
+# game/game/fumiko_events.rpy:1603
+translate ukrainian fumi_keiko_saw_8f03be59:
+
+    # mc "Ah... it can't be..."
+    mc "Ah... it can't be..."
+
+# game/game/fumiko_events.rpy:1604
+translate ukrainian fumi_keiko_saw_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1605
+translate ukrainian fumi_keiko_saw_69269210:
+
+    # mc "I-I..."
+    mc "I-I..."
+
+# game/game/fumiko_events.rpy:1606
+translate ukrainian fumi_keiko_saw_c52af612:
+
+    # mc "I won?"
+    mc "I won?"
+
+# game/game/fumiko_events.rpy:1608
+translate ukrainian fumi_keiko_saw_e784daf3:
+
+    # fu "What!? Let me see!"
+    fu "What!? Let me see!"
+
+# game/game/fumiko_events.rpy:1609
+translate ukrainian fumi_keiko_saw_134dde52:
+
+    # k "Oh my~ You're pretty good at this."
+    k "Oh my~ You're pretty good at this."
+
+# game/game/fumiko_events.rpy:1610
+translate ukrainian fumi_keiko_saw_ad02389f:
+
+    # fu "{sc=2}{outlinecolor=#000000}{size=-7}How!?"
+    fu "{sc=2}{outlinecolor=#000000}{size=-7}How!?"
+
+# game/game/fumiko_events.rpy:1612
+translate ukrainian fumi_keiko_saw_c9fbcc19:
+
+    # fu "Is that even possible!?"
+    fu "Is that even possible!?"
+
+# game/game/fumiko_events.rpy:1613
+translate ukrainian fumi_keiko_saw_0d583dcc:
+
+    # k "After all, [mc] has more experience than we do..."
+    k "After all, [mc] has more experience than we do..."
+
+# game/game/fumiko_events.rpy:1614
+translate ukrainian fumi_keiko_saw_19f63537:
+
+    # t "Did I really beat Keiko? I thought I'd be celebrating more, but something feels off."
+    t "Did I really beat Keiko? I thought I'd be celebrating more, but something feels off."
+
+# game/game/fumiko_events.rpy:1615
+translate ukrainian fumi_keiko_saw_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1617
+translate ukrainian fumi_keiko_saw_82091822:
+
+    # k "..."
+    k "..."
+
+# game/game/fumiko_events.rpy:1618
+translate ukrainian fumi_keiko_saw_8916cebe:
+
+    # t "Yeah... I think it's because of that look on her face."
+    t "Yeah... I think it's because of that look on her face."
+
+# game/game/fumiko_events.rpy:1619
+translate ukrainian fumi_keiko_saw_c5be5a3d:
+
+    # t "That beautiful face of hers that says, \"You're welcome~\""
+    t "That beautiful face of hers that says, \"You're welcome~\""
+
+# game/game/fumiko_events.rpy:1620
+translate ukrainian fumi_keiko_saw_3ab2027a:
+
+    # fu "{size=-6}So if I beat [mc], I'll be the best of the three..."
+    fu "{size=-6}So if I beat [mc], I'll be the best of the three..."
+
+# game/game/fumiko_events.rpy:1621
+translate ukrainian fumi_keiko_saw_53d2e3f5:
+
+    # t "I'm glad Fumiko sees me as a rival, {w}but could she not do that while my arm is reaching for the sky?"
+    t "I'm glad Fumiko sees me as a rival, {w}but could she not do that while my arm is reaching for the sky?"
+
+# game/game/fumiko_events.rpy:1623
+translate ukrainian fumi_keiko_saw_f6eefe8b:
+
+    # k "Well, it's time for our bath. Are you ready, Fumiko?"
+    k "Well, it's time for our bath. Are you ready, Fumiko?"
+
+# game/game/fumiko_events.rpy:1624
+translate ukrainian fumi_keiko_saw_f2edde50:
+
+    # fu "Ah... uhm..."
+    fu "Ah... uhm..."
+
+# game/game/fumiko_events.rpy:1625
+translate ukrainian fumi_keiko_saw_bcff936e:
+
+    # k "Come on, [mc]. What are you waiting for?~{image=corazon}"
+    k "Come on, [mc]. What are you waiting for?~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1626
+translate ukrainian fumi_keiko_saw_2085867a:
+
+    # mc "Err... yeah..."
+    mc "Err... yeah..."
+
+# game/game/fumiko_events.rpy:1627
+translate ukrainian fumi_keiko_saw_03ddcc08:
+
+    # k "I'll take us there."
+    k "I'll take us there."
+
+# game/game/fumiko_events.rpy:1629
+translate ukrainian fumi_keiko_saw_a20cefa7_1:
+
+    # "..."
+    "..."
+
+# game/game/fumiko_events.rpy:1630
+translate ukrainian fumi_keiko_saw_8dabefc6_1:
+
+    # ".."
+    ".."
+
+# game/game/fumiko_events.rpy:1631
+translate ukrainian fumi_keiko_saw_d7edd024_1:
+
+    # "."
+    "."
+
+# game/game/fumiko_events.rpy:1632
+translate ukrainian fumi_keiko_saw_c8be5481:
+
+    # k "All right, everything's ready."
+    k "All right, everything's ready."
+
+# game/game/fumiko_events.rpy:1634
+translate ukrainian fumi_keiko_saw_789103e5:
+
+    # k "You can sit down now, winner."
+    k "You can sit down now, winner."
+
+# game/game/fumiko_events.rpy:1635
+translate ukrainian fumi_keiko_saw_eb0840d5:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1636
+translate ukrainian fumi_keiko_saw_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1638
+translate ukrainian fumi_keiko_saw_da613db3:
+
+    # k "{size=-6}Hey, you have to do your part too."
+    k "{size=-6}Hey, you have to do your part too."
+
+# game/game/fumiko_events.rpy:1639
+translate ukrainian fumi_keiko_saw_dbdb3ffb:
+
+    # fu "{size=-6}Ah...?"
+    fu "{size=-6}Ah...?"
+
+# game/game/fumiko_events.rpy:1640
+translate ukrainian fumi_keiko_saw_675041ad:
+
+    # k "{size=-6}It's part of our punishment for losing."
+    k "{size=-6}It's part of our punishment for losing."
+
+# game/game/fumiko_events.rpy:1641
+translate ukrainian fumi_keiko_saw_dea29834:
+
+    # fu "{size=-6}Punishment... {w}an important mortal custom..."
+    fu "{size=-6}Punishment... {w}an important mortal custom..."
+
+# game/game/fumiko_events.rpy:1643
+translate ukrainian fumi_keiko_saw_30e08bad:
+
+    # fu "{size=-6}P-Please, let me help you."
+    fu "{size=-6}P-Please, let me help you."
+
+# game/game/fumiko_events.rpy:1644
+translate ukrainian fumi_keiko_saw_76f2caf0:
+
+    # mc "{sc=2}{outlinecolor=#000000}{size=-7}Gulp*"
+    mc "{sc=2}{outlinecolor=#000000}{size=-7}Gulp*"
+
+# game/game/fumiko_events.rpy:1645
+translate ukrainian fumi_keiko_saw_aa0faca0:
+
+    # mc "I-I'll be in your care."
+    mc "I-I'll be in your care."
+
+# game/game/fumiko_events.rpy:1647
+translate ukrainian fumi_keiko_saw_32d0a667_1:
+
+    # k "Fufu~"
+    k "Fufu~"
+
+# game/game/fumiko_events.rpy:1648
+translate ukrainian fumi_keiko_saw_718ca808:
+
+    # k "Come on, sit down."
+    k "Come on, sit down."
+
+# game/game/fumiko_events.rpy:1649
+translate ukrainian fumi_keiko_saw_c817abdf:
+
+    # k "Let me clean every inch of your body~{image=corazon}"
+    k "Let me clean every inch of your body~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1650
+translate ukrainian fumi_keiko_saw_35710086:
+
+    # mc "Ah... okay."
+    mc "Ah... okay."
+
+# game/game/fumiko_events.rpy:1652
+translate ukrainian fumi_keiko_saw_0c3972ce:
+
+    # t "Keiko is really enjoying this."
+    t "Keiko is really enjoying this."
+
+# game/game/fumiko_events.rpy:1653
+translate ukrainian fumi_keiko_saw_4bc21813:
+
+    # t "She stripped all three of us bare the moment we set foot in this world."
+    t "She stripped all three of us bare the moment we set foot in this world."
+
+# game/game/fumiko_events.rpy:1655
+translate ukrainian fumi_keiko_saw_f3079e5e:
+
+    # k "Okay, we have to do a good job, or it'll be a disgrace to us as goddesses."
+    k "Okay, we have to do a good job, or it'll be a disgrace to us as goddesses."
+
+# game/game/fumiko_events.rpy:1656
+translate ukrainian fumi_keiko_saw_5a7a265f:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}Gasp*"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Gasp*"
+
+# game/game/fumiko_events.rpy:1657
+translate ukrainian fumi_keiko_saw_03803b26:
+
+    # fu "Okay, I'll do my best."
+    fu "Okay, I'll do my best."
+
+# game/game/fumiko_events.rpy:1658
+translate ukrainian fumi_keiko_saw_e89d3da1:
+
+    # mc "Err... {w}I don't see any washcloths or towels. How are you planning to wash me?"
+    mc "Err... {w}I don't see any washcloths or towels. How are you planning to wash me?"
+
+# game/game/fumiko_events.rpy:1660
+translate ukrainian fumi_keiko_saw_119092e4:
+
+    # k "What?"
+    k "What?"
+
+# game/game/fumiko_events.rpy:1661
+translate ukrainian fumi_keiko_saw_94b6a9c5:
+
+    # fu "What?"
+    fu "What?"
+
+# game/game/fumiko_events.rpy:1662
+translate ukrainian fumi_keiko_saw_fb2e5377:
+
+    # mc "Eh?"
+    mc "Eh?"
+
+# game/game/fumiko_events.rpy:1663
+translate ukrainian fumi_keiko_saw_04cda6d7:
+
+    # fu "Keiko always tells me it's better to just use our hands..."
+    fu "Keiko always tells me it's better to just use our hands..."
+
+# game/game/fumiko_events.rpy:1664
+translate ukrainian fumi_keiko_saw_5693a819:
+
+    # mc "Huh..."
+    mc "Huh..."
+
+# game/game/fumiko_events.rpy:1665
+translate ukrainian fumi_keiko_saw_0ce2c871:
+
+    # t "Damn it, {w}I'm trying to keep my eyes forward, but it's impossible with these two talking to me like this is no big deal."
+    t "Damn it, {w}I'm trying to keep my eyes forward, but it's impossible with these two talking to me like this is no big deal."
+
+# game/game/fumiko_events.rpy:1667
+translate ukrainian fumi_keiko_saw_429b6fe7:
+
+    # k "We should do everything [mc] tells us to."
+    k "We should do everything [mc] tells us to."
+
+# game/game/fumiko_events.rpy:1668
+translate ukrainian fumi_keiko_saw_bea4e0f7:
+
+    # fu "Yes!"
+    fu "Yes!"
+
+# game/game/fumiko_events.rpy:1669
+translate ukrainian fumi_keiko_saw_6c483f96:
+
+    # t "Wasn't this supposed to be just about washing my back?"
+    t "Wasn't this supposed to be just about washing my back?"
+
+# game/game/fumiko_events.rpy:1670
+translate ukrainian fumi_keiko_saw_49c49f08:
+
+    # t "And why are they acting like I'm about to undergo surgery?!"
+    t "And why are they acting like I'm about to undergo surgery?!"
+
+# game/game/fumiko_events.rpy:1672
+translate ukrainian fumi_keiko_saw_4b78e510:
+
+    # t "Fumiko is taking this so seriously... {w=0.5}What could Keiko have told her?"
+    t "Fumiko is taking this so seriously... {w=0.5}What could Keiko have told her?"
+
+# game/game/fumiko_events.rpy:1674
+translate ukrainian fumi_keiko_saw_121cc958:
+
+    # k "Good, rub gently."
+    k "Good, rub gently."
+
+# game/game/fumiko_events.rpy:1675
+translate ukrainian fumi_keiko_saw_91cb86aa:
+
+    # t "Wait, this actually feels really good..."
+    t "Wait, this actually feels really good..."
+
+# game/game/fumiko_events.rpy:1676
+translate ukrainian fumi_keiko_saw_810befd1:
+
+    # fu "His back... feels different from ours."
+    fu "His back... feels different from ours."
+
+# game/game/fumiko_events.rpy:1678
+translate ukrainian fumi_keiko_saw_b4e62a80:
+
+    # k "He is a man, after all. He has more muscle than we do."
+    k "He is a man, after all. He has more muscle than we do."
+
+# game/game/fumiko_events.rpy:1679
+translate ukrainian fumi_keiko_saw_93b3443b:
+
+    # fu "{size=-6}Hmm..."
+    fu "{size=-6}Hmm..."
+
+# game/game/fumiko_events.rpy:1680
+translate ukrainian fumi_keiko_saw_ebbc6b8f:
+
+    # k "Does that catch your attention?"
+    k "Does that catch your attention?"
+
+# game/game/fumiko_events.rpy:1681
+translate ukrainian fumi_keiko_saw_9a0867a8:
+
+    # fu "It's just something new to me."
+    fu "It's just something new to me."
+
+# game/game/fumiko_events.rpy:1682
+translate ukrainian fumi_keiko_saw_ea91dfdd:
+
+    # fu "I've never touched this part of a man's body before."
+    fu "I've never touched this part of a man's body before."
+
+# game/game/fumiko_events.rpy:1684
+translate ukrainian fumi_keiko_saw_a479f6b2:
+
+    # k "Hmm... {w}\"this part\"?"
+    k "Hmm... {w}\"this part\"?"
+
+# game/game/fumiko_events.rpy:1685
+translate ukrainian fumi_keiko_saw_388fce6a:
+
+    # k "Have you ever touched any other part of a man's body?"
+    k "Have you ever touched any other part of a man's body?"
+
+# game/game/fumiko_events.rpy:1686
+translate ukrainian fumi_keiko_saw_1d82a7e7:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/fumiko_events.rpy:1688
+translate ukrainian fumi_keiko_saw_0369cecf:
+
+    # fu "Ah-"
+    fu "Ah-"
+
+# game/game/fumiko_events.rpy:1689
+translate ukrainian fumi_keiko_saw_87a8b78a:
+
+    # fu "Nooo... {w}o-of course not."
+    fu "Nooo... {w}o-of course not."
+
+# game/game/fumiko_events.rpy:1690
+translate ukrainian fumi_keiko_saw_ce02c86f:
+
+    # t "I'm not looking Fumiko in the face, but I know all too well that her expression is giving her away."
+    t "I'm not looking Fumiko in the face, but I know all too well that her expression is giving her away."
+
+# game/game/fumiko_events.rpy:1692
+translate ukrainian fumi_keiko_saw_fe5d823d:
+
+    # k "Then let's take this opportunity to satisfy your curiosity."
+    k "Then let's take this opportunity to satisfy your curiosity."
+
+# game/game/fumiko_events.rpy:1693
+translate ukrainian fumi_keiko_saw_d255f3f5:
+
+    # fu "Eh? What do you mean?"
+    fu "Eh? What do you mean?"
+
+# game/game/fumiko_events.rpy:1695
+translate ukrainian fumi_keiko_saw_27b9f360:
+
+    # k "Look, here."
+    k "Look, here."
+
+# game/game/fumiko_events.rpy:1696
+translate ukrainian fumi_keiko_saw_652650d3:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/fumiko_events.rpy:1697
+translate ukrainian fumi_keiko_saw_a61f226d:
+
+    # k "Look at how different his arm is from ours."
+    k "Look at how different his arm is from ours."
+
+# game/game/fumiko_events.rpy:1698
+translate ukrainian fumi_keiko_saw_eb0840d5_1:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1700
+translate ukrainian fumi_keiko_saw_9c83021e:
+
+    # fu "You're right, it's really hard..."
+    fu "You're right, it's really hard..."
+
+# game/game/fumiko_events.rpy:1701
+translate ukrainian fumi_keiko_saw_dff9dd1e:
+
+    # mc "Uhm... girls?"
+    mc "Uhm... girls?"
+
+# game/game/fumiko_events.rpy:1702
+translate ukrainian fumi_keiko_saw_88f11922:
+
+    # k "I hope you don't mind, {w=0.5}but Fumiko needs to learn these things if she wants to be a good goddess."
+    k "I hope you don't mind, {w=0.5}but Fumiko needs to learn these things if she wants to be a good goddess."
+
+# game/game/fumiko_events.rpy:1703
+translate ukrainian fumi_keiko_saw_c64dd784:
+
+    # mc "What does knowing a man's body have to do with being a good go-?"
+    mc "What does knowing a man's body have to do with being a good go-?"
+
+# game/game/fumiko_events.rpy:1708
+translate ukrainian fumi_keiko_saw_0433902c:
+
+    # k "Look, {w}these parts need to be washed thoroughly, but our hands are too small for [mc]'s body."
+    k "Look, {w}these parts need to be washed thoroughly, but our hands are too small for [mc]'s body."
+
+# game/game/fumiko_events.rpy:1709
+translate ukrainian fumi_keiko_saw_952dec11:
+
+    # fu "I see..."
+    fu "I see..."
+
+# game/game/fumiko_events.rpy:1710
+translate ukrainian fumi_keiko_saw_5c8515ed:
+
+    # fu "You're right... so what should we do, then?"
+    fu "You're right... so what should we do, then?"
+
+# game/game/fumiko_events.rpy:1711
+translate ukrainian fumi_keiko_saw_3a866d53:
+
+    # k "It's easy, we just have to do..."
+    k "It's easy, we just have to do..."
+
+# game/game/fumiko_events.rpy:1718
+translate ukrainian fumiko_gal2_331f4206:
+
+    # k "This~"
+    k "This~"
+
+# game/game/fumiko_events.rpy:1719
+translate ukrainian fumiko_gal2_9268ff58:
+
+    # mc "K-Keiko!?"
+    mc "K-Keiko!?"
+
+# game/game/fumiko_events.rpy:1720
+translate ukrainian fumiko_gal2_681b44a2:
+
+    # k "Don't move, {w}I'm in the middle of an important lesson about being a woman and a goddess."
+    k "Don't move, {w}I'm in the middle of an important lesson about being a woman and a goddess."
+
+# game/game/fumiko_events.rpy:1721
+translate ukrainian fumiko_gal2_aa975172:
+
+    # k "Remember to put a little soap there too."
+    k "Remember to put a little soap there too."
+
+# game/game/fumiko_events.rpy:1722
+translate ukrainian fumiko_gal2_6d3359c5:
+
+    # mc "Fumiko wouldn't do something like-"
+    mc "Fumiko wouldn't do something like-"
+
+# game/game/fumiko_events.rpy:1724
+translate ukrainian fumiko_gal2_0b340f3c:
+
+    # fu "Like this?"
+    fu "Like this?"
+
+# game/game/fumiko_events.rpy:1725
+translate ukrainian fumiko_gal2_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1726
+translate ukrainian fumiko_gal2_a30aabe8:
+
+    # k "Yes, perfect."
+    k "Yes, perfect."
+
+# game/game/fumiko_events.rpy:1728
+translate ukrainian fumiko_gal2_2a4d735d:
+
+    # fu "You're right... my thighs can wrap all the way around his arm..."
+    fu "You're right... my thighs can wrap all the way around his arm..."
+
+# game/game/fumiko_events.rpy:1729
+translate ukrainian fumiko_gal2_b3b114f8:
+
+    # fu "Does that bother you, [mc]?"
+    fu "Does that bother you, [mc]?"
+
+# game/game/fumiko_events.rpy:1730
+translate ukrainian fumiko_gal2_e3edead1:
+
+    # mc "N-No..."
+    mc "N-No..."
+
+# game/game/fumiko_events.rpy:1732
+translate ukrainian fumiko_gal2_4b0159f5:
+
+    # k "Press it tightly against your crotch."
+    k "Press it tightly against your crotch."
+
+# game/game/fumiko_events.rpy:1733
+translate ukrainian fumiko_gal2_0ffe2218:
+
+    # k "It also works as a massage for him."
+    k "It also works as a massage for him."
+
+# game/game/fumiko_events.rpy:1734
+translate ukrainian fumiko_gal2_bea4e0f7:
+
+    # fu "Yes!"
+    fu "Yes!"
+
+# game/game/fumiko_events.rpy:1736
+translate ukrainian fumiko_gal2_1aaa53c3:
+
+    # t "What is this feeling!?"
+    t "What is this feeling!?"
+
+# game/game/fumiko_events.rpy:1737
+translate ukrainian fumiko_gal2_49ccb4bd:
+
+    # t "It's like my arms are wrapped in huge, slippery marshmallows..."
+    t "It's like my arms are wrapped in huge, slippery marshmallows..."
+
+# game/game/fumiko_events.rpy:1738
+translate ukrainian fumiko_gal2_ae9849a2:
+
+    # fu "So what now? {w}Should I move?"
+    fu "So what now? {w}Should I move?"
+
+# game/game/fumiko_events.rpy:1739
+translate ukrainian fumiko_gal2_20514a90:
+
+    # k "Yes, but use your hips, not your whole body."
+    k "Yes, but use your hips, not your whole body."
+
+# game/game/fumiko_events.rpy:1740
+translate ukrainian fumiko_gal2_83eddeb6:
+
+    # fu "Hmm..."
+    fu "Hmm..."
+
+# game/game/fumiko_events.rpy:1742
+translate ukrainian fumiko_gal2_1d82a7e7:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/fumiko_events.rpy:1743
+translate ukrainian fumiko_gal2_0b340f3c_1:
+
+    # fu "Like this?"
+    fu "Like this?"
+
+# game/game/fumiko_events.rpy:1744
+translate ukrainian fumiko_gal2_4062fff4:
+
+    # t "I can feel the softness of their pussies rubbing against my arms all the way up!"
+    t "I can feel the softness of their pussies rubbing against my arms all the way up!"
+
+# game/game/fumiko_events.rpy:1745
+translate ukrainian fumiko_gal2_28d82c6d:
+
+    # k "Hey, you're a quick learner."
+    k "Hey, you're a quick learner."
+
+# game/game/fumiko_events.rpy:1746
+translate ukrainian fumiko_gal2_5a3eaf20:
+
+    # fu "Hehe~ {w}I-I am a goddess, after all."
+    fu "Hehe~ {w}I-I am a goddess, after all."
+
+# game/game/fumiko_events.rpy:1747
+translate ukrainian fumiko_gal2_54dc2265:
+
+    # t "What kind of situation have I gotten myself into?"
+    t "What kind of situation have I gotten myself into?"
+
+# game/game/fumiko_events.rpy:1748
+translate ukrainian fumiko_gal2_96e43689:
+
+    # k "This way, we can wash [mc]'s entire arm."
+    k "This way, we can wash [mc]'s entire arm."
+
+# game/game/fumiko_events.rpy:1749
+translate ukrainian fumiko_gal2_c4f313b2:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}NMnh... {w}Aahnm..."
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}NMnh... {w}Aahnm..."
+
+# game/game/fumiko_events.rpy:1750
+translate ukrainian fumiko_gal2_10cdbf99:
+
+    # k "Is something wrong, Fumiko?"
+    k "Is something wrong, Fumiko?"
+
+# game/game/fumiko_events.rpy:1751
+translate ukrainian fumiko_gal2_6515d8c9:
+
+    # fu "Ah, no..."
+    fu "Ah, no..."
+
+# game/game/fumiko_events.rpy:1752
+translate ukrainian fumiko_gal2_bd4f481c:
+
+    # fu "It feels a little strange..."
+    fu "It feels a little strange..."
+
+# game/game/fumiko_events.rpy:1753
+translate ukrainian fumiko_gal2_7c527102:
+
+    # k "Fufu~ {w}Strange? Be more specific."
+    k "Fufu~ {w}Strange? Be more specific."
+
+# game/game/fumiko_events.rpy:1754
+translate ukrainian fumiko_gal2_1c25410b:
+
+    # fu "I think... {w}my crotch feels a little weird..."
+    fu "I think... {w}my crotch feels a little weird..."
+
+# game/game/fumiko_events.rpy:1755
+translate ukrainian fumiko_gal2_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1756
+translate ukrainian fumiko_gal2_c7b9408f:
+
+    # k "Really? Maybe it's the soothing mineral soap~"
+    k "Really? Maybe it's the soothing mineral soap~"
+
+# game/game/fumiko_events.rpy:1757
+translate ukrainian fumiko_gal2_f4ccc66f:
+
+    # fu "Oh, that must be it..."
+    fu "Oh, that must be it..."
+
+# game/game/fumiko_events.rpy:1758
+translate ukrainian fumiko_gal2_7b89de1f:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}Nmn~ {w}Anhm~"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Nmn~ {w}Anhm~"
+
+# game/game/fumiko_events.rpy:1759
+translate ukrainian fumiko_gal2_a60fcf0a:
+
+    # t "My left arm feels wetter..."
+    t "My left arm feels wetter..."
+
+# game/game/fumiko_events.rpy:1760
+translate ukrainian fumiko_gal2_ce130da2:
+
+    # t "I know Keiko is doing this on purpose, but it's not like I can do anything to stop her."
+    t "I know Keiko is doing this on purpose, but it's not like I can do anything to stop her."
+
+# game/game/fumiko_events.rpy:1762
+translate ukrainian fumiko_gal2_49677184:
+
+    # k "Okay~ That's enough."
+    k "Okay~ That's enough."
+
+# game/game/fumiko_events.rpy:1763
+translate ukrainian fumiko_gal2_f109f0e4:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}Ahh~ Aah...~"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Ahh~ Aah...~"
+
+# game/game/fumiko_events.rpy:1764
+translate ukrainian fumiko_gal2_de7ae8ba:
+
+    # fu "D-Did I do it right?"
+    fu "D-Did I do it right?"
+
+# game/game/fumiko_events.rpy:1765
+translate ukrainian fumiko_gal2_4d90678b:
+
+    # k "Why don't we ask [mc]?"
+    k "Why don't we ask [mc]?"
+
+# game/game/fumiko_events.rpy:1767
+translate ukrainian fumiko_gal2_93deaf69:
+
+    # mc "Ah..."
+    mc "Ah..."
+
+# game/game/fumiko_events.rpy:1768
+translate ukrainian fumiko_gal2_0a44e2d8:
+
+    # mc "It felt really good... thank you."
+    mc "It felt really good... thank you."
+
+# game/game/fumiko_events.rpy:1770
+translate ukrainian fumiko_gal2_5c853401:
+
+    # k "See?"
+    k "See?"
+
+# game/game/fumiko_events.rpy:1771
+translate ukrainian fumiko_gal2_ce8a501f:
+
+    # fu "You're welcome..."
+    fu "You're welcome..."
+
+# game/game/fumiko_events.rpy:1772
+translate ukrainian fumiko_gal2_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1774
+translate ukrainian fumiko_gal2_a87cf31f:
+
+    # k "Now, I'll continue with his back. How about you take care of the front?"
+    k "Now, I'll continue with his back. How about you take care of the front?"
+
+# game/game/fumiko_events.rpy:1775
+translate ukrainian fumiko_gal2_6593b379:
+
+    # fu "The front?"
+    fu "The front?"
+
+# game/game/fumiko_events.rpy:1776
+translate ukrainian fumiko_gal2_e14b775e:
+
+    # k "Yeah, don't worry. I'll keep guiding you."
+    k "Yeah, don't worry. I'll keep guiding you."
+
+# game/game/fumiko_events.rpy:1778
+translate ukrainian fumiko_gal2_70d1e9eb:
+
+    # k "You've noticed that a man's body is bigger, right?"
+    k "You've noticed that a man's body is bigger, right?"
+
+# game/game/fumiko_events.rpy:1779
+translate ukrainian fumiko_gal2_490063d5:
+
+    # k "Now we'll use our own bodies to wash [mc]."
+    k "Now we'll use our own bodies to wash [mc]."
+
+# game/game/fumiko_events.rpy:1780
+translate ukrainian fumiko_gal2_11455b53:
+
+    # mc "What?"
+    mc "What?"
+
+# game/game/fumiko_events.rpy:1781
+translate ukrainian fumiko_gal2_19e0603a:
+
+    # fu "Our bodies?"
+    fu "Our bodies?"
+
+# game/game/fumiko_events.rpy:1782
+translate ukrainian fumiko_gal2_6dcb6cd6:
+
+    # fu "Do you mean rubbing myself against him?"
+    fu "Do you mean rubbing myself against him?"
+
+# game/game/fumiko_events.rpy:1784
+translate ukrainian fumiko_gal2_1877680b:
+
+    # k "Yes, {w}first you lather up your whole body."
+    k "Yes, {w}first you lather up your whole body."
+
+# game/game/fumiko_events.rpy:1785
+translate ukrainian fumiko_gal2_d81b576d:
+
+    # k "And then..."
+    k "And then..."
+
+# game/game/fumiko_events.rpy:1787
+translate ukrainian fumiko_gal2_30c5147c:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/fumiko_events.rpy:1788
+translate ukrainian fumiko_gal2_75edcc35:
+
+    # t "I've managed to keep it together down there this whole time, but this is really pushing my limits!"
+    t "I've managed to keep it together down there this whole time, but this is really pushing my limits!"
+
+# game/game/fumiko_events.rpy:1789
+translate ukrainian fumiko_gal2_83a99362:
+
+    # k "It's that simple~{image=corazon}"
+    k "It's that simple~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1790
+translate ukrainian fumiko_gal2_952dec11:
+
+    # fu "I see..."
+    fu "I see..."
+
+# game/game/fumiko_events.rpy:1791
+translate ukrainian fumiko_gal2_08512509:
+
+    # t "Two times two is four, four plus two is six-"
+    t "Two times two is four, four plus two is six-"
+
+# game/game/fumiko_events.rpy:1793
+translate ukrainian fumiko_gal2_887e21f3:
+
+    # k "{size=-6}What's wrong? You seem really quiet."
+    k "{size=-6}What's wrong? You seem really quiet."
+
+# game/game/fumiko_events.rpy:1794
+translate ukrainian fumiko_gal2_07cea04b:
+
+    # mc "{size=-6}Don't you think teaching Fumiko this kind of thing is a bit..."
+    mc "{size=-6}Don't you think teaching Fumiko this kind of thing is a bit..."
+
+# game/game/fumiko_events.rpy:1795
+translate ukrainian fumiko_gal2_ee6d2f9b:
+
+    # k "{size=-6}What? How is this any different from the new things you showed her?"
+    k "{size=-6}What? How is this any different from the new things you showed her?"
+
+# game/game/fumiko_events.rpy:1796
+translate ukrainian fumiko_gal2_814f95a6:
+
+    # mc "{size=-6}I-I..."
+    mc "{size=-6}I-I..."
+
+# game/game/fumiko_events.rpy:1798
+translate ukrainian fumiko_gal2_e4cc0308:
+
+    # k "{size=-6}I told you not to do it without me there, so now you have to deal with the consequences~{image=corazon}"
+    k "{size=-6}I told you not to do it without me there, so now you have to deal with the consequences~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1799
+translate ukrainian fumiko_gal2_43540ebe:
+
+    # mc "{size=-6}Uhm..."
+    mc "{size=-6}Uhm..."
+
+# game/game/fumiko_events.rpy:1801
+translate ukrainian fumiko_gal2_a7824da9:
+
+    # fu "Well... I think this should work..."
+    fu "Well... I think this should work..."
+
+# game/game/fumiko_events.rpy:1802
+translate ukrainian fumiko_gal2_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1803
+translate ukrainian fumiko_gal2_52268f12:
+
+    # fu "I'll move closer so I can wash you with my chest..."
+    fu "I'll move closer so I can wash you with my chest..."
+
+# game/game/fumiko_events.rpy:1804
+translate ukrainian fumiko_gal2_f87a97d7:
+
+    # t "Words I never thought I'd hear Fumiko say."
+    t "Words I never thought I'd hear Fumiko say."
+
+# game/game/fumiko_events.rpy:1806
+translate ukrainian fumiko_gal2_b77c0a61:
+
+    # fu "Excuse me..."
+    fu "Excuse me..."
+
+# game/game/fumiko_events.rpy:1807
+translate ukrainian fumiko_gal2_d080b42e:
+
+    # mc "Ah, yeah..."
+    mc "Ah, yeah..."
+
+# game/game/fumiko_events.rpy:1808
+translate ukrainian fumiko_gal2_d9ad7479:
+
+    # t "It's impossible to say no when she looks so excited about discovering something new..."
+    t "It's impossible to say no when she looks so excited about discovering something new..."
+
+# game/game/fumiko_events.rpy:1809
+translate ukrainian fumiko_gal2_4ff7f731:
+
+    # k "Time to raise those arms!"
+    k "Time to raise those arms!"
+
+# game/game/fumiko_events.rpy:1810
+translate ukrainian fumiko_gal2_766ca1df:
+
+    # mc "W-Wait, Keiko!"
+    mc "W-Wait, Keiko!"
+
+# game/game/fumiko_events.rpy:1812
+translate ukrainian fumiko_gal2_a00789ab:
+
+    # mc "My impenetrable armor!"
+    mc "My impenetrable armor!"
+
+# game/game/fumiko_events.rpy:1813
+translate ukrainian fumiko_gal2_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1814
+translate ukrainian fumiko_gal2_7ca57639:
+
+    # fu "{size=-6}I see... I can clean you really well this way..."
+    fu "{size=-6}I see... I can clean you really well this way..."
+
+# game/game/fumiko_events.rpy:1815
+translate ukrainian fumiko_gal2_6ca71da4:
+
+    # t "I'm touching the sky!"
+    t "I'm touching the sky!"
+
+# game/game/fumiko_events.rpy:1816
+translate ukrainian fumiko_gal2_86bc516d:
+
+    # k "Make sure your chest thoroughly washes the front of [mc]'s body."
+    k "Make sure your chest thoroughly washes the front of [mc]'s body."
+
+# game/game/fumiko_events.rpy:1817
+translate ukrainian fumiko_gal2_54cfbde1:
+
+    # fu "Yes..."
+    fu "Yes..."
+
+# game/game/fumiko_events.rpy:1818
+translate ukrainian fumiko_gal2_c0650f8e:
+
+    # mc "Oh, no..."
+    mc "Oh, no..."
+
+# game/game/fumiko_events.rpy:1820
+translate ukrainian fumiko_gal2_bff0b764:
+
+    # fu "Hmm? Did I do something wrong? Does it hurt?"
+    fu "Hmm? Did I do something wrong? Does it hurt?"
+
+# game/game/fumiko_events.rpy:1821
+translate ukrainian fumiko_gal2_626ada93:
+
+    # t "Didn't she notice?"
+    t "Didn't she notice?"
+
+# game/game/fumiko_events.rpy:1822
+translate ukrainian fumiko_gal2_bf231359:
+
+    # k "Let's start!~{image=corazon}"
+    k "Let's start!~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1824
+translate ukrainian fumiko_gal2_e2d366f0:
+
+    # mc "N-No, it's nothing..."
+    mc "N-No, it's nothing..."
+
+# game/game/fumiko_events.rpy:1825
+translate ukrainian fumiko_gal2_f9247f16:
+
+    # mc "It just tickled me..."
+    mc "It just tickled me..."
+
+# game/game/fumiko_events.rpy:1826
+translate ukrainian fumiko_gal2_376e2076:
+
+    # fu "Oh..."
+    fu "Oh..."
+
+# game/game/fumiko_events.rpy:1827
+translate ukrainian fumiko_gal2_7935c86e:
+
+    # k "Hmm~ {w}I didn't know you were so ticklish..."
+    k "Hmm~ {w}I didn't know you were so ticklish..."
+
+# game/game/fumiko_events.rpy:1828
+translate ukrainian fumiko_gal2_9ec3ac07:
+
+    # k "It must be really \"hard\" for you."
+    k "It must be really \"hard\" for you."
+
+# game/game/fumiko_events.rpy:1829
+translate ukrainian fumiko_gal2_c0ff3c16:
+
+    # t "Of course Keiko noticed!"
+    t "Of course Keiko noticed!"
+
+# game/game/fumiko_events.rpy:1830
+translate ukrainian fumiko_gal2_a22a1062:
+
+    # mc "Ha haha..."
+    mc "Ha haha..."
+
+# game/game/fumiko_events.rpy:1831
+translate ukrainian fumiko_gal2_3793faf5:
+
+    # mc "Don't worry, maybe I'm clean enough already?"
+    mc "Don't worry, maybe I'm clean enough already?"
+
+# game/game/fumiko_events.rpy:1833
+translate ukrainian fumiko_gal2_3b1c6ab3:
+
+    # t "Keiko held me even tighter!"
+    t "Keiko held me even tighter!"
+
+# game/game/fumiko_events.rpy:1834
+translate ukrainian fumiko_gal2_655bada0:
+
+    # k "What are you talking about? We just got started~{image=corazon}"
+    k "What are you talking about? We just got started~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1835
+translate ukrainian fumiko_gal2_c186d109:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}Anhm~ HNmn~"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Anhm~ HNmn~"
+
+# game/game/fumiko_events.rpy:1836
+translate ukrainian fumiko_gal2_21109119:
+
+    # k "{sc=1}{outlinecolor=#000000}{size=-10}HNgm~ Anhm~ [mc]~{image=corazon}"
+    k "{sc=1}{outlinecolor=#000000}{size=-10}HNgm~ Anhm~ [mc]~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1837
+translate ukrainian fumiko_gal2_7d5ff59c:
+
+    # t "My mind is filling with their soft moans."
+    t "My mind is filling with their soft moans."
+
+# game/game/fumiko_events.rpy:1838
+translate ukrainian fumiko_gal2_2dc966a9:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-10}Ghnm..."
+    mc "{sc=1}{outlinecolor=#000000}{size=-10}Ghnm..."
+
+# game/game/fumiko_events.rpy:1839
+translate ukrainian fumiko_gal2_b7903140:
+
+    # fu "Hmm?"
+    fu "Hmm?"
+
+# game/game/fumiko_events.rpy:1840
+translate ukrainian fumiko_gal2_44fb0242:
+
+    # fu "Am I doing it too hard?"
+    fu "Am I doing it too hard?"
+
+# game/game/fumiko_events.rpy:1841
+translate ukrainian fumiko_gal2_4f4b366c:
+
+    # mc "N-No, it's fine..."
+    mc "N-No, it's fine..."
+
+# game/game/fumiko_events.rpy:1842
+translate ukrainian fumiko_gal2_65bd709a:
+
+    # t "I-I'm almost-"
+    t "I-I'm almost-"
+
+# game/game/fumiko_events.rpy:1843
+translate ukrainian fumiko_gal2_7d6b6505:
+
+    # t "Hang in there, [mc]!"
+    t "Hang in there, [mc]!"
+
+# game/game/fumiko_events.rpy:1844
+translate ukrainian fumiko_gal2_5676b332:
+
+    # k "{size=-6}Fufu~{image=corazon} I-I didn't think you'd last this long..."
+    k "{size=-6}Fufu~{image=corazon} I-I didn't think you'd last this long..."
+
+# game/game/fumiko_events.rpy:1845
+translate ukrainian fumiko_gal2_ca32b2e4:
+
+    # t "That perverted goddess!"
+    t "That perverted goddess!"
+
+# game/game/fumiko_events.rpy:1847
+translate ukrainian fumiko_gal2_ac5b7064:
+
+    # k "And we're done~{image=corazon} {w}Good job."
+    k "And we're done~{image=corazon} {w}Good job."
+
+# game/game/fumiko_events.rpy:1848
+translate ukrainian fumiko_gal2_a053014b:
+
+    # fu "Sigh~"
+    fu "Sigh~"
+
+# game/game/fumiko_events.rpy:1849
+translate ukrainian fumiko_gal2_b7903140_1:
+
+    # fu "Hmm?"
+    fu "Hmm?"
+
+# game/game/fumiko_events.rpy:1851
+translate ukrainian fumiko_gal2_c6e5d0b6:
+
+    # fu "It's huge!"
+    fu "It's huge!"
+
+# game/game/fumiko_events.rpy:1852
+translate ukrainian fumiko_gal2_29ab7e1f:
+
+    # k "Oh my~{image=corazon} {w}You're right."
+    k "Oh my~{image=corazon} {w}You're right."
+
+# game/game/fumiko_events.rpy:1853
+translate ukrainian fumiko_gal2_f7544a4b:
+
+    # t "Don't act like you didn't already know!"
+    t "Don't act like you didn't already know!"
+
+# game/game/fumiko_events.rpy:1854
+translate ukrainian fumiko_gal2_361bec69:
+
+    # mc "Sorry... I couldn't help it."
+    mc "Sorry... I couldn't help it."
+
+# game/game/fumiko_events.rpy:1856
+translate ukrainian fumiko_gal2_2f20b9bc:
+
+    # fu "N-No... {w}don't worry..."
+    fu "N-No... {w}don't worry..."
+
+# game/game/fumiko_events.rpy:1857
+translate ukrainian fumiko_gal2_52337f22:
+
+    # k "Hmm? {w}It doesn't seem like this is the first time you've seen him like this."
+    k "Hmm? {w}It doesn't seem like this is the first time you've seen him like this."
+
+# game/game/fumiko_events.rpy:1859
+translate ukrainian fumiko_gal2_6daefef0:
+
+    # fu "Uh, ah!"
+    fu "Uh, ah!"
+
+# game/game/fumiko_events.rpy:1860
+translate ukrainian fumiko_gal2_296e9cad:
+
+    # fu "A-A goddess s-shouldn't let something like that f-faze her."
+    fu "A-A goddess s-shouldn't let something like that f-faze her."
+
+# game/game/fumiko_events.rpy:1861
+translate ukrainian fumiko_gal2_c6ec447a:
+
+    # k "Hmm...~{image=corazon}"
+    k "Hmm...~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1862
+translate ukrainian fumiko_gal2_58f058fe:
+
+    # t "That look of pure enjoyment on Keiko's face..."
+    t "That look of pure enjoyment on Keiko's face..."
+
+# game/game/fumiko_events.rpy:1864
+translate ukrainian fumiko_gal2_198a109b:
+
+    # k "Well, this happened because of us."
+    k "Well, this happened because of us."
+
+# game/game/fumiko_events.rpy:1865
+translate ukrainian fumiko_gal2_b51a38ce:
+
+    # fu "Is it our fault...?"
+    fu "Is it our fault...?"
+
+# game/game/fumiko_events.rpy:1866
+translate ukrainian fumiko_gal2_b0f7cb08:
+
+    # k "Yes, there are several reasons why a penis might become like that."
+    k "Yes, there are several reasons why a penis might become like that."
+
+# game/game/fumiko_events.rpy:1867
+translate ukrainian fumiko_gal2_56264caf:
+
+    # k "Sight, touch, imagination..."
+    k "Sight, touch, imagination..."
+
+# game/game/fumiko_events.rpy:1868
+translate ukrainian fumiko_gal2_eeddcbdd:
+
+    # fu "{color=#CC9FDE}{i}Well... that time it happened because of the kiss."
+    fu "{color=#CC9FDE}{i}Well... that time it happened because of the kiss."
+
+# game/game/fumiko_events.rpy:1869
+translate ukrainian fumiko_gal2_6bca6ca8:
+
+    # k "Tell Fumiko the reason, [mc]."
+    k "Tell Fumiko the reason, [mc]."
+
+# game/game/fumiko_events.rpy:1870
+translate ukrainian fumiko_gal2_60a78547:
+
+    # t "This woman..."
+    t "This woman..."
+
+# game/game/fumiko_events.rpy:1872
+translate ukrainian fumiko_gal2_080766a9:
+
+    # fu "Gulp*"
+    fu "Gulp*"
+
+# game/game/fumiko_events.rpy:1873
+translate ukrainian fumiko_gal2_1cde9260:
+
+    # fu "W-What was the reason?"
+    fu "W-What was the reason?"
+
+# game/game/fumiko_events.rpy:1874
+translate ukrainian fumiko_gal2_a4592688:
+
+    # t "Don't ask me that while looking at me like that..."
+    t "Don't ask me that while looking at me like that..."
+
+# game/game/fumiko_events.rpy:1875
+translate ukrainian fumiko_gal2_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1876
+translate ukrainian fumiko_gal2_39245123:
+
+    # mc "It was because I felt your... {w}slippery breasts against my body..."
+    mc "It was because I felt your... {w}slippery breasts against my body..."
+
+# game/game/fumiko_events.rpy:1878
+translate ukrainian fumiko_gal2_5f341850:
+
+    # mc "A-And both of you... {w}are too beautiful to resist."
+    mc "A-And both of you... {w}are too beautiful to resist."
+
+# game/game/fumiko_events.rpy:1879
+translate ukrainian fumiko_gal2_c87cab7f:
+
+    # fu "...!"
+    fu "...!"
+
+# game/game/fumiko_events.rpy:1880
+translate ukrainian fumiko_gal2_d9c8b78b:
+
+    # k "See?~{image=corazon} {w}We're lucky that [mc] is honest about how he feels."
+    k "See?~{image=corazon} {w}We're lucky that [mc] is honest about how he feels."
+
+# game/game/fumiko_events.rpy:1881
+translate ukrainian fumiko_gal2_b7c65053:
+
+    # k "And since he was honest with us, how about we help him?"
+    k "And since he was honest with us, how about we help him?"
+
+# game/game/fumiko_events.rpy:1882
+translate ukrainian fumiko_gal2_3c668d97:
+
+    # fu "Help him?"
+    fu "Help him?"
+
+# game/game/fumiko_events.rpy:1884
+translate ukrainian fumiko_gal2_91394c68:
+
+    # k "Come on, let's wash up and get in the water~"
+    k "Come on, let's wash up and get in the water~"
+
+# game/game/fumiko_events.rpy:1885
+translate ukrainian fumiko_gal2_eb0840d5:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1886
+translate ukrainian fumiko_gal2_99b0aa4e:
+
+    # fu "Okay..."
+    fu "Okay..."
+
+# game/game/fumiko_events.rpy:1887
+translate ukrainian fumiko_gal2_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/fumiko_events.rpy:1888
+translate ukrainian fumiko_gal2_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/fumiko_events.rpy:1889
+translate ukrainian fumiko_gal2_d7edd024:
+
+    # "."
+    "."
+
+# game/game/fumiko_events.rpy:1891
+translate ukrainian fumiko_gal2_a12772cf:
+
+    # k "Sit on his other leg."
+    k "Sit on his other leg."
+
+# game/game/fumiko_events.rpy:1892
+translate ukrainian fumiko_gal2_84815b76:
+
+    # fu "Are you sure? Won't that bother [mc]?"
+    fu "Are you sure? Won't that bother [mc]?"
+
+# game/game/fumiko_events.rpy:1893
+translate ukrainian fumiko_gal2_7fe19c42:
+
+    # k "Haven't you noticed how he's letting himself get carried away? He would've stopped us by now if it bothered him."
+    k "Haven't you noticed how he's letting himself get carried away? He would've stopped us by now if it bothered him."
+
+# game/game/fumiko_events.rpy:1894
+translate ukrainian fumiko_gal2_8114a09f:
+
+    # mc "Uh..."
+    mc "Uh..."
+
+# game/game/fumiko_events.rpy:1895
+translate ukrainian fumiko_gal2_b3e2dcd8:
+
+    # fu "Well..."
+    fu "Well..."
+
+# game/game/fumiko_events.rpy:1897
+translate ukrainian fumiko_gal2_0b340f3c_2:
+
+    # fu "Like this?"
+    fu "Like this?"
+
+# game/game/fumiko_events.rpy:1898
+translate ukrainian fumiko_gal2_8e33b0d0:
+
+    # k "Get comfortable~ {w}You don't want to fall."
+    k "Get comfortable~ {w}You don't want to fall."
+
+# game/game/fumiko_events.rpy:1899
+translate ukrainian fumiko_gal2_2c9a23fd:
+
+    # mc "Wow..."
+    mc "Wow..."
+
+# game/game/fumiko_events.rpy:1900
+translate ukrainian fumiko_gal2_cb50e5f3:
+
+    # t "I have a goddess sitting on each leg..."
+    t "I have a goddess sitting on each leg..."
+
+# game/game/fumiko_events.rpy:1901
+translate ukrainian fumiko_gal2_e335d5b1:
+
+    # k "Now... {w}let's squeeze it."
+    k "Now... {w}let's squeeze it."
+
+# game/game/fumiko_events.rpy:1902
+translate ukrainian fumiko_gal2_1b1b8326:
+
+    # fu "Squeeze it...?"
+    fu "Squeeze it...?"
+
+# game/game/fumiko_events.rpy:1903
+translate ukrainian fumiko_gal2_eb0840d5_1:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1905
+translate ukrainian fumiko_gal2_7a49325d:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/fumiko_events.rpy:1906
+translate ukrainian fumiko_gal2_1dac24ad:
+
+    # fu "What should I do now?"
+    fu "What should I do now?"
+
+# game/game/fumiko_events.rpy:1907
+translate ukrainian fumiko_gal2_05fc6331:
+
+    # k "Nothing, just let [mc] have some fun~{image=corazon}"
+    k "Nothing, just let [mc] have some fun~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1908
+translate ukrainian fumiko_gal2_a1717063:
+
+    # fu "Oh... {w}So this is how mortals have fun..."
+    fu "Oh... {w}So this is how mortals have fun..."
+
+# game/game/fumiko_events.rpy:1909
+translate ukrainian fumiko_gal2_c2e7342b:
+
+    # fu "Are you having fun, [mc]?"
+    fu "Are you having fun, [mc]?"
+
+# game/game/fumiko_events.rpy:1910
+translate ukrainian fumiko_gal2_fb6637bf:
+
+    # mc "Fumiko..."
+    mc "Fumiko..."
+
+# game/game/fumiko_events.rpy:1912
+translate ukrainian fumiko_gal2_e0d94563:
+
+    # fu "Ah!"
+    fu "Ah!"
+
+# game/game/fumiko_events.rpy:1913
+translate ukrainian fumiko_gal2_c654c710:
+
+    # fu "Is he rubbing it against our butts?"
+    fu "Is he rubbing it against our butts?"
+
+# game/game/fumiko_events.rpy:1914
+translate ukrainian fumiko_gal2_bee63ae7:
+
+    # fu "Does that feel good for him?"
+    fu "Does that feel good for him?"
+
+# game/game/fumiko_events.rpy:1915
+translate ukrainian fumiko_gal2_faae33f9:
+
+    # k "Just look at the face he's making. He must be in heaven right now."
+    k "Just look at the face he's making. He must be in heaven right now."
+
+# game/game/fumiko_events.rpy:1916
+translate ukrainian fumiko_gal2_acd6d4cd:
+
+    # k "Well... in the heavens above~ {w}Fufu~{image=corazon}"
+    k "Well... in the heavens above~ {w}Fufu~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1917
+translate ukrainian fumiko_gal2_1e7e1b08:
+
+    # k "What's it like having your penis sandwiched between the butts of two goddesses?~{image=corazon}"
+    k "What's it like having your penis sandwiched between the butts of two goddesses?~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1918
+translate ukrainian fumiko_gal2_24e2fec6:
+
+    # mc "T-They feel amazing... they're so soft and warm..."
+    mc "T-They feel amazing... they're so soft and warm..."
+
+# game/game/fumiko_events.rpy:1919
+translate ukrainian fumiko_gal2_9ca3ee2c:
+
+    # k "I knew you'd love it."
+    k "I knew you'd love it."
+
+# game/game/fumiko_events.rpy:1920
+translate ukrainian fumiko_gal2_ff79e335:
+
+    # k "See, Fumiko? {w}You didn't need to overthink it so much just to thank [mc]."
+    k "See, Fumiko? {w}You didn't need to overthink it so much just to thank [mc]."
+
+# game/game/fumiko_events.rpy:1921
+translate ukrainian fumiko_gal2_eb0840d5_2:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1922
+translate ukrainian fumiko_gal2_228e1a16:
+
+    # k "Fumiko?"
+    k "Fumiko?"
+
+# game/game/fumiko_events.rpy:1923
+translate ukrainian fumiko_gal2_da625da7:
+
+    # fu "Oh, sorry... what did you say?"
+    fu "Oh, sorry... what did you say?"
+
+# game/game/fumiko_events.rpy:1924
+translate ukrainian fumiko_gal2_51d31bc6:
+
+    # k "You seem distracted... Is all your attention focused on [mc]'s penis right now?~{image=corazon}"
+    k "You seem distracted... Is all your attention focused on [mc]'s penis right now?~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1925
+translate ukrainian fumiko_gal2_7d1aa708:
+
+    # fu "No, it's just that... his penis is really close to my... you know..."
+    fu "No, it's just that... his penis is really close to my... you know..."
+
+# game/game/fumiko_events.rpy:1926
+translate ukrainian fumiko_gal2_279ea848:
+
+    # k "Oh my~ {w}Don't worry, [mc] isn't the type to just put it in without asking."
+    k "Oh my~ {w}Don't worry, [mc] isn't the type to just put it in without asking."
+
+# game/game/fumiko_events.rpy:1927
+translate ukrainian fumiko_gal2_2488844f:
+
+    # fu "What? He can put it in there too?"
+    fu "What? He can put it in there too?"
+
+# game/game/fumiko_events.rpy:1928
+translate ukrainian fumiko_gal2_459881b5:
+
+    # k "Fufu~ Why don't you answer that question for her?"
+    k "Fufu~ Why don't you answer that question for her?"
+
+# game/game/fumiko_events.rpy:1929
+translate ukrainian fumiko_gal2_b3ae8984:
+
+    # mc "Uhm..."
+    mc "Uhm..."
+
+# game/game/fumiko_events.rpy:1930
+translate ukrainian fumiko_gal2_e9b8099e:
+
+    # mc "Yes... it's possible."
+    mc "Yes... it's possible."
+
+# game/game/fumiko_events.rpy:1931
+translate ukrainian fumiko_gal2_f3500700:
+
+    # fu "Seriously? But what's the point? Can mortals reproduce that way too?"
+    fu "Seriously? But what's the point? Can mortals reproduce that way too?"
+
+# game/game/fumiko_events.rpy:1932
+translate ukrainian fumiko_gal2_7ca0436b:
+
+    # mc "No... {w}It's more of a way to... have fun."
+    mc "No... {w}It's more of a way to... have fun."
+
+# game/game/fumiko_events.rpy:1933
+translate ukrainian fumiko_gal2_e8422c7a:
+
+    # fu "How interesting. Mortals are so strange."
+    fu "How interesting. Mortals are so strange."
+
+# game/game/fumiko_events.rpy:1934
+translate ukrainian fumiko_gal2_441f3263:
+
+    # t "Fumiko's curious and innocent questions always stir something in me..."
+    t "Fumiko's curious and innocent questions always stir something in me..."
+
+# game/game/fumiko_events.rpy:1936
+translate ukrainian fumiko_gal2_122e4f47:
+
+    # mc "I'm!-"
+    mc "I'm!-"
+
+# game/game/fumiko_events.rpy:1937
+translate ukrainian fumiko_gal2_7c7481c8:
+
+    # k "Fufu~{image=corazon}"
+    k "Fufu~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1938
+translate ukrainian fumiko_gal2_ebfdbb22:
+
+    # fu "Hmm?"
+    fu "Hmm?"
+
+# game/game/fumiko_events.rpy:1945
+translate ukrainian fumiko_gal2_1e8094bc:
+
+    # k "Oh my~{image=corazon}{image=corazon}"
+    k "Oh my~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:1946
+translate ukrainian fumiko_gal2_046fa9f7:
+
+    # fu "Ah!"
+    fu "Ah!"
+
+# game/game/fumiko_events.rpy:1948
+translate ukrainian fumiko_gal2_d46854c0:
+
+    # fu "Does that really happen just because of our butts...?"
+    fu "Does that really happen just because of our butts...?"
+
+# game/game/fumiko_events.rpy:1949
+translate ukrainian fumiko_gal2_907345ef:
+
+    # k "This is to show you just how simple a man's body can be."
+    k "This is to show you just how simple a man's body can be."
+
+# game/game/fumiko_events.rpy:1950
+translate ukrainian fumiko_gal2_952dec11_1:
+
+    # fu "I see..."
+    fu "I see..."
+
+# game/game/fumiko_events.rpy:1951
+translate ukrainian fumiko_gal2_06512812:
+
+    # k "Just like when you made him come with your hands."
+    k "Just like when you made him come with your hands."
+
+# game/game/fumiko_events.rpy:1952
+translate ukrainian fumiko_gal2_44cf49a8:
+
+    # fu "You're right... {w}so all you have to do is rub it with whatever you have..."
+    fu "You're right... {w}so all you have to do is rub it with whatever you have..."
+
+# game/game/fumiko_events.rpy:1953
+translate ukrainian fumiko_gal2_eb0840d5_3:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1956
+translate ukrainian fumiko_gal2_89ab3fe5:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}I-I meant to say! I never-"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}I-I meant to say! I never-"
+
+# game/game/fumiko_events.rpy:1957
+translate ukrainian fumiko_gal2_0fb698dd:
+
+    # k "I've got you, my naughty Fumiko~{image=corazon}"
+    k "I've got you, my naughty Fumiko~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1959
+translate ukrainian fumiko_gal2_05975b20:
+
+    # k "So you took advantage of [mc]'s kindness to do lewd things."
+    k "So you took advantage of [mc]'s kindness to do lewd things."
+
+# game/game/fumiko_events.rpy:1960
+translate ukrainian fumiko_gal2_b6b00521:
+
+    # fu "I didn't... {w}I was just..."
+    fu "I didn't... {w}I was just..."
+
+# game/game/fumiko_events.rpy:1962
+translate ukrainian fumiko_gal2_89c695c0:
+
+    # fu "[mc], help me!"
+    fu "[mc], help me!"
+
+# game/game/fumiko_events.rpy:1964
+translate ukrainian fumiko_gal2_4f77191d:
+
+    # fu "Eh?"
+    fu "Eh?"
+
+# game/game/fumiko_events.rpy:1965
+translate ukrainian fumiko_gal2_ec08aef5:
+
+    # mc "Err... I can explain."
+    mc "Err... I can explain."
+
+# game/game/fumiko_events.rpy:1966
+translate ukrainian fumiko_gal2_d68fe8cd:
+
+    # k "Oh... perfect~{image=corazon}"
+    k "Oh... perfect~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1968
+translate ukrainian fumiko_gal2_dea85be9:
+
+    # k "I'll teach you another lesson~"
+    k "I'll teach you another lesson~"
+
+# game/game/fumiko_events.rpy:1969
+translate ukrainian fumiko_gal2_9bbf4dc4:
+
+    # fu "Wait, what are you doing?!"
+    fu "Wait, what are you doing?!"
+
+# game/game/fumiko_events.rpy:1970
+translate ukrainian fumiko_gal2_11455b53_1:
+
+    # mc "What?"
+    mc "What?"
+
+# game/game/fumiko_events.rpy:1971
+translate ukrainian fumiko_gal2_e674aad5:
+
+    # k "Just as a man's penis ejaculates easily when you rub it."
+    k "Just as a man's penis ejaculates easily when you rub it."
+
+# game/game/fumiko_events.rpy:1975
+translate ukrainian fumiko_gal2_0369cecf:
+
+    # fu "Ah-"
+    fu "Ah-"
+
+# game/game/fumiko_events.rpy:1976
+translate ukrainian fumiko_gal2_9e5b5d6b:
+
+    # k "We can do it too~{image=corazon}"
+    k "We can do it too~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1977
+translate ukrainian fumiko_gal2_cbb397c2:
+
+    # mc "K-Keiko?"
+    mc "K-Keiko?"
+
+# game/game/fumiko_events.rpy:1979
+translate ukrainian fumiko_gal2_b76f4eb2:
+
+    # k "I'm going to need your penis again. I hope you don't mind."
+    k "I'm going to need your penis again. I hope you don't mind."
+
+# game/game/fumiko_events.rpy:1980
+translate ukrainian fumiko_gal2_eb0840d5_4:
+
+    # fu "..."
+    fu "..."
+
+# game/game/fumiko_events.rpy:1981
+translate ukrainian fumiko_gal2_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:1983
+translate ukrainian fumiko_gal2_2ae6a106:
+
+    # mc "If it'll make Fumiko a better goddess, I'll do it!"
+    mc "If it'll make Fumiko a better goddess, I'll do it!"
+
+# game/game/fumiko_events.rpy:1984
+translate ukrainian fumiko_gal2_6f69fd74:
+
+    # fu "[mc]!?"
+    fu "[mc]!?"
+
+# game/game/fumiko_events.rpy:1985
+translate ukrainian fumiko_gal2_2562d36f:
+
+    # k "All right~ {w}Be careful, don't take her virginity yet."
+    k "All right~ {w}Be careful, don't take her virginity yet."
+
+# game/game/fumiko_events.rpy:1986
+translate ukrainian fumiko_gal2_bccd4b72:
+
+    # fu "My-"
+    fu "My-"
+
+# game/game/fumiko_events.rpy:1988
+translate ukrainian fumiko_gal2_297219dc:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}Aah!~"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Aah!~"
+
+# game/game/fumiko_events.rpy:1989
+translate ukrainian fumiko_gal2_a6e02e03:
+
+    # mc "I'll be as careful as possible."
+    mc "I'll be as careful as possible."
+
+# game/game/fumiko_events.rpy:1990
+translate ukrainian fumiko_gal2_5fb209ca:
+
+    # fu "He's rubbing himself... {w}against my..."
+    fu "He's rubbing himself... {w}against my..."
+
+# game/game/fumiko_events.rpy:1991
+translate ukrainian fumiko_gal2_a4d49e98:
+
+    # k "Yeah~ Your goddess pussy~{image=corazon} {w}Does it feel good?"
+    k "Yeah~ Your goddess pussy~{image=corazon} {w}Does it feel good?"
+
+# game/game/fumiko_events.rpy:1992
+translate ukrainian fumiko_gal2_2adce4c2:
+
+    # fu "A-A goddess cannot- {w}AAahm~{image=corazon}"
+    fu "A-A goddess cannot- {w}AAahm~{image=corazon}"
+
+# game/game/fumiko_events.rpy:1993
+translate ukrainian fumiko_gal2_47cda37e:
+
+    # k "You can't what? {w}Do the rules say something like, \"You can't rub your juicy pussy against a mortal's penis\"?"
+    k "You can't what? {w}Do the rules say something like, \"You can't rub your juicy pussy against a mortal's penis\"?"
+
+# game/game/fumiko_events.rpy:1994
+translate ukrainian fumiko_gal2_014a3635:
+
+    # fu "K-Keiko! {w}ANhm~{image=corazon} {w}Nhmh~{image=corazon}{image=corazon}"
+    fu "K-Keiko! {w}ANhm~{image=corazon} {w}Nhmh~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:1995
+translate ukrainian fumiko_gal2_c5fe4858:
+
+    # t "Fumiko's pussy is so soft... and it was already wet before I even started rubbing against it."
+    t "Fumiko's pussy is so soft... and it was already wet before I even started rubbing against it."
+
+# game/game/fumiko_events.rpy:1996
+translate ukrainian fumiko_gal2_8c19a7f6:
+
+    # t "She's complaining, but she's not putting up any resistance against Keiko."
+    t "She's complaining, but she's not putting up any resistance against Keiko."
+
+# game/game/fumiko_events.rpy:1997
+translate ukrainian fumiko_gal2_445317c5:
+
+    # t "Maybe she's enjoying herself..."
+    t "Maybe she's enjoying herself..."
+
+# game/game/fumiko_events.rpy:1998
+translate ukrainian fumiko_gal2_5431d5e9:
+
+    # k "Tell me, what does it feel like to have your clitoris stimulated by [mc]'s penis?"
+    k "Tell me, what does it feel like to have your clitoris stimulated by [mc]'s penis?"
+
+# game/game/fumiko_events.rpy:1999
+translate ukrainian fumiko_gal2_1c9df217:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}Ahnm~{image=corazon} {w}Nghm~{image=corazon}{image=corazon} {w}M-My what?"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Ahnm~{image=corazon} {w}Nghm~{image=corazon}{image=corazon} {w}M-My what?"
+
+# game/game/fumiko_events.rpy:2000
+translate ukrainian fumiko_gal2_6011039e:
+
+    # k "Does it feel better than when you do it in secret in your own world?~{image=corazon}{image=corazon}"
+    k "Does it feel better than when you do it in secret in your own world?~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:2001
+translate ukrainian fumiko_gal2_a19dab63:
+
+    # fu "I-I never- {w}HNgm~{image=corazon}{image=corazon}"
+    fu "I-I never- {w}HNgm~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:2002
+translate ukrainian fumiko_gal2_0413129a:
+
+    # mc "So Fumiko masturbates too..."
+    mc "So Fumiko masturbates too..."
+
+# game/game/fumiko_events.rpy:2003
+translate ukrainian fumiko_gal2_7d239613:
+
+    # fu "Ah!{image=corazon} D-Did it get harder?"
+    fu "Ah!{image=corazon} D-Did it get harder?"
+
+# game/game/fumiko_events.rpy:2004
+translate ukrainian fumiko_gal2_b8dab925:
+
+    # k "[mc] must have imagined you masturbating~{image=corazon}{image=corazon}"
+    k "[mc] must have imagined you masturbating~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:2005
+translate ukrainian fumiko_gal2_44214e5c:
+
+    # fu "AaAHNM~{image=corazon} {w}HNhm~{image=corazon} {w}W-Wait...~{image=corazon}{image=corazon}"
+    fu "AaAHNM~{image=corazon} {w}HNhm~{image=corazon} {w}W-Wait...~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:2006
+translate ukrainian fumiko_gal2_5a6733fa:
+
+    # k "It looks like she's at her limit. Just a little more, Darling~"
+    k "It looks like she's at her limit. Just a little more, Darling~"
+
+# game/game/fumiko_events.rpy:2007
+translate ukrainian fumiko_gal2_580cc93b:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
+
+# game/game/fumiko_events.rpy:2008
+translate ukrainian fumiko_gal2_2d607dd0:
+
+    # k "Oh? You too?"
+    k "Oh? You too?"
+
+# game/game/fumiko_events.rpy:2009
+translate ukrainian fumiko_gal2_f4a054bb:
+
+    # k "You have to hold on. If you don't do it at the same time, you'll ruin the experience for my little Fumiko~{image=corazon}"
+    k "You have to hold on. If you don't do it at the same time, you'll ruin the experience for my little Fumiko~{image=corazon}"
+
+# game/game/fumiko_events.rpy:2010
+translate ukrainian fumiko_gal2_cc40ff37:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}NHgm~{image=corazon}{image=corazon} {w}Aahnm~{image=corazon} {w}I-I can't~{image=corazon}"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}NHgm~{image=corazon}{image=corazon} {w}Aahnm~{image=corazon} {w}I-I can't~{image=corazon}"
+
+# game/game/fumiko_events.rpy:2012
+translate ukrainian fumiko_gal2_4c6b5bb0:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}[mc]!~{image=corazon}{image=corazon}"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}[mc]!~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:2019
+translate ukrainian fumiko_gal2_1c6b5461:
+
+    # fu "{sc=1}{outlinecolor=#000000}{size=-10}AaAHNhmNHMn~{image=corazon}{image=corazon}"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}AaAHNhmNHMn~{image=corazon}{image=corazon}"
+
+# game/game/fumiko_events.rpy:2021
+translate ukrainian fumiko_gal2_c1dff962:
+
+    # mc "Oh..."
+    mc "Oh..."
+
+# game/game/fumiko_events.rpy:2022
+translate ukrainian fumiko_gal2_207e3266:
+
+    # k "Oh my~"
+    k "Oh my~"
+
+# game/game/fumiko_events.rpy:2023
+translate ukrainian fumiko_gal2_cc2b599b:
+
+    # k "That must have been the most intense stimulation Fumiko has ever experienced."
+    k "That must have been the most intense stimulation Fumiko has ever experienced."
+
+# game/game/fumiko_events.rpy:2025
+translate ukrainian fumiko_gal2_f7fc9421:
+
+    # k "Good job, Darling~{image=corazon}"
+    k "Good job, Darling~{image=corazon}"
+
+# game/game/fumiko_events.rpy:2026
+translate ukrainian fumiko_gal2_e69585a7:
+
+    # mc "{size=-6}Anything... {w}to help..."
+    mc "{size=-6}Anything... {w}to help..."
+
+# game/game/fumiko_events.rpy:2037
+translate ukrainian fumiko_gal2_d0b44572:
+
+    # k "You look tired. You came twice, after all."
+    k "You look tired. You came twice, after all."
+
+# game/game/fumiko_events.rpy:2038
+translate ukrainian fumiko_gal2_765d7deb:
+
+    # k "You'd better go back to your world. I'll take care of Fumiko."
+    k "You'd better go back to your world. I'll take care of Fumiko."
+
+# game/game/fumiko_events.rpy:2042
+translate ukrainian fumiko_gal2_a49ed4f8:
+
+    # mc "Okay."
+    mc "Okay."
+
+# game/game/fumiko_events.rpy:2044
+translate ukrainian fumiko_gal2_2b35b6fe_7:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:2049
+translate ukrainian fumiko_gal2_03568baf:
+
+    # mc "Keiko."
+    mc "Keiko."
+
+# game/game/fumiko_events.rpy:2050
+translate ukrainian fumiko_gal2_4bc4b2e5:
+
+    # k "Hmm?"
+    k "Hmm?"
+
+# game/game/fumiko_events.rpy:2051
+translate ukrainian fumiko_gal2_5a459ef5:
+
+    # mc "Thank you... {w}I thought you'd be upset about what happened in Fumiko's world."
+    mc "Thank you... {w}I thought you'd be upset about what happened in Fumiko's world."
+
+# game/game/fumiko_events.rpy:2052
+translate ukrainian fumiko_gal2_8a775032:
+
+    # k "Oh-"
+    k "Oh-"
+
+# game/game/fumiko_events.rpy:2054
+translate ukrainian fumiko_gal2_c758b2a5:
+
+    # k "Fufu~ {w}You're so cute."
+    k "Fufu~ {w}You're so cute."
+
+# game/game/fumiko_events.rpy:2055
+translate ukrainian fumiko_gal2_82a24020:
+
+    # k "Maybe I was, a little."
+    k "Maybe I was, a little."
+
+# game/game/fumiko_events.rpy:2057
+translate ukrainian fumiko_gal2_5cb88bec:
+
+    # k "But it's not like I don't want to see my little Fumiko spread her wings."
+    k "But it's not like I don't want to see my little Fumiko spread her wings."
+
+# game/game/fumiko_events.rpy:2058
+translate ukrainian fumiko_gal2_692bb25b:
+
+    # mc "It was a bit sudden, after all."
+    mc "It was a bit sudden, after all."
+
+# game/game/fumiko_events.rpy:2059
+translate ukrainian fumiko_gal2_73783ad7:
+
+    # k "Say what you want, but the look of enjoyment on your face that day says otherwise."
+    k "Say what you want, but the look of enjoyment on your face that day says otherwise."
+
+# game/game/fumiko_events.rpy:2060
+translate ukrainian fumiko_gal2_8114a09f_1:
+
+    # mc "Uh..."
+    mc "Uh..."
+
+# game/game/fumiko_events.rpy:2062
+translate ukrainian fumiko_gal2_4a812d45:
+
+    # k "Well, {w}now it'll be even more fun."
+    k "Well, {w}now it'll be even more fun."
+
+# game/game/fumiko_events.rpy:2063
+translate ukrainian fumiko_gal2_519eacf2:
+
+    # mc "W-What do you mean?"
+    mc "W-What do you mean?"
+
+# game/game/fumiko_events.rpy:2064
+translate ukrainian fumiko_gal2_8e8c3089:
+
+    # k "I want you to help Fumiko spread her wings even further, {w=0.5}if you know what I mean."
+    k "I want you to help Fumiko spread her wings even further, {w=0.5}if you know what I mean."
+
+# game/game/fumiko_events.rpy:2065
+translate ukrainian fumiko_gal2_2b35b6fe_8:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:2067
+translate ukrainian fumiko_gal2_a2f52781:
+
+    # k "That way, the three of us can enjoy ourselves together next time."
+    k "That way, the three of us can enjoy ourselves together next time."
+
+# game/game/fumiko_events.rpy:2068
+translate ukrainian fumiko_gal2_2b35b6fe_9:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:2069
+translate ukrainian fumiko_gal2_0f52430f:
+
+    # mc "I thought you wanted to be there for... {w}that moment."
+    mc "I thought you wanted to be there for... {w}that moment."
+
+# game/game/fumiko_events.rpy:2071
+translate ukrainian fumiko_gal2_e40bd6dc:
+
+    # k "I'm not that nosy. {w}I want that day to be special for her."
+    k "I'm not that nosy. {w}I want that day to be special for her."
+
+# game/game/fumiko_events.rpy:2072
+translate ukrainian fumiko_gal2_b6db5fdc:
+
+    # k "Just like you made it special for me."
+    k "Just like you made it special for me."
+
+# game/game/fumiko_events.rpy:2073
+translate ukrainian fumiko_gal2_1aa1447d:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-10}Gulp*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-10}Gulp*"
+
+# game/game/fumiko_events.rpy:2075
+translate ukrainian fumiko_gal2_86d19ed7:
+
+    # k "{size=-6}See you later, defiler of goddesses~{image=corazon}"
+    k "{size=-6}See you later, defiler of goddesses~{image=corazon}"
+
+# game/game/fumiko_events.rpy:2076
+translate ukrainian fumiko_gal2_2b35b6fe_10:
+
+    # mc "..."
+    mc "..."
+
+# game/game/fumiko_events.rpy:2082
+translate ukrainian fumiko_gal2_cfe27de2:
+
+    # "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}\n {image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"
+    "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}\n {image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"
+
+# game/game/fumiko_events.rpy:2084
+translate ukrainian fumiko_gal2_25ff2073:
+
+    # mc "See you, Keiko..."
+    mc "See you, Keiko..."
+
+# game/game/fumiko_events.rpy:2085
+translate ukrainian fumiko_gal2_ea452e08:
+
+    # mc "Say goodbye to Fumiko for me."
+    mc "Say goodbye to Fumiko for me."
+
+# game/game/fumiko_events.rpy:2086
+translate ukrainian fumiko_gal2_cc44d97b:
+
+    # k "Of course~{image=corazon}"
+    k "Of course~{image=corazon}"
+
 translate ukrainian strings:
 
     # game/fumiko_events.rpy:1138

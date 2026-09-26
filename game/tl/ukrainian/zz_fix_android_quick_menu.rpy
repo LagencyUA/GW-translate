@@ -45,6 +45,9 @@ init 999 screen say(who, what):
 
         text what id "what"
 
+    if not renpy.variant("small"):
+        add SideImage() xalign 0.0 yalign 1.0
+
 init python:
     quick_menu_scale_variants = [
         {

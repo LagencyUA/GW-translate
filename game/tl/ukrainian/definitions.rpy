@@ -160,7 +160,7 @@ translate ukrainian strings:
     new "П'яниця"
 
     old "Backpack guy"
-    new "Хлопець з рюкзаком"
+    new "Хлопець з ранцем"
 
     old "Jin"
     new "Джин"
@@ -179,3 +179,6 @@ translate ukrainian strings:
 
     old "Reika"
     new "Рейка"
+
+    old "Ignis"
+    new "Іґніс"

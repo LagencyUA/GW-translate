@@ -624,10 +624,10 @@ translate ukrainian alice_spend_4dbae1a1:
     al "What do you think you're doing here, young man?"
 
 # game/game/alice_events.rpy:164
-translate ukrainian alice_spend_c48a87e5:
+translate ukrainian alice_spend_6dbdb399:
 
-    # al "Uhmn~?{image=corazon}"
-    al "Uhmn~?{image=corazon}"
+    # al "Hmm?~{image=corazon}"
+    al "Hmm?~{image=corazon}"
 
 # game/game/alice_events.rpy:166
 translate ukrainian alice_spend_7207f0eb:
@@ -636,16 +636,16 @@ translate ukrainian alice_spend_7207f0eb:
     al "You came to stay, right?"
 
 # game/game/alice_events.rpy:178
-translate ukrainian alice_spend_a10c8cda:
+translate ukrainian alice_spend_7da1205b:
 
-    # mc "Hello. I was taking a walk."
-    mc "Hello. I was taking a walk."
+    # mc "Hello. I was just taking a walk."
+    mc "Hello. I was just taking a walk."
 
 # game/game/alice_events.rpy:180
-translate ukrainian alice_spend_a3b17ab1:
+translate ukrainian alice_spend_9e4b5a27:
 
-    # al "Hi young man. Be careful and don't overdo it~"
-    al "Hi young man. Be careful and don't overdo it~"
+    # al "Hi, young man. Be careful not to overdo it~"
+    al "Hi, young man. Be careful not to overdo it~"
 
 # game/game/alice_events.rpy:189
 translate ukrainian alice_spend_22c3b200:
@@ -654,16 +654,16 @@ translate ukrainian alice_spend_22c3b200:
     mc "Are you feeling well?"
 
 # game/game/alice_events.rpy:191
-translate ukrainian alice_spend_c526d23f:
+translate ukrainian alice_spend_d676b409:
 
-    # al "Mooh~.. {w}Just passing by?"
-    al "Mooh~.. {w}Just passing by?"
+    # al "Mooh...~ {w}Just passing by?"
+    al "Mooh...~ {w}Just passing by?"
 
-# game/game/alice_events.rpy:193
-translate ukrainian alice_spend_3662bef4:
+# game/game/alice_events.rpy:189
+translate ukrainian alice_spend_adc2d28a:
 
-    # al "If you change your mind I'll be around~{image=corazon}{image=corazon}"
-    al "If you change your mind I'll be around~{image=corazon}{image=corazon}"
+    # al "If you change your mind, I'll be around~{image=corazon}{image=corazon}"
+    al "If you change your mind, I'll be around~{image=corazon}{image=corazon}"
 
 # game/game/alice_events.rpy:214
 translate ukrainian alice_events_02de3f61:

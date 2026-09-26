@@ -5208,10 +5208,10 @@ translate ukrainian karyn_eventdos_b_15d5dd8c_8:
     kar "..."
 
 # game/game/karyn_events.rpy:1545
-translate ukrainian karyn_eventdos_b_9b1f74a8:
+translate ukrainian karyn_eventdos_b_0a162b04:
 
-    # kar "Did you used to avoid these things? {w}But now you are surrounded by people..."
-    kar "Did you used to avoid these things? {w}But now you are surrounded by people..."
+    # kar "You used to avoid people? {w}But now you're surrounded by them..."
+    kar "You used to avoid people? {w}But now you're surrounded by them..."
 
 # game/game/karyn_events.rpy:1546
 translate ukrainian karyn_eventdos_b_499f0084:

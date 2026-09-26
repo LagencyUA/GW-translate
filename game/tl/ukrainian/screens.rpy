@@ -85,8 +85,8 @@
     new "Оновлення"
 
     # game/screens.rpy:581
-    old "Ver. 0.4.6 Public"
-    new "Вер. 0.4.6 Public"
+    old "Ver. 0.4.7"
+    new "Вер. 0.4.7"
 
     # game/screens.rpy:770
     old "Return"
@@ -107,6 +107,9 @@
     # game/screens.rpy:873
     old "All the renders and animations in this game were created using Koikatsu (Chara Studio)."
     new "Усі сцени та анімації для гри були створені за допомогою Koikatsu (Chara Studio)."
+
+    old "New SFX for Hana's event by HentAudio.🔊"
+    new "Нові SFX для Хани завдячуючи HentAudio.🔊"
 
     # game/screens.rpy:874
     old "\n                                            Story by Ncrow\n                                            Models by Ncrow\n                                            Events by Ncrow\n                                            Ideas by Ncrow\n                                            Animations by Ncrow\n                                            Renders by Ncrow\n                                            Bug creation by Ncrow\n                                            Bug fixing (sometimes) by Ncrow\n                                            Existential crisis by Ncrow\n                                            Produced by Ncrow\n                                            Directed by Ncrow\n                                            Suffered by Ncrow\n                                            Survived by... barely... Ncrow.\n                                            Everything else... guess who? Ncrow."

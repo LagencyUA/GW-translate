@@ -246,3 +246,12 @@ translate ukrainian strings:
     # game/house.rpy:437
     old "{color=#21c3de}Karyn's{/color} room."
     new "{color=#21c3de}Karyn's{/color} room."
+
+    old "E-Eh? What are you collecting?"
+    new "E-Eh? What are you collecting?"
+
+    old "D-Did you just..."
+    new "D-Did you just..."
+
+    old "Uh... what are you going to do with that...?"
+    new "Uh... what are you going to do with that...?"

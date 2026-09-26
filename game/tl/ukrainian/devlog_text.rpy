@@ -3,6 +3,51 @@ translate ukrainian strings:
     old "Devlog"
     new "Девлог"
 
+    old """{size=-6}⛩️ {b}Update 0.4.7{/b} ⛩️
+What will you find?
+
+{b}•{/b} Continuation of the main story.
+{b}•{/b} New H-Event for {color=#CC9FDE}Fumiko{/color} and {color=#8cc1e9}Keiko{/color}. (Follow Fumiko's hints.)
+{b}•{/b} Introduction of a {color=#FF2200}new character{/color}.
+{b}•{/b} New quests on the Adventurers' Board. (Including a rank-up. Just setting things up for the future, nothing too important.)
+{b}•{/b} Charged attacks have been replaced with a quick-reaction attack.
+{b}•{/b} {color=#86CDB7}Charlotte's{/color} old renders have been remade. (Her event when she gets her room and when you spend time with her.)
+{b}•{/b} {color=#7a847d}Mayu's{/color} old renders have been remade. (When you first meet her.)
+{b}•{/b} {color=#DEA45B}Hana's{/color} H-Event has been completely remade. (Her first time.)
+{b}•{/b} More professional SFX have been added to {color=#DEA45B}Hana's{/color} first H-Event. (Audio commissioned from HentAudio.)🎉
+{b}•{/b} Improved item descriptions. (Some of them will now include hints.)
+{b}•{/b} New areas have been added. (They don't do much yet, but they're there for future content.)
+{b}•{/b} The relationship interface has been expanded, and even more girls will be added. (Remember, just because they're there doesn't mean they'll get events.)
+{b}•{/b} Several bugs have been fixed:
+    {color=#E3CD5B}{b}•{/b}{/color}The combat issue.
+    {color=#E3CD5B}{b}•{/b}{/color}The issue with points invested in HP.
+    {color=#E3CD5B}{b}•{/b}{/color}Reika's amulet wasn't doing what it was supposed to.
+    {color=#E3CD5B}{b}•{/b}{/color}Notifications are now displayed at the same time.
+
+📌📌📌"""
+    new """{size=-6}⛩️ {b}Оновлення 0.4.7{/b} ⛩️
+Що вас чекає?
+
+{b}•{/b} Продовження основної історії.
+{b}•{/b} Нова Х-подія з {color=#CC9FDE}Фуміко{/color} та {color=#8cc1e9}Кейко{/color}. (Слідуйте підказкам у Фуміко.)
+{b}•{/b} Поява {color=#FF2200}нового персонажа{/color}.
+{b}•{/b} Нове завдання на дошці замовлень. (Включно з підвищенням рангу. Просто підготовлюю на майбутнє, нічого важливого.)
+{b}•{/b} Заряджені атаки замінено на атаки швидкої реакції.
+{b}•{/b} Переробленно старі рендери {color=#86CDB7}Шарлотти{/color}. (Її подія, коли вона отримує кімнату, та проводження часу з нею.)
+{b}•{/b} Переробленно старі рендери {color=#7a847d}Маю{/color}. (Перша зустріч з нею.)
+{b}•{/b} Повністю переробленно Х-подію з {color=#DEA45B}Ханою{/color}. (Її перший раз.)
+{b}•{/b} Додано більш професійні SFX до першої Х-події {color=#DEA45B}Хани{/color}. (Звуки замовленні у HentAudio.)🎉
+{b}•{/b} Покращенний опис предметів. (Деякі з них тепер міститимуть підказки.)
+{b}•{/b} Додано нові локації. (Вони зараз нічим не особливі, підготовлені для майбутнього контенту.)
+{b}•{/b} Оновлено інтерфейс відносин з дівчатами, і додано ще більше дівчат. (Пам'ятайте, лише тому що вони там, не означає, що вони отримають події.)
+{b}•{/b} Виправлено пару багів:
+    {color=#E3CD5B}{b}•{/b}{/color} Проблема у битві.
+    {color=#E3CD5B}{b}•{/b}{/color} Проблема із очками, вкладеними у ОЗ.
+    {color=#E3CD5B}{b}•{/b}{/color} Амулет Рейки не робив те, що мав би.
+    {color=#E3CD5B}{b}•{/b}{/color} Тепер сповіщення відображаються одночасно.
+
+📌📌📌"""
+
     old """{size=-6}⛩️ {b}Update 0.4.6{/b} ⛩️
 What will you find?
 
@@ -118,7 +163,7 @@ What will you find?
 {b}•{/b} Збалансовано бойову систему.  
 {b}•{/b} Перероблено старі події з Шикою.  
 {b}•{/b} Повністю перероблено рендери першої зустрічі з Хікарі.  
-{b}•{/b} Два нових завдання додано до пригодницької дошки.  
+{b}•{/b} Два нових завдання додано до дошки замовлень.  
 {b}•{/b} Додані кнопки категоризації предметів.  
 {b}•{/b} Додано більше предметів.  
 {b}•{/b} Певні предмети тепер можуть використовуватися для відновлення здоров'я.  

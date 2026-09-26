@@ -58,11 +58,17 @@ translate ukrainian strings:
     old "Yeah fish."
     new "Ага, риба."
 
+    old "Night beast"
+    new "Night beast"
+
+    old "I feel like he's still watching me..."
+    new "I feel like he's still watching me..."
+
     old "Tocky"
     new "Палички токі"
 
-    old "Crispy, chocolate-covered snack sticks."
-    new "Хрусткі палички в шоколадній глазурі."
+    old "Crispy, chocolate-covered snack sticks.\n{color=#E3CD5B}Gift: Akane{/color}"
+    new "Хрусткі палички в шоколадній глазурі.\n{color=#E3CD5B}Подарунок: Акане{/color}"
 
     old "Sandwich"
     new "Sandwich"
@@ -85,14 +91,14 @@ translate ukrainian strings:
     old "Cards Game"
     new "Cards Game"
 
-    old "It's a deck of cards, the Joker is quite rare..."
-    new "It's a deck of cards, the Joker is quite rare..."
+    old "It's a deck of cards, the Joker is quite rare...\n{color=#E3CD5B}Gift: Fumiko{/color}"
+    new "It's a deck of cards, the Joker is quite rare...\n{color=#E3CD5B}Gift: Fumiko{/color}"
 
     old "Chocolate Box"
     new "Chocolate Box"
 
-    old "A small box with 9 pieces of chocolate."
-    new "A small box with 9 pieces of chocolate."
+    old "A small box with 9 pieces of chocolate.\n{color=#E3CD5B}Gift: Purple Vampire{/color}"
+    new "A small box with 9 pieces of chocolate.\n{color=#E3CD5B}Gift: Purple Vampire{/color}"
 
     old "Axe"
     new "Axe"
@@ -127,20 +133,20 @@ translate ukrainian strings:
     old "Dagger"
     new "Dagger"
 
-    old "A dagger that helps retrieve more loot from defeated monsters."
-    new "A dagger that helps retrieve more loot from defeated monsters."
+    old "A dagger that helps retrieve more loot from defeated monsters.\n{color=#E3CD5B}Loot +30%{/color}"
+    new "A dagger that helps retrieve more loot from defeated monsters.\n{color=#E3CD5B}Loot +30%{/color}"
 
     old "Shoulder Armor"
     new "Shoulder Armor"
 
-    old "An upgrade for your \nadventurer's clothing."
-    new "An upgrade for your \nadventurer's clothing."
+    old "An upgrade for your \nadventurer's clothing.\n{color=#E3CD5B}Def +1{/color}"
+    new "An upgrade for your \nadventurer's clothing.\n{color=#E3CD5B}Def +1{/color}"
 
     old "Fox Amulet"
     new "Fox Amulet"
 
-    old "A strange amulet that Reika gave me."
-    new "A strange amulet that Reika gave me."
+    old "A strange amulet that Reika gave me. {color=#E3CD5B}+5 HP{/color}"
+    new "A strange amulet that Reika gave me. {color=#E3CD5B}+5 HP{/color}"
 
     old "Stick"
     new "Stick"
@@ -199,8 +205,8 @@ translate ukrainian strings:
     old "Manga A"
     new "Manga A"
 
-    old "It seems to be the typical isekai story, how lame, I'm sure the protagonist never uses his true power."
-    new "It seems to be the typical isekai story, how lame, I'm sure the protagonist never uses his true power."
+    old "It seems to be the typical isekai story, how lame, I'm sure the protagonist never uses his true power.\n{color=#E3CD5B}Gift: Orange Vampire{/color}"
+    new "It seems to be the typical isekai story, how lame, I'm sure the protagonist never uses his true power.\n{color=#E3CD5B}Gift: Orange Vampire{/color}"
 
     old "Magic Clothes"
     new "Magic Clothes"
@@ -211,8 +217,8 @@ translate ukrainian strings:
     old "Pink Bra"
     new "Pink Bra"
 
-    old "A pink bra with a cute design. Iris stared at me like she was judging all my life choices when I bought it..."
-    new "A pink bra with a cute design. Iris stared at me like she was judging all my life choices when I bought it..."
+    old "A pink bra with a cute design. Iris stared at me like she was judging all my life choices when I bought it...\n{color=#E3CD5B}Gift: Pink Vampire{/color}"
+    new "A pink bra with a cute design. Iris stared at me like she was judging all my life choices when I bought it...\n{color=#E3CD5B}Gift: Pink Vampire{/color}"
 
     old "Aphrodisiac"
     new "Aphrodisiac"
@@ -220,11 +226,35 @@ translate ukrainian strings:
     old "A potion that arouses passion."
     new "A potion that arouses passion."
 
+    old "Missing Necklace"
+    new "Missing Necklace"
+
+    old "An adventurer's necklace. It looks like it was made with great care.\n{color=#E3CD5B}I should return it to the Adventurers' Lounge.\n[item_missing_necklace]/1"
+    new "An adventurer's necklace. It looks like it was made with great care.\n{color=#E3CD5B}I should return it to the Adventurers' Lounge.\n[item_missing_necklace]/1"
+
+    old "Akanes Panties"
+    new "Akanes Panties"
+
+    old "Wow... You really have these in your inventory.\n{color=#FF5C5C}Perv"
+    new "Wow... You really have these in your inventory.\n{color=#FF5C5C}Perv"
+
+    old "Charlottes Panties"
+    new "Charlottes Panties"
+
+    old "Are you kidding me? Did you really pick them up...?\n{color=#86CDB7}Human..."
+    new "Are you kidding me? Did you really pick them up...?\n{color=#86CDB7}Human..."
+
+    old "Ryokos Panties"
+    new "Ryokos Panties"
+
+    old "W-What do you want me to say...? They're... white.\n{color=#D16992}Master?"
+    new "W-What do you want me to say...? They're... white.\n{color=#D16992}Master?"
+
     old "Monster Bait"
     new "Monster Bait"
 
-    old "The bag prevents it from giving off odor, but not entirely."
-    new "The bag prevents it from giving off odor, but not entirely."
+    old "The bag prevents it from giving off odor, but not entirely.\n{color=#E3CD5B}Use: Pond"
+    new "The bag prevents it from giving off odor, but not entirely.\n{color=#E3CD5B}Use: Pond"
 
     old "Magic Rings"
     new "Magic Rings"

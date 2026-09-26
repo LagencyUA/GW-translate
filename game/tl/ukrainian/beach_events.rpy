@@ -5148,10 +5148,10 @@ translate ukrainian tomoe_beach_H_db2875c2:
     to "{sc=2}{outlinecolor=#000000}{size=-7}UghNH~{image=corazon}{image=corazon}"
 
 # game/game/beach_events.rpy:1406
-translate ukrainian tomoe_beach_H_5a9348ab:
+translate ukrainian tomoe_beach_H_5d546b20:
 
-    # mc "{size=-6}Woah... your pussy feel amazing..."
-    mc "{size=-6}Woah... your pussy feel amazing..."
+    # mc "{size=-6}Woah... your pussy feels amazing..."
+    mc "{size=-6}Woah... your pussy feels amazing..."
 
 # game/game/beach_events.rpy:1407
 translate ukrainian tomoe_beach_H_6bab8625:

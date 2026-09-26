@@ -3924,10 +3924,10 @@ translate ukrainian aoi_batchcle_b0bac890:
     ao "Come here you cleaning boy~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/aoi_events.rpy:1201
-translate ukrainian aoi_batchcle_d30a4e9d:
+translate ukrainian aoi_batchcle_aa240cf3:
 
-    # t "She attack my weak point immediately."
-    t "She attack my weak point immediately."
+    # t "She attacked my weak point immediately."
+    t "She attacked my weak point immediately."
 
 # game/game/aoi_events.rpy:1202
 translate ukrainian aoi_batchcle_454e6dec:

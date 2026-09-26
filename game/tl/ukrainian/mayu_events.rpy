@@ -12,22 +12,22 @@ translate ukrainian mayu_variables_bd13f588:
     "It's closed, I should come back tomorrow."
 
 # game/game/mayu_events.rpy:115
-translate ukrainian mayu_event_1_c5f90e94:
+translate ukrainian mayu_event_1_d519b8ec:
 
-    # t "This should be the home of this Mayu."
-    t "Це, певно, і має бути дім цієї Маю."
+    # t "This should be where Mayu lives."
+    t "Певно це і є дім, де живе Маю."
 
-# game/game/mayu_events.rpy:117
-translate ukrainian mayu_event_1_37c0ef7c:
+# game/game/mayu_events.rpy:116
+translate ukrainian mayu_event_1_834ae035:
 
-    # t "I hope I'm not wrong..."
-    t "Сподіваюся, я не помилився..."
+    # t "I hope I've got the right place..."
+    t "Сподіваюся, я прийшов куди слід..."
 
-# game/game/mayu_events.rpy:119
-translate ukrainian mayu_event_1_03d30fe2:
+# game/game/mayu_events.rpy:118
+translate ukrainian mayu_event_1_a6873698:
 
-    # mc "{size=+6}Hello!!"
-    mc "{size=+6}Привіт!!"
+    # mc "{sc=1}{outlinecolor=#000000}{size=+2}Hello?!"
+    mc "{sc=1}{outlinecolor=#000000}{size=+2}Привіт?!"
 
 # game/game/mayu_events.rpy:120
 translate ukrainian mayu_event_1_a20cefa7:
@@ -35,521 +35,527 @@ translate ukrainian mayu_event_1_a20cefa7:
     # "..."
     "..."
 
+# game/game/mayu_events.rpy:120
+translate ukrainian mayu_event_1_d4e66772:
+
+    # "{sc=1}{outlinecolor=#000000}{size=+2}{color=#7a847d}Come in! I'm out back!"
+    "{size=+6}Заходьте! Я у внутрішньому дворі!"
+
 # game/game/mayu_events.rpy:121
-translate ukrainian mayu_event_1_3d48e1d6:
+translate ukrainian mayu_event_1_102069d6:
 
-    # a "{size=+6}Come in! I'm in the back!"
-    a "{size=+6}Заходьте! Я на задньому дворі!"
+    # t "Oh, looks like I was right."
+    t "О, здається, і справді куди слід."
 
-# game/game/mayu_events.rpy:122
-translate ukrainian mayu_event_1_8f0a9192:
-
-    # t "Oh, it seems I'm right."
-    t "О, здається, не помилився."
-
-# game/game/mayu_events.rpy:133
+# game/game/mayu_events.rpy:132
 translate ukrainian mayu_event_1_5d4bc138:
 
     # t "This house is bigger than it looks..."
     t "А цей дім більший ніж здається..."
 
-# game/game/mayu_events.rpy:134
+# game/game/mayu_events.rpy:133
 translate ukrainian mayu_event_1_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/mayu_events.rpy:135
-translate ukrainian mayu_event_1_b28b24b6:
+# game/game/mayu_events.rpy:134
+translate ukrainian mayu_event_1_12bbed31:
 
-    # a "Haa...~"
-    a "{i}Хаа...~{/i}"
+    # "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}Haa...~"
+    "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}{i}Хаа...~{/i}"
 
-# game/game/mayu_events.rpy:137
-translate ukrainian mayu_event_1_f49431e9:
+# game/game/mayu_events.rpy:136
+translate ukrainian mayu_event_1_b7466672:
 
-    # a "I've got nothing left to do..."
-    a "Мені більше нічого робити..."
+    # "{color=#7a847d}I've got nothing left to do..."
+    "{color=#7a847d}Мені більше нічого робити..."
 
-# game/game/mayu_events.rpy:138
-translate ukrainian mayu_event_1_325e6b5d:
+translate ukrainian mayu_event_1_3d2f37da:
 
-    # a "This is what I get for making all the requests too fast...."
-    a "Ось що буває, коли я виконую всі замовлення надто швидко..."
+    # "{color=#7a847d}This is what I get for finishing all the requests too quickly..."
+    "{color=#7a847d}Ось що буває, коли я виконую всі замовлення надто швидко..."
+
+# game/game/mayu_events.rpy:139
+translate ukrainian mayu_event_1_242f1422:
+
+    # "{color=#7a847d}Isn't there anyone else in this village who needs something built?"
+    "{color=#7a847d}Хіба більше не залишилося нікого у селищі, кому б знадобилося щось збудувати?"
 
 # game/game/mayu_events.rpy:140
-translate ukrainian mayu_event_1_9fa7a399:
+translate ukrainian mayu_event_1_dae0c8fd:
 
-    # a "Is there no one else in this village who wants to build something?"
-    a "Хіба більше не залишилося нікого у селищі, кому б знадобилося щось збудувати?"
+    # "{color=#7a847d}Or at least repaired...?"
+    "{color=#7a847d}Або принаймні полагодити...?"
 
-# game/game/mayu_events.rpy:142
-translate ukrainian mayu_event_1_76da3bb1:
-
-    # a "Or repair at least..."
-    a "Або принаймні полагодити..."
-
-# game/game/mayu_events.rpy:143
+# game/game/mayu_events.rpy:141
 translate ukrainian mayu_event_1_699878f6:
 
     # mc "Hey!"
     mc "Привіт!"
 
-# game/game/mayu_events.rpy:145
+# game/game/mayu_events.rpy:142
 translate ukrainian mayu_event_1_236dac79:
 
     # mc "You must be Mayu?"
     mc "Ти, мабуть, Маю?"
 
+# game/game/mayu_events.rpy:144
+translate ukrainian mayu_event_1_8920df1c:
+
+    # "{color=#7a847d}Hmm? {w}That's not Yui's voice."
+    a "{color=#7a847d}Гмм? {w}Голос явно не Юї."
+
+# game/game/mayu_events.rpy:145
+translate ukrainian mayu_event_1_699878f6_1:
+
+    # mc "Hey!"
+    mc "Привіт!"
+
 # game/game/mayu_events.rpy:146
-translate ukrainian mayu_event_1_35b21ead:
+translate ukrainian mayu_event_1_c3e19b65:
 
-    # a "That's not Yui's voice."
-    a "Голос явно не Юї."
+    # "{color=#7a847d}..."
+    "{color=#7a847d}..."
 
-# game/game/mayu_events.rpy:148
-translate ukrainian mayu_event_1_bb8e4b4e:
+# game/game/mayu_events.rpy:147
+translate ukrainian mayu_event_1_b5f0eaab:
 
-    # a "..."
-    a "..."
-
-# game/game/mayu_events.rpy:150
-translate ukrainian mayu_event_1_f57ce201:
-
-    # mc "Yo!"
-    mc "Здоров!"
-
-# game/game/mayu_events.rpy:151
-translate ukrainian mayu_event_1_13b6a172:
-
-    # mc "I'm not Yui but she sent me here."
+    # mc "I'm not Yui, but she sent me here."
     mc "Я хоч і не Юї, та це вона мене сюди відправила."
 
-# game/game/mayu_events.rpy:153
-translate ukrainian mayu_event_1_a9dc6b74:
+# game/game/mayu_events.rpy:149
+translate ukrainian mayu_event_1_358593e4:
 
-    # mc "She told me that you're in charge of construction here in the village."
+    # mc "She told me you're the one in charge of construction here in the village."
     mc "Вона мені сказала, що це ти відповідальна за будівництво у цьому селищі."
 
-# game/game/mayu_events.rpy:154
-translate ukrainian mayu_event_1_bb8e4b4e_1:
+# game/game/mayu_events.rpy:150
+translate ukrainian mayu_event_1_c3e19b65_1:
 
-    # a "..."
-    a "..."
+    # "{color=#7a847d}..."
+    "{color=#7a847d}..."
 
-# game/game/mayu_events.rpy:155
+# game/game/mayu_events.rpy:151
 translate ukrainian mayu_event_1_68e9bb60:
 
     # mc "Are you listening?"
     mc "Ти слухаєш?"
 
-# game/game/mayu_events.rpy:156
-translate ukrainian mayu_event_1_fec21e7e:
+# game/game/mayu_events.rpy:152
+translate ukrainian mayu_event_1_309fd83b:
 
-    # mc "Or have I come at a bad time-"
+    # mc "Or did I come at a bad tim-"
     mc "Чи я зайшов невчас-"
 
-# game/game/mayu_events.rpy:161
-translate ukrainian mayu_event_1_08b5df7f:
+# game/game/mayu_events.rpy:155
+translate ukrainian mayu_event_1_ca7365f6:
 
-    # mc "Ok."
-    mc "Гаразд."
+    # mc "Well, that's new..."
+    mc "Ну, це щось новеньке..."
+
+# game/game/mayu_events.rpy:156
+translate ukrainian mayu_event_1_3b15b4e8:
+
+    # mc "I think I came to the wrong pla-"
+    mc "Гадаю, я помилився буд-."
 
 # game/game/mayu_events.rpy:162
-translate ukrainian mayu_event_1_90ecf031:
-
-    # mc "Look at the time! I have to go."
-    mc "Ого яка година! Мушу бігти."
-
-# game/game/mayu_events.rpy:167
-translate ukrainian mayu_event_1_a83c27dd:
+translate ukrainian mayu_event_1_62432aad:
 
     # mc "Wh-"
     mc "Що-"
 
-# game/game/mayu_events.rpy:168
-translate ukrainian mayu_event_1_31d1c7f3:
+# game/game/mayu_events.rpy:163
+translate ukrainian mayu_event_1_84a9f15f:
 
-    # a "Nice to meet you! I'm Mayu!"
-    a "Рада знайомству! Мене звати Маю!"
+    # "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}Nice to meet you! I'm Mayu!"
+    "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}Рада знайомству! Мене звати Маю!"
 
-# game/game/mayu_events.rpy:170
-translate ukrainian mayu_event_1_91336eec:
+# game/game/mayu_events.rpy:164
+translate ukrainian mayu_event_1_08618394:
 
-    # ma "If you're here, it's because you want to build something, right?"
+    # ma "If you're here, that means you want something built, right?"
     ma "Якщо ти тут, тобі треба щось збудувати, правда?"
 
-# game/game/mayu_events.rpy:171
-translate ukrainian mayu_event_1_5f1d5cbc:
+# game/game/mayu_events.rpy:165
+translate ukrainian mayu_event_1_b6b9768e:
 
-    # mc "Err... {w}well, {w}yes."
-    mc "Емм... {w}ну, {w}так."
+    # mc "Uh... {w}well, {w}yeah."
+    mc "Ух... {w}ну, {w}так."
 
-# game/game/mayu_events.rpy:173
+# game/game/mayu_events.rpy:167
 translate ukrainian mayu_event_1_30277a2f:
 
     # ma "I knew this day would come!"
     ma "Знала, цей день настане!"
 
-# game/game/mayu_events.rpy:174
+# game/game/mayu_events.rpy:168
 translate ukrainian mayu_event_1_b2b9e19d:
 
     # mc "What do you mean?"
     mc "Про що це ти?"
 
-# game/game/mayu_events.rpy:176
-translate ukrainian mayu_event_1_a295fd5d:
+# game/game/mayu_events.rpy:170
+translate ukrainian mayu_event_1_f7ba2b97:
 
-    # ma "Come!"
-    ma "Заходь!"
+    # ma "Come on!"
+    ma "Нужбо!"
 
-# game/game/mayu_events.rpy:177
-translate ukrainian mayu_event_1_fc60e1ec:
+# game/game/mayu_events.rpy:171
+translate ukrainian mayu_event_1_86ec4477:
 
-    # ma "Let's start immediately!"
-    ma "Почнімо негайно!"
+    # ma "Let's get started right away!
+    ma "Зараз же почнімо!"
 
-# game/game/mayu_events.rpy:178
-translate ukrainian mayu_event_1_38fd2fa5:
+# game/game/mayu_events.rpy:172
+translate ukrainian mayu_event_1_5798cb2d:
 
-    # mc "O-Ok.."
+    # mc "O-Okay..."
     mc "Д-Добре..."
 
-# game/game/mayu_events.rpy:179
-translate ukrainian mayu_event_1_83ef0304:
+# game/game/mayu_events.rpy:173
+translate ukrainian mayu_event_1_ad1c4447:
 
-    # t "Yui wasn't lying when she said that Mayu is quite a cheerful girl..."
+    # t "Yui wasn't kidding when she said Mayu was an energetic girl..."
     t "Юї не брехала, коли сказала, що Маю — досить життєрадісна дівчина..."
 
-# game/game/mayu_events.rpy:181
+# game/game/mayu_events.rpy:175
 translate ukrainian mayu_event_1_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/mayu_events.rpy:182
+# game/game/mayu_events.rpy:176
 translate ukrainian mayu_event_1_9db70216:
 
     # ma "Then, let's begin."
     ma "Тоді розпочнімо."
 
-# game/game/mayu_events.rpy:183
+# game/game/mayu_events.rpy:177
 translate ukrainian mayu_event_1_0c8e4571:
 
     # mc "Mayu?"
     mc "Маю?"
 
-# game/game/mayu_events.rpy:185
+# game/game/mayu_events.rpy:179
 translate ukrainian mayu_event_1_b18a84e9:
 
     # ma "Come on, don't be shy."
     ma "Нумо, не соромся."
 
-# game/game/mayu_events.rpy:186
+# game/game/mayu_events.rpy:180
 translate ukrainian mayu_event_1_d7afdc3b:
 
     # mc "I-"
     mc "Я-"
 
-# game/game/mayu_events.rpy:187
-translate ukrainian mayu_event_1_923e8036:
+# game/game/mayu_events.rpy:181
+translate ukrainian mayu_event_1_a65e4f34:
 
-    # ma "Tell me, will it be inside or outside."
+    # ma "Tell me, will it be inside or outside?"
     ma "Розказуй, плануєш усередині чи ззовні?"
 
-# game/game/mayu_events.rpy:189
+# game/game/mayu_events.rpy:182
 translate ukrainian mayu_event_1_d946bf1d:
 
     # t "Inside or outside?"
     t "Усередині чи ззовні?"
 
-# game/game/mayu_events.rpy:191
+# game/game/mayu_events.rpy:184
 translate ukrainian mayu_event_1_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/mayu_events.rpy:192
+# game/game/mayu_events.rpy:185
 translate ukrainian mayu_event_1_f508c475:
 
     # mc "C-Can it be inside?"
     mc "Н-Не проти, якщо всередині?"
 
-# game/game/mayu_events.rpy:193
-translate ukrainian mayu_event_1_02f83551:
+# game/game/mayu_events.rpy:186
+translate ukrainian mayu_event_1_0d88c136:
 
-    # ma "Perfect! {w}Up or down?"
-    ma "Ідеально! {w}Згори чи знизу?"
+    # ma "Perfect! {w}Upstairs or downstairs?"
+    ma "Чудово! {w}Згори чи знизу?"
 
-# game/game/mayu_events.rpy:194
-translate ukrainian mayu_event_1_1e377ccd:
+# game/game/mayu_events.rpy:187
+translate ukrainian mayu_event_1_38dd98e1:
 
-    # t "She's referring to.."
+    # t "She's referring to..."
     t "Вона зараз про..."
 
-# game/game/mayu_events.rpy:195
-translate ukrainian mayu_event_1_96eda209:
+# game/game/mayu_events.rpy:188
+translate ukrainian mayu_event_1_30558c3a:
 
-    # mc "D-Down?"
+    # mc "D-Downstairs?"
     mc "З-Знизу?"
 
-# game/game/mayu_events.rpy:197
+# game/game/mayu_events.rpy:189
 translate ukrainian mayu_event_1_aa67333e:
 
     # ma "Understood!"
     ma "Зрозуміла!"
 
-# game/game/mayu_events.rpy:198
-translate ukrainian mayu_event_1_7c5a3734:
+# game/game/mayu_events.rpy:191
+translate ukrainian mayu_event_1_2acbd8fa:
 
-    # mc "A-Are you sure? We've just met and this is-"
-    mc "У-Упевнена? Ми лише щойно познайомилися і-"
+    # mc "A-Are you sure? We just met, and this is-"
+    mc "У-Упевнена? Ми лише щойно познайомилися, і-"
 
-# game/game/mayu_events.rpy:199
+# game/game/mayu_events.rpy:192
 translate ukrainian mayu_event_1_7fc26e43:
 
     # ma "Will it be big or small?"
     ma "Яким він буде, великим чи маленьким?"
 
-# game/game/mayu_events.rpy:200
-translate ukrainian mayu_event_1_96efbb35:
+# game/game/mayu_events.rpy:193
+translate ukrainian mayu_event_1_b116bb3a:
 
-    # t "She has to prepare herself?..."
-    t "Вона готується?..."
+    # t "Does she need to prepare herself...?"
+    t "Їй треба приготуватися?..."
 
-# game/game/mayu_events.rpy:201
+# game/game/mayu_events.rpy:194
 translate ukrainian mayu_event_1_1c1e80e7:
 
     # mc "I don't know... {w}You'd have to see it..."
     mc "Важко сказати... {w}Тобі варто самій побачити..."
 
-# game/game/mayu_events.rpy:202
-translate ukrainian mayu_event_1_73166bd8:
+# game/game/mayu_events.rpy:195
+translate ukrainian mayu_event_1_56abb490:
 
-    # ma "Oh don't worry, {w}I've already seen it."
-    ma "Ох, не переймайся, {w}я вже бачила."
+    # ma "Oh, don't worry. {w}I've already seen it."
+    ma "Ох, не переймайся. {w}Я вже бачила."
 
-# game/game/mayu_events.rpy:203
-translate ukrainian mayu_event_1_957d3a5d:
+# game/game/mayu_events.rpy:196
+translate ukrainian mayu_event_1_9537a3a9:
 
-    # t "What!, when?"
-    t "Що! Коли це?"
+    # t "What?! When?"
+    t "Що?! Коли це?"
 
-# game/game/mayu_events.rpy:205
+# game/game/mayu_events.rpy:198
 translate ukrainian mayu_event_1_b3447ae5:
 
     # ma "It's super big, don't you think?"
     ma "Він нереально великий, так не гадаєш?"
 
-# game/game/mayu_events.rpy:206
+# game/game/mayu_events.rpy:199
 translate ukrainian mayu_event_1_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/mayu_events.rpy:207
+# game/game/mayu_events.rpy:200
 translate ukrainian mayu_event_1_6b2b9fe2:
 
     # mc "Not that I'm comparing..."
     mc "Ну, я не скаржуся..."
 
-# game/game/mayu_events.rpy:209
+# game/game/mayu_events.rpy:201
 translate ukrainian mayu_event_1_4a3ad2d2:
 
     # ma "Too bad it's in such bad condition."
     ma "Шкода, що він у такому поганому стані."
 
-# game/game/mayu_events.rpy:210
-translate ukrainian mayu_event_1_27911543:
+# game/game/mayu_events.rpy:202
+translate ukrainian mayu_event_1_5e839380:
 
-    # mc "Oh, {w}do you think so?"
-    mc "Ох, {w}думаєш?"
+    # mc "O-Oh, {w}you think so?"
+    mc "О-Ох, {w}гадаєш?"
 
-# game/game/mayu_events.rpy:211
-translate ukrainian mayu_event_1_5c87d7d6:
 
-    # ma "Yes, but don't worry, that's what I'm here for."
-    ma "Так, але не хвилюйся, я тут саме для цього."
+# game/game/mayu_events.rpy:203
+translate ukrainian mayu_event_1_98ed6357:
 
-# game/game/mayu_events.rpy:212
+    # ma "Yes, but don't worry. That's what I'm here for."
+    ma "Так, але не хвилюйся. Я тут саме для цього."
+
+# game/game/mayu_events.rpy:204
 translate ukrainian mayu_event_1_07eba8ee:
 
     # mc "R-Really?"
     mc "С-Справді?"
 
-# game/game/mayu_events.rpy:214
+# game/game/mayu_events.rpy:205
 translate ukrainian mayu_event_1_4ebc7bb3:
 
     # ma "I'll have it as good as new in a couple of days."
     ma "За кілька днів він стане як новий."
 
-# game/game/mayu_events.rpy:215
-translate ukrainian mayu_event_1_0532c4a6:
+# game/game/mayu_events.rpy:206
+translate ukrainian mayu_event_1_33858bf3:
 
-    # ma "And you can use it as you please."
+    # ma "And you'll be able to use it however you like."
     ma "Зможеш користуватися ним, як заманеться."
 
-# game/game/mayu_events.rpy:216
-translate ukrainian mayu_event_1_1e8776e9:
+# game/game/mayu_events.rpy:207
+translate ukrainian mayu_event_1_e9c83a96:
 
-    # mc "That's... {w} good to know."
-    mc "Добре... {w} знати."
+    # mc "That's... {w}good to know."
+    mc "Добре... {w}знати."
 
-# game/game/mayu_events.rpy:217
+# game/game/mayu_events.rpy:208
 translate ukrainian mayu_event_1_6eeeb579:
 
     # ma "Well, let me know when you want to start!"
     ma "Ну, кажи мені, коли готовий почати!"
 
-# game/game/mayu_events.rpy:218
+# game/game/mayu_events.rpy:209
 translate ukrainian mayu_event_1_b966c03d:
 
     # mc "Gulp*"
     mc "{i}*Ковть*{/i}"
 
-# game/game/mayu_events.rpy:220
-translate ukrainian mayu_event_1_b6b2cb9d:
+# game/game/mayu_events.rpy:211
+translate ukrainian mayu_event_1_0a72d7b9:
 
-    # ma "I always wanted to fix your house!"
+    # ma "I've always wanted to fix your house!"
     ma "Я завжди хотіла полагодити твій дім!"
 
-# game/game/mayu_events.rpy:221
+# game/game/mayu_events.rpy:212
 translate ukrainian mayu_event_1_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/mayu_events.rpy:222
+# game/game/mayu_events.rpy:213
 translate ukrainian mayu_event_1_31d3a4d0:
 
     # mc "My house?"
     mc "Мій дім?"
 
-# game/game/mayu_events.rpy:224
-translate ukrainian mayu_event_1_7c181eb9:
+# game/game/mayu_events.rpy:215
+translate ukrainian mayu_event_1_b868d04b:
 
-    # ma "That house has many rooms, we could even repair the second floor!"
-    ma "У тому домі так багато кімнат, і ми навіть зможемо полагодити другий поверх!"
+    # ma "That house has so many rooms. We could even repair the second floor!"
+    ma "У тому домі так багато кімнат. Ми навіть зможемо полагодити другий поверх!"
 
-# game/game/mayu_events.rpy:226
+# game/game/mayu_events.rpy:216
 translate ukrainian mayu_event_1_97522d8c:
 
     # mc "Second floor?"
     mc "Другий поверх?"
 
-# game/game/mayu_events.rpy:228
-translate ukrainian mayu_event_1_5e646744:
+# game/game/mayu_events.rpy:218
+translate ukrainian mayu_event_1_13a4da16:
 
-    # ma "What's wrong? You're distracted."
+    # ma "What's wrong? You seem distracted."
     ma "Що таке? Ти якийсь розгублений."
 
-# game/game/mayu_events.rpy:229
+# game/game/mayu_events.rpy:219
 translate ukrainian mayu_event_1_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/mayu_events.rpy:230
+# game/game/mayu_events.rpy:220
 translate ukrainian mayu_event_1_6d2a5643:
 
     # t "She meant the house!"
     t "Вона казала про дім!"
 
-# game/game/mayu_events.rpy:231
+# game/game/mayu_events.rpy:221
 translate ukrainian mayu_event_1_adb61149:
 
     # t "What's wrong with me?"
     t "Що не так зі мною?"
 
-# game/game/mayu_events.rpy:232
-translate ukrainian mayu_event_1_7c1ebda6:
+# game/game/mayu_events.rpy:222
+translate ukrainian mayu_event_1_be3b4009:
 
-    # mc "Oh no nothing, I'm excited, haha."
-    mc "О, та пусте, я в захваті, хаха."
+    # mc "Oh, no, nothing. I'm excited, haha."
+    mc "Ох, не звертай уваги. Я в захваті, хаха."
 
-# game/game/mayu_events.rpy:234
-translate ukrainian mayu_event_1_34044e58:
+# game/game/mayu_events.rpy:224
+translate ukrainian mayu_event_1_3033c541:
 
-    # ma "Right?!"
-    ma "Правда?!"
+    # ma "{sc=1}{outlinecolor=#000000}{size=-6}Right?!"
+    ma "{sc=1}{outlinecolor=#000000}{size=-6}Справді?!"
 
-# game/game/mayu_events.rpy:236
-translate ukrainian mayu_event_1_d29960f3:
+# game/game/mayu_events.rpy:225
+translate ukrainian mayu_event_1_b39a306e:
 
-    # ma "I'll have everything ready for the next time you come!"
+    # mc "Ah."
+    mc "Ах."
+
+# game/game/mayu_events.rpy:226
+translate ukrainian mayu_event_1_39837f85:
+
+    # ma "I'll have everything ready by the next time you come!"
     ma "Я підготую все до твого наступного візиту!"
 
-# game/game/mayu_events.rpy:237
-translate ukrainian mayu_event_1_fc006ac0:
+# game/game/mayu_events.rpy:227
+translate ukrainian mayu_event_1_bfe4ce08:
 
-    # ma "So that you know what materials you need."
+    # ma "That way, you'll know what materials you need."
     ma "Аби ти знав, які матеріали знадобляться."
 
-# game/game/mayu_events.rpy:239
-translate ukrainian mayu_event_1_33ea2710:
+# game/game/mayu_events.rpy:228
+translate ukrainian mayu_event_1_d3ace931:
 
-    # mc "T-Thanks Mayu."
+    # mc "T-Thanks, Mayu."
     mc "Д-Дякую, Маю."
 
-# game/game/mayu_events.rpy:240
+# game/game/mayu_events.rpy:229
 translate ukrainian mayu_event_1_6f22151c:
 
     # mc "I look forward to working with you."
     mc "З нетерпінням чекаю на нашу співпрацю."
 
-# game/game/mayu_events.rpy:242
+# game/game/mayu_events.rpy:231
 translate ukrainian mayu_event_1_9dc0282d:
 
     # ma "Yes! I hope we get along well!"
     ma "Так! Сподіваюся, ми гарно порозуміємося!"
 
-# game/game/mayu_events.rpy:243
-translate ukrainian mayu_event_1_df7ecb9a:
+# game/game/mayu_events.rpy:232
+translate ukrainian mayu_event_1_8db91502:
 
-    # t "It seems like she had it all figured out before I arrived."
+    # t "It seems like she had everything figured out before I even arrived."
     t "Здається, ніби вона вже все продумала ще до мого візиту."
 
-# game/game/mayu_events.rpy:245
-translate ukrainian mayu_event_1_74801e97:
+# game/game/mayu_events.rpy:233
+translate ukrainian mayu_event_1_81fc166a:
 
-    # mc "Then I'll come back another time so as not to bother you in your wor-"
+    # mc "Then I'll come back another time so I don't bother you while you're wor-"
     mc "Тоді зайду іншим разом, аби не заважати тобі прац-"
 
-# game/game/mayu_events.rpy:247
-translate ukrainian mayu_event_1_387b63b5:
+# game/game/mayu_events.rpy:235
+translate ukrainian mayu_event_1_92c256ef:
 
-    # ma "You don't bother me!"
-    ma "Ти мені не заважаєш!"
+    # ma "Work doesn't bother me!"
+    ma "Робота мені не завадить!"
 
-# game/game/mayu_events.rpy:249
+# game/game/mayu_events.rpy:236
 translate ukrainian mayu_event_1_54e29ac8:
 
     # ma "Come whenever you want!"
     ma "Приходь коли завгодно!"
 
-# game/game/mayu_events.rpy:250
-translate ukrainian mayu_event_1_d03559c2:
+# game/game/mayu_events.rpy:242
+translate ukrainian mayu_event_1_4828435b:
 
-    # mc "O-Oh, {w}Ok."
+    # "{image=corazon}Mayu's affection has increased to [mayu_affection]{image=corazon}"
+    "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
+
+# game/game/mayu_events.rpy:243
+translate ukrainian mayu_event_1_8133f1ae:
+
+    # mc "O-Oh, {w}okay."
     mc "О-Ох, {w}добре."
 
-# game/game/mayu_events.rpy:251
-translate ukrainian mayu_event_1_8d65010a:
+# game/game/mayu_events.rpy:245
+translate ukrainian mayu_event_1_d8e60d4e:
 
-    # mc "Bye Mayu!"
+    # mc "Bye, Mayu!"
     mc "Бувай, Маю!"
 
-# game/game/mayu_events.rpy:254
-translate ukrainian mayu_event_1_36d35230:
+# game/game/mayu_events.rpy:246
+translate ukrainian mayu_event_1_92dcc164:
 
-    # ma "Bye Bye!"
+    # ma "Bye-bye!"
     ma "Бувай!"
-
-# game/game/mayu_events.rpy:263
-translate ukrainian mayu_event_1_a0c826f8:
-
-    # "{image=/bg/icons/heart_text.png}Mayu's affection has increased to [mayu_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Прихильність Маю зросла до [mayu_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:310
 translate ukrainian mayu_interface_32512a62:
@@ -14045,14 +14051,8 @@ translate ukrainian strings:
     old "{image=corazon}[mc]'s affection has increased to 5{image=corazon}"
     new "{image=corazon}[mc]'s affection has increased to 5{image=corazon}"
 
-    old "Some time later.."
-    new "Some time later.."
-
     old "You've received a wooden katana!"
     new "You've received a wooden katana!"
-
-    old "250 gold and 40 wood have been taken from your inventory."
-    new "250 gold and 40 wood have been taken from your inventory."
 
     old "You spend the morning cutting down trees with Mayu."
     new "You spend the morning cutting down trees with Mayu."

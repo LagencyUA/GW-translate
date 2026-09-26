@@ -9312,10 +9312,10 @@ translate ukrainian nat_gal2_62df15b4:
     na "Your tongue is so big..."
 
 # game/game/natsuki_events.rpy:3202
-translate ukrainian nat_gal2_b7ea39ca:
+translate ukrainian nat_gal2_747dd69c:
 
-    # t "Natuski's pussy is very wet, it molds very well with my tongue...."
-    t "Natuski's pussy is very wet, it molds very well with my tongue...."
+    # t "Natsuki's pussy is very wet, it molds very well with my tongue...."
+    t "Natsuki's pussy is very wet, it molds very well with my tongue...."
 
 # game/game/natsuki_events.rpy:3203
 translate ukrainian nat_gal2_18a94a0f:

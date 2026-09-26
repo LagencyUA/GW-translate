@@ -13481,25 +13481,1720 @@ translate ukrainian sayo_train_interaction_e766b9e2:
     # mc "Sayori?"
     mc "Sayori?"
 
-# game/game/sayori_events.rpy:4047
-translate ukrainian sayo_train_interaction_e257008d:
+# game/game/sayori_events.rpy:4063
+translate ukrainian ignis_encounter_1fc7c2f1:
 
-    # nc "Content coming soon!"
-    nc "Content coming soon!"
+    # t "Does she have to disappear just when I'm looking for her?"
+    t "Does she have to disappear just when I'm looking for her?"
 
-# game/game/sayori_events.rpy:4048
-translate ukrainian sayo_train_interaction_9c034a8e:
+# game/game/sayori_events.rpy:4065
+translate ukrainian ignis_encounter_19e8adb5:
 
-    # nc "See you in the next episode!"
-    nc "See you in the next episode!"
+    # t "She'll probably come here at some point, so I might as well wait for her."
+    t "She'll probably come here at some point, so I might as well wait for her."
 
-# game/game/sayori_events.rpy:4049
-translate ukrainian sayo_train_interaction_2995b7de:
+# game/game/sayori_events.rpy:4066
+translate ukrainian ignis_encounter_bdfb92e9:
 
-    # nc "Leave the use of Dragon Stones to the professionals. Don't try this at home."
-    nc "Leave the use of Dragon Stones to the professionals. Don't try this at home."
+    # t "But I don't want to train alone either..."
+    t "But I don't want to train alone either..."
+
+# game/game/sayori_events.rpy:4068
+translate ukrainian ignis_encounter_754597d7:
+
+    # t "I expected Yui to want to train with Sayori, but I thought it'd be a one-time thing."
+    t "I expected Yui to want to train with Sayori, but I thought it'd be a one-time thing."
+
+# game/game/sayori_events.rpy:4069
+translate ukrainian ignis_encounter_784aefc0:
+
+    # t "She must've been thinking about this for a long time if she came to my room as soon as she woke up..."
+    t "She must've been thinking about this for a long time if she came to my room as soon as she woke up..."
+
+# game/game/sayori_events.rpy:4070
+translate ukrainian ignis_encounter_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4076
+translate ukrainian ignis_encounter_1d82a7e7:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/sayori_events.rpy:4078
+translate ukrainian ignis_encounter_6051465b:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4079
+translate ukrainian ignis_encounter_2ce05257:
+
+    # t "W-What happened? My body just reacted on its own."
+    t "W-What happened? My body just reacted on its own."
+
+# game/game/sayori_events.rpy:4080
+translate ukrainian ignis_encounter_3df2f732:
+
+    # mc "Y-You... {w}who are you?"
+    mc "Y-You... {w}who are you?"
+
+# game/game/sayori_events.rpy:4082
+translate ukrainian ignis_encounter_6051465b_1:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4083
+translate ukrainian ignis_encounter_f2837833:
+
+    # t "Are those... scales?"
+    t "Are those... scales?"
+
+# game/game/sayori_events.rpy:4084
+translate ukrainian ignis_encounter_e38f2f2e:
+
+    # t "I feel strange... Like if I move, I'll lose a limb."
+    t "I feel strange... Like if I move, I'll lose a limb."
+
+# game/game/sayori_events.rpy:4085
+translate ukrainian ignis_encounter_4d001de4:
+
+    # mc "A-Are you... {w}Sayori's mother?"
+    mc "A-Are you... {w}Sayori's mother?"
+
+# game/game/sayori_events.rpy:4086
+translate ukrainian ignis_encounter_6051465b_2:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4091
+translate ukrainian ignis_encounter_3a07582b:
+
+    # "{color=#FF2200}No."
+    "{color=#FF2200}No."
+
+# game/game/sayori_events.rpy:4092
+translate ukrainian ignis_encounter_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4093
+translate ukrainian ignis_encounter_da9b7860:
+
+    # "{color=#FF2200}The clan sent me."
+    "{color=#FF2200}The clan sent me."
+
+# game/game/sayori_events.rpy:4094
+translate ukrainian ignis_encounter_7ab736f1:
+
+    # mc "The clan? What do they want?"
+    mc "The clan? What do they want?"
+
+# game/game/sayori_events.rpy:4096
+translate ukrainian ignis_encounter_e1b8de2e:
+
+    # "{color=#FF2200}Something I've already taken care of."
+    "{color=#FF2200}Something I've already taken care of."
+
+# game/game/sayori_events.rpy:4097
+translate ukrainian ignis_encounter_6051465b_3:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4098
+translate ukrainian ignis_encounter_7ffe1694:
+
+    # "{color=#FF2200}...!"
+    "{color=#FF2200}...!"
+
+# game/game/sayori_events.rpy:4100
+translate ukrainian ignis_encounter_ec20f4b7:
+
+    # "{color=#FF2200}Hmm."
+    "{color=#FF2200}Hmm."
+
+# game/game/sayori_events.rpy:4101
+translate ukrainian ignis_encounter_652650d3:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/sayori_events.rpy:4103
+translate ukrainian ignis_encounter_5b482625:
+
+    # "{color=#FF2200}{b}They want her dead."
+    "{color=#FF2200}{b}They want her dead."
+
+# game/game/sayori_events.rpy:4104
+translate ukrainian ignis_encounter_e9ee7796:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/sayori_events.rpy:4106
+translate ukrainian ignis_encounter_29066e16:
+
+    # "{color=#FF2200}I got myself a cute little accessory, don't you think?"
+    "{color=#FF2200}I got myself a cute little accessory, don't you think?"
+
+# game/game/sayori_events.rpy:4107
+translate ukrainian ignis_encounter_623e8451:
+
+    # mc "What are you tal-"
+    mc "What are you tal-"
+
+# game/game/sayori_events.rpy:4112
+translate ukrainian ignis_encounter_163e561b:
+
+    # "{color=#FF2200}And now it's your turn!"
+    "{color=#FF2200}And now it's your turn!"
+
+# game/game/sayori_events.rpy:4121
+translate ukrainian ignis_encounter_e10ce439:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-7}Ghg!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-7}Ghg!"
+
+# game/game/sayori_events.rpy:4122
+translate ukrainian ignis_encounter_b5ccfdef:
+
+    # t "{sc=1}{outlinecolor=#000000}{size=-7}Move! Move! Move!"
+    t "{sc=1}{outlinecolor=#000000}{size=-7}Move! Move! Move!"
+
+# game/game/sayori_events.rpy:4134
+translate ukrainian ignis_encounter_220eb7bd:
+
+    # "{color=#FF2200}Hmm..."
+    "{color=#FF2200}Hmm..."
+
+# game/game/sayori_events.rpy:4136
+translate ukrainian ignis_encounter_6051465b_4:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4138
+translate ukrainian ignis_encounter_144950da:
+
+    # "{color=#FF2200}I could've sworn I hit you."
+    "{color=#FF2200}I could've sworn I hit you."
+
+# game/game/sayori_events.rpy:4139
+translate ukrainian ignis_encounter_202765c8:
+
+    # "{color=#FF2200}You're fast."
+    "{color=#FF2200}You're fast."
+
+# game/game/sayori_events.rpy:4140
+translate ukrainian ignis_encounter_4860fa10:
+
+    # t "{sc=1}{outlinecolor=#000000}{size=-7}T-That... {w}w-would've killed me."
+    t "{sc=1}{outlinecolor=#000000}{size=-7}T-That... {w}w-would've killed me."
+
+# game/game/sayori_events.rpy:4142
+translate ukrainian ignis_encounter_4c1d95ca:
+
+    # t "My body isn't responding the way I want it to."
+    t "My body isn't responding the way I want it to."
+
+# game/game/sayori_events.rpy:4143
+translate ukrainian ignis_encounter_ad99b9f6:
+
+    # "{color=#FF2200}Hmm... interesting."
+    "{color=#FF2200}Hmm... interesting."
+
+# game/game/sayori_events.rpy:4144
+translate ukrainian ignis_encounter_345ae9a6:
+
+    # t "She's really trying to kill me..."
+    t "She's really trying to kill me..."
+
+# game/game/sayori_events.rpy:4145
+translate ukrainian ignis_encounter_2a9a3b01:
+
+    # t "{sc=1}{outlinecolor=#000000}{size=-7}Sayori..."
+    t "{sc=1}{outlinecolor=#000000}{size=-7}Sayori..."
+
+# game/game/sayori_events.rpy:4146
+translate ukrainian ignis_encounter_7549da12:
+
+    # t "Did she really..."
+    t "Did she really..."
+
+# game/game/sayori_events.rpy:4148
+translate ukrainian ignis_encounter_4c893c25:
+
+    # mc "{size=-6}You... {w}did you really kill her...?"
+    mc "{size=-6}You... {w}did you really kill her...?"
+
+# game/game/sayori_events.rpy:4149
+translate ukrainian ignis_encounter_6051465b_5:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4150
+translate ukrainian ignis_encounter_6fbbecfe:
+
+    # "{color=#FF2200}What, {w}you don't believe me?"
+    "{color=#FF2200}What, {w}you don't believe me?"
+
+# game/game/sayori_events.rpy:4152
+translate ukrainian ignis_encounter_0cd509cf:
+
+    # "{color=#FF2200}Maybe this will look familiar to you."
+    "{color=#FF2200}Maybe this will look familiar to you."
+
+# game/game/sayori_events.rpy:4154
+translate ukrainian ignis_encounter_d7a3e42b:
+
+    # t "What is that? Some kind of sc-"
+    t "What is that? Some kind of sc-"
+
+# game/game/sayori_events.rpy:4155
+translate ukrainian ignis_encounter_e9ee7796_1:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/sayori_events.rpy:4156
+translate ukrainian ignis_encounter_3c0bf22d:
+
+    # mc "A scale... {w}from her tail."
+    mc "A scale... {w}from her tail."
+
+# game/game/sayori_events.rpy:4157
+translate ukrainian ignis_encounter_aca9cbae:
+
+    # "{color=#FF2200}Interesting. You can tell just by looking at it."
+    "{color=#FF2200}Interesting. You can tell just by looking at it."
+
+# game/game/sayori_events.rpy:4159
+translate ukrainian ignis_encounter_f7d12c91:
+
+    # "{color=#FF2200}Do you know how hard it is to get a dragon scale?~"
+    "{color=#FF2200}Do you know how hard it is to get a dragon scale?~"
+
+# game/game/sayori_events.rpy:4160
+translate ukrainian ignis_encounter_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4161
+translate ukrainian ignis_encounter_2f8a0ab7:
+
+    # "{color=#FF2200}You must have seen her. {w}\"There's someone stronger than me,\" she said."
+    "{color=#FF2200}You must have seen her. {w}\"There's someone stronger than me,\" she said."
+
+# game/game/sayori_events.rpy:4162
+translate ukrainian ignis_encounter_22fdcfae:
+
+    # "{color=#FF2200}How embarrassing it must be to die after telling such a lie-"
+    "{color=#FF2200}How embarrassing it must be to die after telling such a lie-"
+
+# game/game/sayori_events.rpy:4179
+translate ukrainian ignis_encounter_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4181
+translate ukrainian ignis_encounter_a0c0eab3:
+
+    # mc "I don't know how you did it, but I'm sure you used some kind of trick to defeat someone as strong as her."
+    mc "I don't know how you did it, but I'm sure you used some kind of trick to defeat someone as strong as her."
+
+# game/game/sayori_events.rpy:4182
+translate ukrainian ignis_encounter_6051465b_6:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4184
+translate ukrainian ignis_encounter_187b9b97:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}HAHAHA."
+    "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}HAHAHA."
+
+# game/game/sayori_events.rpy:4185
+translate ukrainian ignis_encounter_0ad09975:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/sayori_events.rpy:4186
+translate ukrainian ignis_encounter_76353ee8:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}What the hell was that!?"
+    "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}What the hell was that!?"
+
+# game/game/sayori_events.rpy:4188
+translate ukrainian ignis_encounter_f85ac9ed:
+
+    # "{color=#FF2200}Oh?"
+    "{color=#FF2200}Oh?"
+
+# game/game/sayori_events.rpy:4189
+translate ukrainian ignis_encounter_d35b8919:
+
+    # "{color=#FF2200}You're the first human who's ever made me bleed."
+    "{color=#FF2200}You're the first human who's ever made me bleed."
+
+# game/game/sayori_events.rpy:4191
+translate ukrainian ignis_encounter_9386514c:
+
+    # "{color=#FF2200}Even if it did feel like a copy of my own attack."
+    "{color=#FF2200}Even if it did feel like a copy of my own attack."
+
+# game/game/sayori_events.rpy:4192
+translate ukrainian ignis_encounter_ad6a05f0:
+
+    # "{color=#FF2200}You're a quick learner."
+    "{color=#FF2200}You're a quick learner."
+
+# game/game/sayori_events.rpy:4194
+translate ukrainian ignis_encounter_1798725f:
+
+    # "{color=#FF2200}In all my years, no man has ever managed to do that to me."
+    "{color=#FF2200}In all my years, no man has ever managed to do that to me."
+
+# game/game/sayori_events.rpy:4195
+translate ukrainian ignis_encounter_38839da8:
+
+    # "{color=#FF2200}You're strong, but this clearly isn't your usual fighting style."
+    "{color=#FF2200}You're strong, but this clearly isn't your usual fighting style."
+
+# game/game/sayori_events.rpy:4196
+translate ukrainian ignis_encounter_f94e62cb:
+
+    # "{color=#FF2200}So Sayori really was training with a hum-"
+    "{color=#FF2200}So Sayori really was training with a hum-"
+
+# game/game/sayori_events.rpy:4201
+translate ukrainian ignis_encounter_4dff1f58:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-7}{b}Don't say her name so casually."
+    mc "{sc=1}{outlinecolor=#000000}{size=-7}{b}Don't say her name so casually."
+
+# game/game/sayori_events.rpy:4206
+translate ukrainian ignis_encounter_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/sayori_events.rpy:4207
+translate ukrainian ignis_encounter_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/sayori_events.rpy:4208
+translate ukrainian ignis_encounter_d7edd024:
+
+    # "."
+    "."
+
+# game/game/sayori_events.rpy:4209
+translate ukrainian ignis_encounter_8b584d6c:
+
+    # sa "Sigh~"
+    sa "Sigh~"
+
+# game/game/sayori_events.rpy:4211
+translate ukrainian ignis_encounter_7492df02:
+
+    # sa "I only found a few apples, but this should be enough until lunch..."
+    sa "I only found a few apples, but this should be enough until lunch..."
+
+# game/game/sayori_events.rpy:4212
+translate ukrainian ignis_encounter_daa1c4b2:
+
+    # sa "I didn't think she'd arrive so soon. It makes me a little nervous that she wants to meet [mc]."
+    sa "I didn't think she'd arrive so soon. It makes me a little nervous that she wants to meet [mc]."
+
+# game/game/sayori_events.rpy:4213
+translate ukrainian ignis_encounter_b96a58d6:
+
+    # sa "I'm sure they'll get along well."
+    sa "I'm sure they'll get along well."
+
+# game/game/sayori_events.rpy:4220
+translate ukrainian ignis_encounter_d3b33fa4:
+
+    # "...{w}.{w}."
+    "...{w}.{w}."
+
+# game/game/sayori_events.rpy:4222
+translate ukrainian ignis_encounter_a914796f:
+
+    # sa "Eh?"
+    sa "Eh?"
+
+# game/game/sayori_events.rpy:4228
+translate ukrainian ignis_encounter_33b1afe7:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}Hahaha! She was right!"
+    "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}Hahaha! She was right!"
+
+# game/game/sayori_events.rpy:4229
+translate ukrainian ignis_encounter_72742403:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}Who is this human!?"
+    "{sc=1}{outlinecolor=#000000}{size=-7}{color=#FF2200}Who is this human!?"
+
+# game/game/sayori_events.rpy:4233
+translate ukrainian ignis_encounter_ac059c85:
+
+    # "{color=#FF2200}That was amazing!"
+    "{color=#FF2200}That was amazing!"
+
+# game/game/sayori_events.rpy:4234
+translate ukrainian ignis_encounter_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4235
+translate ukrainian ignis_encounter_f83dd063:
+
+    # t "I've never hit anyone that hard before. How is she still talking like nothing happened?"
+    t "I've never hit anyone that hard before. How is she still talking like nothing happened?"
+
+# game/game/sayori_events.rpy:4237
+translate ukrainian ignis_encounter_1e0dcfda:
+
+    # "{color=#FF2200}Holy Dragon God, look what you've done..."
+    "{color=#FF2200}Holy Dragon God, look what you've done..."
+
+# game/game/sayori_events.rpy:4238
+translate ukrainian ignis_encounter_6051465b_7:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4239
+translate ukrainian ignis_encounter_a2dccd19:
+
+    # t "My fist is completely numb. It feels like I punched a solid steel plate."
+    t "My fist is completely numb. It feels like I punched a solid steel plate."
+
+# game/game/sayori_events.rpy:4240
+translate ukrainian ignis_encounter_bfa9a4ed:
+
+    # t "So this is what dragons are like..."
+    t "So this is what dragons are like..."
+
+# game/game/sayori_events.rpy:4244
+translate ukrainian ignis_encounter_e6aed8df:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}Hnm~{image=corazon}"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}Hnm~{image=corazon}"
+
+# game/game/sayori_events.rpy:4245
+translate ukrainian ignis_encounter_4698326e:
+
+    # mc "Eh-"
+    mc "Eh-"
+
+# game/game/sayori_events.rpy:4246
+translate ukrainian ignis_encounter_01d552f2:
+
+    # t "Did she just moan...?"
+    t "Did she just moan...?"
+
+# game/game/sayori_events.rpy:4247
+translate ukrainian ignis_encounter_8795145a:
+
+    # t "N-No, {w}that was a groan of pain. My punches really do hurt her!"
+    t "N-No, {w}that was a groan of pain. My punches really do hurt her!"
+
+# game/game/sayori_events.rpy:4248
+translate ukrainian ignis_encounter_06590666:
+
+    # "{color=#FF2200}{i}What is this feeling? This strange strength..."
+    "{color=#FF2200}{i}What is this feeling? This strange strength..."
+
+# game/game/sayori_events.rpy:4250
+translate ukrainian ignis_encounter_0770d8ab:
+
+    # "{color=#FF2200}{i}I can feel it throughout my entire body."
+    "{color=#FF2200}{i}I can feel it throughout my entire body."
+
+# game/game/sayori_events.rpy:4251
+translate ukrainian ignis_encounter_6051465b_8:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4253
+translate ukrainian ignis_encounter_b1845f62:
+
+    # "{color=#FF2200}...~{image=corazon}"
+    "{color=#FF2200}...~{image=corazon}"
+
+# game/game/sayori_events.rpy:4255
+translate ukrainian ignis_encounter_e9ee7796_2:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/sayori_events.rpy:4256
+translate ukrainian ignis_encounter_e4a54357:
+
+    # t "I-I just felt a chill run through my whole body."
+    t "I-I just felt a chill run through my whole body."
+
+# game/game/sayori_events.rpy:4257
+translate ukrainian ignis_encounter_3b6dd632:
+
+    # t "I have to take her down before she runs into anyone else from town!"
+    t "I have to take her down before she runs into anyone else from town!"
+
+# game/game/sayori_events.rpy:4259
+translate ukrainian ignis_encounter_0c7ce049:
+
+    # t "I managed to hit her, \nI just have to do the same thing again."
+    t "I managed to hit her, \nI just have to do the same thing again."
+
+# game/game/sayori_events.rpy:4260
+translate ukrainian ignis_encounter_7441f5bb:
+
+    # "{color=#FF2200}..."
+    "{color=#FF2200}..."
+
+# game/game/sayori_events.rpy:4261
+translate ukrainian ignis_encounter_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4270
+translate ukrainian ignis_encounter_1d82a7e7_1:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/sayori_events.rpy:4275
+translate ukrainian ignis_encounter_79704db2:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-8}Gagh!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Gagh!"
+
+# game/game/sayori_events.rpy:4281
+translate ukrainian ignis_encounter_08170508:
+
+    # "{color=#FF2200}Oh."
+    "{color=#FF2200}Oh."
+
+# game/game/sayori_events.rpy:4282
+translate ukrainian ignis_encounter_031e3497:
+
+    # "{color=#FF2200}Did I go too far? I keep forgetting you're only human."
+    "{color=#FF2200}Did I go too far? I keep forgetting you're only human."
+
+# game/game/sayori_events.rpy:4284
+translate ukrainian ignis_encounter_35fa5b82:
+
+    # "{color=#FF2200}Are you alive?"
+    "{color=#FF2200}Are you alive?"
+
+# game/game/sayori_events.rpy:4285
+translate ukrainian ignis_encounter_575460bc:
+
+    # "{color=#FF2200}Heey?"
+    "{color=#FF2200}Heey?"
+
+# game/game/sayori_events.rpy:4287
+translate ukrainian ignis_encounter_d8438499:
+
+    # t "She barely moved her tail... {w}and the next thing I knew... {w}I was on the ground."
+    t "She barely moved her tail... {w}and the next thing I knew... {w}I was on the ground."
+
+# game/game/sayori_events.rpy:4288
+translate ukrainian ignis_encounter_622c44bf:
+
+    # t "She really is stronger than Sayori..."
+    t "She really is stronger than Sayori..."
+
+# game/game/sayori_events.rpy:4290
+translate ukrainian ignis_encounter_bcd1181a:
+
+    # t "I-Is there anything I can do?"
+    t "I-Is there anything I can do?"
+
+# game/game/sayori_events.rpy:4291
+translate ukrainian ignis_encounter_15fba911:
+
+    # "{color=#FF2200}...?"
+    "{color=#FF2200}...?"
+
+# game/game/sayori_events.rpy:4292
+translate ukrainian ignis_encounter_acd8aa55:
+
+    # "{color=#FF2200}You can still move? {w}You really are interesting..."
+    "{color=#FF2200}You can still move? {w}You really are interesting..."
+
+# game/game/sayori_events.rpy:4293
+translate ukrainian ignis_encounter_560715d3:
+
+    # "{color=#FF2200}What Sayori told me is nothing compared to what you're showing me."
+    "{color=#FF2200}What Sayori told me is nothing compared to what you're showing me."
+
+# game/game/sayori_events.rpy:4299
+translate ukrainian ignis_encounter_17631cb4:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-8}Don't say her name!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Don't say her name!"
+
+# game/game/sayori_events.rpy:4300
+translate ukrainian ignis_encounter_1195fad5:
+
+    # "{color=#FF2200}Too slow."
+    "{color=#FF2200}Too slow."
+
+# game/game/sayori_events.rpy:4302
+translate ukrainian ignis_encounter_671b580c:
+
+    # t "I-I jumped with all my strength. I can't stop now!"
+    t "I-I jumped with all my strength. I can't stop now!"
+
+# game/game/sayori_events.rpy:4307
+translate ukrainian ignis_encounter_9452ae0c:
+
+    # "{color=#FF2200}...!"
+    "{color=#FF2200}...!"
+
+# game/game/sayori_events.rpy:4308
+translate ukrainian ignis_encounter_b1345b5b:
+
+    # mc "...!"
+    mc "...!"
+
+# game/game/sayori_events.rpy:4314
+translate ukrainian ignis_encounter_7cf6b2b2:
+
+    # mc "I can't stop!"
+    mc "I can't stop!"
+
+# game/game/sayori_events.rpy:4323
+translate ukrainian ignis_encounter_d18fe050:
+
+    # mc "Ah-"
+    mc "Ah-"
+
+# game/game/sayori_events.rpy:4324
+translate ukrainian ignis_encounter_4985c82c:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}AaAahnm!~{image=corazon}"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}AaAahnm!~{image=corazon}"
+
+# game/game/sayori_events.rpy:4327
+translate ukrainian ignis_encounter_95de716c:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}M-My butt..."
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}M-My butt..."
+
+# game/game/sayori_events.rpy:4331
+translate ukrainian ignis_encounter_4698326e_1:
+
+    # mc "Eh-"
+    mc "Eh-"
+
+# game/game/sayori_events.rpy:4332
+translate ukrainian ignis_encounter_7b1c7b72:
+
+    # t "D-Did that actually work?"
+    t "D-Did that actually work?"
+
+# game/game/sayori_events.rpy:4337
+translate ukrainian ignis_encounter_ba4741a4:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}A mere human... {w}s-spanked me..."
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}A mere human... {w}s-spanked me..."
+
+# game/game/sayori_events.rpy:4338
+translate ukrainian ignis_encounter_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4339
+translate ukrainian ignis_encounter_d82d1a4b:
+
+    # "{color=#FF2200}What have you done..."
+    "{color=#FF2200}What have you done..."
+
+# game/game/sayori_events.rpy:4340
+translate ukrainian ignis_encounter_b5bc9afd:
+
+    # "{color=#FF2200}T-To..."
+    "{color=#FF2200}T-To..."
+
+# game/game/sayori_events.rpy:4342
+translate ukrainian ignis_encounter_895d53c5:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}T-To my body!~{image=corazon}"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}T-To my body!~{image=corazon}"
+
+# game/game/sayori_events.rpy:4343
+translate ukrainian ignis_encounter_1cc34a46:
+
+    # t "Why is she looking at me like that!?"
+    t "Why is she looking at me like that!?"
+
+# game/game/sayori_events.rpy:4344
+translate ukrainian ignis_encounter_070c62ac:
+
+    # "{color=#FF2200}{i}His blows feel different... Why have I never felt like this in any of my previous battles?!"
+    "{color=#FF2200}{i}His blows feel different... Why have I never felt like this in any of my previous battles?!"
+
+# game/game/sayori_events.rpy:4345
+translate ukrainian ignis_encounter_be55c12a:
+
+    # mc "Aah..."
+    mc "Aah..."
+
+# game/game/sayori_events.rpy:4347
+translate ukrainian ignis_encounter_8e40b9b3:
+
+    # mc "A pervert..."
+    mc "A pervert..."
+
+# game/game/sayori_events.rpy:4348
+translate ukrainian ignis_encounter_2b797dd1:
+
+    # "{color=#FF2200}Now he's attacking me with words too!{image=corazon}"
+    "{color=#FF2200}Now he's attacking me with words too!{image=corazon}"
+
+# game/game/sayori_events.rpy:4349
+translate ukrainian ignis_encounter_dbc4039b:
+
+    # "{color=#FF2200}Stop that and fight like a man!"
+    "{color=#FF2200}Stop that and fight like a man!"
+
+# game/game/sayori_events.rpy:4351
+translate ukrainian ignis_encounter_2b35b6fe_7:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4352
+translate ukrainian ignis_encounter_e7b6af40:
+
+    # "{color=#FF2200}Don't look at me like that!~{image=corazon}"
+    "{color=#FF2200}Don't look at me like that!~{image=corazon}"
+
+# game/game/sayori_events.rpy:4355
+translate ukrainian ignis_encounter_92fd05e1:
+
+    # mc "Do you think this is a joke? \nYou'll pay for what you've done."
+    mc "Do you think this is a joke? \nYou'll pay for what you've done."
+
+# game/game/sayori_events.rpy:4356
+translate ukrainian ignis_encounter_7551c228:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}Ah!?~{image=corazon}"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}Ah!?~{image=corazon}"
+
+# game/game/sayori_events.rpy:4357
+translate ukrainian ignis_encounter_57642b7e:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}W-What do you think you're doing?! I-I'm the leader of-"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}W-What do you think you're doing?! I-I'm the leader of-"
+
+# game/game/sayori_events.rpy:4361
+translate ukrainian ignis_encounter_5ca1982a:
+
+    # mc "Shut up!"
+    mc "Shut up!"
+
+# game/game/sayori_events.rpy:4362
+translate ukrainian ignis_encounter_91cf013a:
+
+    # "{color=#FF2200}I won't accept this! I can't believe my daughter was training with someone like you!"
+    "{color=#FF2200}I won't accept this! I can't believe my daughter was training with someone like you!"
+
+# game/game/sayori_events.rpy:4363
+translate ukrainian ignis_encounter_e42859ec:
+
+    # mc "I said shut up! I've found your weakness!"
+    mc "I said shut up! I've found your weakness!"
+
+# game/game/sayori_events.rpy:4364
+translate ukrainian ignis_encounter_9d5dfef9:
+
+    # mc "I won't let you get up until you beg me to-"
+    mc "I won't let you get up until you beg me to-"
+
+# game/game/sayori_events.rpy:4371
+translate ukrainian ignis_encounter_b36e8e15:
+
+    # mc "Wait, what?"
+    mc "Wait, what?"
+
+# game/game/sayori_events.rpy:4372
+translate ukrainian ignis_encounter_5343acd3:
+
+    # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}Until I beg?! UoooGHhnMNH!~{image=corazon}{image=corazon}{image=corazon}"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#FF2200}Until I beg?! UoooGHhnMNH!~{image=corazon}{image=corazon}{image=corazon}"
+
+# game/game/sayori_events.rpy:4377
+translate ukrainian ignis_encounter_2b35b6fe_8:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4378
+translate ukrainian ignis_encounter_3b146889:
+
+    # t "Don't tell me..."
+    t "Don't tell me..."
+
+# game/game/sayori_events.rpy:4379
+translate ukrainian ignis_encounter_d9000d15:
+
+    # "{color=#e3581c}[mc]...?"
+    "{color=#e3581c}[mc]...?"
+
+# game/game/sayori_events.rpy:4380
+translate ukrainian ignis_encounter_2b35b6fe_9:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4382
+translate ukrainian ignis_encounter_07cd6b38:
+
+    # sa "..."
+    sa "..."
+
+# game/game/sayori_events.rpy:4383
+translate ukrainian ignis_encounter_2b35b6fe_10:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4384
+translate ukrainian ignis_encounter_4fafdb3f:
+
+    # "{sc=1}{outlinecolor=#000000}{color=#FF2200}Haa~{image=corazon}{image=corazon} {w}Ahnm~{image=corazon}"
+    "{sc=1}{outlinecolor=#000000}{color=#FF2200}Haa~{image=corazon}{image=corazon} {w}Ahnm~{image=corazon}"
+
+# game/game/sayori_events.rpy:4386
+translate ukrainian ignis_encounter_9e99ac79:
+
+    # sa "Mom?"
+    sa "Mom?"
+
+# game/game/sayori_events.rpy:4398
+translate ukrainian ignis_encounter_3dcb9654:
+
+    # "{color=#FF2200}I'm soooo sorry~"
+    "{color=#FF2200}I'm soooo sorry~"
+
+# game/game/sayori_events.rpy:4399
+translate ukrainian ignis_encounter_799174d9:
+
+    # mc "No... don't worry... {w}Why did you do that?"
+    mc "No... don't worry... {w}Why did you do that?"
+
+# game/game/sayori_events.rpy:4400
+translate ukrainian ignis_encounter_5d7db936:
+
+    # "{color=#FF2200}Sayori told me a few things about you, and I found it interesting that you never fight her seriously."
+    "{color=#FF2200}Sayori told me a few things about you, and I found it interesting that you never fight her seriously."
+
+# game/game/sayori_events.rpy:4402
+translate ukrainian ignis_encounter_0d1fb78f:
+
+    # "{color=#FF2200}So I took the opportunity {w}{sc=1}{outlinecolor=#000000}Monch~{/sc} {w}to make you angry."
+    "{color=#FF2200}So I took the opportunity {w}{sc=1}{outlinecolor=#000000}Monch~{/sc} {w}to make you angry."
+
+# game/game/sayori_events.rpy:4403
+translate ukrainian ignis_encounter_8afb6ebd:
+
+    # mc "Are you serious? What about the scale?"
+    mc "Are you serious? What about the scale?"
+
+# game/game/sayori_events.rpy:4404
+translate ukrainian ignis_encounter_7a40a4cf:
+
+    # sa "Scale?"
+    sa "Scale?"
+
+# game/game/sayori_events.rpy:4406
+translate ukrainian ignis_encounter_4e8c2a58:
+
+    # sa "You showed him one of my scales!?"
+    sa "You showed him one of my scales!?"
+
+# game/game/sayori_events.rpy:4407
+translate ukrainian ignis_encounter_c5616ab7:
+
+    # "{color=#FF2200}As we grow, our larger scales fall off and are replaced by smaller, stronger, more compact ones."
+    "{color=#FF2200}As we grow, our larger scales fall off and are replaced by smaller, stronger, more compact ones."
+
+# game/game/sayori_events.rpy:4408
+translate ukrainian ignis_encounter_6751951c:
+
+    # "{color=#FF2200}It's one of the scales she shed this morning. I'm proud that her body is maturing so quickly."
+    "{color=#FF2200}It's one of the scales she shed this morning. I'm proud that her body is maturing so quickly."
+
+# game/game/sayori_events.rpy:4409
+translate ukrainian ignis_encounter_d92da434:
+
+    # t "Sayori usually isn't embarrassed by anything, so this is something new..."
+    t "Sayori usually isn't embarrassed by anything, so this is something new..."
+
+# game/game/sayori_events.rpy:4410
+translate ukrainian ignis_encounter_86075e60:
+
+    # mc "But... you tried to kill me."
+    mc "But... you tried to kill me."
+
+# game/game/sayori_events.rpy:4412
+translate ukrainian ignis_encounter_7e81ea5d:
+
+    # sa "If I'd known you were coming today, I wouldn't have left her alone..."
+    sa "If I'd known you were coming today, I wouldn't have left her alone..."
+
+# game/game/sayori_events.rpy:4413
+translate ukrainian ignis_encounter_fd77a6c1:
+
+    # sa "Although I didn't think she'd go all out against a human either."
+    sa "Although I didn't think she'd go all out against a human either."
+
+# game/game/sayori_events.rpy:4415
+translate ukrainian ignis_encounter_75aa4c8b:
+
+    # "{color=#FF2200}Oh, I didn't think you'd manage to dodge my first punch. {w}I was planning to knock you out."
+    "{color=#FF2200}Oh, I didn't think you'd manage to dodge my first punch. {w}I was planning to knock you out."
+
+# game/game/sayori_events.rpy:4416
+translate ukrainian ignis_encounter_6ec2c21e:
+
+    # "{color=#FF2200}You only got hurt because you dodged it."
+    "{color=#FF2200}You only got hurt because you dodged it."
+
+# game/game/sayori_events.rpy:4417
+translate ukrainian ignis_encounter_76d2e75b:
+
+    # "{color=#FF2200}Sorry about that."
+    "{color=#FF2200}Sorry about that."
+
+# game/game/sayori_events.rpy:4418
+translate ukrainian ignis_encounter_28973fa4:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-6}Sigh*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Sigh*"
+
+# game/game/sayori_events.rpy:4420
+translate ukrainian ignis_encounter_63c5c517:
+
+    # "{color=#FF2200}Now that we've cleared everything up..."
+    "{color=#FF2200}Now that we've cleared everything up..."
+
+# game/game/sayori_events.rpy:4421
+translate ukrainian ignis_encounter_b42bfe02:
+
+    # ign "My name is Ignis."
+    ign "My name is Ignis."
+
+# game/game/sayori_events.rpy:4423
+translate ukrainian ignis_encounter_a8b1732c:
+
+    # t "She eats those apples in one bite."
+    t "She eats those apples in one bite."
+
+# game/game/sayori_events.rpy:4424
+translate ukrainian ignis_encounter_7c72d6ee:
+
+    # mc "[mc]..."
+    mc "[mc]..."
+
+# game/game/sayori_events.rpy:4425
+translate ukrainian ignis_encounter_b0cbbc87:
+
+    # ign "[mc]... {w}Are you okay?"
+    ign "[mc]... {w}Are you okay?"
+
+# game/game/sayori_events.rpy:4426
+translate ukrainian ignis_encounter_f0a52827:
+
+    # mc "Well... my head still feels a little dizzy..."
+    mc "Well... my head still feels a little dizzy..."
+
+# game/game/sayori_events.rpy:4428
+translate ukrainian ignis_encounter_40afb135:
+
+    # sa "You didn't have to be so rough with him..."
+    sa "You didn't have to be so rough with him..."
+
+# game/game/sayori_events.rpy:4429
+translate ukrainian ignis_encounter_20c864c1:
+
+    # ign "Well... after his first blow, something clicked inside me."
+    ign "Well... after his first blow, something clicked inside me."
+
+# game/game/sayori_events.rpy:4431
+translate ukrainian ignis_encounter_a6beb4dc:
+
+    # ign "For a moment, {w}I forgot he was human, hahaha~"
+    ign "For a moment, {w}I forgot he was human, hahaha~"
+
+# game/game/sayori_events.rpy:4432
+translate ukrainian ignis_encounter_433e55e2:
+
+    # sa "You'd better go see Diana."
+    sa "You'd better go see Diana."
+
+# game/game/sayori_events.rpy:4433
+translate ukrainian ignis_encounter_69c25b65:
+
+    # mc "Yeah..."
+    mc "Yeah..."
+
+# game/game/sayori_events.rpy:4439
+translate ukrainian ignis_encounter_e83e5c23:
+
+    # sa "...?!"
+    sa "...?!"
+
+# game/game/sayori_events.rpy:4440
+translate ukrainian ignis_encounter_caf73f2a:
+
+    # ign "What are you talking about? Come here."
+    ign "What are you talking about? Come here."
+
+# game/game/sayori_events.rpy:4441
+translate ukrainian ignis_encounter_4698326e_2:
+
+    # mc "Eh-"
+    mc "Eh-"
+
+# game/game/sayori_events.rpy:4443
+translate ukrainian ignis_encounter_b4e7766f:
+
+    # ign "Say aaah~"
+    ign "Say aaah~"
+
+# game/game/sayori_events.rpy:4444
+translate ukrainian ignis_encounter_0ddc65e3:
+
+    # mc "{size=-6}Ah?"
+    mc "{size=-6}Ah?"
+
+# game/game/sayori_events.rpy:4446
+translate ukrainian ignis_encounter_622eeb4c:
+
+    # mc "GNh!"
+    mc "GNh!"
+
+# game/game/sayori_events.rpy:4447
+translate ukrainian ignis_encounter_e40e7031:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-6}Gulp {w}Gulp-"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Gulp {w}Gulp-"
+
+# game/game/sayori_events.rpy:4449
+translate ukrainian ignis_encounter_3be3ef3a:
+
+    # mc "What are you doing!?"
+    mc "What are you doing!?"
+
+# game/game/sayori_events.rpy:4451
+translate ukrainian ignis_encounter_4c142cd6:
+
+    # sa "{sc=1}{outlinecolor=#000000}{size=-6}Sigh~"
+    sa "{sc=1}{outlinecolor=#000000}{size=-6}Sigh~"
+
+# game/game/sayori_events.rpy:4452
+translate ukrainian ignis_encounter_11a5fa43:
+
+    # mc "W-What?"
+    mc "W-What?"
+
+# game/game/sayori_events.rpy:4453
+translate ukrainian ignis_encounter_1bb52f93:
+
+    # ign "Feeling better?"
+    ign "Feeling better?"
+
+# game/game/sayori_events.rpy:4457
+translate ukrainian ignis_encounter_2b60ccac:
+
+    # mc "Yeah... actually, {w}I feel even better than I did before the fight..."
+    mc "Yeah... actually, {w}I feel even better than I did before the fight..."
+
+# game/game/sayori_events.rpy:4459
+translate ukrainian ignis_encounter_8b584d6c_1:
+
+    # sa "Sigh~"
+    sa "Sigh~"
+
+# game/game/sayori_events.rpy:4460
+translate ukrainian ignis_encounter_2ba2c55c:
+
+    # sa "Dragon blood has healing properties."
+    sa "Dragon blood has healing properties."
+
+# game/game/sayori_events.rpy:4462
+translate ukrainian ignis_encounter_e3fe46ee:
+
+    # sa "But..."
+    sa "But..."
+
+# game/game/sayori_events.rpy:4465
+translate ukrainian ignis_encounter_629d0a27:
+
+    # sa "My mother's blood is so potent that it could kill a human."
+    sa "My mother's blood is so potent that it could kill a human."
+
+# game/game/sayori_events.rpy:4466
+translate ukrainian ignis_encounter_0a30f091:
+
+    # ign "Oh my, you've found yourself quite the affectionate man."
+    ign "Oh my, you've found yourself quite the affectionate man."
+
+# game/game/sayori_events.rpy:4468
+translate ukrainian ignis_encounter_971a7344:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-6}Eeh..."
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Eeh..."
+
+# game/game/sayori_events.rpy:4469
+translate ukrainian ignis_encounter_9ca39fdb:
+
+    # sa "Let's take him to the lounge."
+    sa "Let's take him to the lounge."
+
+# game/game/sayori_events.rpy:4470
+translate ukrainian ignis_encounter_9da2eb0f:
+
+    # ign "I can't wait to start training with you again~"
+    ign "I can't wait to start training with you again~"
+
+# game/game/sayori_events.rpy:4475
+translate ukrainian ignis_encounter_d480050d:
+
+    # "{image=corazon}Sayori's affection has increased to [sayori_affection]{image=corazon}\n{image=corazon}Ignis' affection has increased to [ignis_affection]{image=corazon}"
+    "{image=corazon}Sayori's affection has increased to [sayori_affection]{image=corazon}\n{image=corazon}Ignis' affection has increased to [ignis_affection]{image=corazon}"
+
+# game/game/sayori_events.rpy:4478
+translate ukrainian ignis_encounter_d4469b86:
+
+    # sa "So? How was it?"
+    sa "So? How was it?"
+
+# game/game/sayori_events.rpy:4479
+translate ukrainian ignis_encounter_cf7eeb9d:
+
+    # ign "That was so much fun! If he weren't human, that blow would've pierced straight through my abdomen."
+    ign "That was so much fun! If he weren't human, that blow would've pierced straight through my abdomen."
+
+# game/game/sayori_events.rpy:4480
+translate ukrainian ignis_encounter_bea937d6:
+
+    # sa "Hmm... No man has ever managed to hit you before. Did you let him do it on purpose?"
+    sa "Hmm... No man has ever managed to hit you before. Did you let him do it on purpose?"
+
+# game/game/sayori_events.rpy:4481
+translate ukrainian ignis_encounter_be9efde9:
+
+    # ign "He never once reached for his weapon... {w}I'll leave that to your imagination."
+    ign "He never once reached for his weapon... {w}I'll leave that to your imagination."
+
+# game/game/sayori_events.rpy:4482
+translate ukrainian ignis_encounter_ca4e3137:
+
+    # sa "I'm feeling a little envious right now..."
+    sa "I'm feeling a little envious right now..."
+
+# game/game/sayori_events.rpy:4483
+translate ukrainian ignis_encounter_186a00ff:
+
+    # sa "And why did you give him your blood so easily?"
+    sa "And why did you give him your blood so easily?"
+
+# game/game/sayori_events.rpy:4484
+translate ukrainian ignis_encounter_3e3e6d1d:
+
+    # ign "My daughter, I believe you've found a man worthy of my approval."
+    ign "My daughter, I believe you've found a man worthy of my approval."
+
+# game/game/sayori_events.rpy:4485
+translate ukrainian ignis_encounter_dae86101:
+
+    # sa "{sc=1}{outlinecolor=#000000}{size=-6}M-Mom!"
+    sa "{sc=1}{outlinecolor=#000000}{size=-6}M-Mom!"
+
+# game/game/sayori_events.rpy:4498
+translate ukrainian yui_sayo_a4b7d68e:
+
+    # sa "Are you feeling better?"
+    sa "Are you feeling better?"
+
+# game/game/sayori_events.rpy:4499
+translate ukrainian yui_sayo_4834c3bb:
+
+    # mc "Yeah, better than ever."
+    mc "Yeah, better than ever."
+
+# game/game/sayori_events.rpy:4500
+translate ukrainian yui_sayo_6a23015a:
+
+    # mc "Your mother is quite... charismatic."
+    mc "Your mother is quite... charismatic."
+
+# game/game/sayori_events.rpy:4501
+translate ukrainian yui_sayo_cb43ed3f:
+
+    # sa "I'm sorry. I shouldn't have left her alone."
+    sa "I'm sorry. I shouldn't have left her alone."
+
+# game/game/sayori_events.rpy:4503
+translate ukrainian yui_sayo_f5da1e24:
+
+    # sa "She walked into town like it was no big deal. Everyone was terrified."
+    sa "She walked into town like it was no big deal. Everyone was terrified."
+
+# game/game/sayori_events.rpy:4504
+translate ukrainian yui_sayo_c69e3cc8:
+
+    # sa "I introduced her to the girls and went to get her something to eat."
+    sa "I introduced her to the girls and went to get her something to eat."
+
+# game/game/sayori_events.rpy:4505
+translate ukrainian yui_sayo_a4385478:
+
+    # mc "I hope she didn't do the same thing to everyone else that she did to me."
+    mc "I hope she didn't do the same thing to everyone else that she did to me."
+
+# game/game/sayori_events.rpy:4507
+translate ukrainian yui_sayo_403bf881:
+
+    # sa "No... since that was the first thing she asked me about, I told her about you."
+    sa "No... since that was the first thing she asked me about, I told her about you."
+
+# game/game/sayori_events.rpy:4508
+translate ukrainian yui_sayo_da5c2949:
+
+    # mc "What did you tell her that made her want to fight me?"
+    mc "What did you tell her that made her want to fight me?"
+
+# game/game/sayori_events.rpy:4509
+translate ukrainian yui_sayo_07cd6b38:
+
+    # sa "..."
+    sa "..."
+
+# game/game/sayori_events.rpy:4511
+translate ukrainian yui_sayo_584688b1:
+
+    # sa "N-Nothing, just some trivial stuff..."
+    sa "N-Nothing, just some trivial stuff..."
+
+# game/game/sayori_events.rpy:4512
+translate ukrainian yui_sayo_8fea2db2:
+
+    # mc "Hmm..."
+    mc "Hmm..."
+
+# game/game/sayori_events.rpy:4514
+translate ukrainian yui_sayo_e0cb473d:
+
+    # sa "So, what did you think of her?"
+    sa "So, what did you think of her?"
+
+# game/game/sayori_events.rpy:4515
+translate ukrainian yui_sayo_9755491a:
+
+    # mc "She looks a lot like you."
+    mc "She looks a lot like you."
+
+# game/game/sayori_events.rpy:4517
+translate ukrainian yui_sayo_9c899eb4:
+
+    # sa "Hahaha~"
+    sa "Hahaha~"
+
+# game/game/sayori_events.rpy:4518
+translate ukrainian yui_sayo_af57334a:
+
+    # sa "Dragon traits are hereditary, {w}so I might end up looking like her in a few years."
+    sa "Dragon traits are hereditary, {w}so I might end up looking like her in a few years."
+
+# game/game/sayori_events.rpy:4519
+translate ukrainian yui_sayo_a7bcf340:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/sayori_events.rpy:4520
+translate ukrainian yui_sayo_8130db0b:
+
+    # mc "That would be really nice..."
+    mc "That would be really nice..."
+
+# game/game/sayori_events.rpy:4522
+translate ukrainian yui_sayo_c614be01:
+
+    # sa "What?"
+    sa "What?"
+
+# game/game/sayori_events.rpy:4523
+translate ukrainian yui_sayo_bfabaafa:
+
+    # mc "Hey, before I forget..."
+    mc "Hey, before I forget..."
+
+# game/game/sayori_events.rpy:4525
+translate ukrainian yui_sayo_737e77e4:
+
+    # sa "Hmm?"
+    sa "Hmm?"
+
+# game/game/sayori_events.rpy:4526
+translate ukrainian yui_sayo_973841ce:
+
+    # mc "Have you ever been to the Kingdom?"
+    mc "Have you ever been to the Kingdom?"
+
+# game/game/sayori_events.rpy:4527
+translate ukrainian yui_sayo_9e2b5070:
+
+    # sa "Never. It never really caught my interest."
+    sa "Never. It never really caught my interest."
+
+# game/game/sayori_events.rpy:4528
+translate ukrainian yui_sayo_9d59a890:
+
+    # mc "Well... it turns out that, for certain reasons, I have to compete in a tournament."
+    mc "Well... it turns out that, for certain reasons, I have to compete in a tournament."
+
+# game/game/sayori_events.rpy:4529
+translate ukrainian yui_sayo_0c361103:
+
+    # sa "Ooh..."
+    sa "Ooh..."
+
+# game/game/sayori_events.rpy:4531
+translate ukrainian yui_sayo_c285fc4b:
+
+    # sa "So you want to train? Count me in."
+    sa "So you want to train? Count me in."
+
+# game/game/sayori_events.rpy:4532
+translate ukrainian yui_sayo_692ae5cd:
+
+    # mc "W-Well, that was quick."
+    mc "W-Well, that was quick."
+
+# game/game/sayori_events.rpy:4533
+translate ukrainian yui_sayo_f8bc07bd:
+
+    # sa "If it's to help you, I'll always be there."
+    sa "If it's to help you, I'll always be there."
+
+# game/game/sayori_events.rpy:4534
+translate ukrainian yui_sayo_1f7b3172:
+
+    # sa "Besides, I didn't think you were the type to be interested in that sort of thing."
+    sa "Besides, I didn't think you were the type to be interested in that sort of thing."
+
+# game/game/sayori_events.rpy:4535
+translate ukrainian yui_sayo_5331b692:
+
+    # mc "I've competed in a few tournaments before."
+    mc "I've competed in a few tournaments before."
+
+# game/game/sayori_events.rpy:4536
+translate ukrainian yui_sayo_1f1a63e9:
+
+    # mc "But are you really doing this to help me? Or do you just want a human punching bag?"
+    mc "But are you really doing this to help me? Or do you just want a human punching bag?"
+
+# game/game/sayori_events.rpy:4542
+translate ukrainian yui_sayo_0dd2c5c8:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-7}Ugh."
+    mc "{sc=1}{outlinecolor=#000000}{size=-7}Ugh."
+
+# game/game/sayori_events.rpy:4543
+translate ukrainian yui_sayo_d91d8f20:
+
+    # sa "{sc=1}{outlinecolor=#000000}{size=-7}Hahaha!"
+    sa "{sc=1}{outlinecolor=#000000}{size=-7}Hahaha!"
+
+# game/game/sayori_events.rpy:4544
+translate ukrainian yui_sayo_b57919b3:
+
+    # mc "I-I feel like s-someone's mad about something..."
+    mc "I-I feel like s-someone's mad about something..."
+
+# game/game/sayori_events.rpy:4545
+translate ukrainian yui_sayo_6828c8ab:
+
+    # sa "What? For seriously fighting my mother even though I repeatedly asked you to do that with me? Pfft, that's funny."
+    sa "What? For seriously fighting my mother even though I repeatedly asked you to do that with me? Pfft, that's funny."
+
+# game/game/sayori_events.rpy:4546
+translate ukrainian yui_sayo_5693a819:
+
+    # mc "Huh..."
+    mc "Huh..."
+
+# game/game/sayori_events.rpy:4548
+translate ukrainian yui_sayo_ce145805:
+
+    # mc "I'm also going to start practicing my magic, so I need to go talk to Alice."
+    mc "I'm also going to start practicing my magic, so I need to go talk to Alice."
+
+# game/game/sayori_events.rpy:4549
+translate ukrainian yui_sayo_f57755b9:
+
+    # sa "Oh... You're taking this really seriously. Is there a reward or something?"
+    sa "Oh... You're taking this really seriously. Is there a reward or something?"
+
+# game/game/sayori_events.rpy:4550
+translate ukrainian yui_sayo_e334e13f:
+
+    # mc "Something like that."
+    mc "Something like that."
+
+# game/game/sayori_events.rpy:4551
+translate ukrainian yui_sayo_9d2f0af6:
+
+    # sa "Then we'll have to get serious too."
+    sa "Then we'll have to get serious too."
+
+# game/game/sayori_events.rpy:4552
+translate ukrainian yui_sayo_1850e49c:
+
+    # mc "Ha ha ha..."
+    mc "Ha ha ha..."
+
+# game/game/sayori_events.rpy:4553
+translate ukrainian yui_sayo_a80c5808:
+
+    # mc "And there's something else I'd like your help with."
+    mc "And there's something else I'd like your help with."
+
+# game/game/sayori_events.rpy:4554
+translate ukrainian yui_sayo_5be987f3:
+
+    # sa "...?"
+    sa "...?"
+
+# game/game/sayori_events.rpy:4555
+translate ukrainian yui_sayo_a69be649:
+
+    # mc "I have a friend who wants to get stronger too."
+    mc "I have a friend who wants to get stronger too."
+
+# game/game/sayori_events.rpy:4557
+translate ukrainian yui_sayo_315e336c:
+
+    # sa "Oh..."
+    sa "Oh..."
+
+# game/game/sayori_events.rpy:4558
+translate ukrainian yui_sayo_dff478fc:
+
+    # mc "And she asked me if she could train with you."
+    mc "And she asked me if she could train with you."
+
+# game/game/sayori_events.rpy:4559
+translate ukrainian yui_sayo_07cd6b38_1:
+
+    # sa "..."
+    sa "..."
+
+# game/game/sayori_events.rpy:4560
+translate ukrainian yui_sayo_0ab90dd3:
+
+    # sa "Is she human?"
+    sa "Is she human?"
+
+# game/game/sayori_events.rpy:4561
+translate ukrainian yui_sayo_cf1adef2:
+
+    # mc "Yeah."
+    mc "Yeah."
+
+# game/game/sayori_events.rpy:4563
+translate ukrainian yui_sayo_38fde0aa:
+
+    # sa "I don't know, man... {w}You're an exception for obvious reasons."
+    sa "I don't know, man... {w}You're an exception for obvious reasons."
+
+# game/game/sayori_events.rpy:4564
+translate ukrainian yui_sayo_74e95bba:
+
+    # sa "But I have to be really careful around ordinary humans..."
+    sa "But I have to be really careful around ordinary humans..."
+
+# game/game/sayori_events.rpy:4565
+translate ukrainian yui_sayo_10ea745e:
+
+    # mc "She knows that, {w}and she still asked me for this favor."
+    mc "She knows that, {w}and she still asked me for this favor."
+
+# game/game/sayori_events.rpy:4566
+translate ukrainian yui_sayo_07cd6b38_2:
+
+    # sa "..."
+    sa "..."
+
+# game/game/sayori_events.rpy:4568
+translate ukrainian yui_sayo_c4c67b20:
+
+    # sa "Hmm... honestly, she sounds like a pretty interesting person..."
+    sa "Hmm... honestly, she sounds like a pretty interesting person..."
+
+# game/game/sayori_events.rpy:4569
+translate ukrainian yui_sayo_7e1ee426:
+
+    # sa "Well, how about I give it a try?"
+    sa "Well, how about I give it a try?"
+
+# game/game/sayori_events.rpy:4570
+translate ukrainian yui_sayo_a31340dd:
+
+    # mc "Really?"
+    mc "Really?"
+
+# game/game/sayori_events.rpy:4572
+translate ukrainian yui_sayo_d54ffc57:
+
+    # sa "Yeah, but if I accidentally hurt her, we'll stop right away."
+    sa "Yeah, but if I accidentally hurt her, we'll stop right away."
+
+# game/game/sayori_events.rpy:4573
+translate ukrainian yui_sayo_0e3f07bd:
+
+    # mc "Is it really that difficult? {w}When you were training with Ryoko, you didn't seem that worried about hurting her."
+    mc "Is it really that difficult? {w}When you were training with Ryoko, you didn't seem that worried about hurting her."
+
+# game/game/sayori_events.rpy:4575
+translate ukrainian yui_sayo_a914796f:
+
+    # sa "Eh?"
+    sa "Eh?"
+
+# game/game/sayori_events.rpy:4576
+translate ukrainian yui_sayo_53873af9:
+
+    # sa "Are you blind? {w}Ryoko is pretty strong."
+    sa "Are you blind? {w}Ryoko is pretty strong."
+
+# game/game/sayori_events.rpy:4577
+translate ukrainian yui_sayo_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/sayori_events.rpy:4578
+translate ukrainian yui_sayo_24344898:
+
+    # t "I knew Ryoko was strong now, but this makes me wonder if I see her differently from how everyone else does..."
+    t "I knew Ryoko was strong now, but this makes me wonder if I see her differently from how everyone else does..."
+
+# game/game/sayori_events.rpy:4579
+translate ukrainian yui_sayo_353c1d6f:
+
+    # mc "Well, I'll bring her with me next time."
+    mc "Well, I'll bring her with me next time."
+
+# game/game/sayori_events.rpy:4581
+translate ukrainian yui_sayo_9951641e:
+
+    # sa "Sure~"
+    sa "Sure~"
+
+# game/game/sayori_events.rpy:4582
+translate ukrainian yui_sayo_e47fb0a5:
+
+    # sa "But we haven't talked about what you'll have to give me in return."
+    sa "But we haven't talked about what you'll have to give me in return."
+
+# game/game/sayori_events.rpy:4583
+translate ukrainian yui_sayo_01a59a85:
+
+    # mc "Uh...?"
+    mc "Uh...?"
+
+# game/game/sayori_events.rpy:4585
+translate ukrainian yui_sayo_b9b2b986:
+
+    # sa "{size=-6}Do you think this is charity? Just you wait."
+    sa "{size=-6}Do you think this is charity? Just you wait."
+
+# game/game/sayori_events.rpy:4586
+translate ukrainian yui_sayo_32021d90:
+
+    # mc "{size=-6}I hope it's something I can actually do..."
+    mc "{size=-6}I hope it's something I can actually do..."
+
+# game/game/sayori_events.rpy:4587
+translate ukrainian yui_sayo_1ceb4fab:
+
+    # sa "{size=-6}Oh, yeah... {w}It's definitely something you can do."
+    sa "{size=-6}Oh, yeah... {w}It's definitely something you can do."
+
+# game/game/sayori_events.rpy:4589
+translate ukrainian yui_sayo_64a90e1d:
+
+    # sa "Hehehe~"
+    sa "Hehehe~"
+
+# game/game/sayori_events.rpy:4590
+translate ukrainian yui_sayo_2428619a:
+
+    # mc "{sc=1}{outlinecolor=#000000}{size=-7}Gulp*"
+    mc "{sc=1}{outlinecolor=#000000}{size=-7}Gulp*"
+
+# game/game/sayori_events.rpy:4591
+translate ukrainian yui_sayo_969d7b83:
+
+    # sa "Actually, it made me kind of happy that you thought of me when you needed help getting stronger."
+    sa "Actually, it made me kind of happy that you thought of me when you needed help getting stronger."
+
+# game/game/sayori_events.rpy:4600
+translate ukrainian yui_sayo_e771a011:
+
+    # "{image=corazon}Sayori's affection has increased to [sayori_affection]{image=corazon}"
+    "{image=corazon}Sayori's affection has increased to [sayori_affection]{image=corazon}"
+
+# game/game/sayori_events.rpy:4603
+translate ukrainian yui_sayo_438fd4df:
+
+    # mc "See you then."
+    mc "See you then."
+
+# game/game/sayori_events.rpy:4604
+translate ukrainian yui_sayo_ac2bf07f:
+
+    # sa "See you later!"
+    sa "See you later!"
+
+# game/game/sayori_events.rpy:4605
+translate ukrainian yui_sayo_8ea322bf:
+
+    # t "So, Yui has a chance to prove to Sayori that she's good enough to train with her."
+    t "So, Yui has a chance to prove to Sayori that she's good enough to train with her."
 
 translate ukrainian strings:
+    # game/sayori_events.rpy:207
+    old "About Yui {image=/bg/icons/quest_text.png}"
+    new "About Yui {image=/bg/icons/quest_text.png}"
 
     # game/sayori_events.rpy:199
     old "The wall {image=/bg/icons/quest_text.png}"
@@ -13546,3 +15241,9 @@ translate ukrainian strings:
 
     old "{image=quest_text}Special mission obtained!"
     new "{image=quest_text}Special mission obtained!"
+
+    old "Your strength has increased by one point."
+    new "Your strength has increased by one point."
+
+    old "{image=corazon_wing}{color=#FF2200}Ignis{/color} has been added!"
+    new "{image=corazon_wing}{color=#FF2200}Ignis{/color} has been added!"

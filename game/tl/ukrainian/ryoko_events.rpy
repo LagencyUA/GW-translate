@@ -2523,7 +2523,7 @@ translate ukrainian ryoko_go_hana_82c3c5cb:
 translate ukrainian ryoko_go_hana_cde25606:
 
     # r "Come on Master! Or I'll leave you behind!"
-    r "Ну ж бо, господарю! А то залишу вас тут!"
+    r "Нужбо, господарю! А то залишу вас тут!"
 
 # game/game/ryoko_events.rpy:904
 translate ukrainian ryoko_go_hana_5e2c7b66:
@@ -9318,46 +9318,46 @@ translate ukrainian ryoko_streching_cfb26ab8:
     t "I knocked on the door this time."
 
 # game/game/ryoko_events.rpy:2957
-translate ukrainian ryoko_streching_2a6f1801:
+translate ukrainian ryoko_streching_2c5e2962:
 
-    # mc "I see you're still stretching your body."
-    mc "I see you're still stretching your body."
+    # mc "I see you're still keeping up with your stretches."
+    mc "I see you're still keeping up with your stretches."
 
 # game/game/ryoko_events.rpy:2959
-translate ukrainian ryoko_streching_d0ef1722:
+translate ukrainian ryoko_streching_61517fe1:
 
-    # r "Yes! {w}One day I don't do it and I start to lose elasticity!"
-    r "Yes! {w}One day I don't do it and I start to lose elasticity!"
+    # r "Yes! {w}If I skip even one day, I start losing my flexibility!"
+    r "Yes! {w}If I skip even one day, I start losing my flexibility!"
 
 # game/game/ryoko_events.rpy:2961
-translate ukrainian ryoko_streching_5d9c5dcf:
+translate ukrainian ryoko_streching_35225431:
 
-    # r "Will you come to help me?"
-    r "Will you come to help me?"
+    # r "Will you come help me?"
+    r "Will you come help me?"
 
 # game/game/ryoko_events.rpy:2962
-translate ukrainian ryoko_streching_27ca757b:
+translate ukrainian ryoko_streching_dbb60620:
 
-    # mc "If it helps me to spend time with you, of course."
-    mc "If it helps me to spend time with you, of course."
+    # mc "If it means I get to spend some time with you, of course."
+    mc "If it means I get to spend some time with you, of course."
 
 # game/game/ryoko_events.rpy:2964
-translate ukrainian ryoko_streching_885d52a5:
+translate ukrainian ryoko_streching_e58cc5ed:
 
-    # r "Mooh~{image=/bg/icons/heart_text.png} Master!"
-    r "Mooh~{image=/bg/icons/heart_text.png} Master!"
+    # r "Mooh~{image=corazon} Master!"
+    r "Mooh~{image=corazon} Master!"
 
 # game/game/ryoko_events.rpy:2966
-translate ukrainian ryoko_streching_53e009ad:
+translate ukrainian ryoko_streching_423616c3:
 
-    # r "No need to come when I need something! {w}I'd be by your side every day!"
-    r "No need to come when I need something! {w}I'd be by your side every day!"
+    # r "You don't have to wait until I need something to come see me! {w}I'd happily spend every day by your side!"
+    r "You don't have to wait until I need something to come see me! {w}I'd happily spend every day by your side!"
 
 # game/game/ryoko_events.rpy:2968
-translate ukrainian ryoko_streching_b99e7733:
+translate ukrainian ryoko_streching_bb92c17f:
 
-    # mc "Hahaha, come get in position."
-    mc "Hahaha, come get in position."
+    # mc "Hahaha, come on, get into position."
+    mc "Hahaha, come on, get into position."
 
 # game/game/ryoko_events.rpy:2970
 translate ukrainian ryoko_streching_650783d2:
@@ -9378,28 +9378,28 @@ translate ukrainian ryoko_streching_7c927b78_1:
     mc "Yes?"
 
 # game/game/ryoko_events.rpy:2977
-translate ukrainian ryoko_streching_5903a816:
+translate ukrainian ryoko_streching_ef0938a7:
 
-    # r "... {w}Can you hold me a little more around the waist?"
-    r "... {w}Can you hold me a little more around the waist?"
+    # r "... {w}Could you hold me a little tighter around the waist?"
+    r "... {w}Could you hold me a little tighter around the waist?"
 
 # game/game/ryoko_events.rpy:2978
-translate ukrainian ryoko_streching_3e211acc:
+translate ukrainian ryoko_streching_b36d2506:
 
-    # r "I think you've more grip from there..."
-    r "I think you've more grip from there..."
+    # r "I think you'll have a better grip from there..."
+    r "I think you'll have a better grip from there..."
 
 # game/game/ryoko_events.rpy:2980
-translate ukrainian ryoko_streching_8a655ec7:
+translate ukrainian ryoko_streching_10dee4ef:
 
-    # mc "Do you think so?"
-    mc "Do you think so?"
+    # mc "You think so?"
+    mc "You think so?"
 
 # game/game/ryoko_events.rpy:2982
-translate ukrainian ryoko_streching_5cde2a49:
+translate ukrainian ryoko_streching_dba46b87:
 
-    # r "{size=-8}ah~"
-    r "{size=-8}ah~"
+    # r "{size=-8}Ah~"
+    r "{size=-8}Ah~"
 
 # game/game/ryoko_events.rpy:2983
 translate ukrainian ryoko_streching_617f9cac:
@@ -9408,10 +9408,10 @@ translate ukrainian ryoko_streching_617f9cac:
     mc "Is this okay?"
 
 # game/game/ryoko_events.rpy:2984
-translate ukrainian ryoko_streching_33670b63:
+translate ukrainian ryoko_streching_770190cd:
 
-    # r "Mmm... {w}a little more down..."
-    r "Mmm... {w}a little more down..."
+    # r "Mmm... {w}a little lower..."
+    r "Mmm... {w}a little lower..."
 
 # game/game/ryoko_events.rpy:2986
 translate ukrainian ryoko_streching_b1926a30:
@@ -9432,16 +9432,16 @@ translate ukrainian ryoko_streching_1b962705_1:
     r "Y-Yes!"
 
 # game/game/ryoko_events.rpy:2989
-translate ukrainian ryoko_streching_2a33d9bc:
+translate ukrainian ryoko_streching_0e4a9ea7:
 
-    # r "Y-You can start now.."
-    r "Y-You can start now.."
+    # r "Y-You can start now..."
+    r "Y-You can start now..."
 
-# game/game/ryoko_events.rpy:2998
-translate ukrainian ryoko_streching_1fcb1404_1:
+# game/game/ryoko_events.rpy:2999
+translate ukrainian ryoko_streching_0375fb3e:
 
-    # "{image=/bg/icons/heart_text.png}Ryoko's affection has increased to [ryoko_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Прихильність Рьоко зросла до [ryoko_affection]{image=/bg/icons/heart_text.png}"
+    # "{image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}"
+    "{image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}"
 
 # game/game/ryoko_events.rpy:3004
 translate ukrainian ryoko_gal4_3e9de79a:
@@ -23825,11 +23825,11 @@ translate ukrainian ryoko_past_dream_d01fdb1b:
     # r "Yes, no one else noticed it."
     r "Yes, no one else noticed it."
 
-# game/game/ryoko_events.rpy:7290
-translate ukrainian ryoko_past_dream_5dacae8d:
+# game/game/ryoko_events.rpy:7292
+translate ukrainian ryoko_past_dream_75aad8c9:
 
-    # mc "Always noticing the imperceptible..."
-    mc "Always noticing the imperceptible..."
+    # mc "Always noticing the imperseptible..."
+    mc "Always noticing the imperseptible..."
 
 # game/game/ryoko_events.rpy:7291
 translate ukrainian ryoko_past_dream_430fdb82:

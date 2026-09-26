@@ -1,21 +1,39 @@
 
-# game/game/kingdom_events.rpy:13
-translate ukrainian kingdom_events_c095a9f0:
+# game/game/kingdom_events.rpy:140
+translate ukrainian kingdom_stairhall_6fbb7d02:
 
-    # t "Now is not the time."
-    t "Now is not the time."
+    # t "There are a lot of guards..."
+    t "There are a lot of guards..."
 
-# game/game/kingdom_events.rpy:45
-translate ukrainian kingdom_alleyway_c095a9f0:
+# game/game/kingdom_events.rpy:141
+translate ukrainian kingdom_stairhall_273d37b7:
 
-    # t "Now is not the time."
-    t "Now is not the time."
+    # t "And I have nothing to do here at this hour."
+    t "And I have nothing to do here at this hour."
 
-# game/game/kingdom_events.rpy:78
-translate ukrainian kingdom_hallway_c095a9f0:
+# game/game/kingdom_events.rpy:182
+translate ukrainian kingdom_square_6fbb7d02:
 
-    # t "Now is not the time."
-    t "Now is not the time."
+    # t "There are a lot of guards..."
+    t "There are a lot of guards..."
+
+# game/game/kingdom_events.rpy:183
+translate ukrainian kingdom_square_273d37b7:
+
+    # t "And I have nothing to do here at this hour."
+    t "And I have nothing to do here at this hour."
+
+# game/game/kingdom_events.rpy:225
+translate ukrainian kingdom_lounge_6fbb7d02:
+
+    # t "There are a lot of guards..."
+    t "There are a lot of guards..."
+
+# game/game/kingdom_events.rpy:226
+translate ukrainian kingdom_lounge_273d37b7:
+
+    # t "And I have nothing to do here at this hour."
+    t "And I have nothing to do here at this hour."
 
 # game/game/kingdom_events.rpy:113
 translate ukrainian western_kingdom_9bc170a1:
@@ -2027,11 +2045,11 @@ translate ukrainian kg_information_7ad22b7d:
     # "{color=#539699}He's a noble known for that strange hobby. There's no reason for it — he just does it."
     "{color=#539699}He's a noble known for that strange hobby. There's no reason for it — he just does it."
 
-# game/game/kingdom_events.rpy:692
-translate ukrainian kg_information_8f34054f:
+# game/game/kingdom_events.rpy:848
+translate ukrainian kg_information_d5e08b31:
 
-    # "{color=#539699}He didn't like her voice, or maybe she talked too much — who knows how they think."
-    "{color=#539699}He didn't like her voice, or maybe she talked too much — who knows how they think."
+    # "{color=#539699}He didn't like her voice, or maybe she talked too much, who knows how they think."
+    "{color=#539699}He didn't like her voice, or maybe she talked too much, who knows how they think."
 
 # game/game/kingdom_events.rpy:693
 translate ukrainian kg_information_8045f0ef:
@@ -2105,11 +2123,11 @@ translate ukrainian kg_information_e84f70e8:
     # mc "What about your... {w}o-original... owner?"
     mc "What about your... {w}o-original... owner?"
 
-# game/game/kingdom_events.rpy:708
-translate ukrainian kg_information_875f1601:
+# game/game/kingdom_events.rpy:864
+translate ukrainian kg_information_e29168a2:
 
-    # "{color=#539699}Oh, he kicked me out too — but unlike her."
-    "{color=#539699}Oh, he kicked me out too — but unlike her."
+    # "{color=#539699}Oh, he kicked me out too, but unlike her."
+    "{color=#539699}Oh, he kicked me out too, but unlike her."
 
 # game/game/kingdom_events.rpy:710
 translate ukrainian kg_information_8caed36d:
@@ -2165,11 +2183,11 @@ translate ukrainian kg_information_838e5d0c:
     # "{color=#539699}Is that all? I thought a pervert who gets turned on by demon girls had finally shown up."
     "{color=#539699}Is that all? I thought a pervert who gets turned on by demon girls had finally shown up."
 
-# game/game/kingdom_events.rpy:721
-translate ukrainian kg_information_f14855b5:
+# game/game/kingdom_events.rpy:877
+translate ukrainian kg_information_ec6771f8:
 
-    # mc "What the—"
-    mc "What the—"
+    # mc "What the-"
+    mc "What the-"
 
 # game/game/kingdom_events.rpy:722
 translate ukrainian kg_information_a8c8f61d:
@@ -2513,17 +2531,17 @@ translate ukrainian kg_information_3f62f2b9:
     # eve "Hey, dude, you're freaking us out."
     eve "Hey, dude, you're freaking us out."
 
-# game/game/kingdom_events.rpy:847
+# game/game/kingdom_events.rpy:1003
 translate ukrainian kg_information_807d7a61:
 
     # mc "S-Sorry, I didn't sleep well last night..."
     mc "S-Sorry, I didn't sleep well last night..."
 
-# game/game/kingdom_events.rpy:849
-translate ukrainian kg_information_c96aee2f:
+# game/game/kingdom_events.rpy:1005
+translate ukrainian kg_information_3251fe55:
 
-    # ior "Oh, that makes sense. {w}Do you want some food to recharge your batteries?"
-    ior "Oh, that makes sense. {w}Do you want some food to recharge your batteries?"
+    # ior "Oh, that makes sense. {w}Do you want some food to recharge your energy?"
+    ior "Oh, that makes sense. {w}Do you want some food to recharge your energy?"
 
 # game/game/kingdom_events.rpy:850
 translate ukrainian kg_information_826b0dfd:
@@ -3437,9 +3455,1191 @@ translate ukrainian kg_information_efc4f87a:
     # t "Does she work for Akane's mother...?"
     t "Does she work for Akane's mother...?"
 
+# game/game/kingdom_events.rpy:1248
+translate ukrainian kg_tablon_screen_269eb2df:
+
+    # "WIP."
+    "WIP."
+
+# game/game/kingdom_events.rpy:1249
+translate ukrainian kg_tablon_screen_2ccf25c0:
+
+    # "Let Ncrow work."
+    "Let Ncrow work."
+
+# game/game/kingdom_events.rpy:1250
+translate ukrainian kg_tablon_screen_c1cdd2e7:
+
+    # nc "It's not like I'm working on everything at once just so you can play!"
+    nc "It's not like I'm working on everything at once just so you can play!"
+
+# game/game/kingdom_events.rpy:1258
+translate ukrainian kg_adventurer_f8522c05:
+
+    # eve "Oh? The weird adventurer."
+    eve "Oh? The weird adventurer."
+
+# game/game/kingdom_events.rpy:1259
+translate ukrainian kg_adventurer_2447c87a:
+
+    # mc "Excuse me?"
+    mc "Excuse me?"
+
+# game/game/kingdom_events.rpy:1261
+translate ukrainian kg_adventurer_665a7cf8:
+
+    # eve "Sorry, what did you say we should call you?"
+    eve "Sorry, what did you say we should call you?"
+
+# game/game/kingdom_events.rpy:1262
+translate ukrainian kg_adventurer_bb610190:
+
+    # eve "S..."
+    eve "S..."
+
+# game/game/kingdom_events.rpy:1263
+translate ukrainian kg_adventurer_e2418e84:
+
+    # eve "Sauce man."
+    eve "Sauce man."
+
+# game/game/kingdom_events.rpy:1264
+translate ukrainian kg_adventurer_f7abe6b3:
+
+    # mc "Swordman!"
+    mc "Swordman!"
+
+# game/game/kingdom_events.rpy:1266
+translate ukrainian kg_adventurer_d44f7888:
+
+    # eve "What do you need?"
+    eve "What do you need?"
+
+# game/game/kingdom_events.rpy:1267
+translate ukrainian kg_adventurer_bc260d4c:
+
+    # mc "I came here to officially register."
+    mc "I came here to officially register."
+
+# game/game/kingdom_events.rpy:1268
+translate ukrainian kg_adventurer_16037ba0:
+
+    # eve "Oh, I see. But for that, I'll need to see your adventurer's card."
+    eve "Oh, I see. But for that, I'll need to see your adventurer's card."
+
+# game/game/kingdom_events.rpy:1270
+translate ukrainian kg_adventurer_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1272
+translate ukrainian kg_adventurer_a97951b7:
+
+    # mc "Here."
+    mc "Here."
+
+# game/game/kingdom_events.rpy:1273
+translate ukrainian kg_adventurer_a8fbfa17:
+
+    # eve "..."
+    eve "..."
+
+# game/game/kingdom_events.rpy:1275
+translate ukrainian kg_adventurer_34de9152:
+
+    # eve "Hmm... {w}let's see..."
+    eve "Hmm... {w}let's see..."
+
+# game/game/kingdom_events.rpy:1276
+translate ukrainian kg_adventurer_a8fbfa17_1:
+
+    # eve "..."
+    eve "..."
+
+# game/game/kingdom_events.rpy:1278
+translate ukrainian kg_adventurer_b0063899:
+
+    # t "What's wrong? Why isn't she saying anything?"
+    t "What's wrong? Why isn't she saying anything?"
+
+# game/game/kingdom_events.rpy:1279
+translate ukrainian kg_adventurer_f18d333b:
+
+    # t "Did Reika play a prank on me?"
+    t "Did Reika play a prank on me?"
+
+# game/game/kingdom_events.rpy:1281
+translate ukrainian kg_adventurer_5534b578:
+
+    # eve "{size=-6}Makes sense..."
+    eve "{size=-6}Makes sense..."
+
+# game/game/kingdom_events.rpy:1282
+translate ukrainian kg_adventurer_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/kingdom_events.rpy:1284
+translate ukrainian kg_adventurer_3c5f7a4c:
+
+    # ior "Sores man!"
+    ior "Sores man!"
+
+# game/game/kingdom_events.rpy:1285
+translate ukrainian kg_adventurer_f7abe6b3_1:
+
+    # mc "Swordman!"
+    mc "Swordman!"
+
+# game/game/kingdom_events.rpy:1286
+translate ukrainian kg_adventurer_69b63f9d:
+
+    # ior "You're being really rude by ignoring me, don't you think?"
+    ior "You're being really rude by ignoring me, don't you think?"
+
+# game/game/kingdom_events.rpy:1287
+translate ukrainian kg_adventurer_fe464b7e:
+
+    # ior "You went straight in to talk to my sister."
+    ior "You went straight in to talk to my sister."
+
+# game/game/kingdom_events.rpy:1288
+translate ukrainian kg_adventurer_f0ea8ff7:
+
+    # mc "You don't even remember my nam-"
+    mc "You don't even remember my nam-"
+
+# game/game/kingdom_events.rpy:1290
+translate ukrainian kg_adventurer_6b293d9d:
+
+    # ior "Wow, it's been a while since I've seen one of those."
+    ior "Wow, it's been a while since I've seen one of those."
+
+# game/game/kingdom_events.rpy:1291
+translate ukrainian kg_adventurer_cf841782:
+
+    # eve "Yeah, it's been a while..."
+    eve "Yeah, it's been a while..."
+
+# game/game/kingdom_events.rpy:1292
+translate ukrainian kg_adventurer_3f871f46_1:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/kingdom_events.rpy:1294
+translate ukrainian kg_adventurer_524d7a21:
+
+    # eve "Well, you can accept whichever mission you want."
+    eve "Well, you can accept whichever mission you want."
+
+# game/game/kingdom_events.rpy:1295
+translate ukrainian kg_adventurer_a18f0b9b:
+
+    # mc "Any of them?"
+    mc "Any of them?"
+
+# game/game/kingdom_events.rpy:1296
+translate ukrainian kg_adventurer_8532e0b7:
+
+    # eve "Yep. The mission boards are over there."
+    eve "Yep. The mission boards are over there."
+
+# game/game/kingdom_events.rpy:1298
+translate ukrainian kg_adventurer_a87499e2:
+
+    # ior "Well... his depressing clothes and mysterious demeanor already made it pretty obvious he was a Drifter."
+    ior "Well... his depressing clothes and mysterious demeanor already made it pretty obvious he was a Drifter."
+
+# game/game/kingdom_events.rpy:1299
+translate ukrainian kg_adventurer_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1300
+translate ukrainian kg_adventurer_69c25b65:
+
+    # mc "Yeah..."
+    mc "Yeah..."
+
+# game/game/kingdom_events.rpy:1302
+translate ukrainian kg_adventurer_ffd590c7:
+
+    # eve "You have to be really strong to have that kind of card."
+    eve "You have to be really strong to have that kind of card."
+
+# game/game/kingdom_events.rpy:1303
+translate ukrainian kg_adventurer_e8cbf8bb:
+
+    # eve "It'll be a pleasure to have you here for as long as you decide to stay."
+    eve "It'll be a pleasure to have you here for as long as you decide to stay."
+
+# game/game/kingdom_events.rpy:1305
+translate ukrainian kg_adventurer_e6c726f2:
+
+    # ior "{size=-7}Maybe someone will finally take care of those difficult missions everyone abandoned."
+    ior "{size=-7}Maybe someone will finally take care of those difficult missions everyone abandoned."
+
+# game/game/kingdom_events.rpy:1306
+translate ukrainian kg_adventurer_24e260c7:
+
+    # mc "Um... it's a pleasure."
+    mc "Um... it's a pleasure."
+
+# game/game/kingdom_events.rpy:1307
+translate ukrainian kg_adventurer_558d21f0:
+
+    # eve "Whenever you want to take on a \"hunting\" mission, come talk to me and I'll show you what's available."
+    eve "Whenever you want to take on a \"hunting\" mission, come talk to me and I'll show you what's available."
+
+# game/game/kingdom_events.rpy:1308
+translate ukrainian kg_adventurer_f7ed4d46:
+
+    # mc "Okay, thank you."
+    mc "Okay, thank you."
+
+# game/game/kingdom_events.rpy:1310
+translate ukrainian kg_adventurer_f9eceb1c:
+
+    # ior "Good luck, Sports man!~"
+    ior "Good luck, Sports man!~"
+
+# game/game/kingdom_events.rpy:1311
+translate ukrainian kg_adventurer_d419f789:
+
+    # mc "Swordman!"
+    mc "Swordman!"
+
+# game/game/kingdom_events.rpy:1312
+translate ukrainian kg_adventurer_de8616b6:
+
+    # t "Just what did Reika give me?"
+    t "Just what did Reika give me?"
+
+# game/game/kingdom_events.rpy:1313
+translate ukrainian kg_adventurer_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/kingdom_events.rpy:1314
+translate ukrainian kg_adventurer_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/kingdom_events.rpy:1315
+translate ukrainian kg_adventurer_d7edd024:
+
+    # "."
+    "."
+
+# game/game/kingdom_events.rpy:1317
+translate ukrainian kg_adventurer_fcecc778:
+
+    # ior "{size=-6}{i}So, the Lycoris Clan..."
+    ior "{size=-6}{i}So, the Lycoris Clan..."
+
+# game/game/kingdom_events.rpy:1318
+translate ukrainian kg_adventurer_c9c6eb82:
+
+    # eve "{size=-6}{i}I never thought that clan would back a Drifter..."
+    eve "{size=-6}{i}I never thought that clan would back a Drifter..."
+
+# game/game/kingdom_events.rpy:1319
+translate ukrainian kg_adventurer_38cf28c5:
+
+    # ior "{size=-6}{i}Do you think we should be worried?"
+    ior "{size=-6}{i}Do you think we should be worried?"
+
+# game/game/kingdom_events.rpy:1320
+translate ukrainian kg_adventurer_a8fbfa17_2:
+
+    # eve "..."
+    eve "..."
+
+# game/game/kingdom_events.rpy:1322
+translate ukrainian kg_adventurer_cfaf9183:
+
+    # eve "{size=-6}{i}Let's just stick to our rules and not stick our noses where they don't belong."
+    eve "{size=-6}{i}Let's just stick to our rules and not stick our noses where they don't belong."
+
+# game/game/kingdom_events.rpy:1323
+translate ukrainian kg_adventurer_1a7a264a:
+
+    # ior "{size=-6}{i}Yeah, that's probably for the best..."
+    ior "{size=-6}{i}Yeah, that's probably for the best..."
+
+# game/game/kingdom_events.rpy:1324
+translate ukrainian kg_adventurer_292466b5:
+
+    # ior "..."
+    ior "..."
+
+# game/game/kingdom_events.rpy:1326
+translate ukrainian kg_adventurer_f290ecee:
+
+    # ior "Did he really fuck Reika?"
+    ior "Did he really fuck Reika?"
+
+# game/game/kingdom_events.rpy:1327
+translate ukrainian kg_adventurer_b6eb6af7:
+
+    # eve "{sc=2}{outlinecolor=#000000}{size=-6}Iori!"
+    eve "{sc=2}{outlinecolor=#000000}{size=-6}Iori!"
+
+# game/game/kingdom_events.rpy:1340
+translate ukrainian kg_lookaround_3f871f46:
+
+    # mc "Hmm?"
+    mc "Hmm?"
+
+# game/game/kingdom_events.rpy:1342
+translate ukrainian kg_lookaround_5c169e5b:
+
+    # t "She's the girl I gave some food to that time."
+    t "She's the girl I gave some food to that time."
+
+# game/game/kingdom_events.rpy:1344
+translate ukrainian kg_lookaround_4c25c3e7:
+
+    # "{color=#9D95AB}...!"
+    "{color=#9D95AB}...!"
+
+# game/game/kingdom_events.rpy:1345
+translate ukrainian kg_lookaround_af46a46e:
+
+    # mc "Don't worry, I'm just passing through."
+    mc "Don't worry, I'm just passing through."
+
+# game/game/kingdom_events.rpy:1347
+translate ukrainian kg_lookaround_0d1daddc:
+
+    # "{color=#9D95AB}{size=-6}A-Ah!"
+    "{color=#9D95AB}{size=-6}A-Ah!"
+
+# game/game/kingdom_events.rpy:1348
+translate ukrainian kg_lookaround_4c8fb070:
+
+    # mc "What is she doing...?"
+    mc "What is she doing...?"
+
+# game/game/kingdom_events.rpy:1350
+translate ukrainian kg_lookaround_2a9cd352:
+
+    # "{color=#9D95AB}Thank you for the food, Master..."
+    "{color=#9D95AB}Thank you for the food, Master..."
+
+# game/game/kingdom_events.rpy:1351
+translate ukrainian kg_lookaround_1786c6d5:
+
+    # "{color=#9D95AB}I wasn't able to thank you properly that day!"
+    "{color=#9D95AB}I wasn't able to thank you properly that day!"
+
+# game/game/kingdom_events.rpy:1352
+translate ukrainian kg_lookaround_91861c68:
+
+    # mc "O-Oh... don't worry..."
+    mc "O-Oh... don't worry..."
+
+# game/game/kingdom_events.rpy:1353
+translate ukrainian kg_lookaround_d7bff128:
+
+    # mc "Are you feeling better?"
+    mc "Are you feeling better?"
+
+# game/game/kingdom_events.rpy:1355
+translate ukrainian kg_lookaround_1dd2b032:
+
+    # "{color=#9D95AB}Yes! We managed to go several days without having to eat."
+    "{color=#9D95AB}Yes! We managed to go several days without having to eat."
+
+# game/game/kingdom_events.rpy:1356
+translate ukrainian kg_lookaround_b2ca102e:
+
+    # t "Without eating?"
+    t "Without eating?"
+
+# game/game/kingdom_events.rpy:1357
+translate ukrainian kg_lookaround_98952f39:
+
+    # mc "I'll bring you more next time..."
+    mc "I'll bring you more next time..."
+
+# game/game/kingdom_events.rpy:1358
+translate ukrainian kg_lookaround_4c25c3e7_1:
+
+    # "{color=#9D95AB}...!"
+    "{color=#9D95AB}...!"
+
+# game/game/kingdom_events.rpy:1360
+translate ukrainian kg_lookaround_43595073:
+
+    # "{color=#9D95AB}But... I haven't done any work for you..."
+    "{color=#9D95AB}But... I haven't done any work for you..."
+
+# game/game/kingdom_events.rpy:1361
+translate ukrainian kg_lookaround_641fbfe5:
+
+    # "{color=#9D95AB}It's against the rules to give us food for nothing."
+    "{color=#9D95AB}It's against the rules to give us food for nothing."
+
+# game/game/kingdom_events.rpy:1362
+translate ukrainian kg_lookaround_6afd99e0:
+
+    # mc "Says who?"
+    mc "Says who?"
+
+# game/game/kingdom_events.rpy:1363
+translate ukrainian kg_lookaround_0d292c7d:
+
+    # "{color=#9D95AB}The nobles..."
+    "{color=#9D95AB}The nobles..."
+
+# game/game/kingdom_events.rpy:1365
+translate ukrainian kg_lookaround_9b1ac610:
+
+    # mc "Well, I'm not one of them, so I couldn't care less about their rules."
+    mc "Well, I'm not one of them, so I couldn't care less about their rules."
+
+# game/game/kingdom_events.rpy:1366
+translate ukrainian kg_lookaround_deaa098e:
+
+    # "{color=#9D95AB}..."
+    "{color=#9D95AB}..."
+
+# game/game/kingdom_events.rpy:1367
+translate ukrainian kg_lookaround_c62a3ccc:
+
+    # mc "You just said \"we\". Did you manage to feed your friend?"
+    mc "You just said \"we\". Did you manage to feed your friend?"
+
+# game/game/kingdom_events.rpy:1369
+translate ukrainian kg_lookaround_20812ebb:
+
+    # "{color=#9D95AB}Yes. Actually, I'm waiting for—"
+    "{color=#9D95AB}Yes. Actually, I'm waiting for—"
+
+# game/game/kingdom_events.rpy:1371
+translate ukrainian kg_lookaround_dc3d6f82:
+
+    # "{color=#76B285}I d-don't know what she did, \nbut please, take me instead."
+    "{color=#76B285}I d-don't know what she did, \nbut please, take me instead."
+
+# game/game/kingdom_events.rpy:1372
+translate ukrainian kg_lookaround_cc94a0d6:
+
+    # "{color=#9D95AB}Ah—"
+    "{color=#9D95AB}Ah—"
+
+# game/game/kingdom_events.rpy:1373
+translate ukrainian kg_lookaround_652650d3:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/kingdom_events.rpy:1375
+translate ukrainian kg_lookaround_c542a03a:
+
+    # "{color=#76B285}Are you an adventurer? Do you need someone to use as bait? I can run really fast."
+    "{color=#76B285}Are you an adventurer? Do you need someone to use as bait? I can run really fast."
+
+# game/game/kingdom_events.rpy:1376
+translate ukrainian kg_lookaround_e451cf28:
+
+    # mc "N-No... I—"
+    mc "N-No... I—"
+
+# game/game/kingdom_events.rpy:1377
+translate ukrainian kg_lookaround_587bbddd:
+
+    # "{color=#76B285}Judging by the way you're dressed, you look like an assassin."
+    "{color=#76B285}Judging by the way you're dressed, you look like an assassin."
+
+# game/game/kingdom_events.rpy:1378
+translate ukrainian kg_lookaround_cb3def35:
+
+    # "{color=#76B285}Do you need someone to test poison on? I can do that too."
+    "{color=#76B285}Do you need someone to test poison on? I can do that too."
+
+# game/game/kingdom_events.rpy:1379
+translate ukrainian kg_lookaround_15402f3c:
+
+    # mc "A-Assassin? Poison??"
+    mc "A-Assassin? Poison??"
+
+# game/game/kingdom_events.rpy:1381
+translate ukrainian kg_lookaround_ff4179d5:
+
+    # "{color=#9D95AB}You've got it all wrong!"
+    "{color=#9D95AB}You've got it all wrong!"
+
+# game/game/kingdom_events.rpy:1382
+translate ukrainian kg_lookaround_cd9684b5:
+
+    # "{color=#76B285}Huh...?"
+    "{color=#76B285}Huh...?"
+
+# game/game/kingdom_events.rpy:1387
+translate ukrainian kg_lookaround_0edbbf62:
+
+    # "{color=#76B285}I'm sorry! Please forgive my impertinence!"
+    "{color=#76B285}I'm sorry! Please forgive my impertinence!"
+
+# game/game/kingdom_events.rpy:1389
+translate ukrainian kg_lookaround_85155034:
+
+    # mc "D-Don't worry..."
+    mc "D-Don't worry..."
+
+# game/game/kingdom_events.rpy:1390
+translate ukrainian kg_lookaround_4aa3e246:
+
+    # mc "I'm just glad you're okay."
+    mc "I'm just glad you're okay."
+
+# game/game/kingdom_events.rpy:1391
+translate ukrainian kg_lookaround_82cc4c7e:
+
+    # "{color=#76B285}I can't believe I called the person who helped us an assassin..."
+    "{color=#76B285}I can't believe I called the person who helped us an assassin..."
+
+# game/game/kingdom_events.rpy:1392
+translate ukrainian kg_lookaround_7ef39f25:
+
+    # "{color=#9D95AB}We're really sorry..."
+    "{color=#9D95AB}We're really sorry..."
+
+# game/game/kingdom_events.rpy:1393
+translate ukrainian kg_lookaround_5440db64:
+
+    # t "This isn't exactly a situation I'd like to be seen in..."
+    t "This isn't exactly a situation I'd like to be seen in..."
+
+# game/game/kingdom_events.rpy:1395
+translate ukrainian kg_lookaround_ba0b2a71:
+
+    # "{color=#76B285}May I ask you a question?"
+    "{color=#76B285}May I ask you a question?"
+
+# game/game/kingdom_events.rpy:1396
+translate ukrainian kg_lookaround_42d3094e:
+
+    # mc "Of course..."
+    mc "Of course..."
+
+# game/game/kingdom_events.rpy:1397
+translate ukrainian kg_lookaround_ed5be75a:
+
+    # "{color=#76B285}I've heard from several of my friends that there's a strange adventurer who's been helping them and giving them money."
+    "{color=#76B285}I've heard from several of my friends that there's a strange adventurer who's been helping them and giving them money."
+
+# game/game/kingdom_events.rpy:1398
+translate ukrainian kg_lookaround_b3fe36db:
+
+    # "{color=#76B285}Is that you?"
+    "{color=#76B285}Is that you?"
+
+# game/game/kingdom_events.rpy:1399
+translate ukrainian kg_lookaround_30744972:
+
+    # t "Do they share information with each other?"
+    t "Do they share information with each other?"
+
+# game/game/kingdom_events.rpy:1400
+translate ukrainian kg_lookaround_6ddddd1f:
+
+    # mc "Maybe..."
+    mc "Maybe..."
+
+# game/game/kingdom_events.rpy:1401
+translate ukrainian kg_lookaround_57525b19:
+
+    # mc "Why? Is that a problem?"
+    mc "Why? Is that a problem?"
+
+# game/game/kingdom_events.rpy:1403
+translate ukrainian kg_lookaround_10fb8eea:
+
+    # "{color=#76B285}Please forgive my disrespect."
+    "{color=#76B285}Please forgive my disrespect."
+
+# game/game/kingdom_events.rpy:1404
+translate ukrainian kg_lookaround_5ae0c815:
+
+    # mc "I didn't mean it that way..."
+    mc "I didn't mean it that way..."
+
+# game/game/kingdom_events.rpy:1405
+translate ukrainian kg_lookaround_d5588f50:
+
+    # "{color=#76B285}I-It just caught all of us by surprise."
+    "{color=#76B285}I-It just caught all of us by surprise."
+
+# game/game/kingdom_events.rpy:1406
+translate ukrainian kg_lookaround_a7bcf340:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/kingdom_events.rpy:1407
+translate ukrainian kg_lookaround_6014e853:
+
+    # "{color=#76B285}But..."
+    "{color=#76B285}But..."
+
+# game/game/kingdom_events.rpy:1408
+translate ukrainian kg_lookaround_ad485388:
+
+    # "{color=#76B285}Maybe you should stop doing that."
+    "{color=#76B285}Maybe you should stop doing that."
+
+# game/game/kingdom_events.rpy:1409
+translate ukrainian kg_lookaround_75d15b76:
+
+    # mc "Hmm? Why?"
+    mc "Hmm? Why?"
+
+# game/game/kingdom_events.rpy:1411
+translate ukrainian kg_lookaround_8908dd0b:
+
+    # "{color=#76B285}The last person who did things like that disappeared a long time ago."
+    "{color=#76B285}The last person who did things like that disappeared a long time ago."
+
+# game/game/kingdom_events.rpy:1412
+translate ukrainian kg_lookaround_efb5fd7d:
+
+    # "{color=#76B285}We wouldn't want another kind-hearted person to suddenly disappear."
+    "{color=#76B285}We wouldn't want another kind-hearted person to suddenly disappear."
+
+# game/game/kingdom_events.rpy:1413
+translate ukrainian kg_lookaround_7cf7b1c8:
+
+    # mc "Another person?"
+    mc "Another person?"
+
+# game/game/kingdom_events.rpy:1415
+translate ukrainian kg_lookaround_c11c2c97:
+
+    # "{color=#9D95AB}Yes. A woman who used to feed us and stand up for us in front of others."
+    "{color=#9D95AB}Yes. A woman who used to feed us and stand up for us in front of others."
+
+# game/game/kingdom_events.rpy:1416
+translate ukrainian kg_lookaround_83294cd0:
+
+    # "{color=#9D95AB}It was many years ago."
+    "{color=#9D95AB}It was many years ago."
+
+# game/game/kingdom_events.rpy:1417
+translate ukrainian kg_lookaround_c6f6c283:
+
+    # mc "Many years? {w}You two don't look old enough to have been around that long."
+    mc "Many years? {w}You two don't look old enough to have been around that long."
+
+# game/game/kingdom_events.rpy:1418
+translate ukrainian kg_lookaround_8a9f7b9d:
+
+    # mc "Ah... wait..."
+    mc "Ah... wait..."
+
+# game/game/kingdom_events.rpy:1420
+translate ukrainian kg_lookaround_bd66774f:
+
+    # "{color=#76B285}We demons have always been a race that ages more slowly than any other."
+    "{color=#76B285}We demons have always been a race that ages more slowly than any other."
+
+# game/game/kingdom_events.rpy:1421
+translate ukrainian kg_lookaround_de5b3555:
+
+    # "{color=#76B285}And that's without even considering what these chains do to our bodies."
+    "{color=#76B285}And that's without even considering what these chains do to our bodies."
+
+# game/game/kingdom_events.rpy:1422
+translate ukrainian kg_lookaround_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1423
+translate ukrainian kg_lookaround_9df7cb2e:
+
+    # mc "Can you tell me more about that woman?"
+    mc "Can you tell me more about that woman?"
+
+# game/game/kingdom_events.rpy:1424
+translate ukrainian kg_lookaround_46053eed:
+
+    # "{color=#9D95AB}Well... actually, we're forbidden from mentioning her or talking about her at all."
+    "{color=#9D95AB}Well... actually, we're forbidden from mentioning her or talking about her at all."
+
+# game/game/kingdom_events.rpy:1426
+translate ukrainian kg_lookaround_158c8e98:
+
+    # "{color=#9D95AB}But..."
+    "{color=#9D95AB}But..."
+
+# game/game/kingdom_events.rpy:1427
+translate ukrainian kg_lookaround_315ca816:
+
+    # "{color=#76B285}But if it weren't for you, we might have starved to death."
+    "{color=#76B285}But if it weren't for you, we might have starved to death."
+
+# game/game/kingdom_events.rpy:1428
+translate ukrainian kg_lookaround_25a95ccb:
+
+    # "{color=#76B285}So... how much can we tell him?"
+    "{color=#76B285}So... how much can we tell him?"
+
+# game/game/kingdom_events.rpy:1429
+translate ukrainian kg_lookaround_106cd21a:
+
+    # "{color=#9D95AB}Well..."
+    "{color=#9D95AB}Well..."
+
+# game/game/kingdom_events.rpy:1430
+translate ukrainian kg_lookaround_7087fff2:
+
+    # "{color=#9D95AB}She was a beautiful woman. Very intelligent and outgoing."
+    "{color=#9D95AB}She was a beautiful woman. Very intelligent and outgoing."
+
+# game/game/kingdom_events.rpy:1431
+translate ukrainian kg_lookaround_c661ea0a:
+
+    # "{color=#76B285}An S-Rank Adventurer."
+    "{color=#76B285}An S-Rank Adventurer."
+
+# game/game/kingdom_events.rpy:1432
+translate ukrainian kg_lookaround_2b35b6fe_1:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1433
+translate ukrainian kg_lookaround_f61d0605:
+
+    # mc "Can you tell me her name?"
+    mc "Can you tell me her name?"
+
+# game/game/kingdom_events.rpy:1435
+translate ukrainian kg_lookaround_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/game/kingdom_events.rpy:1437
+translate ukrainian kg_lookaround_5344210b:
+
+    # "{color=#9D95AB}{size=-6}{i}Mirai."
+    "{color=#9D95AB}{size=-6}{i}Mirai."
+
+# game/game/kingdom_events.rpy:1438
+translate ukrainian kg_lookaround_4a92b321:
+
+    # "{color=#76B285}{size=-6}{i}Mirai."
+    "{color=#76B285}{size=-6}{i}Mirai."
+
+# game/game/kingdom_events.rpy:1439
+translate ukrainian kg_lookaround_2b35b6fe_2:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1440
+translate ukrainian kg_lookaround_a7bcf340_1:
+
+    # mc "I see..."
+    mc "I see..."
+
+# game/game/kingdom_events.rpy:1442
+translate ukrainian kg_lookaround_bee68c8d:
+
+    # "{color=#76B285}She was a goddess."
+    "{color=#76B285}She was a goddess."
+
+# game/game/kingdom_events.rpy:1445
+translate ukrainian kg_lookaround_4cfc1599:
+
+    # "{color=#9D95AB}S-Sorry, Master!"
+    "{color=#9D95AB}S-Sorry, Master!"
+
+# game/game/kingdom_events.rpy:1446
+translate ukrainian kg_lookaround_24abb771:
+
+    # "{color=#76B285}Ah!?"
+    "{color=#76B285}Ah!?"
+
+# game/game/kingdom_events.rpy:1447
+translate ukrainian kg_lookaround_085722e2:
+
+    # mc "What?!"
+    mc "What?!"
+
+# game/game/kingdom_events.rpy:1449
+translate ukrainian kg_lookaround_fefb08bd:
+
+    # mc "S-Sorry, what did you just say?"
+    mc "S-Sorry, what did you just say?"
+
+# game/game/kingdom_events.rpy:1450
+translate ukrainian kg_lookaround_cd94a3c7:
+
+    # "{color=#9D95AB}T-That she was like a goddess to us..."
+    "{color=#9D95AB}T-That she was like a goddess to us..."
+
+# game/game/kingdom_events.rpy:1451
+translate ukrainian kg_lookaround_2b35b6fe_3:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1452
+translate ukrainian kg_lookaround_c1dff962:
+
+    # mc "Oh..."
+    mc "Oh..."
+
+# game/game/kingdom_events.rpy:1454
+translate ukrainian kg_lookaround_c666bbbc:
+
+    # "{color=#76B285}{size=-6}{i}But there was another reason people called her that."
+    "{color=#76B285}{size=-6}{i}But there was another reason people called her that."
+
+# game/game/kingdom_events.rpy:1455
+translate ukrainian kg_lookaround_ecb0e38d:
+
+    # "{color=#76B285}{i}There was a rumor that she could break the chains of slavery."
+    "{color=#76B285}{i}There was a rumor that she could break the chains of slavery."
+
+# game/game/kingdom_events.rpy:1456
+translate ukrainian kg_lookaround_f4d24fc9:
+
+    # mc "{size=-6}{i}Is that even possible?"
+    mc "{size=-6}{i}Is that even possible?"
+
+# game/game/kingdom_events.rpy:1458
+translate ukrainian kg_lookaround_e52b7b98:
+
+    # "{color=#9D95AB}{size=-6}{i}Only a god could break chains that bind themselves to your soul."
+    "{color=#9D95AB}{size=-6}{i}Only a god could break chains that bind themselves to your soul."
+
+# game/game/kingdom_events.rpy:1459
+translate ukrainian kg_lookaround_ff953270:
+
+    # "{color=#9D95AB}{size=-6}{i}But I think that's all it was... just a rumor."
+    "{color=#9D95AB}{size=-6}{i}But I think that's all it was... just a rumor."
+
+# game/game/kingdom_events.rpy:1461
+translate ukrainian kg_lookaround_e4ec2af5:
+
+    # "{color=#76B285}{size=-6}{i}After all, it was the Goddesses who condemned us to this fate."
+    "{color=#76B285}{size=-6}{i}After all, it was the Goddesses who condemned us to this fate."
+
+# game/game/kingdom_events.rpy:1462
+translate ukrainian kg_lookaround_6fa62bc4:
+
+    # "{color=#76B285}{size=-6}{i}If anyone were to defy the power of a Goddess... {w}it would happen again."
+    "{color=#76B285}{size=-6}{i}If anyone were to defy the power of a Goddess... {w}it would happen again."
+
+# game/game/kingdom_events.rpy:1463
+translate ukrainian kg_lookaround_98895c40:
+
+    # mc "Again? {w}What do you me—?"
+    mc "Again? {w}What do you me—?"
+
+# game/game/kingdom_events.rpy:1466
+translate ukrainian kg_lookaround_a9fd06a8:
+
+    # "{sc=2}{outlinecolor=#000000}{size=-6}{color=#76B285}Brgghhbr~"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#76B285}Brgghhbr~"
+
+# game/game/kingdom_events.rpy:1467
+translate ukrainian kg_lookaround_49e48df1:
+
+    # "{sc=2}{outlinecolor=#000000}{size=-6}{color=#9D95AB}Grggbrnm~"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#9D95AB}Grggbrnm~"
+
+# game/game/kingdom_events.rpy:1468
+translate ukrainian kg_lookaround_2b35b6fe_4:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1469
+translate ukrainian kg_lookaround_f001ab14:
+
+    # mc "Are you two hungry? I'll bring you something."
+    mc "Are you two hungry? I'll bring you something."
+
+# game/game/kingdom_events.rpy:1471
+translate ukrainian kg_lookaround_b6ff50c9:
+
+    # "{color=#9D95AB}Don't worry, Master. I've already found something."
+    "{color=#9D95AB}Don't worry, Master. I've already found something."
+
+# game/game/kingdom_events.rpy:1472
+translate ukrainian kg_lookaround_0f26089f:
+
+    # "{color=#76B285}Really?!"
+    "{color=#76B285}Really?!"
+
+# game/game/kingdom_events.rpy:1473
+translate ukrainian kg_lookaround_60b300c1:
+
+    # "{color=#9D95AB}Yeah! I acted as bait for some wolves today."
+    "{color=#9D95AB}Yeah! I acted as bait for some wolves today."
+
+# game/game/kingdom_events.rpy:1474
+translate ukrainian kg_lookaround_630c7b3f:
+
+    # t "Bait..."
+    t "Bait..."
+
+# game/game/kingdom_events.rpy:1475
+translate ukrainian kg_lookaround_47867da0:
+
+    # mc "Then I'll let you eat in peace."
+    mc "Then I'll let you eat in peace."
+
+# game/game/kingdom_events.rpy:1477
+translate ukrainian kg_lookaround_9555c692:
+
+    # mc "I'd like to talk to you two again."
+    mc "I'd like to talk to you two again."
+
+# game/game/kingdom_events.rpy:1478
+translate ukrainian kg_lookaround_092bd4df:
+
+    # mc "If I \"hire\" you in exchange for information, you won't feel like you're breaking the rules, right?"
+    mc "If I \"hire\" you in exchange for information, you won't feel like you're breaking the rules, right?"
+
+# game/game/kingdom_events.rpy:1479
+translate ukrainian kg_lookaround_e1fe8f87:
+
+    # "{color=#76B285}I guess... no..."
+    "{color=#76B285}I guess... no..."
+
+# game/game/kingdom_events.rpy:1480
+translate ukrainian kg_lookaround_deaa098e_1:
+
+    # "{color=#9D95AB}..."
+    "{color=#9D95AB}..."
+
+# game/game/kingdom_events.rpy:1482
+translate ukrainian kg_lookaround_557392bc:
+
+    # "{color=#9D95AB}Hey, is it true that you..."
+    "{color=#9D95AB}Hey, is it true that you..."
+
+# game/game/kingdom_events.rpy:1483
+translate ukrainian kg_lookaround_652650d3_1:
+
+    # mc "...?"
+    mc "...?"
+
+# game/game/kingdom_events.rpy:1485
+translate ukrainian kg_lookaround_a8e17d19:
+
+    # "{color=#76B285}{size=-7}Psst*"
+    "{color=#76B285}{size=-7}Psst*"
+
+# game/game/kingdom_events.rpy:1486
+translate ukrainian kg_lookaround_e366a73c:
+
+    # "{color=#76B285}{size=-7}Reika still hasn't told us anything."
+    "{color=#76B285}{size=-7}Reika still hasn't told us anything."
+
+# game/game/kingdom_events.rpy:1487
+translate ukrainian kg_lookaround_deaa098e_2:
+
+    # "{color=#9D95AB}..."
+    "{color=#9D95AB}..."
+
+# game/game/kingdom_events.rpy:1489
+translate ukrainian kg_lookaround_377b2d74:
+
+    # "{color=#9D95AB}Sorry, never mind."
+    "{color=#9D95AB}Sorry, never mind."
+
+# game/game/kingdom_events.rpy:1490
+translate ukrainian kg_lookaround_2b35b6fe_5:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1491
+translate ukrainian kg_lookaround_1212df99:
+
+    # mc "See you later."
+    mc "See you later."
+
+# game/game/kingdom_events.rpy:1492
+translate ukrainian kg_lookaround_321a6df7:
+
+    # "{color=#9D95AB}Bye..."
+    "{color=#9D95AB}Bye..."
+
+# game/game/kingdom_events.rpy:1493
+translate ukrainian kg_lookaround_1fef224c:
+
+    # "{color=#76B285}Bye."
+    "{color=#76B285}Bye."
+
+# game/game/kingdom_events.rpy:1495
+translate ukrainian kg_lookaround_eb77e2e8:
+
+    # t "A goddess for the demons?"
+    t "A goddess for the demons?"
+
+# game/game/kingdom_events.rpy:1497
+translate ukrainian kg_lookaround_997ea5e1:
+
+    # t "Just how many things did she do in this world?"
+    t "Just how many things did she do in this world?"
+
+# game/game/kingdom_events.rpy:1498
+translate ukrainian kg_lookaround_2b35b6fe_6:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1500
+translate ukrainian kg_lookaround_df616715:
+
+    # t "It's strange... they always talk about things happening \"many years ago.\""
+    t "It's strange... they always talk about things happening \"many years ago.\""
+
+# game/game/kingdom_events.rpy:1501
+translate ukrainian kg_lookaround_6e5ba884:
+
+    # t "But in my world, my mother died... {w}I can't even remember how long ago."
+    t "But in my world, my mother died... {w}I can't even remember how long ago."
+
+# game/game/kingdom_events.rpy:1502
+translate ukrainian kg_lookaround_400e73e9:
+
+    # t "If I think about it logically... {w}it's as if time in this world has been moving much faster than in my original world."
+    t "If I think about it logically... {w}it's as if time in this world has been moving much faster than in my original world."
+
+# game/game/kingdom_events.rpy:1506
+translate ukrainian kg_lookaround_cae32b42:
+
+    # t "That world... looked a lot like Earth."
+    t "That world... looked a lot like Earth."
+
+# game/game/kingdom_events.rpy:1507
+translate ukrainian kg_lookaround_684acb62:
+
+    # t "If my world was my mother's creation..."
+    t "If my world was my mother's creation..."
+
+# game/game/kingdom_events.rpy:1508
+translate ukrainian kg_lookaround_839ca86b:
+
+    # t "She could've made time there move at whatever speed she wanted..."
+    t "She could've made time there move at whatever speed she wanted..."
+
+# game/game/kingdom_events.rpy:1513
+translate ukrainian kg_lookaround_b4d86c7c:
+
+    # mc "{sc=2}{outlinecolor=#000000}{size=-6}Ghng!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}Ghng!"
+
+# game/game/kingdom_events.rpy:1514
+translate ukrainian kg_lookaround_9eaf585d:
+
+    # t "I feel like I'm about to figure something out... {w}but this headache always hits me whenever I try."
+    t "I feel like I'm about to figure something out... {w}but this headache always hits me whenever I try."
+
+# game/game/kingdom_events.rpy:1516
+translate ukrainian kg_lookaround_980f2aee:
+
+    # t "You won't let me see any more memories, but you won't even let me figure things out on my own?"
+    t "You won't let me see any more memories, but you won't even let me figure things out on my own?"
+
+# game/game/kingdom_events.rpy:1519
+translate ukrainian kg_lookaround_bc0fa24c:
+
+    # t "I don't understand what difference it makes whether I know more or less."
+    t "I don't understand what difference it makes whether I know more or less."
+
+# game/game/kingdom_events.rpy:1521
+translate ukrainian kg_lookaround_49a00769:
+
+    # t "It's not like anything's going to change, is it?"
+    t "It's not like anything's going to change, is it?"
+
+# game/game/kingdom_events.rpy:1522
+translate ukrainian kg_lookaround_2b35b6fe_7:
+
+    # mc "..."
+    mc "..."
+
+# game/game/kingdom_events.rpy:1523
+translate ukrainian kg_lookaround_e51d5721:
+
+    # t "On a different note... should I start calling you \"Mom\" from now on?"
+    t "On a different note... should I start calling you \"Mom\" from now on?"
+
+# game/game/kingdom_events.rpy:1526
+translate ukrainian kg_lookaround_1d0dd19d:
+
+    # t "The visions? The memories?"
+    t "The visions? The memories?"
+
+# game/game/kingdom_events.rpy:1527
+translate ukrainian kg_lookaround_abaef061:
+
+    # t "If it's not you, then who is it?"
+    t "If it's not you, then who is it?"
+
+# game/game/kingdom_events.rpy:1529
+translate ukrainian kg_lookaround_a20cefa7_1:
+
+    # "..."
+    "..."
+
+# game/game/kingdom_events.rpy:1530
+translate ukrainian kg_lookaround_8dabefc6:
+
+    # ".."
+    ".."
+
+# game/game/kingdom_events.rpy:1531
+translate ukrainian kg_lookaround_d7edd024:
+
+    # "."
+    "."
+
+# game/game/kingdom_events.rpy:1532
+translate ukrainian kg_lookaround_e745ed31:
+
+    # t "She remained silent..."
+    t "She remained silent..."
+
+# game/game/kingdom_events.rpy:1533
+translate ukrainian kg_lookaround_5782113c:
+
+    # mc "Sigh...*"
+    mc "Sigh...*"
+
+# game/game/kingdom_events.rpy:1534
+translate ukrainian kg_lookaround_1ef8d2e3:
+
+    # t "Today was a rough day. I should go home and get some sleep..."
+    t "Today was a rough day. I should go home and get some sleep..."
+
 translate ukrainian strings:
     old "You begin your journey with Charlotte."
     new "You begin your journey with Charlotte."
 
     old "{sc=2}{outlinecolor=#000000}{size=-6}{color=#A05A61}Stop right there!"
     new "{sc=2}{outlinecolor=#000000}{size=-6}{color=#A05A61}Stop right there!"
+
+    old "{i}What makes you think I am?"
+    new "{i}What makes you think I am?"
+
+    old "{i}You're not ready yet..."
+    new "{i}You're not ready yet..."

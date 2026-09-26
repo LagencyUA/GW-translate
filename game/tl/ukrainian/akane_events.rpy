@@ -4485,7 +4485,7 @@ translate ukrainian akane_boobsrep_73d91ba6:
 translate ukrainian akane_boobsrep_ab98b32d:
 
     # ak "Come on, what are you waiting for?"
-    ak "Ну ж бо, чого ти чекаєш?"
+    ak "Нужбо, чого ти чекаєш?"
 
 # game/game/akane_events.rpy:1479
 translate ukrainian akane_boobsrep_4970a1f8:

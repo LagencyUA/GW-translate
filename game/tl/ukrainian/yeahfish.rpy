@@ -41,6 +41,12 @@ translate ukrainian fishing_menu_st_0e13958e:
     # t "It seems that something has bitten!"
     t "It seems that something has bitten!"
 
+# game/game/yeahfish.rpy:517
+translate ukrainian end_fishing_1d82a7e7:
+
+    # mc "...!"
+    mc "...!"
+
 # game/game/yeahfish.rpy:508
 translate ukrainian end_fishing_8693a646:
 
@@ -755,6 +761,60 @@ translate ukrainian sayo_fishing_36472ec4:
     # sa "Fishing looks more fun than I thought it would be."
     sa "Fishing looks more fun than I thought it would be."
 
+# game/game/yeahfish.rpy:842
+translate ukrainian night_fish_e747ba9f:
+
+    # t "Well, the mission said I was supposed to come at night."
+    t "Well, the mission said I was supposed to come at night."
+
+# game/game/yeahfish.rpy:843
+translate ukrainian night_fish_2c7073c8:
+
+    # t "Actually, I can see something big moving down there."
+    t "Actually, I can see something big moving down there."
+
+# game/game/yeahfish.rpy:844
+translate ukrainian night_fish_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/game/yeahfish.rpy:845
+translate ukrainian night_fish_e63baa3e:
+
+    # t "It's probably best not to say that out loud."
+    t "It's probably best not to say that out loud."
+
+# game/game/yeahfish.rpy:846
+translate ukrainian night_fish_14fa500c:
+
+    # mc "I'll try my luck."
+    mc "I'll try my luck."
+
+# game/game/yeahfish.rpy:874
+translate ukrainian night_beast_attack_c7ffb692:
+
+    # mc "H-Huh?!"
+    mc "H-Huh?!"
+
+# game/game/yeahfish.rpy:889
+translate ukrainian night_beast_attack_6434dfd2:
+
+    # mc "Ugh..."
+    mc "Ugh..."
+
+# game/game/yeahfish.rpy:892
+translate ukrainian night_beast_attack_62c3eda2:
+
+    # mc "G-Gh...!"
+    mc "G-Gh...!"
+
+# game/game/yeahfish.rpy:894
+translate ukrainian night_beast_attack_ff5cc23e:
+
+    # mc "Did that fish just slap me?!"
+    mc "Did that fish just slap me?!"
+
 translate ukrainian strings:
 
     # game/yeahfish.rpy:276
@@ -783,3 +843,9 @@ translate ukrainian strings:
 
     old "Now you can fish in Sakura Town!"
     new "Now you can fish in Sakura Town!"
+
+    old "The next day"
+    new "The next day"
+
+    old "You have obtained the Night Beast!"
+    new "You have obtained the Night Beast!"
