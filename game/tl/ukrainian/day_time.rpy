@@ -1286,8 +1286,14 @@ translate ukrainian strings:
     ###########################################################################################
     # consume_item_confirm
     old "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
-    new "{size=-15}Consume [consume_amount]x for {color=#FF464B}+[total_heal_display]HP{/color}?"
+    new "{size=-15}Спожити [consume_amount] шт. для {color=#FF464B}+[total_heal_display]ОЗ{/color}?"
+
+    old "{size=-15}You have: [quantity]"
+    new "{size=-15}У тебе: [quantity] шт."
+
+    old "{size=-20}MAX"
+    new "{size=-22}Макс."
     
     # item_info
     old "No description available."
-    new "No description available."
+    new "Немає опису."

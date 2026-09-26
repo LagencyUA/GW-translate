@@ -14672,10 +14672,10 @@ translate ukrainian strings: ## Стосується інтерфейсу кра
     new "{size=-13}Динна булочка"
 
     old "{size=-13}Sandwich"
-    new "{size=-13}Sandwich"
+    new "{size=-13}Канапка"
 
     old "{size=-13}Juice"
-    new "{size=-13}Juice"
+    new "{size=-13}Сік"
 
     old "{size=-13}Mini-Cannon"
     new "{size=-13}Mini-Cannon"

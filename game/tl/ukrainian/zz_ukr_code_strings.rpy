@@ -34,10 +34,15 @@ init python:
 
         # Переклад назв предметів у меню підтвердження купівлі
         "Melon Pan": [("динну булочку", "screen", "buy_confirm_screen")],
+        "Sandwich": [("канапку", "screen", "buy_confirm_screen")],
+        "Juice": [("сік", "screen", "buy_confirm_screen")],
         'You bought 1 Melon Pan!': [("Ти купив динну булочку!", "screen", "notify_stack")],
+        'You bought 1 Sandwich!': [("Ти купив канапку!", "screen", "notify_stack")],
+        'You bought 1 Juice!': [("Ти купив сік!", "screen", "notify_stack")],
 
         "Ні": [
             (" Ні", "screen", "buy_confirm_screen"),
+            (" Ні", "screen", "consume_item_confirm"),
             (" Ні", "screen", "build1_buy"),
             (" Ні", "screen", "build2_buy"),
             (" Ні", "screen", "build3_buy"),

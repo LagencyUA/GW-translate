@@ -71,16 +71,16 @@ translate ukrainian strings:
     new "Хрусткі палички в шоколадній глазурі.\n{color=#E3CD5B}Подарунок: Акане{/color}"
 
     old "Sandwich"
-    new "Sandwich"
+    new "Канапка"
 
     old "A tasty sandwich for when I get hungry."
-    new "A tasty sandwich for when I get hungry."
+    new "Смачна канапка, щоб втамувати голод."
 
     old "Juice"
-    new "Juice"
+    new "Сік"
 
     old "A very delicious natural juice."
-    new "A very delicious natural juice."
+    new "Дуже смачний натуральний сік."
 
     old "Melon Pan"
     new "Динна булочка"
