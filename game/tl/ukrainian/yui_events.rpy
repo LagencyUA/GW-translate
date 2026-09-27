@@ -4263,7 +4263,7 @@ translate ukrainian yui_store_mision_3cb193b7:
 translate ukrainian yui_store_mision_72b9a60c:
 
     # t "And also, this is not something I would like to miss..."
-    t "До того ж, я б не хотів це пропустити..."
+    t "До того ж я б не хотів це пропустити..."
 
 # game/game/yui_events.rpy:1518
 translate ukrainian yui_store_mision_f2eee194:
@@ -8595,7 +8595,7 @@ translate ukrainian yui_1_S_f9c205f5:
 translate ukrainian yui_1_S_533615e9:
 
     # mc "Besides, the fact that you're lying here tells me you don't want me to leave."
-    mc "До того ж, коли ти вже так вляглася, здається мені, що ти не хочеш, аби я пішов."
+    mc "До того ж коли ти вже так вляглася, здається мені, що ти не хочеш, аби я пішов."
 
 # game/game/yui_events.rpy:2797
 translate ukrainian yui_1_S_71a86863_1:
@@ -10905,7 +10905,7 @@ translate ukrainian sol_eventuno_032a6577:
 translate ukrainian sol_eventuno_308f2bf7:
 
     # so "The rumors were true..."
-    so "Отже чутки правдиві..."
+    so "Отже, чутки правдиві..."
 
 # game/game/yui_events.rpy:3422
 translate ukrainian sol_eventuno_2b35b6fe_1:
@@ -11205,43 +11205,43 @@ translate ukrainian sol_eventdos_2d727812:
 translate ukrainian sol_eventdos_6fb12789:
 
     # t "I get the feeling that something's going on here..."
-    t "I get the feeling that something's going on here..."
+    t "Відчуваю, щось тут назріває..."
 
 # game/game/yui_events.rpy:3531
 translate ukrainian sol_eventdos_541566b6:
 
     # y "Your training worked very well."
-    y "Your training worked very well."
+    y "Твої тренування мають гарний результат."
 
 # game/game/yui_events.rpy:3533
 translate ukrainian sol_eventdos_a06d5d1f:
 
     # y "I seem to have received a different soldier, hahaha."
-    y "I seem to have received a different soldier, hahaha."
+    y "Відчуття ніби до мене вернулася зовсім інша солдатка, хахаха."
 
 # game/game/yui_events.rpy:3534
 translate ukrainian sol_eventdos_4aadf486:
 
     # mc "Hahaha..."
-    mc "Hahaha..."
+    mc "Хахаха..."
 
 # game/game/yui_events.rpy:3536
 translate ukrainian sol_eventdos_a38905ea:
 
     # y "And that's why today only the two of you'll be competing to see who will go with [mc]."
-    y "And that's why today only the two of you'll be competing to see who will go with [mc]."
+    y "І саме тому сьогодні лише ви двоє будете змагатися за те, хто піде з [mc]."
 
 # game/game/yui_events.rpy:3537
 translate ukrainian sol_eventdos_25f12859:
 
     # so "Eeeh~~"
-    so "Eeeh~~"
+    so "Ееех~~"
 
 # game/game/yui_events.rpy:3539
 translate ukrainian sol_eventdos_21c47786:
 
     # y "70 push-ups."
-    y "70 push-ups."
+    y "70 віджимань."
 
 # game/game/yui_events.rpy:3540
 translate ukrainian sol_eventdos_62ecf5f1:
@@ -11253,457 +11253,457 @@ translate ukrainian sol_eventdos_62ecf5f1:
 translate ukrainian sol_eventdos_c57b8bdf:
 
     # so "AAAAaaaAAhh!"
-    so "AAAAaaaAAhh!"
+    so "ААААаааААхх!"
 
 # game/game/yui_events.rpy:3544
 translate ukrainian sol_eventdos_629aa85b:
 
     # so "Sigh*"
-    so "Sigh*"
+    so "{i}*Хааах*{/i}"
 
 # game/game/yui_events.rpy:3549
 translate ukrainian sol_eventdos_69a768ba:
 
     # so "I won!"
-    so "I won!"
+    so "Я перемогла!"
 
 # game/game/yui_events.rpy:3551
 translate ukrainian sol_eventdos_e5a31451:
 
     # so "Hmnm~ hmhnm~"
-    so "Hmnm~ hmhnm~"
+    so "{i}Хмнм~ хмхнм~{/i}"
 
 # game/game/yui_events.rpy:3552
 translate ukrainian sol_eventdos_948455e0:
 
     # mc "You put in a lot of effort."
-    mc "You put in a lot of effort."
+    mc "Ти доклала багацько зусиль."
 
 # game/game/yui_events.rpy:3553
 translate ukrainian sol_eventdos_8ed546fe:
 
     # y "Then, I leave her in your care."
-    y "Then, I leave her in your care."
+    y "Що ж, залишаю її на тебе."
 
 # game/game/yui_events.rpy:3555
 translate ukrainian sol_eventdos_430c6acc:
 
     # so "Will I also get a reward?"
-    so "Will I also get a reward?"
+    so "Я теж отримаю нагороду?"
 
 # game/game/yui_events.rpy:3556
 translate ukrainian sol_eventdos_c88bbb65:
 
     # y "Mmm?"
-    y "Mmm?"
+    y "Ммм?"
 
 # game/game/yui_events.rpy:3557
 translate ukrainian sol_eventdos_f2316b97:
 
     # mc "Ah."
-    mc "Ah."
+    mc "А."
 
 # game/game/yui_events.rpy:3559
 translate ukrainian sol_eventdos_3b2637dc:
 
     # y "Of course, as long as you listen to [mc]."
-    y "Of course, as long as you listen to [mc]."
+    y "Звісно, просто слухайся [mc]."
 
 # game/game/yui_events.rpy:3564
 translate ukrainian sol_eventdos_bff2738e:
 
     # y "I've never seen them so motivated by just one juice."
-    y "I've never seen them so motivated by just one juice."
+    y "Ще ніколи не бачила, щоб вони були так мотивовані через сік."
 
 # game/game/yui_events.rpy:3565
 translate ukrainian sol_eventdos_b6f8449b:
 
     # y "Maybe I should buy one too."
-    y "Maybe I should buy one too."
+    y "Може, і мені слід купити."
 
 # game/game/yui_events.rpy:3566
 translate ukrainian sol_eventdos_b890d82f:
 
     # mc "Hahaha.."
-    mc "Hahaha.."
+    mc "Хахаха.."
 
 # game/game/yui_events.rpy:3567
 translate ukrainian sol_eventdos_4d1a3f68:
 
     # mc "So, let's go."
-    mc "So, let's go."
+    mc "Ну, ходімо."
 
 # game/game/yui_events.rpy:3568
 translate ukrainian sol_eventdos_632fe781:
 
     # so "Y-Yes!"
-    so "Y-Yes!"
+    so "Т-Так!"
 
 # game/game/yui_events.rpy:3573
 translate ukrainian sol_eventdos_74fa2127:
 
     # mc "If I remember correctly, you have good resistance."
-    mc "If I remember correctly, you have good resistance."
+    mc "Якщо я правильно пам’ятаю, у тебе гарна стійкість."
 
 # game/game/yui_events.rpy:3575
 translate ukrainian sol_eventdos_2da7d6b2:
 
     # mc "It's very important for any combat if you know how to use it to your advantage."
-    mc "It's very important for any combat if you know how to use it to your advantage."
+    mc "У будь-якому бою надзвичайно важливо вміти користатися своїми сильними сторонами."
 
 # game/game/yui_events.rpy:3576
 translate ukrainian sol_eventdos_0c634d1b:
 
     # mc "Let's improve your sword skil-"
-    mc "Let's improve your sword skil-"
+    mc "Спробуємо покращити твої навички володіння меч-"
 
 # game/game/yui_events.rpy:3578
 translate ukrainian sol_eventdos_3330a1c3:
 
     # so "You are so cool~~{image=/bg/icons/heart_text.png}"
-    so "You are so cool~~{image=/bg/icons/heart_text.png}"
+    so "Ти такий крутий~~{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3579
 translate ukrainian sol_eventdos_2c8d56f8:
 
     # mc "Uh... well thanks... {w}let's get started..."
-    mc "Uh... well thanks... {w}let's get started..."
+    mc "Ух... дякую... {w}нумо вже почнімо..."
 
 # game/game/yui_events.rpy:3581
 translate ukrainian sol_eventdos_c7be75c6:
 
     # so "Yes!"
-    so "Yes!"
+    so "Так!"
 
 # game/game/yui_events.rpy:3584
 translate ukrainian sol_eventdos_cd0496bf:
 
     # t "With her stamina, she'll have no trouble keeping up with the pace of any fight."
-    t "With her stamina, she'll have no trouble keeping up with the pace of any fight."
+    t "З її витривалістю вона без проблем триматиме темп у будь-якому бою."
 
 # game/game/yui_events.rpy:3585
 translate ukrainian sol_eventdos_1196fecd:
 
     # t "Apparently she doesn't have much confidence in her abilities and that's holding her back."
-    t "Apparently she doesn't have much confidence in her abilities and that's holding her back."
+    t "Судячи з неї, вона не надто впевнена у своїх здібностях, і це її стримує."
 
 # game/game/yui_events.rpy:3587
 translate ukrainian sol_eventdos_e5ecc0cd:
 
     # t "But in spite of that, she listens to me attentively, and does every single thing I tell her perfectly."
-    t "But in spite of that, she listens to me attentively, and does every single thing I tell her perfectly."
+    t "Але, попри все, вона уважно мене слухає і бездоганно виконує абсолютно все, що я їй кажу."
 
 # game/game/yui_events.rpy:3588
 translate ukrainian sol_eventdos_7e87ea05:
 
     # t "It was a fairly quiet training session..."
-    t "It was a fairly quiet training session..."
+    t "Це тренування було досить спокійним..."
 
 # game/game/yui_events.rpy:3591
 translate ukrainian sol_eventdos_981d1b4f:
 
     # t "But even so..."
-    t "But even so..."
+    t "Але навіть так..."
 
 # game/game/yui_events.rpy:3593
 translate ukrainian sol_eventdos_3502953e:
 
     # mc "Ok, I think that's good for today."
-    mc "Ok, I think that's good for today."
+    mc "Гаразд. Думаю, на сьогодні досить."
 
 # game/game/yui_events.rpy:3594
 translate ukrainian sol_eventdos_632fe781_1:
 
     # so "Y-Yes!"
-    so "Y-Yes!"
+    so "Т-Так!"
 
 # game/game/yui_events.rpy:3595
 translate ukrainian sol_eventdos_acf40086:
 
     # mc "Do you want to sit down for a while? {w}You must feel tired."
-    mc "Do you want to sit down for a while? {w}You must feel tired."
+    mc "Не бажаєш, аби ми присіли трохи? {w}Ти, мабіть, стомилася."
 
 # game/game/yui_events.rpy:3596
 translate ukrainian sol_eventdos_377cd354:
 
     # so "Oh, thanks!"
-    so "Oh, thanks!"
+    so "О, дякую!"
 
 # game/game/yui_events.rpy:3598
 translate ukrainian sol_eventdos_50d402b7:
 
     # t "At least I learned something good from the previous girl."
-    t "At least I learned something good from the previous girl."
+    t "Принаймні я теж чомусь навчився від попередньої дівчини."
 
 # game/game/yui_events.rpy:3600
 translate ukrainian sol_eventdos_c10542e6:
 
     # t "It's important to rest after a good workout."
-    t "It's important to rest after a good workout."
+    t "Після інтенсивного тренування важливо відпочити."
 
 # game/game/yui_events.rpy:3602
 translate ukrainian sol_eventdos_a60d005a:
 
     # t "And it seems that this girl isn't the same as the previous one."
-    t "And it seems that this girl isn't the same as the previous one."
+    t "І, видно, ця дівчина зовсім не така, як попередня."
 
 # game/game/yui_events.rpy:3606
 translate ukrainian sol_eventdos_29efb0f4:
 
     # so "Excuse me, I'm going to claim my reward."
-    so "Excuse me, I'm going to claim my reward."
+    so "Перепрошую, я збираюся забрати свою нагороду."
 
 # game/game/yui_events.rpy:3607
 translate ukrainian sol_eventdos_0408ec33:
 
     # mc "Ah, yes, just go ahead."
-    mc "Ah, yes, just go ahead."
+    mc "А, так, уперед."
 
 # game/game/yui_events.rpy:3608
 translate ukrainian sol_eventdos_e11f132b:
 
     # t "I'll stop by to buy a-"
-    t "I'll stop by to buy a-"
+    t "Зробимо зупинку, і куплю їй..."
 
 # game/game/yui_events.rpy:3609
 translate ukrainian sol_eventdos_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Що?"
 
 # game/game/yui_events.rpy:3614
 translate ukrainian sol_eventdos_1df8df19:
 
     # mc "When did she?!"
-    mc "When did she?!"
+    mc "Коли вона встигла?!"
 
 # game/game/yui_events.rpy:3615
 translate ukrainian sol_eventdos_ae7324e4:
 
     # so "Aahh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Aahh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}Аахх~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3616
 translate ukrainian sol_eventdos_0433376a:
 
     # so "Amazing~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Amazing~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Неймовірно~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3617
 translate ukrainian sol_eventdos_d64ea903:
 
     # mc "By reward you mean..."
-    mc "By reward you mean..."
+    mc "Під нагородою ти казала про..."
 
 # game/game/yui_events.rpy:3619
 translate ukrainian sol_eventdos_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Ох..."
 
 # game/game/yui_events.rpy:3620
 translate ukrainian sol_eventdos_647a2413:
 
     # so "My partner told me about what you did."
-    so "My partner told me about what you did."
+    so "Моя напарниця розповіла мені про те, чим ви тут займалися."
 
 # game/game/yui_events.rpy:3621
 translate ukrainian sol_eventdos_6ddf89f0:
 
     # so "I've been anxious all day waiting for this...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "I've been anxious all day waiting for this...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Я весь день з нетерпінням чекала на це...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3622
 translate ukrainian sol_eventdos_1cd340e1:
 
     # mc "W-Wait, let me..."
-    mc "W-Wait, let me..."
+    mc "С-Стій, дозволь мені..."
 
 # game/game/yui_events.rpy:3624
 translate ukrainian sol_eventdos_3ba7840d:
 
     # mc "F-Fuck!"
-    mc "F-Fuck!"
+    mc "Н-Ніхуя!"
 
 # game/game/yui_events.rpy:3625
 translate ukrainian sol_eventdos_51408175:
 
     # so "Gmhnmhn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Gmhnmhn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}Гмхнмхн~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3626
 translate ukrainian sol_eventdos_30f65ec2:
 
     # so "Delicious~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Hmngmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}AAahnmn~~{image=/bg/icons/heart_text.png}"
-    so "Delicious~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Hmngmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}AAahnmn~~{image=/bg/icons/heart_text.png}"
+    so "Смакота~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Хмнгмн~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}ААахнмн~~{/i}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3627
 translate ukrainian sol_eventdos_d8644d93:
 
     # mc "She's sucking very hard!"
-    mc "She's sucking very hard!"
+    mc "Вона надто сильно смокче!"
 
 # game/game/yui_events.rpy:3628
 translate ukrainian sol_eventdos_8a040d21:
 
     # so "Yuuummy~~{image=/bg/icons/heart_text.png} {w}finally it's my turn{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Yuuummy~~{image=/bg/icons/heart_text.png} {w}finally it's my turn{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}Ммммх~~{/i}{image=/bg/icons/heart_text.png} {w}Нарешті моя черга{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3629
 translate ukrainian sol_eventdos_befca1b3:
 
     # so "My partner said you had a very fat and thick dick..."
-    so "My partner said you had a very fat and thick dick..."
+    so "Моя напарниця розповідала який товстий та великий твій член..."
 
 # game/game/yui_events.rpy:3630
 translate ukrainian sol_eventdos_2f530a7c:
 
     # so "She was right~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "She was right~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Вона не помилялася~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3633
 translate ukrainian sol_eventdos_d4b0fc06:
 
     # so "As my reward {w}Ghmnm~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w} I ask to give you pleasure~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "As my reward {w}Ghmnm~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w} I ask to give you pleasure~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Як нагороду {w}{i}Гхмнм~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w} я хочу принести тобі задоволення~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3634
 translate ukrainian sol_eventdos_95247c66:
 
     # t "I don't think this is the real idea of the rewards after training..."
-    t "I don't think this is the real idea of the rewards after training..."
+    t "Я не думаю, що це справжня суть нагород після тренувань..."
 
 # game/game/yui_events.rpy:3635
 translate ukrainian sol_eventdos_7efdcd5a:
 
     # mc "Y-You're doing great..."
-    mc "Y-You're doing great..."
+    mc "У т-тебе гарно виходить..."
 
 # game/game/yui_events.rpy:3637
 translate ukrainian sol_eventdos_a2c5e06c:
 
     # so "GhnmGNM!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Thank you! {w}AAMmnmhm~~{image=/bg/icons/heart_text.png} {image=/bg/icons/heart_text.png} "
-    so "GhnmGNM!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Thank you! {w}AAMmnmhm~~{image=/bg/icons/heart_text.png} {image=/bg/icons/heart_text.png} "
+    so "{i}ГхнмГНМ!!~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Дякую! {w}{i}ААМмнмхм~~{/i}{image=/bg/icons/heart_text.png} {image=/bg/icons/heart_text.png} "
 
 # game/game/yui_events.rpy:3638
 translate ukrainian sol_eventdos_e0e9fff1:
 
     # t "Shit, she got more intense!"
-    t "Shit, she got more intense!"
+    t "Лайно, її рухи стали інтенсивнішими!"
 
 # game/game/yui_events.rpy:3639
 translate ukrainian sol_eventdos_2259e246:
 
     # so "AAaamhnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Sluurrrp~~ {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuushmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "AAaamhnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Sluurrrp~~ {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuushmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}ААаамхнм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Сьоооррб~~{/i} {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Тсуушмнм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3642
 translate ukrainian sol_eventdos_2550eb78:
 
     # so "MMnhm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}GHMNGHNM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "MMnhm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}GHMNGHNM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}ММнхм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}ГХМНГХНМ~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3643
 translate ukrainian sol_eventdos_64e5fa34:
 
     # t "She's swallowing me completely!"
-    t "She's swallowing me completely!"
+    t "Вона повністю поглинає мене!"
 
 # game/game/yui_events.rpy:3644
 translate ukrainian sol_eventdos_d1fd6a9e:
 
     # so "I'll make your cock feel even better!!"
-    so "I'll make your cock feel even better!!"
+    so "Я зроблю твоєму члену ще приємніше!!"
 
 # game/game/yui_events.rpy:3645
 translate ukrainian sol_eventdos_aed04d36:
 
     # so "Hmhnhh~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}AaahAHNM~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Shoo deliciuus~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Hmhnhh~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}AaahAHNM~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Shoo deliciuus~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}Хмхнхх~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}АаахАХНМ~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}ях смааашно~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3647
 translate ukrainian sol_eventdos_e2f25f79:
 
     # mc "I can't take it anymore!"
-    mc "I can't take it anymore!"
+    mc "Я більше не можу стримуватися!"
 
 # game/game/yui_events.rpy:3650
 translate ukrainian sol_eventdos_a4ab1aae:
 
     # so "Let it {w}GMHNMNKM~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}all out in my mouth~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Let it {w}GMHNMNKM~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}all out in my mouth~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Випусти {w}{i}ГМХНМНКМ~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}усе прямо до мого ротика~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3651
 translate ukrainian sol_eventdos_2cb087b6:
 
     # so "Don't {w}SLLURRRPP~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}hold back~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Don't {w}SLLURRRPP~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}hold back~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Не {w}{i}СЬООРРБ~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}стримуйся~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3652
 translate ukrainian sol_eventdos_ab74950e:
 
     # so "Just do it {w}Tsusuuumnmh~~ {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}and I'll take care {w}MNMHNNM~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}of the rest!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Just do it {w}Tsusuuumnmh~~ {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}and I'll take care {w}MNMHNNM~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}of the rest!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Просто зроби, {w}{i}Тсусууумнмх~~{/i} {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}а я подбаю {w}{i}МНМХННМ~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}про все інше!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3654
 translate ukrainian sol_eventdos_3ebccedf:
 
     # mc "I'm-"
-    mc "I'm-"
+    mc "Я-"
 
 # game/game/yui_events.rpy:3658
 translate ukrainian sol_eventdos_f054cf2e:
 
     # so "GHMMMNHhmnmnnmmmnm~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "GHMMMNHhmnmnnmmmnm~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}ГХМММНХхмнмннмммнм~~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3660
 translate ukrainian sol_eventdos_ec147169:
 
     # so "GHMNM~~{image=/bg/icons/heart_text.png} {w}guuulp** {w}guulp* {image=/bg/icons/heart_text.png}"
-    so "GHMNM~~{image=/bg/icons/heart_text.png} {w}guuulp** {w}guulp* {image=/bg/icons/heart_text.png}"
+    so "{i}ГХМНМ~~{/i}{image=/bg/icons/heart_text.png} {w}{i}*кооовт*{/i} {w}{i}*коовть*{/i} {image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3661
 translate ukrainian sol_eventdos_1f2bf20e:
 
     # mc "Fuuuck..."
-    mc "Fuuuck..."
+    mc "Їбааать..."
 
 # game/game/yui_events.rpy:3664
 translate ukrainian sol_eventdos_9f07725b:
 
     # so "GuuAHHhnmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "GuuAHHhnmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}ГууАХХхнмнм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3666
 translate ukrainian sol_eventdos_d9672340:
 
     # so "T-Thank you!"
-    so "T-Thank you!"
+    so "Д-Дякую тобі!"
 
 # game/game/yui_events.rpy:3667
 translate ukrainian sol_eventdos_c3f869ad:
 
     # mc "I should be thanking you..."
-    mc "I should be thanking you..."
+    mc "Це я мав би дякувати..."
 
 # game/game/yui_events.rpy:3683
 translate ukrainian sol_eventdos_62449935:
 
     # y "[mc]! {w}How did it go?"
-    y "[mc]! {w}How did it go?"
+    y "[mc]! {w}Як усе пройшло?"
 
 # game/game/yui_events.rpy:3684
 translate ukrainian sol_eventdos_333eaf7a:
 
     # mc "Very... {w}good..."
-    mc "Very... {w}good..."
+    mc "Дуже... {w}добре..."
 
 # game/game/yui_events.rpy:3685
 translate ukrainian sol_eventdos_11ba939f:
 
     # mc "It was a good training session..."
-    mc "It was a good training session..."
+    mc "Гарне тренування було..."
 
 # game/game/yui_events.rpy:3690
 translate ukrainian sol_eventdos_71a86863:
@@ -11715,13 +11715,13 @@ translate ukrainian sol_eventdos_71a86863:
 translate ukrainian sol_eventdos_d566c4e3:
 
     # y "M-Maybe you need a break...?"
-    y "M-Maybe you need a break...?"
+    y "М-Можливо тобі зробити переву...?"
 
 # game/game/yui_events.rpy:3693
 translate ukrainian sol_eventdos_a2ba8aed:
 
     # mc "It's okay, I just need to take a relaxing shower..."
-    mc "It's okay, I just need to take a relaxing shower..."
+    mc "Усе гаразд, мені просто треба гарненько розслабитися під душем..."
 
 # game/game/yui_events.rpy:3699
 translate ukrainian sol_eventdos_c378f7e5:
