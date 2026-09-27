@@ -526,11 +526,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1335
     old "{color=#FFFFFF}N{/color}-Event\nGo \"hang out\" with {color=#E7CAE5}Shika{/color} in the morning."
-    new "{color=#FFFFFF}N{/color}-Event\nGo \"hang out\" with {color=#E7CAE5}Shika{/color} in the morning."
+    new "{color=#FFFFFF}З{/color}-подія [[Вимога]\nПогуляй з {color=#E7CAE5}Шикою{/color} вранці."
 
     # game/day_time.rpy:1337
     old "{color=#FFFFFF}N{/color}-Event\nGo ask {color=#E7CAE5}Shika{/color} about the boxes in the morning (You need 10 gold)."
-    new "{color=#FFFFFF}N{/color}-Event\nGo ask {color=#E7CAE5}Shika{/color} about the boxes in the morning (You need 10 gold)."
+    new "{color=#FFFFFF}З{/color}-подія [[Вимога]\nСпитай {color=#E7CAE5}Шику{/color} про коробки вранці (Знадобиться 10 золотих монет)."
 
     # game/day_time.rpy:1339
     old "{color=#FFFFFF}N{/color}-Event\nVisit {color=#E7CAE5}Shika{/color} again in the morning."
