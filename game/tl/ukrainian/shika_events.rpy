@@ -6003,7 +6003,7 @@ translate ukrainian shika_hrep_1b1c65df:
 translate ukrainian shika_spend_events_cc81157d:
 
     # "You need 10 gold to continue."
-    "You need 10 gold to continue."
+    "Необхідно принаймні 10 золотих монет, щоб продовжити."
 
 # game/game/shika_events.rpy:1837
 translate ukrainian shika_spend_events_3a7fb712:
@@ -6693,31 +6693,31 @@ translate ukrainian shika_eventuno_1ca7820c:
 translate ukrainian shika_eventdos_afc51417:
 
     # s "Are you coming to pick up the stuff?"
-    s "Are you coming to pick up the stuff?"
+    s "Ти прийшов за речима?"
 
 # game/game/shika_events.rpy:2031
 translate ukrainian shika_eventdos_e473acdb:
 
     # mc "Yes, do you have it ready?"
-    mc "Yes, do you have it ready?"
+    mc "Так. Тут уже все готово?"
 
 # game/game/shika_events.rpy:2033
 translate ukrainian shika_eventdos_adb082a7:
 
     # s "Yes, the Doctor and I prepared it all yesterday."
-    s "Yes, the Doctor and I prepared it all yesterday."
+    s "Угу, Лікарка разом зі мною спакувала все ще вчора."
 
 # game/game/shika_events.rpy:2035
 translate ukrainian shika_eventdos_fea3f556:
 
     # mc "There was no need to rush."
-    mc "There was no need to rush."
+    mc "Не варто було так поспішати."
 
 # game/game/shika_events.rpy:2037
 translate ukrainian shika_eventdos_94a951ae:
 
     # s "Hmm! {w}We don't waste time here, little one."
-    s "Hmm! {w}We don't waste time here, little one."
+    s "Гмм! {w}Ми тут не б'ємо байдики, хлопчику."
 
 # game/game/shika_events.rpy:2039
 translate ukrainian shika_eventdos_2b35b6fe:
@@ -6729,13 +6729,13 @@ translate ukrainian shika_eventdos_2b35b6fe:
 translate ukrainian shika_eventdos_8e1aa6ad:
 
     # t "That's why she's shaking..."
-    t "That's why she's shaking..."
+    t "Ось чому вона так труситься..."
 
 # game/game/shika_events.rpy:2041
 translate ukrainian shika_eventdos_953fcefc:
 
     # s "Where are you looking!"
-    s "Where are you looking!"
+    s "На що ти дивишся!"
 
 # game/game/shika_events.rpy:2043
 translate ukrainian shika_eventdos_e1554201:
@@ -6747,43 +6747,43 @@ translate ukrainian shika_eventdos_e1554201:
 translate ukrainian shika_eventdos_df64fcdb:
 
     # s "You're going to attack me! {w}My danger sensor has been activated!"
-    s "You're going to attack me! {w}My danger sensor has been activated!"
+    s "Збираєшся напасти на мене! {w}Мої відчуття небезпеки загострилися!"
 
 # game/game/shika_events.rpy:2046
 translate ukrainian shika_eventdos_e4be6021:
 
     # mc "Sigh*"
-    mc "Sigh*"
+    mc "{i}*Хааах*{/i}"
 
 # game/game/shika_events.rpy:2048
 translate ukrainian shika_eventdos_6b3edef0:
 
     # s "Don't do anything or else I won't help you carry them!"
-    s "Don't do anything or else I won't help you carry them!"
+    s "Не смій нічого коїти, інакше я тобі не допоможу їх віднести!"
 
 # game/game/shika_events.rpy:2050
 translate ukrainian shika_eventdos_5b3f15ec:
 
     # mc "Mmm? {w}I don't think I need help with those boxes."
-    mc "Mmm? {w}I don't think I need help with those boxes."
+    mc "Ммм? {w}Не думаю, що мені знадобиься твоя допомога з цими коробками."
 
 # game/game/shika_events.rpy:2052
 translate ukrainian shika_eventdos_02e7a072:
 
     # s "The doctor strictly said not to let you carry the boxes alone."
-    s "The doctor strictly said not to let you carry the boxes alone."
+    s "Лікарка мені чітко сказала, аби я не дозволила тобі нести їх самому."
 
 # game/game/shika_events.rpy:2054
 translate ukrainian shika_eventdos_c716495b:
 
     # s "So the great Shika will help you bring them to your storage."
-    s "So the great Shika will help you bring them to your storage."
+    s "Тож велична Шика тобі допоможе віднести їх до комори."
 
 # game/game/shika_events.rpy:2055
 translate ukrainian shika_eventdos_e6ae7581:
 
     # s "Hu hum!"
-    s "Hu hum!"
+    s "{i}Ху-хум!{/i}"
 
 # game/game/shika_events.rpy:2056
 translate ukrainian shika_eventdos_2b35b6fe_1:
@@ -6795,25 +6795,25 @@ translate ukrainian shika_eventdos_2b35b6fe_1:
 translate ukrainian shika_eventdos_965abc71:
 
     # mc "I'm supposed to store everything that's here, right?"
-    mc "I'm supposed to store everything that's here, right?"
+    mc "Отже, мені треба сховати все, що тут, правильно?"
 
 # game/game/shika_events.rpy:2059
 translate ukrainian shika_eventdos_d96e0c5a:
 
     # s "Exactly~ {w}Exactly~"
-    s "Exactly~ {w}Exactly~"
+    s "Саме~ {w}так~"
 
 # game/game/shika_events.rpy:2061
 translate ukrainian shika_eventdos_85785fdb:
 
     # mc "Perfect."
-    mc "Perfect."
+    mc "Добренько."
 
 # game/game/shika_events.rpy:2063
 translate ukrainian shika_eventdos_073187e0:
 
     # mc "I already have one."
-    mc "I already have one."
+    mc "Почну з першої."
 
 # game/game/shika_events.rpy:2064
 translate ukrainian shika_eventdos_e1554201_1:
@@ -6825,7 +6825,7 @@ translate ukrainian shika_eventdos_e1554201_1:
 translate ukrainian shika_eventdos_204f639e:
 
     # mc "I may have to come back for the rest later..."
-    mc "I may have to come back for the rest later..."
+    mc "Доведеться пізніше повернутися за іншими..."
 
 # game/game/shika_events.rpy:2067
 translate ukrainian shika_eventdos_e1554201_2:
@@ -6837,37 +6837,37 @@ translate ukrainian shika_eventdos_e1554201_2:
 translate ukrainian shika_eventdos_c5f35c19:
 
     # s "What are you doing!"
-    s "What are you doing!"
+    s "Що ти робиш!"
 
 # game/game/shika_events.rpy:2070
 translate ukrainian shika_eventdos_364b6af9:
 
     # mc "But you said it yourself."
-    mc "But you said it yourself."
+    mc "Ти ж сама сказала."
 
 # game/game/shika_events.rpy:2072
 translate ukrainian shika_eventdos_5b40ce2b:
 
     # s "Shika isn't one of them!"
-    s "Shika isn't one of them!"
+    s "Шика в цей перелік не входить!"
 
 # game/game/shika_events.rpy:2073
 translate ukrainian shika_eventdos_e9fa5168:
 
     # mc "Aaah... {w}you should be more specific."
-    mc "Aaah... {w}you should be more specific."
+    mc "Ааа... {w}треба було одразу так сказати."
 
 # game/game/shika_events.rpy:2075
 translate ukrainian shika_eventdos_435f6f21:
 
     # s "Why would I need to be put in storage?!"
-    s "Why would I need to be put in storage?!"
+    s "Навіщо взагалі мене класти у комору?!"
 
 # game/game/shika_events.rpy:2076
 translate ukrainian shika_eventdos_d765ac85:
 
     # mc "Sorry, sorry, {w}help me with this."
-    mc "Sorry, sorry, {w}help me with this."
+    mc "Пробач, пробач. {w}Допоможи мені, будь ласка."
 
 # game/game/shika_events.rpy:2078
 translate ukrainian shika_eventdos_e1554201_3:
@@ -6879,7 +6879,7 @@ translate ukrainian shika_eventdos_e1554201_3:
 translate ukrainian shika_eventdos_69de46d9:
 
     # mc "It's always good to have a little help."
-    mc "It's always good to have a little help."
+    mc "Як добре, коли тобі трохи допомагають."
 
 # game/game/shika_events.rpy:2082
 translate ukrainian shika_eventdos_e1554201_4:
@@ -6891,145 +6891,145 @@ translate ukrainian shika_eventdos_e1554201_4:
 translate ukrainian shika_eventdos_6b6d2196:
 
     # v "{size=-10}Is it some kind of game?.."
-    v "{size=-10}Is it some kind of game?.."
+    v "{size=-10}Це якась нова забавка?.."
 
 # game/game/shika_events.rpy:2091
 translate ukrainian shika_eventdos_e842f754:
 
     # mc "We're here."
-    mc "We're here."
+    mc "Ми прибули."
 
 # game/game/shika_events.rpy:2093
 translate ukrainian shika_eventdos_c03f9837:
 
     # mc "Now we have to carry the boxes to the storage room."
-    mc "Now we have to carry the boxes to the storage room."
+    mc "Тепер треба занести їх у комору."
 
 # game/game/shika_events.rpy:2095
 translate ukrainian shika_eventdos_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/shika_events.rpy:2097
 translate ukrainian shika_eventdos_e7865fb5:
 
     # mc "Hey, it was a joke, I'm really glad you want to help me."
-    mc "Hey, it was a joke, I'm really glad you want to help me."
+    mc "Агов, я ж пожартував. Мені справді приємно, що ти допомагла."
 
 # game/game/shika_events.rpy:2099
 translate ukrainian shika_eventdos_ba5f62fc:
 
     # s "{size=-10}I didn't help at all~~"
-    s "{size=-10}I didn't help at all~~"
+    s "{size=-10}Я взагалі нічого не зробила~~"
 
 # game/game/shika_events.rpy:2101
 translate ukrainian shika_eventdos_1fbcf6c3:
 
     # s "All I did was give you more work~~"
-    s "All I did was give you more work~~"
+    s "Тільки додала тобі більше роботи~~"
 
 # game/game/shika_events.rpy:2102
 translate ukrainian shika_eventdos_0d42a666:
 
     # mc "When we finish I'll give you ice cream, what do you say."
-    mc "When we finish I'll give you ice cream, what do you say."
+    mc "Коли ми закінчимо, я куплю тобі морозиво. Що скажеш?"
 
 # game/game/shika_events.rpy:2104
 translate ukrainian shika_eventdos_721dae82:
 
     # s "Ice cream?!"
-    s "Ice cream?!"
+    s "Морозиво?!"
 
 # game/game/shika_events.rpy:2105
 translate ukrainian shika_eventdos_655ef65d:
 
     # t "Oh, that was fast."
-    t "Oh, that was fast."
+    t "Ого, це було швидко."
 
 # game/game/shika_events.rpy:2106
 translate ukrainian shika_eventdos_48bcf210:
 
     # mc "Come, the room is this way."
-    mc "Come, the room is this way."
+    mc "Ходімо, комора там."
 
 # game/game/shika_events.rpy:2108
 translate ukrainian shika_eventdos_0287578a:
 
     # s "Yeees~"
-    s "Yeees~"
+    s "Тааак~"
 
 # game/game/shika_events.rpy:2110
 translate ukrainian shika_eventdos_01b9dff1:
 
     # s "Ice cream~ {w}Icee icream~"
-    s "Ice cream~ {w}Icee icream~"
+    s "Морозиво~ {w}Морозивко~"
 
 # game/game/shika_events.rpy:2111
 translate ukrainian shika_eventdos_02e1f273:
 
     # mc "I see you like ice cream."
-    mc "I see you like ice cream."
+    mc "Бачу, тобі так подобається морозиво."
 
 # game/game/shika_events.rpy:2112
 translate ukrainian shika_eventdos_16743783:
 
     # s "I love it! {w}But when I eat it too fast my brain freezes!"
-    s "I love it! {w}But when I eat it too fast my brain freezes!"
+    s "Я обожнюю його! {w}Але коли швидко їм, аж мізки мерзнуть!"
 
 # game/game/shika_events.rpy:2113
 translate ukrainian shika_eventdos_bfbe26e7:
 
     # mc "Hahaha, then just don't do that."
-    mc "Hahaha, then just don't do that."
+    mc "Хахаха, тоді просто не роби так."
 
 # game/game/shika_events.rpy:2114
 translate ukrainian shika_eventdos_f73856c6:
 
     # s "And let it melt?! {w}No sir~"
-    s "And let it melt?! {w}No sir~"
+    s "І щоб воно розтануло?! {w}Нізащо~"
 
 # game/game/shika_events.rpy:2116
 translate ukrainian shika_eventdos_d96b9c3d:
 
     # mc "Let's leave them there."
-    mc "Let's leave them there."
+    mc "Залишимо їх тут."
 
 # game/game/shika_events.rpy:2117
 translate ukrainian shika_eventdos_f47c567a:
 
     # s "Okay!"
-    s "Okay!"
+    s "Гаразд!"
 
 # game/game/shika_events.rpy:2119
 translate ukrainian shika_eventdos_53afee91:
 
     # s "This place is full of stuff! {w}What do you keep here?"
-    s "This place is full of stuff! {w}What do you keep here?"
+    s "Тут так багато всілякого! {w}Що ти взагалі тут зберігаєш?"
 
 # game/game/shika_events.rpy:2120
 translate ukrainian shika_eventdos_75144db0:
 
     # mc "None of this is mine, so I have no idea."
-    mc "None of this is mine, so I have no idea."
+    mc "Нічого з цього мені не належить, тому я навіть гадки не маю."
 
 # game/game/shika_events.rpy:2122
 translate ukrainian shika_eventdos_c91d702b:
 
     # s "If I were you I'd have already opened everything to see what's inside."
-    s "If I were you I'd have already opened everything to see what's inside."
+    s "Я б на твоєму місці вже давно все повідкривала, аби поглянути, що ж там таке лижить."
 
 # game/game/shika_events.rpy:2123
 translate ukrainian shika_eventdos_08ac1779:
 
     # mc "And what do you think you would find?"
-    mc "And what do you think you would find?"
+    mc "І що ти розраховуєш там знайти?"
 
 # game/game/shika_events.rpy:2125
 translate ukrainian shika_eventdos_a93c9dd6:
 
     # s "Maybe there's ice cream!"
-    s "Maybe there's ice cream!"
+    s "Як щодо морозива!"
 
 # game/game/shika_events.rpy:2126
 translate ukrainian shika_eventdos_2b35b6fe_2:
@@ -7041,25 +7041,25 @@ translate ukrainian shika_eventdos_2b35b6fe_2:
 translate ukrainian shika_eventdos_5e87163f:
 
     # mc "Do you know that if there was ice cream, it would be all melted and expired by now?"
-    mc "Do you know that if there was ice cream, it would be all melted and expired by now?"
+    mc "Ти ж розумієш: якби воно там і було, то вже давно розтануло б і зіпсувалося?"
 
 # game/game/shika_events.rpy:2129
 translate ukrainian shika_eventdos_eb31cb59:
 
     # s "Shi, shi, {w}shiii!"
-    s "Shi, shi, {w}shiii!"
+    s "Хі-хі-{w}хііі!"
 
 # game/game/shika_events.rpy:2130
 translate ukrainian shika_eventdos_4698326e:
 
     # mc "Eh-"
-    mc "Eh-"
+    mc "Ех-"
 
 # game/game/shika_events.rpy:2132
 translate ukrainian shika_eventdos_ef49f74b:
 
     # s "Ice cream melts when we eat it! {w}How silly that you don't know that."
-    s "Ice cream melts when we eat it! {w}How silly that you don't know that."
+    s "Морозиво тане, тільки коли його їсти! {w}Який ти дурник, що цього не знав."
 
 # game/game/shika_events.rpy:2137
 translate ukrainian shika_eventdos_2b35b6fe_3:
@@ -7071,31 +7071,31 @@ translate ukrainian shika_eventdos_2b35b6fe_3:
 translate ukrainian shika_eventdos_ed753cf8:
 
     # mc "You're right Shika... {w}Sob*"
-    mc "You're right Shika... {w}Sob*"
+    mc "Твоя правда, Шико... {w}{i}*Хник*{/i}"
 
 # game/game/shika_events.rpy:2141
 translate ukrainian shika_eventdos_47d96448:
 
     # s "Uhmn? {w}Why do you look so sad?"
-    s "Uhmn? {w}Why do you look so sad?"
+    s "Угм? {w}Чому ти такий засмучений?"
 
 # game/game/shika_events.rpy:2143
 translate ukrainian shika_eventdos_182ed071:
 
     # mc "L... {w}Let's go to Tomoe's shop to get the ice cream..."
-    mc "L... {w}Let's go to Tomoe's shop to get the ice cream..."
+    mc "П-... {w}Просто ходімо до Томое, я візьму тобі морозива..."
 
 # game/game/shika_events.rpy:2144
 translate ukrainian shika_eventdos_ef27558a:
 
     # s "Wait! {w}[mc]?!"
-    s "Wait! {w}[mc]?!"
+    s "Зачекай! {w}[mc]?!"
 
 # game/game/shika_events.rpy:2146
 translate ukrainian shika_eventdos_cfcd2c36:
 
     # t "There's nothing more to do..."
-    t "There's nothing more to do..."
+    t "Тут уже нічого не вдієш..."
 
 # game/game/shika_events.rpy:2147
 translate ukrainian shika_eventdos_05a40e23:
@@ -7107,139 +7107,139 @@ translate ukrainian shika_eventdos_05a40e23:
 translate ukrainian shika_eventdos_c2c4e3f8:
 
     # t "There must be a good reason for her to believe that..."
-    t "There must be a good reason for her to believe that..."
+    t "Мабуть, у неї є вагома причина так вважати..."
 
 # game/game/shika_events.rpy:2158
 translate ukrainian shika_eventdos_0e164245:
 
     # mc "Is it good?"
-    mc "Is it good?"
+    mc "Як тобі?"
 
 # game/game/shika_events.rpy:2159
 translate ukrainian shika_eventdos_18a78fac:
 
     # s "Hmm!"
-    s "Hmm!"
+    s "Гмм!"
 
 # game/game/shika_events.rpy:2161
 translate ukrainian shika_eventdos_87c0cc87:
 
     # s "It's delicious!"
-    s "It's delicious!"
+    s "Смакота!"
 
 # game/game/shika_events.rpy:2162
 translate ukrainian shika_eventdos_57b22b54:
 
     # mc "Do you have to go home right away or would you like me to accompany you a little longer?"
-    mc "Do you have to go home right away or would you like me to accompany you a little longer?"
+    mc "Тобі вже треба бігти додому, чи хочеш, аби я побув з тобою ще трохи?"
 
 # game/game/shika_events.rpy:2164
 translate ukrainian shika_eventdos_452bb69b:
 
     # s "Let's go!"
-    s "Let's go!"
+    s "Ходімо!"
 
 # game/game/shika_events.rpy:2166
 translate ukrainian shika_eventdos_6f7f7054:
 
     # t "I think that means the second one..."
-    t "I think that means the second one..."
+    t "Гадаю, це означає другий варіант..."
 
 # game/game/shika_events.rpy:2169
 translate ukrainian shika_eventdos_87ecdedc:
 
     # mc "Today is a nice day."
-    mc "Today is a nice day."
+    mc "Сьогодні чудовий день."
 
 # game/game/shika_events.rpy:2171
 translate ukrainian shika_eventdos_d18dd42f:
 
     # s "Perfect to eat ice cream after a day's work."
-    s "Perfect to eat ice cream after a day's work."
+    s "Ідеальний, щоб поласувати морозивом після роботи."
 
 # game/game/shika_events.rpy:2173
 translate ukrainian shika_eventdos_27337dca:
 
     # mc "Work you say... {w}and the day isn't over yet.."
-    mc "Work you say... {w}and the day isn't over yet.."
+    mc "«Роботи» кажеш... {w}але день ще не закінчився.."
 
 # game/game/shika_events.rpy:2175
 translate ukrainian shika_eventdos_beb0e5ff:
 
     # s "I like these little moments~"
-    s "I like these little moments~"
+    s "Люблю такі моменти~"
 
 # game/game/shika_events.rpy:2176
 translate ukrainian shika_eventdos_db436705:
 
     # s "When I can lie on the ground and eat ice cream while looking at the shape of the clouds~"
-    s "When I can lie on the ground and eat ice cream while looking at the shape of the clouds~"
+    s "Ось так лежати і їсти морозиво, роздивляючись на що схожі хмаринки~"
 
 # game/game/shika_events.rpy:2177
 translate ukrainian shika_eventdos_867fc38b:
 
     # mc "And when you're carried through a village holding a box?"
-    mc "And when you're carried through a village holding a box?"
+    mc "І коли тебе несуть всім селищем, поки ти тримаєш коробку?"
 
 # game/game/shika_events.rpy:2179
 translate ukrainian shika_eventdos_bf9bdd8b:
 
     # s "Yes."
-    s "Yes."
+    s "Так."
 
 # game/game/shika_events.rpy:2180
 translate ukrainian shika_eventdos_9b2745dd:
 
     # mc "...{w} That was a joke..."
-    mc "...{w} That was a joke..."
+    mc "...{w} Це був жарт..."
 
 # game/game/shika_events.rpy:2182
 translate ukrainian shika_eventdos_6991ecc6:
 
     # s "And when you are nice and spend time with me."
-    s "And when you are nice and spend time with me."
+    s "І коли ти добрий та проводиш час зі мною."
 
 # game/game/shika_events.rpy:2183
 translate ukrainian shika_eventdos_7e660e71:
 
     # mc "Hey... {w}you're the one who plays around and tests my patience."
-    mc "Hey... {w}you're the one who plays around and tests my patience."
+    mc "Слухай... {w}це ти постійно бавишся і випробовуєш моє терпіння."
 
 # game/game/shika_events.rpy:2185
 translate ukrainian shika_eventdos_ebe74100:
 
     # s "I get a kind of nostalgic feeling, and that reassures me."
-    s "I get a kind of nostalgic feeling, and that reassures me."
+    s "Відчуваю певну ностальгію, і це заспокоює мене."
 
 # game/game/shika_events.rpy:2186
 translate ukrainian shika_eventdos_ae634c52:
 
     # mc "Oh, I didn't think \"a Shika\" could think like that."
-    mc "Oh, I didn't think \"a Shika\" could think like that."
+    mc "Ого, я й не знав, що «Шика» здатна на такі роздуми."
 
 # game/game/shika_events.rpy:2188
 translate ukrainian shika_eventdos_7c9a1446:
 
     # s "Why are you talking as if I'm a different type of human!"
-    s "Why are you talking as if I'm a different type of human!"
+    s "Чому ти говориш так, ніби я — особливий підвид людей?!"
 
 # game/game/shika_events.rpy:2189
 translate ukrainian shika_eventdos_4aadf486:
 
     # mc "Hahaha..."
-    mc "Hahaha..."
+    mc "Хахаха..."
 
 # game/game/shika_events.rpy:2191
 translate ukrainian shika_eventdos_ee6959a2:
 
     # mc "Wait, {w}why nostalgic?"
-    mc "Wait, {w}why nostalgic?"
+    mc "Зажди, {w}чому ностальгію?"
 
 # game/game/shika_events.rpy:2192
 translate ukrainian shika_eventdos_52bf30d8:
 
     # mc "You mean you used to do it with Hana, right?"
-    mc "You mean you used to do it with Hana, right?"
+    mc "Тобто ти колись робила подібне з Ханою?"
 
 # game/game/shika_events.rpy:2194
 translate ukrainian shika_eventdos_e1554201_5:
@@ -7251,73 +7251,73 @@ translate ukrainian shika_eventdos_e1554201_5:
 translate ukrainian shika_eventdos_41a06542:
 
     # s "I don't know... {w}remember I told you the doctor found me?"
-    s "I don't know... {w}remember I told you the doctor found me?"
+    s "Не знаю... {w}Пам'ятаєш, я тобі розповідала, як Лікарка знайшла мене?"
 
 # game/game/shika_events.rpy:2197
 translate ukrainian shika_eventdos_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/shika_events.rpy:2199
 translate ukrainian shika_eventdos_6f6178e7:
 
     # s "Well, that's all I know."
-    s "Well, that's all I know."
+    s "Ну, це останнє, що я пам'ятаю."
 
 # game/game/shika_events.rpy:2200
 translate ukrainian shika_eventdos_b25d9c7f:
 
     # s "I don't remember anything else."
-    s "I don't remember anything else."
+    s "І більше нічогісінько до цього."
 
 # game/game/shika_events.rpy:2201
 translate ukrainian shika_eventdos_6b76d23b:
 
     # mc "Nothing? {w}Your life before this? {w}Your family?"
-    mc "Nothing? {w}Your life before this? {w}Your family?"
+    mc "Нічого? {w}Своє життя до цього? {w}Власну родину?"
 
 # game/game/shika_events.rpy:2203
 translate ukrainian shika_eventdos_83f6262e:
 
     # s "I just remember those little things I told you about, {w}maybe because that was the last thing I saw."
-    s "I just remember those little things I told you about, {w}maybe because that was the last thing I saw."
+    s "Я лише пам'ятаю ті дрібниці, які розповіла тобі. {w}Можливо, саме тому, що це останнє, що я бачила."
 
 # game/game/shika_events.rpy:2205
 translate ukrainian shika_eventdos_3ade1e7f:
 
     # s "Apparently, I hit my head!"
-    s "Apparently, I hit my head!"
+    s "Судячи з усього, я вдарилася головою!"
 
 # game/game/shika_events.rpy:2206
 translate ukrainian shika_eventdos_f7d3cdb3:
 
     # mc "That makes sense."
-    mc "That makes sense."
+    mc "Логічно."
 
 # game/game/shika_events.rpy:2208
 translate ukrainian shika_eventdos_07c3a148:
 
     # s "What do you mean by that!"
-    s "What do you mean by that!"
+    s "На що ти натякаєш!"
 
 # game/game/shika_events.rpy:2209
 translate ukrainian shika_eventdos_e2f3f9cc:
 
     # mc "Did I say it out loud?"
-    mc "Did I say it out loud?"
+    mc "Я це в голос сказав?"
 
 # game/game/shika_events.rpy:2211
 translate ukrainian shika_eventdos_24a20c24:
 
     # s "Hmmp!"
-    s "Hmmp!"
+    s "{i}Хммп!{/i}"
 
 # game/game/shika_events.rpy:2212
 translate ukrainian shika_eventdos_5dfb6faa:
 
     # mc "Hahaha never mind. {w}It's still worrying though, what if there's someone looking for you?"
-    mc "Hahaha never mind. {w}It's still worrying though, what if there's someone looking for you?"
+    mc "Хахаха, пробач. {w}Однак я досі занепокоєний. Що якщо є хтось, хто тебе шукає?"
 
 # game/game/shika_events.rpy:2214
 translate ukrainian shika_eventdos_e1554201_6:
@@ -7329,49 +7329,49 @@ translate ukrainian shika_eventdos_e1554201_6:
 translate ukrainian shika_eventdos_6779f88c:
 
     # s "Even if there were... I wouldn't know who they are."
-    s "Even if there were... I wouldn't know who they are."
+    s "Навіть якщо хтось такий є... Я навіть не знатиму хто це."
 
 # game/game/shika_events.rpy:2217
 translate ukrainian shika_eventdos_e6978508:
 
     # s "But I don't think much about it! {w}I'm very grateful to the doctor who has taken care of me since I met her."
-    s "But I don't think much about it! {w}I'm very grateful to the doctor who has taken care of me since I met her."
+    s "Але я багато не думаю про це! {w}Я дуже вдячна Лікарці, яка піклувалася про мене від нашого знайомства."
 
 # game/game/shika_events.rpy:2218
 translate ukrainian shika_eventdos_d774110d:
 
     # mc "That's very good of you Shika."
-    mc "That's very good of you Shika."
+    mc "Дуже мило з твого боку, Шико."
 
 # game/game/shika_events.rpy:2220
 translate ukrainian shika_eventdos_d10a28b5:
 
     # s "And I still retain my great intellect and my natural strength."
-    s "And I still retain my great intellect and my natural strength."
+    s "І я досі зберігаю свій видатний розум та силу від природи."
 
 # game/game/shika_events.rpy:2221
 translate ukrainian shika_eventdos_6fc92758:
 
     # mc "There's no need to lie Shika."
-    mc "There's no need to lie Shika."
+    mc "Тільки не треба брехати, Шико."
 
 # game/game/shika_events.rpy:2223
 translate ukrainian shika_eventdos_744693b5:
 
     # s "Mnhey!"
-    s "Mnhey!"
+    s "{i}Мн-гей!{/i}"
 
 # game/game/shika_events.rpy:2225
 translate ukrainian shika_eventdos_8bb356cd:
 
     # t "We're somewhat similar in terms of our memories."
-    t "We're somewhat similar in terms of our memories."
+    t "Між нами є дещо схоже, у плані спогадів."
 
 # game/game/shika_events.rpy:2226
 translate ukrainian shika_eventdos_9326eb2d:
 
     # t "But even though it's normal for Shika's personality, she doesn't worry too much."
-    t "But even though it's normal for Shika's personality, she doesn't worry too much."
+    t "Втім, це цілком у дусі Шики — вона ніколи надто цим не переймається."
 
 # game/game/shika_events.rpy:2227
 translate ukrainian shika_eventdos_e1554201_7:
@@ -7383,19 +7383,19 @@ translate ukrainian shika_eventdos_e1554201_7:
 translate ukrainian shika_eventdos_12badf29:
 
     # t "She doesn't seem to be in a hurry to recover her memory."
-    t "She doesn't seem to be in a hurry to recover her memory."
+    t "І, здається, вона не поспішає їх поернути."
 
 # game/game/shika_events.rpy:2231
 translate ukrainian shika_eventdos_1ff69aaa:
 
     # s "Hey.."
-    s "Hey.."
+    s "Слухай..."
 
 # game/game/shika_events.rpy:2232
 translate ukrainian shika_eventdos_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/shika_events.rpy:2234
 translate ukrainian shika_eventdos_2b35b6fe_4:
@@ -7407,67 +7407,67 @@ translate ukrainian shika_eventdos_2b35b6fe_4:
 translate ukrainian shika_eventdos_ba650d5a:
 
     # s "Don't you want some? {w}You didn't buy one for yourself..."
-    s "Don't you want some? {w}You didn't buy one for yourself..."
+    s "Не хочех скуштувати? {w}Ти собі не купив..."
 
 # game/game/shika_events.rpy:2236
 translate ukrainian shika_eventdos_a95d5245:
 
     # mc "Are you sure? {w}Don't you like ice cream?"
-    mc "Are you sure? {w}Don't you like ice cream?"
+    mc "Упевнена? {w}Хіба ти не любиш морозиво?"
 
 # game/game/shika_events.rpy:2238
 translate ukrainian shika_eventdos_b7136a52:
 
     # s "Here you go! {w}I like you too so I'll share it with you!"
-    s "Here you go! {w}I like you too so I'll share it with you!"
+    s "Ось, тримай! {w}Я тебе теж люблю, тож поділюся з тобою!"
 
 # game/game/shika_events.rpy:2239
 translate ukrainian shika_eventdos_42816533:
 
     # mc "T-That was..."
-    mc "T-That was..."
+    mc "Ц-Це було..."
 
 # game/game/shika_events.rpy:2240
 translate ukrainian shika_eventdos_409a5260:
 
     # t "Quite cute..."
-    t "Quite cute..."
+    t "Досить мило..."
 
 # game/game/shika_events.rpy:2243
 translate ukrainian shika_eventdos_2c8e7b36:
 
     # s "Ah!"
-    s "Ah!"
+    s "А!"
 
 # game/game/shika_events.rpy:2248
 translate ukrainian shika_eventdos_38b98000:
 
     # s "My ice cream!"
-    s "My ice cream!"
+    s "Моє морозиво!"
 
 # game/game/shika_events.rpy:2250
 translate ukrainian shika_eventdos_c6f31b36:
 
     # mc "W-Wait Shika, what are you going to do?"
-    mc "W-Wait Shika, what are you going to do?"
+    mc "С-Стій, Шико, що ти збираєшся зробити?"
 
 # game/game/shika_events.rpy:2255
 translate ukrainian shika_eventdos_9d340fd0:
 
     # s "Don't move! {w}I'm going to clean it before it leaves stains!"
-    s "Don't move! {w}I'm going to clean it before it leaves stains!"
+    s "Завмри! {w}Я приберу, поки воно не залишило пляму!"
 
 # game/game/shika_events.rpy:2256
 translate ukrainian shika_eventdos_fc0f44cf:
 
     # mc "If someone sees us, they will think that-"
-    mc "If someone sees us, they will think that-"
+    mc "Якщо нас зараз побачать, то подумають-"
 
 # game/game/shika_events.rpy:2257
 translate ukrainian shika_eventdos_451f1dfd:
 
     # v "Kya!"
-    v "Kya!"
+    v "Кя!"
 
 # game/game/shika_events.rpy:2258
 translate ukrainian shika_eventdos_2b35b6fe_5:
@@ -7485,49 +7485,49 @@ translate ukrainian shika_eventdos_2b35b6fe_6:
 translate ukrainian shika_eventdos_6d60d18e:
 
     # mc "I-It's not what you think."
-    mc "I-It's not what you think."
+    mc "Ц-Це не те, чим здається."
 
 # game/game/shika_events.rpy:2263
 translate ukrainian shika_eventdos_e0105afd:
 
     # v "I-I-I-I!"
-    v "I-I-I-I!"
+    v "Я-Я-Я-Я!"
 
 # game/game/shika_events.rpy:2264
 translate ukrainian shika_eventdos_c15c39c7:
 
     # s "It's very thick... {w}I'm going to have a hard time getting it out...."
-    s "It's very thick... {w}I'm going to have a hard time getting it out...."
+    s "Яке ж воно товсте... {w}Буде складно з ним впоратися..."
 
 # game/game/shika_events.rpy:2265
 translate ukrainian shika_eventdos_5ae8c79d:
 
     # mc "Listen!"
-    mc "Listen!"
+    mc "Послухай!"
 
 # game/game/shika_events.rpy:2267
 translate ukrainian shika_eventdos_e7bab832:
 
     # v "Sorry to interrupt!"
-    v "Sorry to interrupt!"
+    v "Вибачте, що потурбувала!"
 
 # game/game/shika_events.rpy:2268
 translate ukrainian shika_eventdos_341cf88b:
 
     # mc "Wait!"
-    mc "Wait!"
+    mc "Стривай!"
 
 # game/game/shika_events.rpy:2270
 translate ukrainian shika_eventdos_89547619:
 
     # s "I think it's clean now!"
-    s "I think it's clean now!"
+    s "Гадаю, тепер чисто!"
 
 # game/game/shika_events.rpy:2271
 translate ukrainian shika_eventdos_247d9504:
 
     # mc "Shika..."
-    mc "Shika..."
+    mc "Шико..."
 
 # game/game/shika_events.rpy:2279
 translate ukrainian shika_eventdos_1ca7820c:
@@ -7539,7 +7539,7 @@ translate ukrainian shika_eventdos_1ca7820c:
 translate ukrainian shika_eventdos_2c8e7b36_1:
 
     # s "Ah!"
-    s "Ah!"
+    s "Ах!"
 
 # game/game/shika_events.rpy:2295
 translate ukrainian shika_eventtres_abb51a24:
@@ -17668,23 +17668,23 @@ translate ukrainian strings:
     old "Some time later"
     new "Через деякий час."
 
+    old "Thanks to Shika's help, you take the boxes home."
+    new "Завдяки допомозі Шики ти забираєш коробки додому."
+
+    old "A time of reflection later..."
+    new "Кілька важких роздумів по тому..."
+
+    old "You have spent 10 gold."
+    new "Витрачено 10 золотих монет."
+
     old "Hana leaves."
     new "Hana leaves."
 
     old "Thinking about it again?"
     new "Thinking about it again?"
 
-    old "You have spent 10 gold."
-    new "You have spent 10 gold."
-
     old "You both sit down."
     new "You both sit down."
-
-    old "A time of reflection later..."
-    new "A time of reflection later..."
-
-    old "Thanks to Shika's help, you take the boxes home."
-    new "Thanks to Shika's help, you take the boxes home."
 
     old "You did it to protect those you love."
     new "You did it to protect those you love."
