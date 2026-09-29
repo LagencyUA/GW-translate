@@ -5769,139 +5769,139 @@ translate ukrainian headpat_yui_ae4abd1e:
 translate ukrainian training_doll_91a3c643:
 
     # y "You're just in ti-"
-    y "You're just in ti-"
+    y "Ти як раз вчас-"
 
 # game/game/yui_events.rpy:1959
 translate ukrainian training_doll_23d62da8:
 
     # y "Woow, I see you already got the katana."
-    y "Woow, I see you already got the katana."
+    y "Ого, бачу, вже отримав катану."
 
 # game/game/yui_events.rpy:1961
 translate ukrainian training_doll_19d41456:
 
     # mc "Yes, I didn't know Mayu was so talented."
-    mc "Yes, I didn't know Mayu was so talented."
+    mc "Так, не знав, що Маю така вміла майстриня."
 
 # game/game/yui_events.rpy:1963
 translate ukrainian training_doll_f6b69181:
 
     # y "I told you she could handle it."
-    y "I told you she could handle it."
+    y "Казала ж тобі, що вона з таким впорається."
 
 # game/game/yui_events.rpy:1965
 translate ukrainian training_doll_e83b1f30:
 
     # y "But this kind of work, I've never seen it from her before."
-    y "But this kind of work, I've never seen it from her before."
+    y "Але щоб вона створила щось подібне — я ще ніколи такого не бачила."
 
 # game/game/yui_events.rpy:1967
 translate ukrainian training_doll_000032cb:
 
     # y "It's light, but just by touching it, you can feel how strong it is."
-    y "It's light, but just by touching it, you can feel how strong it is."
+    y "Вона легка, але достатньо одного дотику, щоб зрозуміти всю її міць."
 
 # game/game/yui_events.rpy:1968
 translate ukrainian training_doll_53de86a4:
 
     # y "It could be mistaken for a real one."
-    y "It could be mistaken for a real one."
+    y "Можна навіть помилково подумати, що вона справжня."
 
 # game/game/yui_events.rpy:1970
 translate ukrainian training_doll_1dcb810a:
 
     # y "I'm sure she charged you a lot for this."
-    y "I'm sure she charged you a lot for this."
+    y "Впевнена, тобі довелося заплатити їй кругленьку суму."
 
 # game/game/yui_events.rpy:1972
 translate ukrainian training_doll_24b760b0:
 
     # mc "She charged me but in a different way..."
-    mc "She charged me but in a different way..."
+    mc "Довелося, але не грошима..."
 
 # game/game/yui_events.rpy:1973
 translate ukrainian training_doll_bf1ff92e:
 
     # t "Although I was the one who ended up winning in all aspects..."
-    t "Although I was the one who ended up winning in all aspects..."
+    t "До того ж у підсумку я залишився у виграші в усьому..."
 
 # game/game/yui_events.rpy:1975
 translate ukrainian training_doll_eb12159b:
 
     # y "She must've really liked you."
-    y "She must've really liked you."
+    y "Мабуть, ти їй дуже сподобався."
 
 # game/game/yui_events.rpy:1976
 translate ukrainian training_doll_4aadf486:
 
     # mc "Hahaha..."
-    mc "Hahaha..."
+    mc "Хахаха..."
 
 # game/game/yui_events.rpy:1978
 translate ukrainian training_doll_08f4de01:
 
     # y "Well, as promised, I'll go get it."
-    y "Well, as promised, I'll go get it."
+    y "Ну, як і обіцяла, зараз дістану тобі."
 
 # game/game/yui_events.rpy:1979
 translate ukrainian training_doll_494114a5:
 
     # mc "Understood, I'll wait here."
-    mc "Understood, I'll wait here."
+    mc "Зрозумів, зачекаю."
 
 # game/game/yui_events.rpy:1985
 translate ukrainian training_doll_644c3262:
 
     # mc "Need help?"
-    mc "Need help?"
+    mc "Можливо, тобі допомогти?"
 
 # game/game/yui_events.rpy:1986
 translate ukrainian training_doll_e831d6e7:
 
     # y "Don't worry, it's no big deal."
-    y "Don't worry, it's no big deal."
+    y "Не переймайся, там нічого складного."
 
 # game/game/yui_events.rpy:1987
 translate ukrainian training_doll_ed862fd2:
 
     # mc "Ok..."
-    mc "Ok..."
+    mc "Добре..."
 
 # game/game/yui_events.rpy:1989
 translate ukrainian training_doll_5bfd3353:
 
     # t "Hmm I should go help he-"
-    t "Hmm I should go help he-"
+    t "Гмм, я маю їй допо-"
 
 # game/game/yui_events.rpy:1991
 translate ukrainian training_doll_a4fcb7ef:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "О!"
 
 # game/game/yui_events.rpy:1992
 translate ukrainian training_doll_c04870b6:
 
     # mc "You are-"
-    mc "You are-"
+    mc "Ти-"
 
 # game/game/yui_events.rpy:1997
 translate ukrainian training_doll_4689953d:
 
     # mc "Back?"
-    mc "Back?"
+    mc "Повернулася?"
 
 # game/game/yui_events.rpy:1998
 translate ukrainian training_doll_7aac257a:
 
     # y "Why does it get stuck everywhere!"
-    y "Why does it get stuck everywhere!"
+    y "Чому вона всюди застрягає?!"
 
 # game/game/yui_events.rpy:2003
 translate ukrainian training_doll_4b03cc13:
 
     # y "Finally! I made it!"
-    y "Finally! I made it!"
+    y "Нарешті! Принесла!"
 
 # game/game/yui_events.rpy:2004
 translate ukrainian training_doll_2b35b6fe:
@@ -5913,139 +5913,139 @@ translate ukrainian training_doll_2b35b6fe:
 translate ukrainian training_doll_1fa12810:
 
     # mc "What's that...?"
-    mc "What's that...?"
+    mc "Що це...?"
 
 # game/game/yui_events.rpy:2007
 translate ukrainian training_doll_f2cbd073:
 
     # y "The training doll!"
-    y "The training doll!"
+    y "Тренувальна лялька!"
 
 # game/game/yui_events.rpy:2008
 translate ukrainian training_doll_025f3c6f:
 
     # t "I feel a little sorry for him.."
-    t "I feel a little sorry for him.."
+    t "Мені його трохи шкода..."
 
 # game/game/yui_events.rpy:2009
 translate ukrainian training_doll_8b155074:
 
     # t "I would make the same face if I had a stick shoved in my-"
-    t "I would make the same face if I had a stick shoved in my-"
+    t "Я б так само скривив обличчя, якби мені засунули палицю в..."
 
 # game/game/yui_events.rpy:2011
 translate ukrainian training_doll_bf8f7e5a:
 
     # y "This one is in perfect condition!"
-    y "This one is in perfect condition!"
+    y "Ця в ідеальному стані!"
 
 # game/game/yui_events.rpy:2013
 translate ukrainian training_doll_569ee90d:
 
     # y "You'll be able to use it for a long-"
-    y "You'll be able to use it for a long-"
+    y "Вона тобі ще довго-"
 
 # game/game/yui_events.rpy:2015
 translate ukrainian training_doll_520018ba:
 
     # y "-time."
-    y "-time."
+    y "-прослужить."
 
 # game/game/yui_events.rpy:2017
 translate ukrainian training_doll_ca0c9643:
 
     # mc "Yui!"
-    mc "Yui!"
+    mc "Юї!"
 
 # game/game/yui_events.rpy:2018
 translate ukrainian training_doll_e05ab314:
 
     # mc "Are you ok?"
-    mc "Are you ok?"
+    mc "Усе гаразд?"
 
 # game/game/yui_events.rpy:2019
 translate ukrainian training_doll_d55827f2:
 
     # y "Yes..."
-    y "Yes..."
+    y "Так..."
 
 # game/game/yui_events.rpy:2021
 translate ukrainian training_doll_d1aa2fbe:
 
     # mc "Y-Yui..."
-    mc "Y-Yui..."
+    mc "Ю-Юї..."
 
 # game/game/yui_events.rpy:2023
 translate ukrainian training_doll_2d6d5ba1:
 
     # y "Luckily I fell on the doll..."
-    y "Luckily I fell on the doll..."
+    y "На щастя, я впала на ляльку..."
 
 # game/game/yui_events.rpy:2025
 translate ukrainian training_doll_84f1ca81:
 
     # y "It would've been a bad fall."
-    y "It would've been a bad fall."
+    y "Було б неприємно."
 
 # game/game/yui_events.rpy:2026
 translate ukrainian training_doll_84d9991b:
 
     # mc "Yes..."
-    mc "Yes..."
+    mc "Так..."
 
 # game/game/yui_events.rpy:2028
 translate ukrainian training_doll_d3591717:
 
     # t "I'm feeling envious of a doll?"
-    t "I'm feeling envious of a doll?"
+    t "Невже я заздрю ляльці?"
 
 # game/game/yui_events.rpy:2030
 translate ukrainian training_doll_c0410a12:
 
     # t "Lucky bastard."
-    t "Lucky bastard."
+    t "Фартовий покидьок."
 
 # game/game/yui_events.rpy:2031
 translate ukrainian training_doll_0a5e7b97:
 
     # t "I felt a little sorry for you but now."
-    t "I felt a little sorry for you but now."
+    t "Мені було тебе трохи шкода, але не тепер."
 
 # game/game/yui_events.rpy:2033
 translate ukrainian training_doll_eae2f3a1:
 
     # t "Don't think I'll forget this."
-    t "Don't think I'll forget this."
+    t "Не думай, що я про це забуду."
 
 # game/game/yui_events.rpy:2035
 translate ukrainian training_doll_3abb858c:
 
     # y "Here you go."
-    y "Here you go."
+    y "Тримай."
 
 # game/game/yui_events.rpy:2036
 translate ukrainian training_doll_aeedbda5:
 
     # y "I hope you teach Ryoko well."
-    y "I hope you teach Ryoko well."
+    y "Сподіваюся, ти гарно натренуєш Рьоко."
 
 # game/game/yui_events.rpy:2040
 translate ukrainian training_doll_01218a05:
 
     # mc "Thank you Yui, I don't know what I would do without you."
-    mc "Thank you Yui, I don't know what I would do without you."
+    mc "Дякую, Юї. Не знаю, що б я робив без тебе."
 
 # game/game/yui_events.rpy:2042
 translate ukrainian training_doll_65bb2778:
 
     # y "Idiot!"
-    y "Idiot!"
+    y "Дурко!"
 
 # game/game/yui_events.rpy:2045
 translate ukrainian training_doll_f26bf387:
 
     # y "Don't say such things..."
-    y "Don't say such things..."
+    y "Не кажи так..."
 
 # game/game/yui_events.rpy:2053
 translate ukrainian training_doll_c378f7e5:
@@ -6057,13 +6057,13 @@ translate ukrainian training_doll_c378f7e5:
 translate ukrainian training_doll_1912bc99:
 
     # t "I already have everything I need."
-    t "I already have everything I need."
+    t "У мене вже все готово."
 
 # game/game/yui_events.rpy:2056
 translate ukrainian training_doll_a5c387a6:
 
     # t "Ryoko will be happy."
-    t "Ryoko will be happy."
+    t "Рьоко буде рада."
 
 # game/game/yui_events.rpy:2068
 translate ukrainian yui_h_event_e6d8d763:
@@ -24237,7 +24237,7 @@ translate ukrainian strings:
 
     # game/yui_events.rpy:1179
     old "Training doll {image=/bg/icons/quest_text.png}"
-    new "Training doll {image=/bg/icons/quest_text.png}"
+    new "Тренувальна лялька {image=/bg/icons/quest_text.png}"
 
     # game/yui_events.rpy:1914
     old "Give her Headpats"
@@ -24365,14 +24365,17 @@ translate ukrainian strings:
     old "You've received 100 gold!"
     new "Ти заробив 100 золотих монет!"
 
+    old "{image=quest_text}You've obtained the training lucky bastard!"
+    new "{image=quest_text}{size=-4}Ти отримав фартового тренувального покидка!{/size}"
+
+    old "{image=quest_text}I mean, doll!"
+    new "{image=quest_text}Тобто ляльку!"
+
     old "{i}I want to see them again..."
     new "{i}I want to see them again..."
 
     old "You spend the day training the soldiers."
     new "You spend the day training the soldiers."
-
-    old "{image=quest_text}I mean, doll!"
-    new "{image=quest_text}I mean, doll!"
 
     old "You accompany Yui to her backyard."
     new "You accompany Yui to her backyard."
@@ -24382,9 +24385,6 @@ translate ukrainian strings:
 
     old "{image=corazon}Perfect 1st date with {color=#fbffa9}Yui{image=corazon}"
     new "{image=corazon}Perfect 1st date with {color=#fbffa9}Yui{image=corazon}"
-
-    old "{image=quest_text}You've obtained the training lucky bastard!"
-    new "{image=quest_text}You've obtained the training lucky bastard!"
 
     old "You take Yui home."
     new "You take Yui home."

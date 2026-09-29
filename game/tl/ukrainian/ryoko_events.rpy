@@ -6201,85 +6201,85 @@ translate ukrainian r_room_1st_1fcb1404:
 translate ukrainian ryoko_mission_training_b8eb71a6:
 
     # r "Something in the backyard?"
-    r "Something in the backyard?"
+    r "Дещо на задньому дворі?"
 
 # game/game/ryoko_events.rpy:2032
 translate ukrainian ryoko_mission_training_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/ryoko_events.rpy:2033
 translate ukrainian ryoko_mission_training_da6ac9f0:
 
     # mc "Follow me."
-    mc "Follow me."
+    mc "Йди за мною."
 
 # game/game/ryoko_events.rpy:2035
 translate ukrainian ryoko_mission_training_918f6ab0:
 
     # r "Ok!"
-    r "Ok!"
+    r "Добре!"
 
 # game/game/ryoko_events.rpy:2037
 translate ukrainian ryoko_mission_training_8b872484:
 
     # r "What's in the backyard Master?"
-    r "What's in the backyard Master?"
+    r "То що там таке, господарю?"
 
 # game/game/ryoko_events.rpy:2038
 translate ukrainian ryoko_mission_training_40f5798f:
 
     # mc "A surprise."
-    mc "A surprise."
+    mc "Сюрприз."
 
 # game/game/ryoko_events.rpy:2039
 translate ukrainian ryoko_mission_training_e7b49c2a:
 
     # r "Maaster~"
-    r "Maaster~"
+    r "Госпооодарю~"
 
 # game/game/ryoko_events.rpy:2040
 translate ukrainian ryoko_mission_training_0f2ed21b:
 
     # r "Please tell mee~"
-    r "Please tell mee~"
+    r "Будь ласка, розкааажіть~"
 
 # game/game/ryoko_events.rpy:2041
 translate ukrainian ryoko_mission_training_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/ryoko_events.rpy:2043
 translate ukrainian ryoko_mission_training_e72c3560:
 
     # r "Now will you tell me?"
-    r "Now will you tell me?"
+    r "Тепер ви мені скажете?"
 
 # game/game/ryoko_events.rpy:2045
 translate ukrainian ryoko_mission_training_65b377f4:
 
     # mc "You can see it in the distance."
-    mc "You can see it in the distance."
+    mc "Ти вже можеш побачити."
 
 # game/game/ryoko_events.rpy:2047
 translate ukrainian ryoko_mission_training_19fcb7b1:
 
     # r "What?"
-    r "What?"
+    r "Що?"
 
 # game/game/ryoko_events.rpy:2049
 translate ukrainian ryoko_mission_training_871c46e6:
 
     # r "I don't see-"
-    r "I don't see-"
+    r "Я нічого не-"
 
 # game/game/ryoko_events.rpy:2051
 translate ukrainian ryoko_mission_training_59f3fe57:
 
     # r "-anything..."
-    r "-anything..."
+    r "-бачу..."
 
 # game/game/ryoko_events.rpy:2052
 translate ukrainian ryoko_mission_training_b9b755e5:
@@ -6291,97 +6291,97 @@ translate ukrainian ryoko_mission_training_b9b755e5:
 translate ukrainian ryoko_mission_training_95cce0d0:
 
     # r "Wooah!"
-    r "Wooah!"
+    r "Оце так!"
 
 # game/game/ryoko_events.rpy:2058
 translate ukrainian ryoko_mission_training_1f5b224d_1:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/ryoko_events.rpy:2059
 translate ukrainian ryoko_mission_training_6d04fa5d:
 
     # mc "Careful, don't fall."
-    mc "Careful, don't fall."
+    mc "Обережно, не впади."
 
 # game/game/ryoko_events.rpy:2061
 translate ukrainian ryoko_mission_training_539391cd:
 
     # r "What is that?!"
-    r "What is that?!"
+    r "Що це таке?!"
 
 # game/game/ryoko_events.rpy:2063
 translate ukrainian ryoko_mission_training_f314b232:
 
     # t "Now the final detail.."
-    t "Now the final detail.."
+    t "А тепер останній штрих..."
 
 # game/game/ryoko_events.rpy:2065
 translate ukrainian ryoko_mission_training_e7855b39:
 
     # r "Why's there a giant doll here?!"
-    r "Why's there a giant doll here?!"
+    r "Звідки тут величезна лялька?!"
 
 # game/game/ryoko_events.rpy:2067
 translate ukrainian ryoko_mission_training_940c65f0:
 
     # r "It feels very hard but padded!"
-    r "It feels very hard but padded!"
+    r "Вона така тверда, але з м'яким наповнювачем!"
 
 # game/game/ryoko_events.rpy:2068
 translate ukrainian ryoko_mission_training_3ea65967:
 
     # mc "That lucky bastard."
-    mc "That lucky bastard."
+    mc "Знайомся, це фартовий покидьок."
 
 # game/game/ryoko_events.rpy:2070
 translate ukrainian ryoko_mission_training_7ecb275d:
 
     # r "Lu- what?"
-    r "Lu- what?"
+    r "Фар-хто?"
 
 # game/game/ryoko_events.rpy:2071
 translate ukrainian ryoko_mission_training_c21622d2:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "{i}*Кхм*{/i}"
 
 # game/game/ryoko_events.rpy:2073
 translate ukrainian ryoko_mission_training_e9407456:
 
     # mc "It's our new training doll!"
-    mc "It's our new training doll!"
+    mc "Наша нова тренувальна лялька!"
 
 # game/game/ryoko_events.rpy:2075
 translate ukrainian ryoko_mission_training_10eea5f6:
 
     # r "Great!"
-    r "Great!"
+    r "Чудово!"
 
 # game/game/ryoko_events.rpy:2077
 translate ukrainian ryoko_mission_training_1089aa6d:
 
     # r "Now master will have something to hit when training!"
-    r "Now master will have something to hit when training!"
+    r "Тепер у господаря буде на чому практикувати удари!"
 
 # game/game/ryoko_events.rpy:2078
 translate ukrainian ryoko_mission_training_d4de336d:
 
     # mc "Not only me."
-    mc "Not only me."
+    mc "Не тільки у мене."
 
 # game/game/ryoko_events.rpy:2080
 translate ukrainian ryoko_mission_training_79f08707:
 
     # r "Mmm?"
-    r "Mmm?"
+    r "Ммм?"
 
 # game/game/ryoko_events.rpy:2082
 translate ukrainian ryoko_mission_training_87ac943a:
 
     # mc "Here, now you can practice with this."
-    mc "Here, now you can practice with this."
+    mc "Тримай, зможеш практикуватися з нею."
 
 # game/game/ryoko_events.rpy:2083
 translate ukrainian ryoko_mission_training_b1926a30:
@@ -6393,253 +6393,253 @@ translate ukrainian ryoko_mission_training_b1926a30:
 translate ukrainian ryoko_mission_training_d9d065a1:
 
     # t "I told you, you were going to pay for it, you lucky bastard."
-    t "I told you, you were going to pay for it, you lucky bastard."
+    t "Казав же тобі, ти заплатиш за все, фартовий покидьку."
 
 # game/game/ryoko_events.rpy:2087
 translate ukrainian ryoko_mission_training_f93cba98:
 
     # r "Master..."
-    r "Master..."
+    r "Господарю..."
 
 # game/game/ryoko_events.rpy:2089
 translate ukrainian ryoko_mission_training_6153f22e:
 
     # r "Master!"
-    r "Master!"
+    r "Господарю!"
 
 # game/game/ryoko_events.rpy:2091
 translate ukrainian ryoko_mission_training_5ae1467a:
 
     # r "Yeees!"
-    r "Yeees!"
+    r "Тааак!"
 
 # game/game/ryoko_events.rpy:2092
 translate ukrainian ryoko_mission_training_07eef455:
 
     # mc "Wow!"
-    mc "Wow!"
+    mc "Опа!"
 
 # game/game/ryoko_events.rpy:2097
 translate ukrainian ryoko_mission_training_e08ba08b:
 
     # r "Master~ ~ {w} master~ ~{w}"
-    r "Master~ ~ {w} master~ ~{w}"
+    r "Го~ спо~ {w} да~ рю~{w}"
 
 # game/game/ryoko_events.rpy:2098
 translate ukrainian ryoko_mission_training_471a78f0:
 
     # mc "I hope you like it, it was made especially for you."
-    mc "I hope you like it, it was made especially for you."
+    mc "Сподіваюся, тобі вона сподобалася. Зроблена спеціально для тебе."
 
 # game/game/ryoko_events.rpy:2099
 translate ukrainian ryoko_mission_training_4220acb3:
 
     # r "Master always keeps his promises~ ~"
-    r "Master always keeps his promises~ ~"
+    r "Господар завжди дотримується своїх обіцянок~ ~"
 
 # game/game/ryoko_events.rpy:2100
 translate ukrainian ryoko_mission_training_af003daa:
 
     # mc "Hahaha I-"
-    mc "Hahaha I-"
+    mc "Хахаха, я-"
 
 # game/game/ryoko_events.rpy:2105
 translate ukrainian ryoko_mission_training_b64d9aff:
 
     # mc "You promised!"
-    mc "You promised!"
+    mc "Ти обіцяла!"
 
 # game/game/ryoko_events.rpy:2107
 translate ukrainian ryoko_mission_training_891b217d:
 
     # mc "You can't break a promise!"
-    mc "You can't break a promise!"
+    mc "Не можна порушувати обіцянку!"
 
 # game/game/ryoko_events.rpy:2109
 translate ukrainian ryoko_mission_training_297454ae:
 
     # mom "Sorry honey..."
-    mom "Sorry honey..."
+    mom "Пробач, любий..."
 
 # game/game/ryoko_events.rpy:2111
 translate ukrainian ryoko_mission_training_56e020ae:
 
     # mom "But my time is over..."
-    mom "But my time is over..."
+    mom "Але мій час вийшов..."
 
 # game/game/ryoko_events.rpy:2113
 translate ukrainian ryoko_mission_training_263d7439:
 
     # mom "Please don't hate me for this..."
-    mom "Please don't hate me for this..."
+    mom "Будь ласка, не гнівайся на мене через це..."
 
 # game/game/ryoko_events.rpy:2115
 translate ukrainian ryoko_mission_training_b7b0f5ab:
 
     # mc "I could never..."
-    mc "I could never..."
+    mc "Я б ніколи..."
 
 # game/game/ryoko_events.rpy:2116
 translate ukrainian ryoko_mission_training_fc3a95ab:
 
     # r "Master?"
-    r "Master?"
+    r "Господарю?"
 
 # game/game/ryoko_events.rpy:2121
 translate ukrainian ryoko_mission_training_89d03ce7:
 
     # r "Are you feeling okay?"
-    r "Are you feeling okay?"
+    r "Ви добре себе почуваєте?"
 
 # game/game/ryoko_events.rpy:2123
 translate ukrainian ryoko_mission_training_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Я..."
 
 # game/game/ryoko_events.rpy:2124
 translate ukrainian ryoko_mission_training_0769cacf:
 
     # mc "Yes! {w}I was just thinking."
-    mc "Yes! {w}I was just thinking."
+    mc "Так! {w}Просто трохи задумався."
 
 # game/game/ryoko_events.rpy:2125
 translate ukrainian ryoko_mission_training_b890d82f:
 
     # mc "Hahaha.."
-    mc "Hahaha.."
+    mc "Хахаха..."
 
 # game/game/ryoko_events.rpy:2127
 translate ukrainian ryoko_mission_training_b1dd3e11:
 
     # r "If that's all it was, then that's okay."
-    r "If that's all it was, then that's okay."
+    r "Якщо справді так, то добре."
 
 # game/game/ryoko_events.rpy:2129
 translate ukrainian ryoko_mission_training_91b92b84:
 
     # mc "Why don't you try your new katana?"
-    mc "Why don't you try your new katana?"
+    mc "Чому б тобі не спробувати свою нову катану?"
 
 # game/game/ryoko_events.rpy:2131
 translate ukrainian ryoko_mission_training_918f6ab0_1:
 
     # r "Ok!"
-    r "Ok!"
+    r "Гаразд!"
 
 # game/game/ryoko_events.rpy:2133
 translate ukrainian ryoko_mission_training_d522c695:
 
     # mc "First let me show you how to stand."
-    mc "First let me show you how to stand."
+    mc "Спочатку, дозволь, покажу тобі правильну стійку."
 
 # game/game/ryoko_events.rpy:2134
 translate ukrainian ryoko_mission_training_918f6ab0_2:
 
     # r "Ok!"
-    r "Ok!"
+    r "Добре!"
 
 # game/game/ryoko_events.rpy:2138
 translate ukrainian ryoko_mission_training_a153ec94:
 
     # r "Is this okay Master [mc]?"
-    r "Is this okay Master [mc]?"
+    r "Ось так правильно, господарю [mc]?"
 
 # game/game/ryoko_events.rpy:2140
 translate ukrainian ryoko_mission_training_a2e13093:
 
     # mc "Perfect, but try to relax your shoulders more."
-    mc "Perfect, but try to relax your shoulders more."
+    mc "Ідеально. Але спробуй трохи більше розслабити плечі."
 
 # game/game/ryoko_events.rpy:2142
 translate ukrainian ryoko_mission_training_918f6ab0_3:
 
     # r "Ok!"
-    r "Ok!"
+    r "Так!"
 
 # game/game/ryoko_events.rpy:2144
 translate ukrainian ryoko_mission_training_cc26b25b:
 
     # mc "Much better."
-    mc "Much better."
+    mc "Значно краще."
 
 # game/game/ryoko_events.rpy:2145
 translate ukrainian ryoko_mission_training_562bb034:
 
     # mc "The first things to learn are posture and breathing."
-    mc "The first things to learn are posture and breathing."
+    mc "Перше, чому варто навчитися, — це правильна постава та дихання."
 
 # game/game/ryoko_events.rpy:2146
 translate ukrainian ryoko_mission_training_a539fd12:
 
     # mc "Once you get your mind and body used to it, you won't even have to think about it during a battle."
-    mc "Once you get your mind and body used to it, you won't even have to think about it during a battle."
+    mc "Як тільки твій розум та тіло звикнуть, тобі навіть не доведеться про це думати під час бою."
 
 # game/game/ryoko_events.rpy:2148
 translate ukrainian ryoko_mission_training_f9f48240:
 
     # mc "Although you get extra points for how cute you look with a katana..."
-    mc "Although you get extra points for how cute you look with a katana..."
+    mc "Також кілька балів за твій милий вигляд з катаною..."
 
 # game/game/ryoko_events.rpy:2150
 translate ukrainian ryoko_mission_training_3f82b51f:
 
     # r "Ma-{w}Master!~"
-    r "Ma-{w}Master!~"
+    r "Го-{w}Господарю!~"
 
 # game/game/ryoko_events.rpy:2152
 translate ukrainian ryoko_mission_training_e8692542:
 
     # mc "It's getting pretty late, how about going into the house now?"
-    mc "It's getting pretty late, how about going into the house now?"
+    mc "Вже досить пізно. Може, підемо вже всередину?"
 
 # game/game/ryoko_events.rpy:2154
 translate ukrainian ryoko_mission_training_918f6ab0_4:
 
     # r "Ok!"
-    r "Ok!"
+    r "Гаразд!"
 
 # game/game/ryoko_events.rpy:2156
 translate ukrainian ryoko_mission_training_0921db24:
 
     # r "But first, Master can you come closer? I need to tell you something."
-    r "But first, Master can you come closer? I need to tell you something."
+    r "Але спочатку, господарю, ви б не могли підійти ближче? Я маю вам дещо сказати."
 
 # game/game/ryoko_events.rpy:2158
 translate ukrainian ryoko_mission_training_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/ryoko_events.rpy:2159
 translate ukrainian ryoko_mission_training_08b5df7f:
 
     # mc "Ok."
-    mc "Ok."
+    mc "Так."
 
 # game/game/ryoko_events.rpy:2161
 translate ukrainian ryoko_mission_training_bf9eff9a:
 
     # mc "Tell m-"
-    mc "Tell m-"
+    mc "Каж-"
 
 # game/game/ryoko_events.rpy:2164
 translate ukrainian ryoko_mission_training_b4eafa03:
 
     # r "Chu!~{image=corazon}"
-    r "Chu!~{image=corazon}"
+    r "{i}Чмок!~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2166
 translate ukrainian ryoko_mission_training_04250b80:
 
     # mc "R-Ryoko..."
-    mc "R-Ryoko..."
+    mc "Р-Рьоко..."
 
 # game/game/ryoko_events.rpy:2175
 translate ukrainian ryoko_mission_training_1e3845c0:
 
     # r "Thank you for everything Master [mc]!~{image=corazon}"
-    r "Thank you for everything Master [mc]!~{image=corazon}"
+    r "Дякую за все, господарю [mc]!~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2177
 translate ukrainian ryoko_mission_training_1fcb1404:
@@ -31067,7 +31067,7 @@ translate ukrainian strings:
 
     # game/ryoko_events.rpy:60
     old "I have something in the backyard{image=/bg/icons/quest_text.png}"
-    new "I have something in the backyard{image=/bg/icons/quest_text.png}"
+    new "Я підготував дещо\nна задньому дворі{image=/bg/icons/quest_text.png}"
 
     # game/ryoko_events.rpy:60
     old "Take a long bath {image=/bg/icons/tenshi_text.png}"
@@ -31181,6 +31181,12 @@ translate ukrainian strings:
     old "Now you can repeat this event in your backyard!"
     new "{size=-7}  Тепер ти можеш повторити цю подію на задньому дворі!{/size}"
 
+    old "A moment later."
+    new "Через мить."
+
+    old "{image=/bg/icons/tenshi_text.png}You should rest..."
+    new "{image=/bg/icons/tenshi_text.png}Треба відпочити..."
+
     old "You take Ryoko to Sakura Town."
     new "You take Ryoko to Sakura Town."
 
@@ -31204,9 +31210,6 @@ translate ukrainian strings:
 
     old "{size=+10}{i}May your blessings give me the hope and confidence to face life's challenges with courage and determination."
     new "{size=+10}{i}May your blessings give me the hope and confidence to face life's challenges with courage and determination."
-
-    old "{image=/bg/icons/tenshi_text.png}You should rest..."
-    new "{image=/bg/icons/tenshi_text.png}You should rest..."
 
     old "You and the girls head to the kitchen."
     new "You and the girls head to the kitchen."
@@ -31252,9 +31255,6 @@ translate ukrainian strings:
 
     old "{size=+10}{i}I fail to understand what goes through their minds."
     new "{size=+10}{i}I fail to understand what goes through their minds."
-
-    old "A moment later."
-    new "A moment later."
 
     old "{size=-5}{color=#EED1AB}Event Activated{/color}: Date with {color=#C9887C}Ryoko{/color} in the morning."
     new "{size=-5}{color=#EED1AB}Event Activated{/color}: Date with {color=#C9887C}Ryoko{/color} in the morning."
