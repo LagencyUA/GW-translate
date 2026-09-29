@@ -1,7 +1,7 @@
 # Переклад гри [Goddesses' Whim](https://ncrow.itch.io/goddessess-whim) Українською 🇺🇦
 ### Локалізація «Примха Богинь»
 [![Game Version](https://img.shields.io/badge/Версія_гри-0.4.7-blue.svg)](https://ncrow.itch.io/goddessess-whim)
-[![Translation Status](https://img.shields.io/badge/Прогрес-В_розробці-orange.svg)](#-стан-перекладу)
+[![Translation Status](https://img.shields.io/badge/Прогрес-В_розробці-orange.svg)](#-стан-перекладу-на-цей-час)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Ліцензія-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE)
 > [!CAUTION]
 > ⚠️ **ВМІСТ ДЛЯ ДОРОСЛИХ (18+):** Цей мод є перекладом візуальної новели з ненормативною лексикою та сценами сексуального характеру. Якщо вам немає 18 років, залишіть цю сторінку.
