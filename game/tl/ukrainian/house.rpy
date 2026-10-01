@@ -185,7 +185,7 @@ translate ukrainian strings:
 
     # game/house.rpy:69
     old "{color=#C9887C}Ryoko's{/color} room"
-    new "{color=#C9887C}Ryoko's{/color} room"
+    new "Кімната {color=#C9887C}Рьоко{/color}"
 
     # game/house.rpy:77
     old "Other rooms"

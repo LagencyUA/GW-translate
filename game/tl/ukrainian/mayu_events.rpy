@@ -592,13 +592,13 @@ translate ukrainian mayu_talk_96ba90bd_1:
 translate ukrainian cons_ryoko_room_0ea40588:
 
     # mc "I already have the materials for this room."
-    mc "I already have the materials for this room."
+    mc "В мене вже є всі матеріали для цієї кімнати."
 
 # game/game/mayu_events.rpy:928
 translate ukrainian cons_ryoko_room_c34a9d83:
 
     # mc "Will you take care of the rest?"
-    mc "Will you take care of the rest?"
+    mc "Подбаєш про решту?"
 
 # game/game/mayu_events.rpy:929
 translate ukrainian cons_ryoko_room_2b35b6fe:
@@ -610,13 +610,13 @@ translate ukrainian cons_ryoko_room_2b35b6fe:
 translate ukrainian cons_ryoko_room_0eea6c7a:
 
     # mc "May-"
-    mc "May-"
+    mc "Маю-"
 
 # game/game/mayu_events.rpy:932
 translate ukrainian cons_ryoko_room_d8045d72:
 
     # mc "Eh.."
-    mc "Eh.."
+    mc "Ем..."
 
 # game/game/mayu_events.rpy:936
 translate ukrainian cons_ryoko_room_2b35b6fe_1:
@@ -628,25 +628,25 @@ translate ukrainian cons_ryoko_room_2b35b6fe_1:
 translate ukrainian cons_ryoko_room_3ac6e09b:
 
     # mc "Look at the time! I have to g-"
-    mc "Look at the time! I have to g-"
+    mc "Вже досить пізно! Мушу біг-"
 
 # game/game/mayu_events.rpy:939
 translate ukrainian cons_ryoko_room_645d5c30:
 
     # mc "What the f-"
-    mc "What the f-"
+    mc "Якого ху-"
 
 # game/game/mayu_events.rpy:941
 translate ukrainian cons_ryoko_room_4824fc81:
 
     # mc "Gagh!"
-    mc "Gagh!"
+    mc "{i}Гагх!{/i}"
 
 # game/game/mayu_events.rpy:942
 translate ukrainian cons_ryoko_room_46944dba:
 
     # mc "What do you think you are-"
-    mc "What do you think you are-"
+    mc "Що на твою думку ти-"
 
 # game/game/mayu_events.rpy:944
 translate ukrainian cons_ryoko_room_2b35b6fe_2:
@@ -658,67 +658,67 @@ translate ukrainian cons_ryoko_room_2b35b6fe_2:
 translate ukrainian cons_ryoko_room_178895bb:
 
     # mc "doing?..."
-    mc "doing?..."
+    mc "робиш?..."
 
 # game/game/mayu_events.rpy:946
 translate ukrainian cons_ryoko_room_aebae247:
 
     # ma "I'll take care of everything!"
-    ma "I'll take care of everything!"
+    ma "Я про все подбаю!"
 
 # game/game/mayu_events.rpy:947
 translate ukrainian cons_ryoko_room_6d109d9a:
 
     # ma "I knew you wouldn't disappoint me!"
-    ma "I knew you wouldn't disappoint me!"
+    ma "Знала, що ти мене не розчаруєш!"
 
 # game/game/mayu_events.rpy:948
 translate ukrainian cons_ryoko_room_8e8cdd13:
 
     # mc "But it was necessary to do-"
-    mc "But it was necessary to do-"
+    mc "Але мені це було необхідно-"
 
 # game/game/mayu_events.rpy:950
 translate ukrainian cons_ryoko_room_01a4b187:
 
     # ma "Don't worry, I'll take care of the furniture too!"
-    ma "Don't worry, I'll take care of the furniture too!"
+    ma "Не хвилюйся, я й про меблі подбаю!"
 
 # game/game/mayu_events.rpy:951
 translate ukrainian cons_ryoko_room_cca79b84:
 
     # t "She's in excited mode."
-    t "She's in excited mode."
+    t "Вона у режимі захвату."
 
 # game/game/mayu_events.rpy:952
 translate ukrainian cons_ryoko_room_fca6f0b0:
 
     # mc "Thank you, if you need anything else..."
-    mc "Thank you, if you need anything else..."
+    mc "Дякую тобі. Якщо ще щось знадобиться..."
 
 # game/game/mayu_events.rpy:954
 translate ukrainian cons_ryoko_room_50bbd294:
 
     # ma "I already have everything I need!"
-    ma "I already have everything I need!"
+    ma "У мене вже все є!"
 
 # game/game/mayu_events.rpy:955
 translate ukrainian cons_ryoko_room_a04e7b68:
 
     # mc "O-Ok..."
-    mc "O-Ok..."
+    mc "Д-Добре..."
 
 # game/game/mayu_events.rpy:956
 translate ukrainian cons_ryoko_room_b1e75368:
 
     # ma "I'll have it ready in just a few days!"
-    ma "I'll have it ready in just a few days!"
+    ma "Буде готово за кілька днів!"
 
 # game/game/mayu_events.rpy:958
 translate ukrainian cons_ryoko_room_a921b7b1:
 
     # mc "Take your time..."
-    mc "Take your time..."
+    mc "Не поспішай..."
 
 # game/game/mayu_events.rpy:963
 translate ukrainian cons_ryoko_room_a0c826f8:
@@ -14043,6 +14043,15 @@ translate ukrainian strings:
     old "You and Mayu head into the forest."
     new "Разом з Маю ви вирушили до лісу."
 
+    old "-250 Gold"
+    new "-250 золотих монет"
+
+    old "-40 Wood"
+    new "-40 деревени"
+
+    old "You've unlocked a new room in your house!"
+    new "З'явилася нова кімната у твоєму будинку!"
+
     old "You've received a wooden katana!"
     new "Ти отримав дерев'яну катану!"
 
@@ -14087,9 +14096,6 @@ translate ukrainian strings:
 
     old "You take Mayu home."
     new "You take Mayu home."
-
-    old "You've unlocked a new room in your house!"
-    new "You've unlocked a new room in your house!"
 
     old "-80 of wood."
     new "-80 of wood."
