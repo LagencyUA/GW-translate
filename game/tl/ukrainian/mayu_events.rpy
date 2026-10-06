@@ -13979,7 +13979,7 @@ translate ukrainian strings:
 
     # game/mayu_events.rpy:512
     old "No one is going to use it so I don't need it for now."
-    new "No one is going to use it so I don't need it for now."
+    new "Нема кому нею користуватися, тож вона мені поки не потрібна."
 
     # game/mayu_events.rpy:664
     old "{size=-15}Build the {color=#CACACA}kitchen{/color}?"

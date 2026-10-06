@@ -45,7 +45,7 @@ translate ukrainian strings:
 
     # game/map.rpy:757
     old "{color=#BBA477}Thinking"
-    new "{color=#BBA477}Thinking"
+    new "{color=#BBA477}Роздуми"
 
     # game/map.rpy:758
     old "I need more tools, I should go buy them from Mayu."
