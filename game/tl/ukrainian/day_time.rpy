@@ -538,7 +538,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1341
     old "{color=#FF438D}H{/color}-Event\nWait at home with {color=#C9887C}Ryoko{/color} in the morning."
-    new "{color=#FF438D}H{/color}-Event\nWait at home with {color=#C9887C}Ryoko{/color} in the morning."
+    new "{color=#FF438D}Х{/color}-подія [[Вимога]\nЗачекай вдома разом з {color=#C9887C}Рьоко{/color} вранці."
 
     # game/day_time.rpy:1368
     old "{color=#FFFFFF}N{/color}-Event\nGo see the {color=#CACACA}town entrance{/color} in the morning."
