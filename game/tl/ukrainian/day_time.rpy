@@ -676,7 +676,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1810
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte's{/color} room."
-    new "{color=#CACACA}Hint Blocked{/color}{image=candado}\nBuild {color=#319B85}Charlotte's{/color} room."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nПолагодь кімнату для {color=#319B85}Шарлотти{/color}."
 
     # game/day_time.rpy:1821
     old "{color=#FFFFFF}N{/color}-Event\nLet {color=#319B85}Charlotte{/color} know that her room is ready."

@@ -2163,49 +2163,49 @@ translate ukrainian char_real_spend_d7c4a413:
 translate ukrainian char_event4_00f4c26e:
 
     # t "She's not here today."
-    t "She's not here today."
+    t "Сьогодні вона не тут."
 
 # game/game/charlotte_events.rpy:846
 translate ukrainian char_event4_0c5e7b39:
 
     # t "Not there either."
-    t "Not there either."
+    t "Тут теж нема."
 
 # game/game/charlotte_events.rpy:847
 translate ukrainian char_event4_64d07154:
 
     # mc "Hmm."
-    mc "Hmm."
+    mc "Гмм."
 
 # game/game/charlotte_events.rpy:848
 translate ukrainian char_event4_a3d4519b:
 
     # t "Well, since I'm here, I'll do a little fishing."
-    t "Well, since I'm here, I'll do a little fishing."
+    t "Ну, оскільки я вже тут, трохи порибалю."
 
 # game/game/charlotte_events.rpy:850
 translate ukrainian char_event4_77a8c232:
 
     # t "Hopefully, I'll catch something good today..."
-    t "Hopefully, I'll catch something good today..."
+    t "Сподіваюся, сьогодні вдасться спіймати щось гарне..."
 
 # game/game/charlotte_events.rpy:857
 translate ukrainian char_event4_0092bd3d:
 
     # c "{size=-6}{i}Today I came later than usual..."
-    c "{size=-6}{i}Today I came later than usual..."
+    c "{size=-6}{i}Щось я прийшла сьогодні пізніше, ніж зазвичай..."
 
 # game/game/charlotte_events.rpy:858
 translate ukrainian char_event4_fb0c66fb:
 
     # c "{size=-6}{i}Is he..."
-    c "{size=-6}{i}Is he..."
+    c "{size=-6}{i}Навже він..."
 
 # game/game/charlotte_events.rpy:860
 translate ukrainian char_event4_7cfef7e6:
 
     # c "{size=-6}{i}Already gone...?"
-    c "{size=-6}{i}Already gone...?"
+    c "{size=-6}{i}Уже пішов...?"
 
 # game/game/charlotte_events.rpy:861
 translate ukrainian char_event4_d19f855d:
@@ -2217,31 +2217,31 @@ translate ukrainian char_event4_d19f855d:
 translate ukrainian char_event4_0d0e9720:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Why am I thinking about that human?!"
-    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Why am I thinking about that human?!"
+    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Чому я взагалі думаю про ту людину?!"
 
 # game/game/charlotte_events.rpy:865
 translate ukrainian char_event4_8011a617:
 
     # c "{size=-6}{i}I know he isn't a bad human..."
-    c "{size=-6}{i}I know he isn't a bad human..."
+    c "{size=-6}{i}Знаю, він не поганець..."
 
 # game/game/charlotte_events.rpy:867
 translate ukrainian char_event4_c8896371:
 
     # c "{size=-6}{i}Maybe I have spent too much time with him."
-    c "{size=-6}{i}Maybe I have spent too much time with him."
+    c "{size=-6}{i}Мабуть, я вже забагато часу провела поруч з ним."
 
 # game/game/charlotte_events.rpy:868
 translate ukrainian char_event4_104e629d:
 
     # c "{size=-6}{i}But it's his fault, he's the one who comes here to talk to me."
-    c "{size=-6}{i}But it's his fault, he's the one who comes here to talk to me."
+    c "{size=-6}{i}Але це його провина, саме він постійно приходить, аби поговорити зі мною."
 
 # game/game/charlotte_events.rpy:869
 translate ukrainian char_event4_1e549eb8:
 
     # c "{size=-6}{i}And he pats my head very gently when I fall asleep on his lap..."
-    c "{size=-6}{i}And he pats my head very gently when I fall asleep on his lap..."
+    c "{size=-6}{i}І так ніжно гладить мене по голові, коли я засинаю на його колінах..."
 
 # game/game/charlotte_events.rpy:870
 translate ukrainian char_event4_d19f855d_1:
@@ -2253,67 +2253,67 @@ translate ukrainian char_event4_d19f855d_1:
 translate ukrainian char_event4_d6a560ff:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Why am I thinking about all that now?"
-    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Why am I thinking about all that now?"
+    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Чому я зараз про це все замислилася?"
 
 # game/game/charlotte_events.rpy:873
 translate ukrainian char_event4_4027a00f:
 
     # c "{size=-6}{i}And why do I get like this when I think of him?"
-    c "{size=-6}{i}And why do I get like this when I think of him?"
+    c "{size=-6}{i}І чому я так реагую, коли думаю про нього?"
 
 # game/game/charlotte_events.rpy:874
 translate ukrainian char_event4_a7b91e72:
 
     # c "{size=-6}{i}Maybe..."
-    c "{size=-6}{i}Maybe..."
+    c "{size=-6}{i}Можливо..."
 
 # game/game/charlotte_events.rpy:876
 translate ukrainian char_event4_0802f705:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-6}{i}I see him as a male?!"
-    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}I see him as a male?!"
+    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Невже я вбачаю у ньому самця?!"
 
 # game/game/charlotte_events.rpy:878
 translate ukrainian char_event4_4d606880:
 
     # c "No no no no no..."
-    c "No no no no no..."
+    c "Ні-ні-ні-ні-ні..."
 
 # game/game/charlotte_events.rpy:879
 translate ukrainian char_event4_c841e17c:
 
     # c "{size=-6}{i}How would I view a human as a potential male?"
-    c "{size=-6}{i}How would I view a human as a potential male?"
+    c "{size=-6}{i}Як я взагалі можу розцінювати людину, як потенційного самця?"
 
 # game/game/charlotte_events.rpy:880
 translate ukrainian char_event4_ef551c99:
 
     # c "{size=-6}{i}No no, he's the weirdo here."
-    c "{size=-6}{i}No no, he's the weirdo here."
+    c "{size=-6}{i}Ні-ні, це він дивак."
 
 # game/game/charlotte_events.rpy:882
 translate ukrainian char_event4_a6ba9dc8:
 
     # c "{size=-6}{i}After all, I've seen humans despise other races."
-    c "{size=-6}{i}After all, I've seen humans despise other races."
+    c "{size=-6}{i}Зрештою, я бачила, як люди зневажають інші раси."
 
 # game/game/charlotte_events.rpy:883
 translate ukrainian char_event4_c0a91285:
 
     # c "{size=-6}{i}I'm just going to sit where I always sit, and I don't care if he's there or not..."
-    c "{size=-6}{i}I'm just going to sit where I always sit, and I don't care if he's there or not..."
+    c "{size=-6}{i}Я просто сяду там, де завжди сиджу, і мені байдуже, буде він там чи ні..."
 
 # game/game/charlotte_events.rpy:884
 translate ukrainian char_event4_0942a31b:
 
     # c "{size=-6}{i}That's what I will do."
-    c "{size=-6}{i}That's what I will do."
+    c "{size=-6}{i}Саме так і зроблю."
 
 # game/game/charlotte_events.rpy:886
 translate ukrainian char_event4_27847bcb:
 
     # c "{size=-6}{i}I wouldn't mind at all."
-    c "{size=-6}{i}I wouldn't mind at all."
+    c "{size=-6}{i}Мені зовсім байдуже."
 
 # game/game/charlotte_events.rpy:887
 translate ukrainian char_event4_d19f855d_2:
@@ -2325,13 +2325,13 @@ translate ukrainian char_event4_d19f855d_2:
 translate ukrainian char_event4_46ca1108:
 
     # c "{size=-6}{i}After all."
-    c "{size=-6}{i}After all."
+    c "{size=-6}{i}Врешті-решт."
 
 # game/game/charlotte_events.rpy:890
 translate ukrainian char_event4_a4e1b0d9:
 
     # c "{size=-6}{i}I'm used to being alone..."
-    c "{size=-6}{i}I'm used to being alone..."
+    c "{size=-6}{i}Я звикла бути на самоті..."
 
 # game/game/charlotte_events.rpy:891
 translate ukrainian char_event4_d19f855d_3:
@@ -2343,73 +2343,73 @@ translate ukrainian char_event4_d19f855d_3:
 translate ukrainian char_event4_2fb81511:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=+5}It escaped!"
-    mc "{sc=2}{outlinecolor=#000000}{size=+5}It escaped!"
+    mc "{sc=2}{outlinecolor=#000000}{size=+5}Вона вислизнула!"
 
 # game/game/charlotte_events.rpy:898
 translate ukrainian char_event4_37ad2cdb:
 
     # mc "{size=-6}{i}Sigh*"
-    mc "{size=-6}{i}Sigh*"
+    mc "{size=-6}{i}*Хааах*"
 
 # game/game/charlotte_events.rpy:899
 translate ukrainian char_event4_d68b814e:
 
     # t "It is the 3rd to escape."
-    t "It is the 3rd to escape."
+    t "Уже третя вислизнула."
 
 # game/game/charlotte_events.rpy:900
 translate ukrainian char_event4_d1cdcaa0:
 
     # t "Not my best day..."
-    t "Not my best day..."
+    t "Сьогодні не найкращий день..."
 
 # game/game/charlotte_events.rpy:902
 translate ukrainian char_event4_e93f5a59:
 
     # c "N-{w}Not doing so well? {w}Human?"
-    c "N-{w}Not doing so well? {w}Human?"
+    c "С-{w}Справи йдуть не дуже? {w}Людино?"
 
 # game/game/charlotte_events.rpy:903
 translate ukrainian char_event4_fe41d046:
 
     # mc "Oh! Charlotte."
-    mc "Oh! Charlotte."
+    mc "О! Шарлотто."
 
 # game/game/charlotte_events.rpy:904
 translate ukrainian char_event4_97970ab8:
 
     # mc "I thought I wouldn't see you today."
-    mc "I thought I wouldn't see you today."
+    mc "Я гадав, що не побачу тебе сьогодні."
 
 # game/game/charlotte_events.rpy:905
 translate ukrainian char_event4_f3ff46a9:
 
     # c "I had to... {w}do something..."
-    c "I had to... {w}do something..."
+    c "У мене були... {w}певні справи..."
 
 # game/game/charlotte_events.rpy:906
 translate ukrainian char_event4_a9b747fb:
 
     # mc "Well-"
-    mc "Well-"
+    mc "Ну-"
 
 # game/game/charlotte_events.rpy:908
 translate ukrainian char_event4_a3d9fe69:
 
     # "{color=#dcc3cb}{i}I'm glad you're well."
-    "{color=#dcc3cb}{i}I'm glad you're well."
+    "{color=#dcc3cb}{i}Як добре, що в тебе все добре."
 
 # game/game/charlotte_events.rpy:910
 translate ukrainian char_event4_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/charlotte_events.rpy:911
 translate ukrainian char_event4_34cec937:
 
     # mc "Is something wrong?"
-    mc "Is something wrong?"
+    mc "Щось не так?"
 
 # game/game/charlotte_events.rpy:912
 translate ukrainian char_event4_d19f855d_4:
@@ -2421,13 +2421,13 @@ translate ukrainian char_event4_d19f855d_4:
 translate ukrainian char_event4_2e4082fa:
 
     # c "N-No... {w}I just remembered something."
-    c "N-No... {w}I just remembered something."
+    c "Н-Ні... {w}Просто згадалося дещо."
 
 # game/game/charlotte_events.rpy:915
 translate ukrainian char_event4_79812823:
 
     # mc "{size=-6}I see..."
-    mc "{size=-6}I see..."
+    mc "{size=-6}Ясно..."
 
 # game/game/charlotte_events.rpy:916
 translate ukrainian char_event4_d19f855d_5:
@@ -2445,7 +2445,7 @@ translate ukrainian char_event4_2b35b6fe:
 translate ukrainian char_event4_e845149c:
 
     # t "As quiet as ever..."
-    t "As quiet as ever..."
+    t "Ні пари з вуст, як і завжди..."
 
 # game/game/charlotte_events.rpy:920
 translate ukrainian char_event4_d19f855d_6:
@@ -2457,13 +2457,13 @@ translate ukrainian char_event4_d19f855d_6:
 translate ukrainian char_event4_b5129d58:
 
     # c "{size=-6}{i}Why does he remind me so much of her...?"
-    c "{size=-6}{i}Why does he remind me so much of her...?"
+    c "{size=-6}{i}Чому він так сильно нагадує її...?"
 
 # game/game/charlotte_events.rpy:922
 translate ukrainian char_event4_ecd35d71:
 
     # c "{size=-6}{i}My instinct is trying to tell me something?"
-    c "{size=-6}{i}My instinct is trying to tell me something?"
+    c "{size=-6}{i}Мої інстинкти намагаються мені щось сказати?"
 
 # game/game/charlotte_events.rpy:924
 translate ukrainian char_event4_2b35b6fe_1:
@@ -2475,67 +2475,67 @@ translate ukrainian char_event4_2b35b6fe_1:
 translate ukrainian char_event4_be31252e:
 
     # mc "Want to join me?"
-    mc "Want to join me?"
+    mc "Бажаєш доєднатися?"
 
 # game/game/charlotte_events.rpy:926
 translate ukrainian char_event4_a04c2071:
 
     # mc "Ah sorry, {w}I forgot you didn't want to do this..."
-    mc "Ah sorry, {w}I forgot you didn't want to do this..."
+    mc "А, пробач, {w}забув, що ти не хочеш..."
 
 # game/game/charlotte_events.rpy:927
 translate ukrainian char_event4_8c2cf11f:
 
     # mc "Hahaha, forget what I said..."
-    mc "Hahaha, forget what I said..."
+    mc "Хахаха, вважай, що я нічого не питав..."
 
 # game/game/charlotte_events.rpy:928
 translate ukrainian char_event4_cc51232f:
 
     # c "{size=-6}Okay, I will..."
-    c "{size=-6}Okay, I will..."
+    c "{size=-6}Гаразд, я доєднаюся..."
 
 # game/game/charlotte_events.rpy:929
 translate ukrainian char_event4_fb2e5377:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Е?"
 
 # game/game/charlotte_events.rpy:931
 translate ukrainian char_event4_0e042b76:
 
     # c "If it's just to accompany you, it's fine..."
-    c "If it's just to accompany you, it's fine..."
+    c "Я не проти просто скласти тобі компанію..."
 
 # game/game/charlotte_events.rpy:932
 translate ukrainian char_event4_a04e7b68:
 
     # mc "O-Ok..."
-    mc "O-Ok..."
+    mc "Д-Добре..."
 
 # game/game/charlotte_events.rpy:933
 translate ukrainian char_event4_f988de04:
 
     # t "I didn't think she would say yes..."
-    t "I didn't think she would say yes..."
+    t "Не думав, що вона погодиться..."
 
 # game/game/charlotte_events.rpy:934
 translate ukrainian char_event4_7e8381f3:
 
     # c "So, {w=0.5}may I...?"
-    c "So, {w=0.5}may I...?"
+    c "Тож, {w=0.5}не проти...?"
 
 # game/game/charlotte_events.rpy:935
 translate ukrainian char_event4_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/charlotte_events.rpy:937
 translate ukrainian char_event4_6dff3a44:
 
     # t "What-"
-    t "What-"
+    t "Га-"
 
 # game/game/charlotte_events.rpy:939
 translate ukrainian char_event4_2b35b6fe_2:
@@ -2547,43 +2547,43 @@ translate ukrainian char_event4_2b35b6fe_2:
 translate ukrainian char_event4_f2626437:
 
     # mc "Charlotte?"
-    mc "Charlotte?"
+    mc "Шарлотто?"
 
 # game/game/charlotte_events.rpy:941
 translate ukrainian char_event4_199ad32c:
 
     # c "What's wrong, Human?"
-    c "What's wrong, Human?"
+    c "Що таке, Людино?"
 
 # game/game/charlotte_events.rpy:942
 translate ukrainian char_event4_c3feb3d9:
 
     # mc "Doesn't it bother you to be like this with me?"
-    mc "Doesn't it bother you to be like this with me?"
+    mc "Тебе зовсім не турбує отак зі мною сидіти?"
 
 # game/game/charlotte_events.rpy:943
 translate ukrainian char_event4_3070bc42:
 
     # c "What are you talking about?"
-    c "What are you talking about?"
+    c "Про що ти?"
 
 # game/game/charlotte_events.rpy:944
 translate ukrainian char_event4_0efb7db8:
 
     # t "Is it normal for her to do this?"
-    t "Is it normal for her to do this?"
+    t "Для неї це нормально?"
 
 # game/game/charlotte_events.rpy:945
 translate ukrainian char_event4_6e478418:
 
     # mc "Err... {w}nothing..."
-    mc "Err... {w}nothing..."
+    mc "Емм... {w}забуть..."
 
 # game/game/charlotte_events.rpy:946
 translate ukrainian char_event4_7529a5f3:
 
     # c "You're a strange human..."
-    c "You're a strange human..."
+    c "Ти дивна людина..."
 
 # game/game/charlotte_events.rpy:948
 translate ukrainian char_event4_386402af:
@@ -2595,13 +2595,13 @@ translate ukrainian char_event4_386402af:
 translate ukrainian char_event4_06cbe7e8:
 
     # t "Her hair is so soft... {w}and even though she's sitting on me, she's not heavy at all."
-    t "Her hair is so soft... {w}and even though she's sitting on me, she's not heavy at all."
+    t "Її волосся таке м'яке... {w}і вона зовсім не важка, навіть коли сіла на мене ось так."
 
 # game/game/charlotte_events.rpy:950
 translate ukrainian char_event4_be9161c2:
 
     # mc "Can I ask you something?"
-    mc "Can I ask you something?"
+    mc "Я можу в тебе дещо спитати?"
 
 # game/game/charlotte_events.rpy:952
 translate ukrainian char_event4_386402af_1:
@@ -2613,19 +2613,19 @@ translate ukrainian char_event4_386402af_1:
 translate ukrainian char_event4_f2626437_1:
 
     # mc "Charlotte?"
-    mc "Charlotte?"
+    mc "Шарлотто?"
 
 # game/game/charlotte_events.rpy:955
 translate ukrainian char_event4_d5aef1e0:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-8}Ah-{/size}{/sc} {w=0.5}yes?"
-    c "{sc=2}{outlinecolor=#000000}{size=-8}Ah-{/size}{/sc} {w=0.5}yes?"
+    c "{sc=2}{outlinecolor=#000000}{size=-8}Ах-{/size}{/sc} {w=0.5}так?"
 
 # game/game/charlotte_events.rpy:956
 translate ukrainian char_event4_4134c44e:
 
     # mc "You told me you don't live anywhere, right?"
-    mc "You told me you don't live anywhere, right?"
+    mc "Ти казала, що не маєш дому, правильно?"
 
 # game/game/charlotte_events.rpy:957
 translate ukrainian char_event4_d19f855d_7:
@@ -2637,73 +2637,73 @@ translate ukrainian char_event4_d19f855d_7:
 translate ukrainian char_event4_00d11b49:
 
     # c "Yes..."
-    c "Yes..."
+    c "Так..."
 
 # game/game/charlotte_events.rpy:960
 translate ukrainian char_event4_90b228e6:
 
     # mc "I know you said you didn't need one... but..."
-    mc "I know you said you didn't need one... but..."
+    mc "Знаю, ти сказала, що тобі й не треба... але..."
 
 # game/game/charlotte_events.rpy:961
 translate ukrainian char_event4_e45d224e:
 
     # c "What's your point, Human."
-    c "What's your point, Human."
+    c "Ближче до суті, Людино."
 
 # game/game/charlotte_events.rpy:963
 translate ukrainian char_event4_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "Ну..."
 
 # game/game/charlotte_events.rpy:964
 translate ukrainian char_event4_2a5f261f:
 
     # mc "Why don't you come live with me?"
-    mc "Why don't you come live with me?"
+    mc "Чому б тобі не жити зі мною?"
 
 # game/game/charlotte_events.rpy:965
 translate ukrainian char_event4_f22ed39f:
 
     # c "{size=-6}W-With... {w}you?"
-    c "{size=-6}W-With... {w}you?"
+    c "{size=-6}З-З... {w}тобою?"
 
 # game/game/charlotte_events.rpy:966
 translate ukrainian char_event4_5c1087c8:
 
     # mc "Since you mentioned it, I've been thinking about a room you can use."
-    mc "Since you mentioned it, I've been thinking about a room you can use."
+    mc "Ще відколи ти про це розповіла, я замислився, що маю кімнату, яку міг би тобі віддати."
 
 # game/game/charlotte_events.rpy:967
 translate ukrainian char_event4_0a072166:
 
     # mc "If I fix it, you could live comfortably there."
-    mc "If I fix it, you could live comfortably there."
+    mc "Якщо її полагоджу, зможеш там жити із комфортом."
 
 # game/game/charlotte_events.rpy:968
 translate ukrainian char_event4_a55983e2:
 
     # c "{size=-6}Since I mentioned it? {w=0.5}That was days ago..."
-    c "{size=-6}Since I mentioned it? {w=0.5}That was days ago..."
+    c "{size=-6}Відколи я розповіла? {w=0.5}Це було вже бозна-коли..."
 
 # game/game/charlotte_events.rpy:969
 translate ukrainian char_event4_a751cf09:
 
     # mc "What do you say? {w}I'm sure Ryoko will be happy to meet you."
-    mc "What do you say? {w}I'm sure Ryoko will be happy to meet you."
+    mc "То що скажеш? {w}Упевнений, Рьоко буде рада познайомитися з тобою."
 
 # game/game/charlotte_events.rpy:971
 translate ukrainian char_event4_e287eb63:
 
     # c "Why would you let a stranger live with you in the first place?"
-    c "Why would you let a stranger live with you in the first place?"
+    c "Навіщо тобі взагалі дозволяти незнайомцю жити разом з тобою?"
 
 # game/game/charlotte_events.rpy:972
 translate ukrainian char_event4_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Що ти таке кажеш?"
 
 # game/game/charlotte_events.rpy:973
 translate ukrainian char_event4_d19f855d_8:
@@ -2715,37 +2715,37 @@ translate ukrainian char_event4_d19f855d_8:
 translate ukrainian char_event4_83f41e41:
 
     # mc "I consider you as my friend."
-    mc "I consider you as my friend."
+    mc "Я вважаю тебе подругою."
 
 # game/game/charlotte_events.rpy:976
 translate ukrainian char_event4_20d778a5:
 
     # c "{size=-6}Friend?"
-    c "{size=-6}Friend?"
+    c "{size=-6}Подругою?"
 
 # game/game/charlotte_events.rpy:981
 translate ukrainian char_event4_7f069fed:
 
     # c "{i}Different ways?"
-    c "{i}Different ways?"
+    c "{i}По-іншому?"
 
 # game/game/charlotte_events.rpy:983
 translate ukrainian char_event4_f90e649b:
 
     # "{color=#dcc3cb}Sometimes things just happen."
-    "{color=#dcc3cb}Sometimes things just happen."
+    "{color=#dcc3cb}Іноді все просто стається само собою."
 
 # game/game/charlotte_events.rpy:984
 translate ukrainian char_event4_b9639f4f:
 
     # "{color=#dcc3cb}It's not your duty to be liked and be friends with everyone."
-    "{color=#dcc3cb}It's not your duty to be liked and be friends with everyone."
+    "{color=#dcc3cb}Ти не зобов'язана всім подобатися й дружити з кожним."
 
 # game/game/charlotte_events.rpy:985
 translate ukrainian char_event4_41b536fa:
 
     # "{color=#dcc3cb}But when you become close to someone, they may consider you their friend without you even realizing it."
-    "{color=#dcc3cb}But when you become close to someone, they may consider you their friend without you even realizing it."
+    "{color=#dcc3cb}Але коли з кимось зближуєшся, ця людина може почати вважати тебе другом так, що ти й сама не встигнеш цього помітити."
 
 # game/game/charlotte_events.rpy:986
 translate ukrainian char_event4_d19f855d_9:
@@ -2757,73 +2757,73 @@ translate ukrainian char_event4_d19f855d_9:
 translate ukrainian char_event4_ee835588:
 
     # c "Humans are so complicated."
-    c "Humans are so complicated."
+    c "Люди такі складні."
 
 # game/game/charlotte_events.rpy:989
 translate ukrainian char_event4_13bd173a:
 
     # "{color=#dcc3cb}Hahaha, {w=0.5}you might be right."
-    "{color=#dcc3cb}Hahaha, {w=0.5}you might be right."
+    "{color=#dcc3cb}Хахаха, {w=0.5}певно, що твоя правда."
 
 # game/game/charlotte_events.rpy:991
 translate ukrainian char_event4_345bc6de:
 
     # c "Well."
-    c "Well."
+    c "Ну."
 
 # game/game/charlotte_events.rpy:992
 translate ukrainian char_event4_c398dc82:
 
     # c "I no longer need anyone because I have you."
-    c "I no longer need anyone because I have you."
+    c "Мені вже точно ніхто не треба, адже в мене є ти."
 
 # game/game/charlotte_events.rpy:994
 translate ukrainian char_event4_c9139a06:
 
     # "{color=#dcc3cb}That makes me very happy."
-    "{color=#dcc3cb}That makes me very happy."
+    "{color=#dcc3cb}Це мене дуже тішить."
 
 # game/game/charlotte_events.rpy:995
 translate ukrainian char_event4_a05f4620:
 
     # "{color=#dcc3cb}But if I were to disappear, {w}I wouldn't want you to be alone."
-    "{color=#dcc3cb}But if I were to disappear, {w}I wouldn't want you to be alone."
+    "{color=#dcc3cb}Але якщо я колись зникну, {w}не хочу, аби ти залишилася сама."
 
 # game/game/charlotte_events.rpy:997
 translate ukrainian char_event4_02951dab:
 
     # c "Will you disappear?"
-    c "Will you disappear?"
+    c "А ти зникнеш?"
 
 # game/game/charlotte_events.rpy:998
 translate ukrainian char_event4_591679df:
 
     # "{color=#dcc3cb}No one knows."
-    "{color=#dcc3cb}No one knows."
+    "{color=#dcc3cb}Якби ж я знала."
 
 # game/game/charlotte_events.rpy:1001
 translate ukrainian char_event4_4e6d8758:
 
     # c "{sc=2}{outlinecolor=#000000}Gghn-"
-    c "{sc=2}{outlinecolor=#000000}Gghn-"
+    c "{sc=2}{outlinecolor=#000000}{i}Ггхн-{/i}"
 
 # game/game/charlotte_events.rpy:1002
 translate ukrainian char_event4_53e9802a:
 
     # "{color=#dcc3cb}That's why I want you to make-"
-    "{color=#dcc3cb}That's why I want you to make-"
+    "{color=#dcc3cb}Саме тому я хочу, щоб ти знайшла-"
 
 # game/game/charlotte_events.rpy:1004
 translate ukrainian char_event4_fd3a4dc2:
 
     # "{color=#dcc3cb}-maaaany friends."
-    "{color=#dcc3cb}-maaaany friends."
+    "{color=#dcc3cb}-багааато друзів."
 
 # game/game/charlotte_events.rpy:1005
 translate ukrainian char_event4_b88c9f84:
 
     # "{color=#dcc3cb}Promise...?"
-    "{color=#dcc3cb}Promise...?"
+    "{color=#dcc3cb}Обіцяєш...?"
 
 # game/game/charlotte_events.rpy:1006
 translate ukrainian char_event4_d19f855d_10:
@@ -2835,103 +2835,103 @@ translate ukrainian char_event4_d19f855d_10:
 translate ukrainian char_event4_e12295ad:
 
     # c "I will try..."
-    c "I will try..."
+    c "Я спробую..."
 
 # game/game/charlotte_events.rpy:1008
 translate ukrainian char_event4_3fc6d6bf:
 
     # c "{sc=2}{outlinecolor=#000000}I c-can't breathe..."
-    c "{sc=2}{outlinecolor=#000000}I c-can't breathe..."
+    c "{sc=2}{outlinecolor=#000000}Не м-можу дихати..."
 
 # game/game/charlotte_events.rpy:1010
 translate ukrainian char_event4_f3a4c8ff:
 
     # mc "And we have a shower and a huuuuge backyard."
-    mc "And we have a shower and a huuuuge backyard."
+    mc "Ще в нас є ванна з душем і велииичезний задній двір."
 
 # game/game/charlotte_events.rpy:1011
 translate ukrainian char_event4_99238d95:
 
     # c "{size=-6}Friend..."
-    c "{size=-6}Friend..."
+    c "{size=-6}Подруга..."
 
 # game/game/charlotte_events.rpy:1012
 translate ukrainian char_event4_8be7a0b3:
 
     # mc "Did you say something?"
-    mc "Did you say something?"
+    mc "Ти щось сказала?"
 
 # game/game/charlotte_events.rpy:1014
 translate ukrainian char_event4_738c4ef3:
 
     # c "Do you really consider me your friend?"
-    c "Do you really consider me your friend?"
+    c "Ти дійсно вважаєш мене своєю подругою?"
 
 # game/game/charlotte_events.rpy:1015
 translate ukrainian char_event4_f592e81c:
 
     # mc "Of course,{w} or don't you see me in that way...?"
-    mc "Of course,{w} or don't you see me in that way...?"
+    mc "Звісно.{w} Чи ти не бачиш в мені друга...?"
 
 # game/game/charlotte_events.rpy:1017
 translate ukrainian char_event4_d1d77b8a:
 
     # c "Well, I could consider you my friend if that's what you want, Human."
-    c "Well, I could consider you my friend if that's what you want, Human."
+    c "Ну, я теж можу вважати тебе другом, якщо ти цього хочеш, Людино."
 
 # game/game/charlotte_events.rpy:1018
 translate ukrainian char_event4_d14e0a96:
 
     # t "Her tail is more honest."
-    t "Her tail is more honest."
+    t "Її хвіст більш чесний."
 
 # game/game/charlotte_events.rpy:1019
 translate ukrainian char_event4_17f97ad5:
 
     # mc "So you accept my proposal?"
-    mc "So you accept my proposal?"
+    mc "Отже, ти згодна з моєю пропозицією?"
 
 # game/game/charlotte_events.rpy:1020
 translate ukrainian char_event4_4b489c83:
 
     # c "Okay..."
-    c "Okay..."
+    c "Гаразд, вмовив..."
 
 # game/game/charlotte_events.rpy:1021
 translate ukrainian char_event4_8a428b00:
 
     # mc "Then I'll repair your room as soon as possible."
-    mc "Then I'll repair your room as soon as possible."
+    mc "Тоді я якнайшвидше полагоджу твою кімнату."
 
 # game/game/charlotte_events.rpy:1022
 translate ukrainian char_event4_8c52791e:
 
     # c "My room..."
-    c "My room..."
+    c "Мою кімнату..."
 
 # game/game/charlotte_events.rpy:1023
 translate ukrainian char_event4_4205cb00:
 
     # t "She seems to be happy."
-    t "She seems to be happy."
+    t "Здається, вона дуже щаслива."
 
 # game/game/charlotte_events.rpy:1024
 translate ukrainian char_event4_533d5b93:
 
     # c "Human."
-    c "Human."
+    c "Людино."
 
 # game/game/charlotte_events.rpy:1025
 translate ukrainian char_event4_7c927b78:
 
     # mc "Yes?"
-    mc "Yes?"
+    mc "Так?"
 
 # game/game/charlotte_events.rpy:1027
 translate ukrainian char_event4_1e4d13f6:
 
     # c "Why have I been feeling something hard against my back for a while now?"
-    c "Why have I been feeling something hard against my back for a while now?"
+    c "Чому я вже пений час відчуваю щось тверде позаду?"
 
 # game/game/charlotte_events.rpy:1028
 translate ukrainian char_event4_2b35b6fe_3:
@@ -2943,43 +2943,43 @@ translate ukrainian char_event4_2b35b6fe_3:
 translate ukrainian char_event4_63c3f4c9:
 
     # mc "I-!"
-    mc "I-!"
+    mc "Я-!"
 
 # game/game/charlotte_events.rpy:1034
 translate ukrainian char_event4_63b80f49:
 
     # c "Why are you moving away?"
-    c "Why are you moving away?"
+    c "Навіщо ти відсунувся?"
 
 # game/game/charlotte_events.rpy:1035
 translate ukrainian char_event4_935031d5:
 
     # c "It didn't bother me much."
-    c "It didn't bother me much."
+    c "Воно мені не так вже й заважало."
 
 # game/game/charlotte_events.rpy:1036
 translate ukrainian char_event4_e59cf96b:
 
     # mc "This is..."
-    mc "This is..."
+    mc "Це..."
 
 # game/game/charlotte_events.rpy:1037
 translate ukrainian char_event4_61b5a216:
 
     # t "Really? At what time and why now?"
-    t "Really? At what time and why now?"
+    t "Справді? Коли й чому зараз?"
 
 # game/game/charlotte_events.rpy:1041
 translate ukrainian char_gal1_e4d53a00:
 
     # c "{size=-6}Hmm?"
-    c "{size=-6}Hmm?"
+    c "{size=-6}Гмм?"
 
 # game/game/charlotte_events.rpy:1042
 translate ukrainian char_gal1_1faaf39c:
 
     # mc "I'm sorry, I don't know what's wrong with my body..."
-    mc "I'm sorry, I don't know what's wrong with my body..."
+    mc "Пробач, не знаю, що не так з моїм тілом..."
 
 # game/game/charlotte_events.rpy:1043
 translate ukrainian char_gal1_d19f855d:
@@ -2991,25 +2991,25 @@ translate ukrainian char_gal1_d19f855d:
 translate ukrainian char_gal1_b392e491:
 
     # mc "I didn't think-"
-    mc "I didn't think-"
+    mc "Я не знав-"
 
 # game/game/charlotte_events.rpy:1046
 translate ukrainian char_gal1_4d00bfb4:
 
     # mc "{sc=2}{outlinecolor=#000000}Wha-"
-    mc "{sc=2}{outlinecolor=#000000}Wha-"
+    mc "{sc=2}{outlinecolor=#000000}Яког-"
 
 # game/game/charlotte_events.rpy:1047
 translate ukrainian char_gal1_bb74326d:
 
     # c "Did you get turned on because of me?"
-    c "Did you get turned on because of me?"
+    c "Невже ти завівся через мене?"
 
 # game/game/charlotte_events.rpy:1048
 translate ukrainian char_gal1_bd5e5e96:
 
     # c "I thought humans were only attracted to other humans."
-    c "I thought humans were only attracted to other humans."
+    c "Я думала, що людей приваблюють лише інші люди."
 
 # game/game/charlotte_events.rpy:1049
 translate ukrainian char_gal1_2b35b6fe:
@@ -3021,13 +3021,13 @@ translate ukrainian char_gal1_2b35b6fe:
 translate ukrainian char_gal1_2c3ce5bd:
 
     # mc "Let me tell you that's a lie."
-    mc "Let me tell you that's a lie."
+    mc "Дозволь мені спростувати цю брехню."
 
 # game/game/charlotte_events.rpy:1052
 translate ukrainian char_gal1_8c681258:
 
     # c "So you're attracted to me?"
-    c "So you're attracted to me?"
+    c "То я тебе приваблюю?"
 
 # game/game/charlotte_events.rpy:1053
 translate ukrainian char_gal1_2b35b6fe_1:
@@ -3039,7 +3039,7 @@ translate ukrainian char_gal1_2b35b6fe_1:
 translate ukrainian char_gal1_6bba8a4f:
 
     # mc "{size=-6}Yes..."
-    mc "{size=-6}Yes..."
+    mc "{size=-6}Так..."
 
 # game/game/charlotte_events.rpy:1055
 translate ukrainian char_gal1_d19f855d_1:
@@ -3051,73 +3051,73 @@ translate ukrainian char_gal1_d19f855d_1:
 translate ukrainian char_gal1_130fe7d8:
 
     # c "Move back, I can barely move like this."
-    c "Move back, I can barely move like this."
+    c "Відсунся трохи, мені так важко рухатися."
 
 # game/game/charlotte_events.rpy:1058
 translate ukrainian char_gal1_251d2c70:
 
     # mc "Mmm? {w}Sure..."
-    mc "Mmm? {w}Sure..."
+    mc "Ммм? {w}Звісно..."
 
 # game/game/charlotte_events.rpy:1061
 translate ukrainian char_gal1_8f20af04:
 
     # mc "What are you doing...?"
-    mc "What are you doing...?"
+    mc "Що ти робиш...?"
 
 # game/game/charlotte_events.rpy:1063
 translate ukrainian char_gal1_3c181d3b:
 
     # mc "Charlotte...?"
-    mc "Charlotte...?"
+    mc "Шарлотто...?"
 
 # game/game/charlotte_events.rpy:1064
 translate ukrainian char_gal1_8b61351f:
 
     # c "Why don't you take it out yet?"
-    c "Why don't you take it out yet?"
+    c "Чому ти досі не дістав його?"
 
 # game/game/charlotte_events.rpy:1065
 translate ukrainian char_gal1_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "{i}Ухм...{/i}"
 
 # game/game/charlotte_events.rpy:1067
 translate ukrainian char_gal1_982bb8b8:
 
     # mc "Y-You know what you are asking me, right...?"
-    mc "Y-You know what you are asking me, right...?"
+    mc "Т-Ти ж розумієш, про що просиш, так...?"
 
 # game/game/charlotte_events.rpy:1068
 translate ukrainian char_gal1_dea04dc0:
 
     # c "You said that you are attracted to me and that we are friends."
-    c "You said that you are attracted to me and that we are friends."
+    c "Сам казав, що я тебе приваблюю, і що ми друзі."
 
 # game/game/charlotte_events.rpy:1069
 translate ukrainian char_gal1_24669b59:
 
     # mc "Yes.."
-    mc "Yes.."
+    mc "Так..."
 
 # game/game/charlotte_events.rpy:1070
 translate ukrainian char_gal1_41d1e6ae:
 
     # c "Friends help each other, don't they?"
-    c "Friends help each other, don't they?"
+    c "Друзі допомагають одне одному, хіба ні?"
 
 # game/game/charlotte_events.rpy:1071
 translate ukrainian char_gal1_1acd70b1:
 
     # mc "Well, {w}it depends on what kind of friends..."
-    mc "Well, {w}it depends on what kind of friends..."
+    mc "Ну, {w}залежить від того, які це друзі..."
 
 # game/game/charlotte_events.rpy:1074
 translate ukrainian char_gal1_6a25d687:
 
     # c "Okay, time is up, {w}\nyour guard is always down Human."
-    c "Okay, time is up, {w}\nyour guard is always down Human."
+    c "Усе, час вийшов, {w}ти вічно втрачаєш пильність, Людино."
 
 # game/game/charlotte_events.rpy:1075
 translate ukrainian char_gal1_e821fa44:
@@ -3129,31 +3129,31 @@ translate ukrainian char_gal1_e821fa44:
 translate ukrainian char_gal1_d900f308:
 
     # mc "I don't want you to get the wrong idea that this is what friends do!"
-    mc "I don't want you to get the wrong idea that this is what friends do!"
+    mc "Не хочу, аби ти мала хибне уявлення про те, чим займаються друзі!"
 
 # game/game/charlotte_events.rpy:1077
 translate ukrainian char_gal1_3a8bbaa7:
 
     # c "I know what it means to be friends."
-    c "I know what it means to be friends."
+    c "Я знаю, що означає «бути друзями»."
 
 # game/game/charlotte_events.rpy:1078
 translate ukrainian char_gal1_8751ecb6:
 
     # c "And..."
-    c "And..."
+    c "І..."
 
 # game/game/charlotte_events.rpy:1080
 translate ukrainian char_gal1_cf09cf8d:
 
     # c "{size=-6}I'm attracted to you too..."
-    c "{size=-6}I'm attracted to you too..."
+    c "{size=-6}Ти мене теж приваблюєш..."
 
 # game/game/charlotte_events.rpy:1081
 translate ukrainian char_gal1_7b66895d:
 
     # mc "{size=-6}R-Reall-"
-    mc "{size=-6}R-Reall-"
+    mc "{size=-6}С-Справ-"
 
 # game/game/charlotte_events.rpy:1083
 translate ukrainian char_gal1_bda3ff80:
@@ -3165,55 +3165,55 @@ translate ukrainian char_gal1_bda3ff80:
 translate ukrainian char_gal1_529921db:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp*{/size}{/sc} {w}Is this what a penis looks like? {w=0.5}Are they that big?"
-    c "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp*{/size}{/sc} {w}Is this what a penis looks like? {w=0.5}Are they that big?"
+    c "{sc=2}{outlinecolor=#000000}{size=-8}{i}*Ковть*{/i}{/size}{/sc} {w}То ось як виглядає член? {w=0.5}Невже вони настільки великі?"
 
 # game/game/charlotte_events.rpy:1085
 translate ukrainian char_gal1_f64b40df:
 
     # mc "I don't think so..."
-    mc "I don't think so..."
+    mc "Не думаю..."
 
 # game/game/charlotte_events.rpy:1087
 translate ukrainian char_gal1_594b90c6:
 
     # t "She didn't even hesitate to grab it..."
-    t "She didn't even hesitate to grab it..."
+    t "Вона схопила його, не завагавшись ні на мить..."
 
 # game/game/charlotte_events.rpy:1088
 translate ukrainian char_gal1_815429bb:
 
     # c "It's hot... {w=0.5}and it throbs a lot..."
-    c "It's hot... {w=0.5}and it throbs a lot..."
+    c "Він гарячий... {w=0.5}і так сильно пульсує..."
 
 # game/game/charlotte_events.rpy:1089
 translate ukrainian char_gal1_5857ae34:
 
     # mc "That's what it normally does..."
-    mc "That's what it normally does..."
+    mc "Для нього це нормально..."
 
 # game/game/charlotte_events.rpy:1090
 translate ukrainian char_gal1_1e665559:
 
     # c "Hmm..."
-    c "Hmm..."
+    c "Гмм..."
 
 # game/game/charlotte_events.rpy:1092
 translate ukrainian char_gal1_8e258384:
 
     # c "Do you like when I touch it?"
-    c "Do you like when I touch it?"
+    c "Тобі подобається, коли я торкаюся його?"
 
 # game/game/charlotte_events.rpy:1093
 translate ukrainian char_gal1_332b4873:
 
     # mc "Y-Yes..."
-    mc "Y-Yes..."
+    mc "Т-Так..."
 
 # game/game/charlotte_events.rpy:1094
 translate ukrainian char_gal1_d17b3325:
 
     # t "Her little hands can't even wrap around my penis..."
-    t "Her little hands can't even wrap around my penis..."
+    t "Її маленькі долоні навіть не можуть обхопити мого члена..."
 
 # game/game/charlotte_events.rpy:1095
 translate ukrainian char_gal1_2b35b6fe_2:
@@ -3225,19 +3225,19 @@ translate ukrainian char_gal1_2b35b6fe_2:
 translate ukrainian char_gal1_c0d9a513:
 
     # t "Since we have reached this point.."
-    t "Since we have reached this point.."
+    t "Оскільки ми вже дійшли до цього моменту..."
 
 # game/game/charlotte_events.rpy:1097
 translate ukrainian char_gal1_c28c409f:
 
     # mc "Can you move your hand a little more?"
-    mc "Can you move your hand a little more?"
+    mc "Можеш трошки почати рухати руками?"
 
 # game/game/charlotte_events.rpy:1098
 translate ukrainian char_gal1_fe5f3366:
 
     # c "Okay."
-    c "Okay."
+    c "Гаразд."
 
 # game/game/charlotte_events.rpy:1100
 translate ukrainian char_gal1_1d82a7e7:
@@ -3249,175 +3249,175 @@ translate ukrainian char_gal1_1d82a7e7:
 translate ukrainian char_gal1_4722d9f1:
 
     # c "Is this okay? {w=0.5}Are you feeling good Human?"
-    c "Is this okay? {w=0.5}Are you feeling good Human?"
+    c "Ость так нормально? {w=0.5}Тобі приємно, Людино?"
 
 # game/game/charlotte_events.rpy:1102
 translate ukrainian char_gal1_84d9991b:
 
     # mc "Yes..."
-    mc "Yes..."
+    mc "Так..."
 
 # game/game/charlotte_events.rpy:1103
 translate ukrainian char_gal1_3ffb2a88:
 
     # c "What a strange way to gain pleasure..."
-    c "What a strange way to gain pleasure..."
+    c "Який дивний спосіб отримати задоволення..."
 
 # game/game/charlotte_events.rpy:1104
 translate ukrainian char_gal1_78780b4f:
 
     # t "She's just inexpertly rubbing me with her palm but it feels so good..."
-    t "She's just inexpertly rubbing me with her palm but it feels so good..."
+    t "Вона просто невміло тре мене долонею, але це так приємно..."
 
 # game/game/charlotte_events.rpy:1105
 translate ukrainian char_gal1_aa713b7f:
 
     # t "And her looking at me every second to make sure she is doing it right is triggering something in me..."
-    t "And her looking at me every second to make sure she is doing it right is triggering something in me..."
+    t "І те, як вона кожну секунду дивиться на мене, щоб переконатися, що робить все правильно, викликає у мене якісь дивні почуття..."
 
 # game/game/charlotte_events.rpy:1106
 translate ukrainian char_gal1_de329419:
 
     # mc "C-Can you squeeze it tighter...?"
-    mc "C-Can you squeeze it tighter...?"
+    mc "М-Можеш його сильніше стиснути...?"
 
 # game/game/charlotte_events.rpy:1107
 translate ukrainian char_gal1_8c4a2c02:
 
     # c "More...? {w}Where?"
-    c "More...? {w}Where?"
+    c "Сильніше...? {w}Де?"
 
 # game/game/charlotte_events.rpy:1108
 translate ukrainian char_gal1_6d0ece66:
 
     # mc "Anywhere... {w}I just want to see you do it."
-    mc "Anywhere... {w}I just want to see you do it."
+    mc "Де бажаєш... {w}Я просто хочу побачити, як ти це робиш."
 
 # game/game/charlotte_events.rpy:1109
 translate ukrainian char_gal1_4a27f7ef:
 
     # c "Looking to die Human...?"
-    c "Looking to die Human...?"
+    c "Смерті шукаєш, Людино...?"
 
 # game/game/charlotte_events.rpy:1110
 translate ukrainian char_gal1_64dff26a:
 
     # mc "If this is the way, I am ready to accept it..."
-    mc "If this is the way, I am ready to accept it..."
+    mc "Якщо цього не уникнути, я готовий з цим змиритися..."
 
 # game/game/charlotte_events.rpy:1111
 translate ukrainian char_gal1_6a5b77b4:
 
     # c "Why is it getting bigger? And it's kind of... sticky here at the tip..."
-    c "Why is it getting bigger? And it's kind of... sticky here at the tip..."
+    c "Чому він збільшується? І він дещо... липкий тут, де головка..."
 
 # game/game/charlotte_events.rpy:1112
 translate ukrainian char_gal1_3ad7c66a:
 
     # c "It's very different from what I thought they were like...{image=corazon}"
-    c "It's very different from what I thought they were like...{image=corazon}"
+    c "Вони сильно відрізняються від того, як я їх уявляла...{image=corazon}"
 
 # game/game/charlotte_events.rpy:1114
 translate ukrainian char_gal1_9ae30407:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghn!"
-    mc "{sc=2}{outlinecolor=#000000}Ghn!"
+    mc "{sc=2}{outlinecolor=#000000}{i}Гхн!{/i}"
 
 # game/game/charlotte_events.rpy:1115
 translate ukrainian char_gal1_bacee9fc:
 
     # mc "If you use b-both hands..."
-    mc "If you use b-both hands..."
+    mc "Якщо використовуватимеш о-обидві руки..."
 
 # game/game/charlotte_events.rpy:1116
 translate ukrainian char_gal1_f09d9977:
 
     # c "I thought you were enjoying it more when I rubbed it this way..."
-    c "I thought you were enjoying it more when I rubbed it this way..."
+    c "Гадала, тобі більше сподобається, якщо я тертиму таким чином..."
 
 # game/game/charlotte_events.rpy:1117
 translate ukrainian char_gal1_fdda52da:
 
     # c "Is it okay like this?"
-    c "Is it okay like this?"
+    c "Тобі так добре?"
 
 # game/game/charlotte_events.rpy:1118
 translate ukrainian char_gal1_7e509913:
 
     # mc "Y-Yes... {w}you're a-absolutely right, but you'll make me cum quickly..."
-    mc "Y-Yes... {w}you're a-absolutely right, but you'll make me cum quickly..."
+    mc "Т-Так... {w}ти цілковито маєш рацію, але я так дуже швидко кінчу..."
 
 # game/game/charlotte_events.rpy:1119
 translate ukrainian char_gal1_c3077bf1:
 
     # c "Isn't that the idea?"
-    c "Isn't that the idea?"
+    c "Хіба не у цьому суть?"
 
 # game/game/charlotte_events.rpy:1120
 translate ukrainian char_gal1_324e3ba4:
 
     # mc "Yes... but..."
-    mc "Yes... but..."
+    mc "Так... але..."
 
 # game/game/charlotte_events.rpy:1121
 translate ukrainian char_gal1_d197f44d:
 
     # t "S-She... learned too fast, now her movements are more confident..."
-    t "S-She... learned too fast, now her movements are more confident..."
+    t "В-Вона... надто швидко вчиться, її рухи стали більш упевненими..."
 
 # game/game/charlotte_events.rpy:1122
 translate ukrainian char_gal1_8fa02e15:
 
     # t "And her two small hands are not enough to hold my cock."
-    t "And her two small hands are not enough to hold my cock."
+    t "Та її малих рук недостатньо, щоб втримати мій прутень."
 
 # game/game/charlotte_events.rpy:1123
 translate ukrainian char_gal1_3ae994e2:
 
     # mc "C-Charlotte..."
-    mc "C-Charlotte..."
+    mc "Ш-Шарлотто..."
 
 # game/game/charlotte_events.rpy:1124
 translate ukrainian char_gal1_aea8b436:
 
     # c "Hnmn...{image=corazon} {w}Haaa...{image=corazon}{image=corazon} {w}Here...{image=corazon}"
-    c "Hnmn...{image=corazon} {w}Haaa...{image=corazon}{image=corazon} {w}Here...{image=corazon}"
+    c "{i}Хнмн...{/i}{image=corazon} {w}Хааа...{image=corazon}{image=corazon} {w}Ось...{image=corazon}"
 
 # game/game/charlotte_events.rpy:1125
 translate ukrainian char_gal1_be8395a1:
 
     # c "Hmm? {w=0.5}What's wrong Human?"
-    c "Hmm? {w=0.5}What's wrong Human?"
+    c "Гмм? {w=0.5}Що таке, Людино?"
 
 # game/game/charlotte_events.rpy:1126
 translate ukrainian char_gal1_50f4c8ab:
 
     # mc "I would like to ask you something..."
-    mc "I would like to ask you something..."
+    mc "Я б хотів про дещо попросити тебе..."
 
 # game/game/charlotte_events.rpy:1127
 translate ukrainian char_gal1_0f173ebb:
 
     # c "What is it?"
-    c "What is it?"
+    c "І про що ж?"
 
 # game/game/charlotte_events.rpy:1128
 translate ukrainian char_gal1_43070097:
 
     # mc "Seeing something would really help me to cum."
-    mc "Seeing something would really help me to cum."
+    mc "Якщо зможу споглядати дещо, це мені допоможе швидше кінчити."
 
 # game/game/charlotte_events.rpy:1129
 translate ukrainian char_gal1_e9d3c6ce:
 
     # c "Really? {w}And that would be?"
-    c "Really? {w}And that would be?"
+    c "Справді? {w}І що це б могло бути?"
 
 # game/game/charlotte_events.rpy:1130
 translate ukrainian char_gal1_5e24e345:
 
     # mc "{size=-6}{i}If I could see your breasts..."
-    mc "{size=-6}{i}If I could see your breasts..."
+    mc "{size=-6}{i}Якщо зможу побачити твої груди..."
 
 # game/game/charlotte_events.rpy:1131
 translate ukrainian char_gal1_d19f855d_2:
@@ -3429,85 +3429,85 @@ translate ukrainian char_gal1_d19f855d_2:
 translate ukrainian char_gal1_a1479967:
 
     # c "You're playing with fire, {w}Human."
-    c "You're playing with fire, {w}Human."
+    c "З вогнем граєшся, {w}Людино."
 
 # game/game/charlotte_events.rpy:1133
 translate ukrainian char_gal1_9ee76a4c:
 
     # mc "Sorr-"
-    mc "Sorr-"
+    mc "Проб-"
 
 # game/game/charlotte_events.rpy:1134
 translate ukrainian char_gal1_1d5aee67:
 
     # c "But since we are friends.."
-    c "But since we are friends.."
+    c "Але ми ж друзі..."
 
 # game/game/charlotte_events.rpy:1136
 translate ukrainian char_gal1_f75bada3:
 
     # t "I almost ended up cumming just by her hands."
-    t "I almost ended up cumming just by her hands."
+    t "Я ледь не кінчив лише від її рук."
 
 # game/game/charlotte_events.rpy:1137
 translate ukrainian char_gal1_49aaaeaf:
 
     # t "This will help me to take a breath and-"
-    t "This will help me to take a breath and-"
+    t "Це допоможе мені трохи перепочити і-"
 
 # game/game/charlotte_events.rpy:1139
 translate ukrainian char_gal1_470116e3:
 
     # c "I don't know what's so special about showing you this."
-    c "I don't know what's so special about showing you this."
+    c "Не знаю, що такого особливого у тому, аби показати їх тобі."
 
 # game/game/charlotte_events.rpy:1140
 translate ukrainian char_gal1_35a6432a:
 
     # c "It will really help you feel better?"
-    c "It will really help you feel better?"
+    c "Тобі справді стане від цього краще?"
 
 # game/game/charlotte_events.rpy:1141
 translate ukrainian char_gal1_7773e988:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp*{/size}{/sc} {w}D-Definitely..."
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp*{/size}{/sc} {w}D-Definitely..."
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}{i}*Ковть*{/i}{/size}{/sc} {w}Щ-Ще й як..."
 
 # game/game/charlotte_events.rpy:1143
 translate ukrainian char_gal1_d27a3e64:
 
     # c "Are you really attracted to me even though I'm not human?"
-    c "Are you really attracted to me even though I'm not human?"
+    c "Я дійсно тебе приваблюю навіть попри те, що я не людина?"
 
 # game/game/charlotte_events.rpy:1144
 translate ukrainian char_gal1_9d463a9e:
 
     # mc "Whatever I say, {w}what you are holding is proof of how I feel..."
-    mc "Whatever I say, {w}what you are holding is proof of how I feel..."
+    mc "Що б я не казав, {w}але у твоїх руках доказ моїх почуттів..."
 
 # game/game/charlotte_events.rpy:1145
 translate ukrainian char_gal1_cb06cc61:
 
     # c "{size=-6}You're quite strange, Human..."
-    c "{size=-6}You're quite strange, Human..."
+    c "{size=-6}Ти досить дивний, Людино..."
 
 # game/game/charlotte_events.rpy:1146
 translate ukrainian char_gal1_6757f813:
 
     # c "But you are right... I think it got harder and stickier...."
-    c "But you are right... I think it got harder and stickier...."
+    c "Але твоя правда... Гадаю, він став твердішим й ліпкішим..."
 
 # game/game/charlotte_events.rpy:1149
 translate ukrainian char_gal1_a7617060:
 
     # c "I had heard that humans have strange mating habits."
-    c "I had heard that humans have strange mating habits."
+    c "Я чула, що у людей є дивні звичаї спаровування."
 
 # game/game/charlotte_events.rpy:1150
 translate ukrainian char_gal1_5c6b12c8:
 
     # c "And one of those is to use the mouth."
-    c "And one of those is to use the mouth."
+    c "Й один з них — залучення рота."
 
 # game/game/charlotte_events.rpy:1151
 translate ukrainian char_gal1_2b35b6fe_3:
@@ -3519,43 +3519,43 @@ translate ukrainian char_gal1_2b35b6fe_3:
 translate ukrainian char_gal1_ad5f277d:
 
     # c "Human?"
-    c "Human?"
+    c "Людино?"
 
 # game/game/charlotte_events.rpy:1153
 translate ukrainian char_gal1_35487527:
 
     # mc "A-Ah... {w}yes, that's a good habit..."
-    mc "A-Ah... {w}yes, that's a good habit..."
+    mc "А-Ах... {w}так, це досить гарний звичай..."
 
 # game/game/charlotte_events.rpy:1155
 translate ukrainian char_gal1_f412e240:
 
     # c "Humans are so strange."
-    c "Humans are so strange."
+    c "Люди такі дивні."
 
 # game/game/charlotte_events.rpy:1156
 translate ukrainian char_gal1_e89f8a19:
 
     # mc "You are quite right about that."
-    mc "You are quite right about that."
+    mc "Цілком твоя правда."
 
 # game/game/charlotte_events.rpy:1157
 translate ukrainian char_gal1_8d035fec:
 
     # t "I can feel her breathing..."
-    t "I can feel her breathing..."
+    t "Я відчуваю її дихання..."
 
 # game/game/charlotte_events.rpy:1158
 translate ukrainian char_gal1_ef78aace:
 
     # c "{size=-6}{i}Do I have to put this in my mouth?"
-    c "{size=-6}{i}Do I have to put this in my mouth?"
+    c "{size=-6}{i}Я маю покласти його до рота?"
 
 # game/game/charlotte_events.rpy:1159
 translate ukrainian char_gal1_350e1fc8:
 
     # c "{size=-6}{i}I hope it doesn't taste bad, I should taste it first."
-    c "{size=-6}{i}I hope it doesn't taste bad, I should taste it first."
+    c "{size=-6}{i}Сподіваюся, він не поганий на смак. Варто мені спершу спробувати."
 
 # game/game/charlotte_events.rpy:1161
 translate ukrainian char_gal1_05b5e324:
@@ -3567,37 +3567,37 @@ translate ukrainian char_gal1_05b5e324:
 translate ukrainian char_gal1_d8ef2b09:
 
     # t "I felt a shiver all over my body when her tongue touched my penis..."
-    t "I felt a shiver all over my body when her tongue touched my penis..."
+    t "Я відчув, як по всьому тілу пробігли мурахи, коли її язик торкнувся мого члена..."
 
 # game/game/charlotte_events.rpy:1163
 translate ukrainian char_gal1_1e665559_1:
 
     # c "Hmm..."
-    c "Hmm..."
+    c "Гмм..."
 
 # game/game/charlotte_events.rpy:1165
 translate ukrainian char_gal1_1c09118c:
 
     # t "For the way we met and all the days I spent with her."
-    t "For the way we met and all the days I spent with her."
+    t "Те, як ми познайомилися і за всі ці дні, що я провів поруч з нею."
 
 # game/game/charlotte_events.rpy:1166
 translate ukrainian char_gal1_59ec533c:
 
     # t "I didn't think that one day I would end up watching her lick my penis trying to make me cum..."
-    t "I didn't think that one day I would end up watching her lick my penis trying to make me cum..."
+    t "Я й уявити не міг, що одного дня все закінчиться тим, що я дивитимуся, як вона облизуватиме мій член, намагаючись змусити мене кінчити..."
 
 # game/game/charlotte_events.rpy:1167
 translate ukrainian char_gal1_e37778cd:
 
     # c "Even your taste is strange Human."
-    c "Even your taste is strange Human."
+    c "Навіть твій смак дивний, Людино."
 
 # game/game/charlotte_events.rpy:1168
 translate ukrainian char_gal1_9114de01:
 
     # mc "Strange in a bad way?"
-    mc "Strange in a bad way?"
+    mc "Дивний у поганом сенсі?"
 
 # game/game/charlotte_events.rpy:1169
 translate ukrainian char_gal1_d19f855d_3:
@@ -3609,79 +3609,79 @@ translate ukrainian char_gal1_d19f855d_3:
 translate ukrainian char_gal1_47c6ae1b:
 
     # c "{size=-6}No..."
-    c "{size=-6}No..."
+    c "{size=-6}Ні..."
 
 # game/game/charlotte_events.rpy:1171
 translate ukrainian char_gal1_65f4c56d:
 
     # mc "Your tongue is going to drive me crazy..."
-    mc "Your tongue is going to drive me crazy..."
+    mc "Твій язичок зведе мене з розуму..."
 
 # game/game/charlotte_events.rpy:1172
 translate ukrainian char_gal1_9f7ba352:
 
     # c "Gnhnm~{image=corazon} {w}Mhnmh~{image=corazon}{image=corazon}"
-    c "Gnhnm~{image=corazon} {w}Mhnmh~{image=corazon}{image=corazon}"
+    c "{i}Гнхнм~{/i}{image=corazon} {w}{i}Мхнмх~{/i}{image=corazon}{image=corazon}"
 
 # game/game/charlotte_events.rpy:1173
 translate ukrainian char_gal1_52e44ae3:
 
     # c "This liquid... {w}HNghm~{image=corazon} {w}it keeps coming out no matter how much I lick it."
-    c "This liquid... {w}HNghm~{image=corazon} {w}it keeps coming out no matter how much I lick it."
+    c "Ця рідина... {w}{i}ХНгхм~{/i}{image=corazon} {w}вона не перестає виходити, скільки б я не злизувала її."
 
 # game/game/charlotte_events.rpy:1174
 translate ukrainian char_gal1_ef521c30:
 
     # mc "That's because of how good it feels..."
-    mc "That's because of how good it feels..."
+    mc "Це все через те, які приємні відчуття від цього..."
 
 # game/game/charlotte_events.rpy:1175
 translate ukrainian char_gal1_db50a74a:
 
     # c "Now it makes sense..."
-    c "Now it makes sense..."
+    c "Тепер зрозуміло..."
 
 # game/game/charlotte_events.rpy:1176
 translate ukrainian char_gal1_8811d4df:
 
     # c "You... have a very blank stare..."
-    c "You... have a very blank stare..."
+    c "У тебе... дуже порожній погляд..."
 
 # game/game/charlotte_events.rpy:1177
 translate ukrainian char_gal1_21c757b9:
 
     # c "I always see you serious but now... {w}NHhmn~{image=corazon}{image=corazon} {w}it makes me want to see how much you can change..."
-    c "I always see you serious but now... {w}NHhmn~{image=corazon}{image=corazon} {w}it makes me want to see how much you can change..."
+    c "Я постійно бачила тебе серйозного, але тепер... {w}{i}НХхмн~{/i}{image=corazon}{image=corazon} {w}я прагну побачити, на скільки ти можеш змінитися..."
 
 # game/game/charlotte_events.rpy:1179
 translate ukrainian char_gal1_93deaf69:
 
     # mc "Ah..."
-    mc "Ah..."
+    mc "Ах..."
 
 # game/game/charlotte_events.rpy:1180
 translate ukrainian char_gal1_f2b45326:
 
     # t "Why did she stop?"
-    t "Why did she stop?"
+    t "Чому вона зупинилася?"
 
 # game/game/charlotte_events.rpy:1181
 translate ukrainian char_gal1_7e9ad999:
 
     # c "I wonder if I can..."
-    c "I wonder if I can..."
+    c "Мені цікаво, чи зможу я..."
 
 # game/game/charlotte_events.rpy:1182
 translate ukrainian char_gal1_ed748ca2:
 
     # mc "You can?"
-    mc "You can?"
+    mc "Що зможеш?"
 
 # game/game/charlotte_events.rpy:1184
 translate ukrainian char_gal1_e486f44a:
 
     # c "{sc=2}{outlinecolor=#000000}Hnmp~"
-    c "{sc=2}{outlinecolor=#000000}Hnmp~"
+    c "{sc=2}{outlinecolor=#000000}{i}Хнмп~{/i}"
 
 # game/game/charlotte_events.rpy:1185
 translate ukrainian char_gal1_e821fa44_1:
@@ -3693,13 +3693,13 @@ translate ukrainian char_gal1_e821fa44_1:
 translate ukrainian char_gal1_23ff1c21:
 
     # mc "Charl-!"
-    mc "Charl-!"
+    mc "Шарл-!"
 
 # game/game/charlotte_events.rpy:1187
 translate ukrainian char_gal1_849c35cc:
 
     # t "I can feel the warmth of the inside of her mouth..."
-    t "I can feel the warmth of the inside of her mouth..."
+    t "Я відчуваю тепло всередині її рота..."
 
 # game/game/charlotte_events.rpy:1189
 translate ukrainian char_gal1_7a49325d:
@@ -3711,157 +3711,157 @@ translate ukrainian char_gal1_7a49325d:
 translate ukrainian char_gal1_2b210e34:
 
     # c "Mmhnm~{image=corazon} {w}{i}T-This is more difficult than I thought..."
-    c "Mmhnm~{image=corazon} {w}{i}T-This is more difficult than I thought..."
+    c "{i}Ммхнм~{/i}{image=corazon} {w}{i}Ц-Це складніше, ніж я уявляла..."
 
 # game/game/charlotte_events.rpy:1191
 translate ukrainian char_gal1_c1898497:
 
     # mc "Her little mouth... and that way she sucks me..."
-    mc "Her little mouth... and that way she sucks me..."
+    mc "Її маленький ротик... і те, як вона смокче..."
 
 # game/game/charlotte_events.rpy:1192
 translate ukrainian char_gal1_50e38047:
 
     # c "Gnhmn~{image=corazon} {w}Sluurp~{image=corazon}{image=corazon} {w}Hhnm~{image=corazon}"
-    c "Gnhmn~{image=corazon} {w}Sluurp~{image=corazon}{image=corazon} {w}Hhnm~{image=corazon}"
+    c "{i}Гнхмн~{/i}{image=corazon} {w}{i}Сьоорб~{/i}{image=corazon}{image=corazon} {w}{i}Ххнм~{/i}{image=corazon}"
 
 # game/game/charlotte_events.rpy:1193
 translate ukrainian char_gal1_b15a7198:
 
     # t "I can feel h-her tongue playing with the tip..."
-    t "I can feel h-her tongue playing with the tip..."
+    t "Я відчуваю, як в-вона грається своїм язичком з моєю головкою..."
 
 # game/game/charlotte_events.rpy:1194
 translate ukrainian char_gal1_fbd3f103:
 
     # t "S-Since she can't g-get it in any further, she compensates by using her lips..."
-    t "S-Since she can't g-get it in any further, she compensates by using her lips..."
+    t "О-Оскільки в неї не виходить в-взяти його глибше, вона компенсує це своїми губами..."
 
 # game/game/charlotte_events.rpy:1195
 translate ukrainian char_gal1_0d154eb1:
 
     # mc "I c-can't take it anymore..."
-    mc "I c-can't take it anymore..."
+    mc "Я б-більше не можу терпіти..."
 
 # game/game/charlotte_events.rpy:1196
 translate ukrainian char_gal1_aca287c4:
 
     # c "Hmnhm~{image=corazon} {w}are you going to cum? {w}Aahnm~{image=corazon}{image=corazon}"
-    c "Hmnhm~{image=corazon} {w}are you going to cum? {w}Aahnm~{image=corazon}{image=corazon}"
+    c "{i}Хмнхм~{/i}{image=corazon} {w}Ти зараз кінчиш? {w}{i}Аахнм~{/i}{image=corazon}{image=corazon}"
 
 # game/game/charlotte_events.rpy:1197
 translate ukrainian char_gal1_67fe2a78:
 
     # c "{size=-6}{i}I-I'm just sucking it, but my body is hot..."
-    c "{size=-6}{i}I-I'm just sucking it, but my body is hot..."
+    c "{size=-6}{i}Я-Я лише смокчу його, а моє тіло все горить..."
 
 # game/game/charlotte_events.rpy:1198
 translate ukrainian char_gal1_4b912a54:
 
     # c "{size=-6}{i}J-Just because my instincts detected a male that I like, t-they are already affecting me."
-    c "{size=-6}{i}J-Just because my instincts detected a male that I like, t-they are already affecting me."
+    c "{size=-6}{i}Т-Тільки через те, що мої інстинкти вловили самця, який мені подобається, в-вони почали так впливати на мене."
 
 # game/game/charlotte_events.rpy:1199
 translate ukrainian char_gal1_f4953e63:
 
     # c "Hhmmnm~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}{size=-6}{i}But..."
-    c "Hhmmnm~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}{size=-6}{i}But..."
+    c "{i}Ххммнм~{/i}{image=corazon} {w}{i}Ааахнм~{/i}{image=corazon}{image=corazon} {w}{size=-6}{i}Але..."
 
 # game/game/charlotte_events.rpy:1200
 translate ukrainian char_gal1_cccfc71a:
 
     # c "{size=-6}{i}I d-don't dislike this feeling..."
-    c "{size=-6}{i}I d-don't dislike this feeling..."
+    c "{size=-6}{i}Я б н-не сказала, що мені не подобається це відчуття..."
 
 # game/game/charlotte_events.rpy:1201
 translate ukrainian char_gal1_12a5256d:
 
     # mc "I'm-"
-    mc "I'm-"
+    mc "Я-"
 
 # game/game/charlotte_events.rpy:1203
 translate ukrainian char_gal1_ca54c3b0:
 
     # mc "{sc=2}{outlinecolor=#000000}I'm cumming!"
-    mc "{sc=2}{outlinecolor=#000000}I'm cumming!"
+    mc "{sc=2}{outlinecolor=#000000}Я кінчаю!"
 
 # game/game/charlotte_events.rpy:1210
 translate ukrainian char_gal1_8679173c:
 
     # c "{sc=2}{outlinecolor=#000000}GNhnhmg?!"
-    c "{sc=2}{outlinecolor=#000000}GNhnhmg?!"
+    c "{sc=2}{outlinecolor=#000000}{i}ГНхнхмг?!{/i}"
 
 # game/game/charlotte_events.rpy:1216
 translate ukrainian char_gal1_b22e4669:
 
     # c "HMnmnm...?"
-    c "HMnmnm...?"
+    c "{i}ХМнмнм...?{/i}"
 
 # game/game/charlotte_events.rpy:1217
 translate ukrainian char_gal1_1bd5d06e:
 
     # mc "Sorry... it was so sudden that I couldn't warn-"
-    mc "Sorry... it was so sudden that I couldn't warn-"
+    mc "Пробач... Так раптово, що я не встиг тебе попере-"
 
 # game/game/charlotte_events.rpy:1219
 translate ukrainian char_gal1_fc8f1f43:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp~ Gulp~"
-    c "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp~ Gulp~"
+    c "{sc=2}{outlinecolor=#000000}{size=-8}{i}Ковть~ Ковть~"
 
 # game/game/charlotte_events.rpy:1220
 translate ukrainian char_gal1_6d5cfe20:
 
     # mc "{size=-6}-you..."
-    mc "{size=-6}-you..."
+    mc "{size=-6}-дити..."
 
 # game/game/charlotte_events.rpy:1222
 translate ukrainian char_gal1_8a58d3e9:
 
     # c "Did I make you feel good, Human?"
-    c "Did I make you feel good, Human?"
+    c "Я змогла принести тобі задоволення, Людино?"
 
 # game/game/charlotte_events.rpy:1223
 translate ukrainian char_gal1_1e1b5819:
 
     # mc "Yes... it was the best."
-    mc "Yes... it was the best."
+    mc "Так... це було просто чудово."
 
 # game/game/charlotte_events.rpy:1224
 translate ukrainian char_gal1_74b94fba:
 
     # mc "Although, you didn't need to drink all that..."
-    mc "Although, you didn't need to drink all that..."
+    mc "Хоча тобі не обов'язково було це все випивати..."
 
 # game/game/charlotte_events.rpy:1226
 translate ukrainian char_gal1_a25fa036:
 
     # c "Because you looked at me so excited, I thought you wanted me to do that..."
-    c "Because you looked at me so excited, I thought you wanted me to do that..."
+    c "Ти дивився на мене із таким захопленням. Я подумала, що ти хочеш, аби я це зробила..."
 
 # game/game/charlotte_events.rpy:1227
 translate ukrainian char_gal1_5da42660:
 
     # mc "Eer..."
-    mc "Eer..."
+    mc "Еем..."
 
 # game/game/charlotte_events.rpy:1243
 translate ukrainian char_gal1_d0638bf4:
 
     # c "It was hard to swallow all that..."
-    c "It was hard to swallow all that..."
+    c "Було важко то все проковтнути..."
 
 # game/game/charlotte_events.rpy:1244
 translate ukrainian char_gal1_77dc9628:
 
     # mc "C-Come, let's clean up..."
-    mc "C-Come, let's clean up..."
+    mc "Н-Нумо приведемо себе до ладу..."
 
 # game/game/charlotte_events.rpy:1245
 translate ukrainian char_gal1_4dd3e575:
 
     # c "{size=-6}Uhm..."
-    c "{size=-6}Uhm..."
+    c "{size=-6}Угу..."
 
 # game/game/charlotte_events.rpy:1246
 translate ukrainian char_gal1_a20cefa7:
@@ -3891,19 +3891,19 @@ translate ukrainian char_gal1_d7c4a413:
 translate ukrainian char_gal1_ef13f179:
 
     # c "You're bad at this."
-    c "You're bad at this."
+    c "У тебе погано виходить."
 
 # game/game/charlotte_events.rpy:1252
 translate ukrainian char_gal1_65b44597:
 
     # mc "It's just a bad day..."
-    mc "It's just a bad day..."
+    mc "Просто день поганий..."
 
 # game/game/charlotte_events.rpy:1255
 translate ukrainian char_gal1_16fa25e6:
 
     # t "Then I should fix up Charlotte's room."
-    t "Then I should fix up Charlotte's room."
+    t "Отже, я маю полагодити кімнату для Шарлотти."
 
 # game/game/charlotte_events.rpy:1266
 translate ukrainian char_blow1_67bea822:
@@ -19980,6 +19980,9 @@ translate ukrainian strings:
     old "She still won't talk to you unless you lure her with food."
     new "Вона так і не буде з тобою розмовляти, якщо тільки ти не заманеш її їжею."
 
+    old "{color=#319B85}Charlotte's{/color} room unlocked in Mayu's shop!"
+    new "{size=-4}Кімната {color=#319B85}Шарлотти{/color} доступна у крамничці Маю!{/size}"
+
     old "Now you can \"sleep\" with {color=#86CDB7}Charlotte{/color} at night."
     new "Now you can \"sleep\" with {color=#86CDB7}Charlotte{/color} at night."
 
@@ -19994,9 +19997,6 @@ translate ukrainian strings:
 
     old "{image=quest_text}You've unlocked a new room!"
     new "{image=quest_text}You've unlocked a new room!"
-
-    old "{color=#319B85}Charlotte's{/color} room unlocked in Mayu's shop!"
-    new "{color=#319B85}Charlotte's{/color} room unlocked in Mayu's shop!"
 
     old "You spend the night with Charlotte."
     new "You spend the night with Charlotte."
