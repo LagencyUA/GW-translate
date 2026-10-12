@@ -75,7 +75,7 @@ translate ukrainian start_433597cd:
 translate ukrainian start_7fb49bb6:
 
     # t "I help them sometimes in their classes, but I always refuse their invitations to go out or hang out."
-    t "Інколи я допомагаю їм на заняттях, але завжди відмовляюся від їхніх запрошень піди погуляти або потусити."
+    t "Інколи я допомагаю їм на заняттях, але завжди відмовляюся від їхніх запрошень піти погуляти або потусити."
 
 # game/game/script.rpy:100
 translate ukrainian start_50b10901:
@@ -105,7 +105,7 @@ translate ukrainian start_d495ee2b:
 translate ukrainian start_079a2207:
 
     # audi "{i}{size=-6}[mc] has a tough opponent..."
-    audi "{i}{size=-6}У [mc] грізний суперник..."
+    audi "{i}{size=-6}[mc] має грізного суперника..."
 
 # game/game/script.rpy:115
 translate ukrainian start_0d2139a9:
@@ -159,7 +159,7 @@ translate ukrainian start_3aef8a9b:
 translate ukrainian start_e953e490:
 
     # t "This is the only way to make easy money to pay for my studies and live comfortably."
-    t "Наразі це єдиний спосіб легко заробити гроші, щоб оплатити навчання та жити у достатку."
+    t "Наразі це єдиний спосіб легко заробити гроші, щоб оплатити навчання та жити в достатку."
 
 # game/game/script.rpy:135
 translate ukrainian start_5f4206c9:
@@ -213,7 +213,7 @@ translate ukrainian start_a20cefa7:
 translate ukrainian start_95c37e01:
 
     # t "He is saying something... {w}but I don't remember what he said."
-    t "Він щось каже... {w}не можу загадти, що саме."
+    t "Він щось каже... {w}не можу згадати, що саме."
 
 # game/game/script.rpy:153
 translate ukrainian start_40d9e3cc:
@@ -333,13 +333,13 @@ translate ukrainian start_ad4d7c7a:
 translate ukrainian start_9ce7c2bb:
 
     # audi "{size=-8}He cheated? We all saw how you got your ass kicked."
-    audi "{size=-8}Він махлював? Ми всі бачили, як набили твою сраку."
+    audi "{size=-8}Він махлював? Ми всі бачили, як тобі натовкли сраку."
 
 # game/game/script.rpy:216
 translate ukrainian start_e675c0b2:
 
     # "{color=#F4CDA1}{i}This fucker, he ruined everything!"
-    "{color=#F4CDA1}{i}Цей виблядок, він все зруйнував!"
+    "{color=#F4CDA1}{i}Цей вишкребок, він все зруйнував!"
 
 # game/game/script.rpy:217
 translate ukrainian start_4c9e5605:
@@ -369,7 +369,7 @@ translate ukrainian start_03fb3e88:
 translate ukrainian start_cae22b6c:
 
     # mc "Oh... {w}club president."
-    mc "Ох... {w}перезедентко клубу."
+    mc "Ох... {w}президентко клубу."
 
 # game/game/script.rpy:225
 translate ukrainian start_d0883dc4:
@@ -381,7 +381,7 @@ translate ukrainian start_d0883dc4:
 translate ukrainian start_ca9d9bf1:
 
     # "{color=#7D666F}You taught that rich crybaby a lesson!"
-    "{color=#7D666F}Ти показав тому багатому плаксію урок!"
+    "{color=#7D666F}Ти добряче провчив того багатого плаксія!"
 
 # game/game/script.rpy:228
 translate ukrainian start_d2efecf2:
@@ -405,7 +405,7 @@ translate ukrainian start_dd9229c0:
 translate ukrainian start_82d20a35:
 
     # "{color=#7D666F}{size=-8}{i}You can do it president!"
-    "{color=#7D666F}{size=-8}{i}У тебе все вийде, презедентко!"
+    "{color=#7D666F}{size=-8}{i}У тебе все вийде, президентко!"
 
 # game/game/script.rpy:233
 translate ukrainian start_8e862ce5:
@@ -645,7 +645,7 @@ translate ukrainian start_3360fa9f:
 translate ukrainian start_a8dd8215:
 
     # m "No 5 more minutes, get up now~~"
-    m "Ні яких 5 хвилин, нумо вставай~~"
+    m "Ніяких 5 хвилин, нумо вставай~~"
 
 # game/game/script.rpy:317
 translate ukrainian start_ab1ac4d6:
@@ -777,7 +777,7 @@ translate ukrainian start_fb4df942:
 translate ukrainian start_f2b290ee:
 
     # m "Are you sure you don't feel your body...?"
-    m "Ти впевнений, що нічого невідчуваєш...?"
+    m "Ти впевнений, що нічого не відчуваєш...?"
 
 # game/game/script.rpy:347
 translate ukrainian start_ac504d82:
@@ -849,7 +849,7 @@ translate ukrainian start_a90424f0:
 translate ukrainian start_4982c21e:
 
     # m "If you do, {w}I'll answer whatever you want..."
-    m "Якщо зможеш, {w}відповім на буль-яке твоє питання..."
+    m "Якщо зможеш, {w}відповім на будь-яке твоє питання..."
 
 # game/game/script.rpy:366
 translate ukrainian start_a04e7b68:
@@ -909,7 +909,7 @@ translate ukrainian start_912af5eb:
 translate ukrainian start_01ae7074:
 
     # mc "But more than anything, I'm very... {w}confused."
-    mc "Але в першу чергу я дуже... {w}спантеличений."
+    mc "Але в першу чергу я досить... {w}спантеличений."
 
 # game/game/script.rpy:403
 translate ukrainian choice1_2e200f54:
@@ -933,7 +933,7 @@ translate ukrainian choice1_06275d9e:
 translate ukrainian choice1_22a8485d:
 
     # t "Not that I would know anyway, I've never seen one before."
-    t "Не те щоб я у принципі знав, ніколи не бачив таких у своєму житті."
+    t "Не те щоб я в принципі знав — ніколи не бачив таких у своєму житті."
 
 # game/game/script.rpy:407
 translate ukrainian choice1_a8947712:
@@ -1029,7 +1029,7 @@ translate ukrainian choice2_bc056495:
 translate ukrainian choice2_eaba9da2:
 
     # mc "I didn't think anyone could lose their sanity enough to do that."
-    mc "Не думав, що хтось здатний на стільки зійти з розуму, аби вчинити таке."
+    mc "Не думав, що хтось здатний настільки зійти з розуму, аби вчинити таке."
 
 # game/game/script.rpy:435
 translate ukrainian choice2_ed4acfde:
@@ -1071,7 +1071,7 @@ translate ukrainian choice2_01738e52:
 translate ukrainian choice2_48ce4bcf:
 
     # t "When my mother died, I didn't shed a single tear."
-    t "Коли моя мама померла, я навіть єдиної слози не пролив."
+    t "Коли моя мама померла, я навіть єдиної сльози не пролив."
 
 # game/game/script.rpy:443
 translate ukrainian choice2_f10f47c8:
@@ -1083,7 +1083,7 @@ translate ukrainian choice2_f10f47c8:
 translate ukrainian choice2_67b67c20:
 
     # t "But at that time... {w}I still didn't believe it was true..."
-    t "Але я тоді... {w}Я досі ні як не можу повірити у це..."
+    t "Але я тоді... {w}Я досі ніяк не можу повірити у це..."
 
 # game/game/script.rpy:446
 translate ukrainian choice2_b2ebca0f:
@@ -1095,7 +1095,7 @@ translate ukrainian choice2_b2ebca0f:
 translate ukrainian choice3_d341971e:
 
     # k "This would be a part of what you call heaven."
-    k "Це можна вважати частиною того, що ви назваєте раєм."
+    k "Це можна вважати частиною того, що ви звете раєм."
 
 # game/game/script.rpy:454
 translate ukrainian choice3_c585a0b1:
@@ -1113,7 +1113,7 @@ translate ukrainian choice3_8a2ec85e:
 translate ukrainian choice3_2783a7a0:
 
     # k "You know, {w}it's not widely accepted among gods to interfere with mortals..."
-    k "Знаєш, {w}серед богів не є прийнятним втручатися у життя смертних..."
+    k "Знаєш, {w}серед богів не є прийнятним втручатися в життя смертних..."
 
 # game/game/script.rpy:458
 translate ukrainian choice3_a9a834f4:
@@ -1293,7 +1293,7 @@ translate ukrainian choice4_fdcefcac:
 translate ukrainian choice4_a688e7cd:
 
     # k "I'll give you the opportunity to come back to life in a new world!"
-    k "Я дам тобі можливість переродитися у новому світі!"
+    k "Я дам тобі можливість переродитися в новому світі!"
 
 # game/game/script.rpy:506
 translate ukrainian choice4_6bedd863:
@@ -1497,7 +1497,7 @@ translate ukrainian choice4_8fb0e523:
 translate ukrainian choice4_b1be5325:
 
     # k "{size=-8}{i}I hope it works, it wasn't that difficult..."
-    k "{size=-8}{i}Споіваюся, спрацює. Пам'ятаю, це не було чимось складним..."
+    k "{size=-8}{i}Сподіваюся, спрацює. Пам'ятаю, це не було чимось складним..."
 
 # game/game/script.rpy:556
 translate ukrainian choice4_9762900f:
@@ -1575,7 +1575,7 @@ translate ukrainian choice4_e384244e:
 translate ukrainian choice4_6b0d5083:
 
     # t "{size=-8}Come on man! {w}Not in front of a goddess!"
-    t "{size=-8}Нужбо, друже! {w}Тільки не перд богинею!"
+    t "{size=-8}Нужбо, друже! {w}Тільки не перед богинею!"
 
 # game/game/script.rpy:580
 translate ukrainian choice4_8f09da1e:
@@ -1653,7 +1653,7 @@ translate ukrainian choice4_162aced7:
 translate ukrainian choice4_2924f301:
 
     # k "I hope that if we meet again, {w}it will be under different circumstances~{image=corazon}"
-    k "Сподіваюся, якщо ми знову зумтрінемося, {w}то це буде за інших обставин~{image=corazon}"
+    k "Сподіваюся, якщо ми знову зустрінемося, {w}то це буде за інших обставин~{image=corazon}"
 
 # game/game/script.rpy:597
 translate ukrainian choice4_7d2f8064:
@@ -1893,7 +1893,7 @@ translate ukrainian choice4_2b35b6fe_6:
 translate ukrainian choice4_8e0ff536:
 
     # fu "Why do I feel like there's something hitting my stomach?"
-    fu "Чому мені здається ніби щось упирається мені у живіт?"
+    fu "Чому мені здається ніби щось упирається в мій живіт?"
 
 # game/game/script.rpy:659
 translate ukrainian choice4_2b35b6fe_7:
@@ -1923,7 +1923,7 @@ translate ukrainian choice4_fc182a3f:
 translate ukrainian choice4_0cae3f7d:
 
     # t "I have to think of something extremely convincing."
-    t "Треба вигадати щось надзвичайно переконуюче."
+    t "Треба вигадати щось надзвичайно переконливе."
 
 # game/game/script.rpy:665
 translate ukrainian choice4_c33b515c:
@@ -2073,7 +2073,7 @@ translate ukrainian choice4_698b44db:
 translate ukrainian choice4_028b9e44:
 
     # fu "I can't give you many details but..."
-    fu "Не можу тобі назвати повні деталі, але..."
+    fu "Не можу тобі назвати всі деталі, але..."
 
 # game/game/script.rpy:705
 translate ukrainian choice4_506575c9:
@@ -2163,7 +2163,7 @@ translate ukrainian choice4_3ec1c555:
 translate ukrainian choice4_64f9df60:
 
     # t "I know that even if she hadn't discovered my secret, {w}I would have helped her anyway."
-    t "Навіть якби вона не дізналася моєї таємниці, {w}я б всеодно допоміг їй."
+    t "Навіть якби вона не дізналася моєї таємниці, {w}я б однаково допоміг їй."
 
 # game/game/script.rpy:729
 translate ukrainian choice4_6f5a8120:
@@ -2253,7 +2253,7 @@ translate ukrainian choice4_aa7a6f93:
 translate ukrainian choice4_17fc71db:
 
     # mc "The sooner I arrive, the safer she'll be."
-    mc "Чим швидше я приїду, тим безпечніше їй буде."
+    mc "Чим швидше я прибуду, тим безпечніше їй буде."
 
 # game/game/script.rpy:750
 translate ukrainian choice4_7bcd1cc8:
@@ -30677,7 +30677,7 @@ translate ukrainian strings:
     new "{outlinecolor=#000000}Саме так, [mc]. Це той, ким ти є."
 
     old "{outlinecolor=#000000}I understand you're confused, but soon, everything will come back to you."
-    new "{outlinecolor=#000000}Розумію твою розгубленність, але незабаром ти все згадаєш."
+    new "{outlinecolor=#000000}Розумію твою розгубленість, але незабаром ти все згадаєш."
 
     old "{outlinecolor=#000000}It will, for all of us."
     new "{outlinecolor=#000000}Ми всі згадаємо, кожен з нас."
@@ -30749,7 +30749,7 @@ translate ukrainian strings:
     new "{i}Агоов~~{image=corazon} розплющуй очі~"
 
     old "{i}You approach the goddess, she immediately gives you a soft, delicate kiss on the forehead."
-    new "{i}Ти підходиш до богині, й вона одразу ніжно та лагідно цілує тебе у чоло."
+    new "{i}Ти підходиш до богині, й вона одразу ніжно та лагідно цілує тебе в чоло."
     
     old "{i}You feel like an inexplicable energy runs through your whole \"body\"."
     new "{i}Ти відчуваєш, ніби якась незрозуміла енергія пронизує все твоє «тіло»."
