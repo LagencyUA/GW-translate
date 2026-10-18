@@ -2625,7 +2625,7 @@ translate ukrainian choice4_dec0d59e:
 translate ukrainian stones_d416a847:
 
     # t "This is where I appeared."
-    t "Саме тут я опинився спочатку."
+    t "Саме тут я спершу опинився."
 
 # game/game/script.rpy:869
 translate ukrainian stones_61222beb:
@@ -2775,7 +2775,7 @@ translate ukrainian lake_ca871376:
 translate ukrainian lake_fb8214d9:
 
     # "If the katana were alive, would it be wondering {w}\"what's the purpose of its existence?\""
-    "Якби катана була живою, чи задавалася б вона питанням: {w}«У чому сенс її існування?»"
+    "Якби катана була живою, чи задавалася б вона питанням: {w}«У чому сенс мого існування?»"
 
 # game/game/script.rpy:938
 translate ukrainian set_fire_a15486c8:
@@ -2853,7 +2853,7 @@ translate ukrainian set_fire_36823d49:
 translate ukrainian set_fire_c4e2d1f4:
 
     # t "Then again, I don't know what I was expecting."
-    t "З іншого боку, я й сам не знаю, чого я очікував."
+    t "З іншого боку, я й сам не знаю, чого очікував."
 
 # game/game/script.rpy:957
 translate ukrainian set_fire_5cfe6831:
@@ -2907,7 +2907,7 @@ translate ukrainian set_fire_5d3343eb:
 translate ukrainian set_fire_956cc7fc:
 
     # t "But {w}I feel the same..."
-    t "Хоча {w}я почуваюся так само..."
+    t "Хоча, {w}я почуваюся так само..."
 
 # game/game/script.rpy:968
 translate ukrainian set_fire_f63b309d:
@@ -3051,7 +3051,7 @@ translate ukrainian set_fire_307d2ab8:
 translate ukrainian set_fire_e73359b3:
 
     # t "I doubt I'm stronger than a six foot wolf..."
-    t "Сумніваюся, що я сильніший за вовка зростом майже у два метри..."
+    t "Сумніваюся, що я сильніший за вовка заввишки майже в два метри..."
 
 # game/game/script.rpy:1022
 translate ukrainian set_fire_269beece:
@@ -3165,7 +3165,7 @@ translate ukrainian set_fire_41556704:
 translate ukrainian set_fire_8f1f8247:
 
     # t "Are people in this world just as strong?"
-    t "Люди у цьому світі теж настільки сильні?"
+    t "Люди в цьому світі теж настільки сильні?"
 
 # game/game/script.rpy:1067
 translate ukrainian set_fire_81be3279:
@@ -3213,7 +3213,7 @@ translate ukrainian set_fire_36eeb24f:
 translate ukrainian set_fire_0e62004f:
 
     # t "{sc=2}{outlinecolor=#000000}Shit...! No time to switch hands!"
-    t "{sc=2}{outlinecolor=#000000}Лайно...! Немає часу змінити руку!"
+    t "{sc=2}{outlinecolor=#000000}Лайно...! Немає часу змінювати руку!"
 
 # game/game/script.rpy:1091
 translate ukrainian set_fire_80cbb74e:
@@ -3267,7 +3267,7 @@ translate ukrainian set_fire_5d7e1146:
 translate ukrainian set_fire_463bbce5:
 
     # t "What is she doing in the woods at this hour...?"
-    t "Що вона забула у лісі ще й у таку годину...?"
+    t "Що вона забула в лісі, ще й у таку годину...?"
 
 # game/game/script.rpy:1125
 translate ukrainian set_fire_652650d3:
@@ -3291,7 +3291,7 @@ translate ukrainian set_fire_e18c34e9:
 translate ukrainian set_fire_fd045785:
 
     # mc "Hey, {w}are you okay?"
-    mc "Гей, {w}ти у нормі?"
+    mc "Гей, {w}ти як?"
 
 # game/game/script.rpy:1131
 translate ukrainian set_fire_198bd03b:
@@ -3453,7 +3453,7 @@ translate ukrainian set_fire_3de31b30:
 translate ukrainian set_fire_b574606e:
 
     # t "Oh, what a drastic change."
-    t "Ох, яка кардинальна зміна у настрої."
+    t "Ох, яка кардинальна зміна в настрої."
 
 # game/game/script.rpy:1178
 translate ukrainian set_fire_f4faff9a:
@@ -3513,7 +3513,7 @@ translate ukrainian set_fire_3f871f46:
 translate ukrainian set_fire_a1c91efa:
 
     # mc "I already told you, {w}no."
-    mc "Вже ж тобі сказав, {w}ні."
+    mc "Я ж уже тобі сказав: {w}ні."
 
 # game/game/script.rpy:1203
 translate ukrainian set_fire_a2092b0a:
@@ -3729,7 +3729,7 @@ translate ukrainian set_fire_2b35b6fe_8:
 translate ukrainian set_fire_e56fcc3e:
 
     # r "As you can see, {w}I'm a slave..."
-    r "Як ви можете помітити, {w}Я рабиня..."
+    r "Як ви можете помітити, {w}я рабиня..."
 
 # game/game/script.rpy:1253
 translate ukrainian set_fire_098184ac:
@@ -3771,7 +3771,7 @@ translate ukrainian set_fire_b0b92a74:
 translate ukrainian set_fire_aad4d4af:
 
     # r "We heard from the others slaves that anyone sold to him was as good as dead..."
-    r "Ми почули від інших рабів, що кожного, кого продавали йому, можна вважати уже мертвим..."
+    r "Ми почули від інших рабів, що кожного, кого продавали йому, можна вважати вже мертвим..."
 
 # game/game/script.rpy:1264
 translate ukrainian set_fire_8fea2db2:
@@ -3909,7 +3909,7 @@ translate ukrainian set_fire_cb611780:
 translate ukrainian set_fire_3d82b6d0:
 
     # t "She cried in my arms for a while."
-    t "Певний час вона ще плакала у моїх обіймах."
+    t "Певний час вона ще плакала в моїх обіймах."
 
 # game/game/script.rpy:1297
 translate ukrainian set_fire_76dec257:
@@ -3921,7 +3921,7 @@ translate ukrainian set_fire_76dec257:
 translate ukrainian set_fire_93c30dbc:
 
     # t "So, slavery still exists in this world..."
-    t "То рабство досі існує у цьому світі..."
+    t "То рабство досі існує в цьому світі..."
 
 # game/game/script.rpy:1301
 translate ukrainian set_fire_dc4a26fb:
@@ -4065,7 +4065,7 @@ translate ukrainian set_fire_60e7bffd:
 translate ukrainian set_fire_582518ed:
 
     # r "N-Nothing! {w}Did you sleep well?"
-    r "Н-Нічого! {w}Вам гарно спалося?"
+    r "Н-Нічого! {w}Вам добре спалося?"
 
 # game/game/script.rpy:1342
 translate ukrainian set_fire_5f6800e2:
@@ -4131,7 +4131,7 @@ translate ukrainian set_fire_84f602bb:
 translate ukrainian set_fire_af688275:
 
     # r "Well, {w}I took what was usable and left it there for you."
-    r "Тож {w}я дістала з нього все корисне і запакувала для вас."
+    r "Тож {w}я дістала з нього все корисне й запакувала для вас."
 
 # game/game/script.rpy:1355
 translate ukrainian set_fire_29887496:
@@ -4167,7 +4167,7 @@ translate ukrainian set_fire_493544c7:
 translate ukrainian set_fire_95533a2a:
 
     # t "Ryoko knows a lot about this... {w}Is this kind of knowledge common in this world?"
-    t "Рьоко так багато знає про подібні речі... {w}Невже у цьому світі такі знання є чимось буденним?"
+    t "Рьоко так багато знає про подібні речі... {w}Невже в цьому світі такі знання є чимось буденним?"
 
 # game/game/script.rpy:1362
 translate ukrainian set_fire_cae838e9:
