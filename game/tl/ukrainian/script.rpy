@@ -4575,13 +4575,13 @@ translate ukrainian situation_a913ba86:
 translate ukrainian situation_3c4219dc:
 
     # mc "I come from a place far away, and I've been... {w}traveling."
-    mc "Я прийшов з дуже далеких земель, і наразі я... {w}подорожую."
+    mc "Я прийшов із дуже далеких земель, і наразі я... {w}подорожую."
 
 # game/game/script.rpy:1478
 translate ukrainian situation_83b37df8:
 
     # r "Yes! {w}You must be one of those adventurers!"
-    r "Так! {w}Ви, мабуть, один із тих шукачів пригод!"
+    r "Так! {w}Ви, мабуть, один із тих пригодників!"
 
 # game/game/script.rpy:1479
 translate ukrainian situation_4363205c:
@@ -4599,7 +4599,7 @@ translate ukrainian situation_ce58df94:
 translate ukrainian situation_aa3fd279:
 
     # t "Then maybe I won't look so out of place when I show up in front of others."
-    t "Можливо, тоді я так сильно не впадатиму в око, з'являючись перед іншими."
+    t "Можливо, тоді я не так сильно впадатиму в око, з'являючись перед іншими."
 
 # game/game/script.rpy:1482
 translate ukrainian situation_9e89cf41:
@@ -4641,7 +4641,7 @@ translate ukrainian situation_00239998:
 translate ukrainian situation_5773a6ee:
 
     # r "You defeated a Great Wolf with a single strike! {w}It usually takes three A-Rank adventurers to take one down!"
-    r "Ви змогли вбити величного вовка лише одним змахом! {w}Зазвичай знадобиться мінімум три A-рангових шукачів, щоб перемогти одного!"
+    r "Ви змогли вбити могутнього вовка лише одним змахом! {w}Зазвичай знадобиться мінімум три A-рангових пригодників, щоб перемогти одного!"
 
 # game/game/script.rpy:1491
 translate ukrainian situation_ac79111e:
@@ -4659,7 +4659,7 @@ translate ukrainian situation_fc875c0b:
 translate ukrainian situation_ff29a85e:
 
     # t "Adventurers are ranked? Good to know."
-    t "Шукачів пригод розподіляють за рангами? Візьму до уваги."
+    t "Пригодників розподіляють за рангами? Візьму до уваги."
 
 # game/game/script.rpy:1494
 translate ukrainian situation_2b35b6fe_1:
@@ -5067,7 +5067,7 @@ translate ukrainian go_982fe390:
 translate ukrainian go_3ccab323:
 
     # t "Two wolves moved forward as soon as the giant growled."
-    t "Двоє вовків рушили уперед, щойно велетень загарчав."
+    t "Двоє вовків рушили вперед, щойно велетень загарчав."
 
 # game/game/script.rpy:1629
 translate ukrainian go_63c1bb53:
@@ -5349,7 +5349,7 @@ translate ukrainian go_4aad7b96:
 translate ukrainian go_373143ec:
 
     # t "Did I... {w}make it?"
-    t "В мене... {w}вийшло?"
+    t "Мені... {w}вдалося?"
 
 # game/game/script.rpy:1762
 translate ukrainian go_b4665402:
@@ -5397,7 +5397,7 @@ translate ukrainian go_c0b0b880:
 translate ukrainian go_acb53731:
 
     # "{color=#FFFCA9}H-He took them all down by himself?"
-    "{color=#FFFCA9}В-Він вбив їх всіх самотужки?"
+    "{color=#FFFCA9}В-Він убив їх всіх самотужки?"
 
 # game/game/script.rpy:1775
 translate ukrainian go_b1447213_1:
@@ -5409,7 +5409,7 @@ translate ukrainian go_b1447213_1:
 translate ukrainian go_44792762:
 
     # "{color=#FFFCA9}He's bleeding! {w}We have to get him to the village, fast!"
-    "{color=#FFFCA9}У нього кровотеча! {w}Необхідно його терміново доправити до селища!"
+    "{color=#FFFCA9}У нього кровотеча! {w}Його треба негайно доправити до селища!"
 
 # game/game/script.rpy:1777
 translate ukrainian go_6bc72e29:
@@ -5475,7 +5475,7 @@ translate ukrainian go_2a953051:
 translate ukrainian go_53b5b842:
 
     # mc "I don't have any wounds, that means that..."
-    mc "На мені не подряпини, а отже..."
+    mc "На мені ані подряпини, а отже..."
 
 # game/game/script.rpy:1797
 translate ukrainian go_8be8d37c:
@@ -5499,7 +5499,7 @@ translate ukrainian go_2b35b6fe_4:
 translate ukrainian go_9e2b0b98:
 
     # "{color=#8CDAE9}{size=-6}Don't you know it's rude to enter a bath with your clothes on?"
-    "{color=#8CDAE9}{size=-6}Тобі не казали, що не ввічливо заходити у купальню в речах?"
+    "{color=#8CDAE9}{size=-6}Тобі не казали, що неввічливо заходити в купальню в речах?"
 
 # game/game/script.rpy:1803
 translate ukrainian go_fcdeab6d:
@@ -5619,7 +5619,7 @@ translate ukrainian go_1519ddc1:
 translate ukrainian go_4f3c1bae:
 
     # t "I didn't think I'd ever see someone this beautiful...."
-    t "Й подумати не міг, що колись побачу настільки вродливу дівчину...."
+    t "І подумати не міг, що колись побачу настільки вродливу дівчину...."
 
 # game/game/script.rpy:1829
 translate ukrainian go_f280b97e:
@@ -5685,7 +5685,7 @@ translate ukrainian go_b56be0e1:
 translate ukrainian go_795f03c6:
 
     # t "Oh {w}my{w} Goddesses!"
-    t "О, {w}мої{w} Богині!"
+    t "О, {w}мої{w} богині!"
 
 # game/game/script.rpy:1843
 translate ukrainian go_34716290:
@@ -5733,7 +5733,7 @@ translate ukrainian go_a7ddcfe8:
 translate ukrainian go_8d182158:
 
     # k "Why are you sitting so far away? {w}I don't bite, you know...?"
-    k "Чому ти так далеко сів? {w}Не бійся, я не вкушу...?"
+    k "Чому ти так далеко сів? {w}Не бійся, я ж не вкушу...?"
 
 # game/game/script.rpy:1862
 translate ukrainian go_2defae74:
@@ -5781,7 +5781,7 @@ translate ukrainian go_77486374:
 translate ukrainian go_b8a96654:
 
     # mc "{size=-6}I died again..."
-    mc "{size=-6}Я зному помер..."
+    mc "{size=-6}Я знову помер..."
 
 # game/game/script.rpy:1872
 translate ukrainian go_7d8142d3:
@@ -5805,7 +5805,7 @@ translate ukrainian go_82091822:
 translate ukrainian go_c2e2fbef:
 
     # mc "I guess now I'll go to heaven... or wherever you're supposed to send me."
-    mc "Гадаю, тепер я відправлюся у рай... або куди ти там мене маєш відправити."
+    mc "Гадаю, тепер я відправлюся в рай... або куди ти там мене маєш відправити."
 
 # game/game/script.rpy:1877
 translate ukrainian go_d88e4b7a:
@@ -5829,7 +5829,7 @@ translate ukrainian go_1e79ae81:
 translate ukrainian go_aa2d27e9:
 
     # k "That was quite the battle, wasn't it?"
-    k "Ото була справжня битва, так не думаєш?"
+    k "Ото була справжня битва, не вважаєш так?"
 
 # game/game/script.rpy:1881
 translate ukrainian go_4193d750:
@@ -5907,7 +5907,7 @@ translate ukrainian go_00d6d1ca_1:
 translate ukrainian go_3aa77b34:
 
     # mc "It's not something I can change. {w}That's just who I am."
-    mc "Я нічого не можу з собою вдіяти. {w}Такий я вже є."
+    mc "Я нічого не можу з собою вдіяти. {w}Такий вже я є."
 
 # game/game/script.rpy:1899
 translate ukrainian go_ac9ed97f:
@@ -6429,7 +6429,7 @@ translate ukrainian keiko_gal1_f6ac9e18:
 translate ukrainian keiko_gal1_043978eb:
 
     # mc "{size=-6}Y-Yeah... {w}that's a good idea."
-    mc "{size=-6}Т-Так... {w}гарна ідея."
+    mc "{size=-6}Т-Так... {w}хороша ідея."
 
 # game/game/script.rpy:2091
 translate ukrainian keiko_gal1_2b35b6fe_1:
@@ -6477,7 +6477,7 @@ translate ukrainian keiko_gal1_a854dca0:
 translate ukrainian keiko_gal1_ce5286a2:
 
     # mc "I see... {w}so you have more freedom to do... {w}things..."
-    mc "Ясно... {w}Отже, в тебе достатньо свободи, щоб робити... {w}різне..."
+    mc "Ясно... {w}Отже, у тебе достатньо свободи, щоб робити... {w}різне..."
 
 # game/game/script.rpy:2101
 translate ukrainian keiko_gal1_2ab9bb68:
@@ -6579,7 +6579,7 @@ translate ukrainian keiko_gal1_6a3c430c:
 translate ukrainian keiko_gal1_6d220ff0:
 
     # mc "Err... {w}When you sent me into the world..."
-    mc "Емм... {w}Коли ти відправила мене у новий світ..."
+    mc "Емм... {w}Коли ти відправила мене в новий світ..."
 
 # game/game/script.rpy:2127
 translate ukrainian keiko_gal1_0ef53410:
@@ -6615,7 +6615,7 @@ translate ukrainian keiko_gal1_0d0d9c62:
 translate ukrainian keiko_gal1_14ddfe09:
 
     # t "{size=-6}Or at least I tried..."
-    t "{size=-6}Принаймні, я хочу у це вірити..."
+    t "{size=-6}Принаймні, я хочу в це вірити..."
 
 # game/game/script.rpy:2134
 translate ukrainian keiko_gal1_757c9836:
@@ -6765,7 +6765,7 @@ translate ukrainian keiko_gal1_82091822_3:
 translate ukrainian keiko_gal1_c942fbe9:
 
     # k "Looks like you need to go now..."
-    k "Видно, тобі вже пора йти..."
+    k "Видно, тобі вже час йти..."
 
 # game/game/script.rpy:2171
 translate ukrainian keiko_gal1_ac9a2ed7:
@@ -7239,7 +7239,7 @@ translate ukrainian ryoko_encounter_8265a239:
 translate ukrainian ryoko_encounter_dc429b48:
 
     # r "When I was losing hope, {w}an adventurer opened the gate and offered to help me."
-    r "Коли я вже втрачала надію, {w}одна шукачка пригод відкрила браму і запропонувала допомогу."
+    r "Коли я вже втрачала надію, {w}одна пригодниця відкрила браму і запропонувала допомогу."
 
 # game/game/script.rpy:2298
 translate ukrainian ryoko_encounter_803c7b0a:
@@ -7251,7 +7251,7 @@ translate ukrainian ryoko_encounter_803c7b0a:
 translate ukrainian ryoko_encounter_4a87b5e4:
 
     # mc "So, an adventurer... I'll have to thank her."
-    mc "Отже, шукачка пригод... Маю їй пізніше віддячити."
+    mc "Отже, пригодниця... Маю їй пізніше віддячити."
 
 # game/game/script.rpy:2301
 translate ukrainian ryoko_encounter_5616ce3a:
@@ -8823,7 +8823,7 @@ translate ukrainian orcfight_start_4c4149fa:
 translate ukrainian orcfight_start_a7bed691:
 
     # t "Monsters are too strong for the level of adventurers, {w}couldn't I start by fighting simple monsters? {w}A slime maybe?"
-    t "Монстри надто сильні для такого рівня шукача пригод як я, {w}чи не можна було б почати з більш простіших? {w}Наприклад, слиз?"
+    t "Монстри надто сильні для такого рівня пригодника як я, {w}чи не можна було б почати з більш простіших? {w}Наприклад, слиз?"
 
 # game/game/script.rpy:2951
 translate ukrainian orcfight_start_a86ae47b:
@@ -30824,7 +30824,7 @@ translate ukrainian strings:
     new "Ти береш свою катану та мішечок, який тобі приготувала Рьоко."
 
     old "You both begin your journey."
-    new "Разом ви ропочали свою подорож."
+    new "Разом ви розпочали свою подорож."
 
     old "Thanks to the trees, the sun doesn't bother you at all."
     new "Завдяки деревам, яскраве сонце вам не дошкуляло."
@@ -30854,13 +30854,13 @@ translate ukrainian strings:
     new "Ти закінчуєш митися, вдягаєшся, й на мить вирішуєш присісти."
 
     old "Not to mention that watching her get dressed awakened something new in you..."
-    new "Мимо волі спостерігаючи за тим, як вона вдягається, ти відчув, як щось нове пробудилося у тобі..."
+    new "Мимо волі спостерігаючи за тим, як вона вдягається, ти відчув, як щось нове пробудилося в тобі..."
 
     old "One day later."
     new "Через день."
 
     old "You send Ryoko off to rest while you go look for the adventurer."
-    new "Ти відправляєш Рьоко відпочивати, а сам вирушаєш на пошуки шукачки пригод."
+    new "Ти відправляєш Рьоко відпочивати, а сам вирушаєш на пошуки пригодниці."
 
     old "{image=quest_text}You've received a new mission!"
     new "{image=quest_text}Ти отримав нове завдання!"

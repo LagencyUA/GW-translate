@@ -501,7 +501,7 @@ translate ukrainian bench_rest_66766ad0:
 translate ukrainian bench_rest_139e401e:
 
     # t "I'd say she's an adventurer? {w}When I saw her kicking that orc I couldn't process what was happening."
-    t "Я б сказав, що вона — шукачка пригод? {w}Коли побачив, як вона надавала тому орку, я не встиг навіть збагнути, що відбувається."
+    t "Я б сказав, що вона — пригодниця? {w}Коли побачив, як вона надавала тому орку, я не встиг навіть збагнути, що відбувається."
 
 # game/game/charlotte_events.rpy:224
 translate ukrainian bench_rest_96888a1d:

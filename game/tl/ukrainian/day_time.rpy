@@ -996,7 +996,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:2760
     old "{size=-13}Adventurer's\n Lounge"
-    new "{size=-13}Світлиця\nшукачів пригод"
+    new "{size=-13}Гільдія\nпригодників"
 
     # game/day_time.rpy:2802
     old "{color=#CACACA}Hint Blocked{/color}\nGo to the Adventure's Lounge during daytime."

@@ -171,7 +171,7 @@ translate ukrainian yui_first_meet_12e0dd88:
 translate ukrainian yui_first_meet_7bfb987f:
 
     # t "When Ryoko said she was helped by an adventurer, I imagined someone more... {w}intense..."
-    t "Коли Рьоко сказала, що їй допомогла шукачка пригод, я уявляв собі когось більш... {w}запального..."
+    t "Коли Рьоко сказала, що їй допомогла пригодниця, я уявляв собі когось більш... {w}запального..."
 
 # game/game/yui_events.rpy:197
 translate ukrainian yui_first_meet_017f7c8f:
@@ -357,7 +357,7 @@ translate ukrainian yui_first_meet_e2e43ec3:
 translate ukrainian yui_first_meet_46738668:
 
     # y "How did you defeat three Great Wolves by yourself!?"
-    y "Як тобі вдалося самотужки подолати трьох величних вовків!?"
+    y "Як тобі вдалося самотужки подолати трьох могутніх вовків!?"
 
 # game/game/yui_events.rpy:251
 translate ukrainian yui_first_meet_c33b515c_1:
@@ -369,7 +369,7 @@ translate ukrainian yui_first_meet_c33b515c_1:
 translate ukrainian yui_first_meet_22d84454:
 
     # y "Since when are you an adventurer?"
-    y "Як давно ти став шукачкачем пригод?"
+    y "Як давно ти став пригодником?"
 
 # game/game/yui_events.rpy:255
 translate ukrainian yui_first_meet_24346f9b:
@@ -435,7 +435,7 @@ translate ukrainian yui_first_meet_d7edd024:
 translate ukrainian yui_first_meet_af5ad910:
 
     # y "So... {w}you've been training since you were a child... {w}in a faraway village... {w}and that's why you're an unranked adventurer..."
-    y "Тож... {w}ти із самого дитинства тренувався... {w}у дуже далекому селищі... {w}і саме тому ти — шукач пригод без рангу..."
+    y "Тож... {w}ти із самого дитинства тренувався... {w}у дуже далекому селищі... {w}і саме тому ти — пригодник без рангу..."
 
 # game/game/yui_events.rpy:272
 translate ukrainian yui_first_meet_84d9991b:
@@ -549,7 +549,7 @@ translate ukrainian yui_first_meet_c836481b:
 translate ukrainian yui_first_meet_06dae9d2:
 
     # t "She's confident... no wonder she's an adventurer."
-    t "Вона така упевнена... не дивно, що вона — шукачка пригод."
+    t "Вона така упевнена... не дивно, що вона — пригодниця."
 
 # game/game/yui_events.rpy:309
 translate ukrainian yui_first_meet_fc896afd:
@@ -807,7 +807,7 @@ translate ukrainian yui_talk_1_9851e47d:
 translate ukrainian yui_talk_1_c6be7b61:
 
     # y "Hahaha you are quite strange, {w}I've never met an adventurer like you."
-    y "Хахаха, а ти досить дивний, {w}ніколи не бачила подібних тобі шукачів пригод."
+    y "Хахаха, а ти досить дивний, {w}ніколи не бачила подібних тобі пригодників."
 
 # game/game/yui_events.rpy:396
 translate ukrainian yui_talk_1_affe532e:
@@ -1215,7 +1215,7 @@ translate ukrainian yui_fight_pratice_71a86863_1:
 translate ukrainian yui_fight_pratice_e0e91364:
 
     # y "I'm beginning to think that you really defeated two Great Wolves and one Boss alone..."
-    y "Мені все більше віриться у те, що ти сам зміг вбити тих двох величних вовків та їх ватажка..."
+    y "Мені все більше віриться у те, що ти сам зміг вбити тих двох могутніх вовків та їх ватажка..."
 
 # game/game/yui_events.rpy:547
 translate ukrainian yui_fight_pratice_31bc6687:
@@ -1617,7 +1617,7 @@ translate ukrainian yui_fight_pratice_4e730d5b:
 translate ukrainian yui_fight_pratice_2b43e4db:
 
     # y "You seem pretty confident, you know I'm an A-Rank adventurer, right?"
-    y "Виглядаєш доволі впевненим. Ти ж знаєш, що я шукачка пригод A-рангу, так?"
+    y "Виглядаєш доволі впевненим. Ти ж знаєш, що я пригодниця A-рангу, так?"
 
 # game/game/yui_events.rpy:648
 translate ukrainian yui_fight_pratice_3e7f7211:

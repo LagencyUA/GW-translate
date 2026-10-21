@@ -627,25 +627,25 @@ translate ukrainian first_forest_event_671dc927:
 translate ukrainian first_forest_event_b8d8d0d3:
 
     # y "And if it hasn't changed since the last time we had contact, the Adventurer's Lounge may still exist."
-    y "І якщо нічого не змінилося з останнього разу, як ми виходили на контакт, там досі має бути світлиця шукачів пригод."
+    y "І якщо нічого не змінилося з останнього разу, як ми виходили на контакт, там досі має бути гільдія пригодників."
 
 # game/game/map_GW.rpy:228
 translate ukrainian first_forest_event_a2c79199:
 
     # mc "Adventurer's Lounge?"
-    mc "Світлиця шукачів пригод?"
+    mc "Гільдія пригодників?"
 
 # game/game/map_GW.rpy:230
 translate ukrainian first_forest_event_c0160edd:
 
     # y "You said you always trained alone, right? {w}Well, then you can become an official adventurer, and they'll give you your rank."
-    y "Ти ж казав, що завжди тренувався сам, так? {w}У такому разі це твій шанс офіційно стати шукачем пригод, і вони також дадуть тобі ранг."
+    y "Ти ж казав, що завжди тренувався сам, так? {w}У такому разі це твій шанс офіційно стати пригодником, і вони також дадуть тобі ранг."
 
 # game/game/map_GW.rpy:231
 translate ukrainian first_forest_event_c137b2f9:
 
     # t "Being an official adventurer would take a lot of trouble away from me."
-    t "Стати офіційним шукачем пригод справді позбавить мене багатьох проблем."
+    t "Стати офіційним пригодником справді позбавить мене багатьох проблем."
 
 # game/game/map_GW.rpy:233
 translate ukrainian first_forest_event_11467660:
@@ -1215,7 +1215,7 @@ translate ukrainian first_forest_event_d3350169:
 translate ukrainian first_forest_event_c197fc27:
 
     # ak "Great wolves are territorial, so I doubt that none will show up."
-    ak "Величні вовки — тереторіальні тварини, тому сумніваюся, що жоден з них не з'явиться."
+    ak "Могутні вовки — тереторіальні тварини, тому сумніваюся, що жоден з них не з'явиться."
 
 # game/game/map_GW.rpy:415
 translate ukrainian first_forest_event_db99afe4:
