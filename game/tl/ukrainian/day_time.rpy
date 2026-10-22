@@ -45,11 +45,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:33
     old "Sleep until morning"
-    new "Спати до наступного ранку"
+    new "Спати до ранку"
 
     # game/day_time.rpy:33
     old "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
-    new "Sleep with Ryoko until morning {image=/bg/icons/tenshi_text.png}"
+    new "Спати з Рьоко до ранку {image=/bg/icons/tenshi_text.png}"
 
 translate ukrainian strings:
     ### Меню stats_showani

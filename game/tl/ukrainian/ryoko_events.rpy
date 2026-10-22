@@ -7911,31 +7911,31 @@ translate ukrainian ryoko_gal3_1fcb1404:
 translate ukrainian ryoko_sex1_rep_7fed0ec4:
 
     # t "Time to sleep."
-    t "Time to sleep."
+    t "Пора вже спати."
 
 # game/game/ryoko_events.rpy:2533
 translate ukrainian ryoko_sex1_rep_53a9dc9f:
 
     # t "Tomorrow will be another day..."
-    t "Tomorrow will be another day..."
+    t "Завтра настане інший день..."
 
 # game/game/ryoko_events.rpy:2535
 translate ukrainian ryoko_sex1_rep_1c23767d:
 
     # t "Hmm?"
-    t "Hmm?"
+    t "Гмм?"
 
 # game/game/ryoko_events.rpy:2539
 translate ukrainian ryoko_sex1_rep_adbf1ab3:
 
     # r "{size=-10}Mhh~{image=corazon} {w}HMm ~{image=corazon}{image=corazon} {w}Slurpp*~{image=corazon}"
-    r "{size=-10}Mhh~{image=corazon} {w}HMm ~{image=corazon}{image=corazon} {w}Slurpp*~{image=corazon}"
+    r "{size=-10}{i}Мхх~{/i}{image=corazon} {w}{i}ХМм ~{/i}{image=corazon}{image=corazon} {w}{i}Сьооорб~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2540
 translate ukrainian ryoko_sex1_rep_4e1e2430:
 
     # t "I've felt this before..."
-    t "I've felt this before..."
+    t "Знайоме відчуття..."
 
 # game/game/ryoko_events.rpy:2541
 translate ukrainian ryoko_sex1_rep_1bb01731:
@@ -7947,163 +7947,163 @@ translate ukrainian ryoko_sex1_rep_1bb01731:
 translate ukrainian ryoko_sex1_rep_ef3ded70:
 
     # r "{size=-10}Ghm~{image=corazon} {w}Masgter~{image=corazon}{image=corazon}{image=corazon}"
-    r "{size=-10}Ghm~{image=corazon} {w}Masgter~{image=corazon}{image=corazon}{image=corazon}"
+    r "{size=-10}{i}Гхм~{/i}{image=corazon} {w}Госпходалю~{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2544
 translate ukrainian ryoko_sex1_rep_cc53648b:
 
     # t "Mmm?"
-    t "Mmm?"
+    t "Ммм?"
 
 # game/game/ryoko_events.rpy:2545
 translate ukrainian ryoko_sex1_rep_54b38964:
 
     # r "{size=-10}Sluuurp~{image=corazon} {w}Ghhg~{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
-    r "{size=-10}Sluuurp~{image=corazon} {w}Ghhg~{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
+    r "{size=-10}{i}Сьооорб~{/i}{image=corazon} {w}{i}Гххг~{/i}{image=corazon} {w}{i}Хааанм~{/i}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2546
 translate ukrainian ryoko_sex1_rep_c032eb0b:
 
     # t "R-Ryoko?...."
-    t "R-Ryoko?...."
+    t "Р-Рьоко?..."
 
 # game/game/ryoko_events.rpy:2547
 translate ukrainian ryoko_sex1_rep_4c092ed9:
 
     # r "{size=-10}Mmm~{image=corazon}{image=corazon} {w}Aghm~{image=corazon} {w}A little more...{image=corazon}"
-    r "{size=-10}Mmm~{image=corazon}{image=corazon} {w}Aghm~{image=corazon} {w}A little more...{image=corazon}"
+    r "{size=-10}{i}Ммм~{/i}{image=corazon}{image=corazon} {w}{i}Агхм~{/i}{image=corazon} {w}Ще трішки...{image=corazon}"
 
 # game/game/ryoko_events.rpy:2548
 translate ukrainian ryoko_sex1_rep_083500d7:
 
     # t "What a great way to wake me up..."
-    t "What a great way to wake me up..."
+    t "Який чудовий спосіб мене розбудити..."
 
 # game/game/ryoko_events.rpy:2549
 translate ukrainian ryoko_sex1_rep_fdcb2cbe:
 
     # t "She's made a habit of doing this every time she sleeps with me..."
-    t "She's made a habit of doing this every time she sleeps with me..."
+    t "У неї вже з'явилася звичка так робити щоразу, коли вона лягає спати зі мною..."
 
 # game/game/ryoko_events.rpy:2550
 translate ukrainian ryoko_sex1_rep_e2d54e41:
 
     # t "Not to mention that she just keeps getting better and better!"
-    t "Not to mention that she just keeps getting better and better!"
+    t "Не кажучи вже про те, що вона стає дедалі кращою!"
 
 # game/game/ryoko_events.rpy:2553
 translate ukrainian ryoko_sex1_rep_587f454f:
 
     # t "She's started licking it... she always tries so hard to give me pleasure..."
-    t "She's started licking it... she always tries so hard to give me pleasure..."
+    t "Вона почала облизувати його... завжди докладає всіх зусиль, щоб зробити мені приємно..."
 
 # game/game/ryoko_events.rpy:2554
 translate ukrainian ryoko_sex1_rep_e957576d:
 
     # mc "What kind of a beautiful dream this is..."
-    mc "What kind of a beautiful dream this is..."
+    mc "Який же це прекрасний сон..."
 
 # game/game/ryoko_events.rpy:2555
 translate ukrainian ryoko_sex1_rep_06a3db27:
 
     # r "Lnmn~{image=corazon} {w}Maanmgter~{image=corazon}{image=corazon}"
-    r "Lnmn~{image=corazon} {w}Maanmgter~{image=corazon}{image=corazon}"
+    r "{i}Лнмн~{/i}{image=corazon} {w}Гоошьпоталю~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2556
 translate ukrainian ryoko_sex1_rep_cd46bcf3:
 
     # r "MMmgh~{image=corazon} {w}Masggter~{image=corazon} {w}W-Wooke uupnm~{image=corazon}{image=corazon}"
-    r "MMmgh~{image=corazon} {w}Masggter~{image=corazon} {w}W-Wooke uupnm~{image=corazon}{image=corazon}"
+    r "{i}ММмгх~{/i}{image=corazon} {w}Госпхоталь~{image=corazon} {w}п-плоокхинувшя~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2557
 translate ukrainian ryoko_sex1_rep_b7964f29:
 
     # mc "What a naughty girl..."
-    mc "What a naughty girl..."
+    mc "Яка неслухняна дівчинка..."
 
 # game/game/ryoko_events.rpy:2558
 translate ukrainian ryoko_sex1_rep_c2f5a1ad:
 
     # r "HhnMn~{image=corazon}{image=corazon} {w}Soonmwy~{image=corazon} {w}Gaghnmn~{image=corazon}{image=corazon}"
-    r "HhnMn~{image=corazon}{image=corazon} {w}Soonmwy~{image=corazon} {w}Gaghnmn~{image=corazon}{image=corazon}"
+    r "{i}ХхнМн~{/i}{image=corazon}{image=corazon} {w}Плобаащте~{image=corazon} {w}{i}Гагхнмн~{/i}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2559
 translate ukrainian ryoko_sex1_rep_11b7293f:
 
     # mc "S-Shoot! {w}Your tongue... it f-feels so good..."
-    mc "S-Shoot! {w}Your tongue... it f-feels so good..."
+    mc "Д-Дідько! {w}Твій язичок... який в-він приємний..."
 
 # game/game/ryoko_events.rpy:2560
 translate ukrainian ryoko_sex1_rep_354e7cdd:
 
     # r "Hehehe~{image=corazon}{image=corazon} {w}HnMN~{image=corazon} {w}I know what Master likes~{image=corazon}"
-    r "Hehehe~{image=corazon}{image=corazon} {w}HnMN~{image=corazon} {w}I know what Master likes~{image=corazon}"
+    r "Хехехе~{image=corazon}{image=corazon} {w}{i}ХнМН~{/i}{image=corazon} {w}Я знаю, що подобається господарю~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2563
 translate ukrainian ryoko_sex1_rep_6c706391:
 
     # mc "R-Ryoko!"
-    mc "R-Ryoko!"
+    mc "Р-Рьоко!"
 
 # game/game/ryoko_events.rpy:2564
 translate ukrainian ryoko_sex1_rep_c1fcb56c:
 
     # r "MHnMn~{image=corazon} {w}GHnmnN~{image=corazon} {w}Sluuurp~{image=corazon}{image=corazon}"
-    r "MHnMn~{image=corazon} {w}GHnmnN~{image=corazon} {w}Sluuurp~{image=corazon}{image=corazon}"
+    r "{i}МХнМн~{/i}{image=corazon} {w}{i}ГХнмнН~{/i}{image=corazon} {w}{i}Сьоорб~{/i}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2565
 translate ukrainian ryoko_sex1_rep_2445b4dd:
 
     # mc "I-If you suck it so much... {w}I w-won't be able to hold it anymore!"
-    mc "I-If you suck it so much... {w}I w-won't be able to hold it anymore!"
+    mc "Я-Якщо так сильно смоктатимеш... {w}я б-більше не зможу стримуватися!"
 
 # game/game/ryoko_events.rpy:2566
 translate ukrainian ryoko_sex1_rep_2f2d508c:
 
     # r "{size=-6}J-Just let it out Master... {w}NHhmNN~{image=corazon}{image=corazon} {w}you don't have to hold it~{image=corazon}{image=corazon}"
-    r "{size=-6}J-Just let it out Master... {w}NHhmNN~{image=corazon}{image=corazon} {w}you don't have to hold it~{image=corazon}{image=corazon}"
+    r "{size=-6}П-Просто вивільніть усе, господарю... {w}{i}НХхмНН~{/i}{image=corazon}{image=corazon} {w}не варто стримуватися~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2567
 translate ukrainian ryoko_sex1_rep_4326f4a0:
 
     # r "{size=-6}Leave e-everything to me...{image=corazon} {w}I won't let a-anything come out of my mouth~~{image=corazon}{image=corazon}"
-    r "{size=-6}Leave e-everything to me...{image=corazon} {w}I won't let a-anything come out of my mouth~~{image=corazon}{image=corazon}"
+    r "{size=-6}Залиште в-все на мене...{image=corazon} {w}я не д-дозволю, аби щось пішло мимо мого ротика~~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2568
 translate ukrainian ryoko_sex1_rep_ebc4d431:
 
     # t "S-She is inviting me to let it all out inside her mouth!"
-    t "S-She is inviting me to let it all out inside her mouth!"
+    t "В-Вона просить мене спустити все їй до рота!"
 
 # game/game/ryoko_events.rpy:2569
 translate ukrainian ryoko_sex1_rep_bf1b6cea:
 
     # r "Masggter~{image=corazon}{image=corazon} {w}Cuumm~{image=corazon} {w}F-Foogg mee~{image=corazon}"
-    r "Masggter~{image=corazon}{image=corazon} {w}Cuumm~{image=corazon} {w}F-Foogg mee~{image=corazon}"
+    r "Госпходалю~{image=corazon}{image=corazon} {w}кіннщіть~{image=corazon} {w}з-залади менее~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2570
 translate ukrainian ryoko_sex1_rep_5a7e4b73:
 
     # mc "I'm-!"
-    mc "I'm-!"
+    mc "Я...!"
 
 # game/game/ryoko_events.rpy:2572
 translate ukrainian ryoko_sex1_rep_4bb8ffc4:
 
     # mc "Ryoko!"
-    mc "Ryoko!"
+    mc "Рьоко!"
 
 # game/game/ryoko_events.rpy:2573
 translate ukrainian ryoko_sex1_rep_cd7578ee:
 
     # r "Hnmnm!~{image=corazon}{image=corazon}{w=0.5}{nw}"
-    r "Hnmnm!~{image=corazon}{image=corazon}{w=0.5}{nw}"
+    r "{i}Хнмнм!~{/i}{image=corazon}{image=corazon}{w=0.5}{nw}"
 
 # game/game/ryoko_events.rpy:2580
 translate ukrainian ryoko_sex1_rep_bc66909a:
 
     # r "MnhNGnmnm~!{image=corazon}{image=corazon}"
-    r "MnhNGnmnm~!{image=corazon}{image=corazon}"
+    r "{i}МнхНГнмнм~!{/i}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2583
 translate ukrainian ryoko_sex1_rep_30c5147c:
@@ -8115,49 +8115,49 @@ translate ukrainian ryoko_sex1_rep_30c5147c:
 translate ukrainian ryoko_sex1_rep_9ce755a7:
 
     # r "{size=-6}GnNmNNnanm~~~{image=corazon}{image=corazon}{image=corazon}"
-    r "{size=-6}GnNmNNnanm~~~{image=corazon}{image=corazon}{image=corazon}"
+    r "{size=-6}{i}ГнНмННнанм~~~{/i}{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2585
 translate ukrainian ryoko_sex1_rep_2ee3d5a6:
 
     # mc "Y-You're swallowing it all..."
-    mc "Y-You're swallowing it all..."
+    mc "Т-Ти прямо все ковтаєш..."
 
 # game/game/ryoko_events.rpy:2586
 translate ukrainian ryoko_sex1_rep_5e283572:
 
     # r "Hn~{image=corazon} gulp~{image=corazon}{image=corazon} hn~{image=corazon}"
-    r "Hn~{image=corazon} gulp~{image=corazon}{image=corazon} hn~{image=corazon}"
+    r "{i}Гн~{/i}{image=corazon} {i}*ковть*~{/i}{image=corazon}{image=corazon} {i}гн~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2588
 translate ukrainian ryoko_sex1_rep_37f11fa5:
 
     # t "Her whole mouth is dedicated to cleaning my cock..."
-    t "Her whole mouth is dedicated to cleaning my cock..."
+    t "Її рот цілком зосереджений на чистоті мого прутня..."
 
 # game/game/ryoko_events.rpy:2589
 translate ukrainian ryoko_sex1_rep_7c22be2b:
 
     # r "Hngm~{image=corazon} {w}Sluurp~{image=corazon}{image=corazon} {w}Gghnm~{image=corazon}"
-    r "Hngm~{image=corazon} {w}Sluurp~{image=corazon}{image=corazon} {w}Gghnm~{image=corazon}"
+    r "{i}Хнгм~{/i}{image=corazon} {w}{i}Сьоорб~{/i}{image=corazon}{image=corazon} {w}{i}Ггхнм~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2590
 translate ukrainian ryoko_sex1_rep_578ab792:
 
     # mc "Until the last drop Ryoko..."
-    mc "Until the last drop Ryoko..."
+    mc "До останньої краплі, Рьоко..."
 
 # game/game/ryoko_events.rpy:2591
 translate ukrainian ryoko_sex1_rep_ac066b6e:
 
     # r "NGhnm!~{image=corazon}{image=corazon}{image=corazon}"
-    r "NGhnm!~{image=corazon}{image=corazon}{image=corazon}"
+    r "{i}НГхнм!~{/i}{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2596
 translate ukrainian ryoko_sex1_rep_b49607d4:
 
     # mc "{size=-10}Hgnm!"
-    mc "{size=-10}Hgnm!"
+    mc "{size=-10}{i}Хгнм!{/i}"
 
 # game/game/ryoko_events.rpy:2597
 translate ukrainian ryoko_sex1_rep_51e9933e:
@@ -8169,25 +8169,25 @@ translate ukrainian ryoko_sex1_rep_51e9933e:
 translate ukrainian ryoko_sex1_rep_32ca5bbe:
 
     # mc "Ryoko..."
-    mc "Ryoko..."
+    mc "Рьоко..."
 
 # game/game/ryoko_events.rpy:2601
 translate ukrainian ryoko_sex1_rep_8df22e7d:
 
     # mc "You're going to get me addicted to this..."
-    mc "You're going to get me addicted to this..."
+    mc "Скоро і прожити без цього не зможу через тебе..."
 
 # game/game/ryoko_events.rpy:2603
 translate ukrainian ryoko_sex1_rep_75a38d48:
 
     # r "Master always lets out a lot~{image=corazon}{image=corazon}"
-    r "Master always lets out a lot~{image=corazon}{image=corazon}"
+    r "Господар завжди так багато випускає~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2604
 translate ukrainian ryoko_sex1_rep_682e78b2:
 
     # r "But I'm already able to swallow everything~"
-    r "But I'm already able to swallow everything~"
+    r "Але я вже здатна все проковтнути~"
 
 # game/game/ryoko_events.rpy:2605
 translate ukrainian ryoko_sex1_rep_2b35b6fe:
@@ -8199,361 +8199,361 @@ translate ukrainian ryoko_sex1_rep_2b35b6fe:
 translate ukrainian ryoko_sex1_rep_61870d54:
 
     # r "M-Master!~{image=corazon}{image=corazon}"
-    r "M-Master!~{image=corazon}{image=corazon}"
+    r "Г-Господарю!~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2610
 translate ukrainian ryoko_sex1_rep_58ff9a56:
 
     # r "Do you still want to continue?"
-    r "Do you still want to continue?"
+    r "Ви досі бажаєте продовжити?"
 
 # game/game/ryoko_events.rpy:2612
 translate ukrainian ryoko_sex1_rep_70a119b6:
 
     # mc "I still want more Ryoko..."
-    mc "I still want more Ryoko..."
+    mc "Я хочу більшого, Рьоко..."
 
 # game/game/ryoko_events.rpy:2613
 translate ukrainian ryoko_sex1_rep_f07de8a9:
 
     # r "Chu~{image=corazon}"
-    r "Chu~{image=corazon}"
+    r "{i}Чмок~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2615
 translate ukrainian ryoko_sex1_rep_71e8105c:
 
     # mc "You know what to do, don't you Ryoko?"
-    mc "You know what to do, don't you Ryoko?"
+    mc "Ти вже знаєш, що робити, так, Рьоко?"
 
 # game/game/ryoko_events.rpy:2616
 translate ukrainian ryoko_sex1_rep_fd53d694:
 
     # r "Hehehe~{image=corazon}{image=corazon}"
-    r "Hehehe~{image=corazon}{image=corazon}"
+    r "Хехехе~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2620
 translate ukrainian ryoko_sex1_rep_01c31657:
 
     # r "Are you going to use my body today too?~{image=corazon}{image=corazon}"
-    r "Are you going to use my body today too?~{image=corazon}{image=corazon}"
+    r "Бажаєте скористатися сьогодні й моїм тілом?~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2622
 translate ukrainian ryoko_sex1_rep_572c7cf4:
 
     # mc "Yes, bring your cute body over here..."
-    mc "Yes, bring your cute body over here..."
+    mc "Так, клади своє миле тільце тут..."
 
 # game/game/ryoko_events.rpy:2623
 translate ukrainian ryoko_sex1_rep_bb8c3f2e:
 
     # r "{size=-10}C-Cute...{image=corazon}"
-    r "{size=-10}C-Cute...{image=corazon}"
+    r "{size=-10}М-Миле...{image=corazon}"
 
 # game/game/ryoko_events.rpy:2625
 translate ukrainian ryoko_sex1_rep_587868a0:
 
     # r "Hehehe~{image=corazon} {w}I am all yours Master [mc]~{image=corazon}{image=corazon}"
-    r "Hehehe~{image=corazon} {w}I am all yours Master [mc]~{image=corazon}{image=corazon}"
+    r "Хехехе~{image=corazon} {w}Я цілком ваша, господарю [mc]~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2627
 translate ukrainian ryoko_sex1_rep_227e9dab:
 
     # r "{size=-6}P-Please~{image=corazon}"
-    r "{size=-6}P-Please~{image=corazon}"
+    r "{size=-6}П-Прошу~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2629
 translate ukrainian ryoko_sex1_rep_59156d7c:
 
     # r "You can put it in whenever you want...{image=corazon}{image=corazon}"
-    r "You can put it in whenever you want...{image=corazon}{image=corazon}"
+    r "Можете вставити, коли забажаєте...{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2634
 translate ukrainian ryoko_sex1_rep_2bca9172:
 
     # r "I-It's in!~{image=corazon}{image=corazon}"
-    r "I-It's in!~{image=corazon}{image=corazon}"
+    r "В-Він всередині!~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2636
 translate ukrainian ryoko_sex1_rep_3ef88498:
 
     # mc "A-As always... it feels so good inside you."
-    mc "A-As always... it feels so good inside you."
+    mc "Я-Як завжди... неймовірно приємно всередині тебе."
 
 # game/game/ryoko_events.rpy:2637
 translate ukrainian ryoko_sex1_rep_61785482:
 
     # r "Haanmnh~~{image=corazon}{image=corazon} {w}M-Master, make me feel good like you always do~{image=corazon}{image=corazon}"
-    r "Haanmnh~~{image=corazon}{image=corazon} {w}M-Master, make me feel good like you always do~{image=corazon}{image=corazon}"
+    r "{i}Хаанмнх~~{/i}{image=corazon}{image=corazon} {w}Г-Господарю, зробіть мені приємно, як і зазвичай~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2638
 translate ukrainian ryoko_sex1_rep_32ca5bbe_1:
 
     # mc "Ryoko..."
-    mc "Ryoko..."
+    mc "Рьоко..."
 
 # game/game/ryoko_events.rpy:2641
 translate ukrainian ryoko_sex1_rep_c3463d9b:
 
     # r "AhhnMn~{image=corazon}{image=corazon} {w}M-Master~{image=corazon} {w}I can f-feel it coming in~{image=corazon}"
-    r "AhhnMn~{image=corazon}{image=corazon} {w}M-Master~{image=corazon} {w}I can f-feel it coming in~{image=corazon}"
+    r "{i}АххнМн~{/i}{image=corazon}{image=corazon} {w}{i}Г-Господарю~{/i}{image=corazon} {w}я в-відчуваю як він входить далі~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2642
 translate ukrainian ryoko_sex1_rep_5ada720e:
 
     # r "My b-body still can't get used to {w}NHnmm~{image=corazon} {image=corazon} {w}t-the size of your p-penis~{image=/bg/icons/heart_text.png}"
-    r "My b-body still can't get used to {w}NHnmm~{image=corazon} {image=corazon} {w}t-the size of your p-penis~{image=/bg/icons/heart_text.png}"
+    r "Моє т-тіло досі не може звикнути до {w}{i}НХнмм~{/i}{image=corazon} {image=corazon} {w}р-розмірів вашого члена~{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2643
 translate ukrainian ryoko_sex1_rep_2e86f9aa:
 
     # mc "...! {w}R-Ryoko, you're squeezing me more than usual..."
-    mc "...! {w}R-Ryoko, you're squeezing me more than usual..."
+    mc "...! {w}Р-Рьоко, ти мене стискаєш сильніше, ніж зазвичай..."
 
 # game/game/ryoko_events.rpy:2644
 translate ukrainian ryoko_sex1_rep_6714cce9:
 
     # r "S-Sorry... {w}Haanmm~{image=corazon}{image=corazon} {w}I was a-anxious to do it again with Master...{image=corazon}{image=corazon}"
-    r "S-Sorry... {w}Haanmm~{image=corazon}{image=corazon} {w}I was a-anxious to do it again with Master...{image=corazon}{image=corazon}"
+    r "П-Пробачте... {w}{i}Хаанм~{/i}{image=corazon}{image=corazon} {w}Я дуже к-кортіла повторити це з господарем...{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2645
 translate ukrainian ryoko_sex1_rep_aef1c08d:
 
     # r "I-I can't control my body right now...{image=corazon}{image=corazon}"
-    r "I-I can't control my body right now...{image=corazon}{image=corazon}"
+    r "Я-Я зараз не можу контролювати власне тіло...{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2646
 translate ukrainian ryoko_sex1_rep_7e584f26:
 
     # mc "I-I love it, but this way I will cum very fast!"
-    mc "I-I love it, but this way I will cum very fast!"
+    mc "О-Обожнюю це відчуття, але я так швидко кінчу!"
 
 # game/game/ryoko_events.rpy:2647
 translate ukrainian ryoko_sex1_rep_2a7ea76c:
 
     # r "Haanm~{image=corazon} {w}NngmNM~ {w}t-that m-makes me very happy Master!~{image=corazon}{image=corazon}"
-    r "Haanm~{image=corazon} {w}NngmNM~ {w}t-that m-makes me very happy Master!~{image=corazon}{image=corazon}"
+    r "{i}Хаанм~{/i}{image=corazon} {w}{i}НнгмНМ~{/i} {w}Я р-рада це чути, господарю!~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2649
 translate ukrainian ryoko_sex1_rep_939be6c9:
 
     # r "Masteeer~{image=corazon} {w}Maaster~{image=corazon} {w}GNmnn~~{image=corazon}{image=corazon}"
-    r "Masteeer~{image=corazon} {w}Maaster~{image=corazon} {w}GNmnn~~{image=corazon}{image=corazon}"
+    r "Госпооодарю~{image=corazon} {w}Господарюю~{image=corazon} {w}{i}ГНмнн~~{/i}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2650
 translate ukrainian ryoko_sex1_rep_4ff87c51:
 
     # r "Your penis is getting bigger and bigger~{image=corazon}"
-    r "Your penis is getting bigger and bigger~{image=corazon}"
+    r "Ваш член стає все більшим~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2651
 translate ukrainian ryoko_sex1_rep_cff754af:
 
     # r "A-Are you feeling good?{image=corazon} {w}Y-You can be rougher if that's what you w-want~{image=corazon}{image=corazon}"
-    r "A-Are you feeling good?{image=corazon} {w}Y-You can be rougher if that's what you w-want~{image=corazon}{image=corazon}"
+    r "В-Вам приємно?{image=corazon} {w}В-Ви можете бути грубішим, якщо бажаєте~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2652
 translate ukrainian ryoko_sex1_rep_14bb0448:
 
     # mc "R-Ryoko... {w}are y-you sure?"
-    mc "R-Ryoko... {w}are y-you sure?"
+    mc "Р-Рьоко... {w}т-ти впевнена?"
 
 # game/game/ryoko_events.rpy:2653
 translate ukrainian ryoko_sex1_rep_a4197b57:
 
     # r "It may drive me crazy and I won't be able to stand it...{image=corazon} {w}GHnmm~{image=corazon}{image=corazon} {w}but if it makes you feel even better~~{image=corazon}{image=corazon}"
-    r "It may drive me crazy and I won't be able to stand it...{image=corazon} {w}GHnmm~{image=corazon}{image=corazon} {w}but if it makes you feel even better~~{image=corazon}{image=corazon}"
+    r "Можливо, я втрачу розум і не зможу цього витримати...{image=corazon} {w}{i}ГХнмм~{/i}{image=corazon}{image=corazon} {w}але якщо вам буде від цього значно приємніше~~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2654
 translate ukrainian ryoko_sex1_rep_5aed1eaf:
 
     # mc "Then..."
-    mc "Then..."
+    mc "Тоді..."
 
 # game/game/ryoko_events.rpy:2657
 translate ukrainian ryoko_sex1_rep_55d66db9:
 
     # r "M-Ma~{image=corazon}{image=corazon} {w} Maaster!~{image=corazon}{image=corazon} {w}HAaaAnM~{image=corazon}{image=corazon}"
-    r "M-Ma~{image=corazon}{image=corazon} {w} Maaster!~{image=corazon}{image=corazon} {w}HAaaAnM~{image=corazon}{image=corazon}"
+    r "Г-Го~{image=corazon}{image=corazon} {w} Госпооодарю!~{image=corazon}{image=corazon} {w}{i}ХАааАнМ~{/i}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2658
 translate ukrainian ryoko_sex1_rep_c65994ff:
 
     # r "I love that it g-goes...{image=corazon} {w}AAahnm~~{image=corazon} {w}all the way to the bottom!{image=corazon}{image=corazon}"
-    r "I love that it g-goes...{image=corazon} {w}AAahnm~~{image=corazon} {w}all the way to the bottom!{image=corazon}{image=corazon}"
+    r "Обожнюю, що він доходить...{image=corazon} {w}ААахнм~~{image=corazon} {w}аж до самого кінця!{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2659
 translate ukrainian ryoko_sex1_rep_73d0d2d8:
 
     # mc "Ryoko-"
-    mc "Ryoko-"
+    mc "Рьоко-"
 
 # game/game/ryoko_events.rpy:2660
 translate ukrainian ryoko_sex1_rep_e5c6d664:
 
     # r "Aaahhh~{image=corazon}{image=corazon} {w}Master... your face~{image=corazon} {w}are you about to cum? Does my body feel so good?{image=corazon}{image=corazon}"
-    r "Aaahhh~{image=corazon}{image=corazon} {w}Master... your face~{image=corazon} {w}are you about to cum? Does my body feel so good?{image=corazon}{image=corazon}"
+    r "{i}Аааххх~{/i}{image=corazon}{image=corazon} {w}Господарю... ваш вираз~{image=corazon} {w}ви збираєтесь кінчити? Моє тіло настільки приємне?{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2661
 translate ukrainian ryoko_sex1_rep_bd3c570c:
 
     # r "I-If you look at me like that...{image=corazon}{image=corazon} {w}it makes me feel weird!!{image=corazon}"
-    r "I-If you look at me like that...{image=corazon}{image=corazon} {w}it makes me feel weird!!{image=corazon}"
+    r "К-Коли ви так дивитесь на мене...{image=corazon}{image=corazon} {w}я дивно почуваюся!!{image=corazon}"
 
 # game/game/ryoko_events.rpy:2662
 translate ukrainian ryoko_sex1_rep_caa744fe:
 
     # mc "You've become very naughty Ryoko..."
-    mc "You've become very naughty Ryoko..."
+    mc "Ти стала дуже неслухняною, Рьоко..."
 
 # game/game/ryoko_events.rpy:2663
 translate ukrainian ryoko_sex1_rep_3abe1ab1:
 
     # r "It's your fault M-Master [mc]...{image=corazon} {w} because I can tell you like me like this...{image=corazon} {image=corazon}"
-    r "It's your fault M-Master [mc]...{image=corazon} {w} because I can tell you like me like this...{image=corazon} {image=corazon}"
+    r "Це ваша провина, господарю [mc]...{image=corazon} {w} адже я впевнена, вам подобається, коли я така...{image=corazon} {image=corazon}"
 
 # game/game/ryoko_events.rpy:2664
 translate ukrainian ryoko_sex1_rep_e5a8daa3:
 
     # mc "Then I will have to take responsibility..."
-    mc "Then I will have to take responsibility..."
+    mc "Тоді мені доведеться взяти на себе відповідальність..."
 
 # game/game/ryoko_events.rpy:2665
 translate ukrainian ryoko_sex1_rep_eb057d51:
 
     # r "Hnhm~{image=corazon} {w}E-Eehh?~{image=corazon}{image=corazon}"
-    r "Hnhm~{image=corazon} {w}E-Eehh?~{image=corazon}{image=corazon}"
+    r "{i}Хнхм~{/i}{image=corazon} {w}Е-Еехх?~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2668
 translate ukrainian ryoko_sex1_rep_79fb7c4a:
 
     # r "M-Maaa~{image=corazon}{image=corazon} {w}Haaa~{image=corazon}{image=corazon} {w}Haaamn~{image=corazon}"
-    r "M-Maaa~{image=corazon}{image=corazon} {w}Haaa~{image=corazon}{image=corazon} {w}Haaamn~{image=corazon}"
+    r "Г-Гооо~{image=corazon}{image=corazon} {w}{i}Хааа~{/i}{image=corazon}{image=corazon} {w}{i}Хааамн~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2669
 translate ukrainian ryoko_sex1_rep_924b3ba7:
 
     # r "S-So sudden!-{image=corazon} {w}My head...{image=corazon}{image=corazon} {w}I'm losing it~{image=corazon}{image=corazon}"
-    r "S-So sudden!-{image=corazon} {w}My head...{image=corazon}{image=corazon} {w}I'm losing it~{image=corazon}{image=corazon}"
+    r "Т-Так несподівано!-{image=corazon} {w}Я втрачаю...{image=corazon}{image=corazon} {w}голову~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2670
 translate ukrainian ryoko_sex1_rep_fc246ec5:
 
     # mc "I'm a-almost! {w}R-Ryoko!"
-    mc "I'm a-almost! {w}R-Ryoko!"
+    mc "Я м-майже! {w}Р-Рьоко!"
 
 # game/game/ryoko_events.rpy:2671
 translate ukrainian ryoko_sex1_rep_dda6dc75:
 
     # r "MMhh~{image=corazon}{image=corazon} {w}Yeees~{image=corazon}{image=corazon} {w}W-Whenever you want~{image=corazon}{image=corazon}"
-    r "MMhh~{image=corazon}{image=corazon} {w}Yeees~{image=corazon}{image=corazon} {w}W-Whenever you want~{image=corazon}{image=corazon}"
+    r "{i}ММхх~{/i}{image=corazon}{image=corazon} {w}Тааак~{image=corazon}{image=corazon} {w}К-Коли забажаєте~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2672
 translate ukrainian ryoko_sex1_rep_0a750d8f:
 
     # r "Haaanm~{image=corazon} {w}P-Put it all inside me!~~{image=corazon}{image=corazon}"
-    r "Haaanm~{image=corazon} {w}P-Put it all inside me!~~{image=corazon}{image=corazon}"
+    r "{i}Хааанм~{/i}{image=corazon} {w}В-Випустіть усе всередину мене!~~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2673
 translate ukrainian ryoko_sex1_rep_c88a8803:
 
     # r "I-I'-Im going to c-cum!{image=corazon}{image=corazon} {w}Please!~{image=corazon}"
-    r "I-I'-Im going to c-cum!{image=corazon}{image=corazon} {w}Please!~{image=corazon}"
+    r "Я-Я...Я зараз теж к-кінчу!{image=corazon}{image=corazon} {w}Прошу!~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2674
 translate ukrainian ryoko_sex1_rep_ab9f1a6b:
 
     # r "Aaahh~{image=corazon}{image=corazon} {w}L-Let's do it-{image=corazon}"
-    r "Aaahh~{image=corazon}{image=corazon} {w}L-Let's do it-{image=corazon}"
+    r "{i}Ааахх~{/i}{image=corazon}{image=corazon} {w}З-Зробімо це-{image=corazon}"
 
 # game/game/ryoko_events.rpy:2675
 translate ukrainian ryoko_sex1_rep_02fcabe0:
 
     # r "T-Together Master!{image=corazon}{image=corazon}{image=corazon}"
-    r "T-Together Master!{image=corazon}{image=corazon}{image=corazon}"
+    r "Р-Разом, господарю!{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2677
 translate ukrainian ryoko_sex1_rep_f61a5b1f:
 
     # mc "R-Ryoko!"
-    mc "R-Ryoko!"
+    mc "Р-Рьоко!"
 
 # game/game/ryoko_events.rpy:2683
 translate ukrainian ryoko_sex1_rep_f6f7dbbd:
 
     # r "UuuGhgngnmn~~{image=corazon}{image=corazon}{image=corazon}"
-    r "UuuGhgngnmn~~{image=corazon}{image=corazon}{image=corazon}"
+    r "{i}УууГхгнгнмн~~{/i}{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2685
 translate ukrainian ryoko_sex1_rep_925bee03:
 
     # r "Yeeeeees~~{image=corazon}{image=corazon}"
-    r "Yeeeeees~~{image=corazon}{image=corazon}"
+    r "Таааааак~~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2686
 translate ukrainian ryoko_sex1_rep_d6a3e7d8:
 
     # mc "A l-little more!!"
-    mc "A l-little more!!"
+    mc "Ще т-трохи!!"
 
 # game/game/ryoko_events.rpy:2690
 translate ukrainian ryoko_sex1_rep_6f857f3f:
 
     # r "M-Ma-{image=corazon} {w}GhgnnGNm~{image=corazon}"
-    r "M-Ma-{image=corazon} {w}GhgnnGNm~{image=corazon}"
+    r "Г-Го-{image=corazon} {w}{i}ГхгннГНм~{/i}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2691
 translate ukrainian ryoko_sex1_rep_969c90cf:
 
     # mc "{size=-10}Hnm!"
-    mc "{size=-10}Hnm!"
+    mc "{size=-10}{i}Хнм!{/i}"
 
 # game/game/ryoko_events.rpy:2693
 translate ukrainian ryoko_sex1_rep_c0aa1af1:
 
     # r "{size=-6}M-My insides... {w}c-completely filled with{image=corazon}{image=corazon} {w}Master's semen...{image=corazon}{image=corazon}"
-    r "{size=-6}M-My insides... {w}c-completely filled with{image=corazon}{image=corazon} {w}Master's semen...{image=corazon}{image=corazon}"
+    r "{size=-6}М-Моє нутро... {w}ц-цілком заповнене{image=corazon}{image=corazon} {w}сім'ям господаря...{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2695
 translate ukrainian ryoko_sex1_rep_91244331:
 
     # r "{size=-6}D-Did you feel good, {w}Master?~{image=corazon}{image=corazon}"
-    r "{size=-6}D-Did you feel good, {w}Master?~{image=corazon}{image=corazon}"
+    r "{size=-6}В-Вам було приємно, {w}господарю?~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2696
 translate ukrainian ryoko_sex1_rep_bcb74e9e:
 
     # mc "{size=-6}V-Very good {w}Ryoko..."
-    mc "{size=-6}V-Very good {w}Ryoko..."
+    mc "{size=-6}Д-Дуже приємно, {w}Рьоко..."
 
 # game/game/ryoko_events.rpy:2698
 translate ukrainian ryoko_sex1_rep_dc36d78c:
 
     # r "{size=-6}Can we stay like this a while longer?"
-    r "{size=-6}Can we stay like this a while longer?"
+    r "{size=-6}Ми можемо побути так ще трохи?"
 
 # game/game/ryoko_events.rpy:2699
 translate ukrainian ryoko_sex1_rep_389787bc:
 
     # mc "{size=-6}O-Ok..."
-    mc "{size=-6}O-Ok..."
+    mc "{size=-6}Г-Гаразд..."
 
 # game/game/ryoko_events.rpy:2701
 translate ukrainian ryoko_sex1_rep_5eb6cdd7:
 
     # r "{size=-6}Master~{image=corazon} {w}Hug me... please...{image=corazon}"
-    r "{size=-6}Master~{image=corazon} {w}Hug me... please...{image=corazon}"
+    r "{size=-6}Господарю~{image=corazon} {w}Обійміть мене... будь ласка...{image=corazon}"
 
 # game/game/ryoko_events.rpy:2702
 translate ukrainian ryoko_sex1_rep_bcb3afc4:
 
     # mc "{size=-6}Don't worry, I'm not going anywhere..."
-    mc "{size=-6}Don't worry, I'm not going anywhere..."
+    mc "{size=-6}Не хвилюйся, я нікуди не дінуся..."
 
 # game/game/ryoko_events.rpy:2708
 translate ukrainian ryoko_sex1_rep_c0caa68d:
 
     # r "Ahmm~{image=/bg/icons/heart_text.png}"
-    r "Ahmm~{image=/bg/icons/heart_text.png}"
+    r "{i}Ахмм~{/i}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:2710
 translate ukrainian ryoko_sex1_rep_1fcb1404:
