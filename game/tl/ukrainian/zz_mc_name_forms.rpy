@@ -47,6 +47,8 @@ init -502 python:
         mc_char = getattr(store, "mc", None)
         if isinstance(mc_char, renpy.character.ADVCharacter):
             return mc_normalize_name(str(mc_char))
+        elif isinstance(mc_char, str):
+            return mc_normalize_name(mc_char)
         return MC_DEFAULT_NAME
 
     def mc_ensure_forms(base_name=None):
