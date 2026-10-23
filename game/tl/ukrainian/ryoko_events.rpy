@@ -45,7 +45,7 @@ translate ukrainian ryoko_living_interactions_ef2c05d5:
 translate ukrainian ryoko_living_interactions_2bb509eb:
 
     # r "Good morning Master [mc]!"
-    r "Доброго ранку, господарю [mc]!"
+    r "Доброго ранку, господарю [name_form('voc')]!"
 
 # game/game/ryoko_events.rpy:58
 translate ukrainian ryoko_room_interactions_0f16bcbb:
@@ -93,7 +93,7 @@ translate ukrainian ryoko_room_interactions_24ab89d0_1:
 translate ukrainian ryoko_bath_49ffe2ef:
 
     # r "I'll finally take a bath with [mc] again!"
-    r "Я знову прийматиму ванну з [mc]!"
+    r "Я знову прийматиму ванну з [name_form('ins')]!"
 
 # game/game/ryoko_events.rpy:96
 translate ukrainian ryoko_bath_710d20e0:
@@ -273,7 +273,7 @@ translate ukrainian ryoko_bath_03fb3e88:
 translate ukrainian ryoko_bath_63275aac:
 
     # r "{size=-10}{i}Why doesn't Master [mc] ask me to help him with that kind of thing?"
-    r "{size=-10}{i}Чому це господар [mc] не просить мене допомогти з дечим {b}іншим{/b}?"
+    r "{size=-10}{i}Чому це господар [name_form('nom')] не просить мене допомогти з дечим {b}іншим{/b}?"
 
 # game/game/ryoko_events.rpy:153
 translate ukrainian ryoko_bath_1fcb1404:
@@ -339,7 +339,7 @@ translate ukrainian ryoko_1_b1926a30:
 translate ukrainian ryoko_1_c29ecc21:
 
     # r "Master [mc]!"
-    r "Господарю [mc]!"
+    r "Господарю [name_form('voc')]!"
 
 # game/game/ryoko_events.rpy:184
 translate ukrainian ryoko_1_0fb14244:
@@ -567,7 +567,7 @@ translate ukrainian ryoko_1_333f7235:
 translate ukrainian ryoko_1_b8e5b926:
 
     # r "Master... [mc]."
-    r "Господарю... [mc]."
+    r "Господарю... [name_form('voc')]."
 
 # game/game/ryoko_events.rpy:260
 translate ukrainian ryoko_1_61f442cc:
@@ -1257,7 +1257,7 @@ translate ukrainian ryoko_1_2b35b6fe_6:
 translate ukrainian ryoko_1_7170cd0a:
 
     # r "Master [mc], are you listening?"
-    r "Господарю [mc], ви мене слухаєте?"
+    r "Господарю [name_form('voc')], ви мене слухаєте?"
 
 # game/game/ryoko_events.rpy:470
 translate ukrainian ryoko_1_aee41da6:
@@ -1473,7 +1473,7 @@ translate ukrainian ryoko_1_e9f3e8ad:
 translate ukrainian ryoko_1_1a4af2c7:
 
     # r "Goodnight Master [mc]."
-    r "На добраніч, господярю [mc]."
+    r "На добраніч, господярю [name_form('voc')]."
 
 # game/game/ryoko_events.rpy:541
 translate ukrainian ryoko_1_a7fbfb47:
@@ -1581,7 +1581,7 @@ translate ukrainian ryoko_1_f28283db:
 translate ukrainian ryoko_1_406bfe4a:
 
     # r "Thank you, Master [mc]!"
-    r "Щиро дякую вам, господарю [mc]!"
+    r "Щиро дякую вам, господарю [name_form('voc')]!"
 
 # game/game/ryoko_events.rpy:577
 translate ukrainian ryoko_1_c9046e6b:
@@ -1833,7 +1833,7 @@ translate ukrainian ryoko_spending_1_9bcfa31a:
 translate ukrainian ryoko_spending_1_69d9775b:
 
     # r "Are you sure about this Master [mc]?"
-    r "Ви впевнені, господарю [mc]?"
+    r "Ви впевнені, господарю [name_form('voc')]?"
 
 # game/game/ryoko_events.rpy:658
 translate ukrainian ryoko_spending_1_82c45994:
@@ -1965,7 +1965,7 @@ translate ukrainian ryoko_spending_1_22a4ec25:
 translate ukrainian ryoko_spending_1_745c8414:
 
     # r "{size=-10}[mc] is very kind to me... {w}but I, on the other hand..."
-    r "{size=-10}[mc] дуже добрий до мене... {w}а от я, з іншого боку..."
+    r "{size=-10}[name_form('nom')] дуже добрий до мене... {w}а от я, з іншого боку..."
 
 # game/game/ryoko_events.rpy:713
 translate ukrainian ryoko_spending_1_83de3b28_1:
@@ -2187,7 +2187,7 @@ translate ukrainian ryoko_spending_1_babb9917:
 translate ukrainian ryoko_spending_1_c4560945:
 
     # r "[mc]..."
-    r "[mc]..."
+    r "[name_form('voc')]..."
 
 # game/game/ryoko_events.rpy:784
 translate ukrainian ryoko_spending_1_96fd2896:
@@ -2499,7 +2499,7 @@ translate ukrainian ryoko_go_hana_d4474d83:
 translate ukrainian ryoko_go_hana_9b6ca465:
 
     # r "It has been days since I've been out with Master [mc]."
-    r "Минуло вже кілька днів, як я не гуляла з господарем [mc]."
+    r "Минуло вже кілька днів, як я не гуляла з господарем [name_form('ins')]."
 
 # game/game/ryoko_events.rpy:897
 translate ukrainian ryoko_go_hana_a8e82b99:
@@ -2739,7 +2739,7 @@ translate ukrainian ryoko_go_hana_8350105a:
 translate ukrainian ryoko_go_hana_a3823ff9:
 
     # r "M-Master [mc], {w}what's happening...?"
-    r "Г-Господарю [mc], {w}що трапилося...?"
+    r "Г-Господарю [name_form('voc')], {w}що трапилося...?"
 
 # game/game/ryoko_events.rpy:965
 translate ukrainian ryoko_go_hana_f9dd5d26:
@@ -3669,7 +3669,7 @@ translate ukrainian ryoko_go_hana_e05ab314:
 translate ukrainian ryoko_go_hana_9c331bc4:
 
     # r "Yes... {w}thank you Master [mc]."
-    r "Так... {w}дякую, господарю [mc]."
+    r "Так... {w}дякую, господарю [name_form('voc')]."
 
 # game/game/ryoko_events.rpy:1215
 translate ukrainian ryoko_go_hana_909dbb11:
@@ -3753,7 +3753,7 @@ translate ukrainian ryoko_go_hana_1d82a7e7:
 translate ukrainian ryoko_go_hana_46023232:
 
     # r "{size=-10}[mc]..."
-    r "{size=-10}[mc]..."
+    r "{size=-10}[name_form('voc')]..."
 
 # game/game/ryoko_events.rpy:1235
 translate ukrainian ryoko_go_hana_d42974c8:
@@ -4005,7 +4005,7 @@ translate ukrainian ryoko_gal1_979957eb:
 translate ukrainian ryoko_gal1_d766eb7d:
 
     # r "I can feel [mc]'s penis getting bigger..."
-    r "Відчуваю, як член [mc] стає ще більшим..."
+    r "Відчуваю, як член [name_form('gen')] стає ще більшим..."
 
 # game/game/ryoko_events.rpy:1324
 translate ukrainian ryoko_gal1_653cf121:
@@ -4857,7 +4857,7 @@ translate ukrainian ryoko_2_h_5d9497a5:
 translate ukrainian ryoko_2_h_ec9b6f43:
 
     # r "Master [mc] looks so cool using that katana!"
-    r "Господарю [mc], ви такі круті, коли б'єтеся із катаною!"
+    r "Господарю [name_form('voc')], ви такі круті, коли б'єтеся із катаною!"
 
 # game/game/ryoko_events.rpy:1640
 translate ukrainian ryoko_2_h_58e0eb30:
@@ -5157,7 +5157,7 @@ translate ukrainian ryoko_gal2_2c9e5527:
 translate ukrainian ryoko_gal2_2664bd4c:
 
     # r "Hmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}if that's what Master [mc] wants..."
-    r "Гмм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}якщо саме цього господар [mc] бажає..."
+    r "Гмм~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}якщо саме цього господар [name_form('nom')] бажає..."
 
 # game/game/ryoko_events.rpy:1722
 translate ukrainian ryoko_gal2_eb861028:
@@ -5241,7 +5241,7 @@ translate ukrainian ryoko_gal2_1b226fc9:
 translate ukrainian ryoko_gal2_d727f921:
 
     # r "When Master [mc] doesn't talk much it means he's enjoying it."
-    r "Коли господар [mc] багато не говорить, значить він насолоджується."
+    r "Коли господар [name_form('nom')] багато не говорить, значить він насолоджується."
 
 # game/game/ryoko_events.rpy:1737
 translate ukrainian ryoko_gal2_3e92a27b:
@@ -5637,7 +5637,7 @@ translate ukrainian ryoko_h_2rep_40df220b:
 translate ukrainian ryoko_h_2rep_a15e0a3e:
 
     # r "Master [mc]...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    r "Господарю [mc]...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    r "Господарю [name_form('voc')]...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/ryoko_events.rpy:1854
 translate ukrainian ryoko_h_2rep_bcc7b25f:
@@ -6087,7 +6087,7 @@ translate ukrainian r_room_1st_79f08707:
 translate ukrainian r_room_1st_4b922f5a:
 
     # r "Master [mc]?"
-    r "Господарю [mc]?"
+    r "Господарю [name_form('voc')]?"
 
 # game/game/ryoko_events.rpy:1980
 translate ukrainian r_room_1st_6678b54e:
@@ -6183,7 +6183,7 @@ translate ukrainian r_room_1st_1bfa61ae:
 translate ukrainian r_room_1st_2c4d18fe:
 
     # r "Thanks Master [mc]!"
-    r "Дякую, господарю [mc]!"
+    r "Дякую, господарю [name_form('voc')]!"
 
 # game/game/ryoko_events.rpy:2012
 translate ukrainian r_room_1st_c444fd93:
@@ -6543,7 +6543,7 @@ translate ukrainian ryoko_mission_training_918f6ab0_2:
 translate ukrainian ryoko_mission_training_a153ec94:
 
     # r "Is this okay Master [mc]?"
-    r "Ось так правильно, господарю [mc]?"
+    r "Ось так правильно, господарю [name_form('voc')]?"
 
 # game/game/ryoko_events.rpy:2140
 translate ukrainian ryoko_mission_training_a2e13093:
@@ -6639,7 +6639,7 @@ translate ukrainian ryoko_mission_training_04250b80:
 translate ukrainian ryoko_mission_training_1e3845c0:
 
     # r "Thank you for everything Master [mc]!~{image=corazon}"
-    r "Дякую за все, господарю [mc]!~{image=corazon}"
+    r "Дякую за все, господарю [name_form('voc')]!~{image=corazon}"
 
 # game/game/ryoko_events.rpy:2177
 translate ukrainian ryoko_mission_training_1fcb1404:
@@ -6783,7 +6783,7 @@ translate ukrainian ryoko_gal3_4e27d2ce:
 translate ukrainian ryoko_gal3_32c87b44:
 
     # r "{size=-10}{i}Master [mc]..."
-    r "{size=-10}{i}Господарю [mc]..."
+    r "{size=-10}{i}Господарю [name_form('voc')]..."
 
 # game/game/ryoko_events.rpy:2224
 translate ukrainian ryoko_gal3_8b7576c6:
@@ -7047,7 +7047,7 @@ translate ukrainian ryoko_gal3_8e3a6cb2:
 translate ukrainian ryoko_gal3_966e638e:
 
     # r "{size=-10}J-Just a little more...~{image=corazon} {w}and Master [mc] will let it all out in my mouth...~{image=corazon}{image=corazon}{image=corazon}"
-    r "{size=-10} Щ-Ще трішки...~{image=corazon} {w}і господар [mc] вивільнить усе мені до ротика...~{image=corazon}{image=corazon}{image=corazon}"
+    r "{size=-10} Щ-Ще трішки...~{image=corazon} {w}і господар [name_form('nom')] вивільнить усе мені до ротика...~{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2284
 translate ukrainian ryoko_gal3_e1358149:
@@ -7233,7 +7233,7 @@ translate ukrainian ryoko_gal3_dbcfeb70:
 translate ukrainian ryoko_gal3_758d0f05:
 
     # r "{size=-6}Master [mc]...{/size} {w}I can't wait anymore..."
-    r "{size=-6}Господарю [mc]...{/size} {w}Я більше не можу терпіти..."
+    r "{size=-6}Господарю [name_form('voc')]...{/size} {w}Я більше не можу терпіти..."
 
 # game/game/ryoko_events.rpy:2338
 translate ukrainian ryoko_gal3_1ed0fb1d:
@@ -7305,7 +7305,7 @@ translate ukrainian ryoko_gal3_9dd2c41e:
 translate ukrainian ryoko_gal3_4d0045ea:
 
     # r "W-What do you say Master [mc]...?"
-    r "Щ-Що скажете, господарю [mc]...?"
+    r "Щ-Що скажете, господарю [name_form('voc')]...?"
 
 # game/game/ryoko_events.rpy:2357
 translate ukrainian ryoko_gal3_3248df36:
@@ -7335,7 +7335,7 @@ translate ukrainian ryoko_gal3_de30bc71:
 translate ukrainian ryoko_gal3_fc1df85e:
 
     # r "{size=-7}Yes.. {w}Master [mc]..."
-    r "{size=-7}Так... {w}господарю [mc]..."
+    r "{size=-7}Так... {w}господарю [name_form('voc')]..."
 
 # game/game/ryoko_events.rpy:2365
 translate ukrainian ryoko_gal3_0aa39373:
@@ -7635,7 +7635,7 @@ translate ukrainian ryoko_gal3_c3b0561b:
 translate ukrainian ryoko_gal3_a38ec985:
 
     # r "Haanm~{image=corazon}{image=corazon} {w}Mnhnm~{image=corazon}{image=corazon} {w}with M-Master [mc]~{image=corazon}{image=corazon}"
-    r "{i}Хаанм~{/i}{image=corazon}{image=corazon} {w}{i}Мнхнм~{/i}{image=corazon}{image=corazon} {w}з г-господарем [mc]~{image=corazon}{image=corazon}"
+    r "{i}Хаанм~{/i}{image=corazon}{image=corazon} {w}{i}Мнхнм~{/i}{image=corazon}{image=corazon} {w}з г-господарем [name_form('ins')]~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2438
 translate ukrainian ryoko_gal3_a43880ce:
@@ -7683,7 +7683,7 @@ translate ukrainian ryoko_gal3_9f5f00f8:
 translate ukrainian ryoko_gal3_ebd7e132:
 
     # r "M-Master [mc]!{image=corazon} {w}I feel like it's s-swelling more and more inside me..."
-    r "Г-Господарю [mc]!{image=corazon} {w}Я відчуваю, як він все більше розбухає всередині мене..."
+    r "Г-Господарю [name_form('voc')]!{image=corazon} {w}Я відчуваю, як він все більше розбухає всередині мене..."
 
 # game/game/ryoko_events.rpy:2447
 translate ukrainian ryoko_gal3_0d396252:
@@ -7731,7 +7731,7 @@ translate ukrainian ryoko_gal3_3778eedd:
 translate ukrainian ryoko_gal3_93297689:
 
     # r "Aahnm~{image=corazon}{image=corazon} {w}Mghngm~{image=corazon} {w}Master [mc]~{image=corazon}{image=corazon}"
-    r "{i}Аахнм~{/i}{image=corazon}{image=corazon} {w}{i}Мгхнгм~{/i}{image=corazon} {w}Господарю [mc]~{image=corazon}{image=corazon}"
+    r "{i}Аахнм~{/i}{image=corazon}{image=corazon} {w}{i}Мгхнгм~{/i}{image=corazon} {w}Господарю [name_form('voc')]~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2457
 translate ukrainian ryoko_gal3_afea0b48:
@@ -8253,7 +8253,7 @@ translate ukrainian ryoko_sex1_rep_bb8c3f2e:
 translate ukrainian ryoko_sex1_rep_587868a0:
 
     # r "Hehehe~{image=corazon} {w}I am all yours Master [mc]~{image=corazon}{image=corazon}"
-    r "Хехехе~{image=corazon} {w}Я цілком ваша, господарю [mc]~{image=corazon}{image=corazon}"
+    r "Хехехе~{image=corazon} {w}Я цілком ваша, господарю [name_form('voc')]~{image=corazon}{image=corazon}"
 
 # game/game/ryoko_events.rpy:2627
 translate ukrainian ryoko_sex1_rep_227e9dab:
@@ -8409,7 +8409,7 @@ translate ukrainian ryoko_sex1_rep_caa744fe:
 translate ukrainian ryoko_sex1_rep_3abe1ab1:
 
     # r "It's your fault M-Master [mc]...{image=corazon} {w} because I can tell you like me like this...{image=corazon} {image=corazon}"
-    r "Це ваша провина, господарю [mc]...{image=corazon} {w} адже я впевнена, вам подобається, коли я така...{image=corazon} {image=corazon}"
+    r "Це ваша провина, господарю [name_form('voc')]...{image=corazon} {w} адже я впевнена, вам подобається, коли я така...{image=corazon} {image=corazon}"
 
 # game/game/ryoko_events.rpy:2664
 translate ukrainian ryoko_sex1_rep_e5a8daa3:

@@ -51,7 +51,7 @@ translate ukrainian hana_talk_3fba56e7:
 translate ukrainian hana_talk_8edac5d5:
 
     # h "I can tell you're a good person, [mc]."
-    h "Одразу видно, що ти хороша людина, [mc]."
+    h "Одразу видно, що ти хороша людина, [name_form('voc')]."
 
 # game/game/hana_events.rpy:108
 translate ukrainian hana_talk_78153510:
@@ -297,7 +297,7 @@ translate ukrainian hana_talk_4ede8e9c:
 translate ukrainian hana_talk_314864ac:
 
     # h "[mc] might have rapid regeneration."
-    h "Мабуть, у [mc] прискорена регенерація."
+    h "Мабуть, у [name_form('gen')] прискорена регенерація."
 
 # game/game/hana_events.rpy:187
 translate ukrainian hana_talk_99126473:
@@ -339,7 +339,7 @@ translate ukrainian hana_talk_044b7416:
 translate ukrainian hana_talk_ddad5f46:
 
     # h "Let me tell you a story, [mc]."
-    h "Дозволь мені розповісти тобі історію, [mc]."
+    h "Дозволь мені розповісти тобі історію, [name_form('voc')]."
 
 # game/game/hana_events.rpy:201
 translate ukrainian hana_talk_3a34d891:
@@ -519,7 +519,7 @@ translate ukrainian hana_talk_9895039e:
 translate ukrainian hana_talk_f449d236:
 
     # s "{size=-8}{i}What are you hiding there, [mc]... let me see... {w}{sc=1}{outlinecolor=#000000}{size=-8}snoring*"
-    s "{size=-8}{i}Що ти там ховаєш, [mc]... покажи-но... {w}{sc=1}{outlinecolor=#000000}{size=-8}{i}*хрррр*{/i}"
+    s "{size=-8}{i}Що ти там ховаєш, [name_form('voc')]... покажи-но... {w}{sc=1}{outlinecolor=#000000}{size=-8}{i}*хрррр*{/i}"
 
 # game/game/hana_events.rpy:264
 translate ukrainian hana_talk_a20cefa7:
@@ -597,7 +597,7 @@ translate ukrainian hana_talk_aad90868:
 translate ukrainian hana_talk_fe7e2a89:
 
     # h "Just accept it, [mc]."
-    h "Варто просто прийняти подяку, [mc]."
+    h "Варто просто прийняти подяку, [name_form('voc')]."
 
 # game/game/hana_events.rpy:289
 translate ukrainian hana_talk_18a46e22:
@@ -1107,7 +1107,7 @@ translate ukrainian hana_first_talk_1212df99:
 translate ukrainian hana_first_talk_71fbd49d:
 
     # h "Bye bye [mc]~."
-    h "Бувай, [mc]~."
+    h "Бувай, [name_form('voc')]~."
 
 # game/game/hana_events.rpy:473
 translate ukrainian hana_first_talk_658e5639:
@@ -1293,7 +1293,7 @@ translate ukrainian hana_event_2_44f3b1b9:
 translate ukrainian hana_event_2_037b3356:
 
     # h "{size=-10}[mc]? {w}I'm in the garden!"
-    h "{size=-10}[mc]? {w}Я у саду!"
+    h "{size=-10}[name_form('voc')]? {w}Я у саду!"
 
 # game/game/hana_events.rpy:551
 translate ukrainian hana_event_2_d7bbd93a:
@@ -1437,7 +1437,7 @@ translate ukrainian hana_event_2_b49923d0:
 translate ukrainian hana_event_2_0f23e884:
 
     # h "[mc], {w}will you stop your monologue and open your eyes?"
-    h "[mc], {w}не бажаєш припинити свій монолог і розплющити очі?"
+    h "[name_form('voc')], {w}не бажаєш припинити свій монолог і розплющити очі?"
 
 # game/game/hana_events.rpy:599
 translate ukrainian hana_event_2_264c7c7f:
@@ -1815,7 +1815,7 @@ translate ukrainian hana_event_2_c76e36d4:
 translate ukrainian hana_event_2_9fcc39cc:
 
     # h "[mc] wait..."
-    h "[mc], стій..."
+    h "[name_form('voc')], стій..."
 
 # game/game/hana_events.rpy:704
 translate ukrainian hana_event_2_f996b655:
@@ -1851,7 +1851,7 @@ translate ukrainian hana_event_2_2b35b6fe:
 translate ukrainian hana_gal1_7a2af95b:
 
     # h "[mc]?"
-    h "[mc]?"
+    h "[name_form('voc')]?"
 
 # game/game/hana_events.rpy:718
 translate ukrainian hana_gal1_95adbb5d:
@@ -1881,7 +1881,7 @@ translate ukrainian hana_gal1_68433f68:
 translate ukrainian hana_gal1_7a2af95b_1:
 
     # h "[mc]?"
-    h "[mc]?"
+    h "[name_form('voc')]?"
 
 # game/game/hana_events.rpy:727
 translate ukrainian hana_gal1_566ef481:
@@ -2097,7 +2097,7 @@ translate ukrainian hana_gal1_fa6d1681:
 translate ukrainian hana_gal1_af909fd5:
 
     # h "Show me [mc]."
-    h "Покажи мені, [mc]."
+    h "Покажи мені, [name_form('voc')]."
 
 # game/game/hana_events.rpy:816
 translate ukrainian hana_gal1_ff98a381:
@@ -2205,7 +2205,7 @@ translate ukrainian hana_gal1_bd440913:
 translate ukrainian hana_gal1_8b955c23:
 
     # h "{size=-10}[mc]!"
-    h "{size=-10}[mc]!"
+    h "{size=-10}[name_form('voc')]!"
 
 # game/game/hana_events.rpy:857
 translate ukrainian hana_gal1_046b5dd3:
@@ -2361,7 +2361,7 @@ translate ukrainian hana_gal1_8bea2aba:
 translate ukrainian hana_gal1_8e82eda0:
 
     # h "Okay~ {w}See you later [mc]~{image=/bg/icons/heart_text.png}"
-    h "Гаразд~ {w}Побачимося, [mc]~{image=/bg/icons/heart_text.png}"
+    h "Гаразд~ {w}Побачимося, [name_form('voc')]~{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:908
 translate ukrainian hana_gal1_888ca5fc:
@@ -2379,7 +2379,7 @@ translate ukrainian hana_gal1_658e5639:
 translate ukrainian hana_blowjob_438a9079:
 
     # h "Oh, Hey [mc]."
-    h "О, привіт, [mc]."
+    h "О, привіт, [name_form('voc')]."
 
 # game/game/hana_events.rpy:940
 translate ukrainian hana_blowjob_623c1c05:
@@ -2415,7 +2415,7 @@ translate ukrainian hana_blowjob_2e1ddeeb:
 translate ukrainian hana_blowjob_52182120:
 
     # h "Have a nice day [mc]~{image=corazon}"
-    h "Гарного тобі дня, [mc]~{image=corazon}"
+    h "Гарного тобі дня, [name_form('voc')]~{image=corazon}"
 
 # game/game/hana_events.rpy:983
 translate ukrainian hana_potion_blow_8203253c:
@@ -2715,7 +2715,7 @@ translate ukrainian hana_potion_blow_a4b75a4d:
 translate ukrainian hana_potion_blow_2722cae9:
 
     # mc "My FUCKING god.."
-    mc "Оце так ЇБАНУТИСЯ.."
+    mc "Оце так ЇБАНУТИСЯ..."
 
 # game/game/hana_events.rpy:1060
 translate ukrainian hana_potion_blow_97c7d575:
@@ -2733,7 +2733,7 @@ translate ukrainian hana_potion_blow_c09288ae:
 translate ukrainian hana_potion_blow_c3fd9c22:
 
     # h "[mc]."
-    h "[mc]."
+    h "[name_form('voc')]."
 
 # game/game/hana_events.rpy:1065
 translate ukrainian hana_potion_blow_f3858005:
@@ -2877,7 +2877,7 @@ translate ukrainian hana_hevent_2_2fded262:
 translate ukrainian hana_hevent_2_131e1034:
 
     # h "{size=-10}[mc]...?"
-    h "{size=-10}[mc]...?"
+    h "{size=-10}[name_form('voc')]...?"
 
 # game/game/hana_events.rpy:1150
 translate ukrainian hana_hevent_2_9c31ec99:
@@ -2919,7 +2919,7 @@ translate ukrainian hana_hevent_2_1bb01731:
 translate ukrainian hana_hevent_2_96ace539:
 
     # h "[mc] are you ok?"
-    h "[mc], все гаразд?"
+    h "[name_form('voc')], все гаразд?"
 
 # game/game/hana_events.rpy:1160
 translate ukrainian hana_hevent_2_95ccf58e:

@@ -183,7 +183,7 @@ translate ukrainian tomoe_event_1_edb73539:
 translate ukrainian tomoe_event_1_89b7582b:
 
     # mc "A pleasure Tomoe, my name is [mc]."
-    mc "Радий знайомству, Томое. Мене звати [mc]."
+    mc "Радий знайомству, Томое. Мене звати [name_form('nom')]."
 
 # game/game/tomoe_events.rpy:78
 translate ukrainian tomoe_event_1_8106aa14:
@@ -405,7 +405,7 @@ translate ukrainian tomoe_event_1_7421dcf4:
 translate ukrainian shop_interface_1238a666:
 
     # to "Welcome [mc]!"
-    to "Ласкаво прошу, [mc]!"
+    to "Ласкаво прошу, [name_form('voc')]!"
 
 # game/game/tomoe_events.rpy:608
 translate ukrainian no_enough_765f9cf6:
@@ -1095,7 +1095,7 @@ translate ukrainian tomoe_eventuno_a03df87e:
 translate ukrainian tomoe_eventuno_1270f65f:
 
     # s "[mc]?! {w}What are you doing here?"
-    s "[mc]?! {w}Що ти тут робиш?"
+    s "[name_form('voc')]?! {w}Що ти тут робиш?"
 
 # game/game/tomoe_events.rpy:835
 translate ukrainian tomoe_eventuno_423f5394:
@@ -1197,7 +1197,7 @@ translate ukrainian tomoe_eventuno_1809a37b:
 translate ukrainian tomoe_eventuno_3d7b891a:
 
     # s "[mc] is very kind!"
-    s "[mc] такий добрий!"
+    s "[name_form('nom')] такий добрий!"
 
 # game/game/tomoe_events.rpy:858
 translate ukrainian tomoe_eventuno_c2552f25:
@@ -1425,7 +1425,7 @@ translate ukrainian tomoe_eventuno_8a1ac70e:
 translate ukrainian tomoe_eventuno_d1d85417:
 
     # s "ByeBye [mc]!~~"
-    s "Бувай, [mc]!~~"
+    s "Бувай, [name_form('voc')]!~~"
 
 # game/game/tomoe_events.rpy:918
 translate ukrainian tomoe_eventuno_1f3f01c1:

@@ -189,7 +189,7 @@ translate ukrainian first_forest_event_3ea6b08d:
 translate ukrainian first_forest_event_4735c1ba:
 
     # r "Master [mc]... {w}hehehe~{image=/bg/icons/heart_text.png}"
-    r "Господарю, [mc]... {w}хехехе~{image=/bg/icons/heart_text.png}"
+    r "Господарю [name_form('voc')]... {w}хехехе~{image=/bg/icons/heart_text.png}"
 
 # game/game/map_GW.rpy:105
 translate ukrainian first_forest_event_4b72c907:
@@ -957,7 +957,7 @@ translate ukrainian first_forest_event_3f4b91a4:
 translate ukrainian first_forest_event_18c6c47c:
 
     # r "{size=-10} [mc]...?"
-    r "{size=-10} [mc]...?"
+    r "{size=-10} [name_form('voc')]...?"
 
 # game/game/map_GW.rpy:339
 translate ukrainian first_forest_event_6355db99:
@@ -1035,13 +1035,13 @@ translate ukrainian first_forest_event_3c807e4c:
 translate ukrainian first_forest_event_24522e47:
 
     # h "{size=+15}Oh [mc]! {w}You're just in time!"
-    h "{size=+15}О, [mc]! {w}Як раз вчасно!"
+    h "{size=+15}О, [name_form('nom')]! {w}Як раз вчасно!"
 
 # game/game/map_GW.rpy:368
 translate ukrainian first_forest_event_bd8739a3:
 
     # ak "[mc]?"
-    ak "[mc]?"
+    ak "[name_form('nom')]?"
 
 # game/game/map_GW.rpy:370
 translate ukrainian first_forest_event_917f9a9c:

@@ -1708,7 +1708,7 @@ translate ukrainian mayu_gal1_29f35669:
 translate ukrainian mayu_gal1_75dd6e3e:
 
     # ma "[mc]...?"
-    ma "[mc]...?"
+    ma "[name_form('voc')]...?"
 
 # game/game/mayu_events.rpy:1277
 translate ukrainian mayu_gal1_96e60ebb:
@@ -1762,7 +1762,7 @@ translate ukrainian mayu_gal1_4946cb55:
 translate ukrainian mayu_gal1_48c2d0a1:
 
     # ma "[mc], I know you're in there."
-    ma "[mc], знаю, що ти ще там."
+    ma "[name_form('voc')], я знаю, що ти ще там."
 
 # game/game/mayu_events.rpy:1291
 translate ukrainian mayu_gal1_42740593:

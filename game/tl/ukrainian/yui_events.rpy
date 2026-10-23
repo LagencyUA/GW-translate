@@ -405,7 +405,7 @@ translate ukrainian yui_first_meet_d975cfcf:
 translate ukrainian yui_first_meet_055c4f14:
 
     # mc "My name is [mc], and..."
-    mc "Мене звати [mc], і..."
+    mc "Мене звати [name_form('nom')], і..."
 
 # game/game/yui_events.rpy:264
 translate ukrainian yui_first_meet_c2e35a55:
@@ -723,13 +723,13 @@ translate ukrainian yui_first_meet_82203030:
 translate ukrainian yui_first_meet_35e3bc58:
 
     # y "Bye Bye, [mc]."
-    y "Бувай, [mc]."
+    y "Бувай, [name_form('voc')]."
 
 # game/game/yui_events.rpy:376
 translate ukrainian yui_talk_1_74733763:
 
     # y "Hey [mc]! How did it go?"
-    y "О, [mc]! Як все пройшло?"
+    y "О, [name_form('voc')]! Як все пройшло?"
 
 # game/game/yui_events.rpy:377
 translate ukrainian yui_talk_1_f6d2c0c5:
@@ -891,7 +891,7 @@ translate ukrainian yui_event_1_25c4eed1:
 translate ukrainian yui_event_1_c79108bf:
 
     # y "[mc]!"
-    y "[mc]!"
+    y "[name_form('voc')]!"
 
 # game/game/yui_events.rpy:431
 translate ukrainian yui_event_1_1e4e085a:
@@ -963,7 +963,7 @@ translate ukrainian yui_fight_pratice_26c873d0:
 translate ukrainian yui_fight_pratice_8de2ea34:
 
     # y "Is that you [mc]?"
-    y "Це ти, [mc]?"
+    y "Це ти, [name_form('voc')]?"
 
 # game/game/yui_events.rpy:465
 translate ukrainian yui_fight_pratice_1f808152:
@@ -1665,7 +1665,7 @@ translate ukrainian yui_fight_pratice_75768c8f:
 translate ukrainian yui_fight_pratice_237c379b:
 
     # y "{size=+7}[mc] I-Idiot!"
-    y "{size=+7}[mc], д-дурко!"
+    y "{size=+7}[name_form('voc')], д-дурко!"
 
 # game/game/yui_events.rpy:664
 translate ukrainian yui_fight_pratice_bf20fc9f:
@@ -1839,7 +1839,7 @@ translate ukrainian yui_fight_pratice_058c07b3:
 translate ukrainian yui_fight_pratice_3610c438:
 
     # ak "{size=-10}{i}Mmm Hana called him... {w}[mc]..."
-    ak "{size=-10}{i}Ммм, Хана, наче, звала його... {w}[mc]..."
+    ak "{size=-10}{i}Ммм, Хана, наче, звала його... {w}[name_form('ins')]..."
 
 # game/game/yui_events.rpy:706
 translate ukrainian yui_fight_pratice_eb686392:
@@ -2061,7 +2061,7 @@ translate ukrainian yui_start_fight_7f7cc56b:
 translate ukrainian yui_start_fight_049333a8:
 
     # y "[mc]?"
-    y "[mc]?"
+    y "[name_form('voc')]?"
 
 # game/game/yui_events.rpy:824
 translate ukrainian yui_start_fight_9d1d9c57:
@@ -2733,7 +2733,7 @@ translate ukrainian yui_gal1_5ad3bec3:
 translate ukrainian yui_gal1_b406b450:
 
     # y "[mc] i-di-ot~~"
-    y "[mc], дур-ни-ку~~"
+    y "[name_form('voc')], дур-ни-ку~~"
 
 # game/game/yui_events.rpy:1027
 translate ukrainian yui_gal1_d1aa2fbe:
@@ -3135,7 +3135,7 @@ translate ukrainian yui_gal1_c378f7e5:
 translate ukrainian yui_menu_lust_5b78ae15:
 
     # y "Hey [mc]."
-    y "Привіт, [mc]."
+    y "Привіт, [name_form('voc')]."
 
 # game/game/yui_events.rpy:1178
 translate ukrainian yui_menu_lust_bddd5368:
@@ -3411,7 +3411,7 @@ translate ukrainian yui_boobjob_44a5d07c:
 translate ukrainian yui_boobjob_7115902d:
 
     # y "[mc] i{w}di{w}ot."
-    y "[mc], дур{w}ни{w}ку."
+    y "[name_form('voc')], дур{w}ни{w}ку."
 
 # game/game/yui_events.rpy:1271
 translate ukrainian yui_boobjob_de4d40ad:
@@ -4035,7 +4035,7 @@ translate ukrainian yui_store_mision_cf28ad84:
 translate ukrainian yui_store_mision_a2f80bb9:
 
     # y "{size=-8}Hey... {w}[mc]..."
-    y "{size=-8}Агов... {w}[mc]..."
+    y "{size=-8}Агов... {w}[name_form('voc')]..."
 
 # game/game/yui_events.rpy:1459
 translate ukrainian yui_store_mision_1bb01731_1:
@@ -4047,7 +4047,7 @@ translate ukrainian yui_store_mision_1bb01731_1:
 translate ukrainian yui_store_mision_02fce4e5:
 
     # y "[mc]??"
-    y "[mc]??"
+    y "[name_form('voc')]??"
 
 # game/game/yui_events.rpy:1467
 translate ukrainian yui_store_mision_957a6102:
@@ -4317,7 +4317,7 @@ translate ukrainian yui_store_mision_a81f15ad:
 translate ukrainian yui_gal2_e91497af:
 
     # y "[mc]..."
-    y "[mc]..."
+    y "[name_form('voc')]..."
 
 # game/game/yui_events.rpy:1538
 translate ukrainian yui_gal2_2fe3c6f5:
@@ -4677,7 +4677,7 @@ translate ukrainian yui_gal2_d1aa2fbe_1:
 translate ukrainian yui_gal2_66c3d193:
 
     # y "A-Ah? [mc]...?"
-    y "А-Ах? [mc]...?"
+    y "А-Ах? [name_form('voc')]...?"
 
 # game/game/yui_events.rpy:1607
 translate ukrainian yui_gal2_52fbf523:
@@ -4947,7 +4947,7 @@ translate ukrainian yui_gal2_a7a92e8f:
 translate ukrainian yui_gal2_4ce68417:
 
     # y "See you soon [mc]."
-    y "Помбачимося, [mc]."
+    y "Помбачимося, [name_form('voc')]."
 
 # game/game/yui_events.rpy:1688
 translate ukrainian yui_gal2_7d7d9d95:
@@ -5025,7 +5025,7 @@ translate ukrainian yui_thighjob_rep_9d83a8e2:
 translate ukrainian yui_thighjob_rep_071c3b63:
 
     # y "H-Hey [mc]!"
-    y "П-Привіт, [mc]!"
+    y "П-Привіт, [name_form('voc')]!"
 
 # game/game/yui_events.rpy:1727
 translate ukrainian yui_thighjob_rep_7a925014:
@@ -5295,7 +5295,7 @@ translate ukrainian yui_thighjob_rep_ca0c9643:
 translate ukrainian yui_thighjob_rep_10b26a08:
 
     # y "[mc] If you move faster...{image=corazon}{image=corazon}"
-    y "[mc], якщо рухатимешся ще швидше...{image=corazon}{image=corazon}"
+    y "[name_form('voc')], якщо рухатимешся ще швидше...{image=corazon}{image=corazon}"
 
 # game/game/yui_events.rpy:1786
 translate ukrainian yui_thighjob_rep_8e3d9b1e:
@@ -5571,7 +5571,7 @@ translate ukrainian yui_katana_task_ac42e134:
 translate ukrainian yui_katana_task_3ec66a97:
 
     # t "Don't take that to mean anything else [mc]."
-    t "Не смій шукати тут інший сенс, [mc]."
+    t "Не смій шукати тут інший сенс, [name_form('voc')]."
 
 # game/game/yui_events.rpy:1876
 translate ukrainian yui_katana_task_b924df2f:
@@ -6081,7 +6081,7 @@ translate ukrainian yui_h_event_8b72ec0c:
 translate ukrainian yui_h_event_243ec5c9:
 
     # h "{size=-8}Y- you s--m cl- to [mc]."
-    h "{size=-8}Юї, т- так- бл---ка з [mc]."
+    h "{size=-8}Юї, т- так- бл---ка з [name_form('ins')]."
 
 # game/game/yui_events.rpy:2075
 translate ukrainian yui_h_event_985bd9ee:
@@ -6183,7 +6183,7 @@ translate ukrainian yui_h_event_c9b2616c:
 translate ukrainian yui_h_event_367fc93d:
 
     # h "Oh [mc], {w}I didn't see you there!"
-    h "О, [mc]! {w}Привіт, я тебе не помітила!"
+    h "О, [name_form('voc')]! {w}Привіт, я тебе не помітила!"
 
 # game/game/yui_events.rpy:2097
 translate ukrainian yui_h_event_d588dadb:
@@ -6369,7 +6369,7 @@ translate ukrainian yui_h_event_1f5b224d:
 translate ukrainian yui_h_event_2c95b7f5:
 
     # y "{size=-6}[mc]..."
-    y "{size=-6}[mc]..."
+    y "{size=-6}[name_form('voc')]..."
 
 # game/game/yui_events.rpy:2140
 translate ukrainian yui_h_event_9f814967:
@@ -6681,7 +6681,7 @@ translate ukrainian yui_h_mission2_211299e2:
 translate ukrainian yui_h_mission2_584f1c56:
 
     # y "I'll explain everything once I'm done talking to [mc]."
-    y "Я все поясню після того, як обговоримо дещо з [mc]."
+    y "Я все поясню після того, як обговоримо дещо з [name_form('ins')]."
 
 # game/game/yui_events.rpy:2223
 translate ukrainian yui_h_mission2_45b327db:
@@ -6699,7 +6699,7 @@ translate ukrainian yui_h_mission2_a5cd1188:
 translate ukrainian yui_h_mission2_bb867711:
 
     # y "Let's talk inside, [mc]."
-    y "Поговоримо всередині, [mc]."
+    y "Поговоримо всередині, [name_form('voc')]."
 
 # game/game/yui_events.rpy:2226
 translate ukrainian yui_h_mission2_a49ed4f8:

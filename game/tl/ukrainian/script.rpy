@@ -3,7 +3,7 @@
 translate ukrainian start_a55bd194:
 
     # mc "{i}{size=-6}Why wouldn't I? {w}My name is... [mc]."
-    mc "{i}{size=-6}Чого б це ні? {w}Мене звати... [mc]."
+    mc "{i}{size=-6}Чого б це ні? {w}Мене звати... [name_form('nom')]."
 
 # game/game/script.rpy:73
 translate ukrainian start_2b35b6fe:
@@ -45,7 +45,7 @@ translate ukrainian start_094d8640:
 translate ukrainian start_907c90a4:
 
     # audi "You can do it [mc]!"
-    audi "Ти зможеш, [mc]!"
+    audi "Ти зможеш, [name_form('voc')]!"
 
 # game/game/script.rpy:93
 translate ukrainian start_3f871f46:
@@ -105,7 +105,7 @@ translate ukrainian start_d495ee2b:
 translate ukrainian start_079a2207:
 
     # audi "{i}{size=-6}[mc] has a tough opponent..."
-    audi "{i}{size=-6}[mc] має грізного суперника..."
+    audi "{i}{size=-6}[name_form('nom')] має грізного суперника..."
 
 # game/game/script.rpy:115
 translate ukrainian start_0d2139a9:
@@ -357,7 +357,7 @@ translate ukrainian start_05ac7043:
 translate ukrainian start_878e0b1e:
 
     # "{color=#A2A9C9}[mc]! You were awesome!"
-    "{color=#A2A9C9}[mc]! Ти був неймовірним!"
+    "{color=#A2A9C9}[name_form('voc')]! Ти був неймовірним!"
 
 # game/game/script.rpy:222
 translate ukrainian start_03fb3e88:
@@ -1647,7 +1647,7 @@ translate ukrainian choice4_a8339026:
 translate ukrainian choice4_162aced7:
 
     # k "Glad to hear that [mc]."
-    k "Рада це чути, [mc]."
+    k "Рада це чути, [name_form('voc')]."
 
 # game/game/script.rpy:596
 translate ukrainian choice4_2924f301:
@@ -1779,7 +1779,7 @@ translate ukrainian choice4_03ff68bf:
 translate ukrainian choice4_a8257873:
 
     # mc "I'm [mc]."
-    mc "Я [mc]."
+    mc "Я [name_form('nom')]."
 
 # game/game/script.rpy:633
 translate ukrainian choice4_54f8e219:
@@ -2799,7 +2799,7 @@ translate ukrainian set_fire_e4e93437:
 translate ukrainian set_fire_684bf0a1:
 
     # t "Well done, past [mc]."
-    t "Молодець, минулий [mc]."
+    t "Молодець, минулий [name_form('nom')]."
 
 # game/game/script.rpy:942
 translate ukrainian set_fire_8392086d:
@@ -2823,7 +2823,7 @@ translate ukrainian set_fire_36a527e6:
 translate ukrainian set_fire_4517a425:
 
     # t "One small step for man, one giant leap for [mc]."
-    t "Один маленький крок для людини, й величезний стрибок для [mc]."
+    t "Один маленький крок для людини, й величезний стрибок для [name_form('acc')]."
 
 # game/game/script.rpy:951
 translate ukrainian set_fire_2b35b6fe:
@@ -3651,7 +3651,7 @@ translate ukrainian set_fire_841e49cc:
 translate ukrainian set_fire_f745bf93:
 
     # mc "I'm [mc], {w}nice to meet you."
-    mc "Я [mc], {w}приємно познайомитися."
+    mc "Я [name_form('nom')], {w}приємно познайомитися."
 
 # game/game/script.rpy:1233
 translate ukrainian set_fire_dac1fa99:
@@ -5019,7 +5019,7 @@ translate ukrainian go_c917deff:
 translate ukrainian go_0e0a7592:
 
     # t "Okay, focus [mc]. You've been through worse."
-    t "Гаразд, зосередься, [mc]. Ти проходив і через гірше."
+    t "Гаразд, зосередься, [name_form('voc')]. Ти проходив і через гірше."
 
 # game/game/script.rpy:1616
 translate ukrainian go_931041e8:
@@ -5133,7 +5133,7 @@ translate ukrainian go_5b1e3b08:
 translate ukrainian go_8e7a979e:
 
     # r "{sc=2}{outlinecolor=#000000}M-Master [mc]!"
-    r "{sc=2}{outlinecolor=#000000}Г-Господарю [mc]!"
+    r "{sc=2}{outlinecolor=#000000}Г-Господарю [name_form('voc')]!"
 
 # game/game/script.rpy:1666
 translate ukrainian go_13403a9b:
@@ -5415,7 +5415,7 @@ translate ukrainian go_44792762:
 translate ukrainian go_6bc72e29:
 
     # r "{sc=2}{outlinecolor=#000000}Master [mc]!"
-    r "{sc=2}{outlinecolor=#000000}Госопдарю [mc]!"
+    r "{sc=2}{outlinecolor=#000000}Госопдарю [name_form('voc')]!"
 
 # game/game/script.rpy:1778
 translate ukrainian go_99552732:
@@ -5505,7 +5505,7 @@ translate ukrainian go_9e2b0b98:
 translate ukrainian go_fcdeab6d:
 
     # k "[mc]~"
-    k "[mc]~"
+    k "[name_form('voc')]~"
 
 # game/game/script.rpy:1804
 translate ukrainian go_830b59cd:
@@ -6009,7 +6009,7 @@ translate ukrainian keiko_gal1_ce9aaafe:
 translate ukrainian keiko_gal1_98071568:
 
     # k "Do you not like this? {w}Or is it that you don't like me being this close to you, [mc]?"
-    k "Тобі це не подобається? {w}Чи тобі не подобаюся я, яка сідає поруч із тобою, [mc]?"
+    k "Тобі це не подобається? {w}Чи тобі не подобаюся я, яка сідає поруч із тобою, [name_form('voc')]?"
 
 # game/game/script.rpy:1928
 translate ukrainian keiko_gal1_c2a15ae1:
@@ -6117,7 +6117,7 @@ translate ukrainian keiko_gal1_c2b9828c:
 translate ukrainian keiko_gal1_367fa2e6:
 
     # k "You know, [mc]... love between goddesses and mortals is forbidden..."
-    k "Знаєш, [mc]... кохання між богинею та смертним під забороною..."
+    k "Знаєш, [name_form('voc')]... кохання між богинею та смертним під забороною..."
 
 # game/game/script.rpy:1953
 translate ukrainian keiko_gal1_513464dd:
@@ -6231,7 +6231,7 @@ translate ukrainian keiko_gal1_16bc3a76:
 translate ukrainian keiko_gal1_611b95d8:
 
     # k "W-Why did you suddenly stop t-talking [mc]?"
-    k "Ч-Чому це ти раптом замовк, [mc]?"
+    k "Ч-Чому це ти раптом замовк, [name_form('voc')]?"
 
 # game/game/script.rpy:1992
 translate ukrainian keiko_gal1_e045a2c4:
@@ -6321,7 +6321,7 @@ translate ukrainian keiko_gal1_aa0cd6d7:
 translate ukrainian keiko_gal1_fc800b45:
 
     # k "Mmm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}{image=corazon}{image=corazon}"
-    k "Ммм~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}{image=corazon}{image=corazon}"
+    k "Ммм~~{image=corazon}{image=corazon} {w}[name_form('voc')]~{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/script.rpy:2021
 translate ukrainian keiko_gal1_a431bc84:
@@ -6837,7 +6837,7 @@ translate ukrainian keiko_gal1_b505c216:
 translate ukrainian keiko_gal1_119f7ce0:
 
     # k "{size=-9}We'll m--- again [mc]. I also need t- talk to Fum--."
-    k "{size=-9}Ще зуст----мось, [mc]. Я також муш- поговорити з Фум---."
+    k "{size=-9}Ще зуст----мось, [name_form('voc')]. Я також муш- поговорити з Фум---."
 
 # game/game/script.rpy:2192
 translate ukrainian keiko_gal1_4a288ed3:
@@ -6897,7 +6897,7 @@ translate ukrainian keiko_gal1_5159028c:
 translate ukrainian keiko_gal1_79bcef39:
 
     # r "Master [mc]!"
-    r "Гсподарю [mc]!"
+    r "Гсподарю [name_form('voc')]!"
 
 # game/game/script.rpy:2208
 translate ukrainian keiko_gal1_80854cfd:
@@ -7113,7 +7113,7 @@ translate ukrainian ryoko_encounter_b1926a30:
 translate ukrainian ryoko_encounter_f76fc5e8:
 
     # r "{size=-6}M-Master [mc]..."
-    r "{size=-6}Г-Господарю [mc]..."
+    r "{size=-6}Г-Господарю [name_form('voc')]..."
 
 # game/game/script.rpy:2270
 translate ukrainian ryoko_encounter_8a5dcd81:
@@ -7863,13 +7863,13 @@ translate ukrainian village_street_538cb09b:
 translate ukrainian village_street_a8257873:
 
     # mc "I'm [mc]."
-    mc "Я [mc]."
+    mc "Я [name_form('nom')]."
 
 # game/game/script.rpy:2548
 translate ukrainian village_street_8c749e64:
 
     # s "Nice to meet you, [mc]."
-    s "Рада знайомству, [mc]."
+    s "Рада знайомству, [name_form('voc')]."
 
 # game/game/script.rpy:2550
 translate ukrainian village_street_c132e95b:
@@ -8769,7 +8769,7 @@ translate ukrainian expedicion_forest_66e90fce:
 translate ukrainian orc_losefight_c79108bf:
 
     # y "[mc]!"
-    y "[mc]!"
+    y "[name_form('voc')]!"
 
 # game/game/script.rpy:2891
 translate ukrainian orc_losefight_0cfba1f8:
@@ -9237,7 +9237,7 @@ translate ukrainian orcfight_start_ab2010fe:
 translate ukrainian orcfight_start_7cf0f5af:
 
     # r "[mc]!!"
-    r "[mc]!!"
+    r "[name_form('voc')]!!"
 
 # game/game/script.rpy:3129
 translate ukrainian orcfight_start_d14216c9:
@@ -9597,7 +9597,7 @@ translate ukrainian storage_rod_ca4e5eee:
 translate ukrainian storage_rod_acee4f45:
 
     # r "Y-yes.. {w}{size=-10}Master...{w}{size=-10}[mc]..."
-    r "Т-Так... {w}{size=-10}господарю...{w}{size=-5}[mc]..."
+    r "Т-Так... {w}{size=-10}господарю...{w}{size=-5}[name_form('voc')]..."
 
 # game/game/script.rpy:3252
 translate ukrainian storage_rod_ec60237f:
@@ -9957,7 +9957,7 @@ translate ukrainian wood_mission_c10a57fc:
 translate ukrainian wood_mission_6c686b04:
 
     # y "[mc]."
-    y "[mc]."
+    y "[name_form('voc')]."
 
 # game/game/script.rpy:3373
 translate ukrainian wood_mission_7c927b78:
@@ -10203,7 +10203,7 @@ translate ukrainian wood_mission_2b35b6fe_1:
 translate ukrainian wood_mission_049333a8:
 
     # y "[mc]?"
-    y "[mc]?"
+    y "[name_form('voc')]?"
 
 # game/game/script.rpy:3429
 translate ukrainian wood_mission_eede1145:
@@ -10473,7 +10473,7 @@ translate ukrainian mother_dream_2b35b6fe_1:
 translate ukrainian mother_dream_129ba0a0:
 
     # mom "What's wrong [mc]."
-    mom "Що таке, [mc]."
+    mom "Що таке, [name_form('voc')]."
 
 # game/game/script.rpy:3531
 translate ukrainian mother_dream_e0bfb76b:
