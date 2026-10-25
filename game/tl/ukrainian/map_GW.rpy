@@ -1035,7 +1035,7 @@ translate ukrainian first_forest_event_3c807e4c:
 translate ukrainian first_forest_event_24522e47:
 
     # h "{size=+15}Oh [mc]! {w}You're just in time!"
-    h "{size=+15}О, [name_form('nom')]! {w}Як раз вчасно!"
+    h "{size=+15}О, [name_form('nom')]! {w}Якраз вчасно!"
 
 # game/game/map_GW.rpy:368
 translate ukrainian first_forest_event_bd8739a3:

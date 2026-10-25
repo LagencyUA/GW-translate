@@ -1329,7 +1329,7 @@ translate ukrainian hana_event_2_80ab26d1:
 translate ukrainian hana_event_2_adabd813:
 
     # h "You arrived just in time."
-    h "Ти як раз вчасно."
+    h "Ти якраз вчасно."
 
 # game/game/hana_events.rpy:561
 translate ukrainian hana_event_2_db2c6600:
@@ -1725,7 +1725,7 @@ translate ukrainian hana_event_2_40fb41b8:
 translate ukrainian hana_event_2_8d264327:
 
     # h "I was going to ask you, but I didn't know when."
-    h "Як раз хотіла в тебе спитати, але не знала коли."
+    h "Якраз хотіла в тебе спитати, але не знала коли."
 
 # game/game/hana_events.rpy:673
 translate ukrainian hana_event_2_70074f0f:

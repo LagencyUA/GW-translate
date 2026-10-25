@@ -435,7 +435,7 @@ translate ukrainian shika_event_2_1655ad45:
 translate ukrainian shika_event_2_c7a577a7:
 
     # s "Oh Doctor, we were just talking about you."
-    s "О, Лікарко, ми як раз за вас говоримо."
+    s "О, Лікарко, ми якраз за вас говоримо."
 
 # game/game/shika_events.rpy:227
 translate ukrainian shika_event_2_760d4c3e:
@@ -7545,7 +7545,7 @@ translate ukrainian shika_eventdos_2c8e7b36_1:
 translate ukrainian shika_eventtres_abb51a24:
 
     # s "You're just in time!"
-    s "Ти як раз вчасно!"
+    s "Ти якраз вчасно!"
 
 # game/game/shika_events.rpy:2296
 translate ukrainian shika_eventtres_d799d29f:

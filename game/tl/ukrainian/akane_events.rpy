@@ -2247,7 +2247,7 @@ translate ukrainian akane_first_ech_a4fcb7ef:
 translate ukrainian akane_first_ech_cd9cf0e6:
 
     # mc "I've been thinking all day that I wanted you to bite my neck."
-    mc "Я, як раз, увесь день думав: «Як же я хочу, щоб Акане вкусила мене за шию»."
+    mc "Я якраз увесь день думав: «Як же я хочу, щоб Акане вкусила мене за шию»."
 
 # game/game/akane_events.rpy:791
 translate ukrainian akane_first_ech_b8421f33:

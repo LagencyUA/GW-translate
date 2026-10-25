@@ -2163,7 +2163,7 @@ translate ukrainian yui_start_fight_71a86863_1:
 translate ukrainian yui_start_fight_3ae57e5b:
 
     # v "{size=-10}“So they're already that close?"
-    v "{size=-10}То вони вже на стільки близькі?"
+    v "{size=-10}То вони вже настільки близькі?"
 
 # game/game/yui_events.rpy:851
 translate ukrainian yui_start_fight_70e00d01:
@@ -5769,7 +5769,7 @@ translate ukrainian headpat_yui_ae4abd1e:
 translate ukrainian training_doll_91a3c643:
 
     # y "You're just in ti-"
-    y "Ти як раз вчас-"
+    y "Ти якраз вчас-"
 
 # game/game/yui_events.rpy:1959
 translate ukrainian training_doll_23d62da8:
@@ -8529,7 +8529,7 @@ translate ukrainian yui_1_S_2b35b6fe_5:
 translate ukrainian yui_1_S_80d613d7:
 
     # t "I would've liked to meet someone that strong."
-    t "Хотів би я теж зустріти когось на стільки сильного."
+    t "Хотів би я теж зустріти когось настільки сильного."
 
 # game/game/yui_events.rpy:2781
 translate ukrainian yui_1_S_df67d2aa:
