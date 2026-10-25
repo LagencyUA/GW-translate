@@ -9723,7 +9723,7 @@ translate ukrainian shika_eventcuatro_2b35b6fe_5:
 translate ukrainian shika_eventcuatro_a464c6be:
 
     # t "So it's true that Shika told Hana about everything..."
-    t "Отже Шика справді розповідає Хані геть усе..."
+    t "Отже, Шика справді розповідає Хані геть усе..."
 
 # game/game/shika_events.rpy:2892
 translate ukrainian shika_eventcuatro_bcbc1b2f:
@@ -11127,7 +11127,7 @@ translate ukrainian shika_gal3_2a2f44d1:
 translate ukrainian shika_gal3_2e45565c:
 
     # s "I-I see.. {w}MHnm~~{image=/bg/icons/heart_text.png} s-so we have to have a lot of sex, don't we?"
-    s "Я-Ясно... {w}{i}МХнм~~{/i}{image=/bg/icons/heart_text.png} о-отже нам треба багато разів зайнятися сексом, так?"
+    s "Я-Ясно... {w}{i}МХнм~~{/i}{image=/bg/icons/heart_text.png} о-отже, нам треба багато разів зайнятися сексом, так?"
 
 # game/game/shika_events.rpy:3247
 translate ukrainian shika_gal3_83467aac:
