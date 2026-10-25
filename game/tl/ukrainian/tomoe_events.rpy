@@ -1491,13 +1491,13 @@ translate ukrainian tomoe_eventuno_7421dcf4:
 translate ukrainian tomoe_eventdos_a7883b8b:
 
     # t "I can see Tomoe moving around."
-    t "I can see Tomoe moving around."
+    t "Я бачу, що Томое кудись ходить."
 
 # game/game/tomoe_events.rpy:949
 translate ukrainian tomoe_eventdos_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Привіт."
 
 # game/game/tomoe_events.rpy:950
 translate ukrainian tomoe_eventdos_469f355c:
@@ -1509,133 +1509,133 @@ translate ukrainian tomoe_eventdos_469f355c:
 translate ukrainian tomoe_eventdos_e85bc565:
 
     # to "[mc]?"
-    to "[mc]?"
+    to "[name_form('voc')]?"
 
 # game/game/tomoe_events.rpy:953
 translate ukrainian tomoe_eventdos_644aa8f0:
 
     # to "You're really trying to go for a simple elf with nothing to offer."
-    to "You're really trying to go for a simple elf with nothing to offer."
+    to "Ти справді намагаєшся залицятися до звичайної ельфійки, якій і запропонувати тобі нічого?"
 
 # game/game/tomoe_events.rpy:954
 translate ukrainian tomoe_eventdos_9d89cde5:
 
     # mc "But you-"
-    mc "But you-"
+    mc "Але ти-"
 
 # game/game/tomoe_events.rpy:956
 translate ukrainian tomoe_eventdos_9e3d4af7:
 
     # to "I know you may have to satisfy that beast but you are exaggerating a bit."
-    to "I know you may have to satisfy that beast but you are exaggerating a bit."
+    to "Я розумію, що тобі, можливо, треба вгамувати того звіра, але ти щось трохи розійшовся."
 
 # game/game/tomoe_events.rpy:957
 translate ukrainian tomoe_eventdos_102aa7ae:
 
     # mc "W-What?"
-    mc "W-What?"
+    mc "Щ-Що?"
 
 # game/game/tomoe_events.rpy:959
 translate ukrainian tomoe_eventdos_dfc81ab6:
 
     # to "I'll let you know right away, {w}I'm not interesting at all."
-    to "I'll let you know right away, {w}I'm not interesting at all."
+    to "Скажу тобі одразу: {w}мене це зовсім не цікавить."
 
 # game/game/tomoe_events.rpy:961
 translate ukrainian tomoe_eventdos_c3863e01:
 
     # to "I only dedicate myself to attending the store and nothing else."
-    to "I only dedicate myself to attending the store and nothing else."
+    to "Я присвячую себе виключно роботі в крамничці й нічому іншому."
 
 # game/game/tomoe_events.rpy:962
 translate ukrainian tomoe_eventdos_56af8fac:
 
     # mc "But what you told me last time sounded very interesting."
-    mc "But what you told me last time sounded very interesting."
+    mc "Але ти мені розповіла дуже цікаву річ минулого разу."
 
 # game/game/tomoe_events.rpy:964
 translate ukrainian tomoe_eventdos_c97a520d:
 
     # to "So you're really coming after me too?"
-    to "So you're really coming after me too?"
+    to "Отже, ти справді поклав на мене теж своє око?"
 
 # game/game/tomoe_events.rpy:965
 translate ukrainian tomoe_eventdos_2ae4fbf4:
 
     # mc "But you told me to come another day!"
-    mc "But you told me to come another day!"
+    mc "Але ти сама мені сказала зайти іншим разом!"
 
 # game/game/tomoe_events.rpy:967
 translate ukrainian tomoe_eventdos_434301d5:
 
     # to "But I didn't think it would be so soon."
-    to "But I didn't think it would be so soon."
+    to "Але я не думала, що це відбудеться так швидко."
 
 # game/game/tomoe_events.rpy:969
 translate ukrainian tomoe_eventdos_c72bcff5:
 
     # to "Now if you tell me you were coming to sell something, {w}I might believe you."
-    to "Now if you tell me you were coming to sell something, {w}I might believe you."
+    to "Якщо зараз скажеш, що прийшов щось продати, {w}можливо, я тобі повірю."
 
 # game/game/tomoe_events.rpy:970
 translate ukrainian tomoe_eventdos_7d8b8a64:
 
     # mc "I came to sel-"
-    mc "I came to sel-"
+    mc "Я прийшов прод-"
 
 # game/game/tomoe_events.rpy:972
 translate ukrainian tomoe_eventdos_bbe6cf70:
 
     # to "I don't believe you."
-    to "I don't believe you."
+    to "Я тобі не вірю."
 
 # game/game/tomoe_events.rpy:973
 translate ukrainian tomoe_eventdos_63d2705e:
 
     # mc "At least let me finish!"
-    mc "At least let me finish!"
+    mc "Дозволь хоча б закінчити!"
 
 # game/game/tomoe_events.rpy:975
 translate ukrainian tomoe_eventdos_d422671a:
 
     # to "Hahaha, {w}have humans always been so funny?"
-    to "Hahaha, {w}have humans always been so funny?"
+    to "Хахаха, {w}люди завжди були такі кумедні?"
 
 # game/game/tomoe_events.rpy:976
 translate ukrainian tomoe_eventdos_87f48728:
 
     # mc "Give me a break..."
-    mc "Give me a break..."
+    mc "Та годі вже..."
 
 # game/game/tomoe_events.rpy:978
 translate ukrainian tomoe_eventdos_e2c0567b:
 
     # to "Carrot?"
-    to "Carrot?"
+    to "Морквину?"
 
 # game/game/tomoe_events.rpy:979
 translate ukrainian tomoe_eventdos_af9cec53:
 
     # mc "N-No thanks..."
-    mc "N-No thanks..."
+    mc "Н-Ні, дякую..."
 
 # game/game/tomoe_events.rpy:981
 translate ukrainian tomoe_eventdos_59ef391a:
 
     # to "Oh well, {w}I was going to give you a little discount."
-    to "Oh well, {w}I was going to give you a little discount."
+    to "О, шкода, {w}а я якраз хотіла дати тобі невеличку знижку."
 
 # game/game/tomoe_events.rpy:982
 translate ukrainian tomoe_eventdos_4b63139e:
 
     # mc "And you were going to sell it to me..."
-    mc "And you were going to sell it to me..."
+    mc "Так ти ще й хотіла продати її мені..."
 
 # game/game/tomoe_events.rpy:984
 translate ukrainian tomoe_eventdos_89165bec:
 
     # to "Of course, {w}this is a store."
-    to "Of course, {w}this is a store."
+    to "Ну звісно, {w}це ж крамничка."
 
 # game/game/tomoe_events.rpy:985
 translate ukrainian tomoe_eventdos_2b35b6fe:
@@ -1647,85 +1647,85 @@ translate ukrainian tomoe_eventdos_2b35b6fe:
 translate ukrainian tomoe_eventdos_eb87c05f:
 
     # t "Now that I see her out from behind the counter..."
-    t "Now that I see her out from behind the counter..."
+    t "Тепер, коли я бачу її поза прилавком..."
 
 # game/game/tomoe_events.rpy:989
 translate ukrainian tomoe_eventdos_eef1c3ee:
 
     # t "It's a little strange to see her out here..."
-    t "It's a little strange to see her out here..."
+    t "Трохи дивно, коли вона сидить прямо тут..."
 
 # game/game/tomoe_events.rpy:991
 translate ukrainian tomoe_eventdos_5cec1424:
 
     # to "Sigh*"
-    to "Sigh*"
+    to "{i}*Хааах*{/i}"
 
 # game/game/tomoe_events.rpy:992
 translate ukrainian tomoe_eventdos_a48ba535:
 
     # to "I knew it, {w}you've come for my body."
-    to "I knew it, {w}you've come for my body."
+    to "Я так і знала, {w}ти прийшов за моїм тілом."
 
 # game/game/tomoe_events.rpy:993
 translate ukrainian tomoe_eventdos_d48a5631:
 
     # mc "What?!"
-    mc "What?!"
+    mc "Шо?!"
 
 # game/game/tomoe_events.rpy:994
 translate ukrainian tomoe_eventdos_2cbdb707:
 
     # mc "I was just thinking that-"
-    mc "I was just thinking that-"
+    mc "Я лише думав про-"
 
 # game/game/tomoe_events.rpy:996
 translate ukrainian tomoe_eventdos_8f02d007:
 
     # to "You are lying."
-    to "You are lying."
+    to "Брехун."
 
 # game/game/tomoe_events.rpy:997
 translate ukrainian tomoe_eventdos_a0da55f5:
 
     # mc "Let me finish!"
-    mc "Let me finish!"
+    mc "Дозволь закінчити!"
 
 # game/game/tomoe_events.rpy:999
 translate ukrainian tomoe_eventdos_73538e8b:
 
     # to "Look [mc]."
-    to "Look [mc]."
+    to "Послухай, [name_form('voc')]."
 
 # game/game/tomoe_events.rpy:1000
 translate ukrainian tomoe_eventdos_5639d47f:
 
     # to "A person running a business has to know how much she stands to gain or lose."
-    to "A person running a business has to know how much she stands to gain or lose."
+    to "Людина, яка веде бізнес, повинна знати, скільки вона може заробити або втратити."
 
 # game/game/tomoe_events.rpy:1002
 translate ukrainian tomoe_eventdos_c2fc4fef:
 
     # to "And reading people's expressions becomes a habit over time."
-    to "And reading people's expressions becomes a habit over time."
+    to "Із часом вміння розпізнавати вирази обличчя людей стає звичкою."
 
 # game/game/tomoe_events.rpy:1003
 translate ukrainian tomoe_eventdos_93186770:
 
     # to "I only need to see your eyes or your grimaces and I can already tell if the deal is bad."
-    to "I only need to see your eyes or your grimaces and I can already tell if the deal is bad."
+    to "Мені достатньо лише поглянути на твої очі чи твою мімку, щоб одразу зрозуміти, чи вигідна ця угода."
 
 # game/game/tomoe_events.rpy:1004
 translate ukrainian tomoe_eventdos_37babc6f:
 
     # mc "But we are not making any deals..."
-    mc "But we are not making any deals..."
+    mc "Але ми наче не вкладаємо жодних угод..."
 
 # game/game/tomoe_events.rpy:1006
 translate ukrainian tomoe_eventdos_93aaa066:
 
     # to "It was just an example, it's also useful to read people who approach you with other intentions."
-    to "It was just an example, it's also useful to read people who approach you with other intentions."
+    to "Це лише приклад. Ці вміння також корисні, щоб прочитати людей, які підходять до тебе з прихованими намірами."
 
 # game/game/tomoe_events.rpy:1007
 translate ukrainian tomoe_eventdos_2b35b6fe_1:
@@ -1737,13 +1737,13 @@ translate ukrainian tomoe_eventdos_2b35b6fe_1:
 translate ukrainian tomoe_eventdos_6f4ab2ec:
 
     # to "What happened? {w}Don't you want to know me anymore?"
-    to "What happened? {w}Don't you want to know me anymore?"
+    to "Що таке? {w}Вже не хочеш пізнати мене краще?"
 
 # game/game/tomoe_events.rpy:1011
 translate ukrainian tomoe_eventdos_de8b5ec5:
 
     # mc "Yes, {w}I want to..."
-    mc "Yes, {w}I want to..."
+    mc "Ні, {w}я хочу..."
 
 # game/game/tomoe_events.rpy:1012
 translate ukrainian tomoe_eventdos_1f8d9084:
@@ -1755,13 +1755,13 @@ translate ukrainian tomoe_eventdos_1f8d9084:
 translate ukrainian tomoe_eventdos_342f1b7b:
 
     # to "Look, {w}because I know you are a good person, I will tell you what I think of you."
-    to "Look, {w}because I know you are a good person, I will tell you what I think of you."
+    to "Дивись, {w}оскільки я знаю, що ти хороша людина, я тобі розкажу, що про тебе думаю."
 
 # game/game/tomoe_events.rpy:1015
 translate ukrainian tomoe_eventdos_53225e45:
 
     # to "From our first real talk, {w}I know there were little lies in between."
-    to "From our first real talk, {w}I know there were little lies in between."
+    to "З нашої першої реальної розмови, {w}я знаю про маленьку брехню поміж рядків."
 
 # game/game/tomoe_events.rpy:1016
 translate ukrainian tomoe_eventdos_2b35b6fe_2:
@@ -1773,325 +1773,325 @@ translate ukrainian tomoe_eventdos_2b35b6fe_2:
 translate ukrainian tomoe_eventdos_cfc2259b:
 
     # to "And although I like to make fun of you, {w}it makes me wary of you."
-    to "And although I like to make fun of you, {w}it makes me wary of you."
+    to "І хоч мені подобається кепкувати з тебе, {w}це змушує мене ставитися до тебе з обережністю."
 
 # game/game/tomoe_events.rpy:1023
 translate ukrainian tomoe_eventdos_50ce626a:
 
     # mc "It's true that I come from far away, separated from all this."
-    mc "It's true that I come from far away, separated from all this."
+    mc "Це правда, що я родом з далеких країв, відокремлених від усього цього."
 
 # game/game/tomoe_events.rpy:1025
 translate ukrainian tomoe_eventdos_d2de6f72:
 
     # mc "I didn't have a father, {w}or so I want to believe, {w}and I only knew a few stories about my mother before she died."
-    mc "I didn't have a father, {w}or so I want to believe, {w}and I only knew a few stories about my mother before she died."
+    mc "У мене не було батька, {w}принаймні я хочу в це вірити, {w}і я знаю лише кілька історій про свою маму, перш ніж вона померла."
 
 # game/game/tomoe_events.rpy:1026
 translate ukrainian tomoe_eventdos_9912423a:
 
     # mc "I like to eat, sleep, train-"
-    mc "I like to eat, sleep, train-"
+    mc "Мені подобається їсти, спати, трену-"
 
 # game/game/tomoe_events.rpy:1028
 translate ukrainian tomoe_eventdos_0573888c:
 
     # to "Wait! {w}What are you doing?"
-    to "Wait! {w}What are you doing?"
+    to "Стривай! {w}Що це ти робиш?"
 
 # game/game/tomoe_events.rpy:1030
 translate ukrainian tomoe_eventdos_55a92a64:
 
     # mc "I'm telling you the truth, {w}or else you won't trust me, right?"
-    mc "I'm telling you the truth, {w}or else you won't trust me, right?"
+    mc "Кажу тобі правду. {w}Інакше ти мені не довірятимеш, хіба ні?"
 
 # game/game/tomoe_events.rpy:1031
 translate ukrainian tomoe_eventdos_5d08b4ea:
 
     # t "Basically everything I said is true."
-    t "Basically everything I said is true."
+    t "В принципі, все, що я сказав, — правда."
 
 # game/game/tomoe_events.rpy:1032
 translate ukrainian tomoe_eventdos_d1b87f74:
 
     # mc "I'm afraid of-"
-    mc "I'm afraid of-"
+    mc "Я боюся-"
 
 # game/game/tomoe_events.rpy:1037
 translate ukrainian tomoe_eventdos_0a6505c7:
 
     # to "Sorry!"
-    to "Sorry!"
+    to "Пробач!"
 
 # game/game/tomoe_events.rpy:1038
 translate ukrainian tomoe_eventdos_b24e1857:
 
     # mc "T-Tomoe?"
-    mc "T-Tomoe?"
+    mc "Т-Томое?"
 
 # game/game/tomoe_events.rpy:1041
 translate ukrainian tomoe_eventdos_99914f6e:
 
     # to "My mistrust made you tell me things you didn't want to!"
-    to "My mistrust made you tell me things you didn't want to!"
+    to "Моя недовіра змусила тебе розповідати речі, які б ти не хотів!"
 
 # game/game/tomoe_events.rpy:1043
 translate ukrainian tomoe_eventdos_486b232f:
 
     # to "Please accept this potato!"
-    to "Please accept this potato!"
+    to "Будь ласка, прийми цю картоплину!"
 
 # game/game/tomoe_events.rpy:1044
 translate ukrainian tomoe_eventdos_e5d5183d:
 
     # mc "No thanks! {w}Get up! {w}And where do you get those things from?!"
-    mc "No thanks! {w}Get up! {w}And where do you get those things from?!"
+    mc "Ні, дякую! {w}Встань, будь ласка! {w}І звідки ти їх дістаєш?!"
 
 # game/game/tomoe_events.rpy:1046
 translate ukrainian tomoe_eventdos_62cabdec:
 
     # to "Double discount!"
-    to "Double discount!"
+    to "Подвійна знижка!"
 
 # game/game/tomoe_events.rpy:1047
 translate ukrainian tomoe_eventdos_b953404a:
 
     # mc "And you are still selling it to me!"
-    mc "And you are still selling it to me!"
+    mc "І ти досі намагаєшся мені продати!"
 
 # game/game/tomoe_events.rpy:1050
 translate ukrainian tomoe_eventdos_6621cab1:
 
     # to "When people approach me for no reason, I have a bad habit of testing them."
-    to "When people approach me for no reason, I have a bad habit of testing them."
+    to "У мене погана звичка перевіряти людей, коли вони намагаються зблизитися зі мною без зрозумілої причини."
 
 # game/game/tomoe_events.rpy:1051
 translate ukrainian tomoe_eventdos_6a964978:
 
     # mc "H-Have you been testing me?"
-    mc "H-Have you been testing me?"
+    mc "Т-То ти мене перевіряла?"
 
 # game/game/tomoe_events.rpy:1053
 translate ukrainian tomoe_eventdos_2f27490c:
 
     # to "It's rare to hear only good things about a person."
-    to "It's rare to hear only good things about a person."
+    to "Не часто я чую лише щось хороше про когось."
 
 # game/game/tomoe_events.rpy:1055
 translate ukrainian tomoe_eventdos_31002225:
 
     # to "So I had my suspicions."
-    to "So I had my suspicions."
+    to "Тож у мене виникли підозри."
 
 # game/game/tomoe_events.rpy:1056
 translate ukrainian tomoe_eventdos_3a8dcede:
 
     # mc "You must have gone through a lot."
-    mc "You must have gone through a lot."
+    mc "Певно, тобі багато через що довелося пройти."
 
 # game/game/tomoe_events.rpy:1058
 translate ukrainian tomoe_eventdos_ec74a864:
 
     # to "But that's no excuse for what I did."
-    to "But that's no excuse for what I did."
+    to "Але це не виправдовує моєї поведінки."
 
 # game/game/tomoe_events.rpy:1060
 translate ukrainian tomoe_eventdos_ad8d873d:
 
     # to "And the fact that you didn't get carried away by your sexual appetite and take me with all your might even though I was teasing you was also weird to me."
-    to "And the fact that you didn't get carried away by your sexual appetite and take me with all your might even though I was teasing you was also weird to me."
+    to "І той факт, що ти не піддався своєму сексуальному потягу й не взяв мене з усією силою, хоча я й дражнила тебе, теж здався мені дивним."
 
 # game/game/tomoe_events.rpy:1061
 translate ukrainian tomoe_eventdos_b9a10e7a:
 
     # mc "What kind of person did you think I was?!"
-    mc "What kind of person did you think I was?!"
+    mc "Якою людиною я був на твою думку?!"
 
 # game/game/tomoe_events.rpy:1063
 translate ukrainian tomoe_eventdos_b53d9686:
 
     # to "Well, {w}I'm Tomoe, {w}a moon elf."
-    to "Well, {w}I'm Tomoe, {w}a moon elf."
+    to "Що ж, {w}я Томое {w}— місячна ельфійка."
 
 # game/game/tomoe_events.rpy:1065
 translate ukrainian tomoe_eventdos_61c433ee:
 
     # mc "I'm [mc], a simple human."
-    mc "I'm [mc], a simple human."
+    mc "Я [name_form('nom')] — звичайна людина."
 
 # game/game/tomoe_events.rpy:1067
 translate ukrainian tomoe_eventdos_0d283a51:
 
     # to "What a good grip you have."
-    to "What a good grip you have."
+    to "Яка міцна хватка в тебе."
 
 # game/game/tomoe_events.rpy:1068
 translate ukrainian tomoe_eventdos_c8c3513a:
 
     # mc "Now will you tell me the difference?"
-    mc "Now will you tell me the difference?"
+    mc "Тепер розкажеш мені у чому різниця?"
 
 # game/game/tomoe_events.rpy:1070
 translate ukrainian tomoe_eventdos_bb2192af:
 
     # to "Sure, it's a good time, {w}they're all having lunch at this time."
-    to "Sure, it's a good time, {w}they're all having lunch at this time."
+    to "Звісно, час якраз підходящий, {w}зазвичай інші вже обідають."
 
 # game/game/tomoe_events.rpy:1072
 translate ukrainian tomoe_eventdos_df555a02:
 
     # to "Come sit down."
-    to "Come sit down."
+    to "Ходи-но, сідай."
 
 # game/game/tomoe_events.rpy:1073
 translate ukrainian tomoe_eventdos_08b5df7f:
 
     # mc "Ok."
-    mc "Ok."
+    mc "Гаразд."
 
 # game/game/tomoe_events.rpy:1075
 translate ukrainian tomoe_eventdos_48d7bd57:
 
     # to "I guess you know that elves are beautiful people with long life and magical powers, right?"
-    to "I guess you know that elves are beautiful people with long life and magical powers, right?"
+    to "Гадаю, ти знаєш, що ельфи — це прекрасні істоти, які довго живуть і володіють магією, правда?"
 
 # game/game/tomoe_events.rpy:1076
 translate ukrainian tomoe_eventdos_7c927b78:
 
     # mc "Yes?"
-    mc "Yes?"
+    mc "Так?"
 
 # game/game/tomoe_events.rpy:1081
 translate ukrainian tomoe_eventdos_25a6865c:
 
     # to "Why are you lying with a question?"
-    to "Why are you lying with a question?"
+    to "Чому ти брешеш, ще й зі знаком питання вкінці?"
 
 # game/game/tomoe_events.rpy:1085
 translate ukrainian tomoe_eventdos_b07f7914:
 
     # mc "I-I mean, I'd heard that but I didn't know if it was true."
-    mc "I-I mean, I'd heard that but I didn't know if it was true."
+    mc "Н-Ну, тобто, я чув щось подібне, але не знав, чи це правда."
 
 # game/game/tomoe_events.rpy:1087
 translate ukrainian tomoe_eventdos_292ac137:
 
     # to "Hahaha, okay, okay."
-    to "Hahaha, okay, okay."
+    to "Хахаха, гаразд, гаразд."
 
 # game/game/tomoe_events.rpy:1089
 translate ukrainian tomoe_eventdos_972d9fe4:
 
     # to "Well, {w}not to waste time on unnecessary information."
-    to "Well, {w}not to waste time on unnecessary information."
+    to "Отже, {w}аби зекономити нам трохи часу на зайвій інформації."
 
 # game/game/tomoe_events.rpy:1090
 translate ukrainian tomoe_eventdos_616bdc1f:
 
     # to "When an elf is born on a full moon and due to other factors that I don't even know about, someone like me appears."
-    to "When an elf is born on a full moon and due to other factors that I don't even know about, someone like me appears."
+    to "Коли ельф народжується у повний місяц і при ще певних обставинах, про які я навіть не знаю, з'являється хтось на кшталт мене."
 
 # game/game/tomoe_events.rpy:1092
 translate ukrainian tomoe_eventdos_b51afbc0:
 
     # to "And now coming to the difference, the long-eared have a great amount of magic but up to a certain limit."
-    to "And now coming to the difference, the long-eared have a great amount of magic but up to a certain limit."
+    to "А щодо різниці: довговухі мають гарний запас магії, але з певним лімітом."
 
 # game/game/tomoe_events.rpy:1094
 translate ukrainian tomoe_eventdos_cfd898da:
 
     # to "And I have half the magic but when there is a full moon... {w}it fills me with lust and I just want sex."
-    to "And I have half the magic but when there is a full moon... {w}it fills me with lust and I just want sex."
+    to "А я ж маю половину магії, але коли з'являється повний місяць... {w}він наповнює мене хіттю, і я думаю лише про секс."
 
 # game/game/tomoe_events.rpy:1096
 translate ukrainian tomoe_eventdos_8fea2db2:
 
     # mc "Hmm..."
-    mc "Hmm..."
+    mc "Гмм..."
 
 # game/game/tomoe_events.rpy:1097
 translate ukrainian tomoe_eventdos_a7bcf340:
 
     # mc "I see..."
-    mc "I see..."
+    mc "Ясно..."
 
 # game/game/tomoe_events.rpy:1099
 translate ukrainian tomoe_eventdos_d48a5631_1:
 
     # mc "What?!"
-    mc "What?!"
+    mc "Що?!"
 
 # game/game/tomoe_events.rpy:1101
 translate ukrainian tomoe_eventdos_aeab617e:
 
     # to "HAHAHA, {w}Just kidding!"
-    to "HAHAHA, {w}Just kidding!"
+    to "ХАХАХА, {w}Та я жартую!"
 
 # game/game/tomoe_events.rpy:1103
 translate ukrainian tomoe_eventdos_ab76b71e:
 
     # to "It's pretty obvious what happens during a full moon, but seeing you listening to me so attentively made me want to tease you a little."
-    to "It's pretty obvious what happens during a full moon, but seeing you listening to me so attentively made me want to tease you a little."
+    to "Не важко здогадатися, що буде у повний місяць. Але коли я бачу, як уважно ти мене слухаєш, так і хочеться трохи подражнити тебе."
 
 # game/game/tomoe_events.rpy:1104
 translate ukrainian tomoe_eventdos_20687e29:
 
     # t "It took me by surprise..."
-    t "It took me by surprise..."
+    t "Це було неочікувано..."
 
 # game/game/tomoe_events.rpy:1105
 translate ukrainian tomoe_eventdos_c6e4d277:
 
     # t "And I even imagined it..."
-    t "And I even imagined it..."
+    t "Я навіть встиг уявити це..."
 
 # game/game/tomoe_events.rpy:1108
 translate ukrainian tomoe_eventdos_503c7ce3:
 
     # to "What are you thinking?"
-    to "What are you thinking?"
+    to "Про що це ти замислився?"
 
 # game/game/tomoe_events.rpy:1110
 translate ukrainian tomoe_eventdos_c19af184:
 
     # mc "S-So! {w}When there is a full moon you match the magic of the long ears?"
-    mc "S-So! {w}When there is a full moon you match the magic of the long ears?"
+    mc "Т-Тож! {w}Коли місяць повний, твоя магія відповідає довговухим?"
 
 # game/game/tomoe_events.rpy:1112
 translate ukrainian tomoe_eventdos_f7842f87:
 
     # to "Nope, {w}let's just say I get a little stronger than they are."
-    to "Nope, {w}let's just say I get a little stronger than they are."
+    to "Не зовсім, {w}скажімо, я стаю трішки сильнішою за них."
 
 # game/game/tomoe_events.rpy:1113
 translate ukrainian tomoe_eventdos_9906d0a7:
 
     # mc "Wooah."
-    mc "Wooah."
+    mc "Оце так."
 
 # game/game/tomoe_events.rpy:1115
 translate ukrainian tomoe_eventdos_9439d928:
 
     # to "Interesting, isn't it?"
-    to "Interesting, isn't it?"
+    to "Цікаво, правда?"
 
 # game/game/tomoe_events.rpy:1117
 translate ukrainian tomoe_eventdos_56f0414e:
 
     # mc "That sounds incredible... {w}but dangerous."
-    mc "That sounds incredible... {w}but dangerous."
+    mc "Звучить неймовірно... {w}але й небезпечно."
 
 # game/game/tomoe_events.rpy:1118
 translate ukrainian tomoe_eventdos_4b5dd47f:
 
     # to "Yes, I can be very powerful when it hap-"
-    to "Yes, I can be very powerful when it hap-"
+    to "Так, я можу стати дуже сильною, коли це відб-"
 
 # game/game/tomoe_events.rpy:1120
 translate ukrainian tomoe_eventdos_1903e252:
 
     # mc "I mean dangerous for you, {w}I imagine it brought you trouble."
-    mc "I mean dangerous for you, {w}I imagine it brought you trouble."
+    mc "Я про те, що вона небезпечна для тебе. {w}Можу уявити, скільки проблем вона тобі спричиняє."
 
 # game/game/tomoe_events.rpy:1121
 translate ukrainian tomoe_eventdos_1f8d9084_1:
@@ -2103,91 +2103,91 @@ translate ukrainian tomoe_eventdos_1f8d9084_1:
 translate ukrainian tomoe_eventdos_bb7c1569:
 
     # to "Cucumber?"
-    to "Cucumber?"
+    to "Огірочок?"
 
 # game/game/tomoe_events.rpy:1124
 translate ukrainian tomoe_eventdos_e4be6021:
 
     # mc "Sigh*"
-    mc "Sigh*"
+    mc "{i}*Хааах*{/i}"
 
 # game/game/tomoe_events.rpy:1126
 translate ukrainian tomoe_eventdos_8bfdb999:
 
     # to "You don't know what you're missing."
-    to "You don't know what you're missing."
+    to "Ти навіть не знаєш, від чого відмовляєшся."
 
 # game/game/tomoe_events.rpy:1128
 translate ukrainian tomoe_eventdos_774876c4:
 
     # to "So, will you tell me something equivalent to what I told you?"
-    to "So, will you tell me something equivalent to what I told you?"
+    to "Отже, розкажеш мені щось рівноцінне тому, що я тобі розповіла?"
 
 # game/game/tomoe_events.rpy:1129
 translate ukrainian tomoe_eventdos_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/tomoe_events.rpy:1131
 translate ukrainian tomoe_eventdos_dd72f4cd:
 
     # to "You don't think a trader won't get something out of this, do you?"
-    to "You don't think a trader won't get something out of this, do you?"
+    to "Ти ж не думав, що купець не отримає вигоду з цього, правда?"
 
 # game/game/tomoe_events.rpy:1132
 translate ukrainian tomoe_eventdos_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "Ох."
 
 # game/game/tomoe_events.rpy:1134
 translate ukrainian tomoe_eventdos_bb95b348:
 
     # to "To make it easier, {w}I'm interested in a story your mother has told you."
-    to "To make it easier, {w}I'm interested in a story your mother has told you."
+    to "Спрощу тобі задачу {w}— мене цікавить історія, яку тобі розповідала твоя мама."
 
 # game/game/tomoe_events.rpy:1135
 translate ukrainian tomoe_eventdos_7f27c14e:
 
     # mc "D-Do you want to listen to a children's story?"
-    mc "D-Do you want to listen to a children's story?"
+    mc "Х-Хочеш послухати дитячу історію?"
 
 # game/game/tomoe_events.rpy:1137
 translate ukrainian tomoe_eventdos_456173e8:
 
     # to "Sure, {w}I'd like to know what you grew up with."
-    to "Sure, {w}I'd like to know what you grew up with."
+    to "Чому б ні, {w}мені цікаво дізнатися, на чому ти виріс."
 
 # game/game/tomoe_events.rpy:1138
 translate ukrainian tomoe_eventdos_a0b52d48:
 
     # to "Stories transcribed into books sell very well."
-    to "Stories transcribed into books sell very well."
+    to "Історії переписані у книжки гарно продаються."
 
 # game/game/tomoe_events.rpy:1139
 translate ukrainian tomoe_eventdos_c126d90c:
 
     # mc "I will not do it."
-    mc "I will not do it."
+    mc "Я не буду розповідати."
 
 # game/game/tomoe_events.rpy:1141
 translate ukrainian tomoe_eventdos_133d19ba:
 
     # to "Well, then-"
-    to "Well, then-"
+    to "Ну, тоді-"
 
 # game/game/tomoe_events.rpy:1143
 translate ukrainian tomoe_eventdos_5dbfa763:
 
     # to "Eeeehh~~"
-    to "Eeeehh~~"
+    to "{i}Еееехх~~{/i}"
 
 # game/game/tomoe_events.rpy:1145
 translate ukrainian tomoe_eventdos_04d1ed2e:
 
     # mc "It will be for the next time we talk."
-    mc "It will be for the next time we talk."
+    mc "Залишимо це на наступний раз."
 
 # game/game/tomoe_events.rpy:1146
 translate ukrainian tomoe_eventdos_1f8d9084_2:
@@ -2199,43 +2199,43 @@ translate ukrainian tomoe_eventdos_1f8d9084_2:
 translate ukrainian tomoe_eventdos_cf99c497:
 
     # to "Playing the same card, eh."
-    to "Playing the same card, eh."
+    to "Розігруєш ту саму карту, га?"
 
 # game/game/tomoe_events.rpy:1149
 translate ukrainian tomoe_eventdos_20de21db:
 
     # to "Okay, {w}I respect that."
-    to "Okay, {w}I respect that."
+    to "Гаразд, {w}я це поважаю."
 
 # game/game/tomoe_events.rpy:1151
 translate ukrainian tomoe_eventdos_3668311f:
 
     # mc "See you another day then."
-    mc "See you another day then."
+    mc "Побачимося іншого дня."
 
 # game/game/tomoe_events.rpy:1152
 translate ukrainian tomoe_eventdos_3a125cf1:
 
     # to "Wait."
-    to "Wait."
+    to "Стій."
 
 # game/game/tomoe_events.rpy:1154
 translate ukrainian tomoe_eventdos_c1a52b65:
 
     # to "Come and see me at night, {w}it's the best time to listen to stories."
-    to "Come and see me at night, {w}it's the best time to listen to stories."
+    to "Зайди до мене вночі, {w}це найкращий час, щоб слухати історії."
 
 # game/game/tomoe_events.rpy:1155
 translate ukrainian tomoe_eventdos_c49b1fb9:
 
     # mc "All right."
-    mc "All right."
+    mc "Гаразд."
 
 # game/game/tomoe_events.rpy:1157
 translate ukrainian tomoe_eventdos_9b75d8db:
 
     # to "See you soon [mc]."
-    to "See you soon [mc]."
+    to "До зустрічі, [name_form('voc')]."
 
 # game/game/tomoe_events.rpy:1163
 translate ukrainian tomoe_eventdos_7421dcf4:
@@ -2247,7 +2247,7 @@ translate ukrainian tomoe_eventdos_7421dcf4:
 translate ukrainian tomoe_eventdos_c05571c0:
 
     # mc "Adios."
-    mc "Adios."
+    mc "Бай-бай."
 
 # game/game/tomoe_events.rpy:1175
 translate ukrainian tomoe_eventtres_9476e382:
