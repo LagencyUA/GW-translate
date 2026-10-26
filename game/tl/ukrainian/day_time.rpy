@@ -599,7 +599,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1564
     old "{color=#FF438D}H{/color}-Event\nBuild the {color=#CACACA}kitchen{/color} and {color=#FBE5A2}talk to {color=#E12E50}Akane{/color} in the afternoon."
-    new "{color=#FF438D}Х{/color}-подія\nВідремонтуй {color=#CACACA}кухню{/color} та {color=#FBE5A2}поговори з {color=#E12E50}Акане{/color} вдень."
+    new "{color=#FF438D}Х{/color}-подія [[Вимога]\nВідремонтуй {color=#CACACA}кухню{/color} та {color=#FBE5A2}поговори з {color=#E12E50}Акане{/color} вдень."
 
     # game/day_time.rpy:1579
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou should build {color=#E12E50}Akane's{/color} room!"

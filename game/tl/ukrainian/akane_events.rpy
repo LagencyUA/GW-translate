@@ -5253,13 +5253,13 @@ translate ukrainian akane_shop_07a8ea74:
 translate ukrainian akane_1_shop_cb71e062:
 
     # mc "That's Akane?"
-    mc "That's Akane?"
+    mc "Хіба це не Акане?"
 
 # game/game/akane_events.rpy:1751
 translate ukrainian akane_1_shop_f57ce201:
 
     # mc "Yo!"
-    mc "Yo!"
+    mc "Привіт!"
 
 # game/game/akane_events.rpy:1752
 translate ukrainian akane_1_shop_fd6dac5b:
@@ -5271,25 +5271,25 @@ translate ukrainian akane_1_shop_fd6dac5b:
 translate ukrainian akane_1_shop_f49557b8:
 
     # ak "{size=-8}Hm-"
-    ak "{size=-8}Hm-"
+    ak "{size=-8}Хм-"
 
 # game/game/akane_events.rpy:1755
 translate ukrainian akane_1_shop_25f75896:
 
     # ak "{size=-8}Sigh*"
-    ak "{size=-8}Sigh*"
+    ak "{size=-8}{i}*Хааах*{/i}"
 
 # game/game/akane_events.rpy:1757
 translate ukrainian akane_1_shop_c9252c9f:
 
     # mc "Shopping?"
-    mc "Shopping?"
+    mc "Купувала щось?"
 
 # game/game/akane_events.rpy:1758
 translate ukrainian akane_1_shop_077da44c:
 
     # ak "It's pretty obvious..."
-    ak "It's pretty obvious..."
+    ak "Хіба не очевидно..."
 
 # game/game/akane_events.rpy:1759
 translate ukrainian akane_1_shop_2b35b6fe:
@@ -5301,49 +5301,49 @@ translate ukrainian akane_1_shop_2b35b6fe:
 translate ukrainian akane_1_shop_93029c77:
 
     # ak "{size=-8}What are you looking at pervert!"
-    ak "{size=-8}What are you looking at pervert!"
+    ak "{size=-8}На що витріщився, збоченцю?!"
 
 # game/game/akane_events.rpy:1762
 translate ukrainian akane_1_shop_d73315f0:
 
     # ak "Don't you realize that there are people around?"
-    ak "Don't you realize that there are people around?"
+    ak "Тебе навіть не хвилює, що довкола нас люди?"
 
 # game/game/akane_events.rpy:1763
 translate ukrainian akane_1_shop_99926351:
 
     # mc "So... {w}you'd let me see if there were no people around?"
-    mc "So... {w}you'd let me see if there were no people around?"
+    mc "Отже... {w}ти б дозволила дивитися, якби тут не було людей?"
 
 # game/game/akane_events.rpy:1765
 translate ukrainian akane_1_shop_9807f1ce:
 
     # ak "{size=-8}Ggh!"
-    ak "{size=-8}Ggh!"
+    ak "{size=-8}{i}Ггх!{/i}"
 
 # game/game/akane_events.rpy:1767
 translate ukrainian akane_1_shop_f1ecb75f:
 
     # ak "I-I'm leaving!"
-    ak "I-I'm leaving!"
+    ak "Я-Я йду!"
 
 # game/game/akane_events.rpy:1768
 translate ukrainian akane_1_shop_ecf872dc:
 
     # mc "Wait."
-    mc "Wait."
+    mc "Стій."
 
 # game/game/akane_events.rpy:1770
 translate ukrainian akane_1_shop_9688be18:
 
     # ak "What do you want?"
-    ak "What do you want?"
+    ak "Що тобі треба?"
 
 # game/game/akane_events.rpy:1771
 translate ukrainian akane_1_shop_114ecdd8:
 
     # mc "Where do you live?"
-    mc "Where do you live?"
+    mc "А де ти живеш?"
 
 # game/game/akane_events.rpy:1772
 translate ukrainian akane_1_shop_46b79df3:
@@ -5355,13 +5355,13 @@ translate ukrainian akane_1_shop_46b79df3:
 translate ukrainian akane_1_shop_d5fece76:
 
     # ak "Now you're a stalker?"
-    ak "Now you're a stalker?"
+    ak "Тепер ти переслідуєш мене?"
 
 # game/game/akane_events.rpy:1775
 translate ukrainian akane_1_shop_5c566bc6:
 
     # mc "Just curious, It's rare to find you at this hour."
-    mc "Just curious, It's rare to find you at this hour."
+    mc "Просто цікаво. Не часто тебе можна побачити в таку годину."
 
 # game/game/akane_events.rpy:1776
 translate ukrainian akane_1_shop_46b79df3_1:
@@ -5373,49 +5373,49 @@ translate ukrainian akane_1_shop_46b79df3_1:
 translate ukrainian akane_1_shop_31c112bc:
 
     # ak "I live in a shared house."
-    ak "I live in a shared house."
+    ak "Я живу в гуртожитку."
 
 # game/game/akane_events.rpy:1779
 translate ukrainian akane_1_shop_e1685e25:
 
     # ak "After all, {w}I arrived {size=-8}here when..."
-    ak "After all, {w}I arrived {size=-8}here when..."
+    ak "Зрештою, {w}я прибула {size=-8}сюди, коли..."
 
 # game/game/akane_events.rpy:1783
 translate ukrainian akane_1_shop_e72d169b:
 
     # ak "{size=-9}Ahum*"
-    ak "{size=-9}Ahum*"
+    ak "{size=-9}{i}*Ахем*{/i}"
 
 # game/game/akane_events.rpy:1784
 translate ukrainian akane_1_shop_5d0e8998:
 
     # ak "That's all? {w}I have to make dinner."
-    ak "That's all? {w}I have to make dinner."
+    ak "Це все? {w}Мені треба ще готувати вечерю."
 
 # game/game/akane_events.rpy:1786
 translate ukrainian akane_1_shop_627180b0:
 
     # mc "You cook?"
-    mc "You cook?"
+    mc "Ти готуєш?"
 
 # game/game/akane_events.rpy:1788
 translate ukrainian akane_1_shop_170e82e2:
 
     # ak "What do you mean by that!"
-    ak "What do you mean by that!"
+    ak "І як я маю сприймати це?!"
 
 # game/game/akane_events.rpy:1789
 translate ukrainian akane_1_shop_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Хахаха."
 
 # game/game/akane_events.rpy:1791
 translate ukrainian akane_1_shop_d91f3bd4:
 
     # mc "So you cook... {w}I wish I could taste your food sometime..."
-    mc "So you cook... {w}I wish I could taste your food sometime..."
+    mc "Отже, готуєш... {w}Хотів би я інколи мати змогу скуштувати твої блюда..."
 
 # game/game/akane_events.rpy:1792
 translate ukrainian akane_1_shop_46b79df3_2:
@@ -5427,67 +5427,67 @@ translate ukrainian akane_1_shop_46b79df3_2:
 translate ukrainian akane_1_shop_c364e5a4:
 
     # mc "But I don't have a kitchen at home..."
-    mc "But I don't have a kitchen at home..."
+    mc "Але, нажаль, у мене вдома немає кухні..."
 
 # game/game/akane_events.rpy:1794
 translate ukrainian akane_1_shop_20605810:
 
     # mc "We only eat what the girls give us."
-    mc "We only eat what the girls give us."
+    mc "Ми їмо лише те, що дають нам інші дівчата."
 
 # game/game/akane_events.rpy:1796
 translate ukrainian akane_1_shop_87fe34d8:
 
     # ak "Ha! {w}Too bad, {w}If you had a kitchen, I would have thought about it."
-    ak "Ha! {w}Too bad, {w}If you had a kitchen, I would have thought about it."
+    ak "Ха! {w}Шкода. {w}Була б у тебе кухня, я, можливо, подумала б про це."
 
 # game/game/akane_events.rpy:1797
 translate ukrainian akane_1_shop_fbac53e7:
 
     # mc "Perfect! {w}It's a deal."
-    mc "Perfect! {w}It's a deal."
+    mc "Ідеально! {w}Домовилися."
 
 # game/game/akane_events.rpy:1799
 translate ukrainian akane_1_shop_03c4f931:
 
     # ak "What?!"
-    ak "What?!"
+    ak "Що?!"
 
 # game/game/akane_events.rpy:1801
 translate ukrainian akane_1_shop_93333448:
 
     # t "I'll ask Mayu if she can make a kitchen."
-    t "I'll ask Mayu if she can make a kitchen."
+    t "Спитаю у Маю, чи зможе вона мені зробити кухню."
 
 # game/game/akane_events.rpy:1803
 translate ukrainian akane_1_shop_2ff7930b:
 
     # ak "I forget that you're like this..."
-    ak "I forget that you're like this..."
+    ak "Я вже забула, що ти такий..."
 
 # game/game/akane_events.rpy:1804
 translate ukrainian akane_1_shop_6d04953c:
 
     # mc "Thanks!"
-    mc "Thanks!"
+    mc "Дякую!"
 
 # game/game/akane_events.rpy:1806
 translate ukrainian akane_1_shop_697253e6:
 
     # ak "That wasn't a comp-"
-    ak "That wasn't a comp-"
+    ak "Це не комплі-"
 
 # game/game/akane_events.rpy:1807
 translate ukrainian akane_1_shop_0bb004ee:
 
     # ak "{size=-8}{i}Big sigh*"
-    ak "{size=-8}{i}Big sigh*"
+    ak "{size=-8}{i}{i}*Хаааах*{/i}"
 
 # game/game/akane_events.rpy:1808
 translate ukrainian akane_1_shop_0de4f282:
 
     # mc "Can I walk you home?"
-    mc "Can I walk you home?"
+    mc "Не проти, якщо я проведу тебе додому?"
 
 # game/game/akane_events.rpy:1810
 translate ukrainian akane_1_shop_46b79df3_3:
@@ -5499,7 +5499,7 @@ translate ukrainian akane_1_shop_46b79df3_3:
 translate ukrainian akane_1_shop_9d4fc664:
 
     # ak "Whatever..."
-    ak "Whatever..."
+    ak "Роби, що хочеш..."
 
 # game/game/akane_events.rpy:1820
 translate ukrainian akane_1_shop_65e8f930:
@@ -29347,6 +29347,9 @@ translate ukrainian strings:
     old "Akane's new location unlocked!"
     new "{size=-2}Розблоковано нове місце зустрічі з Акане!{/size}"
 
+    old "A new construction has been unlocked for your house."
+    new "{size=-5}  Розблоковано нове покращення для твого будинку.{/size}"
+
     old "{i}{sc=3}{outlinecolor=#000000}{color=#ff0058}That's enough."
     new "{i}{sc=3}{outlinecolor=#000000}{color=#ff0058}That's enough."
 
@@ -29409,9 +29412,6 @@ translate ukrainian strings:
 
     old "That date didn't go well at all..."
     new "That date didn't go well at all..."
-
-    old "A new construction has been unlocked for your house."
-    new "A new construction has been unlocked for your house."
 
     old "You head home with Akane."
     new "You head home with Akane."

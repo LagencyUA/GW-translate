@@ -2140,37 +2140,37 @@ translate ukrainian mayu_gal1_79a0cfcb:
 translate ukrainian kitchen_build_2c6cab79:
 
     # ma "My favorite person!"
-    ma "My favorite person!"
+    ma "Мій улюблений клієнт!"
 
 # game/game/mayu_events.rpy:1416
 translate ukrainian kitchen_build_8034aec3:
 
     # ma "What great job will you give me today?!"
-    ma "What great job will you give me today?!"
+    ma "Яке захоплююче завдання ти мені сьогодні доручиш?!"
 
 # game/game/mayu_events.rpy:1417
 translate ukrainian kitchen_build_7a5af78e:
 
     # t "I'm already afraid of what might happen...."
-    t "I'm already afraid of what might happen...."
+    t "Мені вже страшно, що може статися..."
 
 # game/game/mayu_events.rpy:1418
 translate ukrainian kitchen_build_68d96b7c:
 
     # mc "I want to know if you can build a kitchen for t-"
-    mc "I want to know if you can build a kitchen for t-"
+    mc "Я хотів дізнатися, чи зможеш ти полагодити кухню для-"
 
 # game/game/mayu_events.rpy:1420
 translate ukrainian kitchen_build_8e28d956:
 
     # mc "Oh no..."
-    mc "Oh no..."
+    mc "О ні..."
 
 # game/game/mayu_events.rpy:1424
 translate ukrainian kitchen_build_e4ce029a:
 
     # mc "Mayu!?"
-    mc "Mayu!?"
+    mc "Маю!?"
 
 # game/game/mayu_events.rpy:1425
 translate ukrainian kitchen_build_9ddc03d3:
@@ -2182,43 +2182,43 @@ translate ukrainian kitchen_build_9ddc03d3:
 translate ukrainian kitchen_build_5ebe7185:
 
     # mc "You're not thinking of jumpin-"
-    mc "You're not thinking of jumpin-"
+    mc "Ти ж не збираєшся приг-"
 
 # game/game/mayu_events.rpy:1428
 translate ukrainian kitchen_build_20fe07dc:
 
     # mc "I knew it."
-    mc "I knew it."
+    mc "Я так і знав."
 
 # game/game/mayu_events.rpy:1430
 translate ukrainian kitchen_build_7e074563:
 
     # t "I should stand back every time I give a job to Mayu...."
-    t "I should stand back every time I give a job to Mayu...."
+    t "Варто відходити, щоразу коли пропонуватиму роботу для Маю..."
 
 # game/game/mayu_events.rpy:1431
 translate ukrainian kitchen_build_1d49d505:
 
     # mc "I can't see anything."
-    mc "I can't see anything."
+    mc "Я нічого не бачу."
 
 # game/game/mayu_events.rpy:1432
 translate ukrainian kitchen_build_68b20be5:
 
     # mc "So, do you think you can?"
-    mc "So, do you think you can?"
+    mc "То ти зможеш?"
 
 # game/game/mayu_events.rpy:1436
 translate ukrainian kitchen_build_30da352b:
 
     # ma "Sure! I'll have it ready for you in a few days, fully equipped."
-    ma "Sure! I'll have it ready for you in a few days, fully equipped."
+    ma "Звісно! Зроблю її для тебе за кілька днів, з усім необхідним."
 
 # game/game/mayu_events.rpy:1438
 translate ukrainian kitchen_build_6c5e6844:
 
     # mc "Thank you Mayu."
-    mc "Thank you Mayu."
+    mc "Дякую, Маю."
 
 # game/game/mayu_events.rpy:1446
 translate ukrainian kitchen_build_a0c826f8:
@@ -2230,7 +2230,7 @@ translate ukrainian kitchen_build_a0c826f8:
 translate ukrainian kitchen_build_f7ec6e4d:
 
     # t "The kitchen should be finished, I'll go and see how it looks."
-    t "The kitchen should be finished, I'll go and see how it looks."
+    t "Кухня має бути готова. Піду погляну яка вона."
 
 # game/game/mayu_events.rpy:1464
 translate ukrainian secondfloor_build_4d9c17d4:
@@ -13945,10 +13945,6 @@ translate ukrainian mayu_gal4_4828435b:
     "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 translate ukrainian strings:
-    # game/mayu_events.rpy:413
-    old "{size=-22} Build a fully furnished\n {color=#CACACA}kitchen{/color}."
-    new "{size=-22} Build a fully furnished\n {color=#CACACA}kitchen{/color}."
-
     # game/mayu_events.rpy:428
     old "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
     new "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
@@ -13980,10 +13976,6 @@ translate ukrainian strings:
     # game/mayu_events.rpy:512
     old "No one is going to use it so I don't need it for now."
     new "Нема кому нею користуватися, тож вона мені поки не потрібна."
-
-    # game/mayu_events.rpy:664
-    old "{size=-15}Build the {color=#CACACA}kitchen{/color}?"
-    new "{size=-15}Build the {color=#CACACA}kitchen{/color}?"
 
     # game/mayu_events.rpy:695
     old "{size=-15}Build 2nd floor,{color=#E12E50}Akane's{/color} room?"
@@ -14061,6 +14053,9 @@ translate ukrainian strings:
     old "-250 gold and -40 wood."
     new "-250 золотих монет і -40 деревени."
 
+    old "300 gold and 50 wood have been taken from your inventory."
+    new "-300 золотих монет і -50 деревени."
+
     old "You and Mayu take the firewood home."
     new "You and Mayu take the firewood home."
 
@@ -14081,9 +14076,6 @@ translate ukrainian strings:
 
     old "-250 gold, -40 wood."
     new "-250 gold, -40 wood."
-
-    old "300 gold and 50 wood have been taken from your inventory."
-    new "300 gold and 50 wood have been taken from your inventory."
 
     old "You spend all day with Mayu."
     new "You spend all day with Mayu."
@@ -14122,6 +14114,18 @@ translate ukrainian strings: # Рядки інтерфейсу крамниці
     old "You still don't have enough materials!"
     new "Тобі досі бракує матеріалів!"
 
+    # game/mayu_events.rpy:384
+    old "{size=-20} Repair the 1st room.\nIt's perfect for {color=#C9887C}Ryoko{/color}."
+    new "{size=-20} Полагодити 1-шу кімнату.\nВона ідеальна для {color=#C9887C}Рьоко{/color}."
+
+    # game/mayu_events.rpy:398
+    old "{size=-22} Repair the 2nd room.\nWhen will this be {color=#319B85}useful{/color}?"
+    new "{size=-22} Полагодити 2-гу кімнату.\nЦікаво, коли вона {color=#319B85}знадобиться{/color}?"
+
+    # game/mayu_events.rpy:413
+    old "{size=-22} Build a fully furnished\n {color=#CACACA}kitchen{/color}."
+    new "{size=-22} Полагодити повністю\n облаштовану {color=#CACACA}кухню{/color}."
+
     # game/mayu_events.rpy:600
     old "{size=-15}Build {color=#C9887C}Ryoko's{/color} room?"
     new "{size=-15}Полагодити кімнату {color=#C9887C}Рьоко{/color}?"
@@ -14130,10 +14134,6 @@ translate ukrainian strings: # Рядки інтерфейсу крамниці
     old "{size=-15}Do you want to build it?"
     new "{size=-15}Хочеш її полагодити?"
 
-    # game/mayu_events.rpy:384
-    old "{size=-20} Repair the 1st room.\nIt's perfect for {color=#C9887C}Ryoko{/color}."
-    new "{size=-20} Полагодити 1-шу кімнату.\nВона ідеальна для {color=#C9887C}Рьоко{/color}."
-
-    # game/mayu_events.rpy:398
-    old "{size=-22} Repair the 2nd room.\nWhen will this be {color=#319B85}useful{/color}?"
-    new "{size=-22} Полагодити 2-гу кімнату.\nЦікаво, коли вона {color=#319B85}знадобиться{/color}?"
+        # game/mayu_events.rpy:664
+    old "{size=-15}Build the {color=#CACACA}kitchen{/color}?"
+    new "{size=-15}Полагодити {color=#CACACA}кухню{/color}?"
