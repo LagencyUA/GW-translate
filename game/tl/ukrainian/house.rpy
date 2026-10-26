@@ -27,7 +27,7 @@ translate ukrainian room1_trash_125f0fbd:
 translate ukrainian room2_trash_90c3f7e0:
 
     # t "I want to see the room together with Charlotte."
-    t "I want to see the room together with Charlotte."
+    t "Я хочу оглянути кімнату разом із Шарлоттою."
 
 # game/game/house.rpy:646
 translate ukrainian room2_trash_5c21fd65:
@@ -181,7 +181,7 @@ translate ukrainian strings:
 
     # game/house.rpy:58
     old "{color=#319B85}Charlotte's{/color} room"
-    new "{color=#319B85}Charlotte's{/color} room"
+    new "Кімната {color=#319B85}Шарлотти{/color}"
 
     # game/house.rpy:69
     old "{color=#C9887C}Ryoko's{/color} room"

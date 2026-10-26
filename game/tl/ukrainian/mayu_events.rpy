@@ -730,13 +730,13 @@ translate ukrainian cons_ryoko_room_a0c826f8:
 translate ukrainian cons_2nd_room_3c17c59c:
 
     # ma "Hey, are you here to see what materials you need again?"
-    ma "Hey, are you here to see what materials you need again?"
+    ma "Привіт. Знову прийшов подивитися, які матеріали тобі знадобляться?"
 
 # game/game/mayu_events.rpy:981
 translate ukrainian cons_2nd_room_3d65f029:
 
     # mc "In fact, {w}I want to repair this room, I already have everything I need."
-    mc "In fact, {w}I want to repair this room, I already have everything I need."
+    mc "Взагалі-то, {w}я хочу полагодити кімнату. В мене вже все готово."
 
 # game/game/mayu_events.rpy:983
 translate ukrainian cons_2nd_room_9ddc03d3:
@@ -748,7 +748,7 @@ translate ukrainian cons_2nd_room_9ddc03d3:
 translate ukrainian cons_2nd_room_0c8e4571:
 
     # mc "Mayu?"
-    mc "Mayu?"
+    mc "Маю?"
 
 # game/game/mayu_events.rpy:986
 translate ukrainian cons_2nd_room_2b35b6fe:
@@ -760,67 +760,67 @@ translate ukrainian cons_2nd_room_2b35b6fe:
 translate ukrainian cons_2nd_room_c4196e6d:
 
     # mc "How long will it take..."
-    mc "How long will it take..."
+    mc "Скільки часу це займе..."
 
 # game/game/mayu_events.rpy:989
 translate ukrainian cons_2nd_room_e21a9f96:
 
     # mc "Ma-"
-    mc "Ma-"
+    mc "Ма-"
 
 # game/game/mayu_events.rpy:991
 translate ukrainian cons_2nd_room_16e9fdb2:
 
     # mc "What{nw}"
-    mc "What{nw}"
+    mc "Що{nw}"
 
 # game/game/mayu_events.rpy:993
 translate ukrainian cons_2nd_room_fe234a47:
 
     # mc "What the F-"
-    mc "What the F-"
+    mc "Якого ху-"
 
 # game/game/mayu_events.rpy:994
 translate ukrainian cons_2nd_room_4c1ae41f:
 
     # ma "{size=+5}All ready?"
-    ma "{size=+5}All ready?"
+    ma "{size=+5}Вже все готово?"
 
 # game/game/mayu_events.rpy:996
 translate ukrainian cons_2nd_room_2d4c054b:
 
     # mc "Ye-Yeah..."
-    mc "Ye-Yeah..."
+    mc "А-Ага..."
 
 # game/game/mayu_events.rpy:998
 translate ukrainian cons_2nd_room_75bf7210:
 
     # mc "I'd better leave you..."
-    mc "I'd better leave you..."
+    mc "Мені краще тобі не заважати..."
 
 # game/game/mayu_events.rpy:1000
 translate ukrainian cons_2nd_room_7063da21:
 
     # mc "You must have a lot to-"
-    mc "You must have a lot to-"
+    mc "Певно, тобі треба багато чого-"
 
 # game/game/mayu_events.rpy:1002
 translate ukrainian cons_2nd_room_13d5ae03:
 
     # mc "-prepare..."
-    mc "-prepare..."
+    mc "-приготувати..."
 
 # game/game/mayu_events.rpy:1004
 translate ukrainian cons_2nd_room_83aa41a0:
 
     # mc "{size=-10}Fuck.."
-    mc "{size=-10}Fuck.."
+    mc "{size=-10}Пизда..."
 
 # game/game/mayu_events.rpy:1006
 translate ukrainian cons_2nd_room_86715e1c:
 
     # t "This girl..."
-    t "This girl..."
+    t "Ця дівчина..."
 
 # game/game/mayu_events.rpy:1008
 translate ukrainian cons_2nd_room_2b35b6fe_1:
@@ -832,25 +832,25 @@ translate ukrainian cons_2nd_room_2b35b6fe_1:
 translate ukrainian cons_2nd_room_2404fc22:
 
     # ma "I'll have it ready in a few days!"
-    ma "I'll have it ready in a few days!"
+    ma "Буде готово за кілька днів!"
 
 # game/game/mayu_events.rpy:1012
 translate ukrainian cons_2nd_room_5571b780:
 
     # mc "Thanks Mayu..."
-    mc "Thanks Mayu..."
+    mc "Дякую, Маю..."
 
 # game/game/mayu_events.rpy:1014
 translate ukrainian cons_2nd_room_95752875:
 
     # mc "I'm counting on you."
-    mc "I'm counting on you."
+    mc "Розраховую на тебе."
 
 # game/game/mayu_events.rpy:1016
 translate ukrainian cons_2nd_room_3e5819fc:
 
     # ma "Yes!"
-    ma "Yes!"
+    ma "Так!"
 
 # game/game/mayu_events.rpy:1021
 translate ukrainian cons_2nd_room_a0c826f8:
@@ -862,7 +862,7 @@ translate ukrainian cons_2nd_room_a0c826f8:
 translate ukrainian cons_2nd_room_0fe924a9:
 
     # t "The room is ready, I should go find Charlotte to tell her that she can move in."
-    t "The room is ready, I should go find Charlotte to tell her that she can move in."
+    t "Кімната цілком готова. Варто знайти Шарлотту і сказати їй, що можна заселятися."
 
 # game/game/mayu_events.rpy:1045
 translate ukrainian mayu_mission_katana_72b7d622:
@@ -14050,16 +14050,19 @@ translate ukrainian strings:
     new "-40 деревени"
 
     old "You've unlocked a new room in your house!"
-    new "З'явилася нова кімната у твоєму будинку!"
+    new "Нова кімната з'явилася у твоєму будинку!"
 
     old "You've received a wooden katana!"
     new "Ти отримав дерев'яну катану!"
 
+    old "A few days later."
+    new "Кілька днів по тому."
+
+    old "-250 gold and -40 wood."
+    new "-250 золотих монет і -40 деревени."
+
     old "You and Mayu take the firewood home."
     new "You and Mayu take the firewood home."
-
-    old "A few days later."
-    new "A few days later."
 
     old "{image=quest_text}Repair added to Mayu's builds."
     new "{image=quest_text}Repair added to Mayu's builds."
@@ -14081,9 +14084,6 @@ translate ukrainian strings:
 
     old "300 gold and 50 wood have been taken from your inventory."
     new "300 gold and 50 wood have been taken from your inventory."
-
-    old "-250 gold and -40 wood."
-    new "-250 gold and -40 wood."
 
     old "You spend all day with Mayu."
     new "You spend all day with Mayu."
