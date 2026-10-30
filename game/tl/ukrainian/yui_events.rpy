@@ -219,7 +219,7 @@ translate ukrainian yui_first_meet_440a92cf:
 translate ukrainian yui_first_meet_b627ac68:
 
     # mc "Just a bit of a dry throat, haha..."
-    mc "Просто трохи у горлі пересохло, хаха..."
+    mc "Просто трохи в горлі пересохло, хаха..."
 
 # game/game/yui_events.rpy:208
 translate ukrainian yui_first_meet_1efbe7fa:
@@ -237,7 +237,7 @@ translate ukrainian yui_first_meet_05954276:
 translate ukrainian yui_first_meet_5f3587b2:
 
     # mc "I don't want to take too much of your time. I just came to talk about a few things."
-    mc "Не хочу віднімати у тебе багато часу. Я прийшов лише, щоб обговорити з тобою кілька питань."
+    mc "Не хочу віднімати в тебе багато часу. Я прийшов лише, щоб обговорити з тобою кілька питань."
 
 # game/game/yui_events.rpy:212
 translate ukrainian yui_first_meet_dc79793d:
@@ -291,7 +291,7 @@ translate ukrainian yui_first_meet_909da550:
 translate ukrainian yui_first_meet_8b255b9e:
 
     # mc "If it weren't for you, {w}I wouldn't be here talking right now."
-    mc "Якби не ти, {w}я, певно, зараз тут вже б не сидів і не розмовляв."
+    mc "Якби не ти, {w}я, певно, зараз тут уже б не сидів і не розмовляв."
 
 # game/game/yui_events.rpy:229
 translate ukrainian yui_first_meet_e8214b59:
@@ -435,7 +435,7 @@ translate ukrainian yui_first_meet_d7edd024:
 translate ukrainian yui_first_meet_af5ad910:
 
     # y "So... {w}you've been training since you were a child... {w}in a faraway village... {w}and that's why you're an unranked adventurer..."
-    y "Тож... {w}ти із самого дитинства тренувався... {w}у дуже далекому селищі... {w}і саме тому ти — пригодник без рангу..."
+    y "Тож... {w}ти із самого дитинства тренувався... {w}у дуже далекому селищі... {w}і саме тому ти — безранговий пригодник..."
 
 # game/game/yui_events.rpy:272
 translate ukrainian yui_first_meet_84d9991b:
@@ -549,7 +549,7 @@ translate ukrainian yui_first_meet_c836481b:
 translate ukrainian yui_first_meet_06dae9d2:
 
     # t "She's confident... no wonder she's an adventurer."
-    t "Вона така упевнена... не дивно, що вона — пригодниця."
+    t "Така впевнена... не дивно, що вона — пригодниця."
 
 # game/game/yui_events.rpy:309
 translate ukrainian yui_first_meet_fc896afd:
@@ -561,7 +561,7 @@ translate ukrainian yui_first_meet_fc896afd:
 translate ukrainian yui_first_meet_05e9f66f:
 
     # y "If you don't, I'll never forgive you for seeing me in my underwear."
-    y "Тільки спробуй відмовитися — і я ніколи не пробачу, що ти застав мене у спідньому."
+    y "Тільки спробуй відмовитися — і я ніколи не пробачу, що ти застав мене в спідньому."
 
 # game/game/yui_events.rpy:313
 translate ukrainian yui_first_meet_2b35b6fe_1:
@@ -597,7 +597,7 @@ translate ukrainian yui_first_meet_f58727b5:
 translate ukrainian yui_first_meet_b89fd437:
 
     # t "I still don't know how to control my strength... {w}I barely remember how the last fight ended..."
-    t "Я досі до кінця не розумію, як контролювати власну силу... {w}Ледве пам’ятаю, як закінчився останній бій..."
+    t "Я досі до кінця не розумію, як контролювати власну силу... {w}Ледве пам'ятаю, як закінчився останній бій..."
 
 # game/game/yui_events.rpy:321
 translate ukrainian yui_first_meet_9a2c75d2:
@@ -633,7 +633,7 @@ translate ukrainian yui_first_meet_d45107eb:
 translate ukrainian yui_first_meet_c4f32978:
 
     # mc "And where can I find her? {w}I should thank her too."
-    mc "І де я можу її знайти? {w}Мені слід її так само подякувати."
+    mc "І де я можу її знайти? {w}Мені слід їй так само подякувати."
 
 # game/game/yui_events.rpy:329
 translate ukrainian yui_first_meet_ccf28569:
@@ -675,19 +675,19 @@ translate ukrainian yui_first_meet_7d9c3197:
 translate ukrainian yui_first_meet_59cd77d4:
 
     # mc "I told you... I met her in the forest."
-    mc "Я ж сказав... ми зустрілися у лісі."
+    mc "Я ж сказав... ми зустрілися в лісі."
 
 # game/game/yui_events.rpy:344
 translate ukrainian yui_first_meet_d5db9ae2:
 
     # y "That's not what I meant... {w}But whatever..."
-    y "Я не зовсім про це... {w}А байдуже..."
+    y "Я не зовсім про це... {w}А, байдуже..."
 
 # game/game/yui_events.rpy:345
 translate ukrainian yui_first_meet_a9f246bb:
 
     # y "{size=-10}I don't know if you don't know anything or you are just pretending not to know..."
-    y "{size=-10}Не знаю, чи тобі дійсно не відомо, або ти просто робиш такий вигляд..."
+    y "{size=-10}Не знаю, чи тобі дійсно не відомо, або ти просто вдаєш..."
 
 # game/game/yui_events.rpy:346
 translate ukrainian yui_first_meet_6d02ebd4:
@@ -705,7 +705,7 @@ translate ukrainian yui_first_meet_4b368396:
 translate ukrainian yui_first_meet_3d4bc294:
 
     # y "You can come to my house in the afternoons, {w}I'm usually free around that time."
-    y "Заходь до мене десь у день, {w}зазвичай я вільна у цей час."
+    y "Заходь до мене десь удень, {w}зазвичай я вільна в цей час."
 
 # game/game/yui_events.rpy:356
 translate ukrainian yui_first_meet_5d410f13:
@@ -3945,7 +3945,7 @@ translate ukrainian yui_store_mision_a4c5c8da:
 translate ukrainian yui_store_mision_2852ba45:
 
     # y "She is a very cheerful girl and likes everything related to construction, {w}she will help you for sure."
-    y "Вона — дуже життєрадісна дівчина, якій подобається все, що пов’язано з будівництвом. {w}Вона обов’язково тобі допоможе."
+    y "Вона — дуже життєрадісна дівчина, якій подобається все, що пов'язано з будівництвом. {w}Вона обов'язково тобі допоможе."
 
 # game/game/yui_events.rpy:1438
 translate ukrainian yui_store_mision_c4422b21:
@@ -11343,7 +11343,7 @@ translate ukrainian sol_eventdos_632fe781:
 translate ukrainian sol_eventdos_74fa2127:
 
     # mc "If I remember correctly, you have good resistance."
-    mc "Якщо я правильно пам’ятаю, у тебе гарна стійкість."
+    mc "Якщо я правильно пам'ятаю, у тебе гарна стійкість."
 
 # game/game/yui_events.rpy:3575
 translate ukrainian sol_eventdos_2da7d6b2:

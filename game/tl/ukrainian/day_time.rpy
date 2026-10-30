@@ -98,7 +98,7 @@ translate ukrainian strings:
     new "{size=-10}{size=-7}ЗАХИСТ"
 
     old "{size=-10}{size=-7}VITALITY"
-    new "{size=-10}{size=-7}ЖИТТЄВА СИЛА"
+    new "{size=-10}{size=-7}ЖИВУЧІСТЬ"
 
     old "{size=-10}{size=+5}Fishing"
     new "{size=-10}{size=+5}Рибальство"

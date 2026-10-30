@@ -478,7 +478,7 @@
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Цей файл збереження було створено на іншому пристрої. Зловмисно створені файли збереження можуть завдати шкоди вашому комп’ютеру. Чи довіряєте ви автору цього файлу збереження та всім, хто міг внести зміни до цього файлу?"
+    new "Цей файл збереження було створено на іншому пристрої. Зловмисно створені файли збереження можуть завдати шкоди вашому комп'ютеру. Чи довіряєте ви автору цього файлу збереження та всім, хто міг внести зміни до цього файлу?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
@@ -1063,7 +1063,7 @@
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new "Цей комп’ютер використовує програмне рендеринг."
+    new "Цей комп'ютер використовує програмне рендеринг."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
@@ -1071,7 +1071,7 @@
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "На цьому комп’ютері виникла проблема з відображенням графіки: [problem]."
+    new "На цьому комп'ютері виникла проблема з відображенням графіки: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1079,7 +1079,7 @@
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "Файл {a=edit:1:log.txt}log.txt{/a} може містити інформацію, яка допоможе вам визначити, що не так із вашим комп’ютером."
+    new "Файл {a=edit:1:log.txt}log.txt{/a} може містити інформацію, яка допоможе вам визначити, що не так із вашим комп'ютером."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."

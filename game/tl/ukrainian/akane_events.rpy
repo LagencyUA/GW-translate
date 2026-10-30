@@ -2553,7 +2553,7 @@ translate ukrainian akane_boobs_340160bf:
 translate ukrainian akane_boobs_7b9522b2:
 
     # ak "I see here that this has already happened."
-    ak "Я бачу, що тут вже дещо відбулося."
+    ak "Я бачу, що тут уже дещо відбулося."
 
 # game/game/akane_events.rpy:886
 translate ukrainian akane_boobs_2b35b6fe:

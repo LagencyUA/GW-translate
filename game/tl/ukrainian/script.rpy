@@ -1005,7 +1005,7 @@ translate ukrainian choice2_4d5a3851:
 translate ukrainian choice2_1931869d:
 
     # k "No no, that's amazing! A soul who remembers his past life couldn't be more interesting!"
-    k "Ні-ні, це дивовижно! Душа, яка пам’ятає своє минуле життя, — це найцікавіше, що тільки може бути!"
+    k "Ні-ні, це дивовижно! Душа, яка пам'ятає своє минуле життя, — це найцікавіше, що тільки може бути!"
 
 # game/game/script.rpy:430
 translate ukrainian choice2_6cad4a2d:
@@ -2757,7 +2757,7 @@ translate ukrainian lake_d023c69f:
 translate ukrainian lake_04745eeb:
 
     # "You tear off part of your clothes and use it to craft a makeshift rope, tying it to your katana."
-    "Ти відриваєш частину свого одягу, перетворюючи її на імпровізовану мотузку, прив’язуєш її до своєї катани."
+    "Ти відриваєш частину свого одягу, перетворюючи її на імпровізовану мотузку, прив'язуєш її до своєї катани."
 
 # game/game/script.rpy:914
 translate ukrainian lake_82004fb3:
@@ -6897,7 +6897,7 @@ translate ukrainian keiko_gal1_5159028c:
 translate ukrainian keiko_gal1_79bcef39:
 
     # r "Master [mc]!"
-    r "Гсподарю [name_form('voc')]!"
+    r "Господарю [name_form('voc')]!"
 
 # game/game/script.rpy:2208
 translate ukrainian keiko_gal1_80854cfd:
@@ -6933,7 +6933,7 @@ translate ukrainian keiko_gal1_7f62da09:
 translate ukrainian keiko_gal1_dfaf98f0:
 
     # a "I don't think he can speak right now, Ryoko."
-    a "Не думаю, він може зараз розмовляти, Рьоко."
+    a "Не думаю, що він може зараз розмовляти, Рьоко."
 
 # game/game/script.rpy:2215
 translate ukrainian keiko_gal1_bb735ea0:
@@ -6945,7 +6945,7 @@ translate ukrainian keiko_gal1_bb735ea0:
 translate ukrainian keiko_gal1_d468a633:
 
     # a "In fact, {w}according to the doctor, it would've been a miracle if he ever woke up..."
-    a "Насправді, {w}зважаючи на слова лікарки, це буде справжнім дивом, якщо він взагалі прокинеться..."
+    a "Насправді, {w}як казала лікарка, те, що він узагалі отямиться буде справжнім дивом..."
 
 # game/game/script.rpy:2218
 translate ukrainian keiko_gal1_3f34ddf9:
@@ -6969,13 +6969,13 @@ translate ukrainian keiko_gal1_b7851fd7:
 translate ukrainian keiko_gal1_7dbdf747:
 
     # a "Let him rest for now. When he's fully recovered, tell him to come and speak with me."
-    a "Дозволь йому відпочити. А коли він повністю одужає, передай йому, щоб він зайшов до мене побалакати."
+    a "Дозволь йому відпочити. А коли він повністю одужає, передай йому, щоб зайшов до мене побалакати."
 
 # game/game/script.rpy:2222
 translate ukrainian keiko_gal1_87d181f3:
 
     # a "You should get some rest too... {w}You've been awake since we arrived in the village."
-    a "І ти теж маєш трохи відпочити... {w}Ти не спала із самого візиту до нашого селища."
+    a "І ти теж маєш трохи відпочити... {w}Ти не спала із самого прибуття до нашого селища."
 
 # game/game/script.rpy:2223
 translate ukrainian keiko_gal1_b9b755e5:
@@ -7227,13 +7227,13 @@ translate ukrainian ryoko_encounter_1d53767a:
 translate ukrainian ryoko_encounter_c7c1dd12:
 
     # r "After I made it out of the forest, I hit a big wall."
-    r "Коли я вибралася з лісу, я натрапила на велику стіну."
+    r "Коли я вибралася з лісу, то натрапила на велику стіну."
 
 # game/game/script.rpy:2295
 translate ukrainian ryoko_encounter_8265a239:
 
     # r "I screamed for help for a long time, but no one answered."
-    r "Я довго кричала про допомогу, але ніхто не відповідав."
+    r "Я довго кликала на допомогу, але ніхто не відповідав."
 
 # game/game/script.rpy:2296
 translate ukrainian ryoko_encounter_dc429b48:
@@ -7407,7 +7407,7 @@ translate ukrainian ryoko_encounter_5ffa9935:
 translate ukrainian ryoko_encounter_acf752a9:
 
     # t "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
-    t "Треба пошукати Юї у селищі. Варто також скористатися нагодою та оглянути все й зібрати трохи інформації."
+    t "Треба пошукати Юї в селищі. Варто також скористатися нагодою та оглянути все й зібрати трохи інформації."
 
 # game/game/script.rpy:2367
 translate ukrainian town1_2e0621f0:
@@ -7431,7 +7431,7 @@ translate ukrainian town1_6c70c421:
 translate ukrainian villagers_help_b27ea96b:
 
     # t "I'll ask them if they know where Yui is."
-    t "Спитаю у них, чи вони знають де Юї."
+    t "Спитаю в них, чи вони знають де Юї."
 
 # game/game/script.rpy:2380
 translate ukrainian villagers_help_21e17cc6:
@@ -7479,7 +7479,7 @@ translate ukrainian villagers_help_305b9b52:
 translate ukrainian villagers_help_27f0aac1:
 
     # "{color=#E4D8AA}{size=-8}O-Oh! Not at all, great warrior! Say, do you have a girlfriend?"
-    "{color=#E4D8AA}{size=-8}О-Ох! Зовсім ні, величний воїне! Скажи но, у тебе часом немає дівчини?"
+    "{color=#E4D8AA}{size=-8}О-Ох! Зовсім ні, величний воїне! Скажи-но, у тебе часом немає дівчини?"
 
 # game/game/script.rpy:2391
 translate ukrainian villagers_help_d0270029:
@@ -7497,7 +7497,7 @@ translate ukrainian villagers_help_816905b8:
 translate ukrainian villagers_help_adeef2d3:
 
     # "{color=#E4D8AA}{size=-8}I think she's probably at home right now."
-    "{color=#E4D8AA}{size=-8}Гадаю, вона зараз має бути у себе вдома."
+    "{color=#E4D8AA}{size=-8}Гадаю, вона зараз має бути в себе вдома."
 
 # game/game/script.rpy:2396
 translate ukrainian villagers_help_3f6e421d:
@@ -7515,7 +7515,7 @@ translate ukrainian villagers_help_f5a90963:
 translate ukrainian villagers_help_67ea5869:
 
     # "{color=#E4D8AA}Maybe my memory will come back if you accompany me to my house and-"
-    "{color=#E4D8AA}Можливо, моя пам’ять повернеться, якщо ти проведеш мене додому і-"
+    "{color=#E4D8AA}Можливо, моя пам'ять повернеться, якщо ти проведеш мене додому і-"
 
 # game/game/script.rpy:2400
 translate ukrainian villagers_help_0e242fbb:
@@ -7665,7 +7665,7 @@ translate ukrainian village_street_d6e0ebea:
 translate ukrainian village_street_ad6d5425:
 
     # t "I forgot to ask Yui the doctor's name..."
-    t "Забув спитати у Юї ім'я лікарки..."
+    t "Забув спитати в Юї ім'я лікарки..."
 
 # game/game/script.rpy:2474
 translate ukrainian village_street_975f9a71:
@@ -7695,13 +7695,13 @@ translate ukrainian village_street_c62bd3a6:
 translate ukrainian village_street_d17e1299:
 
     # t "Did I just bump into someone?"
-    t "Я щойно у когось влетів?"
+    t "Я щойно в когось влетів?"
 
 # game/game/script.rpy:2486
 translate ukrainian village_street_9aef862a:
 
     # t "At least I landed on something soft."
-    t "Принаймні приземлився я на щось м’яке."
+    t "Принаймні приземлився я на щось м'яке."
 
 # game/game/script.rpy:2487
 translate ukrainian village_street_54fa82b7:
@@ -7785,7 +7785,7 @@ translate ukrainian village_street_e0715dbc:
 translate ukrainian village_street_a6feba68:
 
     # a "Move. You're blocking the doorway."
-    a "Рухайся вже. Ти у проході стоїш."
+    a "Рухайся вже. Ти в проході стоїш."
 
 # game/game/script.rpy:2517
 translate ukrainian village_street_35882fba:
@@ -8169,7 +8169,7 @@ translate ukrainian doctor_1_9fed6771:
 translate ukrainian doctor_1_911b8314:
 
     # s "And take your shoes off! Don't you have any manners?"
-    s "І ану роззувайся! Про манери ти взагалі чув?"
+    s "І ану роззувайся! Ти про манери взагалі чув?"
 
 # game/game/script.rpy:2684
 translate ukrainian doctor_1_9d89cde5:

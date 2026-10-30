@@ -1641,7 +1641,7 @@ translate ukrainian ryoko_1_e8ffc156:
 translate ukrainian ryoko_1_91bba5e9:
 
     # r "You can tell it's been a long time since anyone has lived here."
-    r "Видно, що тут вже доволі давно ніхто не жив."
+    r "Видно, що тут уже доволі давно ніхто не жив."
 
 # game/game/ryoko_events.rpy:593
 translate ukrainian ryoko_1_bb4c4ea0:
@@ -2475,7 +2475,7 @@ translate ukrainian ryoko_go_hana_3feca99f:
 translate ukrainian ryoko_go_hana_6b50112e:
 
     # r "Master! Hurry up!"
-    r "Гсподарю! Покваптеся!"
+    r "Господарю! Покваптеся!"
 
 # game/game/ryoko_events.rpy:891
 translate ukrainian ryoko_go_hana_6d6c9c1a:
@@ -7395,7 +7395,7 @@ translate ukrainian ryoko_gal3_60ff9df9:
 translate ukrainian ryoko_gal3_e2e66f4f:
 
     # mc "I see... but I think it's wet enough here for me to be able to get in perfectly..."
-    mc "Ясно... проте мені здається, що тут вже достатньо волого, аби я ідеально увійшов..."
+    mc "Ясно... проте мені здається, що тут уже достатньо волого, аби я ідеально увійшов..."
 
 # game/game/ryoko_events.rpy:2379
 translate ukrainian ryoko_gal3_86c7954d:

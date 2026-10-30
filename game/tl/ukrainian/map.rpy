@@ -3,7 +3,7 @@
 translate ukrainian call_room1_5afcdf51:
 
     # "I should let Ryoko sleep while I go see Yui in the village."
-    "Мені слід дати Рьоко поспати, а самому піти до Юї у селище."
+    "Мені слід дати Рьоко поспати, а самому піти до Юї в селище."
 
 # game/game/map.rpy:157
 translate ukrainian pasillo_19d1a239:

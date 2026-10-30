@@ -45,7 +45,7 @@ translate ukrainian hana_talk_12db36b4:
 translate ukrainian hana_talk_3fba56e7:
 
     # mc "Thank you, Hana... for saving my life."
-    mc "Дякую тобі, Хано... за те, що урятувала мені життя."
+    mc "Дякую тобі, Хано... за те, що врятувала мені життя."
 
 # game/game/hana_events.rpy:106
 translate ukrainian hana_talk_8edac5d5:
@@ -189,7 +189,7 @@ translate ukrainian hana_talk_31c2f7fa:
 translate ukrainian hana_talk_fac88981:
 
     # mc "Could you explain why I'm considered \"so weird\" in this village?"
-    mc "Не поясниш мені, будь ласка, чому всі у цьому селищі вважають мене «таким дивним»?"
+    mc "Не поясниш мені, будь ласка, чому всі в цьому селищі вважають мене «таким дивним»?"
 
 # game/game/hana_events.rpy:153
 translate ukrainian hana_talk_75950370:
@@ -333,7 +333,7 @@ translate ukrainian hana_talk_d8caab6d:
 translate ukrainian hana_talk_044b7416:
 
     # s "{size=-10}What's that? {w}There's a bulge in his pants..."
-    s "{size=-10}Що це? {w}У нього щось випирає у штанях..."
+    s "{size=-10}Що це? {w}У нього щось випирає в штанях..."
 
 # game/game/hana_events.rpy:199
 translate ukrainian hana_talk_ddad5f46:
@@ -357,7 +357,7 @@ translate ukrainian hana_talk_4c280e2f:
 translate ukrainian hana_talk_51565cbb:
 
     # h "Until one day, a kingdom decided to declare war on anyone who stood in its way."
-    h "Аж поки одного дня королівство вирішило оголосити війну усім, хто стане на його заваді."
+    h "Аж поки одного дня королівство вирішило оголосити війну усім, хто стане йому на заваді."
 
 # game/game/hana_events.rpy:207
 translate ukrainian hana_talk_9b3fd942:
@@ -441,7 +441,7 @@ translate ukrainian hana_talk_2ad5b84b:
 translate ukrainian hana_talk_855f3fe8:
 
     # mc "And... why haven't I seen any men in the village since I got here?"
-    mc "А ще... чому я досі не бачив жодного чоловіка у цьому селищі?"
+    mc "А ще... чому я досі не бачив жодного чоловіка в цьому селищі?"
 
 # game/game/hana_events.rpy:235
 translate ukrainian hana_talk_4d67de9b:
