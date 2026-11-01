@@ -89,7 +89,7 @@ translate ukrainian strings:
     new "{size=-10}{size=+5}Дерево навичок"
 
     old "{size=-10}{size=-8}Points: [store.player_stats['skill_points']]"
-    new "{size=-10}{size=-8}Очків: [store.player_stats['skill_points']]"
+    new "{size=-10}{size=-8}Очок: [store.player_stats['skill_points']]"
 
     old "{size=-10}{size=-7}STRENGTH"
     new "{size=-10}{size=-7}СИЛА"
@@ -107,7 +107,7 @@ translate ukrainian strings:
     new "{size=-16}Рівень [fishing_level]  "
 
     old "{size=-10}{size=-8}Points: [fishing_skill_points]"
-    new "{size=-10}{size=-8}Очків: [fishing_skill_points]"
+    new "{size=-10}{size=-8}Очок: [fishing_skill_points]"
 
     # game/day_time.rpy:4401
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Fishing Mastery{/font}\nYou will tire the fish faster with each {color=#39A761}correct zone{/color} hit."
@@ -128,7 +128,7 @@ translate ukrainian strings:
     new "{size=-16}Рівень [harvesting_level]  "
 
     old "{size=-10}{size=-8}Points: [harvesting_skill_points]"
-    new "{size=-10}{size=-8}Очків: [harvesting_skill_points]"
+    new "{size=-10}{size=-8}Очок: [harvesting_skill_points]"
 
     # game/day_time.rpy:4430
     old "{size=-18}{font=fonts/Sacred Bridge Demo.ttf}Hands of Steel{/font}\nIncreases the strength of your strikes, dealing {color=#39A761}more damage{/color} to the tree"
@@ -376,7 +376,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:842
     old "{color=#FF438D}H{/color}-Event\nAdvance the mission {color=#FBE5A2}\"Needs of a trainer\"{/color}."
-    new "{color=#FF438D}Х{/color}-подія\nПросунся завданням {color=#FBE5A2}«Потреби тренера»{/color}."
+    new "{color=#FF438D}Х{/color}-подія\nПросунься завданням {color=#FBE5A2}«Потреби тренера»{/color}."
 
     # game/day_time.rpy:856
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nTrain the three girls."
@@ -518,7 +518,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1309
     old "{color=#FFFFFF}N{/color}-Event\nSee what {color=#E7CAE5}Shika{/color} is doing outside {color=#919191}Mayu's{/color} house in the afternoon."
-    new "{color=#FFFFFF}З{/color}-полія\nПоглянь, що робить {color=#E7CAE5}Шика{/color} біля будинку {color=#919191}Маю{/color} вдень."
+    new "{color=#FFFFFF}З{/color}-подія\nПоглянь, що робить {color=#E7CAE5}Шика{/color} біля будинку {color=#919191}Маю{/color} вдень."
 
     # game/day_time.rpy:1311
     old "{color=#FF438D}H{/color}-Event\nComplete the mission {color=#E7CAE5}\"Picnic and Herbs\"{/color}."
@@ -660,7 +660,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1757
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFollow the instructions of the mission {color=#319B85}\"Cat's Curiosity\"{/color}."
-    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nДотримуйтеся вказівок завдання {color=#319B85}«Кошача цікавість»{/color}."
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nДотримуйся вказівок завдання {color=#319B85}«Кошача цікавість»{/color}."
 
     # game/day_time.rpy:1767
     old "{color=#FFFFFF}N{/color}-Event\nTalk with {color=#319B85}Charlotte{/color} in the afternoon."

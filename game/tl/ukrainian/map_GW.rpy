@@ -39,7 +39,7 @@ translate ukrainian first_forest_event_9acba429:
 translate ukrainian first_forest_event_049908a1:
 
     # r "Will you stay home today Master?"
-    r "Господарю, ви согодні не плануєте нікуди йти?"
+    r "Господарю, ви сьогодні не плануєте нікуди йти?"
 
 # game/game/map_GW.rpy:64
 translate ukrainian first_forest_event_9d63bfc5:
@@ -459,7 +459,7 @@ translate ukrainian first_forest_event_95652ff0:
 translate ukrainian first_forest_event_d87d1769:
 
     # y "I've trained a lot of people, but most of them are just villagers."
-    y "Я вже багато кого встигла натренувати, але все-ж-таки вони досі прості селянки."
+    y "Я вже багато кого встигла натренувати, але все ж таки вони досі прості селянки."
 
 # game/game/map_GW.rpy:176
 translate ukrainian first_forest_event_2e639836:
@@ -651,7 +651,7 @@ translate ukrainian first_forest_event_c137b2f9:
 translate ukrainian first_forest_event_11467660:
 
     # h "You have to pass some tests, but we'll talk about that once we've taken the first step."
-    h "Тобі доведеться скласти пару тестів, але поговоримо про це вже, як виконаємо перший крок."
+    h "Тобі доведеться скласти кілька тестів, але поговоримо про це вже, як виконаємо перший крок."
 
 # game/game/map_GW.rpy:235
 translate ukrainian first_forest_event_4e9eab7e:
@@ -681,7 +681,7 @@ translate ukrainian first_forest_event_88759579:
 translate ukrainian first_forest_event_9b56e36d:
 
     # h "And bring your katana, don't forget it."
-    h "І не забуть про свою катану."
+    h "І не забудь про свою катану."
 
 # game/game/map_GW.rpy:241
 translate ukrainian first_forest_event_a4c25dcd:
@@ -819,13 +819,13 @@ translate ukrainian first_forest_event_f93cba98:
 translate ukrainian first_forest_event_731ebc3b:
 
     # t "I don't want anything to happen to her.... but she seems insistent, which is rare..."
-    t "Я не хочу, аби з нею щось трапилося.... але зараз вона наполеглива, не часто таке буває..."
+    t "Я не хочу, аби з нею щось трапилося... але зараз вона наполеглива, не часто таке буває..."
 
 # game/game/map_GW.rpy:282
 translate ukrainian first_forest_event_a11bc457:
 
     # mc "Mmm.."
-    mc "Ммм.."
+    mc "Ммм..."
 
 # game/game/map_GW.rpy:283
 translate ukrainian first_forest_event_f04836a8:
@@ -855,7 +855,7 @@ translate ukrainian first_forest_event_acca04ea:
 translate ukrainian first_forest_event_7837341d:
 
     # mc "Never leave my side, got it?"
-    mc "Ніколи не віходь від мене. Зрозуміла?"
+    mc "Ніколи не відходь від мене. Зрозуміла?"
 
 # game/game/map_GW.rpy:290
 translate ukrainian first_forest_event_5d9497a5_1:
@@ -957,7 +957,7 @@ translate ukrainian first_forest_event_3f4b91a4:
 translate ukrainian first_forest_event_18c6c47c:
 
     # r "{size=-10} [mc]...?"
-    r "{size=-10} [name_form('voc')]...?"
+    r "{size=-10}[name_form('voc')]...?"
 
 # game/game/map_GW.rpy:339
 translate ukrainian first_forest_event_6355db99:
@@ -975,7 +975,7 @@ translate ukrainian first_forest_event_b9b755e5_3:
 translate ukrainian first_forest_event_d4bcee31:
 
     # mc "Everything is fine now."
-    mc "Тихо-тихо, тепер усе гараз."
+    mc "Тихо-тихо, тепер усе гаразд."
 
 # game/game/map_GW.rpy:346
 translate ukrainian first_forest_event_d596c20b:
@@ -1065,7 +1065,7 @@ translate ukrainian first_forest_event_7aec0757:
 translate ukrainian first_forest_event_27bfefc9:
 
     # r "Hello doctor!"
-    r "Доброгу ранку, лікарко!"
+    r "Доброго ранку, лікарко!"
 
 # game/game/map_GW.rpy:376
 translate ukrainian first_forest_event_53dad3eb:
@@ -1215,7 +1215,7 @@ translate ukrainian first_forest_event_d3350169:
 translate ukrainian first_forest_event_c197fc27:
 
     # ak "Great wolves are territorial, so I doubt that none will show up."
-    ak "Могутні вовки — тереторіальні тварини, тому сумніваюся, що жоден з них не з'явиться."
+    ak "Могутні вовки — територіальні тварини, тому сумніваюся, що жоден з них не з'явиться."
 
 # game/game/map_GW.rpy:415
 translate ukrainian first_forest_event_db99afe4:

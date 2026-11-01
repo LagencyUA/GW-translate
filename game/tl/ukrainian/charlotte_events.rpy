@@ -213,7 +213,7 @@ translate ukrainian charlotte_first_meet_7740cb7e:
 translate ukrainian charlotte_first_meet_2d4af059:
 
     # mc "I should look for a way to hold her in my arms."
-    mc "Варто пошукати спосіб вз'яти її на руки."
+    mc "Варто пошукати спосіб взяти її на руки."
 
 # game/game/charlotte_events.rpy:113
 translate ukrainian charlotte_first_meet_3cf7394a:
@@ -435,7 +435,7 @@ translate ukrainian ear_touch_da2293be:
 translate ukrainian ear_touch_d3d40be4:
 
     # mc "Ehh.."
-    mc "Емм.."
+    mc "Емм..."
 
 # game/game/charlotte_events.rpy:202
 translate ukrainian ear_touch_2bce9a98:
@@ -825,7 +825,7 @@ translate ukrainian char_leaving_2eeb2d5c:
 translate ukrainian char_menu_1_1fdcb277:
 
     # t "If I manage to catch some fish, maybe she'll talk to me..."
-    t "Можливо, вона захоче поговорити, якщо спіймаю пару рибин..."
+    t "Можливо, вона захоче поговорити, якщо спіймаю кілька рибин..."
 
 # game/game/charlotte_events.rpy:351
 translate ukrainian char_wake_657298e9:
@@ -1209,7 +1209,7 @@ translate ukrainian charlotte_event_2_a85fcb93:
 translate ukrainian charlotte_event_2_99d42389:
 
     # mc "That's how you call me, right?"
-    mc "Ти сама мене так кличиш, хіба ні?"
+    mc "Ти сама мене так кличеш, хіба ні?"
 
 # game/game/charlotte_events.rpy:474
 translate ukrainian charlotte_event_2_f7828bc6:
@@ -1245,7 +1245,7 @@ translate ukrainian charlotte_event_2_37533d0f:
 translate ukrainian charlotte_event_2_e68fd79a:
 
     # mc "Each person is unique, including-"
-    mc "Кожен по своєму унікальний, влючно з-..."
+    mc "Кожен по своєму унікальний, включно з-..."
 
 # game/game/charlotte_events.rpy:485
 translate ukrainian charlotte_event_2_d589e032:
@@ -1761,7 +1761,7 @@ translate ukrainian char_event3_2f29d001:
 translate ukrainian char_event3_0e734d98:
 
     # t "{i}I don't really know anything other than she likes fish and kicks orcs..."
-    t "{i}Я справді мало про неї знаю окрім того, що вона любить рибу та може наваляти оркам..."
+    t "{i}Я справді мало про неї знаю, окрім того, що вона любить рибу та може наваляти оркам..."
 
 # game/game/charlotte_events.rpy:663
 translate ukrainian char_event3_30f6982d:
@@ -2199,7 +2199,7 @@ translate ukrainian char_event4_0092bd3d:
 translate ukrainian char_event4_fb0c66fb:
 
     # c "{size=-6}{i}Is he..."
-    c "{size=-6}{i}Навже він..."
+    c "{size=-6}{i}Невже він..."
 
 # game/game/charlotte_events.rpy:860
 translate ukrainian char_event4_7cfef7e6:
@@ -2577,7 +2577,7 @@ translate ukrainian char_event4_0efb7db8:
 translate ukrainian char_event4_6e478418:
 
     # mc "Err... {w}nothing..."
-    mc "Емм... {w}забуть..."
+    mc "Емм... {w}забудь..."
 
 # game/game/charlotte_events.rpy:946
 translate ukrainian char_event4_7529a5f3:
@@ -2931,7 +2931,7 @@ translate ukrainian char_event4_7c927b78:
 translate ukrainian char_event4_1e4d13f6:
 
     # c "Why have I been feeling something hard against my back for a while now?"
-    c "Чому я вже пений час відчуваю щось тверде позаду?"
+    c "Чому я вже певний час відчуваю щось тверде позаду?"
 
 # game/game/charlotte_events.rpy:1028
 translate ukrainian char_event4_2b35b6fe_3:
@@ -3051,7 +3051,7 @@ translate ukrainian char_gal1_d19f855d_1:
 translate ukrainian char_gal1_130fe7d8:
 
     # c "Move back, I can barely move like this."
-    c "Відсунся трохи, мені так важко рухатися."
+    c "Відсунься трохи, мені так важко рухатися."
 
 # game/game/charlotte_events.rpy:1058
 translate ukrainian char_gal1_251d2c70:
@@ -3249,7 +3249,7 @@ translate ukrainian char_gal1_1d82a7e7:
 translate ukrainian char_gal1_4722d9f1:
 
     # c "Is this okay? {w=0.5}Are you feeling good Human?"
-    c "Ость так нормально? {w=0.5}Тобі приємно, Людино?"
+    c "Ось так нормально? {w=0.5}Тобі приємно, Людино?"
 
 # game/game/charlotte_events.rpy:1102
 translate ukrainian char_gal1_84d9991b:
@@ -3471,7 +3471,7 @@ translate ukrainian char_gal1_35a6432a:
 translate ukrainian char_gal1_7773e988:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}{i}Gulp*{/size}{/sc} {w}D-Definitely..."
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}{i}*Ковть*{/i}{/size}{/sc} {w}Щ-Ще й як..."
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}{i}*Ковть*{/i}{/size}{/sc} {w}Щ-Ще б пак..."
 
 # game/game/charlotte_events.rpy:1143
 translate ukrainian char_gal1_d27a3e64:
@@ -3597,7 +3597,7 @@ translate ukrainian char_gal1_e37778cd:
 translate ukrainian char_gal1_9114de01:
 
     # mc "Strange in a bad way?"
-    mc "Дивний у поганом сенсі?"
+    mc "Дивний у поганому сенсі?"
 
 # game/game/charlotte_events.rpy:1169
 translate ukrainian char_gal1_d19f855d_3:
@@ -17631,7 +17631,7 @@ translate ukrainian char_debt_2c62a17a:
 translate ukrainian char_debt_cb42bf09:
 
     # "{image=corazon}Charlotte's affection has increased to [charlotte_affection]{image=corazon}\n {image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
-    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}\n {image=corazon}Ryoko's affection has increased to [ryoko_affection]{image=corazon}\n {image=corazon}Akane's affection has increased to [akane_affection]{image=corazon}"
+    "{image=corazon}Прихильність Шарлотти зросла до [charlotte_affection]{image=corazon}\n {image=corazon}Прихильність Рьоко зросла до [ryoko_affection]{image=corazon}\n {image=corazon}Прихильність Акане зросла до [akane_affection]{image=corazon}"
 
 # game/game/charlotte_events.rpy:5334
 translate ukrainian char_training_669664cb:
@@ -19855,7 +19855,7 @@ translate ukrainian strings:
 
     # game/charlotte_events.rpy:130
     old "Touch her ears"
-    new "Торнкутися її вух"
+    new "Торкнутися її вух"
 
     # game/charlotte_events.rpy:130
     old "Sit next to her"

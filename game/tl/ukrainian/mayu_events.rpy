@@ -15,7 +15,7 @@ translate ukrainian mayu_variables_bd13f588:
 translate ukrainian mayu_event_1_d519b8ec:
 
     # t "This should be where Mayu lives."
-    t "Певно це і є дім, де живе Маю."
+    t "Певно, це і є дім, де живе Маю."
 
 # game/game/mayu_events.rpy:116
 translate ukrainian mayu_event_1_834ae035:
@@ -201,7 +201,7 @@ translate ukrainian mayu_event_1_b2b9e19d:
 translate ukrainian mayu_event_1_f7ba2b97:
 
     # ma "Come on!"
-    ma "Нужбо!"
+    ma "Ну ж бо!"
 
 # game/game/mayu_events.rpy:171
 translate ukrainian mayu_event_1_86ec4477:
@@ -1030,7 +1030,7 @@ translate ukrainian mayu_mission_katana_d9d47ba3:
 translate ukrainian mayu_mission_katana_2c2eb0c1:
 
     # t "Are you going to pretend it didn't happen?"
-    t "Робитимеш вигляд, ніби нічого не сталося?"
+    t "Удаватимеш, ніби нічого не сталося?"
 
 # game/game/mayu_events.rpy:1093
 translate ukrainian mayu_mission_katana_a0609093:
@@ -1306,7 +1306,7 @@ translate ukrainian mayu_mission_katana_27d8194c:
 translate ukrainian mayu_mission_katana_a91cc3d8:
 
     # ma "Let's go in that direction and we'll find it!"
-    ma "Йдемо далі туди і ми його знайдемо!"
+    ma "Йдемо далі туди й ми його знайдемо!"
 
 # game/game/mayu_events.rpy:1169
 translate ukrainian mayu_mission_katana_f7907702:
@@ -1486,7 +1486,7 @@ translate ukrainian mayu_mission_katana_03fb3e88:
 translate ukrainian mayu_mission_katana_700778be:
 
     # ma "Could you stop massaging my boob?"
-    ma "Не міг би ти зупунитися мацати мої груди?"
+    ma "Не міг би ти перестати мацати мої груди?"
 
 # game/game/mayu_events.rpy:1211
 translate ukrainian mayu_mission_katana_2b35b6fe_8:
@@ -1780,7 +1780,7 @@ translate ukrainian mayu_gal1_ab1f798e:
 translate ukrainian mayu_gal1_76f7ff10:
 
     # ma "Clean your lungs or something!"
-    ma "Прочисти легені чи що!"
+    ma "Прокашляйся гарненько чи що!"
 
 # game/game/mayu_events.rpy:1297
 translate ukrainian mayu_gal1_9ddc03d3_1:
@@ -1804,7 +1804,7 @@ translate ukrainian mayu_gal1_b1980c6f:
 translate ukrainian mayu_gal1_d9bee022:
 
     # ma "Are the spores affecting me?{image=/bg/icons/heart_text.png}"
-    ma "Невже спори вплинули і на мене?{image=/bg/icons/heart_text.png}"
+    ma "Невже спори вплинули й на мене?{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1303
 translate ukrainian mayu_gal1_9c98d2b3:
@@ -1960,7 +1960,7 @@ translate ukrainian mayu_gal1_208b729b:
 translate ukrainian mayu_gal1_93c1b6e0:
 
     # ma "Fucking spores, they'll make me cum just by you rubbing your penis on me{image=/bg/icons/heart_text.png}"
-    ma "Їбучі спори. Завдяки ним я зараз кінчу тільки через те, що ти трешся об мене своїм членом{image=/bg/icons/heart_text.png}"
+    ma "Їбучі спори. Завдяки їм я зараз кінчу тільки через те, що ти трешся об мене своїм членом{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1334
 translate ukrainian mayu_gal1_6963936d:
@@ -2086,7 +2086,7 @@ translate ukrainian mayu_gal1_4c3a8d73:
 translate ukrainian mayu_gal1_f80fd480:
 
     # mc "I still want to apologize for-"
-    mc "Я досі хотів би вибачитися через-"
+    mc "Я досі хотів би перепросити через-"
 
 # game/game/mayu_events.rpy:1394
 translate ukrainian mayu_gal1_931729db:
@@ -2146,7 +2146,7 @@ translate ukrainian kitchen_build_2c6cab79:
 translate ukrainian kitchen_build_8034aec3:
 
     # ma "What great job will you give me today?!"
-    ma "Яке захоплююче завдання ти мені сьогодні доручиш?!"
+    ma "Яке захопливе завдання ти мені сьогодні доручиш?!"
 
 # game/game/mayu_events.rpy:1417
 translate ukrainian kitchen_build_7a5af78e:
@@ -14039,7 +14039,7 @@ translate ukrainian strings:
     new "-250 золотих монет"
 
     old "-40 Wood"
-    new "-40 деревени"
+    new "-40 деревини"
 
     old "You've unlocked a new room in your house!"
     new "Нова кімната з'явилася у твоєму будинку!"
@@ -14051,10 +14051,10 @@ translate ukrainian strings:
     new "Кілька днів по тому."
 
     old "-250 gold and -40 wood."
-    new "-250 золотих монет і -40 деревени."
+    new "-250 золотих монет і -40 деревини."
 
     old "300 gold and 50 wood have been taken from your inventory."
-    new "-300 золотих монет і -50 деревени."
+    new "-300 золотих монет і -50 деревини."
 
     old "You and Mayu take the firewood home."
     new "You and Mayu take the firewood home."

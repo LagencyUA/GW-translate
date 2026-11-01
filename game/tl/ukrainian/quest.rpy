@@ -135,7 +135,7 @@ translate ukrainian strings:
 translate ukrainian strings:
     # Знайти Юї / Find Yui      yui_mission_task
     old "{size=-5}{i}{b}{color=#C9887C}Ryoko{/color} told me that I was saved by a girl named {color=#FBE5A2}Yui{/color}.\nMaybe someone in the village knows where she lives."
-    new "{size=-5}{i}{b}{color=#C9887C}Рьоко{/color} розповіла мені, що мене врятувала дівчина на ім'я {color=#FBE5A2}Юї{/color}. \nХтось у селищі, певно, знає де вона живе."
+    new "{size=-5}{i}{b}{color=#C9887C}Рьоко{/color} розповіла мені, що мене врятувала дівчина, на ім'я {color=#FBE5A2}Юї{/color}. \nХтось у селищі, певно, знає де вона живе."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Ask someone in the village for directions."
     new "{color=#E3CD5B}{b}•{/b}{/color} Попросіть когось із мешканців селища вказати вам дорогу."
@@ -147,7 +147,7 @@ translate ukrainian strings:
     new "{color=#E3CD5B}{b}•{/b}{/color} Пошукай будинок {color=#F3915B}Хани{/color} з протилежної сторони від тої, звідки ти прийшов."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go back to your new home and see {color=#C9887C}Ryoko{/color}."
-    new "{color=#E3CD5B}{b}•{/b}{/color} Вертайся до свого нового дому і зустрінся з {color=#C9887C}Рьоко{/color}."
+    new "{color=#E3CD5B}{b}•{/b}{/color} Вертайся до свого нового дому і зустрінься з {color=#C9887C}Рьоко{/color}."
 
     # Дізнатися більше / Learn More     main_mission1_task
     old "{size=-5}{i}{b}I came to this new world and almost died in the first day, I should get more information while I get to know the people of this village."
@@ -216,7 +216,7 @@ translate ukrainian strings:
     new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з нею знову."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Trust your instincts and catch 3 E-rank fish."
-    new "{color=#E3CD5B}{b}•{/b}{/color} Довірся інстинкам і злови 3 риби E-рангу."
+    new "{color=#E3CD5B}{b}•{/b}{/color} Довірся інстинктам і злови 3 риби E-рангу."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} It worked, but she won't talk to me unless I bring her food. I should keep doing that."
     new "{color=#E3CD5B}{b}•{/b}{/color} Спрацювало, хоча вона не хоче зі мною розмовляти, якщо я не дам їй їжі. Мені слід продовжувати."
@@ -276,7 +276,7 @@ translate ukrainian strings:
     new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з {color=#FBE5A2}Юї{/color} у неї вдома."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Talk to {color=#919191}Mayu{/color} to find out what you need to make a custom katana."
-    new "{color=#E3CD5B}{b}•{/b}{/color} Поровори з {color=#919191}Маю{/color}, аби дізнатися, що потрібно для виготовлення дерев'яної катани."
+    new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з {color=#919191}Маю{/color}, аби дізнатися, що потрібно для виготовлення дерев'яної катани."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} You already have the katana. Now you just need {color=#FBE5A2}Yui's{/color} training doll."
     new "{color=#E3CD5B}{b}•{/b}{/color} Ти вже отримав катану. Залишилося лише дістати тренувальну ляльку в {color=#FBE5A2}Юї{/color}."

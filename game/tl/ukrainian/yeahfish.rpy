@@ -836,10 +836,10 @@ translate ukrainian strings:
     new "Погано"
 
     old "Every time you miss or the {color=#39A761}green zone{/color} changes place, the hook will be {color=#C23833}damaged{/color}."
-    new "Кожного разу, коли ти промахуєшся або {color=#39A761}зелена зона{/color} змінює положення з часом, гачок зазнає {color=#C23833}шкоди{/color}."
+    new "Щоразу коли ти промахуєшся або {color=#39A761}зелена зона{/color} змінює положення з часом, гачок зазнає {color=#C23833}шкоди{/color}."
 
     old "The fish will move from {color=#7FAED9}left{/color} to {color=#7FAED9}right{/color}, when it passes over the {color=#39A761}green zone{/color} (or {color=#C23833}red zone{/color}), you must click or press space bar. (Tap for Android)"
-    new "Риба рухається з {color=#7FAED9}ліва{/color} на {color=#7FAED9}право{/color}, і коли вона пропливе над {color=#39A761}зеленою зоною{/color} (або {color=#C23833}червоною зоною{/color}), необхідно клацнути або натиснути пробіл (тиснути на екран для Android)."
+    new "Риба рухається {color=#7FAED9}зліва{/color} {color=#7FAED9}направо{/color}, і коли вона пропливе над {color=#39A761}зеленою зоною{/color} (або {color=#C23833}червоною зоною{/color}), необхідно клацнути або натиснути пробіл (тиснути на екран для Android)."
 
     old "Now you can fish in Sakura Town!"
     new "Now you can fish in Sakura Town!"

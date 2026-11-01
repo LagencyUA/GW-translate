@@ -9,7 +9,7 @@ translate ukrainian name_change_274965fb:
 translate ukrainian name_change_cee18412:
 
     # "From now on you will be called [mc_name]."
-    "Від тепер тебе зватимуть [mc_name]."
+    "Відтепер тебе зватимуть [mc_name]."
 
 translate ukrainian strings:
 
@@ -63,13 +63,13 @@ translate ukrainian strings:
     new "{size=-10}Посібник з\nлісозаготівлі{/size}"
 
     old "You must {color=#39A761}Click / Space bar/ Tap for Android{/color} when the bar is as full as possible.\nEvery time you make a perfect hit, it counts as a {color=#FFD952}Critical Hit."
-    new "Треба {color=#39A761}клацати / натискати пробіл / тиснути екран (на Android){/color}, коли смуга заповниться якомога максимально. Кожен раз, коли ти робиш ідеальний удар, він зараховується як {color=#FFD952}критичний удар."
+    new "Треба {color=#39A761}клацати / натискати пробіл / тиснути екран (на Android){/color}, коли смуга заповниться якомога максимально. Щоразу коли ти робиш ідеальний удар, він зараховується як {color=#FFD952}критичний удар."
 
     old "{color=#C23833}Be careful{/color}, because the more {color=#FFD952}Critical hits{/color} you accumulate, \nthe {color=#39A761}faster{/color} the bar will fill up!"
     new "{color=#C23833}Але обережніше{/color}, адже чим більше ти робиш {color=#FFD952}критичних ударів{/color}, тим {color=#39A761}швидше{/color} смуга заповнюється!"
 
     old "Each tree will have different {color=#7FAED9}resistance{/color}\nThe faster you knock down the tree, the {color=#39A761}more wood{/color} you get!"
-    new "У кожного дерева різний {color=#7FAED9}захист{/color}.\nЧим швидше його зрубиш, тим {color=#39A761}більше деревини{/color} отримуєш!\n\n"
+    new "У кожного дерева свій {color=#7FAED9}захист{/color}.\nЩо швидше його зрубаєш, тим {color=#39A761}більше деревини{/color} отримуєш!\n\n"
 
 ###
 

@@ -153,7 +153,7 @@ translate ukrainian tomoe_event_1_35d208f8:
 translate ukrainian tomoe_event_1_22299721:
 
     # t "Do they still talk about me?"
-    t "Невже про мене досі гворять?"
+    t "Невже про мене досі говорять?"
 
 # game/game/tomoe_events.rpy:68
 translate ukrainian tomoe_event_1_e84af2d9:
@@ -165,7 +165,7 @@ translate ukrainian tomoe_event_1_e84af2d9:
 translate ukrainian tomoe_event_1_abc2b72a:
 
     # a "I'm the one who will be in charge of this place."
-    a "Я та, хто керує цим всим."
+    a "Я та, хто керує цим всім."
 
 # game/game/tomoe_events.rpy:72
 translate ukrainian tomoe_event_1_db228e0c:
@@ -237,7 +237,7 @@ translate ukrainian tomoe_event_1_5258b4e8:
 translate ukrainian tomoe_event_1_bd2a046d:
 
     # to "That if someone keeps eye contact with you for more than 5 seconds you generate instant orgasms."
-    to "А також, якщо хтось дивитиметься тобі увічі понад 5 секунд, то можна отримати миттєвий оргазм."
+    to "А також, якщо хтось дивитиметься тобі у вічі понад 5 секунд, то можна отримати миттєвий оргазм."
 
 # game/game/tomoe_events.rpy:89
 translate ukrainian tomoe_event_1_463dfd54:
@@ -255,7 +255,7 @@ translate ukrainian tomoe_event_1_34abf879:
 translate ukrainian tomoe_event_1_506c8fd0:
 
     # mc "Err.."
-    mc "Емм.."
+    mc "Емм..."
 
 # game/game/tomoe_events.rpy:94
 translate ukrainian tomoe_event_1_fd415d8e:
@@ -273,7 +273,7 @@ translate ukrainian tomoe_event_1_2b35b6fe:
 translate ukrainian tomoe_event_1_62c8ec23:
 
     # to "And that they're all waiting for you to repopulate the village with your seed."
-    to "І те, що всі мешканки з нетерпінням чекають, що ти відновиш популяцю цього селища власним сім'ям."
+    to "І те, що всі мешканки з нетерпінням чекають, що ти відновиш популяцію цього селища власним сім'ям."
 
 # game/game/tomoe_events.rpy:98
 translate ukrainian tomoe_event_1_9b9bf9fd:
@@ -855,7 +855,7 @@ translate ukrainian tomoe_eventuno_69038162:
 translate ukrainian tomoe_eventuno_37e78349:
 
     # mc "I was never that... interested... in those things, I liked to stay away from all that stuff..."
-    mc "Я ніколи не... цікавився... про таке, мені подобалося триматися подалі від усього такого..."
+    mc "Я ніколи не... цікавився... про таке, мені подобалося триматися якомога далі від усього такого..."
 
 # game/game/tomoe_events.rpy:778
 translate ukrainian tomoe_eventuno_f808dd3d:
@@ -993,7 +993,7 @@ translate ukrainian tomoe_eventuno_71a25f6d:
 translate ukrainian tomoe_eventuno_a4210e42:
 
     # to "Being the only man in this village must be difficult for you."
-    to "Певно важко бути єдиним чоловіком у селищі."
+    to "Певно, важко бути єдиним чоловіком у селищі."
 
 # game/game/tomoe_events.rpy:812
 translate ukrainian tomoe_eventuno_673448cd:
@@ -1131,7 +1131,7 @@ translate ukrainian tomoe_eventuno_6035b726:
 translate ukrainian tomoe_eventuno_e2e43ec3:
 
     # t "Fuck."
-    t "Блятство."
+    t "Блять."
 
 # game/game/tomoe_events.rpy:843
 translate ukrainian tomoe_eventuno_fdc3da69:
@@ -1353,7 +1353,7 @@ translate ukrainian tomoe_eventuno_21ba0f8b:
 translate ukrainian tomoe_eventuno_c520d177:
 
     # a "Look at the floor, it must have felt very good..."
-    a "Подивіться на підлогу, певно було дуже добре..."
+    a "Подивіться на підлогу, певно, було дуже добре..."
 
 # game/game/tomoe_events.rpy:897
 translate ukrainian tomoe_eventuno_befb6388:
@@ -1437,7 +1437,7 @@ translate ukrainian tomoe_eventuno_1f3f01c1:
 translate ukrainian tomoe_eventuno_e6e832c6:
 
     # a "{size=-10}How lucky... {w}literally."
-    a "{size=-10}Як їй повезло... {w}буквально."
+    a "{size=-10}Як їй пощастило... {w}буквально."
 
 # game/game/tomoe_events.rpy:921
 translate ukrainian tomoe_eventuno_76d0f525:
@@ -1707,13 +1707,13 @@ translate ukrainian tomoe_eventdos_5639d47f:
 translate ukrainian tomoe_eventdos_c2fc4fef:
 
     # to "And reading people's expressions becomes a habit over time."
-    to "Із часом вміння розпізнавати вирази обличчя людей стає звичкою."
+    to "З часом вміння розпізнавати вирази обличчя людей стає звичкою."
 
 # game/game/tomoe_events.rpy:1003
 translate ukrainian tomoe_eventdos_93186770:
 
     # to "I only need to see your eyes or your grimaces and I can already tell if the deal is bad."
-    to "Мені достатньо лише поглянути на твої очі чи твою мімку, щоб одразу зрозуміти, чи вигідна ця угода."
+    to "Мені достатньо лише поглянути на твої очі чи твою міміку, щоб одразу зрозуміти, чи вигідна ця угода."
 
 # game/game/tomoe_events.rpy:1004
 translate ukrainian tomoe_eventdos_37babc6f:
@@ -1809,7 +1809,7 @@ translate ukrainian tomoe_eventdos_55a92a64:
 translate ukrainian tomoe_eventdos_5d08b4ea:
 
     # t "Basically everything I said is true."
-    t "В принципі, все, що я сказав, — правда."
+    t "Загалом, все, що я сказав, — правда."
 
 # game/game/tomoe_events.rpy:1032
 translate ukrainian tomoe_eventdos_d1b87f74:
@@ -1935,7 +1935,7 @@ translate ukrainian tomoe_eventdos_c8c3513a:
 translate ukrainian tomoe_eventdos_bb2192af:
 
     # to "Sure, it's a good time, {w}they're all having lunch at this time."
-    to "Звісно, час якраз підходящий, {w}зазвичай інші вже обідають."
+    to "Звісно, час якраз слушний, {w}зазвичай інші вже обідають."
 
 # game/game/tomoe_events.rpy:1072
 translate ukrainian tomoe_eventdos_df555a02:
@@ -1989,7 +1989,7 @@ translate ukrainian tomoe_eventdos_972d9fe4:
 translate ukrainian tomoe_eventdos_616bdc1f:
 
     # to "When an elf is born on a full moon and due to other factors that I don't even know about, someone like me appears."
-    to "Коли ельф народжується у повний місяц і при ще певних обставинах, про які я навіть не знаю, з'являється хтось на кшталт мене."
+    to "Коли ельф народжується у повний місяць і при ще певних обставинах, про які я навіть не знаю, з'являється хтось на кшталт мене."
 
 # game/game/tomoe_events.rpy:1092
 translate ukrainian tomoe_eventdos_b51afbc0:
@@ -14650,7 +14650,7 @@ translate ukrainian strings: ## Стосується інтерфейсу кра
     new "{size=-8}Томое"
 
     old "{size=-13}Inventory"
-    new "{size=-13}Інвертар"
+    new "{size=-13}Інвентар"
 
     old "{size=-10}All"
     new "{size=-10}Усе"

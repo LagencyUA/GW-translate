@@ -3,7 +3,7 @@
 translate ukrainian bath_alone_f66b5f17:
 
     # mc "Nothing better than taking a relaxing bath."
-    mc "Немає нічого кращого, ніж розслаблююча ванна."
+    mc "Немає нічого кращого за заспокійливу ванну після довгого дня."
 
 # game/game/bath_events.rpy:4
 translate ukrainian bath_alone_7f12c891:

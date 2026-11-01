@@ -351,7 +351,7 @@ translate ukrainian hana_talk_3a34d891:
 translate ukrainian hana_talk_4c280e2f:
 
     # h "There were no wars, and villages helped each other."
-    h "Не було війн, а селища допомагали одне-одному."
+    h "Не було війн, а селища допомагали одне одному."
 
 # game/game/hana_events.rpy:205
 translate ukrainian hana_talk_51565cbb:
@@ -795,7 +795,7 @@ translate ukrainian hana_first_talk_a171871d:
 translate ukrainian hana_first_talk_29d701d8:
 
     # h "Has your bloodlust been controlled a little?"
-    h "Ти почала трохи справлятися зі свюєю жагою до крові?"
+    h "Ти почала трохи справлятися зі своєю жагою до крові?"
 
 # game/game/hana_events.rpy:373
 translate ukrainian hana_first_talk_718a365b:
@@ -1059,7 +1059,7 @@ translate ukrainian hana_first_talk_22e351dc:
 translate ukrainian hana_first_talk_36e64194:
 
     # mc "If she speaks to me for more than 5 seconds..."
-    mc "Якщо тільки вона захоче говорити зі мною більше 5 секунд..."
+    mc "Якщо тільки вона захоче говорити зі мною більше ніж 5 секунд..."
 
 # game/game/hana_events.rpy:454
 translate ukrainian hana_first_talk_04d3deeb:
@@ -1125,7 +1125,7 @@ translate ukrainian hana_first_talk_9b1845fb:
 translate ukrainian hana_event_1_7cd818c2:
 
     # mc "Hana, I'm coming in!"
-    mc "Хано, я захожду!"
+    mc "Хано, я заходжу!"
 
 # game/game/hana_events.rpy:487
 translate ukrainian hana_event_1_8fc6d666:
@@ -1305,7 +1305,7 @@ translate ukrainian hana_event_2_d7bbd93a:
 translate ukrainian hana_event_2_c3bb4b1e:
 
     # h "{size=-10}Come over here! I'm in the back!"
-    h "{size=-10}Ходи сюди! Я на задньому дворі!"
+    h "{size=-10}Ходи сюди! Я на заднім дворі!"
 
 # game/game/hana_events.rpy:554
 translate ukrainian hana_event_2_47e5c024:
@@ -1431,7 +1431,7 @@ translate ukrainian hana_event_2_a435ef09:
 translate ukrainian hana_event_2_b49923d0:
 
     # mc "Pulling a sunflower."
-    mc "Коли я тягнув соняха."
+    mc "Коли я тягнув сонях."
 
 # game/game/hana_events.rpy:594
 translate ukrainian hana_event_2_0f23e884:
@@ -1779,7 +1779,7 @@ translate ukrainian hana_event_2_157e1e8e:
 translate ukrainian hana_event_2_aea19a88:
 
     # h "Mmm... {w} I don't know..."
-    h "Ммм... {w} не впевнена..."
+    h "Ммм... {w}не впевнена..."
 
 # game/game/hana_events.rpy:686
 translate ukrainian hana_event_2_5ad4168f:
@@ -1923,7 +1923,7 @@ translate ukrainian hana_gal1_283d8679:
 translate ukrainian hana_gal1_a1371073:
 
     # mc "And what should I do to make it go away?! I feel like my whole body is on fire!"
-    mc "І що мені робити, щоб це пройшло?! Здається, ніби все моє тіло горить!"
+    mc "І що мені робити, щоб це минуло?! Здається, ніби все моє тіло горить!"
 
 # game/game/hana_events.rpy:744
 translate ukrainian hana_gal1_d7afdc3b:
@@ -2091,7 +2091,7 @@ translate ukrainian hana_gal1_4c6ef484:
 translate ukrainian hana_gal1_fa6d1681:
 
     # h "Come on, let it out~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    h "Нужбо дозволь їй вийти~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    h "Ну ж бо дозволь їй вийти~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:815
 translate ukrainian hana_gal1_af909fd5:
@@ -2343,7 +2343,7 @@ translate ukrainian hana_gal1_03fb3e88_1:
 translate ukrainian hana_gal1_154db793:
 
     # h "Nothing {w} I'd better get back to work...."
-    h "Нічого, {w} мені слід повертатися до роботи..."
+    h "Нічого, {w}мені слід повертатися до роботи..."
 
 # game/game/hana_events.rpy:904
 translate ukrainian hana_gal1_fc256555:
@@ -2355,7 +2355,7 @@ translate ukrainian hana_gal1_fc256555:
 translate ukrainian hana_gal1_8bea2aba:
 
     # mc "Remember about the expedition to the forest, let me know when it's time."
-    mc "Не забуть про експедицію у ліс. Обов'язково скажи мені, коли прийде час."
+    mc "Не забудь про експедицію у ліс. Обов'язково скажи мені, коли прийде час."
 
 # game/game/hana_events.rpy:907
 translate ukrainian hana_gal1_8e82eda0:
@@ -2445,7 +2445,7 @@ translate ukrainian hana_potion_blow_d8b42357:
 translate ukrainian hana_potion_blow_cf5debe8:
 
     # h "Shika! You can go take your break early just for today!"
-    h "Шико! Лише сьогодні дозволю тобі вз'яти перерву раніше!"
+    h "Шико! Лише сьогодні дозволю тобі взяти перерву раніше!"
 
 # game/game/hana_events.rpy:991
 translate ukrainian hana_potion_blow_78894165:
@@ -3051,7 +3051,7 @@ translate ukrainian hana_hevent_2_3ea1a657:
 translate ukrainian hana_hevent_2_75d0aa10:
 
     # t "That perfect body won't leave my mind even when I die..."
-    t "Її ідеальне тіло не полише мій розум навіть після смерті..."
+    t "Її ідеальне тіло не полишить мій розум навіть після смерті..."
 
 # game/game/hana_events.rpy:1188
 translate ukrainian hana_hevent_2_de34c2ee:
@@ -3165,7 +3165,7 @@ translate ukrainian hana_hevent_2_3a939765:
 translate ukrainian hana_hevent_2_e7c10e0c:
 
     # h "If I didn't have to go out, I would give you the complete treatment."
-    h "Якби не треба було йти, я б првела тобі повний курс лікування."
+    h "Якби не треба було йти, я б провела тобі повний курс лікування."
 
 # game/game/hana_events.rpy:1217
 translate ukrainian hana_hevent_2_b966c03d:
@@ -4035,7 +4035,7 @@ translate ukrainian hana_hevent_2_3d8f9aab:
 translate ukrainian hana_hevent_2_0899bc46:
 
     # mc "You don't mess around..."
-    mc "Ти не з дих, хто любить бавитись..."
+    mc "Ти не з тих, хто любить бавитись..."
 
 # game/game/hana_events.rpy:1438
 translate ukrainian hana_hevent_2_46a0e429:
@@ -4059,7 +4059,7 @@ translate ukrainian hana_hevent_2_c0b54787:
 translate ukrainian hana_hevent_2_9ca0e745:
 
     # h "With all the girls here in the village, you take the time to share with each one of them."
-    h "Незважаючи на те, що в селищі купа дівчат, ти знаходиш час, щоб приділити увагу кожній з них."
+    h "Попри те, що в селищі купа дівчат, ти знаходиш час, щоб приділити увагу кожній з них."
 
 # game/game/hana_events.rpy:1443
 translate ukrainian hana_hevent_2_7d50041d:
@@ -7617,7 +7617,7 @@ translate ukrainian hana_eventuno_72092b5c:
 translate ukrainian hana_eventuno_2de98124:
 
     # "{image=/bg/icons/heart_text.png}Hana's affection has increased to [hana_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Хани зросла до [hana_affection]{image=/bg/icons/heart_text.png}\n {image=/bg/icons/heart_text.png}Прихильність Юї зросла до [yui_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/hana_events.rpy:2420
 translate ukrainian hana_eventdos_cdb8dd8a:
