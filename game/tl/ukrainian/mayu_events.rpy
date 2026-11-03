@@ -3,7 +3,7 @@
 translate ukrainian mayu_variables_32bfa1be:
 
     # "It's very late, I should go to sleep."
-    "Уже запізно, пора мені йти у ліжечко."
+    "Уже запізно, пора мені йти в ліжечко."
 
 # game/game/mayu_events.rpy:103
 translate ukrainian mayu_variables_bd13f588:
@@ -81,7 +81,7 @@ translate ukrainian mayu_event_1_3d2f37da:
 translate ukrainian mayu_event_1_242f1422:
 
     # "{color=#7a847d}Isn't there anyone else in this village who needs something built?"
-    "{color=#7a847d}Хіба більше не залишилося нікого у селищі, кому б знадобилося щось збудувати?"
+    "{color=#7a847d}Хіба більше не залишилося нікого в селищі, кому б знадобилося щось збудувати?"
 
 # game/game/mayu_events.rpy:140
 translate ukrainian mayu_event_1_dae0c8fd:
@@ -129,7 +129,7 @@ translate ukrainian mayu_event_1_b5f0eaab:
 translate ukrainian mayu_event_1_358593e4:
 
     # mc "She told me you're the one in charge of construction here in the village."
-    mc "Вона мені сказала, що це ти відповідальна за будівництво у цьому селищі."
+    mc "Вона мені сказала, що це ти відповідальна за будівництво в цьому селищі."
 
 # game/game/mayu_events.rpy:150
 translate ukrainian mayu_event_1_c3e19b65_1:
@@ -628,7 +628,7 @@ translate ukrainian cons_ryoko_room_2b35b6fe_1:
 translate ukrainian cons_ryoko_room_3ac6e09b:
 
     # mc "Look at the time! I have to g-"
-    mc "Вже досить пізно! Мушу біг-"
+    mc "Уже досить пізно! Мушу біг-"
 
 # game/game/mayu_events.rpy:939
 translate ukrainian cons_ryoko_room_645d5c30:
@@ -688,7 +688,7 @@ translate ukrainian cons_ryoko_room_01a4b187:
 translate ukrainian cons_ryoko_room_cca79b84:
 
     # t "She's in excited mode."
-    t "Вона у режимі захвату."
+    t "У неї зараз режим «у захваті»."
 
 # game/game/mayu_events.rpy:952
 translate ukrainian cons_ryoko_room_fca6f0b0:
@@ -784,7 +784,7 @@ translate ukrainian cons_2nd_room_fe234a47:
 translate ukrainian cons_2nd_room_4c1ae41f:
 
     # ma "{size=+5}All ready?"
-    ma "{size=+5}Вже все готово?"
+    ma "{size=+5}Уже все готово?"
 
 # game/game/mayu_events.rpy:996
 translate ukrainian cons_2nd_room_2d4c054b:
@@ -1072,7 +1072,7 @@ translate ukrainian mayu_mission_katana_da2d14cf:
 translate ukrainian mayu_mission_katana_d9f10837:
 
     # ma "But I can see from afar that you have plenty of strength to handle any type of sword."
-    ma "Але по тобі одразу видно, що тобі достатньо сил впоратися з будь-яким мечем."
+    ma "Але по тобі одразу видно, що тобі достатньо сил упоратися з будь-яким мечем."
 
 # game/game/mayu_events.rpy:1104
 translate ukrainian mayu_mission_katana_845bb313:
@@ -1324,7 +1324,7 @@ translate ukrainian mayu_mission_katana_f5f81cec:
 translate ukrainian mayu_mission_katana_8a83dac5:
 
     # t "How much energy does this girl have..."
-    t "Як багато енергії у цієї дівчини..."
+    t "Як багато енергії в цієї дівчини..."
 
 # game/game/mayu_events.rpy:1175
 translate ukrainian mayu_mission_katana_b0a87c35:
@@ -1798,7 +1798,7 @@ translate ukrainian mayu_gal1_89659c0a:
 translate ukrainian mayu_gal1_b1980c6f:
 
     # ma "I didn't think anyone could be that size."
-    ma "Я і подумати не могла, що у когось може бути такий розмір."
+    ma "Я і подумати не могла, що в когось може бути такий розмір."
 
 # game/game/mayu_events.rpy:1302
 translate ukrainian mayu_gal1_d9bee022:
@@ -1924,7 +1924,7 @@ translate ukrainian mayu_gal1_a02244b8:
 translate ukrainian mayu_gal1_fd3b6353:
 
     # ma "I don't think I can get something that big in such a small hole."
-    ma "Не думаю, що щось таке величезне влізе у таку маленьку дірочку."
+    ma "Не думаю, що щось таке величезне влізе в таку маленьку дірочку."
 
 # game/game/mayu_events.rpy:1327
 translate ukrainian mayu_gal1_9ddc03d3_2:
@@ -1972,7 +1972,7 @@ translate ukrainian mayu_gal1_6963936d:
 translate ukrainian mayu_gal1_e1dc43bd:
 
     # ma "Release everything you have{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ma "Вивільни усе, що в тебе{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ma "Вивільни все, що в тебе{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/mayu_events.rpy:1337
 translate ukrainian mayu_gal1_76cc3506:
@@ -2002,7 +2002,7 @@ translate ukrainian mayu_gal1_376cd533:
 translate ukrainian mayu_gal1_234be3a1:
 
     # ma "I see you let it all out.."
-    ma "Бачу, ти випустив все, що було."
+    ma "Бачу, ти випустив усе, що було."
 
 # game/game/mayu_events.rpy:1348
 translate ukrainian mayu_gal1_56497762:
@@ -2014,7 +2014,7 @@ translate ukrainian mayu_gal1_56497762:
 translate ukrainian mayu_gal1_fb620951:
 
     # ma "The effect of the spores will have worn off by now."
-    ma "Дія спор вже мала б минути."
+    ma "Дія спор уже мала б минути."
 
 # game/game/mayu_events.rpy:1351
 translate ukrainian mayu_gal1_72b7d622:
@@ -2068,7 +2068,7 @@ translate ukrainian mayu_gal1_92fc2677:
 translate ukrainian mayu_gal1_26dff631:
 
     # ma "Hahaha, and I made the handle the color of that tree's leaves."
-    ma "Хахаха, я і ручку зробила у колір листя того дерева."
+    ma "Хахаха, я і ручку зробила в колір листя того дерева."
 
 # game/game/mayu_events.rpy:1387
 translate ukrainian mayu_gal1_7263d83f:

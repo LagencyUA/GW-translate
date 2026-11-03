@@ -37,7 +37,7 @@ translate ukrainian strings:
     new "Кожна {color=#FF438D}Хтива{/color} подія з'являтиметься у твоїй галереї. \nЩоб туди потрапити, ти маєш:"
 
     old "Click on your head in the right corner."
-    new "Натиснути на голову у правому верхньому куті."
+    new "Натиснути на голову в правому верхньому куті."
 
     old "Then on the {color=#E65859}clapperboard with hearts!{/color}!"
     new "Далі на {color=#E65859}кінохлопавку з сердечками!{/color}!"

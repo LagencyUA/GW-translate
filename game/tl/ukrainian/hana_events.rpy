@@ -357,7 +357,7 @@ translate ukrainian hana_talk_4c280e2f:
 translate ukrainian hana_talk_51565cbb:
 
     # h "Until one day, a kingdom decided to declare war on anyone who stood in its way."
-    h "Аж поки одного дня королівство вирішило оголосити війну усім, хто стане йому на заваді."
+    h "Аж поки одного дня королівство вирішило оголосити війну всім, хто стане йому на заваді."
 
 # game/game/hana_events.rpy:207
 translate ukrainian hana_talk_9b3fd942:
@@ -381,7 +381,7 @@ translate ukrainian hana_talk_a41c1663:
 translate ukrainian hana_talk_accf9c45:
 
     # t "Why does my chest feel warm hearing this...?"
-    t "Чому я відчуваю таке приємне тепло у грудях, коли це чую...?"
+    t "Чому я відчуваю таке приємне тепло в грудях, коли це чую...?"
 
 # game/game/hana_events.rpy:213
 translate ukrainian hana_talk_5c34d83a:
@@ -699,7 +699,7 @@ translate ukrainian hana_talk_77e7883d:
 translate ukrainian hana_talk_17529273:
 
     # h "It's getting late, and your... slav- {w}I mean, Ryoko must be worried."
-    h "Вже пізно, і твоя... раб- {w}вибач, Рьоко, напевно, хвилюється."
+    h "Уже пізно, і твоя... раб- {w}вибач, Рьоко, напевно, хвилюється."
 
 # game/game/hana_events.rpy:320
 translate ukrainian hana_talk_63b9925c:
@@ -903,7 +903,7 @@ translate ukrainian hana_first_talk_72276eab:
 translate ukrainian hana_first_talk_0aca236d:
 
     # a "This guy jumped on me as soon as he walked into your house."
-    a "Цей хлопець наскочив на мене, щойно увійшов до твого дому."
+    a "Цей хлопець наскочив на мене, щойно ввійшов до твого дому."
 
 # game/game/hana_events.rpy:405
 translate ukrainian hana_first_talk_d5c9df98:
@@ -1053,7 +1053,7 @@ translate ukrainian hana_first_talk_adcff2d8:
 translate ukrainian hana_first_talk_22e351dc:
 
     # h "She's like that, when you get to know her better, you'll understand."
-    h "Просто у неї такий характер. Коли зблизишся з нею, зрозумієш."
+    h "Просто в неї такий характер. Коли зблизишся з нею, зрозумієш."
 
 # game/game/hana_events.rpy:452
 translate ukrainian hana_first_talk_36e64194:
@@ -1089,7 +1089,7 @@ translate ukrainian hana_first_talk_c64d569a:
 translate ukrainian hana_first_talk_70aae361:
 
     # mc "Well, {w}I'd better get going."
-    mc "Ну, {w}тоді я теж вже піду."
+    mc "Ну, {w}тоді я теж уже піду."
 
 # game/game/hana_events.rpy:463
 translate ukrainian hana_first_talk_852d08d2:
@@ -1293,7 +1293,7 @@ translate ukrainian hana_event_2_44f3b1b9:
 translate ukrainian hana_event_2_037b3356:
 
     # h "{size=-10}[mc]? {w}I'm in the garden!"
-    h "{size=-10}[name_form('voc')]? {w}Я у саду!"
+    h "{size=-10}[name_form('voc')]? {w}Я в саду!"
 
 # game/game/hana_events.rpy:551
 translate ukrainian hana_event_2_d7bbd93a:
@@ -1707,7 +1707,7 @@ translate ukrainian hana_event_2_791f750d:
 translate ukrainian hana_event_2_c6231c8c:
 
     # mc "I hope you're including me in this plan."
-    mc "Сподіваюся, мене теж врахували у цей план."
+    mc "Сподіваюся, мене теж врахували в цей план."
 
 # game/game/hana_events.rpy:668
 translate ukrainian hana_event_2_7f993e86:
@@ -1755,7 +1755,7 @@ translate ukrainian hana_event_2_ff9aba69:
 translate ukrainian hana_event_2_2058ce7a:
 
     # "{i}Hana takes the contents and pours them into a jar."
-    "{i}Хана переливає зілля у банку."
+    "{i}Хана переливає зілля в банку."
 
 # game/game/hana_events.rpy:681
 translate ukrainian hana_event_2_4912dcf5:
@@ -2079,7 +2079,7 @@ translate ukrainian hana_gal1_d7afdc3b_1:
 translate ukrainian hana_gal1_6cff661e:
 
     # h "I feel your penis throbbing in my hand."
-    h "Відчуваю, як твій член пульсує у руках."
+    h "Відчуваю, як твій член пульсує в руках."
 
 # game/game/hana_events.rpy:805
 translate ukrainian hana_gal1_4c6ef484:
@@ -2163,7 +2163,7 @@ translate ukrainian hana_gal1_c9cc0e0b:
 translate ukrainian hana_gal1_6b9ce1d0:
 
     # t "She just swallowed all my cum and is talking to me like it was nothing."
-    t "Вона щойно проковтнула усю кінчу й говорить зі мною, наче нічого не трапилося."
+    t "Вона щойно проковтнула всю кінчу й говорить зі мною, наче нічого не трапилося."
 
 # game/game/hana_events.rpy:845
 translate ukrainian hana_gal1_1153b213:
@@ -2265,7 +2265,7 @@ translate ukrainian hana_gal1_30199710:
 translate ukrainian hana_gal1_e417371f:
 
     # h "Get everything ready Shika."
-    h "Підготуй все, будь ласка, Шико."
+    h "Підготуй усе, будь ласка, Шико."
 
 # game/game/hana_events.rpy:884
 translate ukrainian hana_gal1_a0d8634f:
@@ -2277,7 +2277,7 @@ translate ukrainian hana_gal1_a0d8634f:
 translate ukrainian hana_gal1_1c51b961:
 
     # mc "Are you okay? You seem distracted."
-    mc "Все гаразд? Ти, наче, трохи розгублена."
+    mc "Усе гаразд? Ти, наче, трохи розгублена."
 
 # game/game/hana_events.rpy:888
 translate ukrainian hana_gal1_d7466120:
@@ -2349,13 +2349,13 @@ translate ukrainian hana_gal1_154db793:
 translate ukrainian hana_gal1_fc256555:
 
     # mc "Yes, I'll be on my way then."
-    mc "Так, я тоді теж вже піду."
+    mc "Так, я тоді теж уже піду."
 
 # game/game/hana_events.rpy:905
 translate ukrainian hana_gal1_8bea2aba:
 
     # mc "Remember about the expedition to the forest, let me know when it's time."
-    mc "Не забудь про експедицію у ліс. Обов'язково скажи мені, коли прийде час."
+    mc "Не забудь про експедицію в ліс. Обов'язково скажи мені, коли прийде час."
 
 # game/game/hana_events.rpy:907
 translate ukrainian hana_gal1_8e82eda0:
@@ -2745,7 +2745,7 @@ translate ukrainian hana_potion_blow_f3858005:
 translate ukrainian hana_potion_blow_d2c37b7d:
 
     # mc "I don't think it's the potion..."
-    mc "Мені здається, справа не у зіллі..."
+    mc "Мені здається, справа не в зіллі..."
 
 # game/game/hana_events.rpy:1068
 translate ukrainian hana_potion_blow_1a89e1d5:
@@ -2823,7 +2823,7 @@ translate ukrainian hana_spending2_658e5639:
 translate ukrainian hana_hevent_2_803ebf8b:
 
     # t "Strange, she's not at the entrance."
-    t "Дивно, вона не у приймальні."
+    t "Дивно, вона не в приймальні."
 
 # game/game/hana_events.rpy:1132
 translate ukrainian hana_hevent_2_6aa1050c:
@@ -2985,7 +2985,7 @@ translate ukrainian hana_hevent_2_c16926d0:
 translate ukrainian hana_hevent_2_b3bbce26:
 
     # mc "I should've called for you, I was used to coming in and seeing you at the entrance..."
-    mc "Мені слід було тебе покликати, я вже звик бачити тебе у приймальні..."
+    mc "Мені слід було тебе покликати, я вже звик бачити тебе в приймальні..."
 
 # game/game/hana_events.rpy:1172
 translate ukrainian hana_hevent_2_9a1bdae7:
@@ -3183,7 +3183,7 @@ translate ukrainian hana_hevent_2_a44a56d6:
 translate ukrainian hana_hevent_2_47d0ba38:
 
     # h "But we'd better get going."
-    h "Але нам вже час."
+    h "Але нам уже час."
 
 # game/game/hana_events.rpy:1221
 translate ukrainian hana_hevent_2_c767caa9:
@@ -3393,7 +3393,7 @@ translate ukrainian hana_hevent_2_b4a40f59:
 translate ukrainian hana_hevent_2_cb611e02:
 
     # v "She's in this room."
-    v "Вона у цій кімнаті."
+    v "Вона в цій кімнаті."
 
 # game/game/hana_events.rpy:1272
 translate ukrainian hana_hevent_2_e825306a:
@@ -3795,7 +3795,7 @@ translate ukrainian hana_hevent_2_af7adf43:
 translate ukrainian hana_hevent_2_f57faa4d:
 
     # h "You can put her to bed now."
-    h "Можеш уже вкласти її у ліжко."
+    h "Можеш уже вкласти її в ліжко."
 
 # game/game/hana_events.rpy:1368
 translate ukrainian hana_hevent_2_08b5df7f_1:

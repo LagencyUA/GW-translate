@@ -147,7 +147,7 @@ translate ukrainian akane_forestmeet_68208f52:
 translate ukrainian akane_forestmeet_5ef08cb9:
 
     # ak "{size=-10}{i}Now I can even hear his voice, what's happening to me?"
-    ak "{size=-10}{i}Тепер мені навіть його голос ввижається, що це зі мною?"
+    ak "{size=-10}{i}Тепер мені навіть його голос увижається, що це зі мною?"
 
 # game/game/akane_events.rpy:74
 translate ukrainian akane_forestmeet_aacbf591:
@@ -165,7 +165,7 @@ translate ukrainian akane_forestmeet_fd6dac5b:
 translate ukrainian akane_forestmeet_2438b97c:
 
     # mc "The girls did a lot in a short time."
-    mc "Дівчата так багато зробили у такий короткий проміжок."
+    mc "Дівчата так багато зробили в такий короткий проміжок."
 
 # game/game/akane_events.rpy:79
 translate ukrainian akane_forestmeet_46b79df3:
@@ -237,7 +237,7 @@ translate ukrainian akane_forestmeet_ec8e56b3:
 translate ukrainian akane_forestmeet_fddec73d:
 
     # ak "You're all the same {w}Sigh* {w}you ruined my day."
-    ak "Всі ви однакові... {w}{i}*Хааах*{/i} {w}лише зіпсував мій день."
+    ak "Усі ви однакові... {w}{i}*Хааах*{/i} {w}лише зіпсував мій день."
 
 # game/game/akane_events.rpy:97
 translate ukrainian akane_forestmeet_4d26c57d:
@@ -609,7 +609,7 @@ translate ukrainian akane_event_1_5421d80f:
 translate ukrainian akane_event_1_dbb23b43:
 
     # ak "That's your excuse for throwing yourself at my feet?"
-    ak "І це твоє виправдання, щоб впасти перед моїми ногами?"
+    ak "І це твоє виправдання, щоб упасти перед моїми ногами?"
 
 # game/game/akane_events.rpy:229
 translate ukrainian akane_event_1_7170b8cb:
@@ -2121,7 +2121,7 @@ translate ukrainian akane_first_ech_08b5df7f:
 translate ukrainian akane_first_ech_f33fe9fa:
 
     # ak "It turns out that today-"
-    ak "Так вже трапилося, що сьогодні-"
+    ak "Так уже трапилося, що сьогодні-"
 
 # game/game/akane_events.rpy:751
 translate ukrainian akane_first_ech_19a1ed53:
@@ -2463,7 +2463,7 @@ translate ukrainian akane_first_ech_191c09ae:
 translate ukrainian akane_first_ech_131ae062:
 
     # t "She's leaning her boobs against me..."
-    t "Я відчуваю, як її груди упираються в мене..."
+    t "Я відчуваю, як її груди впираються в мене..."
 
 # game/game/akane_events.rpy:848
 translate ukrainian akane_first_ech_99e8412e:
@@ -2769,7 +2769,7 @@ translate ukrainian akane_gal1_b7b8040e:
 translate ukrainian akane_gal1_59281163:
 
     # ak "Look at how you grab them."
-    ak "Ти тільки глянь, як ти в них вчепився."
+    ak "Ти тільки глянь, як ти в них учепився."
 
 # game/game/akane_events.rpy:956
 translate ukrainian akane_gal1_4ba7a59d:
@@ -3273,7 +3273,7 @@ translate ukrainian akane_foots_a2baa61a:
 translate ukrainian akane_foots_5ba6a87e:
 
     # mc "Akane, are you sure about what you're do-"
-    mc "Акане, ти впевнена у тому, що роби-"
+    mc "Акане, ти впевнена в тому, що роби-"
 
 # game/game/akane_events.rpy:1105
 translate ukrainian akane_foots_b274315c:
@@ -3357,7 +3357,7 @@ translate ukrainian akane_gal2_fec34809:
 translate ukrainian akane_gal2_98d23d3a:
 
     # ak "That penis is so hard and I haven't done anything yet."
-    ak "Твій член вже такий твердий, а я ще навіть нічого не зробила."
+    ak "Твій член уже такий твердий, а я ще навіть нічого не зробила."
 
 # game/game/akane_events.rpy:1129
 translate ukrainian akane_gal2_2b35b6fe:
@@ -3507,7 +3507,7 @@ translate ukrainian akane_gal2_8fc7973d:
 translate ukrainian akane_gal2_8b34b365:
 
     # ak "You've got me all wet with your pre-cum~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ak "Ти її усю вимочив у своєму передеякуляті~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ak "Ти її всю вимочив у своєму передеякуляті~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/akane_events.rpy:1175
 translate ukrainian akane_gal2_f7861699:
@@ -3831,7 +3831,7 @@ translate ukrainian akane_gal2_2b35b6fe_6:
 translate ukrainian akane_gal2_1c4640d5:
 
     # mc "Akane..I'm going to cum at any m-moment..."
-    mc "Акане...я у б-будь-який момент кінчу..."
+    mc "Акане...я в б-будь-який момент кінчу..."
 
 # game/game/akane_events.rpy:1251
 translate ukrainian akane_gal2_90742551:
@@ -4491,7 +4491,7 @@ translate ukrainian akane_boobsrep_ab98b32d:
 translate ukrainian akane_boobsrep_4970a1f8:
 
     # ak "If you don't let it all out I'll have to punish you~{image=/bg/icons/heart_text.png}"
-    ak "Якщо не вивільниш все із себе, доведеться тебе покарати~{image=/bg/icons/heart_text.png}"
+    ak "Якщо не вивільниш усе із себе, доведеться тебе покарати~{image=/bg/icons/heart_text.png}"
 
 # game/game/akane_events.rpy:1481
 translate ukrainian akane_boobsrep_9fe9473d:
@@ -5145,7 +5145,7 @@ translate ukrainian akane_footsrep_1d82a7e7:
 translate ukrainian akane_footsrep_3a8fc64e:
 
     # ak "So, {w}finish quickly{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}, I don't have all day...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ak "Тож {w}кінчай вже{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}, я не сидітиму тут до завтра...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ak "Тож {w}кінчай уже{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}, я не сидітиму тут до завтра...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/akane_events.rpy:1679
 translate ukrainian akane_footsrep_e5cdda0e:
@@ -5175,7 +5175,7 @@ translate ukrainian akane_footsrep_07c2950a:
 translate ukrainian akane_footsrep_1c4640d5:
 
     # mc "Akane..I'm going to cum at any m-moment..."
-    mc "Акане...я у б-будь-який момент кінчу..."
+    mc "Акане...я в б-будь-який момент кінчу..."
 
 # game/game/akane_events.rpy:1684
 translate ukrainian akane_footsrep_2cb3abc8:
@@ -5457,7 +5457,7 @@ translate ukrainian akane_1_shop_03c4f931:
 translate ukrainian akane_1_shop_93333448:
 
     # t "I'll ask Mayu if she can make a kitchen."
-    t "Спитаю у Маю, чи зможе вона мені зробити кухню."
+    t "Спитаю в Маю, чи зможе вона мені зробити кухню."
 
 # game/game/akane_events.rpy:1803
 translate ukrainian akane_1_shop_2ff7930b:
@@ -29243,7 +29243,7 @@ translate ukrainian strings:
 
     # game/akane_events.rpy:853
     old "Take her by the hips {size=-10}(Boobjob)"
-    new "Взяти її за талію {size=-10}(Ласка грудьми)"
+    new "Узяти її за талію {size=-10}(Ласка грудьми)"
 
     # game/akane_events.rpy:853
     old "Continue like this {size=-10}(Footjob)"

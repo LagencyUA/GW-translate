@@ -165,7 +165,7 @@ translate ukrainian tomoe_event_1_e84af2d9:
 translate ukrainian tomoe_event_1_abc2b72a:
 
     # a "I'm the one who will be in charge of this place."
-    a "Я та, хто керує цим всім."
+    a "Я та, хто керує цим усім."
 
 # game/game/tomoe_events.rpy:72
 translate ukrainian tomoe_event_1_db228e0c:
@@ -261,7 +261,7 @@ translate ukrainian tomoe_event_1_506c8fd0:
 translate ukrainian tomoe_event_1_fd415d8e:
 
     # to "That what's inside your pants is the size of a forearm."
-    to "Також те, що у тебе в штанях, розміром з передпліччя."
+    to "Також те, що в тебе в штанях, розміром з передпліччя."
 
 # game/game/tomoe_events.rpy:95
 translate ukrainian tomoe_event_1_2b35b6fe:
@@ -381,7 +381,7 @@ translate ukrainian tomoe_event_1_c9a40383:
 translate ukrainian tomoe_event_1_d19260ef:
 
     # to "And I'll receive them with pleasure!"
-    to "А я із задоволенням куплю її у тебе!"
+    to "А я із задоволенням куплю її в тебе!"
 
 # game/game/tomoe_events.rpy:129
 translate ukrainian tomoe_event_1_4cc2b2a1:
@@ -1149,7 +1149,7 @@ translate ukrainian tomoe_eventuno_6a793460:
 translate ukrainian tomoe_eventuno_940725a6:
 
     # to "Okay, I have it set up over there."
-    to "Гаразд, я усе там скала."
+    to "Гаразд, я все там скала."
 
 # game/game/tomoe_events.rpy:847
 translate ukrainian tomoe_eventuno_a62e27d6:
@@ -1209,7 +1209,7 @@ translate ukrainian tomoe_eventuno_c2552f25:
 translate ukrainian tomoe_eventuno_7dbc077e:
 
     # to "You should look him in the eye for more than 5 seconds and say thank you."
-    to "Тобі слід подивитися йому в вічі понад 5 секунд і сказати «дякую»."
+    to "Тобі слід подивитися йому у вічі понад 5 секунд і сказати «дякую»."
 
 # game/game/tomoe_events.rpy:861
 translate ukrainian tomoe_eventuno_74fce3c6:
@@ -1707,7 +1707,7 @@ translate ukrainian tomoe_eventdos_5639d47f:
 translate ukrainian tomoe_eventdos_c2fc4fef:
 
     # to "And reading people's expressions becomes a habit over time."
-    to "З часом вміння розпізнавати вирази обличчя людей стає звичкою."
+    to "З часом уміння розпізнавати вирази обличчя людей стає звичкою."
 
 # game/game/tomoe_events.rpy:1003
 translate ukrainian tomoe_eventdos_93186770:
@@ -1929,7 +1929,7 @@ translate ukrainian tomoe_eventdos_0d283a51:
 translate ukrainian tomoe_eventdos_c8c3513a:
 
     # mc "Now will you tell me the difference?"
-    mc "Тепер розкажеш мені у чому різниця?"
+    mc "Тепер розкажеш мені в чому різниця?"
 
 # game/game/tomoe_events.rpy:1070
 translate ukrainian tomoe_eventdos_bb2192af:
@@ -1989,7 +1989,7 @@ translate ukrainian tomoe_eventdos_972d9fe4:
 translate ukrainian tomoe_eventdos_616bdc1f:
 
     # to "When an elf is born on a full moon and due to other factors that I don't even know about, someone like me appears."
-    to "Коли ельф народжується у повний місяць і при ще певних обставинах, про які я навіть не знаю, з'являється хтось на кшталт мене."
+    to "Коли ельф народжується в повний місяць і при ще певних обставинах, про які я навіть не знаю, з'являється хтось на кшталт мене."
 
 # game/game/tomoe_events.rpy:1092
 translate ukrainian tomoe_eventdos_b51afbc0:
@@ -2031,7 +2031,7 @@ translate ukrainian tomoe_eventdos_aeab617e:
 translate ukrainian tomoe_eventdos_ab76b71e:
 
     # to "It's pretty obvious what happens during a full moon, but seeing you listening to me so attentively made me want to tease you a little."
-    to "Не важко здогадатися, що буде у повний місяць. Але коли я бачу, як уважно ти мене слухаєш, так і хочеться трохи подражнити тебе."
+    to "Не важко здогадатися, що буде в повний місяць. Але коли я бачу, як уважно ти мене слухаєш, так і хочеться трохи подражнити тебе."
 
 # game/game/tomoe_events.rpy:1104
 translate ukrainian tomoe_eventdos_20687e29:
@@ -2163,7 +2163,7 @@ translate ukrainian tomoe_eventdos_456173e8:
 translate ukrainian tomoe_eventdos_a0b52d48:
 
     # to "Stories transcribed into books sell very well."
-    to "Історії переписані у книжки гарно продаються."
+    to "Історії переписані в книжки гарно продаються."
 
 # game/game/tomoe_events.rpy:1139
 translate ukrainian tomoe_eventdos_c126d90c:
@@ -2481,7 +2481,7 @@ translate ukrainian tomoe_eventtres_b067437a:
 translate ukrainian tomoe_eventtres_077bc99e:
 
     # to "I mean, have you seen Hana's amazing body? {w}Or how athletic Yui is? {w}Even your demon girl is the cutest thing I've ever seen!"
-    to "Ну, ти ж вже бачив неймовірне тіло Хани? {w}Або яка спортивна Юї? {w}Навіть твоя демоничка — наймиліше створіння, яке я бачила!"
+    to "Ну, ти ж уже бачив неймовірне тіло Хани? {w}Або яка спортивна Юї? {w}Навіть твоя демоничка — наймиліше створіння, яке я бачила!"
 
 # game/game/tomoe_events.rpy:1247
 translate ukrainian tomoe_eventtres_5fc904c0:
@@ -3063,7 +3063,7 @@ translate ukrainian tomoe_eventcuatro_a7bcf340:
 translate ukrainian tomoe_eventcuatro_7e2faa57:
 
     # to "Thanks to you I'm doing better in the store."
-    to "Завдяки тобі, справи у крамничці пішли вгору."
+    to "Завдяки тобі, справи в крамничці пішли вгору."
 
 # game/game/tomoe_events.rpy:1418
 translate ukrainian tomoe_eventcuatro_ecca2c85:
@@ -3711,19 +3711,19 @@ translate ukrainian tomoe_gal1_dc0ff26a:
 translate ukrainian tomoe_gal1_9dda8ef6:
 
     # to "Hahaha get up and stop apologizing."
-    to "Хахаха, вставай вже і годі просити вибачення."
+    to "Хахаха, вставай уже і годі просити вибачення."
 
 # game/game/tomoe_events.rpy:1580
 translate ukrainian tomoe_gal1_9e064884:
 
     # to "Now I'm the one paying 50 gold for a carrot."
-    to "Тепер вже я заплатила 50 золотих за морквину."
+    to "Тепер уже я заплатила 50 золотих за морквину."
 
 # game/game/tomoe_events.rpy:1581
 translate ukrainian tomoe_gal1_f3ea31a0:
 
     # to "You will have to give me something good in return to offset the lost profits."
-    to "Тобі доведеться дати мені щось справді вартісне навзамін, аби компенсувати упущений прибуток."
+    to "Тобі доведеться дати мені щось справді вартісне навзамін, аби компенсувати впущений прибуток."
 
 # game/game/tomoe_events.rpy:1582
 translate ukrainian tomoe_gal1_4aa19134:

@@ -177,7 +177,7 @@ translate ukrainian strings:
 
     # game/house.rpy:56
     old "A room in bad condition."
-    new "Кімната у поганому стані"
+    new "Кімната в поганому стані"
 
     # game/house.rpy:58
     old "{color=#319B85}Charlotte's{/color} room"
@@ -209,7 +209,7 @@ translate ukrainian strings:
 
     # game/house.rpy:295
     old "{size=-8}A kitchen in poor condition.\n{color=#FFFFFF}Maybe if there's{/color} {color=#E12E50}someone{/color} {color=#FFFFFF}who knows how to cook I could use it."
-    new "{size=-10}Кухня у поганому стані.\n{color=#FFFFFF}Можливо, якщо знайду{/color} {color=#E12E50}когось{/color}{color=#FFFFFF}, хто вміє готувати, з неї буде зиск."
+    new "{size=-10}Кухня в поганому стані.\n{color=#FFFFFF}Можливо, якщо знайду{/color} {color=#E12E50}когось{/color}{color=#FFFFFF}, хто вміє готувати, з неї буде зиск."
 
     # game/house.rpy:297
     old "{size=-8}You must complete more missions!"

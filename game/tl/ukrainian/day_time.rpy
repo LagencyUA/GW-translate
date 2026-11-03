@@ -179,7 +179,7 @@ translate ukrainian strings:
     old "{size=+20}C lose"
     new "{size=+4}Закрити"
 
-    # Загальні написи у меню з дівчатами
+    # Загальні написи в меню з дівчатами
     old "{size=-3}Locations"
     new "{size=-3}Де знайти"
 
@@ -210,15 +210,15 @@ translate ukrainian strings:
 
     # game/day_time.rpy:561
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії у попередній підказці!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії в попередній підказці!"
 
     # game/day_time.rpy:1050
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпочатку виконай дії у попередній підказці!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=candado}\nСпочатку виконай дії в попередній підказці!"
 
     # game/day_time.rpy:3191
     old "{color=#CACACA}Hint Blocked{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Підказка заблокована{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії у попередній підказці!"
+    new "{color=#CACACA}Підказка заблокована{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії в попередній підказці!"
 
     # game/day_time.rpy:593
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to complete missions to be able to see this hint."
@@ -538,7 +538,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1341
     old "{color=#FF438D}H{/color}-Event\nWait at home with {color=#C9887C}Ryoko{/color} in the morning."
-    new "{color=#FF438D}Х{/color}-подія [[Вимога]\nЗачекай вдома разом з {color=#C9887C}Рьоко{/color} вранці."
+    new "{color=#FF438D}Х{/color}-подія [[Вимога]\nЗачекай удома разом з {color=#C9887C}Рьоко{/color} вранці."
 
     # game/day_time.rpy:1368
     old "{color=#FFFFFF}N{/color}-Event\nGo see the {color=#CACACA}town entrance{/color} in the morning."

@@ -273,7 +273,7 @@ translate ukrainian first_forest_event_56c65f14:
 translate ukrainian first_forest_event_5a49fc04:
 
     # y "Hey, don't worry, your master already thanked me."
-    y "Ну-ну, не треба перейматися, твій господар вже мені подякував."
+    y "Ну-ну, не треба перейматися, твій господар уже мені подякував."
 
 # game/game/map_GW.rpy:129
 translate ukrainian first_forest_event_480b32b8:
@@ -363,7 +363,7 @@ translate ukrainian first_forest_event_b439af8a:
 translate ukrainian first_forest_event_10d5d192:
 
     # y "Yes, tomorrow morning we'll all go to the entrance of the Howling Forest."
-    y "Так, завтра вранці ми вирушаємо до входу у Ревучий ліс."
+    y "Так, завтра вранці ми вирушаємо до входу в Ревучий ліс."
 
 # game/game/map_GW.rpy:152
 translate ukrainian first_forest_event_a4590349:
@@ -579,7 +579,7 @@ translate ukrainian first_forest_event_03fb3e88:
 translate ukrainian first_forest_event_61c41582:
 
     # h "Maybe we can open a safe way to another village!"
-    h "Можливо, нам вдасться відкрити безпечний шлях до іншого селища!"
+    h "Можливо, нам удасться відкрити безпечний шлях до іншого селища!"
 
 # game/game/map_GW.rpy:216
 translate ukrainian first_forest_event_ed94cc7b:
@@ -939,7 +939,7 @@ translate ukrainian first_forest_event_3e360d22:
 translate ukrainian first_forest_event_99599a44:
 
     # a "{size=-10}{i}You've got to escape, don't worry about me, I'll be fine."
-    a "{size=-10}{i}Ти маєш втекти; не хвилюйся за мене, зі мною все буде гаразд."
+    a "{size=-10}{i}Ти маєш утекти. Не хвилюйся за мене, зі мною все буде гаразд."
 
 # game/game/map_GW.rpy:320
 translate ukrainian first_forest_event_bba3c113:
@@ -1005,7 +1005,7 @@ translate ukrainian first_forest_event_3257c325:
 translate ukrainian first_forest_event_80eae0a7:
 
     # mc "Looks like they're all here."
-    mc "Видно, всі вже у зборі."
+    mc "Видно, всі вже в зборі."
 
 # game/game/map_GW.rpy:360
 translate ukrainian first_forest_event_bbd37a19:
@@ -1203,13 +1203,13 @@ translate ukrainian first_forest_event_775db880:
 translate ukrainian first_forest_event_73f429dc:
 
     # y "I can't wait to see you fight!"
-    y "Не можу дочекатися побачити тебе у бою!"
+    y "Не можу дочекатися побачити тебе в бою!"
 
 # game/game/map_GW.rpy:412
 translate ukrainian first_forest_event_d3350169:
 
     # mc "Wouldn't it be better if we didn't have to fight?"
-    mc "Мабуть, було б все ж краще, якщо до цього не дійде?"
+    mc "Мабуть, було б усе ж краще, якщо до цього не дійде?"
 
 # game/game/map_GW.rpy:414
 translate ukrainian first_forest_event_c197fc27:
@@ -1293,7 +1293,7 @@ translate ukrainian first_forest_event_be9b73ac:
 translate ukrainian first_forest_event_1e48fc4d:
 
     # y "W-Well, we'd better get going, I'll go and tell the girls."
-    y "Щ-Що ж, пора нам вже вирушати, піду скажу дівчатам."
+    y "Щ-Що ж, пора нам уже вирушати, піду скажу дівчатам."
 
 # game/game/map_GW.rpy:441
 translate ukrainian first_forest_event_465b4260:

@@ -87,7 +87,7 @@ translate ukrainian fishing_mission_b0cb457c:
 translate ukrainian fishing_mission_f61d95d8:
 
     # t "I must go and talk to Hana."
-    t "Варто мені запитати у Хани."
+    t "Варто мені запитати в Хани."
 
 # game/game/yeahfish.rpy:588
 translate ukrainian st_first_fishing_8fea2db2:

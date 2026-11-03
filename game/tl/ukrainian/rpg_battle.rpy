@@ -74,7 +74,7 @@ translate ukrainian strings:
     new "Канапка"
 
     old "A tasty sandwich for when I get hungry."
-    new "Смачна канапка, щоб втамувати голод."
+    new "Смачна канапка, щоб утамувати голод."
 
     old "Juice"
     new "Сік"
@@ -184,19 +184,19 @@ translate ukrainian strings:
     old "It helps me to heal my wounds. Heals 30% hp."
     new "It helps me to heal my wounds. Heals 30% hp."
 
-    old "Magic potion" ## НЕМАЄ У ГРІ
+    old "Magic potion" ## НЕМАЄ В ГРІ
     new "Magic potion"
 
     old "It helps me to restore my magical energy."
     new "It helps me to restore my magical energy."
 
-    old "Stamina potion" ## НЕМАЄ У ГРІ
+    old "Stamina potion" ## НЕМАЄ В ГРІ
     new "Stamina potion"
 
     old "It helps me to restore my stamina."
     new "It helps me to restore my stamina."
 
-    old "Book" ## НЕМАЄ У ГРІ
+    old "Book" ## НЕМАЄ В ГРІ
     new "Book"
 
     old "A book filled with strange symbols."

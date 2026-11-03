@@ -200,10 +200,10 @@ translate ukrainian strings:
     new "{size=-5}{i}{b}Нові крамнички вже мають запрацювати. Я також хочу зустрітися з {color=#919191}дівчиною{/color}, яка відповідає за будівництво."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Look for the new shop. It should be on the way to {color=#F3915B}Hana's{/color} house."
-    new "{color=#E3CD5B}{b}•{/b}{/color} Пошукай нову крамничку. Вона має бути у напрямку будинку {color=#F3915B}Хани{/color}."
+    new "{color=#E3CD5B}{b}•{/b}{/color} Пошукай нову крамничку. Вона має бути в напрямку будинку {color=#F3915B}Хани{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Find {color=#919191}Mayu{/color}. Her house is on the way to {color=#FBE5A2}Yui's{/color} house."
-    new "{color=#E3CD5B}{b}•{/b}{/color} Знайди {color=#919191}Маю{/color}. Її дім знаходиться у напрямку до дому {color=#FBE5A2}Юї{/color}."
+    new "{color=#E3CD5B}{b}•{/b}{/color} Знайди {color=#919191}Маю{/color}. Її дім знаходиться в напрямку до дому {color=#FBE5A2}Юї{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Get a good night's sleep."
     new "{color=#E3CD5B}{b}•{/b}{/color} Добряче виспись."
@@ -308,7 +308,7 @@ translate ukrainian strings:
     new "{color=#E3CD5B}{b}•{/b}{/color} Зайди до {color=#F3915B}Хани{/color} та поговори з нею."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} {color=#E7CAE5}Shika{/color} mentioned having a picnic. Buy a few things at the shop."
-    new "{color=#E3CD5B}{b}•{/b}{/color} {color=#E7CAE5}Шика{/color} згадувала пікнік. Варто щось купити у крамничці."
+    new "{color=#E3CD5B}{b}•{/b}{/color} {color=#E7CAE5}Шика{/color} згадувала пікнік. Варто щось купити в крамничці."
 
     old "  {color=#ffed2a}{b}•{/b}{/color} Buy a {color=#ff9900}juice{/color} [item_juice]/1"
     new "  {color=#ffed2a}{b}•{/b}{/color} Купи {color=#ff9900}сік{/color} [item_juice]/1"

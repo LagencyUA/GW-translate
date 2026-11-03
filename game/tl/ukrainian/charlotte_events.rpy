@@ -213,7 +213,7 @@ translate ukrainian charlotte_first_meet_7740cb7e:
 translate ukrainian charlotte_first_meet_2d4af059:
 
     # mc "I should look for a way to hold her in my arms."
-    mc "Варто пошукати спосіб взяти її на руки."
+    mc "Варто пошукати спосіб узяти її на руки."
 
 # game/game/charlotte_events.rpy:113
 translate ukrainian charlotte_first_meet_3cf7394a:
@@ -309,7 +309,7 @@ translate ukrainian ear_touch_7aa47e6f:
 translate ukrainian ear_touch_8d9e6b19:
 
     # t "The universe is telling me to caress her..."
-    t "Всесвіт підказує мені, що треба її пестити..."
+    t "Усесвіт підказує мені, що треба її пестити..."
 
 # game/game/charlotte_events.rpy:158
 translate ukrainian ear_touch_52ce3130:
@@ -489,7 +489,7 @@ translate ukrainian bench_rest_ea427e97:
 translate ukrainian bench_rest_5122dd8f:
 
     # t "I've never seen her in the village."
-    t "Я не бачив її раніше у селищі."
+    t "Я не бачив її раніше в селищі."
 
 # game/game/charlotte_events.rpy:221
 translate ukrainian bench_rest_66766ad0:
@@ -873,7 +873,7 @@ translate ukrainian char_wake_abed9053:
 translate ukrainian char_wake_641d535b:
 
     # t "If it were someone else he would be dead!"
-    t "Хтось інший вже б точно помер!"
+    t "Хтось інший уже б точно помер!"
 
 # game/game/charlotte_events.rpy:369
 translate ukrainian char_wake_1e0ac8f7:
@@ -1041,7 +1041,7 @@ translate ukrainian charlotte_event_2_cc7d6795:
 translate ukrainian charlotte_event_2_a700296e:
 
     # t "I would never have imagined seeing a girl appear and push a wolf to save me."
-    t "Я ніколи б не подумав, що побачу, як з'явиться дівчина і відштовхне вовка, щоб врятувати мене."
+    t "Я ніколи б не подумав, що побачу, як з'явиться дівчина і відштовхне вовка, щоб урятувати мене."
 
 # game/game/charlotte_events.rpy:432
 translate ukrainian charlotte_event_2_471c6b94:
@@ -1329,7 +1329,7 @@ translate ukrainian charlotte_event_2_652650d3:
 translate ukrainian charlotte_event_2_f704c3a1:
 
     # c "I just felt I had to do it..."
-    c "Просто відчула, що мушу так вчинити..."
+    c "Просто відчула, що мушу так учинити..."
 
 # game/game/charlotte_events.rpy:502
 translate ukrainian charlotte_event_2_2b35b6fe_1:
@@ -1821,7 +1821,7 @@ translate ukrainian char_event3_15163ebd:
 translate ukrainian char_event3_a01e1410:
 
     # t "And why does she stay in this village?"
-    t "Але чому вона тоді залишається у цьому селищі?"
+    t "Але чому вона тоді залишається в цьому селищі?"
 
 # game/game/charlotte_events.rpy:676
 translate ukrainian char_event3_e43ffe03:
@@ -2271,7 +2271,7 @@ translate ukrainian char_event4_a7b91e72:
 translate ukrainian char_event4_0802f705:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-6}{i}I see him as a male?!"
-    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Невже я вбачаю у ньому самця?!"
+    c "{sc=2}{outlinecolor=#000000}{size=-6}{i}Невже я вбачаю в ньому самця?!"
 
 # game/game/charlotte_events.rpy:878
 translate ukrainian char_event4_4d606880:
@@ -2325,7 +2325,7 @@ translate ukrainian char_event4_d19f855d_2:
 translate ukrainian char_event4_46ca1108:
 
     # c "{size=-6}{i}After all."
-    c "{size=-6}{i}Врешті-решт."
+    c "{size=-6}{i}Урешті-решт."
 
 # game/game/charlotte_events.rpy:890
 translate ukrainian char_event4_a4e1b0d9:
@@ -2955,7 +2955,7 @@ translate ukrainian char_event4_63b80f49:
 translate ukrainian char_event4_935031d5:
 
     # c "It didn't bother me much."
-    c "Воно мені не так вже й заважало."
+    c "Воно мені не так уже й заважало."
 
 # game/game/charlotte_events.rpy:1036
 translate ukrainian char_event4_e59cf96b:
@@ -3273,7 +3273,7 @@ translate ukrainian char_gal1_78780b4f:
 translate ukrainian char_gal1_aa713b7f:
 
     # t "And her looking at me every second to make sure she is doing it right is triggering something in me..."
-    t "І те, як вона кожну секунду дивиться на мене, щоб переконатися, що робить все правильно, викликає у мене якісь дивні почуття..."
+    t "І те, як вона кожну секунду дивиться на мене, щоб переконатися, що робить все правильно, викликає в мене якісь дивні почуття..."
 
 # game/game/charlotte_events.rpy:1106
 translate ukrainian char_gal1_de329419:
@@ -3351,7 +3351,7 @@ translate ukrainian char_gal1_7e509913:
 translate ukrainian char_gal1_c3077bf1:
 
     # c "Isn't that the idea?"
-    c "Хіба не у цьому суть?"
+    c "Хіба не в цьому суть?"
 
 # game/game/charlotte_events.rpy:1120
 translate ukrainian char_gal1_324e3ba4:
@@ -3369,7 +3369,7 @@ translate ukrainian char_gal1_d197f44d:
 translate ukrainian char_gal1_8fa02e15:
 
     # t "And her two small hands are not enough to hold my cock."
-    t "Та її малих рук недостатньо, щоб втримати мій прутень."
+    t "Та її малих рук недостатньо, щоб утримати мій прутень."
 
 # game/game/charlotte_events.rpy:1123
 translate ukrainian char_gal1_3ae994e2:
@@ -3459,7 +3459,7 @@ translate ukrainian char_gal1_49aaaeaf:
 translate ukrainian char_gal1_470116e3:
 
     # c "I don't know what's so special about showing you this."
-    c "Не знаю, що такого особливого у тому, аби показати їх тобі."
+    c "Не знаю, що такого особливого в тому, аби показати їх тобі."
 
 # game/game/charlotte_events.rpy:1140
 translate ukrainian char_gal1_35a6432a:
@@ -3501,7 +3501,7 @@ translate ukrainian char_gal1_6757f813:
 translate ukrainian char_gal1_a7617060:
 
     # c "I had heard that humans have strange mating habits."
-    c "Я чула, що у людей є дивні звичаї спаровування."
+    c "Я чула, що в людей є дивні звичаї спаровування."
 
 # game/game/charlotte_events.rpy:1150
 translate ukrainian char_gal1_5c6b12c8:
@@ -19981,7 +19981,7 @@ translate ukrainian strings:
     new "Вона так і не буде з тобою розмовляти, якщо тільки ти не заманеш її їжею."
 
     old "{color=#319B85}Charlotte's{/color} room unlocked in Mayu's shop!"
-    new "{size=-4}Кімната {color=#319B85}Шарлотти{/color} доступна у крамничці Маю!{/size}"
+    new "{size=-4}Кімната {color=#319B85}Шарлотти{/color} доступна в крамничці Маю!{/size}"
 
     old "Now you can \"sleep\" with {color=#86CDB7}Charlotte{/color} at night."
     new "Now you can \"sleep\" with {color=#86CDB7}Charlotte{/color} at night."
