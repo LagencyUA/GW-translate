@@ -5577,13 +5577,13 @@ translate ukrainian akane_town_2_b1805c96:
 translate ukrainian akane_kitchen_H_48acf997:
 
     # mc "{i}Gahg."
-    mc "{i}Gahg."
+    mc "{i}Гахг."
 
 # game/game/akane_events.rpy:1881
 translate ukrainian akane_kitchen_H_80c43ac2:
 
     # ak "{size=-6}G-"
-    ak "{size=-6}G-"
+    ak "{size=-6}Г-"
 
 # game/game/akane_events.rpy:1882
 translate ukrainian akane_kitchen_H_46b79df3:
@@ -5595,37 +5595,37 @@ translate ukrainian akane_kitchen_H_46b79df3:
 translate ukrainian akane_kitchen_H_0a3c89ef:
 
     # ak "Looking for a fight?"
-    ak "Looking for a fight?"
+    ak "Нариваєшся на бійку?"
 
 # game/game/akane_events.rpy:1885
 translate ukrainian akane_kitchen_H_fcdb021f:
 
     # mc "Just kidding, I was looking for you."
-    mc "Just kidding, I was looking for you."
+    mc "Та жартую. Я тебе шукав."
 
 # game/game/akane_events.rpy:1887
 translate ukrainian akane_kitchen_H_c2cb4f2a:
 
     # ak "You really became a stalker."
-    ak "You really became a stalker."
+    ak "Отже, ти все ж став переслідувачем."
 
 # game/game/akane_events.rpy:1888
 translate ukrainian akane_kitchen_H_64b1f456:
 
     # mc "Remember our kitchen deal?"
-    mc "Remember our kitchen deal?"
+    mc "Пам'ятаєш про нашу угоду з кухнею?"
 
 # game/game/akane_events.rpy:1889
 translate ukrainian akane_kitchen_H_d8e179be:
 
     # ak "{size=-6}{i}Sigh~"
-    ak "{size=-6}{i}Sigh~"
+    ak "{size=-6}{i}*Хааах*~"
 
 # game/game/akane_events.rpy:1890
 translate ukrainian akane_kitchen_H_8b93097b:
 
     # ak "{size=-10}At least try to deny it..."
-    ak "{size=-10}At least try to deny it..."
+    ak "{size=-10}Хоча б спробував заперечити..."
 
 # game/game/akane_events.rpy:1891
 translate ukrainian akane_kitchen_H_46b79df3_1:
@@ -5637,37 +5637,37 @@ translate ukrainian akane_kitchen_H_46b79df3_1:
 translate ukrainian akane_kitchen_H_b6275299:
 
     # ak "{sc=3}{outlinecolor=#000000}I never accepted it!"
-    ak "{sc=3}{outlinecolor=#000000}I never accepted it!"
+    ak "{sc=3}{outlinecolor=#000000}Я ніколи на це не погоджувалася!"
 
 # game/game/akane_events.rpy:1894
 translate ukrainian akane_kitchen_H_9640296b:
 
     # mc "I recently got Mayu to build the kitchen in my house."
-    mc "I recently got Mayu to build the kitchen in my house."
+    mc "Нещодавно я попросив Маю відновити мені кухню в моєму домі."
 
 # game/game/akane_events.rpy:1895
 translate ukrainian akane_kitchen_H_5d5f55e5:
 
     # mc "You know what that means, don't you?"
-    mc "You know what that means, don't you?"
+    mc "Ти ж знаєш, що це означає, так?"
 
 # game/game/akane_events.rpy:1897
 translate ukrainian akane_kitchen_H_7b6739fb:
 
     # ak "{i}You play deaf when it is convenient for you."
-    ak "{i}You play deaf when it is convenient for you."
+    ak "{i}Прикидаєшся глухим, коли тобі це зручно."
 
 # game/game/akane_events.rpy:1898
 translate ukrainian akane_kitchen_H_17ba660e:
 
     # ak "Are you that desperate to try my food?"
-    ak "Are you that desperate to try my food?"
+    ak "Невже ти так нестерпно бажаєш скуштувати мої страви?"
 
 # game/game/akane_events.rpy:1899
 translate ukrainian akane_kitchen_H_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/akane_events.rpy:1900
 translate ukrainian akane_kitchen_H_46b79df3_2:
@@ -5679,7 +5679,7 @@ translate ukrainian akane_kitchen_H_46b79df3_2:
 translate ukrainian akane_kitchen_H_3bedc5b6:
 
     # mc "Come on, you'll be the first to use it."
-    mc "Come on, you'll be the first to use it."
+    mc "Нумо, будеш першою, хто скористається нею."
 
 # game/game/akane_events.rpy:1903
 translate ukrainian akane_kitchen_H_46b79df3_3:
@@ -5691,25 +5691,25 @@ translate ukrainian akane_kitchen_H_46b79df3_3:
 translate ukrainian akane_kitchen_H_f50e0099:
 
     # mc "Besides, you promised."
-    mc "Besides, you promised."
+    mc "До того ж ти обіцяла."
 
 # game/game/akane_events.rpy:1906
 translate ukrainian akane_kitchen_H_c25963bb:
 
     # ak "Sigh~ {w}I didn't promise you anything."
-    ak "Sigh~ {w}I didn't promise you anything."
+    ak "{i}*Хааах*~{/i} {w}Я тобі нічого не обіцяла."
 
 # game/game/akane_events.rpy:1907
 translate ukrainian akane_kitchen_H_de512ac8:
 
     # ak "{size=-6}But{/size}... {w=0.5}I can use you to help me make lunch."
-    ak "{size=-6}But{/size}... {w=0.5}I can use you to help me make lunch."
+    ak "{size=-6}Але{/size}... {w=0.5}я можу припрягти тебе допомогти мені з обідом."
 
 # game/game/akane_events.rpy:1909
 translate ukrainian akane_kitchen_H_875d1305:
 
     # mc "Ok!"
-    mc "Ok!"
+    mc "Гаразд!"
 
 # game/game/akane_events.rpy:1910
 translate ukrainian akane_kitchen_H_46b79df3_4:
@@ -5721,37 +5721,37 @@ translate ukrainian akane_kitchen_H_46b79df3_4:
 translate ukrainian akane_kitchen_H_e719ce9e:
 
     # ak "{i}Why do you get so excited over a simple-"
-    ak "{i}Why do you get so excited over a simple-"
+    ak "{i}Чому ти так радієш якомусь простому-"
 
 # game/game/akane_events.rpy:1913
 translate ukrainian akane_kitchen_H_fce9ad73:
 
     # ak "Whatever, {w=0.5}if that's what you want, start being useful from now on by carrying the bag."
-    ak "Whatever, {w=0.5}if that's what you want, start being useful from now on by carrying the bag."
+    ak "Байдуже. {w=0.5}Якщо ти так цього хочеш, починай уже бути корисним — неси цей пакет."
 
 # game/game/akane_events.rpy:1915
 translate ukrainian akane_kitchen_H_0167991f:
 
     # mc "Sure, give it to me."
-    mc "Sure, give it to me."
+    mc "Звісно, давай його мені."
 
 # game/game/akane_events.rpy:1916
 translate ukrainian akane_kitchen_H_e85caec7:
 
     # mc "Now let's go! I can't wait!"
-    mc "Now let's go! I can't wait!"
+    mc "Тепер, ходімо! Вже не можу дочекатися!"
 
 # game/game/akane_events.rpy:1917
 translate ukrainian akane_kitchen_H_69288b07:
 
     # ak "{size=-6}Y-You're just a weird pervert..."
-    ak "{size=-6}Y-You're just a weird pervert..."
+    ak "{size=-6}Т-Ти просто дивакуватий збоченець..."
 
 # game/game/akane_events.rpy:1924
 translate ukrainian akane_kitchen_H_98792323:
 
     # mc "Come, make yourself at home."
-    mc "Come, make yourself at home."
+    mc "Проходь, почувайся як удома."
 
 # game/game/akane_events.rpy:1925
 translate ukrainian akane_kitchen_H_46b79df3_5:
@@ -5763,55 +5763,55 @@ translate ukrainian akane_kitchen_H_46b79df3_5:
 translate ukrainian akane_kitchen_H_d4185a83:
 
     # ak "For such a big house, you have it pretty well kept."
-    ak "For such a big house, you have it pretty well kept."
+    ak "Як для такого великого будинку, він у тебе дуже гарно прибраний."
 
 # game/game/akane_events.rpy:1928
 translate ukrainian akane_kitchen_H_db1575fe:
 
     # mc "All thanks to Ryoko."
-    mc "All thanks to Ryoko."
+    mc "Усе завдяки Рьоко."
 
 # game/game/akane_events.rpy:1929
 translate ukrainian akane_kitchen_H_ee3ddfd0:
 
     # ak "And where is she?"
-    ak "And where is she?"
+    ak "А де вона?"
 
 # game/game/akane_events.rpy:1931
 translate ukrainian akane_kitchen_H_0541a08c:
 
     # mc "She said she was going out to see Shika or something."
-    mc "She said she was going out to see Shika or something."
+    mc "Вона мені сказала, що збиралася піти до Шики чи якось так."
 
 # game/game/akane_events.rpy:1933
 translate ukrainian akane_kitchen_H_5c1a104a:
 
     # mc "Also now lives a girl named Charlotte, but she must be at the lake at this time."
-    mc "Also now lives a girl named Charlotte, but she must be at the lake at this time."
+    mc "Тут також живе дівчина, на ім'я Шарлотта. Але вона, певно, в таку годину зараз біля озера."
 
 # game/game/akane_events.rpy:1934
 translate ukrainian akane_kitchen_H_f407881b:
 
     # ak "{size=-6}{i}Hmm..."
-    ak "{size=-6}{i}Hmm..."
+    ak "{size=-6}{i}Гмм..."
 
 # game/game/akane_events.rpy:1936
 translate ukrainian akane_kitchen_H_7f28cdb9:
 
     # ak "So we are alone?"
-    ak "So we are alone?"
+    ak "Отже, ми тут самі?"
 
 # game/game/akane_events.rpy:1937
 translate ukrainian akane_kitchen_H_f800bed0_1:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/akane_events.rpy:1938
 translate ukrainian akane_kitchen_H_0dfb919b:
 
     # mc "Follow me, over here is the new kitchen."
-    mc "Follow me, over here is the new kitchen."
+    mc "Ходи за мною, новенька кухня тут."
 
 # game/game/akane_events.rpy:1939
 translate ukrainian akane_kitchen_H_46b79df3_6:
@@ -5823,49 +5823,49 @@ translate ukrainian akane_kitchen_H_46b79df3_6:
 translate ukrainian akane_kitchen_H_efb67ee5:
 
     # ak "{size=-6}{i}Ok..."
-    ak "{size=-6}{i}Ok..."
+    ak "{size=-6}{i}Добре..."
 
 # game/game/akane_events.rpy:1942
 translate ukrainian akane_kitchen_H_db4b7551:
 
     # mc "The bad thing about having such a big house is that it feels empty without people."
-    mc "The bad thing about having such a big house is that it feels empty without people."
+    mc "Значний мінус у такому великому будинку — це те, що він відчувається пустим, коли тут майже нема нікого."
 
 # game/game/akane_events.rpy:1943
 translate ukrainian akane_kitchen_H_2e91211c:
 
     # ak "Hmm..."
-    ak "Hmm..."
+    ak "Гмм..."
 
 # game/game/akane_events.rpy:1947
 translate ukrainian akane_kitchen_H_98804340:
 
     # mc "Here it is."
-    mc "Here it is."
+    mc "А ось і вона."
 
 # game/game/akane_events.rpy:1949
 translate ukrainian akane_kitchen_H_5b7b5f02:
 
     # mc "Mayu did a great job as always."
-    mc "Mayu did a great job as always."
+    mc "Маю, як завжди, впоралася на славу."
 
 # game/game/akane_events.rpy:1950
 translate ukrainian akane_kitchen_H_4f00f619:
 
     # ak "It is very well equipped, I could cook anything I wanted in this place."
-    ak "It is very well equipped, I could cook anything I wanted in this place."
+    ak "Вона надзвичайно добре обладнана. Я зможу тут приготувати геть усе, що забажаю."
 
 # game/game/akane_events.rpy:1951
 translate ukrainian akane_kitchen_H_d8a6ad76:
 
     # mc "Right? {w}I don't even know if we need that much."
-    mc "Right? {w}I don't even know if we need that much."
+    mc "Правда? {w}Я навіть не впевнений, чи нам знадобиться стільки всього."
 
 # game/game/akane_events.rpy:1953
 translate ukrainian akane_kitchen_H_497419c0:
 
     # ak "{size=-6}Hahaha...{/size} {w=0.5}I don't think so too."
-    ak "{size=-6}Hahaha...{/size} {w=0.5}I don't think so too."
+    ak "{size=-6}Хахаха...{/size} {w=0.5}Я теж так не думаю."
 
 # game/game/akane_events.rpy:1954
 translate ukrainian akane_kitchen_H_2b35b6fe:
@@ -5877,7 +5877,7 @@ translate ukrainian akane_kitchen_H_2b35b6fe:
 translate ukrainian akane_kitchen_H_0a3d8136:
 
     # t "First time I've seen her laugh with me..."
-    t "First time I've seen her laugh with me..."
+    t "Я вперше бачу, як вона сміється поруч зі мною..."
 
 # game/game/akane_events.rpy:1957
 translate ukrainian akane_kitchen_H_84442dbf:
@@ -5889,25 +5889,25 @@ translate ukrainian akane_kitchen_H_84442dbf:
 translate ukrainian akane_kitchen_H_69c939b2:
 
     # ak "Let's get started before it's too late..."
-    ak "Let's get started before it's too late..."
+    ak "Почнімо, поки не стемніло..."
 
 # game/game/akane_events.rpy:1960
 translate ukrainian akane_kitchen_H_a04e7b68:
 
     # mc "O-Ok..."
-    mc "O-Ok..."
+    mc "А-Авжеж..."
 
 # game/game/akane_events.rpy:1962
 translate ukrainian akane_kitchen_H_a8311fc1:
 
     # ak "Oh, there's also an apron."
-    ak "Oh, there's also an apron."
+    ak "О, тут також є фартух."
 
 # game/game/akane_events.rpy:1963
 translate ukrainian akane_kitchen_H_51bffb22:
 
     # mc "A-Apron...?"
-    mc "A-Apron...?"
+    mc "Ф-Фартух...?"
 
 # game/game/akane_events.rpy:1965
 translate ukrainian akane_kitchen_H_46b79df3_7:
@@ -5925,25 +5925,25 @@ translate ukrainian akane_kitchen_H_2b35b6fe_1:
 translate ukrainian akane_kitchen_H_9cfd9b43:
 
     # ak "What are you looking at?"
-    ak "What are you looking at?"
+    ak "На що ти витріщився?"
 
 # game/game/akane_events.rpy:1969
 translate ukrainian akane_kitchen_H_ca0cb176:
 
     # t "How pretty you look in that apron."
-    t "How pretty you look in that apron."
+    t "Який чарівний вигляд у тебе в цьому фартушку."
 
 # game/game/akane_events.rpy:1970
 translate ukrainian akane_kitchen_H_5b00e079:
 
     # t "But if I say that, {w}that knife will end up in my ass."
-    t "But if I say that, {w}that knife will end up in my ass."
+    t "Але якщо я це озвучу, {w}той ніж опиниться в моїй сраці."
 
 # game/game/akane_events.rpy:1972
 translate ukrainian akane_kitchen_H_573070d2:
 
     # t "I've to choose my words wisely."
-    t "I've to choose my words wisely."
+    t "Я мушу ретельно підбирати слова."
 
 # game/game/akane_events.rpy:1973
 translate ukrainian akane_kitchen_H_2b35b6fe_2:
@@ -5955,37 +5955,37 @@ translate ukrainian akane_kitchen_H_2b35b6fe_2:
 translate ukrainian akane_kitchen_H_9a000074:
 
     # mc "You look great in that apron."
-    mc "You look great in that apron."
+    mc "Маєш гарний вигляд у цьому фартусі."
 
 # game/game/akane_events.rpy:1976
 translate ukrainian akane_kitchen_H_6f2c3e17:
 
     # ak "Wha-"
-    ak "Wha-"
+    ak "Що-"
 
 # game/game/akane_events.rpy:1977
 translate ukrainian akane_kitchen_H_2056c5d1:
 
     # t "I couldn't think of anything else."
-    t "I couldn't think of anything else."
+    t "Не зміг нічого вигадати."
 
 # game/game/akane_events.rpy:1979
 translate ukrainian akane_kitchen_H_e8a4c436:
 
     # ak "{sc=3}{outlinecolor=#000000}Concentrate on making the fo-"
-    ak "{sc=3}{outlinecolor=#000000}Concentrate on making the fo-"
+    ak "{sc=3}{outlinecolor=#000000}Зосередься на приготува-"
 
 # game/game/akane_events.rpy:1983
 translate ukrainian akane_kitchen_H_139add91:
 
     # mc "It's as if we were married."
-    mc "It's as if we were married."
+    mc "Ми неначе подружня пара."
 
 # game/game/akane_events.rpy:1984
 translate ukrainian akane_kitchen_H_d5040c43:
 
     # t "I think I chose them well."
-    t "I think I chose them well."
+    t "Гадаю, це гарний вибір слів."
 
 # game/game/akane_events.rpy:1985
 translate ukrainian akane_kitchen_H_46b79df3_8:
@@ -5997,67 +5997,67 @@ translate ukrainian akane_kitchen_H_46b79df3_8:
 translate ukrainian akane_kitchen_H_5ba95e21:
 
     # ak "Haaa!?"
-    ak "Haaa!?"
+    ak "Гааа!?"
 
 # game/game/akane_events.rpy:1991
 translate ukrainian akane_kitchen_H_df191536:
 
     # ak "{sc=3}{outlinecolor=#000000}Pervert!"
-    ak "{sc=3}{outlinecolor=#000000}Pervert!"
+    ak "{sc=3}{outlinecolor=#000000}Збоченець!"
 
 # game/game/akane_events.rpy:1992
 translate ukrainian akane_kitchen_H_8b5e620a:
 
     # mc "Wait!"
-    mc "Wait!"
+    mc "Стій!"
 
 # game/game/akane_events.rpy:1993
 translate ukrainian akane_kitchen_H_e3b87e57:
 
     # ak "{sc=3}{outlinecolor=#000000}Pig!"
-    ak "{sc=3}{outlinecolor=#000000}Pig!"
+    ak "{sc=3}{outlinecolor=#000000}Тварина!"
 
 # game/game/akane_events.rpy:1994
 translate ukrainian akane_kitchen_H_c83d1f8c:
 
     # mc "Careful with the-"
-    mc "Careful with the-"
+    mc "Обережніше з-"
 
 # game/game/akane_events.rpy:1995
 translate ukrainian akane_kitchen_H_4781f8f2:
 
     # ak "{sc=3}{outlinecolor=#000000}Slime! {w}Worm!"
-    ak "{sc=3}{outlinecolor=#000000}Slime! {w}Worm!"
+    ak "{sc=3}{outlinecolor=#000000}Слимак! {w}Хробак!"
 
 # game/game/akane_events.rpy:1996
 translate ukrainian akane_kitchen_H_18a181d8:
 
     # mc "A-Akane."
-    mc "A-Akane."
+    mc "А-Акане."
 
 # game/game/akane_events.rpy:1998
 translate ukrainian akane_kitchen_H_19b83cc5:
 
     # ak "There are only perverted things in your mind!"
-    ak "There are only perverted things in your mind!"
+    ak "У тебе лише одні збочення в голові!"
 
 # game/game/akane_events.rpy:1999
 translate ukrainian akane_kitchen_H_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/akane_events.rpy:2001
 translate ukrainian akane_kitchen_H_7ec792ed:
 
     # ak "You must first get to know each other before such things!"
-    ak "You must first get to know each other before such things!"
+    ak "Спочатку принаймні ми маємо краще дізнатися одне про одного перед чимось подібним!"
 
 # game/game/akane_events.rpy:2002
 translate ukrainian akane_kitchen_H_fb2e5377:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Ех?"
 
 # game/game/akane_events.rpy:2003
 translate ukrainian akane_kitchen_H_46b79df3_9:
@@ -6069,7 +6069,7 @@ translate ukrainian akane_kitchen_H_46b79df3_9:
 translate ukrainian akane_kitchen_H_7ddf8ad3:
 
     # t "{i}I didn't think she would act like that because of what I said..."
-    t "{i}I didn't think she would act like that because of what I said..."
+    t "Я не думав, що вона так відреагує через сказане мною..."
 
 # game/game/akane_events.rpy:2009
 translate ukrainian akane_kitchen_H_0001c8d7:
@@ -6081,25 +6081,25 @@ translate ukrainian akane_kitchen_H_0001c8d7:
 translate ukrainian akane_kitchen_H_ec9f5b9c:
 
     # mc "What if I wanted to get to know you better?"
-    mc "What if I wanted to get to know you better?"
+    mc "А що, якщо я хочу краще дізнатися про тебе?"
 
 # game/game/akane_events.rpy:2012
 translate ukrainian akane_kitchen_H_a3f420da:
 
     # ak "{size=-6}Y-You are nothing but-"
-    ak "{size=-6}Y-You are nothing but-"
+    ak "{size=-6}Т-Ти не більше ніж прост-"
 
 # game/game/akane_events.rpy:2013
 translate ukrainian akane_kitchen_H_eff4eec9:
 
     # mc "Would you allow me to do it?"
-    mc "Would you allow me to do it?"
+    mc "Дозволиш мені це зробити?"
 
 # game/game/akane_events.rpy:2015
 translate ukrainian akane_kitchen_H_3e867caa:
 
     # ak "Don't-"
-    ak "Don't-"
+    ak "Не-"
 
 # game/game/akane_events.rpy:2016
 translate ukrainian akane_kitchen_H_b1345b5b:
@@ -6111,85 +6111,85 @@ translate ukrainian akane_kitchen_H_b1345b5b:
 translate ukrainian akane_kitchen_H_0574956a:
 
     # ak "{sc=3}{outlinecolor=#000000}Idiot!{/sc} {w=0.5}Why did you grab it?"
-    ak "{sc=3}{outlinecolor=#000000}Idiot!{/sc} {w=0.5}Why did you grab it?"
+    ak "{sc=3}{outlinecolor=#000000}Бовдур!{/sc} {w=0.5}Навіщо ти схопився за нього?"
 
 # game/game/akane_events.rpy:2024
 translate ukrainian akane_kitchen_H_89dfb4fe:
 
     # mc "I didn't want it to fall on you..."
-    mc "I didn't want it to fall on you..."
+    mc "Я не хотів, аби він упав на тебе..."
 
 # game/game/akane_events.rpy:2025
 translate ukrainian akane_kitchen_H_d8e179be_1:
 
     # ak "{size=-6}{i}Sigh~"
-    ak "{size=-6}{i}Sigh~"
+    ak "{size=-6}{i}*Хааах*~"
 
 # game/game/akane_events.rpy:2026
 translate ukrainian akane_kitchen_H_c7ef951a:
 
     # mc "Why did you take off your apron?"
-    mc "Why did you take off your apron?"
+    mc "Навіщо ти зняла свій фартух?"
 
 # game/game/akane_events.rpy:2027
 translate ukrainian akane_kitchen_H_faac701a:
 
     # ak "And stain it with your b-blood?"
-    ak "And stain it with your b-blood?"
+    ak "Хочеш заплямити його своєю к-кров'ю?"
 
 # game/game/akane_events.rpy:2028
 translate ukrainian akane_kitchen_H_f38bf71f:
 
     # ak "C-Clean yourself w-with this."
-    ak "C-Clean yourself w-with this."
+    ak "П-Протри о-ось цим."
 
 # game/game/akane_events.rpy:2029
 translate ukrainian akane_kitchen_H_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/akane_events.rpy:2030
 translate ukrainian akane_kitchen_H_08b5df7f:
 
     # mc "Ok."
-    mc "Ok."
+    mc "Дякую."
 
 # game/game/akane_events.rpy:2032
 translate ukrainian akane_kitchen_H_631d342b:
 
     # ak "{size=-6}D-Don't remove it until it s-stops bleeding..."
-    ak "{size=-6}D-Don't remove it until it s-stops bleeding..."
+    ak "{size=-6}Н-Не прибирай, поки кровотеча не з-зупиниться..."
 
 # game/game/akane_events.rpy:2033
 translate ukrainian akane_kitchen_H_b6120579:
 
     # mc "I think it has stopped, {w}it wasn't that bad, I don't know why it bled so much.."
-    mc "I think it has stopped, {w}it wasn't that bad, I don't know why it bled so much.."
+    mc "Гадаю, вона вже зупинилася. {w}Все було не так погано, не знаю, чого воно так сильно кровоточило..."
 
 # game/game/akane_events.rpy:2034
 translate ukrainian akane_kitchen_H_7fb56a28:
 
     # ak "{size=-6}H-Hmm..."
-    ak "{size=-6}H-Hmm..."
+    ak "{size=-6}Г-Гмм..."
 
 # game/game/akane_events.rpy:2035
 translate ukrainian akane_kitchen_H_13e8e09c:
 
     # t "It is strange that Akane is so calm despite seeing so much blood in front of-"
-    t "It is strange that Akane is so calm despite seeing so much blood in front of-"
+    t "Дивно, що Акане така спокійна, попри всю цю кров перед її-"
 
 # game/game/akane_events.rpy:2037
 translate ukrainian akane_kitchen_H_eabf21e3:
 
     # t "{size=-6}{i}her..."
-    t "{size=-6}{i}her..."
+    t "{size=-6}-очима..."
 
 # game/game/akane_events.rpy:2038
 translate ukrainian akane_kitchen_H_5bb312fd:
 
     # ak "{size=-6}{i}N-Now{/size}... {w=0.5}clean it well or it may get infected..."
-    ak "{size=-6}{i}N-Now{/size}... {w=0.5}clean it well or it may get infected..."
+    ak "{size=-6}{i}Т-Тепер{/size}... {w=0.5}треба гарненько промити, щоб уникнути інфекцій..."
 
 # game/game/akane_events.rpy:2039
 translate ukrainian akane_kitchen_H_2b35b6fe_3:
@@ -6201,37 +6201,37 @@ translate ukrainian akane_kitchen_H_2b35b6fe_3:
 translate ukrainian akane_kitchen_H_79a69e2f:
 
     # mc "Aka-"
-    mc "Aka-"
+    mc "Ака-"
 
 # game/game/akane_events.rpy:2046
 translate ukrainian akane_gal3_41eccf94:
 
     # ak "{sc=3}{outlinecolor=#000000}{size=-6}That smell is filling the room..."
-    ak "{sc=3}{outlinecolor=#000000}{size=-6}That smell is filling the room..."
+    ak "{sc=3}{outlinecolor=#000000}{size=-6}Цей запах заповнює кімнату..."
 
 # game/game/akane_events.rpy:2047
 translate ukrainian akane_gal3_93deaf69:
 
     # mc "Ah..."
-    mc "Ah..."
+    mc "А..."
 
 # game/game/akane_events.rpy:2049
 translate ukrainian akane_gal3_75a1e313:
 
     # ak "I-I can't take it anymore... {w=0.5}every second that passes, every move you make."
-    ak "I-I can't take it anymore... {w=0.5}every second that passes, every move you make."
+    ak "Я-Я більше не можу... {w=0.5}кожна секунда, що минає, кожен рух, що ти робиш..."
 
 # game/game/akane_events.rpy:2050
 translate ukrainian akane_gal3_f685ce7e:
 
     # ak "{size=-6}{i}The temptation becomes stronger and stronger..."
-    ak "{size=-6}{i}The temptation becomes stronger and stronger..."
+    ak "{size=-6}{i}Спокуса стає дедалі сильнішою..."
 
 # game/game/akane_events.rpy:2051
 translate ukrainian akane_gal3_546a196a:
 
     # ak "{sc=3}{outlinecolor=#000000}{size=-6}Quick...{/sc} {w=0.5}get out of here... before-"
-    ak "{sc=3}{outlinecolor=#000000}{size=-6}Quick...{/sc} {w=0.5}get out of here... before-"
+    ak "{sc=3}{outlinecolor=#000000}{size=-6}Швидко...{/sc} {w=0.5}забирайся звідси... перш-"
 
 # game/game/akane_events.rpy:2053
 translate ukrainian akane_gal3_33470caa:
@@ -6243,49 +6243,49 @@ translate ukrainian akane_gal3_33470caa:
 translate ukrainian akane_gal3_ff754112:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Агов."
 
 # game/game/akane_events.rpy:2055
 translate ukrainian akane_gal3_b6f52f7d:
 
     # mc "Don't you think it's too late to worry about that?"
-    mc "Don't you think it's too late to worry about that?"
+    mc "Тобі не здається, що вже запізно про це хвилюватися?"
 
 # game/game/akane_events.rpy:2056
 translate ukrainian akane_gal3_071c9b79:
 
     # mc "You don't need to control yourself anymore."
-    mc "You don't need to control yourself anymore."
+    mc "Тобі більше не треба опиратися своєму бажанню."
 
 # game/game/akane_events.rpy:2058
 translate ukrainian akane_gal3_346126a4:
 
     # ak "{size=-6}{i}I don't need...{/size} {w=0.5}to control myself..."
-    ak "{size=-6}{i}I don't need...{/size} {w=0.5}to control myself..."
+    ak "{size=-6}{i}Мені не треба...{/size} {w=0.5}опиратися..."
 
 # game/game/akane_events.rpy:2059
 translate ukrainian akane_gal3_63aac527:
 
     # ak "{size=-6}Are you aware of what you are saying?"
-    ak "{size=-6}Are you aware of what you are saying?"
+    ak "{size=-6}Ти взагалі розумієш, що кажеш?"
 
 # game/game/akane_events.rpy:2060
 translate ukrainian akane_gal3_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/akane_events.rpy:2061
 translate ukrainian akane_gal3_6067bb81:
 
     # mc "Since I decided to get to know you, I have accepted you as you are."
-    mc "Since I decided to get to know you, I have accepted you as you are."
+    mc "Оскільки я вирішив краще про тебе дізнатися, я прийняв тебе такою, якою ти є."
 
 # game/game/akane_events.rpy:2062
 translate ukrainian akane_gal3_84a21ffb:
 
     # mc "If you need me to give you-"
-    mc "If you need me to give you-"
+    mc "Якщо я тобі потрібен, щоб отримати-"
 
 # game/game/akane_events.rpy:2065
 translate ukrainian akane_gal3_1d82a7e7:
@@ -6297,43 +6297,43 @@ translate ukrainian akane_gal3_1d82a7e7:
 translate ukrainian akane_gal3_3508b59d:
 
     # t "S-She is grabbing my-"
-    t "S-She is grabbing my-"
+    t "В-Вона схопила мій-"
 
 # game/game/akane_events.rpy:2067
 translate ukrainian akane_gal3_b52a6882:
 
     # ak "Are you sure about those words?"
-    ak "Are you sure about those words?"
+    ak "Ти впевнений у своїх словах?"
 
 # game/game/akane_events.rpy:2068
 translate ukrainian akane_gal3_c253cb83:
 
     # mc "Uhm-"
-    mc "Uhm-"
+    mc "Угу."
 
 # game/game/akane_events.rpy:2069
 translate ukrainian akane_gal3_b18cdadd:
 
     # ak "It's a very strong thing to say something like that to an honorable vampire."
-    ak "It's a very strong thing to say something like that to an honorable vampire."
+    ak "Сказати щось подібне шановані вампірці — це дуже серйозний крок."
 
 # game/game/akane_events.rpy:2070
 translate ukrainian akane_gal3_2b46f369:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-6}Gulp*"
-    mc "{sc=3}{outlinecolor=#000000}{size=-6}Gulp*"
+    mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}*Ковть*{/i}"
 
 # game/game/akane_events.rpy:2071
 translate ukrainian akane_gal3_19325c93:
 
     # mc "T-This honorable human doesn't go back on his words."
-    mc "T-This honorable human doesn't go back on his words."
+    mc "Ц-Ця шанована людина завжди дотримується свого слова."
 
 # game/game/akane_events.rpy:2073
 translate ukrainian akane_gal3_e6152546:
 
     # ak "Honorable you? {w=0.5}On the ground."
-    ak "Honorable you? {w=0.5}On the ground."
+    ak "Шанований — ти? {w=0.5}На підлогу."
 
 # game/game/akane_events.rpy:2074
 translate ukrainian akane_gal3_2b35b6fe:
@@ -6345,169 +6345,169 @@ translate ukrainian akane_gal3_2b35b6fe:
 translate ukrainian akane_gal3_b1ef33ac:
 
     # ak "Now."
-    ak "Now."
+    ak "Зараз же."
 
 # game/game/akane_events.rpy:2076
 translate ukrainian akane_gal3_ed862fd2:
 
     # mc "Ok..."
-    mc "Ok..."
+    mc "Так..."
 
 # game/game/akane_events.rpy:2077
 translate ukrainian akane_gal3_e1399cc4:
 
     # ak "An honorable person wouldn't accept such an order without hesitation."
-    ak "An honorable person wouldn't accept such an order without hesitation."
+    ak "Шанована людина не буде так слухняно виконувати подібні накази."
 
 # game/game/akane_events.rpy:2078
 translate ukrainian akane_gal3_937211d8:
 
     # mc "Anything to help you."
-    mc "Anything to help you."
+    mc "Усе, щоб тобі допомогти."
 
 # game/game/akane_events.rpy:2079
 translate ukrainian akane_gal3_ca8646a4:
 
     # ak "Suuure, {w}now close your eyes and don't think about opening them."
-    ak "Suuure, {w}now close your eyes and don't think about opening them."
+    ak "Звііісно. {w}Тепер заплющ очі, й навіть не думай їх розплющити."
 
 # game/game/akane_events.rpy:2080
 translate ukrainian akane_gal3_112c63f8:
 
     # mc "... {w}all right..."
-    mc "... {w}all right..."
+    mc "... {w}Гаразд..."
 
 # game/game/akane_events.rpy:2081
 translate ukrainian akane_gal3_ecae5c49:
 
     # t "I hear clothes moving..."
-    t "I hear clothes moving..."
+    t "Я почув шурхіт речей..."
 
 # game/game/akane_events.rpy:2082
 translate ukrainian akane_gal3_177d3eb2:
 
     # mc "What are you doing?"
-    mc "What are you doing?"
+    mc "Що ти робиш?"
 
 # game/game/akane_events.rpy:2083
 translate ukrainian akane_gal3_0f4005f7:
 
     # ak "If you look now, you're dead."
-    ak "If you look now, you're dead."
+    ak "Якщо спробуєш підглянути, помреш."
 
 # game/game/akane_events.rpy:2084
 translate ukrainian akane_gal3_cb0f31f1:
 
     # mc "{size=-6}{i}Gulp*"
-    mc "{size=-6}{i}Gulp*"
+    mc "{size=-6}{i}*Ковть*"
 
 # game/game/akane_events.rpy:2087
 translate ukrainian akane_gal3_7c2edbd4:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ах-"
 
 # game/game/akane_events.rpy:2088
 translate ukrainian akane_gal3_9f7402a2:
 
     # ak "I told you to get on the ground, {w=0.5}not to kneel."
-    ak "I told you to get on the ground, {w=0.5}not to kneel."
+    ak "Я сказала на підлогу, {w=0.5}не на коліна."
 
 # game/game/akane_events.rpy:2090
 translate ukrainian akane_gal3_16bc4b72:
 
     # mc "Was it necessary to- "
-    mc "Was it necessary to- "
+    mc "Обов'язково було-"
 
 # game/game/akane_events.rpy:2092
 translate ukrainian akane_gal3_8b30fef7:
 
     # mc "{size=-6}push me...?"
-    mc "{size=-6}push me...?"
+    mc "{size=-6}штовхати мене...?"
 
 # game/game/akane_events.rpy:2093
 translate ukrainian akane_gal3_a0ccecb3:
 
     # ak "Did you just open your eyes without being allowed to?"
-    ak "Did you just open your eyes without being allowed to?"
+    ak "Невже ти щойно насмілився розплющити очі без дозволу?"
 
 # game/game/akane_events.rpy:2094
 translate ukrainian akane_gal3_f7e59c1b:
 
     # ak "You just said some pretty compromising words, you know that?"
-    ak "You just said some pretty compromising words, you know that?"
+    ak "А тільки-но казав такі відверті слова, не забув?"
 
 # game/game/akane_events.rpy:2095
 translate ukrainian akane_gal3_7292698e:
 
     # t "That apron makes Akane's sensual body stand out more..."
-    t "That apron makes Akane's sensual body stand out more..."
+    t "Цей фартух ще більше підкреслює спокусливі форми Акане..."
 
 # game/game/akane_events.rpy:2097
 translate ukrainian akane_gal3_42618e30:
 
     # ak "You're in trouble, you know that, don't you?"
-    ak "You're in trouble, you know that, don't you?"
+    ak "Ти в халепі, розумієш це, чи ні?"
 
 # game/game/akane_events.rpy:2098
 translate ukrainian akane_gal3_ba78ee66:
 
     # mc "{size=-6}I d-don't know if \"problem\" is what I'm in right now..."
-    mc "{size=-6}I d-don't know if \"problem\" is what I'm in right now..."
+    mc "{size=-6}Н-Не впевнений, чи зможу я назвати поточну ситуацію «халепою»..."
 
 # game/game/akane_events.rpy:2099
 translate ukrainian akane_gal3_423650dc:
 
     # ak "Well, I will do the same with you."
-    ak "Well, I will do the same with you."
+    ak "Ну, я зроблю з тобою те саме."
 
 # game/game/akane_events.rpy:2100
 translate ukrainian akane_gal3_99ebe956:
 
     # mc "T-The same?"
-    mc "T-The same?"
+    mc "Т-Те саме?"
 
 # game/game/akane_events.rpy:2102
 translate ukrainian akane_gal3_e107a3e6:
 
     # ak "Yes, maybe I can even accept how perverted you are."
-    ak "Yes, maybe I can even accept how perverted you are."
+    ak "Так. Можливо, я навіть зможу прийняти, який ти збоченець."
 
 # game/game/akane_events.rpy:2103
 translate ukrainian akane_gal3_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/akane_events.rpy:2104
 translate ukrainian akane_gal3_24530640:
 
     # ak "Do you think I don't notice how you look at me just because I wear this apron?"
-    ak "Do you think I don't notice how you look at me just because I wear this apron?"
+    ak "Невже ти думав, що я не помітила, як ти дивишся на мене лише через цей фартух?"
 
 # game/game/akane_events.rpy:2105
 translate ukrainian akane_gal3_bdfb43e2:
 
     # ak "Look how you've gotten."
-    ak "Look how you've gotten."
+    ak "Тільки подивися на себе."
 
 # game/game/akane_events.rpy:2107
 translate ukrainian akane_gal3_c30a0bc1:
 
     # mc "... {w}Oh..."
-    mc "... {w}Oh..."
+    mc "... {w}Ох..."
 
 # game/game/akane_events.rpy:2108
 translate ukrainian akane_gal3_c8b29593:
 
     # mc "At what tim-"
-    mc "At what tim-"
+    mc "Коли це-"
 
 # game/game/akane_events.rpy:2110
 translate ukrainian akane_gal3_3a9be775:
 
     # mc "Mmm? Akane?"
-    mc "Mmm? Akane?"
+    mc "Ммм? Акане?"
 
 # game/game/akane_events.rpy:2112
 translate ukrainian akane_gal3_ddec92ad:
@@ -6519,25 +6519,25 @@ translate ukrainian akane_gal3_ddec92ad:
 translate ukrainian akane_gal3_a3ddf3e9:
 
     # ak "What happened? {w=0.5}Your gaze is focused on just one place."
-    ak "What happened? {w=0.5}Your gaze is focused on just one place."
+    ak "Що таке? {w=0.5}Твій погляд прикипів лише до однієї точки."
 
 # game/game/akane_events.rpy:2114
 translate ukrainian akane_gal3_9bcf721f:
 
     # ak "I wonder what's going through that lost, perverted mind."
-    ak "I wonder what's going through that lost, perverted mind."
+    ak "Цікаво, що ж відбувається в тому розгубленому, збоченому розумі."
 
 # game/game/akane_events.rpy:2115
 translate ukrainian akane_gal3_f82df2d8:
 
     # mc "{size=-6}You can probably guess..."
-    mc "{size=-6}You can probably guess..."
+    mc "{size=-6}Думаю, ти зможеш вгадати..."
 
 # game/game/akane_events.rpy:2117
 translate ukrainian akane_gal3_33d4d297:
 
     # ak "And you don't dare to say it? {w=0.5}{i}How pathetic."
-    ak "And you don't dare to say it? {w=0.5}{i}How pathetic."
+    ak "І ти смієш таке казати? {w=0.5}{i}Як жалюгідно."
 
 # game/game/akane_events.rpy:2118
 translate ukrainian akane_gal3_2b35b6fe_1:
@@ -6549,13 +6549,13 @@ translate ukrainian akane_gal3_2b35b6fe_1:
 translate ukrainian akane_gal3_7ec65ce9:
 
     # ak "Where is the honorable man from earlier? {w=0.5}Or was it all a li-"
-    ak "Where is the honorable man from earlier? {w=0.5}Or was it all a li-"
+    ak "Куди подівся весь той шанобливий чоловік? {w=0.5}Невже це було брех-"
 
 # game/game/akane_events.rpy:2120
 translate ukrainian akane_gal3_8c7456a3:
 
     # mc "I want to see that beautiful pussy..."
-    mc "I want to see that beautiful pussy..."
+    mc "Я хочу побачити твою прекрасну кицьку..."
 
 # game/game/akane_events.rpy:2121
 translate ukrainian akane_gal3_46b79df3:
@@ -6567,55 +6567,55 @@ translate ukrainian akane_gal3_46b79df3:
 translate ukrainian akane_gal3_80fe38db:
 
     # ak "{sc=3}{outlinecolor=#000000}Haa~{/sc} {w}And the pervert just confessed..."
-    ak "{sc=3}{outlinecolor=#000000}Haa~{/sc} {w}And the pervert just confessed..."
+    ak "{sc=3}{outlinecolor=#000000}Хаа~{/sc} {w}І збоченець вирішив зізнатися..."
 
 # game/game/akane_events.rpy:2124
 translate ukrainian akane_gal3_5e13efdf:
 
     # ak "But at least you were honest, and that deserves a reward."
-    ak "But at least you were honest, and that deserves a reward."
+    ak "Але принаймні ти був чесний, а це вартує винагороди."
 
 # game/game/akane_events.rpy:2125
 translate ukrainian akane_gal3_3a11a208:
 
     # mc "R-Reward? {w}{sc=3}{outlinecolor=#000000}Gulp*{/sc} {w}What will it be this time...?"
-    mc "R-Reward? {w}{sc=3}{outlinecolor=#000000}Gulp*{/sc} {w}What will it be this time...?"
+    mc "В-Винагороди? {w}{sc=3}{outlinecolor=#000000}{i}*Ковть*{/i}{/sc} {w}І якою вона буде цього разу...?"
 
 # game/game/akane_events.rpy:2126
 translate ukrainian akane_gal3_f0f47b35:
 
     # ak "{sc=3}{outlinecolor=#000000}Haaa?{/sc} {w=0.5}This time?"
-    ak "{sc=3}{outlinecolor=#000000}Haaa?{/sc} {w=0.5}This time?"
+    ak "{sc=3}{outlinecolor=#000000}Гааа?{/sc} {w=0.5}Цього разу?"
 
 # game/game/akane_events.rpy:2128
 translate ukrainian akane_gal3_2db92b5f:
 
     # t "{sc=3}{outlinecolor=#000000}My not-so-holy eyes!"
-    t "{sc=3}{outlinecolor=#000000}My not-so-holy eyes!"
+    t "{sc=3}{outlinecolor=#000000}Мої далеко не святі очі!"
 
 # game/game/akane_events.rpy:2129
 translate ukrainian akane_gal3_ab4f0734:
 
     # ak "Hahaha~ {w=0.5}look at you getting excited with that simple word."
-    ak "Hahaha~ {w=0.5}look at you getting excited with that simple word."
+    ak "Хахаха~ {w=0.5}Лише-но подивися який ти схвильований від такого простого слова."
 
 # game/game/akane_events.rpy:2130
 translate ukrainian akane_gal3_477cf8b1:
 
     # ak "Such a weak mind must be trained."
-    ak "Such a weak mind must be trained."
+    ak "Такий слабкий розум треба тренувати."
 
 # game/game/akane_events.rpy:2131
 translate ukrainian akane_gal3_aac84f75:
 
     # mc "I-... {w}{size=-6}I enjoy training..."
-    mc "I-... {w}{size=-6}I enjoy training..."
+    mc "Я-... {w}{size=-6}Я обожнюю тренування..."
 
 # game/game/akane_events.rpy:2133
 translate ukrainian akane_gal3_895c92da:
 
     # ak "Of course you do."
-    ak "Of course you do."
+    ak "Звісно обожнюєш."
 
 # game/game/akane_events.rpy:2135
 translate ukrainian akane_gal3_2b35b6fe_2:
@@ -6627,103 +6627,103 @@ translate ukrainian akane_gal3_2b35b6fe_2:
 translate ukrainian akane_gal3_fa376a10:
 
     # ak "You're pretty quiet."
-    ak "You're pretty quiet."
+    ak "Ти, на диво, не багатослівний."
 
 # game/game/akane_events.rpy:2137
 translate ukrainian akane_gal3_c8e53ed3:
 
     # mc "{size=-6}I am somewhat hypnotized..."
-    mc "{size=-6}I am somewhat hypnotized..."
+    mc "{size=-6}Я ніби заворожений..."
 
 # game/game/akane_events.rpy:2138
 translate ukrainian akane_gal3_ae538c70:
 
     # ak "Didn't you want to try my food?"
-    ak "Didn't you want to try my food?"
+    ak "Хіба ти не хотів спробувати мої страви?"
 
 # game/game/akane_events.rpy:2140
 translate ukrainian akane_gal3_a83e49c0:
 
     # ak "I hope you're very hungry."
-    ak "I hope you're very hungry."
+    ak "Сподіваюся, ти зараз неабияк зголоднів."
 
 # game/game/akane_events.rpy:2141
 translate ukrainian akane_gal3_b796ef6d:
 
     # mc "{i}{size=-6}I'm starving..."
-    mc "{i}{size=-6}I'm starving..."
+    mc "{i}{size=-6}Я просто вмираю з голоду..."
 
 # game/game/akane_events.rpy:2143
 translate ukrainian akane_gal3_2428d31b:
 
     # ak "What are you-"
-    ak "What are you-"
+    ak "Що ти-"
 
 # game/game/akane_events.rpy:2145
 translate ukrainian akane_gal3_66b7fd79:
 
     # mc "You're very wet."
-    mc "You're very wet."
+    mc "Ти дуже мокра."
 
 # game/game/akane_events.rpy:2146
 translate ukrainian akane_gal3_5b4b781d:
 
     # ak "I said eat, not talk..."
-    ak "I said eat, not talk..."
+    ak "Їж, а не розмовляй..."
 
 # game/game/akane_events.rpy:2148
 translate ukrainian akane_gal3_ef476f7a:
 
     # ak "{sc=3}{outlinecolor=#000000}H-Haaa?~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}H-Haaa?~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Г-Гааа?~{image=corazon}"
 
 # game/game/akane_events.rpy:2149
 translate ukrainian akane_gal3_67da2734:
 
     # ak "Are you really doing it? {w}You don't have any control..."
-    ak "Are you really doing it? {w}You don't have any control..."
+    ak "Ти дійсно це робиш? {w}У тебе взагалі гальм немає..."
 
 # game/game/akane_events.rpy:2150
 translate ukrainian akane_gal3_1b8b7b40:
 
     # ak "Look how enthusiastic you are licking back there...{image=corazon}"
-    ak "Look how enthusiastic you are licking back there...{image=corazon}"
+    ak "Подивись, з яким ентузіазмом ти там лижеш...{image=corazon}"
 
 # game/game/akane_events.rpy:2151
 translate ukrainian akane_gal3_d0e91a50:
 
     # t "Even though Akane is teasing me, I can feel her pressing her pussy against my tongue."
-    t "Even though Akane is teasing me, I can feel her pressing her pussy against my tongue."
+    t "Попри всі насміхання від Акане, я відчуваю, як вона притуляє свою кицьку до мого язика."
 
 # game/game/akane_events.rpy:2152
 translate ukrainian akane_gal3_104ed6ad:
 
     # ak "Every stroke of your tongue sends shocks straight through me..."
-    ak "Every stroke of your tongue sends shocks straight through me..."
+    ak "Кожен рух твого язика ніби шле струм через все моє тіло..."
 
 # game/game/akane_events.rpy:2153
 translate ukrainian akane_gal3_b0f5eec1:
 
     # ak "It must be because of... {w}MHnm~{image=corazon}{image=corazon} {w}the perverted way you are doing it..."
-    ak "It must be because of... {w}MHnm~{image=corazon}{image=corazon} {w}the perverted way you are doing it..."
+    ak "Певно, це все через те... {w}{i}МХнм~{/i}{image=corazon}{image=corazon} {w}як збочено ти це робиш..."
 
 # game/game/akane_events.rpy:2154
 translate ukrainian akane_gal3_0de4e9bf:
 
     # mc "Your juices... {w}they just keep coming out..."
-    mc "Your juices... {w}they just keep coming out..."
+    mc "Твої соки... {w}вони не зупиняться витікати..."
 
 # game/game/akane_events.rpy:2155
 translate ukrainian akane_gal3_1e876d6c:
 
     # ak "In spite of that... {w}HNgmn~{image=corazon}{image=corazon} {w}you don't stop licking me."
-    ak "In spite of that... {w}HNgmn~{image=corazon}{image=corazon} {w}you don't stop licking me."
+    ak "І попри це... {w}{i}ХНгмн~{/i}{image=corazon}{image=corazon} {w}ти не перестаєш лизати мене."
 
 # game/game/akane_events.rpy:2156
 translate ukrainian akane_gal3_22f806f7:
 
     # ak "Only you would be able to savor them and continue to do so."
-    ak "Only you would be able to savor them and continue to do so."
+    ak "Тільки ти можеш без зупину насолоджуватися ними."
 
 # game/game/akane_events.rpy:2157
 translate ukrainian akane_gal3_2b35b6fe_3:
@@ -6735,97 +6735,97 @@ translate ukrainian akane_gal3_2b35b6fe_3:
 translate ukrainian akane_gal3_b695307e:
 
     # ak "Ahnhm~{image=corazon}{image=corazon} {w}NHmh~{image=corazon}"
-    ak "Ahnhm~{image=corazon}{image=corazon} {w}NHmh~{image=corazon}"
+    ak "{i}Ахнхм~{/i}{image=corazon}{image=corazon} {w}{i}НХмх~{/i}{image=corazon}"
 
 # game/game/akane_events.rpy:2159
 translate ukrainian akane_gal3_d052b328:
 
     # ak "How does it feel to be the first to try this place?"
-    ak "How does it feel to be the first to try this place?"
+    ak "Як тобі бути першим, хто куштує це місце?"
 
 # game/game/akane_events.rpy:2161
 translate ukrainian akane_gal3_c1b19f15:
 
     # mc "So I am the first..."
-    mc "So I am the first..."
+    mc "Отже, я перший..."
 
 # game/game/akane_events.rpy:2162
 translate ukrainian akane_gal3_f7219d57:
 
     # ak "Haaa? {w}What do you mean by that? {w=0.5}Do you think I would let just anyone do this?"
-    ak "Haaa? {w}What do you mean by that? {w=0.5}Do you think I would let just anyone do this?"
+    ak "Гааа? {w}І до чого ти це? {w=0.5}Гадаєш, я б дозволила таке будь-кому?"
 
 # game/game/akane_events.rpy:2163
 translate ukrainian akane_gal3_5dc02253:
 
     # mc "Not really..."
-    mc "Not really..."
+    mc "Звісно ні..."
 
 # game/game/akane_events.rpy:2164
 translate ukrainian akane_gal3_19ce78ca:
 
     # mc "So why me?"
-    mc "So why me?"
+    mc "Але чому мені?"
 
 # game/game/akane_events.rpy:2165
 translate ukrainian akane_gal3_1a2c5464:
 
     # ak "B-Because... {size=-6}you{/size}... {w}HGnmn~{image=corazon}{image=corazon} {w}S-Shut up!"
-    ak "B-Because... {size=-6}you{/size}... {w}HGnmn~{image=corazon}{image=corazon} {w}S-Shut up!"
+    ak "Т-Тому що... {size=-6}ти{/size}... {w}{i}ХГнмн~{/i}{image=corazon}{image=corazon} {w}М-Мовчати!"
 
 # game/game/akane_events.rpy:2166
 translate ukrainian akane_gal3_66cb78d3:
 
     # ak "Y-You should be happy to be able to give pleasure to an honorable vampire like me!"
-    ak "Y-You should be happy to be able to give pleasure to an honorable vampire like me!"
+    ak "Т-Ти мусиш радіти, що можеш принести задоволення такій шанобливій вампірці, як я!"
 
 # game/game/akane_events.rpy:2167
 translate ukrainian akane_gal3_42aca48e:
 
     # mc "I-I'm glad you are enjoying it..."
-    mc "I-I'm glad you are enjoying it..."
+    mc "Я-Я радий, що ти насолоджуєшся..."
 
 # game/game/akane_events.rpy:2168
 translate ukrainian akane_gal3_3f2bf5db:
 
     # ak "{sc=3}{outlinecolor=#000000}Ghmn!{/sc} {w}I'm not-"
-    ak "{sc=3}{outlinecolor=#000000}Ghmn!{/sc} {w}I'm not-"
+    ak "{sc=3}{outlinecolor=#000000}{i}Гхмн!{/i}{/sc} {w}Я не-"
 
 # game/game/akane_events.rpy:2170
 translate ukrainian akane_gal3_b695a6d3:
 
     # ak "AAaahh!~{image=corazon}{image=corazon} {w}Gnhnmg~{image=corazon} {w}MnhnN~{image=corazon}{image=corazon}"
-    ak "AAaahh!~{image=corazon}{image=corazon} {w}Gnhnmg~{image=corazon} {w}MnhnN~{image=corazon}{image=corazon}"
+    ak "{i}ААаахх!~{/i}{image=corazon}{image=corazon} {w}{i}Гнхнмг~{/i}{image=corazon} {w}{i}МнхнН~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2172
 translate ukrainian akane_gal3_585031be:
 
     # ak "{size=-8}{i}T-This pervert is licking me down t-there like it's the most delicious thing in the world..."
-    ak "{size=-8}{i}T-This pervert is licking me down t-there like it's the most delicious thing in the world..."
+    ak "{size=-8}{i}Ц-Цей збоченець лиже мене там, ніби це найсмачніша річ у цілому світі..."
 
 # game/game/akane_events.rpy:2173
 translate ukrainian akane_gal3_b78315a9:
 
     # ak "Don't think you're s-such a big deal when your penis is so hard..."
-    ak "Don't think you're s-such a big deal when your penis is so hard..."
+    ak "Не думай, що ти якийсь о-особливий, коли твій член такий твердий..."
 
 # game/game/akane_events.rpy:2175
 translate ukrainian akane_gal3_5956d2b8:
 
     # mc "Mmm? {w}What are you going to do?"
-    mc "Mmm? {w}What are you going to do?"
+    mc "Ммм? {w}Що ти збираєшся зробити?"
 
 # game/game/akane_events.rpy:2176
 translate ukrainian akane_gal3_fda85c9c:
 
     # ak "I'll take away that... {w}AaAhhn~{image=corazon}{image=corazon} {w}confidence you showed a while ago..."
-    ak "I'll take away that... {w}AaAhhn~{image=corazon}{image=corazon} {w}confidence you showed a while ago..."
+    ak "Я приберу з тебе... {w}{i}АаАххн~{/i}{image=corazon}{image=corazon} {w}всю цю впевненість, яку ти демонстрував..."
 
 # game/game/akane_events.rpy:2177
 translate ukrainian akane_gal3_553fa6e3:
 
     # ak "Stop moving or I won't be able to-"
-    ak "Stop moving or I won't be able to-"
+    ak "Припини рухатися, інакше я не зможу-"
 
 # game/game/akane_events.rpy:2179
 translate ukrainian akane_gal3_b1345b5b:
@@ -6843,49 +6843,49 @@ translate ukrainian akane_gal3_df66b20b:
 translate ukrainian akane_gal3_bcd7456c:
 
     # ak "I-Isn't it bigger than other times...?"
-    ak "I-Isn't it bigger than other times...?"
+    ak "В-Він наче більший, ніж усі минулі рази...?"
 
 # game/game/akane_events.rpy:2182
 translate ukrainian akane_gal3_911d23ab:
 
     # mc "That's because..."
-    mc "That's because..."
+    mc "Це все тому..."
 
 # game/game/akane_events.rpy:2185
 translate ukrainian akane_gal3_c579aa56:
 
     # mc "{size=-8}Hhm..."
-    mc "{size=-8}Hhm..."
+    mc "{size=-8}{i}Ххм...{/i}"
 
 # game/game/akane_events.rpy:2186
 translate ukrainian akane_gal3_2e55d272:
 
     # ak "{sc=3}{outlinecolor=#000000}Aaah!~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Aaah!~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Ааах!~{image=corazon}"
 
 # game/game/akane_events.rpy:2187
 translate ukrainian akane_gal3_735c5043:
 
     # ak "D-Don't stick y-your tongue...."
-    ak "D-Don't stick y-your tongue...."
+    ak "Н-Не смій засовувати с-свій язик..."
 
 # game/game/akane_events.rpy:2188
 translate ukrainian akane_gal3_c8b1d96c:
 
     # ak "{size=-6}W-Who do you t-think you are?"
-    ak "{size=-6}W-Who do you t-think you are?"
+    ak "{size=-6}К-Ким ти себе у-уявив?"
 
 # game/game/akane_events.rpy:2189
 translate ukrainian akane_gal3_9322524f:
 
     # ak "{size=-6}You're just-"
-    ak "{size=-6}You're just-"
+    ak "{size=-6}Ти лише звичайний-"
 
 # game/game/akane_events.rpy:2192
 translate ukrainian akane_gal3_d7d151dc:
 
     # ak "{sc=3}{outlinecolor=#000000}A pervnhMng!~~{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}A pervnhMng!~~{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}збоченМнг!~~{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2193
 translate ukrainian akane_gal3_b1345b5b_1:
@@ -6897,301 +6897,301 @@ translate ukrainian akane_gal3_b1345b5b_1:
 translate ukrainian akane_gal3_56c2acf5:
 
     # ak "Ghngm~{image=corazon}{image=corazon} {w}Slurrp~{image=corazon} {w}Aaghnmm~{image=corazon}{image=corazon}"
-    ak "Ghngm~{image=corazon}{image=corazon} {w}Slurrp~{image=corazon} {w}Aaghnmm~{image=corazon}{image=corazon}"
+    ak "{i}Гхнгм~{/i}{image=corazon}{image=corazon} {w}{i}Сьоорб~{/i}{image=corazon} {w}{i}Аагхнмм~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2195
 translate ukrainian akane_gal3_15b9e525:
 
     # t "S-She is sucking me with all her might!"
-    t "S-She is sucking me with all her might!"
+    t "В-Вона смокче з усієї сили!"
 
 # game/game/akane_events.rpy:2196
 translate ukrainian akane_gal3_47d944a1:
 
     # mc "Wait, don't do it like t-"
-    mc "Wait, don't do it like t-"
+    mc "Стій, не роби так-"
 
 # game/game/akane_events.rpy:2197
 translate ukrainian akane_gal3_643c599c:
 
     # ak "Hmmhm~{image=corazon} {w}Who do you think you are to give me orders?~{image=corazon}{image=corazon}"
-    ak "Hmmhm~{image=corazon} {w}Who do you think you are to give me orders?~{image=corazon}{image=corazon}"
+    ak "{i}Хммхм~{/i}{image=corazon} {w}Хто ти такий, щоб давати мені накази?~{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2198
 translate ukrainian akane_gal3_02fc0e17:
 
     # ak "Y-You don't look so tough anymore huh, {w}GMhnmg~{image=corazon}{image=corazon} {w}now you're a poor man asking me to stop."
-    ak "Y-You don't look so tough anymore huh, {w}GMhnmg~{image=corazon}{image=corazon} {w}now you're a poor man asking me to stop."
+    ak "В-Вже не такий крутий, га? {w}{i}ГМхнмг~{/i}{image=corazon}{image=corazon} {w}Тепер ти бідний чолов'яга, що просить мене зупинитися."
 
 # game/game/akane_events.rpy:2199
 translate ukrainian akane_gal3_9e592942:
 
     # t "N-No way, {w}I'm going to c-cum at any moment."
-    t "N-No way, {w}I'm going to c-cum at any moment."
+    t "Н-Не може бути, {w}я зараз у будь-яку мить к-кінчу."
 
 # game/game/akane_events.rpy:2200
 translate ukrainian akane_gal3_543b5009:
 
     # t "If that's the case, I will have to a-attack her in the same way."
-    t "If that's the case, I will have to a-attack her in the same way."
+    t "У такому випадку, мені слід так само н-напасти на неї."
 
 # game/game/akane_events.rpy:2202
 translate ukrainian akane_gal3_2ecd7cac:
 
     # ak "{sc=3}{outlinecolor=#000000}HanmHN!~{image=corazon} {w}{i}{size=-6}this pervert's tongue is going very d-deep...{/i}{/size} Aaaahn~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}HanmHN!~{image=corazon} {w}{i}{size=-6}this pervert's tongue is going very d-deep...{/i}{/size} Aaaahn~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}{i}ХанмХН!~{/i}{image=corazon} {w}{i}{size=-6}Цей збочений язичок залазить\nнадто глибоко...{/i}{/size} {i}Аааахн~{/i}{image=corazon}"
 
 # game/game/akane_events.rpy:2203
 translate ukrainian akane_gal3_ad46dc70:
 
     # ak "{sc=3}{outlinecolor=#000000}Aaahnm!~{/sc}{image=corazon}{image=corazon}{image=corazon} {w}He is sucking my cl-"
-    ak "{sc=3}{outlinecolor=#000000}Aaahnm!~{/sc}{image=corazon}{image=corazon}{image=corazon} {w}He is sucking my cl-"
+    ak "{sc=3}{outlinecolor=#000000}{i}Ааахнм!~{/i}{/sc}{image=corazon}{image=corazon}{image=corazon} {w}Він облизує мій клі-"
 
 # game/game/akane_events.rpy:2204
 translate ukrainian akane_gal3_9766bda2:
 
     # ak "Know your place! Stubborn pervert!"
-    ak "Know your place! Stubborn pervert!"
+    ak "Знай своє місце! Впертий збоченець!"
 
 # game/game/akane_events.rpy:2205
 translate ukrainian akane_gal3_ac32b859:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnh!"
-    mc "{sc=3}{outlinecolor=#000000}Gnh!"
+    mc "{sc=3}{outlinecolor=#000000}{i}Гнх!{/i}"
 
 # game/game/akane_events.rpy:2206
 translate ukrainian akane_gal3_240fb4ae:
 
     # ak "{sc=3}{outlinecolor=#000000}TsuuhGnmn~{image=corazon}{image=corazon} {w}Mhngmg~{image=corazon}{image=corazon} {w}Sluurrrp~~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}TsuuhGnmn~{image=corazon}{image=corazon} {w}Mhngmg~{image=corazon}{image=corazon} {w}Sluurrrp~~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}{i}ТсуухГнмн~{/i}{image=corazon}{image=corazon} {w}{i}Мхнгмг~{/i}{image=corazon}{image=corazon} {w}{i}Сьоооррб~~{/i}{image=corazon}"
 
 # game/game/akane_events.rpy:2207
 translate ukrainian akane_gal3_a6866c11:
 
     # mc "A-Akane!"
-    mc "A-Akane!"
+    mc "А-Акане!"
 
 # game/game/akane_events.rpy:2208
 translate ukrainian akane_gal3_45e07280:
 
     # mc "I-I'm going to c-!"
-    mc "I-I'm going to c-!"
+    mc "Я-Я зараз кі-!"
 
 # game/game/akane_events.rpy:2212
 translate ukrainian akane_gal3_1016b23b:
 
     # mc "{size=-6}E-Eeh...?"
-    mc "{size=-6}E-Eeh...?"
+    mc "{size=-6}Е-Еех...?"
 
 # game/game/akane_events.rpy:2213
 translate ukrainian akane_gal3_3ccc77ff:
 
     # t "Why did she stop...?"
-    t "Why did she stop...?"
+    t "Чому вона зупинилася...?"
 
 # game/game/akane_events.rpy:2215
 translate ukrainian akane_gal3_d29c6901:
 
     # ak "I won that battle, {w=0.5}but it would be very boring if it ended that way."
-    ak "I won that battle, {w=0.5}but it would be very boring if it ended that way."
+    ak "Я перемогла цю битву, {w=0.5}але було б надто нудно, якби все так скінчилося."
 
 # game/game/akane_events.rpy:2216
 translate ukrainian akane_gal3_519eacf2:
 
     # mc "W-What do you mean?"
-    mc "W-What do you mean?"
+    mc "Д-До чого ти хилиш?"
 
 # game/game/akane_events.rpy:2218
 translate ukrainian akane_gal3_04c44bea:
 
     # ak "First, {w=0.5}take off your clothes, I won't be the only one half naked."
-    ak "First, {w=0.5}take off your clothes, I won't be the only one half naked."
+    ak "По-перше, {w=0.5}роздягайся — я не збираюся бути єдиною напівголою."
 
 # game/game/akane_events.rpy:2219
 translate ukrainian akane_gal3_af6e4c8f:
 
     # mc "{size=-6}Is that what you call \"half naked\"...?"
-    mc "{size=-6}Is that what you call \"half naked\"...?"
+    mc "{size=-6}І це ти називаєш «напівголою»...?"
 
 # game/game/akane_events.rpy:2220
 translate ukrainian akane_gal3_0b6bea9a:
 
     # ak "Per-{w=0.5}vert."
-    ak "Per-{w=0.5}vert."
+    ak "Збо-{w=0.5}че-{w=0.5}нець."
 
 # game/game/akane_events.rpy:2222
 translate ukrainian akane_gal3_a45030e9:
 
     # t "I see, I just died."
-    t "I see, I just died."
+    t "Зрозумів, я щойно помер."
 
 # game/game/akane_events.rpy:2223
 translate ukrainian akane_gal3_36b290d9:
 
     # ak "What's wrong? {w=0.5}Your face looks more pathetic than usual."
-    ak "What's wrong? {w=0.5}Your face looks more pathetic than usual."
+    ak "Що не так? {w=0.5}Твоє обличчя ще більш жалюгідне, ніж завжди."
 
 # game/game/akane_events.rpy:2224
 translate ukrainian akane_gal3_40d097b3:
 
     # mc "I just thought that at some point I died and was sent to heaven."
-    mc "I just thought that at some point I died and was sent to heaven."
+    mc "Я подумав, що в якийсь момент я помер і потрапив у рай."
 
 # game/game/akane_events.rpy:2225
 translate ukrainian akane_gal3_d8e179be:
 
     # ak "{size=-6}{i}Sigh~"
-    ak "{size=-6}{i}Sigh~"
+    ak "{size=-6}{i}*Хааах*~"
 
 # game/game/akane_events.rpy:2227
 translate ukrainian akane_gal3_1efac2f3:
 
     # ak "Feel grateful, I will give you the opportunity to vindicate yourself."
-    ak "Feel grateful, I will give you the opportunity to vindicate yourself."
+    ak "Будь вдячний — я дам тобі можливість виправдатися."
 
 # game/game/akane_events.rpy:2228
 translate ukrainian akane_gal3_3b6770bd:
 
     # ak "I hope you don't make me regret it."
-    ak "I hope you don't make me regret it."
+    ak "Сподіваюся, ти не змусиш мене пожалкувати про це рішення."
 
 # game/game/akane_events.rpy:2229
 translate ukrainian akane_gal3_fae1367d:
 
     # mc "I will do my best..."
-    mc "I will do my best..."
+    mc "Я викладуся на повну..."
 
 # game/game/akane_events.rpy:2231
 translate ukrainian akane_gal3_3467dea5:
 
     # ak "Now... {w}d-don't move..."
-    ak "Now... {w}d-don't move..."
+    ak "Тепер... {w}з-завмри..."
 
 # game/game/akane_events.rpy:2232
 translate ukrainian akane_gal3_fec66622:
 
     # ak "If you do, I will b-be very angry."
-    ak "If you do, I will b-be very angry."
+    ak "Я д-дуже розізлюся, якщо поворухнешся."
 
 # game/game/akane_events.rpy:2233
 translate ukrainian akane_gal3_982fe390:
 
     # mc "{size=-6}All right..."
-    mc "{size=-6}All right..."
+    mc "{size=-6}Гаразд..."
 
 # game/game/akane_events.rpy:2234
 translate ukrainian akane_gal3_d4c3f591:
 
     # t "Akane looks doubtful, maybe this is her first-"
-    t "Akane looks doubtful, maybe this is her first-"
+    t "Акане сильно вагається, мабуть, це її перший-"
 
 # game/game/akane_events.rpy:2236
 translate ukrainian akane_gal3_89938dbb:
 
     # ak "{sc=3}{outlinecolor=#000000}{size=-6}{i}Haa..."
-    ak "{sc=3}{outlinecolor=#000000}{size=-6}{i}Haa..."
+    ak "{sc=3}{outlinecolor=#000000}{size=-6}{i}Хаа..."
 
 # game/game/akane_events.rpy:2237
 translate ukrainian akane_gal3_410c6d35:
 
     # ak "{size=-6}S-Stupid huge penis... {w=0.5}why does it have to be like that?"
-    ak "{size=-6}S-Stupid huge penis... {w=0.5}why does it have to be like that?"
+    ak "{size=-6}Д-Дурний величезний член... {w=0.5}чому він має бути ось таким?"
 
 # game/game/akane_events.rpy:2238
 translate ukrainian akane_gal3_6f93399e:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-8}{i}Gulp*"
-    mc "{sc=3}{outlinecolor=#000000}{size=-8}{i}Gulp*"
+    mc "{sc=3}{outlinecolor=#000000}{size=-8}{i}*Ковть*"
 
 # game/game/akane_events.rpy:2239
 translate ukrainian akane_gal3_6b9b22bf:
 
     # t "She's very w-wet... {w}but she's still having a hard time getting it in..."
-    t "She's very w-wet... {w}but she's still having a hard time getting it in..."
+    t "Вона надзвичайно м-мокра... {w}але їй досі важко засунути його..."
 
 # game/game/akane_events.rpy:2240
 translate ukrainian akane_gal3_d5f99e44:
 
     # mc "B-Be careful..."
-    mc "B-Be careful..."
+    mc "О-Обережніше..."
 
 # game/game/akane_events.rpy:2242
 translate ukrainian akane_gal3_2a7088d5:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-8}{i}Gnhm..."
-    mc "{sc=3}{outlinecolor=#000000}{size=-8}{i}Gnhm..."
+    mc "{sc=3}{outlinecolor=#000000}{size=-8}{i}Гнхм..."
 
 # game/game/akane_events.rpy:2243
 translate ukrainian akane_gal3_091f2463:
 
     # ak "{size=-6}S-Shut up... {w}this is nothing..."
-    ak "{size=-6}S-Shut up... {w}this is nothing..."
+    ak "{size=-6}М-Мовчи... {w}це дрібниці..."
 
 # game/game/akane_events.rpy:2244
 translate ukrainian akane_gal3_11bd7a4e:
 
     # ak "Are you afraid to cum because of how amazing... {w}{sc=2}{outlinecolor=#000000}{size=-8}Haaa...{/sc} {w}t-the inside of my pussy must feel...?"
-    ak "Are you afraid to cum because of how amazing... {w}{sc=2}{outlinecolor=#000000}{size=-8}Haaa...{/sc} {w}t-the inside of my pussy must feel...?"
+    ak "Боїшся кінчити через неймовірні...\n{w}{sc=2}{outlinecolor=#000000}{size=-8}Хааа...{/sc} {w}відчуття в-від моєї кицьки...?"
 
 # game/game/akane_events.rpy:2245
 translate ukrainian akane_gal3_0e26ac17:
 
     # mc "T-That may be true, but I'm w-worried you might hurt yourself."
-    mc "T-That may be true, but I'm w-worried you might hurt yourself."
+    mc "М-Можливо і так, але я більше п-переймаюся, що ти зробиш собі боляче."
 
 # game/game/akane_events.rpy:2246
 translate ukrainian akane_gal3_5b048426:
 
     # ak "{size=-6}And the pervert readily admits it..."
-    ak "{size=-6}And the pervert readily admits it..."
+    ak "{size=-6}І цей збоченець охоче це визнає..."
 
 # game/game/akane_events.rpy:2249
 translate ukrainian akane_gal3_f8d008c1:
 
     # ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}Aaahh... It is inside."
-    ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}Aaahh... It is inside."
+    ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}Ааахх... Він усередині."
 
 # game/game/akane_events.rpy:2250
 translate ukrainian akane_gal3_43fbf04e:
 
     # mc "Ghng!"
-    mc "Ghng!"
+    mc "{i}Гхнг!{/i}"
 
 # game/game/akane_events.rpy:2251
 translate ukrainian akane_gal3_08389534:
 
     # t "Akane's pussy is contracting a lot!"
-    t "Akane's pussy is contracting a lot!"
+    t "Кицька Акане постійно стискається!"
 
 # game/game/akane_events.rpy:2252
 translate ukrainian akane_gal3_3dbf0a02:
 
     # ak "I t-told you... t-this is nothing..."
-    ak "I t-told you... t-this is nothing..."
+    ak "К-Казала тобі... ц-це дрібниці..."
 
 # game/game/akane_events.rpy:2254
 translate ukrainian akane_gal3_ce415e92:
 
     # ak "You'll regret... {w=0.5}{size=-6}Ghnmn~{/size}{image=corazon} {w=0.5}looking down on me... "
-    ak "You'll regret... {w=0.5}{size=-6}Ghnmn~{/size}{image=corazon} {w=0.5}looking down on me... "
+    ak "Ти пожалкуєш... {w=0.5}{size=-6}{i}Гхнмн~{/i}{/size}{image=corazon} {w=0.5}що дивився на мене зверхньо... "
 
 # game/game/akane_events.rpy:2255
 translate ukrainian akane_gal3_ca995edc:
 
     # t "Every time she makes a slight movement I can feel a little shiver pass from her pussy to my penis."
-    t "Every time she makes a slight movement I can feel a little shiver pass from her pussy to my penis."
+    t "Щоразу коли вона робить невеликий рух, я відчуваю, як легке тремтіння пробігає від її кицьки до мого члена."
 
 # game/game/akane_events.rpy:2256
 translate ukrainian akane_gal3_9029a845:
 
     # ak "I see you still don't understand who is in charge here."
-    ak "I see you still don't understand who is in charge here."
+    ak "Бачу, ти досі не розумієш, хто тут головний."
 
 # game/game/akane_events.rpy:2257
 translate ukrainian akane_gal3_47ca7633:
 
     # mc "{size=-6}I w-was just worrying about y-"
-    mc "{size=-6}I w-was just worrying about y-"
+    mc "{size=-6}Я п-просто хвилювався за теб-"
 
 # game/game/akane_events.rpy:2260
 translate ukrainian akane_gal3_7a49325d:
@@ -7203,193 +7203,193 @@ translate ukrainian akane_gal3_7a49325d:
 translate ukrainian akane_gal3_7129b493:
 
     # ak "H-Ha ha ha~ {w}What's w-wrong pervert...? {w}Are you giving up already...?"
-    ak "H-Ha ha ha~ {w}What's w-wrong pervert...? {w}Are you giving up already...?"
+    ak "Х-Ха-ха-ха~ {w}Що т-таке, збоченцю...? {w}Вже здаєшся...?"
 
 # game/game/akane_events.rpy:2262
 translate ukrainian akane_gal3_ba989db5:
 
     # t "If she was already squeezing me, now in that position I feel a pressure that will drive me crazy."
-    t "If she was already squeezing me, now in that position I feel a pressure that will drive me crazy."
+    t "Вона і так вже стискала мене, але тепер, у цьому положені, я відчуваю натиск, від якого скоро втрачу голову."
 
 # game/game/akane_events.rpy:2264
 translate ukrainian akane_gal3_33c624c3:
 
     # ak "Hngmn~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon} {w}MnHNnm~{image=corazon}{image=corazon}"
-    ak "Hngmn~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon} {w}MnHNnm~{image=corazon}{image=corazon}"
+    ak "{i}Хнгмн~{/i}{image=corazon}{image=corazon} {w}{i}Ааахнм~{/i}{image=corazon} {w}{i}МнХНнм~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2265
 translate ukrainian akane_gal3_2edc9bff:
 
     # mc "Oh my g-goodness..."
-    mc "Oh my g-goodness..."
+    mc "О, Боже мій..."
 
 # game/game/akane_events.rpy:2266
 translate ukrainian akane_gal3_6709249a:
 
     # ak "{size=-6}{i}I can feel my pussy expanding . . . {w}HhnnmNn~{image=corazon}{image=corazon} {w}It hurts . . . but it's bearable."
-    ak "{size=-6}{i}I can feel my pussy expanding . . . {w}HhnnmNn~{image=corazon}{image=corazon} {w}It hurts . . . but it's bearable."
+    ak "{size=-6}{i}Я відчуваю, як моя кицька розширяється . . . {w}{i}ХхннмНн~{/i}{image=corazon}{image=corazon} {w}Боляче . . . але я можу стерпіти."
 
 # game/game/akane_events.rpy:2267
 translate ukrainian akane_gal3_805d922c:
 
     # ak "{size=-8}{i}So this is how it feels to lose it . . ."
-    ak "{size=-8}{i}So this is how it feels to lose it . . ."
+    ak "{size=-8}{i}То ось як це, коли програєш . . ."
 
 # game/game/akane_events.rpy:2268
 translate ukrainian akane_gal3_cd7247b3:
 
     # mc "D-Did you... {w}say s-something...?"
-    mc "D-Did you... {w}say s-something...?"
+    mc "Т-Ти щось... {w}с-сказала...?"
 
 # game/game/akane_events.rpy:2269
 translate ukrainian akane_gal3_354b1eb7:
 
     # ak "I have said nothing . . . {w}GNhgmhn~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon}"
-    ak "I have said nothing . . . {w}GNhgmhn~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon}"
+    ak "Я нічого не казала . . . {w}{i}ГНхгмхн~{/i}{image=corazon} {w}{i}Ааахнм~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2270
 translate ukrainian akane_gal3_7e5155a6:
 
     # ak "Look at you, you can barely talk... {w}GNhmng~{image=corazon}{image=corazon}"
-    ak "Look at you, you can barely talk... {w}GNhmng~{image=corazon}{image=corazon}"
+    ak "Подивися на себе, навіть говорити ледь здатний... {w}{i}ГНхмнг~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2271
 translate ukrainian akane_gal3_f44aa750:
 
     # ak "Hnhnnm~{image=corazon}{image=corazon} {w}Y-You can just enjoy watching my pussy eat your cock, over and over again..."
-    ak "Hnhnnm~{image=corazon}{image=corazon} {w}Y-You can just enjoy watching my pussy eat your cock, over and over again..."
+    ak "{i}Хнхннм{/i}~{image=corazon}{image=corazon} {w}Т-Ти лише здатний дивитися, як моя кицька поглинає твій прутень, знову і знову..."
 
 # game/game/akane_events.rpy:2272
 translate ukrainian akane_gal3_dbfbc7cb:
 
     # mc "I d-don't think I'm the only one who is... {w=0.5}e-enjoying it..."
-    mc "I d-don't think I'm the only one who is... {w=0.5}e-enjoying it..."
+    mc "Н-Не думаю, що лише я... {w=0.5}н-насолоджуюся цим..."
 
 # game/game/akane_events.rpy:2273
 translate ukrainian akane_gal3_e6fe5fa1:
 
     # mc "Is the p-pain gone?"
-    mc "Is the p-pain gone?"
+    mc "Б-Біль уже минула?"
 
 # game/game/akane_events.rpy:2274
 translate ukrainian akane_gal3_cf1e76b9:
 
     # ak "Still hurts a lit-"
-    ak "Still hurts a lit-"
+    ak "Ще досі трохи бол-"
 
 # game/game/akane_events.rpy:2275
 translate ukrainian akane_gal3_f42c46c5:
 
     # ak "{sc=3}{outlinecolor=#000000}H-Haaa!?{/sc} {w}Why w-would it hurt? {w}Gnhgmhm~{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}H-Haaa!?{/sc} {w}Why w-would it hurt? {w}Gnhgmhm~{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Г-Гааа!?{/sc} {w}Чому б ц-це мені було боляче? {w}{i}Гнхгмхм~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2276
 translate ukrainian akane_gal3_588abc4c:
 
     # mc "T-This is your first time, isn't i-"
-    mc "T-This is your first time, isn't i-"
+    mc "Ц-Це ж твій перший раз, хіба н-"
 
 # game/game/akane_events.rpy:2279
 translate ukrainian akane_gal3_f4e8570d:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghnm!"
-    mc "{sc=2}{outlinecolor=#000000}Ghnm!"
+    mc "{sc=2}{outlinecolor=#000000}{i}Кхнм!{/i}"
 
 # game/game/akane_events.rpy:2280
 translate ukrainian akane_gal3_54273511:
 
     # ak "I was just moving slowly to give you some advantage! {w=0.5}GNhmgn~{image=corazon}{image=corazon}"
-    ak "I was just moving slowly to give you some advantage! {w=0.5}GNhmgn~{image=corazon}{image=corazon}"
+    ak "Я так повільно рухалася, щоб дати тобі фору! {w=0.5}{i}ГНхмгн~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2281
 translate ukrainian akane_gal3_c8ab96a4:
 
     # ak "N-Now I'll get serious, {w=0.5}let's see h-how long you can last without cumming!"
-    ak "N-Now I'll get serious, {w=0.5}let's see h-how long you can last without cumming!"
+    ak "Т-Тепер я візьмуся за це серйозно. {w=0.5}Подивимося, як довго ти протримаєшся не кінчивши!"
 
 # game/game/akane_events.rpy:2282
 translate ukrainian akane_gal3_fc926189:
 
     # mc "Y-Your pussy feels so nice and tight..."
-    mc "Y-Your pussy feels so nice and tight..."
+    mc "Т-Твоя кицька така приємна та вузька..."
 
 # game/game/akane_events.rpy:2283
 translate ukrainian akane_gal3_b4beff66:
 
     # ak "{sc=2}{outlinecolor=#000000}HmMngnm~{image=corazon} {w}AahnmnN~{image=corazon} {w}S-Shut up...{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}HmMngnm~{image=corazon} {w}AahnmnN~{image=corazon} {w}S-Shut up...{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{i}ХмМнгнм~{/i}{image=corazon} {w}{i}АахнмнН~{/i}{image=corazon} {w}М-Мовчи...{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2284
 translate ukrainian akane_gal3_057627d4:
 
     # ak "O-Of course it feels good! {w}Haanmn~{image=corazon} {w}D-Do you think it-"
-    ak "O-Of course it feels good! {w}Haanmn~{image=corazon} {w}D-Do you think it-"
+    ak "З-Звісно вона приємна! {w}{i}Хаанмн~{/i}{image=corazon} {w}Г-Гадаєш, вона-"
 
 # game/game/akane_events.rpy:2287
 translate ukrainian akane_gal3_450606dc:
 
     # ak "{sc=2}{outlinecolor=#000000}{size=-6}M-MNGHhngm!~{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}{size=-6}M-MNGHhngm!~{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}М-МНГХхнгм!~{/i}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2288
 translate ukrainian akane_gal3_a71751c6:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghnmn!"
-    mc "{sc=2}{outlinecolor=#000000}Ghnmn!"
+    mc "{sc=2}{outlinecolor=#000000}{i}Гхнмн!{/i}"
 
 # game/game/akane_events.rpy:2289
 translate ukrainian akane_gal3_af11f963:
 
     # ak "{size=-6}{i}Haaa~{image=corazon} {w}Haanm~{image=corazon}{image=corazon}"
-    ak "{size=-6}{i}Haaa~{image=corazon} {w}Haanm~{image=corazon}{image=corazon}"
+    ak "{size=-6}{i}Хааа~{image=corazon} {w}Хаанм~{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2290
 translate ukrainian akane_gal3_a56ad6e3:
 
     # t "W-What was that? {w}For a moment her pussy contracted tightly... I almost came."
-    t "W-What was that? {w}For a moment her pussy contracted tightly... I almost came."
+    t "Щ-Що це тільки-но було? {w}На мить її кицька шалено стиснулася... Я ледь не кінчив."
 
 # game/game/akane_events.rpy:2291
 translate ukrainian akane_gal3_91c16cbc:
 
     # mc "D-Did you just cum...?"
-    mc "D-Did you just cum...?"
+    mc "Т-Ти щойно кінчила...?"
 
 # game/game/akane_events.rpy:2292
 translate ukrainian akane_gal3_7e47518d:
 
     # ak "Y-You wish you could be... {w}Nnghmgn~{image=corazon}{image=corazon} {w}c-capable of that..."
-    ak "Y-You wish you could be... {w}Nnghmgn~{image=corazon}{image=corazon} {w}c-capable of that..."
+    ak "М-Мрій далі... {w}{i}Ннгхмгн~{/i}{image=corazon}{image=corazon} {w}ніби ти на таке з-здатен..."
 
 # game/game/akane_events.rpy:2293
 translate ukrainian akane_gal3_03327a14:
 
     # ak "{size=-8}{i}W-What's wrong with me? {w=0.5}I started to feel really good out of nowhere..."
-    ak "{size=-8}{i}W-What's wrong with me? {w=0.5}I started to feel really good out of nowhere..."
+    ak "{size=-8}{i}Щ-Що зі мною не так? {w=0.5}Раптово з'явилося таке приємне відчуття..."
 
 # game/game/akane_events.rpy:2294
 translate ukrainian akane_gal3_3473c7b1:
 
     # mc "I love the way you move... watching your beautiful breasts as your hips thrust against me is the best..."
-    mc "I love the way you move... watching your beautiful breasts as your hips thrust against me is the best..."
+    mc "Я просто обожнюю те, як ти рухаєшся... споглядати твої прекрасні груди, поки твої стегна притискаються до мене — найкраща частина..."
 
 # game/game/akane_events.rpy:2295
 translate ukrainian akane_gal3_5f7f8176:
 
     # ak "{sc=2}{outlinecolor=#000000}W-What the hell are you saying p-pervert!~~{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}W-What the hell are you saying p-pervert!~~{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}Щ-Що ти в біса кажеш, з-збоченцю?!~~{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2296
 translate ukrainian akane_gal3_5d06e209:
 
     # mc "I just wanted you to know... {w}y-you are beautiful."
-    mc "I just wanted you to know... {w}y-you are beautiful."
+    mc "Я лише хочу тобі розповісти... {w}я-яка ти гарна."
 
 # game/game/akane_events.rpy:2297
 translate ukrainian akane_gal3_55cf4438:
 
     # ak "Silence! {w}HNgmn~{image=corazon}{image=corazon} {w}C-Compliments from a pervert will not make me happy."
-    ak "Silence! {w}HNgmn~{image=corazon}{image=corazon} {w}C-Compliments from a pervert will not make me happy."
+    ak "Мовчати! {w}{i}ХНгмн~{/i}{image=corazon}{image=corazon} {w}Н-Не думай, що я буду рада компліментам від збоченця."
 
 # game/game/akane_events.rpy:2299
 translate ukrainian akane_gal3_7a49325d_1:
@@ -7401,163 +7401,163 @@ translate ukrainian akane_gal3_7a49325d_1:
 translate ukrainian akane_gal3_53973c15:
 
     # ak "So c-confident with me... {w}Haanmh~{image=corazon}{image=corazon} {w}y-you must understand that we are not at the same level..."
-    ak "So c-confident with me... {w}Haanmh~{image=corazon}{image=corazon} {w}y-you must understand that we are not at the same level..."
+    ak "Такий у-упевнений поруч зі мною... {w}{i}Хаанмх~{/i}{image=corazon}{image=corazon} {w}Т-Ти маєш зрозуміти, що я тобі не рівня..."
 
 # game/game/akane_events.rpy:2301
 translate ukrainian akane_gal3_668bfc09:
 
     # ak "Hghmnm~{image=corazon}{image=corazon} {w}AaaaAhnm~{image=corazon} {w}GNhnmh~{image=corazon}"
-    ak "Hghmnm~{image=corazon}{image=corazon} {w}AaaaAhnm~{image=corazon} {w}GNhnmh~{image=corazon}"
+    ak "{i}Хгхмнм~{/i}{image=corazon}{image=corazon} {w}{i}АаааАхнм~{/i}{image=corazon} {w}{i}ГНхнмх~{/i}{image=corazon}"
 
 # game/game/akane_events.rpy:2302
 translate ukrainian akane_gal3_c9c2f78c:
 
     # mc "A-Akane, I can't hold on any longer!"
-    mc "A-Akane, I can't hold on any longer!"
+    mc "А-Акане, я більше не зможу протриматися!"
 
 # game/game/akane_events.rpy:2303
 translate ukrainian akane_gal3_62a8334f:
 
     # ak "Is t-this your limit? {w}Hngmnm~{image=corazon}{image=corazon} \n{w}{sc=1}{outlinecolor=#000000}Ha{/sc}, you lasted longer than I t-thought..."
-    ak "Is t-this your limit? {w}Hngmnm~{image=corazon}{image=corazon} \n{w}{sc=1}{outlinecolor=#000000}Ha{/sc}, you lasted longer than I t-thought..."
+    ak "І ц-це твоя межа? {w}{i}Хнгмнм~{/i}{image=corazon}{image=corazon} {w}{sc=1}{outlinecolor=#000000}Ха,{/sc}\nтобі вдалося протриматися довше, ніж я д-думала..."
 
 # game/game/akane_events.rpy:2304
 translate ukrainian akane_gal3_de87759c:
 
     # ak "A-And it is obvious that you will! {w}{sc=2}{outlinecolor=#000000}Haaanmn~{image=corazon}{image=corazon}{/sc} {w}I d-didn't give you permission to move!"
-    ak "A-And it is obvious that you will! {w}{sc=2}{outlinecolor=#000000}Haaanmn~{image=corazon}{image=corazon}{/sc} {w}I d-didn't give you permission to move!"
+    ak "О-Очевидно ж, що ти це зробиш! {w}{sc=2}{outlinecolor=#000000}{i}Хааанмн~{/i}{image=corazon}{image=corazon}{/sc}\n{w}Я тобі н-не дозволяла рухатися!"
 
 # game/game/akane_events.rpy:2305
 translate ukrainian akane_gal3_0ae216c1:
 
     # mc "It f-feels too good, {w}I can't help it, I want to get deep inside your pussy!"
-    mc "It f-feels too good, {w}I can't help it, I want to get deep inside your pussy!"
+    mc "Це з-занадто приємно. {w}Не можу нічого вдіяти, я хочу дістати якомога глибше твоєї кицьки!"
 
 # game/game/akane_events.rpy:2306
 translate ukrainian akane_gal3_2f90f97d:
 
     # ak "HNmhnhn~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}HMnGnm~{image=corazon}"
-    ak "HNmhnhn~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}HMnGnm~{image=corazon}"
+    ak "{i}ХНмнхнхн{/i}~{image=corazon} {w}{i}Аахнм~{/i}{image=corazon}{image=corazon} {w}{i}ХМнГнм~{/i}{image=corazon}"
 
 # game/game/akane_events.rpy:2307
 translate ukrainian akane_gal3_6c84ccd7:
 
     # ak "Y-You are a hopeless pervert... {w}HNmgn~{image=corazon}{image=corazon} {w}{sc=2}{outlinecolor=#000000}f-fine...{image=corazon}"
-    ak "Y-You are a hopeless pervert... {w}HNmgn~{image=corazon}{image=corazon} {w}{sc=2}{outlinecolor=#000000}f-fine...{image=corazon}"
+    ak "Т-Ти безнадійний збоченець... {w}{i}ХНмгн~{/i}{image=corazon}{image=corazon} {w}{sc=2}{outlinecolor=#000000}Д-Добре...{image=corazon}"
 
 # game/game/akane_events.rpy:2308
 translate ukrainian akane_gal3_0d9b110c:
 
     # ak "S-Since you've proven you're worth something, I'll let you c-cum...{image=corazon}{image=corazon}"
-    ak "S-Since you've proven you're worth something, I'll let you c-cum...{image=corazon}{image=corazon}"
+    ak "Коли вже ти довів, що чогось вартуєш, я дозволю тобі к-кінчити...{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2309
 translate ukrainian akane_gal3_a0c71e9c:
 
     # mc "I'm at my limit!"
-    mc "I'm at my limit!"
+    mc "Я вже на межі!"
 
 # game/game/akane_events.rpy:2310
 translate ukrainian akane_gal3_1256fd21:
 
     # ak "{size=-6}{i}It feels so hot... {w}HNgmhnmg~{image=corazon}{image=corazon} {w}i-it's swelling inside me...{image=corazon}"
-    ak "{size=-6}{i}It feels so hot... {w}HNgmhnmg~{image=corazon}{image=corazon} {w}i-it's swelling inside me...{image=corazon}"
+    ak "{size=-6}{i}Так гаряче... {w}{i}ХНгмхнмг~{/i}{image=corazon}{image=corazon} {w}в-він набряк прямо всередині мене...{image=corazon}"
 
 # game/game/akane_events.rpy:2311
 translate ukrainian akane_gal3_708d05b8:
 
     # ak "{size=-8}{i}I've l-lost count of the number of times I've cum, I don't know if I can take another on-"
-    ak "{size=-8}{i}I've l-lost count of the number of times I've cum, I don't know if I can take another on-"
+    ak "{size=-8}{i}Я вже з-збилася з ліку, скільки разів кінчила. Не впевнена, чи зможу витримати ще ра-"
 
 # game/game/akane_events.rpy:2313
 translate ukrainian akane_gal3_d056500d:
 
     # mc "A-Akane!"
-    mc "A-Akane!"
+    mc "А-Акане!"
 
 # game/game/akane_events.rpy:2317
 translate ukrainian akane_gal3_5cf78320:
 
     # ak "{sc=3}{outlinecolor=#000000}{size=-8}GNhgMnMnn!{image=corazon}{image=corazon}{w=0.5}{nw}"
-    ak "{sc=3}{outlinecolor=#000000}{size=-8}GNhgMnMnn!{image=corazon}{image=corazon}{w=0.5}{nw}"
+    ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}ГНхгМнМнн!{/i}{image=corazon}{image=corazon}{w=0.5}{nw}"
 
 # game/game/akane_events.rpy:2320
 translate ukrainian akane_gal3_e7980f5f:
 
     # mc "Gnhm!{w=0.5}{nw}"
-    mc "Gnhm!{w=0.5}{nw}"
+    mc "{i}Гнхм!{/i}{w=0.5}{nw}"
 
 # game/game/akane_events.rpy:2323
 translate ukrainian akane_gal3_f77e6799:
 
     # ak "{sc=3}{outlinecolor=#000000}{i}Uuuogghngmnm~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}{i}Uuuogghngmnm~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}{i}Уууоггхнгмнм~{image=corazon}{image=corazon}{image=corazon}"
 
 # game/game/akane_events.rpy:2324
 translate ukrainian akane_gal3_c9bdeded:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnhnm!"
-    mc "{sc=3}{outlinecolor=#000000}Gnhnm!"
+    mc "{sc=3}{outlinecolor=#000000}{i}Гнхнм!{/i}"
 
 # game/game/akane_events.rpy:2327
 translate ukrainian akane_gal3_69a0c39a:
 
     # mc "{size=-6}A-Are you ok...?"
-    mc "{size=-6}A-Are you ok...?"
+    mc "{size=-6}Т-Ти в порядку...?"
 
 # game/game/akane_events.rpy:2328
 translate ukrainian akane_gal3_2868dd84:
 
     # ak "{sc=2}{outlinecolor=#000000}HaaAaa~{image=corazon} {w}HaAaa~{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}HaaAaa~{image=corazon} {w}HaAaa~{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{i}ХааАаа~{/i}{image=corazon} {w}{i}ХаАаа~{/i}{image=corazon}"
 
 # game/game/akane_events.rpy:2329
 translate ukrainian akane_gal3_5d0774c5:
 
     # ak "{size=-6}S-So warm inside me... {w}your penis came out because of the amount of semen it expelled..."
-    ak "{size=-6}S-So warm inside me... {w}your penis came out because of the amount of semen it expelled..."
+    ak "{size=-6}У-Усередині мене так тепло... {w}твій член виліз через усю ту кількість сім'я, яку він вивільнив..."
 
 # game/game/akane_events.rpy:2330
 translate ukrainian akane_gal3_e87c8815:
 
     # mc "{size=-6}I f-feel like you took years of my life away..."
-    mc "{size=-6}I f-feel like you took years of my life away..."
+    mc "{size=-6}У мене в-відчуття, ніби ти відібрала роки мого життя..."
 
 # game/game/akane_events.rpy:2331
 translate ukrainian akane_gal3_fa417358:
 
     # t "I didn't think I would cum that much..."
-    t "I didn't think I would cum that much..."
+    t "Не думав, що я так багато кінчу..."
 
 # game/game/akane_events.rpy:2332
 translate ukrainian akane_gal3_4de48779:
 
     # mc "{size=-6}Y-You are amazing Akane..."
-    mc "{size=-6}Y-You are amazing Akane..."
+    mc "{size=-6}Т-Ти неймовірна, Акане..."
 
 # game/game/akane_events.rpy:2334
 translate ukrainian akane_gal3_f428e610:
 
     # ak "{size=-6}Don't say things like that to me when you're lying there. . . {sc=2}{outlinecolor=#000000}{size=-8}Haaa...{/sc}{/size} trying to catch your breath..."
-    ak "{size=-6}Don't say things like that to me when you're lying there. . . {sc=2}{outlinecolor=#000000}{size=-8}Haaa...{/sc}{/size} trying to catch your breath..."
+    ak "{size=-6}Не кажи щось подібне, коли сам там лежиш. . .\n{sc=2}{outlinecolor=#000000}{size=-8}Хааа...{/size}{/sc} намагаючись перехопити подих...{/size}"
 
 # game/game/akane_events.rpy:2335
 translate ukrainian akane_gal3_9be9388a:
 
     # ak "Maybe you already regret having said all that before?"
-    ak "Maybe you already regret having said all that before?"
+    ak "Можливо, ти вже пожалкував про все, що казав до цього?"
 
 # game/game/akane_events.rpy:2336
 translate ukrainian akane_gal3_54269a65:
 
     # mc "That would make me the dumbest man on earth, I will never regret anything."
-    mc "That would make me the dumbest man on earth, I will never regret anything."
+    mc "Тоді я би був найбільшим дурнем у цілому світі. Я ніколи ні про що не шкодуватиму."
 
 # game/game/akane_events.rpy:2337
 translate ukrainian akane_gal3_f35cd0a0:
 
     # mc "I want to get to know you more and spend more time with you."
-    mc "I want to get to know you more and spend more time with you."
+    mc "Я хочу більше про тебе дізнатися, та проводити більше часу поруч з тобою."
 
 # game/game/akane_events.rpy:2338
 translate ukrainian akane_gal3_46b79df3_1:
@@ -7569,37 +7569,37 @@ translate ukrainian akane_gal3_46b79df3_1:
 translate ukrainian akane_gal3_7f6baba0:
 
     # ak "{sc=2}{outlinecolor=#000000}Haaa?!"
-    ak "{sc=2}{outlinecolor=#000000}Haaa?!"
+    ak "{sc=2}{outlinecolor=#000000}Гааа?!"
 
 # game/game/akane_events.rpy:2344
 translate ukrainian akane_gal3_be371c4e:
 
     # ak "What nonsense you say so easily?!"
-    ak "What nonsense you say so easily?!"
+    ak "Як тобі вдається з такою легкістю казати такі нісенітниці?!"
 
 # game/game/akane_events.rpy:2345
 translate ukrainian akane_gal3_b10ee80f:
 
     # mc "Whatever you need from my body, you can take or suck it, as you wish."
-    mc "Whatever you need from my body, you can take or suck it, as you wish."
+    mc "Усе, що тобі треба від мого тіла, можеш взяти, або висмоктати — тільки забажай про це."
 
 # game/game/akane_events.rpy:2347
 translate ukrainian akane_gal3_abaea5ca:
 
     # ak "{sc=1}{outlinecolor=#000000}Silence!"
-    ak "{sc=1}{outlinecolor=#000000}Silence!"
+    ak "{sc=1}{outlinecolor=#000000}Мовчати!"
 
 # game/game/akane_events.rpy:2357
 translate ukrainian akane_gal3_ca0b4da8:
 
     # ak "Better get to cleaning up because we have to make lunch!"
-    ak "Better get to cleaning up because we have to make lunch!"
+    ak "Нам краще привести себе до ладу, бо ще треба обід готувати!"
 
 # game/game/akane_events.rpy:2358
 translate ukrainian akane_gal3_753fa76c:
 
     # mc "Yes, yes."
-    mc "Yes, yes."
+    mc "Так, так."
 
 # game/game/akane_events.rpy:2363
 translate ukrainian akane_gal3_8c6efad4:
@@ -7611,13 +7611,13 @@ translate ukrainian akane_gal3_8c6efad4:
 translate ukrainian akane_gal3_0676eed3:
 
     # mc "Why do you hit me? {w}What will you do if I start liking it?!"
-    mc "Why do you hit me? {w}What will you do if I start liking it?!"
+    mc "Чому ти мене вдарила? {w}Що робитимеш, якщо це почне мені подобатись?!"
 
 # game/game/akane_events.rpy:2365
 translate ukrainian akane_gal3_a2745229:
 
     # ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}Big Sigh~"
-    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}Big Sigh~"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Хааааах*~"
 
 # game/game/akane_events.rpy:2372
 translate ukrainian akane_gal3_a20cefa7:
@@ -7641,61 +7641,61 @@ translate ukrainian akane_gal3_d7edd024:
 translate ukrainian akane_gal3_f8204d63:
 
     # mc "This looks really good."
-    mc "This looks really good."
+    mc "Виглядає дуже добре."
 
 # game/game/akane_events.rpy:2377
 translate ukrainian akane_gal3_ca00fdf1:
 
     # ak "Shut up and eat."
-    ak "Shut up and eat."
+    ak "Замовкни та їж."
 
 # game/game/akane_events.rpy:2378
 translate ukrainian akane_gal3_8b1528b3:
 
     # mc "I already like to hear that phrase coming from you."
-    mc "I already like to hear that phrase coming from you."
+    mc "Мені вже подобається чути цю фразу від тебе."
 
 # game/game/akane_events.rpy:2380
 translate ukrainian akane_gal3_d2951383:
 
     # ak "I'll eat alone."
-    ak "I'll eat alone."
+    ak "Я їстиму сама."
 
 # game/game/akane_events.rpy:2381
 translate ukrainian akane_gal3_9e3bd4f6:
 
     # mc "No, wait!"
-    mc "No, wait!"
+    mc "Ні, зачекай!"
 
 # game/game/akane_events.rpy:2387
 translate ukrainian akane_gal3_4af2c8f4:
 
     # mc "{size=-6}{i}Fuoh...{/size} Thanks for the food!"
-    mc "{size=-6}{i}Fuoh...{/size} Thanks for the food!"
+    mc "{size=-6}{i}Фух...{/size} Дякую за їжу!"
 
 # game/game/akane_events.rpy:2388
 translate ukrainian akane_gal3_70599129:
 
     # t "I knew it would taste delicious but I didn't think it would exceed my expectations by much!"
-    t "I knew it would taste delicious but I didn't think it would exceed my expectations by much!"
+    t "Я знав, що це буде смачно, але не думав, що настільки перевершить мої очікування!"
 
 # game/game/akane_events.rpy:2389
 translate ukrainian akane_gal3_08448d24:
 
     # t "Akane cooks very w-"
-    t "Akane cooks very w-"
+    t "Акане надзвичайно добре готу-"
 
 # game/game/akane_events.rpy:2391
 translate ukrainian akane_gal3_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/akane_events.rpy:2392
 translate ukrainian akane_gal3_5b07ddbf:
 
     # t "Is she waiting for me to say something?"
-    t "Is she waiting for me to say something?"
+    t "Вона чекає, аби я щось сказав?"
 
 # game/game/akane_events.rpy:2393
 translate ukrainian akane_gal3_46b79df3_2:
@@ -7707,37 +7707,37 @@ translate ukrainian akane_gal3_46b79df3_2:
 translate ukrainian akane_gal3_33725511:
 
     # mc "I have never eaten anything so delicious!"
-    mc "I have never eaten anything so delicious!"
+    mc "Я ще ніколи не їв чогось настільки смачного!"
 
 # game/game/akane_events.rpy:2396
 translate ukrainian akane_gal3_f510aea6:
 
     # ak "{size=-6}Glad y-"
-    ak "{size=-6}Glad y-"
+    ak "{size=-6}Рада, що тоб-"
 
 # game/game/akane_events.rpy:2398
 translate ukrainian akane_gal3_aaea57b3:
 
     # ak "{sc=2}{outlinecolor=#000000}Ahem*"
-    ak "{sc=2}{outlinecolor=#000000}Ahem*"
+    ak "{sc=2}{outlinecolor=#000000}{i}*Кхем*{/i}"
 
 # game/game/akane_events.rpy:2399
 translate ukrainian akane_gal3_a62908d5:
 
     # ak "W-What else do you expect~"
-    ak "W-What else do you expect~"
+    ak "А-А чого іще ти очікував~"
 
 # game/game/akane_events.rpy:2400
 translate ukrainian akane_gal3_0b79bc55:
 
     # mc "Hahaha, you are right."
-    mc "Hahaha, you are right."
+    mc "Хахаха, твоя правда."
 
 # game/game/akane_events.rpy:2401
 translate ukrainian akane_gal3_b7f2de19:
 
     # mc "{size=-6}{i}Sigh*{/size} {w}I would love to eat like this every day..."
-    mc "{size=-6}{i}Sigh*{/size} {w}I would love to eat like this every day..."
+    mc "{size=-6}{i}*Хааах*{/size} {w}Було б добре ось так їсти щодня..."
 
 # game/game/akane_events.rpy:2402
 translate ukrainian akane_gal3_46b79df3_3:
@@ -7749,31 +7749,31 @@ translate ukrainian akane_gal3_46b79df3_3:
 translate ukrainian akane_gal3_444c8484:
 
     # mc "Maybe I will capture you and force you to live here hahaha."
-    mc "Maybe I will capture you and force you to live here hahaha."
+    mc "Можливо, я колись тебе зловлю і заставлю тут жити, хахаха."
 
 # game/game/akane_events.rpy:2405
 translate ukrainian akane_gal3_a928f8fd:
 
     # ak "{size=-6}Uhm... {w=0.5}you..."
-    ak "{size=-6}Uhm... {w=0.5}you..."
+    ak "{size=-6}Угм... {w=0.5}ти..."
 
 # game/game/akane_events.rpy:2406
 translate ukrainian akane_gal3_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/akane_events.rpy:2407
 translate ukrainian akane_gal3_26bef3a7:
 
     # ak "D-Do you really mean it?"
-    ak "D-Do you really mean it?"
+    ak "Т-Ти це дійсно зробиш?"
 
 # game/game/akane_events.rpy:2408
 translate ukrainian akane_gal3_42de8919:
 
     # mc "Of course, we would be glad to have you with us."
-    mc "Of course, we would be glad to have you with us."
+    mc "Звісно, ми з радістю приймемо тебе."
 
 # game/game/akane_events.rpy:2409
 translate ukrainian akane_gal3_46b79df3_4:
@@ -7785,55 +7785,55 @@ translate ukrainian akane_gal3_46b79df3_4:
 translate ukrainian akane_gal3_b553fe3c:
 
     # ak "Ha!"
-    ak "Ha!"
+    ak "Ха!"
 
 # game/game/akane_events.rpy:2412
 translate ukrainian akane_gal3_5a60015e:
 
     # ak "I'm sure you don't even have more rooms available."
-    ak "I'm sure you don't even have more rooms available."
+    ak "Впевнена, що в тебе навіть кімнати зайвої не знайдеться."
 
 # game/game/akane_events.rpy:2413
 translate ukrainian akane_gal3_eaec64d4:
 
     # ak "{size=-6}If that were the case, {size=-8}I might consider it-"
-    ak "{size=-6}If that were the case, {size=-8}I might consider it-"
+    ak "{size=-6}Якби така була, {size=-8}я б можливо подумала про-"
 
 # game/game/akane_events.rpy:2415
 translate ukrainian akane_gal3_4d2298b2:
 
     # ak "N-No, {w=0.5}I mean-"
-    ak "N-No, {w=0.5}I mean-"
+    ak "Н-Ні, {w=0.5}тобто-"
 
 # game/game/akane_events.rpy:2416
 translate ukrainian akane_gal3_9a7fa458:
 
     # mc "It's a deal then!"
-    mc "It's a deal then!"
+    mc "Тоді домовилися!"
 
 # game/game/akane_events.rpy:2417
 translate ukrainian akane_gal3_52f74dd7:
 
     # ak "Gh-"
-    ak "Gh-"
+    ak "{i}Гх-{/i}"
 
 # game/game/akane_events.rpy:2419
 translate ukrainian akane_gal3_78502bbe:
 
     # ak "Sigh*"
-    ak "Sigh*"
+    ak "{i}*Хааах*{/i}"
 
 # game/game/akane_events.rpy:2420
 translate ukrainian akane_gal3_856e2944:
 
     # mc "I'll see what I can do"
-    mc "I'll see what I can do"
+    mc "Подивлюся, що можна вигадати."
 
 # game/game/akane_events.rpy:2422
 translate ukrainian akane_gal3_53cd101b:
 
     # ak "{size=-6}Yes, you will..."
-    ak "{size=-6}Yes, you will..."
+    ak "{size=-6}Так, не сумніваюся..."
 
 # game/game/akane_events.rpy:2429
 translate ukrainian akane_gal3_b1805c96:
@@ -29259,11 +29259,11 @@ translate ukrainian strings:
 
     # game/akane_events.rpy:1727
     old "Kitchen{image=/bg/icons/tenshi_text.png}"
-    new "Kitchen{image=/bg/icons/tenshi_text.png}"
+    new "Кухня{image=/bg/icons/tenshi_text.png}"
 
     # game/akane_events.rpy:1727
     old "Accompany her home{image=/bg/icons/heart_text.png}"
-    new "Accompany her home{image=/bg/icons/heart_text.png}"
+    new "Провести її додому{image=/bg/icons/heart_text.png}"
 
     # game/akane_events.rpy:4093
     old "Morning Bath {image=images/bg/icons/tenshi_text.png}"
@@ -29350,14 +29350,20 @@ translate ukrainian strings:
     old "A new construction has been unlocked for your house."
     new "{size=-5}  Розблоковано нове покращення для твого будинку.{/size}"
 
+    old "You head home with Akane."
+    new "Ти попрямував додому разом з Акане."
+
+    old "You enjoy a lovely lunch with Akane."
+    new "Ти насолоджуєшся чудовим обідом разом з Акане."
+
+    old "A new construction has been added!"
+    new "Доступні нові ремонтні роботи!"
+
     old "{i}{sc=3}{outlinecolor=#000000}{color=#ff0058}That's enough."
     new "{i}{sc=3}{outlinecolor=#000000}{color=#ff0058}That's enough."
 
     old "{sc=3}{outlinecolor=#000000}Have you already forgotten?"
     new "{sc=3}{outlinecolor=#000000}Have you already forgotten?"
-
-    old "A new construction has been added!"
-    new "A new construction has been added!"
 
     old "{i}You hang out with the girls while Akane tells her plans."
     new "{i}You hang out with the girls while Akane tells her plans."
@@ -29367,9 +29373,6 @@ translate ukrainian strings:
 
     old "{sc=3}{outlinecolor=#000000}Protect her, protect her, protect her, protect her."
     new "{sc=3}{outlinecolor=#000000}Protect her, protect her, protect her, protect her."
-
-    old "You enjoy a lovely lunch with Akane."
-    new "You enjoy a lovely lunch with Akane."
 
     old "{image=corazon}Perfect 1st date with {color=#E12E50}Akane{image=corazon}"
     new "{image=corazon}Perfect 1st date with {color=#E12E50}Akane{image=corazon}"
@@ -29412,9 +29415,6 @@ translate ukrainian strings:
 
     old "That date didn't go well at all..."
     new "That date didn't go well at all..."
-
-    old "You head home with Akane."
-    new "You head home with Akane."
 
     old "You've unlocked a new room!"
     new "You've unlocked a new room!"
