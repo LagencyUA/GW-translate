@@ -6993,19 +6993,19 @@ translate ukrainian yui_h_mission2_e265950f:
 translate ukrainian training_work_3a88a635:
 
     # so "I want to get back to training!"
-    so "I want to get back to training!"
+    so "Я хочу знову тренуватися!"
 
 # game/game/yui_events.rpy:2316
 translate ukrainian training_work_aa2803d3:
 
     # so "All you want to do is flirt with [mc]."
-    so "All you want to do is flirt with [mc]."
+    so "Усе, що ти хочеш — так це фліртувати з [name_form('ins')]."
 
 # game/game/yui_events.rpy:2318
 translate ukrainian training_work_4b69e23b:
 
     # so "Do you think his penis grows depending on the day...?"
-    so "Do you think his penis grows depending on the day...?"
+    so "Гадаєш, розмір його прутня залежить від дня...?"
 
 # game/game/yui_events.rpy:2319
 translate ukrainian training_work_2b35b6fe:
@@ -7017,31 +7017,31 @@ translate ukrainian training_work_2b35b6fe:
 translate ukrainian training_work_22db2a61:
 
     # mc "H-Hey...!"
-    mc "H-Hey...!"
+    mc "П-Привіт...!"
 
 # game/game/yui_events.rpy:2344
 translate ukrainian training_work_d5d51a33:
 
     # y "Another great day of training!"
-    y "Another great day of training!"
+    y "Ще один гарний день тренувань!"
 
 # game/game/yui_events.rpy:2345
 translate ukrainian training_work_39b1efe0:
 
     # y "See you next time!"
-    y "See you next time!"
+    y "Побачимося!"
 
 # game/game/yui_events.rpy:2346
 translate ukrainian training_work_d0fd842e:
 
     # y "Have a good rest."
-    y "Have a good rest."
+    y "Гарненько відпочиньте."
 
 # game/game/yui_events.rpy:2347
 translate ukrainian training_work_56d4894f:
 
     # so "Yees~"
-    so "Yees~"
+    so "Таак~"
 
 # game/game/yui_events.rpy:2348
 translate ukrainian training_work_2b35b6fe_1:
@@ -7053,43 +7053,43 @@ translate ukrainian training_work_2b35b6fe_1:
 translate ukrainian training_work_e0905738:
 
     # so "Bye bye [mc]!"
-    so "Bye bye [mc]!"
+    so "Бувайте, [name_form('voc')]!"
 
 # game/game/yui_events.rpy:2351
 translate ukrainian training_work_441da9da:
 
     # mc "Bye girls.."
-    mc "Bye girls.."
+    mc "Бувайте, дівчата..."
 
 # game/game/yui_events.rpy:2354
 translate ukrainian training_work_4551302b:
 
     # y "Thanks for your help again."
-    y "Thanks for your help again."
+    y "Дякую тобі знову за допомогу."
 
 # game/game/yui_events.rpy:2361
 translate ukrainian training_work_36768bd5:
 
     # mc "Do you want to sit down for a while?"
-    mc "Do you want to sit down for a while?"
+    mc "Хочеш трохи посидіти?"
 
 # game/game/yui_events.rpy:2363
 translate ukrainian training_work_7edbcd40:
 
     # y "Sure!"
-    y "Sure!"
+    y "Звісно!"
 
 # game/game/yui_events.rpy:2372
 translate ukrainian training_work_00825be7:
 
     # mc "Sorry.."
-    mc "Sorry.."
+    mc "Пробач..."
 
 # game/game/yui_events.rpy:2374
 translate ukrainian training_work_75e75ba2:
 
     # y "Why are you so big.."
-    y "Why are you so big.."
+    y "Чому він такий великий..."
 
 # game/game/yui_events.rpy:2378
 translate ukrainian training_work_71a86863:
@@ -7101,13 +7101,13 @@ translate ukrainian training_work_71a86863:
 translate ukrainian training_work_51fa70f5:
 
     # mc "You already know."
-    mc "You already know."
+    mc "Ти вже маєш знати."
 
 # game/game/yui_events.rpy:2380
 translate ukrainian training_work_103a7771:
 
     # mc "Because you are very cute."
-    mc "Because you are very cute."
+    mc "Все тому, що ти дуже мила."
 
 # game/game/yui_events.rpy:2382
 translate ukrainian training_work_30c5147c:
@@ -7119,13 +7119,13 @@ translate ukrainian training_work_30c5147c:
 translate ukrainian training_work_ab61f498:
 
     # y "Youu!"
-    y "Youu!"
+    y "Тиии!"
 
 # game/game/yui_events.rpy:2385
 translate ukrainian training_work_185ac64e:
 
     # y "If you keep making fun of me...!"
-    y "If you keep making fun of me...!"
+    y "Якщо будеш і далі глузувати з мене...!"
 
 # game/game/yui_events.rpy:2386
 translate ukrainian training_work_2b35b6fe_2:
@@ -7137,13 +7137,13 @@ translate ukrainian training_work_2b35b6fe_2:
 translate ukrainian training_work_598710f0:
 
     # y "Y-You can't get so hard j-just because someone is c-cute."
-    y "Y-You can't get so hard j-just because someone is c-cute."
+    y "Н-Не думаю, що він може так закаменіти\nт-тільки тому, що хтось там м-милий."
 
 # game/game/yui_events.rpy:2388
 translate ukrainian training_work_22a1687b:
 
     # mc "You're holding the proof."
-    mc "You're holding the proof."
+    mc "Доказ у твоїй руці."
 
 # game/game/yui_events.rpy:2389
 translate ukrainian training_work_71a86863_1:
@@ -7155,13 +7155,13 @@ translate ukrainian training_work_71a86863_1:
 translate ukrainian training_work_2c6dc5ba:
 
     # y "How we went from talking to this..."
-    y "How we went from talking to this..."
+    y "Як ми прийшли від розмов до цього..."
 
 # game/game/yui_events.rpy:2392
 translate ukrainian training_work_140cc0b6:
 
     # mc "You didn't want to?"
-    mc "You didn't want to?"
+    mc "А ти проти?"
 
 # game/game/yui_events.rpy:2393
 translate ukrainian training_work_71a86863_2:
@@ -7173,25 +7173,25 @@ translate ukrainian training_work_71a86863_2:
 translate ukrainian training_work_81896330:
 
     # y "I didn't say that."
-    y "I didn't say that."
+    y "Я цього не казала."
 
 # game/game/yui_events.rpy:2396
 translate ukrainian training_work_652128d9:
 
     # y "But if we keep doing this..."
-    y "But if we keep doing this..."
+    y "Але якщо ми продовжимо..."
 
 # game/game/yui_events.rpy:2397
 translate ukrainian training_work_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/yui_events.rpy:2398
 translate ukrainian training_work_6b1efcba:
 
     # y "Don't you think that..."
-    y "Don't you think that..."
+    y "Не думаєш, що..."
 
 # game/game/yui_events.rpy:2399
 translate ukrainian training_work_71a86863_3:
@@ -7203,25 +7203,25 @@ translate ukrainian training_work_71a86863_3:
 translate ukrainian training_work_f18354d7:
 
     # y "W-Will it b-become addictive?..."
-    y "W-Will it b-become addictive?..."
+    y "Ц-Це викличе залежність?..."
 
 # game/game/yui_events.rpy:2401
 translate ukrainian training_work_dc058100:
 
     # mc "Would that be a bad thing?"
-    mc "Would that be a bad thing?"
+    mc "Хіба це щось погане?"
 
 # game/game/yui_events.rpy:2402
 translate ukrainian training_work_ba2277b7:
 
     # y "I don't even know why I ask you if I already know what you'll answer...."
-    y "I don't even know why I ask you if I already know what you'll answer...."
+    y "Не розумію, навіщо я взагалі тебе питала, коли й так знала, що ти скажеш у відповідь..."
 
 # game/game/yui_events.rpy:2403
 translate ukrainian training_work_9a8e0233:
 
     # mc "That feels so good..."
-    mc "That feels so good..."
+    mc "Як же приємно..."
 
 # game/game/yui_events.rpy:2404
 translate ukrainian training_work_71a86863_4:
@@ -7239,13 +7239,13 @@ translate ukrainian training_work_71a86863_5:
 translate ukrainian training_work_c2e18195:
 
     # mc "H-Hey..."
-    mc "H-Hey..."
+    mc "С-Слухай..."
 
 # game/game/yui_events.rpy:2408
 translate ukrainian training_work_8ad00bb8:
 
     # y "W-What...?"
-    y "W-What...?"
+    y "Щ-Що...?"
 
 # game/game/yui_events.rpy:2409
 translate ukrainian training_work_2b35b6fe_3:
@@ -7257,7 +7257,7 @@ translate ukrainian training_work_2b35b6fe_3:
 translate ukrainian training_work_d9bcd5cd:
 
     # y "Do you want to...?"
-    y "Do you want to...?"
+    y "Ти хочеш...?"
 
 # game/game/yui_events.rpy:2412
 translate ukrainian training_work_2b35b6fe_4:
@@ -7269,37 +7269,37 @@ translate ukrainian training_work_2b35b6fe_4:
 translate ukrainian training_work_94023624:
 
     # y "Why are you silent."
-    y "Why are you silent."
+    y "Чому ти мовчиш."
 
 # game/game/yui_events.rpy:2414
 translate ukrainian training_work_4bbe5891:
 
     # mc "Sorry..."
-    mc "Sorry..."
+    mc "Пробач..."
 
 # game/game/yui_events.rpy:2415
 translate ukrainian training_work_276f3836:
 
     # mc "Hearing it directly from you made me feel something indescribable."
-    mc "Hearing it directly from you made me feel something indescribable."
+    mc "Чути це з твоїх вуст викликає в мене якесь невимовне відчуття."
 
 # game/game/yui_events.rpy:2417
 translate ukrainian training_work_6dd5d242:
 
     # y "Idiot..."
-    y "Idiot..."
+    y "Дурко..."
 
 # game/game/yui_events.rpy:2418
 translate ukrainian training_work_81647753:
 
     # y "Why do you like to do it this way?"
-    y "Why do you like to do it this way?"
+    y "Чому тобі до вподоби робити це в такій позі?"
 
 # game/game/yui_events.rpy:2420
 translate ukrainian training_work_a14b5c15:
 
     # y "You just like to watch me naked..."
-    y "You just like to watch me naked..."
+    y "Тобі просто подобається дивитися на голу мене..."
 
 # game/game/yui_events.rpy:2421
 translate ukrainian training_work_2b35b6fe_5:
@@ -7311,115 +7311,115 @@ translate ukrainian training_work_2b35b6fe_5:
 translate ukrainian training_work_7828f078:
 
     # mc "Not at all..."
-    mc "Not at all..."
+    mc "Зовсім ні..."
 
 # game/game/yui_events.rpy:2424
 translate ukrainian training_work_39fcc603:
 
     # y "Are you going to put it in now?"
-    y "Are you going to put it in now?"
+    y "Ти зараз збираєшся вставити?"
 
 # game/game/yui_events.rpy:2425
 translate ukrainian training_work_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Так."
 
 # game/game/yui_events.rpy:2426
 translate ukrainian training_work_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "Are you ready?"
+    mc "Готова?"
 
 # game/game/yui_events.rpy:2427
 translate ukrainian training_work_7c48bd7e:
 
     # y "Uhm..."
-    y "Uhm..."
+    y "Угм..."
 
 # game/game/yui_events.rpy:2435
 translate ukrainian training_work_c1a6a9c3:
 
     # y "Hmnmmn~{image=/bg/icons/heart_text.png}"
-    y "Hmnmmn~{image=/bg/icons/heart_text.png}"
+    y "{i}Хмнммн~{/i}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2436
 translate ukrainian training_work_f611c019:
 
     # mc "You're super wet Yui..."
-    mc "You're super wet Yui..."
+    mc "Ти надзвичайно мокра, Юї..."
 
 # game/game/yui_events.rpy:2437
 translate ukrainian training_work_b121fefa:
 
     # y "I don't want to know!"
-    y "I don't want to know!"
+    y "Я не бажаю цього знати!"
 
 # game/game/yui_events.rpy:2438
 translate ukrainian training_work_f66c183a:
 
     # mc "I'm going to move."
-    mc "I'm going to move."
+    mc "Я збираюся рухатися."
 
 # game/game/yui_events.rpy:2439
 translate ukrainian training_work_a217d7cf:
 
     # y "Ok..."
-    y "Ok..."
+    y "Добре..."
 
 # game/game/yui_events.rpy:2441
 translate ukrainian training_work_db48e69b:
 
     # y "Hnnmmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    y "Hnnmmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    y "{i}Хннммн~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2442
 translate ukrainian training_work_bf024985:
 
     # t "Yui is super warm..."
-    t "Yui is super warm..."
+    t "Юї шалено тепла..."
 
 # game/game/yui_events.rpy:2443
 translate ukrainian training_work_527d35df:
 
     # y "Aaaaah~~{image=/bg/icons/heart_text.png} Hmnmn~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    y "Aaaaah~~{image=/bg/icons/heart_text.png} Hmnmn~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    y "{i}Ааааах~~{/i}{image=/bg/icons/heart_text.png} {i}Хмнмн~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2444
 translate ukrainian training_work_8ed1bb8b:
 
     # y "I-I knew it...~{image=/bg/icons/heart_text.png} "
-    y "I-I knew it...~{image=/bg/icons/heart_text.png} "
+    y "Я т-так і знала...~{image=/bg/icons/heart_text.png} "
 
 # game/game/yui_events.rpy:2445
 translate ukrainian training_work_102aa7ae:
 
     # mc "W-What?"
-    mc "W-What?"
+    mc "Щ-Що саме?"
 
 # game/game/yui_events.rpy:2446
 translate ukrainian training_work_6293e978:
 
     # y "T-This is going to b-become addictive..."
-    y "T-This is going to b-become addictive..."
+    y "Ц-Це точно с-скоро викличе залежність..."
 
 # game/game/yui_events.rpy:2448
 translate ukrainian training_work_681aea01:
 
     # mc "This feels too good..."
-    mc "This feels too good..."
+    mc "Занадто приємно..."
 
 # game/game/yui_events.rpy:2449
 translate ukrainian training_work_72e9c350:
 
     # y "Hmmnm~{image=corazon} {w}Yes..."
-    y "Hmmnm~{image=corazon} {w}Yes..."
+    y "{i}Хммнм~{/i}{image=corazon} {w}Так..."
 
 # game/game/yui_events.rpy:2450
 translate ukrainian training_work_f7c7c706:
 
     # mc "And your fluids have started to flow..."
-    mc "And your fluids have started to flow..."
+    mc "І твої соки почали витікати..."
 
 # game/game/yui_events.rpy:2451
 translate ukrainian training_work_71a86863_6:
@@ -7431,31 +7431,31 @@ translate ukrainian training_work_71a86863_6:
 translate ukrainian training_work_fbd46f8d:
 
     # y "W-We are making a very obscene n-noise..."
-    y "W-We are making a very obscene n-noise..."
+    y "М-Ми видаємо такі сороміцькі з-звуки..."
 
 # game/game/yui_events.rpy:2453
 translate ukrainian training_work_5a846e29:
 
     # mc "D-Do you know why?"
-    mc "D-Do you know why?"
+    mc "З-Знаєш, чому?"
 
 # game/game/yui_events.rpy:2455
 translate ukrainian training_work_681ded2c:
 
     # y "W-What?..."
-    y "W-What?..."
+    y "Щ-Що?..."
 
 # game/game/yui_events.rpy:2456
 translate ukrainian training_work_10579e93:
 
     # y "W-Why... {w}Aaaamnh~{image=corazon} {w}d-do I need to say it...?~{image=corazon}"
-    y "W-Why... {w}Aaaamnh~{image=corazon} {w}d-do I need to say it...?~{image=corazon}"
+    y "Н-Навіщо... {w}{i}Аааамнх~{/i}{image=corazon} {w}м-мені це казати...?~{image=corazon}"
 
 # game/game/yui_events.rpy:2457
 translate ukrainian training_work_700d4149:
 
     # mc "B-Because I want to hear it from you..."
-    mc "B-Because I want to hear it from you..."
+    mc "Б-Бо я хочу почути це від тебе..."
 
 # game/game/yui_events.rpy:2458
 translate ukrainian training_work_71a86863_7:
@@ -7467,55 +7467,55 @@ translate ukrainian training_work_71a86863_7:
 translate ukrainian training_work_db0eff64:
 
     # y "Y-Your penis...{image=corazon} {w}m-makes a l-lewd noise{image=corazon} {w}with my juices..."
-    y "Y-Your penis...{image=corazon} {w}m-makes a l-lewd noise{image=corazon} {w}with my juices..."
+    y "Т-Твій член...{image=corazon} {w}в-видає х-хтиві звуки{image=corazon} {w}з моїми соками..."
 
 # game/game/yui_events.rpy:2461
 translate ukrainian training_work_0a802d71:
 
     # y "Hnmnm~~{image=/bg/icons/heart_text.png}{w} Aahhnmn~{image=/bg/icons/heart_text.png}{w} HGHMNM~{image=/bg/icons/heart_text.png}"
-    y "Hnmnm~~{image=/bg/icons/heart_text.png}{w} Aahhnmn~{image=/bg/icons/heart_text.png}{w} HGHMNM~{image=/bg/icons/heart_text.png}"
+    y "{i}Хнмнм~~{/i}{image=/bg/icons/heart_text.png}{w} {i}Ааххнмн~{/i}{image=/bg/icons/heart_text.png}{w} {i}ХГХМНМ~{/i}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2462
 translate ukrainian training_work_6e7da059:
 
     # y "I-If you move so fast...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    y "I-If you move so fast...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    y "Я-Якщо будеш так швидко рухатися...!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2463
 translate ukrainian training_work_e958cd29:
 
     # mc "I-I couldn't help it after hearing you talk like that!"
-    mc "I-I couldn't help it after hearing you talk like that!"
+    mc "Я-Я не можу стримуватися, коли вже почув таке від тебе!"
 
 # game/game/yui_events.rpy:2464
 translate ukrainian training_work_e5345dbc:
 
     # y "Idiiooot!~~{image=/bg/icons/heart_text.png}{w} Idioooot~~{image=/bg/icons/heart_text.png}"
-    y "Idiiooot!~~{image=/bg/icons/heart_text.png}{w} Idioooot~~{image=/bg/icons/heart_text.png}"
+    y "Дууркооо!~~{image=/bg/icons/heart_text.png}{w} Дуркооо~~{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2465
 translate ukrainian training_work_dfc54cd0:
 
     # y "[mc] I'm going to cum!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    y "[mc] I'm going to cum!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    y "[name_form('voc')], я зараз кінчу!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2466
 translate ukrainian training_work_acc20661:
 
     # mc "Me too!"
-    mc "Me too!"
+    mc "Я теж!"
 
 # game/game/yui_events.rpy:2468
 translate ukrainian training_work_50067801:
 
     # mc "I'm cumming!"
-    mc "I'm cumming!"
+    mc "Кінчаю!"
 
 # game/game/yui_events.rpy:2475
 translate ukrainian training_work_1ed1d798:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-8}GhngmhnNMnhm~~~{image=corazon}{image=corazon}~"
-    y "{sc=1}{outlinecolor=#000000}{size=-8}GhngmhnNMnhm~~~{image=corazon}{image=corazon}~"
+    y "{sc=1}{outlinecolor=#000000}{size=-8}{i}ГхнгмхнНМнхм~~~{/i}{image=corazon}{image=corazon}~"
 
 # game/game/yui_events.rpy:2476
 translate ukrainian training_work_36eeb24f:
@@ -7527,37 +7527,37 @@ translate ukrainian training_work_36eeb24f:
 translate ukrainian training_work_469870f4:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхнг!{/i}"
 
 # game/game/yui_events.rpy:2485
 translate ukrainian training_work_50cc9590:
 
     # mc "Y-Yui, {w}a-are you okay?"
-    mc "Y-Yui, {w}a-are you okay?"
+    mc "Ю-Юї, {w}т-ти як?"
 
 # game/game/yui_events.rpy:2486
 translate ukrainian training_work_ad8778d0:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-8}Ghmnm~{image=corazon}"
-    y "{sc=1}{outlinecolor=#000000}{size=-8}Ghmnm~{image=corazon}"
+    y "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхмнм~{/i}{image=corazon}"
 
 # game/game/yui_events.rpy:2488
 translate ukrainian training_work_56fb1647:
 
     # mc "Yui?"
-    mc "Yui?"
+    mc "Юї?"
 
 # game/game/yui_events.rpy:2489
 translate ukrainian training_work_bc7fcdc7:
 
     # y "A-Again you let out too m-much....{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    y "A-Again you let out too m-much....{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    y "З-Знову з тебе вийшло з-забагато...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:2491
 translate ukrainian training_work_5d6edce1:
 
     # mc "Let me help you get clean...."
-    mc "Let me help you get clean...."
+    mc "Дозволь мені допомогти тобі привести себе до ладу..."
 
 # game/game/yui_events.rpy:2492
 translate ukrainian training_work_71a86863_8:
@@ -7569,7 +7569,7 @@ translate ukrainian training_work_71a86863_8:
 translate ukrainian training_work_3b624b1a:
 
     # y "Okay..."
-    y "Okay..."
+    y "Так..."
 
 # game/game/yui_events.rpy:2501
 translate ukrainian training_work_2a8c4977:
@@ -7581,13 +7581,13 @@ translate ukrainian training_work_2a8c4977:
 translate ukrainian training_work_c0268a1a:
 
     # mc "Let me help clean up."
-    mc "Let me help clean up."
+    mc "Дозволь мені допомогти тобі прибратися."
 
 # game/game/yui_events.rpy:2515
 translate ukrainian training_work_6dd75496:
 
     # y "Are you sure?"
-    y "Are you sure?"
+    y "Упевнений?"
 
 # game/game/yui_events.rpy:2525
 translate ukrainian training_work_2a8c4977_1:
@@ -24249,11 +24249,11 @@ translate ukrainian strings:
 
     # game/yui_events.rpy:2356
     old "Sitting down for a chat{image=/bg/icons/tenshi_text.png}"
-    new "Sitting down for a chat{image=/bg/icons/tenshi_text.png}"
+    new "Присісти потеревенити{image=/bg/icons/tenshi_text.png}"
 
     # game/yui_events.rpy:2356
     old "Clean up and go home{image=/bg/icons/heart_text.png}"
-    new "Clean up and go home{image=/bg/icons/heart_text.png}"
+    new "Прибратися та рушити додому{image=/bg/icons/heart_text.png}"
 
     # game/yui_events.rpy:6712
     old "Wow..."
@@ -24371,11 +24371,14 @@ translate ukrainian strings:
     old "{image=quest_text}I mean, doll!"
     new "{image=quest_text}Тобто ляльку!"
 
+    old "You spend the day training the soldiers."
+    new "Ти проводиш день, тренуючи солдаток."
+
+    old "You help Yui clean up and go home."
+    new "Ти допомагаєш Юї прибратися і рушаєш додому."
+
     old "{i}I want to see them again..."
     new "{i}I want to see them again..."
-
-    old "You spend the day training the soldiers."
-    new "You spend the day training the soldiers."
 
     old "You accompany Yui to her backyard."
     new "You accompany Yui to her backyard."
@@ -24397,9 +24400,6 @@ translate ukrainian strings:
 
     old "You hang out with Yui until it gets dark."
     new "You hang out with Yui until it gets dark."
-
-    old "You help Yui clean up and go home."
-    new "You help Yui clean up and go home."
 
     old "You take Yui to her home."
     new "You take Yui to her home."
