@@ -218,7 +218,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:3191
     old "{color=#CACACA}Hint Blocked{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nFirst complete the previous hint!"
-    new "{color=#CACACA}Підказка заблокована{/color}\n{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії в попередній підказці!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nСпочатку виконай дії в попередній підказці!"
 
     # game/day_time.rpy:593
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou need to complete missions to be able to see this hint."
@@ -680,7 +680,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1821
     old "{color=#FFFFFF}N{/color}-Event\nLet {color=#319B85}Charlotte{/color} know that her room is ready."
-    new "{color=#FFFFFF}N{/color}-Event\nLet {color=#319B85}Charlotte{/color} know that her room is ready."
+    new "{color=#FFFFFF}З{/color}-подія\nРозкажи {color=#319B85}Шарлотті{/color}, що її кімната вже готова."
 
     # game/day_time.rpy:1823
     old "{color=#FFFFFF}N{/color}-Event\nSpend time with {color=#319B85}Charlotte{/color} at night until something good happens."
