@@ -603,7 +603,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1579
     old "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou should build {color=#E12E50}Akane's{/color} room!"
-    new "{color=#CACACA}Hint Blocked{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nYou should build {color=#E12E50}Akane's{/color} room!"
+    new "{color=#CACACA}Підказка заблокована{/color}{image=bg/icons/affection_icons/hints/block_text_icon.png}\nПолагодь кімнату для {color=#E12E50}Акане{/color}!"
 
     # game/day_time.rpy:1590
     old "{color=#FFFFFF}N{/color}-Event\nWhat is that glowing thing in {color=#E12E50}Akane's{/color} room {color=#FBE5A2}in the morning?"

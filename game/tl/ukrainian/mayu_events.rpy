@@ -2236,97 +2236,97 @@ translate ukrainian kitchen_build_f7ec6e4d:
 translate ukrainian secondfloor_build_4d9c17d4:
 
     # ma "Oh! {w}I see you're looking at the second floor, aren't you?"
-    ma "Oh! {w}I see you're looking at the second floor, aren't you?"
+    ma "О! {w}Бачу, ти замислився про другий поверх, правда?"
 
 # game/game/mayu_events.rpy:1465
 translate ukrainian secondfloor_build_af57a369:
 
     # t "Why's she in that position..."
-    t "Why's she in that position..."
+    t "Чому вона так стала..."
 
 # game/game/mayu_events.rpy:1466
 translate ukrainian secondfloor_build_a5e3fdf4:
 
     # mc "Ye-"
-    mc "Ye-"
+    mc "Ага-"
 
 # game/game/mayu_events.rpy:1468
 translate ukrainian secondfloor_build_c2d5a2fb:
 
     # ma "I know!"
-    ma "I know!"
+    ma "Я так і знала!"
 
 # game/game/mayu_events.rpy:1469
 translate ukrainian secondfloor_build_942dd8c1:
 
     # t "What th-"
-    t "What th-"
+    t "Яког-"
 
 # game/game/mayu_events.rpy:1470
 translate ukrainian secondfloor_build_a4a85a2d:
 
     # ma "I know it sounds expensive! But I'll make you an offer."
-    ma "I know it sounds expensive! But I'll make you an offer."
+    ma "Знаю, це звучить дорого! Але в мене є для тебе чудова пропозиція."
 
 # game/game/mayu_events.rpy:1472
 translate ukrainian secondfloor_build_918beb1c:
 
     # ma "The stairs and hallway need to be fixed to make it passable and I won't take any time at all to do those."
-    ma "The stairs and hallway need to be fixed to make it passable and I won't take any time at all to do those."
+    ma "Потрібно відремонтувати сходи та коридор, щоб ними можна було пересуватися, і це не займе в мене багато часу."
 
 # game/game/mayu_events.rpy:1473
 translate ukrainian secondfloor_build_c0929f9c:
 
     # mc "O-Ok?"
-    mc "O-Ok?"
+    mc "Д-Добре?"
 
 # game/game/mayu_events.rpy:1475
 translate ukrainian secondfloor_build_624c022f:
 
     # ma "If you get those materials, in addition to repairing the second floor, I'll leave you a habitable room."
-    ma "If you get those materials, in addition to repairing the second floor, I'll leave you a habitable room."
+    ma "Якщо ти дістанеш ці матеріали, то, крім ремонту другого поверху, я полагоджу для тебе ще одну з кімнат."
 
 # game/game/mayu_events.rpy:1476
 translate ukrainian secondfloor_build_c4343ecc:
 
     # t "Is she just looking for an excuse to get more work?"
-    t "Is she just looking for an excuse to get more work?"
+    t "Невже вона шукає виправдання, щоб взяти більше роботи?"
 
 # game/game/mayu_events.rpy:1478
 translate ukrainian secondfloor_build_7b816ca8:
 
     # t "And are all those weird poses necessary?"
-    t "And are all those weird poses necessary?"
+    t "І всі ці дивні пози справді так необхідні?"
 
 # game/game/mayu_events.rpy:1479
 translate ukrainian secondfloor_build_692a883d:
 
     # mc "Well.. {w}That sounds great.."
-    mc "Well.. {w}That sounds great.."
+    mc "Ну... {w}Звучить чудово..."
 
 # game/game/mayu_events.rpy:1481
 translate ukrainian secondfloor_build_6842ad9c:
 
     # ma "Right?"
-    ma "Right?"
+    ma "Правда?"
 
 # game/game/mayu_events.rpy:1483
 translate ukrainian secondfloor_build_db90472b:
 
     # mc "But the thing is..."
-    mc "But the thing is..."
+    mc "Але річ у тім..."
 
 # game/game/mayu_events.rpy:1484
 translate ukrainian secondfloor_build_3c9ec5d3:
 
     # ma "Hmm?"
-    ma "Hmm?"
+    ma "Гмм?"
 
 # game/game/mayu_events.rpy:1486
 translate ukrainian secondfloor_build_38a3505a:
 
     # mc "{size=-10}I already have the materials..."
-    mc "{size=-10}I already have the materials..."
+    mc "{size=-10}У мене вже є всі необхідні матеріали..."
 
 # game/game/mayu_events.rpy:1487
 translate ukrainian secondfloor_build_9ddc03d3:
@@ -2338,85 +2338,85 @@ translate ukrainian secondfloor_build_9ddc03d3:
 translate ukrainian secondfloor_build_8b9b78c6:
 
     # t "She became completely immobile..."
-    t "She became completely immobile..."
+    t "Вона заклякла..."
 
 # game/game/mayu_events.rpy:1489
 translate ukrainian secondfloor_build_e21a9f96:
 
     # mc "Ma-"
-    mc "Ma-"
+    mc "Ма-"
 
 # game/game/mayu_events.rpy:1491
 translate ukrainian secondfloor_build_36a28b1e:
 
     # ma "{size=-10}Hmm..."
-    ma "{size=-10}Hmm..."
+    ma "{size=-10}Гмм..."
 
 # game/game/mayu_events.rpy:1492
 translate ukrainian secondfloor_build_17e5e2d1:
 
     # t "Oh, {w}she reacted better than I thought."
-    t "Oh, {w}she reacted better than I thought."
+    t "О, {w}її реакція значно краща, ніж я уявляв."
 
 # game/game/mayu_events.rpy:1494
 translate ukrainian secondfloor_build_5b64d58a:
 
     # ma "So that means I can start construction right away, right?"
-    ma "So that means I can start construction right away, right?"
+    ma "То це означає, що я можу почати працювати прямо зараз, так?"
 
 # game/game/mayu_events.rpy:1495
 translate ukrainian secondfloor_build_4a2b6f1b:
 
     # t "Woah, this more serious Mayu is new to me."
-    t "Woah, this more serious Mayu is new to me."
+    t "Ого, оця серйозна Маю — для мене це щось новеньке."
 
 # game/game/mayu_events.rpy:1496
 translate ukrainian secondfloor_build_66019235:
 
     # mc "Sure! {w}How long do you think it will t-"
-    mc "Sure! {w}How long do you think it will t-"
+    mc "Звісно! {w}Як довго це в тебе зай-"
 
 # game/game/mayu_events.rpy:1502
 translate ukrainian secondfloor_build_743112b0:
 
     # ma "AAAAAAAAH!!!"
-    ma "AAAAAAAAH!!!"
+    ma "ААААААААХ!!!"
 
 # game/game/mayu_events.rpy:1503
 translate ukrainian secondfloor_build_e32e791a:
 
     # t "I shouldn't look at such an explicit reference!"
-    t "I shouldn't look at such an explicit reference!"
+    t "Мені не слід дивитися на таку відверту картину!"
 
 # game/game/mayu_events.rpy:1505
 translate ukrainian secondfloor_build_3999b21c:
 
     # t "I'd better get going!"
-    t "I'd better get going!"
+    t "Варто вшиватися!"
 
 # game/game/mayu_events.rpy:1506
 translate ukrainian secondfloor_build_9d1dda9b:
 
     # ma "AAAaaAaaAaAAHH!!!!"
-    ma "AAAaaAaaAaAAHH!!!!"
+    ma "АААааАааАаААХХ!!!!"
 
 # game/game/mayu_events.rpy:1508
 translate ukrainian secondfloor_build_d4794a07:
 
     # mc "I hope it doesn't cause you too much trouble!"
-    mc "I hope it doesn't cause you too much trouble!"
+    mc "Сподіваюся, тобі це не завдало зайвого клопоту!"
 
 # game/game/mayu_events.rpy:1510
 translate ukrainian secondfloor_build_80c2340d:
 
     # ma "AAAAAaaaaAAAAaaaaAAAhhh!!!!"
-    ma "AAAAAaaaaAAAAaaaaAAAhhh!!!!"
+    ma "АААААааааААААааааАААххх!!!!"
 
 # game/game/mayu_events.rpy:1512
 translate ukrainian secondfloor_build_1343bca4:
 
     # mc "AHG!"
-    mc "AHG!"
+    mc "{i}АХГ!{/i}"
 
 # game/game/mayu_events.rpy:1518
 translate ukrainian secondfloor_build_a0c826f8:
@@ -2428,13 +2428,13 @@ translate ukrainian secondfloor_build_a0c826f8:
 translate ukrainian secondfloor_build_7f55a413:
 
     # t "Mayu already finished the second floor, I should go tell Akane."
-    t "Mayu already finished the second floor, I should go tell Akane."
+    t "Маю́ вже закінчила з роботами на другому поверсі. Мені варто розповісти про це Акане."
 
 # game/game/mayu_events.rpy:1526
 translate ukrainian secondfloor_build_0dba8e9a:
 
     # t "I'll look for her when she's in the village in the afternoon."
-    t "I'll look for her when she's in the village in the afternoon."
+    t "Пошукаю її, коли вона буде в селищі вдень."
 
 # game/game/mayu_events.rpy:1548
 translate ukrainian karyn_room_build_da4fdbf8:
@@ -13945,10 +13945,6 @@ translate ukrainian mayu_gal4_4828435b:
     "{image=corazon}Прихильність Маю зросла до [mayu_affection]{image=corazon}"
 
 translate ukrainian strings:
-    # game/mayu_events.rpy:428
-    old "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
-    new "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
-
     # game/mayu_events.rpy:443
     old "{size=-21} Repair and reinforce the gate of the town."
     new "{size=-21} Repair and reinforce the gate of the town."
@@ -13976,10 +13972,6 @@ translate ukrainian strings:
     # game/mayu_events.rpy:512
     old "No one is going to use it so I don't need it for now."
     new "Нема кому нею користуватися, тож вона мені поки не потрібна."
-
-    # game/mayu_events.rpy:695
-    old "{size=-15}Build 2nd floor,{color=#E12E50}Akane's{/color} room?"
-    new "{size=-15}Build 2nd floor,{color=#E12E50}Akane's{/color} room?"
 
     # game/mayu_events.rpy:726
     old "{size=-15}Repair the {color=#CACACA}gate{/color}?"
@@ -14056,6 +14048,15 @@ translate ukrainian strings:
     old "300 gold and 50 wood have been taken from your inventory."
     new "-300 золотих монет і -50 деревини."
 
+    old "{size=+50}{color=#b05e4f}YOU DIED."
+    new "{font=tl/ukrainian/fonts/KyivRegion-Regular.ttf}{size=+50}{color=#b05e4f}ВИ ЗАГИНУЛИ"
+
+    old "280 gold and 60 wood have been taken from your inventory."
+    new "-280 золотих монет і -60 деревини."
+
+    old "You've unlocked the second floor and a new room!"
+    new "Доступні другий поверх та нова кімната!"
+
     old "You and Mayu take the firewood home."
     new "You and Mayu take the firewood home."
 
@@ -14071,9 +14072,6 @@ translate ukrainian strings:
     old "You have unlocked {color=#21c3de}Karyn's{/color} room!"
     new "You have unlocked {color=#21c3de}Karyn's{/color} room!"
 
-    old "280 gold and 60 wood have been taken from your inventory."
-    new "280 gold and 60 wood have been taken from your inventory."
-
     old "-250 gold, -40 wood."
     new "-250 gold, -40 wood."
 
@@ -14082,9 +14080,6 @@ translate ukrainian strings:
 
     old "30 gold and 10 wood have been removed from your inventory."
     new "30 gold and 10 wood have been removed from your inventory."
-
-    old "You've unlocked the second floor and a new room!"
-    new "You've unlocked the second floor and a new room!"
 
     old "You take Mayu home."
     new "You take Mayu home."
@@ -14134,6 +14129,14 @@ translate ukrainian strings: # Рядки інтерфейсу крамниці
     old "{size=-15}Do you want to build it?"
     new "{size=-15}Хочеш її полагодити?"
 
-        # game/mayu_events.rpy:664
+    # game/mayu_events.rpy:664
     old "{size=-15}Build the {color=#CACACA}kitchen{/color}?"
     new "{size=-15}Полагодити {color=#CACACA}кухню{/color}?"
+
+    # game/mayu_events.rpy:428
+    old "{size=-21} The second floor and\n {color=#E12E50}Akane's{/color} room."
+    new "{size=-21} Полагодити кімнату {color=#E12E50}Акане{/color}\n та другий поверх."
+
+    # game/mayu_events.rpy:695
+    old "{size=-15}Build 2nd floor,{color=#E12E50}Akane's{/color} room?"
+    new "{size=-15}Полагодити кімнату {color=#E12E50}Акане{/color}?"

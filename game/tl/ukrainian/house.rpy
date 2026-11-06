@@ -229,11 +229,11 @@ translate ukrainian strings:
 
     # game/house.rpy:317
     old "{size=-8}I should go talk to {color=#919191}Mayu{/color} about repairing the second floor."
-    new "{size=-8}I should go talk to {color=#919191}Mayu{/color} about repairing the second floor."
+    new "{size=-8}Мені варто поговорити з {color=#919191}Маю{/color} про ремонт другого поверху."
 
     # game/house.rpy:319
     old "{size=-8}I want to see the second floor together with {color=#E12E50}Akane{/color}\n {color=#FFFFFF}I should look for her in the village in the afternoon."
-    new "{size=-8}I want to see the second floor together with {color=#E12E50}Akane{/color}\n {color=#FFFFFF}I should look for her in the village in the afternoon."
+    new "{size=-8}Я хочу оглянути другий поверх разом з {color=#E12E50}Акане{/color}.\n{color=#FFFFFF}Мені варто пошукати її в селищі вдень."
 
     # game/house.rpy:323
     old "2nd Floor"
