@@ -10191,13 +10191,13 @@ translate ukrainian ryoko_gal4_1fcb1404:
 translate ukrainian r_sleeping_32238fd7:
 
     # t "I can see that she's sleeping peacefully."
-    t "I can see that she's sleeping peacefully."
+    t "Вона так мирно спить."
 
 # game/game/ryoko_events.rpy:3212
 translate ukrainian r_sleeping_833ab149:
 
     # t "Better not to wake her up."
-    t "Better not to wake her up."
+    t "Краще її не будити."
 
 # game/game/ryoko_events.rpy:3214
 translate ukrainian r_sleeping_90e2bd52:
