@@ -5643,7 +5643,7 @@ translate ukrainian akane_kitchen_H_b6275299:
 translate ukrainian akane_kitchen_H_9640296b:
 
     # mc "I recently got Mayu to build the kitchen in my house."
-    mc "Нещодавно я попросив Маю відновити мені кухню в моєму домі."
+    mc "Нещодавно я попросив Маю́ відновити мені кухню в моєму домі."
 
 # game/game/akane_events.rpy:1895
 translate ukrainian akane_kitchen_H_5d5f55e5:

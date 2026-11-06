@@ -5883,7 +5883,7 @@ translate ukrainian r_room_1st_e0a81461:
 translate ukrainian r_room_1st_bc0e5735:
 
     # mc "That's right, that girl is Mayu."
-    mc "Саме так, її звати Маю."
+    mc "Саме так, її звати Маю́."
 
 # game/game/ryoko_events.rpy:1927
 translate ukrainian r_room_1st_b7340512:

@@ -217,7 +217,7 @@ translate ukrainian strings:
 
     # game/house.rpy:299
     old "{size=-8}{color=#E12E50}Akane{/color} can cook!?\n{color=#FFFFFF}I should talk to Mayu to repair it."
-    new "{size=-8}{color=#E12E50}Акане{/color} вміє готувати!?\n{color=#FFFFFF}Я мушу попросити Маю полагодити кухню."
+    new "{size=-8}{color=#E12E50}Акане{/color} вміє готувати!?\n{color=#FFFFFF}Я мушу попросити Маю́ полагодити кухню."
 
     # game/house.rpy:303
     old "KITCHEN"

@@ -3939,7 +3939,7 @@ translate ukrainian yui_store_mision_de5664dc:
 translate ukrainian yui_store_mision_a4c5c8da:
 
     # y "Ask for Mayu."
-    y "Пошукай Маю."
+    y "Пошукай Маю́."
 
 # game/game/yui_events.rpy:1437
 translate ukrainian yui_store_mision_2852ba45:
@@ -5001,7 +5001,7 @@ translate ukrainian yui_gal2_798e353e:
 translate ukrainian yui_gal2_7987f341:
 
     # mc "I also want to meet this Mayu."
-    mc "Також треба зустрітися з цією Маю."
+    mc "Також треба зустрітися з цією Маю́."
 
 # game/game/yui_events.rpy:1720
 translate ukrainian yui_thighjob_rep_d7adb0d7:
@@ -5553,7 +5553,7 @@ translate ukrainian yui_katana_task_91905ede:
 translate ukrainian yui_katana_task_a6df6ca8:
 
     # y "If you gather the necessary materials, Mayu can design it especially for you."
-    y "Якщо підготуєш необхідні матеріали, Маю змайструє її з урахуванням усіх побажань."
+    y "Якщо підготуєш необхідні матеріали, Маю́ змайструє її з урахуванням усіх побажань."
 
 # game/game/yui_events.rpy:1870
 translate ukrainian yui_katana_task_dcd7e782:

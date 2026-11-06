@@ -171,7 +171,7 @@ translate ukrainian mayu_event_1_62432aad:
 translate ukrainian mayu_event_1_84a9f15f:
 
     # "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}Nice to meet you! I'm Mayu!"
-    "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}Рада знайомству! Мене звати Маю!"
+    "{sc=1}{outlinecolor=#000000}{size=-6}{color=#7a847d}Рада знайомству! Мене звати Маю́!"
 
 # game/game/mayu_events.rpy:164
 translate ukrainian mayu_event_1_08618394:
@@ -237,7 +237,7 @@ translate ukrainian mayu_event_1_9db70216:
 translate ukrainian mayu_event_1_0c8e4571:
 
     # mc "Mayu?"
-    mc "Маю?"
+    mc "Маю́?"
 
 # game/game/mayu_events.rpy:179
 translate ukrainian mayu_event_1_b18a84e9:
@@ -610,7 +610,7 @@ translate ukrainian cons_ryoko_room_2b35b6fe:
 translate ukrainian cons_ryoko_room_0eea6c7a:
 
     # mc "May-"
-    mc "Маю-"
+    mc "Маю́-"
 
 # game/game/mayu_events.rpy:932
 translate ukrainian cons_ryoko_room_d8045d72:
@@ -748,7 +748,7 @@ translate ukrainian cons_2nd_room_9ddc03d3:
 translate ukrainian cons_2nd_room_0c8e4571:
 
     # mc "Mayu?"
-    mc "Маю?"
+    mc "Маю́?"
 
 # game/game/mayu_events.rpy:986
 translate ukrainian cons_2nd_room_2b35b6fe:
@@ -2170,7 +2170,7 @@ translate ukrainian kitchen_build_8e28d956:
 translate ukrainian kitchen_build_e4ce029a:
 
     # mc "Mayu!?"
-    mc "Маю!?"
+    mc "Маю́!?"
 
 # game/game/mayu_events.rpy:1425
 translate ukrainian kitchen_build_9ddc03d3:
