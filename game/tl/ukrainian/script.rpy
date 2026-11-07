@@ -9549,7 +9549,7 @@ translate ukrainian storage_rod_328de178:
 translate ukrainian storage_rod_d222d065:
 
     # r "I got it!"
-    r "Вийшло!"
+    r "Вдалося!"
 
 # game/game/script.rpy:3240
 translate ukrainian storage_rod_21358d67:

@@ -4107,7 +4107,7 @@ translate ukrainian shika_firsth_b12907fb:
 translate ukrainian shika_firsth_d8e51990:
 
     # t "How is it that Shika takes the lead in situations like this..."
-    t "Як так вийшло, що Шика бере ініціативу в таких ситуаціях..."
+    t "Як так сталося, що Шика бере ініціативу в таких ситуаціях..."
 
 # game/game/shika_events.rpy:1291
 translate ukrainian shika_gal2_36493409:
@@ -11427,7 +11427,7 @@ translate ukrainian shika_gal3_538ea781:
 translate ukrainian shika_gal3_2c02d111:
 
     # s "Yes... {w}I remember when she tried to teach me and I did it without any effort."
-    s "Так... {w}Я пам'ятаю, як вона намагалася мене навчити, і в мене все вийшло без жодних зусиль."
+    s "Так... {w}Я пам'ятаю, як вона намагалася мене навчити, і мені вдалося без жодних зусиль."
 
 # game/game/shika_events.rpy:3332
 translate ukrainian shika_gal3_f8d083e1:
