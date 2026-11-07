@@ -684,11 +684,11 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1823
     old "{color=#FFFFFF}N{/color}-Event\nSpend time with {color=#319B85}Charlotte{/color} at night until something good happens."
-    new "{color=#FFFFFF}N{/color}-Event\nSpend time with {color=#319B85}Charlotte{/color} at night until something good happens."
+    new "{color=#FFFFFF}З{/color}-подія\nПроводь час з {color=#319B85}Шарлоттою{/color} вночі в її кімнаті, поки не трапиться щось цікаве."
 
     # game/day_time.rpy:1825
     old "{color=#FF438D}H{/color}-Event\nVisit {color=#319B85}Charlotte{/color} at night in her room."
-    new "{color=#FF438D}H{/color}-Event\nVisit {color=#319B85}Charlotte{/color} at night in her room."
+    new "{color=#FF438D}Х{/color}-подія\nЗавітай до {color=#319B85}Шарлотти{/color} вночі в її кімнату."
 
     # game/day_time.rpy:1840
     old "{color=#CACACA}Hint Blocked{/color}{image=candado}\nYou need to make more progress with {color=#E12E50}Akane{/color}!"
