@@ -2523,7 +2523,7 @@ translate ukrainian char_event4_f988de04:
 translate ukrainian char_event4_7e8381f3:
 
     # c "So, {w=0.5}may I...?"
-    c "Тож, {w=0.5}не проти...?"
+    c "Тож {w=0.5}не проти...?"
 
 # game/game/charlotte_events.rpy:935
 translate ukrainian char_event4_3f871f46:
