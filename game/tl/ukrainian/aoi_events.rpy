@@ -159,7 +159,7 @@ translate ukrainian aoi_event1_b1d1f683:
 translate ukrainian aoi_event1_391a9d57:
 
     # ao "Of course we have one!"
-    ao "Of course we have one!"
+    ao "Of course we have one!" with vpunch
 
 # game/game/aoi_events.rpy:55
 translate ukrainian aoi_event1_a4fcb7ef:
@@ -231,7 +231,7 @@ translate ukrainian aoi_event1_c23e7654:
 translate ukrainian aoi_event1_582054e5:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "Ahem*" with hpunch
 
 # game/game/aoi_events.rpy:71
 translate ukrainian aoi_event1_b3f91e77:
@@ -285,7 +285,7 @@ translate ukrainian aoi_event1_9bc39250:
 translate ukrainian aoi_event1_3b6562d5:
 
     # t "WHAT!?"
-    t "WHAT!?"
+    t "WHAT!?" with hpunch
 
 # game/game/aoi_events.rpy:85
 translate ukrainian aoi_event1_36024fa7:
@@ -609,7 +609,7 @@ translate ukrainian aoi_eventuno_dd4dcfdf:
 translate ukrainian aoi_eventuno_158abf1e:
 
     # mc "No no, don't feel so confident!"
-    mc "No no, don't feel so confident!"
+    mc "No no, don't feel so confident!" with vpunch
 
 # game/game/aoi_events.rpy:226
 translate ukrainian aoi_eventuno_e2a9a847:
@@ -831,7 +831,7 @@ translate ukrainian aoi_eventdos_3864a381:
 translate ukrainian aoi_eventdos_dae1defa:
 
     # ao "Hello? {w}I want to report someone."
-    ao "Hello? {w}I want to report someone."
+    ao "Hello? {w}I want to report someone." with vpunch
 
 # game/game/aoi_events.rpy:305
 translate ukrainian aoi_eventdos_4d705bbb:
@@ -1089,7 +1089,7 @@ translate ukrainian aoi_eventdos_501b2b9b:
 translate ukrainian aoi_eventdos_b6e23af6:
 
     # ao "Ooh!"
-    ao "Ooh!"
+    ao "Ooh!" with hpunch
 
 # game/game/aoi_events.rpy:376
 translate ukrainian aoi_eventdos_d6a8fcb1:
@@ -1275,7 +1275,7 @@ translate ukrainian aoi_eventtres_a210cfe2:
 translate ukrainian aoi_eventtres_8969dd5f:
 
     # ao "Great! {w}Come on, the reason why the place needs to be cleaned is waiting for us there!"
-    ao "Great! {w}Come on, the reason why the place needs to be cleaned is waiting for us there!"
+    ao "Great! {w}Come on, the reason why the place needs to be cleaned is waiting for us there!" with vpunch
 
 # game/game/aoi_events.rpy:439
 translate ukrainian aoi_eventtres_d7558c39:
@@ -1371,7 +1371,7 @@ translate ukrainian aoi_eventtres_3ea695d5:
 translate ukrainian aoi_eventtres_1459017a:
 
     # ao "Excuse me!{w} Yumeko?"
-    ao "Excuse me!{w} Yumeko?"
+    ao "Excuse me!{w} Yumeko?" with hpunch
 
 # game/game/aoi_events.rpy:461
 translate ukrainian aoi_eventtres_5ffde322:
@@ -1407,7 +1407,7 @@ translate ukrainian aoi_eventtres_7ba6b500:
 translate ukrainian aoi_eventtres_73177c6a:
 
     # ao "Don't ignore me!"
-    ao "Don't ignore me!"
+    ao "Don't ignore me!" with hpunch
 
 # game/game/aoi_events.rpy:474
 translate ukrainian aoi_eventtres_5da3c72b:
@@ -1461,7 +1461,7 @@ translate ukrainian aoi_eventtres_ea9fa9c7:
 translate ukrainian aoi_eventtres_ad486626:
 
     # ao "Don't be rude!"
-    ao "Don't be rude!"
+    ao "Don't be rude!" with vpunch
 
 # game/game/aoi_events.rpy:487
 translate ukrainian aoi_eventtres_2b60c4c9:
@@ -1497,7 +1497,7 @@ translate ukrainian aoi_eventtres_bdc6d42d:
 translate ukrainian aoi_eventtres_9e8a6b45:
 
     # ao "He's coming to help!"
-    ao "He's coming to help!"
+    ao "He's coming to help!" with vpunch
 
 # game/game/aoi_events.rpy:495
 translate ukrainian aoi_eventtres_ea9fa9c7_2:
@@ -1569,7 +1569,7 @@ translate ukrainian aoi_eventtres_bc4fd44d:
 translate ukrainian aoi_eventtres_944b1a9a:
 
     # ao "Come on, let's make this place shiny!"
-    ao "Come on, let's make this place shiny!"
+    ao "Come on, let's make this place shiny!" with hpunch
 
 # game/game/aoi_events.rpy:513
 translate ukrainian aoi_eventtres_6503e0c1:
@@ -1623,13 +1623,13 @@ translate ukrainian aoi_eventtres_5a5cd99c:
 translate ukrainian aoi_eventtres_c66e6009:
 
     # ao "Put it on!"
-    ao "Put it on!"
+    ao "Put it on!" with hpunch
 
 # game/game/aoi_events.rpy:529
 translate ukrainian aoi_eventtres_8ed8160b:
 
     # mc "Okay okay!"
-    mc "Okay okay!"
+    mc "Okay okay!" with vpunch
 
 # game/game/aoi_events.rpy:530
 translate ukrainian aoi_eventtres_25527537:
@@ -1719,7 +1719,7 @@ translate ukrainian aoi_eventtres_43fde8dc:
 translate ukrainian aoi_eventtres_ac6c186c:
 
     # mc "You told me to!"
-    mc "You told me to!"
+    mc "You told me to!" with vpunch
 
 # game/game/aoi_events.rpy:561
 translate ukrainian aoi_eventtres_273418e2:
@@ -1755,13 +1755,13 @@ translate ukrainian aoi_eventtres_151393bd:
 translate ukrainian aoi_eventtres_582054e5:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "Ahem*" with hpunch
 
 # game/game/aoi_events.rpy:570
 translate ukrainian aoi_eventtres_988bce29:
 
     # ao "Hahaha, {w}sorry, sorry."
-    ao "Hahaha, {w}sorry, sorry."
+    ao "Hahaha, {w}sorry, sorry." with vpunch
 
 # game/game/aoi_events.rpy:571
 translate ukrainian aoi_eventtres_f3e2cdd4:
@@ -1977,7 +1977,7 @@ translate ukrainian aoi_eventtres_a3322e30:
 translate ukrainian aoi_eventtres_50ea2f9c:
 
     # mc "Ahg*"
-    mc "Ahg*"
+    mc "Ahg*" with vpunch
 
 # game/game/aoi_events.rpy:629
 translate ukrainian aoi_eventtres_eb7d15bb:
@@ -2013,7 +2013,7 @@ translate ukrainian aoi_eventtres_03fb3e88:
 translate ukrainian aoi_eventtres_7a0da63e:
 
     # mc "It came out!"
-    mc "It came out!"
+    mc "It came out!" with vpunch
 
 # game/game/aoi_events.rpy:638
 translate ukrainian aoi_eventtres_f546674c:
@@ -2049,7 +2049,7 @@ translate ukrainian aoi_eventtres_7ac23348:
 translate ukrainian aoi_eventtres_d00ea77f:
 
     # ao "Why just now!?"
-    ao "Why just now!?"
+    ao "Why just now!?" with hpunch
 
 # game/game/aoi_events.rpy:649
 translate ukrainian aoi_eventtres_e9c7f0ca:
@@ -2091,7 +2091,7 @@ translate ukrainian aoi_eventtres_db235a1c:
 translate ukrainian aoi_eventtres_bb31aa14:
 
     # ao "You didn't clean anything!"
-    ao "You didn't clean anything!"
+    ao "You didn't clean anything!" with vpunch
 
 # game/game/aoi_events.rpy:656
 translate ukrainian aoi_eventtres_4da88a67:
@@ -2103,7 +2103,7 @@ translate ukrainian aoi_eventtres_4da88a67:
 translate ukrainian aoi_eventtres_a0644300:
 
     # ao "But you never let them go!"
-    ao "But you never let them go!"
+    ao "But you never let them go!" with vpunch
 
 # game/game/aoi_events.rpy:659
 translate ukrainian aoi_eventtres_f69ad782:
@@ -2157,7 +2157,7 @@ translate ukrainian aoi_eventtres_42b27e3f:
 translate ukrainian aoi_eventcuatro_43d729cb:
 
     # ao "Hey, guess what we're doing today!"
-    ao "Hey, guess what we're doing today!"
+    ao "Hey, guess what we're doing today!" with vpunch
 
 # game/game/aoi_events.rpy:688
 translate ukrainian aoi_eventcuatro_27fb6699:
@@ -2181,7 +2181,7 @@ translate ukrainian aoi_eventcuatro_f63e4a1f:
 translate ukrainian aoi_eventcuatro_4dc62cf7:
 
     # ao "Not even close!"
-    ao "Not even close!"
+    ao "Not even close!" with hpunch
 
 # game/game/aoi_events.rpy:694
 translate ukrainian aoi_eventcuatro_bba36816:
@@ -2205,13 +2205,13 @@ translate ukrainian aoi_eventcuatro_023651b1:
 translate ukrainian aoi_eventcuatro_5b33ca00:
 
     # mc "I knew it!"
-    mc "I knew it!"
+    mc "I knew it!" with hpunch
 
 # game/game/aoi_events.rpy:700
 translate ukrainian aoi_eventcuatro_e67cf5c8:
 
     # ao "But before that! {w}I have to clean the mixed bathrooms again!"
-    ao "But before that! {w}I have to clean the mixed bathrooms again!"
+    ao "But before that! {w}I have to clean the mixed bathrooms again!" with vpunch
 
 # game/game/aoi_events.rpy:701
 translate ukrainian aoi_eventcuatro_38b60cdb:
@@ -2265,7 +2265,7 @@ translate ukrainian aoi_eventcuatro_10950f04:
 translate ukrainian aoi_eventcuatro_8ed8160b:
 
     # mc "Okay okay!"
-    mc "Okay okay!"
+    mc "Okay okay!" with vpunch
 
 # game/game/aoi_events.rpy:715
 translate ukrainian aoi_eventcuatro_0dfb203a:
@@ -2331,7 +2331,7 @@ translate ukrainian aoi_eventcuatro_4e5f489a:
 translate ukrainian aoi_eventcuatro_6c753ff5:
 
     # ao "Why are you in the same place as last time!?"
-    ao "Why are you in the same place as last time!?"
+    ao "Why are you in the same place as last time!?" with hpunch
 
 # game/game/aoi_events.rpy:736
 translate ukrainian aoi_eventcuatro_ea9fa9c7:
@@ -2361,7 +2361,7 @@ translate ukrainian aoi_eventcuatro_3ff1d709:
 translate ukrainian aoi_eventcuatro_caf723e0:
 
     # ao "Hey!"
-    ao "Hey!"
+    ao "Hey!" with vpunch
 
 # game/game/aoi_events.rpy:746
 translate ukrainian aoi_eventcuatro_707347a9:
@@ -2745,7 +2745,7 @@ translate ukrainian aoi_eventcuatro_04c1a163:
 translate ukrainian aoi_eventcuatro_01dabee3:
 
     # mc "A-At what time?!"
-    mc "A-At what time?!"
+    mc "A-At what time?!" with vpunch
 
 # game/game/aoi_events.rpy:864
 translate ukrainian aoi_eventcuatro_5cb663ba:
@@ -2781,7 +2781,7 @@ translate ukrainian aoi_eventcuatro_02b8564e:
 translate ukrainian aoi_eventcuatro_52ab64f1:
 
     # mc "As if it was!"
-    mc "As if it was!"
+    mc "As if it was!" with vpunch
 
 # game/game/aoi_events.rpy:873
 translate ukrainian aoi_eventcuatro_669866f5:
@@ -2829,13 +2829,13 @@ translate ukrainian aoi_gal1_50575423:
 translate ukrainian aoi_gal1_68bf80fa:
 
     # ao "Hahaha it got even bigger!"
-    ao "Hahaha it got even bigger!"
+    ao "Hahaha it got even bigger!" with vpunch
 
 # game/game/aoi_events.rpy:887
 translate ukrainian aoi_gal1_b90c4682:
 
     # ao "Come here!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ao "Come here!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ao "Come here!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/aoi_events.rpy:889
 translate ukrainian aoi_gal1_21e673d7:
@@ -2847,7 +2847,7 @@ translate ukrainian aoi_gal1_21e673d7:
 translate ukrainian aoi_gal1_afbd000d:
 
     # ao "Why does it keep growing?! {w}The idea is to mate, not to kill."
-    ao "Why does it keep growing?! {w}The idea is to mate, not to kill."
+    ao "Why does it keep growing?! {w}The idea is to mate, not to kill." with vpunch
 
 # game/game/aoi_events.rpy:892
 translate ukrainian aoi_gal1_83617829:
@@ -2877,7 +2877,7 @@ translate ukrainian aoi_gal1_c1dff962:
 translate ukrainian aoi_gal1_5d999b6e:
 
     # t "Fuck."
-    t "Fuck."
+    t "Fuck." with vpunch
 
 # game/game/aoi_events.rpy:899
 translate ukrainian aoi_gal1_3c6090d6:
@@ -2919,7 +2919,7 @@ translate ukrainian aoi_gal1_3864a381:
 translate ukrainian aoi_gal1_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/aoi_events.rpy:909
 translate ukrainian aoi_gal1_f9624c38:
@@ -3117,7 +3117,7 @@ translate ukrainian aoi_gal1_335d842e:
 translate ukrainian aoi_gal1_30c5147c_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/aoi_events.rpy:954
 translate ukrainian aoi_gal1_17496476:
@@ -3147,7 +3147,7 @@ translate ukrainian aoi_gal1_f525db79:
 translate ukrainian aoi_gal1_ccf87e06:
 
     # mc "Oh shit"
-    mc "Oh shit"
+    mc "Oh shit" with vpunch
 
 # game/game/aoi_events.rpy:961
 translate ukrainian aoi_gal1_daf1b999:
@@ -3237,7 +3237,7 @@ translate ukrainian aoi_gal1_a8c68db7:
 translate ukrainian aoi_gal1_cf7a43f3:
 
     # ao "Iaanmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ao "Iaanmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ao "Iaanmm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/aoi_events.rpy:978
 translate ukrainian aoi_gal1_60e3a4da:
@@ -3267,13 +3267,13 @@ translate ukrainian aoi_gal1_8fa1b766:
 translate ukrainian aoi_gal1_7a925bd6:
 
     # ao "I-!"
-    ao "I-!"
+    ao "I-!" with hpunch
 
 # game/game/aoi_events.rpy:984
 translate ukrainian aoi_gal1_414144c2:
 
     # ao "I'm cumming!!!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ao "I'm cumming!!!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ao "I'm cumming!!!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/aoi_events.rpy:987
 translate ukrainian aoi_gal1_4901a646:
@@ -3285,7 +3285,7 @@ translate ukrainian aoi_gal1_4901a646:
 translate ukrainian aoi_gal1_fa747f3e:
 
     # ao "Hiiamnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ao "Hiiamnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ao "Hiiamnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/aoi_events.rpy:992
 translate ukrainian aoi_gal1_421291cf:
@@ -3357,7 +3357,7 @@ translate ukrainian aoi_gal1_39994b88:
 translate ukrainian aoi_gal1_48b31f96:
 
     # ao "...!"
-    ao "...!"
+    ao "...!" with vpunch
 
 # game/game/aoi_events.rpy:1024
 translate ukrainian aoi_gal1_41c6a395:
@@ -3381,7 +3381,7 @@ translate ukrainian aoi_gal1_22e3154a:
 translate ukrainian aoi_gal1_30c5147c_2:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/aoi_events.rpy:1029
 translate ukrainian aoi_gal1_3864a381_1:
@@ -3429,7 +3429,7 @@ translate ukrainian aoi_gal1_5aae99fe:
 translate ukrainian aoi_gal1_3cc80c04:
 
     # ao "I have to go! {w}I'll talk to you personally later Yumeko!"
-    ao "I have to go! {w}I'll talk to you personally later Yumeko!"
+    ao "I have to go! {w}I'll talk to you personally later Yumeko!" with hpunch
 
 # game/game/aoi_events.rpy:1044
 translate ukrainian aoi_gal1_8e3fc3a2:
@@ -3597,7 +3597,7 @@ translate ukrainian aoi_gal1_48922343:
 translate ukrainian aoi_gal1_118c633d:
 
     # ao "[mc]!"
-    ao "[mc]!"
+    ao "[mc]!" with vpunch
 
 # game/game/aoi_events.rpy:1092
 translate ukrainian aoi_gal1_ca30061a:
@@ -3759,7 +3759,7 @@ translate ukrainian aoi_batchcle_90ff7daa:
 translate ukrainian aoi_batchcle_815dbaba:
 
     # ao "Yumeko!"
-    ao "Yumeko!"
+    ao "Yumeko!" with vpunch
 
 # game/game/aoi_events.rpy:1152
 translate ukrainian aoi_batchcle_6a6d2f9d:
@@ -3807,7 +3807,7 @@ translate ukrainian aoi_batchcle_13e0b586:
 translate ukrainian aoi_batchcle_41da5e83:
 
     # ao "Yees!"
-    ao "Yees!"
+    ao "Yees!" with vpunch
 
 # game/game/aoi_events.rpy:1165
 translate ukrainian aoi_batchcle_5562c964:
@@ -3909,7 +3909,7 @@ translate ukrainian aoi_batchcle_2b35b6fe_1:
 translate ukrainian aoi_batchcle_f95e6b43:
 
     # ao "Like I'm going to let you go when your penis is almost out of there!"
-    ao "Like I'm going to let you go when your penis is almost out of there!"
+    ao "Like I'm going to let you go when your penis is almost out of there!" with hpunch
 
 # game/game/aoi_events.rpy:1195
 translate ukrainian aoi_batchcle_21e673d7:
@@ -4107,7 +4107,7 @@ translate ukrainian aoi_batchcle_a46a1c8b:
 translate ukrainian aoi_batchcle_6585318f:
 
     # ao "I'm going to squeeze you more..."
-    ao "I'm going to squeeze you more..."
+    ao "I'm going to squeeze you more..." with vpunch
 
 # game/game/aoi_events.rpy:1244
 translate ukrainian aoi_batchcle_f4219d90:
@@ -4209,7 +4209,7 @@ translate ukrainian aoi_batchcle_02caf51b:
 translate ukrainian aoi_batchcle_dd794829:
 
     # ao "Im cummiiiiiing!!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ao "Im cummiiiiiing!!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ao "Im cummiiiiiing!!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/aoi_events.rpy:1266
 translate ukrainian aoi_batchcle_4901a646:
@@ -4221,7 +4221,7 @@ translate ukrainian aoi_batchcle_4901a646:
 translate ukrainian aoi_batchcle_fa747f3e:
 
     # ao "Hiiamnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    ao "Hiiamnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    ao "Hiiamnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/aoi_events.rpy:1271
 translate ukrainian aoi_batchcle_421291cf:
@@ -4329,7 +4329,7 @@ translate ukrainian aoi_batchcle_ea9fa9c7_2:
 translate ukrainian aoi_batchcle_56e8eedf:
 
     # ao "How much longer do you plan to stay there!"
-    ao "How much longer do you plan to stay there!"
+    ao "How much longer do you plan to stay there!" with vpunch
 
 # game/game/aoi_events.rpy:1294
 translate ukrainian aoi_batchcle_bca2f202:
@@ -4449,7 +4449,7 @@ translate ukrainian aoi_eventcinco_2a962e88:
 translate ukrainian aoi_eventcinco_07d0f05e:
 
     # ao "W-Wait!"
-    ao "W-Wait!"
+    ao "W-Wait!" with vpunch
 
 # game/game/aoi_events.rpy:1336
 translate ukrainian aoi_eventcinco_3864a381:
@@ -4521,7 +4521,7 @@ translate ukrainian aoi_eventcinco_87fcdf95:
 translate ukrainian aoi_eventcinco_1b9bb36f:
 
     # ao "Hahaha~"
-    ao "Hahaha~"
+    ao "Hahaha~" with vpunch
 
 # game/game/aoi_events.rpy:1353
 translate ukrainian aoi_eventcinco_19f11182:
@@ -4581,13 +4581,13 @@ translate ukrainian aoi_eventcinco_04e700c2:
 translate ukrainian aoi_eventcinco_a9c74e36:
 
     # mc "Woah! {w}Aoi?!"
-    mc "Woah! {w}Aoi?!"
+    mc "Woah! {w}Aoi?!" with hpunch
 
 # game/game/aoi_events.rpy:1371
 translate ukrainian aoi_eventcinco_7754cec5:
 
     # mc "Aoi!? What happened?!"
-    mc "Aoi!? What happened?!"
+    mc "Aoi!? What happened?!" with vpunch
 
 # game/game/aoi_events.rpy:1373
 translate ukrainian aoi_eventcinco_4b545f81:
@@ -4611,7 +4611,7 @@ translate ukrainian aoi_eventcinco_2b35b6fe_1:
 translate ukrainian aoi_eventcinco_0688b76d:
 
     # mc "I didn't do it on purpose!"
-    mc "I didn't do it on purpose!"
+    mc "I didn't do it on purpose!" with vpunch
 
 # game/game/aoi_events.rpy:1379
 translate ukrainian aoi_eventcinco_66f8fc73:
@@ -4623,7 +4623,7 @@ translate ukrainian aoi_eventcinco_66f8fc73:
 translate ukrainian aoi_eventcinco_a17be6f6:
 
     # mc "You shouldn't joke with that!"
-    mc "You shouldn't joke with that!"
+    mc "You shouldn't joke with that!" with vpunch
 
 # game/game/aoi_events.rpy:1382
 translate ukrainian aoi_eventcinco_8a4611e4:
@@ -4701,13 +4701,13 @@ translate ukrainian aoi_eventcinco_387b2dd0:
 translate ukrainian aoi_eventcinco_e7ac00ea:
 
     # ao "..."
-    ao "..."
+    ao "..." (multiple=2)
 
 # game/game/aoi_events.rpy:1405
 translate ukrainian aoi_eventcinco_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/aoi_events.rpy:1407
 translate ukrainian aoi_eventcinco_addc0a61:
@@ -4869,7 +4869,7 @@ translate ukrainian aoi_eventcinco_6b99bda1:
 translate ukrainian aoi_eventcinco_cb0215ac:
 
     # mc "A-And Diana?!"
-    mc "A-And Diana?!"
+    mc "A-And Diana?!" with vpunch
 
 # game/game/aoi_events.rpy:1449
 translate ukrainian aoi_eventcinco_a51fae75:
@@ -4965,13 +4965,13 @@ translate ukrainian aoi_eventcinco_e564fadc:
 translate ukrainian aoi_eventcinco_896562bb:
 
     # ao "Just do it!"
-    ao "Just do it!"
+    ao "Just do it!" with vpunch
 
 # game/game/aoi_events.rpy:1471
 translate ukrainian aoi_eventcinco_8ed8160b:
 
     # mc "Okay okay!"
-    mc "Okay okay!"
+    mc "Okay okay!" with vpunch
 
 # game/game/aoi_events.rpy:1472
 translate ukrainian aoi_eventcinco_7c2edbd4:
@@ -4995,7 +4995,7 @@ translate ukrainian aoi_eventcinco_32e75c6e:
 translate ukrainian aoi_eventcinco_81e5e134:
 
     # ao "Of course!"
-    ao "Of course!"
+    ao "Of course!" with hpunch
 
 # game/game/aoi_events.rpy:1478
 translate ukrainian aoi_eventcinco_d652e282:
@@ -5295,7 +5295,7 @@ translate ukrainian aoi_eventseis_a7c5d843:
 translate ukrainian aoi_eventseis_4f707fcc:
 
     # mc "Hey! {w}You're pulling my pants down!"
-    mc "Hey! {w}You're pulling my pants down!"
+    mc "Hey! {w}You're pulling my pants down!" with hpunch
 
 # game/game/aoi_events.rpy:1569
 translate ukrainian aoi_eventseis_0229fd28:
@@ -5331,7 +5331,7 @@ translate ukrainian aoi_eventseis_187e1d83:
 translate ukrainian aoi_eventseis_439460a9:
 
     # mc "Let go of my pants!"
-    mc "Let go of my pants!"
+    mc "Let go of my pants!" with vpunch
 
 # game/game/aoi_events.rpy:1577
 translate ukrainian aoi_eventseis_79657962:
@@ -5343,7 +5343,7 @@ translate ukrainian aoi_eventseis_79657962:
 translate ukrainian aoi_eventseis_aad27141:
 
     # mc "Hnmp!"
-    mc "Hnmp!"
+    mc "Hnmp!" with hpunch
 
 # game/game/aoi_events.rpy:1579
 translate ukrainian aoi_eventseis_185215f1:
@@ -5415,7 +5415,7 @@ translate ukrainian aoi_eventseis_a161a725:
 translate ukrainian aoi_eventseis_4cd94e8d:
 
     # mc "You should have told me as soon as I helped you!"
-    mc "You should have told me as soon as I helped you!"
+    mc "You should have told me as soon as I helped you!" with hpunch
 
 # game/game/aoi_events.rpy:1594
 translate ukrainian aoi_eventseis_fb298c86:
@@ -5517,7 +5517,7 @@ translate ukrainian aoi_eventseis_eed4d017:
 translate ukrainian aoi_eventseis_faad290b:
 
     # mc "Stop moving!"
-    mc "Stop moving!"
+    mc "Stop moving!" with vpunch
 
 # game/game/aoi_events.rpy:1618
 translate ukrainian aoi_eventseis_9fbfe58c:
@@ -5601,7 +5601,7 @@ translate ukrainian aoi_eventseis_b63f6eea:
 translate ukrainian aoi_eventseis_f2d0b30f:
 
     # mc "N-No!"
-    mc "N-No!"
+    mc "N-No!" with vpunch
 
 # game/game/aoi_events.rpy:1637
 translate ukrainian aoi_eventseis_9be28136:
@@ -5613,7 +5613,7 @@ translate ukrainian aoi_eventseis_9be28136:
 translate ukrainian aoi_eventseis_5c4f168c:
 
     # mc "A moment ago she was talking to me!"
-    mc "A moment ago she was talking to me!"
+    mc "A moment ago she was talking to me!" with hpunch
 
 # game/game/aoi_events.rpy:1640
 translate ukrainian aoi_eventseis_a9d93068:
@@ -5625,13 +5625,13 @@ translate ukrainian aoi_eventseis_a9d93068:
 translate ukrainian aoi_eventseis_9583ebf7:
 
     # yum "Snooring*"
-    yum "Snooring*"
+    yum "Snooring*" with vpunch
 
 # game/game/aoi_events.rpy:1642
 translate ukrainian aoi_eventseis_25e2c5f1:
 
     # mc "Oi!"
-    mc "Oi!"
+    mc "Oi!" with vpunch
 
 # game/game/aoi_events.rpy:1644
 translate ukrainian aoi_eventseis_4ce562bb:
@@ -5649,13 +5649,13 @@ translate ukrainian aoi_eventseis_cc3ec0a6:
 translate ukrainian aoi_eventseis_f3682aae:
 
     # yum "Ghnm!"
-    yum "Ghnm!"
+    yum "Ghnm!" (multiple=2)
 
 # game/game/aoi_events.rpy:1652
 translate ukrainian aoi_eventseis_86283fa7:
 
     # ao "Stop taking advantage of [mc]!"
-    ao "Stop taking advantage of [mc]!"
+    ao "Stop taking advantage of [mc]!" (multiple=2)
 
 # game/game/aoi_events.rpy:1653
 translate ukrainian aoi_eventseis_4698326e:
@@ -5727,7 +5727,7 @@ translate ukrainian aoi_eventseis_7c2edbd4:
 translate ukrainian aoi_eventseis_a3547c07:
 
     # ao "Hahaha~ {w}You are very easily fooled."
-    ao "Hahaha~ {w}You are very easily fooled."
+    ao "Hahaha~ {w}You are very easily fooled." with vpunch
 
 # game/game/aoi_events.rpy:1676
 translate ukrainian aoi_eventseis_2ef96cda:
@@ -5787,13 +5787,13 @@ translate ukrainian aoi_eventseis_cf898d5f:
 translate ukrainian aoi_eventseis_37cd429d:
 
     # mc "Oi!"
-    mc "Oi!"
+    mc "Oi!" with hpunch
 
 # game/game/aoi_events.rpy:1691
 translate ukrainian aoi_eventseis_5ce04649:
 
     # ao "Hahaha~ {w}I'm kidding!"
-    ao "Hahaha~ {w}I'm kidding!"
+    ao "Hahaha~ {w}I'm kidding!" with hpunch
 
 # game/game/aoi_events.rpy:1692
 translate ukrainian aoi_eventseis_2882b62c:
@@ -5841,7 +5841,7 @@ translate ukrainian aoi_eventseis_bb0ab5f6:
 translate ukrainian aoi_eventseis_cb8527b7:
 
     # ao "Exactly! {w}Because this place is reserved for only one person!"
-    ao "Exactly! {w}Because this place is reserved for only one person!"
+    ao "Exactly! {w}Because this place is reserved for only one person!" with hpunch
 
 # game/game/aoi_events.rpy:1703
 translate ukrainian aoi_eventseis_2b35b6fe_8:
@@ -5931,7 +5931,7 @@ translate ukrainian aoi_eventseis_2b35b6fe_9:
 translate ukrainian aoi_eventseis_a8c7e0bf:
 
     # mc "Yes, {w}you are right!"
-    mc "Yes, {w}you are right!"
+    mc "Yes, {w}you are right!" with vpunch
 
 # game/game/aoi_events.rpy:1725
 translate ukrainian aoi_eventseis_1971324f:
@@ -5943,7 +5943,7 @@ translate ukrainian aoi_eventseis_1971324f:
 translate ukrainian aoi_eventseis_27b60a83:
 
     # mc "I must protect {size=-7}{s}that{/s}{/size} this place!"
-    mc "I must protect {size=-7}{s}that{/s}{/size} this place!"
+    mc "I must protect {size=-7}{s}that{/s}{/size} this place!" with hpunch
 
 # game/game/aoi_events.rpy:1728
 translate ukrainian aoi_eventseis_d5c6e45b:
@@ -5967,7 +5967,7 @@ translate ukrainian aoi_eventseis_ef5c75ce:
 translate ukrainian aoi_eventseis_cda43af9:
 
     # ao "Hahaha~ that became part of your motivation?"
-    ao "Hahaha~ that became part of your motivation?"
+    ao "Hahaha~ that became part of your motivation?" with vpunch
 
 # game/game/aoi_events.rpy:1749
 translate ukrainian aoi_eventsiete_c34d0db8:
@@ -6015,7 +6015,7 @@ translate ukrainian aoi_eventsiete_bd630e89:
 translate ukrainian aoi_eventsiete_98ab63f4:
 
     # ao "Of course! {w}Trust me!"
-    ao "Of course! {w}Trust me!"
+    ao "Of course! {w}Trust me!" with hpunch
 
 # game/game/aoi_events.rpy:1763
 translate ukrainian aoi_eventsiete_5124ea7c:
@@ -6087,7 +6087,7 @@ translate ukrainian aoi_eventsiete_03fb3e88:
 translate ukrainian aoi_eventsiete_7ddc7bdf:
 
     # ao "Aaahh!!"
-    ao "Aaahh!!"
+    ao "Aaahh!!" with vpunch
 
 # game/game/aoi_events.rpy:1785
 translate ukrainian aoi_eventsiete_ee11d93e:
@@ -6159,7 +6159,7 @@ translate ukrainian aoi_eventsiete_8fbc8fd4:
 translate ukrainian aoi_eventsiete_12a4632f:
 
     # ao "Don't worry, I have to go there right now!"
-    ao "Don't worry, I have to go there right now!"
+    ao "Don't worry, I have to go there right now!" with vpunch
 
 # game/game/aoi_events.rpy:1801
 translate ukrainian aoi_eventsiete_92f121e9:
@@ -6195,7 +6195,7 @@ translate ukrainian aoi_eventsiete_3ce86a57:
 translate ukrainian aoi_eventsiete_de39cad8:
 
     # ao "Stop! {w}See you, take care of your health!"
-    ao "Stop! {w}See you, take care of your health!"
+    ao "Stop! {w}See you, take care of your health!" with vpunch
 
 # game/game/aoi_events.rpy:1809
 translate ukrainian aoi_eventsiete_c9878b86:
@@ -6519,7 +6519,7 @@ translate ukrainian aoi_eventsiete_44873dab:
 translate ukrainian aoi_eventsiete_46130cf7:
 
     # mc "Hey Aoi!"
-    mc "Hey Aoi!"
+    mc "Hey Aoi!" with vpunch
 
 # game/game/aoi_events.rpy:1897
 translate ukrainian aoi_eventsiete_710ba662:
@@ -6531,13 +6531,13 @@ translate ukrainian aoi_eventsiete_710ba662:
 translate ukrainian aoi_eventsiete_4f727dee:
 
     # mc "H-Hey!"
-    mc "H-Hey!"
+    mc "H-Hey!" with hpunch
 
 # game/game/aoi_events.rpy:1907
 translate ukrainian aoi_eventsiete_02a076c3:
 
     # mc "Aoi, if this is one of your usual jokes I'm going to get angry!"
-    mc "Aoi, if this is one of your usual jokes I'm going to get angry!"
+    mc "Aoi, if this is one of your usual jokes I'm going to get angry!" with vpunch
 
 # game/game/aoi_events.rpy:1909
 translate ukrainian aoi_eventsiete_024af896:
@@ -6573,7 +6573,7 @@ translate ukrainian aoi_eventsiete_ef7cf9d4:
 translate ukrainian aoi_eventsiete_fdf21e80:
 
     # mc "Natsuki!"
-    mc "Natsuki!"
+    mc "Natsuki!" with vpunch
 
 # game/game/aoi_events.rpy:1923
 translate ukrainian aoi_eventsiete_17f51282:
@@ -6645,7 +6645,7 @@ translate ukrainian aoi_eventsiete_5cd9caf6:
 translate ukrainian aoi_eventsiete_0127dcd5:
 
     # di "Th- T-This is not the time to talk! {w}T-Take her to the back room!"
-    di "Th- T-This is not the time to talk! {w}T-Take her to the back room!"
+    di "Th- T-This is not the time to talk! {w}T-Take her to the back room!" with vpunch
 
 # game/game/aoi_events.rpy:1940
 translate ukrainian aoi_eventsiete_15e21aba:
@@ -6759,13 +6759,13 @@ translate ukrainian aoi_eventsiete_69f5bc62:
 translate ukrainian aoi_eventsiete_19de836d:
 
     # mc "With what?!"
-    mc "With what?!"
+    mc "With what?!" with vpunch
 
 # game/game/aoi_events.rpy:1975
 translate ukrainian aoi_eventsiete_81da14c4:
 
     # mc "And where the hell did you get that?!"
-    mc "And where the hell did you get that?!"
+    mc "And where the hell did you get that?!" with hpunch
 
 # game/game/aoi_events.rpy:1977
 translate ukrainian aoi_eventsiete_d221d8a9:
@@ -7047,7 +7047,7 @@ translate ukrainian aoi_eventocho_c3d0fde2:
 translate ukrainian aoi_eventocho_d64b471a:
 
     # mc "W-What!?"
-    mc "W-What!?"
+    mc "W-What!?" with vpunch
 
 # game/game/aoi_events.rpy:2056
 translate ukrainian aoi_eventocho_bff5a3af:
@@ -7077,7 +7077,7 @@ translate ukrainian aoi_eventocho_d83b3c0a:
 translate ukrainian aoi_eventocho_c1808a25:
 
     # ao "Which would make your emotions turn into love!"
-    ao "Which would make your emotions turn into love!"
+    ao "Which would make your emotions turn into love!" with vpunch
 
 # game/game/aoi_events.rpy:2065
 translate ukrainian aoi_eventocho_2c160366:
@@ -7119,13 +7119,13 @@ translate ukrainian aoi_eventocho_102aa7ae:
 translate ukrainian aoi_eventocho_2503cd34:
 
     # ao "I knew it!"
-    ao "I knew it!"
+    ao "I knew it!" with vpunch
 
 # game/game/aoi_events.rpy:2077
 translate ukrainian aoi_eventocho_ea1548fa:
 
     # mc "I didn't say anything!"
-    mc "I didn't say anything!"
+    mc "I didn't say anything!" with hpunch
 
 # game/game/aoi_events.rpy:2080
 translate ukrainian aoi_eventocho_da11b05b:
@@ -7137,7 +7137,7 @@ translate ukrainian aoi_eventocho_da11b05b:
 translate ukrainian aoi_eventocho_70506c90:
 
     # ao "Because I hope my butt is big enough for your tastes, right?!"
-    ao "Because I hope my butt is big enough for your tastes, right?!"
+    ao "Because I hope my butt is big enough for your tastes, right?!" with vpunch
 
 # game/game/aoi_events.rpy:2083
 translate ukrainian aoi_eventocho_acc25d8f:
@@ -7167,7 +7167,7 @@ translate ukrainian aoi_eventocho_7edb1103:
 translate ukrainian aoi_eventocho_94eabdf6:
 
     # ao "I can't go around the village telling you onii-chan!"
-    ao "I can't go around the village telling you onii-chan!"
+    ao "I can't go around the village telling you onii-chan!" with vpunch
 
 # game/game/aoi_events.rpy:2091
 translate ukrainian aoi_eventocho_4e59a0e9:
@@ -7179,7 +7179,7 @@ translate ukrainian aoi_eventocho_4e59a0e9:
 translate ukrainian aoi_eventocho_fd414623:
 
     # ao "Tell that to the authorities!"
-    ao "Tell that to the authorities!"
+    ao "Tell that to the authorities!" with hpunch
 
 # game/game/aoi_events.rpy:2094
 translate ukrainian aoi_eventocho_ddf4ab19:
@@ -7323,7 +7323,7 @@ translate ukrainian aoi_eventocho_d4af4104:
 translate ukrainian aoi_eventocho_cd4cd705:
 
     # ao "Right!? {w}Me too~ {w}Hahaha~ {image=corazon}"
-    ao "Right!? {w}Me too~ {w}Hahaha~ {image=corazon}"
+    ao "Right!? {w}Me too~ {w}Hahaha~ {image=corazon}" with vpunch
 
 # game/game/aoi_events.rpy:2127
 translate ukrainian aoi_eventocho_9afe98f2:
@@ -7383,13 +7383,13 @@ translate ukrainian aoi_eventocho_3864a381_4:
 translate ukrainian aoi_eventocho_d1e22cf3:
 
     # ao "HAHAHA~"
-    ao "HAHAHA~"
+    ao "HAHAHA~" with hpunch
 
 # game/game/aoi_events.rpy:2141
 translate ukrainian aoi_eventocho_f26784a9:
 
     # ao "You are an idiot! {w}That's why I like talking to you~{image=corazon}"
-    ao "You are an idiot! {w}That's why I like talking to you~{image=corazon}"
+    ao "You are an idiot! {w}That's why I like talking to you~{image=corazon}" with vpunch
 
 # game/game/aoi_events.rpy:2142
 translate ukrainian aoi_eventocho_fa52475a:
@@ -7419,7 +7419,7 @@ translate ukrainian aoi_eventocho_704d776d:
 translate ukrainian aoi_eventocho_df68fca4:
 
     # ao "Hey! {w}The one with the cruel comments is me."
-    ao "Hey! {w}The one with the cruel comments is me."
+    ao "Hey! {w}The one with the cruel comments is me." with hpunch
 
 # game/game/aoi_events.rpy:2150
 translate ukrainian aoi_eventocho_324bbbd2:
@@ -7449,7 +7449,7 @@ translate ukrainian aoi_eventocho_5c7926b1:
 translate ukrainian aoi_eventocho_ebab0223:
 
     # ao "You're welcome!"
-    ao "You're welcome!"
+    ao "You're welcome!" with vpunch
 
 # game/game/aoi_events.rpy:2158
 translate ukrainian aoi_eventocho_e1213210:
@@ -7521,7 +7521,7 @@ translate ukrainian aoi_eventocho_4698326e:
 translate ukrainian aoi_gal2_ad7bfee2:
 
     # mc "W-What?!"
-    mc "W-What?!"
+    mc "W-What?!" with vpunch
 
 # game/game/aoi_events.rpy:2181
 translate ukrainian aoi_gal2_33048792:
@@ -7689,7 +7689,7 @@ translate ukrainian aoi_gal2_e15c20d3:
 translate ukrainian aoi_gal2_33ee129d:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "Fuck!" with vpunch
 
 # game/game/aoi_events.rpy:2223
 translate ukrainian aoi_gal2_c9c661a7:
@@ -7701,7 +7701,7 @@ translate ukrainian aoi_gal2_c9c661a7:
 translate ukrainian aoi_gal2_93409759:
 
     # mc "A-Aoi!"
-    mc "A-Aoi!"
+    mc "A-Aoi!" with hpunch
 
 # game/game/aoi_events.rpy:2226
 translate ukrainian aoi_gal2_23f75d08:
@@ -7713,7 +7713,7 @@ translate ukrainian aoi_gal2_23f75d08:
 translate ukrainian aoi_gal2_5fae0bcc:
 
     # mc "How do you want me to hold on if you do that!"
-    mc "How do you want me to hold on if you do that!"
+    mc "How do you want me to hold on if you do that!" with vpunch
 
 # game/game/aoi_events.rpy:2228
 translate ukrainian aoi_gal2_04b7bdca:
@@ -7731,7 +7731,7 @@ translate ukrainian aoi_gal2_58024c15:
 translate ukrainian aoi_gal2_c5939b33:
 
     # mc "T-That doesn't help much! {w}I'm going to cum!"
-    mc "T-That doesn't help much! {w}I'm going to cum!"
+    mc "T-That doesn't help much! {w}I'm going to cum!" with vpunch
 
 # game/game/aoi_events.rpy:2231
 translate ukrainian aoi_gal2_39705a55:
@@ -7773,7 +7773,7 @@ translate ukrainian aoi_gal2_3ae93ae4:
 translate ukrainian aoi_gal2_9c85fb18:
 
     # mc "I'm cumming!"
-    mc "I'm cumming!"
+    mc "I'm cumming!" with hpunch
 
 # game/game/aoi_events.rpy:2242
 translate ukrainian aoi_gal2_69eec36b:
@@ -7785,7 +7785,7 @@ translate ukrainian aoi_gal2_69eec36b:
 translate ukrainian aoi_gal2_a0c17118:
 
     # mc "....!"
-    mc "....!"
+    mc "....!" with vpunch
 
 # game/game/aoi_events.rpy:2247
 translate ukrainian aoi_gal2_9da1cdd2:
@@ -7887,7 +7887,7 @@ translate ukrainian aoi_gal2_a83c27dd:
 translate ukrainian aoi_gal2_40315c48:
 
     # mc "What...?"
-    mc "What...?"
+    mc "What...?" with vpunch
 
 # game/game/aoi_events.rpy:2271
 translate ukrainian aoi_gal2_8558ea35:
@@ -7923,7 +7923,7 @@ translate ukrainian aoi_gal2_2b35b6fe_3:
 translate ukrainian aoi_gal2_fe69f8bc:
 
     # t "Aoi is so horny that her mind is somewhere else!"
-    t "Aoi is so horny that her mind is somewhere else!"
+    t "Aoi is so horny that her mind is somewhere else!" with hpunch
 
 # game/game/aoi_events.rpy:2278
 translate ukrainian aoi_gal2_acc9a0f0:
@@ -7959,7 +7959,7 @@ translate ukrainian aoi_gal2_5fe203e9:
 translate ukrainian aoi_gal2_04958a2f:
 
     # t "I-I can feel her warmth and wetness spread across the tip of my penis..."
-    t "I-I can feel her warmth and wetness spread across the tip of my penis..."
+    t "I-I can feel her warmth and wetness spread across the tip of my penis..." with hpunch
 
 # game/game/aoi_events.rpy:2286
 translate ukrainian aoi_gal2_18a7fdcd:
@@ -7971,7 +7971,7 @@ translate ukrainian aoi_gal2_18a7fdcd:
 translate ukrainian aoi_gal2_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/aoi_events.rpy:2289
 translate ukrainian aoi_gal2_85785dee:
@@ -7995,13 +7995,13 @@ translate ukrainian aoi_gal2_6826e7cf:
 translate ukrainian aoi_gal2_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/aoi_events.rpy:2295
 translate ukrainian aoi_gal2_4fb2eb46:
 
     # ao "Hghnm~~{image=corazon} {w}how thick..."
-    ao "Hghnm~~{image=corazon} {w}how thick..."
+    ao "Hghnm~~{image=corazon} {w}how thick..." with cumflash
 
 # game/game/aoi_events.rpy:2296
 translate ukrainian aoi_gal2_79fc2682:
@@ -8043,7 +8043,7 @@ translate ukrainian aoi_gal2_f708518e:
 translate ukrainian aoi_gal2_90da14d4:
 
     # ao "Hhnm~~{image=corazon}{image=corazon} {w}S-Shut up or I'm going to fuck you hard..."
-    ao "Hhnm~~{image=corazon}{image=corazon} {w}S-Shut up or I'm going to fuck you hard..."
+    ao "Hhnm~~{image=corazon}{image=corazon} {w}S-Shut up or I'm going to fuck you hard..." with cumflash
 
 # game/game/aoi_events.rpy:2303
 translate ukrainian aoi_gal2_2b35b6fe_4:
@@ -8079,13 +8079,13 @@ translate ukrainian aoi_gal2_36295b45:
 translate ukrainian aoi_gal2_b013aac7:
 
     # ao "GHNGMN~~{image=corazon}{image=corazon}"
-    ao "GHNGMN~~{image=corazon}{image=corazon}"
+    ao "GHNGMN~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/aoi_events.rpy:2313
 translate ukrainian aoi_gal2_43a88387:
 
     # mc "T-Too tight!"
-    mc "T-Too tight!"
+    mc "T-Too tight!" with vpunch
 
 # game/game/aoi_events.rpy:2315
 translate ukrainian aoi_gal2_f72a6d4f:
@@ -8115,7 +8115,7 @@ translate ukrainian aoi_gal2_9fab3163:
 translate ukrainian aoi_gal2_2b4210a4:
 
     # mc "You are right, it is so tight but it fits perfectly!"
-    mc "You are right, it is so tight but it fits perfectly!"
+    mc "You are right, it is so tight but it fits perfectly!" with vpunch
 
 # game/game/aoi_events.rpy:2322
 translate ukrainian aoi_gal2_b0c91e88:
@@ -8181,7 +8181,7 @@ translate ukrainian aoi_gal2_a196ecc5:
 translate ukrainian aoi_gal2_2fdef620:
 
     # ao "AAAHH~{image=corazon} {w}ahAANNM~{image=corazon} {w}[mc]!{image=corazon}{image=corazon}"
-    ao "AAAHH~{image=corazon} {w}ahAANNM~{image=corazon} {w}[mc]!{image=corazon}{image=corazon}"
+    ao "AAAHH~{image=corazon} {w}ahAANNM~{image=corazon} {w}[mc]!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2335
 translate ukrainian aoi_gal2_438b2029:
@@ -8205,7 +8205,7 @@ translate ukrainian aoi_gal2_09bb70e1:
 translate ukrainian aoi_gal2_e5a69ead:
 
     # ao "Each of your thrusts {w}GHnhgm~{image=corazon} {w}makes my mind go crazy!~{image=corazon}{image=corazon}"
-    ao "Each of your thrusts {w}GHnhgm~{image=corazon} {w}makes my mind go crazy!~{image=corazon}{image=corazon}"
+    ao "Each of your thrusts {w}GHnhgm~{image=corazon} {w}makes my mind go crazy!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2339
 translate ukrainian aoi_gal2_74b5d570:
@@ -8265,13 +8265,13 @@ translate ukrainian aoi_gal2_415debd2:
 translate ukrainian aoi_gal2_a3c31be0:
 
     # ao "How many times have I cum already?~{image=corazon}{image=corazon}"
-    ao "How many times have I cum already?~{image=corazon}{image=corazon}"
+    ao "How many times have I cum already?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2351
 translate ukrainian aoi_gal2_6c1c97a9:
 
     # mc "Aoi!"
-    mc "Aoi!"
+    mc "Aoi!" with vpunch
 
 # game/game/aoi_events.rpy:2352
 translate ukrainian aoi_gal2_74cb28a4:
@@ -8295,13 +8295,13 @@ translate ukrainian aoi_gal2_94f20898:
 translate ukrainian aoi_gal2_0b8bfe1a:
 
     # t "But I am already at my limit! {w}Why would she have gotten so horny to the point of this?!"
-    t "But I am already at my limit! {w}Why would she have gotten so horny to the point of this?!"
+    t "But I am already at my limit! {w}Why would she have gotten so horny to the point of this?!" with hpunch
 
 # game/game/aoi_events.rpy:2356
 translate ukrainian aoi_gal2_8a836e5d:
 
     # mc "I'm going to cum!"
-    mc "I'm going to cum!"
+    mc "I'm going to cum!" with hpunch
 
 # game/game/aoi_events.rpy:2357
 translate ukrainian aoi_gal2_0ddbb107:
@@ -8319,7 +8319,7 @@ translate ukrainian aoi_gal2_9ceaf5d3:
 translate ukrainian aoi_gal2_d3caf292:
 
     # ao "M-MeeeeEeeE~~{image=corazon}{image=corazon}"
-    ao "M-MeeeeEeeE~~{image=corazon}{image=corazon}"
+    ao "M-MeeeeEeeE~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/aoi_events.rpy:2366
 translate ukrainian aoi_gal2_8ccc0934:
@@ -8457,19 +8457,19 @@ translate ukrainian aoi_ryoko_6a4f715d:
 translate ukrainian aoi_ryoko_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/aoi_events.rpy:2430
 translate ukrainian aoi_ryoko_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/aoi_events.rpy:2434
 translate ukrainian aoi_ryoko_2203064b:
 
     # ao "You only have one damn job and you don't do it!"
-    ao "You only have one damn job and you don't do it!"
+    ao "You only have one damn job and you don't do it!" with vpunch
 
 # game/game/aoi_events.rpy:2435
 translate ukrainian aoi_ryoko_6efccbbb:
@@ -8547,7 +8547,7 @@ translate ukrainian aoi_ryoko_27fe7e2e:
 translate ukrainian aoi_ryoko_5d88670a:
 
     # ao "Please! {w}Put me out of my misery!"
-    ao "Please! {w}Put me out of my misery!"
+    ao "Please! {w}Put me out of my misery!" with vpunch
 
 # game/game/aoi_events.rpy:2458
 translate ukrainian aoi_ryoko_1f5b224d:
@@ -8619,25 +8619,25 @@ translate ukrainian aoi_ryoko_6807c465:
 translate ukrainian aoi_ryoko_7c71b04d:
 
     # mc "Err... {w}I think her name was K-Kaede."
-    mc "Err... {w}I think her name was K-Kaede."
+    mc "Err... {w}I think her name was K-Kaede." (multiple=2)
 
 # game/game/aoi_events.rpy:2474
 translate ukrainian aoi_ryoko_2bcd47d8:
 
     # r "{size=-6}{i}Is it okay like this?"
-    r "{size=-6}{i}Is it okay like this?"
+    r "{size=-6}{i}Is it okay like this?" (multiple=2)
 
 # game/game/aoi_events.rpy:2475
 translate ukrainian aoi_ryoko_6ccc390a:
 
     # ao "What? She's back?"
-    ao "What? She's back?"
+    ao "What? She's back?" (multiple=2)
 
 # game/game/aoi_events.rpy:2476
 translate ukrainian aoi_ryoko_2c2f13c6:
 
     # yum "{size=-6}{i}Yees..."
-    yum "{size=-6}{i}Yees..."
+    yum "{size=-6}{i}Yees..." (multiple=2)
 
 # game/game/aoi_events.rpy:2477
 translate ukrainian aoi_ryoko_d96460f1:
@@ -8667,13 +8667,13 @@ translate ukrainian aoi_ryoko_537f8195:
 translate ukrainian aoi_ryoko_e7ac00ea:
 
     # ao "..."
-    ao "..."
+    ao "..." (multiple=2)
 
 # game/game/aoi_events.rpy:2484
 translate ukrainian aoi_ryoko_fb0b2ccf_1:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/aoi_events.rpy:2486
 translate ukrainian aoi_ryoko_967d858b:
@@ -8703,25 +8703,25 @@ translate ukrainian aoi_ryoko_3864a381:
 translate ukrainian aoi_ryoko_4ca3fa07:
 
     # ao "Don't take advantage of sweet-!"
-    ao "Don't take advantage of sweet-!"
+    ao "Don't take advantage of sweet-!" (multiple=2)
 
 # game/game/aoi_events.rpy:2493
 translate ukrainian aoi_ryoko_da8e788a:
 
     # yum "{size=-6}{i}Ah..."
-    yum "{size=-6}{i}Ah..."
+    yum "{size=-6}{i}Ah..." (multiple=2)
 
 # game/game/aoi_events.rpy:2496
 translate ukrainian aoi_ryoko_89f56dc7:
 
     # ao "-Ryoko's kindness!!"
-    ao "-Ryoko's kindness!!"
+    ao "-Ryoko's kindness!!" (multiple=2)
 
 # game/game/aoi_events.rpy:2497
 translate ukrainian aoi_ryoko_557118c9:
 
     # yum "{size=-6}{i}Aaah..."
-    yum "{size=-6}{i}Aaah..."
+    yum "{size=-6}{i}Aaah..." (multiple=2)
 
 # game/game/aoi_events.rpy:2498
 translate ukrainian aoi_ryoko_18df9eb4:
@@ -8757,7 +8757,7 @@ translate ukrainian aoi_ryoko_e96778e8:
 translate ukrainian aoi_ryoko_97da0b93:
 
     # ao "What?! {w}[mc]! Pass me that basket!"
-    ao "What?! {w}[mc]! Pass me that basket!"
+    ao "What?! {w}[mc]! Pass me that basket!" with hpunch
 
 # game/game/aoi_events.rpy:2505
 translate ukrainian aoi_ryoko_43e0c52c:
@@ -8769,7 +8769,7 @@ translate ukrainian aoi_ryoko_43e0c52c:
 translate ukrainian aoi_ryoko_f961440e:
 
     # yum "Ugh- {w}Gurururu."
-    yum "Ugh- {w}Gurururu."
+    yum "Ugh- {w}Gurururu." with cumflash
 
 # game/game/aoi_events.rpy:2510
 translate ukrainian aoi_ryoko_f1bde504:
@@ -8949,13 +8949,13 @@ translate ukrainian aoi_ryoko_2b35b6fe:
 translate ukrainian aoi_ryoko_09304e2f:
 
     # ao "Hahaha~"
-    ao "Hahaha~"
+    ao "Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:2558
 translate ukrainian aoi_ryoko_edd8c010:
 
     # mc "Woah!"
-    mc "Woah!"
+    mc "Woah!" (multiple=2)
 
 # game/game/aoi_events.rpy:2560
 translate ukrainian aoi_ryoko_0c6dc098:
@@ -9027,7 +9027,7 @@ translate ukrainian aoi_ryoko_26fc1fab:
 translate ukrainian aoi_ryoko_e43bd6ab:
 
     # ao "Hey! {w}I'm going to tell her you said that and you're going to get in trouble."
-    ao "Hey! {w}I'm going to tell her you said that and you're going to get in trouble."
+    ao "Hey! {w}I'm going to tell her you said that and you're going to get in trouble." with vpunch
 
 # game/game/aoi_events.rpy:2576
 translate ukrainian aoi_ryoko_b7ee2262:
@@ -9051,7 +9051,7 @@ translate ukrainian aoi_ryoko_cc5ebca2:
 translate ukrainian aoi_ryoko_5c373eaf:
 
     # ao "Oooh! You said it!"
-    ao "Oooh! You said it!"
+    ao "Oooh! You said it!" with hpunch
 
 # game/game/aoi_events.rpy:2582
 translate ukrainian aoi_ryoko_4164bf49:
@@ -9087,7 +9087,7 @@ translate ukrainian aoi_gal3_f95cfe6f:
 translate ukrainian aoi_gal3_bf71ea01:
 
     # mc "What?"
-    mc "What?"
+    mc "What?" with hpunch
 
 # game/game/aoi_events.rpy:2597
 translate ukrainian aoi_gal3_d088c933:
@@ -9213,7 +9213,7 @@ translate ukrainian aoi_gal3_1d82a7e7:
 translate ukrainian aoi_gal3_a5940ff7:
 
     # ao "Aaahnm~"
-    ao "Aaahnm~"
+    ao "Aaahnm~" with cumflash
 
 # game/game/aoi_events.rpy:2626
 translate ukrainian aoi_gal3_a8945cd7:
@@ -9267,7 +9267,7 @@ translate ukrainian aoi_gal3_21fa1326:
 translate ukrainian aoi_gal3_a1b108bd:
 
     # ao "HNMghn~{image=corazon} {w}Be sure that I will make you cum a lot... {w}NHhm~{image=corazon}"
-    ao "HNMghn~{image=corazon} {w}Be sure that I will make you cum a lot... {w}NHhm~{image=corazon}"
+    ao "HNMghn~{image=corazon} {w}Be sure that I will make you cum a lot... {w}NHhm~{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2636
 translate ukrainian aoi_gal3_eb2ade0a:
@@ -9327,7 +9327,7 @@ translate ukrainian aoi_gal3_0ee0a54f:
 translate ukrainian aoi_gal3_b08b12f2:
 
     # ao "Ghngmm~{image=corazon}{image=corazon} {w} y-you feel so good in my pussy~{image=corazon}"
-    ao "Ghngmm~{image=corazon}{image=corazon} {w} y-you feel so good in my pussy~{image=corazon}"
+    ao "Ghngmm~{image=corazon}{image=corazon} {w} y-you feel so good in my pussy~{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2647
 translate ukrainian aoi_gal3_f7405a18:
@@ -9339,7 +9339,7 @@ translate ukrainian aoi_gal3_f7405a18:
 translate ukrainian aoi_gal3_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/aoi_events.rpy:2649
 translate ukrainian aoi_gal3_f1e67a9e:
@@ -9363,7 +9363,7 @@ translate ukrainian aoi_gal3_18f29f67:
 translate ukrainian aoi_gal3_d9d33d5e:
 
     # t "I'm going to use my last bit of strength on the next air I get!"
-    t "I'm going to use my last bit of strength on the next air I get!"
+    t "I'm going to use my last bit of strength on the next air I get!" with hpunch
 
 # game/game/aoi_events.rpy:2653
 translate ukrainian aoi_gal3_6e528ab6:
@@ -9381,7 +9381,7 @@ translate ukrainian aoi_gal3_5dd26a9d:
 translate ukrainian aoi_gal3_123a92d5:
 
     # ao "GNhgn!~{image=corazon}{image=corazon}"
-    ao "GNhgn!~{image=corazon}{image=corazon}"
+    ao "GNhgn!~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/aoi_events.rpy:2659
 translate ukrainian aoi_gal3_f94efe97:
@@ -9423,13 +9423,13 @@ translate ukrainian aoi_gal3_3e1bd2a9:
 translate ukrainian aoi_gal3_48f1ceb1:
 
     # ao "Oh g-god~{image=corazon}{image=corazon} {w}I'm c-close again!{image=corazon} {w}Don't stop!{image=corazon}"
-    ao "Oh g-god~{image=corazon}{image=corazon} {w}I'm c-close again!{image=corazon} {w}Don't stop!{image=corazon}"
+    ao "Oh g-god~{image=corazon}{image=corazon} {w}I'm c-close again!{image=corazon} {w}Don't stop!{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2667
 translate ukrainian aoi_gal3_cd6cd998:
 
     # ao "GhngMGNGM!~"
-    ao "GhngMGNGM!~"
+    ao "GhngMGNGM!~" with hpunch
 
 # game/game/aoi_events.rpy:2668
 translate ukrainian aoi_gal3_73bcae7a:
@@ -9471,7 +9471,7 @@ translate ukrainian aoi_gal3_78744542:
 translate ukrainian aoi_gal3_e074ca39:
 
     # ao "GHNghn~{image=corazon}{image=corazon} {w}Aaahn~{image=corazon} {w}Mngmgn~{image=corazon}"
-    ao "GHNghn~{image=corazon}{image=corazon} {w}Aaahn~{image=corazon} {w}Mngmgn~{image=corazon}"
+    ao "GHNghn~{image=corazon}{image=corazon} {w}Aaahn~{image=corazon} {w}Mngmgn~{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:2677
 translate ukrainian aoi_gal3_5ae8d926:
@@ -9489,7 +9489,7 @@ translate ukrainian aoi_gal3_d13a5409:
 translate ukrainian aoi_gal3_b3f2337f:
 
     # mc "Ghm...!"
-    mc "Ghm...!"
+    mc "Ghm...!" with cumflash
 
 # game/game/aoi_events.rpy:2680
 translate ukrainian aoi_gal3_d570bef7:
@@ -9531,7 +9531,7 @@ translate ukrainian aoi_gal3_9385a64a:
 translate ukrainian aoi_gal3_a66b09f9:
 
     # ao "WhAannmMGamn!??!~{image=corazon}{image=corazon}"
-    ao "WhAannmMGamn!??!~{image=corazon}{image=corazon}"
+    ao "WhAannmMGamn!??!~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/aoi_events.rpy:2699
 translate ukrainian aoi_gal3_d5c64fcc:
@@ -9597,7 +9597,7 @@ translate ukrainian aoi_gal3_f800bed0:
 translate ukrainian aoi_gal3_dfe7d242:
 
     # ao "{size=-6}Ahum*"
-    ao "{size=-6}Ahum*"
+    ao "{size=-6}Ahum*" with vpunch
 
 # game/game/aoi_events.rpy:2733
 translate ukrainian aoi_gal3_ee2474c5:
@@ -9615,13 +9615,13 @@ translate ukrainian aoi_gal3_d3469734:
 translate ukrainian aoi_gal3_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/aoi_events.rpy:2737
 translate ukrainian aoi_gal3_e7ac00ea:
 
     # ao "..."
-    ao "..."
+    ao "..." (multiple=2)
 
 # game/game/aoi_events.rpy:2739
 translate ukrainian aoi_gal3_1893e8eb:
@@ -9711,7 +9711,7 @@ translate ukrainian aoi_eventnueve_cb759382:
 translate ukrainian aoi_eventnueve_80387d71:
 
     # ao "I'm not crying!"
-    ao "I'm not crying!"
+    ao "I'm not crying!" with hpunch
 
 # game/game/aoi_events.rpy:2771
 translate ukrainian aoi_eventnueve_211af77d:
@@ -9903,7 +9903,7 @@ translate ukrainian aoi_eventnueve_7b0c30a5:
 translate ukrainian aoi_eventnueve_58ab36ca:
 
     # mc "{size=-6}Oi."
-    mc "{size=-6}Oi."
+    mc "{size=-6}Oi." with vpunch
 
 # game/game/aoi_events.rpy:2816
 translate ukrainian aoi_eventnueve_67dbc91e:
@@ -9933,7 +9933,7 @@ translate ukrainian aoi_eventnueve_3aa9f15b:
 translate ukrainian aoi_eventnueve_0ce9f349:
 
     # mc "No!"
-    mc "No!"
+    mc "No!" with vpunch
 
 # game/game/aoi_events.rpy:2823
 translate ukrainian aoi_eventnueve_267b86d0:
@@ -9945,7 +9945,7 @@ translate ukrainian aoi_eventnueve_267b86d0:
 translate ukrainian aoi_eventnueve_1ac97bab:
 
     # mc "Well... maybe just a little!"
-    mc "Well... maybe just a little!"
+    mc "Well... maybe just a little!" with hpunch
 
 # game/game/aoi_events.rpy:2826
 translate ukrainian aoi_eventnueve_e173f54d:
@@ -9993,13 +9993,13 @@ translate ukrainian aoi_eventnueve_bbe27616:
 translate ukrainian aoi_eventnueve_8b3da7f5:
 
     # ao "{size=-6}Ah...~"
-    ao "{size=-6}Ah...~"
+    ao "{size=-6}Ah...~" (multiple=2)
 
 # game/game/aoi_events.rpy:2836
 translate ukrainian aoi_eventnueve_75b67a95:
 
     # mc "Listen to me."
-    mc "Listen to me."
+    mc "Listen to me." (multiple=2)
 
 # game/game/aoi_events.rpy:2837
 translate ukrainian aoi_eventnueve_977033bd:
@@ -10017,13 +10017,13 @@ translate ukrainian aoi_eventnueve_59f42a46:
 translate ukrainian aoi_eventnueve_1b41f254:
 
     # mc "What!"
-    mc "What!"
+    mc "What!" with hpunch
 
 # game/game/aoi_events.rpy:2842
 translate ukrainian aoi_eventnueve_3e804a9a:
 
     # ao "Hahaha~ {w}Why are you backing out?"
-    ao "Hahaha~ {w}Why are you backing out?"
+    ao "Hahaha~ {w}Why are you backing out?" with hpunch
 
 # game/game/aoi_events.rpy:2843
 translate ukrainian aoi_eventnueve_8917f126:
@@ -10209,7 +10209,7 @@ translate ukrainian aoi_eventnueve_b12907fb:
 translate ukrainian aoi_eventnueve_77dff2f7:
 
     # ao "Admire my masterpiece!"
-    ao "Admire my masterpiece!"
+    ao "Admire my masterpiece!" with hpunch
 
 # game/game/aoi_events.rpy:2895
 translate ukrainian aoi_eventnueve_1f5b224d:
@@ -10323,25 +10323,25 @@ translate ukrainian aoi_eventnueve_77498c61:
 translate ukrainian aoi_eventnueve_089431fd:
 
     # ao "Don't be fooled! {w}At the slightest opportunity he will shove something up your ass."
-    ao "Don't be fooled! {w}At the slightest opportunity he will shove something up your ass."
+    ao "Don't be fooled! {w}At the slightest opportunity he will shove something up your ass." with hpunch
 
 # game/game/aoi_events.rpy:2918
 translate ukrainian aoi_eventnueve_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/aoi_events.rpy:2921
 translate ukrainian aoi_eventnueve_02352bca:
 
     # "{color=#CF9A70}Hahaha~"
-    "{color=#CF9A70}Hahaha~"
+    "{color=#CF9A70}Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:2922
 translate ukrainian aoi_eventnueve_580a42c9:
 
     # "{color=#980536}Hahaha~"
-    "{color=#980536}Hahaha~"
+    "{color=#980536}Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:2924
 translate ukrainian aoi_eventnueve_dca9d5e7:
@@ -10353,13 +10353,13 @@ translate ukrainian aoi_eventnueve_dca9d5e7:
 translate ukrainian aoi_eventnueve_4584f6cf:
 
     # mc "Ah..."
-    mc "Ah..."
+    mc "Ah..." (multiple=2)
 
 # game/game/aoi_events.rpy:2927
 translate ukrainian aoi_eventnueve_35174031:
 
     # yum "{sc=3}{outlinecolor=#000000}{size=-8}Ghng!"
-    yum "{sc=3}{outlinecolor=#000000}{size=-8}Ghng!"
+    yum "{sc=3}{outlinecolor=#000000}{size=-8}Ghng!" (multiple=2)
 
 # game/game/aoi_events.rpy:2929
 translate ukrainian aoi_eventnueve_5cd8cdb4:
@@ -10395,13 +10395,13 @@ translate ukrainian aoi_eventnueve_140044ca:
 translate ukrainian aoi_eventnueve_648346e5:
 
     # mc "Yumeko!"
-    mc "Yumeko!"
+    mc "Yumeko!" with hpunch
 
 # game/game/aoi_events.rpy:2938
 translate ukrainian aoi_eventnueve_ba9b934c:
 
     # ao "Hahaha, he really did it!"
-    ao "Hahaha, he really did it!"
+    ao "Hahaha, he really did it!" with vpunch
 
 # game/game/aoi_events.rpy:2939
 translate ukrainian aoi_eventnueve_89c16e8d:
@@ -10431,7 +10431,7 @@ translate ukrainian aoi_eventnueve_84821921:
 translate ukrainian aoi_eventnueve_ee1ec5fd:
 
     # mc "How exactly do you expect me to rub her {b}there!?"
-    mc "How exactly do you expect me to rub her {b}there!?"
+    mc "How exactly do you expect me to rub her {b}there!?" with hpunch
 
 # game/game/aoi_events.rpy:2944
 translate ukrainian aoi_eventnueve_1595729b:
@@ -10605,7 +10605,7 @@ translate ukrainian aoi_eventdiez_ca565cfe:
 translate ukrainian aoi_eventdiez_3c0ba1e1:
 
     # mc "{sc=1}{outlinecolor=#000000}Ghn!"
-    mc "{sc=1}{outlinecolor=#000000}Ghn!"
+    mc "{sc=1}{outlinecolor=#000000}Ghn!" with hpunch
 
 # game/game/aoi_events.rpy:3015
 translate ukrainian aoi_eventonce_7a0e86b4:
@@ -10671,13 +10671,13 @@ translate ukrainian aoi_eventonce_cf9a1c8e:
 translate ukrainian aoi_eventonce_9a230a6e:
 
     # ao "Too slow!"
-    ao "Too slow!"
+    ao "Too slow!" with vpunch
 
 # game/game/aoi_events.rpy:3035
 translate ukrainian aoi_eventonce_8b611f6a:
 
     # mc "Damn it."
-    mc "Damn it."
+    mc "Damn it." with hpunch
 
 # game/game/aoi_events.rpy:3036
 translate ukrainian aoi_eventonce_b0c67f98:
@@ -10827,13 +10827,13 @@ translate ukrainian aoi_eventonce_4698326e:
 translate ukrainian aoi_eventonce_7da49a39:
 
     # ao "\"Miss Alice, how about a threesome with Aoi?\""
-    ao "\"Miss Alice, how about a threesome with Aoi?\""
+    ao "\"Miss Alice, how about a threesome with Aoi?\"" with hpunch
 
 # game/game/aoi_events.rpy:3076
 translate ukrainian aoi_eventonce_14905d8e:
 
     # mc "EH!?"
-    mc "EH!?"
+    mc "EH!?" with hpunch
 
 # game/game/aoi_events.rpy:3078
 translate ukrainian aoi_eventonce_aceb46d3:
@@ -10965,7 +10965,7 @@ translate ukrainian aoi_eventonce_669664cb:
 translate ukrainian aoi_eventonce_ac12c640:
 
     # ao "Hahaha."
-    ao "Hahaha."
+    ao "Hahaha." with hpunch
 
 # game/game/aoi_events.rpy:3115
 translate ukrainian aoi_eventonce_717abd51:
@@ -11001,7 +11001,7 @@ translate ukrainian aoi_eventonce_3431497f:
 translate ukrainian aoi_eventonce_0c3ad0ba:
 
     # mc "I'll be there."
-    mc "I'll be there."
+    mc "I'll be there." with vpunch
 
 # game/game/aoi_events.rpy:3122
 translate ukrainian aoi_eventonce_8af3d0b3:
@@ -11037,7 +11037,7 @@ translate ukrainian aoi_eventonce_c8a28e97:
 translate ukrainian aoi_eventonce_92dc04fc:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with hpunch
 
 # game/game/aoi_events.rpy:3131
 translate ukrainian aoi_eventonce_1595729b:
@@ -11055,7 +11055,7 @@ translate ukrainian aoi_eventonce_32604fbe:
 translate ukrainian aoi_eventonce_6ba019ca:
 
     # ao "I love that you're so strong!~{image=corazon}"
-    ao "I love that you're so strong!~{image=corazon}"
+    ao "I love that you're so strong!~{image=corazon}" with hpunch
 
 # game/game/aoi_events.rpy:3141
 translate ukrainian aoi_eventonce_ffc84305:
@@ -11289,25 +11289,25 @@ translate ukrainian aoi_eventdoce_ad94a2e6:
 translate ukrainian aoi_eventdoce_f97e8c84:
 
     # "{color=#980536}{size=-6}Aoi! Have your boobs grown?"
-    "{color=#980536}{size=-6}Aoi! Have your boobs grown?"
+    "{color=#980536}{size=-6}Aoi! Have your boobs grown?" with hpunch
 
 # game/game/aoi_events.rpy:3211
 translate ukrainian aoi_eventdoce_248b71a2:
 
     # "{color=#980536}{size=-6}Tell your secret!"
-    "{color=#980536}{size=-6}Tell your secret!"
+    "{color=#980536}{size=-6}Tell your secret!" with vpunch
 
 # game/game/aoi_events.rpy:3212
 translate ukrainian aoi_eventdoce_d72a7cef:
 
     # ao "{size=-6}Hey, don't grab them!"
-    ao "{size=-6}Hey, don't grab them!"
+    ao "{size=-6}Hey, don't grab them!" with hpunch
 
 # game/game/aoi_events.rpy:3214
 translate ukrainian aoi_eventdoce_0a007a9b:
 
     # "{color=#CF9A70}{size=-6}Yeah, tell us the secret of your beautiful butt too!"
-    "{color=#CF9A70}{size=-6}Yeah, tell us the secret of your beautiful butt too!"
+    "{color=#CF9A70}{size=-6}Yeah, tell us the secret of your beautiful butt too!" with hpunch
 
 # game/game/aoi_events.rpy:3215
 translate ukrainian aoi_eventdoce_95ac4f7f:
@@ -11319,13 +11319,13 @@ translate ukrainian aoi_eventdoce_95ac4f7f:
 translate ukrainian aoi_eventdoce_3fbed11d:
 
     # "{color=#980536}{size=-6}Hahaha~"
-    "{color=#980536}{size=-6}Hahaha~"
+    "{color=#980536}{size=-6}Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:3217
 translate ukrainian aoi_eventdoce_5187a424:
 
     # "{color=#CF9A70}{size=-6}Hahaha~"
-    "{color=#CF9A70}{size=-6}Hahaha~"
+    "{color=#CF9A70}{size=-6}Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:3219
 translate ukrainian aoi_eventdoce_5f2c7d1e:
@@ -11367,13 +11367,13 @@ translate ukrainian aoi_eventdoce_13fee61f:
 translate ukrainian aoi_eventdoce_a5a1d88f:
 
     # "{color=#980536}{size=-6}Yeees~"
-    "{color=#980536}{size=-6}Yeees~"
+    "{color=#980536}{size=-6}Yeees~" (multiple=2)
 
 # game/game/aoi_events.rpy:3233
 translate ukrainian aoi_eventdoce_5fc16152:
 
     # "{color=#CF9A70}{size=-6}Yees~"
-    "{color=#CF9A70}{size=-6}Yees~"
+    "{color=#CF9A70}{size=-6}Yees~" (multiple=2)
 
 # game/game/aoi_events.rpy:3238
 translate ukrainian aoi_eventdoce_c0d39488:
@@ -11523,25 +11523,25 @@ translate ukrainian aoi_eventdoce_918aa7de:
 translate ukrainian aoi_eventdoce_a761215e:
 
     # "{color=#CF9A70}That's true!"
-    "{color=#CF9A70}That's true!"
+    "{color=#CF9A70}That's true!" with vpunch
 
 # game/game/aoi_events.rpy:3276
 translate ukrainian aoi_eventdoce_0264a648:
 
     # "{sc=1}{outlinecolor=#000000}{size=-8}{color=#980536}Kya!{/size} {w}Don't touch me there!"
-    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#980536}Kya!{/size} {w}Don't touch me there!"
+    "{sc=1}{outlinecolor=#000000}{size=-8}{color=#980536}Kya!{/size} {w}Don't touch me there!" with hpunch
 
 # game/game/aoi_events.rpy:3278
 translate ukrainian aoi_eventdoce_09304e2f:
 
     # ao "Hahaha~"
-    ao "Hahaha~"
+    ao "Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:3279
 translate ukrainian aoi_eventdoce_02352bca:
 
     # "{color=#CF9A70}Hahaha~"
-    "{color=#CF9A70}Hahaha~"
+    "{color=#CF9A70}Hahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:3280
 translate ukrainian aoi_eventdoce_9f215450:
@@ -11553,7 +11553,7 @@ translate ukrainian aoi_eventdoce_9f215450:
 translate ukrainian aoi_eventdoce_b365d6e6:
 
     # t "My decisions only made things worse!"
-    t "My decisions only made things worse!"
+    t "My decisions only made things worse!" with hpunch
 
 # game/game/aoi_events.rpy:3283
 translate ukrainian aoi_eventdoce_d8d98bea:
@@ -11583,13 +11583,13 @@ translate ukrainian aoi_eventdoce_0e5b1b9f:
 translate ukrainian aoi_eventdoce_794bdef3:
 
     # ao "{sc=1}{outlinecolor=#000000}...!"
-    ao "{sc=1}{outlinecolor=#000000}...!"
+    ao "{sc=1}{outlinecolor=#000000}...!" (multiple=2)
 
 # game/game/aoi_events.rpy:3293
 translate ukrainian aoi_eventdoce_46082b82:
 
     # mc "{sc=1}{outlinecolor=#000000}...!"
-    mc "{sc=1}{outlinecolor=#000000}...!"
+    mc "{sc=1}{outlinecolor=#000000}...!" (multiple=2)
 
 # game/game/aoi_events.rpy:3295
 translate ukrainian aoi_eventdoce_b30a3e86:
@@ -11619,19 +11619,19 @@ translate ukrainian aoi_eventdoce_5545d364:
 translate ukrainian aoi_eventdoce_6a91add5:
 
     # ao "Thick and veiny- {w}as if I'd ever say that!"
-    ao "Thick and veiny- {w}as if I'd ever say that!"
+    ao "Thick and veiny- {w}as if I'd ever say that!" with hpunch
 
 # game/game/aoi_events.rpy:3300
 translate ukrainian aoi_eventdoce_ec5abcea:
 
     # "{sc=1}{outlinecolor=#000000}{color=#980536}Hahahaha~"
-    "{sc=1}{outlinecolor=#000000}{color=#980536}Hahahaha~"
+    "{sc=1}{outlinecolor=#000000}{color=#980536}Hahahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:3301
 translate ukrainian aoi_eventdoce_3921ab47:
 
     # "{sc=1}{outlinecolor=#000000}{color=#CF9A70}Hahahahaha~"
-    "{sc=1}{outlinecolor=#000000}{color=#CF9A70}Hahahahaha~"
+    "{sc=1}{outlinecolor=#000000}{color=#CF9A70}Hahahahaha~" (multiple=2)
 
 # game/game/aoi_events.rpy:3302
 translate ukrainian aoi_eventdoce_2b35b6fe_3:
@@ -11655,13 +11655,13 @@ translate ukrainian aoi_eventdoce_10863795:
 translate ukrainian aoi_eventdoce_b1809721:
 
     # "{color=#980536}Yees~"
-    "{color=#980536}Yees~"
+    "{color=#980536}Yees~" (multiple=2)
 
 # game/game/aoi_events.rpy:3307
 translate ukrainian aoi_eventdoce_10bf6ba8:
 
     # "{color=#CF9A70}Yees~"
-    "{color=#CF9A70}Yees~"
+    "{color=#CF9A70}Yees~" (multiple=2)
 
 # game/game/aoi_events.rpy:3309
 translate ukrainian aoi_eventdoce_423d696c:
@@ -11781,13 +11781,13 @@ translate ukrainian aoi_eventdoce_8a970eb8:
 translate ukrainian aoi_eventdoce_ecadbdd0:
 
     # ao "Is someone here?"
-    ao "Is someone here?"
+    ao "Is someone here?" with hpunch
 
 # game/game/aoi_events.rpy:3347
 translate ukrainian aoi_eventdoce_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/aoi_events.rpy:3348
 translate ukrainian aoi_eventdoce_e4dc4c47:
@@ -11799,31 +11799,31 @@ translate ukrainian aoi_eventdoce_e4dc4c47:
 translate ukrainian aoi_eventdoce_eeeb10f4:
 
     # t "I'll just get dressed and sneak out!"
-    t "I'll just get dressed and sneak out!"
+    t "I'll just get dressed and sneak out!" with hpunch
 
 # game/game/aoi_events.rpy:3353
 translate ukrainian aoi_eventdoce_594aafcb:
 
     # ao "The place is closed! {w}If you're a stranger, I'll call Sayori!"
-    ao "The place is closed! {w}If you're a stranger, I'll call Sayori!"
+    ao "The place is closed! {w}If you're a stranger, I'll call Sayori!" with hpunch
 
 # game/game/aoi_events.rpy:3354
 translate ukrainian aoi_eventdoce_31f07a8d:
 
     # t "I can't see! Where's the exit?"
-    t "I can't see! Where's the exit?"
+    t "I can't see! Where's the exit?" with hpunch
 
 # game/game/aoi_events.rpy:3358
 translate ukrainian aoi_eventdoce_db8310f5:
 
     # ao "Hey! {w}I saw you! Why are you running?"
-    ao "Hey! {w}I saw you! Why are you running?"
+    ao "Hey! {w}I saw you! Why are you running?" with hpunch
 
 # game/game/aoi_events.rpy:3359
 translate ukrainian aoi_eventdoce_ed00648f:
 
     # ao "Were you spying on us?!"
-    ao "Were you spying on us?!"
+    ao "Were you spying on us?!" with hpunch
 
 # game/game/aoi_events.rpy:3360
 translate ukrainian aoi_eventdoce_39988894:
@@ -11835,13 +11835,13 @@ translate ukrainian aoi_eventdoce_39988894:
 translate ukrainian aoi_eventdoce_515f8203:
 
     # ao "{sc=1}{outlinecolor=#000000}Stop right there, criminal scum!-"
-    ao "{sc=1}{outlinecolor=#000000}Stop right there, criminal scum!-"
+    ao "{sc=1}{outlinecolor=#000000}Stop right there, criminal scum!-" (multiple=2)
 
 # game/game/aoi_events.rpy:3370
 translate ukrainian aoi_eventdoce_0117c89b:
 
     # mc "{sc=1}{outlinecolor=#000000}Aoi! It's me!"
-    mc "{sc=1}{outlinecolor=#000000}Aoi! It's me!"
+    mc "{sc=1}{outlinecolor=#000000}Aoi! It's me!" (multiple=2)
 
 # game/game/aoi_events.rpy:3372
 translate ukrainian aoi_eventdoce_2b35b6fe_4:
@@ -11877,13 +11877,13 @@ translate ukrainian aoi_eventdoce_75be7334:
 translate ukrainian aoi_eventdoce_e7ac00ea:
 
     # ao "..."
-    ao "..."
+    ao "..." (multiple=2)
 
 # game/game/aoi_events.rpy:3382
 translate ukrainian aoi_eventdoce_41593555:
 
     # mc "{sc=1}{outlinecolor=#000000}Wait!"
-    mc "{sc=1}{outlinecolor=#000000}Wait!"
+    mc "{sc=1}{outlinecolor=#000000}Wait!" (multiple=2)
 
 # game/game/aoi_events.rpy:3383
 translate ukrainian aoi_eventdoce_e77c00e1:
@@ -11907,43 +11907,43 @@ translate ukrainian aoi_eventdoce_4201a993:
 translate ukrainian aoi_eventdoce_2cc935ff:
 
     # mc "Come with me!"
-    mc "Come with me!"
+    mc "Come with me!" (multiple=2)
 
 # game/game/aoi_events.rpy:3393
 translate ukrainian aoi_eventdoce_7a42f489:
 
     # ao "Ah-!"
-    ao "Ah-!"
+    ao "Ah-!" (multiple=2)
 
 # game/game/aoi_events.rpy:3402
 translate ukrainian aoi_eventdoce_342e2c60:
 
     # ao "{size=-6}W-What are you doing?!"
-    ao "{size=-6}W-What are you doing?!"
+    ao "{size=-6}W-What are you doing?!" with hpunch
 
 # game/game/aoi_events.rpy:3403
 translate ukrainian aoi_eventdoce_b3b1eec2:
 
     # mc "{size=-6}I'm trying to fix the misunderstanding!"
-    mc "{size=-6}I'm trying to fix the misunderstanding!"
+    mc "{size=-6}I'm trying to fix the misunderstanding!" with hpunch
 
 # game/game/aoi_events.rpy:3404
 translate ukrainian aoi_eventdoce_f58617c7:
 
     # ao "{size=-6}Fixing it?! Or making it worse?!"
-    ao "{size=-6}Fixing it?! Or making it worse?!"
+    ao "{size=-6}Fixing it?! Or making it worse?!" with hpunch
 
 # game/game/aoi_events.rpy:3405
 translate ukrainian aoi_eventdoce_c95f11aa:
 
     # mc "{size=-6}I couldn't think of anything else! I've been acting without thinking for several minutes now!"
-    mc "{size=-6}I couldn't think of anything else! I've been acting without thinking for several minutes now!"
+    mc "{size=-6}I couldn't think of anything else! I've been acting without thinking for several minutes now!" with hpunch
 
 # game/game/aoi_events.rpy:3407
 translate ukrainian aoi_eventdoce_a4fc921c:
 
     # ao "{size=-6}And your best idea was this!"
-    ao "{size=-6}And your best idea was this!"
+    ao "{size=-6}And your best idea was this!" with hpunch
 
 # game/game/aoi_events.rpy:3408
 translate ukrainian aoi_eventdoce_ae3e860f:
@@ -11967,7 +11967,7 @@ translate ukrainian aoi_eventdoce_2a21f882:
 translate ukrainian aoi_eventdoce_29922d12:
 
     # ao "Don't tell me to calm down!"
-    ao "Don't tell me to calm down!"
+    ao "Don't tell me to calm down!" with hpunch
 
 # game/game/aoi_events.rpy:3414
 translate ukrainian aoi_eventdoce_1995a8cd:
@@ -12135,7 +12135,7 @@ translate ukrainian aoi_gal4_ae03fe83:
 translate ukrainian aoi_gal4_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/aoi_events.rpy:3462
 translate ukrainian aoi_gal4_e45d995d:
@@ -12183,7 +12183,7 @@ translate ukrainian aoi_gal4_51575849:
 translate ukrainian aoi_gal4_c5608bb4:
 
     # mc "Ghnm!"
-    mc "Ghnm!"
+    mc "Ghnm!" with cumflash
 
 # game/game/aoi_events.rpy:3471
 translate ukrainian aoi_gal4_b2bf7a52:
@@ -12225,7 +12225,7 @@ translate ukrainian aoi_gal4_f9fbaf80:
 translate ukrainian aoi_gal4_bbdea4e1:
 
     # mc "Uhg..."
-    mc "Uhg..."
+    mc "Uhg..." with cumflash
 
 # game/game/aoi_events.rpy:3478
 translate ukrainian aoi_gal4_6924046e:
@@ -12375,7 +12375,7 @@ translate ukrainian aoi_gal4_4b9716b7:
 translate ukrainian aoi_gal4_92924683:
 
     # ao "{sc=1}{outlinecolor=#000000}{size=-8}Uoghnm~{image=corazon}{image=corazon}{image=corazon}"
-    ao "{sc=1}{outlinecolor=#000000}{size=-8}Uoghnm~{image=corazon}{image=corazon}{image=corazon}"
+    ao "{sc=1}{outlinecolor=#000000}{size=-8}Uoghnm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:3515
 translate ukrainian aoi_gal4_966bade4:
@@ -12399,7 +12399,7 @@ translate ukrainian aoi_gal4_abea7e76:
 translate ukrainian aoi_gal4_e97f670c:
 
     # ao "GNhm~{image=corazon} {w}Aahng~{image=corazon} {w}MnHMmn~{image=corazon}{image=corazon}"
-    ao "GNhm~{image=corazon} {w}Aahng~{image=corazon} {w}MnHMmn~{image=corazon}{image=corazon}"
+    ao "GNhm~{image=corazon} {w}Aahng~{image=corazon} {w}MnHMmn~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:3521
 translate ukrainian aoi_gal4_123b0c83:
@@ -12429,7 +12429,7 @@ translate ukrainian aoi_gal4_70c0aa99:
 translate ukrainian aoi_gal4_967af6b2:
 
     # ao "Y-You seem to be... {w}Aaahnm~{image=corazon} {w}e-enjoying this!~{image=corazon}{image=corazon}"
-    ao "Y-You seem to be... {w}Aaahnm~{image=corazon} {w}e-enjoying this!~{image=corazon}{image=corazon}"
+    ao "Y-You seem to be... {w}Aaahnm~{image=corazon} {w}e-enjoying this!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:3526
 translate ukrainian aoi_gal4_c20458bd:
@@ -12441,7 +12441,7 @@ translate ukrainian aoi_gal4_c20458bd:
 translate ukrainian aoi_gal4_6cda5a98:
 
     # ao "F-Fuck me harder...!~{image=corazon}{image=corazon} {w}A-Aahnm~{image=corazon}{image=corazon}{image=corazon}"
-    ao "F-Fuck me harder...!~{image=corazon}{image=corazon} {w}A-Aahnm~{image=corazon}{image=corazon}{image=corazon}"
+    ao "F-Fuck me harder...!~{image=corazon}{image=corazon} {w}A-Aahnm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/aoi_events.rpy:3529
 translate ukrainian aoi_gal4_611b88e1:
@@ -12459,7 +12459,7 @@ translate ukrainian aoi_gal4_26443f55:
 translate ukrainian aoi_gal4_c5608bb4_1:
 
     # mc "Ghnm!"
-    mc "Ghnm!"
+    mc "Ghnm!" with cumflash
 
 # game/game/aoi_events.rpy:3532
 translate ukrainian aoi_gal4_cd871cd6:
@@ -12477,7 +12477,7 @@ translate ukrainian aoi_gal4_2b35b6fe_4:
 translate ukrainian aoi_gal4_378c227f:
 
     # ao "W-What!?~ {image=corazon}{image=corazon}"
-    ao "W-What!?~ {image=corazon}{image=corazon}"
+    ao "W-What!?~ {image=corazon}{image=corazon}" with hpunch
 
 # game/game/aoi_events.rpy:3537
 translate ukrainian aoi_gal4_a9509245:
@@ -12501,7 +12501,7 @@ translate ukrainian aoi_gal4_b1e21e78:
 translate ukrainian aoi_gal4_21dcef1e:
 
     # ao "{sc=1}{outlinecolor=#000000}{size=-8}T-this is bad, I can't think of a-Anything else anymore..."
-    ao "{sc=1}{outlinecolor=#000000}{size=-8}T-this is bad, I can't think of a-Anything else anymore..."
+    ao "{sc=1}{outlinecolor=#000000}{size=-8}T-this is bad, I can't think of a-Anything else anymore..." with cumflash
 
 # game/game/aoi_events.rpy:3541
 translate ukrainian aoi_gal4_49289688:
@@ -12513,7 +12513,7 @@ translate ukrainian aoi_gal4_49289688:
 translate ukrainian aoi_gal4_438bd41e:
 
     # ao "Y-Your penis feels good~{image=corazon}{image=corazon} {w}t-thrust it harder into my pussy~{image=corazon}{image=corazon}"
-    ao "Y-Your penis feels good~{image=corazon}{image=corazon} {w}t-thrust it harder into my pussy~{image=corazon}{image=corazon}"
+    ao "Y-Your penis feels good~{image=corazon}{image=corazon} {w}t-thrust it harder into my pussy~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:3543
 translate ukrainian aoi_gal4_f88ffc2e:
@@ -12531,7 +12531,7 @@ translate ukrainian aoi_gal4_a62b9ef5:
 translate ukrainian aoi_gal4_5842b895:
 
     # ao "I w-want your hot stuff~{image=corazon}{image=corazon}{image=corazon}"
-    ao "I w-want your hot stuff~{image=corazon}{image=corazon}{image=corazon}"
+    ao "I w-want your hot stuff~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:3546
 translate ukrainian aoi_gal4_4721e21c:
@@ -12573,7 +12573,7 @@ translate ukrainian aoi_gal4_6a4699ce:
 translate ukrainian aoi_gal4_2d6d6b7c:
 
     # ao "Aahnm~{image=corazon} {w}W-What did you turn me into?~{image=corazon}{image=corazon}"
-    ao "Aahnm~{image=corazon} {w}W-What did you turn me into?~{image=corazon}{image=corazon}"
+    ao "Aahnm~{image=corazon} {w}W-What did you turn me into?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/aoi_events.rpy:3555
 translate ukrainian aoi_gal4_cf89c887:
@@ -12597,7 +12597,7 @@ translate ukrainian aoi_gal4_497f0786:
 translate ukrainian aoi_gal4_355d7683:
 
     # ao "I feel it... {w}it's getting warm..."
-    ao "I feel it... {w}it's getting warm..."
+    ao "I feel it... {w}it's getting warm..." with cumflash
 
 # game/game/aoi_events.rpy:3559
 translate ukrainian aoi_gal4_56006bce:
@@ -12633,7 +12633,7 @@ translate ukrainian aoi_gal4_660b57b0:
 translate ukrainian aoi_gal4_83ab7b3b:
 
     # ao "{sc=2}{outlinecolor=#000000}{size=-8}GhNnMmnm!~{image=corazon}{image=corazon}{image=corazon}"
-    ao "{sc=2}{outlinecolor=#000000}{size=-8}GhNnMmnm!~{image=corazon}{image=corazon}{image=corazon}"
+    ao "{sc=2}{outlinecolor=#000000}{size=-8}GhNnMmnm!~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/aoi_events.rpy:3577
 translate ukrainian aoi_gal4_b9e330d1:
@@ -12747,13 +12747,13 @@ translate ukrainian aoi_gal4_cd96544a:
 translate ukrainian aoi_gal4_4e045870:
 
     # mc "Yumeko helped us?"
-    mc "Yumeko helped us?"
+    mc "Yumeko helped us?" (multiple=2)
 
 # game/game/aoi_events.rpy:3627
 translate ukrainian aoi_gal4_0fea88d8:
 
     # ao "Yumeko helped us?"
-    ao "Yumeko helped us?"
+    ao "Yumeko helped us?" (multiple=2)
 
 # game/game/aoi_events.rpy:3628
 translate ukrainian aoi_gal4_00252bdc:

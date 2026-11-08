@@ -177,7 +177,7 @@ translate ukrainian akane_forestmeet_46b79df3:
 translate ukrainian akane_forestmeet_2cd78439:
 
     # ak "Haaa?"
-    ak "Гааа?"
+    ak "Гааа?" with vpunch
 
 # game/game/akane_events.rpy:82
 translate ukrainian akane_forestmeet_41124d0c:
@@ -225,7 +225,7 @@ translate ukrainian akane_forestmeet_c396e6b0:
 translate ukrainian akane_forestmeet_5ba95e21:
 
     # ak "Haaa!?"
-    ak "Гааа!?"
+    ak "Гааа!?" with vpunch
 
 # game/game/akane_events.rpy:95
 translate ukrainian akane_forestmeet_ec8e56b3:
@@ -357,7 +357,7 @@ translate ukrainian akane_forestmeet_a6ac7322:
 translate ukrainian akane_forestmeet_3ae4ce03:
 
     # ak "No! Pervert!{w} I sucked your blood!"
-    ak "Ні! Збоченцю!{w} Я твоєї крові випила!"
+    ak "Ні! Збоченцю!{w} Я твоєї крові випила!" with vpunch
 
 # game/game/akane_events.rpy:131
 translate ukrainian akane_forestmeet_b8de06d3:
@@ -1695,7 +1695,7 @@ translate ukrainian akane_aff_2_23887b7c:
 translate ukrainian akane_aff_2_13d9deb6:
 
     # ak "Yes! {w}Reward!"
-    ak "Так! {w}Винагороду!"
+    ak "Так! {w}Винагороду!" with vpunch
 
 # game/game/akane_events.rpy:601
 translate ukrainian akane_aff_2_c0929f9c:
@@ -1719,7 +1719,7 @@ translate ukrainian akane_aff_2_5543462f:
 translate ukrainian akane_aff_2_0aaf7157:
 
     # ak "You wish!"
-    ak "У твоїх мріях!"
+    ak "У твоїх мріях!" with hpunch
 
 # game/game/akane_events.rpy:608
 translate ukrainian akane_aff_2_c1dff962:
@@ -1761,7 +1761,7 @@ translate ukrainian akane_aff_2_40bb61bd:
 translate ukrainian akane_aff_2_c8443abd:
 
     # ak "No, wait! {w}I don't mean that kind of reward!"
-    ak "Ні, стій! {w}Я не про таку винагороду!"
+    ak "Ні, стій! {w}Я не про таку винагороду!" with vpunch
 
 # game/game/akane_events.rpy:621
 translate ukrainian akane_aff_2_f07db495:
@@ -2493,7 +2493,7 @@ translate ukrainian akane_first_ech_1350a949:
 translate ukrainian akane_boobs_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:868
 translate ukrainian akane_boobs_ad4883a2:
@@ -3033,7 +3033,7 @@ translate ukrainian akane_gal1_92299a16:
 translate ukrainian akane_gal1_94153344:
 
     # ak "..."
-    ak "..."
+    ak "..." with cumflash
 
 # game/game/akane_events.rpy:1024
 translate ukrainian akane_gal1_50d6e40d:
@@ -3141,7 +3141,7 @@ translate ukrainian akane_gal1_b966c03d:
 translate ukrainian akane_gal1_adb855e5:
 
     # ak "Why do you have a lewd face?"
-    ak "Що це за хтивий вираз на обличчі?"
+    ak "Що це за хтивий вираз на обличчі?" with hpunch
 
 # game/game/akane_events.rpy:1059
 translate ukrainian akane_gal1_ea3e3667:
@@ -4161,13 +4161,13 @@ translate ukrainian akane_postH_46b79df3_7:
 translate ukrainian akane_postH_42e76f38:
 
     # ak "H-Haaaaa!!?"
-    ak "Г-Гааааа!!?"
+    ak "Г-Гааааа!!?" with hpunch
 
 # game/game/akane_events.rpy:1353
 translate ukrainian akane_postH_b7eaac70:
 
     # ak "Pig, {w}worm, {w}slime!"
-    ak "Тварина, {w}хробак, {w}слимак!"
+    ak "Тварина, {w}хробак, {w}слимак!" with hpunch
 
 # game/game/akane_events.rpy:1354
 translate ukrainian akane_postH_c48236da:
@@ -4215,7 +4215,7 @@ translate ukrainian akane_postH_46b79df3_8:
 translate ukrainian akane_postH_cb320b83:
 
     # ak "Th-{w}Thanks!"
-    ak "Дя-{w}Дякую!"
+    ak "Дя-{w}Дякую!" with vpunch
 
 # game/game/akane_events.rpy:1369
 translate ukrainian akane_postH_e95c0fa9:
@@ -4359,7 +4359,7 @@ translate ukrainian akane_boobsrep_934a3233:
 translate ukrainian akane_boobsrep_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:1434
 translate ukrainian akane_boobsrep_c2e18195:
@@ -4665,7 +4665,7 @@ translate ukrainian akane_boobsrep_d95fe593:
 translate ukrainian akane_boobsrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/akane_events.rpy:1520
 translate ukrainian akane_boobsrep_e054ce99:
@@ -4695,7 +4695,7 @@ translate ukrainian akane_boobsrep_92299a16:
 translate ukrainian akane_boobsrep_94153344:
 
     # ak "..."
-    ak "..."
+    ak "..." with cumflash
 
 # game/game/akane_events.rpy:1534
 translate ukrainian akane_boobsrep_67084c82:
@@ -5301,7 +5301,7 @@ translate ukrainian akane_1_shop_2b35b6fe:
 translate ukrainian akane_1_shop_93029c77:
 
     # ak "{size=-8}What are you looking at pervert!"
-    ak "{size=-8}На що витріщився, збоченцю?!"
+    ak "{size=-8}На що витріщився, збоченцю?!" with vpunch
 
 # game/game/akane_events.rpy:1762
 translate ukrainian akane_1_shop_d73315f0:
@@ -5325,7 +5325,7 @@ translate ukrainian akane_1_shop_9807f1ce:
 translate ukrainian akane_1_shop_f1ecb75f:
 
     # ak "I-I'm leaving!"
-    ak "Я-Я йду!"
+    ak "Я-Я йду!" with vpunch
 
 # game/game/akane_events.rpy:1768
 translate ukrainian akane_1_shop_ecf872dc:
@@ -5403,7 +5403,7 @@ translate ukrainian akane_1_shop_627180b0:
 translate ukrainian akane_1_shop_170e82e2:
 
     # ak "What do you mean by that!"
-    ak "І як я маю сприймати це?!"
+    ak "І як я маю сприймати це?!" with vpunch
 
 # game/game/akane_events.rpy:1789
 translate ukrainian akane_1_shop_1f5b224d:
@@ -5439,13 +5439,13 @@ translate ukrainian akane_1_shop_20605810:
 translate ukrainian akane_1_shop_87fe34d8:
 
     # ak "Ha! {w}Too bad, {w}If you had a kitchen, I would have thought about it."
-    ak "Ха! {w}Шкода. {w}Була б у тебе кухня, я, можливо, подумала б про це."
+    ak "Ха! {w}Шкода. {w}Була б у тебе кухня, я, можливо, подумала б про це." with vpunch
 
 # game/game/akane_events.rpy:1797
 translate ukrainian akane_1_shop_fbac53e7:
 
     # mc "Perfect! {w}It's a deal."
-    mc "Ідеально! {w}Домовилися."
+    mc "Ідеально! {w}Домовилися." with hpunch
 
 # game/game/akane_events.rpy:1799
 translate ukrainian akane_1_shop_03c4f931:
@@ -5517,7 +5517,7 @@ translate ukrainian akane_town_46b79df3:
 translate ukrainian akane_town_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:1843
 translate ukrainian akane_town_65e8f930:
@@ -5577,13 +5577,13 @@ translate ukrainian akane_town_2_b1805c96:
 translate ukrainian akane_kitchen_H_48acf997:
 
     # mc "{i}Gahg."
-    mc "{i}Гахг."
+    mc "{i}Гахг." (multiple=2)
 
 # game/game/akane_events.rpy:1881
 translate ukrainian akane_kitchen_H_80c43ac2:
 
     # ak "{size=-6}G-"
-    ak "{size=-6}Г-"
+    ak "{size=-6}Г-" (multiple=2)
 
 # game/game/akane_events.rpy:1882
 translate ukrainian akane_kitchen_H_46b79df3:
@@ -5709,7 +5709,7 @@ translate ukrainian akane_kitchen_H_de512ac8:
 translate ukrainian akane_kitchen_H_875d1305:
 
     # mc "Ok!"
-    mc "Гаразд!"
+    mc "Гаразд!" with vpunch
 
 # game/game/akane_events.rpy:1910
 translate ukrainian akane_kitchen_H_46b79df3_4:
@@ -5739,7 +5739,7 @@ translate ukrainian akane_kitchen_H_0167991f:
 translate ukrainian akane_kitchen_H_e85caec7:
 
     # mc "Now let's go! I can't wait!"
-    mc "Тепер, ходімо! Вже не можу дочекатися!"
+    mc "Тепер, ходімо! Вже не можу дочекатися!" with hpunch
 
 # game/game/akane_events.rpy:1917
 translate ukrainian akane_kitchen_H_69288b07:
@@ -5799,7 +5799,7 @@ translate ukrainian akane_kitchen_H_f407881b:
 translate ukrainian akane_kitchen_H_7f28cdb9:
 
     # ak "So we are alone?"
-    ak "Отже, ми тут самі?"
+    ak "Отже, ми тут самі?" with hpunch
 
 # game/game/akane_events.rpy:1937
 translate ukrainian akane_kitchen_H_f800bed0_1:
@@ -5973,7 +5973,7 @@ translate ukrainian akane_kitchen_H_2056c5d1:
 translate ukrainian akane_kitchen_H_e8a4c436:
 
     # ak "{sc=3}{outlinecolor=#000000}Concentrate on making the fo-"
-    ak "{sc=3}{outlinecolor=#000000}Зосередься на приготува-"
+    ak "{sc=3}{outlinecolor=#000000}Зосередься на приготува-" with hpunch
 
 # game/game/akane_events.rpy:1983
 translate ukrainian akane_kitchen_H_139add91:
@@ -5997,7 +5997,7 @@ translate ukrainian akane_kitchen_H_46b79df3_8:
 translate ukrainian akane_kitchen_H_5ba95e21:
 
     # ak "Haaa!?"
-    ak "Гааа!?"
+    ak "Гааа!?" with vpunch
 
 # game/game/akane_events.rpy:1991
 translate ukrainian akane_kitchen_H_df191536:
@@ -6015,7 +6015,7 @@ translate ukrainian akane_kitchen_H_8b5e620a:
 translate ukrainian akane_kitchen_H_e3b87e57:
 
     # ak "{sc=3}{outlinecolor=#000000}Pig!"
-    ak "{sc=3}{outlinecolor=#000000}Тварина!"
+    ak "{sc=3}{outlinecolor=#000000}Тварина!" with vpunch
 
 # game/game/akane_events.rpy:1994
 translate ukrainian akane_kitchen_H_c83d1f8c:
@@ -6027,7 +6027,7 @@ translate ukrainian akane_kitchen_H_c83d1f8c:
 translate ukrainian akane_kitchen_H_4781f8f2:
 
     # ak "{sc=3}{outlinecolor=#000000}Slime! {w}Worm!"
-    ak "{sc=3}{outlinecolor=#000000}Слимак! {w}Хробак!"
+    ak "{sc=3}{outlinecolor=#000000}Слимак! {w}Хробак!" with hpunch
 
 # game/game/akane_events.rpy:1996
 translate ukrainian akane_kitchen_H_18a181d8:
@@ -6075,7 +6075,7 @@ translate ukrainian akane_kitchen_H_7ddf8ad3:
 translate ukrainian akane_kitchen_H_0001c8d7:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with hpunch
 
 # game/game/akane_events.rpy:2010
 translate ukrainian akane_kitchen_H_ec9f5b9c:
@@ -6099,19 +6099,19 @@ translate ukrainian akane_kitchen_H_eff4eec9:
 translate ukrainian akane_kitchen_H_3e867caa:
 
     # ak "Don't-"
-    ak "Не-"
+    ak "Не-" (multiple=2)
 
 # game/game/akane_events.rpy:2016
 translate ukrainian akane_kitchen_H_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/akane_events.rpy:2023
 translate ukrainian akane_kitchen_H_0574956a:
 
     # ak "{sc=3}{outlinecolor=#000000}Idiot!{/sc} {w=0.5}Why did you grab it?"
-    ak "{sc=3}{outlinecolor=#000000}Бовдур!{/sc} {w=0.5}Навіщо ти схопився за нього?"
+    ak "{sc=3}{outlinecolor=#000000}Бовдур!{/sc} {w=0.5}Навіщо ти схопився за нього?" with hpunch
 
 # game/game/akane_events.rpy:2024
 translate ukrainian akane_kitchen_H_89dfb4fe:
@@ -6237,13 +6237,13 @@ translate ukrainian akane_gal3_546a196a:
 translate ukrainian akane_gal3_33470caa:
 
     # ak "...!?"
-    ak "...!?"
+    ak "...!?" (multiple=2)
 
 # game/game/akane_events.rpy:2054
 translate ukrainian akane_gal3_ff754112:
 
     # mc "Hey."
-    mc "Агов."
+    mc "Агов." (multiple=2)
 
 # game/game/akane_events.rpy:2055
 translate ukrainian akane_gal3_b6f52f7d:
@@ -6591,7 +6591,7 @@ translate ukrainian akane_gal3_f0f47b35:
 translate ukrainian akane_gal3_2db92b5f:
 
     # t "{sc=3}{outlinecolor=#000000}My not-so-holy eyes!"
-    t "{sc=3}{outlinecolor=#000000}Мої далеко не святі очі!"
+    t "{sc=3}{outlinecolor=#000000}Мої далеко не святі очі!" with vpunch
 
 # game/game/akane_events.rpy:2129
 translate ukrainian akane_gal3_ab4f0734:
@@ -6675,7 +6675,7 @@ translate ukrainian akane_gal3_5b4b781d:
 translate ukrainian akane_gal3_ef476f7a:
 
     # ak "{sc=3}{outlinecolor=#000000}H-Haaa?~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Г-Гааа?~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Г-Гааа?~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2149
 translate ukrainian akane_gal3_67da2734:
@@ -6771,7 +6771,7 @@ translate ukrainian akane_gal3_19ce78ca:
 translate ukrainian akane_gal3_1a2c5464:
 
     # ak "B-Because... {size=-6}you{/size}... {w}HGnmn~{image=corazon}{image=corazon} {w}S-Shut up!"
-    ak "Т-Тому що... {size=-6}ти{/size}... {w}{i}ХГнмн~{/i}{image=corazon}{image=corazon} {w}М-Мовчати!"
+    ak "Т-Тому що... {size=-6}ти{/size}... {w}{i}ХГнмн~{/i}{image=corazon}{image=corazon} {w}М-Мовчати!" with cumflash
 
 # game/game/akane_events.rpy:2166
 translate ukrainian akane_gal3_66cb78d3:
@@ -6795,13 +6795,13 @@ translate ukrainian akane_gal3_3f2bf5db:
 translate ukrainian akane_gal3_b695a6d3:
 
     # ak "AAaahh!~{image=corazon}{image=corazon} {w}Gnhnmg~{image=corazon} {w}MnhnN~{image=corazon}{image=corazon}"
-    ak "{i}ААаахх!~{/i}{image=corazon}{image=corazon} {w}{i}Гнхнмг~{/i}{image=corazon} {w}{i}МнхнН~{/i}{image=corazon}{image=corazon}"
+    ak "{i}ААаахх!~{/i}{image=corazon}{image=corazon} {w}{i}Гнхнмг~{/i}{image=corazon} {w}{i}МнхнН~{/i}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:2172
 translate ukrainian akane_gal3_585031be:
 
     # ak "{size=-8}{i}T-This pervert is licking me down t-there like it's the most delicious thing in the world..."
-    ak "{size=-8}{i}Ц-Цей збоченець лиже мене там, ніби це найсмачніша річ у цілому світі..."
+    ak "{size=-8}{i}Ц-Цей збоченець лиже мене там, ніби це найсмачніша річ у цілому світі..." with cumflash
 
 # game/game/akane_events.rpy:2173
 translate ukrainian akane_gal3_b78315a9:
@@ -6831,13 +6831,13 @@ translate ukrainian akane_gal3_553fa6e3:
 translate ukrainian akane_gal3_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/akane_events.rpy:2180
 translate ukrainian akane_gal3_df66b20b:
 
     # ak "{sc=3}{outlinecolor=#000000}...?"
-    ak "{sc=3}{outlinecolor=#000000}...?"
+    ak "{sc=3}{outlinecolor=#000000}...?" (multiple=2)
 
 # game/game/akane_events.rpy:2181
 translate ukrainian akane_gal3_bcd7456c:
@@ -6855,13 +6855,13 @@ translate ukrainian akane_gal3_911d23ab:
 translate ukrainian akane_gal3_c579aa56:
 
     # mc "{size=-8}Hhm..."
-    mc "{size=-8}{i}Ххм...{/i}"
+    mc "{size=-8}{i}Ххм...{/i}" (multiple=2)
 
 # game/game/akane_events.rpy:2186
 translate ukrainian akane_gal3_2e55d272:
 
     # ak "{sc=3}{outlinecolor=#000000}Aaah!~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Ааах!~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Ааах!~{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2187
 translate ukrainian akane_gal3_735c5043:
@@ -6873,7 +6873,7 @@ translate ukrainian akane_gal3_735c5043:
 translate ukrainian akane_gal3_c8b1d96c:
 
     # ak "{size=-6}W-Who do you t-think you are?"
-    ak "{size=-6}К-Ким ти себе у-уявив?"
+    ak "{size=-6}К-Ким ти себе у-уявив?" with cumflash
 
 # game/game/akane_events.rpy:2189
 translate ukrainian akane_gal3_9322524f:
@@ -6885,25 +6885,25 @@ translate ukrainian akane_gal3_9322524f:
 translate ukrainian akane_gal3_d7d151dc:
 
     # ak "{sc=3}{outlinecolor=#000000}A pervnhMng!~~{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}збоченМнг!~~{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}збоченМнг!~~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2193
 translate ukrainian akane_gal3_b1345b5b_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/akane_events.rpy:2194
 translate ukrainian akane_gal3_56c2acf5:
 
     # ak "Ghngm~{image=corazon}{image=corazon} {w}Slurrp~{image=corazon} {w}Aaghnmm~{image=corazon}{image=corazon}"
-    ak "{i}Гхнгм~{/i}{image=corazon}{image=corazon} {w}{i}Сьоорб~{/i}{image=corazon} {w}{i}Аагхнмм~{/i}{image=corazon}{image=corazon}"
+    ak "{i}Гхнгм~{/i}{image=corazon}{image=corazon} {w}{i}Сьоорб~{/i}{image=corazon} {w}{i}Аагхнмм~{/i}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:2195
 translate ukrainian akane_gal3_15b9e525:
 
     # t "S-She is sucking me with all her might!"
-    t "В-Вона смокче з усієї сили!"
+    t "В-Вона смокче з усієї сили!" with cumflash
 
 # game/game/akane_events.rpy:2196
 translate ukrainian akane_gal3_47d944a1:
@@ -6939,25 +6939,25 @@ translate ukrainian akane_gal3_543b5009:
 translate ukrainian akane_gal3_2ecd7cac:
 
     # ak "{sc=3}{outlinecolor=#000000}HanmHN!~{image=corazon} {w}{i}{size=-6}this pervert's tongue is going very d-deep...{/i}{/size} Aaaahn~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}{i}ХанмХН!~{/i}{image=corazon} {w}{i}{size=-6}Цей збочений язичок залазить\nнадто глибоко...{/i}{/size} {i}Аааахн~{/i}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}{i}ХанмХН!~{/i}{image=corazon} {w}{i}{size=-6}Цей збочений язичок залазить\nнадто глибоко...{/i}{/size} {i}Аааахн~{/i}{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:2203
 translate ukrainian akane_gal3_ad46dc70:
 
     # ak "{sc=3}{outlinecolor=#000000}Aaahnm!~{/sc}{image=corazon}{image=corazon}{image=corazon} {w}He is sucking my cl-"
-    ak "{sc=3}{outlinecolor=#000000}{i}Ааахнм!~{/i}{/sc}{image=corazon}{image=corazon}{image=corazon} {w}Він облизує мій клі-"
+    ak "{sc=3}{outlinecolor=#000000}{i}Ааахнм!~{/i}{/sc}{image=corazon}{image=corazon}{image=corazon} {w}Він облизує мій клі-" with cumflash
 
 # game/game/akane_events.rpy:2204
 translate ukrainian akane_gal3_9766bda2:
 
     # ak "Know your place! Stubborn pervert!"
-    ak "Знай своє місце! Впертий збоченець!"
+    ak "Знай своє місце! Впертий збоченець!" with vpunch
 
 # game/game/akane_events.rpy:2205
 translate ukrainian akane_gal3_ac32b859:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnh!"
-    mc "{sc=3}{outlinecolor=#000000}{i}Гнх!{/i}"
+    mc "{sc=3}{outlinecolor=#000000}{i}Гнх!{/i}" with cumflash
 
 # game/game/akane_events.rpy:2206
 translate ukrainian akane_gal3_240fb4ae:
@@ -6975,7 +6975,7 @@ translate ukrainian akane_gal3_a6866c11:
 translate ukrainian akane_gal3_45e07280:
 
     # mc "I-I'm going to c-!"
-    mc "Я-Я зараз кі-!"
+    mc "Я-Я зараз кі-!" with hpunch
 
 # game/game/akane_events.rpy:2212
 translate ukrainian akane_gal3_1016b23b:
@@ -7149,19 +7149,19 @@ translate ukrainian akane_gal3_5b048426:
 translate ukrainian akane_gal3_f8d008c1:
 
     # ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}Aaahh... It is inside."
-    ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}Ааахх... Він усередині."
+    ak "{sc=3}{outlinecolor=#000000}{size=-8}{i}Ааахх... Він усередині." (multiple=2)
 
 # game/game/akane_events.rpy:2250
 translate ukrainian akane_gal3_43fbf04e:
 
     # mc "Ghng!"
-    mc "{i}Гхнг!{/i}"
+    mc "{i}Гхнг!{/i}" (multiple=2)
 
 # game/game/akane_events.rpy:2251
 translate ukrainian akane_gal3_08389534:
 
     # t "Akane's pussy is contracting a lot!"
-    t "Кицька Акане постійно стискається!"
+    t "Кицька Акане постійно стискається!" with vpunch
 
 # game/game/akane_events.rpy:2252
 translate ukrainian akane_gal3_3dbf0a02:
@@ -7197,7 +7197,7 @@ translate ukrainian akane_gal3_47ca7633:
 translate ukrainian akane_gal3_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:2261
 translate ukrainian akane_gal3_7129b493:
@@ -7239,7 +7239,7 @@ translate ukrainian akane_gal3_805d922c:
 translate ukrainian akane_gal3_cd7247b3:
 
     # mc "D-Did you... {w}say s-something...?"
-    mc "Т-Ти щось... {w}с-сказала...?"
+    mc "Т-Ти щось... {w}с-сказала...?" with cumflash
 
 # game/game/akane_events.rpy:2269
 translate ukrainian akane_gal3_354b1eb7:
@@ -7293,7 +7293,7 @@ translate ukrainian akane_gal3_588abc4c:
 translate ukrainian akane_gal3_f4e8570d:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghnm!"
-    mc "{sc=2}{outlinecolor=#000000}{i}Кхнм!{/i}"
+    mc "{sc=2}{outlinecolor=#000000}{i}Кхнм!{/i}" with cumflash
 
 # game/game/akane_events.rpy:2280
 translate ukrainian akane_gal3_54273511:
@@ -7329,13 +7329,13 @@ translate ukrainian akane_gal3_057627d4:
 translate ukrainian akane_gal3_450606dc:
 
     # ak "{sc=2}{outlinecolor=#000000}{size=-6}M-MNGHhngm!~{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}М-МНГХхнгм!~{/i}{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}{i}М-МНГХхнгм!~{/i}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2288
 translate ukrainian akane_gal3_a71751c6:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghnmn!"
-    mc "{sc=2}{outlinecolor=#000000}{i}Гхнмн!{/i}"
+    mc "{sc=2}{outlinecolor=#000000}{i}Гхнмн!{/i}" (multiple=2)
 
 # game/game/akane_events.rpy:2289
 translate ukrainian akane_gal3_af11f963:
@@ -7359,7 +7359,7 @@ translate ukrainian akane_gal3_91c16cbc:
 translate ukrainian akane_gal3_7e47518d:
 
     # ak "Y-You wish you could be... {w}Nnghmgn~{image=corazon}{image=corazon} {w}c-capable of that..."
-    ak "М-Мрій далі... {w}{i}Ннгхмгн~{/i}{image=corazon}{image=corazon} {w}ніби ти на таке з-здатен..."
+    ak "М-Мрій далі... {w}{i}Ннгхмгн~{/i}{image=corazon}{image=corazon} {w}ніби ти на таке з-здатен..." with vpunch
 
 # game/game/akane_events.rpy:2293
 translate ukrainian akane_gal3_03327a14:
@@ -7377,7 +7377,7 @@ translate ukrainian akane_gal3_3473c7b1:
 translate ukrainian akane_gal3_5f7f8176:
 
     # ak "{sc=2}{outlinecolor=#000000}W-What the hell are you saying p-pervert!~~{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}Щ-Що ти в біса кажеш, з-збоченцю?!~~{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}Щ-Що ти в біса кажеш, з-збоченцю?!~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2296
 translate ukrainian akane_gal3_5d06e209:
@@ -7395,7 +7395,7 @@ translate ukrainian akane_gal3_55cf4438:
 translate ukrainian akane_gal3_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:2300
 translate ukrainian akane_gal3_53973c15:
@@ -7407,7 +7407,7 @@ translate ukrainian akane_gal3_53973c15:
 translate ukrainian akane_gal3_668bfc09:
 
     # ak "Hghmnm~{image=corazon}{image=corazon} {w}AaaaAhnm~{image=corazon} {w}GNhnmh~{image=corazon}"
-    ak "{i}Хгхмнм~{/i}{image=corazon}{image=corazon} {w}{i}АаааАхнм~{/i}{image=corazon} {w}{i}ГНхнмх~{/i}{image=corazon}"
+    ak "{i}Хгхмнм~{/i}{image=corazon}{image=corazon} {w}{i}АаааАхнм~{/i}{image=corazon} {w}{i}ГНхнмх~{/i}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2302
 translate ukrainian akane_gal3_c9c2f78c:
@@ -7425,19 +7425,19 @@ translate ukrainian akane_gal3_62a8334f:
 translate ukrainian akane_gal3_de87759c:
 
     # ak "A-And it is obvious that you will! {w}{sc=2}{outlinecolor=#000000}Haaanmn~{image=corazon}{image=corazon}{/sc} {w}I d-didn't give you permission to move!"
-    ak "О-Очевидно ж, що ти це зробиш! {w}{sc=2}{outlinecolor=#000000}{i}Хааанмн~{/i}{image=corazon}{image=corazon}{/sc}\n{w}Я тобі н-не дозволяла рухатися!"
+    ak "О-Очевидно ж, що ти це зробиш! {w}{sc=2}{outlinecolor=#000000}{i}Хааанмн~{/i}{image=corazon}{image=corazon}{/sc}\n{w}Я тобі н-не дозволяла рухатися!" with hpunch
 
 # game/game/akane_events.rpy:2305
 translate ukrainian akane_gal3_0ae216c1:
 
     # mc "It f-feels too good, {w}I can't help it, I want to get deep inside your pussy!"
-    mc "Це з-занадто приємно. {w}Не можу нічого вдіяти, я хочу дістати якомога глибше твоєї кицьки!"
+    mc "Це з-занадто приємно. {w}Не можу нічого вдіяти, я хочу дістати якомога глибше твоєї кицьки!" with cumflash
 
 # game/game/akane_events.rpy:2306
 translate ukrainian akane_gal3_2f90f97d:
 
     # ak "HNmhnhn~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}HMnGnm~{image=corazon}"
-    ak "{i}ХНмнхнхн{/i}~{image=corazon} {w}{i}Аахнм~{/i}{image=corazon}{image=corazon} {w}{i}ХМнГнм~{/i}{image=corazon}"
+    ak "{i}ХНмнхнхн{/i}~{image=corazon} {w}{i}Аахнм~{/i}{image=corazon}{image=corazon} {w}{i}ХМнГнм~{/i}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2307
 translate ukrainian akane_gal3_6c84ccd7:
@@ -7473,7 +7473,7 @@ translate ukrainian akane_gal3_708d05b8:
 translate ukrainian akane_gal3_d056500d:
 
     # mc "A-Akane!"
-    mc "А-Акане!"
+    mc "А-Акане!" with vpunch
 
 # game/game/akane_events.rpy:2317
 translate ukrainian akane_gal3_5cf78320:
@@ -7485,19 +7485,19 @@ translate ukrainian akane_gal3_5cf78320:
 translate ukrainian akane_gal3_e7980f5f:
 
     # mc "Gnhm!{w=0.5}{nw}"
-    mc "{i}Гнхм!{/i}{w=0.5}{nw}"
+    mc "{i}Гнхм!{/i}{w=0.5}{nw}" with hpunch
 
 # game/game/akane_events.rpy:2323
 translate ukrainian akane_gal3_f77e6799:
 
     # ak "{sc=3}{outlinecolor=#000000}{i}Uuuogghngmnm~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}{i}Уууоггхнгмнм~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}{i}Уууоггхнгмнм~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2324
 translate ukrainian akane_gal3_c9bdeded:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnhnm!"
-    mc "{sc=3}{outlinecolor=#000000}{i}Гнхнм!{/i}"
+    mc "{sc=3}{outlinecolor=#000000}{i}Гнхнм!{/i}" (multiple=2)
 
 # game/game/akane_events.rpy:2327
 translate ukrainian akane_gal3_69a0c39a:
@@ -7569,7 +7569,7 @@ translate ukrainian akane_gal3_46b79df3_1:
 translate ukrainian akane_gal3_7f6baba0:
 
     # ak "{sc=2}{outlinecolor=#000000}Haaa?!"
-    ak "{sc=2}{outlinecolor=#000000}Гааа?!"
+    ak "{sc=2}{outlinecolor=#000000}Гааа?!" with vpunch
 
 # game/game/akane_events.rpy:2344
 translate ukrainian akane_gal3_be371c4e:
@@ -7587,7 +7587,7 @@ translate ukrainian akane_gal3_b10ee80f:
 translate ukrainian akane_gal3_abaea5ca:
 
     # ak "{sc=1}{outlinecolor=#000000}Silence!"
-    ak "{sc=1}{outlinecolor=#000000}Мовчати!"
+    ak "{sc=1}{outlinecolor=#000000}Мовчати!" with hpunch
 
 # game/game/akane_events.rpy:2357
 translate ukrainian akane_gal3_ca0b4da8:
@@ -7605,7 +7605,7 @@ translate ukrainian akane_gal3_753fa76c:
 translate ukrainian akane_gal3_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:2364
 translate ukrainian akane_gal3_0676eed3:
@@ -7665,7 +7665,7 @@ translate ukrainian akane_gal3_d2951383:
 translate ukrainian akane_gal3_9e3bd4f6:
 
     # mc "No, wait!"
-    mc "Ні, зачекай!"
+    mc "Ні, зачекай!" with hpunch
 
 # game/game/akane_events.rpy:2387
 translate ukrainian akane_gal3_4af2c8f4:
@@ -7707,7 +7707,7 @@ translate ukrainian akane_gal3_46b79df3_2:
 translate ukrainian akane_gal3_33725511:
 
     # mc "I have never eaten anything so delicious!"
-    mc "Я ще ніколи не їв чогось настільки смачного!"
+    mc "Я ще ніколи не їв чогось настільки смачного!" with hpunch
 
 # game/game/akane_events.rpy:2396
 translate ukrainian akane_gal3_f510aea6:
@@ -7719,7 +7719,7 @@ translate ukrainian akane_gal3_f510aea6:
 translate ukrainian akane_gal3_aaea57b3:
 
     # ak "{sc=2}{outlinecolor=#000000}Ahem*"
-    ak "{sc=2}{outlinecolor=#000000}{i}*Кхем*{/i}"
+    ak "{sc=2}{outlinecolor=#000000}{i}*Кхем*{/i}" with vpunch
 
 # game/game/akane_events.rpy:2399
 translate ukrainian akane_gal3_a62908d5:
@@ -7785,7 +7785,7 @@ translate ukrainian akane_gal3_46b79df3_4:
 translate ukrainian akane_gal3_b553fe3c:
 
     # ak "Ha!"
-    ak "Ха!"
+    ak "Ха!" with hpunch
 
 # game/game/akane_events.rpy:2412
 translate ukrainian akane_gal3_5a60015e:
@@ -7803,13 +7803,13 @@ translate ukrainian akane_gal3_eaec64d4:
 translate ukrainian akane_gal3_4d2298b2:
 
     # ak "N-No, {w=0.5}I mean-"
-    ak "Н-Ні, {w=0.5}тобто-"
+    ak "Н-Ні, {w=0.5}тобто-" with hpunch
 
 # game/game/akane_events.rpy:2416
 translate ukrainian akane_gal3_9a7fa458:
 
     # mc "It's a deal then!"
-    mc "Тоді домовилися!"
+    mc "Тоді домовилися!" with vpunch
 
 # game/game/akane_events.rpy:2417
 translate ukrainian akane_gal3_52f74dd7:
@@ -7887,7 +7887,7 @@ translate ukrainian akane_H_rep_1ea01ce5:
 translate ukrainian akane_H_rep_7795078d:
 
     # ak "{size=-6}You know what I mean...!"
-    ak "{size=-6}You know what I mean...!"
+    ak "{size=-6}You know what I mean...!" with vpunch
 
 # game/game/akane_events.rpy:2453
 translate ukrainian akane_H_rep_68645e29:
@@ -7989,7 +7989,7 @@ translate ukrainian akane_H_rep_299bff05:
 translate ukrainian akane_H_rep_421edf97:
 
     # ak "Pervert!"
-    ak "Pervert!"
+    ak "Pervert!" with hpunch
 
 # game/game/akane_events.rpy:2483
 translate ukrainian akane_H_rep_8fea2db2:
@@ -8067,7 +8067,7 @@ translate ukrainian akane_H_rep_0ee81933:
 translate ukrainian akane_H_rep_4f05896c:
 
     # ak "{sc=2}{outlinecolor=#000000}Y-You!~{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}Y-You!~{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}Y-You!~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2504
 translate ukrainian akane_H_rep_42eeb121:
@@ -8103,7 +8103,7 @@ translate ukrainian akane_H_rep_00024710:
 translate ukrainian akane_H_rep_1941a3b2:
 
     # ak "I didn't ask you!"
-    ak "I didn't ask you!"
+    ak "I didn't ask you!" with cumflash
 
 # game/game/akane_events.rpy:2510
 translate ukrainian akane_H_rep_7d12fa9a:
@@ -8133,7 +8133,7 @@ translate ukrainian akane_H_rep_2777c218:
 translate ukrainian akane_H_rep_bd9d5f1c:
 
     # ak "S-Shut up! {w}Ghnmg~{image=corazon}{image=corazon} {w}Aahnmn~{image=corazon}"
-    ak "S-Shut up! {w}Ghnmg~{image=corazon}{image=corazon} {w}Aahnmn~{image=corazon}"
+    ak "S-Shut up! {w}Ghnmg~{image=corazon}{image=corazon} {w}Aahnmn~{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:2517
 translate ukrainian akane_H_rep_123bd3bb:
@@ -8211,13 +8211,13 @@ translate ukrainian akane_H_rep_292178f6:
 translate ukrainian akane_H_rep_c579aa56:
 
     # mc "{size=-8}Hhm..."
-    mc "{size=-8}Hhm..."
+    mc "{size=-8}Hhm..." (multiple=2)
 
 # game/game/akane_events.rpy:2534
 translate ukrainian akane_H_rep_2e55d272:
 
     # ak "{sc=3}{outlinecolor=#000000}Aaah!~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Aaah!~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Aaah!~{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2535
 translate ukrainian akane_H_rep_f8245367:
@@ -8235,19 +8235,19 @@ translate ukrainian akane_H_rep_48246537:
 translate ukrainian akane_H_rep_dd3df26a:
 
     # ak "{sc=3}{outlinecolor=#000000}HGNhmp!~~{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}HGNhmp!~~{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}HGNhmp!~~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2540
 translate ukrainian akane_H_rep_65004f83:
 
     # mc "Ghn!"
-    mc "Ghn!"
+    mc "Ghn!" (multiple=2)
 
 # game/game/akane_events.rpy:2541
 translate ukrainian akane_H_rep_56c2acf5:
 
     # ak "Ghngm~{image=corazon}{image=corazon} {w}Slurrp~{image=corazon} {w}Aaghnmm~{image=corazon}{image=corazon}"
-    ak "Ghngm~{image=corazon}{image=corazon} {w}Slurrp~{image=corazon} {w}Aaghnmm~{image=corazon}{image=corazon}"
+    ak "Ghngm~{image=corazon}{image=corazon} {w}Slurrp~{image=corazon} {w}Aaghnmm~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:2542
 translate ukrainian akane_H_rep_cec65d34:
@@ -8259,7 +8259,7 @@ translate ukrainian akane_H_rep_cec65d34:
 translate ukrainian akane_H_rep_4b9badd5:
 
     # mc "Y-You don't have to d-do it so fast."
-    mc "Y-You don't have to d-do it so fast."
+    mc "Y-You don't have to d-do it so fast." with cumflash
 
 # game/game/akane_events.rpy:2544
 translate ukrainian akane_H_rep_42020953:
@@ -8283,19 +8283,19 @@ translate ukrainian akane_H_rep_c5fadb58:
 translate ukrainian akane_H_rep_f99d4741:
 
     # ak "{sc=3}{outlinecolor=#000000}HanmHN!~{image=corazon} {w}{i}{size=-6}S-Sticking your perverted t-tongue in again....{/i}{/size} Aaaahn~{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}HanmHN!~{image=corazon} {w}{i}{size=-6}S-Sticking your perverted t-tongue in again....{/i}{/size} Aaaahn~{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}HanmHN!~{image=corazon} {w}{i}{size=-6}S-Sticking your perverted t-tongue in again....{/i}{/size} Aaaahn~{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:2549
 translate ukrainian akane_H_rep_ab1e359e:
 
     # ak "{sc=3}{outlinecolor=#000000}Aaahnm!~{/sc}{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Aaahnm!~{/sc}{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Aaahnm!~{/sc}{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2550
 translate ukrainian akane_H_rep_77e9f244:
 
     # ak "{i}{size=-6}He tries to attack my weak points as soon as he notices he is losing!"
-    ak "{i}{size=-6}He tries to attack my weak points as soon as he notices he is losing!"
+    ak "{i}{size=-6}He tries to attack my weak points as soon as he notices he is losing!" with vpunch
 
 # game/game/akane_events.rpy:2551
 translate ukrainian akane_H_rep_3e1a424d:
@@ -8307,7 +8307,7 @@ translate ukrainian akane_H_rep_3e1a424d:
 translate ukrainian akane_H_rep_ac32b859:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnh!"
-    mc "{sc=3}{outlinecolor=#000000}Gnh!"
+    mc "{sc=3}{outlinecolor=#000000}Gnh!" with cumflash
 
 # game/game/akane_events.rpy:2553
 translate ukrainian akane_H_rep_240fb4ae:
@@ -8325,7 +8325,7 @@ translate ukrainian akane_H_rep_a6866c11:
 translate ukrainian akane_H_rep_45e07280:
 
     # mc "I-I'm going to c-!"
-    mc "I-I'm going to c-!"
+    mc "I-I'm going to c-!" with hpunch
 
 # game/game/akane_events.rpy:2559
 translate ukrainian akane_H_rep_1016b23b:
@@ -8415,7 +8415,7 @@ translate ukrainian akane_H_rep_0f27eaf7:
 translate ukrainian akane_H_rep_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:2580
 translate ukrainian akane_H_rep_a7a14cee:
@@ -8451,7 +8451,7 @@ translate ukrainian akane_H_rep_44379402:
 translate ukrainian akane_H_rep_91b46135:
 
     # mc "If I don't concentrate... {w}I'm g-going to cum..."
-    mc "If I don't concentrate... {w}I'm g-going to cum..."
+    mc "If I don't concentrate... {w}I'm g-going to cum..." with cumflash
 
 # game/game/akane_events.rpy:2587
 translate ukrainian akane_H_rep_36afe159:
@@ -8463,7 +8463,7 @@ translate ukrainian akane_H_rep_36afe159:
 translate ukrainian akane_H_rep_71ed6750:
 
     # ak "Ghnmn~{image=corazon}{image=corazon} {w}Y-You can do nothing but watch~{image=corazon}"
-    ak "Ghnmn~{image=corazon}{image=corazon} {w}Y-You can do nothing but watch~{image=corazon}"
+    ak "Ghnmn~{image=corazon}{image=corazon} {w}Y-You can do nothing but watch~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2589
 translate ukrainian akane_H_rep_2784493a:
@@ -8475,13 +8475,13 @@ translate ukrainian akane_H_rep_2784493a:
 translate ukrainian akane_H_rep_d6e657cd:
 
     # mc "Gnhmg!"
-    mc "Gnhmg!"
+    mc "Gnhmg!" with cumflash
 
 # game/game/akane_events.rpy:2593
 translate ukrainian akane_H_rep_e5c346f6:
 
     # mc "{sc=2}{outlinecolor=#000000}A-Akane!"
-    mc "{sc=2}{outlinecolor=#000000}A-Akane!"
+    mc "{sc=2}{outlinecolor=#000000}A-Akane!" with cumflash
 
 # game/game/akane_events.rpy:2594
 translate ukrainian akane_H_rep_57798c54:
@@ -8547,13 +8547,13 @@ translate ukrainian akane_H_rep_7d3da6d7:
 translate ukrainian akane_H_rep_7c9bd57d:
 
     # ak "{sc=2}{outlinecolor=#000000}{size=-6}NHmhhnngh!~{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}{size=-6}NHmhhnngh!~{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{size=-6}NHmhhnngh!~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2607
 translate ukrainian akane_H_rep_a71751c6:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghnmn!"
-    mc "{sc=2}{outlinecolor=#000000}Ghnmn!"
+    mc "{sc=2}{outlinecolor=#000000}Ghnmn!" (multiple=2)
 
 # game/game/akane_events.rpy:2608
 translate ukrainian akane_H_rep_af11f963:
@@ -8571,7 +8571,7 @@ translate ukrainian akane_H_rep_f2121907:
 translate ukrainian akane_H_rep_407db3ee:
 
     # ak "No! {w}HNgmnh~{image=corazon}{image=corazon}"
-    ak "No! {w}HNgmnh~{image=corazon}{image=corazon}"
+    ak "No! {w}HNgmnh~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:2611
 translate ukrainian akane_H_rep_321d0b09:
@@ -8583,19 +8583,19 @@ translate ukrainian akane_H_rep_321d0b09:
 translate ukrainian akane_H_rep_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:2614
 translate ukrainian akane_H_rep_f11e6c73:
 
     # ak "Look! {w}Hnhmnn~{image=corazon}{image=corazon} {w}This is what you wanted?!..."
-    ak "Look! {w}Hnhmnn~{image=corazon}{image=corazon} {w}This is what you wanted?!..."
+    ak "Look! {w}Hnhmnn~{image=corazon}{image=corazon} {w}This is what you wanted?!..." with vpunch
 
 # game/game/akane_events.rpy:2615
 translate ukrainian akane_H_rep_b7fcb4a3:
 
     # ak "Hghmnm~{image=corazon}{image=corazon} {w}You are nothing but a pervert~{image=corazon} {w}GNhnmh~{image=corazon}"
-    ak "Hghmnm~{image=corazon}{image=corazon} {w}You are nothing but a pervert~{image=corazon} {w}GNhnmh~{image=corazon}"
+    ak "Hghmnm~{image=corazon}{image=corazon} {w}You are nothing but a pervert~{image=corazon} {w}GNhnmh~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2616
 translate ukrainian akane_H_rep_980af4e9:
@@ -8613,7 +8613,7 @@ translate ukrainian akane_H_rep_e13d7904:
 translate ukrainian akane_H_rep_ebbab085:
 
     # ak "You were asking so much for me to put it all in... {w}NHhgmn~{image=corazon}{image=corazon} {w}h-here you have your wish fulfilled~{image=corazon}"
-    ak "You were asking so much for me to put it all in... {w}NHhgmn~{image=corazon}{image=corazon} {w}h-here you have your wish fulfilled~{image=corazon}"
+    ak "You were asking so much for me to put it all in... {w}NHhgmn~{image=corazon}{image=corazon} {w}h-here you have your wish fulfilled~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:2619
 translate ukrainian akane_H_rep_d531df20:
@@ -8643,7 +8643,7 @@ translate ukrainian akane_H_rep_2f985f32:
 translate ukrainian akane_H_rep_d056500d:
 
     # mc "A-Akane!"
-    mc "A-Akane!"
+    mc "A-Akane!" with vpunch
 
 # game/game/akane_events.rpy:2627
 translate ukrainian akane_H_rep_0e8f2a3a:
@@ -8655,19 +8655,19 @@ translate ukrainian akane_H_rep_0e8f2a3a:
 translate ukrainian akane_H_rep_e7980f5f:
 
     # mc "Gnhm!{w=0.5}{nw}"
-    mc "Gnhm!{w=0.5}{nw}"
+    mc "Gnhm!{w=0.5}{nw}" with hpunch
 
 # game/game/akane_events.rpy:2633
 translate ukrainian akane_H_rep_f77e6799:
 
     # ak "{sc=3}{outlinecolor=#000000}{i}Uuuogghngmnm~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}{i}Uuuogghngmnm~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}{i}Uuuogghngmnm~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/akane_events.rpy:2634
 translate ukrainian akane_H_rep_c9bdeded:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnhnm!"
-    mc "{sc=3}{outlinecolor=#000000}Gnhnm!"
+    mc "{sc=3}{outlinecolor=#000000}Gnhnm!" (multiple=2)
 
 # game/game/akane_events.rpy:2637
 translate ukrainian akane_H_rep_e5d8f5ae:
@@ -8697,7 +8697,7 @@ translate ukrainian akane_H_rep_6573975f:
 translate ukrainian akane_H_rep_b16d5bf9:
 
     # ak "S-Silence! {w}Don't make me throw away the food again..."
-    ak "S-Silence! {w}Don't make me throw away the food again..."
+    ak "S-Silence! {w}Don't make me throw away the food again..." with vpunch
 
 # game/game/akane_events.rpy:2643
 translate ukrainian akane_H_rep_ad38e27d:
@@ -8745,7 +8745,7 @@ translate ukrainian aka_room_event_b558e740:
 translate ukrainian aka_room_event_fc8d9872:
 
     # ak "{size=-10}Shut up pervert! {w}They're all watching us!"
-    ak "{size=-10}Shut up pervert! {w}They're all watching us!"
+    ak "{size=-10}Shut up pervert! {w}They're all watching us!" with vpunch
 
 # game/game/akane_events.rpy:2669
 translate ukrainian aka_room_event_eb8296fa:
@@ -8793,7 +8793,7 @@ translate ukrainian aka_room_event_965e5e28:
 translate ukrainian aka_room_event_9542ee88:
 
     # v "{size=-5}Kya!! {w}It looks like he's going to kiss her!"
-    v "{size=-5}Kya!! {w}It looks like he's going to kiss her!"
+    v "{size=-5}Kya!! {w}It looks like he's going to kiss her!" with hpunch
 
 # game/game/akane_events.rpy:2681
 translate ukrainian aka_room_event_39b927c6:
@@ -9009,7 +9009,7 @@ translate ukrainian aka_room_event_bac4fd4f:
 translate ukrainian aka_room_event_650783d2:
 
     # r "Yes!"
-    r "Yes!"
+    r "Yes!" with vpunch
 
 # game/game/akane_events.rpy:2747
 translate ukrainian aka_room_event_aff11410:
@@ -9267,7 +9267,7 @@ translate ukrainian aka_room_event_704ebef7:
 translate ukrainian aka_room_event_6a2418d6:
 
     # ak "You wish!"
-    ak "You wish!"
+    ak "You wish!" with vpunch
 
 # game/game/akane_events.rpy:2819
 translate ukrainian aka_room_event_552cb204:
@@ -9363,7 +9363,7 @@ translate ukrainian akane_eventuno_e59cf96b:
 translate ukrainian akane_eventuno_74602bc9:
 
     # ak "W-What?"
-    ak "W-What?"
+    ak "W-What?" with vpunch
 
 # game/game/akane_events.rpy:2865
 translate ukrainian akane_eventuno_79a69e2f:
@@ -9411,7 +9411,7 @@ translate ukrainian akane_eventuno_38024f5f:
 translate ukrainian akane_eventuno_850a15c4:
 
     # ak "D-Do-Dooon't move, {w}pervert!"
-    ak "D-Do-Dooon't move, {w}pervert!"
+    ak "D-Do-Dooon't move, {w}pervert!" with vpunch
 
 # game/game/akane_events.rpy:2879
 translate ukrainian akane_eventuno_5e3dfc41:
@@ -9483,7 +9483,7 @@ translate ukrainian akane_eventuno_db0066d3:
 translate ukrainian akane_eventuno_e64d759b:
 
     # ak "No pervert! {w}I have a towel!"
-    ak "No pervert! {w}I have a towel!"
+    ak "No pervert! {w}I have a towel!" with vpunch
 
 # game/game/akane_events.rpy:2895
 translate ukrainian akane_eventuno_c1dff962:
@@ -9525,7 +9525,7 @@ translate ukrainian akane_eventuno_9447a347:
 translate ukrainian akane_eventuno_341cf88b:
 
     # mc "Wait!"
-    mc "Wait!"
+    mc "Wait!" with vpunch
 
 # game/game/akane_events.rpy:2905
 translate ukrainian akane_eventuno_237eaa04:
@@ -9543,13 +9543,13 @@ translate ukrainian akane_eventuno_d2ac8014:
 translate ukrainian akane_eventuno_7709554e:
 
     # mc "I'll leave right away!"
-    mc "I'll leave right away!"
+    mc "I'll leave right away!" with vpunch
 
 # game/game/akane_events.rpy:2909
 translate ukrainian akane_eventuno_062b1f35:
 
     # ak "Stop! You pervert!"
-    ak "Stop! You pervert!"
+    ak "Stop! You pervert!" with hpunch
 
 # game/game/akane_events.rpy:2911
 translate ukrainian akane_eventuno_fd6dac5b:
@@ -9573,13 +9573,13 @@ translate ukrainian akane_eventuno_26fb4315:
 translate ukrainian akane_eventuno_fc5decda:
 
     # mc "Akane! {w}I didn't know what it was until now!!"
-    mc "Akane! {w}I didn't know what it was until now!!"
+    mc "Akane! {w}I didn't know what it was until now!!" with hpunch
 
 # game/game/akane_events.rpy:2920
 translate ukrainian akane_eventuno_1e7e266e:
 
     # mc "This thing was on the table throbbing and glowing for me to take!!"
-    mc "This thing was on the table throbbing and glowing for me to take!!"
+    mc "This thing was on the table throbbing and glowing for me to take!!" with vpunch
 
 # game/game/akane_events.rpy:2922
 translate ukrainian akane_eventuno_a44fabf5:
@@ -9591,13 +9591,13 @@ translate ukrainian akane_eventuno_a44fabf5:
 translate ukrainian akane_eventuno_aa29ab34:
 
     # mc "AGH!"
-    mc "AGH!"
+    mc "AGH!" with hpunch
 
 # game/game/akane_events.rpy:2930
 translate ukrainian akane_eventuno_de61d72d:
 
     # ak "I'm going to leave your ass glowing and throbbing!"
-    ak "I'm going to leave your ass glowing and throbbing!"
+    ak "I'm going to leave your ass glowing and throbbing!" with vpunch
 
 # game/game/akane_events.rpy:2938
 translate ukrainian akane_eventuno_b426d14b:
@@ -9621,13 +9621,13 @@ translate ukrainian akane_eventuno_2e484c9a:
 translate ukrainian akane_eventuno_91f4a298:
 
     # r "Master!?"
-    r "Master!?"
+    r "Master!?" with vpunch
 
 # game/game/akane_events.rpy:2946
 translate ukrainian akane_eventuno_5f10181a:
 
     # r "Are you okay!?"
-    r "Are you okay!?"
+    r "Are you okay!?" with hpunch
 
 # game/game/akane_events.rpy:2947
 translate ukrainian akane_eventuno_bbc68ad6:
@@ -9837,7 +9837,7 @@ translate ukrainian akane_eventuno_25c3067b:
 translate ukrainian akane_eventuno_e576f97d:
 
     # ak "DO {w}you understand?"
-    ak "DO {w}you understand?"
+    ak "DO {w}you understand?" with vpunch
 
 # game/game/akane_events.rpy:3007
 translate ukrainian akane_eventuno_f800bed0:
@@ -9969,7 +9969,7 @@ translate ukrainian akane_eventuno_1fa10bb7:
 translate ukrainian akane_eventuno_5a7ad150:
 
     # ak "Stop making that stupid face!"
-    ak "Stop making that stupid face!"
+    ak "Stop making that stupid face!" with vpunch
 
 # game/game/akane_events.rpy:3042
 translate ukrainian akane_eventuno_a32cefc2:
@@ -9981,7 +9981,7 @@ translate ukrainian akane_eventuno_a32cefc2:
 translate ukrainian akane_eventuno_46ff7f63:
 
     # ak "No! {w}Now go away!"
-    ak "No! {w}Now go away!"
+    ak "No! {w}Now go away!" with vpunch
 
 # game/game/akane_events.rpy:3045
 translate ukrainian akane_eventuno_8699c681:
@@ -10065,7 +10065,7 @@ translate ukrainian akane_eventdos_b1a536c2:
 translate ukrainian akane_eventdos_e4410b61:
 
     # t "Ghnm, {w}m-my heart."
-    t "Ghnm, {w}m-my heart."
+    t "Ghnm, {w}m-my heart." with vpunch
 
 # game/game/akane_events.rpy:3087
 translate ukrainian akane_eventdos_50354adc:
@@ -10173,7 +10173,7 @@ translate ukrainian akane_eventdos_163def21:
 translate ukrainian akane_eventdos_fa502ae4:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with vpunch
 
 # game/game/akane_events.rpy:3120
 translate ukrainian akane_eventdos_b15a4293:
@@ -10203,7 +10203,7 @@ translate ukrainian akane_eventdos_d40eb808:
 translate ukrainian akane_eventdos_44e6c895:
 
     # mc "Don't put weird ideas in her head!"
-    mc "Don't put weird ideas in her head!"
+    mc "Don't put weird ideas in her head!" with hpunch
 
 # game/game/akane_events.rpy:3126
 translate ukrainian akane_eventdos_e4be6021:
@@ -10305,13 +10305,13 @@ translate ukrainian akane_eventdos_79f08707_1:
 translate ukrainian akane_eventdos_43700867:
 
     # ak "Ok! Ok! {w}He can stay!"
-    ak "Ok! Ok! {w}He can stay!"
+    ak "Ok! Ok! {w}He can stay!" with vpunch
 
 # game/game/akane_events.rpy:3151
 translate ukrainian akane_eventdos_1d5658c3:
 
     # r "Yay!"
-    r "Yay!"
+    r "Yay!" with vpunch
 
 # game/game/akane_events.rpy:3152
 translate ukrainian akane_eventdos_afee9f1c:
@@ -10371,7 +10371,7 @@ translate ukrainian akane_eventdos_4b8ccb2b:
 translate ukrainian akane_eventdos_650783d2:
 
     # r "Yes!"
-    r "Yes!"
+    r "Yes!" with vpunch
 
 # game/game/akane_events.rpy:3171
 translate ukrainian akane_eventdos_ad7b2ea2:
@@ -10485,13 +10485,13 @@ translate ukrainian akane_eventdos_46b79df3_2:
 translate ukrainian akane_eventdos_16f44aec:
 
     # ak "Haaaa!??"
-    ak "Haaaa!??"
+    ak "Haaaa!??" with vpunch
 
 # game/game/akane_events.rpy:3204
 translate ukrainian akane_eventdos_1d1bfc47:
 
     # ak "It's the first thing you think of as soon as we are alone!?"
-    ak "It's the first thing you think of as soon as we are alone!?"
+    ak "It's the first thing you think of as soon as we are alone!?" with vpunch
 
 # game/game/akane_events.rpy:3205
 translate ukrainian akane_eventdos_a129438a:
@@ -10521,7 +10521,7 @@ translate ukrainian akane_eventdos_cdd22651:
 translate ukrainian akane_eventdos_62341dae:
 
     # ak "{size=-10}My mind is being poisoned by this pervert!"
-    ak "{size=-10}My mind is being poisoned by this pervert!"
+    ak "{size=-10}My mind is being poisoned by this pervert!" with vpunch
 
 # game/game/akane_events.rpy:3212
 translate ukrainian akane_eventdos_73cf5bf6:
@@ -10593,7 +10593,7 @@ translate ukrainian akane_eventdos_609cc95b:
 translate ukrainian akane_eventdos_be493047:
 
     # ak "One yes is enough!"
-    ak "One yes is enough!"
+    ak "One yes is enough!" with vpunch
 
 # game/game/akane_events.rpy:3229
 translate ukrainian akane_eventdos_acf57402:
@@ -10659,7 +10659,7 @@ translate ukrainian akane_eventdos_bea1c0a0:
 translate ukrainian akane_eventdos_18f2ea50:
 
     # mc "Hey! {w}Stop trying to make Ryoko see me as a pervert!"
-    mc "Hey! {w}Stop trying to make Ryoko see me as a pervert!"
+    mc "Hey! {w}Stop trying to make Ryoko see me as a pervert!" with vpunch
 
 # game/game/akane_events.rpy:3246
 translate ukrainian akane_eventdos_30033a68:
@@ -10689,7 +10689,7 @@ translate ukrainian akane_eventdos_315e0c9d:
 translate ukrainian akane_eventdos_612878ca:
 
     # mc "Hmmp!"
-    mc "Hmmp!"
+    mc "Hmmp!" with vpunch
 
 # game/game/akane_events.rpy:3258
 translate ukrainian akane_eventdos_9114b67c:
@@ -10743,7 +10743,7 @@ translate ukrainian akane_eventtres_a3a00914:
 translate ukrainian akane_eventtres_dc1fe7f1:
 
     # ak "What are you looking at pervert, {w}will you stop breathing the same air as me?"
-    ak "What are you looking at pervert, {w}will you stop breathing the same air as me?"
+    ak "What are you looking at pervert, {w}will you stop breathing the same air as me?" with vpunch
 
 # game/game/akane_events.rpy:3296
 translate ukrainian akane_eventtres_3495c61f:
@@ -10971,13 +10971,13 @@ translate ukrainian akane_eventtres_46b79df3_5:
 translate ukrainian akane_eventtres_0d17e987:
 
     # ak "What?"
-    ak "What?"
+    ak "What?" with vpunch
 
 # game/game/akane_events.rpy:3355
 translate ukrainian akane_eventtres_9ba6818d:
 
     # mc "No, I'm serious! {w}I still have traumas from that one-shot..."
-    mc "No, I'm serious! {w}I still have traumas from that one-shot..."
+    mc "No, I'm serious! {w}I still have traumas from that one-shot..." with vpunch
 
 # game/game/akane_events.rpy:3357
 translate ukrainian akane_eventtres_831a0c7d:
@@ -11037,7 +11037,7 @@ translate ukrainian akane_eventtres_1f22b45a:
 translate ukrainian akane_eventtres_e9352cc5:
 
     # ak "I was so focused on blaming my bloodlust that I completely overlooked it!"
-    ak "I was so focused on blaming my bloodlust that I completely overlooked it!"
+    ak "I was so focused on blaming my bloodlust that I completely overlooked it!" with vpunch
 
 # game/game/akane_events.rpy:3374
 translate ukrainian akane_eventtres_75d54a6f:
@@ -11193,7 +11193,7 @@ translate ukrainian akane_eventtres_aa8739db:
 translate ukrainian akane_eventtres_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:3414
 translate ukrainian akane_eventtres_ebc48afc:
@@ -11247,7 +11247,7 @@ translate ukrainian akane_eventtres_f11161d0:
 translate ukrainian akane_eventtres_14223e09:
 
     # ak "What are you doing?!"
-    ak "What are you doing?!"
+    ak "What are you doing?!" with vpunch
 
 # game/game/akane_events.rpy:3429
 translate ukrainian akane_eventtres_1ddd673a:
@@ -11667,13 +11667,13 @@ translate ukrainian akane_eventcuatro_e494a6ae:
 translate ukrainian akane_eventcuatro_fc351749:
 
     # ak "NO pervert!"
-    ak "NO pervert!"
+    ak "NO pervert!" with vpunch
 
 # game/game/akane_events.rpy:3564
 translate ukrainian akane_eventcuatro_5fdb9d13:
 
     # mc "Are you sure?!"
-    mc "Are you sure?!"
+    mc "Are you sure?!" with hpunch
 
 # game/game/akane_events.rpy:3566
 translate ukrainian akane_eventcuatro_afe8a943:
@@ -11769,43 +11769,43 @@ translate ukrainian akane_eventcuatro_2b35b6fe_4:
 translate ukrainian akane_eventcuatro_cc90aaba:
 
     # mc "HAHAHA!"
-    mc "HAHAHA!"
+    mc "HAHAHA!" with vpunch
 
 # game/game/akane_events.rpy:3591
 translate ukrainian akane_eventcuatro_a8ab596c:
 
     # ak "I'm going to kill you!"
-    ak "I'm going to kill you!"
+    ak "I'm going to kill you!" with vpunch
 
 # game/game/akane_events.rpy:3593
 translate ukrainian akane_eventcuatro_677b1308:
 
     # mc "Hahahahahaha!"
-    mc "Hahahahahaha!"
+    mc "Hahahahahaha!" with vpunch
 
 # game/game/akane_events.rpy:3594
 translate ukrainian akane_eventcuatro_6bf4b2ee:
 
     # ak "Stop laughing!"
-    ak "Stop laughing!"
+    ak "Stop laughing!" with hpunch
 
 # game/game/akane_events.rpy:3596
 translate ukrainian akane_eventcuatro_f43e98a6:
 
     # ak "I can't believe I care about a perverted idiot!"
-    ak "I can't believe I care about a perverted idiot!"
+    ak "I can't believe I care about a perverted idiot!" with vpunch
 
 # game/game/akane_events.rpy:3597
 translate ukrainian akane_eventcuatro_23d792be:
 
     # mc "Hahahaha."
-    mc "Hahahaha."
+    mc "Hahahaha." with hpunch
 
 # game/game/akane_events.rpy:3599
 translate ukrainian akane_eventcuatro_caf440d1:
 
     # ak "And me wanting to be nice to you for once!"
-    ak "And me wanting to be nice to you for once!"
+    ak "And me wanting to be nice to you for once!" with vpunch
 
 # game/game/akane_events.rpy:3600
 translate ukrainian akane_eventcuatro_ccfbee81:
@@ -11817,13 +11817,13 @@ translate ukrainian akane_eventcuatro_ccfbee81:
 translate ukrainian akane_eventcuatro_a12dd3c0:
 
     # ak "Aaaaah! {w}What an embarrassment!!"
-    ak "Aaaaah! {w}What an embarrassment!!"
+    ak "Aaaaah! {w}What an embarrassment!!" with vpunch
 
 # game/game/akane_events.rpy:3604
 translate ukrainian akane_eventcuatro_6661bac6:
 
     # ak "Let go of me!"
-    ak "Let go of me!"
+    ak "Let go of me!" with vpunch
 
 # game/game/akane_events.rpy:3605
 translate ukrainian akane_eventcuatro_73eccd20:
@@ -11895,7 +11895,7 @@ translate ukrainian akane_eventcuatro_d978cd31:
 translate ukrainian akane_eventcuatro_58850fbf:
 
     # mc "Gagh!"
-    mc "Gagh!"
+    mc "Gagh!" with vpunch
 
 # game/game/akane_events.rpy:3637
 translate ukrainian akane_eventcuatro_485f8814:
@@ -11967,7 +11967,7 @@ translate ukrainian akane_eventcuatro_5c2a3e59:
 translate ukrainian akane_eventcuatro_7c58f957:
 
     # ak "Oh, there he was!? {w}I hadn't noticed!"
-    ak "Oh, there he was!? {w}I hadn't noticed!"
+    ak "Oh, there he was!? {w}I hadn't noticed!" with vpunch
 
 # game/game/akane_events.rpy:3655
 translate ukrainian akane_eventcuatro_5f825471:
@@ -12027,7 +12027,7 @@ translate ukrainian akane_eventcuatro_2b35b6fe_6:
 translate ukrainian akane_eventcuatro_b84c164d:
 
     # mc "The shower!"
-    mc "The shower!"
+    mc "The shower!" with vpunch
 
 # game/game/akane_events.rpy:3674
 translate ukrainian akane_eventcuatro_671d415a:
@@ -12045,7 +12045,7 @@ translate ukrainian akane_eventcuatro_7b174c7c:
 translate ukrainian akane_eventcuatro_c0b7ef6e:
 
     # t "I have to go quickly!"
-    t "I have to go quickly!"
+    t "I have to go quickly!" with hpunch
 
 # game/game/akane_events.rpy:3688
 translate ukrainian akane_eventcuatro_26e2325d:
@@ -12063,7 +12063,7 @@ translate ukrainian akane_eventcuatro_efde9705:
 translate ukrainian akane_eventcuatro_cd67d595:
 
     # mc "Don't touch that!"
-    mc "Don't touch that!"
+    mc "Don't touch that!" with vpunch
 
 # game/game/akane_events.rpy:3693
 translate ukrainian akane_eventcuatro_91903d71:
@@ -12081,7 +12081,7 @@ translate ukrainian akane_eventcuatro_72ec2852:
 translate ukrainian akane_eventcuatro_54220cc4:
 
     # ak "HMMAAAAH!"
-    ak "HMMAAAAH!"
+    ak "HMMAAAAH!" with hpunch
 
 # game/game/akane_events.rpy:3703
 translate ukrainian akane_eventcuatro_a4e5c5bd:
@@ -12093,7 +12093,7 @@ translate ukrainian akane_eventcuatro_a4e5c5bd:
 translate ukrainian akane_eventcuatro_b8db85db:
 
     # ak "What are you doing here?!!"
-    ak "What are you doing here?!!"
+    ak "What are you doing here?!!" with vpunch
 
 # game/game/akane_events.rpy:3707
 translate ukrainian akane_eventcuatro_be1cddd6:
@@ -12105,7 +12105,7 @@ translate ukrainian akane_eventcuatro_be1cddd6:
 translate ukrainian akane_eventcuatro_da7ac5d2:
 
     # ak "Pig, worm, slime!"
-    ak "Pig, worm, slime!"
+    ak "Pig, worm, slime!" with vpunch
 
 # game/game/akane_events.rpy:3710
 translate ukrainian akane_eventcuatro_8830abc7:
@@ -12117,25 +12117,25 @@ translate ukrainian akane_eventcuatro_8830abc7:
 translate ukrainian akane_eventcuatro_74d79c5c:
 
     # ak "I knew that at some point you wouldn't be able to hold your perverted instincts!"
-    ak "I knew that at some point you wouldn't be able to hold your perverted instincts!"
+    ak "I knew that at some point you wouldn't be able to hold your perverted instincts!" with vpunch
 
 # game/game/akane_events.rpy:3713
 translate ukrainian akane_eventcuatro_c821d1bd:
 
     # ak "I'll show you that you can't get away with things like this!"
-    ak "I'll show you that you can't get away with things like this!"
+    ak "I'll show you that you can't get away with things like this!" with vpunch
 
 # game/game/akane_events.rpy:3714
 translate ukrainian akane_eventcuatro_50de1479:
 
     # t "The sphere is absorbing magic from her!"
-    t "The sphere is absorbing magic from her!"
+    t "The sphere is absorbing magic from her!" with vpunch
 
 # game/game/akane_events.rpy:3715
 translate ukrainian akane_eventcuatro_461a22d8:
 
     # t "I have to do something!"
-    t "I have to do something!"
+    t "I have to do something!" with hpunch
 
 # game/game/akane_events.rpy:3722
 translate ukrainian akane_eventcuatro_4bf1e786:
@@ -12159,7 +12159,7 @@ translate ukrainian akane_eventcuatro_97b87d2b:
 translate ukrainian akane_eventcuatro_9ec998b9:
 
     # mc "Stop using your magic!"
-    mc "Stop using your magic!"
+    mc "Stop using your magic!" with vpunch
 
 # game/game/akane_events.rpy:3727
 translate ukrainian akane_eventcuatro_46b79df3_5:
@@ -12195,7 +12195,7 @@ translate ukrainian akane_eventcuatro_2c497fce:
 translate ukrainian akane_eventcuatro_b369a4a7:
 
     # ak "{size=-10}I'm ready!"
-    ak "{size=-10}I'm ready!"
+    ak "{size=-10}I'm ready!" with vpunch
 
 # game/game/akane_events.rpy:3740
 translate ukrainian akane_eventcuatro_17117d08:
@@ -12249,7 +12249,7 @@ translate ukrainian akane_eventcuatro_144af31b:
 translate ukrainian akane_eventcuatro_332db1ca:
 
     # mc "A-Akane!? {w}Why aren't you saying anything?"
-    mc "A-Akane!? {w}Why aren't you saying anything?"
+    mc "A-Akane!? {w}Why aren't you saying anything?" with vpunch
 
 # game/game/akane_events.rpy:3770
 translate ukrainian akane_eventcuatro_c13e16b0:
@@ -12267,7 +12267,7 @@ translate ukrainian akane_eventcuatro_86cbdcfa:
 translate ukrainian akane_eventcuatro_42614439:
 
     # mc "GAGh!"
-    mc "GAGh!"
+    mc "GAGh!" with vpunch
 
 # game/game/akane_events.rpy:3781
 translate ukrainian akane_eventcuatro_08091fa2:
@@ -12351,7 +12351,7 @@ translate ukrainian akane_eventcuatro_f4b2784a_1:
 translate ukrainian akane_gal4_45611edd:
 
     # ak "Chairs don't have a boner!"
-    ak "Chairs don't have a boner!"
+    ak "Chairs don't have a boner!" with vpunch
 
 # game/game/akane_events.rpy:3813
 translate ukrainian akane_gal4_5423c6e5:
@@ -12375,7 +12375,7 @@ translate ukrainian akane_gal4_a15d1451:
 translate ukrainian akane_gal4_af131219:
 
     # ak "You are hitting my back very hard!"
-    ak "You are hitting my back very hard!"
+    ak "You are hitting my back very hard!" with vpunch
 
 # game/game/akane_events.rpy:3819
 translate ukrainian akane_gal4_8e1bc08a:
@@ -12387,7 +12387,7 @@ translate ukrainian akane_gal4_8e1bc08a:
 translate ukrainian akane_gal4_ecffc1e5:
 
     # ak "Don't do it when it's convenient for you!"
-    ak "Don't do it when it's convenient for you!"
+    ak "Don't do it when it's convenient for you!" with hpunch
 
 # game/game/akane_events.rpy:3822
 translate ukrainian akane_gal4_1f5b224d:
@@ -12459,13 +12459,13 @@ translate ukrainian akane_gal4_4af3ab47:
 translate ukrainian akane_gal4_5a3e4e69:
 
     # mc "But you told me-"
-    mc "But you told me-"
+    mc "But you told me-" with vpunch
 
 # game/game/akane_events.rpy:3841
 translate ukrainian akane_gal4_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/akane_events.rpy:3842
 translate ukrainian akane_gal4_b7b0161c:
@@ -12513,7 +12513,7 @@ translate ukrainian akane_gal4_e5e61e5f:
 translate ukrainian akane_gal4_7f3fc1f6:
 
     # ak "I mean, {w}c-control your thing!"
-    ak "I mean, {w}c-control your thing!"
+    ak "I mean, {w}c-control your thing!" with vpunch
 
 # game/game/akane_events.rpy:3852
 translate ukrainian akane_gal4_3cde3f01:
@@ -12621,7 +12621,7 @@ translate ukrainian akane_gal4_a7bcf340:
 translate ukrainian akane_gal4_d6907ce5:
 
     # ak "I'm not doing this because I want to, {w}do you understand?!"
-    ak "I'm not doing this because I want to, {w}do you understand?!"
+    ak "I'm not doing this because I want to, {w}do you understand?!" with vpunch
 
 # game/game/akane_events.rpy:3877
 translate ukrainian akane_gal4_b65680ba:
@@ -12783,7 +12783,7 @@ translate ukrainian akane_gal4_1d82a7e7:
 translate ukrainian akane_gal4_50d5ec57:
 
     # ak "Cum!"
-    ak "Cum!"
+    ak "Cum!" with vpunch
 
 # game/game/akane_events.rpy:3914
 translate ukrainian akane_gal4_13520048:
@@ -12807,7 +12807,7 @@ translate ukrainian akane_gal4_057ba7bb:
 translate ukrainian akane_gal4_c5df9604:
 
     # mc "Akane!"
-    mc "Akane!"
+    mc "Akane!" with vpunch
 
 # game/game/akane_events.rpy:3923
 translate ukrainian akane_gal4_b124dd19:
@@ -12927,7 +12927,7 @@ translate ukrainian akane_gal4_ed812ed0:
 translate ukrainian akane_gal4_b46fed3a:
 
     # ak "What are you doing!"
-    ak "What are you doing!"
+    ak "What are you doing!" with vpunch
 
 # game/game/akane_events.rpy:3955
 translate ukrainian akane_gal4_5085a57a:
@@ -12939,7 +12939,7 @@ translate ukrainian akane_gal4_5085a57a:
 translate ukrainian akane_gal4_7ac9609f:
 
     # ak "W-Why don't you say anything?"
-    ak "W-Why don't you say anything?"
+    ak "W-Why don't you say anything?" with hpunch
 
 # game/game/akane_events.rpy:3958
 translate ukrainian akane_gal4_1abd82fe:
@@ -12969,7 +12969,7 @@ translate ukrainian akane_gal4_1bc9fb7d:
 translate ukrainian akane_gal4_b257dd3f:
 
     # ak "I don't know what you're talking about, {w}I'm not a pervert like you!"
-    ak "I don't know what you're talking about, {w}I'm not a pervert like you!"
+    ak "I don't know what you're talking about, {w}I'm not a pervert like you!" with vpunch
 
 # game/game/akane_events.rpy:3964
 translate ukrainian akane_gal4_69bd4377:
@@ -13023,7 +13023,7 @@ translate ukrainian akane_gal4_224db34f:
 translate ukrainian akane_gal4_63e77d96:
 
     # ak "W-Wait!"
-    ak "W-Wait!"
+    ak "W-Wait!" with vpunch
 
 # game/game/akane_events.rpy:3978
 translate ukrainian akane_gal4_7c927b78:
@@ -13143,7 +13143,7 @@ translate ukrainian akane_gal4_1d30d829:
 translate ukrainian akane_gal4_c5912014:
 
     # ak "GHNM~{image=corazon} {w}MHNM~{image=corazon} {w}NNmMN~~{image=corazon}{image=corazon}"
-    ak "GHNM~{image=corazon} {w}MHNM~{image=corazon} {w}NNmMN~~{image=corazon}{image=corazon}"
+    ak "GHNM~{image=corazon} {w}MHNM~{image=corazon} {w}NNmMN~~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:4006
 translate ukrainian akane_gal4_352b6270:
@@ -13155,7 +13155,7 @@ translate ukrainian akane_gal4_352b6270:
 translate ukrainian akane_gal4_a2490d33:
 
     # ak "Gmhnm~{image=corazon}{image=corazon} {w}I-I'ts hitting m-my womb~{image=corazon}{image=corazon}"
-    ak "Gmhnm~{image=corazon}{image=corazon} {w}I-I'ts hitting m-my womb~{image=corazon}{image=corazon}"
+    ak "Gmhnm~{image=corazon}{image=corazon} {w}I-I'ts hitting m-my womb~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4008
 translate ukrainian akane_gal4_777481a0:
@@ -13173,7 +13173,7 @@ translate ukrainian akane_gal4_52b0eaaa:
 translate ukrainian akane_gal4_0e41df4f:
 
     # t "I'm about to cum!"
-    t "I'm about to cum!"
+    t "I'm about to cum!" with vpunch
 
 # game/game/akane_events.rpy:4011
 translate ukrainian akane_gal4_a74088dd:
@@ -13197,7 +13197,7 @@ translate ukrainian akane_gal4_ace63b4a:
 translate ukrainian akane_gal4_e05781d2:
 
     # ak "S-Shut up and keep... {w}moving!{image=corazon}{image=corazon}{image=corazon}"
-    ak "S-Shut up and keep... {w}moving!{image=corazon}{image=corazon}{image=corazon}"
+    ak "S-Shut up and keep... {w}moving!{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4018
 translate ukrainian akane_gal4_58181c1e:
@@ -13233,7 +13233,7 @@ translate ukrainian akane_gal4_a1495492:
 translate ukrainian akane_gal4_a6899c99:
 
     # ak "Y-You wish~ {w}Your mediocre penis {w}HHHNNMN~~{image=corazon}{image=corazon} {w}does nothing to me...{image=corazon}"
-    ak "Y-You wish~ {w}Your mediocre penis {w}HHHNNMN~~{image=corazon}{image=corazon} {w}does nothing to me...{image=corazon}"
+    ak "Y-You wish~ {w}Your mediocre penis {w}HHHNNMN~~{image=corazon}{image=corazon} {w}does nothing to me...{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4024
 translate ukrainian akane_gal4_5e853b4f:
@@ -13251,7 +13251,7 @@ translate ukrainian akane_gal4_7ed1d6da:
 translate ukrainian akane_gal4_34e9f8f2:
 
     # ak "S-Shut up...{image=corazon}{image=corazon} {w}you're just a pervert..{image=corazon} {w}don't think you're a big deal!"
-    ak "S-Shut up...{image=corazon}{image=corazon} {w}you're just a pervert..{image=corazon} {w}don't think you're a big deal!"
+    ak "S-Shut up...{image=corazon}{image=corazon} {w}you're just a pervert..{image=corazon} {w}don't think you're a big deal!" with cumflash
 
 # game/game/akane_events.rpy:4027
 translate ukrainian akane_gal4_e2f25f79:
@@ -13263,19 +13263,19 @@ translate ukrainian akane_gal4_e2f25f79:
 translate ukrainian akane_gal4_647aee27:
 
     # ak "Yes~{image=corazon} {w}yes~~{image=corazon}{image=corazon} {w}finally, more semen!{image=corazon}{image=corazon}{image=corazon}"
-    ak "Yes~{image=corazon} {w}yes~~{image=corazon}{image=corazon} {w}finally, more semen!{image=corazon}{image=corazon}{image=corazon}"
+    ak "Yes~{image=corazon} {w}yes~~{image=corazon}{image=corazon} {w}finally, more semen!{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4034
 translate ukrainian akane_gal4_eba24e01:
 
     # ak "Wiiaaaahh~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "Wiiaaaahh~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "Wiiaaaahh~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4035
 translate ukrainian akane_gal4_d9137ae5:
 
     # mc "Shiit!"
-    mc "Shiit!"
+    mc "Shiit!" with vpunch
 
 # game/game/akane_events.rpy:4042
 translate ukrainian akane_gal4_e6bb9854:
@@ -13299,7 +13299,7 @@ translate ukrainian akane_gal4_040f3bfc:
 translate ukrainian akane_gal4_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:4058
 translate ukrainian akane_gal4_bb7c1926:
@@ -13335,7 +13335,7 @@ translate ukrainian akane_gal4_d06c25cd:
 translate ukrainian akane_gal4_cee6db83:
 
     # ak "I'll do it because I want to do it!"
-    ak "I'll do it because I want to do it!"
+    ak "I'll do it because I want to do it!" with vpunch
 
 # game/game/akane_events.rpy:4064
 translate ukrainian akane_gal4_1f5b224d_1:
@@ -13515,7 +13515,7 @@ translate ukrainian aka_morningbath_03ecaebd:
 translate ukrainian aka_morningbath_7a3e1398:
 
     # ak "What are you waiting for? {w}Go fill the tub."
-    ak "What are you waiting for? {w}Go fill the tub."
+    ak "What are you waiting for? {w}Go fill the tub." with vpunch
 
 # game/game/akane_events.rpy:4143
 translate ukrainian aka_morningbath_483516f9:
@@ -13611,7 +13611,7 @@ translate ukrainian aka_morningbath_114a1b72:
 translate ukrainian aka_morningbath_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/akane_events.rpy:4171
 translate ukrainian aka_morningbath_fdc7060c:
@@ -13803,7 +13803,7 @@ translate ukrainian aka_morningbath_ab9c2450:
 translate ukrainian aka_morningbath_2951a39c:
 
     # ak "Ghmnm~~{image=corazon} {image=corazon} {w}Tsuuu~~{image=corazon} {w}Mmngmh~~{image=corazon} {image=corazon} "
-    ak "Ghmnm~~{image=corazon} {image=corazon} {w}Tsuuu~~{image=corazon} {w}Mmngmh~~{image=corazon} {image=corazon} "
+    ak "Ghmnm~~{image=corazon} {image=corazon} {w}Tsuuu~~{image=corazon} {w}Mmngmh~~{image=corazon} {image=corazon} " with cumflash
 
 # game/game/akane_events.rpy:4215
 translate ukrainian aka_morningbath_55565ab7:
@@ -13869,7 +13869,7 @@ translate ukrainian aka_morningbath_1d82a7e7:
 translate ukrainian aka_morningbath_50d5ec57:
 
     # ak "Cum!"
-    ak "Cum!"
+    ak "Cum!" with vpunch
 
 # game/game/akane_events.rpy:4229
 translate ukrainian aka_morningbath_13520048:
@@ -13893,7 +13893,7 @@ translate ukrainian aka_morningbath_057ba7bb:
 translate ukrainian aka_morningbath_c5df9604:
 
     # mc "Akane!"
-    mc "Akane!"
+    mc "Akane!" with vpunch
 
 # game/game/akane_events.rpy:4238
 translate ukrainian aka_morningbath_b124dd19:
@@ -13989,7 +13989,7 @@ translate ukrainian aka_morningbath_6bc46d90:
 translate ukrainian aka_morningbath_e1611561:
 
     # ak "P-Pervert!"
-    ak "P-Pervert!"
+    ak "P-Pervert!" with vpunch
 
 # game/game/akane_events.rpy:4262
 translate ukrainian aka_morningbath_b63effa9:
@@ -14013,7 +14013,7 @@ translate ukrainian aka_morningbath_87240d5b:
 translate ukrainian aka_morningbath_58989934:
 
     # ak "hNHN~~{image=corazon}"
-    ak "hNHN~~{image=corazon}"
+    ak "hNHN~~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4270
 translate ukrainian aka_morningbath_1ce65d03:
@@ -14061,7 +14061,7 @@ translate ukrainian aka_morningbath_de659480:
 translate ukrainian aka_morningbath_f6305913:
 
     # ak "Haa~ what? {w}Haa~~ {image=corazon}{image=corazon} {w}Not at all..."
-    ak "Haa~ what? {w}Haa~~ {image=corazon}{image=corazon} {w}Not at all..."
+    ak "Haa~ what? {w}Haa~~ {image=corazon}{image=corazon} {w}Not at all..." with cumflash
 
 # game/game/akane_events.rpy:4281
 translate ukrainian aka_morningbath_9c7b0cc8:
@@ -14097,13 +14097,13 @@ translate ukrainian aka_morningbath_cfce055e:
 translate ukrainian aka_morningbath_c9fcaa2b:
 
     # ak "W-What do you take me for...{w}Ghmnm~{image=corazon}{image=corazon} {w}do you think I'm already at my limit-"
-    ak "W-What do you take me for...{w}Ghmnm~{image=corazon}{image=corazon} {w}do you think I'm already at my limit-"
+    ak "W-What do you take me for...{w}Ghmnm~{image=corazon}{image=corazon} {w}do you think I'm already at my limit-" with cumflash
 
 # game/game/akane_events.rpy:4289
 translate ukrainian aka_morningbath_c5912014:
 
     # ak "GHNM~{image=corazon} {w}MHNM~{image=corazon} {w}NNmMN~~{image=corazon}{image=corazon}"
-    ak "GHNM~{image=corazon} {w}MHNM~{image=corazon} {w}NNmMN~~{image=corazon}{image=corazon}"
+    ak "GHNM~{image=corazon} {w}MHNM~{image=corazon} {w}NNmMN~~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:4290
 translate ukrainian aka_morningbath_02e78244:
@@ -14115,7 +14115,7 @@ translate ukrainian aka_morningbath_02e78244:
 translate ukrainian aka_morningbath_d08190d9:
 
     # ak "Gmhnm~{image=corazon}{image=corazon} {w}A-Are you trying to go d-deeper?~{image=corazon}{image=corazon}"
-    ak "Gmhnm~{image=corazon}{image=corazon} {w}A-Are you trying to go d-deeper?~{image=corazon}{image=corazon}"
+    ak "Gmhnm~{image=corazon}{image=corazon} {w}A-Are you trying to go d-deeper?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4292
 translate ukrainian aka_morningbath_32f1ee61:
@@ -14133,7 +14133,7 @@ translate ukrainian aka_morningbath_5bc2c32e:
 translate ukrainian aka_morningbath_17ac816b:
 
     # t "It feels too good!!"
-    t "It feels too good!!"
+    t "It feels too good!!" with vpunch
 
 # game/game/akane_events.rpy:4295
 translate ukrainian aka_morningbath_837fcfcb:
@@ -14157,13 +14157,13 @@ translate ukrainian aka_morningbath_d8a151bc:
 translate ukrainian aka_morningbath_0a9cf70e:
 
     # mc "Honest!"
-    mc "Honest!"
+    mc "Honest!" with hpunch
 
 # game/game/akane_events.rpy:4302
 translate ukrainian aka_morningbath_c59cb0de:
 
     # ak "GHMHNM~{image=corazon}{image=corazon} {w}MNMNhnnmn~~{image=corazon}{image=corazon}{image=corazon} {w}Haa aHH~{image=corazon}{image=corazon}"
-    ak "GHMHNM~{image=corazon}{image=corazon} {w}MNMNhnnmn~~{image=corazon}{image=corazon}{image=corazon} {w}Haa aHH~{image=corazon}{image=corazon}"
+    ak "GHMHNM~{image=corazon}{image=corazon} {w}MNMNhnnmn~~{image=corazon}{image=corazon}{image=corazon} {w}Haa aHH~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4303
 translate ukrainian aka_morningbath_92588f08:
@@ -14181,19 +14181,19 @@ translate ukrainian aka_morningbath_8e34da50:
 translate ukrainian aka_morningbath_38f86b74:
 
     # ak "Ha! Are you going to cum?~ {w}HHHNNMN~~{image=corazon}{image=corazon} {w}W-What a pathetic man....{image=corazon}"
-    ak "Ha! Are you going to cum?~ {w}HHHNNMN~~{image=corazon}{image=corazon} {w}W-What a pathetic man....{image=corazon}"
+    ak "Ha! Are you going to cum?~ {w}HHHNNMN~~{image=corazon}{image=corazon} {w}W-What a pathetic man....{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4306
 translate ukrainian aka_morningbath_5b98a3ac:
 
     # mc "Increase the speed!"
-    mc "Increase the speed!"
+    mc "Increase the speed!" with hpunch
 
 # game/game/akane_events.rpy:4309
 translate ukrainian aka_morningbath_c3284cf1:
 
     # ak "I-Idiot! {image=corazon}{image=corazon} {w}Stop...{image=corazon} {w}I'm going to!!!"
-    ak "I-Idiot! {image=corazon}{image=corazon} {w}Stop...{image=corazon} {w}I'm going to!!!"
+    ak "I-Idiot! {image=corazon}{image=corazon} {w}Stop...{image=corazon} {w}I'm going to!!!" with cumflash
 
 # game/game/akane_events.rpy:4310
 translate ukrainian aka_morningbath_e2f25f79:
@@ -14205,13 +14205,13 @@ translate ukrainian aka_morningbath_e2f25f79:
 translate ukrainian aka_morningbath_eba24e01:
 
     # ak "Wiiaaaahh~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "Wiiaaaahh~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "Wiiaaaahh~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:4317
 translate ukrainian aka_morningbath_9818cfbc:
 
     # mc "FUuckk!"
-    mc "FUuckk!"
+    mc "FUuckk!" with vpunch
 
 # game/game/akane_events.rpy:4324
 translate ukrainian aka_morningbath_e6bb9854:
@@ -14355,7 +14355,7 @@ translate ukrainian akane_eventcinco_f140967e:
 translate ukrainian akane_eventcinco_f187e04c:
 
     # ak "Yes, exactly!"
-    ak "Yes, exactly!"
+    ak "Yes, exactly!" with vpunch
 
 # game/game/akane_events.rpy:4376
 translate ukrainian akane_eventcinco_12708ff5:
@@ -14415,7 +14415,7 @@ translate ukrainian akane_eventcinco_f365e511:
 translate ukrainian akane_eventcinco_673c3aa8:
 
     # ser "Yes!"
-    ser "Yes!"
+    ser "Yes!" with vpunch
 
 # game/game/akane_events.rpy:4392
 translate ukrainian akane_eventcinco_4b5a0a27:
@@ -14427,7 +14427,7 @@ translate ukrainian akane_eventcinco_4b5a0a27:
 translate ukrainian akane_eventcinco_673c3aa8_1:
 
     # ser "Yes!"
-    ser "Yes!"
+    ser "Yes!" with vpunch
 
 # game/game/akane_events.rpy:4394
 translate ukrainian akane_eventcinco_46b79df3_2:
@@ -14493,7 +14493,7 @@ translate ukrainian akane_eventcinco_22599bee:
 translate ukrainian akane_eventcinco_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:4410
 translate ukrainian akane_eventcinco_7e55c315:
@@ -14505,7 +14505,7 @@ translate ukrainian akane_eventcinco_7e55c315:
 translate ukrainian akane_eventcinco_9b023603:
 
     # ak "{i}No! {w}... {w}{size=-8}N-No Mother... {w}I had never seen her before..."
-    ak "{i}No! {w}... {w}{size=-8}N-No Mother... {w}I had never seen her before..."
+    ak "{i}No! {w}... {w}{size=-8}N-No Mother... {w}I had never seen her before..." with vpunch
 
 # game/game/akane_events.rpy:4412
 translate ukrainian akane_eventcinco_3d732b49:
@@ -14571,7 +14571,7 @@ translate ukrainian akane_eventcinco_46b79df3_5:
 translate ukrainian akane_eventcinco_995686e9:
 
     # ak "[mc]! W-What are you doing here?"
-    ak "[mc]! W-What are you doing here?"
+    ak "[mc]! W-What are you doing here?" with vpunch
 
 # game/game/akane_events.rpy:4432
 translate ukrainian akane_eventcinco_7a4ac8da:
@@ -14613,7 +14613,7 @@ translate ukrainian akane_eventcinco_37e4697b:
 translate ukrainian akane_eventcinco_cd085b2c:
 
     # ak "{size=-8}Hmmp."
-    ak "{size=-8}Hmmp."
+    ak "{size=-8}Hmmp." with hpunch
 
 # game/game/akane_events.rpy:4442
 translate ukrainian akane_eventcinco_91a3fb6b:
@@ -14661,7 +14661,7 @@ translate ukrainian akane_eventcinco_46b79df3_7:
 translate ukrainian akane_eventcinco_f3c2236d:
 
     # ak "No!"
-    ak "No!"
+    ak "No!" with vpunch
 
 # game/game/akane_events.rpy:4453
 translate ukrainian akane_eventcinco_1f5b224d:
@@ -14811,13 +14811,13 @@ translate ukrainian akane_eventcinco_a4cb2547:
 translate ukrainian akane_eventcinco_565f3803:
 
     # ak "Stoooop!"
-    ak "Stoooop!"
+    ak "Stoooop!" (multiple=2)
 
 # game/game/akane_events.rpy:4488
 translate ukrainian akane_eventcinco_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/akane_events.rpy:4489
 translate ukrainian akane_eventcinco_833e4c57:
@@ -14907,13 +14907,13 @@ translate ukrainian akane_eventcinco_46b79df3_9:
 translate ukrainian akane_eventcinco_bad59443:
 
     # ak "What do you think you are doing!"
-    ak "What do you think you are doing!"
+    ak "What do you think you are doing!" (multiple=2)
 
 # game/game/akane_events.rpy:4511
 translate ukrainian akane_eventcinco_c4106457:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" (multiple=2)
 
 # game/game/akane_events.rpy:4512
 translate ukrainian akane_eventcinco_e21b2d55:
@@ -14931,7 +14931,7 @@ translate ukrainian akane_eventcinco_f1d4ea69:
 translate ukrainian akane_eventcinco_fa4c7796:
 
     # ak "Pervert!"
-    ak "Pervert!"
+    ak "Pervert!" with vpunch
 
 # game/game/akane_events.rpy:4516
 translate ukrainian akane_eventcinco_30c4ecc8:
@@ -14955,7 +14955,7 @@ translate ukrainian akane_eventcinco_46b79df3_10:
 translate ukrainian akane_eventcinco_9dfe4a03:
 
     # mc "What!?"
-    mc "What!?"
+    mc "What!?" with hpunch
 
 # game/game/akane_events.rpy:4521
 translate ukrainian akane_eventcinco_54f2e59b:
@@ -14991,13 +14991,13 @@ translate ukrainian akane_eventcinco_e87001ad:
 translate ukrainian akane_eventcinco_4311a8e1:
 
     # mc "Aah-"
-    mc "Aah-"
+    mc "Aah-" (multiple=2)
 
 # game/game/akane_events.rpy:4530
 translate ukrainian akane_eventcinco_6f041313:
 
     # ak "And what are you looking at?!"
-    ak "And what are you looking at?!"
+    ak "And what are you looking at?!" (multiple=2)
 
 # game/game/akane_events.rpy:4532
 translate ukrainian akane_eventcinco_95b7eea3:
@@ -15183,7 +15183,7 @@ translate ukrainian akane_eventcinco_46b79df3_15:
 translate ukrainian akane_eventcinco_f65d6524:
 
     # ak "Oh! What is that!"
-    ak "Oh! What is that!"
+    ak "Oh! What is that!" with vpunch
 
 # game/game/akane_events.rpy:4574
 translate ukrainian akane_eventcinco_f55e6501:
@@ -15195,13 +15195,13 @@ translate ukrainian akane_eventcinco_f55e6501:
 translate ukrainian akane_eventcinco_47a3f8c4:
 
     # mc "a"
-    mc "a"
+    mc "a" (multiple=2)
 
 # game/game/akane_events.rpy:4577
 translate ukrainian akane_eventcinco_b57ee467:
 
     # ak "{size=-8}{i}Chuu~"
-    ak "{size=-8}{i}Chuu~"
+    ak "{size=-8}{i}Chuu~" (multiple=2)
 
 # game/game/akane_events.rpy:4583
 translate ukrainian akane_eventcinco_b1805c96:
@@ -15261,13 +15261,13 @@ translate ukrainian akane_eventseis_a739e395:
 translate ukrainian akane_eventseis_2cc2085c:
 
     # sor "H-Hey! Be careful!"
-    sor "H-Hey! Be careful!"
+    sor "H-Hey! Be careful!" with vpunch
 
 # game/game/akane_events.rpy:4615
 translate ukrainian akane_eventseis_630d2840:
 
     # soc "Let's go! {w}Let's go!"
-    soc "Let's go! {w}Let's go!"
+    soc "Let's go! {w}Let's go!" with vpunch
 
 # game/game/akane_events.rpy:4617
 translate ukrainian akane_eventseis_5de0a42f:
@@ -15315,13 +15315,13 @@ translate ukrainian akane_eventseis_8dabefc6:
 translate ukrainian akane_eventseis_ddabc3d1:
 
     # soc "Hahahaha."
-    soc "Hahahaha."
+    soc "Hahahaha." (multiple=2)
 
 # game/game/akane_events.rpy:4629
 translate ukrainian akane_eventseis_0d05873d:
 
     # sor "Hahaha."
-    sor "Hahaha."
+    sor "Hahaha." (multiple=2)
 
 # game/game/akane_events.rpy:4631
 translate ukrainian akane_eventseis_17b8c0ce:
@@ -15375,7 +15375,7 @@ translate ukrainian akane_eventseis_46b79df3_2:
 translate ukrainian akane_eventseis_b50909c3:
 
     # ak "Haaa?!"
-    ak "Haaa?!"
+    ak "Haaa?!" with hpunch
 
 # game/game/akane_events.rpy:4643
 translate ukrainian akane_eventseis_53e3c001:
@@ -15387,7 +15387,7 @@ translate ukrainian akane_eventseis_53e3c001:
 translate ukrainian akane_eventseis_9387ac47:
 
     # ak "At what time did you arrive?!"
-    ak "At what time did you arrive?!"
+    ak "At what time did you arrive?!" with vpunch
 
 # game/game/akane_events.rpy:4646
 translate ukrainian akane_eventseis_2802616c:
@@ -15609,7 +15609,7 @@ translate ukrainian akane_eventseis_fb2e5377:
 translate ukrainian akane_eventseis_1f4be840:
 
     # ak "... hah- hn-"
-    ak "... hah- hn-"
+    ak "... hah- hn-" with hpunch
 
 # game/game/akane_events.rpy:4695
 translate ukrainian akane_eventseis_ad6460eb:
@@ -15669,7 +15669,7 @@ translate ukrainian akane_eventseis_766bdc24:
 translate ukrainian akane_eventseis_a9520500:
 
     # ak "HAAa!?"
-    ak "HAAa!?"
+    ak "HAAa!?" with hpunch
 
 # game/game/akane_events.rpy:4708
 translate ukrainian akane_eventseis_91efecc2:
@@ -15693,7 +15693,7 @@ translate ukrainian akane_eventseis_d0a8aff0:
 translate ukrainian akane_eventseis_ee9a73ee:
 
     # ak "Hey!"
-    ak "Hey!"
+    ak "Hey!" with vpunch
 
 # game/game/akane_events.rpy:4715
 translate ukrainian akane_eventseis_b4fb7392:
@@ -15711,13 +15711,13 @@ translate ukrainian akane_eventseis_f2ddd965:
 translate ukrainian akane_eventseis_99cef9d1:
 
     # ak "Per-! Ha- Ghn!"
-    ak "Per-! Ha- Ghn!"
+    ak "Per-! Ha- Ghn!" with hpunch
 
 # game/game/akane_events.rpy:4722
 translate ukrainian akane_eventseis_a062344c:
 
     # ak "Waait! Please!"
-    ak "Waait! Please!"
+    ak "Waait! Please!" with vpunch
 
 # game/game/akane_events.rpy:4723
 translate ukrainian akane_eventseis_3766533d:
@@ -15735,7 +15735,7 @@ translate ukrainian akane_eventseis_de1e485e:
 translate ukrainian akane_eventseis_5da23b1f:
 
     # ak "Pervert! S-Stoop! Hahaha!"
-    ak "Pervert! S-Stoop! Hahaha!"
+    ak "Pervert! S-Stoop! Hahaha!" with hpunch
 
 # game/game/akane_events.rpy:4727
 translate ukrainian akane_eventseis_8bd41502:
@@ -15747,7 +15747,7 @@ translate ukrainian akane_eventseis_8bd41502:
 translate ukrainian akane_eventseis_a4aee0be:
 
     # ak "I'm going to pee! Stoop!"
-    ak "I'm going to pee! Stoop!"
+    ak "I'm going to pee! Stoop!" with vpunch
 
 # game/game/akane_events.rpy:4729
 translate ukrainian akane_eventseis_2b35b6fe_3:
@@ -15765,13 +15765,13 @@ translate ukrainian akane_eventseis_708f2017:
 translate ukrainian akane_eventseis_68e09860:
 
     # ak "STOP!"
-    ak "STOP!"
+    ak "STOP!" with hpunch
 
 # game/game/akane_events.rpy:4738
 translate ukrainian akane_eventseis_1343bca4:
 
     # mc "AHG!"
-    mc "AHG!"
+    mc "AHG!" with vpunch
 
 # game/game/akane_events.rpy:4739
 translate ukrainian akane_eventseis_a20cefa7_1:
@@ -16029,37 +16029,37 @@ translate ukrainian akane_eventseis_a7bcf340:
 translate ukrainian akane_eventseis_abf1a1fe:
 
     # ak "..."
-    ak "..."
+    ak "..." (multiple=2)
 
 # game/game/akane_events.rpy:4795
 translate ukrainian akane_eventseis_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/akane_events.rpy:4798
 translate ukrainian akane_eventseis_84c900ae:
 
     # ak "What the hell are you doing!?"
-    ak "What the hell are you doing!?"
+    ak "What the hell are you doing!?" (multiple=2)
 
 # game/game/akane_events.rpy:4799
 translate ukrainian akane_eventseis_c4106457:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" (multiple=2)
 
 # game/game/akane_events.rpy:4800
 translate ukrainian akane_eventseis_150d62fe:
 
     # mc "It looked very comfortable!"
-    mc "It looked very comfortable!"
+    mc "It looked very comfortable!" with vpunch
 
 # game/game/akane_events.rpy:4801
 translate ukrainian akane_eventseis_805c65e4:
 
     # ak "You are a pervert without limits!"
-    ak "You are a pervert without limits!"
+    ak "You are a pervert without limits!" with hpunch
 
 # game/game/akane_events.rpy:4802
 translate ukrainian akane_eventseis_d057e389:
@@ -16095,7 +16095,7 @@ translate ukrainian akane_eventseis_46b79df3_5:
 translate ukrainian akane_eventseis_12c6dbd1:
 
     # ak "Ahum*"
-    ak "Ahum*"
+    ak "Ahum*" with vpunch
 
 # game/game/akane_events.rpy:4810
 translate ukrainian akane_eventseis_d2fd3c49:
@@ -16215,7 +16215,7 @@ translate ukrainian akane_eventseis_844a0867:
 translate ukrainian akane_eventseis_174490a0:
 
     # mc "I was just kidding! {w}Hey! {w}Akane!"
-    mc "I was just kidding! {w}Hey! {w}Akane!"
+    mc "I was just kidding! {w}Hey! {w}Akane!" with vpunch
 
 # game/game/akane_events.rpy:4839
 translate ukrainian akane_eventseis_699878f6:
@@ -16413,7 +16413,7 @@ translate ukrainian akane_eventsiete_d9e68409:
 translate ukrainian akane_eventsiete_12fcebc1:
 
     # ak "Ah!?"
-    ak "Ah!?"
+    ak "Ah!?" with hpunch
 
 # game/game/akane_events.rpy:4907
 translate ukrainian akane_eventsiete_694d6cf4:
@@ -16437,7 +16437,7 @@ translate ukrainian akane_eventsiete_a5a26644:
 translate ukrainian akane_eventsiete_2182a173:
 
     # ak "Hnmp!"
-    ak "Hnmp!"
+    ak "Hnmp!" with hpunch
 
 # game/game/akane_events.rpy:4912
 translate ukrainian akane_eventsiete_499dd6cd:
@@ -16581,13 +16581,13 @@ translate ukrainian akane_eventsiete_fb9c0139:
 translate ukrainian akane_eventsiete_a6b3b663:
 
     # ak "Shut up and come!"
-    ak "Shut up and come!"
+    ak "Shut up and come!" (multiple=2)
 
 # game/game/akane_events.rpy:4945
 translate ukrainian akane_eventsiete_7a15e4a5:
 
     # mc "Ah!"
-    mc "Ah!"
+    mc "Ah!" (multiple=2)
 
 # game/game/akane_events.rpy:4948
 translate ukrainian akane_eventsiete_a20cefa7:
@@ -16785,7 +16785,7 @@ translate ukrainian akane_eventsiete_c01d1a92:
 translate ukrainian akane_eventsiete_c0a41f2a:
 
     # ak "Your body gives off a lot of heat!"
-    ak "Your body gives off a lot of heat!"
+    ak "Your body gives off a lot of heat!" with vpunch
 
 # game/game/akane_events.rpy:4997
 translate ukrainian akane_eventsiete_79061a3c:
@@ -17091,7 +17091,7 @@ translate ukrainian akane_eventsiete_eda24d4f:
 translate ukrainian akane_eventsiete_0aaf7157:
 
     # ak "You wish!"
-    ak "You wish!"
+    ak "You wish!" with hpunch
 
 # game/game/akane_events.rpy:5061
 translate ukrainian akane_eventsiete_69e8bd08:
@@ -17109,7 +17109,7 @@ translate ukrainian akane_eventsiete_2b35b6fe_10:
 translate ukrainian akane_eventsiete_8dde754a:
 
     # ak "At least deny it, you perverted slime!"
-    ak "At least deny it, you perverted slime!"
+    ak "At least deny it, you perverted slime!" with hpunch
 
 # game/game/akane_events.rpy:5064
 translate ukrainian akane_eventsiete_1f5b224d:
@@ -17427,19 +17427,19 @@ translate ukrainian about_akane_92b0db27:
 translate ukrainian about_akane_650f960d:
 
     # h "{i}GET OUT OF THE WAY!"
-    h "{i}GET OUT OF THE WAY!"
+    h "{i}GET OUT OF THE WAY!" with hpunch
 
 # game/game/akane_events.rpy:5160
 translate ukrainian about_akane_c427b75b:
 
     # y "{i}W-WAI-"
-    y "{i}W-WAI-"
+    y "{i}W-WAI-" (multiple=2)
 
 # game/game/akane_events.rpy:5161
 translate ukrainian about_akane_864f0c20:
 
     # ak "{i}Han-"
-    ak "{i}Han-"
+    ak "{i}Han-" (multiple=2)
 
 # game/game/akane_events.rpy:5165
 translate ukrainian about_akane_a20cefa7:
@@ -17475,7 +17475,7 @@ translate ukrainian about_akane_a20cefa7_1:
 translate ukrainian about_akane_48186211:
 
     # h "Yees?~"
-    h "Yees?~"
+    h "Yees?~" with hpunch
 
 # game/game/akane_events.rpy:5172
 translate ukrainian about_akane_d63be822:
@@ -17505,7 +17505,7 @@ translate ukrainian about_akane_374fec43:
 translate ukrainian about_akane_5df25c47:
 
     # ak "WHAAAAT?!"
-    ak "WHAAAAT?!"
+    ak "WHAAAAT?!" with hpunch
 
 # game/game/akane_events.rpy:5184
 translate ukrainian about_akane_262cbe9d:
@@ -17535,13 +17535,13 @@ translate ukrainian about_akane_3a4db910:
 translate ukrainian about_akane_882d2eab:
 
     # ak "{i}That pervert always sticking his nose where it doesn't belong!"
-    ak "{i}That pervert always sticking his nose where it doesn't belong!"
+    ak "{i}That pervert always sticking his nose where it doesn't belong!" with vpunch
 
 # game/game/akane_events.rpy:5195
 translate ukrainian about_akane_a85aa9ae:
 
     # ak "{i}Wait until I find you!"
-    ak "{i}Wait until I find you!"
+    ak "{i}Wait until I find you!" with hpunch
 
 # game/game/akane_events.rpy:5196
 translate ukrainian about_akane_a20cefa7_2:
@@ -17661,13 +17661,13 @@ translate ukrainian about_akane_dcf610bb:
 translate ukrainian about_akane_dce9047e:
 
     # ak "{b}BOY.{w=0.3}{nw}"
-    ak "{b}BOY.{w=0.3}{nw}"
+    ak "{b}BOY.{w=0.3}{nw}" with hpunch
 
 # game/game/akane_events.rpy:5230
 translate ukrainian about_akane_3069e7ff:
 
     # mc "A-AKANE!"
-    mc "A-AKANE!"
+    mc "A-AKANE!" with vpunch
 
 # game/game/akane_events.rpy:5231
 translate ukrainian about_akane_e53314d0:
@@ -17691,7 +17691,7 @@ translate ukrainian about_akane_06eb607c:
 translate ukrainian about_akane_ed5d1e99:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with vpunch
 
 # game/game/akane_events.rpy:5237
 translate ukrainian about_akane_1c1f9867:
@@ -17715,19 +17715,19 @@ translate ukrainian about_akane_d7afdc3b:
 translate ukrainian about_akane_64fc23fd:
 
     # ak "PIG! SLIME! WORM!"
-    ak "PIG! SLIME! WORM!"
+    ak "PIG! SLIME! WORM!" (multiple=2)
 
 # game/game/akane_events.rpy:5246
 translate ukrainian about_akane_a96e1939:
 
     # mc "AAgh!"
-    mc "AAgh!"
+    mc "AAgh!" (multiple=2)
 
 # game/game/akane_events.rpy:5247
 translate ukrainian about_akane_a934c951:
 
     # ak "PERVERT!"
-    ak "PERVERT!"
+    ak "PERVERT!" with hpunch
 
 # game/game/akane_events.rpy:5254
 translate ukrainian about_akane_851733af:
@@ -17955,7 +17955,7 @@ translate ukrainian about_akane_6433db95:
 translate ukrainian about_akane_6883094e:
 
     # ak "Why won't she let me go now unless it's with you?!"
-    ak "Why won't she let me go now unless it's with you?!"
+    ak "Why won't she let me go now unless it's with you?!" with hpunch
 
 # game/game/akane_events.rpy:5315
 translate ukrainian about_akane_be2e5316:
@@ -18255,7 +18255,7 @@ translate ukrainian akane_gal5_1c86240d:
 translate ukrainian akane_gal5_d2531fa8:
 
     # mc "HMnhg!"
-    mc "HMnhg!"
+    mc "HMnhg!" with vpunch
 
 # game/game/akane_events.rpy:5394
 translate ukrainian akane_gal5_1ae68bc9:
@@ -18267,13 +18267,13 @@ translate ukrainian akane_gal5_1ae68bc9:
 translate ukrainian akane_gal5_94f64e9c:
 
     # mc "A-Akane?!"
-    mc "A-Akane?!"
+    mc "A-Akane?!" with hpunch
 
 # game/game/akane_events.rpy:5396
 translate ukrainian akane_gal5_991b05d4:
 
     # mc "I-I'm still d-dreaming?"
-    mc "I-I'm still d-dreaming?"
+    mc "I-I'm still d-dreaming?" with cumflash
 
 # game/game/akane_events.rpy:5397
 translate ukrainian akane_gal5_15c1f7b6:
@@ -18303,7 +18303,7 @@ translate ukrainian akane_gal5_26f215a1:
 translate ukrainian akane_gal5_5ab14bbc:
 
     # t "And so strong!"
-    t "And so strong!"
+    t "And so strong!" with vpunch
 
 # game/game/akane_events.rpy:5403
 translate ukrainian akane_gal5_2c689ba2:
@@ -18351,7 +18351,7 @@ translate ukrainian akane_gal5_592a21a0:
 translate ukrainian akane_gal5_c9ac45d5:
 
     # mc "I can't take it anymore!"
-    mc "I can't take it anymore!"
+    mc "I can't take it anymore!" with cumflash
 
 # game/game/akane_events.rpy:5413
 translate ukrainian akane_gal5_45dc8cd0:
@@ -18387,13 +18387,13 @@ translate ukrainian akane_gal5_e8aa4631:
 translate ukrainian akane_gal5_2f347544:
 
     # ak "GHhmn~"
-    ak "GHhmn~"
+    ak "GHhmn~" with cumflash
 
 # game/game/akane_events.rpy:5419
 translate ukrainian akane_gal5_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/akane_events.rpy:5420
 translate ukrainian akane_gal5_59f13cb8:
@@ -18417,7 +18417,7 @@ translate ukrainian akane_gal5_c5fae440:
 translate ukrainian akane_gal5_9c85fb18:
 
     # mc "I'm cumming!"
-    mc "I'm cumming!"
+    mc "I'm cumming!" with hpunch
 
 # game/game/akane_events.rpy:5428
 translate ukrainian akane_gal5_1d82a7e7:
@@ -18531,7 +18531,7 @@ translate ukrainian akane_gal5_a43fe8bb:
 translate ukrainian akane_gal5_e9ee7796_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/akane_events.rpy:5458
 translate ukrainian akane_gal5_9f11c677:
@@ -18549,7 +18549,7 @@ translate ukrainian akane_gal5_f82bfde8:
 translate ukrainian akane_gal5_bda49966:
 
     # ak "Ghgnm!~"
-    ak "Ghgnm!~"
+    ak "Ghgnm!~" with cumflash
 
 # game/game/akane_events.rpy:5463
 translate ukrainian akane_gal5_1d82a7e7_1:
@@ -18567,13 +18567,13 @@ translate ukrainian akane_gal5_5289d2ae:
 translate ukrainian akane_gal5_2e027b1a:
 
     # ak "N-No! {w}D-Do you think your p-pathetic penis... {w}Hmmnm~ {w}w-would make me cum just by coming in...?"
-    ak "N-No! {w}D-Do you think your p-pathetic penis... {w}Hmmnm~ {w}w-would make me cum just by coming in...?"
+    ak "N-No! {w}D-Do you think your p-pathetic penis... {w}Hmmnm~ {w}w-would make me cum just by coming in...?" with hpunch
 
 # game/game/akane_events.rpy:5467
 translate ukrainian akane_gal5_706746d5:
 
     # t "Her insides are contracting too much!"
-    t "Her insides are contracting too much!"
+    t "Her insides are contracting too much!" with hpunch
 
 # game/game/akane_events.rpy:5468
 translate ukrainian akane_gal5_debcaf5d:
@@ -18603,7 +18603,7 @@ translate ukrainian akane_gal5_82cf0380:
 translate ukrainian akane_gal5_92b9c99b:
 
     # ak "S-Shut up!{image=corazon} {w}Gghnm~{image=corazon} {w}Aahnm~~{image=corazon}{image=corazon}"
-    ak "S-Shut up!{image=corazon} {w}Gghnm~{image=corazon} {w}Aahnm~~{image=corazon}{image=corazon}"
+    ak "S-Shut up!{image=corazon} {w}Gghnm~{image=corazon} {w}Aahnm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5473
 translate ukrainian akane_gal5_1d82a7e7_2:
@@ -18639,7 +18639,7 @@ translate ukrainian akane_gal5_cd769072:
 translate ukrainian akane_gal5_9e58e19e:
 
     # t "If I move just a little, I'll cum right away!"
-    t "If I move just a little, I'll cum right away!"
+    t "If I move just a little, I'll cum right away!" with cumflash
 
 # game/game/akane_events.rpy:5479
 translate ukrainian akane_gal5_ae78971a:
@@ -18681,7 +18681,7 @@ translate ukrainian akane_gal5_4c7b4881:
 translate ukrainian akane_gal5_80ab5a08:
 
     # ak "My pussy is driving you crazy, {w}but it's obvious it would be~{image=corazon}{image=corazon}"
-    ak "My pussy is driving you crazy, {w}but it's obvious it would be~{image=corazon}{image=corazon}"
+    ak "My pussy is driving you crazy, {w}but it's obvious it would be~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5487
 translate ukrainian akane_gal5_0bafbd55:
@@ -18717,7 +18717,7 @@ translate ukrainian akane_gal5_1c3c9210:
 translate ukrainian akane_gal5_a86b4cf8:
 
     # ak "A pervert's face without limits~{image=corazon}{image=corazon}"
-    ak "A pervert's face without limits~{image=corazon}{image=corazon}"
+    ak "A pervert's face without limits~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5493
 translate ukrainian akane_gal5_257a4e85:
@@ -18741,7 +18741,7 @@ translate ukrainian akane_gal5_2f75cca5:
 translate ukrainian akane_gal5_7e8344ee:
 
     # t "I won't let her get away with it!"
-    t "I won't let her get away with it!"
+    t "I won't let her get away with it!" with hpunch
 
 # game/game/akane_events.rpy:5497
 translate ukrainian akane_gal5_84f16542:
@@ -18789,7 +18789,7 @@ translate ukrainian akane_gal5_e92ad693:
 translate ukrainian akane_gal5_540a9290:
 
     # mc "I will not stop, {w}you have reached my limit!"
-    mc "I will not stop, {w}you have reached my limit!"
+    mc "I will not stop, {w}you have reached my limit!" with hpunch
 
 # game/game/akane_events.rpy:5507
 translate ukrainian akane_gal5_c6c60ae6:
@@ -18807,19 +18807,19 @@ translate ukrainian akane_gal5_e11bd22b:
 translate ukrainian akane_gal5_c86b6e1d:
 
     # t "I'm at my limit!"
-    t "I'm at my limit!"
+    t "I'm at my limit!" with vpunch
 
 # game/game/akane_events.rpy:5510
 translate ukrainian akane_gal5_7015dd44:
 
     # t "What is this? Akane's pussy got too tight!"
-    t "What is this? Akane's pussy got too tight!"
+    t "What is this? Akane's pussy got too tight!" with cumflash
 
 # game/game/akane_events.rpy:5512
 translate ukrainian akane_gal5_0fcebe60:
 
     # ak "Hgngmhnm!{image=corazon} {w}HnMHMNM~{image=corazon}{image=corazon} {w}N-No~{image=corazon}"
-    ak "Hgngmhnm!{image=corazon} {w}HnMHMNM~{image=corazon}{image=corazon} {w}N-No~{image=corazon}"
+    ak "Hgngmhnm!{image=corazon} {w}HnMHMNM~{image=corazon}{image=corazon} {w}N-No~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5513
 translate ukrainian akane_gal5_8483f965:
@@ -18849,7 +18849,7 @@ translate ukrainian akane_gal5_41ba6a71:
 translate ukrainian akane_gal5_a2abc76a:
 
     # t "I'm going to cum!"
-    t "I'm going to cum!"
+    t "I'm going to cum!" with hpunch
 
 # game/game/akane_events.rpy:5518
 translate ukrainian akane_gal5_96ee3460:
@@ -18867,13 +18867,13 @@ translate ukrainian akane_gal5_f7e208b4:
 translate ukrainian akane_gal5_a2f365ed:
 
     # mc "Say it! {w}And that you love my cock!"
-    mc "Say it! {w}And that you love my cock!"
+    mc "Say it! {w}And that you love my cock!" with hpunch
 
 # game/game/akane_events.rpy:5522
 translate ukrainian akane_gal5_99e8841f:
 
     # ak "AaaAahmnm!~{image=corazon}{image=corazon}"
-    ak "AaaAahmnm!~{image=corazon}{image=corazon}"
+    ak "AaaAahmnm!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5523
 translate ukrainian akane_gal5_201fa526:
@@ -18885,25 +18885,25 @@ translate ukrainian akane_gal5_201fa526:
 translate ukrainian akane_gal5_38f0af5a:
 
     # mc "I won't stop until you say so!"
-    mc "I won't stop until you say so!"
+    mc "I won't stop until you say so!" with vpunch
 
 # game/game/akane_events.rpy:5526
 translate ukrainian akane_gal5_f9316a12:
 
     # ak "I-I love your damn c-cock!!!~{image=corazon}{image=corazon}{image=corazon}"
-    ak "I-I love your damn c-cock!!!~{image=corazon}{image=corazon}{image=corazon}"
+    ak "I-I love your damn c-cock!!!~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:5533
 translate ukrainian akane_gal5_13de748d:
 
     # ak "GgHGNMhnmnHmnm~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "GgHGNMhnmnHmnm~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "GgHGNMhnmnHmnm~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5537
 translate ukrainian akane_gal5_2b0d82a8:
 
     # ak "OOGHhmnNmNNM~~{image=corazon}{image=corazon}"
-    ak "OOGHhmnNmNNM~~{image=corazon}{image=corazon}"
+    ak "OOGHhmnNmNNM~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:5539
 translate ukrainian akane_gal5_fb910886:
@@ -19137,7 +19137,7 @@ translate ukrainian waiting_journey_46b79df3:
 translate ukrainian waiting_journey_388cf765:
 
     # ak "Do you like the view?!"
-    ak "Do you like the view?!"
+    ak "Do you like the view?!" (multiple=2)
 
 # game/game/akane_events.rpy:5620
 translate ukrainian waiting_journey_d55b4618:
@@ -19149,7 +19149,7 @@ translate ukrainian waiting_journey_d55b4618:
 translate ukrainian waiting_journey_29de63f6:
 
     # mc "{sc=3}{outlinecolor=#000000}MHnm {w}NHM {w}mhn!"
-    mc "{sc=3}{outlinecolor=#000000}MHnm {w}NHM {w}mhn!"
+    mc "{sc=3}{outlinecolor=#000000}MHnm {w}NHM {w}mhn!" with hpunch
 
 # game/game/akane_events.rpy:5624
 translate ukrainian waiting_journey_b238eff6:
@@ -19161,13 +19161,13 @@ translate ukrainian waiting_journey_b238eff6:
 translate ukrainian waiting_journey_5973dc38:
 
     # mc "{size=-6}Huuf..."
-    mc "{size=-6}Huuf..."
+    mc "{size=-6}Huuf..." with cumflash
 
 # game/game/akane_events.rpy:5626
 translate ukrainian waiting_journey_2f6d48f0:
 
     # ak "D-Don't blow there!!"
-    ak "D-Don't blow there!!"
+    ak "D-Don't blow there!!" with hpunch
 
 # game/game/akane_events.rpy:5627
 translate ukrainian waiting_journey_a20cefa7:
@@ -19335,7 +19335,7 @@ translate ukrainian waiting_journey_c3bf3be3:
 translate ukrainian waiting_journey_6cab7a62:
 
     # ak "{i}{size=-6}Hmmp."
-    ak "{i}{size=-6}Hmmp."
+    ak "{i}{size=-6}Hmmp." (multiple=2)
 
 # game/game/akane_events.rpy:5665
 translate ukrainian waiting_journey_b90c4e60:
@@ -19491,19 +19491,19 @@ translate ukrainian waiting_journey_00d6d1ca:
 translate ukrainian waiting_journey_c0ff385c:
 
     # t "{i}I need to see her!"
-    t "{i}I need to see her!"
+    t "{i}I need to see her!" with vpunch
 
 # game/game/akane_events.rpy:5701
 translate ukrainian waiting_journey_1adc4c46:
 
     # ak "Don't even try!"
-    ak "Don't even try!"
+    ak "Don't even try!" (multiple=2)
 
 # game/game/akane_events.rpy:5702
 translate ukrainian waiting_journey_690bab51:
 
     # mc "Ahg!"
-    mc "Ahg!"
+    mc "Ahg!" (multiple=2)
 
 # game/game/akane_events.rpy:5704
 translate ukrainian waiting_journey_1f5b224d:
@@ -19515,7 +19515,7 @@ translate ukrainian waiting_journey_1f5b224d:
 translate ukrainian waiting_journey_46f2deb7:
 
     # ak "You are so obvious that I could tell as soon as you thought of it!"
-    ak "You are so obvious that I could tell as soon as you thought of it!"
+    ak "You are so obvious that I could tell as soon as you thought of it!" with vpunch
 
 # game/game/akane_events.rpy:5707
 translate ukrainian waiting_journey_9490f96a:
@@ -19533,7 +19533,7 @@ translate ukrainian waiting_journey_a3555d6c:
 translate ukrainian waiting_journey_45c9e966:
 
     # mc "{size=-6}Back to being{/size} {size=-10}just an ener-"
-    mc "{size=-6}Back to being{/size} {size=-10}just an ener-"
+    mc "{size=-6}Back to being{/size} {size=-10}just an ener-" (multiple=3)
 
 # game/game/akane_events.rpy:5711
 translate ukrainian waiting_journey_9d6a4397:
@@ -19611,7 +19611,7 @@ translate ukrainian waiting_journey_78817d4a:
 translate ukrainian waiting_journey_35aeb28b:
 
     # ak "S-Shut up! And why are you always touching my face?!"
-    ak "S-Shut up! And why are you always touching my face?!"
+    ak "S-Shut up! And why are you always touching my face?!" with vpunch
 
 # game/game/akane_events.rpy:5729
 translate ukrainian waiting_journey_f4e94f22:
@@ -19695,13 +19695,13 @@ translate ukrainian waiting_journey_eb2f8896:
 translate ukrainian waiting_journey_c4106457:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" (multiple=2)
 
 # game/game/akane_events.rpy:5767
 translate ukrainian waiting_journey_679a9006:
 
     # ak "Don't say it like that!"
-    ak "Don't say it like that!"
+    ak "Don't say it like that!" (multiple=2)
 
 # game/game/akane_events.rpy:5769
 translate ukrainian waiting_journey_0ae2095c:
@@ -19767,7 +19767,7 @@ translate ukrainian waiting_journey_e84c2222:
 translate ukrainian waiting_journey_2db97854:
 
     # ak "Ha! {w=0.5}Impossible, {w=0.5}I have never been careless about it."
-    ak "Ha! {w=0.5}Impossible, {w=0.5}I have never been careless about it."
+    ak "Ha! {w=0.5}Impossible, {w=0.5}I have never been careless about it." with hpunch
 
 # game/game/akane_events.rpy:5785
 translate ukrainian waiting_journey_25c56093:
@@ -19809,7 +19809,7 @@ translate ukrainian waiting_journey_190a4155:
 translate ukrainian waiting_journey_2c89b2a1:
 
     # ak "Of course I am! Unless you have told them before."
-    ak "Of course I am! Unless you have told them before."
+    ak "Of course I am! Unless you have told them before." with hpunch
 
 # game/game/akane_events.rpy:5795
 translate ukrainian waiting_journey_a06e1343:
@@ -19845,13 +19845,13 @@ translate ukrainian akane_secrets_4ef07a7b:
 translate ukrainian akane_secrets_e6160605:
 
     # r "{size=-6}{i}Uaah!"
-    r "{size=-6}{i}Uaah!"
+    r "{size=-6}{i}Uaah!" (multiple=2)
 
 # game/game/akane_events.rpy:5814
 translate ukrainian akane_secrets_9485d4f7:
 
     # c "{size=-6}{i}Ghnya!"
-    c "{size=-6}{i}Ghnya!"
+    c "{size=-6}{i}Ghnya!" (multiple=3)
 
 # game/game/akane_events.rpy:5815
 translate ukrainian akane_secrets_df2aeb94:
@@ -19881,7 +19881,7 @@ translate ukrainian akane_secrets_fbe68cd4:
 translate ukrainian akane_secrets_f511cd46:
 
     # r "S-Sorry! {w}Let me help you!"
-    r "S-Sorry! {w}Let me help you!"
+    r "S-Sorry! {w}Let me help you!" with hpunch
 
 # game/game/akane_events.rpy:5823
 translate ukrainian akane_secrets_2b35b6fe:
@@ -19971,13 +19971,13 @@ translate ukrainian akane_secrets_d056cece:
 translate ukrainian akane_secrets_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/akane_events.rpy:5845
 translate ukrainian akane_secrets_1e76c451:
 
     # r "Master?"
-    r "Master?"
+    r "Master?" (multiple=3)
 
 # game/game/akane_events.rpy:5846
 translate ukrainian akane_secrets_46b79df3:
@@ -20019,13 +20019,13 @@ translate ukrainian akane_secrets_7818dedb:
 translate ukrainian akane_secrets_22431ab3:
 
     # ak "Gagh!-"
-    ak "Gagh!-"
+    ak "Gagh!-" (multiple=2)
 
 # game/game/akane_events.rpy:5857
 translate ukrainian akane_secrets_3caad02b:
 
     # mc "Nice."
-    mc "Nice."
+    mc "Nice." (multiple=2)
 
 # game/game/akane_events.rpy:5858
 translate ukrainian akane_secrets_592789a9:
@@ -20037,7 +20037,7 @@ translate ukrainian akane_secrets_592789a9:
 translate ukrainian akane_secrets_6b172219:
 
     # ak "What the hell do you think we were doing?!"
-    ak "What the hell do you think we were doing?!"
+    ak "What the hell do you think we were doing?!" with vpunch
 
 # game/game/akane_events.rpy:5871
 translate ukrainian akane_secrets_aee6a80a:
@@ -20073,7 +20073,7 @@ translate ukrainian akane_secrets_6d2c2a53:
 translate ukrainian akane_secrets_8392086d:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" with hpunch
 
 # game/game/akane_events.rpy:5883
 translate ukrainian akane_secrets_9bd3b439:
@@ -20097,13 +20097,13 @@ translate ukrainian akane_secrets_6b35f4a4:
 translate ukrainian akane_secrets_41fd806e:
 
     # c "Eh?"
-    c "Eh?"
+    c "Eh?" (multiple=2)
 
 # game/game/akane_events.rpy:5887
 translate ukrainian akane_secrets_23100bbe:
 
     # ak "Eh?"
-    ak "Eh?"
+    ak "Eh?" (multiple=2)
 
 # game/game/akane_events.rpy:5897
 translate ukrainian akane_secrets_31e5d80b:
@@ -20259,7 +20259,7 @@ translate ukrainian akane_secrets_113d396d:
 translate ukrainian akane_secrets_a40258a0:
 
     # r "The coolest!"
-    r "The coolest!"
+    r "The coolest!" with vpunch
 
 # game/game/akane_events.rpy:5932
 translate ukrainian akane_secrets_2b35b6fe_4:
@@ -20301,13 +20301,13 @@ translate ukrainian akane_secrets_86dbc9f6:
 translate ukrainian akane_secrets_f0c78c10_1:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/akane_events.rpy:5942
 translate ukrainian akane_secrets_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/akane_events.rpy:5944
 translate ukrainian akane_secrets_81afff55:
@@ -20319,13 +20319,13 @@ translate ukrainian akane_secrets_81afff55:
 translate ukrainian akane_secrets_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/akane_events.rpy:5946
 translate ukrainian akane_secrets_61d414c8:
 
     # r "..."
-    r "..."
+    r "..." (multiple=3)
 
 # game/game/akane_events.rpy:5947
 translate ukrainian akane_secrets_46b79df3_2:
@@ -20337,25 +20337,25 @@ translate ukrainian akane_secrets_46b79df3_2:
 translate ukrainian akane_secrets_9b073cfb:
 
     # ak "No!"
-    ak "No!"
+    ak "No!" with hpunch
 
 # game/game/akane_events.rpy:5951
 translate ukrainian akane_secrets_37501344:
 
     # r "Eeeh?!"
-    r "Eeeh?!"
+    r "Eeeh?!" (multiple=2)
 
 # game/game/akane_events.rpy:5952
 translate ukrainian akane_secrets_b4822b75:
 
     # mc "Eh?!"
-    mc "Eh?!"
+    mc "Eh?!" (multiple=2)
 
 # game/game/akane_events.rpy:5953
 translate ukrainian akane_secrets_26e813a9:
 
     # ak "Why are you surprised too?!"
-    ak "Why are you surprised too?!"
+    ak "Why are you surprised too?!" with vpunch
 
 # game/game/akane_events.rpy:5955
 translate ukrainian akane_secrets_e2fe5bbc:
@@ -20379,7 +20379,7 @@ translate ukrainian akane_secrets_f4568d30:
 translate ukrainian akane_secrets_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:5960
 translate ukrainian akane_secrets_b42b48ef:
@@ -20433,13 +20433,13 @@ translate ukrainian akane_secrets_affec3e3:
 translate ukrainian akane_secrets_56859c56:
 
     # ak "I'm a vampire!"
-    ak "I'm a vampire!"
+    ak "I'm a vampire!" with hpunch
 
 # game/game/akane_events.rpy:5971
 translate ukrainian akane_secrets_3ff4bc74_1:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/akane_events.rpy:5972
 translate ukrainian akane_secrets_d19f855d:
@@ -20481,7 +20481,7 @@ translate ukrainian akane_secrets_8aaed709:
 translate ukrainian akane_secrets_8468c8d4:
 
     # ak "I want the two of you to be my f-friends!"
-    ak "I want the two of you to be my f-friends!"
+    ak "I want the two of you to be my f-friends!" with vpunch
 
 # game/game/akane_events.rpy:5982
 translate ukrainian akane_secrets_23ba6a81:
@@ -20589,7 +20589,7 @@ translate ukrainian akane_secrets_38d2dc1a:
 translate ukrainian akane_secrets_ba856877:
 
     # ak "Wait wait wait!"
-    ak "Wait wait wait!"
+    ak "Wait wait wait!" with vpunch
 
 # game/game/akane_events.rpy:6006
 translate ukrainian akane_secrets_b6d90692:
@@ -20613,13 +20613,13 @@ translate ukrainian akane_secrets_bbc24680:
 translate ukrainian akane_secrets_ab2db673:
 
     # c "Uhhm..."
-    c "Uhhm..."
+    c "Uhhm..." (multiple=2)
 
 # game/game/akane_events.rpy:6011
 translate ukrainian akane_secrets_4ba0dc55:
 
     # r "Err..."
-    r "Err..."
+    r "Err..." (multiple=2)
 
 # game/game/akane_events.rpy:6013
 translate ukrainian akane_secrets_7e691c6e:
@@ -20661,7 +20661,7 @@ translate ukrainian akane_secrets_6c29bc55:
 translate ukrainian akane_secrets_274c1eee:
 
     # ak "What does that have to do with this?!"
-    ak "What does that have to do with this?!"
+    ak "What does that have to do with this?!" with hpunch
 
 # game/game/akane_events.rpy:6022
 translate ukrainian akane_secrets_57c6e0af:
@@ -20679,13 +20679,13 @@ translate ukrainian akane_secrets_174a00cd:
 translate ukrainian akane_secrets_7aeb5e36:
 
     # c "Your smile."
-    c "Your smile."
+    c "Your smile." (multiple=2)
 
 # game/game/akane_events.rpy:6026
 translate ukrainian akane_secrets_aea25484:
 
     # r "Your smile~"
-    r "Your smile~"
+    r "Your smile~" (multiple=2)
 
 # game/game/akane_events.rpy:6028
 translate ukrainian akane_secrets_c3c0ace2:
@@ -20709,7 +20709,7 @@ translate ukrainian akane_secrets_3fb77c58:
 translate ukrainian akane_secrets_8c6efad4_1:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/akane_events.rpy:6033
 translate ukrainian akane_secrets_3069bd0f:
@@ -20901,13 +20901,13 @@ translate ukrainian akane_secrets_423c80f6:
 translate ukrainian akane_secrets_3ff4bc74_2:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/akane_events.rpy:6076
 translate ukrainian akane_secrets_abf1a1fe:
 
     # ak "..."
-    ak "..."
+    ak "..." (multiple=2)
 
 # game/game/akane_events.rpy:6077
 translate ukrainian akane_secrets_bbc84f7f:
@@ -20925,7 +20925,7 @@ translate ukrainian akane_secrets_26eefe0a:
 translate ukrainian akane_secrets_9753b945:
 
     # "Hahaha"
-    "Hahaha"
+    "Hahaha" with hpunch
 
 # game/game/akane_events.rpy:6080
 translate ukrainian akane_secrets_2b35b6fe_5:
@@ -21045,7 +21045,7 @@ translate ukrainian road_clan_9190c706:
 translate ukrainian road_clan_175e4431:
 
     # ak "You are not going to meet her!"
-    ak "You are not going to meet her!"
+    ak "You are not going to meet her!" with vpunch
 
 # game/game/akane_events.rpy:6131
 translate ukrainian road_clan_27ca6ac7:
@@ -21075,7 +21075,7 @@ translate ukrainian road_clan_aac213ee:
 translate ukrainian road_clan_8e9b3681:
 
     # ak "I-I don't want any trouble!"
-    ak "I-I don't want any trouble!"
+    ak "I-I don't want any trouble!" with vpunch
 
 # game/game/akane_events.rpy:6138
 translate ukrainian road_clan_2b35b6fe:
@@ -21141,13 +21141,13 @@ translate ukrainian road_clan_d5283382:
 translate ukrainian road_clan_a5c7cba8:
 
     # ak "D-Da-"
-    ak "D-Da-"
+    ak "D-Da-" with vpunch
 
 # game/game/akane_events.rpy:6151
 translate ukrainian road_clan_6a877cf4:
 
     # ak "This is not a date!"
-    ak "This is not a date!"
+    ak "This is not a date!" with hpunch
 
 # game/game/akane_events.rpy:6152
 translate ukrainian road_clan_a20cefa7:
@@ -21255,25 +21255,25 @@ translate ukrainian road_clan_ff6f5059:
 translate ukrainian road_clan_284e8c5b:
 
     # c "I only ask him to be efficient, that's all."
-    c "I only ask him to be efficient, that's all."
+    c "I only ask him to be efficient, that's all." (multiple=2)
 
 # game/game/akane_events.rpy:6174
 translate ukrainian road_clan_d5b9dba2:
 
     # ak "{i}{size=-6}How do they hug him so easily?"
-    ak "{i}{size=-6}How do they hug him so easily?"
+    ak "{i}{size=-6}How do they hug him so easily?" (multiple=2)
 
 # game/game/akane_events.rpy:6175
 translate ukrainian road_clan_0c7b106c:
 
     # r "Are you sure? {w}Your tail and ears say otherwise."
-    r "Are you sure? {w}Your tail and ears say otherwise."
+    r "Are you sure? {w}Your tail and ears say otherwise." (multiple=2)
 
 # game/game/akane_events.rpy:6176
 translate ukrainian road_clan_dca96f3b:
 
     # ak "{i}{size=-6}Would it be weird if I started doing it out of the blue?"
-    ak "{i}{size=-6}Would it be weird if I started doing it out of the blue?"
+    ak "{i}{size=-6}Would it be weird if I started doing it out of the blue?" (multiple=2)
 
 # game/game/akane_events.rpy:6177
 translate ukrainian road_clan_d19f855d:
@@ -21285,7 +21285,7 @@ translate ukrainian road_clan_d19f855d:
 translate ukrainian road_clan_2d1ffdb8:
 
     # ak "{i}{size=-6}Wait, why would I have to?"
-    ak "{i}{size=-6}Wait, why would I have to?"
+    ak "{i}{size=-6}Wait, why would I have to?" with vpunch
 
 # game/game/akane_events.rpy:6180
 translate ukrainian road_clan_79137e21:
@@ -21297,13 +21297,13 @@ translate ukrainian road_clan_79137e21:
 translate ukrainian road_clan_cac23570:
 
     # r "Hahaha, don't come out with that."
-    r "Hahaha, don't come out with that."
+    r "Hahaha, don't come out with that." (multiple=2)
 
 # game/game/akane_events.rpy:6182
 translate ukrainian road_clan_8542dcd2:
 
     # ak "{i}{size=-6}Does seeing the amount of affection \nbetween them make me want to do it too?!"
-    ak "{i}{size=-6}Does seeing the amount of affection \nbetween them make me want to do it too?!"
+    ak "{i}{size=-6}Does seeing the amount of affection \nbetween them make me want to do it too?!" (multiple=2)
 
 # game/game/akane_events.rpy:6183
 translate ukrainian road_clan_652650d3:
@@ -21465,7 +21465,7 @@ translate ukrainian road_clan_1f5b224d:
 translate ukrainian road_clan_f7f88f98:
 
     # ak "W-Wh-"
-    ak "W-Wh-"
+    ak "W-Wh-" with vpunch
 
 # game/game/akane_events.rpy:6224
 translate ukrainian road_clan_ea902be3:
@@ -21489,7 +21489,7 @@ translate ukrainian road_clan_d24579ba:
 translate ukrainian road_clan_57afed74:
 
     # ak "L-Let's go!"
-    ak "L-Let's go!"
+    ak "L-Let's go!" with vpunch
 
 # game/game/akane_events.rpy:6230
 translate ukrainian road_clan_1eaad7b0:
@@ -21579,13 +21579,13 @@ translate ukrainian road_clan_e435fcf4:
 translate ukrainian road_clan_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/akane_events.rpy:6249
 translate ukrainian road_clan_3c3d213a:
 
     # y "I thought we would have a normal conversation for once!"
-    y "I thought we would have a normal conversation for once!"
+    y "I thought we would have a normal conversation for once!" with hpunch
 
 # game/game/akane_events.rpy:6250
 translate ukrainian road_clan_1f5b224d_1:
@@ -21657,25 +21657,25 @@ translate ukrainian road_clan_7fc9c534:
 translate ukrainian road_clan_98fe0216:
 
     # ak "Ha! {w}As if this is going to do anything to m-"
-    ak "Ha! {w}As if this is going to do anything to m-"
+    ak "Ha! {w}As if this is going to do anything to m-" with hpunch
 
 # game/game/akane_events.rpy:6271
 translate ukrainian road_clan_f5fdfc30:
 
     # ak "{i}{sc=3}{outlinecolor=#000000}Aa-{w=0.5}aAaah-"
-    ak "{i}{sc=3}{outlinecolor=#000000}Aa-{w=0.5}aAaah-"
+    ak "{i}{sc=3}{outlinecolor=#000000}Aa-{w=0.5}aAaah-" with hpunch
 
 # game/game/akane_events.rpy:6272
 translate ukrainian road_clan_7542e976:
 
     # mc "Akan-!"
-    mc "Akan-!"
+    mc "Akan-!" with hpunch
 
 # game/game/akane_events.rpy:6279
 translate ukrainian road_clan_15a4aef6:
 
     # mc "Uegh!"
-    mc "Uegh!"
+    mc "Uegh!" with cumflash
 
 # game/game/akane_events.rpy:6280
 translate ukrainian road_clan_e83b03c8:
@@ -21705,7 +21705,7 @@ translate ukrainian road_clan_d9e68409_1:
 translate ukrainian road_clan_b4823d31:
 
     # ak "Ah! Yes!"
-    ak "Ah! Yes!"
+    ak "Ah! Yes!" with vpunch
 
 # game/game/akane_events.rpy:6290
 translate ukrainian road_clan_20ca4789:
@@ -21771,7 +21771,7 @@ translate ukrainian road_clan_46b79df3_4:
 translate ukrainian road_clan_ebb087e7:
 
     # ak "Hahahaha~"
-    ak "Hahahaha~"
+    ak "Hahahaha~" with hpunch
 
 # game/game/akane_events.rpy:6304
 translate ukrainian road_clan_84b0d4c1:
@@ -21783,7 +21783,7 @@ translate ukrainian road_clan_84b0d4c1:
 translate ukrainian road_clan_c05c2b99:
 
     # ak "A trap he says, {w=0.5}hahahaha~"
-    ak "A trap he says, {w=0.5}hahahaha~"
+    ak "A trap he says, {w=0.5}hahahaha~" with vpunch
 
 # game/game/akane_events.rpy:6306
 translate ukrainian road_clan_b969a8a6:
@@ -22203,7 +22203,7 @@ translate ukrainian road_clan_440313fd:
 translate ukrainian road_clan_b9c7447a:
 
     # ak "Gh-"
-    ak "Gh-"
+    ak "Gh-" with hpunch
 
 # game/game/akane_events.rpy:6411
 translate ukrainian road_clan_d0e81a11:
@@ -22239,7 +22239,7 @@ translate ukrainian road_clan_03fb3e88_1:
 translate ukrainian road_clan_2416ff68:
 
     # ak "{b}Hmmm!"
-    ak "{b}Hmmm!"
+    ak "{b}Hmmm!" with vpunch
 
 # game/game/akane_events.rpy:6419
 translate ukrainian road_clan_2b35b6fe_1:
@@ -22269,7 +22269,7 @@ translate ukrainian road_clan_cae54db4:
 translate ukrainian road_clan_5d444a05:
 
     # ak "Don't think I do it because of what you just said!"
-    ak "Don't think I do it because of what you just said!"
+    ak "Don't think I do it because of what you just said!" with hpunch
 
 # game/game/akane_events.rpy:6427
 translate ukrainian road_clan_34c2376b:
@@ -22395,7 +22395,7 @@ translate ukrainian road_clan_d6fa921c:
 translate ukrainian road_clan_55396b10:
 
     # ak "That's the one thing I didn't want to have in mind!"
-    ak "That's the one thing I didn't want to have in mind!"
+    ak "That's the one thing I didn't want to have in mind!" with hpunch
 
 # game/game/akane_events.rpy:6459
 translate ukrainian road_clan_1f5b224d_2:
@@ -22443,7 +22443,7 @@ translate ukrainian road_clan_283b59fb:
 translate ukrainian road_clan_4a1f3b3a:
 
     # "{i}{sc=3}{outlinecolor=#000000}....."
-    "{i}{sc=3}{outlinecolor=#000000}....."
+    "{i}{sc=3}{outlinecolor=#000000}....." with hpunch
 
 # game/game/akane_events.rpy:6472
 translate ukrainian road_clan_7397b6d3:
@@ -22641,25 +22641,25 @@ translate ukrainian road_clan_d9f93948:
 translate ukrainian road_clan_44c911fe:
 
     # mc "{i}{size=-6}Nom."
-    mc "{i}{size=-6}Nom."
+    mc "{i}{size=-6}Nom." (multiple=2)
 
 # game/game/akane_events.rpy:6516
 translate ukrainian road_clan_070a186d:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" (multiple=2)
 
 # game/game/akane_events.rpy:6522
 translate ukrainian road_clan_72c49477:
 
     # mc "{sc=3}{outlinecolor=#000000}GhNMhp!"
-    mc "{sc=3}{outlinecolor=#000000}GhNMhp!"
+    mc "{sc=3}{outlinecolor=#000000}GhNMhp!" (multiple=2)
 
 # game/game/akane_events.rpy:6523
 translate ukrainian road_clan_d026b8af:
 
     # ak "Slime! Worm! Pervert!"
-    ak "Slime! Worm! Pervert!"
+    ak "Slime! Worm! Pervert!" (multiple=2)
 
 # game/game/akane_events.rpy:6525
 translate ukrainian road_clan_a5ccb3e6:
@@ -22689,7 +22689,7 @@ translate ukrainian road_clan_c69b9c6a:
 translate ukrainian road_clan_9c57394c:
 
     # mc "This is delicious."
-    mc "This is delicious."
+    mc "This is delicious." (multiple=2)
 
 # game/game/akane_events.rpy:6531
 translate ukrainian road_clan_758c4eff:
@@ -22725,13 +22725,13 @@ translate ukrainian road_clan_3d1cb33a:
 translate ukrainian road_clan_377e3554:
 
     # mc "Mmm..."
-    mc "Mmm..."
+    mc "Mmm..." (multiple=2)
 
 # game/game/akane_events.rpy:6540
 translate ukrainian road_clan_68591a4d:
 
     # ak "{i}{size=-6}Ggagh!"
-    ak "{i}{size=-6}Ggagh!"
+    ak "{i}{size=-6}Ggagh!" (multiple=2)
 
 # game/game/akane_events.rpy:6542
 translate ukrainian road_clan_a66e7200:
@@ -22755,7 +22755,7 @@ translate ukrainian road_clan_0e58d9c7:
 translate ukrainian road_clan_40c2d986:
 
     # ak "[mc]!?"
-    ak "[mc]!?"
+    ak "[mc]!?" with vpunch
 
 # game/game/akane_events.rpy:6562
 translate ukrainian road_clan_b4cc25a8:
@@ -22803,7 +22803,7 @@ translate ukrainian road_clan_c7f5e74b:
 translate ukrainian road_clan_4652db60:
 
     # ak "Listen to me! "
-    ak "Listen to me! "
+    ak "Listen to me! " with hpunch
 
 # game/game/akane_events.rpy:6577
 translate ukrainian road_clan_7c9475a0:
@@ -22893,7 +22893,7 @@ translate ukrainian road_clan_ce147a6b:
 translate ukrainian road_clan_3b61651a:
 
     # ak "{i}{size=-6}Listen to me, don't do anything stupid."
-    ak "{i}{size=-6}Listen to me, don't do anything stupid."
+    ak "{i}{size=-6}Listen to me, don't do anything stupid." (multiple=2)
 
 # game/game/akane_events.rpy:6598
 translate ukrainian road_clan_d03d82c3:
@@ -22911,7 +22911,7 @@ translate ukrainian road_clan_f26e60b9:
 translate ukrainian road_clan_9cf02dce:
 
     # ak "{i}{size=-6}That's it, close your eyes and just stay with me."
-    ak "{i}{size=-6}That's it, close your eyes and just stay with me."
+    ak "{i}{size=-6}That's it, close your eyes and just stay with me." (multiple=2)
 
 # game/game/akane_events.rpy:6603
 translate ukrainian road_clan_c184ac70:
@@ -22959,7 +22959,7 @@ translate ukrainian road_clan_35ffb60f:
 translate ukrainian road_clan_ed069a09:
 
     # "{color=#BC4849}{i}He is very fast!"
-    "{color=#BC4849}{i}He is very fast!"
+    "{color=#BC4849}{i}He is very fast!" with vpunch
 
 # game/game/akane_events.rpy:6664
 translate ukrainian road_clan_04b29603:
@@ -22971,13 +22971,13 @@ translate ukrainian road_clan_04b29603:
 translate ukrainian road_clan_de25c264:
 
     # "{color=#28A0C8}{i}Just keep shooting at him!"
-    "{color=#28A0C8}{i}Just keep shooting at him!"
+    "{color=#28A0C8}{i}Just keep shooting at him!" with hpunch
 
 # game/game/akane_events.rpy:6670
 translate ukrainian road_clan_3dc797a2:
 
     # "{color=#BC4849}{i}He grabbed me!"
-    "{color=#BC4849}{i}He grabbed me!"
+    "{color=#BC4849}{i}He grabbed me!" with hpunch
 
 # game/game/akane_events.rpy:6673
 translate ukrainian road_clan_3edd67c6:
@@ -22989,7 +22989,7 @@ translate ukrainian road_clan_3edd67c6:
 translate ukrainian road_clan_e7383a00:
 
     # "{sc=3}{outlinecolor=#000000}{color=#BC4849}Uaghh!"
-    "{sc=3}{outlinecolor=#000000}{color=#BC4849}Uaghh!"
+    "{sc=3}{outlinecolor=#000000}{color=#BC4849}Uaghh!" with vpunch
 
 # game/game/akane_events.rpy:6684
 translate ukrainian road_clan_bed6040f:
@@ -23001,7 +23001,7 @@ translate ukrainian road_clan_bed6040f:
 translate ukrainian road_clan_fdb2afdf:
 
     # "{color=#28A0C8}{i}Why do the arrows have no effect?!"
-    "{color=#28A0C8}{i}Why do the arrows have no effect?!"
+    "{color=#28A0C8}{i}Why do the arrows have no effect?!" with vpunch
 
 # game/game/akane_events.rpy:6691
 translate ukrainian road_clan_ffa0dd2c:
@@ -23169,7 +23169,7 @@ translate ukrainian road_clan_238d0474:
 translate ukrainian road_clan_31360d8f:
 
     # "{color=#F47628}Y-Yes, I am very grateful too Akane-sama!"
-    "{color=#F47628}Y-Yes, I am very grateful too Akane-sama!"
+    "{color=#F47628}Y-Yes, I am very grateful too Akane-sama!" with hpunch
 
 # game/game/akane_events.rpy:6766
 translate ukrainian road_clan_5be25a8e:
@@ -23187,13 +23187,13 @@ translate ukrainian road_clan_a488f0ba:
 translate ukrainian road_clan_a2e8d6ee:
 
     # "{color=#dba334}Yes."
-    "{color=#dba334}Yes."
+    "{color=#dba334}Yes." (multiple=2)
 
 # game/game/akane_events.rpy:6770
 translate ukrainian road_clan_483ca2f1:
 
     # "{color=#F47628}Yes."
-    "{color=#F47628}Yes."
+    "{color=#F47628}Yes." (multiple=2)
 
 # game/game/akane_events.rpy:6771
 translate ukrainian road_clan_a20cefa7_3:
@@ -23451,7 +23451,7 @@ translate ukrainian road_clan_9616f14d:
 translate ukrainian road_clan_2cecb60d:
 
     # "{color=#6F3A68}I want to taste blood that is not from disgusting bandits!"
-    "{color=#6F3A68}I want to taste blood that is not from disgusting bandits!"
+    "{color=#6F3A68}I want to taste blood that is not from disgusting bandits!" with vpunch
 
 # game/game/akane_events.rpy:6840
 translate ukrainian road_clan_4a73c87d:
@@ -23469,13 +23469,13 @@ translate ukrainian road_clan_1fb452cb:
 translate ukrainian road_clan_afcc52e5:
 
     # "{color=#BC4849}..."
-    "{color=#BC4849}..."
+    "{color=#BC4849}..." (multiple=2)
 
 # game/game/akane_events.rpy:6844
 translate ukrainian road_clan_24a0aebf:
 
     # "{color=#6F3A68}..."
-    "{color=#6F3A68}..."
+    "{color=#6F3A68}..." (multiple=2)
 
 # game/game/akane_events.rpy:6846
 translate ukrainian road_clan_9fda4626:
@@ -23517,7 +23517,7 @@ translate ukrainian road_clan_35b9a24a:
 translate ukrainian road_clan_cfd7c240:
 
     # "{color=#BC4849}Hey!"
-    "{color=#BC4849}Hey!"
+    "{color=#BC4849}Hey!" with hpunch
 
 # game/game/akane_events.rpy:6855
 translate ukrainian road_clan_378f19b9:
@@ -23565,25 +23565,25 @@ translate ukrainian road_clan_d4146e4f:
 translate ukrainian road_clan_8257badd:
 
     # "{color=#6F3A68}...!"
-    "{color=#6F3A68}...!"
+    "{color=#6F3A68}...!" (multiple=2)
 
 # game/game/akane_events.rpy:6867
 translate ukrainian road_clan_14a0c331:
 
     # "{color=#BC4849}...!"
-    "{color=#BC4849}...!"
+    "{color=#BC4849}...!" (multiple=2)
 
 # game/game/akane_events.rpy:6869
 translate ukrainian road_clan_2f345e54:
 
     # "{color=#6F3A68}Yes!"
-    "{color=#6F3A68}Yes!"
+    "{color=#6F3A68}Yes!" (multiple=2)
 
 # game/game/akane_events.rpy:6870
 translate ukrainian road_clan_f82b5aa6:
 
     # "{color=#BC4849}Yes!"
-    "{color=#BC4849}Yes!"
+    "{color=#BC4849}Yes!" (multiple=2)
 
 # game/game/akane_events.rpy:6871
 translate ukrainian road_clan_3f871f46_2:
@@ -23721,7 +23721,7 @@ translate ukrainian road_clan_1be26a80:
 translate ukrainian road_clan_c3ef6a36:
 
     # mc "{sc=3}{outlinecolor=#000000}{i}{size=-6}Cough {w=0.5}Cough{w=0.5} Cough-"
-    mc "{sc=3}{outlinecolor=#000000}{i}{size=-6}Cough {w=0.5}Cough{w=0.5} Cough-"
+    mc "{sc=3}{outlinecolor=#000000}{i}{size=-6}Cough {w=0.5}Cough{w=0.5} Cough-" with vpunch
 
 # game/game/akane_events.rpy:6904
 translate ukrainian road_clan_711e4c8d:
@@ -23745,7 +23745,7 @@ translate ukrainian road_clan_3af9d06a:
 translate ukrainian road_clan_c87d499e:
 
     # mc "{sc=3}{outlinecolor=#000000}{i}{size=-6}Cough {w=0.5}Cough-"
-    mc "{sc=3}{outlinecolor=#000000}{i}{size=-6}Cough {w=0.5}Cough-"
+    mc "{sc=3}{outlinecolor=#000000}{i}{size=-6}Cough {w=0.5}Cough-" with hpunch
 
 # game/game/akane_events.rpy:6909
 translate ukrainian road_clan_411394c3:
@@ -23757,49 +23757,49 @@ translate ukrainian road_clan_411394c3:
 translate ukrainian road_clan_71862602:
 
     # mc "{sc=3}{outlinecolor=#000000}Ak-{w=0.5}Cough-"
-    mc "{sc=3}{outlinecolor=#000000}Ak-{w=0.5}Cough-"
+    mc "{sc=3}{outlinecolor=#000000}Ak-{w=0.5}Cough-" with hpunch
 
 # game/game/akane_events.rpy:6912
 translate ukrainian road_clan_3bacc460:
 
     # "{color=#6F3A68}{i}{size=-6}Shut up! Do you want to get yourself killed?"
-    "{color=#6F3A68}{i}{size=-6}Shut up! Do you want to get yourself killed?"
+    "{color=#6F3A68}{i}{size=-6}Shut up! Do you want to get yourself killed?" with hpunch
 
 # game/game/akane_events.rpy:6921
 translate ukrainian road_clan_8257badd_1:
 
     # "{color=#6F3A68}...!"
-    "{color=#6F3A68}...!"
+    "{color=#6F3A68}...!" (multiple=2)
 
 # game/game/akane_events.rpy:6922
 translate ukrainian road_clan_14a0c331_1:
 
     # "{color=#BC4849}...!"
-    "{color=#BC4849}...!"
+    "{color=#BC4849}...!" (multiple=2)
 
 # game/game/akane_events.rpy:6923
 translate ukrainian road_clan_2ccc3d06:
 
     # mc "Akane!"
-    mc "Akane!"
+    mc "Akane!" with hpunch
 
 # game/game/akane_events.rpy:6924
 translate ukrainian road_clan_11a185db:
 
     # ak "[mc]! NO!"
-    ak "[mc]! NO!"
+    ak "[mc]! NO!" with vpunch
 
 # game/game/akane_events.rpy:6926
 translate ukrainian road_clan_fefc4e94:
 
     # mc "What are you doing to her?!"
-    mc "What are you doing to her?!"
+    mc "What are you doing to her?!" with hpunch
 
 # game/game/akane_events.rpy:6927
 translate ukrainian road_clan_4645cf62:
 
     # mc "Let her g-!"
-    mc "Let her g-!"
+    mc "Let her g-!" with vpunch
 
 # game/game/akane_events.rpy:6939
 translate ukrainian road_clan_1d0ede23:
@@ -23931,7 +23931,7 @@ translate ukrainian road_clan_f564b487:
 translate ukrainian road_clan_0001c8d7:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with hpunch
 
 # game/game/akane_events.rpy:6968
 translate ukrainian road_clan_7fb2b63a:
@@ -23943,7 +23943,7 @@ translate ukrainian road_clan_7fb2b63a:
 translate ukrainian road_clan_129abdd9:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough-{/size}{/sc} {w}Her friend."
-    mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough-{/size}{/sc} {w}Her friend."
+    mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough-{/size}{/sc} {w}Her friend." with vpunch
 
 # game/game/akane_events.rpy:6971
 translate ukrainian road_clan_594a3df3:
@@ -23961,7 +23961,7 @@ translate ukrainian road_clan_a260e673:
 translate ukrainian road_clan_d9970a0b:
 
     # mc "What?!"
-    mc "What?!"
+    mc "What?!" with hpunch
 
 # game/game/akane_events.rpy:6975
 translate ukrainian road_clan_bea5aae3:
@@ -24003,7 +24003,7 @@ translate ukrainian road_clan_446f2ac1:
 translate ukrainian road_clan_ad18c8c7:
 
     # kao "Oh I see! She is my daughter! {w}Problem solved."
-    kao "Oh I see! She is my daughter! {w}Problem solved."
+    kao "Oh I see! She is my daughter! {w}Problem solved." with hpunch
 
 # game/game/akane_events.rpy:6984
 translate ukrainian road_clan_0a902b7a:
@@ -24027,7 +24027,7 @@ translate ukrainian road_clan_8dfa3f55:
 translate ukrainian road_clan_6148c51f:
 
     # mc "I am not!- {w=0.5}{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough-{/size}{/sc}"
-    mc "I am not!- {w=0.5}{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough-{/size}{/sc}"
+    mc "I am not!- {w=0.5}{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough-{/size}{/sc}" with hpunch
 
 # game/game/akane_events.rpy:6990
 translate ukrainian road_clan_a46b2d64:
@@ -24093,7 +24093,7 @@ translate ukrainian road_clan_7b109d75:
 translate ukrainian road_clan_4c3a5e0b:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough- Cough-"
-    mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough- Cough-"
+    mc "{sc=3}{outlinecolor=#000000}{size=-6}{i}Cough- Cough-" with hpunch
 
 # game/game/akane_events.rpy:7006
 translate ukrainian road_clan_f1522e17:
@@ -24117,7 +24117,7 @@ translate ukrainian road_clan_5098100c:
 translate ukrainian road_clan_8d28d6e1:
 
     # mc "NO!"
-    mc "NO!"
+    mc "NO!" with hpunch
 
 # game/game/akane_events.rpy:7011
 translate ukrainian road_clan_c15cc7d6:
@@ -24135,31 +24135,31 @@ translate ukrainian road_clan_eb11a8f7:
 translate ukrainian road_clan_2eeeb3b5:
 
     # mc "STOP!"
-    mc "STOP!"
+    mc "STOP!" with hpunch
 
 # game/game/akane_events.rpy:7024
 translate ukrainian road_clan_8c1da8af:
 
     # "{color=#6F3A68}Eeh?"
-    "{color=#6F3A68}Eeh?"
+    "{color=#6F3A68}Eeh?" (multiple=2)
 
 # game/game/akane_events.rpy:7025
 translate ukrainian road_clan_63257568:
 
     # "{color=#28A0C8}W-What is he doing?"
-    "{color=#28A0C8}W-What is he doing?"
+    "{color=#28A0C8}W-What is he doing?" (multiple=2)
 
 # game/game/akane_events.rpy:7034
 translate ukrainian road_clan_b9ba1b05:
 
     # "{color=#6F3A68}Hey! Stop it!"
-    "{color=#6F3A68}Hey! Stop it!"
+    "{color=#6F3A68}Hey! Stop it!" with hpunch
 
 # game/game/akane_events.rpy:7039
 translate ukrainian road_clan_4deef0ea:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-6}HGnh!"
-    mc "{sc=3}{outlinecolor=#000000}{size=-6}HGnh!"
+    mc "{sc=3}{outlinecolor=#000000}{size=-6}HGnh!" with hpunch
 
 # game/game/akane_events.rpy:7040
 translate ukrainian road_clan_e9124679_3:
@@ -24189,7 +24189,7 @@ translate ukrainian road_clan_e9124679_4:
 translate ukrainian road_clan_6acecb65:
 
     # mc "{sc=3}{outlinecolor=#000000}HNGng-"
-    mc "{sc=3}{outlinecolor=#000000}HNGng-"
+    mc "{sc=3}{outlinecolor=#000000}HNGng-" with hpunch
 
 # game/game/akane_events.rpy:7060
 translate ukrainian road_clan_e9124679_5:
@@ -24309,7 +24309,7 @@ translate ukrainian road_clan_1d82a7e7_1:
 translate ukrainian road_clan_2ccc3d06_1:
 
     # mc "Akane!"
-    mc "Akane!"
+    mc "Akane!" with hpunch
 
 # game/game/akane_events.rpy:7129
 translate ukrainian road_clan_92ba0227:
@@ -24327,13 +24327,13 @@ translate ukrainian road_clan_42b1cf20:
 translate ukrainian road_clan_c90b2df7:
 
     # ak "Stupid!"
-    ak "Stupid!"
+    ak "Stupid!" (multiple=2)
 
 # game/game/akane_events.rpy:7138
 translate ukrainian road_clan_9e6a84fd:
 
     # mc "Uagh!"
-    mc "Uagh!"
+    mc "Uagh!" (multiple=2)
 
 # game/game/akane_events.rpy:7140
 translate ukrainian road_clan_50f70a2c:
@@ -24405,7 +24405,7 @@ translate ukrainian road_clan_46b79df3_10:
 translate ukrainian road_clan_37d9750a:
 
     # kao "{b}Ahem*"
-    kao "{b}Ahem*"
+    kao "{b}Ahem*" with vpunch
 
 # game/game/akane_events.rpy:7156
 translate ukrainian road_clan_f4b2784a:
@@ -24429,13 +24429,13 @@ translate ukrainian road_clan_a9b747fb:
 translate ukrainian road_clan_ba29da37:
 
     # mc "{sc=3}{outlinecolor=#000000}{size=-6}Uagh-"
-    mc "{sc=3}{outlinecolor=#000000}{size=-6}Uagh-"
+    mc "{sc=3}{outlinecolor=#000000}{size=-6}Uagh-" (multiple=2)
 
 # game/game/akane_events.rpy:7165
 translate ukrainian road_clan_bd9fffaf:
 
     # ak "Yes! I told you he is a carefree man!"
-    ak "Yes! I told you he is a carefree man!"
+    ak "Yes! I told you he is a carefree man!" (multiple=2)
 
 # game/game/akane_events.rpy:7166
 translate ukrainian road_clan_e9124679_7:
@@ -24501,7 +24501,7 @@ translate ukrainian road_clan_2347d74b:
 translate ukrainian road_clan_4ec6ef05:
 
     # mc "{sc=3}{outlinecolor=#000000}Uagh!"
-    mc "{sc=3}{outlinecolor=#000000}Uagh!"
+    mc "{sc=3}{outlinecolor=#000000}Uagh!" with hpunch
 
 # game/game/akane_events.rpy:7184
 translate ukrainian road_clan_33b8d343:
@@ -24513,7 +24513,7 @@ translate ukrainian road_clan_33b8d343:
 translate ukrainian road_clan_06845cf6:
 
     # ak "{i}{size=-10}{sc=3}{outlinecolor=#000000}M-Mother just praised a human?!"
-    ak "{i}{size=-10}{sc=3}{outlinecolor=#000000}M-Mother just praised a human?!"
+    ak "{i}{size=-10}{sc=3}{outlinecolor=#000000}M-Mother just praised a human?!" with hpunch
 
 # game/game/akane_events.rpy:7186
 translate ukrainian road_clan_0ce0f5ec:
@@ -24525,7 +24525,7 @@ translate ukrainian road_clan_0ce0f5ec:
 translate ukrainian road_clan_fa6c1ba8:
 
     # ak "Yes!"
-    ak "Yes!"
+    ak "Yes!" with hpunch
 
 # game/game/akane_events.rpy:7189
 translate ukrainian road_clan_7da81f88:
@@ -24795,13 +24795,13 @@ translate ukrainian road_clan_5c792928:
 translate ukrainian road_clan_768f36af:
 
     # "{color=#6F3A68}Yes."
-    "{color=#6F3A68}Yes."
+    "{color=#6F3A68}Yes." (multiple=2)
 
 # game/game/akane_events.rpy:7256
 translate ukrainian road_clan_483ca2f1_1:
 
     # "{color=#F47628}Yes."
-    "{color=#F47628}Yes."
+    "{color=#F47628}Yes." (multiple=2)
 
 # game/game/akane_events.rpy:7258
 translate ukrainian road_clan_2b35b6fe_13:
@@ -24819,7 +24819,7 @@ translate ukrainian road_clan_15c71814:
 translate ukrainian road_clan_669377cc:
 
     # ak "{sc=3}{outlinecolor=#000000}Gagh-"
-    ak "{sc=3}{outlinecolor=#000000}Gagh-"
+    ak "{sc=3}{outlinecolor=#000000}Gagh-" with hpunch
 
 # game/game/akane_events.rpy:7262
 translate ukrainian road_clan_d5e36b67:
@@ -24849,25 +24849,25 @@ translate ukrainian road_clan_3815648a:
 translate ukrainian road_clan_1b7ea41b:
 
     # lu "{size=-6}{i}Did she laugh?"
-    lu "{size=-6}{i}Did she laugh?"
+    lu "{size=-6}{i}Did she laugh?" (multiple=2)
 
 # game/game/akane_events.rpy:7269
 translate ukrainian road_clan_13f92e63:
 
     # ak "{size=-6}{i}D-Did she laugh?"
-    ak "{size=-6}{i}D-Did she laugh?"
+    ak "{size=-6}{i}D-Did she laugh?" (multiple=2)
 
 # game/game/akane_events.rpy:7271
 translate ukrainian road_clan_3eb09ccc:
 
     # lu "{size=-6}{i}No, impossible."
-    lu "{size=-6}{i}No, impossible."
+    lu "{size=-6}{i}No, impossible." (multiple=2)
 
 # game/game/akane_events.rpy:7272
 translate ukrainian road_clan_71431dea:
 
     # ak "{size=-6}{i}No, impossible."
-    ak "{size=-6}{i}No, impossible."
+    ak "{size=-6}{i}No, impossible." (multiple=2)
 
 # game/game/akane_events.rpy:7273
 translate ukrainian road_clan_d6578ea7:
@@ -25197,49 +25197,49 @@ translate ukrainian lycoris_sleep_d7edd024:
 translate ukrainian lycoris_sleep_7a8e19b1:
 
     # ""
-    ""
+    "" (multiple=2)
 
 # game/game/akane_events.rpy:7375
 translate ukrainian lycoris_sleep_46016e62:
 
     # ak "{size=-6}{i}Sigh~ {w}he's asleep."
-    ak "{size=-6}{i}Sigh~ {w}he's asleep."
+    ak "{size=-6}{i}Sigh~ {w}he's asleep." (multiple=2)
 
 # game/game/akane_events.rpy:7376
 translate ukrainian lycoris_sleep_7a8e19b1_1:
 
     # ""
-    ""
+    "" (multiple=2)
 
 # game/game/akane_events.rpy:7377
 translate ukrainian lycoris_sleep_6407b3e9:
 
     # ak "{size=-6}{i}I was worried for nothing."
-    ak "{size=-6}{i}I was worried for nothing."
+    ak "{size=-6}{i}I was worried for nothing." (multiple=2)
 
 # game/game/akane_events.rpy:7379
 translate ukrainian lycoris_sleep_7a8e19b1_2:
 
     # ""
-    ""
+    "" (multiple=2)
 
 # game/game/akane_events.rpy:7380
 translate ukrainian lycoris_sleep_a3b2085b:
 
     # ak "{size=-6}{i}Hmp."
-    ak "{size=-6}{i}Hmp."
+    ak "{size=-6}{i}Hmp." (multiple=2)
 
 # game/game/akane_events.rpy:7381
 translate ukrainian lycoris_sleep_7a8e19b1_3:
 
     # ""
-    ""
+    "" (multiple=2)
 
 # game/game/akane_events.rpy:7382
 translate ukrainian lycoris_sleep_96a229b8:
 
     # ak "{size=-6}{i}He looks so tired, I don't feel like waking him up..."
-    ak "{size=-6}{i}He looks so tired, I don't feel like waking him up..."
+    ak "{size=-6}{i}He looks so tired, I don't feel like waking him up..." (multiple=2)
 
 # game/game/akane_events.rpy:7383
 translate ukrainian lycoris_sleep_a20cefa7_1:
@@ -25629,7 +25629,7 @@ translate ukrainian lycoris_sleep_dfe909a2:
 translate ukrainian lycoris_sleep_12dc7409:
 
     # ak "Gagh! {w}Do you think that I-"
-    ak "Gagh! {w}Do you think that I-"
+    ak "Gagh! {w}Do you think that I-" with hpunch
 
 # game/game/akane_events.rpy:7468
 translate ukrainian lycoris_sleep_46b79df3_3:
@@ -25917,7 +25917,7 @@ translate ukrainian akane_gal6_3f254052:
 translate ukrainian akane_gal6_ecc26101:
 
     # mc "Gulp*"
-    mc "Gulp*"
+    mc "Gulp*" with hpunch
 
 # game/game/akane_events.rpy:7552
 translate ukrainian akane_gal6_46cfa2f4:
@@ -25941,7 +25941,7 @@ translate ukrainian akane_gal6_faf9e6d9:
 translate ukrainian akane_gal6_fdf61601:
 
     # ak "UghnmHghnM~{image=corazon}"
-    ak "UghnmHghnM~{image=corazon}"
+    ak "UghnmHghnM~{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:7558
 translate ukrainian akane_gal6_3f871f46:
@@ -26049,13 +26049,13 @@ translate ukrainian akane_gal6_9bbd3cca:
 translate ukrainian akane_gal6_2ccc3d06:
 
     # mc "Akane!"
-    mc "Akane!"
+    mc "Akane!" with hpunch
 
 # game/game/akane_events.rpy:7578
 translate ukrainian akane_gal6_8b3df5a3:
 
     # ak "UgGnhm~{image=corazon}{image=corazon}{image=corazon} {w}HNGmhn~{image=corazon}{image=corazon}"
-    ak "UgGnhm~{image=corazon}{image=corazon}{image=corazon} {w}HNGmhn~{image=corazon}{image=corazon}"
+    ak "UgGnhm~{image=corazon}{image=corazon}{image=corazon} {w}HNGmhn~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:7579
 translate ukrainian akane_gal6_7c66d5f2:
@@ -26085,7 +26085,7 @@ translate ukrainian akane_gal6_c89537f9:
 translate ukrainian akane_gal6_b6dab2eb:
 
     # ak "{sc=3}{outlinecolor=#000000}GnhNHMHnmgnm~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}GnhNHMHnmgnm~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}GnhNHMHnmgnm~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:7584
 translate ukrainian akane_gal6_1d82a7e7:
@@ -26115,7 +26115,7 @@ translate ukrainian akane_gal6_9ab252f0:
 translate ukrainian akane_gal6_bf22a668:
 
     # ak "B-But you're already kissing my womb, {w}it can't go in anymore!"
-    ak "B-But you're already kissing my womb, {w}it can't go in anymore!"
+    ak "B-But you're already kissing my womb, {w}it can't go in anymore!" with cumflash
 
 # game/game/akane_events.rpy:7589
 translate ukrainian akane_gal6_969259d7:
@@ -26151,7 +26151,7 @@ translate ukrainian akane_gal6_b6ff12a8:
 translate ukrainian akane_gal6_c32bffe5:
 
     # ak "OoOGHNnmm~{image=corazon} {w}W-Wait~{image=corazon} {w}HGgnhmhm~{image=corazon}{image=corazon}"
-    ak "OoOGHNnmm~{image=corazon} {w}W-Wait~{image=corazon} {w}HGgnhmhm~{image=corazon}{image=corazon}"
+    ak "OoOGHNnmm~{image=corazon} {w}W-Wait~{image=corazon} {w}HGgnhmhm~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7597
 translate ukrainian akane_gal6_6c810b2c:
@@ -26163,7 +26163,7 @@ translate ukrainian akane_gal6_6c810b2c:
 translate ukrainian akane_gal6_0ee7a228:
 
     # mc "I love your face Akane!"
-    mc "I love your face Akane!"
+    mc "I love your face Akane!" with vpunch
 
 # game/game/akane_events.rpy:7599
 translate ukrainian akane_gal6_3677d886:
@@ -26175,7 +26175,7 @@ translate ukrainian akane_gal6_3677d886:
 translate ukrainian akane_gal6_5ea6ae1d:
 
     # mc "Ghngm!"
-    mc "Ghngm!"
+    mc "Ghngm!" with vpunch
 
 # game/game/akane_events.rpy:7601
 translate ukrainian akane_gal6_b6dfcc6b:
@@ -26193,13 +26193,13 @@ translate ukrainian akane_gal6_f5896be6:
 translate ukrainian akane_gal6_eef83249:
 
     # ak "{sc=3}{outlinecolor=#000000}UGghgnnmbn~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}UGghgnnmbn~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}UGghgnnmbn~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7605
 translate ukrainian akane_gal6_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/akane_events.rpy:7606
 translate ukrainian akane_gal6_f6b031a6:
@@ -26229,7 +26229,7 @@ translate ukrainian akane_gal6_b2b5eb82:
 translate ukrainian akane_gal6_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:7611
 translate ukrainian akane_gal6_ab048df4:
@@ -26247,7 +26247,7 @@ translate ukrainian akane_gal6_221d5c05:
 translate ukrainian akane_gal6_fa6e38e9:
 
     # ak "HGgnhmhNHM~{image=corazon}{image=corazon}!"
-    ak "HGgnhmhNHM~{image=corazon}{image=corazon}!"
+    ak "HGgnhmhNHM~{image=corazon}{image=corazon}!" with cumflash
 
 # game/game/akane_events.rpy:7616
 translate ukrainian akane_gal6_baea7a75:
@@ -26289,13 +26289,13 @@ translate ukrainian akane_gal6_6e30f02c:
 translate ukrainian akane_gal6_c74372b8:
 
     # mc "Impossible? {w}I'll have to keep using your body until I get tired!"
-    mc "Impossible? {w}I'll have to keep using your body until I get tired!"
+    mc "Impossible? {w}I'll have to keep using your body until I get tired!" with vpunch
 
 # game/game/akane_events.rpy:7624
 translate ukrainian akane_gal6_9c370454:
 
     # ak "Ogghnm~{image=corazon}{image=corazon} {w}Gghnmnh~{image=corazon}"
-    ak "Ogghnm~{image=corazon}{image=corazon} {w}Gghnmnh~{image=corazon}"
+    ak "Ogghnm~{image=corazon}{image=corazon} {w}Gghnmnh~{image=corazon}" with vpunch
 
 # game/game/akane_events.rpy:7625
 translate ukrainian akane_gal6_69a2fb62:
@@ -26307,43 +26307,43 @@ translate ukrainian akane_gal6_69a2fb62:
 translate ukrainian akane_gal6_0d239272:
 
     # ak "Because my body is already yours! You damn pervert!{image=corazon}{image=corazon}{image=corazon}"
-    ak "Because my body is already yours! You damn pervert!{image=corazon}{image=corazon}{image=corazon}"
+    ak "Because my body is already yours! You damn pervert!{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7627
 translate ukrainian akane_gal6_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:7628
 translate ukrainian akane_gal6_179ad8d8:
 
     # ak "N-Now cum inside me, {w}fill me like you always do!{image=corazon}{image=corazon}{image=corazon}"
-    ak "N-Now cum inside me, {w}fill me like you always do!{image=corazon}{image=corazon}{image=corazon}"
+    ak "N-Now cum inside me, {w}fill me like you always do!{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7629
 translate ukrainian akane_gal6_2ccc3d06_1:
 
     # mc "Akane!"
-    mc "Akane!"
+    mc "Akane!" with hpunch
 
 # game/game/akane_events.rpy:7637
 translate ukrainian akane_gal6_07c745d6:
 
     # ak "{sc=3}{outlinecolor=#000000}UugHHhnmhnmn~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}UugHHhnmhnmn~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}UugHHhnmhnmn~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7643
 translate ukrainian akane_gal6_0b0ef017:
 
     # ak "{sc=3}{outlinecolor=#000000}HmnhHMNM~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}HmnhHMNM~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}HmnhHMNM~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7644
 translate ukrainian akane_gal6_b365178b:
 
     # mc "Mnhm!"
-    mc "Mnhm!"
+    mc "Mnhm!" with hpunch
 
 # game/game/akane_events.rpy:7646
 translate ukrainian akane_gal6_17515fa8:
@@ -26511,7 +26511,7 @@ translate ukrainian akane_lyanal_98c312da:
 translate ukrainian akane_lyanal_d49732c0:
 
     # ak "S-Shut up! {w}Do you accept or n-"
-    ak "S-Shut up! {w}Do you accept or n-"
+    ak "S-Shut up! {w}Do you accept or n-" with hpunch
 
 # game/game/akane_events.rpy:7717
 translate ukrainian akane_lyanal_46b79df3:
@@ -26589,7 +26589,7 @@ translate ukrainian akane_lyanal_156c43f0:
 translate ukrainian akane_lyanal_89610bfc:
 
     # ak "What! {w}D-D-Don't even think about it, I'm not ready to receive anything in there yet."
-    ak "What! {w}D-D-Don't even think about it, I'm not ready to receive anything in there yet."
+    ak "What! {w}D-D-Don't even think about it, I'm not ready to receive anything in there yet." with hpunch
 
 # game/game/akane_events.rpy:7735
 translate ukrainian akane_lyanal_89ae6936:
@@ -26601,7 +26601,7 @@ translate ukrainian akane_lyanal_89ae6936:
 translate ukrainian akane_lyanal_57c9818d:
 
     # mc "Ghgh-"
-    mc "Ghgh-"
+    mc "Ghgh-" with cumflash
 
 # game/game/akane_events.rpy:7737
 translate ukrainian akane_lyanal_4bf80512:
@@ -26619,7 +26619,7 @@ translate ukrainian akane_lyanal_3a4fe865:
 translate ukrainian akane_lyanal_9ab1d857:
 
     # ak "I-It was not my idea! {w}I just thought of what you would come up with."
-    ak "I-It was not my idea! {w}I just thought of what you would come up with."
+    ak "I-It was not my idea! {w}I just thought of what you would come up with." with vpunch
 
 # game/game/akane_events.rpy:7740
 translate ukrainian akane_lyanal_45dd9fb0:
@@ -26637,7 +26637,7 @@ translate ukrainian akane_lyanal_73077e26:
 translate ukrainian akane_lyanal_83e42dac:
 
     # ak "Aaahnm~{image=corazon}{image=corazon} {w}Eh? What did I just feel?"
-    ak "Aaahnm~{image=corazon}{image=corazon} {w}Eh? What did I just feel?"
+    ak "Aaahnm~{image=corazon}{image=corazon} {w}Eh? What did I just feel?" with cumflash
 
 # game/game/akane_events.rpy:7743
 translate ukrainian akane_lyanal_b0a477fd:
@@ -26661,7 +26661,7 @@ translate ukrainian akane_lyanal_3f74cdf5:
 translate ukrainian akane_lyanal_c13daf41:
 
     # mc "Hgnm!"
-    mc "Hgnm!"
+    mc "Hgnm!" with cumflash
 
 # game/game/akane_events.rpy:7747
 translate ukrainian akane_lyanal_6ccc3468:
@@ -26769,13 +26769,13 @@ translate ukrainian akane_lyanal_a4ff937c:
 translate ukrainian akane_lyanal_576a9a0f:
 
     # ak "{sc=3}{outlinecolor=#000000}HGNhmgnmnmg!~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}HGNhmgnmnmg!~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}HGNhmgnmnmg!~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7772
 translate ukrainian akane_lyanal_9deba3d5:
 
     # mc "Ghngm!"
-    mc "Ghngm!"
+    mc "Ghngm!" with hpunch
 
 # game/game/akane_events.rpy:7773
 translate ukrainian akane_lyanal_380c67cb:
@@ -26853,13 +26853,13 @@ translate ukrainian akane_lyanal_6087f34a:
 translate ukrainian akane_lyanal_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/akane_events.rpy:7788
 translate ukrainian akane_lyanal_dec31450:
 
     # ak "{sc=3}{outlinecolor=#000000}AaahnmnNMnnn!~~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}AaahnmnNMnnn!~~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}AaahnmnNMnnn!~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7789
 translate ukrainian akane_lyanal_e9721ff3:
@@ -26871,7 +26871,7 @@ translate ukrainian akane_lyanal_e9721ff3:
 translate ukrainian akane_lyanal_d18d11bd:
 
     # ak "You are d-doing it on purpose you pervert!"
-    ak "You are d-doing it on purpose you pervert!"
+    ak "You are d-doing it on purpose you pervert!" with hpunch
 
 # game/game/akane_events.rpy:7791
 translate ukrainian akane_lyanal_b225d621:
@@ -26901,7 +26901,7 @@ translate ukrainian akane_lyanal_cc9226da:
 translate ukrainian akane_lyanal_0001c8d7:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with hpunch
 
 # game/game/akane_events.rpy:7797
 translate ukrainian akane_lyanal_d7f53a38:
@@ -26913,7 +26913,7 @@ translate ukrainian akane_lyanal_d7f53a38:
 translate ukrainian akane_lyanal_6cda0af3:
 
     # ak "{sc=3}{outlinecolor=#000000}Youuuu...{/sc} {w}wait when... {w}AaaAAhnM~ {image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Youuuu...{/sc} {w}wait when... {w}AaaAAhnM~ {image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Youuuu...{/sc} {w}wait when... {w}AaaAAhnM~ {image=corazon}{image=corazon}" with cumflash
 
 # game/game/akane_events.rpy:7799
 translate ukrainian akane_lyanal_46b79df3_3:
@@ -26955,19 +26955,19 @@ translate ukrainian akane_lyanal_5f3fb0ad:
 translate ukrainian akane_lyanal_f9d16851:
 
     # ak "T-That's not true! {w}GHNhmn~{image=corazon}{image=corazon} {w}i-it's your penis that keeps g-getting bigger!"
-    ak "T-That's not true! {w}GHNhmn~{image=corazon}{image=corazon} {w}i-it's your penis that keeps g-getting bigger!"
+    ak "T-That's not true! {w}GHNhmn~{image=corazon}{image=corazon} {w}i-it's your penis that keeps g-getting bigger!" with cumflash
 
 # game/game/akane_events.rpy:7806
 translate ukrainian akane_lyanal_8b345698:
 
     # ak "Aaaah aaah~ {w}I don't c-care, {w}cum, {w}f-fill my ass again~{image=corazon}{image=corazon}"
-    ak "Aaaah aaah~ {w}I don't c-care, {w}cum, {w}f-fill my ass again~{image=corazon}{image=corazon}"
+    ak "Aaaah aaah~ {w}I don't c-care, {w}cum, {w}f-fill my ass again~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7807
 translate ukrainian akane_lyanal_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/akane_events.rpy:7808
 translate ukrainian akane_lyanal_37e4968e:
@@ -26985,13 +26985,13 @@ translate ukrainian akane_lyanal_a73c383a:
 translate ukrainian akane_lyanal_edf140d3:
 
     # ak "{sc=3}{outlinecolor=#000000}HMgnhgmhnm!~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}HMgnhgmhnm!~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}HMgnhgmhnm!~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/akane_events.rpy:7820
 translate ukrainian akane_lyanal_b7494377:
 
     # mc "Gnhm!"
-    mc "Gnhm!"
+    mc "Gnhm!" with hpunch
 
 # game/game/akane_events.rpy:7821
 translate ukrainian akane_lyanal_29fe45a7:
@@ -27039,7 +27039,7 @@ translate ukrainian akane_lyanal_a8e8ae54:
 translate ukrainian akane_lyanal_1b41f254:
 
     # mc "What!"
-    mc "What!"
+    mc "What!" with hpunch
 
 # game/game/akane_events.rpy:7833
 translate ukrainian akane_lyanal_70819b66:
@@ -27117,7 +27117,7 @@ translate ukrainian aka_dateuno_46b79df3:
 translate ukrainian aka_dateuno_6c286328:
 
     # ak "{sc=2}{outlinecolor=#000000}Haaa?"
-    ak "{sc=2}{outlinecolor=#000000}Haaa?"
+    ak "{sc=2}{outlinecolor=#000000}Haaa?" with hpunch
 
 # game/game/akane_events.rpy:7865
 translate ukrainian aka_dateuno_50a55146:
@@ -27195,13 +27195,13 @@ translate ukrainian aka_dateuno_11455b53:
 translate ukrainian aka_dateuno_5e88bb87:
 
     # ak "See you in the afternoon outside the house!"
-    ak "See you in the afternoon outside the house!"
+    ak "See you in the afternoon outside the house!" with hpunch
 
 # game/game/akane_events.rpy:7882
 translate ukrainian aka_dateuno_57343c8a:
 
     # ak "But this is not a date!"
-    ak "But this is not a date!"
+    ak "But this is not a date!" with vpunch
 
 # game/game/akane_events.rpy:7883
 translate ukrainian aka_dateuno_375e9a05:
@@ -27213,7 +27213,7 @@ translate ukrainian aka_dateuno_375e9a05:
 translate ukrainian aka_dateuno_a870b7a1:
 
     # ak "I will kill you if you are late!"
-    ak "I will kill you if you are late!"
+    ak "I will kill you if you are late!" with hpunch
 
 # game/game/akane_events.rpy:7899
 translate ukrainian aka_start_dateuno_247fcc7c:
@@ -27273,13 +27273,13 @@ translate ukrainian aka_start_dateuno_46b79df3:
 translate ukrainian aka_start_dateuno_04f7aeef:
 
     # ak "{sc=2}{outlinecolor=#000000}B-Beau- {w}Haa!?"
-    ak "{sc=2}{outlinecolor=#000000}B-Beau- {w}Haa!?"
+    ak "{sc=2}{outlinecolor=#000000}B-Beau- {w}Haa!?" with hpunch
 
 # game/game/akane_events.rpy:7919
 translate ukrainian aka_start_dateuno_3a28ca56:
 
     # ak "I-I didn't do this because I think it's a date!"
-    ak "I-I didn't do this because I think it's a date!"
+    ak "I-I didn't do this because I think it's a date!" with vpunch
 
 # game/game/akane_events.rpy:7920
 translate ukrainian aka_start_dateuno_29f0146c:
@@ -27321,7 +27321,7 @@ translate ukrainian aka_start_dateuno_919f3eb0:
 translate ukrainian aka_start_dateuno_adedb420:
 
     # ak "{sc=2}{outlinecolor=#000000}Ghnh!"
-    ak "{sc=2}{outlinecolor=#000000}Ghnh!"
+    ak "{sc=2}{outlinecolor=#000000}Ghnh!" with hpunch
 
 # game/game/akane_events.rpy:7930
 translate ukrainian aka_start_dateuno_c45d07f1:
@@ -27339,7 +27339,7 @@ translate ukrainian aka_start_dateuno_b91e6796:
 translate ukrainian aka_start_dateuno_d57e2d71:
 
     # ak "What if I did?"
-    ak "What if I did?"
+    ak "What if I did?" with hpunch
 
 # game/game/akane_events.rpy:7939
 translate ukrainian aka_start_dateuno_b9e39ecb:
@@ -27537,7 +27537,7 @@ translate ukrainian aka_start_dateuno_46b79df3_3:
 translate ukrainian aka_start_dateuno_b50909c3:
 
     # ak "Haaa?!"
-    ak "Haaa?!"
+    ak "Haaa?!" with hpunch
 
 # game/game/akane_events.rpy:7999
 translate ukrainian aka_start_dateuno_ab5b30b2:
@@ -27579,7 +27579,7 @@ translate ukrainian aka_start_dateuno_6bb6e9a5:
 translate ukrainian aka_start_dateuno_1e986f6c:
 
     # mc "{sc=2}{outlinecolor=#000000}Ugh!"
-    mc "{sc=2}{outlinecolor=#000000}Ugh!"
+    mc "{sc=2}{outlinecolor=#000000}Ugh!" with hpunch
 
 # game/game/akane_events.rpy:8014
 translate ukrainian aka_start_dateuno_5a5b94cf:
@@ -27633,7 +27633,7 @@ translate ukrainian aka_start_dateuno_43c1be96:
 translate ukrainian aka_start_dateuno_b6f873f2:
 
     # to "Sure!~"
-    to "Sure!~"
+    to "Sure!~" with hpunch
 
 # game/game/akane_events.rpy:8031
 translate ukrainian aka_start_dateuno_a20cefa7_1:
@@ -27675,7 +27675,7 @@ translate ukrainian aka_start_dateuno_ed9c43f4:
 translate ukrainian aka_start_dateuno_d1579b6d:
 
     # ak "{sc=1}{outlinecolor=#000000}...!"
-    ak "{sc=1}{outlinecolor=#000000}...!"
+    ak "{sc=1}{outlinecolor=#000000}...!" with hpunch
 
 # game/game/akane_events.rpy:8040
 translate ukrainian aka_start_dateuno_d5104448:
@@ -27717,7 +27717,7 @@ translate ukrainian aka_start_dateuno_f61d7fb3:
 translate ukrainian aka_start_dateuno_a6b5fa97:
 
     # ak "I don't always eat chocolate!"
-    ak "I don't always eat chocolate!"
+    ak "I don't always eat chocolate!" with hpunch
 
 # game/game/akane_events.rpy:8051
 translate ukrainian aka_start_dateuno_1f5b224d:
@@ -27771,7 +27771,7 @@ translate ukrainian aka_start_dateuno_f034fcc2_1:
 translate ukrainian aka_start_dateuno_0c0ebb63:
 
     # ak "You're looking to go blind, aren't you?"
-    ak "You're looking to go blind, aren't you?"
+    ak "You're looking to go blind, aren't you?" with hpunch
 
 # game/game/akane_events.rpy:8067
 translate ukrainian aka_start_dateuno_1f5b224d_1:
@@ -27861,7 +27861,7 @@ translate ukrainian aka_start_dateuno_4251e81d:
 translate ukrainian aka_start_dateuno_0c455bae:
 
     # ak "What are you imagining?!"
-    ak "What are you imagining?!"
+    ak "What are you imagining?!" with vpunch
 
 # game/game/akane_events.rpy:8088
 translate ukrainian aka_start_dateuno_8a62cc69:
@@ -27879,7 +27879,7 @@ translate ukrainian aka_start_dateuno_a7b14dc3:
 translate ukrainian aka_start_dateuno_c648775c:
 
     # mc "It's a joke!"
-    mc "It's a joke!"
+    mc "It's a joke!" with hpunch
 
 # game/game/akane_events.rpy:8093
 translate ukrainian aka_start_dateuno_d8e179be:
@@ -27987,7 +27987,7 @@ translate ukrainian aka_start_dateuno_9b6f9e89:
 translate ukrainian aka_start_dateuno_dd2d587d:
 
     # mc "Hey! {w}That's not what I meant!"
-    mc "Hey! {w}That's not what I meant!"
+    mc "Hey! {w}That's not what I meant!" with hpunch
 
 # game/game/akane_events.rpy:8122
 translate ukrainian aka_start_dateuno_5bcd3f08:
@@ -28077,7 +28077,7 @@ translate ukrainian aka_start_dateuno_4da08be4:
 translate ukrainian aka_start_dateuno_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/akane_events.rpy:8155
 translate ukrainian aka_start_dateuno_9564a1d9:
@@ -28287,7 +28287,7 @@ translate ukrainian aka_start_dateuno_7e1c3fed:
 translate ukrainian aka_start_dateuno_4f4fb32e_1:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/akane_events.rpy:8209
 translate ukrainian aka_start_dateuno_0b09a873:
@@ -28299,7 +28299,7 @@ translate ukrainian aka_start_dateuno_0b09a873:
 translate ukrainian aka_start_dateuno_d1579b6d_1:
 
     # ak "{sc=1}{outlinecolor=#000000}...!"
-    ak "{sc=1}{outlinecolor=#000000}...!"
+    ak "{sc=1}{outlinecolor=#000000}...!" with hpunch
 
 # game/game/akane_events.rpy:8212
 translate ukrainian aka_start_dateuno_a72de836:
@@ -28359,7 +28359,7 @@ translate ukrainian aka_start_dateuno_71ceb7e0:
 translate ukrainian aka_start_dateuno_ef3069ef:
 
     # ak "Uhm-"
-    ak "Uhm-"
+    ak "Uhm-" with vpunch
 
 # game/game/akane_events.rpy:8241
 translate ukrainian aka_start_dateuno_a295f463:
@@ -28371,13 +28371,13 @@ translate ukrainian aka_start_dateuno_a295f463:
 translate ukrainian aka_start_dateuno_c05a5de1:
 
     # mc "Hmp."
-    mc "Hmp."
+    mc "Hmp." (mutliple=2)
 
 # game/game/akane_events.rpy:8245
 translate ukrainian aka_start_dateuno_d546fe55:
 
     # ak "{sc=2}{outlinecolor=#000000}Gmh!?"
-    ak "{sc=2}{outlinecolor=#000000}Gmh!?"
+    ak "{sc=2}{outlinecolor=#000000}Gmh!?" (mutliple=2)
 
 # game/game/akane_events.rpy:8246
 translate ukrainian aka_start_dateuno_356634e0:
@@ -28407,13 +28407,13 @@ translate ukrainian aka_start_dateuno_7e3a6601:
 translate ukrainian aka_start_dateuno_d341b764:
 
     # mc "{sc=2}{outlinecolor=#000000}Nom."
-    mc "{sc=2}{outlinecolor=#000000}Nom."
+    mc "{sc=2}{outlinecolor=#000000}Nom." (multiple=2)
 
 # game/game/akane_events.rpy:8255
 translate ukrainian aka_start_dateuno_070a186d:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" (multiple=2)
 
 # game/game/akane_events.rpy:8257
 translate ukrainian aka_start_dateuno_9d4ae225:
@@ -28431,13 +28431,13 @@ translate ukrainian aka_start_dateuno_6c44e7c4:
 translate ukrainian aka_start_dateuno_d341b764_1:
 
     # mc "{sc=2}{outlinecolor=#000000}Nom."
-    mc "{sc=2}{outlinecolor=#000000}Nom."
+    mc "{sc=2}{outlinecolor=#000000}Nom." (multiple=2)
 
 # game/game/akane_events.rpy:8261
 translate ukrainian aka_start_dateuno_459384cd:
 
     # ak "{sc=2}{outlinecolor=#000000}Nium."
-    ak "{sc=2}{outlinecolor=#000000}Nium."
+    ak "{sc=2}{outlinecolor=#000000}Nium." (multiple=2)
 
 # game/game/akane_events.rpy:8262
 translate ukrainian aka_start_dateuno_2b35b6fe_5:
@@ -28557,7 +28557,7 @@ translate ukrainian aka_gift_aaf0f5a8:
 translate ukrainian aka_gift_25c1ed9c:
 
     # ak "{size=-6}W-Wait."
-    ak "{size=-6}W-Wait."
+    ak "{size=-6}W-Wait." with hpunch
 
 # game/game/akane_events.rpy:8339
 translate ukrainian aka_gift_3f871f46:
@@ -28653,13 +28653,13 @@ translate ukrainian aka_gift_46b79df3_2:
 translate ukrainian aka_gift_99a3839e:
 
     # ak "{sc=1}{outlinecolor=#000000}{size=-7}What the hell are you doing there!"
-    ak "{sc=1}{outlinecolor=#000000}{size=-7}What the hell are you doing there!"
+    ak "{sc=1}{outlinecolor=#000000}{size=-7}What the hell are you doing there!" (multiple=2)
 
 # game/game/akane_events.rpy:8361
 translate ukrainian aka_gift_f5a525fa:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-7}Agh!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-7}Agh!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-7}Agh!" (multiple=2)
 
 # game/game/akane_events.rpy:8362
 translate ukrainian aka_gift_2ee61cb2:
@@ -28977,25 +28977,25 @@ translate ukrainian lycoris_notice_2b35b6fe:
 translate ukrainian lycoris_notice_ef1272d7:
 
     # ak "Y-You are a-"
-    ak "Y-You are a-"
+    ak "Y-You are a-" (multiple=2)
 
 # game/game/akane_events.rpy:8449
 translate ukrainian lycoris_notice_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
 # game/game/akane_events.rpy:8450
 translate ukrainian lycoris_notice_35533fcb:
 
     # ak "I don't even know why I'm trying to reason with you."
-    ak "I don't even know why I'm trying to reason with you."
+    ak "I don't even know why I'm trying to reason with you." with hpunch
 
 # game/game/akane_events.rpy:8451
 translate ukrainian lycoris_notice_f4786645:
 
     # ak "You just want to enjoy your perverted plans."
-    ak "You just want to enjoy your perverted plans."
+    ak "You just want to enjoy your perverted plans." with vpunch
 
 # game/game/akane_events.rpy:8452
 translate ukrainian lycoris_notice_1248b7bb:
@@ -29043,13 +29043,13 @@ translate ukrainian lycoris_notice_b7ee170d:
 translate ukrainian lycoris_notice_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/akane_events.rpy:8463
 translate ukrainian lycoris_notice_abf1a1fe:
 
     # ak "..."
-    ak "..."
+    ak "..." (multiple=2)
 
 # game/game/akane_events.rpy:8465
 translate ukrainian lycoris_notice_59542bec:
@@ -29073,13 +29073,13 @@ translate ukrainian lycoris_notice_a79698d9:
 translate ukrainian lycoris_notice_83ea3155:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-7}Uagh?!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-7}Uagh?!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-7}Uagh?!" (multiple=2)
 
 # game/game/akane_events.rpy:8479
 translate ukrainian lycoris_notice_b5b0e11b:
 
     # ak "{sc=1}{outlinecolor=#000000}{size=-7}AH!?"
-    ak "{sc=1}{outlinecolor=#000000}{size=-7}AH!?"
+    ak "{sc=1}{outlinecolor=#000000}{size=-7}AH!?" (multiple=2)
 
 # game/game/akane_events.rpy:8482
 translate ukrainian lycoris_notice_61f9ef6b:
@@ -29145,13 +29145,13 @@ translate ukrainian lycoris_notice_46b79df3_1:
 translate ukrainian lycoris_notice_23100bbe:
 
     # ak "Eh?"
-    ak "Eh?"
+    ak "Eh?" (multiple=2)
 
 # game/game/akane_events.rpy:8497
 translate ukrainian lycoris_notice_60494c90:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Eh?" (multiple=2)
 
 # game/game/akane_events.rpy:8500
 translate ukrainian lycoris_notice_b1805c96:

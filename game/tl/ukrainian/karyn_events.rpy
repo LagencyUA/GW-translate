@@ -249,7 +249,7 @@ translate ukrainian missing_dog_eed221da_1:
 translate ukrainian missing_dog_0d3a3bed:
 
     # kar "{b}Wake up!"
-    kar "{b}Wake up!"
+    kar "{b}Wake up!" with hpunch
 
 # game/game/karyn_events.rpy:102
 translate ukrainian missing_dog_7325edec:
@@ -345,7 +345,7 @@ translate ukrainian missing_dog_eddb853f:
 translate ukrainian missing_dog_2b7f4d1b:
 
     # kar "{i}He is going to attack me!"
-    kar "{i}He is going to attack me!"
+    kar "{i}He is going to attack me!" with hpunch
 
 # game/game/karyn_events.rpy:139
 translate ukrainian missing_dog_82d2f0bc:
@@ -519,13 +519,13 @@ translate ukrainian missing_dog_2c531de2:
 translate ukrainian missing_dog_72997a55:
 
     # kar "I said to show me."
-    kar "I said to show me."
+    kar "I said to show me." (multiple=2)
 
 # game/game/karyn_events.rpy:181
 translate ukrainian missing_dog_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/karyn_events.rpy:182
 translate ukrainian missing_dog_0fe99dae:
@@ -609,7 +609,7 @@ translate ukrainian missing_dog_054c5ee0:
 translate ukrainian missing_dog_67d72c1a:
 
     # mc "Aagh!"
-    mc "Aagh!"
+    mc "Aagh!" with hpunch
 
 # game/game/karyn_events.rpy:203
 translate ukrainian missing_dog_71cc05c3:
@@ -909,7 +909,7 @@ translate ukrainian missing_dog_4698326e_1:
 translate ukrainian missing_dog_582054e5:
 
     # mc "Ahem*"
-    mc "Ahem*"
+    mc "Ahem*" with hpunch
 
 # game/game/karyn_events.rpy:272
 translate ukrainian missing_dog_c23d2d8d:
@@ -1425,7 +1425,7 @@ translate ukrainian karyn_visit_664c0151:
 translate ukrainian karyn_visit_99c82fe4:
 
     # kar "Wan-"
-    kar "Wan-"
+    kar "Wan-" with vpunch
 
 # game/game/karyn_events.rpy:422
 translate ukrainian karyn_visit_0f5cb580:
@@ -1773,7 +1773,7 @@ translate ukrainian karyn_visit_304a5200:
 translate ukrainian karyn_visit_280dd074:
 
     # mc "Hahaha, {w}I can imagine the trouble she must have given you."
-    mc "Hahaha, {w}I can imagine the trouble she must have given you."
+    mc "Hahaha, {w}I can imagine the trouble she must have given you." with vpunch
 
 # game/game/karyn_events.rpy:518
 translate ukrainian karyn_visit_15d5dd8c_6:
@@ -1833,7 +1833,7 @@ translate ukrainian karyn_visit_b48a20c7:
 translate ukrainian karyn_visit_35755ed2:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." with vpunch
 
 # game/game/karyn_events.rpy:531
 translate ukrainian karyn_visit_15d5dd8c_7:
@@ -1977,7 +1977,7 @@ translate ukrainian karyn_visit_fd3aa8da:
 translate ukrainian karyn_visit_44b4df48:
 
     # kar "Whaat?!"
-    kar "Whaat?!"
+    kar "Whaat?!" with vpunch
 
 # game/game/karyn_events.rpy:574
 translate ukrainian karyn_visit_d90d54f5:
@@ -2001,13 +2001,13 @@ translate ukrainian karyn_visit_1f6a16b3:
 translate ukrainian karyn_visit_aff85906:
 
     # c "Stay out of this."
-    c "Stay out of this."
+    c "Stay out of this." (multiple=2)
 
 # game/game/karyn_events.rpy:581
 translate ukrainian karyn_visit_c1f8e84b:
 
     # kar "Stay out of this."
-    kar "Stay out of this."
+    kar "Stay out of this." (multiple=2)
 
 # game/game/karyn_events.rpy:583
 translate ukrainian karyn_visit_52e1bf80:
@@ -2025,31 +2025,31 @@ translate ukrainian karyn_visit_e9e15447:
 translate ukrainian karyn_visit_da473161:
 
     # kar "Ha ha ha, {w}says the tame cat who can't dodge a bullet from a mere mercenary?"
-    kar "Ha ha ha, {w}says the tame cat who can't dodge a bullet from a mere mercenary?"
+    kar "Ha ha ha, {w}says the tame cat who can't dodge a bullet from a mere mercenary?" with hpunch
 
 # game/game/karyn_events.rpy:586
 translate ukrainian karyn_visit_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/karyn_events.rpy:587
 translate ukrainian karyn_visit_df850e43:
 
     # kar "..."
-    kar "..."
+    kar "..." (multiple=2)
 
 # game/game/karyn_events.rpy:591
 translate ukrainian karyn_visit_133e4226:
 
     # c "If you hadn't interfered, {w}I would have slit her throat right there."
-    c "If you hadn't interfered, {w}I would have slit her throat right there."
+    c "If you hadn't interfered, {w}I would have slit her throat right there." with vpunch
 
 # game/game/karyn_events.rpy:592
 translate ukrainian karyn_visit_d2ddf933:
 
     # kar "If I hadn't interfered, you would have been killed by the poison right after."
-    kar "If I hadn't interfered, you would have been killed by the poison right after."
+    kar "If I hadn't interfered, you would have been killed by the poison right after." with hpunch
 
 # game/game/karyn_events.rpy:593
 translate ukrainian karyn_visit_ac95e2db:
@@ -2091,7 +2091,7 @@ translate ukrainian karyn_visit_2891715f:
 translate ukrainian karyn_visit_c01b75c6:
 
     # kar "{size=-6}Wan-"
-    kar "{size=-6}Wan-"
+    kar "{size=-6}Wan-" (multiple=3)
 
 # game/game/karyn_events.rpy:603
 translate ukrainian karyn_visit_9fdeef9c:
@@ -2193,7 +2193,7 @@ translate ukrainian karyn_visit_15d5dd8c_8:
 translate ukrainian karyn_visit_f12314f6:
 
     # mc "W-Waait!"
-    mc "W-Waait!"
+    mc "W-Waait!" with vpunch
 
 # game/game/karyn_events.rpy:633
 translate ukrainian karyn_visit_eb989ffc:
@@ -2211,13 +2211,13 @@ translate ukrainian karyn_visit_4c27468f:
 translate ukrainian karyn_visit_f875cf9b:
 
     # mc "Stop fighting!"
-    mc "Stop fighting!"
+    mc "Stop fighting!" with hpunch
 
 # game/game/karyn_events.rpy:642
 translate ukrainian karyn_visit_eb46ccd6:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" with vpunch
 
 # game/game/karyn_events.rpy:647
 translate ukrainian karyn_visit_b746b660:
@@ -2235,13 +2235,13 @@ translate ukrainian karyn_visit_717b145f:
 translate ukrainian karyn_visit_7953c765:
 
     # kar "Grrr!"
-    kar "Grrr!"
+    kar "Grrr!" (multiple=2)
 
 # game/game/karyn_events.rpy:655
 translate ukrainian karyn_visit_2b112562:
 
     # c "Gnhh!"
-    c "Gnhh!"
+    c "Gnhh!" (multiple=2)
 
 # game/game/karyn_events.rpy:657
 translate ukrainian karyn_visit_caddded7:
@@ -2253,7 +2253,7 @@ translate ukrainian karyn_visit_caddded7:
 translate ukrainian karyn_visit_8c31a838:
 
     # kar "Oooh, I can't? Will you start crying that it hurts again?"
-    kar "Oooh, I can't? Will you start crying that it hurts again?"
+    kar "Oooh, I can't? Will you start crying that it hurts again?" with vpunch
 
 # game/game/karyn_events.rpy:660
 translate ukrainian karyn_visit_493fd58c:
@@ -2265,7 +2265,7 @@ translate ukrainian karyn_visit_493fd58c:
 translate ukrainian karyn_visit_0c6a8ccb:
 
     # c "What? {w}Your tiny dog brain can't think of a plan other than to stupidly attacking non-vital points?"
-    c "What? {w}Your tiny dog brain can't think of a plan other than to stupidly attacking non-vital points?"
+    c "What? {w}Your tiny dog brain can't think of a plan other than to stupidly attacking non-vital points?" with hpunch
 
 # game/game/karyn_events.rpy:663
 translate ukrainian karyn_visit_e6bfd13c:
@@ -2283,7 +2283,7 @@ translate ukrainian karyn_visit_8a875781:
 translate ukrainian karyn_visit_7318e000:
 
     # "{i}Angry dog noises.\nAngry cat noises."
-    "{i}Angry dog noises.\nAngry cat noises."
+    "{i}Angry dog noises.\nAngry cat noises." (multiple=2)
 
 # game/game/karyn_events.rpy:669
 translate ukrainian karyn_visit_9fb7e688:
@@ -2295,13 +2295,13 @@ translate ukrainian karyn_visit_9fb7e688:
 translate ukrainian karyn_visit_937f6002:
 
     # c "{i}Ghnya!"
-    c "{i}Ghnya!"
+    c "{i}Ghnya!" (multiple=2)
 
 # game/game/karyn_events.rpy:678
 translate ukrainian karyn_visit_06c7b932:
 
     # kar "{i}Ghwan!"
-    kar "{i}Ghwan!"
+    kar "{i}Ghwan!" (multiple=2)
 
 # game/game/karyn_events.rpy:679
 translate ukrainian karyn_visit_7368a06a:
@@ -2313,7 +2313,7 @@ translate ukrainian karyn_visit_7368a06a:
 translate ukrainian karyn_visit_8392086d:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" with hpunch
 
 # game/game/karyn_events.rpy:683
 translate ukrainian karyn_visit_953140a5:
@@ -2325,7 +2325,7 @@ translate ukrainian karyn_visit_953140a5:
 translate ukrainian karyn_visit_1fe8a068:
 
     # ak "You really enjoyed trying to stop them, didn't you?!"
-    ak "You really enjoyed trying to stop them, didn't you?!"
+    ak "You really enjoyed trying to stop them, didn't you?!" with hpunch
 
 # game/game/karyn_events.rpy:685
 translate ukrainian karyn_visit_b3a7786c:
@@ -2367,7 +2367,7 @@ translate ukrainian karyn_visit_1be57c6d:
 translate ukrainian karyn_visit_c6c6c526:
 
     # ak "{b}Ahem*"
-    ak "{b}Ahem*"
+    ak "{b}Ahem*" with hpunch
 
 # game/game/karyn_events.rpy:700
 translate ukrainian karyn_visit_cbde48df:
@@ -2409,7 +2409,7 @@ translate ukrainian karyn_visit_e91cf89d:
 translate ukrainian karyn_visit_1d2e9ce3:
 
     # mc "Oh really...?!"
-    mc "Oh really...?!"
+    mc "Oh really...?!" with vpunch
 
 # game/game/karyn_events.rpy:713
 translate ukrainian karyn_visit_9a9b1e8a:
@@ -2439,19 +2439,19 @@ translate ukrainian karyn_visit_ffd21701:
 translate ukrainian karyn_visit_c1f6defe:
 
     # ak "As if I would attach so much importance to the actions of that pervert."
-    ak "As if I would attach so much importance to the actions of that pervert."
+    ak "As if I would attach so much importance to the actions of that pervert." with vpunch
 
 # game/game/karyn_events.rpy:721
 translate ukrainian karyn_visit_dbd148d5:
 
     # c "Hahaha."
-    c "Hahaha."
+    c "Hahaha." (multiple=2)
 
 # game/game/karyn_events.rpy:722
 translate ukrainian karyn_visit_f29bbb96:
 
     # r "Hahaha~"
-    r "Hahaha~"
+    r "Hahaha~" (multiple=2)
 
 # game/game/karyn_events.rpy:723
 translate ukrainian karyn_visit_15d5dd8c_9:
@@ -2487,7 +2487,7 @@ translate ukrainian karyn_visit_d19f855d_3:
 translate ukrainian karyn_visit_2211881f:
 
     # kar "{size=-6}{i}Gghm..."
-    kar "{size=-6}{i}Gghm..."
+    kar "{size=-6}{i}Gghm..." (multiple=3)
 
 # game/game/karyn_events.rpy:734
 translate ukrainian karyn_visit_c1d936ca:
@@ -2559,13 +2559,13 @@ translate ukrainian karyn_visit_15d5dd8c_10:
 translate ukrainian karyn_visit_b4725688:
 
     # c "{size=-6}{i}Why is everyone looking at me...?"
-    c "{size=-6}{i}Why is everyone looking at me...?"
+    c "{size=-6}{i}Why is everyone looking at me...?" (multiple=2)
 
 # game/game/karyn_events.rpy:755
 translate ukrainian karyn_visit_df850e43_1:
 
     # kar "..."
-    kar "..."
+    kar "..." (multiple=2)
 
 # game/game/karyn_events.rpy:756
 translate ukrainian karyn_visit_6d2be00a:
@@ -2625,7 +2625,7 @@ translate ukrainian karyn_visit_b6129b48:
 translate ukrainian karyn_visit_347787b1:
 
     # kar "Aahh!! {w}I was saving it for last!"
-    kar "Aahh!! {w}I was saving it for last!"
+    kar "Aahh!! {w}I was saving it for last!" with hpunch
 
 # game/game/karyn_events.rpy:774
 translate ukrainian karyn_visit_28a54e0f:
@@ -2655,13 +2655,13 @@ translate ukrainian karyn_visit_e3866f33:
 translate ukrainian karyn_visit_f0c78c10_1:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/karyn_events.rpy:781
 translate ukrainian karyn_visit_df850e43_2:
 
     # kar "..."
-    kar "..."
+    kar "..." (multiple=2)
 
 # game/game/karyn_events.rpy:783
 translate ukrainian karyn_visit_a20cefa7_3:
@@ -2685,7 +2685,7 @@ translate ukrainian karyn_visit_d7edd024_2:
 translate ukrainian karyn_visit_9f7f71d4:
 
     # kar "There are more of these on the table...!"
-    kar "There are more of these on the table...!"
+    kar "There are more of these on the table...!" with hpunch
 
 # game/game/karyn_events.rpy:789
 translate ukrainian karyn_visit_ed2fbf1e:
@@ -2919,7 +2919,7 @@ translate ukrainian karyn_visit_6de93ad2:
 translate ukrainian karyn_visit_f0c78c10_2:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/karyn_events.rpy:849
 translate ukrainian karyn_visit_2b35b6fe_6:
@@ -3105,7 +3105,7 @@ translate ukrainian karyn_visit_e38777f7:
 translate ukrainian karyn_visit_9aa86eb9:
 
     # kar "Wan wan~{image=corazon}"
-    kar "Wan wan~{image=corazon}"
+    kar "Wan wan~{image=corazon}" with vpunch
 
 # game/game/karyn_events.rpy:889
 translate ukrainian karyn_visit_c5a9412d:
@@ -3117,7 +3117,7 @@ translate ukrainian karyn_visit_c5a9412d:
 translate ukrainian karyn_visit_90a6d764:
 
     # mc "{i}{size=-6}That was cute."
-    mc "{i}{size=-6}That was cute."
+    mc "{i}{size=-6}That was cute." (multiple=3)
 
 # game/game/karyn_events.rpy:893
 translate ukrainian karyn_visit_519a9d57:
@@ -3189,7 +3189,7 @@ translate ukrainian karyn_visit_43aeb653:
 translate ukrainian karyn_visit_0aeb40ad:
 
     # kar "Huuh?"
-    kar "Huuh?"
+    kar "Huuh?" with hpunch
 
 # game/game/karyn_events.rpy:910
 translate ukrainian karyn_visit_9bc346c8:
@@ -3393,7 +3393,7 @@ translate ukrainian karyn_gal1_8d73f767:
 translate ukrainian karyn_gal1_d14e96a0:
 
     # mc "Karyn!"
-    mc "Karyn!"
+    mc "Karyn!" with vpunch
 
 # game/game/karyn_events.rpy:988
 translate ukrainian karyn_gal1_83f97ea0:
@@ -3411,7 +3411,7 @@ translate ukrainian karyn_gal1_15d5dd8c:
 translate ukrainian karyn_gal1_74147da9:
 
     # kar "{i}{size=-6}Oh god of all dogs."
-    kar "{i}{size=-6}Oh god of all dogs."
+    kar "{i}{size=-6}Oh god of all dogs." with hpunch
 
 # game/game/karyn_events.rpy:993
 translate ukrainian karyn_gal1_b9e5fda6:
@@ -3423,13 +3423,13 @@ translate ukrainian karyn_gal1_b9e5fda6:
 translate ukrainian karyn_gal1_a10f1c67:
 
     # kar "Sorry! I should have knocked before entering!"
-    kar "Sorry! I should have knocked before entering!"
+    kar "Sorry! I should have knocked before entering!" with vpunch
 
 # game/game/karyn_events.rpy:997
 translate ukrainian karyn_gal1_ee0cd736:
 
     # kar "You can go now! Please!"
-    kar "You can go now! Please!"
+    kar "You can go now! Please!" with hpunch
 
 # game/game/karyn_events.rpy:998
 translate ukrainian karyn_gal1_14bbc7fc:
@@ -3441,7 +3441,7 @@ translate ukrainian karyn_gal1_14bbc7fc:
 translate ukrainian karyn_gal1_1f5caeb5:
 
     # mc "I apologize again! {w}Good night!"
-    mc "I apologize again! {w}Good night!"
+    mc "I apologize again! {w}Good night!" with vpunch
 
 # game/game/karyn_events.rpy:1001
 translate ukrainian karyn_gal1_aed381e2:
@@ -3453,7 +3453,7 @@ translate ukrainian karyn_gal1_aed381e2:
 translate ukrainian karyn_gal1_a29e0bdd:
 
     # kar "It was my fault! Good night!"
-    kar "It was my fault! Good night!"
+    kar "It was my fault! Good night!" with hpunch
 
 # game/game/karyn_events.rpy:1007
 translate ukrainian karyn_gal1_0e504d2b:
@@ -3699,7 +3699,7 @@ translate ukrainian karyn_gal1_ca54f86a:
 translate ukrainian karyn_gal1_66957b66:
 
     # kar "{i}I mean!"
-    kar "{i}I mean!"
+    kar "{i}I mean!" with hpunch
 
 # game/game/karyn_events.rpy:1076
 translate ukrainian karyn_gal1_7b6374e5:
@@ -3831,7 +3831,7 @@ translate ukrainian karyn_gal1_2f08aaaf:
 translate ukrainian karyn_gal1_eef48a83:
 
     # kar "{i}I can already feel it~{image=corazon}{image=corazon}"
-    kar "{i}I can already feel it~{image=corazon}{image=corazon}"
+    kar "{i}I can already feel it~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/karyn_events.rpy:1100
 translate ukrainian karyn_gal1_4068367d:
@@ -3849,7 +3849,7 @@ translate ukrainian karyn_gal1_ecd9aad4:
 translate ukrainian karyn_gal1_5fe37da6:
 
     # kar "{i}I'm cumming!"
-    kar "{i}I'm cumming!"
+    kar "{i}I'm cumming!" with vpunch
 
 # game/game/karyn_events.rpy:1111
 translate ukrainian karyn_gal1_2f47a671:
@@ -3891,13 +3891,13 @@ translate ukrainian karyn_gal1_cb1c751e:
 translate ukrainian karyn_gal1_f518f367:
 
     # c "Are you ok?"
-    c "Are you ok?"
+    c "Are you ok?" with vpunch
 
 # game/game/karyn_events.rpy:1141
 translate ukrainian karyn_gal1_5302c05f:
 
     # kar "A-aAHH!"
-    kar "A-aAHH!"
+    kar "A-aAHH!" with vpunch
 
 # game/game/karyn_events.rpy:1142
 translate ukrainian karyn_gal1_b8509bbe:
@@ -3933,7 +3933,7 @@ translate ukrainian karyn_gal1_2c9a1a96:
 translate ukrainian karyn_gal1_3a13b6d7:
 
     # kar "Wait! {w}What did you say, house cat?!"
-    kar "Wait! {w}What did you say, house cat?!"
+    kar "Wait! {w}What did you say, house cat?!" with hpunch
 
 # game/game/karyn_events.rpy:1159
 translate ukrainian karyn_eventuno_8fea2db2:
@@ -3981,13 +3981,13 @@ translate ukrainian karyn_eventuno_6abbd989:
 translate ukrainian karyn_eventuno_3d6409e6:
 
     # mc "What?"
-    mc "What?"
+    mc "What?" (multiple=2)
 
 # game/game/karyn_events.rpy:1170
 translate ukrainian karyn_eventuno_cc5f9840:
 
     # ir "Mmm?"
-    ir "Mmm?"
+    ir "Mmm?" (multiple=2)
 
 # game/game/karyn_events.rpy:1172
 translate ukrainian karyn_eventuno_566d23d5:
@@ -4029,7 +4029,7 @@ translate ukrainian karyn_eventuno_26ce75f8:
 translate ukrainian karyn_eventuno_eacf27d9:
 
     # kar "{sc=3}{outlinecolor=#000000}{i}Do you think you can run away?"
-    kar "{sc=3}{outlinecolor=#000000}{i}Do you think you can run away?"
+    kar "{sc=3}{outlinecolor=#000000}{i}Do you think you can run away?" with vpunch
 
 # game/game/karyn_events.rpy:1194
 translate ukrainian karyn_eventuno_ab415609:
@@ -4041,7 +4041,7 @@ translate ukrainian karyn_eventuno_ab415609:
 translate ukrainian karyn_eventuno_87cccda6:
 
     # kar "{sc=3}{outlinecolor=#000000}{i}HaAHAHahahaA!"
-    kar "{sc=3}{outlinecolor=#000000}{i}HaAHAHahahaA!"
+    kar "{sc=3}{outlinecolor=#000000}{i}HaAHAHahahaA!" with hpunch
 
 # game/game/karyn_events.rpy:1200
 translate ukrainian karyn_eventuno_00b63fe8:
@@ -4077,7 +4077,7 @@ translate ukrainian karyn_eventuno_7335fd50:
 translate ukrainian karyn_eventuno_13b0e881:
 
     # kar "{sc=3}{outlinecolor=#000000}{i}Although, there will be no next time! HahaaHAHAhaAhA!"
-    kar "{sc=3}{outlinecolor=#000000}{i}Although, there will be no next time! HahaaHAHAhaAhA!"
+    kar "{sc=3}{outlinecolor=#000000}{i}Although, there will be no next time! HahaaHAHAhaAhA!" with vpunch
 
 # game/game/karyn_events.rpy:1227
 translate ukrainian karyn_eventuno_04f77998:
@@ -4197,13 +4197,13 @@ translate ukrainian karyn_eventuno_c431bc7d:
 translate ukrainian karyn_eventuno_d4f22f15:
 
     # kar "...!"
-    kar "...!"
+    kar "...!" (multiple=2)
 
 # game/game/karyn_events.rpy:1258
 translate ukrainian karyn_eventuno_ea6afde0:
 
     # mc "Well..."
-    mc "Well..."
+    mc "Well..." (multiple=2)
 
 # game/game/karyn_events.rpy:1259
 translate ukrainian karyn_eventuno_a091c253:
@@ -4281,13 +4281,13 @@ translate ukrainian karyn_eventuno_5107625f:
 translate ukrainian karyn_eventuno_21295b03:
 
     # mc "Here."
-    mc "Here."
+    mc "Here." (multiple=2)
 
 # game/game/karyn_events.rpy:1278
 translate ukrainian karyn_eventuno_d4f22f15_1:
 
     # kar "...!"
-    kar "...!"
+    kar "...!" (multiple=2)
 
 # game/game/karyn_events.rpy:1280
 translate ukrainian karyn_eventuno_c9e939c1:
@@ -4371,7 +4371,7 @@ translate ukrainian karyn_eventuno_c5dab714:
 translate ukrainian karyn_eventuno_2b8c92d6:
 
     # kar "{sc=2}{outlinecolor=#000000}Wan~!{image=corazon}"
-    kar "{sc=2}{outlinecolor=#000000}Wan~!{image=corazon}"
+    kar "{sc=2}{outlinecolor=#000000}Wan~!{image=corazon}" with hpunch
 
 # game/game/karyn_events.rpy:1306
 translate ukrainian karyn_eventuno_84fd7eb0:
@@ -4593,7 +4593,7 @@ translate ukrainian karyn_eventdos_b_1a6e3484:
 translate ukrainian karyn_eventdos_b_c40dc24d:
 
     # "{sc=2}{outlinecolor=#000000}{size=-6}{color=#21c3de}Waaan!~{image=corazon}"
-    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#21c3de}Waaan!~{image=corazon}"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#21c3de}Waaan!~{image=corazon}" with vpunch
 
 # game/game/karyn_events.rpy:1401
 translate ukrainian karyn_eventdos_b_d1c3da26:
@@ -4617,13 +4617,13 @@ translate ukrainian karyn_eventdos_b_d945d4f8:
 translate ukrainian karyn_eventdos_b_0cf8e3bf:
 
     # mc "Hey..."
-    mc "Hey..."
+    mc "Hey..." (multiple=2)
 
 # game/game/karyn_events.rpy:1406
 translate ukrainian karyn_eventdos_b_d6894923:
 
     # kar "{sc=2}{outlinecolor=#000000}...!"
-    kar "{sc=2}{outlinecolor=#000000}...!"
+    kar "{sc=2}{outlinecolor=#000000}...!" with vpunch
 
 # game/game/karyn_events.rpy:1408
 translate ukrainian karyn_eventdos_b_15d5dd8c:
@@ -4653,7 +4653,7 @@ translate ukrainian karyn_eventdos_b_9e38ef6b:
 translate ukrainian karyn_eventdos_b_6dc71a62:
 
     # kar "{size=-6}{i}Gulp*"
-    kar "{size=-6}{i}Gulp*"
+    kar "{size=-6}{i}Gulp*" with vpunch
 
 # game/game/karyn_events.rpy:1416
 translate ukrainian karyn_eventdos_b_70b7b1ba:
@@ -4707,7 +4707,7 @@ translate ukrainian karyn_eventdos_b_4354c56b:
 translate ukrainian karyn_eventdos_b_a2dab5a9:
 
     # kar "Do you enjoy killing things too?~"
-    kar "Do you enjoy killing things too?~"
+    kar "Do you enjoy killing things too?~" with hpunch
 
 # game/game/karyn_events.rpy:1435
 translate ukrainian karyn_eventdos_b_102aa7ae:
@@ -4869,7 +4869,7 @@ translate ukrainian karyn_eventdos_b_e7a8ad3c:
 translate ukrainian karyn_eventdos_b_d8c036ae:
 
     # kar "Eeeh?"
-    kar "Eeeh?"
+    kar "Eeeh?" with hpunch
 
 # game/game/karyn_events.rpy:1470
 translate ukrainian karyn_eventdos_b_403bad7e:
@@ -5193,7 +5193,7 @@ translate ukrainian karyn_eventdos_b_c6e2b1b6:
 translate ukrainian karyn_eventdos_b_520aaf85:
 
     # kar "W-What? {w}Why are you telling me this... now?"
-    kar "W-What? {w}Why are you telling me this... now?"
+    kar "W-What? {w}Why are you telling me this... now?" with vpunch
 
 # game/game/karyn_events.rpy:1542
 translate ukrainian karyn_eventdos_b_d4944444:
@@ -5421,7 +5421,7 @@ translate ukrainian karyn_eventdos_b_e91f1d0f:
 translate ukrainian karyn_eventdos_b_2aeda5c7:
 
     # kar "Byyee!"
-    kar "Byyee!"
+    kar "Byyee!" with hpunch
 
 # game/game/karyn_events.rpy:1593
 translate ukrainian karyn_eventdos_b_cb1c751e:
@@ -5637,7 +5637,7 @@ translate ukrainian karyn_eventtres_3b04e05a:
 translate ukrainian karyn_eventtres_13a14bc0:
 
     # kar "Why am I lying like this?!"
-    kar "Why am I lying like this?!"
+    kar "Why am I lying like this?!" with vpunch
 
 # game/game/karyn_events.rpy:1677
 translate ukrainian karyn_eventtres_43d22790:
@@ -5673,7 +5673,7 @@ translate ukrainian karyn_eventtres_90dd0a25:
 translate ukrainian karyn_eventtres_60fb6c6d:
 
     # kar "Wa-"
-    kar "Wa-"
+    kar "Wa-" with vpunch
 
 # game/game/karyn_events.rpy:1685
 translate ukrainian karyn_eventtres_b280e960:
@@ -5781,7 +5781,7 @@ translate ukrainian karyn_eventtres_15d5dd8c_5:
 translate ukrainian karyn_eventtres_f3cad908:
 
     # kar "Hahahaha~ Really?"
-    kar "Hahahaha~ Really?"
+    kar "Hahahaha~ Really?" with vpunch
 
 # game/game/karyn_events.rpy:1708
 translate ukrainian karyn_eventtres_59ca11f4:
@@ -5853,7 +5853,7 @@ translate ukrainian karyn_eventtres_cb83ffe4:
 translate ukrainian karyn_eventtres_516f379c:
 
     # kar "{size=-6}W-Wa-"
-    kar "{size=-6}W-Wa-"
+    kar "{size=-6}W-Wa-" with vpunch
 
 # game/game/karyn_events.rpy:1725
 translate ukrainian karyn_eventtres_15d5dd8c_6:
@@ -6111,7 +6111,7 @@ translate ukrainian karyn_eventcuatro_a61ca079:
 translate ukrainian karyn_eventcuatro_a08f8208:
 
     # "{sc=2}{outlinecolor=#000000}{color=#ff00b5}{size=-6}[mc]!"
-    "{sc=2}{outlinecolor=#000000}{color=#ff00b5}{size=-6}[mc]!"
+    "{sc=2}{outlinecolor=#000000}{color=#ff00b5}{size=-6}[mc]!" with vpunch
 
 # game/game/karyn_events.rpy:1796
 translate ukrainian karyn_eventcuatro_3f871f46:
@@ -6225,7 +6225,7 @@ translate ukrainian karyn_eventcuatro_6bedd863:
 translate ukrainian karyn_eventcuatro_0efe532a:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "Oh!" with vpunch
 
 # game/game/karyn_events.rpy:1822
 translate ukrainian karyn_eventcuatro_42d35677:
@@ -6351,13 +6351,13 @@ translate ukrainian karyn_eventcuatro_eee7600d:
 translate ukrainian karyn_eventcuatro_4149a162:
 
     # di "{sc=2}{outlinecolor=#000000}{i}HiiiiihHh!"
-    di "{sc=2}{outlinecolor=#000000}{i}HiiiiihHh!"
+    di "{sc=2}{outlinecolor=#000000}{i}HiiiiihHh!" (multiple=2)
 
 # game/game/karyn_events.rpy:1849
 translate ukrainian karyn_eventcuatro_456a8227:
 
     # mc "What kind of person do you think I am!"
-    mc "What kind of person do you think I am!"
+    mc "What kind of person do you think I am!" (multiple=2)
 
 # game/game/karyn_events.rpy:1851
 translate ukrainian karyn_eventcuatro_e0f95824:
@@ -6597,31 +6597,31 @@ translate ukrainian karyn_eventcuatro_e77c4d59:
 translate ukrainian karyn_eventcuatro_e5b28d78:
 
     # kar "{sc=2}{outlinecolor=#000000}{i}It would have made everything easier!"
-    kar "{sc=2}{outlinecolor=#000000}{i}It would have made everything easier!"
+    kar "{sc=2}{outlinecolor=#000000}{i}It would have made everything easier!" with hpunch
 
 # game/game/karyn_events.rpy:1924
 translate ukrainian karyn_eventcuatro_48585d39:
 
     # mc "Karyn!{w=0.5}{nw}"
-    mc "Karyn!{w=0.5}{nw}"
+    mc "Karyn!{w=0.5}{nw}" with hpunch
 
 # game/game/karyn_events.rpy:1926
 translate ukrainian karyn_eventcuatro_cf3b6ab8:
 
     # mc "I knew you would still be here."
-    mc "I knew you would still be here."
+    mc "I knew you would still be here." (multiple=2)
 
 # game/game/karyn_events.rpy:1927
 translate ukrainian karyn_eventcuatro_378e1405:
 
     # kar "{size=-6}Eh?"
-    kar "{size=-6}Eh?"
+    kar "{size=-6}Eh?" (multiple=2)
 
 # game/game/karyn_events.rpy:1928
 translate ukrainian karyn_eventcuatro_fd65db9d:
 
     # kar "...!"
-    kar "...!"
+    kar "...!" with hpunch
 
 # game/game/karyn_events.rpy:1930
 translate ukrainian karyn_eventcuatro_b36e134e:
@@ -6711,13 +6711,13 @@ translate ukrainian karyn_eventcuatro_3cba0073:
 translate ukrainian karyn_eventcuatro_d790ea2c:
 
     # kar "{size=-6}What are you trying to do?"
-    kar "{size=-6}What are you trying to do?"
+    kar "{size=-6}What are you trying to do?" (multiple=2)
 
 # game/game/karyn_events.rpy:1950
 translate ukrainian karyn_eventcuatro_ba4b356f:
 
     # mc "Maybe-"
-    mc "Maybe-"
+    mc "Maybe-" (multiple=2)
 
 # game/game/karyn_events.rpy:1951
 translate ukrainian karyn_eventcuatro_2b35b6fe_4:
@@ -6765,7 +6765,7 @@ translate ukrainian karyn_eventcuatro_a7bcf340:
 translate ukrainian karyn_eventcuatro_0de06865:
 
     # kar "{sc=2}{outlinecolor=#000000}{i}Ah-chi~"
-    kar "{sc=2}{outlinecolor=#000000}{i}Ah-chi~"
+    kar "{sc=2}{outlinecolor=#000000}{i}Ah-chi~" with hpunch
 
 # game/game/karyn_events.rpy:1963
 translate ukrainian karyn_eventcuatro_dea6de0f:
@@ -6795,7 +6795,7 @@ translate ukrainian karyn_eventcuatro_2b35b6fe_6:
 translate ukrainian karyn_eventcuatro_cbb26833:
 
     # kar "Wan-W-What are you doing?!!"
-    kar "Wan-W-What are you doing?!!"
+    kar "Wan-W-What are you doing?!!" with hpunch
 
 # game/game/karyn_events.rpy:1971
 translate ukrainian karyn_eventcuatro_56fe42eb:
@@ -7071,7 +7071,7 @@ translate ukrainian karyn_eventcuatro_1a479309:
 translate ukrainian karyn_eventcuatro_89a45949:
 
     # mc "Why do everyone say the same thing?!"
-    mc "Why do everyone say the same thing?!"
+    mc "Why do everyone say the same thing?!" with vpunch
 
 # game/game/karyn_events.rpy:2047
 translate ukrainian karyn_eventcuatro_2998c98f:
@@ -7155,13 +7155,13 @@ translate ukrainian karyn_eventcuatro_a5d884e2:
 translate ukrainian karyn_eventcuatro_08e94164:
 
     # c "W-What?"
-    c "W-What?"
+    c "W-What?" with vpunch
 
 # game/game/karyn_events.rpy:2065
 translate ukrainian karyn_eventcuatro_43a0330d:
 
     # r "Me too! Me too!"
-    r "Me too! Me too!"
+    r "Me too! Me too!" with hpunch
 
 # game/game/karyn_events.rpy:2066
 translate ukrainian karyn_eventcuatro_9184668f:
@@ -7227,7 +7227,7 @@ translate ukrainian karyn_eventcuatro_7f59e218:
 translate ukrainian karyn_eventcuatro_6f5d08bc:
 
     # ak "{sc=3}{outlinecolor=#000000}{i}Shut up!"
-    ak "{sc=3}{outlinecolor=#000000}{i}Shut up!"
+    ak "{sc=3}{outlinecolor=#000000}{i}Shut up!" with hpunch
 
 # game/game/karyn_events.rpy:2086
 translate ukrainian karyn_eventcuatro_a20cefa7_3:
@@ -7299,7 +7299,7 @@ translate ukrainian karyn_eventcuatro_2b73f8b7:
 translate ukrainian karyn_eventcuatro_43cb5442:
 
     # mc "{sc=1}{outlinecolor=#000000}Ahem*"
-    mc "{sc=1}{outlinecolor=#000000}Ahem*"
+    mc "{sc=1}{outlinecolor=#000000}Ahem*" with vpunch
 
 # game/game/karyn_events.rpy:2101
 translate ukrainian karyn_eventcuatro_e9779925:
@@ -7341,7 +7341,7 @@ translate ukrainian karyn_eventcuatro_257edb7a:
 translate ukrainian karyn_eventcuatro_526d4e1f:
 
     # mc "{sc=1}{outlinecolor=#000000}A-Ahem!"
-    mc "{sc=1}{outlinecolor=#000000}A-Ahem!"
+    mc "{sc=1}{outlinecolor=#000000}A-Ahem!" with hpunch
 
 # game/game/karyn_events.rpy:2108
 translate ukrainian karyn_eventcuatro_5cf89159:
@@ -7353,7 +7353,7 @@ translate ukrainian karyn_eventcuatro_5cf89159:
 translate ukrainian karyn_eventcuatro_ad55fb58:
 
     # kar "Wa-?"
-    kar "Wa-?"
+    kar "Wa-?" with hpunch
 
 # game/game/karyn_events.rpy:2111
 translate ukrainian karyn_eventcuatro_0872ae91:
@@ -7371,13 +7371,13 @@ translate ukrainian karyn_eventcuatro_15d5dd8c_7:
 translate ukrainian karyn_eventcuatro_84888caf:
 
     # c "What!?"
-    c "What!?"
+    c "What!?" (multiple=2)
 
 # game/game/karyn_events.rpy:2115
 translate ukrainian karyn_eventcuatro_d089dc95:
 
     # kar "What?!"
-    kar "What?!"
+    kar "What?!" (multiple=2)
 
 # game/game/karyn_events.rpy:2116
 translate ukrainian karyn_eventcuatro_1184c10d:
@@ -7389,7 +7389,7 @@ translate ukrainian karyn_eventcuatro_1184c10d:
 translate ukrainian karyn_eventcuatro_48b4d524:
 
     # r "Yeees!~ {w}I would be happy if you did."
-    r "Yeees!~ {w}I would be happy if you did."
+    r "Yeees!~ {w}I would be happy if you did." with hpunch
 
 # game/game/karyn_events.rpy:2119
 translate ukrainian karyn_eventcuatro_d69809ec:
@@ -7473,7 +7473,7 @@ translate ukrainian karyn_eventcuatro_09a6c532:
 translate ukrainian karyn_eventcuatro_c4b37110:
 
     # kar "Wa-"
-    kar "Wa-"
+    kar "Wa-" with hpunch
 
 # game/game/karyn_events.rpy:2137
 translate ukrainian karyn_eventcuatro_34ab1999:
@@ -7521,13 +7521,13 @@ translate ukrainian karyn_eventcuatro_df99972d:
 translate ukrainian karyn_eventcuatro_afd8523d:
 
     # c "What?"
-    c "What?"
+    c "What?" (multiple=2)
 
 # game/game/karyn_events.rpy:2147
 translate ukrainian karyn_eventcuatro_60494c90:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Eh?" (multiple=2)
 
 # game/game/karyn_events.rpy:2149
 translate ukrainian karyn_eventcuatro_b94da3f5:
@@ -7551,7 +7551,7 @@ translate ukrainian karyn_eventcuatro_dd335965:
 translate ukrainian karyn_eventcuatro_04233a77:
 
     # c "You haven't spent half as much time with him as I have!"
-    c "You haven't spent half as much time with him as I have!"
+    c "You haven't spent half as much time with him as I have!" with hpunch
 
 # game/game/karyn_events.rpy:2154
 translate ukrainian karyn_eventcuatro_5acc8b83:
@@ -7563,19 +7563,19 @@ translate ukrainian karyn_eventcuatro_5acc8b83:
 translate ukrainian karyn_eventcuatro_089c9e4c:
 
     # kar "Oh yeah? Then I'll live here just to spend more time with him!"
-    kar "Oh yeah? Then I'll live here just to spend more time with him!"
+    kar "Oh yeah? Then I'll live here just to spend more time with him!" with vpunch
 
 # game/game/karyn_events.rpy:2157
 translate ukrainian karyn_eventcuatro_28d2d856:
 
     # c "It doesn't matter! {w}You will be years away from catching up with me!"
-    c "It doesn't matter! {w}You will be years away from catching up with me!"
+    c "It doesn't matter! {w}You will be years away from catching up with me!" with hpunch
 
 # game/game/karyn_events.rpy:2158
 translate ukrainian karyn_eventcuatro_cb9e7dd2:
 
     # kar "The same number of years it will take for your body to grow?!"
-    kar "The same number of years it will take for your body to grow?!"
+    kar "The same number of years it will take for your body to grow?!" with hpunch
 
 # game/game/karyn_events.rpy:2159
 translate ukrainian karyn_eventcuatro_d19f855d:
@@ -7593,25 +7593,25 @@ translate ukrainian karyn_eventcuatro_6e6d1034:
 translate ukrainian karyn_eventcuatro_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/karyn_events.rpy:2163
 translate ukrainian karyn_eventcuatro_df850e43:
 
     # kar "..."
-    kar "..."
+    kar "..." (multiple=2)
 
 # game/game/karyn_events.rpy:2167
 translate ukrainian karyn_eventcuatro_673550a4:
 
     # c "{sc=1}{outlinecolor=#000000}HMgh!"
-    c "{sc=1}{outlinecolor=#000000}HMgh!"
+    c "{sc=1}{outlinecolor=#000000}HMgh!" (multiple=2)
 
 # game/game/karyn_events.rpy:2168
 translate ukrainian karyn_eventcuatro_2653f84a:
 
     # kar "{sc=1}{outlinecolor=#000000}Ghnh!"
-    kar "{sc=1}{outlinecolor=#000000}Ghnh!"
+    kar "{sc=1}{outlinecolor=#000000}Ghnh!" (multiple=2)
 
 # game/game/karyn_events.rpy:2169
 translate ukrainian karyn_eventcuatro_de5d2543:
@@ -7629,13 +7629,13 @@ translate ukrainian karyn_eventcuatro_cb1c751e:
 translate ukrainian karyn_eventcuatro_8c654c05:
 
     # kar "My butt is not that big!"
-    kar "My butt is not that big!"
+    kar "My butt is not that big!" with hpunch
 
 # game/game/karyn_events.rpy:2180
 translate ukrainian karyn_eventcuatro_0d506d8e:
 
     # c "Tell that to the half of the bathtub you take up when you sit down!"
-    c "Tell that to the half of the bathtub you take up when you sit down!"
+    c "Tell that to the half of the bathtub you take up when you sit down!" with vpunch
 
 # game/game/karyn_events.rpy:2181
 translate ukrainian karyn_eventcuatro_96c73458:
@@ -7647,25 +7647,25 @@ translate ukrainian karyn_eventcuatro_96c73458:
 translate ukrainian karyn_eventcuatro_afd81756:
 
     # ak "Don't fight after eating!"
-    ak "Don't fight after eating!"
+    ak "Don't fight after eating!" with vpunch
 
 # game/game/karyn_events.rpy:2192
 translate ukrainian karyn_eventcuatro_fffe28c9:
 
     # c "{sc=1}{outlinecolor=#000000}Ghnya!"
-    c "{sc=1}{outlinecolor=#000000}Ghnya!"
+    c "{sc=1}{outlinecolor=#000000}Ghnya!" (multiple=2)
 
 # game/game/karyn_events.rpy:2193
 translate ukrainian karyn_eventcuatro_486f7dd5:
 
     # kar "{sc=1}{outlinecolor=#000000}Wagh!"
-    kar "{sc=1}{outlinecolor=#000000}Wagh!"
+    kar "{sc=1}{outlinecolor=#000000}Wagh!" (multiple=2)
 
 # game/game/karyn_events.rpy:2194
 translate ukrainian karyn_eventcuatro_4c87e6af:
 
     # r "Hahahaha~"
-    r "Hahahaha~"
+    r "Hahahaha~" with hpunch
 
 # game/game/karyn_events.rpy:2195
 translate ukrainian karyn_eventcuatro_d2d9f1ce:
@@ -7767,7 +7767,7 @@ translate ukrainian karyn_eventcinco_2b35b6fe_1:
 translate ukrainian karyn_eventcinco_3ec31c5c:
 
     # mc "A-At what moment?!"
-    mc "A-At what moment?!"
+    mc "A-At what moment?!" with vpunch
 
 # game/game/karyn_events.rpy:2236
 translate ukrainian karyn_eventcinco_3141bf5a:
@@ -7875,7 +7875,7 @@ translate ukrainian karyn_eventcinco_fe2e23f9:
 translate ukrainian karyn_eventcinco_60fb6c6d:
 
     # kar "Wa-"
-    kar "Wa-"
+    kar "Wa-" with vpunch
 
 # game/game/karyn_events.rpy:2261
 translate ukrainian karyn_eventcinco_8ed5ec75:
@@ -7905,13 +7905,13 @@ translate ukrainian karyn_eventcinco_4d9a850d:
 translate ukrainian karyn_eventcinco_4ea41d85:
 
     # kar "H-Here!"
-    kar "H-Here!"
+    kar "H-Here!" (multiple=2)
 
 # game/game/karyn_events.rpy:2268
 translate ukrainian karyn_eventcinco_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/karyn_events.rpy:2269
 translate ukrainian karyn_eventcinco_446cc236:
@@ -8019,7 +8019,7 @@ translate ukrainian karyn_eventcinco_5386ce3a:
 translate ukrainian karyn_eventcinco_cabd42fd:
 
     # t "And that question so out of the blue?"
-    t "And that question so out of the blue?"
+    t "And that question so out of the blue?" with hpunch
 
 # game/game/karyn_events.rpy:2294
 translate ukrainian karyn_eventcinco_dce4189c:
@@ -8055,7 +8055,7 @@ translate ukrainian karyn_eventcinco_2b35b6fe_4:
 translate ukrainian karyn_eventcinco_562a15f6:
 
     # kar "W-What do you think about me?"
-    kar "W-What do you think about me?"
+    kar "W-What do you think about me?" with vpunch
 
 # game/game/karyn_events.rpy:2302
 translate ukrainian karyn_eventcinco_d75025c2:
@@ -8121,7 +8121,7 @@ translate ukrainian karyn_eventcinco_45fefbb1:
 translate ukrainian karyn_eventcinco_71b091f1:
 
     # t "What am I saying?!"
-    t "What am I saying?!"
+    t "What am I saying?!" with vpunch
 
 # game/game/karyn_events.rpy:2315
 translate ukrainian karyn_eventcinco_15d5dd8c_4:
@@ -8169,7 +8169,7 @@ translate ukrainian karyn_gal2_76b173d6:
 translate ukrainian karyn_gal2_07dc22c2:
 
     # t "Are all beast Girls like this or what?!"
-    t "Are all beast Girls like this or what?!"
+    t "Are all beast Girls like this or what?!" with hpunch
 
 # game/game/karyn_events.rpy:2332
 translate ukrainian karyn_gal2_b6297e3f:
@@ -8295,7 +8295,7 @@ translate ukrainian karyn_gal2_1212cf7f:
 translate ukrainian karyn_gal2_60fb6c6d:
 
     # kar "Wa-"
-    kar "Wa-"
+    kar "Wa-" with vpunch
 
 # game/game/karyn_events.rpy:2357
 translate ukrainian karyn_gal2_7882c100:
@@ -8355,7 +8355,7 @@ translate ukrainian karyn_gal2_ed748ca2:
 translate ukrainian karyn_gal2_1c7a9209:
 
     # mc "Gnh!"
-    mc "Gnh!"
+    mc "Gnh!" with cumflash
 
 # game/game/karyn_events.rpy:2368
 translate ukrainian karyn_gal2_3be64952:
@@ -8451,13 +8451,13 @@ translate ukrainian karyn_gal2_6654442e:
 translate ukrainian karyn_gal2_441d7288:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Hngm!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}Hngm!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Hngm!" (multiple=2)
 
 # game/game/karyn_events.rpy:2391
 translate ukrainian karyn_gal2_6cf162a7:
 
     # kar "Aah!~{image=corazon}"
-    kar "Aah!~{image=corazon}"
+    kar "Aah!~{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:2394
 translate ukrainian karyn_gal2_ad4803ce:
@@ -8577,7 +8577,7 @@ translate ukrainian karyn_gal2_dca29830:
 translate ukrainian karyn_gal2_f0adc68d:
 
     # kar "W-Wa?"
-    kar "W-Wa?"
+    kar "W-Wa?" with hpunch
 
 # game/game/karyn_events.rpy:2421
 translate ukrainian karyn_gal2_ba8b6853:
@@ -8595,7 +8595,7 @@ translate ukrainian karyn_gal2_1b28c700:
 translate ukrainian karyn_gal2_72be19e2:
 
     # kar "Wan!~{image=corazon}{image=corazon}{image=corazon}"
-    kar "Wan!~{image=corazon}{image=corazon}{image=corazon}"
+    kar "Wan!~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/karyn_events.rpy:2425
 translate ukrainian karyn_gal2_b9001213:
@@ -8619,7 +8619,7 @@ translate ukrainian karyn_gal2_ab15e5df:
 translate ukrainian karyn_gal2_ed244635:
 
     # kar "R-Rub harder, {w}GNgmhn~{image=corazon}{image=corazon} {w}m-make it... stop..."
-    kar "R-Rub harder, {w}GNgmhn~{image=corazon}{image=corazon} {w}m-make it... stop..."
+    kar "R-Rub harder, {w}GNgmhn~{image=corazon}{image=corazon} {w}m-make it... stop..." with cumflash
 
 # game/game/karyn_events.rpy:2429
 translate ukrainian karyn_gal2_b6021ff3:
@@ -8655,7 +8655,7 @@ translate ukrainian karyn_gal2_57216f94:
 translate ukrainian karyn_gal2_7c09a57e:
 
     # kar "Gnhgmhnmmnm!~{image=corazon}{image=corazon}{image=corazon}"
-    kar "Gnhgmhnmmnm!~{image=corazon}{image=corazon}{image=corazon}"
+    kar "Gnhgmhnmmnm!~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/karyn_events.rpy:2435
 translate ukrainian karyn_gal2_eff47981:
@@ -8697,7 +8697,7 @@ translate ukrainian karyn_gal2_b559d5a1:
 translate ukrainian karyn_gal2_2dfee011:
 
     # kar "{sc=1}{outlinecolor=#000000}Wa!-"
-    kar "{sc=1}{outlinecolor=#000000}Wa!-"
+    kar "{sc=1}{outlinecolor=#000000}Wa!-" with vpunch
 
 # game/game/karyn_events.rpy:2445
 translate ukrainian karyn_gal2_ab929cb4:
@@ -8721,7 +8721,7 @@ translate ukrainian karyn_gal2_2d15b154:
 translate ukrainian karyn_gal2_39d08070:
 
     # kar "Ghngm!~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
-    kar "Ghngm!~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
+    kar "Ghngm!~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/karyn_events.rpy:2450
 translate ukrainian karyn_gal2_e50ef288:
@@ -8745,7 +8745,7 @@ translate ukrainian karyn_gal2_61deed73:
 translate ukrainian karyn_gal2_e625f580:
 
     # kar "{sc=1}{outlinecolor=#000000}W-Wan~{image=corazon}{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}W-Wan~{image=corazon}{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}W-Wan~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/karyn_events.rpy:2454
 translate ukrainian karyn_gal2_fc389eae:
@@ -8769,7 +8769,7 @@ translate ukrainian karyn_gal2_ed87b495:
 translate ukrainian karyn_gal2_4f0da5d2:
 
     # kar "GnHNGGgnhmgnm~{image=corazon}{image=corazon}{image=corazon}"
-    kar "GnHNGGgnhmgnm~{image=corazon}{image=corazon}{image=corazon}"
+    kar "GnHNGGgnhmgnm~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/karyn_events.rpy:2459
 translate ukrainian karyn_gal2_195a742c:
@@ -8805,13 +8805,13 @@ translate ukrainian karyn_gal2_c3ff1005:
 translate ukrainian karyn_gal2_894d25e6:
 
     # kar "{sc=1}{outlinecolor=#000000}W-Wan?!"
-    kar "{sc=1}{outlinecolor=#000000}W-Wan?!"
+    kar "{sc=1}{outlinecolor=#000000}W-Wan?!" with cumflash
 
 # game/game/karyn_events.rpy:2465
 translate ukrainian karyn_gal2_ff8d545b:
 
     # mc "Gghnm!"
-    mc "Gghnm!"
+    mc "Gghnm!" with cumflash
 
 # game/game/karyn_events.rpy:2466
 translate ukrainian karyn_gal2_9269909b:
@@ -8841,7 +8841,7 @@ translate ukrainian karyn_gal2_fc7a8179:
 translate ukrainian karyn_gal2_2935f987:
 
     # kar "UUhngmgmgnhmg~~{image=corazon}{image=corazon}{image=corazon}"
-    kar "UUhngmgmgnhmg~~{image=corazon}{image=corazon}{image=corazon}"
+    kar "UUhngmgmgnhmg~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/karyn_events.rpy:2478
 translate ukrainian karyn_gal2_ebf1fc32:
@@ -9165,7 +9165,7 @@ translate ukrainian karyn_room_talk_4f6dd017:
 translate ukrainian karyn_room_talk_28d3eaec:
 
     # kar "Wait wait wait."
-    kar "Wait wait wait."
+    kar "Wait wait wait." with hpunch
 
 # game/game/karyn_events.rpy:2575
 translate ukrainian karyn_room_talk_84950f5a:
@@ -9177,25 +9177,25 @@ translate ukrainian karyn_room_talk_84950f5a:
 translate ukrainian karyn_room_talk_63b7996f:
 
     # c "Real beasts? {w}This puppy playground?"
-    c "Real beasts? {w}This puppy playground?"
+    c "Real beasts? {w}This puppy playground?" with hpunch
 
 # game/game/karyn_events.rpy:2578
 translate ukrainian karyn_room_talk_205e5694:
 
     # kar "{sc=1}{outlinecolor=#000000}Grrr..."
-    kar "{sc=1}{outlinecolor=#000000}Grrr..."
+    kar "{sc=1}{outlinecolor=#000000}Grrr..." (multiple=2)
 
 # game/game/karyn_events.rpy:2579
 translate ukrainian karyn_room_talk_5a15f24a:
 
     # c "{sc=1}{outlinecolor=#000000}Hhng..."
-    c "{sc=1}{outlinecolor=#000000}Hhng..."
+    c "{sc=1}{outlinecolor=#000000}Hhng..." (multiple=2)
 
 # game/game/karyn_events.rpy:2582
 translate ukrainian karyn_room_talk_fd546e8b:
 
     # mc "O-Ok! There is no need for this!"
-    mc "O-Ok! There is no need for this!"
+    mc "O-Ok! There is no need for this!" with hpunch
 
 # game/game/karyn_events.rpy:2583
 translate ukrainian karyn_room_talk_636d7caf:
@@ -9207,7 +9207,7 @@ translate ukrainian karyn_room_talk_636d7caf:
 translate ukrainian karyn_room_talk_5b5f14ce:
 
     # c "Depending on others doesn't make you weak, {w}it doesn't make you a burden."
-    c "Depending on others doesn't make you weak, {w}it doesn't make you a burden."
+    c "Depending on others doesn't make you weak, {w}it doesn't make you a burden." with hpunch
 
 # game/game/karyn_events.rpy:2586
 translate ukrainian karyn_room_talk_15d5dd8c_1:
@@ -9225,7 +9225,7 @@ translate ukrainian karyn_room_talk_549dcc3b:
 translate ukrainian karyn_room_talk_ad008d5d:
 
     # c "You should be ashamed of being too scared to follow yours!"
-    c "You should be ashamed of being too scared to follow yours!"
+    c "You should be ashamed of being too scared to follow yours!" with hpunch
 
 # game/game/karyn_events.rpy:2590
 translate ukrainian karyn_room_talk_33e63abd:
@@ -9309,19 +9309,19 @@ translate ukrainian karyn_room_talk_1a2e72a2:
 translate ukrainian karyn_room_talk_7bb0f040:
 
     # kar "{sc=1}{outlinecolor=#000000}GrrrAaah! {w}That dumb cat! Who does she think she is?!"
-    kar "{sc=1}{outlinecolor=#000000}GrrrAaah! {w}That dumb cat! Who does she think she is?!"
+    kar "{sc=1}{outlinecolor=#000000}GrrrAaah! {w}That dumb cat! Who does she think she is?!" with hpunch
 
 # game/game/karyn_events.rpy:2611
 translate ukrainian karyn_room_talk_023753ec:
 
     # kar "Fine, I accept!"
-    kar "Fine, I accept!"
+    kar "Fine, I accept!" with vpunch
 
 # game/game/karyn_events.rpy:2613
 translate ukrainian karyn_room_talk_b6e40508:
 
     # kar "{sc=1}{outlinecolor=#000000}Let's go right now, show me the damn room!"
-    kar "{sc=1}{outlinecolor=#000000}Let's go right now, show me the damn room!"
+    kar "{sc=1}{outlinecolor=#000000}Let's go right now, show me the damn room!" with vpunch
 
 # game/game/karyn_events.rpy:2614
 translate ukrainian karyn_room_talk_8434538c:
@@ -9375,7 +9375,7 @@ translate ukrainian karyn_room_talk_0fa119be:
 translate ukrainian karyn_room_talk_d281dae5:
 
     # mc "W-We are here!"
-    mc "W-We are here!"
+    mc "W-We are here!" with hpunch
 
 # game/game/karyn_events.rpy:2625
 translate ukrainian karyn_room_talk_9ee43722:
@@ -9531,7 +9531,7 @@ translate ukrainian karyn_room_talk_881ba5fb:
 translate ukrainian karyn_room_talk_ec3f29bd:
 
     # "{color=#86CDB7}Hey, fleabag!"
-    "{color=#86CDB7}Hey, fleabag!"
+    "{color=#86CDB7}Hey, fleabag!" with hpunch
 
 # game/game/karyn_events.rpy:2661
 translate ukrainian karyn_room_talk_23a2f1c1:
@@ -9567,13 +9567,13 @@ translate ukrainian karyn_room_talk_bfb9fa08:
 translate ukrainian karyn_room_talk_f76a86a9:
 
     # kar "I've had enough, house cat! {w}Come here!"
-    kar "I've had enough, house cat! {w}Come here!"
+    kar "I've had enough, house cat! {w}Come here!" with vpunch
 
 # game/game/karyn_events.rpy:2673
 translate ukrainian karyn_room_talk_d75a3a76:
 
     # kar "{sc=1}{outlinecolor=#000000}And my butt is not that big!"
-    kar "{sc=1}{outlinecolor=#000000}And my butt is not that big!"
+    kar "{sc=1}{outlinecolor=#000000}And my butt is not that big!" with hpunch
 
 # game/game/karyn_events.rpy:2679
 translate ukrainian karyn_room_talk_cb1c751e:
@@ -9879,7 +9879,7 @@ translate ukrainian karyn_eventseis_11455b53:
 translate ukrainian karyn_eventseis_e889fb13:
 
     # to "Welcome! {w}Whenever you want to sell or buy something, I will gladly welcome you."
-    to "Welcome! {w}Whenever you want to sell or buy something, I will gladly welcome you."
+    to "Welcome! {w}Whenever you want to sell or buy something, I will gladly welcome you." with hpunch
 
 # game/game/karyn_events.rpy:2783
 translate ukrainian karyn_eventseis_48809965:
@@ -10161,7 +10161,7 @@ translate ukrainian karyn_eventseis_0771d0d2:
 translate ukrainian karyn_eventseis_f2bd67e1:
 
     # y "{sc=1}{outlinecolor=#000000}Gghh! I-Idiot!"
-    y "{sc=1}{outlinecolor=#000000}Gghh! I-Idiot!"
+    y "{sc=1}{outlinecolor=#000000}Gghh! I-Idiot!" with hpunch
 
 # game/game/karyn_events.rpy:2848
 translate ukrainian karyn_eventseis_6255eecd:
@@ -10611,7 +10611,7 @@ translate ukrainian karyn_eventseis_877a8468:
 translate ukrainian karyn_eventseis_35aec4ea:
 
     # ma "[mc]!"
-    ma "[mc]!"
+    ma "[mc]!" with hpunch
 
 # game/game/karyn_events.rpy:2955
 translate ukrainian karyn_eventseis_b7adf0a5:
@@ -10647,13 +10647,13 @@ translate ukrainian karyn_eventseis_9ddc03d3:
 translate ukrainian karyn_eventseis_e75119bb:
 
     # ma "A connoisseur of wood!?"
-    ma "A connoisseur of wood!?"
+    ma "A connoisseur of wood!?" (multiple=2)
 
 # game/game/karyn_events.rpy:2964
 translate ukrainian karyn_eventseis_6fd41caa:
 
     # kar "Eh-"
-    kar "Eh-"
+    kar "Eh-" (multiple=2)
 
 # game/game/karyn_events.rpy:2965
 translate ukrainian karyn_eventseis_62a3299b:
@@ -10695,7 +10695,7 @@ translate ukrainian karyn_eventseis_eff24985:
 translate ukrainian karyn_eventseis_9e65d081:
 
     # ma "More people, more work, {w}of course we'll do it!"
-    ma "More people, more work, {w}of course we'll do it!"
+    ma "More people, more work, {w}of course we'll do it!" with hpunch
 
 # game/game/karyn_events.rpy:2974
 translate ukrainian karyn_eventseis_15d5dd8c_6:
@@ -10917,13 +10917,13 @@ translate ukrainian karyn_eventseis_3813f16d:
 translate ukrainian karyn_eventseis_b39a306e:
 
     # mc "Ah."
-    mc "Ah."
+    mc "Ah." (multiple=2)
 
 # game/game/karyn_events.rpy:3033
 translate ukrainian karyn_eventseis_d1b87f9f:
 
     # c "All right, let's go."
-    c "All right, let's go."
+    c "All right, let's go." (multiple=2)
 
 # game/game/karyn_events.rpy:3039
 translate ukrainian karyn_eventseis_cb1c751e:
@@ -10935,7 +10935,7 @@ translate ukrainian karyn_eventseis_cb1c751e:
 translate ukrainian karyn_eventseis_b7a257ad:
 
     # kar "Hey!"
-    kar "Hey!"
+    kar "Hey!" with hpunch
 
 # game/game/karyn_events.rpy:3043
 translate ukrainian karyn_eventseis_b9e2b1d8:
@@ -11283,13 +11283,13 @@ translate ukrainian karyn_eventsiete_fdc06c8b:
 translate ukrainian karyn_eventsiete_d1cd00bb:
 
     # kar "Here~"
-    kar "Here~"
+    kar "Here~" (multiple=2)
 
 # game/game/karyn_events.rpy:3140
 translate ukrainian karyn_eventsiete_070a186d:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" (multiple=2)
 
 # game/game/karyn_events.rpy:3141
 translate ukrainian karyn_eventsiete_6bedd863:
@@ -11439,13 +11439,13 @@ translate ukrainian karyn_eventsiete_5510f9c9:
 translate ukrainian karyn_eventsiete_e55808f4:
 
     # kar "Eh?"
-    kar "Eh?"
+    kar "Eh?" (multiple=2)
 
 # game/game/karyn_events.rpy:3173
 translate ukrainian karyn_eventsiete_c1bf5b5e:
 
     # mc "Uhm-"
-    mc "Uhm-"
+    mc "Uhm-" (multiple=2)
 
 # game/game/karyn_events.rpy:3174
 translate ukrainian karyn_eventsiete_e30ce5a0:
@@ -11727,7 +11727,7 @@ translate ukrainian karyn_eventsiete_e431be4f:
 translate ukrainian karyn_eventsiete_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/karyn_events.rpy:3236
 translate ukrainian karyn_eventsiete_e600589b:
@@ -11751,7 +11751,7 @@ translate ukrainian karyn_eventsiete_972a94bd:
 translate ukrainian karyn_eventsiete_b8b84bc5:
 
     # r "{sc=1}{outlinecolor=#000000}{size=-6}WIWIWIW-WIIIIFEE!"
-    r "{sc=1}{outlinecolor=#000000}{size=-6}WIWIWIW-WIIIIFEE!"
+    r "{sc=1}{outlinecolor=#000000}{size=-6}WIWIWIW-WIIIIFEE!" with hpunch
 
 # game/game/karyn_events.rpy:3242
 translate ukrainian karyn_eventsiete_4698326e:
@@ -11793,13 +11793,13 @@ translate ukrainian karyn_eventsiete_d5cb8aa4:
 translate ukrainian karyn_eventsiete_2e3b5693:
 
     # r "{sc=1}{outlinecolor=#000000}{size=-6}Ah!-"
-    r "{sc=1}{outlinecolor=#000000}{size=-6}Ah!-"
+    r "{sc=1}{outlinecolor=#000000}{size=-6}Ah!-" (multiple=2)
 
 # game/game/karyn_events.rpy:3253
 translate ukrainian karyn_eventsiete_6d2afcb4:
 
     # kar "Eh?-"
-    kar "Eh?-"
+    kar "Eh?-" (multiple=2)
 
 # game/game/karyn_events.rpy:3259
 translate ukrainian karyn_eventsiete_2b35b6fe_5:
@@ -11865,7 +11865,7 @@ translate ukrainian karyn_eventsiete_3791df57:
 translate ukrainian karyn_eventsiete_8bb94748:
 
     # kar "This meat tastes 100 times better cooked!"
-    kar "This meat tastes 100 times better cooked!"
+    kar "This meat tastes 100 times better cooked!" with hpunch
 
 # game/game/karyn_events.rpy:3278
 translate ukrainian karyn_eventsiete_c59da830:
@@ -11895,7 +11895,7 @@ translate ukrainian karyn_eventsiete_2d7f32ee:
 translate ukrainian karyn_eventsiete_a3924017:
 
     # kar "I'll bring you all the meat in the world!"
-    kar "I'll bring you all the meat in the world!"
+    kar "I'll bring you all the meat in the world!" with hpunch
 
 # game/game/karyn_events.rpy:3290
 translate ukrainian karyn_eventsiete_cb1c751e:
@@ -11943,13 +11943,13 @@ translate ukrainian karyn_eventocho_07f8d81e:
 translate ukrainian karyn_eventocho_95982d1a:
 
     # di "{sc=1}{outlinecolor=#000000}{size=-6}C-Co-Confession!?"
-    di "{sc=1}{outlinecolor=#000000}{size=-6}C-Co-Confession!?"
+    di "{sc=1}{outlinecolor=#000000}{size=-6}C-Co-Confession!?" (multiple=2)
 
 # game/game/karyn_events.rpy:3310
 translate ukrainian karyn_eventocho_60494c90:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Eh?" (multiple=2)
 
 # game/game/karyn_events.rpy:3315
 translate ukrainian karyn_eventocho_ca57108a:
@@ -12219,7 +12219,7 @@ translate ukrainian karyn_eventocho_050f3ab5_2:
 translate ukrainian karyn_eventocho_0aa2e539:
 
     # di "{sc=1}{outlinecolor=#000000}{size=-6}W-Why are you l-looking at me like that!?"
-    di "{sc=1}{outlinecolor=#000000}{size=-6}W-Why are you l-looking at me like that!?"
+    di "{sc=1}{outlinecolor=#000000}{size=-6}W-Why are you l-looking at me like that!?" with hpunch
 
 # game/game/karyn_events.rpy:3379
 translate ukrainian karyn_eventocho_3fb2712a:
@@ -12231,7 +12231,7 @@ translate ukrainian karyn_eventocho_3fb2712a:
 translate ukrainian karyn_eventocho_e4b07725:
 
     # di "{sc=1}{outlinecolor=#000000}{size=-6}We're almost the same age!"
-    di "{sc=1}{outlinecolor=#000000}{size=-6}We're almost the same age!"
+    di "{sc=1}{outlinecolor=#000000}{size=-6}We're almost the same age!" with hpunch
 
 # game/game/karyn_events.rpy:3383
 translate ukrainian karyn_eventocho_1f5b224d:
@@ -12579,7 +12579,7 @@ translate ukrainian karyn_eventnueve_bdb69b4e:
 translate ukrainian karyn_eventnueve_58e6ee17:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}F-Friends?!"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}F-Friends?!"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}F-Friends?!" with hpunch
 
 # game/game/karyn_events.rpy:3474
 translate ukrainian karyn_eventnueve_3f871f46:
@@ -12603,7 +12603,7 @@ translate ukrainian karyn_eventnueve_37b6ffa2:
 translate ukrainian karyn_eventnueve_f9e174b2:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}FA!"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}FA!"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}FA!" with vpunch
 
 # game/game/karyn_events.rpy:3483
 translate ukrainian karyn_eventnueve_d0f51e9d:
@@ -12693,7 +12693,7 @@ translate ukrainian karyn_eventnueve_85a96a82:
 translate ukrainian karyn_eventnueve_d0f6da79:
 
     # kar "Why did you look at me when you said something smelled bad?!"
-    kar "Why did you look at me when you said something smelled bad?!"
+    kar "Why did you look at me when you said something smelled bad?!" with hpunch
 
 # game/game/karyn_events.rpy:3506
 translate ukrainian karyn_eventnueve_cb91fc18:
@@ -12723,7 +12723,7 @@ translate ukrainian karyn_eventnueve_89aefe22:
 translate ukrainian karyn_eventnueve_895c75f1:
 
     # kar "Yes! {w}And now [mc] will accompany me to sleep!"
-    kar "Yes! {w}And now [mc] will accompany me to sleep!"
+    kar "Yes! {w}And now [mc] will accompany me to sleep!" with hpunch
 
 # game/game/karyn_events.rpy:3517
 translate ukrainian karyn_eventnueve_fb2e5377:
@@ -12753,7 +12753,7 @@ translate ukrainian karyn_eventnueve_956e710a:
 translate ukrainian karyn_eventnueve_2efec2be:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}Haaa?!"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}Haaa?!"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}Haaa?!" with hpunch
 
 # game/game/karyn_events.rpy:3524
 translate ukrainian karyn_eventnueve_12d5214e:
@@ -12783,13 +12783,13 @@ translate ukrainian karyn_eventnueve_d19f855d:
 translate ukrainian karyn_eventnueve_b3b0f4db:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}Ghgg..."
-    c "{sc=1}{outlinecolor=#000000}{size=-6}Ghgg..."
+    c "{sc=1}{outlinecolor=#000000}{size=-6}Ghgg..." (multiple=2)
 
 # game/game/karyn_events.rpy:3532
 translate ukrainian karyn_eventnueve_be84076c:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}Grrr..."
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}Grrr..."
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}Grrr..." (multiple=2)
 
 # game/game/karyn_events.rpy:3534
 translate ukrainian karyn_eventnueve_23f9357c:
@@ -12801,13 +12801,13 @@ translate ukrainian karyn_eventnueve_23f9357c:
 translate ukrainian karyn_eventnueve_155eff3e:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}Exactly! Let's go to sleep!"
-    c "{sc=1}{outlinecolor=#000000}{size=-6}Exactly! Let's go to sleep!"
+    c "{sc=1}{outlinecolor=#000000}{size=-6}Exactly! Let's go to sleep!" (multiple=2)
 
 # game/game/karyn_events.rpy:3537
 translate ukrainian karyn_eventnueve_e5dce91f:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}Exactly! Let's go to sleep!"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}Exactly! Let's go to sleep!"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}Exactly! Let's go to sleep!" (multiple=2)
 
 # game/game/karyn_events.rpy:3538
 translate ukrainian karyn_eventnueve_fb2e5377_1:
@@ -12873,7 +12873,7 @@ translate ukrainian karyn_eventnueve_5304b946:
 translate ukrainian karyn_gal3_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/karyn_events.rpy:3557
 translate ukrainian karyn_gal3_7e318d35:
@@ -12957,13 +12957,13 @@ translate ukrainian karyn_gal3_d5fcc722:
 translate ukrainian karyn_gal3_9c8e90ad:
 
     # c "Touch it now."
-    c "Touch it now."
+    c "Touch it now." (multiple=2)
 
 # game/game/karyn_events.rpy:3576
 translate ukrainian karyn_gal3_036e9bea:
 
     # kar "W-What...!?"
-    kar "W-What...!?"
+    kar "W-What...!?" (multiple=2)
 
 # game/game/karyn_events.rpy:3578
 translate ukrainian karyn_gal3_8d0a52c0:
@@ -13041,7 +13041,7 @@ translate ukrainian karyn_gal3_592015ec:
 translate ukrainian karyn_gal3_80032faf:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" with cumflash
 
 # game/game/karyn_events.rpy:3592
 translate ukrainian karyn_gal3_06c9596a:
@@ -13059,7 +13059,7 @@ translate ukrainian karyn_gal3_fd8b2084:
 translate ukrainian karyn_gal3_d21e7770:
 
     # mc "Ugh!"
-    mc "Ugh!"
+    mc "Ugh!" with cumflash
 
 # game/game/karyn_events.rpy:3595
 translate ukrainian karyn_gal3_12a5256d:
@@ -13107,7 +13107,7 @@ translate ukrainian karyn_gal3_2954b8e6:
 translate ukrainian karyn_gal3_708a2e9f:
 
     # kar "I'm not afraid! I've done that before with him!"
-    kar "I'm not afraid! I've done that before with him!"
+    kar "I'm not afraid! I've done that before with him!" with hpunch
 
 # game/game/karyn_events.rpy:3606
 translate ukrainian karyn_gal3_7c2edbd4:
@@ -13119,7 +13119,7 @@ translate ukrainian karyn_gal3_7c2edbd4:
 translate ukrainian karyn_gal3_963aa5ba:
 
     # mc "Ghgn!!"
-    mc "Ghgn!!"
+    mc "Ghgn!!" with cumflash
 
 # game/game/karyn_events.rpy:3609
 translate ukrainian karyn_gal3_b9379ca6:
@@ -13155,7 +13155,7 @@ translate ukrainian karyn_gal3_f68d61b4:
 translate ukrainian karyn_gal3_80032faf_1:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" with cumflash
 
 # game/game/karyn_events.rpy:3615
 translate ukrainian karyn_gal3_4ba7ef46:
@@ -13203,13 +13203,13 @@ translate ukrainian karyn_gal3_680a2219:
 translate ukrainian karyn_gal3_039d8e01:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}Gngmh!? {w}Uhgnm! {w}Grrrr!"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}Gngmh!? {w}Uhgnm! {w}Grrrr!"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}Gngmh!? {w}Uhgnm! {w}Grrrr!" with hpunch
 
 # game/game/karyn_events.rpy:3625
 translate ukrainian karyn_gal3_191431a8:
 
     # mc "N-No, {w}I c-can't take it anymore..."
-    mc "N-No, {w}I c-can't take it anymore..."
+    mc "N-No, {w}I c-can't take it anymore..." with cumflash
 
 # game/game/karyn_events.rpy:3626
 translate ukrainian karyn_gal3_b6b10c2f:
@@ -13281,19 +13281,19 @@ translate ukrainian karyn_gal3_a693407e:
 translate ukrainian karyn_gal3_9af396c9:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}GNnmNH! Gulp~{image=corazon} Gulp~{image=corazon}{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}GNnmNH! Gulp~{image=corazon} Gulp~{image=corazon}{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}GNnmNH! Gulp~{image=corazon} Gulp~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/karyn_events.rpy:3647
 translate ukrainian karyn_gal3_9512743d:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}Gulp~{image=corazon}{image=corazon} Gulp~{image=corazon} Hngm~{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}Gulp~{image=corazon}{image=corazon} Gulp~{image=corazon} Hngm~{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}Gulp~{image=corazon}{image=corazon} Gulp~{image=corazon} Hngm~{image=corazon}" with vpunch
 
 # game/game/karyn_events.rpy:3648
 translate ukrainian karyn_gal3_0df1601b:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}W-Wai-Gnhg!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}W-Wai-Gnhg!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}W-Wai-Gnhg!" with cumflash
 
 # game/game/karyn_events.rpy:3649
 translate ukrainian karyn_gal3_d19f855d:
@@ -13317,13 +13317,13 @@ translate ukrainian karyn_gal3_1436b0db:
 translate ukrainian karyn_gal3_a0665dc7:
 
     # c "Ghnya!"
-    c "Ghnya!"
+    c "Ghnya!" (multiple=2)
 
 # game/game/karyn_events.rpy:3656
 translate ukrainian karyn_gal3_f6d50cc4:
 
     # kar "Move."
-    kar "Move."
+    kar "Move." (multiple=2)
 
 # game/game/karyn_events.rpy:3657
 translate ukrainian karyn_gal3_fb2e5377:
@@ -13407,13 +13407,13 @@ translate ukrainian karyn_gal3_ec8d76c2:
 translate ukrainian karyn_gal3_5d40c32b:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}WaaNmnmN!"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}WaaNmnmN!"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}WaaNmnmN!" (multiple=2)
 
 # game/game/karyn_events.rpy:3680
 translate ukrainian karyn_gal3_44c464c8:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Ggh!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}Ggh!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Ggh!" (multiple=2)
 
 # game/game/karyn_events.rpy:3681
 translate ukrainian karyn_gal3_e44a533e:
@@ -13455,13 +13455,13 @@ translate ukrainian karyn_gal3_2b35b6fe_1:
 translate ukrainian karyn_gal3_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/karyn_events.rpy:3691
 translate ukrainian karyn_gal3_f6500717:
 
     # t "These beast-girls are crazy!"
-    t "These beast-girls are crazy!"
+    t "These beast-girls are crazy!" with hpunch
 
 # game/game/karyn_events.rpy:3692
 translate ukrainian karyn_gal3_6abe6297:
@@ -13479,19 +13479,19 @@ translate ukrainian karyn_gal3_b0cd8233:
 translate ukrainian karyn_gal3_90adfc06:
 
     # t "I won't worry about what happens anymore!"
-    t "I won't worry about what happens anymore!"
+    t "I won't worry about what happens anymore!" with hpunch
 
 # game/game/karyn_events.rpy:3695
 translate ukrainian karyn_gal3_b3882440:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}HaAanNm~{image=corazon} {w}Mgnhm~{image=corazon}{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}HaAanNm~{image=corazon} {w}Mgnhm~{image=corazon}{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}HaAanNm~{image=corazon} {w}Mgnhm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3696
 translate ukrainian karyn_gal3_69c5be3d:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}Yees~{image=corazon}{image=corazon} {w}MnNMH~{image=corazon}"
-    c "{sc=1}{outlinecolor=#000000}{size=-6}Yees~{image=corazon}{image=corazon} {w}MnNMH~{image=corazon}"
+    c "{sc=1}{outlinecolor=#000000}{size=-6}Yees~{image=corazon}{image=corazon} {w}MnNMH~{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3697
 translate ukrainian karyn_gal3_5e71eae3:
@@ -13509,19 +13509,19 @@ translate ukrainian karyn_gal3_da67a0d9:
 translate ukrainian karyn_gal3_8b82dcff:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" with hpunch
 
 # game/game/karyn_events.rpy:3701
 translate ukrainian karyn_gal3_8e208529:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}AaaNhmn~{image=corazon}{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}AaaNhmn~{image=corazon}{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}AaaNhmn~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3702
 translate ukrainian karyn_gal3_194792ea:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}HAnNmN~{image=corazon}{image=corazon}"
-    c "{sc=1}{outlinecolor=#000000}{size=-6}HAnNmN~{image=corazon}{image=corazon}"
+    c "{sc=1}{outlinecolor=#000000}{size=-6}HAnNmN~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3703
 translate ukrainian karyn_gal3_97a7e589:
@@ -13539,31 +13539,31 @@ translate ukrainian karyn_gal3_038418a8:
 translate ukrainian karyn_gal3_2d6ff087:
 
     # mc "I- {w}I'm in my limit!"
-    mc "I- {w}I'm in my limit!"
+    mc "I- {w}I'm in my limit!" with hpunch
 
 # game/game/karyn_events.rpy:3707
 translate ukrainian karyn_gal3_981fff56:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}Ngmhnm~{image=corazon} {w}WaaNMnm~{image=corazon} {w}AahnNM~{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}Ngmhnm~{image=corazon} {w}WaaNMnm~{image=corazon} {w}AahnNM~{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}Ngmhnm~{image=corazon} {w}WaaNMnm~{image=corazon} {w}AahnNM~{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3708
 translate ukrainian karyn_gal3_eedb5c2b:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}AAHNMnmh~{image=corazon} {w}HnwHM~{image=corazon}{image=corazon} {w}MnhMG~{image=corazon}{image=corazon}"
-    c "{sc=1}{outlinecolor=#000000}{size=-6}AAHNMnmh~{image=corazon} {w}HnwHM~{image=corazon}{image=corazon} {w}MnhMG~{image=corazon}{image=corazon}"
+    c "{sc=1}{outlinecolor=#000000}{size=-6}AAHNMnmh~{image=corazon} {w}HnwHM~{image=corazon}{image=corazon} {w}MnhMG~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3717
 translate ukrainian karyn_gal3_aa91ad80:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}AaNHnMHnmgh~{image=corazon}{image=corazon}{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}AaNHnMHnmgh~{image=corazon}{image=corazon}{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}AaNHnMHnmgh~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3718
 translate ukrainian karyn_gal3_6b83a58e:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}AhghNnaAaA~{image=corazon}{image=corazon}{image=corazon}"
-    c "{sc=1}{outlinecolor=#000000}{size=-6}AhghNnaAaA~{image=corazon}{image=corazon}{image=corazon}"
+    c "{sc=1}{outlinecolor=#000000}{size=-6}AhghNnaAaA~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3723
 translate ukrainian karyn_gal3_ba612840:
@@ -13575,13 +13575,13 @@ translate ukrainian karyn_gal3_ba612840:
 translate ukrainian karyn_gal3_7cf81520:
 
     # kar "{sc=1}{outlinecolor=#000000}{size=-6}UoHghngmNG~{image=corazon}{image=corazon}{image=corazon}"
-    kar "{sc=1}{outlinecolor=#000000}{size=-6}UoHghngmNG~{image=corazon}{image=corazon}{image=corazon}"
+    kar "{sc=1}{outlinecolor=#000000}{size=-6}UoHghngmNG~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3725
 translate ukrainian karyn_gal3_62d830b2:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-6}nMGHNmgnmg~{image=corazon}{image=corazon}{image=corazon}"
-    c "{sc=1}{outlinecolor=#000000}{size=-6}nMGHNmgnmg~{image=corazon}{image=corazon}{image=corazon}"
+    c "{sc=1}{outlinecolor=#000000}{size=-6}nMGHNmgnmg~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/karyn_events.rpy:3727
 translate ukrainian karyn_gal3_a20cefa7:

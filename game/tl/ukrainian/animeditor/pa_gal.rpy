@@ -303,7 +303,7 @@ translate ukrainian start_event_tier2_1_4bc7f1a8:
 translate ukrainian start_event_tier2_1_039c7905:
 
     # r "W-What?!"
-    r "W-What?!"
+    r "W-What?!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:204
 translate ukrainian start_event_tier2_1_f6b1baee:
@@ -327,7 +327,7 @@ translate ukrainian start_event_tier2_1_864c16e2:
 translate ukrainian start_event_tier2_1_b7f3d88e:
 
     # r "Master!"
-    r "Master!"
+    r "Master!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:211
 translate ukrainian start_event_tier2_1_2b35b6fe_2:
@@ -477,7 +477,7 @@ translate ukrainian start_event_tier2_1_930e77b9:
 translate ukrainian start_event_tier2_1_0c7f4964:
 
     # mc "..."
-    mc "..."
+    mc "..." with hpunch
 
 # game/game/animeditor/pa_gal.rpy:252
 translate ukrainian start_event_tier2_1_d42974c8:
@@ -573,7 +573,7 @@ translate ukrainian start_event_tier2_1_eb441e05:
 translate ukrainian start_event_tier2_1_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:275
 translate ukrainian start_event_tier2_1_f59c30a0:
@@ -651,7 +651,7 @@ translate ukrainian start_event_tier2_1_5488bc11:
 translate ukrainian start_event_tier2_1_20b84f16:
 
     # mc "Huh?!"
-    mc "Huh?!"
+    mc "Huh?!" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:294
 translate ukrainian start_event_tier2_1_d4387b75:
@@ -663,7 +663,7 @@ translate ukrainian start_event_tier2_1_d4387b75:
 translate ukrainian start_event_tier2_1_391a67bc:
 
     # t "She will make me cum immediately!"
-    t "She will make me cum immediately!"
+    t "She will make me cum immediately!" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:296
 translate ukrainian start_event_tier2_1_520083d4:
@@ -693,7 +693,7 @@ translate ukrainian start_event_tier2_1_c6c4f8f7:
 translate ukrainian start_event_tier2_1_518a9b51:
 
     # mc "W-What?!"
-    mc "W-What?!"
+    mc "W-What?!" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:301
 translate ukrainian start_event_tier2_1_211f6ad2:
@@ -801,7 +801,7 @@ translate ukrainian start_event_tier2_1_08f6e291:
 translate ukrainian start_event_tier2_1_630c2908:
 
     # r "Kya!{image=corazon}"
-    r "Kya!{image=corazon}"
+    r "Kya!{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:321
 translate ukrainian start_event_tier2_1_1d0a1fd0:
@@ -861,7 +861,7 @@ translate ukrainian start_event_tier2_1_09a50bb6:
 translate ukrainian start_event_tier2_1_e744f262:
 
     # r "Ghnhm~{image=corazon}{image=corazon}{w=0.3}{nw}"
-    r "Ghnhm~{image=corazon}{image=corazon}{w=0.3}{nw}"
+    r "Ghnhm~{image=corazon}{image=corazon}{w=0.3}{nw}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:336
 translate ukrainian start_event_tier2_1_36ccecc5:
@@ -879,7 +879,7 @@ translate ukrainian start_event_tier2_1_68e63a2b:
 translate ukrainian start_event_tier2_1_e80922aa:
 
     # r "W-Why doesn't {w}Ghmmg~~{image=corazon} {w}this feeling s-stop?"
-    r "W-Why doesn't {w}Ghmmg~~{image=corazon} {w}this feeling s-stop?"
+    r "W-Why doesn't {w}Ghmmg~~{image=corazon} {w}this feeling s-stop?" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:344
 translate ukrainian start_event_tier2_1_5db947cc:
@@ -891,7 +891,7 @@ translate ukrainian start_event_tier2_1_5db947cc:
 translate ukrainian start_event_tier2_1_14f1d438:
 
     # r "Ma-{w}Master...{image=corazon}"
-    r "Ma-{w}Master...{image=corazon}"
+    r "Ma-{w}Master...{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:347
 translate ukrainian start_event_tier2_1_19318420:
@@ -1017,7 +1017,7 @@ translate ukrainian start_event_tier3_1_ed54d57a:
 translate ukrainian start_event_tier3_1_77eab4b6:
 
     # a "Hey! {w}That hurt!"
-    a "Hey! {w}That hurt!"
+    a "Hey! {w}That hurt!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:403
 translate ukrainian start_event_tier3_1_2edba15a:
@@ -1191,7 +1191,7 @@ translate ukrainian start_event_tier3_1_e1554201:
 translate ukrainian start_event_tier3_1_05395c96:
 
     # s "Are you telling me it wasn't an attack!?"
-    s "Are you telling me it wasn't an attack!?"
+    s "Are you telling me it wasn't an attack!?" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:444
 translate ukrainian start_event_tier3_1_b8bf8588:
@@ -1269,7 +1269,7 @@ translate ukrainian start_event_tier3_1_450b54c0:
 translate ukrainian start_event_tier3_1_0c99293d:
 
     # s "Let's go!!"
-    s "Let's go!!"
+    s "Let's go!!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:465
 translate ukrainian start_event_tier3_1_2b35b6fe_1:
@@ -1359,7 +1359,7 @@ translate ukrainian start_event_tier3_1_652650d3:
 translate ukrainian start_event_tier3_1_8b421dea:
 
     # s "Yes!"
-    s "Yes!"
+    s "Yes!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:488
 translate ukrainian start_event_tier3_1_203515a0:
@@ -1539,7 +1539,7 @@ translate ukrainian start_event_tier3_1_e1554201_1:
 translate ukrainian start_event_tier3_1_696db215:
 
     # t "What am I thinking! {w}Remember that she always behaves like this..."
-    t "What am I thinking! {w}Remember that she always behaves like this..."
+    t "What am I thinking! {w}Remember that she always behaves like this..." with vpunch
 
 # game/game/animeditor/pa_gal.rpy:538
 translate ukrainian start_event_tier3_1_69a9ed9e:
@@ -1767,7 +1767,7 @@ translate ukrainian start_event_tier3_1_ef04873e:
 translate ukrainian start_event_tier3_1_ee94adcf:
 
     # s "B-But lo-look! {w}I'm still washing you..."
-    s "B-But lo-look! {w}I'm still washing you..."
+    s "B-But lo-look! {w}I'm still washing you..." with vpunch
 
 # game/game/animeditor/pa_gal.rpy:602
 translate ukrainian start_event_tier3_1_84d9991b:
@@ -1923,7 +1923,7 @@ translate ukrainian start_event_tier3_1_0d9d1f2e:
 translate ukrainian start_event_tier3_1_6b82abfe:
 
     # mc "{size=-6}H-How tight!"
-    mc "{size=-6}H-How tight!"
+    mc "{size=-6}H-How tight!" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:636
 translate ukrainian start_event_tier3_1_cc95589a:
@@ -1935,7 +1935,7 @@ translate ukrainian start_event_tier3_1_cc95589a:
 translate ukrainian start_event_tier3_1_aae557a8:
 
     # s "Gghn!?~"
-    s "Gghn!?~"
+    s "Gghn!?~" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:641
 translate ukrainian start_event_tier3_1_929837f9:
@@ -1977,7 +1977,7 @@ translate ukrainian start_event_tier3_1_d3628fe8:
 translate ukrainian start_event_tier3_1_3f0afd01:
 
     # s "{size=-10}A-Aaaah~~{image=corazon} {w}Uuhhm~~{image=corazon}{image=corazon}"
-    s "{size=-10}A-Aaaah~~{image=corazon} {w}Uuhhm~~{image=corazon}{image=corazon}"
+    s "{size=-10}A-Aaaah~~{image=corazon} {w}Uuhhm~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:652
 translate ukrainian start_event_tier3_1_07b49e6e:
@@ -2013,7 +2013,7 @@ translate ukrainian start_event_tier3_1_58af0bd0:
 translate ukrainian start_event_tier3_1_45fe6369:
 
     # s "{size=-10}Gghn~{image=corazon} Aaahnm~{image=corazon}{image=corazon}"
-    s "{size=-10}Gghn~{image=corazon} Aaahnm~{image=corazon}{image=corazon}"
+    s "{size=-10}Gghn~{image=corazon} Aaahnm~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:659
 translate ukrainian start_event_tier3_1_fcaeedd5:
@@ -2199,7 +2199,7 @@ translate ukrainian start_event_tier3_1_bb9f4916:
 translate ukrainian start_event_tier3_1_4597817d:
 
     # s "You were right!!"
-    s "You were right!!"
+    s "You were right!!" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:696
 translate ukrainian start_event_tier3_1_f147a79d:
@@ -2265,7 +2265,7 @@ translate ukrainian start_event_tier3_1_ade90c66:
 translate ukrainian start_event_tier3_1_5f706603:
 
     # s "No No~~{image=corazon} {w}W-What are you doing!{image=corazon}{image=corazon}"
-    s "No No~~{image=corazon} {w}W-What are you doing!{image=corazon}{image=corazon}"
+    s "No No~~{image=corazon} {w}W-What are you doing!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:708
 translate ukrainian start_event_tier3_1_adff88c1:
@@ -2289,7 +2289,7 @@ translate ukrainian start_event_tier3_1_b8077df9:
 translate ukrainian start_event_tier3_1_bbef20a8:
 
     # s "L-Let go of my leeeg!~{image=corazon}{image=corazon} {w}I c-can't lean well enough to make you f-feel good!{image=corazon}"
-    s "L-Let go of my leeeg!~{image=corazon}{image=corazon} {w}I c-can't lean well enough to make you f-feel good!{image=corazon}"
+    s "L-Let go of my leeeg!~{image=corazon}{image=corazon} {w}I c-can't lean well enough to make you f-feel good!{image=corazon}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:712
 translate ukrainian start_event_tier3_1_a1dbad88:
@@ -2331,7 +2331,7 @@ translate ukrainian start_event_tier3_1_1d82a7e7:
 translate ukrainian start_event_tier3_1_0a61d5be:
 
     # s "Aaaaaaaahhh~~{image=corazon}{image=corazon}"
-    s "Aaaaaaaahhh~~{image=corazon}{image=corazon}"
+    s "Aaaaaaaahhh~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:725
 translate ukrainian start_event_tier3_1_a5aa1da3:
@@ -2685,7 +2685,7 @@ translate ukrainian start_event_tier3_2_30b80356:
 translate ukrainian start_event_tier3_2_0188c063:
 
     # fu "What? {w}Something started to come out of the tip."
-    fu "What? {w}Something started to come out of the tip."
+    fu "What? {w}Something started to come out of the tip." with vpunch
 
 # game/game/animeditor/pa_gal.rpy:829
 translate ukrainian start_event_tier3_2_2936420a:
@@ -3123,7 +3123,7 @@ translate ukrainian start_event_tier3_3_7d2a3404:
 translate ukrainian start_event_tier3_3_5c7ac574:
 
     # "...!"
-    "...!"
+    "...!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:942
 translate ukrainian start_event_tier3_3_f2fd4ea6:
@@ -3135,7 +3135,7 @@ translate ukrainian start_event_tier3_3_f2fd4ea6:
 translate ukrainian start_event_tier3_3_08fe636c:
 
     # "{size=-10}He really came!"
-    "{size=-10}He really came!"
+    "{size=-10}He really came!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:944
 translate ukrainian start_event_tier3_3_96abc71e:
@@ -3225,7 +3225,7 @@ translate ukrainian start_event_tier3_3_0b3b9294:
 translate ukrainian start_event_tier3_3_5c7ac574_1:
 
     # "...!"
-    "...!"
+    "...!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:970
 translate ukrainian start_event_tier3_3_5c090e89:
@@ -3315,7 +3315,7 @@ translate ukrainian start_event_tier3_3_382be179:
 translate ukrainian start_event_tier3_3_33e81903:
 
     # "BNMNMNHM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "BNMNMNHM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "BNMNMNHM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:994
 translate ukrainian start_event_tier3_3_43fcdcb5:
@@ -3387,7 +3387,7 @@ translate ukrainian start_event_tier3_3_f747df5b:
 translate ukrainian start_event_tier3_3_44846311:
 
     # "YwEESSHmnhmn~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "YwEESSHmnhmn~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "YwEESSHmnhmn~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1009
 translate ukrainian start_event_tier3_3_87e26eb2:
@@ -3399,7 +3399,7 @@ translate ukrainian start_event_tier3_3_87e26eb2:
 translate ukrainian start_event_tier3_3_39889931:
 
     # "HHHNMMNN~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "HHHNMMNN~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "HHHNMMNN~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1012
 translate ukrainian start_event_tier3_3_22aeda2f:
@@ -3417,13 +3417,13 @@ translate ukrainian start_event_tier3_3_587fcebc:
 translate ukrainian start_event_tier3_3_cfcb0f0c:
 
     # "YeESSHnhmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "YeESSHnhmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "YeESSHnhmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1015
 translate ukrainian start_event_tier3_3_d002da97:
 
     # "Givvhnme iGh {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w} to meGWNMBN~~{image=/bg/icons/heart_text.png}"
-    "Givvhnme iGh {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w} to meGWNMBN~~{image=/bg/icons/heart_text.png}"
+    "Givvhnme iGh {image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w} to meGWNMBN~~{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1016
 translate ukrainian start_event_tier3_3_09e9ca82:
@@ -3441,19 +3441,19 @@ translate ukrainian start_event_tier3_3_41c8f14c:
 translate ukrainian start_event_tier3_3_321a9ec2:
 
     # "GHGGMHNMNGM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "GHGGMHNMNGM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "GHGGMHNMNGM~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:1023
 translate ukrainian start_event_tier3_3_cdbc2e77:
 
     # "NMNHMNNNMMM~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "NMNHMNNNMMM~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "NMNHMNNNMMM~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1026
 translate ukrainian start_event_tier3_3_75f5e927:
 
     # "HGghhhmmmmnnn~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    "HGghhhmmmmnnn~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    "HGghhhmmmmnnn~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1027
 translate ukrainian start_event_tier3_3_0c0dda8d:
@@ -3483,7 +3483,7 @@ translate ukrainian start_event_tier3_3_7c4d91c0:
 translate ukrainian start_event_tier3_3_9743ffc4:
 
     # "Gulp*"
-    "Gulp*"
+    "Gulp*" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1034
 translate ukrainian start_event_tier3_3_4f6b5650:
@@ -3531,7 +3531,7 @@ translate ukrainian start_event_tier3_3_a98579c9:
 translate ukrainian start_event_tier3_3_ceb518bd:
 
     # "YEEs!!~{image=/bg/icons/heart_text.png}"
-    "YEEs!!~{image=/bg/icons/heart_text.png}"
+    "YEEs!!~{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1052
 translate ukrainian start_event_tier3_3_23fc95f1:
@@ -3639,7 +3639,7 @@ translate ukrainian start_event_tier3_4_9bbc8d12:
 translate ukrainian start_event_tier3_4_ae913378:
 
     # mc "Thank you! {w}I will gladly take it!"
-    mc "Thank you! {w}I will gladly take it!"
+    mc "Thank you! {w}I will gladly take it!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1088
 translate ukrainian start_event_tier3_4_1f8d9084:
@@ -3819,7 +3819,7 @@ translate ukrainian start_event_tier3_4_ba4d870e:
 translate ukrainian start_event_tier3_4_53612e20:
 
     # ao "I had an idea!"
-    ao "I had an idea!"
+    ao "I had an idea!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1140
 translate ukrainian start_event_tier3_4_da0c1310:
@@ -3849,13 +3849,13 @@ translate ukrainian start_event_tier3_4_3864a381_2:
 translate ukrainian start_event_tier3_4_f402ba20:
 
     # ao "I had another idea!"
-    ao "I had another idea!"
+    ao "I had another idea!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1147
 translate ukrainian start_event_tier3_4_86d85bcb:
 
     # mc "Oi! {w}Did you really want me to get naked here?!"
-    mc "Oi! {w}Did you really want me to get naked here?!"
+    mc "Oi! {w}Did you really want me to get naked here?!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1149
 translate ukrainian start_event_tier3_4_2b396d3f:
@@ -3903,7 +3903,7 @@ translate ukrainian start_event_tier3_4_d4324338:
 translate ukrainian start_event_tier3_4_406b258d:
 
     # ao "Let's go! {w}Let's not waste time."
-    ao "Let's go! {w}Let's not waste time."
+    ao "Let's go! {w}Let's not waste time." with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1162
 translate ukrainian start_event_tier3_4_4e7dc0e0:
@@ -3915,7 +3915,7 @@ translate ukrainian start_event_tier3_4_4e7dc0e0:
 translate ukrainian start_event_tier3_4_7b7c86c7:
 
     # ao "Sa-yo-ri!~"
-    ao "Sa-yo-ri!~"
+    ao "Sa-yo-ri!~" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1166
 translate ukrainian start_event_tier3_4_752a6ce0:
@@ -3981,7 +3981,7 @@ translate ukrainian start_event_tier3_4_3864a381_3:
 translate ukrainian start_event_tier3_4_8b753fee:
 
     # ao "{size=-6}Hmnp~"
-    ao "{size=-6}Hmnp~"
+    ao "{size=-6}Hmnp~" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1181
 translate ukrainian start_event_tier3_4_947ce972:
@@ -4077,7 +4077,7 @@ translate ukrainian start_event_tier3_4_f4258d9b:
 translate ukrainian start_event_tier3_4_28a460d3:
 
     # ao "It doesn't matter! {w}I'll show you that it works!"
-    ao "It doesn't matter! {w}I'll show you that it works!"
+    ao "It doesn't matter! {w}I'll show you that it works!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1204
 translate ukrainian start_event_tier3_4_f189841d:
@@ -4185,7 +4185,7 @@ translate ukrainian start_event_tier3_4_3fe2d1af:
 translate ukrainian start_event_tier3_4_7107aca4:
 
     # ao "3!"
-    ao "3!"
+    ao "3!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1230
 translate ukrainian start_event_tier3_4_49b33c7e:
@@ -4299,7 +4299,7 @@ translate ukrainian start_event_tier3_4_087f0d58:
 translate ukrainian start_event_tier3_4_93d21c69:
 
     # t "Oi!"
-    t "Oi!"
+    t "Oi!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1256
 translate ukrainian start_event_tier3_4_b9a8b9ec:
@@ -4353,7 +4353,7 @@ translate ukrainian start_event_tier3_4_0a91eddc:
 translate ukrainian start_event_tier3_4_4c5ac9b4:
 
     # ao "[mc], grab Sayori's ass!"
-    ao "[mc], grab Sayori's ass!"
+    ao "[mc], grab Sayori's ass!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1268
 translate ukrainian start_event_tier3_4_2b35b6fe_7:
@@ -4437,7 +4437,7 @@ translate ukrainian start_event_tier3_4_2b35b6fe_8:
 translate ukrainian start_event_tier3_4_6354ca21:
 
     # ao "W-Wha- W-Wait!"
-    ao "W-Wha- W-Wait!"
+    ao "W-Wha- W-Wait!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1290
 translate ukrainian start_event_tier3_4_2b35b6fe_9:
@@ -4473,13 +4473,13 @@ translate ukrainian start_event_tier3_4_a431e773:
 translate ukrainian start_event_tier3_4_34d870e8:
 
     # t "But when do you plan to wake me up, Aoi?{w} This joke has already passed the point of no return!"
-    t "But when do you plan to wake me up, Aoi?{w} This joke has already passed the point of no return!"
+    t "But when do you plan to wake me up, Aoi?{w} This joke has already passed the point of no return!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1299
 translate ukrainian start_event_tier3_4_efd3460f:
 
     # v "Aoi?"
-    v "Aoi?"
+    v "Aoi?" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1300
 translate ukrainian start_event_tier3_4_03fb3e88_1:
@@ -4491,19 +4491,19 @@ translate ukrainian start_event_tier3_4_03fb3e88_1:
 translate ukrainian start_event_tier3_4_50cba38f:
 
     # v "Aoooi? Where are you?"
-    v "Aoooi? Where are you?"
+    v "Aoooi? Where are you?" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1303
 translate ukrainian start_event_tier3_4_0797b618:
 
     # ao "Yeees!!"
-    ao "Yeees!!"
+    ao "Yeees!!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1305
 translate ukrainian start_event_tier3_4_13311a3b:
 
     # ao "I'll be right there!"
-    ao "I'll be right there!"
+    ao "I'll be right there!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1306
 translate ukrainian start_event_tier3_4_59b08f86:
@@ -4515,7 +4515,7 @@ translate ukrainian start_event_tier3_4_59b08f86:
 translate ukrainian start_event_tier3_4_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1309
 translate ukrainian start_event_tier3_4_07cd6b38_2:
@@ -4587,7 +4587,7 @@ translate ukrainian start_event_tier3_4_9e5d5d69:
 translate ukrainian start_event_tier3_4_8a7258c3:
 
     # t "What!?"
-    t "What!?"
+    t "What!?" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1333
 translate ukrainian start_event_tier3_4_d335e2c5:
@@ -4629,7 +4629,7 @@ translate ukrainian start_event_tier3_4_dd45118a:
 translate ukrainian start_event_tier3_4_09805b0f:
 
     # sa "...!"
-    sa "...!"
+    sa "...!" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:1344
 translate ukrainian start_event_tier3_4_752ddd88:
@@ -4671,7 +4671,7 @@ translate ukrainian start_event_tier3_4_86715e1c:
 translate ukrainian start_event_tier3_4_c289396f:
 
     # sa "Ah!~{image=corazon} {w}Y-Yes, just like that!~{image=corazon}{image=corazon}"
-    sa "Ah!~{image=corazon} {w}Y-Yes, just like that!~{image=corazon}{image=corazon}"
+    sa "Ah!~{image=corazon} {w}Y-Yes, just like that!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:1351
 translate ukrainian start_event_tier3_4_7c0cab4f:
@@ -4683,7 +4683,7 @@ translate ukrainian start_event_tier3_4_7c0cab4f:
 translate ukrainian start_event_tier3_4_e239cccc:
 
     # sa "Gnhmgnm!!~{image=corazon}{image=corazon}"
-    sa "Gnhmgnm!!~{image=corazon}{image=corazon}"
+    sa "Gnhmgnm!!~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1357
 translate ukrainian start_event_tier3_4_e0bd3843:
@@ -4767,19 +4767,19 @@ translate ukrainian start_event_tier3_4_a9153c25:
 translate ukrainian start_event_tier3_4_c6f91f01:
 
     # t "Fuck! {w}It's so hot!"
-    t "Fuck! {w}It's so hot!"
+    t "Fuck! {w}It's so hot!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1380
 translate ukrainian start_event_tier3_4_09787606:
 
     # sa "Ohg~{image=corazon}{image=corazon} {w}Ugh~ {image=corazon}{image=corazon} {w}Ghnm~{image=corazon}"
-    sa "Ohg~{image=corazon}{image=corazon} {w}Ugh~ {image=corazon}{image=corazon} {w}Ghnm~{image=corazon}"
+    sa "Ohg~{image=corazon}{image=corazon} {w}Ugh~ {image=corazon}{image=corazon} {w}Ghnm~{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:1381
 translate ukrainian start_event_tier3_4_6f1f1ca9:
 
     # t "It feels so good!"
-    t "It feels so good!"
+    t "It feels so good!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1382
 translate ukrainian start_event_tier3_4_9c8fff3b:
@@ -4797,7 +4797,7 @@ translate ukrainian start_event_tier3_4_2b35b6fe_13:
 translate ukrainian start_event_tier3_4_daad036e:
 
     # sa "U-Unbelievable... {w}Guhh~{image=corazon} {w}Oghnm~{image=corazon}{image=corazon} {w}it's going to break me in two!{image=corazon}"
-    sa "U-Unbelievable... {w}Guhh~{image=corazon} {w}Oghnm~{image=corazon}{image=corazon} {w}it's going to break me in two!{image=corazon}"
+    sa "U-Unbelievable... {w}Guhh~{image=corazon} {w}Oghnm~{image=corazon}{image=corazon} {w}it's going to break me in two!{image=corazon}" with cumflash
 
 # game/game/animeditor/pa_gal.rpy:1385
 translate ukrainian start_event_tier3_4_c2457d50:
@@ -4821,7 +4821,7 @@ translate ukrainian start_event_tier3_4_89bf3803:
 translate ukrainian start_event_tier3_4_4f230518:
 
     # sa "Gnhmhn!?~ {w}I-It got bigger...{image=corazon}"
-    sa "Gnhmhn!?~ {w}I-It got bigger...{image=corazon}"
+    sa "Gnhmhn!?~ {w}I-It got bigger...{image=corazon}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1391
 translate ukrainian start_event_tier3_4_bb70de94:
@@ -4899,7 +4899,7 @@ translate ukrainian start_event_tier3_4_b79958f3:
 translate ukrainian start_event_tier3_4_aeb5315c:
 
     # t "I'm going to cum!"
-    t "I'm going to cum!"
+    t "I'm going to cum!" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1407
 translate ukrainian start_event_tier3_4_ee80c86d:
@@ -4929,43 +4929,43 @@ translate ukrainian start_event_tier3_4_f4dd8981:
 translate ukrainian start_event_tier3_4_46a3deb9:
 
     # t "Damn, I'm already at my limit! {w}I wanted to enjoy a little more of this incredible sensation."
-    t "Damn, I'm already at my limit! {w}I wanted to enjoy a little more of this incredible sensation."
+    t "Damn, I'm already at my limit! {w}I wanted to enjoy a little more of this incredible sensation." with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1413
 translate ukrainian start_event_tier3_4_0a6a771b:
 
     # sa "I-It is swelling inside me!"
-    sa "I-It is swelling inside me!"
+    sa "I-It is swelling inside me!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1414
 translate ukrainian start_event_tier3_4_8a836e5d:
 
     # mc "I'm going to cum!"
-    mc "I'm going to cum!"
+    mc "I'm going to cum!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1415
 translate ukrainian start_event_tier3_4_43060223:
 
     # sa "Yeeees!~{image=corazon}{image=corazon}"
-    sa "Yeeees!~{image=corazon}{image=corazon}"
+    sa "Yeeees!~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/animeditor/pa_gal.rpy:1421
 translate ukrainian start_event_tier3_4_ffa6bc8c:
 
     # sa "Hghgnmng~~{image=corazon}{image=corazon}{image=corazon}"
-    sa "Hghgnmng~~{image=corazon}{image=corazon}{image=corazon}"
+    sa "Hghgnmng~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1423
 translate ukrainian start_event_tier3_4_86a609ad:
 
     # mc "Fuuck!"
-    mc "Fuuck!"
+    mc "Fuuck!" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1426
 translate ukrainian start_event_tier3_4_00c2d3f7:
 
     # sa "W-Wha AHghnmnm~~ {image=corazon}{image=corazon}"
-    sa "W-Wha AHghnmnm~~ {image=corazon}{image=corazon}"
+    sa "W-Wha AHghnmnm~~ {image=corazon}{image=corazon}" with hpunch
 
 # game/game/animeditor/pa_gal.rpy:1431
 translate ukrainian start_event_tier3_4_d48230cf:

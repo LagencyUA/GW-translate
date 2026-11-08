@@ -45,7 +45,7 @@ translate ukrainian yume_afternoon_2b35b6fe:
 translate ukrainian yume_afternoon_8d64a96b:
 
     # mc "How much can you drool!?"
-    mc "How much can you drool!?"
+    mc "How much can you drool!?" with hpunch
 
 # game/game/yumeko_events.rpy:38
 translate ukrainian sleeping_girl_6691e57a:
@@ -87,7 +87,7 @@ translate ukrainian sleeping_girl_d8e604ac:
 translate ukrainian sleeping_girl_f4b493a2:
 
     # "{size=-6}{color=#21c3de}Aaah!"
-    "{size=-6}{color=#21c3de}Aaah!"
+    "{size=-6}{color=#21c3de}Aaah!" with hpunch
 
 # game/game/yumeko_events.rpy:50
 translate ukrainian sleeping_girl_a2e0d023:
@@ -123,7 +123,7 @@ translate ukrainian sleeping_girl_95cdea8d:
 translate ukrainian sleeping_girl_21611fa0:
 
     # "{size=-6}{color=#21c3de}AAh!"
-    "{size=-6}{color=#21c3de}AAh!"
+    "{size=-6}{color=#21c3de}AAh!" (multiple=2)
 
 # game/game/yumeko_events.rpy:59
 translate ukrainian sleeping_girl_1d82a7e7:
@@ -261,13 +261,13 @@ translate ukrainian sleeping_girl_cbb503c3:
 translate ukrainian sleeping_girl_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/yumeko_events.rpy:99
 translate ukrainian sleeping_girl_f8ed9fd1:
 
     # kar "{i}{b}Save me!"
-    kar "{i}{b}Save me!"
+    kar "{i}{b}Save me!" with vpunch
 
 # game/game/yumeko_events.rpy:101
 translate ukrainian sleeping_girl_69bc4b8b:
@@ -357,19 +357,19 @@ translate ukrainian sleeping_girl_1d82a7e7_1:
 translate ukrainian sleeping_girl_4ab8abd0:
 
     # t "This is the first time I've seen Yumeko stand up!"
-    t "This is the first time I've seen Yumeko stand up!"
+    t "This is the first time I've seen Yumeko stand up!" with hpunch
 
 # game/game/yumeko_events.rpy:129
 translate ukrainian sleeping_girl_18700979:
 
     # t "No! {w}Forget that!"
-    t "No! {w}Forget that!"
+    t "No! {w}Forget that!" with hpunch
 
 # game/game/yumeko_events.rpy:131
 translate ukrainian sleeping_girl_62544445:
 
     # t "She has an amazing body!"
-    t "She has an amazing body!"
+    t "She has an amazing body!" with hpunch
 
 # game/game/yumeko_events.rpy:132
 translate ukrainian sleeping_girl_90c8c1cb:
@@ -387,7 +387,7 @@ translate ukrainian sleeping_girl_ab332467:
 translate ukrainian sleeping_girl_7c393011:
 
     # mc "Sorry! I'm leavi-!"
-    mc "Sorry! I'm leavi-!"
+    mc "Sorry! I'm leavi-!" with vpunch
 
 # game/game/yumeko_events.rpy:136
 translate ukrainian sleeping_girl_2b6e009e:
@@ -423,7 +423,7 @@ translate ukrainian sleeping_girl_c5896db1:
 translate ukrainian sleeping_girl_9b7ed63b:
 
     # t "Doesn't she care if I see her?!"
-    t "Doesn't she care if I see her?!"
+    t "Doesn't she care if I see her?!" with hpunch
 
 # game/game/yumeko_events.rpy:143
 translate ukrainian sleeping_girl_26316a7e:
@@ -567,7 +567,7 @@ translate ukrainian sleeping_girl_d7c038c8:
 translate ukrainian sleeping_girl_9e2a66f3:
 
     # mc "Did you keep spying on us!?"
-    mc "Did you keep spying on us!?"
+    mc "Did you keep spying on us!?" with vpunch
 
 # game/game/yumeko_events.rpy:174
 translate ukrainian sleeping_girl_5c2e1bb3:
@@ -645,7 +645,7 @@ translate ukrainian sleeping_girl_e024599d:
 translate ukrainian sleeping_girl_388733d0:
 
     # mc "Why does it have to be hentai?!"
-    mc "Why does it have to be hentai?!"
+    mc "Why does it have to be hentai?!" with hpunch
 
 # game/game/yumeko_events.rpy:200
 translate ukrainian sleeping_girl_6045e8d8:
@@ -729,13 +729,13 @@ translate ukrainian sleeping_girl_b515b6be:
 translate ukrainian sleeping_girl_6fcc4055:
 
     # yum "{size=-6}Ah-"
-    yum "{size=-6}Ah-"
+    yum "{size=-6}Ah-" (multiple=2)
 
 # game/game/yumeko_events.rpy:218
 translate ukrainian sleeping_girl_e3835dc2:
 
     # kar "Well, I'm going."
-    kar "Well, I'm going."
+    kar "Well, I'm going." (multiple=2)
 
 # game/game/yumeko_events.rpy:221
 translate ukrainian sleeping_girl_db87316a:
@@ -1239,7 +1239,7 @@ translate ukrainian yumeko_eventuno_dbdbab29:
 translate ukrainian yumeko_eventuno_adc8a50f:
 
     # mc "Heey, is anyone here?"
-    mc "Heey, is anyone here?"
+    mc "Heey, is anyone here?" with hpunch
 
 # game/game/yumeko_events.rpy:375
 translate ukrainian yumeko_eventuno_e085a5c1:
@@ -1401,7 +1401,7 @@ translate ukrainian yumeko_eventuno_d7edd024:
 translate ukrainian yumeko_eventuno_6b0c5d2c:
 
     # mc "Get out of there!"
-    mc "Get out of there!"
+    mc "Get out of there!" with hpunch
 
 # game/game/yumeko_events.rpy:422
 translate ukrainian yumeko_eventuno_0dc09bcc:
@@ -1455,7 +1455,7 @@ translate ukrainian yumeko_eventuno_df1b5461:
 translate ukrainian yumeko_eventuno_c6c0f2a4:
 
     # t "Is not breathing!"
-    t "Is not breathing!"
+    t "Is not breathing!" with hpunch
 
 # game/game/yumeko_events.rpy:434
 translate ukrainian yumeko_eventuno_ff26764f:
@@ -1473,7 +1473,7 @@ translate ukrainian yumeko_eventuno_ec88755e:
 translate ukrainian yumeko_eventuno_0659b010:
 
     # mc "30!"
-    mc "30!"
+    mc "30!" with hpunch
 
 # game/game/yumeko_events.rpy:444
 translate ukrainian yumeko_eventuno_81057b31:
@@ -1533,13 +1533,13 @@ translate ukrainian yumeko_eventuno_ec9c11ca:
 translate ukrainian yumeko_eventuno_e7ac00ea:
 
     # ao "..."
-    ao "..."
+    ao "..." (multiple=2)
 
 # game/game/yumeko_events.rpy:460
 translate ukrainian yumeko_eventuno_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/yumeko_events.rpy:461
 translate ukrainian yumeko_eventuno_fe40fce0:
@@ -1569,31 +1569,31 @@ translate ukrainian yumeko_eventuno_a6833991:
 translate ukrainian yumeko_eventuno_78109f00:
 
     # mc "Exactly that!"
-    mc "Exactly that!"
+    mc "Exactly that!" with hpunch
 
 # game/game/yumeko_events.rpy:468
 translate ukrainian yumeko_eventuno_c9c6862d:
 
     # yum "{size=-8}{i}{sc=1}{outlinecolor=#000000}Tsuu~"
-    yum "{size=-8}{i}{sc=1}{outlinecolor=#000000}Tsuu~"
+    yum "{size=-8}{i}{sc=1}{outlinecolor=#000000}Tsuu~" (multiple=2)
 
 # game/game/yumeko_events.rpy:469
 translate ukrainian yumeko_eventuno_f3a7c8a8:
 
     # mc "Yumeko, explain to her what hap-"
-    mc "Yumeko, explain to her what hap-"
+    mc "Yumeko, explain to her what hap-" (multiple=2)
 
 # game/game/yumeko_events.rpy:470
 translate ukrainian yumeko_eventuno_6d46c4dc:
 
     # mc "She fell asleep again!"
-    mc "She fell asleep again!"
+    mc "She fell asleep again!" with vpunch
 
 # game/game/yumeko_events.rpy:474
 translate ukrainian yumeko_eventuno_ad128719:
 
     # ao "You haven't even kissed me like that!"
-    ao "You haven't even kissed me like that!"
+    ao "You haven't even kissed me like that!" with hpunch
 
 # game/game/yumeko_events.rpy:478
 translate ukrainian yumeko_eventuno_102aa7ae:
@@ -1605,7 +1605,7 @@ translate ukrainian yumeko_eventuno_102aa7ae:
 translate ukrainian yumeko_eventuno_ba0983f4:
 
     # mc "Wait! Aoi!"
-    mc "Wait! Aoi!"
+    mc "Wait! Aoi!" with vpunch
 
 # game/game/yumeko_events.rpy:483
 translate ukrainian yumeko_eventuno_a20cefa7_1:
@@ -1869,7 +1869,7 @@ translate ukrainian yumeko_eventdos_bbcb1dd7:
 translate ukrainian yumeko_eventdos_d9970a0b:
 
     # mc "What?!"
-    mc "What?!"
+    mc "What?!" with hpunch
 
 # game/game/yumeko_events.rpy:561
 translate ukrainian yumeko_eventdos_c783708c:
@@ -2067,7 +2067,7 @@ translate ukrainian yumeko_eventdos_0aa68d02_1:
 translate ukrainian yumeko_eventdos_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/yumeko_events.rpy:604
 translate ukrainian yumeko_eventdos_5aacd568:
@@ -2421,13 +2421,13 @@ translate ukrainian yumeko_eventtres_086333da:
 translate ukrainian yumeko_eventtres_bab951b9:
 
     # kar "{size=-6}W-Wa!"
-    kar "{size=-6}W-Wa!"
+    kar "{size=-6}W-Wa!" (multiple=2)
 
 # game/game/yumeko_events.rpy:712
 translate ukrainian yumeko_eventtres_64fe0b5a:
 
     # yum "{size=-8}{i}Hmm..."
-    yum "{size=-8}{i}Hmm..."
+    yum "{size=-8}{i}Hmm..." (multiple=2)
 
 # game/game/yumeko_events.rpy:714
 translate ukrainian yumeko_eventtres_01874ac7:
@@ -2583,7 +2583,7 @@ translate ukrainian yumeko_eventtres_0189c03a:
 translate ukrainian yumeko_eventtres_875d1305:
 
     # mc "Ok!"
-    mc "Ok!"
+    mc "Ok!" with vpunch
 
 # game/game/yumeko_events.rpy:755
 translate ukrainian yumeko_eventtres_0e90e317:
@@ -2661,7 +2661,7 @@ translate ukrainian yumeko_eventtres_b6416ce1:
 translate ukrainian yumeko_eventtres_e6039bd7:
 
     # yum "...!"
-    yum "...!"
+    yum "...!" with hpunch
 
 # game/game/yumeko_events.rpy:774
 translate ukrainian yumeko_eventtres_14328b49:
@@ -2733,7 +2733,7 @@ translate ukrainian yumeko_eventtres_e29415c3:
 translate ukrainian yumeko_eventtres_a11994f6:
 
     # mc "W-What."
-    mc "W-What."
+    mc "W-What." with hpunch
 
 # game/game/yumeko_events.rpy:789
 translate ukrainian yumeko_eventtres_fffabbc1:
@@ -3093,7 +3093,7 @@ translate ukrainian yumeko_gal1_685c6811:
 translate ukrainian yumeko_gal1_ebc65b00:
 
     # yum "{size=-8}{i}{sc=2}{outlinecolor=#000000}...."
-    yum "{size=-8}{i}{sc=2}{outlinecolor=#000000}...."
+    yum "{size=-8}{i}{sc=2}{outlinecolor=#000000}...." with cumflash
 
 # game/game/yumeko_events.rpy:862
 translate ukrainian yumeko_gal1_1f2012cf:
@@ -3147,7 +3147,7 @@ translate ukrainian yumeko_gal1_3b699f64:
 translate ukrainian yumeko_gal1_b2775f47:
 
     # yum "{sc=2}{outlinecolor=#000000}...."
-    yum "{sc=2}{outlinecolor=#000000}...."
+    yum "{sc=2}{outlinecolor=#000000}...." with cumflash
 
 # game/game/yumeko_events.rpy:871
 translate ukrainian yumeko_gal1_03fb3e88:
@@ -3273,7 +3273,7 @@ translate ukrainian yumeko_gal1_f1da97fe:
 translate ukrainian yumeko_gal1_871ae247:
 
     # yum "{size=-10}{i}{sc=2}{outlinecolor=#000000}Ghumm~ {w}Tsuhm~"
-    yum "{size=-10}{i}{sc=2}{outlinecolor=#000000}Ghumm~ {w}Tsuhm~"
+    yum "{size=-10}{i}{sc=2}{outlinecolor=#000000}Ghumm~ {w}Tsuhm~" with cumflash
 
 # game/game/yumeko_events.rpy:895
 translate ukrainian yumeko_gal1_9da208e2:

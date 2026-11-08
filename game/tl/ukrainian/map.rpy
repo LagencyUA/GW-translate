@@ -1,4 +1,4 @@
-
+﻿
 # game/game/map.rpy:28
 translate ukrainian call_room1_5afcdf51:
 
@@ -11,19 +11,19 @@ translate ukrainian pasillo_19d1a239:
     # "This house is pretty big but I shouldn't touch anything."
     "Цей будинок доволі великий, але мені не слід нічого чіпати."
 
-# game/game/map.rpy:645
+# game/game/map.rpy:649
 translate ukrainian gate_outside_5ffbe72e:
 
     # t "I must rest, tomorrow I will continue working."
     t "I must rest, tomorrow I will continue working."
 
-# game/game/map.rpy:768
+# game/game/map.rpy:774
 translate ukrainian gate_left_5ffbe72e:
 
     # t "I must rest, tomorrow I will continue working."
     t "I must rest, tomorrow I will continue working."
 
-# game/game/map.rpy:880
+# game/game/map.rpy:888
 translate ukrainian gate_right_5ffbe72e:
 
     # t "I must rest, tomorrow I will continue working."

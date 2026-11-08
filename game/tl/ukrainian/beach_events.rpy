@@ -237,7 +237,7 @@ translate ukrainian hana_beach_start_8b420742:
 translate ukrainian hana_beach_start_dc2568db:
 
     # mc "I'll talk to Tomoe!"
-    mc "I'll talk to Tomoe!"
+    mc "I'll talk to Tomoe!" with hpunch
 
 # game/game/beach_events.rpy:63
 translate ukrainian hana_beach_start_2ceee1e2:
@@ -279,7 +279,7 @@ translate ukrainian hana_beach_start_2b35b6fe_1:
 translate ukrainian hana_beach_start_a146a91c:
 
     # h "{sc=1}{outlinecolor=#000000}{size=-6}...!"
-    h "{sc=1}{outlinecolor=#000000}{size=-6}...!"
+    h "{sc=1}{outlinecolor=#000000}{size=-6}...!" with vpunch
 
 # game/game/beach_events.rpy:73
 translate ukrainian hana_beach_start_27e6a0dd:
@@ -375,7 +375,7 @@ translate ukrainian lake_exploring_eab2c81e:
 translate ukrainian lake_exploring_883a6f2c:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Uegh!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}Uegh!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Uegh!" with hpunch
 
 # game/game/beach_events.rpy:129
 translate ukrainian lake_exploring_2b35b6fe:
@@ -477,7 +477,7 @@ translate ukrainian lake_exploring_7a3bfb29:
 translate ukrainian lake_exploring_e1fd5866:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Yes!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-6}Yes!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-6}Yes!" with hpunch
 
 # game/game/beach_events.rpy:156
 translate ukrainian lake_exploring_65de59fc:
@@ -519,7 +519,7 @@ translate ukrainian tomoe_beach_bikinis_2e1ef387:
 translate ukrainian tomoe_beach_bikinis_6e465b09:
 
     # mc "I never said that!"
-    mc "I never said that!"
+    mc "I never said that!" with hpunch
 
 # game/game/beach_events.rpy:181
 translate ukrainian tomoe_beach_bikinis_aeaea4a4:
@@ -705,7 +705,7 @@ translate ukrainian mayu_beach_build_38e395c8:
 translate ukrainian mayu_beach_build_017d0139:
 
     # ma "Hey!"
-    ma "Hey!"
+    ma "Hey!" with hpunch
 
 # game/game/beach_events.rpy:280
 translate ukrainian mayu_beach_build_83bab886:
@@ -759,7 +759,7 @@ translate ukrainian mayu_beach_build_7f5bfdbb:
 translate ukrainian mayu_beach_build_4d2ac70c:
 
     # ma "And if you're planning to cut down a bunch of trees, we can use that wood for the construction!"
-    ma "And if you're planning to cut down a bunch of trees, we can use that wood for the construction!"
+    ma "And if you're planning to cut down a bunch of trees, we can use that wood for the construction!" with hpunch
 
 # game/game/beach_events.rpy:291
 translate ukrainian mayu_beach_build_059a79ae:
@@ -771,7 +771,7 @@ translate ukrainian mayu_beach_build_059a79ae:
 translate ukrainian mayu_beach_build_c85c1409:
 
     # ma "Yes!~{image=corazon}"
-    ma "Yes!~{image=corazon}"
+    ma "Yes!~{image=corazon}" with hpunch
 
 # game/game/beach_events.rpy:307
 translate ukrainian beach_cleaning_9ed3cc35:
@@ -801,7 +801,7 @@ translate ukrainian beach_cleaning_2b35b6fe:
 translate ukrainian beach_cleaning_e995c582:
 
     # "{sc=1}{outlinecolor=#000000}{size=-2}{color=#E0B8A8}Heeey!"
-    "{sc=1}{outlinecolor=#000000}{size=-2}{color=#E0B8A8}Heeey!"
+    "{sc=1}{outlinecolor=#000000}{size=-2}{color=#E0B8A8}Heeey!" with hpunch
 
 # game/game/beach_events.rpy:314
 translate ukrainian beach_cleaning_3f871f46:
@@ -891,31 +891,31 @@ translate ukrainian beach_cleaning_31948045:
 translate ukrainian beach_cleaning_28d765d6:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-6}...!"
-    y "{sc=1}{outlinecolor=#000000}{size=-6}...!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}...!" (multiple=2)
 
 # game/game/beach_events.rpy:335
 translate ukrainian beach_cleaning_954029f5:
 
     # "{sc=1}{outlinecolor=#000000}{size=-6}{color=#D9A1CD}Gr{color=#5B88A8}ou{color=#E0B8A8}p gasp!*"
-    "{sc=1}{outlinecolor=#000000}{size=-6}{color=#D9A1CD}Gr{color=#5B88A8}ou{color=#E0B8A8}p gasp!*"
+    "{sc=1}{outlinecolor=#000000}{size=-6}{color=#D9A1CD}Gr{color=#5B88A8}ou{color=#E0B8A8}p gasp!*" (multiple=2)
 
 # game/game/beach_events.rpy:337
 translate ukrainian beach_cleaning_8fcf0912:
 
     # y "Get to work!"
-    y "Get to work!"
+    y "Get to work!" with hpunch
 
 # game/game/beach_events.rpy:339
 translate ukrainian beach_cleaning_69b77737:
 
     # "{color=#E0B8A8}Run!"
-    "{color=#E0B8A8}Run!"
+    "{color=#E0B8A8}Run!" (multiple=2)
 
 # game/game/beach_events.rpy:340
 translate ukrainian beach_cleaning_3617cefa:
 
     # "{color=#D9A1CD}Kyaa!"
-    "{color=#D9A1CD}Kyaa!"
+    "{color=#D9A1CD}Kyaa!" (multiple=2)
 
 # game/game/beach_events.rpy:341
 translate ukrainian beach_cleaning_1f5b224d:
@@ -927,7 +927,7 @@ translate ukrainian beach_cleaning_1f5b224d:
 translate ukrainian beach_cleaning_843c3b29:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-6}You too!"
-    y "{sc=1}{outlinecolor=#000000}{size=-6}You too!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}You too!" with vpunch
 
 # game/game/beach_events.rpy:344
 translate ukrainian beach_cleaning_a48199d3:
@@ -969,7 +969,7 @@ translate ukrainian beach_cleaning_bc4f1a33:
 translate ukrainian beach_cleaning_4ea68297:
 
     # mc "I can't wait to get this place ready!"
-    mc "I can't wait to get this place ready!"
+    mc "I can't wait to get this place ready!" with hpunch
 
 # game/game/beach_events.rpy:353
 translate ukrainian beach_cleaning_71a86863:
@@ -1035,7 +1035,7 @@ translate ukrainian beach_zone_build_0f69851a:
 translate ukrainian beach_zone_build_a776b9d1:
 
     # ma "{sc=1}{outlinecolor=#000000}{size=-6}I'm so happy! It's time to build!!"
-    ma "{sc=1}{outlinecolor=#000000}{size=-6}I'm so happy! It's time to build!!"
+    ma "{sc=1}{outlinecolor=#000000}{size=-6}I'm so happy! It's time to build!!" with hpunch
 
 # game/game/beach_events.rpy:386
 translate ukrainian beach_zone_build_ca811036:
@@ -1155,7 +1155,7 @@ translate ukrainian girls_beach_talk_f2d2fe35:
 translate ukrainian girls_beach_talk_47aef828:
 
     # s "Awesome! I can't wait!"
-    s "Awesome! I can't wait!"
+    s "Awesome! I can't wait!" with hpunch
 
 # game/game/beach_events.rpy:427
 translate ukrainian girls_beach_talk_f6dcb832:
@@ -1293,13 +1293,13 @@ translate ukrainian girls_beach_talk_a140ce99:
 translate ukrainian girls_beach_talk_dc416eb2:
 
     # h "{size=-6}Uhm... Ah..."
-    h "{size=-6}Uhm... Ah..."
+    h "{size=-6}Uhm... Ah..." (multiple=2)
 
 # game/game/beach_events.rpy:456
 translate ukrainian girls_beach_talk_0ad09975:
 
     # mc "...?"
-    mc "...?"
+    mc "...?" (multiple=2)
 
 # game/game/beach_events.rpy:457
 translate ukrainian girls_beach_talk_fe1a5467:
@@ -1449,13 +1449,13 @@ translate ukrainian girls_beach_talk_2b35b6fe_1:
 translate ukrainian girls_beach_talk_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/beach_events.rpy:493
 translate ukrainian girls_beach_talk_24ae6bf1:
 
     # h "Oh?"
-    h "Oh?"
+    h "Oh?" (multiple=2)
 
 # game/game/beach_events.rpy:495
 translate ukrainian girls_beach_talk_124b42ea:
@@ -1485,7 +1485,7 @@ translate ukrainian girls_beach_talk_adf60f43:
 translate ukrainian girls_beach_talk_d7655ac0:
 
     # t "She's beautiful!"
-    t "She's beautiful!"
+    t "She's beautiful!" with hpunch
 
 # game/game/beach_events.rpy:503
 translate ukrainian girls_beach_talk_15212b9b:
@@ -1497,7 +1497,7 @@ translate ukrainian girls_beach_talk_15212b9b:
 translate ukrainian girls_beach_talk_1ec44eb5:
 
     # mc "Ah!"
-    mc "Ah!"
+    mc "Ah!" with hpunch
 
 # game/game/beach_events.rpy:505
 translate ukrainian girls_beach_talk_a20cefa7_1:
@@ -1581,7 +1581,7 @@ translate ukrainian girls_beach_talk_8dd7d5c5:
 translate ukrainian girls_beach_talk_6741ef70:
 
     # mc "I'm really looking forward to it!"
-    mc "I'm really looking forward to it!"
+    mc "I'm really looking forward to it!" with vpunch
 
 # game/game/beach_events.rpy:524
 translate ukrainian girls_beach_talk_2c65e46e:
@@ -1707,7 +1707,7 @@ translate ukrainian girls_beach_talk_27fbbcbd:
 translate ukrainian girls_beach_talk_7450f506:
 
     # mc "Of course! There's never a bad time to clear your mind!"
-    mc "Of course! There's never a bad time to clear your mind!"
+    mc "Of course! There's never a bad time to clear your mind!" with hpunch
 
 # game/game/beach_events.rpy:554
 translate ukrainian girls_beach_talk_4253e9d9:
@@ -1767,7 +1767,7 @@ translate ukrainian girls_beach_talk_4698326e:
 translate ukrainian girls_beach_talk_c099e3a0:
 
     # ak "This pervert just wants to see us in bikinis!"
-    ak "This pervert just wants to see us in bikinis!"
+    ak "This pervert just wants to see us in bikinis!" with hpunch
 
 # game/game/beach_events.rpy:567
 translate ukrainian girls_beach_talk_8114a09f_1:
@@ -1821,7 +1821,7 @@ translate ukrainian girls_beach_talk_f012eff7:
 translate ukrainian girls_beach_talk_aa55bea0:
 
     # mc "Is someone who cares about his people!"
-    mc "Is someone who cares about his people!"
+    mc "Is someone who cares about his people!" with hpunch
 
 # game/game/beach_events.rpy:582
 translate ukrainian girls_beach_talk_4553082c:
@@ -1839,7 +1839,7 @@ translate ukrainian girls_beach_talk_2cb66957:
 translate ukrainian girls_beach_talk_3176651d:
 
     # mc "I could never forgive myself!"
-    mc "I could never forgive myself!"
+    mc "I could never forgive myself!" with hpunch
 
 # game/game/beach_events.rpy:586
 translate ukrainian girls_beach_talk_c4f5a284:
@@ -1893,7 +1893,7 @@ translate ukrainian girls_beach_talk_4cb27e20:
 translate ukrainian girls_beach_talk_dbefb50a:
 
     # ak "Fine!"
-    ak "Fine!"
+    ak "Fine!" with hpunch
 
 # game/game/beach_events.rpy:606
 translate ukrainian girls_beach_talk_4758e0e3:
@@ -1905,7 +1905,7 @@ translate ukrainian girls_beach_talk_4758e0e3:
 translate ukrainian girls_beach_talk_97717c9f:
 
     # mc "Really?!"
-    mc "Really?!"
+    mc "Really?!" with hpunch
 
 # game/game/beach_events.rpy:608
 translate ukrainian girls_beach_talk_68b513cf:
@@ -1941,7 +1941,7 @@ translate ukrainian girls_beach_talk_3d652ff4:
 translate ukrainian girls_beach_talk_92dc04fc:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with hpunch
 
 # game/game/beach_events.rpy:615
 translate ukrainian girls_beach_talk_cba4b370:
@@ -1977,13 +1977,13 @@ translate ukrainian girls_beach_talk_9952bbe3:
 translate ukrainian girls_beach_talk_e7992175:
 
     # r "Bye-bye~"
-    r "Bye-bye~"
+    r "Bye-bye~" (multiple=2)
 
 # game/game/beach_events.rpy:622
 translate ukrainian girls_beach_talk_a73b77d8:
 
     # c "Bye."
-    c "Bye."
+    c "Bye." (multiple=2)
 
 # game/game/beach_events.rpy:624
 translate ukrainian girls_beach_talk_d6f1e783:
@@ -2097,7 +2097,7 @@ translate ukrainian girls_beach_talk_37b330ea:
 translate ukrainian girls_beach_talk_6ac9822b:
 
     # y "Don't picture anything!"
-    y "Don't picture anything!"
+    y "Don't picture anything!" with vpunch
 
 # game/game/beach_events.rpy:649
 translate ukrainian girls_beach_talk_1f5b224d:
@@ -2151,7 +2151,7 @@ translate ukrainian girls_beach_talk_2b35b6fe_5:
 translate ukrainian girls_beach_talk_7de87528:
 
     # y "Don't just stand there in silence!"
-    y "Don't just stand there in silence!"
+    y "Don't just stand there in silence!" with hpunch
 
 # game/game/beach_events.rpy:661
 translate ukrainian girls_beach_talk_a5decc16:
@@ -2217,13 +2217,13 @@ translate ukrainian girls_beach_talk_ccdcc5b9:
 translate ukrainian girls_beach_talk_f67ffc32:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-8}See you!"
-    y "{sc=1}{outlinecolor=#000000}{size=-8}See you!"
+    y "{sc=1}{outlinecolor=#000000}{size=-8}See you!" (multiple=2)
 
 # game/game/beach_events.rpy:678
 translate ukrainian girls_beach_talk_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/beach_events.rpy:681
 translate ukrainian girls_beach_talk_8193527c:
@@ -2325,13 +2325,13 @@ translate ukrainian mc_swimsuit_799c0e29:
 translate ukrainian mc_swimsuit_09d3ab5e:
 
     # mc "Tomoe!"
-    mc "Tomoe!"
+    mc "Tomoe!" with hpunch
 
 # game/game/beach_events.rpy:731
 translate ukrainian mc_swimsuit_21fde1fe:
 
     # mc "Tomoe!? Are you okay?!"
-    mc "Tomoe!? Are you okay?!"
+    mc "Tomoe!? Are you okay?!" with hpunch
 
 # game/game/beach_events.rpy:733
 translate ukrainian mc_swimsuit_00255961:
@@ -2349,7 +2349,7 @@ translate ukrainian mc_swimsuit_8b02e876:
 translate ukrainian mc_swimsuit_733d22ea:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-8}It's practically transparent!"
-    y "{sc=1}{outlinecolor=#000000}{size=-8}It's practically transparent!"
+    y "{sc=1}{outlinecolor=#000000}{size=-8}It's practically transparent!" with hpunch
 
 # game/game/beach_events.rpy:736
 translate ukrainian mc_swimsuit_e5407dd6:
@@ -2391,7 +2391,7 @@ translate ukrainian mc_swimsuit_d195b5a2:
 translate ukrainian mc_swimsuit_3b0265ef:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Tomoe!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Tomoe!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Tomoe!" with hpunch
 
 # game/game/beach_events.rpy:748
 translate ukrainian mc_swimsuit_a20cefa7:
@@ -2469,7 +2469,7 @@ translate ukrainian mc_swimsuit_5540da92:
 translate ukrainian mc_swimsuit_196870d4:
 
     # mc "You can't chase me through the village naked!"
-    mc "You can't chase me through the village naked!"
+    mc "You can't chase me through the village naked!" with hpunch
 
 # game/game/beach_events.rpy:774
 translate ukrainian mc_swimsuit_0f6f1198:
@@ -2487,31 +2487,31 @@ translate ukrainian mc_swimsuit_d139ca9f:
 translate ukrainian mc_swimsuit_dd5029c7:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}AAAaaAh!"
-    s "{sc=1}{outlinecolor=#000000}{size=-8}AAAaaAh!"
+    s "{sc=1}{outlinecolor=#000000}{size=-8}AAAaaAh!" (multiple=2)
 
 # game/game/beach_events.rpy:781
 translate ukrainian mc_swimsuit_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/beach_events.rpy:787
 translate ukrainian mc_swimsuit_a7cb3bdd:
 
     # ak "Good job, Shika!"
-    ak "Good job, Shika!"
+    ak "Good job, Shika!" with hpunch
 
 # game/game/beach_events.rpy:788
 translate ukrainian mc_swimsuit_103162a7:
 
     # s "Why are you attacking me!?"
-    s "Why are you attacking me!?"
+    s "Why are you attacking me!?" with vpunch
 
 # game/game/beach_events.rpy:789
 translate ukrainian mc_swimsuit_feafae98:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Heelp!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Heelp!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Heelp!" with hpunch
 
 # game/game/beach_events.rpy:793
 translate ukrainian mc_swimsuit_276896b6:
@@ -2547,7 +2547,7 @@ translate ukrainian beach_special_35f60913:
 translate ukrainian beach_special_18c33a12:
 
     # ma "It's so hot!"
-    ma "It's so hot!"
+    ma "It's so hot!" with hpunch
 
 # game/game/beach_events.rpy:823
 translate ukrainian beach_special_0c4cb0da:
@@ -2685,7 +2685,7 @@ translate ukrainian beach_special_7b2f8324:
 translate ukrainian beach_special_654545ab:
 
     # ma "{size=-8}Go! My noble steed!"
-    ma "{size=-8}Go! My noble steed!"
+    ma "{size=-8}Go! My noble steed!" with hpunch
 
 # game/game/beach_events.rpy:850
 translate ukrainian beach_special_d12fb4d9:
@@ -2709,13 +2709,13 @@ translate ukrainian beach_special_a4e952a6:
 translate ukrainian beach_special_6526ba93:
 
     # r "Me too~"
-    r "Me too~"
+    r "Me too~" (multiple=2)
 
 # game/game/beach_events.rpy:855
 translate ukrainian beach_special_edda26ba:
 
     # s "Me too!"
-    s "Me too!"
+    s "Me too!" (multiple=2)
 
 # game/game/beach_events.rpy:857
 translate ukrainian beach_special_adbf7070:
@@ -2799,13 +2799,13 @@ translate ukrainian beach_special_46b79df3:
 translate ukrainian beach_special_5c0c2526:
 
     # mc "Were you spying on me?"
-    mc "Were you spying on me?"
+    mc "Were you spying on me?" (multiple=2)
 
 # game/game/beach_events.rpy:876
 translate ukrainian beach_special_bda2e752:
 
     # ak "Shut up!"
-    ak "Shut up!"
+    ak "Shut up!" (multiple=2)
 
 # game/game/beach_events.rpy:878
 translate ukrainian beach_special_672bfcb8:
@@ -3015,7 +3015,7 @@ translate ukrainian beach_special_b6259dcc:
 translate ukrainian beach_special_ca05788b:
 
     # to "Welcome to Tomoe's Bar!"
-    to "Welcome to Tomoe's Bar!"
+    to "Welcome to Tomoe's Bar!" with hpunch
 
 # game/game/beach_events.rpy:925
 translate ukrainian beach_special_3600a6df:
@@ -3081,7 +3081,7 @@ translate ukrainian beach_special_3ad10122:
 translate ukrainian beach_special_8c49ffb3:
 
     # mc "You were going to charge me!?"
-    mc "You were going to charge me!?"
+    mc "You were going to charge me!?" with hpunch
 
 # game/game/beach_events.rpy:939
 translate ukrainian beach_special_b4a66189:
@@ -3225,7 +3225,7 @@ translate ukrainian beach_special_e2a82684_1:
 translate ukrainian beach_special_e06ae73f:
 
     # ak "Shut up!"
-    ak "Shut up!"
+    ak "Shut up!" with hpunch
 
 # game/game/beach_events.rpy:970
 translate ukrainian beach_special_aca0b0c4:
@@ -3465,7 +3465,7 @@ translate ukrainian beach_special_02e00a4c:
 translate ukrainian beach_special_1a10337a:
 
     # ak "Why are you making that face!?"
-    ak "Why are you making that face!?"
+    ak "Why are you making that face!?" with hpunch
 
 # game/game/beach_events.rpy:1025
 translate ukrainian beach_special_081eb248:
@@ -3573,7 +3573,7 @@ translate ukrainian beach_special_51e9933e:
 translate ukrainian beach_special_2f2d06f5:
 
     # s "Hold it right there!"
-    s "Hold it right there!"
+    s "Hold it right there!" with hpunch
 
 # game/game/beach_events.rpy:1048
 translate ukrainian beach_special_fbf615de:
@@ -3627,7 +3627,7 @@ translate ukrainian beach_special_52052f45:
 translate ukrainian beach_special_38060a92:
 
     # s "Hey!"
-    s "Hey!"
+    s "Hey!" with hpunch
 
 # game/game/beach_events.rpy:1063
 translate ukrainian beach_special_c743095c:
@@ -3657,7 +3657,7 @@ translate ukrainian beach_special_93233fd3:
 translate ukrainian beach_special_38060a92_1:
 
     # s "Hey!"
-    s "Hey!"
+    s "Hey!" with hpunch
 
 # game/game/beach_events.rpy:1070
 translate ukrainian beach_special_1f5b224d_2:
@@ -3705,13 +3705,13 @@ translate ukrainian beach_special_64f9da4b:
 translate ukrainian beach_special_ff0c1ec7:
 
     # s "Yay~"
-    s "Yay~"
+    s "Yay~" (multiple=2)
 
 # game/game/beach_events.rpy:1082
 translate ukrainian beach_special_cd104448:
 
     # r "Yay~"
-    r "Yay~"
+    r "Yay~" (multiple=2)
 
 # game/game/beach_events.rpy:1083
 translate ukrainian beach_special_d069e128:
@@ -4023,7 +4023,7 @@ translate ukrainian beach_special_10ed4ce3:
 translate ukrainian beach_special_9d60acc2:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-7}Do you want to die, Human!?"
-    c "{sc=2}{outlinecolor=#000000}{size=-7}Do you want to die, Human!?"
+    c "{sc=2}{outlinecolor=#000000}{size=-7}Do you want to die, Human!?" with hpunch
 
 # game/game/beach_events.rpy:1151
 translate ukrainian beach_special_1f5b224d_3:
@@ -4065,7 +4065,7 @@ translate ukrainian beach_special_966e2260:
 translate ukrainian beach_special_c06930d7:
 
     # kar "I beat you!"
-    kar "I beat you!"
+    kar "I beat you!" with hpunch
 
 # game/game/beach_events.rpy:1160
 translate ukrainian beach_special_13cb42f0:
@@ -4125,7 +4125,7 @@ translate ukrainian beach_special_15d5dd8c:
 translate ukrainian beach_special_d4d7591a:
 
     # kar "{sc=2}{outlinecolor=#000000}{size=-7}Wan!?"
-    kar "{sc=2}{outlinecolor=#000000}{size=-7}Wan!?"
+    kar "{sc=2}{outlinecolor=#000000}{size=-7}Wan!?" with hpunch
 
 # game/game/beach_events.rpy:1173
 translate ukrainian beach_special_b2abf1e3:
@@ -4149,7 +4149,7 @@ translate ukrainian beach_special_313e8314:
 translate ukrainian beach_special_9d602128:
 
     # kar "What?!"
-    kar "What?!"
+    kar "What?!" with vpunch
 
 # game/game/beach_events.rpy:1178
 translate ukrainian beach_special_e29a8308:
@@ -4161,13 +4161,13 @@ translate ukrainian beach_special_e29a8308:
 translate ukrainian beach_special_60494c90:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Eh?" (multiple=2)
 
 # game/game/beach_events.rpy:1180
 translate ukrainian beach_special_39220867:
 
     # c "Ghn!"
-    c "Ghn!"
+    c "Ghn!" (multiple=2)
 
 # game/game/beach_events.rpy:1182
 translate ukrainian beach_special_bee044c5:
@@ -4185,7 +4185,7 @@ translate ukrainian beach_special_b07c7836:
 translate ukrainian beach_special_270d678c:
 
     # kar "Can't you see how much he likes the way this underwear looks on me!?"
-    kar "Can't you see how much he likes the way this underwear looks on me!?"
+    kar "Can't you see how much he likes the way this underwear looks on me!?" with hpunch
 
 # game/game/beach_events.rpy:1186
 translate ukrainian beach_special_3d8af9e9:
@@ -4215,49 +4215,49 @@ translate ukrainian beach_special_15d5dd8c_1:
 translate ukrainian beach_special_7953c765:
 
     # kar "Grrr!"
-    kar "Grrr!"
+    kar "Grrr!" (multiple=2)
 
 # game/game/beach_events.rpy:1195
 translate ukrainian beach_special_25bf76c0:
 
     # c "Ghngn!"
-    c "Ghngn!"
+    c "Ghngn!" (multiple=2)
 
 # game/game/beach_events.rpy:1197
 translate ukrainian beach_special_81d0e5a2:
 
     # kar "It's not oversized! It's muscle!"
-    kar "It's not oversized! It's muscle!"
+    kar "It's not oversized! It's muscle!" with vpunch
 
 # game/game/beach_events.rpy:1198
 translate ukrainian beach_special_71aa0831:
 
     # c "My ears have more muscle than your ass!"
-    c "My ears have more muscle than your ass!"
+    c "My ears have more muscle than your ass!" with hpunch
 
 # game/game/beach_events.rpy:1199
 translate ukrainian beach_special_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/beach_events.rpy:1201
 translate ukrainian beach_special_8439a222:
 
     # y "What's all that noise? {w}Is Akane starting to cook the meat and fish?"
-    y "What's all that noise? {w}Is Akane starting to cook the meat and fish?"
+    y "What's all that noise? {w}Is Akane starting to cook the meat and fish?" with vpunch
 
 # game/game/beach_events.rpy:1202
 translate ukrainian beach_special_5a120452:
 
     # kar "Meat?"
-    kar "Meat?"
+    kar "Meat?" (multiple=2)
 
 # game/game/beach_events.rpy:1203
 translate ukrainian beach_special_e93089ed:
 
     # c "Fish?"
-    c "Fish?"
+    c "Fish?" (multiple=2)
 
 # game/game/beach_events.rpy:1205
 translate ukrainian beach_special_fee776c3:
@@ -4323,13 +4323,13 @@ translate ukrainian beach_special_977033bd:
 translate ukrainian beach_special_c8f4efbc:
 
     # y "Idiot!"
-    y "Idiot!"
+    y "Idiot!" with hpunch
 
 # game/game/beach_events.rpy:1220
 translate ukrainian beach_special_f3e5562b:
 
     # mc "I didn't even say anything!"
-    mc "I didn't even say anything!"
+    mc "I didn't even say anything!" with vpunch
 
 # game/game/beach_events.rpy:1221
 translate ukrainian beach_special_54a8eb61:
@@ -4461,7 +4461,7 @@ translate ukrainian beach_special_6dc81918:
 translate ukrainian beach_special_748ed0fd:
 
     # ma "Oh! Okay!"
-    ma "Oh! Okay!"
+    ma "Oh! Okay!" with hpunch
 
 # game/game/beach_events.rpy:1251
 translate ukrainian beach_special_a20cefa7_3:
@@ -4659,7 +4659,7 @@ translate ukrainian beach_special_74fab123:
 translate ukrainian beach_special_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:1298
 translate ukrainian beach_special_cee8d4cc:
@@ -4851,7 +4851,7 @@ translate ukrainian beach_special_c875112f:
 translate ukrainian beach_special_4f727dee:
 
     # mc "H-Hey!"
-    mc "H-Hey!"
+    mc "H-Hey!" with hpunch
 
 # game/game/beach_events.rpy:1340
 translate ukrainian beach_special_74f0b00e:
@@ -4875,7 +4875,7 @@ translate ukrainian beach_special_2b35b6fe_17:
 translate ukrainian beach_special_25549d35:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-7}C-Cold!"
-    to "{sc=2}{outlinecolor=#000000}{size=-7}C-Cold!"
+    to "{sc=2}{outlinecolor=#000000}{size=-7}C-Cold!" with hpunch
 
 # game/game/beach_events.rpy:1346
 translate ukrainian beach_special_1f5b224d_4:
@@ -5061,7 +5061,7 @@ translate ukrainian tomoe_beach_H_03b54685:
 translate ukrainian tomoe_beach_H_182343ad:
 
     # mc "{size=-6}Lick*"
-    mc "{size=-6}Lick*"
+    mc "{size=-6}Lick*" with cumflash
 
 # game/game/beach_events.rpy:1388
 translate ukrainian tomoe_beach_H_9a071ec2:
@@ -5103,7 +5103,7 @@ translate ukrainian tomoe_beach_H_889d998a:
 translate ukrainian tomoe_beach_H_e6d3c3d7:
 
     # to "Aahn!~{image=corazon}{image=corazon}{image=corazon}"
-    to "Aahn!~{image=corazon}{image=corazon}{image=corazon}"
+    to "Aahn!~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:1395
 translate ukrainian tomoe_beach_H_06c42506:
@@ -5217,7 +5217,7 @@ translate ukrainian tomoe_beach_H_6fcba7af:
 translate ukrainian tomoe_beach_H_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:1419
 translate ukrainian tomoe_beach_H_d2960827:
@@ -5319,19 +5319,19 @@ translate ukrainian tomoe_beach_H_0a1f8266:
 translate ukrainian tomoe_beach_H_b7f2cdb4:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-7}UooOhgnhm!~{image=corazon}{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}{size=-7}UooOhgnhm!~{image=corazon}{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}{size=-7}UooOhgnhm!~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/beach_events.rpy:1448
 translate ukrainian tomoe_beach_H_9d0831a0:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-7}Ghngnm!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-7}Ghngnm!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-7}Ghngnm!" (multiple=2)
 
 # game/game/beach_events.rpy:1449
 translate ukrainian tomoe_beach_H_d8d2de02:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-7}AaaAAAahnm~{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}{size=-7}AaaAAAahnm~{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}{size=-7}AaaAAAahnm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:1461
 translate ukrainian tomoe_beach_H_7b59d2e4:
@@ -5487,25 +5487,25 @@ translate ukrainian tomoe_beach_H_1a7cdbd0:
 translate ukrainian tomoe_beach_H_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/beach_events.rpy:1505
 translate ukrainian tomoe_beach_H_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/beach_events.rpy:1508
 translate ukrainian tomoe_beach_H_195eb954:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-10}Ghnya!"
-    c "{sc=2}{outlinecolor=#000000}{size=-10}Ghnya!"
+    c "{sc=2}{outlinecolor=#000000}{size=-10}Ghnya!" (multiple=2)
 
 # game/game/beach_events.rpy:1509
 translate ukrainian tomoe_beach_H_8297117b:
 
     # r "{sc=2}{outlinecolor=#000000}{size=-10}Aah!"
-    r "{sc=2}{outlinecolor=#000000}{size=-10}Aah!"
+    r "{sc=2}{outlinecolor=#000000}{size=-10}Aah!" (multiple=2)
 
 # game/game/beach_events.rpy:1510
 translate ukrainian tomoe_beach_H_97ae34a8:
@@ -5637,7 +5637,7 @@ translate ukrainian tomoe_beach_H_e0279e24:
 translate ukrainian tomoe_beach_H_7dded685:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-10}HANA?!"
-    y "{sc=2}{outlinecolor=#000000}{size=-10}HANA?!"
+    y "{sc=2}{outlinecolor=#000000}{size=-10}HANA?!" with hpunch
 
 # game/game/beach_events.rpy:1544
 translate ukrainian tomoe_beach_H_ff932e82:
@@ -5697,7 +5697,7 @@ translate ukrainian tomoe_beach_H_71a86863:
 translate ukrainian tomoe_beach_H_e9ee7796_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:1557
 translate ukrainian tomoe_beach_H_1b6a4731:
@@ -5871,13 +5871,13 @@ translate ukrainian tomoe_beach_H_4f8c0b01:
 translate ukrainian tomoe_beach_H_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/beach_events.rpy:1594
 translate ukrainian tomoe_beach_H_28346a5c:
 
     # y "Yes!"
-    y "Yes!"
+    y "Yes!" (multiple=2)
 
 # game/game/beach_events.rpy:1596
 translate ukrainian tomoe_beach_H_2b35b6fe_3:
@@ -5907,13 +5907,13 @@ translate ukrainian tomoe_beach_H_be758e15:
 translate ukrainian tomoe_beach_H_329f360a:
 
     # mc "Wait!!"
-    mc "Wait!!"
+    mc "Wait!!" (multiple=2)
 
 # game/game/beach_events.rpy:1606
 translate ukrainian tomoe_beach_H_6e85466c:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-10}I-II-Idioooot!"
-    y "{sc=2}{outlinecolor=#000000}{size=-10}I-II-Idioooot!"
+    y "{sc=2}{outlinecolor=#000000}{size=-10}I-II-Idioooot!" (multiple=2)
 
 # game/game/beach_events.rpy:1608
 translate ukrainian tomoe_beach_H_75ae21ee:
@@ -6267,7 +6267,7 @@ translate ukrainian hana_beach_H_351eda53:
 translate ukrainian hana_beach_H_94ab982a:
 
     # h "Hold on... I'm making too much noise...~{image=corazon}"
-    h "Hold on... I'm making too much noise...~{image=corazon}"
+    h "Hold on... I'm making too much noise...~{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:1685
 translate ukrainian hana_beach_H_c40b6f41:
@@ -6345,7 +6345,7 @@ translate ukrainian hana_beach_H_524549d5:
 translate ukrainian hana_beach_H_173d797c:
 
     # t "I-It feels too good!"
-    t "I-It feels too good!"
+    t "I-It feels too good!" with hpunch
 
 # game/game/beach_events.rpy:1700
 translate ukrainian hana_beach_H_86c8d4b8:
@@ -6381,7 +6381,7 @@ translate ukrainian hana_beach_H_12a5256d:
 translate ukrainian hana_beach_H_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/beach_events.rpy:1708
 translate ukrainian hana_beach_H_78b4c09d:
@@ -6459,13 +6459,13 @@ translate ukrainian hana_beach_H_1744d12f:
 translate ukrainian hana_beach_H_99b949cd:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-7}GNh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-7}GNh!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-7}GNh!" (multiple=2)
 
 # game/game/beach_events.rpy:1732
 translate ukrainian hana_beach_H_c68ec0ef:
 
     # h "{sc=2}{outlinecolor=#000000}{size=-7}NnmNHMnhMN~{image=corazon}{image=corazon}"
-    h "{sc=2}{outlinecolor=#000000}{size=-7}NnmNHMnhMN~{image=corazon}{image=corazon}"
+    h "{sc=2}{outlinecolor=#000000}{size=-7}NnmNHMnhMN~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:1734
 translate ukrainian hana_beach_H_641fd008:
@@ -6495,13 +6495,13 @@ translate ukrainian hana_beach_H_20ea9fc5:
 translate ukrainian hana_beach_H_2c3c6740:
 
     # h "[mc]!"
-    h "[mc]!"
+    h "[mc]!" with hpunch
 
 # game/game/beach_events.rpy:1752
 translate ukrainian hana_beach_H_ed5d1e99:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with vpunch
 
 # game/game/beach_events.rpy:1753
 translate ukrainian hana_beach_H_a20cefa7:
@@ -6585,7 +6585,7 @@ translate ukrainian hana_beach_H_127e3bdb:
 translate ukrainian hana_beach_H_d5f881df:
 
     # s "Ryoko! Are you coming?"
-    s "Ryoko! Are you coming?"
+    s "Ryoko! Are you coming?" with vpunch
 
 # game/game/beach_events.rpy:1774
 translate ukrainian hana_beach_H_bc465180:
@@ -6819,7 +6819,7 @@ translate ukrainian hana_beach_H_38521fa0:
 translate ukrainian hana_beach_H_d8f4d732:
 
     # r "Eh!-"
-    r "Eh!-"
+    r "Eh!-" with hpunch
 
 # game/game/beach_events.rpy:1824
 translate ukrainian hana_beach_H_97009691:
@@ -6939,7 +6939,7 @@ translate ukrainian hana_beach_H_35679f57:
 translate ukrainian hana_beach_H_f0acbb48:
 
     # mc "Stop using me as a shield!"
-    mc "Stop using me as a shield!"
+    mc "Stop using me as a shield!" with hpunch
 
 # game/game/beach_events.rpy:1855
 translate ukrainian hana_beach_H_7de77caf:
@@ -6963,7 +6963,7 @@ translate ukrainian hana_beach_H_36cc0707:
 translate ukrainian hana_beach_H_c89a6cf0:
 
     # s "Oh no! He's using the forbidden technique!"
-    s "Oh no! He's using the forbidden technique!"
+    s "Oh no! He's using the forbidden technique!" with hpunch
 
 # game/game/beach_events.rpy:1860
 translate ukrainian hana_beach_H_b8dca2e4:
@@ -6975,7 +6975,7 @@ translate ukrainian hana_beach_H_b8dca2e4:
 translate ukrainian hana_beach_H_681e70fb:
 
     # mc "I slipped."
-    mc "I slipped."
+    mc "I slipped." (multiple=2)
 
 # game/game/beach_events.rpy:1866
 translate ukrainian hana_beach_H_cd038cb9:
@@ -6987,7 +6987,7 @@ translate ukrainian hana_beach_H_cd038cb9:
 translate ukrainian hana_beach_H_4b9a4040:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-7}AaaAah! Why is it always me!?"
-    s "{sc=2}{outlinecolor=#000000}{size=-7}AaaAah! Why is it always me!?"
+    s "{sc=2}{outlinecolor=#000000}{size=-7}AaaAah! Why is it always me!?" with hpunch
 
 # game/game/beach_events.rpy:1875
 translate ukrainian hana_beach_H_e1554201:
@@ -7017,7 +7017,7 @@ translate ukrainian hana_beach_H_2b35b6fe_2:
 translate ukrainian hana_beach_H_12e7b629:
 
     # mc "She isn't even moving!"
-    mc "She isn't even moving!"
+    mc "She isn't even moving!" with hpunch
 
 # game/game/beach_events.rpy:1884
 translate ukrainian hana_beach_H_c3ddba1c:
@@ -7191,7 +7191,7 @@ translate ukrainian ryoko_beach_H_afb103b3:
 translate ukrainian ryoko_beach_H_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:1935
 translate ukrainian ryoko_beach_H_38e27f15:
@@ -7311,7 +7311,7 @@ translate ukrainian ryoko_beach_H_57f0b41c:
 translate ukrainian ryoko_beach_H_9e404e6d:
 
     # r "{sc=2}{outlinecolor=#000000}{size=-7}Ahnm~{image=corazon} {w}Nmnh~{image=corazon} {w}Master [mc]~{image=corazon}{image=corazon}"
-    r "{sc=2}{outlinecolor=#000000}{size=-7}Ahnm~{image=corazon} {w}Nmnh~{image=corazon} {w}Master [mc]~{image=corazon}{image=corazon}"
+    r "{sc=2}{outlinecolor=#000000}{size=-7}Ahnm~{image=corazon} {w}Nmnh~{image=corazon} {w}Master [mc]~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:1960
 translate ukrainian ryoko_beach_H_c39f1eaf:
@@ -7335,7 +7335,7 @@ translate ukrainian ryoko_beach_H_529947b1:
 translate ukrainian ryoko_beach_H_893cbac6:
 
     # r "So deep... Hnm~{image=corazon}{image=corazon} {w}You're holding me so tightly~{image=corazon}"
-    r "So deep... Hnm~{image=corazon}{image=corazon} {w}You're holding me so tightly~{image=corazon}"
+    r "So deep... Hnm~{image=corazon}{image=corazon} {w}You're holding me so tightly~{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:1965
 translate ukrainian ryoko_beach_H_cc157546:
@@ -7377,7 +7377,7 @@ translate ukrainian ryoko_beach_H_72f59bed:
 translate ukrainian ryoko_beach_H_f74791fc:
 
     # r "{sc=2}{outlinecolor=#000000}{size=-8}Aahnm~{image=corazon} {w}Anhgm~{image=corazon} {w}Nmn~{image=corazon}{image=corazon}"
-    r "{sc=2}{outlinecolor=#000000}{size=-8}Aahnm~{image=corazon} {w}Anhgm~{image=corazon} {w}Nmn~{image=corazon}{image=corazon}"
+    r "{sc=2}{outlinecolor=#000000}{size=-8}Aahnm~{image=corazon} {w}Anhgm~{image=corazon} {w}Nmn~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:1972
 translate ukrainian ryoko_beach_H_fb6749c4:
@@ -7401,13 +7401,13 @@ translate ukrainian ryoko_beach_H_32583e3a:
 translate ukrainian ryoko_beach_H_0a577f82:
 
     # r "{sc=2}{outlinecolor=#000000}{size=-8}Hnghmgn~{image=corazon}{image=corazon}{image=corazon}"
-    r "{sc=2}{outlinecolor=#000000}{size=-8}Hnghmgn~{image=corazon}{image=corazon}{image=corazon}"
+    r "{sc=2}{outlinecolor=#000000}{size=-8}Hnghmgn~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:1976
 translate ukrainian ryoko_beach_H_e9ee7796_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:1977
 translate ukrainian ryoko_beach_H_daf84518:
@@ -7461,7 +7461,7 @@ translate ukrainian ryoko_beach_H_6304afc6:
 translate ukrainian ryoko_beach_H_a62f18e2:
 
     # mc "Ghn!"
-    mc "Ghn!"
+    mc "Ghn!" with cumflash
 
 # game/game/beach_events.rpy:1987
 translate ukrainian ryoko_beach_H_8eaa887f:
@@ -7557,7 +7557,7 @@ translate ukrainian ryoko_beach_H_4687ca70:
 translate ukrainian ryoko_beach_H_17d55c26:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-7}GNn!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-7}GNn!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-7}GNn!" with cumflash
 
 # game/game/beach_events.rpy:2010
 translate ukrainian ryoko_beach_H_4f523e4d:
@@ -7569,19 +7569,19 @@ translate ukrainian ryoko_beach_H_4f523e4d:
 translate ukrainian ryoko_beach_H_98894d7b:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-13}R-Ryoko!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-13}R-Ryoko!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-13}R-Ryoko!" with hpunch
 
 # game/game/beach_events.rpy:2017
 translate ukrainian ryoko_beach_H_9c9c2ced:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-13}Ghg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-13}Ghg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-13}Ghg!" (multiple=2)
 
 # game/game/beach_events.rpy:2018
 translate ukrainian ryoko_beach_H_397eadd5:
 
     # r "{sc=2}{outlinecolor=#000000}{size=-13}GnMNHmnmNHnm!~{image=corazon}{image=corazon}{image=corazon}"
-    r "{sc=2}{outlinecolor=#000000}{size=-13}GnMNHmnmNHnm!~{image=corazon}{image=corazon}{image=corazon}"
+    r "{sc=2}{outlinecolor=#000000}{size=-13}GnMNHmnmNHnm!~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:2020
 translate ukrainian ryoko_beach_H_db0f1598:
@@ -7659,19 +7659,19 @@ translate ukrainian ryoko_beach_H_2c8e7b36:
 translate ukrainian ryoko_beach_H_7a5bc963:
 
     # ma "Akane and Yui's team wins!"
-    ma "Akane and Yui's team wins!"
+    ma "Akane and Yui's team wins!" with hpunch
 
 # game/game/beach_events.rpy:2054
 translate ukrainian ryoko_beach_H_8cbe895c:
 
     # ak "Nice pass!"
-    ak "Nice pass!"
+    ak "Nice pass!" (multiple=2)
 
 # game/game/beach_events.rpy:2055
 translate ukrainian ryoko_beach_H_bc0a509a:
 
     # y "Nice shot!"
-    y "Nice shot!"
+    y "Nice shot!" (multiple=2)
 
 # game/game/beach_events.rpy:2057
 translate ukrainian ryoko_beach_H_81bb4fe7:
@@ -7875,7 +7875,7 @@ translate ukrainian ryoko_beach_H_f534d83e:
 translate ukrainian ryoko_beach_H_755ef10f:
 
     # ak "You!"
-    ak "You!"
+    ak "You!" with hpunch
 
 # game/game/beach_events.rpy:2103
 translate ukrainian ryoko_beach_H_b275726f:
@@ -7887,13 +7887,13 @@ translate ukrainian ryoko_beach_H_b275726f:
 translate ukrainian ryoko_beach_H_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/beach_events.rpy:2107
 translate ukrainian ryoko_beach_H_05a030d0:
 
     # ak "Come with me right now!"
-    ak "Come with me right now!"
+    ak "Come with me right now!" (multiple=2)
 
 # game/game/beach_events.rpy:2108
 translate ukrainian ryoko_beach_H_f905b8c4:
@@ -7905,7 +7905,7 @@ translate ukrainian ryoko_beach_H_f905b8c4:
 translate ukrainian ryoko_beach_H_283181c3:
 
     # ma "So, since Hana doesn't want to play, the new challengers will be Ryoko and Tomoe!"
-    ma "So, since Hana doesn't want to play, the new challengers will be Ryoko and Tomoe!"
+    ma "So, since Hana doesn't want to play, the new challengers will be Ryoko and Tomoe!" with hpunch
 
 # game/game/beach_events.rpy:2111
 translate ukrainian ryoko_beach_H_6874cc62:
@@ -8013,13 +8013,13 @@ translate ukrainian ryoko_beach_H_1cffc769:
 translate ukrainian akane_beach_H_3f447532:
 
     # ak "S-Shut up..."
-    ak "S-Shut up..."
+    ak "S-Shut up..." (multiple=2)
 
 # game/game/beach_events.rpy:2139
 translate ukrainian akane_beach_H_d18fe050:
 
     # mc "Ah-"
-    mc "Ah-"
+    mc "Ah-" (multiple=2)
 
 # game/game/beach_events.rpy:2144
 translate ukrainian akane_beach_H_0e520bb0:
@@ -8193,13 +8193,13 @@ translate ukrainian akane_beach_H_b46513bc:
 translate ukrainian akane_beach_H_0bd8453e:
 
     # t "She's going to kill me!"
-    t "She's going to kill me!"
+    t "She's going to kill me!" with hpunch
 
 # game/game/beach_events.rpy:2182
 translate ukrainian akane_beach_H_80032faf:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" with cumflash
 
 # game/game/beach_events.rpy:2183
 translate ukrainian akane_beach_H_8053a111:
@@ -8355,7 +8355,7 @@ translate ukrainian akane_beach_H_bddb9a2a:
 translate ukrainian akane_beach_H_4d0f9919:
 
     # ak "W-Wait! {w}NHGhm~{image=corazon}{image=corazon} {w}W-What are you doing?"
-    ak "W-Wait! {w}NHGhm~{image=corazon}{image=corazon} {w}W-What are you doing?"
+    ak "W-Wait! {w}NHGhm~{image=corazon}{image=corazon} {w}W-What are you doing?" with cumflash
 
 # game/game/beach_events.rpy:2215
 translate ukrainian akane_beach_H_71cba34e:
@@ -8391,7 +8391,7 @@ translate ukrainian akane_beach_H_5f993577:
 translate ukrainian akane_beach_H_2714f130:
 
     # ak "{sc=2}{outlinecolor=#000000}{size=-8}Gnhgmhn!~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}{size=-8}Gnhgmhn!~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{size=-8}Gnhgmhn!~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/beach_events.rpy:2222
 translate ukrainian akane_beach_H_de68ef1a:
@@ -8433,7 +8433,7 @@ translate ukrainian akane_beach_H_9147545e:
 translate ukrainian akane_beach_H_ae15da7d:
 
     # mc "A-Akane!"
-    mc "A-Akane!"
+    mc "A-Akane!" with cumflash
 
 # game/game/beach_events.rpy:2229
 translate ukrainian akane_beach_H_0bdb0d6e:
@@ -8451,13 +8451,13 @@ translate ukrainian akane_beach_H_1cf540f9:
 translate ukrainian akane_beach_H_e33692d5:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" (multiple=2)
 
 # game/game/beach_events.rpy:2243
 translate ukrainian akane_beach_H_125daa3b:
 
     # ak "{sc=2}{outlinecolor=#000000}{size=-8}AaaaaAaahNnmhNM~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=2}{outlinecolor=#000000}{size=-8}AaaaaAaahNnmhNM~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=2}{outlinecolor=#000000}{size=-8}AaaaaAaahNnmhNM~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:2245
 translate ukrainian akane_beach_H_5f88f3f0:
@@ -8565,7 +8565,7 @@ translate ukrainian akane_beach_H_b52ed50a:
 translate ukrainian akane_beach_H_700a9504:
 
     # ak "{sc=1}{outlinecolor=#000000}{size=-8}S-Stop talking!"
-    ak "{sc=1}{outlinecolor=#000000}{size=-8}S-Stop talking!"
+    ak "{sc=1}{outlinecolor=#000000}{size=-8}S-Stop talking!" with hpunch
 
 # game/game/beach_events.rpy:2291
 translate ukrainian akane_beach_H_a20cefa7:
@@ -8883,13 +8883,13 @@ translate ukrainian akane_beach_H_86391871:
 translate ukrainian akane_beach_H_3d67810b:
 
     # mc "Holy bouncing bubbles!!"
-    mc "Holy bouncing bubbles!!"
+    mc "Holy bouncing bubbles!!" with hpunch
 
 # game/game/beach_events.rpy:2382
 translate ukrainian akane_beach_H_357de09a:
 
     # kar "Ah!-"
-    kar "Ah!-"
+    kar "Ah!-" with hpunch
 
 # game/game/beach_events.rpy:2383
 translate ukrainian akane_beach_H_6dc6556e:
@@ -8979,7 +8979,7 @@ translate ukrainian akane_beach_H_794ef555:
 translate ukrainian akane_beach_H_1040055e:
 
     # kar "W-Why is it so hard?!"
-    kar "W-Why is it so hard?!"
+    kar "W-Why is it so hard?!" with hpunch
 
 # game/game/beach_events.rpy:2406
 translate ukrainian akane_beach_H_bd348592:
@@ -8991,7 +8991,7 @@ translate ukrainian akane_beach_H_bd348592:
 translate ukrainian akane_beach_H_050c6892:
 
     # kar "No! Why is your penis so hard?"
-    kar "No! Why is your penis so hard?"
+    kar "No! Why is your penis so hard?" with hpunch
 
 # game/game/beach_events.rpy:2409
 translate ukrainian akane_beach_H_9d3c8913:
@@ -9003,7 +9003,7 @@ translate ukrainian akane_beach_H_9d3c8913:
 translate ukrainian akane_beach_H_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/beach_events.rpy:2412
 translate ukrainian akane_beach_H_63a3327c:
@@ -9075,7 +9075,7 @@ translate ukrainian karyn_beach_H_8464018a:
 translate ukrainian karyn_beach_H_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:2435
 translate ukrainian karyn_beach_H_5bbb3f8d:
@@ -9087,7 +9087,7 @@ translate ukrainian karyn_beach_H_5bbb3f8d:
 translate ukrainian karyn_beach_H_0f013a07:
 
     # mc "W-Wait! W-What are you doing?"
-    mc "W-Wait! W-What are you doing?"
+    mc "W-Wait! W-What are you doing?" with cumflash
 
 # game/game/beach_events.rpy:2437
 translate ukrainian karyn_beach_H_beb2b7ff:
@@ -9129,13 +9129,13 @@ translate ukrainian karyn_beach_H_e3edead1:
 translate ukrainian karyn_beach_H_976ab5a0:
 
     # t "My mind is telling me to stop her, but my body won't respond!"
-    t "My mind is telling me to stop her, but my body won't respond!"
+    t "My mind is telling me to stop her, but my body won't respond!" with hpunch
 
 # game/game/beach_events.rpy:2444
 translate ukrainian karyn_beach_H_25d33060:
 
     # mc "GhNH!"
-    mc "GhNH!"
+    mc "GhNH!" with cumflash
 
 # game/game/beach_events.rpy:2445
 translate ukrainian karyn_beach_H_16439078:
@@ -9189,7 +9189,7 @@ translate ukrainian karyn_beach_H_8b6770db:
 translate ukrainian karyn_beach_H_e9ee7796_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:2461
 translate ukrainian karyn_beach_H_f9338d80:
@@ -9261,7 +9261,7 @@ translate ukrainian karyn_beach_H_b9e330d1:
 translate ukrainian karyn_beach_H_c9d29490:
 
     # t "It's burning hot!"
-    t "It's burning hot!"
+    t "It's burning hot!" with hpunch
 
 # game/game/beach_events.rpy:2478
 translate ukrainian karyn_beach_H_3a909b1f:
@@ -9285,13 +9285,13 @@ translate ukrainian karyn_beach_H_74721da0:
 translate ukrainian karyn_beach_H_3afb7a31:
 
     # kar "{sc=2}{outlinecolor=#000000}{size=-8}NGnhmHNM!~{image=corazon}{image=corazon}{image=corazon}"
-    kar "{sc=2}{outlinecolor=#000000}{size=-8}NGnhmHNM!~{image=corazon}{image=corazon}{image=corazon}"
+    kar "{sc=2}{outlinecolor=#000000}{size=-8}NGnhmHNM!~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2482
 translate ukrainian karyn_beach_H_97a81feb:
 
     # mc "Ggnh!"
-    mc "Ggnh!"
+    mc "Ggnh!" with cumflash
 
 # game/game/beach_events.rpy:2483
 translate ukrainian karyn_beach_H_04b8da09:
@@ -9327,7 +9327,7 @@ translate ukrainian karyn_beach_H_d7539f78:
 translate ukrainian karyn_beach_H_27a1f642:
 
     # t "That just made her even more intense!"
-    t "That just made her even more intense!"
+    t "That just made her even more intense!" with hpunch
 
 # game/game/beach_events.rpy:2491
 translate ukrainian karyn_beach_H_ca28b533:
@@ -9345,7 +9345,7 @@ translate ukrainian karyn_beach_H_a785bbb8:
 translate ukrainian karyn_beach_H_36db8cbe:
 
     # kar "Ahnnm~{image=corazon}{image=corazon} {w}I-It sends tingles all through my body~{image=corazon}{image=corazon}"
-    kar "Ahnnm~{image=corazon}{image=corazon} {w}I-It sends tingles all through my body~{image=corazon}{image=corazon}"
+    kar "Ahnnm~{image=corazon}{image=corazon} {w}I-It sends tingles all through my body~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2494
 translate ukrainian karyn_beach_H_7560d625:
@@ -9357,7 +9357,7 @@ translate ukrainian karyn_beach_H_7560d625:
 translate ukrainian karyn_beach_H_94bf4175:
 
     # t "But if this keeps up... she'll use me all day long!"
-    t "But if this keeps up... she'll use me all day long!"
+    t "But if this keeps up... she'll use me all day long!" with cumflash
 
 # game/game/beach_events.rpy:2496
 translate ukrainian karyn_beach_H_e6c9520e:
@@ -9375,7 +9375,7 @@ translate ukrainian karyn_beach_H_edbc866e:
 translate ukrainian karyn_beach_H_d12d2959:
 
     # kar "{sc=2}{outlinecolor=#000000}{size=-8}WaaAanghmg~{image=corazon}{image=corazon}{image=corazon}"
-    kar "{sc=2}{outlinecolor=#000000}{size=-8}WaaAanghmg~{image=corazon}{image=corazon}{image=corazon}"
+    kar "{sc=2}{outlinecolor=#000000}{size=-8}WaaAanghmg~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2499
 translate ukrainian karyn_beach_H_4d1c9ce1:
@@ -9399,7 +9399,7 @@ translate ukrainian karyn_beach_H_af87511d:
 translate ukrainian karyn_beach_H_2a355948:
 
     # kar "{sc=2}{outlinecolor=#000000}{size=-8}UhghnnMnMnm~{image=corazon}{image=corazon}{image=corazon}"
-    kar "{sc=2}{outlinecolor=#000000}{size=-8}UhghnnMnMnm~{image=corazon}{image=corazon}{image=corazon}"
+    kar "{sc=2}{outlinecolor=#000000}{size=-8}UhghnnMnMnm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2505
 translate ukrainian karyn_beach_H_a1a124f2:
@@ -9477,13 +9477,13 @@ translate ukrainian karyn_beach_H_0d154eb1:
 translate ukrainian karyn_beach_H_515e3f00:
 
     # mc "Karyn!"
-    mc "Karyn!"
+    mc "Karyn!" with hpunch
 
 # game/game/beach_events.rpy:2518
 translate ukrainian karyn_beach_H_67585bec:
 
     # kar "{sc=2}{outlinecolor=#000000}{size=-8}Waan!~{image=corazon}{image=corazon}"
-    kar "{sc=2}{outlinecolor=#000000}{size=-8}Waan!~{image=corazon}{image=corazon}"
+    kar "{sc=2}{outlinecolor=#000000}{size=-8}Waan!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2523
 translate ukrainian karyn_beach_H_2602a030:
@@ -9495,13 +9495,13 @@ translate ukrainian karyn_beach_H_2602a030:
 translate ukrainian karyn_beach_H_34d9b484:
 
     # kar "{sc=2}{outlinecolor=#000000}{size=-8}WaanhnHMnnmN~{image=corazon}{image=corazon}{image=corazon}"
-    kar "{sc=2}{outlinecolor=#000000}{size=-8}WaanhnHMnnmN~{image=corazon}{image=corazon}{image=corazon}"
+    kar "{sc=2}{outlinecolor=#000000}{size=-8}WaanhnHMnnmN~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:2530
 translate ukrainian karyn_beach_H_77a07196:
 
     # mc "Gnhg!"
-    mc "Gnhg!"
+    mc "Gnhg!" (multiple=2)
 
 # game/game/beach_events.rpy:2532
 translate ukrainian karyn_beach_H_e8462508:
@@ -9687,13 +9687,13 @@ translate ukrainian karyn_beach_H_337653dc:
 translate ukrainian karyn_beach_H_7139c875:
 
     # s "To your left! {w}No, your other left!"
-    s "To your left! {w}No, your other left!"
+    s "To your left! {w}No, your other left!" with hpunch
 
 # game/game/beach_events.rpy:2588
 translate ukrainian karyn_beach_H_963e7c0a:
 
     # y "I only have one!"
-    y "I only have one!"
+    y "I only have one!" with hpunch
 
 # game/game/beach_events.rpy:2589
 translate ukrainian karyn_beach_H_fe4e77c4:
@@ -9705,7 +9705,7 @@ translate ukrainian karyn_beach_H_fe4e77c4:
 translate ukrainian karyn_beach_H_7025a5d0:
 
     # y "Thanks, but I need directions!"
-    y "Thanks, but I need directions!"
+    y "Thanks, but I need directions!" with vpunch
 
 # game/game/beach_events.rpy:2592
 translate ukrainian karyn_beach_H_a67a51ac:
@@ -9729,13 +9729,13 @@ translate ukrainian karyn_beach_H_646763f7:
 translate ukrainian karyn_beach_H_d75bb3b2:
 
     # y "I've only lost my sight, I can still hear you!"
-    y "I've only lost my sight, I can still hear you!"
+    y "I've only lost my sight, I can still hear you!" with hpunch
 
 # game/game/beach_events.rpy:2597
 translate ukrainian karyn_beach_H_58f42ce7:
 
     # ev "Hahaha."
-    ev "Hahaha."
+    ev "Hahaha." with hpunch
 
 # game/game/beach_events.rpy:2598
 translate ukrainian karyn_beach_H_4520ff46:
@@ -9783,25 +9783,25 @@ translate ukrainian karyn_beach_H_fb2e5377_1:
 translate ukrainian karyn_beach_H_651bdd30:
 
     # ak "W-Wait!"
-    ak "W-Wait!"
+    ak "W-Wait!" with hpunch
 
 # game/game/beach_events.rpy:2615
 translate ukrainian karyn_beach_H_27e47d92:
 
     # y "And hit!"
-    y "And hit!"
+    y "And hit!" (multiple=2)
 
 # game/game/beach_events.rpy:2616
 translate ukrainian karyn_beach_H_6abcb1b7:
 
     # t "I have to dodge it!"
-    t "I have to dodge it!"
+    t "I have to dodge it!" (multiple=2)
 
 # game/game/beach_events.rpy:2618
 translate ukrainian karyn_beach_H_e9ee7796_2:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:2619
 translate ukrainian karyn_beach_H_74d95d30:
@@ -9813,7 +9813,7 @@ translate ukrainian karyn_beach_H_74d95d30:
 translate ukrainian karyn_beach_H_6c6b3902:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ahg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ahg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ahg!" with vpunch
 
 # game/game/beach_events.rpy:2626
 translate ukrainian karyn_beach_H_961599e8:
@@ -9855,7 +9855,7 @@ translate ukrainian karyn_beach_H_4b02ff14:
 translate ukrainian karyn_beach_H_8c410b1a:
 
     # ma "Stand back! I know CPR!"
-    ma "Stand back! I know CPR!"
+    ma "Stand back! I know CPR!" with hpunch
 
 # game/game/beach_events.rpy:2634
 translate ukrainian karyn_beach_H_ba465312:
@@ -9867,7 +9867,7 @@ translate ukrainian karyn_beach_H_ba465312:
 translate ukrainian karyn_beach_H_ba1bee91:
 
     # to "He's not drowning! And you're just making out with him!"
-    to "He's not drowning! And you're just making out with him!"
+    to "He's not drowning! And you're just making out with him!" with hpunch
 
 # game/game/beach_events.rpy:2636
 translate ukrainian karyn_beach_H_e854041d:
@@ -9987,7 +9987,7 @@ translate ukrainian karyn_beach_H_0059b928:
 translate ukrainian karyn_beach_H_ce5f46a1:
 
     # y "Eh...!"
-    y "Eh...!"
+    y "Eh...!" with hpunch
 
 # game/game/beach_events.rpy:2666
 translate ukrainian karyn_beach_H_1f5b224d:
@@ -10005,7 +10005,7 @@ translate ukrainian karyn_beach_H_91dc2d4d:
 translate ukrainian karyn_beach_H_3061cf73:
 
     # t "Ghn? {w}This contains alcohol."
-    t "Ghn? {w}This contains alcohol."
+    t "Ghn? {w}This contains alcohol." with hpunch
 
 # game/game/beach_events.rpy:2670
 translate ukrainian karyn_beach_H_d4716819:
@@ -10143,7 +10143,7 @@ translate ukrainian yui_beach_H_57aa438f:
 translate ukrainian yui_beach_H_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/beach_events.rpy:2706
 translate ukrainian yui_beach_H_8114a09f:
@@ -10167,13 +10167,13 @@ translate ukrainian yui_beach_H_9c94967a:
 translate ukrainian yui_beach_H_be0ba2a7:
 
     # y "This~{image=corazon}"
-    y "This~{image=corazon}"
+    y "This~{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:2712
 translate ukrainian yui_beach_H_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/beach_events.rpy:2713
 translate ukrainian yui_beach_H_3d15be6b:
@@ -10347,7 +10347,7 @@ translate ukrainian yui_beach_H_667f9bfc:
 translate ukrainian yui_beach_H_39d36102:
 
     # mc "I-I see..."
-    mc "I-I see..."
+    mc "I-I see..." with cumflash
 
 # game/game/beach_events.rpy:2747
 translate ukrainian yui_beach_H_86b1d0df:
@@ -10581,7 +10581,7 @@ translate ukrainian yui_beach_H_1ad85ee3:
 translate ukrainian yui_beach_H_bf3a7ec7:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-8}Inside me! Agnm~{image=corazon}{image=corazon}"
-    y "{sc=2}{outlinecolor=#000000}{size=-8}Inside me! Agnm~{image=corazon}{image=corazon}"
+    y "{sc=2}{outlinecolor=#000000}{size=-8}Inside me! Agnm~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/beach_events.rpy:2791
 translate ukrainian yui_beach_H_2b35b6fe_1:
@@ -10593,7 +10593,7 @@ translate ukrainian yui_beach_H_2b35b6fe_1:
 translate ukrainian yui_beach_H_4eca8b11:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-8}Whawhatwhat!?~{image=corazon}"
-    y "{sc=2}{outlinecolor=#000000}{size=-8}Whawhatwhat!?~{image=corazon}"
+    y "{sc=2}{outlinecolor=#000000}{size=-8}Whawhatwhat!?~{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2795
 translate ukrainian yui_beach_H_fd2dc55a:
@@ -10605,7 +10605,7 @@ translate ukrainian yui_beach_H_fd2dc55a:
 translate ukrainian yui_beach_H_2f2c47d5:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-8}AAaaAHnm~{image=corazon}{image=corazon}{image=corazon}"
-    y "{sc=2}{outlinecolor=#000000}{size=-8}AAaaAHnm~{image=corazon}{image=corazon}{image=corazon}"
+    y "{sc=2}{outlinecolor=#000000}{size=-8}AAaaAHnm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2797
 translate ukrainian yui_beach_H_ed8d35f4:
@@ -10635,13 +10635,13 @@ translate ukrainian yui_beach_H_de08647b:
 translate ukrainian yui_beach_H_8f38d4b3:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-8}W-What does that have to do with anything? AnhmHnm~{image=corazon}"
-    y "{sc=2}{outlinecolor=#000000}{size=-8}W-What does that have to do with anything? AnhmHnm~{image=corazon}"
+    y "{sc=2}{outlinecolor=#000000}{size=-8}W-What does that have to do with anything? AnhmHnm~{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2802
 translate ukrainian yui_beach_H_a62f18e2:
 
     # mc "Ghn!"
-    mc "Ghn!"
+    mc "Ghn!" with cumflash
 
 # game/game/beach_events.rpy:2803
 translate ukrainian yui_beach_H_91580b00:
@@ -10683,7 +10683,7 @@ translate ukrainian yui_beach_H_5eba2028:
 translate ukrainian yui_beach_H_4fec07cb:
 
     # y "Mnhmgnm~{image=corazon}{image=corazon}{image=corazon}"
-    y "Mnhmgnm~{image=corazon}{image=corazon}{image=corazon}"
+    y "Mnhmgnm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2812
 translate ukrainian yui_beach_H_9ba19c08:
@@ -10707,7 +10707,7 @@ translate ukrainian yui_beach_H_8656fe3f:
 translate ukrainian yui_beach_H_b7494377:
 
     # mc "Gnhm!"
-    mc "Gnhm!"
+    mc "Gnhm!" with hpunch
 
 # game/game/beach_events.rpy:2817
 translate ukrainian yui_beach_H_d90ba8f3:
@@ -10743,7 +10743,7 @@ translate ukrainian yui_beach_H_e417686d:
 translate ukrainian yui_beach_H_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/beach_events.rpy:2823
 translate ukrainian yui_beach_H_9514fb97:
@@ -10755,25 +10755,25 @@ translate ukrainian yui_beach_H_9514fb97:
 translate ukrainian yui_beach_H_10bb7f87:
 
     # mc "Y-Yui!"
-    mc "Y-Yui!"
+    mc "Y-Yui!" with hpunch
 
 # game/game/beach_events.rpy:2831
 translate ukrainian yui_beach_H_184d532b:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-8}UhgnMHnhmGNHm~{image=corazon}{image=corazon}{image=corazon}"
-    y "{sc=2}{outlinecolor=#000000}{size=-8}UhgnMHnhmGNHm~{image=corazon}{image=corazon}{image=corazon}"
+    y "{sc=2}{outlinecolor=#000000}{size=-8}UhgnMHnhmGNHm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:2837
 translate ukrainian yui_beach_H_23300160:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-8}NhgnMHNMGNnm~{image=corazon}{image=corazon}"
-    y "{sc=2}{outlinecolor=#000000}{size=-8}NhgnMHNMGNnm~{image=corazon}{image=corazon}"
+    y "{sc=2}{outlinecolor=#000000}{size=-8}NhgnMHNMGNnm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:2838
 translate ukrainian yui_beach_H_318abd3e:
 
     # mc "NGhn!"
-    mc "NGhn!"
+    mc "NGhn!" (multiple=2)
 
 # game/game/beach_events.rpy:2840
 translate ukrainian yui_beach_H_300c6f19:
@@ -10983,13 +10983,13 @@ translate ukrainian yui_beach_H_9d84c257:
 translate ukrainian yui_beach_H_7e13e1b5:
 
     # ak "Hahaha~"
-    ak "Hahaha~"
+    ak "Hahaha~" (multiple=2)
 
 # game/game/beach_events.rpy:2909
 translate ukrainian yui_beach_H_f29bbb96:
 
     # r "Hahaha~"
-    r "Hahaha~"
+    r "Hahaha~" (multiple=2)
 
 # game/game/beach_events.rpy:2910
 translate ukrainian yui_beach_H_bff07233:
@@ -11073,13 +11073,13 @@ translate ukrainian yui_beach_H_a3e94438:
 translate ukrainian yui_beach_H_a0665dc7:
 
     # c "Ghnya!"
-    c "Ghnya!"
+    c "Ghnya!" (multiple=2)
 
 # game/game/beach_events.rpy:2939
 translate ukrainian yui_beach_H_f8246bb4:
 
     # mc "Hello."
-    mc "Hello."
+    mc "Hello." (multiple=2)
 
 # game/game/beach_events.rpy:2941
 translate ukrainian yui_beach_H_cb24bda1:
@@ -11559,7 +11559,7 @@ translate ukrainian char_beach_H_869ae3b4:
 translate ukrainian char_beach_H_a62f18e2:
 
     # mc "Ghn!"
-    mc "Ghn!"
+    mc "Ghn!" with cumflash
 
 # game/game/beach_events.rpy:3047
 translate ukrainian char_beach_H_d6916490:
@@ -11595,7 +11595,7 @@ translate ukrainian char_beach_H_b0ae9867:
 translate ukrainian char_beach_H_ee9c1a74:
 
     # c "I-I don't care anymore... {w}NHgm~{image=corazon}{image=corazon} {w}m-my instincts are going wild~{image=corazon}"
-    c "I-I don't care anymore... {w}NHgm~{image=corazon}{image=corazon} {w}m-my instincts are going wild~{image=corazon}"
+    c "I-I don't care anymore... {w}NHgm~{image=corazon}{image=corazon} {w}m-my instincts are going wild~{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:3053
 translate ukrainian char_beach_H_7b6f6fbe:
@@ -11619,7 +11619,7 @@ translate ukrainian char_beach_H_8fb8c9d8:
 translate ukrainian char_beach_H_589bc413:
 
     # mc "And I like m-making you feel good..."
-    mc "And I like m-making you feel good..."
+    mc "And I like m-making you feel good..." with cumflash
 
 # game/game/beach_events.rpy:3057
 translate ukrainian char_beach_H_e9069eff:
@@ -11727,19 +11727,19 @@ translate ukrainian char_beach_H_66e2731a:
 translate ukrainian char_beach_H_b2f1455f:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-8}UhnoghNNMNnm!~{image=corazon}{image=corazon}{image=corazon}"
-    c "{sc=2}{outlinecolor=#000000}{size=-8}UhnoghNNMNnm!~{image=corazon}{image=corazon}{image=corazon}"
+    c "{sc=2}{outlinecolor=#000000}{size=-8}UhnoghNNMNnm!~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:3083
 translate ukrainian char_beach_H_5ab540e3:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Gnh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Gnh!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Gnh!" (multiple=2)
 
 # game/game/beach_events.rpy:3089
 translate ukrainian char_beach_H_81dd5cf0:
 
     # c "{sc=2}{outlinecolor=#000000}{size=-8}aAAaHnhmNH~{image=corazon}{image=corazon}{image=corazon}"
-    c "{sc=2}{outlinecolor=#000000}{size=-8}aAAaHnhmNH~{image=corazon}{image=corazon}{image=corazon}"
+    c "{sc=2}{outlinecolor=#000000}{size=-8}aAAaHnhmNH~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/beach_events.rpy:3090
 translate ukrainian char_beach_H_30ae7c17:
@@ -11817,7 +11817,7 @@ translate ukrainian char_beach_H_d20850c6:
 translate ukrainian char_beach_H_8ff0bca9:
 
     # s "I w-wasn't spying!!"
-    s "I w-wasn't spying!!"
+    s "I w-wasn't spying!!" with hpunch
 
 # game/game/beach_events.rpy:3121
 translate ukrainian char_beach_H_d722be85:
@@ -11841,7 +11841,7 @@ translate ukrainian char_beach_H_e8036289:
 translate ukrainian char_beach_H_27203c13:
 
     # s "Uh... I peed myself!"
-    s "Uh... I peed myself!"
+    s "Uh... I peed myself!" with hpunch
 
 # game/game/beach_events.rpy:3126
 translate ukrainian char_beach_H_38081e5c:
@@ -11955,7 +11955,7 @@ translate ukrainian shika_beach_H_cad93458:
 translate ukrainian shika_beach_H_f091d95d:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Gnh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Gnh!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Gnh!" with cumflash
 
 # game/game/beach_events.rpy:3158
 translate ukrainian shika_beach_H_b687d1d8:
@@ -12105,7 +12105,7 @@ translate ukrainian shika_beach_H_488e8b90:
 translate ukrainian shika_beach_H_2c60d989:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}Ahnm~{image=corazon}{image=corazon} {w}I-Is that a good thing?~{image=corazon}"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}Ahnm~{image=corazon}{image=corazon} {w}I-Is that a good thing?~{image=corazon}"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}Ahnm~{image=corazon}{image=corazon} {w}I-Is that a good thing?~{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:3188
 translate ukrainian shika_beach_H_082b6b94:
@@ -12123,13 +12123,13 @@ translate ukrainian shika_beach_H_f3018faa:
 translate ukrainian shika_beach_H_d0ca93f6:
 
     # s "Oh...~{image=corazon} {w}GNmh~{image=corazon} {w}AaAnm~{image=corazon}{image=corazon}"
-    s "Oh...~{image=corazon} {w}GNmh~{image=corazon} {w}AaAnm~{image=corazon}{image=corazon}"
+    s "Oh...~{image=corazon} {w}GNmh~{image=corazon} {w}AaAnm~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:3191
 translate ukrainian shika_beach_H_470ad531:
 
     # s "H-Hey!"
-    s "H-Hey!"
+    s "H-Hey!" with hpunch
 
 # game/game/beach_events.rpy:3192
 translate ukrainian shika_beach_H_030cda51:
@@ -12153,13 +12153,13 @@ translate ukrainian shika_beach_H_4f9099d2:
 translate ukrainian shika_beach_H_dbd17991:
 
     # s "AaaANhMhnM~{image=corazon}{image=corazon}{image=corazon}"
-    s "AaaANhMhnM~{image=corazon}{image=corazon}{image=corazon}"
+    s "AaaANhMhnM~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:3197
 translate ukrainian shika_beach_H_a62f18e2:
 
     # mc "Ghn!"
-    mc "Ghn!"
+    mc "Ghn!" with cumflash
 
 # game/game/beach_events.rpy:3198
 translate ukrainian shika_beach_H_030a8089:
@@ -12261,13 +12261,13 @@ translate ukrainian shika_beach_H_d2bdf371:
 translate ukrainian shika_beach_H_ad53a759:
 
     # s "NHGmhnmgnh~{image=corazon}{image=corazon}{image=corazon}"
-    s "NHGmhnmgnh~{image=corazon}{image=corazon}{image=corazon}"
+    s "NHGmhnmgnh~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/beach_events.rpy:3217
 translate ukrainian shika_beach_H_209b9527:
 
     # mc "A-Again!?"
-    mc "A-Again!?"
+    mc "A-Again!?" with cumflash
 
 # game/game/beach_events.rpy:3218
 translate ukrainian shika_beach_H_fe07b131:
@@ -12285,7 +12285,7 @@ translate ukrainian shika_beach_H_871c425f:
 translate ukrainian shika_beach_H_d2e7ba22:
 
     # mc "S-Shika!"
-    mc "S-Shika!"
+    mc "S-Shika!" with hpunch
 
 # game/game/beach_events.rpy:3223
 translate ukrainian shika_beach_H_1e87c11c:
@@ -12363,25 +12363,25 @@ translate ukrainian shika_beach_H_255ae689:
 translate ukrainian shika_beach_H_5c31525b:
 
     # mc "Ghgn!"
-    mc "Ghgn!"
+    mc "Ghgn!" with cumflash
 
 # game/game/beach_events.rpy:3241
 translate ukrainian shika_beach_H_3be8369f:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}UhnMHNHnmHNM~{image=corazon}{image=corazon}{image=corazon}"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}UhnMHNHnmHNM~{image=corazon}{image=corazon}{image=corazon}"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}UhnMHNHnmHNM~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/beach_events.rpy:3248
 translate ukrainian shika_beach_H_4b64f4b5:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}NHmgnMnmn~{image=corazon}{image=corazon}{image=corazon}"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}NHmgnMnmn~{image=corazon}{image=corazon}{image=corazon}"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}NHmgnMnmn~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:3249
 translate ukrainian shika_beach_H_8367ef5c:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Nhm!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Nhm!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Nhm!" (multiple=2)
 
 # game/game/beach_events.rpy:3251
 translate ukrainian shika_beach_H_bde6cdb1:
@@ -12447,13 +12447,13 @@ translate ukrainian shika_beach_H_e1554201_1:
 translate ukrainian shika_beach_H_759c2f82:
 
     # s "What did you just say!?"
-    s "What did you just say!?"
+    s "What did you just say!?" with hpunch
 
 # game/game/beach_events.rpy:3284
 translate ukrainian shika_beach_H_b5f8a429:
 
     # mc "Hahaha, it took you a while to process that."
-    mc "Hahaha, it took you a while to process that."
+    mc "Hahaha, it took you a while to process that." with hpunch
 
 # game/game/beach_events.rpy:3285
 translate ukrainian shika_beach_H_4852c981:
@@ -12465,13 +12465,13 @@ translate ukrainian shika_beach_H_4852c981:
 translate ukrainian shika_beach_H_6c6b3902:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ahg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ahg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ahg!" with vpunch
 
 # game/game/beach_events.rpy:3288
 translate ukrainian shika_beach_H_e6b0f58b:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghgnh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghgnh!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghgnh!" with vpunch
 
 # game/game/beach_events.rpy:3289
 translate ukrainian shika_beach_H_ff948d36:
@@ -12489,7 +12489,7 @@ translate ukrainian shika_beach_H_1b166c1b:
 translate ukrainian shika_beach_H_30a23e65:
 
     # s "You can lift me up with just your head?!"
-    s "You can lift me up with just your head?!"
+    s "You can lift me up with just your head?!" with hpunch
 
 # game/game/beach_events.rpy:3293
 translate ukrainian shika_beach_H_aa318b3b:
@@ -12501,19 +12501,19 @@ translate ukrainian shika_beach_H_aa318b3b:
 translate ukrainian shika_beach_H_8bfdd746:
 
     # ma "{sc=2}{outlinecolor=#000000}{size=-8}He's drowning!"
-    ma "{sc=2}{outlinecolor=#000000}{size=-8}He's drowning!"
+    ma "{sc=2}{outlinecolor=#000000}{size=-8}He's drowning!" with hpunch
 
 # game/game/beach_events.rpy:3304
 translate ukrainian shika_beach_H_98493507:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Uegh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Uegh!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Uegh!" (multiple=2)
 
 # game/game/beach_events.rpy:3305
 translate ukrainian shika_beach_H_a0ba412c:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}Ah!"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}Ah!"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}Ah!" (multiple=2)
 
 # game/game/beach_events.rpy:3308
 translate ukrainian shika_beach_H_60ce5d1b:
@@ -12537,7 +12537,7 @@ translate ukrainian shika_beach_H_e1554201_2:
 translate ukrainian shika_beach_H_65d1fb14:
 
     # ma "Don't worry! I'm here!"
-    ma "Don't worry! I'm here!"
+    ma "Don't worry! I'm here!" with hpunch
 
 # game/game/beach_events.rpy:3323
 translate ukrainian shika_beach_H_595fa5ba:
@@ -13053,7 +13053,7 @@ translate ukrainian mayu_beach_H_592fefa6:
 translate ukrainian mayu_beach_H_c8ee06e2:
 
     # mc "Eh!"
-    mc "Eh!"
+    mc "Eh!" with cumflash
 
 # game/game/beach_events.rpy:3442
 translate ukrainian mayu_beach_H_48e79381:
@@ -13131,7 +13131,7 @@ translate ukrainian mayu_beach_H_cde2ff37:
 translate ukrainian mayu_beach_H_2ecbf8ec:
 
     # ma "Gnhmg~{image=corazon}{image=corazon}"
-    ma "Gnhmg~{image=corazon}{image=corazon}"
+    ma "Gnhmg~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/beach_events.rpy:3457
 translate ukrainian mayu_beach_H_1546bd93:
@@ -13143,7 +13143,7 @@ translate ukrainian mayu_beach_H_1546bd93:
 translate ukrainian mayu_beach_H_f04fdd9e:
 
     # t "H-How many more times is this girl going to cum?!"
-    t "H-How many more times is this girl going to cum?!"
+    t "H-How many more times is this girl going to cum?!" with cumflash
 
 # game/game/beach_events.rpy:3459
 translate ukrainian mayu_beach_H_6f962a7a:
@@ -13179,7 +13179,7 @@ translate ukrainian mayu_beach_H_69a3fe29:
 translate ukrainian mayu_beach_H_36afbe1f:
 
     # mc "But I want to come too!"
-    mc "But I want to come too!"
+    mc "But I want to come too!" with hpunch
 
 # game/game/beach_events.rpy:3467
 translate ukrainian mayu_beach_H_ba215b31:
@@ -13197,13 +13197,13 @@ translate ukrainian mayu_beach_H_cdfc9e0a:
 translate ukrainian mayu_beach_H_7caad958:
 
     # ma "{sc=2}{outlinecolor=#000000}{size=-8}HNgmhgnm~{image=corazon}{image=corazon}{image=corazon}"
-    ma "{sc=2}{outlinecolor=#000000}{size=-8}HNgmhgnm~{image=corazon}{image=corazon}{image=corazon}"
+    ma "{sc=2}{outlinecolor=#000000}{size=-8}HNgmhgnm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/beach_events.rpy:3471
 translate ukrainian mayu_beach_H_41406055:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghn!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghn!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghn!" with cumflash
 
 # game/game/beach_events.rpy:3472
 translate ukrainian mayu_beach_H_2cbc1750:
@@ -13263,25 +13263,25 @@ translate ukrainian mayu_beach_H_39b785ed:
 translate ukrainian mayu_beach_H_5c6657e7:
 
     # ma "{sc=2}{outlinecolor=#000000}{size=-8}AnGNhm~{image=corazon}{image=corazon}{image=corazon}"
-    ma "{sc=2}{outlinecolor=#000000}{size=-8}AnGNhm~{image=corazon}{image=corazon}{image=corazon}"
+    ma "{sc=2}{outlinecolor=#000000}{size=-8}AnGNhm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/beach_events.rpy:3489
 translate ukrainian mayu_beach_H_d9b1f5bf:
 
     # ma "{sc=2}{outlinecolor=#000000}{size=-8}AaAaaaaAhnMnm~{image=corazon}{image=corazon}{image=corazon}"
-    ma "{sc=2}{outlinecolor=#000000}{size=-8}AaAaaaaAhnMnm~{image=corazon}{image=corazon}{image=corazon}"
+    ma "{sc=2}{outlinecolor=#000000}{size=-8}AaAaaaaAhnMnm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/beach_events.rpy:3495
 translate ukrainian mayu_beach_H_64f567c1:
 
     # ma "{sc=2}{outlinecolor=#000000}{size=-8}MnhMHNnmHNm~{image=corazon}{image=corazon}{image=corazon}"
-    ma "{sc=2}{outlinecolor=#000000}{size=-8}MnhMHNnmHNm~{image=corazon}{image=corazon}{image=corazon}"
+    ma "{sc=2}{outlinecolor=#000000}{size=-8}MnhMHNnmHNm~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/beach_events.rpy:3496
 translate ukrainian mayu_beach_H_a9706e1a:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}M-Mayu!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}M-Mayu!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}M-Mayu!" (multiple=2)
 
 # game/game/beach_events.rpy:3498
 translate ukrainian mayu_beach_H_2270bc81:
@@ -13365,25 +13365,25 @@ translate ukrainian mayu_beach_H_8977f2ff:
 translate ukrainian mayu_beach_H_d23ad116:
 
     # to "Ready~"
-    to "Ready~"
+    to "Ready~" (multiple=2)
 
 # game/game/beach_events.rpy:3531
 translate ukrainian mayu_beach_H_8c84ae3a:
 
     # y "Yes."
-    y "Yes."
+    y "Yes." (multiple=2)
 
 # game/game/beach_events.rpy:3533
 translate ukrainian mayu_beach_H_ec03c7a2:
 
     # s "Yees~"
-    s "Yees~"
+    s "Yees~" (multiple=2)
 
 # game/game/beach_events.rpy:3534
 translate ukrainian mayu_beach_H_9d00ec0e:
 
     # r "Ready!"
-    r "Ready!"
+    r "Ready!" (multiple=2)
 
 # game/game/beach_events.rpy:3536
 translate ukrainian mayu_beach_H_e2f6b751:
@@ -13449,7 +13449,7 @@ translate ukrainian mayu_beach_H_3d15ab4b:
 translate ukrainian mayu_beach_H_32c3092f:
 
     # ma "Come on, say a few words, leader!"
-    ma "Come on, say a few words, leader!"
+    ma "Come on, say a few words, leader!" with hpunch
 
 # game/game/beach_events.rpy:3552
 translate ukrainian mayu_beach_H_c14c584c:
@@ -13491,13 +13491,13 @@ translate ukrainian mayu_beach_H_5f87107e:
 translate ukrainian mayu_beach_H_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/beach_events.rpy:3561
 translate ukrainian mayu_beach_H_da7b5ed9:
 
     # ev "{sc=2}{outlinecolor=#000000}{size=-8}Hahaha~"
-    ev "{sc=2}{outlinecolor=#000000}{size=-8}Hahaha~"
+    ev "{sc=2}{outlinecolor=#000000}{size=-8}Hahaha~" with vpunch
 
 # game/game/beach_events.rpy:3563
 translate ukrainian mayu_beach_H_fe8b54b0:

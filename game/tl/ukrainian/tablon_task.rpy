@@ -1,359 +1,359 @@
-
-# game/game/tablon_task.rpy:223
+﻿
+# game/game/tablon_task.rpy:438
 translate ukrainian tablon_screen_123d8d57:
 
     # na "Looking for missions? Take a look~"
     na "Looking for missions? Take a look~"
 
-# game/game/tablon_task.rpy:363
+# game/game/tablon_task.rpy:700
 translate ukrainian natsuki_mission_acept_7a906fce:
 
     # na "Apples? That girl really likes wild apples."
     na "Apples? That girl really likes wild apples."
 
-# game/game/tablon_task.rpy:364
+# game/game/tablon_task.rpy:701
 translate ukrainian natsuki_mission_acept_6586ab06:
 
     # na "I don't blame her, {w=0.5}they are very delicious."
     na "I don't blame her, {w=0.5}they are very delicious."
 
-# game/game/tablon_task.rpy:365
+# game/game/tablon_task.rpy:702
 translate ukrainian natsuki_mission_acept_02f20c49:
 
     # mc "Sounds quick and easy, where is that apple orchard?"
     mc "Sounds quick and easy, where is that apple orchard?"
 
-# game/game/tablon_task.rpy:367
+# game/game/tablon_task.rpy:704
 translate ukrainian natsuki_mission_acept_68b68517:
 
     # na "It is at the exit of the village, {w}it doesn't have the protection of the barrier so be careful."
     na "It is at the exit of the village, {w}it doesn't have the protection of the barrier so be careful."
 
-# game/game/tablon_task.rpy:368
+# game/game/tablon_task.rpy:705
 translate ukrainian natsuki_mission_acept_532b9a59:
 
     # na "Watch out for monsters."
     na "Watch out for monsters."
 
-# game/game/tablon_task.rpy:370
+# game/game/tablon_task.rpy:707
 translate ukrainian natsuki_mission_acept_e29c66e0:
 
     # mc "Don't worry, I'm only an E-rank."
     mc "Don't worry, I'm only an E-rank."
 
-# game/game/tablon_task.rpy:371
+# game/game/tablon_task.rpy:708
 translate ukrainian natsuki_mission_acept_b8b74fcd:
 
     # mc "I will not fight strong monsters in secret."
     mc "I will not fight strong monsters in secret."
 
-# game/game/tablon_task.rpy:373
+# game/game/tablon_task.rpy:710
 translate ukrainian natsuki_mission_acept_e5336e26:
 
     # na "Huh."
     na "Huh."
 
-# game/game/tablon_task.rpy:374
+# game/game/tablon_task.rpy:711
 translate ukrainian natsuki_mission_acept_080fd43b:
 
     # na "Of course you won't, hahaha~{image=corazon}"
     na "Of course you won't, hahaha~{image=corazon}"
 
-# game/game/tablon_task.rpy:376
+# game/game/tablon_task.rpy:713
 translate ukrainian natsuki_mission_acept_d73b0f82:
 
     # na "Come here, give me your map."
     na "Come here, give me your map."
 
-# game/game/tablon_task.rpy:380
+# game/game/tablon_task.rpy:717
 translate ukrainian natsuki_mission_acept_1550f00f:
 
     # na "Oh, right, it's a pity what happened to her traps."
     na "Oh, right, it's a pity what happened to her traps."
 
-# game/game/tablon_task.rpy:381
+# game/game/tablon_task.rpy:718
 translate ukrainian natsuki_mission_acept_c90c2742:
 
     # na "Sometimes she shares with me what she hunts, she is very kind."
     na "Sometimes she shares with me what she hunts, she is very kind."
 
-# game/game/tablon_task.rpy:382
+# game/game/tablon_task.rpy:719
 translate ukrainian natsuki_mission_acept_eb6a7337:
 
     # mc "Will any type of stick work?"
     mc "Will any type of stick work?"
 
-# game/game/tablon_task.rpy:384
+# game/game/tablon_task.rpy:721
 translate ukrainian natsuki_mission_acept_f712a543:
 
     # na "Of course."
     na "Of course."
 
-# game/game/tablon_task.rpy:385
+# game/game/tablon_task.rpy:722
 translate ukrainian natsuki_mission_acept_a7bcf340:
 
     # mc "I see..."
     mc "I see..."
 
-# game/game/tablon_task.rpy:386
+# game/game/tablon_task.rpy:723
 translate ukrainian natsuki_mission_acept_a76f3af1:
 
     # mc "When will I be able to do bigger things?"
     mc "When will I be able to do bigger things?"
 
-# game/game/tablon_task.rpy:388
+# game/game/tablon_task.rpy:725
 translate ukrainian natsuki_mission_acept_68d7cf5d:
 
     # na "Patience, my reckless adventurer~{image=corazon}"
     na "Patience, my reckless adventurer~{image=corazon}"
 
-# game/game/tablon_task.rpy:390
+# game/game/tablon_task.rpy:727
 translate ukrainian natsuki_mission_acept_d56acfc7:
 
     # na "You help me a lot by accepting these missions~"
     na "You help me a lot by accepting these missions~"
 
-# game/game/tablon_task.rpy:394
+# game/game/tablon_task.rpy:731
 translate ukrainian natsuki_mission_acept_f1a2356b:
 
     # na "Fish?"
     na "Fish?"
 
-# game/game/tablon_task.rpy:395
+# game/game/tablon_task.rpy:732
 translate ukrainian natsuki_mission_acept_f77c54ec:
 
     # na "Sure, good luck with that."
     na "Sure, good luck with that."
 
-# game/game/tablon_task.rpy:400
+# game/game/tablon_task.rpy:737
 translate ukrainian natsuki_mission_acept_57301bf8:
 
     # mc "Can I do this mission now?"
     mc "Can I do this mission now?"
 
-# game/game/tablon_task.rpy:401
+# game/game/tablon_task.rpy:738
 translate ukrainian natsuki_mission_acept_587be0b9:
 
     # na "Oh? Do you plan to get rid of the slimes?"
     na "Oh? Do you plan to get rid of the slimes?"
 
-# game/game/tablon_task.rpy:402
+# game/game/tablon_task.rpy:739
 translate ukrainian natsuki_mission_acept_41985cbe:
 
     # mc "Yes, are they weak?"
     mc "Yes, are they weak?"
 
-# game/game/tablon_task.rpy:404
+# game/game/tablon_task.rpy:741
 translate ukrainian natsuki_mission_acept_bec9e9aa:
 
     # na "Of course, but they are annoying and very slimy, that's why no one accepts slime missions."
     na "Of course, but they are annoying and very slimy, that's why no one accepts slime missions."
 
-# game/game/tablon_task.rpy:405
+# game/game/tablon_task.rpy:742
 translate ukrainian natsuki_mission_acept_a6342ae2:
 
     # mc "Annoying? Why?"
     mc "Annoying? Why?"
 
-# game/game/tablon_task.rpy:407
+# game/game/tablon_task.rpy:744
 translate ukrainian natsuki_mission_acept_b37c4c02:
 
     # na "They don't do much damage, but they can regenerate."
     na "They don't do much damage, but they can regenerate."
 
-# game/game/tablon_task.rpy:408
+# game/game/tablon_task.rpy:745
 translate ukrainian natsuki_mission_acept_0c918736:
 
     # na "By the time you finish killing them, all your equipment is full of slime."
     na "By the time you finish killing them, all your equipment is full of slime."
 
-# game/game/tablon_task.rpy:409
+# game/game/tablon_task.rpy:746
 translate ukrainian natsuki_mission_acept_93deaf69:
 
     # mc "Ah..."
     mc "Ah..."
 
-# game/game/tablon_task.rpy:411
+# game/game/tablon_task.rpy:748
 translate ukrainian natsuki_mission_acept_244a3799:
 
     # na "That place is a bit far from here but it is a zone of weak monsters."
     na "That place is a bit far from here but it is a zone of weak monsters."
 
-# game/game/tablon_task.rpy:412
+# game/game/tablon_task.rpy:749
 translate ukrainian natsuki_mission_acept_f255c531:
 
     # na "Just don't fall in the water, every slime will jump on you."
     na "Just don't fall in the water, every slime will jump on you."
 
-# game/game/tablon_task.rpy:414
+# game/game/tablon_task.rpy:751
 translate ukrainian natsuki_mission_acept_03497366:
 
     # na "I have heard stories of novice adventurers who died choking to death from slimes."
     na "I have heard stories of novice adventurers who died choking to death from slimes."
 
-# game/game/tablon_task.rpy:415
+# game/game/tablon_task.rpy:752
 translate ukrainian natsuki_mission_acept_413caaf7:
 
     # mc "Just what I wanted to hear... {w}thanks for the advice."
     mc "Just what I wanted to hear... {w}thanks for the advice."
 
-# game/game/tablon_task.rpy:416
+# game/game/tablon_task.rpy:753
 translate ukrainian natsuki_mission_acept_b4e364ce:
 
     # na "No problem~{image=corazon}"
     na "No problem~{image=corazon}"
 
-# game/game/tablon_task.rpy:418
+# game/game/tablon_task.rpy:755
 translate ukrainian natsuki_mission_acept_29f5c1dc:
 
     # na "Since I don't want you to start your first monster mission wrong, let me give you a gift."
     na "Since I don't want you to start your first monster mission wrong, let me give you a gift."
 
-# game/game/tablon_task.rpy:419
+# game/game/tablon_task.rpy:756
 translate ukrainian natsuki_mission_acept_87952c1f:
 
     # mc "Gift?"
     mc "Gift?"
 
-# game/game/tablon_task.rpy:421
+# game/game/tablon_task.rpy:758
 translate ukrainian natsuki_mission_acept_f2e8966f:
 
     # na "Yes, you will start using many of these from now on."
     na "Yes, you will start using many of these from now on."
 
-# game/game/tablon_task.rpy:422
+# game/game/tablon_task.rpy:759
 translate ukrainian natsuki_mission_acept_edf4db52:
 
     # mc "Healing potions?"
     mc "Healing potions?"
 
-# game/game/tablon_task.rpy:423
+# game/game/tablon_task.rpy:760
 translate ukrainian natsuki_mission_acept_12e998d0:
 
     # mc "There are so many, I can't accept them..."
     mc "There are so many, I can't accept them..."
 
-# game/game/tablon_task.rpy:425
+# game/game/tablon_task.rpy:762
 translate ukrainian natsuki_mission_acept_ea1db088:
 
     # na "If you don't receive them, I will be very worried..."
     na "If you don't receive them, I will be very worried..."
 
-# game/game/tablon_task.rpy:426
+# game/game/tablon_task.rpy:763
 translate ukrainian natsuki_mission_acept_93deaf69_1:
 
     # mc "Ah..."
     mc "Ah..."
 
-# game/game/tablon_task.rpy:427
+# game/game/tablon_task.rpy:764
 translate ukrainian natsuki_mission_acept_2183ccc8:
 
     # na "Hahaha, Iris is the one who makes these potions, if she opens her store, you can buy from her."
     na "Hahaha, Iris is the one who makes these potions, if she opens her store, you can buy from her."
 
-# game/game/tablon_task.rpy:428
+# game/game/tablon_task.rpy:765
 translate ukrainian natsuki_mission_acept_d4123778:
 
     # mc "All right, thanks Natsuki."
     mc "All right, thanks Natsuki."
 
-# game/game/tablon_task.rpy:431
+# game/game/tablon_task.rpy:768
 translate ukrainian natsuki_mission_acept_6c4370bc:
 
     # na "Maah~{image=corazon}"
     na "Maah~{image=corazon}"
 
-# game/game/tablon_task.rpy:432
+# game/game/tablon_task.rpy:769
 translate ukrainian natsuki_mission_acept_c07fcade:
 
     # na "I will tell Yumeko and Aoi that you accepted the mission, they will be happy."
     na "I will tell Yumeko and Aoi that you accepted the mission, they will be happy."
 
-# game/game/tablon_task.rpy:433
+# game/game/tablon_task.rpy:770
 translate ukrainian natsuki_mission_acept_04c1ae50:
 
     # na "Give me your map, this is the possible location where they should be gathered."
     na "Give me your map, this is the possible location where they should be gathered."
 
-# game/game/tablon_task.rpy:434
+# game/game/tablon_task.rpy:771
 translate ukrainian natsuki_mission_acept_299bad0b:
 
     # mc "I will go right away."
     mc "I will go right away."
 
-# game/game/tablon_task.rpy:435
+# game/game/tablon_task.rpy:772
 translate ukrainian natsuki_mission_acept_b1a61b31:
 
     # na "Byebye~{image=corazon}"
     na "Byebye~{image=corazon}"
 
-# game/game/tablon_task.rpy:442
+# game/game/tablon_task.rpy:779
 translate ukrainian natsuki_mission_acept_270f5739:
 
     # na "Are you going to help her?"
     na "Are you going to help her?"
 
-# game/game/tablon_task.rpy:443
+# game/game/tablon_task.rpy:780
 translate ukrainian natsuki_mission_acept_e234ef4e:
 
     # mc "Yes, it looks like an easy job, and she says she will reward me better depending on how I do it."
     mc "Yes, it looks like an easy job, and she says she will reward me better depending on how I do it."
 
-# game/game/tablon_task.rpy:445
+# game/game/tablon_task.rpy:782
 translate ukrainian natsuki_mission_acept_5ec27830:
 
     # na "Are you sure? {w}She'll make you carry all the heavy stuff."
     na "Are you sure? {w}She'll make you carry all the heavy stuff."
 
-# game/game/tablon_task.rpy:446
+# game/game/tablon_task.rpy:783
 translate ukrainian natsuki_mission_acept_b16c7628:
 
     # na "Which is usually everything."
     na "Which is usually everything."
 
-# game/game/tablon_task.rpy:447
+# game/game/tablon_task.rpy:784
 translate ukrainian natsuki_mission_acept_2f3f0898:
 
     # mc "I'm confident in my strength and endurance."
     mc "I'm confident in my strength and endurance."
 
-# game/game/tablon_task.rpy:449
+# game/game/tablon_task.rpy:786
 translate ukrainian natsuki_mission_acept_98bbdc3b:
 
     # mc "How bad can it be?"
     mc "How bad can it be?"
 
-# game/game/tablon_task.rpy:450
+# game/game/tablon_task.rpy:787
 translate ukrainian natsuki_mission_acept_0c7f2035:
 
     # na "..."
     na "..."
 
-# game/game/tablon_task.rpy:451
+# game/game/tablon_task.rpy:788
 translate ukrainian natsuki_mission_acept_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/tablon_task.rpy:452
+# game/game/tablon_task.rpy:789
 translate ukrainian natsuki_mission_acept_962ceed0:
 
     # mc "Natsuki...?"
     mc "Natsuki...?"
 
-# game/game/tablon_task.rpy:454
+# game/game/tablon_task.rpy:791
 translate ukrainian natsuki_mission_acept_2a1df550:
 
     # na "She will be waiting for you every {color=#FCDEB3}morning{/color} near the {color=#FCDEB3}Sakura tree{/color}."
     na "She will be waiting for you every {color=#FCDEB3}morning{/color} near the {color=#FCDEB3}Sakura tree{/color}."
 
-# game/game/tablon_task.rpy:455
+# game/game/tablon_task.rpy:792
 translate ukrainian natsuki_mission_acept_ab5a6440:
 
     # na "Good luck, don't give her too much trust or she will jump on you."
     na "Good luck, don't give her too much trust or she will jump on you."
 
-# game/game/tablon_task.rpy:456
+# game/game/tablon_task.rpy:793
 translate ukrainian natsuki_mission_acept_9540f1ca:
 
     # mc "{size=-6}What is she, a dog...?"

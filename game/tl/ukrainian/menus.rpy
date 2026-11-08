@@ -1,11 +1,11 @@
-
-# game/game/menus.rpy:175
+﻿
+# game/game/menus.rpy:178
 translate ukrainian name_change_274965fb:
 
     # "Do you want to change your name?"
     "Бажаєш змінити ім'я?"
 
-# game/game/menus.rpy:188
+# game/game/menus.rpy:191
 translate ukrainian name_change_cee18412:
 
     # "From now on you will be called [mc_name]."

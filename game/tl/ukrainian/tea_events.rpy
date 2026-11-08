@@ -195,7 +195,7 @@ translate ukrainian akane_tea_1_424c55de:
 translate ukrainian akane_tea_1_5b1353f3:
 
     # ak "Mnm!"
-    ak "Mnm!"
+    ak "Mnm!" with hpunch
 
 # game/game/tea_events.rpy:104
 translate ukrainian akane_tea_1_fb2e5377:
@@ -333,7 +333,7 @@ translate ukrainian akane_tea_1_6231a275:
 translate ukrainian akane_horny1_ab5c3c3b:
 
     # mc "{sc=3}{outlinecolor=#000000}Hnnm!?"
-    mc "{sc=3}{outlinecolor=#000000}Hnnm!?"
+    mc "{sc=3}{outlinecolor=#000000}Hnnm!?" with vpunch
 
 # game/game/tea_events.rpy:163
 translate ukrainian akane_horny1_e4fcc1c5:
@@ -453,7 +453,7 @@ translate ukrainian akane_horny1_f407881b:
 translate ukrainian akane_horny1_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/tea_events.rpy:188
 translate ukrainian akane_horny1_e83e6d33:
@@ -555,7 +555,7 @@ translate ukrainian akane_horny1_1b96bb55:
 translate ukrainian akane_horny1_8a8f4135:
 
     # mc "I'm-"
-    mc "I'm-"
+    mc "I'm-" with hpunch
 
 # game/game/tea_events.rpy:207
 translate ukrainian akane_horny1_d20179c7:
@@ -633,7 +633,7 @@ translate ukrainian akane_horny1_709c1a81:
 translate ukrainian akane_horny1_17562f5d:
 
     # mc "{size=-6}I-I'm about t-to-"
-    mc "{size=-6}I-I'm about t-to-"
+    mc "{size=-6}I-I'm about t-to-" with cumflash
 
 # game/game/tea_events.rpy:220
 translate ukrainian akane_horny1_4cc1cc84:
@@ -663,7 +663,7 @@ translate ukrainian akane_horny1_e75bb647:
 translate ukrainian akane_horny1_56b67dc1:
 
     # mc "{sc=3}{outlinecolor=#000000}Gnhm!"
-    mc "{sc=3}{outlinecolor=#000000}Gnhm!"
+    mc "{sc=3}{outlinecolor=#000000}Gnhm!" with cumflash
 
 # game/game/tea_events.rpy:225
 translate ukrainian akane_horny1_b7eff0e5:
@@ -687,7 +687,7 @@ translate ukrainian akane_horny1_76246643:
 translate ukrainian akane_horny1_7dc357bc:
 
     # mc "Ghghn!"
-    mc "Ghghn!"
+    mc "Ghghn!" with hpunch
 
 # game/game/tea_events.rpy:237
 translate ukrainian akane_horny1_4dbf2db4:
@@ -771,7 +771,7 @@ translate ukrainian akane_horny2_1adc318f:
 translate ukrainian akane_horny2_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/tea_events.rpy:275
 translate ukrainian akane_horny2_ed81fe53:
@@ -807,7 +807,7 @@ translate ukrainian akane_horny2_29006f82:
 translate ukrainian akane_horny2_f111bc1e:
 
     # ak "W-Why am I so wet?~{image=corazon}"
-    ak "W-Why am I so wet?~{image=corazon}"
+    ak "W-Why am I so wet?~{image=corazon}" with cumflash
 
 # game/game/tea_events.rpy:283
 translate ukrainian akane_horny2_59195fa6:
@@ -957,7 +957,7 @@ translate ukrainian akane_horny2_bf8c4701:
 translate ukrainian akane_horny2_15d78e13:
 
     # mc "{sc=3}{outlinecolor=#000000}Wh- Akane?!"
-    mc "{sc=3}{outlinecolor=#000000}Wh- Akane?!"
+    mc "{sc=3}{outlinecolor=#000000}Wh- Akane?!" with hpunch
 
 # game/game/tea_events.rpy:319
 translate ukrainian akane_horny2_2959a032:
@@ -981,13 +981,13 @@ translate ukrainian akane_horny2_875759fb:
 translate ukrainian akane_horny2_9e5cec41:
 
     # t "S-She's slamming her hips against mine!"
-    t "S-She's slamming her hips against mine!"
+    t "S-She's slamming her hips against mine!" with hpunch
 
 # game/game/tea_events.rpy:325
 translate ukrainian akane_horny2_d5d3ce28:
 
     # ak "Hannmngnm~{image=corazon} {w}Aaaaghn~{image=corazon} {w}Mmgngm!~{image=corazon}{image=corazon}"
-    ak "Hannmngnm~{image=corazon} {w}Aaaaghn~{image=corazon} {w}Mmgngm!~{image=corazon}{image=corazon}"
+    ak "Hannmngnm~{image=corazon} {w}Aaaaghn~{image=corazon} {w}Mmgngm!~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/tea_events.rpy:326
 translate ukrainian akane_horny2_ad44f219:
@@ -1023,7 +1023,7 @@ translate ukrainian akane_horny2_09a7ba17:
 translate ukrainian akane_horny2_6384feba:
 
     # mc "W-Wait! {w}If this c-continues, {w}I'm going to c-"
-    mc "W-Wait! {w}If this c-continues, {w}I'm going to c-"
+    mc "W-Wait! {w}If this c-continues, {w}I'm going to c-" with cumflash
 
 # game/game/tea_events.rpy:332
 translate ukrainian akane_horny2_93e807b8:
@@ -1059,13 +1059,13 @@ translate ukrainian akane_horny2_6d71a63e:
 translate ukrainian akane_horny2_e07bbbac:
 
     # mc "Gnhghm!"
-    mc "Gnhghm!"
+    mc "Gnhghm!" (mutliple=2)
 
 # game/game/tea_events.rpy:345
 translate ukrainian akane_horny2_49afc327:
 
     # ak "{sc=3}{outlinecolor=#000000}Ogghohnmnm!~{image=corazon}{image=corazon}{image=corazon}"
-    ak "{sc=3}{outlinecolor=#000000}Ogghohnmnm!~{image=corazon}{image=corazon}{image=corazon}"
+    ak "{sc=3}{outlinecolor=#000000}Ogghohnmnm!~{image=corazon}{image=corazon}{image=corazon}" (mutliple=2)
 
 # game/game/tea_events.rpy:347
 translate ukrainian akane_horny2_39d70e7b:
@@ -1083,7 +1083,7 @@ translate ukrainian akane_horny2_1239806e:
 translate ukrainian akane_horny2_6c1d47ce:
 
     # mc "{sc=3}{outlinecolor=#000000}GNhgm!"
-    mc "{sc=3}{outlinecolor=#000000}GNhgm!"
+    mc "{sc=3}{outlinecolor=#000000}GNhgm!" with vpunch
 
 # game/game/tea_events.rpy:352
 translate ukrainian akane_horny2_b2d1bc19:
@@ -1113,7 +1113,7 @@ translate ukrainian akane_horny2_d2a8013f:
 translate ukrainian akane_horny2_a45532ad:
 
     # mc "Eh?!"
-    mc "Eh?!"
+    mc "Eh?!" with vpunch
 
 # game/game/tea_events.rpy:362
 translate ukrainian akane_horny2_ff896869:
@@ -1131,7 +1131,7 @@ translate ukrainian akane_horny2_14aa789f:
 translate ukrainian akane_horny2_57f30f56:
 
     # mc "H-Have mercy!"
-    mc "H-Have mercy!"
+    mc "H-Have mercy!" with hpunch
 
 # game/game/tea_events.rpy:368
 translate ukrainian akane_horny2_a72a858f:
@@ -1215,7 +1215,7 @@ translate ukrainian akane_horny2_a7d0e47c:
 translate ukrainian akane_horny2_86918bce:
 
     # mc "{sc=3}{outlinecolor=#000000}GHhm!"
-    mc "{sc=3}{outlinecolor=#000000}GHhm!"
+    mc "{sc=3}{outlinecolor=#000000}GHhm!" with hpunch
 
 # game/game/tea_events.rpy:389
 translate ukrainian akane_horny2_2ffd54ac:
@@ -1227,13 +1227,13 @@ translate ukrainian akane_horny2_2ffd54ac:
 translate ukrainian akane_horny2_f74d3b01:
 
     # mc "{sc=3}{outlinecolor=#000000}Hhngn!"
-    mc "{sc=3}{outlinecolor=#000000}Hhngn!"
+    mc "{sc=3}{outlinecolor=#000000}Hhngn!" with hpunch
 
 # game/game/tea_events.rpy:396
 translate ukrainian akane_horny2_a7598f62:
 
     # ak "There it is!~{image=corazon}{image=corazon}{image=corazon}"
-    ak "There it is!~{image=corazon}{image=corazon}{image=corazon}"
+    ak "There it is!~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/tea_events.rpy:400
 translate ukrainian akane_horny2_b1805c96:
@@ -1275,7 +1275,7 @@ translate ukrainian akane_horny2_ffae7d4a:
 translate ukrainian akane_horny2_e9ee7796_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/tea_events.rpy:410
 translate ukrainian akane_horny2_5946fced:

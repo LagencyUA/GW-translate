@@ -1,5 +1,5 @@
-
-# game/game/map_ST.rpy:638
+﻿
+# game/game/map_ST.rpy:641
 translate ukrainian ST_onsen_c572df9f:
 
     # mc "It is closed."

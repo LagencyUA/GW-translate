@@ -33,13 +33,13 @@ translate ukrainian first_goddes_world_f6b2ef89:
 translate ukrainian first_goddes_world_c4771b02:
 
     # a "...!"
-    a "...!"
+    a "...!" with hpunch
 
 # game/game/god_world.rpy:162
 translate ukrainian first_goddes_world_84d7eff0:
 
     # a "{size=-10}What are you doing here!"
-    a "{size=-10}What are you doing here!"
+    a "{size=-10}What are you doing here!" with vpunch
 
 # game/game/god_world.rpy:169
 translate ukrainian first_goddes_world_f55e6501:
@@ -189,7 +189,7 @@ translate ukrainian first_goddes_world_4a71aa96:
 translate ukrainian first_goddes_world_e4b6f8d4:
 
     # hi "Shut up! {w}You don't know me!"
-    hi "Shut up! {w}You don't know me!"
+    hi "Shut up! {w}You don't know me!" with vpunch
 
 # game/game/god_world.rpy:212
 translate ukrainian first_goddes_world_d8b75eb5:
@@ -375,7 +375,7 @@ translate ukrainian first_goddes_world_fc9984cb:
 translate ukrainian first_goddes_world_c0f14fbc:
 
     # fu "{size=-10}Haanm!"
-    fu "{size=-10}Haanm!"
+    fu "{size=-10}Haanm!" with hpunch
 
 # game/game/god_world.rpy:265
 translate ukrainian first_goddes_world_709490e4:
@@ -405,7 +405,7 @@ translate ukrainian first_goddes_world_5c090e89:
 translate ukrainian first_goddes_world_1d74bcdc:
 
     # k "AHEMN*"
-    k "AHEMN*"
+    k "AHEMN*" with vpunch
 
 # game/game/god_world.rpy:273
 translate ukrainian first_goddes_world_1d82a7e7:
@@ -585,13 +585,13 @@ translate ukrainian first_goddes_world_2ab9a7fe:
 translate ukrainian first_goddes_world_ac2047b4:
 
     # k "Moooh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Moooh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Moooh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/god_world.rpy:325
 translate ukrainian first_goddes_world_62aa97f3:
 
     # fu "K-Keiko!"
-    fu "K-Keiko!"
+    fu "K-Keiko!" with hpunch
 
 # game/game/god_world.rpy:326
 translate ukrainian first_goddes_world_b0f3d1b1:
@@ -615,7 +615,7 @@ translate ukrainian first_goddes_world_060d4e6f:
 translate ukrainian first_goddes_world_1337bf42:
 
     # fu "K-Keiko! {w}Don't touch me there!"
-    fu "K-Keiko! {w}Don't touch me there!"
+    fu "K-Keiko! {w}Don't touch me there!" with vpunch
 
 # game/game/god_world.rpy:332
 translate ukrainian first_goddes_world_3ce35d26:
@@ -651,7 +651,7 @@ translate ukrainian first_goddes_world_3d478ed9:
 translate ukrainian first_goddes_world_143f4ba1:
 
     # fu "Heeeee!"
-    fu "Heeeee!"
+    fu "Heeeee!" with vpunch
 
 # game/game/god_world.rpy:339
 translate ukrainian first_goddes_world_2939ed9c:
@@ -681,7 +681,7 @@ translate ukrainian first_goddes_world_4a00e528:
 translate ukrainian first_goddes_world_4ae472f4:
 
     # fu "Hiiaaaa~~~~~{image=/bg/icons/heart_text.png}"
-    fu "Hiiaaaa~~~~~{image=/bg/icons/heart_text.png}"
+    fu "Hiiaaaa~~~~~{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/god_world.rpy:354
 translate ukrainian first_goddes_world_744a9b07:

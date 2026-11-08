@@ -189,7 +189,7 @@ translate ukrainian shika_spending_1_d7c8f54b:
 translate ukrainian shika_spending_1_6cb92b9a:
 
     # s "Ta raa! {w}Here I come to sleep."
-    s "Та-да! {w}Сюди я приходжу, щоб подрімати."
+    s "Та-да! {w}Сюди я приходжу, щоб подрімати." with vpunch
 
 # game/game/shika_events.rpy:106
 translate ukrainian shika_spending_1_4e2a2214:
@@ -243,7 +243,7 @@ translate ukrainian shika_spending_1_d9332f69:
 translate ukrainian shika_spending_1_34f40d61:
 
     # s "Kya! {w}D-Don't breathe like that..."
-    s "Кя! {w}Н-Не дмухай так..."
+    s "Кя! {w}Н-Не дмухай так..." with vpunch
 
 # game/game/shika_events.rpy:128
 translate ukrainian shika_spending_1_cc53648b:
@@ -273,7 +273,7 @@ translate ukrainian shika_spending_1_2e4ad3db:
 translate ukrainian shika_spending_1_d1821d7c:
 
     # s "Kya! {size=-10}{w}D-Don't talk..."
-    s "Кя! {size=-10}{w}Н-Не говори..."
+    s "Кя! {size=-10}{w}Н-Не говори..." with vpunch
 
 # game/game/shika_events.rpy:138
 translate ukrainian shika_spending_1_cc4f950c:
@@ -291,19 +291,19 @@ translate ukrainian shika_spending_1_f859669c:
 translate ukrainian shika_spending_1_90158a48:
 
     # mc "MMmmMM MMmmM Mmmm!"
-    mc "{i}ММммММ ММммМ Мммм!{/i}"
+    mc "{i}ММммММ ММммМ Мммм!{/i}" with vpunch
 
 # game/game/shika_events.rpy:143
 translate ukrainian shika_spending_1_8cb7ee5f:
 
     # s "I told you not to talk!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    s "Казала ж тобі мовчати!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    s "Казала ж тобі мовчати!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/shika_events.rpy:145
 translate ukrainian shika_spending_1_5063c527:
 
     # mc "I-MMm Can'tmm bre-athe MmMMm."
-    mc "Не-{i}Мм{/i} М-можу-{i}мМ{/i} диха-ти {i}МмММм{/i}."
+    mc "Не-{i}Мм{/i} М-можу-{i}мМ{/i} диха-ти {i}МмММм{/i}." with vpunch
 
 # game/game/shika_events.rpy:146
 translate ukrainian shika_spending_1_33e985f0:
@@ -345,7 +345,7 @@ translate ukrainian shika_spending_1_eb66c1b5:
 translate ukrainian shika_spending_1_7cc4d8bd:
 
     # s "Ahh... [mc]! {w}If you touch me there... {w}I..."
-    s "Ахх... [name_form('voc')]! {w}Якщо продовжиш мене там торкатися... {w}я..."
+    s "Ахх... [name_form('voc')]! {w}Якщо продовжиш мене там торкатися... {w}я..." with hpunch
 
 # game/game/shika_events.rpy:157
 translate ukrainian shika_spending_1_2e5d0507:
@@ -357,7 +357,7 @@ translate ukrainian shika_spending_1_2e5d0507:
 translate ukrainian shika_spending_1_a0e16328:
 
     # s "Aaaahhhh!! ~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    s "Аааахххх!! ~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    s "Аааахххх!! ~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/shika_events.rpy:163
 translate ukrainian shika_spending_1_60ebb922:
@@ -483,7 +483,7 @@ translate ukrainian shika_event_2_e7d69f22:
 translate ukrainian shika_event_2_f4378986:
 
     # s "Hey! {w} What's that supposed to mean?!"
-    s "Гей! {w}Що це взагалі значить?!"
+    s "Гей! {w}Що це взагалі значить?!" with vpunch
 
 # game/game/shika_events.rpy:239
 translate ukrainian shika_event_2_e62ce39a:
@@ -579,7 +579,7 @@ translate ukrainian shika_event_2_6a0b8dfb:
 translate ukrainian shika_event_2_20fbbc42:
 
     # s "No! Wait!"
-    s "Ні! Стривай!"
+    s "Ні! Стривай!" with hpunch
 
 # game/game/shika_events.rpy:266
 translate ukrainian shika_event_2_78f9dcab:
@@ -915,7 +915,7 @@ translate ukrainian shika_event_2_ed862fd2_2:
 translate ukrainian shika_event_2_f0b6f7ed:
 
     # v "Aaah~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    v "Ааах~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    v "Ааах~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/shika_events.rpy:370
 translate ukrainian shika_event_2_7a676061:
@@ -1299,7 +1299,7 @@ translate ukrainian shika_event_2_3e8505ab:
 translate ukrainian shika_event_2_aa3f8f0b:
 
     # mc "Holy Fu-"
-    mc "Ох, їба-"
+    mc "Ох, їба-" with vpunch
 
 # game/game/shika_events.rpy:482
 translate ukrainian shika_event_2_8e8fb440:
@@ -1737,7 +1737,7 @@ translate ukrainian shika_gal1_2b35b6fe_1:
 translate ukrainian shika_gal1_532e28ac:
 
     # s "Kya! {w}Did it get bigger?"
-    s "Кя! {w}Воно збільшилося?"
+    s "Кя! {w}Воно збільшилося?" with vpunch
 
 # game/game/shika_events.rpy:607
 translate ukrainian shika_gal1_c33b515c:
@@ -1773,7 +1773,7 @@ translate ukrainian shika_gal1_2c1a58e2:
 translate ukrainian shika_gal1_31d2b612:
 
     # s "What?!"
-    s "Що?!"
+    s "Що?!" with vpunch
 
 # game/game/shika_events.rpy:619
 translate ukrainian shika_gal1_2b35b6fe_2:
@@ -1809,7 +1809,7 @@ translate ukrainian shika_gal1_4333af03:
 translate ukrainian shika_gal1_eb861028:
 
     # mc "...!!"
-    mc "...!!"
+    mc "...!!" with vpunch
 
 # game/game/shika_events.rpy:630
 translate ukrainian shika_gal1_259c1999:
@@ -1881,7 +1881,7 @@ translate ukrainian shika_gal1_53a339aa:
 translate ukrainian shika_gal1_89faaeb6:
 
     # s "Tell me how to heal myself!"
-    s "Скажи мені, як вилікуватися!"
+    s "Скажи мені, як вилікуватися!" with vpunch
 
 # game/game/shika_events.rpy:644
 translate ukrainian shika_gal1_0d952cd7:
@@ -2121,7 +2121,7 @@ translate ukrainian shika_gal1_5619371d:
 translate ukrainian shika_gal1_508866ec:
 
     # s "Hey!"
-    s "Гей!"
+    s "Гей!" with vpunch
 
 # game/game/shika_events.rpy:688
 translate ukrainian shika_gal1_1d82a7e7:
@@ -2229,7 +2229,7 @@ translate ukrainian shika_gal1_0b91b133:
 translate ukrainian shika_gal1_f65ade9c:
 
     # s "[mc]!!!"
-    s "[name_form('voc')]!!!"
+    s "[name_form('voc')]!!!" with vpunch
 
 # game/game/shika_events.rpy:714
 translate ukrainian shika_gal1_bc7c141c:
@@ -2421,7 +2421,7 @@ translate ukrainian shika_gal1_2b35b6fe_4:
 translate ukrainian shika_gal1_d48a5631:
 
     # mc "What?!"
-    mc "Що?!"
+    mc "Що?!" with vpunch
 
 # game/game/shika_events.rpy:780
 translate ukrainian shika_gal1_acc2adc9:
@@ -2571,7 +2571,7 @@ translate ukrainian shika_horny_ae7b576d:
 translate ukrainian shika_horny_dd4eab99:
 
     # "Shika pushes you into the grass."
-    "Шика штовхає тебе в траву."
+    "Шика штовхає тебе в траву." with vpunch
 
 # game/game/shika_events.rpy:846
 translate ukrainian shika_horny_701d2464:
@@ -2625,7 +2625,7 @@ translate ukrainian shika_horny_cd5a7c4a:
 translate ukrainian shika_horny_508866ec:
 
     # s "Hey!"
-    s "Гей!"
+    s "Гей!" with vpunch
 
 # game/game/shika_events.rpy:862
 translate ukrainian shika_horny_587752f9:
@@ -2763,7 +2763,7 @@ translate ukrainian shika_horny_e054ce99:
 translate ukrainian shika_horny_d6dc65b9:
 
     # s "[mc]{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}!!"
-    s "[name_form('voc')]{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}!!"
+    s "[name_form('voc')]{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}!!" with vpunch
 
 # game/game/shika_events.rpy:895
 translate ukrainian shika_horny_6a8ab5d0:
@@ -2895,13 +2895,13 @@ translate ukrainian shika_mission1_6c0cc829:
 translate ukrainian shika_mission1_a9e95ee5:
 
     # so "Hold it right there."
-    so "Стояти."
+    so "Стояти." (multiple=2)
 
 # game/game/shika_events.rpy:968
 translate ukrainian shika_mission1_dd507abe:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}...!"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}...!"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}...!" (multiple=2)
 
 # game/game/shika_events.rpy:969
 translate ukrainian shika_mission1_d60e4b43:
@@ -2943,19 +2943,19 @@ translate ukrainian shika_mission1_09466469:
 translate ukrainian shika_mission1_4075d599:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}Ho ho ho~"
-    s "{sc=1}{outlinecolor=#000000}{size=-8}Хо-хо-хо~"
+    s "{sc=1}{outlinecolor=#000000}{size=-8}Хо-хо-хо~" with vpunch
 
 # game/game/shika_events.rpy:979
 translate ukrainian shika_mission1_9316abe4:
 
     # v "{size=-8}Hey Shika! Thanks again for the other day!"
-    v "{size=-8}Шико! Ще раз дякую тобі за нещодавню допомогу!"
+    v "{size=-8}Шико! Ще раз дякую тобі за нещодавню допомогу!" (multiple=3)
 
 # game/game/shika_events.rpy:981
 translate ukrainian shika_mission1_f73d8450:
 
     # v "{size=-8}I feel much better now!"
-    v "{size=-8}Мені вже значно краще!"
+    v "{size=-8}Мені вже значно краще!" (multiple=3)
 
 # game/game/shika_events.rpy:984
 translate ukrainian shika_mission1_6bb85655:
@@ -2997,7 +2997,7 @@ translate ukrainian shika_mission1_108c4594:
 translate ukrainian shika_mission1_013c1d20:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}{i}Гхг!{/i}"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}{i}Гхг!{/i}" with hpunch
 
 # game/game/shika_events.rpy:993
 translate ukrainian shika_mission1_02e2d59d:
@@ -3033,13 +3033,13 @@ translate ukrainian shika_mission1_669664cb:
 translate ukrainian shika_mission1_b644fac2:
 
     # so "Ah!~"
-    so "Ах!~"
+    so "Ах!~" (multiple=2)
 
 # game/game/shika_events.rpy:1000
 translate ukrainian shika_mission1_837aba25:
 
     # s "{sc=2}{outlinecolor=#000000}...!"
-    s "{sc=2}{outlinecolor=#000000}...!"
+    s "{sc=2}{outlinecolor=#000000}...!" (multiple=2)
 
 # game/game/shika_events.rpy:1001
 translate ukrainian shika_mission1_1135c06d:
@@ -3099,13 +3099,13 @@ translate ukrainian shika_mission1_8f55ad9d:
 translate ukrainian shika_mission1_dcd2a1a5:
 
     # so "Okay~"
-    so "Добре~"
+    so "Добре~" (multiple=2)
 
 # game/game/shika_events.rpy:1015
 translate ukrainian shika_mission1_e61081ae:
 
     # s "What?!"
-    s "Що?!"
+    s "Що?!" (multiple=2)
 
 # game/game/shika_events.rpy:1017
 translate ukrainian shika_mission1_1ae36ee6:
@@ -3117,7 +3117,7 @@ translate ukrainian shika_mission1_1ae36ee6:
 translate ukrainian shika_mission1_0c4b424f:
 
     # s "Miss soldier, aren't you supposed to be protecting me?!"
-    s "Пані солдатко, хіба ви не маєте мене захищати?!"
+    s "Пані солдатко, хіба ви не маєте мене захищати?!" with hpunch
 
 # game/game/shika_events.rpy:1019
 translate ukrainian shika_mission1_bcd691c7:
@@ -3129,7 +3129,7 @@ translate ukrainian shika_mission1_bcd691c7:
 translate ukrainian shika_mission1_ec0d55ac:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-6}Hyaaaaa~"
-    s "{sc=2}{outlinecolor=#000000}{size=-6}{i}Хяяяяяя~{/i}"
+    s "{sc=2}{outlinecolor=#000000}{size=-6}{i}Хяяяяяя~{/i}" with hpunch
 
 # game/game/shika_events.rpy:1026
 translate ukrainian shika_mission1_976462c2:
@@ -3177,7 +3177,7 @@ translate ukrainian shika_mission1_ef378c45:
 translate ukrainian shika_mission1_d48a5631:
 
     # mc "What?!"
-    mc "Що?!"
+    mc "Що?!" with vpunch
 
 # game/game/shika_events.rpy:1039
 translate ukrainian shika_mission1_fc1321bf:
@@ -3267,7 +3267,7 @@ translate ukrainian shika_mission1_625ec725:
 translate ukrainian shika_mission1_70514fd7:
 
     # s "I still want to go out!"
-    s "Я досі хочу вийти назовні!"
+    s "Я досі хочу вийти назовні!" with vpunch
 
 # game/game/shika_events.rpy:1057
 translate ukrainian shika_mission1_65f8a9ac:
@@ -3291,7 +3291,7 @@ translate ukrainian shika_mission1_00533ffe:
 translate ukrainian shika_mission1_d779d1d6:
 
     # s "What?!"
-    s "Що?!"
+    s "Що?!" with hpunch
 
 # game/game/shika_events.rpy:1062
 translate ukrainian shika_mission1_f67bfe37:
@@ -3375,7 +3375,7 @@ translate ukrainian shika_mission1_3f871f46:
 translate ukrainian shika_mission1_36360df3:
 
     # s "Thanks!~{image=corazon}"
-    s "Дякую!~{image=corazon}"
+    s "Дякую!~{image=corazon}" with vpunch
 
 # game/game/shika_events.rpy:1088
 translate ukrainian shika_mission1_1b1c65df:
@@ -3489,7 +3489,7 @@ translate ukrainian shika_firsth_faaff77a:
 translate ukrainian shika_firsth_18ebcb2d:
 
     # so "..."
-    so "..."
+    so "..." (multiple=2)
 
 # game/game/shika_events.rpy:1131
 translate ukrainian shika_firsth_2b35b6fe:
@@ -3507,13 +3507,13 @@ translate ukrainian shika_firsth_e1554201:
 translate ukrainian shika_firsth_f802aef5:
 
     # so "You may go."
-    so "Можете йти."
+    so "Можете йти." (multiple=2)
 
 # game/game/shika_events.rpy:1135
 translate ukrainian shika_firsth_354bb656:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}Ho ho ho~"
-    s "{sc=2}{outlinecolor=#000000}{size=-8}Хо-хо-хо~"
+    s "{sc=2}{outlinecolor=#000000}{size=-8}Хо-хо-хо~" (multiple=2)
 
 # game/game/shika_events.rpy:1136
 translate ukrainian shika_firsth_29812570:
@@ -3543,7 +3543,7 @@ translate ukrainian shika_firsth_1f2d7613:
 translate ukrainian shika_firsth_0f38af64:
 
     # s "Look! {w}So many trees!"
-    s "Поглянь! {w}Так багато дерев!"
+    s "Поглянь! {w}Так багато дерев!" with hpunch
 
 # game/game/shika_events.rpy:1145
 translate ukrainian shika_firsth_f7fd88dc:
@@ -3579,7 +3579,7 @@ translate ukrainian shika_firsth_ec3f52cd:
 translate ukrainian shika_firsth_3dd93fcf:
 
     # mc "{size=-8}I told you to stay close..."
-    mc "{size=-8}Казав же тобі, далеко не відходити..."
+    mc "{size=-8}Казав же тобі, далеко не відходити..." (multiple=3)
 
 # game/game/shika_events.rpy:1157
 translate ukrainian shika_firsth_9abf4b00:
@@ -3591,7 +3591,7 @@ translate ukrainian shika_firsth_9abf4b00:
 translate ukrainian shika_firsth_b3570de5:
 
     # mc "What are you doing?"
-    mc "Що ти робиш?"
+    mc "Що ти робиш?" (multiple=3)
 
 # game/game/shika_events.rpy:1160
 translate ukrainian shika_firsth_2c8e7b36:
@@ -3693,7 +3693,7 @@ translate ukrainian shika_firsth_2e6ebed6:
 translate ukrainian shika_firsth_38060a92:
 
     # s "Hey!"
-    s "Гей!"
+    s "Гей!" with hpunch
 
 # game/game/shika_events.rpy:1185
 translate ukrainian shika_firsth_1f5b224d:
@@ -3771,7 +3771,7 @@ translate ukrainian shika_firsth_c3dbbc80:
 translate ukrainian shika_firsth_da570201:
 
     # s "Yes!"
-    s "Так!"
+    s "Так!" with hpunch
 
 # game/game/shika_events.rpy:1203
 translate ukrainian shika_firsth_6dfd1293:
@@ -4047,7 +4047,7 @@ translate ukrainian shika_firsth_98792b66:
 translate ukrainian shika_firsth_00cac12d:
 
     # s "No!"
-    s "Ні!"
+    s "Ні!" with vpunch
 
 # game/game/shika_events.rpy:1274
 translate ukrainian shika_firsth_fb2e5377:
@@ -4149,13 +4149,13 @@ translate ukrainian shika_gal2_7784e674:
 translate ukrainian shika_gal2_be6a2866:
 
     # mc "{size=-6}H-Hey!"
-    mc "{size=-6}А-Агов!"
+    mc "{size=-6}А-Агов!" (multiple=2)
 
 # game/game/shika_events.rpy:1300
 translate ukrainian shika_gal2_8eee5323:
 
     # s "Why is it like this?"
-    s "Чому він такий?"
+    s "Чому він такий?" (multiple=2)
 
 # game/game/shika_events.rpy:1301
 translate ukrainian shika_gal2_9c4e9eab:
@@ -4209,7 +4209,7 @@ translate ukrainian shika_gal2_5aa72ccd:
 translate ukrainian shika_gal2_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/shika_events.rpy:1312
 translate ukrainian shika_gal2_0f9c823b:
@@ -4275,7 +4275,7 @@ translate ukrainian shika_gal2_49b5f0e8:
 translate ukrainian shika_gal2_0ebbd7e3:
 
     # s "What do you mean small?!"
-    s "Що значить «маленький»?!"
+    s "Що значить «маленький»?!" with hpunch
 
 # game/game/shika_events.rpy:1323
 translate ukrainian shika_gal2_c188e881:
@@ -4293,7 +4293,7 @@ translate ukrainian shika_gal2_44051893:
 translate ukrainian shika_gal2_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/shika_events.rpy:1327
 translate ukrainian shika_gal2_a790fd43:
@@ -4521,7 +4521,7 @@ translate ukrainian shika_gal2_4f4f42db:
 translate ukrainian shika_gal2_61aef83d:
 
     # s "O-Ooh~{image=corazon}{image=corazon}"
-    s "О-Оох~{image=corazon}{image=corazon}"
+    s "О-Оох~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1374
 translate ukrainian shika_gal2_e45d995d:
@@ -4635,13 +4635,13 @@ translate ukrainian shika_gal2_759c89f6:
 translate ukrainian shika_gal2_a5bd1131:
 
     # s "{sc=1}{outlinecolor=#000000}AhhNgnm~{image=corazon}{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{i}АххНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{i}АххНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:1399
 translate ukrainian shika_gal2_901a60f7:
 
     # mc "S-Shika!"
-    mc "Ш-Шико!"
+    mc "Ш-Шико!" with vpunch
 
 # game/game/shika_events.rpy:1400
 translate ukrainian shika_gal2_222d7197:
@@ -4659,7 +4659,7 @@ translate ukrainian shika_gal2_55271227:
 translate ukrainian shika_gal2_ea3b2e35:
 
     # t "It's very tight! {w}I have to... take it out of there before I..."
-    t "Дуже тісно! {w}Мушу... витягнути його, перш ніж я..."
+    t "Дуже тісно! {w}Мушу... витягнути його, перш ніж я..." with hpunch
 
 # game/game/shika_events.rpy:1404
 translate ukrainian shika_gal2_51d6073e:
@@ -4695,7 +4695,7 @@ translate ukrainian shika_gal2_1af41735:
 translate ukrainian shika_gal2_da05fc25:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-5}I-It's sucking me in!"
-    t "{sc=1}{outlinecolor=#000000}{size=-5}В-Вона мене засмоктує!"
+    t "{sc=1}{outlinecolor=#000000}{size=-5}В-Вона мене засмоктує!" with vpunch
 
 # game/game/shika_events.rpy:1412
 translate ukrainian shika_gal2_e1554201_2:
@@ -4713,13 +4713,13 @@ translate ukrainian shika_gal2_fb125ce0:
 translate ukrainian shika_gal2_14c48998:
 
     # s "{sc=1}{outlinecolor=#000000}HgnMHnm!~{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}ХгнМХнм!~{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}ХгнМХнм!~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/shika_events.rpy:1418
 translate ukrainian shika_gal2_b5f3604a:
 
     # mc "What!?"
-    mc "Якого!?"
+    mc "Якого!?" (multiple=2)
 
 # game/game/shika_events.rpy:1419
 translate ukrainian shika_gal2_c4edca41:
@@ -4755,7 +4755,7 @@ translate ukrainian shika_gal2_aa0bb70d:
 translate ukrainian shika_gal2_a62f18e2:
 
     # mc "Ghn!"
-    mc "{i}Гхн!{/i}"
+    mc "{i}Гхн!{/i}" with cumflash
 
 # game/game/shika_events.rpy:1427
 translate ukrainian shika_gal2_3c389c84:
@@ -4803,7 +4803,7 @@ translate ukrainian shika_gal2_9bea16a8:
 translate ukrainian shika_gal2_4bb848b3:
 
     # t "This feels so good... her pussy is so tight..."
-    t "Це дуже приємно... її кицька така вузька..."
+    t "Це дуже приємно... її кицька така вузька..." with cumflash
 
 # game/game/shika_events.rpy:1435
 translate ukrainian shika_gal2_d92c3767:
@@ -4815,7 +4815,7 @@ translate ukrainian shika_gal2_d92c3767:
 translate ukrainian shika_gal2_36e93c00:
 
     # s "Anhmhnm~{image=corazon} {w}Gnhgm~{image=corazon}{image=corazon} {w}It f-feels like it's hitting my stomach..."
-    s "{i}Анхмхнм~{/i}{image=corazon} {w}{i}Гнхгм~{/i}{image=corazon}{image=corazon} {w}В-Відчуваю, ніби він уперся прямо мені в живіт..."
+    s "{i}Анхмхнм~{/i}{image=corazon} {w}{i}Гнхгм~{/i}{image=corazon}{image=corazon} {w}В-Відчуваю, ніби він уперся прямо мені в живіт..." with cumflash
 
 # game/game/shika_events.rpy:1437
 translate ukrainian shika_gal2_d3b0c263:
@@ -4851,7 +4851,7 @@ translate ukrainian shika_gal2_0952f79f:
 translate ukrainian shika_gal2_694c7073:
 
     # s "Something is coming... {w}Nhmnh~{image=corazon}{image=corazon}"
-    s "Щось наближається... {w}{i}Нхмнх~{/i}{image=corazon}{image=corazon}"
+    s "Щось наближається... {w}{i}Нхмнх~{/i}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1443
 translate ukrainian shika_gal2_4915fb33:
@@ -4863,7 +4863,7 @@ translate ukrainian shika_gal2_4915fb33:
 translate ukrainian shika_gal2_c03937e2:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-6}UghhNmNgnm~{image=corazon}{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{size=-6}{i}УгххНмНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{size=-6}{i}УгххНмНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1453
 translate ukrainian shika_gal2_d2c07673:
@@ -4875,7 +4875,7 @@ translate ukrainian shika_gal2_d2c07673:
 translate ukrainian shika_gal2_a19a13cd:
 
     # t "Her pussy is contracting even more!"
-    t "Її кицька стискається ще сильніше!"
+    t "Її кицька стискається ще сильніше!" with hpunch
 
 # game/game/shika_events.rpy:1457
 translate ukrainian shika_gal2_3911c7ae:
@@ -4923,7 +4923,7 @@ translate ukrainian shika_gal2_a4de5770:
 translate ukrainian shika_gal2_2297ef4d:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-6}AaAHnm~{image=corazon} Ahmnm~{image=corazon} UuohNM~{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{size=-6}{i}АаАХнм~{/i}{image=corazon} {i}Ахмнм~{/i}{image=corazon} {i}УуохНМ~{/i}{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{size=-6}{i}АаАХнм~{/i}{image=corazon} {i}Ахмнм~{/i}{image=corazon} {i}УуохНМ~{/i}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1467
 translate ukrainian shika_gal2_cf360784:
@@ -4935,7 +4935,7 @@ translate ukrainian shika_gal2_cf360784:
 translate ukrainian shika_gal2_cb37a321:
 
     # mc "My mind has reached its limit, I can no longer hold back the urge to cum!"
-    mc "Я вже на межі своїх думок — не можу більше стримувати бажання кінчити!"
+    mc "Я вже на межі своїх думок — не можу більше стримувати бажання кінчити!" with vpunch
 
 # game/game/shika_events.rpy:1469
 translate ukrainian shika_gal2_0c3c073d:
@@ -4953,7 +4953,7 @@ translate ukrainian shika_gal2_02fac3ce:
 translate ukrainian shika_gal2_166421a2:
 
     # s "AaAghmnmnm~~{image=corazon}{image=corazon}{image=corazon}"
-    s "{i}АаАгхмнмнм~~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    s "{i}АаАгхмнмнм~~{/i}{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:1486
 translate ukrainian shika_gal2_f093d128:
@@ -5301,7 +5301,7 @@ translate ukrainian shika_hrep_45eda213:
 translate ukrainian shika_hrep_cca91f3d:
 
     # s "Here!"
-    s "Ось тут!"
+    s "Ось тут!" with hpunch
 
 # game/game/shika_events.rpy:1619
 translate ukrainian shika_hrep_8dee6878:
@@ -5661,13 +5661,13 @@ translate ukrainian shika_hrep_8b23ebb7:
 translate ukrainian shika_hrep_a5bd1131:
 
     # s "{sc=1}{outlinecolor=#000000}AhhNgnm~{image=corazon}{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{i}АххНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{i}АххНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:1702
 translate ukrainian shika_hrep_4a970a5b:
 
     # mc "I-I told you so!!"
-    mc "Я-Я ж тобі казав!!"
+    mc "Я-Я ж тобі казав!!" with vpunch
 
 # game/game/shika_events.rpy:1703
 translate ukrainian shika_hrep_9116f487:
@@ -5685,7 +5685,7 @@ translate ukrainian shika_hrep_333c6173:
 translate ukrainian shika_hrep_c4a33d74:
 
     # t "The interior of Shika is still as cramped as it was the first time!"
-    t "Усередині Шики все таке вузьке, як і першого разу!"
+    t "Усередині Шики все таке вузьке, як і першого разу!" with hpunch
 
 # game/game/shika_events.rpy:1707
 translate ukrainian shika_hrep_51d6073e:
@@ -5703,7 +5703,7 @@ translate ukrainian shika_hrep_8bc57094:
 translate ukrainian shika_hrep_8cd878a6:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-5}M-My penis? {w}Your tight pussy is the one that won't let go."
-    mc "{sc=1}{outlinecolor=#000000}{size=-5}М-Мій член? {w}Це твоя тісна кицька мене не відпускає."
+    mc "{sc=1}{outlinecolor=#000000}{size=-5}М-Мій член? {w}Це твоя тісна кицька мене не відпускає." with vpunch
 
 # game/game/shika_events.rpy:1711
 translate ukrainian shika_hrep_e1554201_1:
@@ -5715,13 +5715,13 @@ translate ukrainian shika_hrep_e1554201_1:
 translate ukrainian shika_hrep_14c48998:
 
     # s "{sc=1}{outlinecolor=#000000}HgnMHnm!~{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{i}ХгнМХнм!~{/i}{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{i}ХгнМХнм!~{/i}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/shika_events.rpy:1716
 translate ukrainian shika_hrep_55309806:
 
     # mc "Hhgh!"
-    mc "{i}Ххгх!{/i}"
+    mc "{i}Ххгх!{/i}" (multiple=2)
 
 # game/game/shika_events.rpy:1717
 translate ukrainian shika_hrep_b8077df9:
@@ -5745,7 +5745,7 @@ translate ukrainian shika_hrep_86083284:
 translate ukrainian shika_hrep_ad7dda38:
 
     # s "HaAhnm~~{image=corazon} {w}[mc]~{image=corazon} {w}S-So deep...~{image=corazon}{image=corazon}"
-    s "{i}ХаАхнм~~{/i}{image=corazon} {w}[name_form('voc')]~{image=corazon} {w}Т-Так глибоко...~{image=corazon}{image=corazon}"
+    s "{i}ХаАхнм~~{/i}{image=corazon} {w}[name_form('voc')]~{image=corazon} {w}Т-Так глибоко...~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1723
 translate ukrainian shika_hrep_5238d913:
@@ -5769,7 +5769,7 @@ translate ukrainian shika_hrep_b3601118:
 translate ukrainian shika_hrep_50ca303a:
 
     # s "It's not my fault...{image=corazon} {w}Hnhm~{image=corazon}{image=corazon} {w}I have an itch down there that only your penis can reach...~{image=corazon}"
-    s "Це не моя провина...{image=corazon} {w}{i}Хнхм~{/i}{image=corazon}{image=corazon} {w}у мене там так свербить, що тільки твій член може зарадити...~{image=corazon}"
+    s "Це не моя провина...{image=corazon} {w}{i}Хнхм~{/i}{image=corazon}{image=corazon} {w}у мене там так свербить, що тільки твій член може зарадити...~{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1727
 translate ukrainian shika_hrep_a70aff05:
@@ -5787,7 +5787,7 @@ translate ukrainian shika_hrep_ea0296fb:
 translate ukrainian shika_hrep_c03937e2:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-6}UghhNmNgnm~{image=corazon}{image=corazon}{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{size=-6}{i}УгххНмНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{size=-6}{i}УгххНмНгнм~{/i}{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1738
 translate ukrainian shika_hrep_d2c07673:
@@ -5799,7 +5799,7 @@ translate ukrainian shika_hrep_d2c07673:
 translate ukrainian shika_hrep_05ee8b8d:
 
     # t "Shika's contractions are very strong!"
-    t "Шика стискається надто сильно!"
+    t "Шика стискається надто сильно!" with hpunch
 
 # game/game/shika_events.rpy:1742
 translate ukrainian shika_hrep_3911c7ae:
@@ -5841,7 +5841,7 @@ translate ukrainian shika_hrep_aeb56374:
 translate ukrainian shika_hrep_8e8bcd65:
 
     # s "{sc=1}{outlinecolor=#000000}AaAHNMnm~{image=corazon}"
-    s "{sc=1}{outlinecolor=#000000}{i}АаАХНМнм~{/i}{image=corazon}"
+    s "{sc=1}{outlinecolor=#000000}{i}АаАХНМнм~{/i}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:1751
 translate ukrainian shika_hrep_e53b7ddd:
@@ -5865,7 +5865,7 @@ translate ukrainian shika_hrep_7ec3b6e3:
 translate ukrainian shika_hrep_96b2a373:
 
     # s "Hnhmh~{image=corazon}{image=corazon} {w}Ahnm~{image=corazon} {w}Ghngm~{image=corazon}{image=corazon}"
-    s "{i}Хнхмх~{/i}{image=corazon}{image=corazon} {w}{i}Ахнм~{/i}{image=corazon} {w}{i}Гхнгм~{/i}{image=corazon}{image=corazon}"
+    s "{i}Хнхмх~{/i}{image=corazon}{image=corazon} {w}{i}Ахнм~{/i}{image=corazon} {w}{i}Гхнгм~{/i}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:1755
 translate ukrainian shika_hrep_aa9ef034:
@@ -5895,13 +5895,13 @@ translate ukrainian shika_hrep_a739e6c6:
 translate ukrainian shika_hrep_9bdad79d:
 
     # mc "Ghmn!"
-    mc "{i}Гхмн!{/i}"
+    mc "{i}Гхмн!{/i}" with hpunch
 
 # game/game/shika_events.rpy:1761
 translate ukrainian shika_hrep_baec3209:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-6}I'll squeeze you with my pussy!~"
-    s "{sc=1}{outlinecolor=#000000}{size=-6}Затисну тебе своєю кицькою!~"
+    s "{sc=1}{outlinecolor=#000000}{size=-6}Затисну тебе своєю кицькою!~" with cumflash
 
 # game/game/shika_events.rpy:1762
 translate ukrainian shika_hrep_8b5e620a:
@@ -5919,7 +5919,7 @@ translate ukrainian shika_hrep_06d1a056:
 translate ukrainian shika_hrep_3e75a55a:
 
     # s "HGgnHmgnm~~{image=corazon}{image=corazon}{image=corazon}"
-    s "{i}ХГгнХмгнм~~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    s "{i}ХГгнХмгнм~~{/i}{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:1779
 translate ukrainian shika_hrep_f093d128:
@@ -6111,7 +6111,7 @@ translate ukrainian shika_eventuno_85c3931a:
 translate ukrainian shika_eventuno_9a4d0660:
 
     # s "Mnhnm?!"
-    s "{i}Мнхнм?!{/i}"
+    s "{i}Мнхнм?!{/i}" with vpunch
 
 # game/game/shika_events.rpy:1871
 translate ukrainian shika_eventuno_0fe6b811:
@@ -6381,7 +6381,7 @@ translate ukrainian shika_eventuno_9c2d393c:
 translate ukrainian shika_eventuno_56e8b0ee:
 
     # s "Are you planning to attack me again?!"
-    s "Знову плануєш на мене напасти?!"
+    s "Знову плануєш на мене напасти?!" with vpunch
 
 # game/game/shika_events.rpy:1939
 translate ukrainian shika_eventuno_e38aa86d:
@@ -6483,7 +6483,7 @@ translate ukrainian shika_eventuno_1eee613a:
 translate ukrainian shika_eventuno_508866ec:
 
     # s "Hey!"
-    s "Гей!"
+    s "Гей!" with vpunch
 
 # game/game/shika_events.rpy:1964
 translate ukrainian shika_eventuno_4396da47:
@@ -6603,19 +6603,19 @@ translate ukrainian shika_eventuno_126cec15:
 translate ukrainian shika_eventuno_83f5e9f5:
 
     # h "What?!"
-    h "Що?!"
+    h "Що?!" with vpunch
 
 # game/game/shika_events.rpy:1995
 translate ukrainian shika_eventuno_567b8e44:
 
     # mc "On her face!" # блять х2...
-    mc "Ми просто бавилися!"
+    mc "Ми просто бавилися!" with hpunch
 
 # game/game/shika_events.rpy:1997
 translate ukrainian shika_eventuno_fd2e6939:
 
     # h "Hahaha, {w}I was just kidding."
-    h "Хахаха, {w}я просто жартую."
+    h "Хахаха, {w}я просто жартую." with vpunch
 
 # game/game/shika_events.rpy:1998
 translate ukrainian shika_eventuno_852fa713:
@@ -6633,7 +6633,7 @@ translate ukrainian shika_eventuno_bd984444:
 translate ukrainian shika_eventuno_508866ec_1:
 
     # s "Hey!"
-    s "Гей!"
+    s "Гей!" with vpunch
 
 # game/game/shika_events.rpy:2002
 translate ukrainian shika_eventuno_52723026:
@@ -6645,7 +6645,7 @@ translate ukrainian shika_eventuno_52723026:
 translate ukrainian shika_eventuno_75bfba9e:
 
     # s "I've never heard of that disease!"
-    s "Уперше чую про таку хворобу!"
+    s "Уперше чую про таку хворобу!" with vpunch
 
 # game/game/shika_events.rpy:2005
 translate ukrainian shika_eventuno_b91f228a:
@@ -6717,7 +6717,7 @@ translate ukrainian shika_eventdos_fea3f556:
 translate ukrainian shika_eventdos_94a951ae:
 
     # s "Hmm! {w}We don't waste time here, little one."
-    s "Гмм! {w}Ми тут не б'ємо байдики, хлопчику."
+    s "Гмм! {w}Ми тут не б'ємо байдики, хлопчику." with vpunch
 
 # game/game/shika_events.rpy:2039
 translate ukrainian shika_eventdos_2b35b6fe:
@@ -6735,7 +6735,7 @@ translate ukrainian shika_eventdos_8e1aa6ad:
 translate ukrainian shika_eventdos_953fcefc:
 
     # s "Where are you looking!"
-    s "На що ти дивишся!"
+    s "На що ти дивишся!" with hpunch
 
 # game/game/shika_events.rpy:2043
 translate ukrainian shika_eventdos_e1554201:
@@ -6783,7 +6783,7 @@ translate ukrainian shika_eventdos_c716495b:
 translate ukrainian shika_eventdos_e6ae7581:
 
     # s "Hu hum!"
-    s "{i}Ху-хум!{/i}"
+    s "{i}Ху-хум!{/i}" with vpunch
 
 # game/game/shika_events.rpy:2056
 translate ukrainian shika_eventdos_2b35b6fe_1:
@@ -6837,7 +6837,7 @@ translate ukrainian shika_eventdos_e1554201_2:
 translate ukrainian shika_eventdos_c5f35c19:
 
     # s "What are you doing!"
-    s "Що ти робиш!"
+    s "Що ти робиш!" with vpunch
 
 # game/game/shika_events.rpy:2070
 translate ukrainian shika_eventdos_364b6af9:
@@ -6849,7 +6849,7 @@ translate ukrainian shika_eventdos_364b6af9:
 translate ukrainian shika_eventdos_5b40ce2b:
 
     # s "Shika isn't one of them!"
-    s "Шика в цей перелік не входить!"
+    s "Шика в цей перелік не входить!" with vpunch
 
 # game/game/shika_events.rpy:2073
 translate ukrainian shika_eventdos_e9fa5168:
@@ -6939,7 +6939,7 @@ translate ukrainian shika_eventdos_0d42a666:
 translate ukrainian shika_eventdos_721dae82:
 
     # s "Ice cream?!"
-    s "Морозиво?!"
+    s "Морозиво?!" with vpunch
 
 # game/game/shika_events.rpy:2105
 translate ukrainian shika_eventdos_655ef65d:
@@ -7101,7 +7101,7 @@ translate ukrainian shika_eventdos_cfcd2c36:
 translate ukrainian shika_eventdos_05a40e23:
 
     # s "[mc]?!"
-    s "[name_form('voc')]?!"
+    s "[name_form('voc')]?!" with vpunch
 
 # game/game/shika_events.rpy:2148
 translate ukrainian shika_eventdos_c2c4e3f8:
@@ -7299,7 +7299,7 @@ translate ukrainian shika_eventdos_f7d3cdb3:
 translate ukrainian shika_eventdos_07c3a148:
 
     # s "What do you mean by that!"
-    s "На що ти натякаєш!"
+    s "На що ти натякаєш!" with hpunch
 
 # game/game/shika_events.rpy:2209
 translate ukrainian shika_eventdos_e2f3f9cc:
@@ -7359,7 +7359,7 @@ translate ukrainian shika_eventdos_6fc92758:
 translate ukrainian shika_eventdos_744693b5:
 
     # s "Mnhey!"
-    s "{i}Мн-гей!{/i}"
+    s "{i}Мн-гей!{/i}" with vpunch
 
 # game/game/shika_events.rpy:2225
 translate ukrainian shika_eventdos_8bb356cd:
@@ -7455,7 +7455,7 @@ translate ukrainian shika_eventdos_c6f31b36:
 translate ukrainian shika_eventdos_9d340fd0:
 
     # s "Don't move! {w}I'm going to clean it before it leaves stains!"
-    s "Завмри! {w}Я приберу, поки воно не залишило пляму!"
+    s "Завмри! {w}Я приберу, поки воно не залишило пляму!" with vpunch
 
 # game/game/shika_events.rpy:2256
 translate ukrainian shika_eventdos_fc0f44cf:
@@ -7467,7 +7467,7 @@ translate ukrainian shika_eventdos_fc0f44cf:
 translate ukrainian shika_eventdos_451f1dfd:
 
     # v "Kya!"
-    v "Кя!"
+    v "Кя!" with vpunch
 
 # game/game/shika_events.rpy:2258
 translate ukrainian shika_eventdos_2b35b6fe_5:
@@ -7509,13 +7509,13 @@ translate ukrainian shika_eventdos_5ae8c79d:
 translate ukrainian shika_eventdos_e7bab832:
 
     # v "Sorry to interrupt!"
-    v "Вибачте, що потурбувала!"
+    v "Вибачте, що потурбувала!" with hpunch
 
 # game/game/shika_events.rpy:2268
 translate ukrainian shika_eventdos_341cf88b:
 
     # mc "Wait!"
-    mc "Стривай!"
+    mc "Стривай!" with vpunch
 
 # game/game/shika_events.rpy:2270
 translate ukrainian shika_eventdos_89547619:
@@ -7605,7 +7605,7 @@ translate ukrainian shika_eventtres_e089a74b:
 translate ukrainian shika_eventtres_8b421dea:
 
     # s "Yes!"
-    s "Так!"
+    s "Так!" with vpunch
 
 # game/game/shika_events.rpy:2315
 translate ukrainian shika_eventtres_fb2e5377:
@@ -7671,7 +7671,7 @@ translate ukrainian shika_eventtres_91cc8318:
 translate ukrainian shika_eventtres_e485edc8:
 
     # s "...!"
-    s "...!"
+    s "...!" with vpunch
 
 # game/game/shika_events.rpy:2337
 translate ukrainian shika_eventtres_094a0396:
@@ -7887,7 +7887,7 @@ translate ukrainian shika_eventtres_e915ed16:
 translate ukrainian shika_eventtres_8d2f6e84:
 
     # a "Haana!"
-    a "Ханооо!"
+    a "Ханооо!" with vpunch
 
 # game/game/shika_events.rpy:2402
 translate ukrainian shika_eventtres_2b35b6fe_2:
@@ -7959,7 +7959,7 @@ translate ukrainian shika_eventtres_e7dc180e:
 translate ukrainian shika_eventtres_e3bd704b:
 
     # s "OOhh!!"
-    s "{i}ООхх!!{/i}"
+    s "{i}ООхх!!{/i}" with vpunch
 
 # game/game/shika_events.rpy:2420
 translate ukrainian shika_eventtres_a2eeee19:
@@ -8115,7 +8115,7 @@ translate ukrainian shika_eventtres_d73d7fdd:
 translate ukrainian shika_eventtres_9c20f818:
 
     # s "Again with that!"
-    s "Знову ти за своє!"
+    s "Знову ти за своє!" with hpunch
 
 # game/game/shika_events.rpy:2459
 translate ukrainian shika_eventtres_f1778b3b:
@@ -8127,7 +8127,7 @@ translate ukrainian shika_eventtres_f1778b3b:
 translate ukrainian shika_eventtres_db1e5f97:
 
     # s "Hmmp!"
-    s "{i}Хммп!{/i}"
+    s "{i}Хммп!{/i}" with vpunch
 
 # game/game/shika_events.rpy:2463
 translate ukrainian shika_eventtres_e1554201_1:
@@ -8259,13 +8259,13 @@ translate ukrainian shika_eventtres_eb19ef4b:
 translate ukrainian shika_eventtres_3f75073b:
 
     # mc "WHAT!?"
-    mc "НЕВЖЕ?!"
+    mc "НЕВЖЕ?!" with vpunch
 
 # game/game/shika_events.rpy:2501
 translate ukrainian shika_eventtres_dfb4a89e:
 
     # s "Why are you so surprised!"
-    s "Чому ти настільки здивований?!"
+    s "Чому ти настільки здивований?!" with vpunch
 
 # game/game/shika_events.rpy:2502
 translate ukrainian shika_eventtres_1f5b224d:
@@ -8349,7 +8349,7 @@ translate ukrainian shika_eventtres_e1554201_2:
 translate ukrainian shika_eventtres_0dbc133c:
 
     # s "Here!"
-    s "Ось!"
+    s "Ось!" with vpunch
 
 # game/game/shika_events.rpy:2529
 translate ukrainian shika_eventtres_2f14115a:
@@ -8379,7 +8379,7 @@ translate ukrainian shika_eventtres_c39417a9:
 translate ukrainian shika_eventtres_cca91f3d:
 
     # s "Here!"
-    s "Ось!"
+    s "Ось!" with hpunch
 
 # game/game/shika_events.rpy:2537
 translate ukrainian shika_eventtres_f6499088:
@@ -8445,7 +8445,7 @@ translate ukrainian shika_eventtres_e14ec982:
 translate ukrainian shika_eventtres_ab0375c3:
 
     # s "What are you waiting for!"
-    s "Чого ти чекаєш!"
+    s "Чого ти чекаєш!" with vpunch
 
 # game/game/shika_events.rpy:2553
 translate ukrainian shika_eventtres_0000d7b4:
@@ -8511,7 +8511,7 @@ translate ukrainian shika_eventtres_d75d8e11:
 translate ukrainian shika_eventtres_bd5394cf:
 
     # s "Hnm!"
-    s "Хнм!"
+    s "Хнм!" with hpunch
 
 # game/game/shika_events.rpy:2569
 translate ukrainian shika_eventtres_617f9cac:
@@ -8571,7 +8571,7 @@ translate ukrainian shika_eventtres_84f2a0cb:
 translate ukrainian shika_eventtres_c88dedc8:
 
     # s "Mn!"
-    s "{i}Мн!{/i}"
+    s "{i}Мн!{/i}" with vpunch
 
 # game/game/shika_events.rpy:2582
 translate ukrainian shika_eventtres_23e243c5:
@@ -8661,7 +8661,7 @@ translate ukrainian shika_eventtres_7dcba033:
 translate ukrainian shika_eventtres_b7fb1e57:
 
     # s "Now it's the chocolate one!"
-    s "Тепер це шоколадне!"
+    s "Тепер це шоколадне!" with vpunch
 
 # game/game/shika_events.rpy:2604
 translate ukrainian shika_eventtres_2b35b6fe_10:
@@ -8697,7 +8697,7 @@ translate ukrainian shika_eventtres_da8d25a7:
 translate ukrainian shika_eventtres_3c56c20d:
 
     # s "Something must be wrong! {w}Your turn!"
-    s "Щось явно не так! {w}Твоя черга!"
+    s "Щось явно не так! {w}Твоя черга!" with vpunch
 
 # game/game/shika_events.rpy:2615
 translate ukrainian shika_eventtres_288e82cf:
@@ -8775,7 +8775,7 @@ translate ukrainian shika_eventtres_ca46f553:
 translate ukrainian shika_eventtres_31d2b612:
 
     # s "What?!"
-    s "Що?!"
+    s "Що?!" with vpunch
 
 # game/game/shika_events.rpy:2631
 translate ukrainian shika_eventtres_31eaff82:
@@ -8811,7 +8811,7 @@ translate ukrainian shika_eventtres_d4d038a1:
 translate ukrainian shika_eventtres_4323900f:
 
     # s "Again!"
-    s "Ще раз!"
+    s "Ще раз!" with vpunch
 
 # game/game/shika_events.rpy:2637
 translate ukrainian shika_eventtres_873f3486:
@@ -8865,7 +8865,7 @@ translate ukrainian shika_eventtres_fe3266b2:
 translate ukrainian shika_eventtres_15d4acfd:
 
     # s "One more time!"
-    s "Спробуємо ще раз!"
+    s "Спробуємо ще раз!" with vpunch
 
 # game/game/shika_events.rpy:2651
 translate ukrainian shika_eventtres_e4be6021_3:
@@ -8925,7 +8925,7 @@ translate ukrainian shika_eventtres_177d3eb2:
 translate ukrainian shika_eventtres_d1659ba2:
 
     # s "Don't move! {w}Or you'll be disqualified!"
-    s "Не рухайся! {w}Інакше тебе дискваліфікують!"
+    s "Не рухайся! {w}Інакше тебе дискваліфікують!" with vpunch
 
 # game/game/shika_events.rpy:2662
 translate ukrainian shika_eventtres_5a5540e5:
@@ -9057,7 +9057,7 @@ translate ukrainian shika_eventtres_6ac4eccd:
 translate ukrainian shika_eventtres_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/shika_events.rpy:2692
 translate ukrainian shika_eventtres_84a19140:
@@ -9141,7 +9141,7 @@ translate ukrainian shika_eventtres_99894eb4:
 translate ukrainian shika_eventtres_ca126891:
 
     # v "Hello?!"
-    v "Вітаю?!"
+    v "Вітаю?!" with vpunch
 
 # game/game/shika_events.rpy:2712
 translate ukrainian shika_eventtres_db52e2cd:
@@ -9291,7 +9291,7 @@ translate ukrainian shika_eventcuatro_54381c82:
 translate ukrainian shika_eventcuatro_21136c32:
 
     # s "Yahalloo!"
-    s "Привітусики!"
+    s "Привітусики!" with vpunch
 
 # game/game/shika_events.rpy:2772
 translate ukrainian shika_eventcuatro_bf9f29a2:
@@ -9333,7 +9333,8 @@ translate ukrainian shika_eventcuatro_e8a3b92f:
 translate ukrainian shika_eventcuatro_9f047c0e:
 
     # "Yay!~~"
-    "{color=[r.who_args['color']]}[r]{/color}    та    {color=[s.who_args['color']]}[s]{/color}" "Так!~~"
+    r "Так!~~" (multiple=2) with vpunch
+    s "Так!~~" (multiple=2) with vpunch
 
 # game/game/shika_events.rpy:2787
 translate ukrainian shika_eventcuatro_2b35b6fe:
@@ -9351,7 +9352,7 @@ translate ukrainian shika_eventcuatro_e3c4889f:
 translate ukrainian shika_eventcuatro_8b421dea:
 
     # s "Yes!"
-    s "Так!"
+    s "Так!" with vpunch
 
 # game/game/shika_events.rpy:2792
 translate ukrainian shika_eventcuatro_def0ad19:
@@ -9417,7 +9418,7 @@ translate ukrainian shika_eventcuatro_82b04cca:
 translate ukrainian shika_eventcuatro_c36cb900:
 
     # s "Ryoko! {w}Save me!"
-    s "Рьоко! {w}Рятуй!"
+    s "Рьоко! {w}Рятуй!" with vpunch
 
 # game/game/shika_events.rpy:2809
 translate ukrainian shika_eventcuatro_7df3e84f:
@@ -9435,7 +9436,7 @@ translate ukrainian shika_eventcuatro_2182453d:
 translate ukrainian shika_eventcuatro_92314920:
 
     # mc "Guard break!"
-    mc "Оборону прорвано!"
+    mc "Оборону прорвано!" with vpunch
 
 # game/game/shika_events.rpy:2814
 translate ukrainian shika_eventcuatro_e79a8b09:
@@ -9477,7 +9478,7 @@ translate ukrainian shika_eventcuatro_4938ed26:
 translate ukrainian shika_eventcuatro_2e32495a:
 
     # s "My shield was defeated!"
-    s "Мій щит зазнав поразки!"
+    s "Мій щит зазнав поразки!" with vpunch
 
 # game/game/shika_events.rpy:2824
 translate ukrainian shika_eventcuatro_8b112c80:
@@ -9573,7 +9574,7 @@ translate ukrainian shika_eventcuatro_bcdc780b:
 translate ukrainian shika_eventcuatro_3623f4e9:
 
     # s "N-No {w}NooOooO~~"
-    s "Н-Ні, {w}НііІііІ~~"
+    s "Н-Ні, {w}НііІііІ~~" with vpunch
 
 # game/game/shika_events.rpy:2846
 translate ukrainian shika_eventcuatro_a9be2b80:
@@ -9627,7 +9628,7 @@ translate ukrainian shika_eventcuatro_0756f928:
 translate ukrainian shika_eventcuatro_9229b3d7:
 
     # s "Oooh!"
-    s "Ооо!"
+    s "Ооо!" with vpunch
 
 # game/game/shika_events.rpy:2866
 translate ukrainian shika_eventcuatro_df43d303:
@@ -9687,7 +9688,7 @@ translate ukrainian shika_eventcuatro_1ef47f86:
 translate ukrainian shika_eventcuatro_635c3425:
 
     # s "Why are you talking like I'm not here!"
-    s "Чому ви так розмовляєте, ніби мене тут немає?!"
+    s "Чому ви так розмовляєте, ніби мене тут немає?!" with vpunch
 
 # game/game/shika_events.rpy:2883
 translate ukrainian shika_eventcuatro_eee4869c:
@@ -9753,7 +9754,7 @@ translate ukrainian shika_eventcuatro_948711a6:
 translate ukrainian shika_eventcuatro_15da93e1:
 
     # t "Why on earth would you make such a great scene for such a mundane situation?"
-    t "На біса було влаштовувати таку грандіозну сцену в подібній ситуації?"
+    t "На біса було влаштовувати таку грандіозну сцену в подібній ситуації?" with vpunch
 
 # game/game/shika_events.rpy:2914
 translate ukrainian shika_eventcuatro_6a049270:
@@ -9819,7 +9820,7 @@ translate ukrainian shika_eventcuatro_00710625:
 translate ukrainian shika_eventcuatro_8da56e3c:
 
     # s "Ghnm!"
-    s "{i}Гхнм!{/i}"
+    s "{i}Гхнм!{/i}" with vpunch
 
 # game/game/shika_events.rpy:2934
 translate ukrainian shika_eventcuatro_03fb3e88:
@@ -9915,7 +9916,7 @@ translate ukrainian shika_eventcuatro_bb686497:
 translate ukrainian shika_eventcuatro_f140e752:
 
     # s "What's up with that title! {w}Why does it sound so cool?"
-    s "Що це за титул такий! {w}Чому він так круто звучить?"
+    s "Що це за титул такий! {w}Чому він так круто звучить?" with vpunch
 
 # game/game/shika_events.rpy:2956
 translate ukrainian shika_eventcuatro_f2bf0b32:
@@ -10065,7 +10066,7 @@ translate ukrainian shika_eventcuatro_e1554201_2:
 translate ukrainian shika_eventcuatro_f5ad9f3e:
 
     # s "Chocolate!"
-    s "Шоколадне!"
+    s "Шоколадне!" with hpunch
 
 # game/game/shika_events.rpy:2995
 translate ukrainian shika_eventcuatro_233664fc:
@@ -10089,7 +10090,7 @@ translate ukrainian shika_eventcuatro_722ed750_1:
 translate ukrainian shika_eventcuatro_aa4c31c8:
 
     # s "I mean, {w}I knew it!!"
-    s "Тобто, {w}саме так!!"
+    s "Тобто, {w}саме так!!" with vpunch
 
 # game/game/shika_events.rpy:3001
 translate ukrainian shika_eventcuatro_8fea2db2_1:
@@ -10209,7 +10210,7 @@ translate ukrainian shika_eventcuatro_1d61476f:
 translate ukrainian shika_eventcuatro_1ccdec9c:
 
     # s "Vanilla!?"
-    s "Ванільне!?"
+    s "Ванільне!?" with vpunch
 
 # game/game/shika_events.rpy:3029
 translate ukrainian shika_eventcuatro_2b35b6fe_10:
@@ -10221,7 +10222,7 @@ translate ukrainian shika_eventcuatro_2b35b6fe_10:
 translate ukrainian shika_eventcuatro_ed5d1e99:
 
     # mc "Yes!"
-    mc "Так!"
+    mc "Так!" with vpunch
 
 # game/game/shika_events.rpy:3032
 translate ukrainian shika_eventcuatro_33a8a85e:
@@ -10269,7 +10270,7 @@ translate ukrainian shika_eventcuatro_c7b9b00d:
 translate ukrainian shika_eventcuatro_2b827c86:
 
     # s "Really!?"
-    s "Справді!?"
+    s "Справді!?" with vpunch
 
 # game/game/shika_events.rpy:3046
 translate ukrainian shika_eventcuatro_2fced85c:
@@ -10311,7 +10312,7 @@ translate ukrainian shika_eventcuatro_4000a565:
 translate ukrainian shika_eventcuatro_e485edc8:
 
     # s "...!"
-    s "...!"
+    s "...!" with vpunch
 
 # game/game/shika_events.rpy:3057
 translate ukrainian shika_gal3_be59fc22:
@@ -10341,7 +10342,7 @@ translate ukrainian shika_gal3_e1554201:
 translate ukrainian shika_gal3_53b61e40:
 
     # s "Hurry up and put it in my mouth!"
-    s "Поквапся й сунь вже його мені до рота!"
+    s "Поквапся й сунь вже його мені до рота!" with vpunch
 
 # game/game/shika_events.rpy:3063
 translate ukrainian shika_gal3_2b35b6fe:
@@ -10389,7 +10390,7 @@ translate ukrainian shika_gal3_981d62b9:
 translate ukrainian shika_gal3_5580d578:
 
     # s "I already want to lick it! {w}Why are you making me wait so long?"
-    s "Я вже хочу його облизати! {w}Чому ти змушуєш мене так довго чекати?"
+    s "Я вже хочу його облизати! {w}Чому ти змушуєш мене так довго чекати?" with vpunch
 
 # game/game/shika_events.rpy:3078
 translate ukrainian shika_gal3_4afa54e5:
@@ -10431,7 +10432,7 @@ translate ukrainian shika_gal3_10d3bfde:
 translate ukrainian shika_gal3_f5496f65:
 
     # s "I see you're confident too! {w}All right, I'll give it my all!"
-    s "Я бачу, ти теж упевнений! {w}От і добре, я викладуся на повну!"
+    s "Я бачу, ти теж упевнений! {w}От і добре, я викладуся на повну!" with vpunch
 
 # game/game/shika_events.rpy:3085
 translate ukrainian shika_gal3_a34add49:
@@ -10497,7 +10498,7 @@ translate ukrainian shika_gal3_b6d33f18:
 translate ukrainian shika_gal3_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/shika_events.rpy:3097
 translate ukrainian shika_gal3_be11a84e:
@@ -10551,7 +10552,7 @@ translate ukrainian shika_gal3_85ab7d52:
 translate ukrainian shika_gal3_af0ab044:
 
     # t "Fuck! I almost came!"
-    t "Їбать! Ледь не кінчив!"
+    t "Їбать! Ледь не кінчив!" with vpunch
 
 # game/game/shika_events.rpy:3111
 translate ukrainian shika_gal3_077bfce0:
@@ -10575,7 +10576,7 @@ translate ukrainian shika_gal3_4eb6f944:
 translate ukrainian shika_gal3_2303398d:
 
     # s "Sometimes?!"
-    s "Інколи?!"
+    s "Інколи?!" with vpunch
 
 # game/game/shika_events.rpy:3115
 translate ukrainian shika_gal3_7bdaf4ec:
@@ -10677,7 +10678,7 @@ translate ukrainian shika_gal3_4c714a96:
 translate ukrainian shika_gal3_c9db9e0f:
 
     # s "How did you know?!"
-    s "Як ти зрозумів?!"
+    s "Як ти зрозумів?!" with vpunch
 
 # game/game/shika_events.rpy:3135
 translate ukrainian shika_gal3_2b35b6fe_4:
@@ -10707,13 +10708,13 @@ translate ukrainian shika_gal3_559ffdf6:
 translate ukrainian shika_gal3_0ef6249e:
 
     # s "Eeehh!?"
-    s "{i}Ееехх!?{/i}"
+    s "{i}Ееехх!?{/i}" with vpunch
 
 # game/game/shika_events.rpy:3143
 translate ukrainian shika_gal3_fd872daf:
 
     # s "What!?"
-    s "Що!?"
+    s "Що!?" with vpunch
 
 # game/game/shika_events.rpy:3145
 translate ukrainian shika_gal3_c3964d9b:
@@ -10755,7 +10756,7 @@ translate ukrainian shika_gal3_3113d264:
 translate ukrainian shika_gal3_58d1c6ef:
 
     # s "Hnmn!?"
-    s "{i}Хнмн!?{/i}"
+    s "{i}Хнмн!?{/i}" with vpunch
 
 # game/game/shika_events.rpy:3153
 translate ukrainian shika_gal3_7a771e09:
@@ -10785,7 +10786,7 @@ translate ukrainian shika_gal3_e55ca3a8:
 translate ukrainian shika_gal3_ed5d1e99:
 
     # mc "Yes!"
-    mc "Так!"
+    mc "Так!" with vpunch
 
 # game/game/shika_events.rpy:3158
 translate ukrainian shika_gal3_d5ccadf4:
@@ -10809,7 +10810,7 @@ translate ukrainian shika_gal3_9c6adefc:
 translate ukrainian shika_gal3_0fdba706:
 
     # mc "I'm cumming!!"
-    mc "Кінчаю!!"
+    mc "Кінчаю!!" with cumflash
 
 # game/game/shika_events.rpy:3164
 translate ukrainian shika_gal3_3eaf117b:
@@ -10959,7 +10960,7 @@ translate ukrainian shika_gal3_7b98ff49:
 translate ukrainian shika_gal3_5120c39b:
 
     # mc "-Ask!"
-    mc "...Просити!"
+    mc "...Просити!" with hpunch
 
 # game/game/shika_events.rpy:3207
 translate ukrainian shika_gal3_83060d0f:
@@ -11019,7 +11020,7 @@ translate ukrainian shika_gal3_e1554201_4:
 translate ukrainian shika_gal3_d9a4ce9e:
 
     # s "Ghnm~"
-    s "{i}Гхнм~{/i}"
+    s "{i}Гхнм~{/i}" with cumflash
 
 # game/game/shika_events.rpy:3226
 translate ukrainian shika_gal3_413eec15:
@@ -11043,7 +11044,7 @@ translate ukrainian shika_gal3_3b040953:
 translate ukrainian shika_gal3_dd904667:
 
     # s "Aaah~{image=/bg/icons/heart_text.png}"
-    s "{i}Ааах~{/i}{image=/bg/icons/heart_text.png}"
+    s "{i}Ааах~{/i}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/shika_events.rpy:3232
 translate ukrainian shika_gal3_d8ba16b3:
@@ -11091,7 +11092,7 @@ translate ukrainian shika_gal3_3f6af11b:
 translate ukrainian shika_gal3_1af6fd3e:
 
     # s "W-What!"
-    s "Щ-Що!"
+    s "Щ-Що!" with cumflash
 
 # game/game/shika_events.rpy:3240
 translate ukrainian shika_gal3_a5c3d3c6:
@@ -11127,7 +11128,7 @@ translate ukrainian shika_gal3_2a2f44d1:
 translate ukrainian shika_gal3_2e45565c:
 
     # s "I-I see.. {w}MHnm~~{image=/bg/icons/heart_text.png} s-so we have to have a lot of sex, don't we?"
-    s "Я-Ясно... {w}{i}МХнм~~{/i}{image=/bg/icons/heart_text.png} о-отже, нам треба багато разів зайнятися сексом, так?"
+    s "Я-Ясно... {w}{i}МХнм~~{/i}{image=/bg/icons/heart_text.png} о-отже, нам треба багато разів зайнятися сексом, так?" with cumflash
 
 # game/game/shika_events.rpy:3247
 translate ukrainian shika_gal3_83467aac:
@@ -11169,7 +11170,7 @@ translate ukrainian shika_gal3_5f482b53:
 translate ukrainian shika_gal3_9db2e720:
 
     # s "Aahnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}W-What?!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    s "{i}Аахнм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Щ-Що?!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    s "{i}Аахнм~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Щ-Що?!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/shika_events.rpy:3255
 translate ukrainian shika_gal3_f99d6996:
@@ -11199,7 +11200,7 @@ translate ukrainian shika_gal3_3012d612:
 translate ukrainian shika_gal3_2f339397:
 
     # s "Y-Your penis got bigger...! {w}Why?!"
-    s "Т-Твій член збільшився...! {w}Чому?!"
+    s "Т-Твій член збільшився...! {w}Чому?!" with vpunch
 
 # game/game/shika_events.rpy:3260
 translate ukrainian shika_gal3_549cd239:
@@ -11211,7 +11212,7 @@ translate ukrainian shika_gal3_549cd239:
 translate ukrainian shika_gal3_8bf4f81e:
 
     # s "I-I told you I'm not another species of human!"
-    s "Я-Я вже казала тобі, що я не якийсь інший вид людей!"
+    s "Я-Я вже казала тобі, що я не якийсь інший вид людей!" with cumflash
 
 # game/game/shika_events.rpy:3262
 translate ukrainian shika_gal3_1dccfeda:
@@ -11241,7 +11242,7 @@ translate ukrainian shika_gal3_1aea33e7:
 translate ukrainian shika_gal3_eb415b48:
 
     # s "I-I no longer feel my body!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    s "Я-Я більше не відчуваю власне тіло!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    s "Я-Я більше не відчуваю власне тіло!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/shika_events.rpy:3268
 translate ukrainian shika_gal3_64e64b0d:
@@ -11283,7 +11284,7 @@ translate ukrainian shika_gal3_69323723:
 translate ukrainian shika_gal3_36ee8692:
 
     # mc "Shika!"
-    mc "Шико!"
+    mc "Шико!" with cumflash
 
 # game/game/shika_events.rpy:3277
 translate ukrainian shika_gal3_75f86dce:
@@ -11295,7 +11296,7 @@ translate ukrainian shika_gal3_75f86dce:
 translate ukrainian shika_gal3_33ee129d:
 
     # mc "Fuck!"
-    mc "Їбанутися!"
+    mc "Їбанутися!" with vpunch
 
 # game/game/shika_events.rpy:3281
 translate ukrainian shika_gal3_38ee45f8:
@@ -11457,7 +11458,7 @@ translate ukrainian shika_gal3_3ff5e3cb:
 translate ukrainian shika_gal3_887b56d1:
 
     # s "Sneezing doesn't sound like that!"
-    s "Чхання так не звучить!"
+    s "Чхання так не звучить!" with hpunch
 
 # game/game/shika_events.rpy:3339
 translate ukrainian shika_gal3_1f5b224d:
@@ -11577,7 +11578,7 @@ translate ukrainian shika_gal3_e1554201_7:
 translate ukrainian shika_gal3_41cfb629:
 
     # s "You're talking about me!"
-    s "Ти казав про мене!"
+    s "Ти казав про мене!" with vpunch
 
 # game/game/shika_events.rpy:3369
 translate ukrainian shika_gal3_00c2febc:
@@ -11595,7 +11596,7 @@ translate ukrainian shika_gal3_ca950793:
 translate ukrainian shika_gal3_08d518f6:
 
     # s "That's still me!"
-    s "Це ж моє ім'я!"
+    s "Це ж моє ім'я!" with vpunch
 
 # game/game/shika_events.rpy:3374
 translate ukrainian shika_gal3_1f5b224d_1:
@@ -11763,7 +11764,7 @@ translate ukrainian shika_eventcinco_cf460091:
 translate ukrainian shika_eventcinco_b6da3dc7:
 
     # s "[mc]!"
-    s "[mc]!"
+    s "[mc]!" with hpunch
 
 # game/game/shika_events.rpy:3440
 translate ukrainian shika_eventcinco_0af4b5b6:
@@ -12273,7 +12274,7 @@ translate ukrainian shika_eventcinco_fd3f07f5:
 translate ukrainian shika_eventcinco_6e21dc57:
 
     # mc "A-Anyway, {w}let's change the subject, the important thing is that you are well and nothing strange has happened."
-    mc "A-Anyway, {w}let's change the subject, the important thing is that you are well and nothing strange has happened."
+    mc "A-Anyway, {w}let's change the subject, the important thing is that you are well and nothing strange has happened." with vpunch
 
 # game/game/shika_events.rpy:3556
 translate ukrainian shika_eventcinco_4d0c713d:
@@ -12369,13 +12370,13 @@ translate ukrainian shika_eventcinco_c9a904db:
 translate ukrainian shika_eventcinco_86429a12:
 
     # s "Just look at it!"
-    s "Just look at it!"
+    s "Just look at it!" with hpunch
 
 # game/game/shika_events.rpy:3577
 translate ukrainian shika_eventcinco_eed07f5b:
 
     # mc "Ok ok!"
-    mc "Ok ok!"
+    mc "Ok ok!" with vpunch
 
 # game/game/shika_events.rpy:3579
 translate ukrainian shika_eventcinco_2b35b6fe_6:
@@ -12411,13 +12412,13 @@ translate ukrainian shika_eventcinco_2b35b6fe_7:
 translate ukrainian shika_eventcinco_be07dde0:
 
     # s "Did it come out?!"
-    s "Did it come out?!"
+    s "Did it come out?!" with vpunch
 
 # game/game/shika_events.rpy:3587
 translate ukrainian shika_eventcinco_d64b471a:
 
     # mc "W-What!?"
-    mc "W-What!?"
+    mc "W-What!?" with vpunch
 
 # game/game/shika_events.rpy:3588
 translate ukrainian shika_eventcinco_12d340c2:
@@ -12447,7 +12448,7 @@ translate ukrainian shika_eventcinco_60dbd156:
 translate ukrainian shika_eventcinco_96dad03b:
 
     # s "I-I can't do it anymore!"
-    s "I-I can't do it anymore!"
+    s "I-I can't do it anymore!" with hpunch
 
 # game/game/shika_events.rpy:3596
 translate ukrainian shika_eventcinco_c1dff962:
@@ -12483,7 +12484,7 @@ translate ukrainian shika_eventcinco_282676a2:
 translate ukrainian shika_eventcinco_47ba6611:
 
     # s "Oh, doctor! {w}You're back early!"
-    s "Oh, doctor! {w}You're back early!"
+    s "Oh, doctor! {w}You're back early!" with vpunch
 
 # game/game/shika_events.rpy:3604
 translate ukrainian shika_eventcinco_2b35b6fe_8:
@@ -12573,7 +12574,7 @@ translate ukrainian shika_eventcinco_2987cea2:
 translate ukrainian shika_eventcinco_06771b05:
 
     # h "Shika did what?!"
-    h "Shika did what?!"
+    h "Shika did what?!" with hpunch
 
 # game/game/shika_events.rpy:3628
 translate ukrainian shika_eventcinco_82b04cca:
@@ -13119,7 +13120,7 @@ translate ukrainian shika_eventseis_bf7cc714:
 translate ukrainian shika_eventseis_1b3cc265:
 
     # mc "Ahem..."
-    mc "Ahem..."
+    mc "Ahem..." with vpunch
 
 # game/game/shika_events.rpy:3772
 translate ukrainian shika_eventseis_0d13f4c8:
@@ -13155,7 +13156,7 @@ translate ukrainian shika_eventseis_fbe39ab6:
 translate ukrainian shika_eventseis_bd187ae4:
 
     # s "Yes, that's the same way I feel!"
-    s "Yes, that's the same way I feel!"
+    s "Yes, that's the same way I feel!" with vpunch
 
 # game/game/shika_events.rpy:3780
 translate ukrainian shika_eventseis_aedae766:
@@ -13227,7 +13228,7 @@ translate ukrainian shika_eventseis_ff15b96f:
 translate ukrainian shika_eventseis_bb54a8fb:
 
     # s "That's why if we had to do the punishment, {w}at the end of it we would laugh and be friends again!"
-    s "That's why if we had to do the punishment, {w}at the end of it we would laugh and be friends again!"
+    s "That's why if we had to do the punishment, {w}at the end of it we would laugh and be friends again!" with vpunch
 
 # game/game/shika_events.rpy:3797
 translate ukrainian shika_eventseis_2b35b6fe_4:
@@ -13245,7 +13246,7 @@ translate ukrainian shika_eventseis_9591c9ca:
 translate ukrainian shika_eventseis_a5e3fb68:
 
     # s "Yay!"
-    s "Yay!"
+    s "Yay!" with vpunch
 
 # game/game/shika_events.rpy:3801
 translate ukrainian shika_eventseis_782d8965:
@@ -13527,7 +13528,7 @@ translate ukrainian shika_eventsiete_b3bdb451:
 translate ukrainian shika_eventsiete_c5613889:
 
     # s "Oh ho ho~ {w}that's pretty simple!"
-    s "Oh ho ho~ {w}that's pretty simple!"
+    s "Oh ho ho~ {w}that's pretty simple!" with vpunch
 
 # game/game/shika_events.rpy:3880
 translate ukrainian shika_eventsiete_c0e38368:
@@ -13569,7 +13570,7 @@ translate ukrainian shika_eventsiete_4f6c8bb8:
 translate ukrainian shika_eventsiete_70a71fe1:
 
     # s "Ooooh ho ho!~ Splendid! Marvelous!"
-    s "Ooooh ho ho!~ Splendid! Marvelous!"
+    s "Ooooh ho ho!~ Splendid! Marvelous!" with vpunch
 
 # game/game/shika_events.rpy:3893
 translate ukrainian shika_eventsiete_929f9e18:
@@ -13581,7 +13582,7 @@ translate ukrainian shika_eventsiete_929f9e18:
 translate ukrainian shika_eventsiete_46fbc619:
 
     # s "OooOOoH HO HO!"
-    s "OooOOoH HO HO!"
+    s "OooOOoH HO HO!" with hpunch
 
 # game/game/shika_events.rpy:3899
 translate ukrainian shika_eventsiete_2b35b6fe_2:
@@ -13641,7 +13642,7 @@ translate ukrainian shika_eventsiete_977033bd:
 translate ukrainian shika_eventsiete_49c803a4:
 
     # s "OOOH HO HOOO!~"
-    s "OOOH HO HOOO!~"
+    s "OOOH HO HOOO!~" with vpunch
 
 # game/game/shika_events.rpy:3913
 translate ukrainian shika_eventsiete_a49ed4f8:
@@ -13653,7 +13654,7 @@ translate ukrainian shika_eventsiete_a49ed4f8:
 translate ukrainian shika_eventsiete_0abc7d51:
 
     # s "H-Hey! {w}What are you doing! {w}P-Put me down now!"
-    s "H-Hey! {w}What are you doing! {w}P-Put me down now!"
+    s "H-Hey! {w}What are you doing! {w}P-Put me down now!" with hpunch
 
 # game/game/shika_events.rpy:3917
 translate ukrainian shika_eventsiete_72de79f9:
@@ -13665,7 +13666,7 @@ translate ukrainian shika_eventsiete_72de79f9:
 translate ukrainian shika_eventsiete_346f6303:
 
     # s "This is no way to treat a guest!"
-    s "This is no way to treat a guest!"
+    s "This is no way to treat a guest!" with hpunch
 
 # game/game/shika_events.rpy:3919
 translate ukrainian shika_eventsiete_eeca5485:
@@ -13707,7 +13708,7 @@ translate ukrainian shika_eventsiete_8e4e36ae:
 translate ukrainian shika_eventsiete_f90628aa:
 
     # s "Get me down from here! {w}What kind of insolence is this!"
-    s "Get me down from here! {w}What kind of insolence is this!"
+    s "Get me down from here! {w}What kind of insolence is this!" with hpunch
 
 # game/game/shika_events.rpy:3935
 translate ukrainian shika_eventsiete_3b90edc9:
@@ -13719,7 +13720,7 @@ translate ukrainian shika_eventsiete_3b90edc9:
 translate ukrainian shika_eventsiete_6a6d9d12:
 
     # s "Let me go!"
-    s "Let me go!"
+    s "Let me go!" with hpunch
 
 # game/game/shika_events.rpy:3937
 translate ukrainian shika_eventsiete_6af2f895:
@@ -13755,13 +13756,13 @@ translate ukrainian shika_eventsiete_d7edd024:
 translate ukrainian shika_eventsiete_548bef8b:
 
     # mc "Shiika!!"
-    mc "Shiika!!"
+    mc "Shiika!!" with hpunch
 
 # game/game/shika_events.rpy:3946
 translate ukrainian shika_eventsiete_ab2bb492:
 
     # s "W-What did I do?!"
-    s "W-What did I do?!"
+    s "W-What did I do?!" with vpunch
 
 # game/game/shika_events.rpy:3948
 translate ukrainian shika_eventsiete_81996f01:
@@ -13833,7 +13834,7 @@ translate ukrainian shika_eventsiete_40d86de1:
 translate ukrainian shika_eventsiete_91a17d43:
 
     # mc "AAaAaaAAaahHHH!!"
-    mc "AAaAaaAAaahHHH!!"
+    mc "AAaAaaAAaahHHH!!" with hpunch
 
 # game/game/shika_events.rpy:3971
 translate ukrainian shika_eventsiete_4a129994:
@@ -13857,7 +13858,7 @@ translate ukrainian shika_eventsiete_eba93359:
 translate ukrainian shika_eventsiete_bbe0cfb9:
 
     # r "M-Master?!"
-    r "M-Master?!"
+    r "M-Master?!" with hpunch
 
 # game/game/shika_events.rpy:3977
 translate ukrainian shika_eventsiete_b379fb6a:
@@ -13881,7 +13882,7 @@ translate ukrainian shika_eventsiete_8cde9289:
 translate ukrainian shika_eventsiete_99805dd1:
 
     # s "Hey! {w}Why are you flirting?"
-    s "Hey! {w}Why are you flirting?"
+    s "Hey! {w}Why are you flirting?" with hpunch
 
 # game/game/shika_events.rpy:3983
 translate ukrainian shika_eventsiete_e2af9ec2:
@@ -13893,13 +13894,13 @@ translate ukrainian shika_eventsiete_e2af9ec2:
 translate ukrainian shika_eventsiete_160e6582:
 
     # mc "S-SHIKA!?"
-    mc "S-SHIKA!?"
+    mc "S-SHIKA!?" with vpunch
 
 # game/game/shika_events.rpy:3986
 translate ukrainian shika_eventsiete_0bc767b8:
 
     # s "AAH!?"
-    s "AAH!?"
+    s "AAH!?" with vpunch
 
 # game/game/shika_events.rpy:3987
 translate ukrainian shika_eventsiete_542e6cbc:
@@ -13917,7 +13918,7 @@ translate ukrainian shika_eventsiete_09cb9063:
 translate ukrainian shika_eventsiete_10fa3f6d:
 
     # s "Don't scare me!"
-    s "Don't scare me!"
+    s "Don't scare me!" with hpunch
 
 # game/game/shika_events.rpy:3991
 translate ukrainian shika_eventsiete_47b18828:
@@ -14043,7 +14044,7 @@ translate ukrainian shika_eventsiete_6c92b5cd:
 translate ukrainian shika_eventsiete_773a4fbe:
 
     # s "Like this!"
-    s "Like this!"
+    s "Like this!" with vpunch
 
 # game/game/shika_events.rpy:4023
 translate ukrainian shika_eventsiete_06755eea:
@@ -14199,7 +14200,7 @@ translate ukrainian shika_eventsiete_5423017a:
 translate ukrainian shika_eventsiete_49986c0e:
 
     # s "Hey! {w}What's taking you so long?"
-    s "Hey! {w}What's taking you so long?"
+    s "Hey! {w}What's taking you so long?" with hpunch
 
 # game/game/shika_events.rpy:4076
 translate ukrainian shika_eventsiete_c1dff962:
@@ -14229,7 +14230,7 @@ translate ukrainian shika_eventsiete_eae8efcb:
 translate ukrainian shika_eventsiete_276a28da:
 
     # s "Let's play a game!"
-    s "Let's play a game!"
+    s "Let's play a game!" with hpunch
 
 # game/game/shika_events.rpy:4083
 translate ukrainian shika_eventsiete_97c0ea74:
@@ -14247,7 +14248,7 @@ translate ukrainian shika_eventsiete_79de03d4:
 translate ukrainian shika_eventsiete_d7b17642:
 
     # s "Don't worry! {w}I have many in mind! Whoever loses, will have to get their face painted!"
-    s "Don't worry! {w}I have many in mind! Whoever loses, will have to get their face painted!"
+    s "Don't worry! {w}I have many in mind! Whoever loses, will have to get their face painted!" with vpunch
 
 # game/game/shika_events.rpy:4087
 translate ukrainian shika_eventsiete_45f5d42f:
@@ -14271,7 +14272,7 @@ translate ukrainian shika_eventsiete_8f608f93:
 translate ukrainian shika_eventsiete_a4283e7e:
 
     # s "The first one to get up-"
-    s "The first one to get up-"
+    s "The first one to get up-" with hpunch
 
 # game/game/shika_events.rpy:4091
 translate ukrainian shika_eventsiete_ff737e17:
@@ -14283,7 +14284,7 @@ translate ukrainian shika_eventsiete_ff737e17:
 translate ukrainian shika_eventsiete_f790b1f6:
 
     # s "-loses!"
-    s "-loses!"
+    s "-loses!" with hpunch
 
 # game/game/shika_events.rpy:4094
 translate ukrainian shika_eventsiete_2b35b6fe_9:
@@ -14313,7 +14314,7 @@ translate ukrainian shika_eventsiete_2086dbfa:
 translate ukrainian shika_eventsiete_14433b59:
 
     # r "Ooh~ {w}I didn't lose!"
-    r "Ooh~ {w}I didn't lose!"
+    r "Ooh~ {w}I didn't lose!" with hpunch
 
 # game/game/shika_events.rpy:4103
 translate ukrainian shika_eventsiete_37d93a0f:
@@ -14391,7 +14392,7 @@ translate ukrainian shika_eventsiete_e9fcdb58:
 translate ukrainian shika_eventsiete_fe3e037b:
 
     # s "Done!"
-    s "Done!"
+    s "Done!" with vpunch
 
 # game/game/shika_events.rpy:4122
 translate ukrainian shika_eventsiete_d19f855d_2:
@@ -14409,7 +14410,7 @@ translate ukrainian shika_eventsiete_2b35b6fe_12:
 translate ukrainian shika_eventsiete_18f7c3b4:
 
     # s "Good! {w}Let's continue with another one!"
-    s "Good! {w}Let's continue with another one!"
+    s "Good! {w}Let's continue with another one!" with hpunch
 
 # game/game/shika_events.rpy:4126
 translate ukrainian shika_eventsiete_f93cba98:
@@ -14433,7 +14434,7 @@ translate ukrainian shika_eventsiete_f2caa485:
 translate ukrainian shika_eventsiete_887f9a26:
 
     # s "Hahahaha!"
-    s "Hahahaha!"
+    s "Hahahaha!" with vpunch
 
 # game/game/shika_events.rpy:4134
 translate ukrainian shika_eventsiete_96fa4360:
@@ -14445,7 +14446,7 @@ translate ukrainian shika_eventsiete_96fa4360:
 translate ukrainian shika_eventsiete_44d9151c:
 
     # c "{size=-6}Pgf... {w}Human..."
-    c "{size=-6}Pgf... {w}Human..."
+    c "{size=-6}Pgf... {w}Human..." with hpunch
 
 # game/game/shika_events.rpy:4141
 translate ukrainian shika_eventsiete_cac57d12:
@@ -14457,7 +14458,7 @@ translate ukrainian shika_eventsiete_cac57d12:
 translate ukrainian shika_eventsiete_f22b84f6:
 
     # s "Hahahahaha!"
-    s "Hahahahaha!"
+    s "Hahahahaha!" with hpunch
 
 # game/game/shika_events.rpy:4143
 translate ukrainian shika_eventsiete_ce826b5c:
@@ -14469,7 +14470,7 @@ translate ukrainian shika_eventsiete_ce826b5c:
 translate ukrainian shika_eventsiete_0568eb17:
 
     # s "Huhuhuhehehaaa!"
-    s "Huhuhuhehehaaa!"
+    s "Huhuhuhehehaaa!" with vpunch
 
 # game/game/shika_events.rpy:4149
 translate ukrainian shika_eventsiete_a6b76277:
@@ -14481,25 +14482,25 @@ translate ukrainian shika_eventsiete_a6b76277:
 translate ukrainian shika_eventsiete_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/shika_events.rpy:4151
 translate ukrainian shika_eventsiete_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/shika_events.rpy:4154
 translate ukrainian shika_eventsiete_2625237b:
 
     # s "Hahahahaha!"
-    s "Hahahahaha!"
+    s "Hahahahaha!" with vpunch
 
 # game/game/shika_events.rpy:4155
 translate ukrainian shika_eventsiete_8a53fc23:
 
     # s "He lost every game!"
-    s "He lost every game!"
+    s "He lost every game!" with hpunch
 
 # game/game/shika_events.rpy:4156
 translate ukrainian shika_eventsiete_fe8e408e:
@@ -14523,13 +14524,13 @@ translate ukrainian shika_eventsiete_c02df1f1:
 translate ukrainian shika_eventsiete_f0c78c10_1:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/shika_events.rpy:4161
 translate ukrainian shika_eventsiete_3ff4bc74_1:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
 # game/game/shika_events.rpy:4164
 translate ukrainian shika_eventsiete_4fcc983b:
@@ -14541,7 +14542,7 @@ translate ukrainian shika_eventsiete_4fcc983b:
 translate ukrainian shika_eventsiete_e3dffa38:
 
     # s "W-Why are you listening to him?!"
-    s "W-Why are you listening to him?!"
+    s "W-Why are you listening to him?!" with vpunch
 
 # game/game/shika_events.rpy:4170
 translate ukrainian shika_eventsiete_e8a3b92f:
@@ -14559,7 +14560,7 @@ translate ukrainian shika_eventsiete_f11c2129:
 translate ukrainian shika_eventsiete_bf194192:
 
     # s "C-Charlotte! {w}We are friends now, aren't we?!"
-    s "C-Charlotte! {w}We are friends now, aren't we?!"
+    s "C-Charlotte! {w}We are friends now, aren't we?!" with hpunch
 
 # game/game/shika_events.rpy:4173
 translate ukrainian shika_eventsiete_5ac3080a:
@@ -14583,7 +14584,7 @@ translate ukrainian shika_eventsiete_f417af70:
 translate ukrainian shika_eventsiete_8a19b87f:
 
     # s "You! {w}You have brainwashed them!"
-    s "You! {w}You have brainwashed them!"
+    s "You! {w}You have brainwashed them!" with hpunch
 
 # game/game/shika_events.rpy:4179
 translate ukrainian shika_eventsiete_b507c473:
@@ -14613,7 +14614,7 @@ translate ukrainian shika_eventsiete_016105a9:
 translate ukrainian shika_eventsiete_9b2ea0ed:
 
     # s "You have no proof! {w}Let me go! {w}I won fair and square!"
-    s "You have no proof! {w}Let me go! {w}I won fair and square!"
+    s "You have no proof! {w}Let me go! {w}I won fair and square!" with hpunch
 
 # game/game/shika_events.rpy:4186
 translate ukrainian shika_eventsiete_0786f686:
@@ -14643,7 +14644,7 @@ translate ukrainian shika_eventsiete_f9e9879b:
 translate ukrainian shika_eventsiete_b6984fe6:
 
     # s "L-Look, I can fix this! {w}How much do you want? {w}I have a lot of things and I can give you ice cream!"
-    s "L-Look, I can fix this! {w}How much do you want? {w}I have a lot of things and I can give you ice cream!"
+    s "L-Look, I can fix this! {w}How much do you want? {w}I have a lot of things and I can give you ice cream!" with vpunch
 
 # game/game/shika_events.rpy:4193
 translate ukrainian shika_eventsiete_03d4bb66:
@@ -14655,19 +14656,19 @@ translate ukrainian shika_eventsiete_03d4bb66:
 translate ukrainian shika_eventsiete_655395d5:
 
     # c "Haha..."
-    c "Haha..."
+    c "Haha..." (multiple=2)
 
 # game/game/shika_events.rpy:4195
 translate ukrainian shika_eventsiete_f29bbb96:
 
     # r "Hahaha~"
-    r "Hahaha~"
+    r "Hahaha~" (multiple=2)
 
 # game/game/shika_events.rpy:4197
 translate ukrainian shika_eventsiete_2a588a07:
 
     # s "[mc] {w}I-{w}I am sorry!"
-    s "[mc] {w}I-{w}I am sorry!"
+    s "[mc] {w}I-{w}I am sorry!" with hpunch
 
 # game/game/shika_events.rpy:4199
 translate ukrainian shika_eventsiete_42f51116:
@@ -14679,7 +14680,7 @@ translate ukrainian shika_eventsiete_42f51116:
 translate ukrainian shika_eventsiete_c4d579d0:
 
     # s "NooooOOoo!"
-    s "NooooOOoo!"
+    s "NooooOOoo!" with hpunch
 
 # game/game/shika_events.rpy:4202
 translate ukrainian shika_eventsiete_b9b89b4a:
@@ -14697,7 +14698,7 @@ translate ukrainian shika_eventsiete_8fea2db2:
 translate ukrainian shika_eventsiete_0177eb7e:
 
     # mc "Ryoko, {w}catch Charlotte!"
-    mc "Ryoko, {w}catch Charlotte!"
+    mc "Ryoko, {w}catch Charlotte!" with hpunch
 
 # game/game/shika_events.rpy:4208
 translate ukrainian shika_eventsiete_5d9497a5:
@@ -14709,7 +14710,7 @@ translate ukrainian shika_eventsiete_5d9497a5:
 translate ukrainian shika_eventsiete_8eb41455:
 
     # c "Eh! {w}Gnnya!"
-    c "Eh! {w}Gnnya!"
+    c "Eh! {w}Gnnya!" with hpunch
 
 # game/game/shika_events.rpy:4210
 translate ukrainian shika_eventsiete_d33524f5:
@@ -14763,7 +14764,7 @@ translate ukrainian shika_eventsiete_23e3d165:
 translate ukrainian shika_eventsiete_d19c6930:
 
     # ev "Hahahaha."
-    ev "Hahahaha."
+    ev "Hahahaha." with hpunch
 
 # game/game/shika_events.rpy:4226
 translate ukrainian shika_eventsiete_8d5e67c7:
@@ -14877,7 +14878,7 @@ translate ukrainian shika_eventocho_1edb6aa1:
 translate ukrainian shika_eventocho_4c51a522:
 
     # mc "Of course! {w}You don't have to ask me, you can do that whenever you want."
-    mc "Of course! {w}You don't have to ask me, you can do that whenever you want."
+    mc "Of course! {w}You don't have to ask me, you can do that whenever you want." with hpunch
 
 # game/game/shika_events.rpy:4278
 translate ukrainian shika_eventocho_3ee11f51:
@@ -14919,7 +14920,7 @@ translate ukrainian shika_eventocho_8f4fe20d:
 translate ukrainian shika_eventocho_bb8c250c:
 
     # s "I'm here!"
-    s "I'm here!"
+    s "I'm here!" with vpunch
 
 # game/game/shika_events.rpy:4291
 translate ukrainian shika_eventocho_8aa26765:
@@ -14937,13 +14938,13 @@ translate ukrainian shika_eventocho_f5d0c627:
 translate ukrainian shika_eventocho_bd5a7657:
 
     # s "Yay!~"
-    s "Yay!~"
+    s "Yay!~" (multiple=2)
 
 # game/game/shika_events.rpy:4295
 translate ukrainian shika_eventocho_7aae8c35:
 
     # r "Yay!~"
-    r "Yay!~"
+    r "Yay!~" (multiple=2)
 
 # game/game/shika_events.rpy:4297
 translate ukrainian shika_eventocho_e42af716:
@@ -14973,7 +14974,7 @@ translate ukrainian shika_eventocho_ba1ce50a:
 translate ukrainian shika_eventocho_a13412d8:
 
     # s "Completely naked!"
-    s "Completely naked!"
+    s "Completely naked!" with hpunch
 
 # game/game/shika_events.rpy:4304
 translate ukrainian shika_eventocho_2b35b6fe:
@@ -15021,13 +15022,13 @@ translate ukrainian shika_eventocho_45e9dc8d:
 translate ukrainian shika_eventocho_ec03c7a2:
 
     # s "Yees~"
-    s "Yees~"
+    s "Yees~" (multiple=2)
 
 # game/game/shika_events.rpy:4316
 translate ukrainian shika_eventocho_4f5fe58d:
 
     # r "Yees~"
-    r "Yees~"
+    r "Yees~" (multiple=2)
 
 # game/game/shika_events.rpy:4321
 translate ukrainian shika_eventocho_26619237:
@@ -15267,7 +15268,7 @@ translate ukrainian shika_eventocho_c82f0614:
 translate ukrainian shika_eventocho_0226d231:
 
     # s "I am not small!"
-    s "I am not small!"
+    s "I am not small!" with vpunch
 
 # game/game/shika_events.rpy:4394
 translate ukrainian shika_eventocho_1f5b224d:
@@ -15393,7 +15394,7 @@ translate ukrainian shika_eventocho_e1554201:
 translate ukrainian shika_eventocho_c02ba543:
 
     # s "Oi!"
-    s "Oi!"
+    s "Oi!" with vpunch
 
 # game/game/shika_events.rpy:4423
 translate ukrainian shika_eventocho_d33524f5:
@@ -15423,7 +15424,7 @@ translate ukrainian shika_gal4_d330c64d:
 translate ukrainian shika_gal4_57b75dfa:
 
     # s "I'm going to rub it until your cum comes out!"
-    s "I'm going to rub it until your cum comes out!"
+    s "I'm going to rub it until your cum comes out!" with vpunch
 
 # game/game/shika_events.rpy:4437
 translate ukrainian shika_gal4_2b35b6fe:
@@ -15519,7 +15520,7 @@ translate ukrainian shika_gal4_8fea2db2:
 translate ukrainian shika_gal4_97c66251:
 
     # s "Y-Yes! {w}I actually wanted to... do this while you were sleeping..."
-    s "Y-Yes! {w}I actually wanted to... do this while you were sleeping..."
+    s "Y-Yes! {w}I actually wanted to... do this while you were sleeping..." with hpunch
 
 # game/game/shika_events.rpy:4455
 translate ukrainian shika_gal4_a7bcf340:
@@ -15729,7 +15730,7 @@ translate ukrainian shika_gal5_vag_99805b29:
 translate ukrainian shika_gal5_vag_f650b7e8:
 
     # s "Hnm~~{image=corazon} {w}Tight is good?~{image=corazon}{image=corazon}"
-    s "Hnm~~{image=corazon} {w}Tight is good?~{image=corazon}{image=corazon}"
+    s "Hnm~~{image=corazon} {w}Tight is good?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4503
 translate ukrainian shika_gal5_vag_336ed2d6:
@@ -15765,7 +15766,7 @@ translate ukrainian shika_gal5_vag_576106f0:
 translate ukrainian shika_gal5_vag_422cd411:
 
     # s "Hehehe~{image=corazon} {w}y-you're getting deeper and deeper into me~{image=corazon}{image=corazon}"
-    s "Hehehe~{image=corazon} {w}y-you're getting deeper and deeper into me~{image=corazon}{image=corazon}"
+    s "Hehehe~{image=corazon} {w}y-you're getting deeper and deeper into me~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4510
 translate ukrainian shika_gal5_vag_1d82a7e7_1:
@@ -15783,19 +15784,19 @@ translate ukrainian shika_gal5_vag_ddd87f35:
 translate ukrainian shika_gal5_vag_2e2f9ac1:
 
     # s "D-Did you notice?~{image=corazon} {w}w-When I look at how you penetrate me down there, I get an itchy crotch..."
-    s "D-Did you notice?~{image=corazon} {w}w-When I look at how you penetrate me down there, I get an itchy crotch..."
+    s "D-Did you notice?~{image=corazon} {w}w-When I look at how you penetrate me down there, I get an itchy crotch..." with cumflash
 
 # game/game/shika_events.rpy:4513
 translate ukrainian shika_gal5_vag_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/shika_events.rpy:4514
 translate ukrainian shika_gal5_vag_ed300250:
 
     # s "AaaHnm!~{image=corazon}{image=corazon}"
-    s "AaaHnm!~{image=corazon}{image=corazon}"
+    s "AaaHnm!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4515
 translate ukrainian shika_gal5_vag_c2c3c640:
@@ -15843,7 +15844,7 @@ translate ukrainian shika_gal5_vag_a70dd0bc:
 translate ukrainian shika_gal5_vag_b3b0aad4:
 
     # s "Hnmh~{image=corazon}{image=corazon} {w} Aahhnm~{image=corazon} {w}I see...{image=corazon}{image=corazon}"
-    s "Hnmh~{image=corazon}{image=corazon} {w} Aahhnm~{image=corazon} {w}I see...{image=corazon}{image=corazon}"
+    s "Hnmh~{image=corazon}{image=corazon} {w} Aahhnm~{image=corazon} {w}I see...{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4525
 translate ukrainian shika_gal5_vag_647a9818:
@@ -15879,7 +15880,7 @@ translate ukrainian shika_gal5_vag_3d04d380:
 translate ukrainian shika_gal5_vag_ed5d1e99:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with vpunch
 
 # game/game/shika_events.rpy:4531
 translate ukrainian shika_gal5_vag_6274ae13:
@@ -15915,7 +15916,7 @@ translate ukrainian shika_gal5_vag_86766c6f:
 translate ukrainian shika_gal5_vag_3d75d220:
 
     # mc "Shika!"
-    mc "Shika!"
+    mc "Shika!" with vpunch
 
 # game/game/shika_events.rpy:4539
 translate ukrainian shika_gal5_vag_436f9129:
@@ -15933,7 +15934,7 @@ translate ukrainian shika_gal5_vag_e2789f95:
 translate ukrainian shika_gal5_vag_ea6b76b3:
 
     # s "W-Why do you like to.... {w}Ghgoognnm~{image=corazon}{image=corazon} {w}l-lift my legs?~{image=corazon}{image=corazon}"
-    s "W-Why do you like to.... {w}Ghgoognnm~{image=corazon}{image=corazon} {w}l-lift my legs?~{image=corazon}{image=corazon}"
+    s "W-Why do you like to.... {w}Ghgoognnm~{image=corazon}{image=corazon} {w}l-lift my legs?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4542
 translate ukrainian shika_gal5_vag_b4e5c94c:
@@ -15957,13 +15958,13 @@ translate ukrainian shika_gal5_vag_1ce783ff:
 translate ukrainian shika_gal5_vag_29d9d620:
 
     # s "[mc]!~{image=corazon} {w}I can't take it anymore...{image=corazon} {w}my mind goes blank!{image=corazon}{image=corazon}{image=corazon}"
-    s "[mc]!~{image=corazon} {w}I can't take it anymore...{image=corazon} {w}my mind goes blank!{image=corazon}{image=corazon}{image=corazon}"
+    s "[mc]!~{image=corazon} {w}I can't take it anymore...{image=corazon} {w}my mind goes blank!{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4546
 translate ukrainian shika_gal5_vag_144cb2df:
 
     # mc "I am already at my limit Shika!"
-    mc "I am already at my limit Shika!"
+    mc "I am already at my limit Shika!" with hpunch
 
 # game/game/shika_events.rpy:4547
 translate ukrainian shika_gal5_vag_e76f5c0d:
@@ -15987,13 +15988,13 @@ translate ukrainian shika_gal5_vag_4f4c4dbc:
 translate ukrainian shika_gal5_vag_4dcff924:
 
     # mc "N-Now!"
-    mc "N-Now!"
+    mc "N-Now!" with cumflash
 
 # game/game/shika_events.rpy:4557
 translate ukrainian shika_gal5_vag_b9ee4d47:
 
     # s "GOoghhnmnnmnhngm!!!~~{image=corazon}{image=corazon}{image=corazon}"
-    s "GOoghhnmnnmnhngm!!!~~{image=corazon}{image=corazon}{image=corazon}"
+    s "GOoghhnmnnmnhngm!!!~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:4563
 translate ukrainian shika_gal5_vag_9b6387bf:
@@ -16101,7 +16102,7 @@ translate ukrainian shika_gal5_anal_2b35b6fe:
 translate ukrainian shika_gal5_anal_ad7bfee2:
 
     # mc "W-What?!"
-    mc "W-What?!"
+    mc "W-What?!" with vpunch
 
 # game/game/shika_events.rpy:4599
 translate ukrainian shika_gal5_anal_769d1f78:
@@ -16209,7 +16210,7 @@ translate ukrainian shika_gal5_anal_0fe5fe0c:
 translate ukrainian shika_gal5_anal_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/shika_events.rpy:4621
 translate ukrainian shika_gal5_anal_4039eaf2:
@@ -16245,13 +16246,13 @@ translate ukrainian shika_gal5_anal_876cdf5f:
 translate ukrainian shika_gal5_anal_5274e2e4:
 
     # s "Hnmn!~{image=corazon}"
-    s "Hnmn!~{image=corazon}"
+    s "Hnmn!~{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4628
 translate ukrainian shika_gal5_anal_53068aa4:
 
     # mc "Heck... I w-was able to get in, b-but it's too tight!"
-    mc "Heck... I w-was able to get in, b-but it's too tight!"
+    mc "Heck... I w-was able to get in, b-but it's too tight!" with vpunch
 
 # game/game/shika_events.rpy:4629
 translate ukrainian shika_gal5_anal_df4f667f:
@@ -16269,7 +16270,7 @@ translate ukrainian shika_gal5_anal_df3a1151:
 translate ukrainian shika_gal5_anal_de14cb3d:
 
     # mc "I'm g-going to cum so f-fast with how good it feels..."
-    mc "I'm g-going to cum so f-fast with how good it feels..."
+    mc "I'm g-going to cum so f-fast with how good it feels..." with cumflash
 
 # game/game/shika_events.rpy:4632
 translate ukrainian shika_gal5_anal_69f8bd7a:
@@ -16347,7 +16348,7 @@ translate ukrainian shika_gal5_anal_7bed6faa:
 translate ukrainian shika_gal5_anal_7992bdb1:
 
     # mc "S-Shika!?"
-    mc "S-Shika!?"
+    mc "S-Shika!?" with hpunch
 
 # game/game/shika_events.rpy:4647
 translate ukrainian shika_gal5_anal_1ba865db:
@@ -16359,13 +16360,13 @@ translate ukrainian shika_gal5_anal_1ba865db:
 translate ukrainian shika_gal5_anal_47841dac:
 
     # t "S-Shika keeps squeezing me!"
-    t "S-Shika keeps squeezing me!"
+    t "S-Shika keeps squeezing me!" with hpunch
 
 # game/game/shika_events.rpy:4649
 translate ukrainian shika_gal5_anal_9f5b6500:
 
     # s "T-This feels...{w}Haaanm~~{image=corazon} {w}veeeeery good~{image=corazon}{image=corazon}"
-    s "T-This feels...{w}Haaanm~~{image=corazon} {w}veeeeery good~{image=corazon}{image=corazon}"
+    s "T-This feels...{w}Haaanm~~{image=corazon} {w}veeeeery good~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4650
 translate ukrainian shika_gal5_anal_51939bf3:
@@ -16395,7 +16396,7 @@ translate ukrainian shika_gal5_anal_3a16a3fe:
 translate ukrainian shika_gal5_anal_f75c5e5d:
 
     # s "Haanm~{image=corazon}{image=corazon} {w}Mnhnm~{image=corazon} {w}R-Right there...{image=corazon}{image=corazon}"
-    s "Haanm~{image=corazon}{image=corazon} {w}Mnhnm~{image=corazon} {w}R-Right there...{image=corazon}{image=corazon}"
+    s "Haanm~{image=corazon}{image=corazon} {w}Mnhnm~{image=corazon} {w}R-Right there...{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4655
 translate ukrainian shika_gal5_anal_580c9b85:
@@ -16407,13 +16408,13 @@ translate ukrainian shika_gal5_anal_580c9b85:
 translate ukrainian shika_gal5_anal_685379e9:
 
     # s "Lies!~ {w}Hnaam~{image=corazon}{image=corazon} {w}Mhnm~{image=corazon}"
-    s "Lies!~ {w}Hnaam~{image=corazon}{image=corazon} {w}Mhnm~{image=corazon}"
+    s "Lies!~ {w}Hnaam~{image=corazon}{image=corazon} {w}Mhnm~{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4657
 translate ukrainian shika_gal5_anal_7d7af661:
 
     # mc "Shika, {w}I'm already at my limit!"
-    mc "Shika, {w}I'm already at my limit!"
+    mc "Shika, {w}I'm already at my limit!" with hpunch
 
 # game/game/shika_events.rpy:4658
 translate ukrainian shika_gal5_anal_0b031d76:
@@ -16473,7 +16474,7 @@ translate ukrainian shika_gal5_anal_997aa3b1:
 translate ukrainian shika_gal5_anal_efb49362:
 
     # s "I-I've been doing it for a while now~{image=corazon}{image=corazon} {w}H-hehe~{image=corazon}"
-    s "I-I've been doing it for a while now~{image=corazon}{image=corazon} {w}H-hehe~{image=corazon}"
+    s "I-I've been doing it for a while now~{image=corazon}{image=corazon} {w}H-hehe~{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4670
 translate ukrainian shika_gal5_anal_9515c424:
@@ -16491,25 +16492,25 @@ translate ukrainian shika_gal5_anal_9f2382ae:
 translate ukrainian shika_gal5_anal_91e2ebf8:
 
     # mc "N-Now!"
-    mc "N-Now!"
+    mc "N-Now!" with hpunch
 
 # game/game/shika_events.rpy:4680
 translate ukrainian shika_gal5_anal_19d5a218:
 
     # s "HhmmhhmNHNHmnhm!!~~{image=corazon}{image=corazon}{image=corazon}"
-    s "HhmmhhmNHNHmnhm!!~~{image=corazon}{image=corazon}{image=corazon}"
+    s "HhmmhhmNHNHmnhm!!~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/shika_events.rpy:4681
 translate ukrainian shika_gal5_anal_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/shika_events.rpy:4685
 translate ukrainian shika_gal5_anal_cf5ae19a:
 
     # s "OooghhhMnNnm~{image=corazon}{image=corazon}{image=corazon}"
-    s "OooghhhMnNnm~{image=corazon}{image=corazon}{image=corazon}"
+    s "OooghhhMnNnm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/shika_events.rpy:4687
 translate ukrainian shika_gal5_anal_9caf75a0:
@@ -16647,7 +16648,7 @@ translate ukrainian shika_eventocho_next_91ade215:
 translate ukrainian shika_eventocho_next_896ec21e:
 
     # s "Oh? Really? {w}Where? {w}Can I come?"
-    s "Oh? Really? {w}Where? {w}Can I come?"
+    s "Oh? Really? {w}Where? {w}Can I come?" with hpunch
 
 # game/game/shika_events.rpy:4741
 translate ukrainian shika_eventocho_next_2e81012b:
@@ -16701,7 +16702,7 @@ translate ukrainian shika_eventocho_next_e1554201:
 translate ukrainian shika_eventocho_next_ec90b78f:
 
     # s "Why do you say it as if Shika is something completely different from everyone else!"
-    s "Why do you say it as if Shika is something completely different from everyone else!"
+    s "Why do you say it as if Shika is something completely different from everyone else!" with hpunch
 
 # game/game/shika_events.rpy:4760
 translate ukrainian shika_eventocho_next_1f5b224d:
@@ -16797,13 +16798,13 @@ translate ukrainian shika_magic_b8f10d16:
 translate ukrainian shika_magic_af0ddd8d:
 
     # s "Come! I'll show you!"
-    s "Come! I'll show you!"
+    s "Come! I'll show you!" with vpunch
 
 # game/game/shika_events.rpy:4789
 translate ukrainian shika_magic_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/shika_events.rpy:4791
 translate ukrainian shika_magic_fc046e93:
@@ -16821,13 +16822,13 @@ translate ukrainian shika_magic_147f46a3:
 translate ukrainian shika_magic_dc2fdb15:
 
     # mc "Shika!"
-    mc "Shika!"
+    mc "Shika!" (multiple=2)
 
 # game/game/shika_events.rpy:4799
 translate ukrainian shika_magic_56d2b2e6:
 
     # s "Ah-"
-    s "Ah-"
+    s "Ah-" (multiple=2)
 
 # game/game/shika_events.rpy:4800
 translate ukrainian shika_magic_c386113c:
@@ -16905,7 +16906,7 @@ translate ukrainian shika_magic_7115bd5f:
 translate ukrainian shika_magic_7abb1361:
 
     # s "Will I be bald?!"
-    s "Will I be bald?!"
+    s "Will I be bald?!" with hpunch
 
 # game/game/shika_events.rpy:4818
 translate ukrainian shika_magic_8e9ec93b:
@@ -17073,7 +17074,7 @@ translate ukrainian shika_magic_2ea9e73e_1:
 translate ukrainian shika_magic_38060a92:
 
     # s "Hey!"
-    s "Hey!"
+    s "Hey!" with hpunch
 
 # game/game/shika_events.rpy:4858
 translate ukrainian shika_magic_1ca7820c:
@@ -17205,7 +17206,7 @@ translate ukrainian same_feelings_9a1e7f19:
 translate ukrainian same_feelings_86d487fd:
 
     # s "Just do it!"
-    s "Just do it!"
+    s "Just do it!" with vpunch
 
 # game/game/shika_events.rpy:4902
 translate ukrainian same_feelings_5a1272b9:
@@ -17355,7 +17356,7 @@ translate ukrainian same_feelings_2ff7e502:
 translate ukrainian same_feelings_28879017:
 
     # s "Really?! {w}Show me!"
-    s "Really?! {w}Show me!"
+    s "Really?! {w}Show me!" with vpunch
 
 # game/game/shika_events.rpy:4942
 translate ukrainian same_feelings_b96533fe:
@@ -17367,7 +17368,7 @@ translate ukrainian same_feelings_b96533fe:
 translate ukrainian same_feelings_85f5bb4c:
 
     # s "Come on! {w}Give it a try!"
-    s "Come on! {w}Give it a try!"
+    s "Come on! {w}Give it a try!" with vpunch
 
 # game/game/shika_events.rpy:4945
 translate ukrainian same_feelings_2b391c94:
@@ -17445,7 +17446,7 @@ translate ukrainian same_feelings_a8bd5afe:
 translate ukrainian same_feelings_0ce9f349:
 
     # mc "No!"
-    mc "No!"
+    mc "No!" with vpunch
 
 # game/game/shika_events.rpy:4964
 translate ukrainian same_feelings_20f3fd16:
@@ -17541,7 +17542,7 @@ translate ukrainian same_feelings_89e08697:
 translate ukrainian same_feelings_d56cae18:
 
     # mc "Shika!?"
-    mc "Shika!?"
+    mc "Shika!?" with hpunch
 
 # game/game/shika_events.rpy:4986
 translate ukrainian same_feelings_27f8fae8:
@@ -17613,7 +17614,7 @@ translate ukrainian same_feelings_390859b3:
 translate ukrainian same_feelings_d4982a4a:
 
     # s "Yaay!~{image=corazon}"
-    s "Yaay!~{image=corazon}"
+    s "Yaay!~{image=corazon}" with hpunch
 
 translate ukrainian strings:
 

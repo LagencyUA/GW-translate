@@ -249,7 +249,7 @@ translate ukrainian ignis_explain_4151c6ac:
 translate ukrainian ignis_explain_f51a540c:
 
     # ign "\"And all that\"~ {w}Hehe~"
-    ign "\"And all that\"~ {w}Hehe~"
+    ign "\"And all that\"~ {w}Hehe~" with vpunch
 
 # game/game/ignis_events.rpy:74
 translate ukrainian ignis_explain_353edfa3:
@@ -501,13 +501,13 @@ translate ukrainian ignis_explain_d15ece18:
 translate ukrainian ignis_explain_64974ace:
 
     # mc "{i}Ignis?"
-    mc "{i}Ignis?"
+    mc "{i}Ignis?" (multiple=2)
 
 # game/game/ignis_events.rpy:130
 translate ukrainian ignis_explain_2d60c41a:
 
     # ign "{sc=1}{outlinecolor=#000000}{size=-8}Aah?!"
-    ign "{sc=1}{outlinecolor=#000000}{size=-8}Aah?!"
+    ign "{sc=1}{outlinecolor=#000000}{size=-8}Aah?!" (multiple=2)
 
 # game/game/ignis_events.rpy:131
 translate ukrainian ignis_explain_95c7633a:
@@ -543,7 +543,7 @@ translate ukrainian ignis_explain_97c78907:
 translate ukrainian ignis_explain_88c0799f:
 
     # ign "Stop it...!"
-    ign "Stop it...!"
+    ign "Stop it...!" with hpunch
 
 # game/game/ignis_events.rpy:139
 translate ukrainian ignis_explain_af40f385:
@@ -873,7 +873,7 @@ translate ukrainian ignis_explain_fd945a21:
 translate ukrainian ignis_explain_457acf8b:
 
     # ign "Awesome!!"
-    ign "Awesome!!"
+    ign "Awesome!!" with hpunch
 
 # game/game/ignis_events.rpy:206
 translate ukrainian ignis_explain_37ca65c7:
@@ -897,7 +897,7 @@ translate ukrainian ignis_explain_cba83754:
 translate ukrainian ignis_explain_24d44707:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}GHNmg?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}GHNmg?"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}GHNmg?" with hpunch
 
 # game/game/ignis_events.rpy:217
 translate ukrainian ignis_explain_427e4a2a:
@@ -927,13 +927,13 @@ translate ukrainian ignis_explain_dbcca384:
 translate ukrainian ignis_explain_b96c143e:
 
     # ign "{sc=1}{outlinecolor=#000000}{size=-8}Puha!~"
-    ign "{sc=1}{outlinecolor=#000000}{size=-8}Puha!~"
+    ign "{sc=1}{outlinecolor=#000000}{size=-8}Puha!~" with vpunch
 
 # game/game/ignis_events.rpy:224
 translate ukrainian ignis_explain_8f6c03cb:
 
     # mc "W-What was that!?"
-    mc "W-What was that!?"
+    mc "W-What was that!?" with hpunch
 
 # game/game/ignis_events.rpy:227
 translate ukrainian ignis_explain_003be934_1:
@@ -963,7 +963,7 @@ translate ukrainian ignis_explain_2ffa55e1:
 translate ukrainian ignis_explain_6c70d45b:
 
     # t "Their customs don't make any sense!"
-    t "Their customs don't make any sense!"
+    t "Their customs don't make any sense!" with hpunch
 
 # game/game/ignis_events.rpy:233
 translate ukrainian ignis_explain_0958110e:
@@ -1011,7 +1011,7 @@ translate ukrainian ignis_explain_106e100c:
 translate ukrainian ignis_explain_9b562e03:
 
     # mc "I have something important to do! I've got to go!"
-    mc "I have something important to do! I've got to go!"
+    mc "I have something important to do! I've got to go!" with vpunch
 
 # game/game/ignis_events.rpy:244
 translate ukrainian ignis_explain_003be934_2:
@@ -1029,7 +1029,7 @@ translate ukrainian ignis_explain_14429787:
 translate ukrainian ignis_explain_3ffb7edf:
 
     # t "Go to sleep already!"
-    t "Go to sleep already!"
+    t "Go to sleep already!" with hpunch
 
 # game/game/ignis_events.rpy:256
 translate ukrainian ignis_explain_069e9e14:
@@ -1041,7 +1041,7 @@ translate ukrainian ignis_explain_069e9e14:
 translate ukrainian ignis_explain_6d60cf5d:
 
     # t "Shut up!"
-    t "Shut up!"
+    t "Shut up!" with vpunch
 
 translate ukrainian strings:
 

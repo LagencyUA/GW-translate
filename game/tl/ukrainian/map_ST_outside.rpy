@@ -1,5 +1,5 @@
-
-# game/game/map_ST_outside.rpy:149
+﻿
+# game/game/map_ST_outside.rpy:223
 translate ukrainian ST_applezone_50cab915:
 
     # t "It is not a good time to get out of the barrier."

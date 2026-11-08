@@ -45,7 +45,7 @@ translate ukrainian char_bath_join_80f80ead:
 translate ukrainian char_bath_join_8ec13cd7:
 
     # "{color=#86CDB7}Ghg!"
-    "{color=#86CDB7}Ghg!"
+    "{color=#86CDB7}Ghg!" with hpunch
 
 # game/game/bath_events.rpy:29
 translate ukrainian char_bath_join_2de971eb:
@@ -87,7 +87,7 @@ translate ukrainian char_bath_join_04c8b564:
 translate ukrainian char_bath_join_ccaf12a6:
 
     # c "{sc=2}{outlinecolor=#000000}...!"
-    c "{sc=2}{outlinecolor=#000000}...!"
+    c "{sc=2}{outlinecolor=#000000}...!" with hpunch
 
 # game/game/bath_events.rpy:41
 translate ukrainian char_bath_join_6b523d7c:
@@ -123,7 +123,7 @@ translate ukrainian char_bath_join_b248a661:
 translate ukrainian char_bath_join_fd42a580:
 
     # c "Do you want to die, Human?"
-    c "Do you want to die, Human?"
+    c "Do you want to die, Human?" with vpunch
 
 # game/game/bath_events.rpy:48
 translate ukrainian char_bath_join_1f5b224d:
@@ -219,7 +219,7 @@ translate ukrainian char_bath_join_519eacf2:
 translate ukrainian char_bath_join_ab6bbf7a:
 
     # c "I don't know... {w}Hngm~{image=corazon} {w}it just feels strange..."
-    c "I don't know... {w}Hngm~{image=corazon} {w}it just feels strange..."
+    c "I don't know... {w}Hngm~{image=corazon} {w}it just feels strange..." with cumflash
 
 # game/game/bath_events.rpy:65
 translate ukrainian char_bath_join_71d973d5:
@@ -261,7 +261,7 @@ translate ukrainian char_bath_join_46dbd9fb:
 translate ukrainian char_bath_join_1c7a9209:
 
     # mc "Gnh!"
-    mc "Gnh!"
+    mc "Gnh!" with cumflash
 
 # game/game/bath_events.rpy:72
 translate ukrainian char_bath_join_482ccc82:
@@ -285,13 +285,13 @@ translate ukrainian char_bath_join_7a2fdd4d:
 translate ukrainian char_bath_join_b448ee1e:
 
     # c "HNnhm?!~{image=corazon}{image=corazon}"
-    c "HNnhm?!~{image=corazon}{image=corazon}"
+    c "HNnhm?!~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/bath_events.rpy:78
 translate ukrainian char_bath_join_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/bath_events.rpy:79
 translate ukrainian char_bath_join_9981a2ec:
@@ -327,7 +327,7 @@ translate ukrainian char_bath_join_a885102e:
 translate ukrainian char_bath_join_607ee18b:
 
     # c "Aaah~{image=corazon}{image=corazon} {w}B-But your sexual desire has no limits... {w}GHNmh~{image=corazon}"
-    c "Aaah~{image=corazon}{image=corazon} {w}B-But your sexual desire has no limits... {w}GHNmh~{image=corazon}"
+    c "Aaah~{image=corazon}{image=corazon} {w}B-But your sexual desire has no limits... {w}GHNmh~{image=corazon}" with cumflash
 
 # game/game/bath_events.rpy:85
 translate ukrainian char_bath_join_a99e2ab5:
@@ -357,13 +357,13 @@ translate ukrainian char_bath_join_64ec5213:
 translate ukrainian char_bath_join_bd345cff:
 
     # c "{sc=2}{outlinecolor=#000000}Gnhgmhhng~{image=corazon}{image=corazon}{image=corazon}"
-    c "{sc=2}{outlinecolor=#000000}Gnhgmhhng~{image=corazon}{image=corazon}{image=corazon}"
+    c "{sc=2}{outlinecolor=#000000}Gnhgmhhng~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/bath_events.rpy:93
 translate ukrainian char_bath_join_baf4d122:
 
     # t "S-She doesn't stop moving."
-    t "S-She doesn't stop moving."
+    t "S-She doesn't stop moving." with vpunch
 
 # game/game/bath_events.rpy:94
 translate ukrainian char_bath_join_9c152083:
@@ -405,7 +405,7 @@ translate ukrainian char_bath_join_5f8c4dbc:
 translate ukrainian char_bath_join_20cfe930:
 
     # c "NHhnmh~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon} {w}I-I'm going to c-cum again..."
-    c "NHhnmh~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon} {w}I-I'm going to c-cum again..."
+    c "NHhnmh~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon} {w}I-I'm going to c-cum again..." with cumflash
 
 # game/game/bath_events.rpy:101
 translate ukrainian char_bath_join_3fd5449a:
@@ -423,7 +423,7 @@ translate ukrainian char_bath_join_442c71ab:
 translate ukrainian char_bath_join_2ee70b33:
 
     # mc "C-Charlotte!"
-    mc "C-Charlotte!"
+    mc "C-Charlotte!" with hpunch
 
 # game/game/bath_events.rpy:104
 translate ukrainian char_bath_join_1daeda0d:
@@ -435,25 +435,25 @@ translate ukrainian char_bath_join_1daeda0d:
 translate ukrainian char_bath_join_676ace32:
 
     # c "{sc=3}{outlinecolor=#000000}AaaaghnNmnMNm~{image=corazon}{image=corazon}{image=corazon}"
-    c "{sc=3}{outlinecolor=#000000}AaaaghnNmnMNm~{image=corazon}{image=corazon}{image=corazon}"
+    c "{sc=3}{outlinecolor=#000000}AaaaghnNmnMNm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/bath_events.rpy:118
 translate ukrainian char_bath_join_d50096ac:
 
     # c "{sc=3}{outlinecolor=#000000}GMhnhmgnmhh~~{image=corazon}{image=corazon}"
-    c "{sc=3}{outlinecolor=#000000}GMhnhmgnmhh~~{image=corazon}{image=corazon}"
+    c "{sc=3}{outlinecolor=#000000}GMhnhmgnmhh~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/bath_events.rpy:121
 translate ukrainian char_bath_join_94c8c1a5:
 
     # c "{sc=2}{outlinecolor=#000000}{i}{size=-6}Haaa... Haa..."
-    c "{sc=2}{outlinecolor=#000000}{i}{size=-6}Haaa... Haa..."
+    c "{sc=2}{outlinecolor=#000000}{i}{size=-6}Haaa... Haa..." (multiple=2)
 
 # game/game/bath_events.rpy:122
 translate ukrainian char_bath_join_4fa2acbb:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Haa..."
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Haa..."
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Haa..." (multiple=2)
 
 # game/game/bath_events.rpy:125
 translate ukrainian char_bath_join_d7c4a413:

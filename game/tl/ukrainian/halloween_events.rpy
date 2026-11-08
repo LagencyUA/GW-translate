@@ -33,7 +33,7 @@ translate ukrainian akane_halluno_f4b2784a:
 translate ukrainian akane_halluno_c7f6ec24:
 
     # "{size=-10}Gasp!*"
-    "{size=-10}Gasp!*"
+    "{size=-10}Gasp!*" with hpunch
 
 # game/game/halloween_events.rpy:14
 translate ukrainian akane_halluno_c0199411:
@@ -219,7 +219,7 @@ translate ukrainian akane_halluno_df3265bc:
 translate ukrainian akane_halluno_a9e6c0ab:
 
     # mc "Nice!"
-    mc "Nice!"
+    mc "Nice!" with vpunch
 
 # game/game/halloween_events.rpy:64
 translate ukrainian akane_halluno_de06501b:
@@ -417,7 +417,7 @@ translate ukrainian ryoko_halluno_073852b7:
 translate ukrainian ryoko_halluno_4c6f414f:
 
     # r "Understood!"
-    r "Understood!"
+    r "Understood!" with vpunch
 
 # game/game/halloween_events.rpy:128
 translate ukrainian ryoko_halluno_19be7152:
@@ -1011,7 +1011,7 @@ translate ukrainian char_halluno_4b489c83_1:
 translate ukrainian char_halluno_7e212a84:
 
     # mc "Perfect!"
-    mc "Perfect!"
+    mc "Perfect!" with vpunch
 
 # game/game/halloween_events.rpy:279
 translate ukrainian char_halluno_b6e1bc4a:
@@ -1137,7 +1137,7 @@ translate ukrainian shikana_halluno_6eebfa7f:
 translate ukrainian shikana_halluno_5d683cd7:
 
     # s "H-Hey! {w}Where are you going?"
-    s "H-Hey! {w}Where are you going?"
+    s "H-Hey! {w}Where are you going?" with vpunch
 
 # game/game/halloween_events.rpy:322
 translate ukrainian shikana_halluno_0bf4879a:
@@ -1149,13 +1149,13 @@ translate ukrainian shikana_halluno_0bf4879a:
 translate ukrainian shikana_halluno_acc9c77b:
 
     # s "No! {w}Ask me for anything! {w}I will help you!"
-    s "No! {w}Ask me for anything! {w}I will help you!"
+    s "No! {w}Ask me for anything! {w}I will help you!" with hpunch
 
 # game/game/halloween_events.rpy:325
 translate ukrainian shikana_halluno_0ae3832e:
 
     # s "I will kiss your feet! {w}I'll kiss you anything you want!"
-    s "I will kiss your feet! {w}I'll kiss you anything you want!"
+    s "I will kiss your feet! {w}I'll kiss you anything you want!" with hpunch
 
 # game/game/halloween_events.rpy:326
 translate ukrainian shikana_halluno_b7d48c4e:
@@ -1203,13 +1203,13 @@ translate ukrainian shikana_halluno_d8f7b82c:
 translate ukrainian shikana_halluno_0d4c8355:
 
     # s "Oh, {w}that sounds interesting!"
-    s "Oh, {w}that sounds interesting!"
+    s "Oh, {w}that sounds interesting!" with hpunch
 
 # game/game/halloween_events.rpy:337
 translate ukrainian shikana_halluno_8157d7bd:
 
     # s "Let's go!"
-    s "Let's go!"
+    s "Let's go!" with vpunch
 
 # game/game/halloween_events.rpy:339
 translate ukrainian shikana_halluno_1f5b224d:
@@ -1233,7 +1233,7 @@ translate ukrainian shikana_halluno_f830dbb1:
 translate ukrainian shikana_halluno_ed754062:
 
     # s "I hope it's about ice cream!"
-    s "I hope it's about ice cream!"
+    s "I hope it's about ice cream!" with vpunch
 
 # game/game/halloween_events.rpy:343
 translate ukrainian shikana_halluno_2b35b6fe_1:
@@ -1281,7 +1281,7 @@ translate ukrainian shikana_halluno_b75cadb3:
 translate ukrainian shikana_halluno_39f48765:
 
     # s "Hey! {w}Why don't you ever greet me like that?"
-    s "Hey! {w}Why don't you ever greet me like that?"
+    s "Hey! {w}Why don't you ever greet me like that?" with hpunch
 
 # game/game/halloween_events.rpy:355
 translate ukrainian shikana_halluno_93237549:
@@ -1293,7 +1293,7 @@ translate ukrainian shikana_halluno_93237549:
 translate ukrainian shikana_halluno_508866ec:
 
     # s "Hey!"
-    s "Hey!"
+    s "Hey!" with vpunch
 
 # game/game/halloween_events.rpy:357
 translate ukrainian shikana_halluno_9ae3d328:
@@ -1317,19 +1317,19 @@ translate ukrainian shikana_halluno_a422f522:
 translate ukrainian shikana_halluno_a1bc6bbc:
 
     # s "Don't pretend I'm not here!!"
-    s "Don't pretend I'm not here!!"
+    s "Don't pretend I'm not here!!" with vpunch
 
 # game/game/halloween_events.rpy:363
 translate ukrainian shikana_halluno_5b80fb35:
 
     # mc "Hahahaha."
-    mc "Hahahaha."
+    mc "Hahahaha." (multiple=2)
 
 # game/game/halloween_events.rpy:364
 translate ukrainian shikana_halluno_b113cd16:
 
     # h "Hahaha~{image=corazon}"
-    h "Hahaha~{image=corazon}"
+    h "Hahaha~{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:365
 translate ukrainian shikana_halluno_a6d4ccc4:
@@ -1359,7 +1359,7 @@ translate ukrainian shikana_halluno_9175bfcd:
 translate ukrainian shikana_halluno_d8b8cc2c:
 
     # s "Of course! {w}Not as much as ice cream, but yes!"
-    s "Of course! {w}Not as much as ice cream, but yes!"
+    s "Of course! {w}Not as much as ice cream, but yes!" with vpunch
 
 # game/game/halloween_events.rpy:371
 translate ukrainian shikana_halluno_9fc61086:
@@ -1371,7 +1371,7 @@ translate ukrainian shikana_halluno_9fc61086:
 translate ukrainian shikana_halluno_8b421dea:
 
     # s "Yes!"
-    s "Yes!"
+    s "Yes!" with vpunch
 
 # game/game/halloween_events.rpy:374
 translate ukrainian shikana_halluno_606a5b77:
@@ -1449,7 +1449,7 @@ translate ukrainian shikana_halluno_11c85670:
 translate ukrainian shikana_halluno_8e373443:
 
     # s "Yes! {w}I will eat lots of candy!"
-    s "Yes! {w}I will eat lots of candy!"
+    s "Yes! {w}I will eat lots of candy!" with vpunch
 
 # game/game/halloween_events.rpy:395
 translate ukrainian shikana_halluno_ae26f641:
@@ -1599,7 +1599,7 @@ translate ukrainian shikana_halluno_444a9ba9:
 translate ukrainian shikana_halluno_94cbd796:
 
     # s "That way I would look like a clown!"
-    s "That way I would look like a clown!"
+    s "That way I would look like a clown!" with vpunch
 
 # game/game/halloween_events.rpy:435
 translate ukrainian shikana_halluno_cfd3a6af:
@@ -1797,7 +1797,7 @@ translate ukrainian yui_halluno_1232f93a:
 translate ukrainian yui_halluno_c1b2ad28:
 
     # mc "E-Eh? {w}Why?"
-    mc "E-Eh? {w}Why?"
+    mc "E-Eh? {w}Why?" with vpunch
 
 # game/game/halloween_events.rpy:494
 translate ukrainian yui_halluno_54cd9938:
@@ -1827,7 +1827,7 @@ translate ukrainian yui_halluno_fb4bed7a:
 translate ukrainian yui_halluno_51c6cf6e:
 
     # y "Hey! {w}Stop right there!"
-    y "Hey! {w}Stop right there!"
+    y "Hey! {w}Stop right there!" with vpunch
 
 # game/game/halloween_events.rpy:503
 translate ukrainian yui_halluno_0082432b:
@@ -1851,7 +1851,7 @@ translate ukrainian yui_halluno_71a86863:
 translate ukrainian yui_halluno_c3fc89d9:
 
     # y "Idiot!"
-    y "Idiot!"
+    y "Idiot!" with vpunch
 
 # game/game/halloween_events.rpy:508
 translate ukrainian yui_halluno_4a21220a:
@@ -1893,7 +1893,7 @@ translate ukrainian yui_halluno_138eba0a:
 translate ukrainian yui_halluno_37d3e1e6:
 
     # y "What a thing you say! {w}Stop saying such embarrassing things!"
-    y "What a thing you say! {w}Stop saying such embarrassing things!"
+    y "What a thing you say! {w}Stop saying such embarrassing things!" with vpunch
 
 # game/game/halloween_events.rpy:517
 translate ukrainian yui_halluno_51dc9ec2:
@@ -1929,7 +1929,7 @@ translate ukrainian yui_halluno_c4e8cbe3:
 translate ukrainian yui_halluno_cfafd8f8:
 
     # mc "GASP*"
-    mc "GASP*"
+    mc "GASP*" with hpunch
 
 # game/game/halloween_events.rpy:525
 translate ukrainian yui_halluno_263bd340:
@@ -1953,7 +1953,7 @@ translate ukrainian yui_halluno_b50c2f24:
 translate ukrainian yui_halluno_066880d1:
 
     # y "It's just a maybe!"
-    y "It's just a maybe!"
+    y "It's just a maybe!" with vpunch
 
 # game/game/halloween_events.rpy:530
 translate ukrainian yui_halluno_4cf41f2f:
@@ -2001,7 +2001,7 @@ translate ukrainian yui_halluno_3d54370d:
 translate ukrainian yui_halluno_044275ff:
 
     # y "I said maybe!"
-    y "I said maybe!"
+    y "I said maybe!" with hpunch
 
 # game/game/halloween_events.rpy:548
 translate ukrainian yui_halluno_d33524f5:
@@ -2067,7 +2067,7 @@ translate ukrainian mayu_halluno_18a15671:
 translate ukrainian mayu_halluno_a096461f:
 
     # ma "Tomoe!"
-    ma "Tomoe!"
+    ma "Tomoe!" with vpunch
 
 # game/game/halloween_events.rpy:572
 translate ukrainian mayu_halluno_2b35b6fe_1:
@@ -2205,7 +2205,7 @@ translate ukrainian mayu_halluno_1d431962:
 translate ukrainian mayu_halluno_ad8afc31:
 
     # ma "No bugs or insects!"
-    ma "No bugs or insects!"
+    ma "No bugs or insects!" with vpunch
 
 # game/game/halloween_events.rpy:602
 translate ukrainian mayu_halluno_a9eeec3d:
@@ -2217,7 +2217,7 @@ translate ukrainian mayu_halluno_a9eeec3d:
 translate ukrainian mayu_halluno_041ef5f0:
 
     # ma "Yes! {w}I wouldn't want to be here looking at those things stuck to the wall!"
-    ma "Yes! {w}I wouldn't want to be here looking at those things stuck to the wall!"
+    ma "Yes! {w}I wouldn't want to be here looking at those things stuck to the wall!" with vpunch
 
 # game/game/halloween_events.rpy:605
 translate ukrainian mayu_halluno_87ab5003:
@@ -2265,7 +2265,7 @@ translate ukrainian mayu_halluno_f55d0381:
 translate ukrainian mayu_halluno_5ab20aaa:
 
     # ma "Can you imagine an armor made of wood?!"
-    ma "Can you imagine an armor made of wood?!"
+    ma "Can you imagine an armor made of wood?!" with hpunch
 
 # game/game/halloween_events.rpy:616
 translate ukrainian mayu_halluno_c39b4702:
@@ -2361,7 +2361,7 @@ translate ukrainian mayu_halluno_5241197c:
 translate ukrainian mayu_halluno_ab81e0e6:
 
     # ma "Okay! {w}Byebye [mc]!"
-    ma "Okay! {w}Byebye [mc]!"
+    ma "Okay! {w}Byebye [mc]!" with vpunch
 
 # game/game/halloween_events.rpy:643
 translate ukrainian mayu_halluno_a0c826f8:
@@ -2403,7 +2403,7 @@ translate ukrainian tomoe_hallprep_76a2a61d:
 translate ukrainian tomoe_hallprep_5c7ac574:
 
     # "...!"
-    "...!"
+    "...!" with vpunch
 
 # game/game/halloween_events.rpy:666
 translate ukrainian tomoe_hallprep_fb2e5377:
@@ -2457,7 +2457,7 @@ translate ukrainian tomoe_hallprep_414f63c3:
 translate ukrainian tomoe_hallprep_24033084:
 
     # to "TOMOE!"
-    to "TOMOE!"
+    to "TOMOE!" with vpunch
 
 # game/game/halloween_events.rpy:678
 translate ukrainian tomoe_hallprep_2b35b6fe_1:
@@ -2475,13 +2475,13 @@ translate ukrainian tomoe_hallprep_c1dff962:
 translate ukrainian tomoe_hallprep_a64410e5:
 
     # to "Give me a few seconds to change my clothes!"
-    to "Give me a few seconds to change my clothes!"
+    to "Give me a few seconds to change my clothes!" with hpunch
 
 # game/game/halloween_events.rpy:682
 translate ukrainian tomoe_hallprep_0fcc1a4f:
 
     # to "I'll be right back!"
-    to "I'll be right back!"
+    to "I'll be right back!" with vpunch
 
 # game/game/halloween_events.rpy:683
 translate ukrainian tomoe_hallprep_a04e7b68:
@@ -2523,7 +2523,7 @@ translate ukrainian tomoe_hallprep_2b4fc24d:
 translate ukrainian tomoe_hallprep_6ad6427b:
 
     # to "I'm back!"
-    to "I'm back!"
+    to "I'm back!" with vpunch
 
 # game/game/halloween_events.rpy:694
 translate ukrainian tomoe_hallprep_87d42064:
@@ -2685,7 +2685,7 @@ translate ukrainian tomoe_hallprep_0c7e05da:
 translate ukrainian tomoe_hallprep_6f736425:
 
     # to "Oh, hey, wait!"
-    to "Oh, hey, wait!"
+    to "Oh, hey, wait!" with vpunch
 
 # game/game/halloween_events.rpy:731
 translate ukrainian tomoe_hallprep_07361f5b:
@@ -2799,7 +2799,7 @@ translate ukrainian tomoe_hallprep_6f79fb62:
 translate ukrainian tomoe_hallprep_ecc6358c:
 
     # ma "Yes! {w}Come in!"
-    ma "Yes! {w}Come in!"
+    ma "Yes! {w}Come in!" with vpunch
 
 # game/game/halloween_events.rpy:758
 translate ukrainian tomoe_hallprep_ec6771f8:
@@ -2877,7 +2877,7 @@ translate ukrainian tomoe_hallprep_169ad25b:
 translate ukrainian tomoe_hallprep_73b13867:
 
     # to "Okay! {w}Don't look too much, wait until we are all here!"
-    to "Okay! {w}Don't look too much, wait until we are all here!"
+    to "Okay! {w}Don't look too much, wait until we are all here!" with vpunch
 
 # game/game/halloween_events.rpy:777
 translate ukrainian tomoe_hallprep_38af3ed9:
@@ -2913,7 +2913,7 @@ translate ukrainian tomoe_hallprep_ab13fa0d:
 translate ukrainian tomoe_hallprep_f132a4b9:
 
     # to "Do you want time to pass so fast?"
-    to "Do you want time to pass so fast?"
+    to "Do you want time to pass so fast?" with vpunch
 
 # game/game/halloween_events.rpy:796
 translate ukrainian halloween_ready_c7642be8:
@@ -3357,13 +3357,13 @@ translate ukrainian halloween_ready_3c48175e:
 translate ukrainian halloween_ready_b7821f41:
 
     # c "Yees~{image=corazon}{image=corazon}"
-    c "Yees~{image=corazon}{image=corazon}"
+    c "Yees~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:922
 translate ukrainian halloween_ready_c771ab59:
 
     # r "Yees~{image=corazon}"
-    r "Yees~{image=corazon}"
+    r "Yees~{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:923
 translate ukrainian halloween_ready_3eca78ad:
@@ -3447,13 +3447,13 @@ translate ukrainian halloween_ready_fe5f3366:
 translate ukrainian halloween_ready_fd2d6b3e:
 
     # r "Wooow~"
-    r "Wooow~"
+    r "Wooow~" (multiple=2)
 
 # game/game/halloween_events.rpy:945
 translate ukrainian halloween_ready_a7005ad9:
 
     # c "Ooh..."
-    c "Ooh..."
+    c "Ooh..." (multiple=2)
 
 # game/game/halloween_events.rpy:946
 translate ukrainian halloween_ready_f1761637:
@@ -3471,7 +3471,7 @@ translate ukrainian halloween_ready_9b9b09ac:
 translate ukrainian halloween_ready_144b3acb:
 
     # r "Tomoe! {w}How cute!"
-    r "Tomoe! {w}How cute!"
+    r "Tomoe! {w}How cute!" with vpunch
 
 # game/game/halloween_events.rpy:950
 translate ukrainian halloween_ready_2423099a:
@@ -3525,13 +3525,13 @@ translate ukrainian halloween_ready_af5160de:
 translate ukrainian halloween_ready_6b03360b:
 
     # mc "Oi! {w}It's my normal face!"
-    mc "Oi! {w}It's my normal face!"
+    mc "Oi! {w}It's my normal face!" with vpunch
 
 # game/game/halloween_events.rpy:962
 translate ukrainian halloween_ready_8fbcfeee:
 
     # ev "Hahahaha~"
-    ev "Hahahaha~"
+    ev "Hahahaha~" with vpunch
 
 # game/game/halloween_events.rpy:964
 translate ukrainian halloween_ready_ec559415:
@@ -3615,7 +3615,7 @@ translate ukrainian halloween_ready_3f871f46:
 translate ukrainian halloween_ready_edeb84f8:
 
     # r "You look so cute Akane!"
-    r "You look so cute Akane!"
+    r "You look so cute Akane!" with vpunch
 
 # game/game/halloween_events.rpy:982
 translate ukrainian halloween_ready_f740f14b:
@@ -3669,7 +3669,7 @@ translate ukrainian halloween_ready_3b26412b:
 translate ukrainian halloween_ready_0f70d2b5:
 
     # ak "A-As if I care~"
-    ak "A-As if I care~"
+    ak "A-As if I care~" with vpunch
 
 # game/game/halloween_events.rpy:994
 translate ukrainian halloween_ready_a03fd70e:
@@ -3681,7 +3681,7 @@ translate ukrainian halloween_ready_a03fd70e:
 translate ukrainian halloween_ready_3843e74e:
 
     # to "Hahaha~"
-    to "Hahaha~"
+    to "Hahaha~" with vpunch
 
 # game/game/halloween_events.rpy:997
 translate ukrainian halloween_ready_6a35b9c6:
@@ -3723,7 +3723,7 @@ translate ukrainian halloween_ready_46b79df3_1:
 translate ukrainian halloween_ready_c1ea9c73:
 
     # ak "That's your best compliment? {w}Pervert!"
-    ak "That's your best compliment? {w}Pervert!"
+    ak "That's your best compliment? {w}Pervert!" with vpunch
 
 # game/game/halloween_events.rpy:1007
 translate ukrainian halloween_ready_1da55329:
@@ -3783,7 +3783,7 @@ translate ukrainian halloween_ready_4698326e:
 translate ukrainian halloween_ready_1c729628:
 
     # "{size=-10}NOooO!"
-    "{size=-10}NOooO!"
+    "{size=-10}NOooO!" with hpunch
 
 # game/game/halloween_events.rpy:1021
 translate ukrainian halloween_ready_92af2fec:
@@ -4041,7 +4041,7 @@ translate ukrainian hana_hallrep_2b35b6fe:
 translate ukrainian hana_hallrep_4fbcf9a0:
 
     # mc "{size=-10}H-Hana?!"
-    mc "{size=-10}H-Hana?!"
+    mc "{size=-10}H-Hana?!" with vpunch
 
 # game/game/halloween_events.rpy:1084
 translate ukrainian hana_hallrep_bb901fe4:
@@ -4107,7 +4107,7 @@ translate ukrainian hana_hallrep_3bfc9f7c:
 translate ukrainian hana_hallrep_e32bf445:
 
     # mc "{size=-7}Yes!"
-    mc "{size=-7}Yes!"
+    mc "{size=-7}Yes!" with vpunch
 
 # game/game/halloween_events.rpy:1102
 translate ukrainian hana_hallrep_7df20f8e:
@@ -4131,7 +4131,7 @@ translate ukrainian hana_hallrep_4b87b553:
 translate ukrainian hana_hallrep_7e8f813b:
 
     # t "They are very soft!"
-    t "They are very soft!"
+    t "They are very soft!" with vpunch
 
 # game/game/halloween_events.rpy:1107
 translate ukrainian hana_hallrep_27726887:
@@ -4143,7 +4143,7 @@ translate ukrainian hana_hallrep_27726887:
 translate ukrainian hana_hallrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:1110
 translate ukrainian hana_hallrep_37269369:
@@ -4233,7 +4233,7 @@ translate ukrainian hana_hallrep_609252bf:
 translate ukrainian hana_hallrep_c5608bb4:
 
     # mc "Ghnm!"
-    mc "Ghnm!"
+    mc "Ghnm!" with cumflash
 
 # game/game/halloween_events.rpy:1126
 translate ukrainian hana_hallrep_88b97546:
@@ -4299,7 +4299,7 @@ translate ukrainian hana_hallrep_e1298176:
 translate ukrainian hana_hallrep_766590af:
 
     # mc "I am already reaching my limit!"
-    mc "I am already reaching my limit!"
+    mc "I am already reaching my limit!" with cumflash
 
 # game/game/halloween_events.rpy:1138
 translate ukrainian hana_hallrep_00c5896c:
@@ -4335,13 +4335,13 @@ translate ukrainian hana_hallrep_afac4704:
 translate ukrainian hana_hallrep_3420ca47:
 
     # mc "Hnm!"
-    mc "Hnm!"
+    mc "Hnm!" with cumflash
 
 # game/game/halloween_events.rpy:1145
 translate ukrainian hana_hallrep_0d2be48c:
 
     # h "{size=-7}Wait!"
-    h "{size=-7}Wait!"
+    h "{size=-7}Wait!" with hpunch
 
 # game/game/halloween_events.rpy:1146
 translate ukrainian hana_hallrep_fb2e5377:
@@ -4395,7 +4395,7 @@ translate ukrainian hana_hallrep_7ff6c4e5:
 translate ukrainian hana_hallrep_13a5b6d1:
 
     # h "{size=-7}Hnm!"
-    h "{size=-7}Hnm!"
+    h "{size=-7}Hnm!" with vpunch
 
 # game/game/halloween_events.rpy:1158
 translate ukrainian hana_hallrep_e75855ed:
@@ -4419,13 +4419,13 @@ translate ukrainian hana_hallrep_3ea7541d:
 translate ukrainian hana_hallrep_b4158165:
 
     # mc "{size=-7}I need to cum in your pussy!"
-    mc "{size=-7}I need to cum in your pussy!"
+    mc "{size=-7}I need to cum in your pussy!" with vpunch
 
 # game/game/halloween_events.rpy:1164
 translate ukrainian hana_hallrep_994553e5:
 
     # h "{size=-7}Hnhm~{image=corazon}{image=corazon} {w} GhnMMnm~{image=corazon}{image=corazon} {w}Mnnhnm!~{image=corazon}"
-    h "{size=-7}Hnhm~{image=corazon}{image=corazon} {w} GhnMMnm~{image=corazon}{image=corazon} {w}Mnnhnm!~{image=corazon}"
+    h "{size=-7}Hnhm~{image=corazon}{image=corazon} {w} GhnMMnm~{image=corazon}{image=corazon} {w}Mnnhnm!~{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:1165
 translate ukrainian hana_hallrep_82a53083:
@@ -4437,7 +4437,7 @@ translate ukrainian hana_hallrep_82a53083:
 translate ukrainian hana_hallrep_89f0f296:
 
     # mc "{size=-7}Hnmn! {w}Y-You are getting tighter!"
-    mc "{size=-7}Hnmn! {w}Y-You are getting tighter!"
+    mc "{size=-7}Hnmn! {w}Y-You are getting tighter!" with cumflash
 
 # game/game/halloween_events.rpy:1167
 translate ukrainian hana_hallrep_f706f8c8:
@@ -4461,19 +4461,19 @@ translate ukrainian hana_hallrep_a126104b:
 translate ukrainian hana_hallrep_37464597:
 
     # h "{size=-7}P-Pour it all inside my naughty pussy!"
-    h "{size=-7}P-Pour it all inside my naughty pussy!"
+    h "{size=-7}P-Pour it all inside my naughty pussy!" with cumflash
 
 # game/game/halloween_events.rpy:1171
 translate ukrainian hana_hallrep_28962d5c:
 
     # mc "{size=-7}H-Hana!!"
-    mc "{size=-7}H-Hana!!"
+    mc "{size=-7}H-Hana!!" with hpunch
 
 # game/game/halloween_events.rpy:1177
 translate ukrainian hana_hallrep_43ab5d8e:
 
     # h "HNGMgnmngmnm!!~{image=corazon}{image=corazon}{image=corazon}"
-    h "HNGMgnmngmnm!!~{image=corazon}{image=corazon}{image=corazon}"
+    h "HNGMgnmngmnm!!~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:1180
 translate ukrainian hana_hallrep_f66a75a1:
@@ -4533,7 +4533,7 @@ translate ukrainian hana_hallrep_3a7aab00:
 translate ukrainian hana_hallrep_e485edc8:
 
     # s "...!"
-    s "...!"
+    s "...!" with vpunch
 
 # game/game/halloween_events.rpy:1204
 translate ukrainian hana_hallrep_e1554201:
@@ -4557,7 +4557,7 @@ translate ukrainian hana_hallrep_f8aa9a63:
 translate ukrainian hana_hallrep_8b421dea:
 
     # s "Yes!"
-    s "Yes!"
+    s "Yes!" with vpunch
 
 # game/game/halloween_events.rpy:1209
 translate ukrainian hana_hallrep_988db633:
@@ -4581,13 +4581,13 @@ translate ukrainian hana_hallrep_247d9504:
 translate ukrainian hana_hallrep_1172680e:
 
     # mc "You look so pretty!"
-    mc "You look so pretty!"
+    mc "You look so pretty!" with vpunch
 
 # game/game/halloween_events.rpy:1215
 translate ukrainian hana_hallrep_2b827c86:
 
     # s "Really!?"
-    s "Really!?"
+    s "Really!?" with vpunch
 
 # game/game/halloween_events.rpy:1216
 translate ukrainian hana_hallrep_72cf9262:
@@ -4677,7 +4677,7 @@ translate ukrainian hana_hallrep_54e7b1ba:
 translate ukrainian hana_hallrep_20ef01bf:
 
     # s "Oh!"
-    s "Oh!"
+    s "Oh!" with vpunch
 
 # game/game/halloween_events.rpy:1236
 translate ukrainian hana_hallrep_947e031a:
@@ -4701,7 +4701,7 @@ translate ukrainian hana_hallrep_5bc71be2:
 translate ukrainian hana_hallrep_a3090030:
 
     # ma "The competition for the best pumpkin!"
-    ma "The competition for the best pumpkin!"
+    ma "The competition for the best pumpkin!" with vpunch
 
 # game/game/halloween_events.rpy:1241
 translate ukrainian hana_hallrep_e88c9a7f:
@@ -4749,7 +4749,7 @@ translate ukrainian hana_hallrep_0e3bf23b:
 translate ukrainian hana_hallrep_05200af8:
 
     # ma "All right, let's see the pumpkins!"
-    ma "All right, let's see the pumpkins!"
+    ma "All right, let's see the pumpkins!" with vpunch
 
 # game/game/halloween_events.rpy:1252
 translate ukrainian hana_hallrep_891349cd:
@@ -4773,7 +4773,7 @@ translate ukrainian hana_hallrep_5bbb3a93:
 translate ukrainian hana_hallrep_30c5147c_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:1257
 translate ukrainian hana_hallrep_2362930d:
@@ -4869,7 +4869,7 @@ translate ukrainian hana_hallrep_774e62dd:
 translate ukrainian hana_hallrep_7537d42a:
 
     # ma "Thank you!~"
-    ma "Thank you!~"
+    ma "Thank you!~" with vpunch
 
 # game/game/halloween_events.rpy:1279
 translate ukrainian hana_hallrep_ba63325c:
@@ -4905,7 +4905,7 @@ translate ukrainian hana_hallrep_b85958f1:
 translate ukrainian hana_hallrep_1c8c5d91:
 
     # to "Okay! {w}Pumpkins on the table!"
-    to "Okay! {w}Pumpkins on the table!"
+    to "Okay! {w}Pumpkins on the table!" with vpunch
 
 # game/game/halloween_events.rpy:1287
 translate ukrainian hana_hallrep_a83f2ad8:
@@ -4917,7 +4917,7 @@ translate ukrainian hana_hallrep_a83f2ad8:
 translate ukrainian hana_hallrep_4c0b5e3f:
 
     # to "Okay! There are four contestants! {w}Who will win and claim the prize?!"
-    to "Okay! There are four contestants! {w}Who will win and claim the prize?!"
+    to "Okay! There are four contestants! {w}Who will win and claim the prize?!" with vpunch
 
 # game/game/halloween_events.rpy:1290
 translate ukrainian hana_hallrep_bd9a5c90:
@@ -4959,13 +4959,13 @@ translate ukrainian hana_hallrep_2c2b3481:
 translate ukrainian hana_hallrep_8b421dea_1:
 
     # s "Yes!"
-    s "Yes!"
+    s "Yes!" with vpunch
 
 # game/game/halloween_events.rpy:1299
 translate ukrainian hana_hallrep_dac2ada8:
 
     # s "Ta da!"
-    s "Ta da!"
+    s "Ta da!" with vpunch
 
 # game/game/halloween_events.rpy:1300
 translate ukrainian hana_hallrep_60c61bc9:
@@ -4983,7 +4983,7 @@ translate ukrainian hana_hallrep_9b297395:
 translate ukrainian hana_hallrep_4850a7f6:
 
     # s "Exactly! {w}It's ice cream!"
-    s "Exactly! {w}It's ice cream!"
+    s "Exactly! {w}It's ice cream!" with vpunch
 
 # game/game/halloween_events.rpy:1303
 translate ukrainian hana_hallrep_48beffce:
@@ -5013,7 +5013,7 @@ translate ukrainian hana_hallrep_15d746d4:
 translate ukrainian hana_hallrep_16e5951d:
 
     # to "Charlotte!"
-    to "Charlotte!"
+    to "Charlotte!" with vpunch
 
 # game/game/halloween_events.rpy:1308
 translate ukrainian hana_hallrep_d19f855d:
@@ -5043,7 +5043,7 @@ translate ukrainian hana_hallrep_09a5b95c:
 translate ukrainian hana_hallrep_a5351165:
 
     # ev "Clap~ Clap~ {w}Clap~"
-    ev "Clap~ Clap~ {w}Clap~"
+    ev "Clap~ Clap~ {w}Clap~" with hpunch
 
 # game/game/halloween_events.rpy:1315
 translate ukrainian hana_hallrep_0c00090b:
@@ -5061,13 +5061,13 @@ translate ukrainian hana_hallrep_a41db46e:
 translate ukrainian hana_hallrep_508866ec:
 
     # s "Hey!"
-    s "Hey!"
+    s "Hey!" with vpunch
 
 # game/game/halloween_events.rpy:1318
 translate ukrainian hana_hallrep_6a1a239c:
 
     # to "Now, to the cute girl who won't let go of her Master! {w}Ryoko!"
-    to "Now, to the cute girl who won't let go of her Master! {w}Ryoko!"
+    to "Now, to the cute girl who won't let go of her Master! {w}Ryoko!" with vpunch
 
 # game/game/halloween_events.rpy:1319
 translate ukrainian hana_hallrep_7aac9c57:
@@ -5109,7 +5109,7 @@ translate ukrainian hana_hallrep_a1b6345c:
 translate ukrainian hana_hallrep_a5351165_1:
 
     # ev "Clap~ Clap~ {w}Clap~"
-    ev "Clap~ Clap~ {w}Clap~"
+    ev "Clap~ Clap~ {w}Clap~" with hpunch
 
 # game/game/halloween_events.rpy:1328
 translate ukrainian hana_hallrep_b6654ced:
@@ -5133,7 +5133,7 @@ translate ukrainian hana_hallrep_1260d8f5:
 translate ukrainian hana_hallrep_eca23be5:
 
     # ak "I'm not-!"
-    ak "I'm not-!"
+    ak "I'm not-!" with hpunch
 
 # game/game/halloween_events.rpy:1332
 translate ukrainian hana_hallrep_5802b4ca:
@@ -5151,13 +5151,13 @@ translate ukrainian hana_hallrep_bd7848e7:
 translate ukrainian hana_hallrep_53ba0851:
 
     # ma "That's me! {w}It's me, isn't it?"
-    ma "That's me! {w}It's me, isn't it?"
+    ma "That's me! {w}It's me, isn't it?" with hpunch
 
 # game/game/halloween_events.rpy:1335
 translate ukrainian hana_hallrep_589b2913:
 
     # ma "Here I go!"
-    ma "Here I go!"
+    ma "Here I go!" with vpunch
 
 # game/game/halloween_events.rpy:1336
 translate ukrainian hana_hallrep_fc6023ab:
@@ -5205,13 +5205,13 @@ translate ukrainian hana_hallrep_c8fae334:
 translate ukrainian hana_hallrep_0b2240b5:
 
     # to "Good! You can claim your prize!"
-    to "Good! You can claim your prize!"
+    to "Good! You can claim your prize!" with vpunch
 
 # game/game/halloween_events.rpy:1351
 translate ukrainian hana_hallrep_dd292068:
 
     # ma "Yaaay!~"
-    ma "Yaaay!~"
+    ma "Yaaay!~" with hpunch
 
 # game/game/halloween_events.rpy:1352
 translate ukrainian hana_hallrep_6e9bc282:
@@ -5277,7 +5277,7 @@ translate ukrainian hana_hallrep_ec017ae4:
 translate ukrainian hana_hallrep_3f3263d4:
 
     # ma "Because I want to see it in detail!"
-    ma "Because I want to see it in detail!"
+    ma "Because I want to see it in detail!" with vpunch
 
 # game/game/halloween_events.rpy:1370
 translate ukrainian hana_hallrep_ccb5aaa2:
@@ -5295,7 +5295,7 @@ translate ukrainian hana_hallrep_e42f74e7:
 translate ukrainian hana_hallrep_0b2497af:
 
     # ma "To the corridor!"
-    ma "To the corridor!"
+    ma "To the corridor!" with hpunch
 
 # game/game/halloween_events.rpy:1374
 translate ukrainian hana_hallrep_0a69f768_1:
@@ -5313,7 +5313,7 @@ translate ukrainian mayu_hallrep_abd76a8b:
 translate ukrainian mayu_hallrep_85078d0e:
 
     # ma "There is plenty of room here!"
-    ma "There is plenty of room here!"
+    ma "There is plenty of room here!" with vpunch
 
 # game/game/halloween_events.rpy:1380
 translate ukrainian mayu_hallrep_74b49a33:
@@ -5355,7 +5355,7 @@ translate ukrainian mayu_hallrep_c88e54ad:
 translate ukrainian mayu_hallrep_22b7955b:
 
     # ma "What?!"
-    ma "What?!"
+    ma "What?!" with vpunch
 
 # game/game/halloween_events.rpy:1392
 translate ukrainian mayu_hallrep_41919b09:
@@ -5469,7 +5469,7 @@ translate ukrainian mayu_hallrep_b2c9c613:
 translate ukrainian mayu_hallrep_f03d4f25:
 
     # ma "Hanm!?"
-    ma "Hanm!?"
+    ma "Hanm!?" with flash
 
 # game/game/halloween_events.rpy:1413
 translate ukrainian mayu_hallrep_fa2e25de:
@@ -5481,7 +5481,7 @@ translate ukrainian mayu_hallrep_fa2e25de:
 translate ukrainian mayu_hallrep_c3a32f0f:
 
     # ma "O-Okay! {w}We have to stop!-"
-    ma "O-Okay! {w}We have to stop!-"
+    ma "O-Okay! {w}We have to stop!-" with vpunch
 
 # game/game/halloween_events.rpy:1416
 translate ukrainian mayu_hallrep_4f070248:
@@ -5589,7 +5589,7 @@ translate ukrainian mayu_hallrep_b3f20ded:
 translate ukrainian mayu_hallrep_472d12b7:
 
     # ma "...!"
-    ma "...!"
+    ma "...!" with vpunch
 
 # game/game/halloween_events.rpy:1441
 translate ukrainian mayu_hallrep_a7bcf340_1:
@@ -5601,7 +5601,7 @@ translate ukrainian mayu_hallrep_a7bcf340_1:
 translate ukrainian mayu_hallrep_340a1f6f:
 
     # ma "...!"
-    ma "...!"
+    ma "...!" with cumflash
 
 # game/game/halloween_events.rpy:1444
 translate ukrainian mayu_hallrep_86535480:
@@ -5655,7 +5655,7 @@ translate ukrainian mayu_hallrep_01d301dc:
 translate ukrainian mayu_hallrep_14a7a1cf:
 
     # ma "Stop messing with my mind!"
-    ma "Stop messing with my mind!"
+    ma "Stop messing with my mind!" with cumflash
 
 # game/game/halloween_events.rpy:1453
 translate ukrainian mayu_hallrep_54ad42bc:
@@ -5757,7 +5757,7 @@ translate ukrainian mayu_hallrep_c0aa37ff:
 translate ukrainian mayu_hallrep_4cca01a5:
 
     # t "But she started to contract and I'm about to cum!"
-    t "But she started to contract and I'm about to cum!"
+    t "But she started to contract and I'm about to cum!" with cumflash
 
 # game/game/halloween_events.rpy:1474
 translate ukrainian mayu_hallrep_7bc5c401:
@@ -5799,13 +5799,13 @@ translate ukrainian mayu_hallrep_619d37c6:
 translate ukrainian mayu_hallrep_c8fb4782:
 
     # ma "Noo! {w}Gnhmhm~{image=corazon}{image=corazon} {w}If you do, you will fill my insides again and it will be very hot!{image=corazon}"
-    ma "Noo! {w}Gnhmhm~{image=corazon}{image=corazon} {w}If you do, you will fill my insides again and it will be very hot!{image=corazon}"
+    ma "Noo! {w}Gnhmhm~{image=corazon}{image=corazon} {w}If you do, you will fill my insides again and it will be very hot!{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:1481
 translate ukrainian mayu_hallrep_89e816f9:
 
     # mc "Why is it that every time Mayu complains it gets tighter?!"
-    mc "Why is it that every time Mayu complains it gets tighter?!"
+    mc "Why is it that every time Mayu complains it gets tighter?!" with vpunch
 
 # game/game/halloween_events.rpy:1482
 translate ukrainian mayu_hallrep_c4ceadeb:
@@ -5817,31 +5817,31 @@ translate ukrainian mayu_hallrep_c4ceadeb:
 translate ukrainian mayu_hallrep_b0b7b646:
 
     # ma "S-Something! {w}Hngmg~{image=corazon} {w}s-something is coming!{image=corazon}{image=corazon}"
-    ma "S-Something! {w}Hngmg~{image=corazon} {w}s-something is coming!{image=corazon}{image=corazon}"
+    ma "S-Something! {w}Hngmg~{image=corazon} {w}s-something is coming!{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:1485
 translate ukrainian mayu_hallrep_0733ce43:
 
     # mc "Mayu!!"
-    mc "Mayu!!"
+    mc "Mayu!!" with vpunch
 
 # game/game/halloween_events.rpy:1492
 translate ukrainian mayu_hallrep_d4a344df:
 
     # ma "Goghgnmgnm~{image=corazon}{image=corazon}{image=corazon}"
-    ma "Goghgnmgnm~{image=corazon}{image=corazon}{image=corazon}"
+    ma "Goghgnmgnm~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:1497
 translate ukrainian mayu_hallrep_42affc44:
 
     # ma "HGnHNngMHGNMnmnmNN!!~~{image=corazon}{image=corazon}{image=corazon}"
-    ma "HGnHNngMHGNMnmnmNN!!~~{image=corazon}{image=corazon}{image=corazon}"
+    ma "HGnHNngMHGNMnmnmNN!!~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/halloween_events.rpy:1498
 translate ukrainian mayu_hallrep_4499d5cc:
 
     # mc "...!!"
-    mc "...!!"
+    mc "...!!" with hpunch
 
 # game/game/halloween_events.rpy:1500
 translate ukrainian mayu_hallrep_06ca97fa:
@@ -5901,7 +5901,7 @@ translate ukrainian mayu_hallrep_e378f4f6:
 translate ukrainian mayu_hallrep_eb7d5683:
 
     # ma "I'm coming back and you know it, don't you?"
-    ma "I'm coming back and you know it, don't you?"
+    ma "I'm coming back and you know it, don't you?" with vpunch
 
 # game/game/halloween_events.rpy:1523
 translate ukrainian mayu_hallrep_2781cd36:
@@ -5919,7 +5919,7 @@ translate ukrainian mayu_hallrep_6f1e98c9:
 translate ukrainian mayu_hallrep_da5f90dc:
 
     # ma "Good! {w}It's a deal!"
-    ma "Good! {w}It's a deal!"
+    ma "Good! {w}It's a deal!" with vpunch
 
 # game/game/halloween_events.rpy:1526
 translate ukrainian mayu_hallrep_c855ffc6:
@@ -5931,13 +5931,13 @@ translate ukrainian mayu_hallrep_c855ffc6:
 translate ukrainian mayu_hallrep_4b74a800:
 
     # mc "We are back!"
-    mc "We are back!"
+    mc "We are back!" with hpunch
 
 # game/game/halloween_events.rpy:1528
 translate ukrainian mayu_hallrep_c8114881:
 
     # to "Just in time!"
-    to "Just in time!"
+    to "Just in time!" with vpunch
 
 # game/game/halloween_events.rpy:1529
 translate ukrainian mayu_hallrep_5538000d:
@@ -5967,7 +5967,7 @@ translate ukrainian mayu_hallrep_20fcd133:
 translate ukrainian mayu_hallrep_6f65919f:
 
     # to "Well, {w}let's get started!"
-    to "Well, {w}let's get started!"
+    to "Well, {w}let's get started!" with vpunch
 
 # game/game/halloween_events.rpy:1535
 translate ukrainian mayu_hallrep_8ef35929:
@@ -6009,7 +6009,7 @@ translate ukrainian mayu_hallrep_46b79df3:
 translate ukrainian mayu_hallrep_4f1bca2f:
 
     # ak "Where the hell are you looking!"
-    ak "Where the hell are you looking!"
+    ak "Where the hell are you looking!" with vpunch
 
 # game/game/halloween_events.rpy:1545
 translate ukrainian mayu_hallrep_4cb18e10:
@@ -6027,7 +6027,7 @@ translate ukrainian mayu_hallrep_853d42fa:
 translate ukrainian mayu_hallrep_94d329ac:
 
     # to "Pick your cards!"
-    to "Pick your cards!"
+    to "Pick your cards!" with vpunch
 
 # game/game/halloween_events.rpy:1549
 translate ukrainian mayu_hallrep_0ce3f0a9:
@@ -6135,7 +6135,7 @@ translate ukrainian mayu_hallrep_60c61bc9:
 translate ukrainian mayu_hallrep_aca6e8ce:
 
     # to "We have a winner!"
-    to "We have a winner!"
+    to "We have a winner!" with vpunch
 
 # game/game/halloween_events.rpy:1571
 translate ukrainian mayu_hallrep_99935850:
@@ -6153,7 +6153,7 @@ translate ukrainian mayu_hallrep_e70af9f9:
 translate ukrainian mayu_hallrep_234f82fc:
 
     # ak "Really?! {w}Why is this even considered a prize?"
-    ak "Really?! {w}Why is this even considered a prize?"
+    ak "Really?! {w}Why is this even considered a prize?" with hpunch
 
 # game/game/halloween_events.rpy:1578
 translate ukrainian mayu_hallrep_aa6b8270:
@@ -6243,7 +6243,7 @@ translate ukrainian mayu_hallrep_8be7a0b3:
 translate ukrainian mayu_hallrep_f204e593:
 
     # ak "Nothing!"
-    ak "Nothing!"
+    ak "Nothing!" with hpunch
 
 # game/game/halloween_events.rpy:1598
 translate ukrainian mayu_hallrep_a7bdcad9:
@@ -6273,13 +6273,13 @@ translate ukrainian mayu_hallrep_b9e9d6f4:
 translate ukrainian mayu_hallrep_14223e09:
 
     # ak "What are you doing?!"
-    ak "What are you doing?!"
+    ak "What are you doing?!" with vpunch
 
 # game/game/halloween_events.rpy:1609
 translate ukrainian mayu_hallrep_f205ee53:
 
     # ak "Why are you naked?"
-    ak "Why are you naked?"
+    ak "Why are you naked?" with vpunch
 
 # game/game/halloween_events.rpy:1611
 translate ukrainian mayu_hallrep_f51842b5:
@@ -6291,7 +6291,7 @@ translate ukrainian mayu_hallrep_f51842b5:
 translate ukrainian mayu_hallrep_d48607ca:
 
     # ak "You know what I mean!"
-    ak "You know what I mean!"
+    ak "You know what I mean!" with vpunch
 
 # game/game/halloween_events.rpy:1614
 translate ukrainian mayu_hallrep_b0051aee:
@@ -6309,13 +6309,13 @@ translate ukrainian mayu_hallrep_b2030869:
 translate ukrainian mayu_hallrep_40d37a14:
 
     # ak "That makes it even worse!"
-    ak "That makes it even worse!"
+    ak "That makes it even worse!" with hpunch
 
 # game/game/halloween_events.rpy:1619
 translate ukrainian mayu_hallrep_61f6beb4:
 
     # ak "Pervert! Pig! Slime!"
-    ak "Pervert! Pig! Slime!"
+    ak "Pervert! Pig! Slime!" with hpunch
 
 # game/game/halloween_events.rpy:1620
 translate ukrainian mayu_hallrep_e084c302:
@@ -6339,7 +6339,7 @@ translate ukrainian mayu_hallrep_45bef3ee:
 translate ukrainian mayu_hallrep_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/halloween_events.rpy:1624
 translate ukrainian mayu_hallrep_003d587f:
@@ -6519,7 +6519,7 @@ translate ukrainian akane_hallrep_53851270:
 translate ukrainian akane_hallrep_8c6efad4:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/halloween_events.rpy:1666
 translate ukrainian akane_hallrep_ba36bd76:
@@ -6567,13 +6567,13 @@ translate ukrainian akane_hallrep_c1dff962:
 translate ukrainian akane_hallrep_341ca97e:
 
     # ak "D-Did you hear me?"
-    ak "D-Did you hear me?"
+    ak "D-Did you hear me?" with hpunch
 
 # game/game/halloween_events.rpy:1677
 translate ukrainian akane_hallrep_ed5d1e99:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with vpunch
 
 # game/game/halloween_events.rpy:1679
 translate ukrainian akane_hallrep_46b79df3_2:
@@ -6669,7 +6669,7 @@ translate ukrainian akane_hallrep_21e673d7:
 translate ukrainian akane_hallrep_ee9b6c1e:
 
     # ak "{i}Hey! {w}HGNhm~ {w}Ghnm {w}w-who do you think y-you are!"
-    ak "{i}Hey! {w}HGNhm~ {w}Ghnm {w}w-who do you think y-you are!"
+    ak "{i}Hey! {w}HGNhm~ {w}Ghnm {w}w-who do you think y-you are!" with cumflash
 
 # game/game/halloween_events.rpy:1700
 translate ukrainian akane_hallrep_f42c0281:
@@ -6705,7 +6705,7 @@ translate ukrainian akane_hallrep_f92b8b1a:
 translate ukrainian akane_hallrep_a9b6140e:
 
     # ak "{i}...!! {w}GNhmg~ {w}S-Stop!"
-    ak "{i}...!! {w}GNhmg~ {w}S-Stop!"
+    ak "{i}...!! {w}GNhmg~ {w}S-Stop!" with cumflash
 
 # game/game/halloween_events.rpy:1706
 translate ukrainian akane_hallrep_7ccc68ed:
@@ -6741,13 +6741,13 @@ translate ukrainian akane_hallrep_fd5de2ad:
 translate ukrainian akane_hallrep_54aee7a1:
 
     # ak "{i}Stop!"
-    ak "{i}Stop!"
+    ak "{i}Stop!" with vpunch
 
 # game/game/halloween_events.rpy:1715
 translate ukrainian akane_hallrep_f37e5b10:
 
     # mc "Ahg!"
-    mc "Ahg!"
+    mc "Ahg!" with vpunch
 
 # game/game/halloween_events.rpy:1716
 translate ukrainian akane_hallrep_11a06c5f:
@@ -6795,7 +6795,7 @@ translate ukrainian akane_hallrep_1d82a7e7:
 translate ukrainian akane_hallrep_4f2552ab:
 
     # t "It's squeezing me!"
-    t "It's squeezing me!"
+    t "It's squeezing me!" with vpunch
 
 # game/game/halloween_events.rpy:1727
 translate ukrainian akane_hallrep_20788c82:
@@ -6903,7 +6903,7 @@ translate ukrainian akane_hallrep_fe43f971:
 translate ukrainian akane_hallrep_a3b10092:
 
     # mc "{size=-10}Gulp*"
-    mc "{size=-10}Gulp*"
+    mc "{size=-10}Gulp*" with vpunch
 
 # game/game/halloween_events.rpy:1747
 translate ukrainian akane_hallrep_203e163d:
@@ -6945,7 +6945,7 @@ translate ukrainian akane_hallrep_9cb90697:
 translate ukrainian akane_hallrep_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/halloween_events.rpy:1758
 translate ukrainian akane_hallrep_21fb116f:
@@ -6969,7 +6969,7 @@ translate ukrainian akane_hallrep_31a8d509:
 translate ukrainian akane_hallrep_26be0c7a:
 
     # mc "A-Akane! {w}I'm going to cum!"
-    mc "A-Akane! {w}I'm going to cum!"
+    mc "A-Akane! {w}I'm going to cum!" with cumflash
 
 # game/game/halloween_events.rpy:1762
 translate ukrainian akane_hallrep_2fba511e:
@@ -7011,7 +7011,7 @@ translate ukrainian akane_hallrep_50c49664:
 translate ukrainian akane_hallrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:1771
 translate ukrainian akane_hallrep_821f9c94:
@@ -7035,13 +7035,13 @@ translate ukrainian akane_hallrep_52fe57cc:
 translate ukrainian akane_hallrep_be0e97a8:
 
     # ak "Silence!"
-    ak "Silence!"
+    ak "Silence!" with hpunch
 
 # game/game/halloween_events.rpy:1776
 translate ukrainian akane_hallrep_1c7a9209:
 
     # mc "Gnh!"
-    mc "Gnh!"
+    mc "Gnh!" with cumflash
 
 # game/game/halloween_events.rpy:1777
 translate ukrainian akane_hallrep_95301453:
@@ -7095,19 +7095,19 @@ translate ukrainian akane_hallrep_9663c0eb:
 translate ukrainian akane_hallrep_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/halloween_events.rpy:1791
 translate ukrainian akane_hallrep_01defd78:
 
     # ak "gnHOOnhmmgnmn~~!{image=corazon}{image=corazon}{image=corazon}"
-    ak "gnHOOnhmmgnmn~~!{image=corazon}{image=corazon}{image=corazon}"
+    ak "gnHOOnhmmgnmn~~!{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:1795
 translate ukrainian akane_hallrep_f15200ae:
 
     # ak "HGngnmmmngmn~~{image=corazon}{image=corazon}"
-    ak "HGngnmmmngmn~~{image=corazon}{image=corazon}"
+    ak "HGngnmmmngmn~~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:1796
 translate ukrainian akane_hallrep_1645b7eb:
@@ -7329,7 +7329,7 @@ translate ukrainian akane_hallrep_1f5b224d:
 translate ukrainian akane_hallrep_6eb6ded6:
 
     # r "M-Master!"
-    r "M-Master!"
+    r "M-Master!" with vpunch
 
 # game/game/halloween_events.rpy:1861
 translate ukrainian akane_hallrep_9706cf1e:
@@ -7353,7 +7353,7 @@ translate ukrainian akane_hallrep_a3a7743d:
 translate ukrainian akane_hallrep_8c6efad4_1:
 
     # ak "...!"
-    ak "...!"
+    ak "...!" with vpunch
 
 # game/game/halloween_events.rpy:1866
 translate ukrainian akane_hallrep_2a712637:
@@ -7365,13 +7365,13 @@ translate ukrainian akane_hallrep_2a712637:
 translate ukrainian akane_hallrep_b57ccbcf:
 
     # r "Yes!~{image=corazon}"
-    r "Yes!~{image=corazon}"
+    r "Yes!~{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:1868
 translate ukrainian akane_hallrep_91b35c23:
 
     # c "Uhm."
-    c "Uhm."
+    c "Uhm." (multiple=2)
 
 # game/game/halloween_events.rpy:1870
 translate ukrainian akane_hallrep_ff23ee3c:
@@ -7431,7 +7431,7 @@ translate ukrainian akane_hallrep_bd4a08b4:
 translate ukrainian akane_hallrep_a54aee90:
 
     # ev "Look who's talking!"
-    ev "Look who's talking!"
+    ev "Look who's talking!" with vpunch
 
 # game/game/halloween_events.rpy:1882
 translate ukrainian akane_hallrep_46523365:
@@ -7473,7 +7473,7 @@ translate ukrainian akane_hallrep_95492981:
 translate ukrainian akane_hallrep_99142b78:
 
     # s "I choose you!"
-    s "I choose you!"
+    s "I choose you!" with vpunch
 
 # game/game/halloween_events.rpy:1891
 translate ukrainian akane_hallrep_9e6f11df:
@@ -7485,7 +7485,7 @@ translate ukrainian akane_hallrep_9e6f11df:
 translate ukrainian akane_hallrep_63a2c028:
 
     # to "All right!"
-    to "All right!"
+    to "All right!" with vpunch
 
 # game/game/halloween_events.rpy:1894
 translate ukrainian akane_hallrep_9e90c9d9:
@@ -7497,7 +7497,7 @@ translate ukrainian akane_hallrep_9e90c9d9:
 translate ukrainian akane_hallrep_44bd0f6c:
 
     # mc "Eeeh?!"
-    mc "Eeeh?!"
+    mc "Eeeh?!" with vpunch
 
 # game/game/halloween_events.rpy:1897
 translate ukrainian akane_hallrep_f0e32695:
@@ -7527,7 +7527,7 @@ translate ukrainian akane_hallrep_368ff557:
 translate ukrainian akane_hallrep_8157d7bd:
 
     # s "Let's go!"
-    s "Let's go!"
+    s "Let's go!" with vpunch
 
 # game/game/halloween_events.rpy:1903
 translate ukrainian akane_hallrep_8d9e4548:
@@ -7545,7 +7545,7 @@ translate ukrainian akane_hallrep_45f7b42b:
 translate ukrainian akane_hallrep_3b247072:
 
     # s "Okay! {w}Follow me!"
-    s "Okay! {w}Follow me!"
+    s "Okay! {w}Follow me!" with vpunch
 
 # game/game/halloween_events.rpy:1910
 translate ukrainian akane_hallrep_2b35b6fe_3:
@@ -7701,7 +7701,7 @@ translate ukrainian akane_hallrep_3eace6f5:
 translate ukrainian akane_hallrep_44807e62:
 
     # s "Ooh! {w}Look!"
-    s "Ooh! {w}Look!"
+    s "Ooh! {w}Look!" with hpunch
 
 # game/game/halloween_events.rpy:1945
 translate ukrainian akane_hallrep_cf03d661:
@@ -8169,7 +8169,7 @@ translate ukrainian shika_hallrep_4d1c220b:
 translate ukrainian shika_hallrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:2060
 translate ukrainian shika_hallrep_dac614c7:
@@ -8181,7 +8181,7 @@ translate ukrainian shika_hallrep_dac614c7:
 translate ukrainian shika_hallrep_1bee060c:
 
     # s "I can feel it in my belly~{image=corazon}{image=corazon}"
-    s "I can feel it in my belly~{image=corazon}{image=corazon}"
+    s "I can feel it in my belly~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2062
 translate ukrainian shika_hallrep_0660708a:
@@ -8259,13 +8259,13 @@ translate ukrainian shika_hallrep_1789c73f:
 translate ukrainian shika_hallrep_ecec5fa1:
 
     # mc "Y-Yes... {w}a-any minute now, I'm going to cum!"
-    mc "Y-Yes... {w}a-any minute now, I'm going to cum!"
+    mc "Y-Yes... {w}a-any minute now, I'm going to cum!" with hpunch
 
 # game/game/halloween_events.rpy:2077
 translate ukrainian shika_hallrep_e623bbbe:
 
     # s "Hnhm~{image=corazon}{image=corazon} {w}Ahnnm~{image=corazon} {w}NmnM~{image=corazon}"
-    s "Hnhm~{image=corazon}{image=corazon} {w}Ahnnm~{image=corazon} {w}NmnM~{image=corazon}"
+    s "Hnhm~{image=corazon}{image=corazon} {w}Ahnnm~{image=corazon} {w}NmnM~{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2078
 translate ukrainian shika_hallrep_82613266:
@@ -8301,13 +8301,13 @@ translate ukrainian shika_hallrep_b84662b4:
 translate ukrainian shika_hallrep_b8b669fd:
 
     # mc "I will cum at any moment!"
-    mc "I will cum at any moment!"
+    mc "I will cum at any moment!" with vpunch
 
 # game/game/halloween_events.rpy:2086
 translate ukrainian shika_hallrep_b5da0ba8:
 
     # s "I can't keep up with you...{image=corazon}{image=corazon} {w}I-I stopped j-jumping a while ago!{image=corazon}{image=corazon}"
-    s "I can't keep up with you...{image=corazon}{image=corazon} {w}I-I stopped j-jumping a while ago!{image=corazon}{image=corazon}"
+    s "I can't keep up with you...{image=corazon}{image=corazon} {w}I-I stopped j-jumping a while ago!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2087
 translate ukrainian shika_hallrep_d081e080:
@@ -8343,7 +8343,7 @@ translate ukrainian shika_hallrep_4e2eeb12:
 translate ukrainian shika_hallrep_7e98524f:
 
     # s "I-I can only feel {w}MhNMN~{image=corazon} {w}y-your penis!{image=corazon}{image=corazon}"
-    s "I-I can only feel {w}MhNMN~{image=corazon} {w}y-your penis!{image=corazon}{image=corazon}"
+    s "I-I can only feel {w}MhNMN~{image=corazon} {w}y-your penis!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2093
 translate ukrainian shika_hallrep_21549f1a:
@@ -8355,25 +8355,25 @@ translate ukrainian shika_hallrep_21549f1a:
 translate ukrainian shika_hallrep_267eef71:
 
     # mc "Shika!!"
-    mc "Shika!!"
+    mc "Shika!!" with hpunch
 
 # game/game/halloween_events.rpy:2101
 translate ukrainian shika_hallrep_2dfd8941:
 
     # s "GognhmgnmAanmgnm~~{image=corazon}{image=corazon}{image=corazon}"
-    s "GognhmgnmAanmgnm~~{image=corazon}{image=corazon}{image=corazon}"
+    s "GognhmgnmAanmgnm~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:2105
 translate ukrainian shika_hallrep_344c7197:
 
     # s "AAAhhhMHNMMNnm~~~{image=corazon}{image=corazon}"
-    s "AAAhhhMHNMMNnm~~~{image=corazon}{image=corazon}"
+    s "AAAhhhMHNMMNnm~~~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/halloween_events.rpy:2106
 translate ukrainian shika_hallrep_30c5147c_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:2108
 translate ukrainian shika_hallrep_fd3eb097:
@@ -8427,13 +8427,13 @@ translate ukrainian shika_hallrep_976ad2d7:
 translate ukrainian shika_hallrep_eea08b82:
 
     # s "Hahaha~"
-    s "Hahaha~"
+    s "Hahaha~" (multiple=2)
 
 # game/game/halloween_events.rpy:2130
 translate ukrainian shika_hallrep_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
 # game/game/halloween_events.rpy:2131
 translate ukrainian shika_hallrep_933b4b01:
@@ -8463,7 +8463,7 @@ translate ukrainian shika_hallrep_86534101:
 translate ukrainian shika_hallrep_eccedab4:
 
     # s "W-What?!"
-    s "W-What?!"
+    s "W-What?!" with vpunch
 
 # game/game/halloween_events.rpy:2142
 translate ukrainian shika_hallrep_75f9c0ae:
@@ -8517,7 +8517,7 @@ translate ukrainian shika_hallrep_64f9da4b:
 translate ukrainian shika_hallrep_0a2ff146:
 
     # y "Hana!"
-    y "Hana!"
+    y "Hana!" with vpunch
 
 # game/game/halloween_events.rpy:2153
 translate ukrainian shika_hallrep_63e6bda3:
@@ -8571,7 +8571,7 @@ translate ukrainian shika_hallrep_2b35b6fe_4:
 translate ukrainian shika_hallrep_17c54781:
 
     # y "I thought the costume came with more stuff! {w}Why is it so revealing?!"
-    y "I thought the costume came with more stuff! {w}Why is it so revealing?!"
+    y "I thought the costume came with more stuff! {w}Why is it so revealing?!" with hpunch
 
 # game/game/halloween_events.rpy:2166
 translate ukrainian shika_hallrep_f7d25c4b:
@@ -8589,7 +8589,7 @@ translate ukrainian shika_hallrep_5f75d63e:
 translate ukrainian shika_hallrep_c3129d03:
 
     # y "I'm going to go change my clothes!"
-    y "I'm going to go change my clothes!"
+    y "I'm going to go change my clothes!" with vpunch
 
 # game/game/halloween_events.rpy:2170
 translate ukrainian shika_hallrep_a9132297:
@@ -8619,7 +8619,7 @@ translate ukrainian shika_hallrep_52e7a43d:
 translate ukrainian shika_hallrep_d75db70a:
 
     # y "Come back here and help me!"
-    y "Come back here and help me!"
+    y "Come back here and help me!" with hpunch
 
 # game/game/halloween_events.rpy:2176
 translate ukrainian shika_hallrep_c83fa551:
@@ -8637,7 +8637,7 @@ translate ukrainian shika_hallrep_01fa06dd:
 translate ukrainian shika_hallrep_68aa164b:
 
     # y "{size=-8}Waaa!"
-    y "{size=-8}Waaa!"
+    y "{size=-8}Waaa!" with vpunch
 
 # game/game/halloween_events.rpy:2181
 translate ukrainian shika_hallrep_334a0e83:
@@ -8763,7 +8763,7 @@ translate ukrainian shika_hallrep_737d6ae9:
 translate ukrainian shika_hallrep_7704db1f:
 
     # t "She looks very beautiful! My desire to tease her is at its limit!"
-    t "She looks very beautiful! My desire to tease her is at its limit!"
+    t "She looks very beautiful! My desire to tease her is at its limit!" with hpunch
 
 # game/game/halloween_events.rpy:2209
 translate ukrainian shika_hallrep_c348f261:
@@ -8805,7 +8805,7 @@ translate ukrainian shika_hallrep_ba155412:
 translate ukrainian shika_hallrep_84a0c4b4:
 
     # y "I want to cover myself with something fast!"
-    y "I want to cover myself with something fast!"
+    y "I want to cover myself with something fast!" with vpunch
 
 # game/game/halloween_events.rpy:2218
 translate ukrainian shika_hallrep_2839a1c0:
@@ -8829,7 +8829,7 @@ translate ukrainian shika_hallrep_fb2e5377:
 translate ukrainian shika_hallrep_d7f4b72c:
 
     # y "Come on, let's go! We are here."
-    y "Come on, let's go! We are here."
+    y "Come on, let's go! We are here." with hpunch
 
 # game/game/halloween_events.rpy:2224
 translate ukrainian shika_hallrep_3053ba58:
@@ -8847,7 +8847,7 @@ translate ukrainian shika_hallrep_6f376066:
 translate ukrainian yui_hallrep_9407ff1f:
 
     # mc "Yui!"
-    mc "Yui!"
+    mc "Yui!" with hpunch
 
 # game/game/halloween_events.rpy:2229
 translate ukrainian yui_hallrep_8fe2f5f8:
@@ -8859,7 +8859,7 @@ translate ukrainian yui_hallrep_8fe2f5f8:
 translate ukrainian yui_hallrep_6784f519:
 
     # mc "You look beautiful!"
-    mc "You look beautiful!"
+    mc "You look beautiful!" with vpunch
 
 # game/game/halloween_events.rpy:2232
 translate ukrainian yui_hallrep_71a86863:
@@ -8871,7 +8871,7 @@ translate ukrainian yui_hallrep_71a86863:
 translate ukrainian yui_hallrep_64c1cbf6:
 
     # y "E-E-EEE--EH?"
-    y "E-E-EEE--EH?"
+    y "E-E-EEE--EH?" with hpunch
 
 # game/game/halloween_events.rpy:2235
 translate ukrainian yui_hallrep_843ca488:
@@ -8913,7 +8913,7 @@ translate ukrainian yui_hallrep_a169c5cb:
 translate ukrainian yui_hallrep_92dc04fc:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with hpunch
 
 # game/game/halloween_events.rpy:2245
 translate ukrainian yui_hallrep_265ed7c3:
@@ -8961,7 +8961,7 @@ translate ukrainian yui_hallrep_96d052d7:
 translate ukrainian yui_hallrep_9a7a11c6:
 
     # mc "Yui!"
-    mc "Yui!"
+    mc "Yui!" with vpunch
 
 # game/game/halloween_events.rpy:2259
 translate ukrainian yui_hallrep_f6107f72:
@@ -8985,7 +8985,7 @@ translate ukrainian yui_hallrep_997033c4:
 translate ukrainian yui_hallrep_36a62705:
 
     # y "A-And you just ripped my pantyhose!"
-    y "A-And you just ripped my pantyhose!"
+    y "A-And you just ripped my pantyhose!" with cumflash
 
 # game/game/halloween_events.rpy:2263
 translate ukrainian yui_hallrep_c0b7f252:
@@ -9015,7 +9015,7 @@ translate ukrainian yui_hallrep_96fe8b2a:
 translate ukrainian yui_hallrep_ab68a938:
 
     # y "D-Don't be quiet, {w}NHnn~ {w}why are you c-concentrating so much on something as l-lewd as this..."
-    y "D-Don't be quiet, {w}NHnn~ {w}why are you c-concentrating so much on something as l-lewd as this..."
+    y "D-Don't be quiet, {w}NHnn~ {w}why are you c-concentrating so much on something as l-lewd as this..." with cumflash
 
 # game/game/halloween_events.rpy:2268
 translate ukrainian yui_hallrep_73b71127:
@@ -9057,7 +9057,7 @@ translate ukrainian yui_hallrep_0ac14eee:
 translate ukrainian yui_hallrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:2276
 translate ukrainian yui_hallrep_b9c6654b:
@@ -9075,7 +9075,7 @@ translate ukrainian yui_hallrep_eaf1e01d:
 translate ukrainian yui_hallrep_fba59943:
 
     # y "[mc]! {w}This pose is t-too m-mu-much for me!"
-    y "[mc]! {w}This pose is t-too m-mu-much for me!"
+    y "[mc]! {w}This pose is t-too m-mu-much for me!" with vpunch
 
 # game/game/halloween_events.rpy:2280
 translate ukrainian yui_hallrep_feca926f:
@@ -9087,7 +9087,7 @@ translate ukrainian yui_hallrep_feca926f:
 translate ukrainian yui_hallrep_6dc1db83:
 
     # y "T-That doesn't c-change the situation at all!"
-    y "T-That doesn't c-change the situation at all!"
+    y "T-That doesn't c-change the situation at all!" with hpunch
 
 # game/game/halloween_events.rpy:2284
 translate ukrainian yui_hallrep_2e6cba4d:
@@ -9123,7 +9123,7 @@ translate ukrainian yui_hallrep_fe344a08:
 translate ukrainian yui_hallrep_5cec8371:
 
     # y "Haanm~{image=corazon}{image=corazon} {w}NHmnm~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon}"
-    y "Haanm~{image=corazon}{image=corazon} {w}NHmnm~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon}"
+    y "Haanm~{image=corazon}{image=corazon} {w}NHmnm~{image=corazon}{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2290
 translate ukrainian yui_hallrep_3f46bc5d:
@@ -9147,13 +9147,13 @@ translate ukrainian yui_hallrep_fed0ed9e:
 translate ukrainian yui_hallrep_1dd1ba8b:
 
     # y "Kya!~{image=corazon}{image=corazon} {w}S-Stop making your thing bigger... {w}NHanm{image=corazon}{image=corazon}"
-    y "Kya!~{image=corazon}{image=corazon} {w}S-Stop making your thing bigger... {w}NHanm{image=corazon}{image=corazon}"
+    y "Kya!~{image=corazon}{image=corazon} {w}S-Stop making your thing bigger... {w}NHanm{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2294
 translate ukrainian yui_hallrep_1374d62f:
 
     # t "I will cum soon!"
-    t "I will cum soon!"
+    t "I will cum soon!" with vpunch
 
 # game/game/halloween_events.rpy:2297
 translate ukrainian yui_hallrep_1ac78e6e:
@@ -9189,7 +9189,7 @@ translate ukrainian yui_hallrep_455377c0:
 translate ukrainian yui_hallrep_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/halloween_events.rpy:2303
 translate ukrainian yui_hallrep_bd45c718:
@@ -9213,7 +9213,7 @@ translate ukrainian yui_hallrep_b9861129:
 translate ukrainian yui_hallrep_db4c629b:
 
     # y "I-Idiioot! {w}Haanmn~{image=corazon}{image=corazon} {w}I d-don't want to hear that!{image=corazon}{image=corazon}"
-    y "I-Idiioot! {w}Haanmn~{image=corazon}{image=corazon} {w}I d-don't want to hear that!{image=corazon}{image=corazon}"
+    y "I-Idiioot! {w}Haanmn~{image=corazon}{image=corazon} {w}I d-don't want to hear that!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2307
 translate ukrainian yui_hallrep_0fdd39ad:
@@ -9261,13 +9261,13 @@ translate ukrainian yui_hallrep_cab1aa86:
 translate ukrainian yui_hallrep_65acb34b:
 
     # y "I-I don't want you to stain... {w}Mhnmn~{image=corazon}{image=corazon} {w}t-too much... {w}{size=-8}c-cum inside."
-    y "I-I don't want you to stain... {w}Mhnmn~{image=corazon}{image=corazon} {w}t-too much... {w}{size=-8}c-cum inside."
+    y "I-I don't want you to stain... {w}Mhnmn~{image=corazon}{image=corazon} {w}t-too much... {w}{size=-8}c-cum inside." with cumflash
 
 # game/game/halloween_events.rpy:2317
 translate ukrainian yui_hallrep_8a7258c3:
 
     # t "What!?"
-    t "What!?"
+    t "What!?" with hpunch
 
 # game/game/halloween_events.rpy:2318
 translate ukrainian yui_hallrep_6f5007d6:
@@ -9285,7 +9285,7 @@ translate ukrainian yui_hallrep_7ac961b6:
 translate ukrainian yui_hallrep_bfcc7edb:
 
     # y "W-What was I coming to {w}Aaahm~{image=corazon}{image=corazon} {w}NGgnm~{image=corazon}{image=corazon} {w}d-do?"
-    y "W-What was I coming to {w}Aaahm~{image=corazon}{image=corazon} {w}NGgnm~{image=corazon}{image=corazon} {w}d-do?"
+    y "W-What was I coming to {w}Aaahm~{image=corazon}{image=corazon} {w}NGgnm~{image=corazon}{image=corazon} {w}d-do?" with cumflash
 
 # game/game/halloween_events.rpy:2321
 translate ukrainian yui_hallrep_25c6dc3d:
@@ -9303,13 +9303,13 @@ translate ukrainian yui_hallrep_77818fce:
 translate ukrainian yui_hallrep_10bb7f87:
 
     # mc "Y-Yui!"
-    mc "Y-Yui!"
+    mc "Y-Yui!" with hpunch
 
 # game/game/halloween_events.rpy:2331
 translate ukrainian yui_hallrep_0ad68070:
 
     # y "I-I'm cumminhmaAAaaamhm~~{image=corazon}{image=corazon}"
-    y "I-I'm cumminhmaAAaaamhm~~{image=corazon}{image=corazon}"
+    y "I-I'm cumminhmaAAaaamhm~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/halloween_events.rpy:2332
 translate ukrainian yui_hallrep_450874ec:
@@ -9369,7 +9369,7 @@ translate ukrainian yui_hallrep_e49b9288:
 translate ukrainian yui_hallrep_59e80d45:
 
     # y "S-Shup up!"
-    y "S-Shup up!"
+    y "S-Shup up!" with hpunch
 
 # game/game/halloween_events.rpy:2358
 translate ukrainian yui_hallrep_1f5b224d:
@@ -9411,7 +9411,7 @@ translate ukrainian yui_hallrep_60636502:
 translate ukrainian yui_hallrep_c3fc89d9:
 
     # y "Idiot!"
-    y "Idiot!"
+    y "Idiot!" with vpunch
 
 # game/game/halloween_events.rpy:2368
 translate ukrainian yui_hallrep_246fd3cb:
@@ -9507,13 +9507,13 @@ translate ukrainian yui_hallrep_0b683e8f:
 translate ukrainian yui_hallrep_a7005ad9:
 
     # c "Ooh..."
-    c "Ooh..."
+    c "Ooh..." (multiple=2)
 
 # game/game/halloween_events.rpy:2390
 translate ukrainian yui_hallrep_257f450b:
 
     # r "Woaah..."
-    r "Woaah..."
+    r "Woaah..." (multiple=2)
 
 # game/game/halloween_events.rpy:2391
 translate ukrainian yui_hallrep_d9f3aeeb:
@@ -9639,19 +9639,19 @@ translate ukrainian yui_hallrep_e80c90d5:
 translate ukrainian yui_hallrep_387876ca:
 
     # ma "Whaat!?"
-    ma "Whaat!?"
+    ma "Whaat!?" (multiple=2)
 
 # game/game/halloween_events.rpy:2417
 translate ukrainian yui_hallrep_058eee1a:
 
     # s "What!?"
-    s "What!?"
+    s "What!?" (multiple=2)
 
 # game/game/halloween_events.rpy:2418
 translate ukrainian yui_hallrep_d19c6930:
 
     # ev "Hahahaha."
-    ev "Hahahaha."
+    ev "Hahahaha." with hpunch
 
 # game/game/halloween_events.rpy:2420
 translate ukrainian yui_hallrep_3179a31c:
@@ -9717,7 +9717,7 @@ translate ukrainian yui_hallrep_ef995686:
 translate ukrainian yui_hallrep_299d7dc4:
 
     # ev "Cheers!"
-    ev "Cheers!"
+    ev "Cheers!" with hpunch
 
 # game/game/halloween_events.rpy:2433
 translate ukrainian yui_hallrep_e1554201:
@@ -9729,13 +9729,13 @@ translate ukrainian yui_hallrep_e1554201:
 translate ukrainian yui_hallrep_9a36bb18:
 
     # s "Hey! {w}This is strawberry juice!"
-    s "Hey! {w}This is strawberry juice!"
+    s "Hey! {w}This is strawberry juice!" with hpunch
 
 # game/game/halloween_events.rpy:2435
 translate ukrainian yui_hallrep_7053e1a1:
 
     # ev "Hahahahaha."
-    ev "Hahahahaha."
+    ev "Hahahahaha." with hpunch
 
 # game/game/halloween_events.rpy:2439
 translate ukrainian yui_hallrep_72db8f4e:
@@ -9975,7 +9975,7 @@ translate ukrainian tomoe_hallrep_ab1ed32a:
 translate ukrainian tomoe_hallrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:2495
 translate ukrainian tomoe_hallrep_e68df215:
@@ -10071,7 +10071,7 @@ translate ukrainian tomoe_hallrep_779c051a:
 translate ukrainian tomoe_hallrep_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/halloween_events.rpy:2514
 translate ukrainian tomoe_hallrep_5c14eda6:
@@ -10125,7 +10125,7 @@ translate ukrainian tomoe_hallrep_9216d5c3:
 translate ukrainian tomoe_hallrep_c845b0e7:
 
     # mc "W-What?"
-    mc "W-What?"
+    mc "W-What?" with cumflash
 
 # game/game/halloween_events.rpy:2523
 translate ukrainian tomoe_hallrep_1256771e:
@@ -10293,13 +10293,13 @@ translate ukrainian tomoe_hallrep_0e4bc832:
 translate ukrainian tomoe_hallrep_d9eb7ddb:
 
     # mc "N-Now!"
-    mc "N-Now!"
+    mc "N-Now!" with vpunch
 
 # game/game/halloween_events.rpy:2562
 translate ukrainian tomoe_hallrep_252af231:
 
     # to "Wooah!~{image=corazon}{image=corazon}"
-    to "Wooah!~{image=corazon}{image=corazon}"
+    to "Wooah!~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/halloween_events.rpy:2566
 translate ukrainian tomoe_hallrep_537062e1:
@@ -10353,7 +10353,7 @@ translate ukrainian tomoe_hallrep_47041d79:
 translate ukrainian tomoe_hallrep_d6a226c2:
 
     # to "Hahaha~{image=corazon}"
-    to "Hahaha~{image=corazon}"
+    to "Hahaha~{image=corazon}" with hpunch
 
 # game/game/halloween_events.rpy:2588
 translate ukrainian tomoe_hallrep_cccfd3f9:
@@ -10551,19 +10551,19 @@ translate ukrainian ryoko_char_hallrep_b1926a30:
 translate ukrainian ryoko_char_hallrep_1d37a04f:
 
     # c "...!"
-    c "...!"
+    c "...!" (multiple=2)
 
 # game/game/halloween_events.rpy:2636
 translate ukrainian ryoko_char_hallrep_35b12e38:
 
     # r "Charlotte!"
-    r "Charlotte!"
+    r "Charlotte!" (multiple=2)
 
 # game/game/halloween_events.rpy:2637
 translate ukrainian ryoko_char_hallrep_8a330f49:
 
     # r "Now! {w}Attack mode!"
-    r "Now! {w}Attack mode!"
+    r "Now! {w}Attack mode!" with hpunch
 
 # game/game/halloween_events.rpy:2638
 translate ukrainian ryoko_char_hallrep_f42b2c04:
@@ -10677,7 +10677,7 @@ translate ukrainian ryoko_char_hallrep_9e54bc1b:
 translate ukrainian ryoko_char_hallrep_0d5eacc5:
 
     # r "Ahum~ {w}Yes, we are very bad!"
-    r "Ahum~ {w}Yes, we are very bad!"
+    r "Ahum~ {w}Yes, we are very bad!" with vpunch
 
 # game/game/halloween_events.rpy:2665
 translate ukrainian ryoko_char_hallrep_60acb623:
@@ -10731,7 +10731,7 @@ translate ukrainian ryoko_char_hallrep_5c7ffb7d:
 translate ukrainian ryoko_char_hallrep_5d093aa2:
 
     # t "C-Cum from fear?! {w}What the heck did you put in their minds Tomoe!"
-    t "C-Cum from fear?! {w}What the heck did you put in their minds Tomoe!"
+    t "C-Cum from fear?! {w}What the heck did you put in their minds Tomoe!" with vpunch
 
 # game/game/halloween_events.rpy:2677
 translate ukrainian ryoko_char_hallrep_46b20f78:
@@ -10779,25 +10779,25 @@ translate ukrainian ryoko_char_hallrep_2b35b6fe_1:
 translate ukrainian ryoko_char_hallrep_68adc1e3:
 
     # mc "Agh! {w}I'm going to break free!"
-    mc "Agh! {w}I'm going to break free!"
+    mc "Agh! {w}I'm going to break free!" with hpunch
 
 # game/game/halloween_events.rpy:2686
 translate ukrainian ryoko_char_hallrep_7cbc5b54:
 
     # r "C-Charlotte!"
-    r "C-Charlotte!"
+    r "C-Charlotte!" with hpunch
 
 # game/game/halloween_events.rpy:2687
 translate ukrainian ryoko_char_hallrep_666fa032:
 
     # c "Y-Yes!"
-    c "Y-Yes!"
+    c "Y-Yes!" with vpunch
 
 # game/game/halloween_events.rpy:2690
 translate ukrainian ryoko_char_hallrep_b3660549:
 
     # mc "Hhmn!"
-    mc "Hhmn!"
+    mc "Hhmn!" with vpunch
 
 # game/game/halloween_events.rpy:2691
 translate ukrainian ryoko_char_hallrep_6841ac9a:
@@ -10899,7 +10899,7 @@ translate ukrainian ryoko_char_hallrep_e586a685:
 translate ukrainian ryoko_char_hallrep_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/halloween_events.rpy:2709
 translate ukrainian ryoko_char_hallrep_409b9b01:
@@ -10929,7 +10929,7 @@ translate ukrainian ryoko_char_hallrep_66765832:
 translate ukrainian ryoko_char_hallrep_a99f55e9:
 
     # t "Charlotte is absolutely right! {w}Her tongue... {w}her breath... will make me cum!"
-    t "Charlotte is absolutely right! {w}Her tongue... {w}her breath... will make me cum!"
+    t "Charlotte is absolutely right! {w}Her tongue... {w}her breath... will make me cum!" with vpunch
 
 # game/game/halloween_events.rpy:2714
 translate ukrainian ryoko_char_hallrep_af0eb244:
@@ -11001,7 +11001,7 @@ translate ukrainian ryoko_char_hallrep_8c97bd43:
 translate ukrainian ryoko_char_hallrep_5bd740e6:
 
     # r "Eh!?"
-    r "Eh!?"
+    r "Eh!?" with vpunch
 
 # game/game/halloween_events.rpy:2728
 translate ukrainian ryoko_char_hallrep_438401ce:
@@ -11055,13 +11055,13 @@ translate ukrainian ryoko_char_hallrep_1efd7a7d:
 translate ukrainian ryoko_char_hallrep_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/halloween_events.rpy:2740
 translate ukrainian ryoko_char_hallrep_55356a34:
 
     # c "AaHHNM~{image=corazon}{image=corazon} {w}Hnhmh~ {image=corazon}{w}Uhmnm~{image=corazon}{image=corazon}"
-    c "AaHHNM~{image=corazon}{image=corazon} {w}Hnhmh~ {image=corazon}{w}Uhmnm~{image=corazon}{image=corazon}"
+    c "AaHHNM~{image=corazon}{image=corazon} {w}Hnhmh~ {image=corazon}{w}Uhmnm~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2741
 translate ukrainian ryoko_char_hallrep_dbba1cc7:
@@ -11079,7 +11079,7 @@ translate ukrainian ryoko_char_hallrep_5ba4755c:
 translate ukrainian ryoko_char_hallrep_4d3fa73a:
 
     # c "Hnammn~{image=corazon}{image=corazon} {w}My i-instincts are going crazy...{image=corazon} {w}AaHMMNM~{image=corazon}{image=corazon}"
-    c "Hnammn~{image=corazon}{image=corazon} {w}My i-instincts are going crazy...{image=corazon} {w}AaHMMNM~{image=corazon}{image=corazon}"
+    c "Hnammn~{image=corazon}{image=corazon} {w}My i-instincts are going crazy...{image=corazon} {w}AaHMMNM~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2744
 translate ukrainian ryoko_char_hallrep_b96c0876:
@@ -11091,13 +11091,13 @@ translate ukrainian ryoko_char_hallrep_b96c0876:
 translate ukrainian ryoko_char_hallrep_5197f82e:
 
     # t "Listening to Ryoko whisper those things is driving me crazy!"
-    t "Listening to Ryoko whisper those things is driving me crazy!"
+    t "Listening to Ryoko whisper those things is driving me crazy!" with vpunch
 
 # game/game/halloween_events.rpy:2746
 translate ukrainian ryoko_char_hallrep_67202b9f:
 
     # t "If Charlotte keeps moving, I'm going to cum!"
-    t "If Charlotte keeps moving, I'm going to cum!"
+    t "If Charlotte keeps moving, I'm going to cum!" with vpunch
 
 # game/game/halloween_events.rpy:2747
 translate ukrainian ryoko_char_hallrep_34decc1f:
@@ -11121,7 +11121,7 @@ translate ukrainian ryoko_char_hallrep_f6bb38ec:
 translate ukrainian ryoko_char_hallrep_402a5ae9:
 
     # mc "R-Ryoko!!"
-    mc "R-Ryoko!!"
+    mc "R-Ryoko!!" with hpunch
 
 # game/game/halloween_events.rpy:2753
 translate ukrainian ryoko_char_hallrep_59087483:
@@ -11133,7 +11133,7 @@ translate ukrainian ryoko_char_hallrep_59087483:
 translate ukrainian ryoko_char_hallrep_3da93b4e:
 
     # r "M-Master's penis~{image=corazon}{image=corazon} {w}HNhmh~{image=corazon} {w}f-finally inside me!{image=corazon}"
-    r "M-Master's penis~{image=corazon}{image=corazon} {w}HNhmh~{image=corazon} {w}f-finally inside me!{image=corazon}"
+    r "M-Master's penis~{image=corazon}{image=corazon} {w}HNhmh~{image=corazon} {w}f-finally inside me!{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2755
 translate ukrainian ryoko_char_hallrep_330fd3c9:
@@ -11151,7 +11151,7 @@ translate ukrainian ryoko_char_hallrep_63ce5727:
 translate ukrainian ryoko_char_hallrep_d23cde12:
 
     # t "Ryoko's pussy does nothing but squeeze and suck me!"
-    t "Ryoko's pussy does nothing but squeeze and suck me!"
+    t "Ryoko's pussy does nothing but squeeze and suck me!" with cumflash
 
 # game/game/halloween_events.rpy:2758
 translate ukrainian ryoko_char_hallrep_ac5411d6:
@@ -11169,7 +11169,7 @@ translate ukrainian ryoko_char_hallrep_a2daa885:
 translate ukrainian ryoko_char_hallrep_152f8d1a:
 
     # r "Heehe~{image=corazon}{image=corazon} {w}Hnhmh~{image=corazon}{image=corazon} {w}M-Master, you can cum whenever you want and on whomever you want~{image=corazon}{image=corazon}"
-    r "Heehe~{image=corazon}{image=corazon} {w}Hnhmh~{image=corazon}{image=corazon} {w}M-Master, you can cum whenever you want and on whomever you want~{image=corazon}{image=corazon}"
+    r "Heehe~{image=corazon}{image=corazon} {w}Hnhmh~{image=corazon}{image=corazon} {w}M-Master, you can cum whenever you want and on whomever you want~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2761
 translate ukrainian ryoko_char_hallrep_4cf7a546:
@@ -11193,13 +11193,13 @@ translate ukrainian ryoko_char_hallrep_8847a781:
 translate ukrainian ryoko_char_hallrep_cbf58129:
 
     # r "Both?"
-    r "Both?"
+    r "Both?" (multiple=2)
 
 # game/game/halloween_events.rpy:2765
 translate ukrainian ryoko_char_hallrep_4c4cf4e0:
 
     # c "Both?"
-    c "Both?"
+    c "Both?" (multiple=2)
 
 # game/game/halloween_events.rpy:2766
 translate ukrainian ryoko_char_hallrep_62952553:
@@ -11259,7 +11259,7 @@ translate ukrainian ryoko_char_hallrep_9d4a24aa:
 translate ukrainian ryoko_char_hallrep_86b168c4:
 
     # mc "Gulp*"
-    mc "Gulp*"
+    mc "Gulp*" with vpunch
 
 # game/game/halloween_events.rpy:2779
 translate ukrainian ryoko_char_hallrep_451fff8d:
@@ -11271,25 +11271,25 @@ translate ukrainian ryoko_char_hallrep_451fff8d:
 translate ukrainian ryoko_char_hallrep_21ee2dcf:
 
     # mc "I-I can't take it anymore...!"
-    mc "I-I can't take it anymore...!"
+    mc "I-I can't take it anymore...!" with hpunch
 
 # game/game/halloween_events.rpy:2783
 translate ukrainian ryoko_char_hallrep_0c9d2a0d:
 
     # r "HGngm!~{image=corazon}{image=corazon}"
-    r "HGngm!~{image=corazon}{image=corazon}"
+    r "HGngm!~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:2784
 translate ukrainian ryoko_char_hallrep_3a8744b8:
 
     # c "hAHANM!~{image=corazon}{image=corazon}"
-    c "hAHANM!~{image=corazon}{image=corazon}"
+    c "hAHANM!~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:2785
 translate ukrainian ryoko_char_hallrep_cd1c7947:
 
     # mc "It feels so good!"
-    mc "It feels so good!"
+    mc "It feels so good!" with hpunch
 
 # game/game/halloween_events.rpy:2786
 translate ukrainian ryoko_char_hallrep_ceb49c41:
@@ -11307,43 +11307,43 @@ translate ukrainian ryoko_char_hallrep_36964ddc:
 translate ukrainian ryoko_char_hallrep_c1486a4d:
 
     # c "H-Human habits...{image=corazon} {w}s-sometimes surprise me!{image=corazon}{image=corazon}"
-    c "H-Human habits...{image=corazon} {w}s-sometimes surprise me!{image=corazon}{image=corazon}"
+    c "H-Human habits...{image=corazon} {w}s-sometimes surprise me!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2789
 translate ukrainian ryoko_char_hallrep_9d0a62ad:
 
     # r "M-Master's penis {w}Hnhm~{image=corazon}{image=corazon} {w}i-is throbbing!{image=corazon}{image=corazon}"
-    r "M-Master's penis {w}Hnhm~{image=corazon}{image=corazon} {w}i-is throbbing!{image=corazon}{image=corazon}"
+    r "M-Master's penis {w}Hnhm~{image=corazon}{image=corazon} {w}i-is throbbing!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/halloween_events.rpy:2790
 translate ukrainian ryoko_char_hallrep_f70671ca:
 
     # mc "Now... {w}I'm going to cum! {w}I can't take it anymore!"
-    mc "Now... {w}I'm going to cum! {w}I can't take it anymore!"
+    mc "Now... {w}I'm going to cum! {w}I can't take it anymore!" with hpunch
 
 # game/game/halloween_events.rpy:2791
 translate ukrainian ryoko_char_hallrep_30d9b37e:
 
     # c "Hnhmma~{image=corazon}{image=corazon} {w}Aahahnm~ {image=corazon}"
-    c "Hnhmma~{image=corazon}{image=corazon} {w}Aahahnm~ {image=corazon}"
+    c "Hnhmma~{image=corazon}{image=corazon} {w}Aahahnm~ {image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:2792
 translate ukrainian ryoko_char_hallrep_53e1e0a2:
 
     # r "MMmnm~{image=corazon}{image=corazon} {w}Yeees~{image=corazon}{image=corazon}"
-    r "MMmnm~{image=corazon}{image=corazon} {w}Yeees~{image=corazon}{image=corazon}"
+    r "MMmnm~{image=corazon}{image=corazon} {w}Yeees~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:2801
 translate ukrainian ryoko_char_hallrep_56db65a8:
 
     # c "AaAAAaahaMHANM~~{image=corazon}{image=corazon}"
-    c "AaAAAaahaMHANM~~{image=corazon}{image=corazon}"
+    c "AaAAAaahaMHANM~~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:2802
 translate ukrainian ryoko_char_hallrep_0b1b0f6d:
 
     # r "GnhmGNMmmmmNMMN~~{image=corazon}{image=corazon}{image=corazon}"
-    r "GnhmGNMmmmmNMMN~~{image=corazon}{image=corazon}{image=corazon}"
+    r "GnhmGNMmmmmNMMN~~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/halloween_events.rpy:2805
 translate ukrainian ryoko_char_hallrep_36eeb24f:

@@ -1,4 +1,4 @@
-
+﻿
 # game/game/keiko_events.rpy:11
 translate ukrainian keiko_events_ddc3259c:
 
@@ -51,19 +51,19 @@ translate ukrainian keiko_night_event_203fbb80:
 translate ukrainian keiko_night_event_8a146176:
 
     # t "What!?"
-    t "What!?"
+    t "What!?" with vpunch
 
 # game/game/keiko_events.rpy:35
 translate ukrainian keiko_night_event_756a8bac:
 
     # t "Completely naked?!"
-    t "Completely naked?!"
+    t "Completely naked?!" with vpunch
 
 # game/game/keiko_events.rpy:36
 translate ukrainian keiko_night_event_a3b2c688:
 
     # mc "Big Gulp*"
-    mc "Big Gulp*"
+    mc "Big Gulp*" with hpunch
 
 # game/game/keiko_events.rpy:37
 translate ukrainian keiko_night_event_16b1321b:
@@ -105,7 +105,7 @@ translate ukrainian keiko_night_event_0ebb47f6:
 translate ukrainian keiko_night_event_5262a46f:
 
     # t "Fuck!"
-    t "Fuck!"
+    t "Fuck!" with vpunch
 
 # game/game/keiko_events.rpy:57
 translate ukrainian a_event_keiko_64e786d2:
@@ -333,7 +333,7 @@ translate ukrainian b_event_keiko_95f02fb1:
 translate ukrainian b_event_keiko_d3fec399:
 
     # k "Let's not waste any more time!"
-    k "Let's not waste any more time!"
+    k "Let's not waste any more time!" with vpunch
 
 # game/game/keiko_events.rpy:136
 translate ukrainian b_event_keiko_a04e7b68:
@@ -453,13 +453,13 @@ translate ukrainian b_event_keiko_6b5e4c06:
 translate ukrainian b_event_keiko_612878ca:
 
     # mc "Hmmp!"
-    mc "Hmmp!"
+    mc "Hmmp!" with vpunch
 
 # game/game/keiko_events.rpy:166
 translate ukrainian b_event_keiko_785d283f:
 
     # k "Hiu!~{image=/bg/icons/heart_text.png}"
-    k "Hiu!~{image=/bg/icons/heart_text.png}"
+    k "Hiu!~{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/keiko_events.rpy:167
 translate ukrainian b_event_keiko_0e3a95d3:
@@ -489,31 +489,31 @@ translate ukrainian b_event_keiko_c580dd2d:
 translate ukrainian b_event_keiko_a2205175:
 
     # t "I have to get all the stress out of it!"
-    t "I have to get all the stress out of it!"
+    t "I have to get all the stress out of it!" with vpunch
 
 # game/game/keiko_events.rpy:173
 translate ukrainian b_event_keiko_612878ca_1:
 
     # mc "Hmmp!"
-    mc "Hmmp!"
+    mc "Hmmp!" with vpunch
 
 # game/game/keiko_events.rpy:174
 translate ukrainian b_event_keiko_139233bc:
 
     # k "Hiaanm!~~{image=/bg/icons/heart_text.png}"
-    k "Hiaanm!~~{image=/bg/icons/heart_text.png}"
+    k "Hiaanm!~~{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/keiko_events.rpy:176
 translate ukrainian b_event_keiko_2f55d74a:
 
     # mc "Hump!!"
-    mc "Hump!!"
+    mc "Hump!!" with hpunch
 
 # game/game/keiko_events.rpy:177
 translate ukrainian b_event_keiko_c70a95fd:
 
     # k "Hiuuunm!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Hiuuunm!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Hiuuunm!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/keiko_events.rpy:178
 translate ukrainian b_event_keiko_4aa99014:
@@ -525,13 +525,13 @@ translate ukrainian b_event_keiko_4aa99014:
 translate ukrainian b_event_keiko_e64d2066:
 
     # mc "Haa!"
-    mc "Haa!"
+    mc "Haa!" with vpunch
 
 # game/game/keiko_events.rpy:181
 translate ukrainian b_event_keiko_c1b6aec0:
 
     # k "Hiiuu!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Hiiuu!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Hiiuu!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/keiko_events.rpy:183
 translate ukrainian b_event_keiko_1819cbe1:
@@ -543,13 +543,13 @@ translate ukrainian b_event_keiko_1819cbe1:
 translate ukrainian b_event_keiko_f439b7bf:
 
     # mc "Haa!!"
-    mc "Haa!!"
+    mc "Haa!!" with vpunch
 
 # game/game/keiko_events.rpy:185
 translate ukrainian b_event_keiko_383c722e:
 
     # k "Hmnmhn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Hmnmhn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Hmnmhn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/keiko_events.rpy:186
 translate ukrainian b_event_keiko_63914a82:
@@ -561,13 +561,13 @@ translate ukrainian b_event_keiko_63914a82:
 translate ukrainian b_event_keiko_6a3328ae:
 
     # mc "Hum!"
-    mc "Hum!"
+    mc "Hum!" with vpunch
 
 # game/game/keiko_events.rpy:189
 translate ukrainian b_event_keiko_63e7ff14:
 
     # k "Hium!!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Hium!!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Hium!!~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/keiko_events.rpy:190
 translate ukrainian b_event_keiko_41001696:
@@ -579,13 +579,13 @@ translate ukrainian b_event_keiko_41001696:
 translate ukrainian b_event_keiko_bc4dc45f:
 
     # mc "HaaAAAaaaa!!!!"
-    mc "HaaAAAaaaa!!!!"
+    mc "HaaAAAaaaa!!!!" with vpunch
 
 # game/game/keiko_events.rpy:193
 translate ukrainian b_event_keiko_d53384c7:
 
     # k "Hiiiiaauuummm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Hiiiiaauuummm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Hiiiiaauuummm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/keiko_events.rpy:195
 translate ukrainian b_event_keiko_efdd26e4:
@@ -657,7 +657,7 @@ translate ukrainian c_event_keiko_84992dc1:
 translate ukrainian c_event_keiko_88eac92d:
 
     # fu "What!?"
-    fu "What!?"
+    fu "What!?" with vpunch
 
 # game/game/keiko_events.rpy:222
 translate ukrainian c_event_keiko_cfc1d31f:
@@ -675,13 +675,13 @@ translate ukrainian c_event_keiko_36152e3c:
 translate ukrainian c_event_keiko_e2fa8aaf:
 
     # fu "B-B-B-Bad girl!!!"
-    fu "B-B-B-Bad girl!!!"
+    fu "B-B-B-Bad girl!!!" with vpunch
 
 # game/game/keiko_events.rpy:228
 translate ukrainian c_event_keiko_38ae6dac:
 
     # k "Awww!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Awww!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Awww!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/keiko_events.rpy:229
 translate ukrainian c_event_keiko_22902cf9:
@@ -705,7 +705,7 @@ translate ukrainian c_event_keiko_123cfc2a:
 translate ukrainian c_event_keiko_c9141347:
 
     # fu "K-Keiko! {w}You're on the table!"
-    fu "K-Keiko! {w}You're on the table!"
+    fu "K-Keiko! {w}You're on the table!" with vpunch
 
 # game/game/keiko_events.rpy:235
 translate ukrainian c_event_keiko_1b5ccc89:
@@ -729,7 +729,7 @@ translate ukrainian c_event_keiko_66b18905:
 translate ukrainian c_event_keiko_b86c833f:
 
     # fu "You're drooling!"
-    fu "You're drooling!"
+    fu "You're drooling!" with hpunch
 
 # game/game/keiko_events.rpy:240
 translate ukrainian c_event_keiko_ceb393bd:
@@ -759,7 +759,7 @@ translate ukrainian c_event_keiko_cbd9e956:
 translate ukrainian c_event_keiko_5ce39a61:
 
     # fu "Yes!"
-    fu "Yes!"
+    fu "Yes!" with vpunch
 
 # game/game/keiko_events.rpy:246
 translate ukrainian c_event_keiko_35ea60b9:
@@ -837,7 +837,7 @@ translate ukrainian c_event_keiko_16d24311:
 translate ukrainian c_event_keiko_e461cfba:
 
     # fu "K-Keiko!!!"
-    fu "K-Keiko!!!"
+    fu "K-Keiko!!!" with vpunch
 
 # game/game/keiko_events.rpy:269
 translate ukrainian c_event_keiko_698d7569:
@@ -849,7 +849,7 @@ translate ukrainian c_event_keiko_698d7569:
 translate ukrainian c_event_keiko_86402b6e:
 
     # fu "Don't be surprised!"
-    fu "Don't be surprised!"
+    fu "Don't be surprised!" with vpunch
 
 # game/game/keiko_events.rpy:273
 translate ukrainian c_event_keiko_19010c50:
@@ -951,19 +951,19 @@ translate ukrainian c_event_keiko_a9bbc763:
 translate ukrainian c_event_keiko_c339e701:
 
     # fu "W-What!"
-    fu "W-What!"
+    fu "W-What!" with vpunch
 
 # game/game/keiko_events.rpy:299
 translate ukrainian c_event_keiko_e3605874:
 
     # k "Fumiko said she looooves meeeeee!"
-    k "Fumiko said she looooves meeeeee!"
+    k "Fumiko said she looooves meeeeee!" with hpunch
 
 # game/game/keiko_events.rpy:300
 translate ukrainian c_event_keiko_878f4b30:
 
     # fu "I never said that!"
-    fu "I never said that!"
+    fu "I never said that!" with vpunch
 
 # game/game/keiko_events.rpy:301
 translate ukrainian c_event_keiko_288536a8:
@@ -987,7 +987,7 @@ translate ukrainian c_event_keiko_4f902722:
 translate ukrainian c_event_keiko_6d0d8654:
 
     # k "She will soon find a good man and leave me!"
-    k "She will soon find a good man and leave me!"
+    k "She will soon find a good man and leave me!" with vpunch
 
 # game/game/keiko_events.rpy:306
 translate ukrainian c_event_keiko_b32c1d03:
@@ -1005,7 +1005,7 @@ translate ukrainian c_event_keiko_15aa31b0:
 translate ukrainian c_event_keiko_acc93c50:
 
     # k "Fumiiikooo!!!"
-    k "Fumiiikooo!!!"
+    k "Fumiiikooo!!!" with vpunch
 
 # game/game/keiko_events.rpy:310
 translate ukrainian c_event_keiko_24404318:
@@ -1041,7 +1041,7 @@ translate ukrainian c_event_keiko_ae37f0c8:
 translate ukrainian c_event_keiko_580b1f4a:
 
     # k "...!"
-    k "...!"
+    k "...!" with vpunch
 
 # game/game/keiko_events.rpy:319
 translate ukrainian c_event_keiko_320e5f0c:
@@ -1083,7 +1083,7 @@ translate ukrainian c_event_keiko_9ef5d902:
 translate ukrainian c_event_keiko_689738b8:
 
     # k "It is decided!"
-    k "It is decided!"
+    k "It is decided!" with vpunch
 
 # game/game/keiko_events.rpy:331
 translate ukrainian c_event_keiko_4fcd5f81:
@@ -1107,7 +1107,7 @@ translate ukrainian c_event_keiko_c3f682d4:
 translate ukrainian c_event_keiko_268c6974:
 
     # fu "And why are you taking off my clothes!"
-    fu "And why are you taking off my clothes!"
+    fu "And why are you taking off my clothes!" with vpunch
 
 # game/game/keiko_events.rpy:335
 translate ukrainian c_event_keiko_2b35b6fe:
@@ -1143,7 +1143,7 @@ translate ukrainian c_event_keiko_4837df16:
 translate ukrainian c_event_keiko_b78c8491:
 
     # fu "But I do!"
-    fu "But I do!"
+    fu "But I do!" with vpunch
 
 # game/game/keiko_events.rpy:343
 translate ukrainian c_event_keiko_cde465cc:
@@ -1191,25 +1191,25 @@ translate ukrainian c_event_keiko_ad7480f8:
 translate ukrainian c_event_keiko_7a151db6:
 
     # t "She's right! {w}Not everything is eroticism and half-naked goddesses!"
-    t "She's right! {w}Not everything is eroticism and half-naked goddesses!"
+    t "She's right! {w}Not everything is eroticism and half-naked goddesses!" with hpunch
 
 # game/game/keiko_events.rpy:354
 translate ukrainian c_event_keiko_97522385:
 
     # t "I'm a man of conviction! {w}I know I can not think about it!"
-    t "I'm a man of conviction! {w}I know I can not think about it!"
+    t "I'm a man of conviction! {w}I know I can not think about it!" with vpunch
 
 # game/game/keiko_events.rpy:355
 translate ukrainian c_event_keiko_ed5d1e99:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with vpunch
 
 # game/game/keiko_events.rpy:357
 translate ukrainian c_event_keiko_550544f2:
 
     # t "AAAaaAAaAHH!"
-    t "AAAaaAAaAHH!"
+    t "AAAaaAAaAHH!" with hpunch
 
 # game/game/keiko_events.rpy:359
 translate ukrainian c_event_keiko_2b35b6fe_1:
@@ -1257,7 +1257,7 @@ translate ukrainian c_event_keiko_0c73e8b7:
 translate ukrainian c_event_keiko_5262a46f:
 
     # t "Fuck!"
-    t "Fuck!"
+    t "Fuck!" with vpunch
 
 # game/game/keiko_events.rpy:370
 translate ukrainian c_event_keiko_da598a54:
@@ -1269,7 +1269,7 @@ translate ukrainian c_event_keiko_da598a54:
 translate ukrainian c_event_keiko_95418860:
 
     # t "Don't tell me that!"
-    t "Don't tell me that!"
+    t "Don't tell me that!" with vpunch
 
 # game/game/keiko_events.rpy:373
 translate ukrainian c_event_keiko_c30b9f11:
@@ -1281,25 +1281,25 @@ translate ukrainian c_event_keiko_c30b9f11:
 translate ukrainian c_event_keiko_39926251:
 
     # mc "Hmnmp!"
-    mc "Hmnmp!"
+    mc "Hmnmp!" with vpunch
 
 # game/game/keiko_events.rpy:376
 translate ukrainian c_event_keiko_a0188ffa:
 
     # fu "{size=-10}Whu!~"
-    fu "{size=-10}Whu!~"
+    fu "{size=-10}Whu!~" with hpunch
 
 # game/game/keiko_events.rpy:378
 translate ukrainian c_event_keiko_a6e051c3:
 
     # mc "Haaa!"
-    mc "Haaa!"
+    mc "Haaa!" with hpunch
 
 # game/game/keiko_events.rpy:379
 translate ukrainian c_event_keiko_7eb017bc:
 
     # fu "{size=-10}Whnmn~"
-    fu "{size=-10}Whnmn~"
+    fu "{size=-10}Whnmn~" with hpunch
 
 # game/game/keiko_events.rpy:381
 translate ukrainian c_event_keiko_233a64a6:
@@ -1323,7 +1323,7 @@ translate ukrainian c_event_keiko_03f52e3d:
 translate ukrainian c_event_keiko_612878ca:
 
     # mc "Hmmp!"
-    mc "Hmmp!"
+    mc "Hmmp!" with vpunch
 
 # game/game/keiko_events.rpy:386
 translate ukrainian c_event_keiko_c87cab7f:
@@ -1347,7 +1347,7 @@ translate ukrainian c_event_keiko_1288513f:
 translate ukrainian c_event_keiko_875d1305:
 
     # mc "Ok!"
-    mc "Ok!"
+    mc "Ok!" with vpunch
 
 # game/game/keiko_events.rpy:391
 translate ukrainian c_event_keiko_e3e48108:
@@ -1359,37 +1359,37 @@ translate ukrainian c_event_keiko_e3e48108:
 translate ukrainian c_event_keiko_c1ce8e44:
 
     # mc "Hhhmp!"
-    mc "Hhhmp!"
+    mc "Hhhmp!" with vpunch
 
 # game/game/keiko_events.rpy:394
 translate ukrainian c_event_keiko_91ba2e41:
 
     # fu "Whhuunm~~{image=/bg/icons/heart_text.png}"
-    fu "Whhuunm~~{image=/bg/icons/heart_text.png}"
+    fu "Whhuunm~~{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/keiko_events.rpy:396
 translate ukrainian c_event_keiko_e64d2066:
 
     # mc "Haa!"
-    mc "Haa!"
+    mc "Haa!" with vpunch
 
 # game/game/keiko_events.rpy:397
 translate ukrainian c_event_keiko_799f7d81:
 
     # fu "W-Wai-"
-    fu "W-Wai-"
+    fu "W-Wai-" with hpunch
 
 # game/game/keiko_events.rpy:398
 translate ukrainian c_event_keiko_9744957f:
 
     # mc "HMNPP!"
-    mc "HMNPP!"
+    mc "HMNPP!" with vpunch
 
 # game/game/keiko_events.rpy:399
 translate ukrainian c_event_keiko_430bf02a:
 
     # fu "Niiiuuuuuum~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    fu "Niiiuuuuuum~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    fu "Niiiuuuuuum~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/keiko_events.rpy:401
 translate ukrainian c_event_keiko_76a25d97:
@@ -1533,7 +1533,7 @@ translate ukrainian c_event_keiko_b827862f:
 translate ukrainian c_event_keiko_580b1f4a_1:
 
     # k "...!"
-    k "...!"
+    k "...!" with vpunch
 
 # game/game/keiko_events.rpy:434
 translate ukrainian c_event_keiko_e61a7979:
@@ -2019,7 +2019,7 @@ translate ukrainian keiko_gal3_946185e5:
 translate ukrainian keiko_gal3_d2602f0e:
 
     # k "[mc]~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "[mc]~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "[mc]~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/keiko_events.rpy:548
 translate ukrainian keiko_gal3_c9162823:
@@ -2121,7 +2121,7 @@ translate ukrainian keiko_gal3_a5bf43f2:
 translate ukrainian keiko_gal3_0ef87889:
 
     # k "Hnmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    k "Hnmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    k "Hnmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/keiko_events.rpy:568
 translate ukrainian keiko_gal3_c742935d:
@@ -2241,7 +2241,7 @@ translate ukrainian keiko_gal3_9582e50f:
 translate ukrainian keiko_gal3_c46a597e:
 
     # k "Hhmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} my ass is full..."
-    k "Hhmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} my ass is full..."
+    k "Hhmnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{w} my ass is full..." with cumflash
 
 # game/game/keiko_events.rpy:599
 translate ukrainian keiko_gal3_394bd137:
@@ -2397,7 +2397,7 @@ translate ukrainian keiko_eventuno_b6c7d283:
 translate ukrainian keiko_eventuno_35df1c3b:
 
     # fu "-daaaay?!"
-    fu "-daaaay?!"
+    fu "-daaaay?!" with hpunch
 
 # game/game/keiko_events.rpy:668
 translate ukrainian keiko_eventuno_1a78a7a8:
@@ -2409,7 +2409,7 @@ translate ukrainian keiko_eventuno_1a78a7a8:
 translate ukrainian keiko_eventuno_2e99a96f:
 
     # fu "How long have you been there?!"
-    fu "How long have you been there?!"
+    fu "How long have you been there?!" with vpunch
 
 # game/game/keiko_events.rpy:671
 translate ukrainian keiko_eventuno_82bf030e:
@@ -2421,7 +2421,7 @@ translate ukrainian keiko_eventuno_82bf030e:
 translate ukrainian keiko_eventuno_fa518acf:
 
     # fu "And what are you doing here?!"
-    fu "And what are you doing here?!"
+    fu "And what are you doing here?!" with hpunch
 
 # game/game/keiko_events.rpy:674
 translate ukrainian keiko_eventuno_f2224e8e:
@@ -2433,7 +2433,7 @@ translate ukrainian keiko_eventuno_f2224e8e:
 translate ukrainian keiko_eventuno_eda95bae:
 
     # k "Nooooo!!"
-    k "Nooooo!!"
+    k "Nooooo!!" with hpunch
 
 # game/game/keiko_events.rpy:678
 translate ukrainian keiko_eventuno_4698326e:
@@ -2445,13 +2445,13 @@ translate ukrainian keiko_eventuno_4698326e:
 translate ukrainian keiko_eventuno_10d61ae4:
 
     # k "[mc]!"
-    k "[mc]!"
+    k "[mc]!" with vpunch
 
 # game/game/keiko_events.rpy:684
 translate ukrainian keiko_eventuno_ae1cfe9d:
 
     # k "You interrupted the cutest scene of the day!"
-    k "You interrupted the cutest scene of the day!"
+    k "You interrupted the cutest scene of the day!" with hpunch
 
 # game/game/keiko_events.rpy:685
 translate ukrainian keiko_eventuno_9211a607:
@@ -2463,19 +2463,19 @@ translate ukrainian keiko_eventuno_9211a607:
 translate ukrainian keiko_eventuno_ed15d191:
 
     # mc "W-Wait!?"
-    mc "W-Wait!?"
+    mc "W-Wait!?" with vpunch
 
 # game/game/keiko_events.rpy:689
 translate ukrainian keiko_eventuno_ef416ded:
 
     # k "Do you know how long I had to wait for Fumiko to start singing?!"
-    k "Do you know how long I had to wait for Fumiko to start singing?!"
+    k "Do you know how long I had to wait for Fumiko to start singing?!" with vpunch
 
 # game/game/keiko_events.rpy:690
 translate ukrainian keiko_eventuno_c2165742:
 
     # fu "W-What!?"
-    fu "W-What!?"
+    fu "W-What!?" with hpunch
 
 # game/game/keiko_events.rpy:691
 translate ukrainian keiko_eventuno_b6297e3f:
@@ -2487,7 +2487,7 @@ translate ukrainian keiko_eventuno_b6297e3f:
 translate ukrainian keiko_eventuno_8b480580:
 
     # fu "You said you were going to be busy for a few hours!"
-    fu "You said you were going to be busy for a few hours!"
+    fu "You said you were going to be busy for a few hours!" with vpunch
 
 # game/game/keiko_events.rpy:694
 translate ukrainian keiko_eventuno_82091822:
@@ -2511,7 +2511,7 @@ translate ukrainian keiko_eventuno_fe402a79:
 translate ukrainian keiko_eventuno_9371e985:
 
     # fu "Don't try to play dumb!"
-    fu "Don't try to play dumb!"
+    fu "Don't try to play dumb!" with vpunch
 
 # game/game/keiko_events.rpy:701
 translate ukrainian keiko_eventuno_2e0462c2:
@@ -2529,7 +2529,7 @@ translate ukrainian keiko_eventuno_b2ece0bf:
 translate ukrainian keiko_eventuno_d801c8a4:
 
     # fu "I heard what you said before!"
-    fu "I heard what you said before!"
+    fu "I heard what you said before!" with vpunch
 
 # game/game/keiko_events.rpy:704
 translate ukrainian keiko_eventuno_8dac5b55:
@@ -2553,7 +2553,7 @@ translate ukrainian keiko_eventuno_f5de412d:
 translate ukrainian keiko_eventuno_0eb843cd:
 
     # fu "Keiko!"
-    fu "Keiko!"
+    fu "Keiko!" with vpunch
 
 # game/game/keiko_events.rpy:709
 translate ukrainian keiko_eventuno_eff3acd3:
@@ -2631,7 +2631,7 @@ translate ukrainian keiko_eventuno_29f4838d:
 translate ukrainian keiko_eventuno_62aa97f3:
 
     # fu "K-Keiko!"
-    fu "K-Keiko!"
+    fu "K-Keiko!" with hpunch
 
 # game/game/keiko_events.rpy:728
 translate ukrainian keiko_eventuno_b0f75134:
@@ -2715,7 +2715,7 @@ translate ukrainian keiko_eventuno_5fb3d857:
 translate ukrainian keiko_eventuno_cd7df46c:
 
     # mc "{size=-10}{i}Gulp*"
-    mc "{size=-10}{i}Gulp*"
+    mc "{size=-10}{i}Gulp*" with vpunch
 
 # game/game/keiko_events.rpy:749
 translate ukrainian keiko_eventuno_c891baf1:
@@ -2733,7 +2733,7 @@ translate ukrainian keiko_eventuno_9b287d9c:
 translate ukrainian keiko_eventuno_3e38b9dd:
 
     # mc "Ah!"
-    mc "Ah!"
+    mc "Ah!" with vpunch
 
 # game/game/keiko_events.rpy:754
 translate ukrainian keiko_eventuno_45122c72:
@@ -2901,7 +2901,7 @@ translate ukrainian keiko_eventuno_d09e0edb:
 translate ukrainian keiko_eventuno_6a3f7bb5:
 
     # k "My Fumiko is so cute!~ {image=corazon}"
-    k "My Fumiko is so cute!~ {image=corazon}"
+    k "My Fumiko is so cute!~ {image=corazon}" with hpunch
 
 # game/game/keiko_events.rpy:800
 translate ukrainian keiko_eventuno_eb0840d5_1:
@@ -2937,7 +2937,7 @@ translate ukrainian keiko_eventuno_5914ce07:
 translate ukrainian keiko_eventuno_fec44539:
 
     # fu "[mc]! {w}She's already drooling!"
-    fu "[mc]! {w}She's already drooling!"
+    fu "[mc]! {w}She's already drooling!" with hpunch
 
 # game/game/keiko_events.rpy:809
 translate ukrainian keiko_eventuno_6f360d14:
@@ -2955,7 +2955,7 @@ translate ukrainian keiko_eventuno_99ceef5a:
 translate ukrainian keiko_eventuno_566737aa:
 
     # fu "[mc]!!!!"
-    fu "[mc]!!!!"
+    fu "[mc]!!!!" with hpunch
 
 # game/game/keiko_events.rpy:813
 translate ukrainian keiko_eventuno_0a69f768:
@@ -3009,7 +3009,7 @@ translate ukrainian keiko_eventuno_4698326e_1:
 translate ukrainian keiko_eventuno_8b049f67:
 
     # fu "First there were four and then three!"
-    fu "First there were four and then three!"
+    fu "First there were four and then three!" with vpunch
 
 # game/game/keiko_events.rpy:826
 translate ukrainian keiko_eventuno_9e7c0d03:
@@ -3021,7 +3021,7 @@ translate ukrainian keiko_eventuno_9e7c0d03:
 translate ukrainian keiko_eventuno_b9208ed5:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with vpunch
 
 # game/game/keiko_events.rpy:830
 translate ukrainian keiko_eventuno_176848ab:
@@ -3129,13 +3129,13 @@ translate ukrainian keiko_eventuno_ab2d7660:
 translate ukrainian keiko_eventuno_6686556c:
 
     # k "Iaahm!~{image=corazon} {w}My Fumiko!"
-    k "Iaahm!~{image=corazon} {w}My Fumiko!"
+    k "Iaahm!~{image=corazon} {w}My Fumiko!" with vpunch
 
 # game/game/keiko_events.rpy:858
 translate ukrainian keiko_eventuno_b6ba71a0:
 
     # fu "Keiko!!!"
-    fu "Keiko!!!"
+    fu "Keiko!!!" with vpunch
 
 # game/game/keiko_events.rpy:863
 translate ukrainian keiko_eventuno_035f7f60:
@@ -3147,7 +3147,7 @@ translate ukrainian keiko_eventuno_035f7f60:
 translate ukrainian keiko_eventuno_a533736e:
 
     # fu "[mc]!!"
-    fu "[mc]!!"
+    fu "[mc]!!" with hpunch
 
 # game/game/keiko_events.rpy:866
 translate ukrainian keiko_eventuno_0f47fcfe:
@@ -3213,7 +3213,7 @@ translate ukrainian keiko_eventdos_82c7c931:
 translate ukrainian keiko_eventdos_b69a5441:
 
     # fu "What?! {w}Why?!"
-    fu "What?! {w}Why?!"
+    fu "What?! {w}Why?!" with vpunch
 
 # game/game/keiko_events.rpy:888
 translate ukrainian keiko_eventdos_d23bb8d8:
@@ -3231,13 +3231,13 @@ translate ukrainian keiko_eventdos_25a7c6bd:
 translate ukrainian keiko_eventdos_fe3dd33d:
 
     # mc "Eeeehh!?"
-    mc "Eeeehh!?"
+    mc "Eeeehh!?" with hpunch
 
 # game/game/keiko_events.rpy:898
 translate ukrainian keiko_eventdos_7a1151ab:
 
     # mc "I'm falling!?"
-    mc "I'm falling!?"
+    mc "I'm falling!?" with hpunch
 
 # game/game/keiko_events.rpy:903
 translate ukrainian keiko_eventdos_1d82a7e7:
@@ -3423,13 +3423,13 @@ translate ukrainian keiko_eventdos_22543044:
 translate ukrainian keiko_eventdos_b9208ed5:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with vpunch
 
 # game/game/keiko_events.rpy:951
 translate ukrainian keiko_eventdos_4fc58bbf:
 
     # fu "I don't know what you are talking about!"
-    fu "I don't know what you are talking about!"
+    fu "I don't know what you are talking about!" with hpunch
 
 # game/game/keiko_events.rpy:952
 translate ukrainian keiko_eventdos_250c16d8:
@@ -3717,13 +3717,13 @@ translate ukrainian keiko_eventdos_3db2a29b:
 translate ukrainian keiko_eventdos_7bbbc213:
 
     # k "...."
-    k "...."
+    k "...." (multiple=2)
 
 # game/game/keiko_events.rpy:1019
 translate ukrainian keiko_eventdos_ceade150:
 
     # fu "...."
-    fu "...."
+    fu "...." (multiple=2)
 
 # game/game/keiko_events.rpy:1021
 translate ukrainian keiko_eventdos_e6d3efcb:
@@ -3747,13 +3747,13 @@ translate ukrainian keiko_eventdos_cfce055e:
 translate ukrainian keiko_eventdos_7bbbc213_1:
 
     # k "...."
-    k "...."
+    k "...." (multiple=2)
 
 # game/game/keiko_events.rpy:1026
 translate ukrainian keiko_eventdos_ceade150_1:
 
     # fu "...."
-    fu "...."
+    fu "...." (multiple=2)
 
 # game/game/keiko_events.rpy:1028
 translate ukrainian keiko_eventdos_231c718a:
@@ -3885,7 +3885,7 @@ translate ukrainian keiko_eventdos_eb0840d5_4:
 translate ukrainian keiko_eventdos_b9208ed5_1:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with vpunch
 
 # game/game/keiko_events.rpy:1058
 translate ukrainian keiko_eventdos_f7363af8:
@@ -3897,7 +3897,7 @@ translate ukrainian keiko_eventdos_f7363af8:
 translate ukrainian keiko_eventdos_ade75346:
 
     # fu "AAaaAAHH!"
-    fu "AAaaAAHH!"
+    fu "AAaaAAHH!" with vpunch
 
 # game/game/keiko_events.rpy:1062
 translate ukrainian keiko_eventdos_4f7a5153:
@@ -3909,7 +3909,7 @@ translate ukrainian keiko_eventdos_4f7a5153:
 translate ukrainian keiko_eventdos_9af6674b:
 
     # fu "It is not true! {w}It was just a mistake of words!"
-    fu "It is not true! {w}It was just a mistake of words!"
+    fu "It is not true! {w}It was just a mistake of words!" with vpunch
 
 # game/game/keiko_events.rpy:1065
 translate ukrainian keiko_eventdos_3eaa2c9c:
@@ -3927,13 +3927,13 @@ translate ukrainian keiko_eventdos_1392f0e6:
 translate ukrainian keiko_eventdos_d6423b76:
 
     # k "We cannot!{image=corazon} {w}[mc] is watching us!{image=corazon}{image=corazon}"
-    k "We cannot!{image=corazon} {w}[mc] is watching us!{image=corazon}{image=corazon}"
+    k "We cannot!{image=corazon} {w}[mc] is watching us!{image=corazon}{image=corazon}" with hpunch
 
 # game/game/keiko_events.rpy:1069
 translate ukrainian keiko_eventdos_48e7ce68:
 
     # fu "Let go of me! {w}You perverted goddess!"
-    fu "Let go of me! {w}You perverted goddess!"
+    fu "Let go of me! {w}You perverted goddess!" with hpunch
 
 # game/game/keiko_events.rpy:1074
 translate ukrainian keiko_eventdos_035f7f60:
@@ -3945,7 +3945,7 @@ translate ukrainian keiko_eventdos_035f7f60:
 translate ukrainian keiko_eventdos_a2a35103:
 
     # k "Y-Yeeees!{w} Fujuju ~~{image=corazon} I'm your pervert!{image=corazon}{image=corazon}{image=corazon}"
-    k "Y-Yeeees!{w} Fujuju ~~{image=corazon} I'm your pervert!{image=corazon}{image=corazon}{image=corazon}"
+    k "Y-Yeeees!{w} Fujuju ~~{image=corazon} I'm your pervert!{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/keiko_events.rpy:1077
 translate ukrainian keiko_eventdos_a57cb4c8:
@@ -3963,7 +3963,7 @@ translate ukrainian keiko_eventdos_b84f0f10:
 translate ukrainian keiko_eventdos_54dba056:
 
     # fu "[mc]!"
-    fu "[mc]!"
+    fu "[mc]!" with vpunch
 
 # game/game/keiko_events.rpy:1080
 translate ukrainian keiko_eventdos_e4be6021:
@@ -4089,7 +4089,7 @@ translate ukrainian keiko_eventtres_3a1d03c2:
 translate ukrainian keiko_eventtres_f4d9cefb:
 
     # k "[mc]!?"
-    k "[mc]!?"
+    k "[mc]!?" with hpunch
 
 # game/game/keiko_events.rpy:1120
 translate ukrainian keiko_eventtres_ce900dfe:
@@ -4101,7 +4101,7 @@ translate ukrainian keiko_eventtres_ce900dfe:
 translate ukrainian keiko_eventtres_6dcb3208:
 
     # k "You shouldn't be here while I'm doing-"
-    k "You shouldn't be here while I'm doing-"
+    k "You shouldn't be here while I'm doing-" with vpunch
 
 # game/game/keiko_events.rpy:1123
 translate ukrainian keiko_eventtres_3c035e46:
@@ -4665,7 +4665,7 @@ translate ukrainian keiko_gal4_2e83d8b4:
 translate ukrainian keiko_gal4_580b1f4a:
 
     # k "...!"
-    k "...!"
+    k "...!" with vpunch
 
 # game/game/keiko_events.rpy:1275
 translate ukrainian keiko_gal4_01c5b217:
@@ -4791,7 +4791,7 @@ translate ukrainian keiko_gal4_4f377611:
 translate ukrainian keiko_gal4_7c3596c8:
 
     # t "I want her to enjoy it more!"
-    t "I want her to enjoy it more!"
+    t "I want her to enjoy it more!" with vpunch
 
 # game/game/keiko_events.rpy:1299
 translate ukrainian keiko_gal4_4c331770:
@@ -4845,7 +4845,7 @@ translate ukrainian keiko_gal4_efac925f:
 translate ukrainian keiko_gal4_ca9b363e:
 
     # k "HHNnm~{image=corazon}{image=corazon} {w}Yeees~ {image=corazon}{image=corazon}"
-    k "HHNnm~{image=corazon}{image=corazon} {w}Yeees~ {image=corazon}{image=corazon}"
+    k "HHNnm~{image=corazon}{image=corazon} {w}Yeees~ {image=corazon}{image=corazon}" with cumflash
 
 # game/game/keiko_events.rpy:1308
 translate ukrainian keiko_gal4_c6f1683c:
@@ -4875,7 +4875,7 @@ translate ukrainian keiko_gal4_408f66e8:
 translate ukrainian keiko_gal4_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/keiko_events.rpy:1315
 translate ukrainian keiko_gal4_7c23ffbc:
@@ -4947,7 +4947,7 @@ translate ukrainian keiko_gal4_a2022951:
 translate ukrainian keiko_gal4_4f4541cb:
 
     # k "AAaahm~~{image=corazon}{image=corazon} {w}Yees~{image=corazon} {w}MhnmNm~~{image=corazon}{image=corazon}"
-    k "AAaahm~~{image=corazon}{image=corazon} {w}Yees~{image=corazon} {w}MhnmNm~~{image=corazon}{image=corazon}"
+    k "AAaahm~~{image=corazon}{image=corazon} {w}Yees~{image=corazon} {w}MhnmNm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/keiko_events.rpy:1327
 translate ukrainian keiko_gal4_32c58a17:
@@ -4971,7 +4971,7 @@ translate ukrainian keiko_gal4_5aed1eaf:
 translate ukrainian keiko_gal4_69eb92cd:
 
     # k "Hnhmnm~~!{image=corazon}{image=corazon}"
-    k "Hnhmnm~~!{image=corazon}{image=corazon}"
+    k "Hnhmnm~~!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/keiko_events.rpy:1333
 translate ukrainian keiko_gal4_997b6aa6:
@@ -5013,13 +5013,13 @@ translate ukrainian keiko_gal4_b5465424:
 translate ukrainian keiko_gal4_ed5d1e99:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with vpunch
 
 # game/game/keiko_events.rpy:1340
 translate ukrainian keiko_gal4_bb4f1144:
 
     # k "Iiahmn~{image=corazon} {w}What a good boy~{image=corazon}{image=corazon}"
-    k "Iiahmn~{image=corazon} {w}What a good boy~{image=corazon}{image=corazon}"
+    k "Iiahmn~{image=corazon} {w}What a good boy~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/keiko_events.rpy:1341
 translate ukrainian keiko_gal4_ae33191b:
@@ -5049,25 +5049,25 @@ translate ukrainian keiko_gal4_511db18d:
 translate ukrainian keiko_gal4_52f244f9:
 
     # mc "I'm at my limit Keiko!"
-    mc "I'm at my limit Keiko!"
+    mc "I'm at my limit Keiko!" with hpunch
 
 # game/game/keiko_events.rpy:1348
 translate ukrainian keiko_gal4_3e9c57cf:
 
     # k "Yees...{image=corazon} pour it all out!{image=corazon}{image=corazon}{image=corazon}"
-    k "Yees...{image=corazon} pour it all out!{image=corazon}{image=corazon}{image=corazon}"
+    k "Yees...{image=corazon} pour it all out!{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/keiko_events.rpy:1349
 translate ukrainian keiko_gal4_50175311:
 
     # mc "Now!"
-    mc "Now!"
+    mc "Now!" with vpunch
 
 # game/game/keiko_events.rpy:1361
 translate ukrainian keiko_gal4_d3df145e:
 
     # k "MnhNHNMHNmhmnm~~!!{image=corazon}{image=corazon}{image=corazon}"
-    k "MnhNHNMHNmhmnm~~!!{image=corazon}{image=corazon}{image=corazon}"
+    k "MnhNHNMHNmhmnm~~!!{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/keiko_events.rpy:1364
 translate ukrainian keiko_gal4_3156d4d9:
@@ -5121,7 +5121,7 @@ translate ukrainian keiko_card_8ace25c0:
 translate ukrainian keiko_card_aadafe54:
 
     # fu "{size=+5}[mc]!"
-    fu "{size=+5}[mc]!"
+    fu "{size=+5}[mc]!" with hpunch
 
 # game/game/keiko_events.rpy:1395
 translate ukrainian keiko_card_67e10261:
@@ -5133,7 +5133,7 @@ translate ukrainian keiko_card_67e10261:
 translate ukrainian keiko_card_5bb1f46c:
 
     # fu "I need you to tell me!"
-    fu "I need you to tell me!"
+    fu "I need you to tell me!" with vpunch
 
 # game/game/keiko_events.rpy:1399
 translate ukrainian keiko_card_fe0afa9a:
@@ -5145,19 +5145,19 @@ translate ukrainian keiko_card_fe0afa9a:
 translate ukrainian keiko_card_6097aa5e:
 
     # fu "Tell me!"
-    fu "Tell me!"
+    fu "Tell me!" with vpunch
 
 # game/game/keiko_events.rpy:1402
 translate ukrainian keiko_card_9dfe4a03:
 
     # mc "What!?"
-    mc "What!?"
+    mc "What!?" with hpunch
 
 # game/game/keiko_events.rpy:1404
 translate ukrainian keiko_card_bff55226:
 
     # fu "What is wrong with her!"
-    fu "What is wrong with her!"
+    fu "What is wrong with her!" with hpunch
 
 # game/game/keiko_events.rpy:1405
 translate ukrainian keiko_card_03fb3e88:
@@ -5535,7 +5535,7 @@ translate ukrainian keiko_card_a61313bb:
 translate ukrainian keiko_card_cbb5b35e:
 
     # mc "Anyway! {w}What did you put on the card?"
-    mc "Anyway! {w}What did you put on the card?"
+    mc "Anyway! {w}What did you put on the card?" with vpunch
 
 # game/game/keiko_events.rpy:1501
 translate ukrainian keiko_card_33fe687b:
@@ -5643,7 +5643,7 @@ translate ukrainian keiko_card_f9c3c577:
 translate ukrainian keiko_card_1396a180:
 
     # fu "K-Keiko!!"
-    fu "K-Keiko!!"
+    fu "K-Keiko!!" with hpunch
 
 # game/game/keiko_events.rpy:1534
 translate ukrainian keiko_card_05937abb:
@@ -5679,7 +5679,7 @@ translate ukrainian keiko_card_71ac1f9d:
 translate ukrainian keiko_card_f5384540:
 
     # fu "I did nothing! {w}[mc], protect me!"
-    fu "I did nothing! {w}[mc], protect me!"
+    fu "I did nothing! {w}[mc], protect me!" with vpunch
 
 # game/game/keiko_events.rpy:1542
 translate ukrainian keiko_card_9f42dc13:
@@ -5835,19 +5835,19 @@ translate ukrainian keiko_card_55b7978b:
 translate ukrainian keiko_card_5add42c1:
 
     # fu "But she was having a hard time!"
-    fu "But she was having a hard time!"
+    fu "But she was having a hard time!" with vpunch
 
 # game/game/keiko_events.rpy:1578
 translate ukrainian keiko_card_5e0890f8:
 
     # fu "If I didn't do something she could die!"
-    fu "If I didn't do something she could die!"
+    fu "If I didn't do something she could die!" with hpunch
 
 # game/game/keiko_events.rpy:1580
 translate ukrainian keiko_card_df903b7b:
 
     # fu "K-keiko!"
-    fu "K-keiko!"
+    fu "K-keiko!" with vpunch
 
 # game/game/keiko_events.rpy:1581
 translate ukrainian keiko_card_5b0c8cf7:
@@ -5997,13 +5997,13 @@ translate ukrainian keiko_card_d9ac4f77:
 translate ukrainian keiko_card_a280a778:
 
     # k "My little Fumiko has a friend she can laugh with!"
-    k "My little Fumiko has a friend she can laugh with!"
+    k "My little Fumiko has a friend she can laugh with!" with hpunch
 
 # game/game/keiko_events.rpy:1616
 translate ukrainian keiko_card_f4083796:
 
     # fu "Don't say embarassing things!"
-    fu "Don't say embarassing things!"
+    fu "Don't say embarassing things!" with hpunch
 
 # game/game/keiko_events.rpy:1617
 translate ukrainian keiko_card_1f5b224d:
@@ -6027,7 +6027,7 @@ translate ukrainian keiko_card_435916e0:
 translate ukrainian keiko_card_af0a6a77:
 
     # k "FumikoooOOoo!"
-    k "FumikoooOOoo!"
+    k "FumikoooOOoo!" with vpunch
 
 # game/game/keiko_events.rpy:1623
 translate ukrainian keiko_card_23528c2f:
@@ -6045,7 +6045,7 @@ translate ukrainian keiko_card_69b1c2a7:
 translate ukrainian keiko_card_b2ed7e71:
 
     # k "Why is she growing so fast!!?"
-    k "Why is she growing so fast!!?"
+    k "Why is she growing so fast!!?" with hpunch
 
 # game/game/keiko_events.rpy:1626
 translate ukrainian keiko_card_7a6916b6:
@@ -6057,7 +6057,7 @@ translate ukrainian keiko_card_7a6916b6:
 translate ukrainian keiko_card_dd7f272b:
 
     # fu "Don't play along with her! {w}A g-goddess cannot befriend a mortal!"
-    fu "Don't play along with her! {w}A g-goddess cannot befriend a mortal!"
+    fu "Don't play along with her! {w}A g-goddess cannot befriend a mortal!" with vpunch
 
 # game/game/keiko_events.rpy:1629
 translate ukrainian keiko_card_29970df4:
@@ -6075,7 +6075,7 @@ translate ukrainian keiko_card_ba30e940:
 translate ukrainian keiko_card_4d74573d:
 
     # fu "K-KEIKO!"
-    fu "K-KEIKO!"
+    fu "K-KEIKO!" with hpunch
 
 # game/game/keiko_events.rpy:1637
 translate ukrainian keiko_card_85628c81:
@@ -6099,7 +6099,7 @@ translate ukrainian keiko_card_d529779a:
 translate ukrainian keiko_card_45219de1:
 
     # fu "Y-yo-y-You promised you w-would keep it a s-secret!"
-    fu "Y-yo-y-You promised you w-would keep it a s-secret!"
+    fu "Y-yo-y-You promised you w-would keep it a s-secret!" with vpunch
 
 # game/game/keiko_events.rpy:1642
 translate ukrainian keiko_card_c5351fa2:
@@ -6117,7 +6117,7 @@ translate ukrainian keiko_card_a36251f8:
 translate ukrainian keiko_card_29a9ed5f:
 
     # fu "And stop grabbing my butt! {w}You perverted goddess!"
-    fu "And stop grabbing my butt! {w}You perverted goddess!"
+    fu "And stop grabbing my butt! {w}You perverted goddess!" with hpunch
 
 # game/game/keiko_events.rpy:1646
 translate ukrainian keiko_card_10a5e8a9:
@@ -6135,13 +6135,13 @@ translate ukrainian keiko_card_0cca4b66:
 translate ukrainian keiko_card_4bb0b195:
 
     # fu "Don't lick my hand!"
-    fu "Don't lick my hand!"
+    fu "Don't lick my hand!" with vpunch
 
 # game/game/keiko_events.rpy:1650
 translate ukrainian keiko_card_ed691601:
 
     # fu "What are you doing!? {w}[mc]!!!"
-    fu "What are you doing!? {w}[mc]!!!"
+    fu "What are you doing!? {w}[mc]!!!" with hpunch
 
 # game/game/keiko_events.rpy:1651
 translate ukrainian keiko_card_273fa2d0:
@@ -6399,7 +6399,7 @@ translate ukrainian divine_obser_63f776f5:
 translate ukrainian divine_obser_10d61ae4:
 
     # k "[mc]!"
-    k "[mc]!"
+    k "[mc]!" with vpunch
 
 # game/game/keiko_events.rpy:1737
 translate ukrainian divine_obser_1a482de4:
@@ -6627,7 +6627,7 @@ translate ukrainian divine_obser_755fa1ba:
 translate ukrainian divine_obser_c9ff07cc:
 
     # k "...!"
-    k "...!"
+    k "...!" with hpunch
 
 # game/game/keiko_events.rpy:1791
 translate ukrainian divine_obser_d1829248:
@@ -6705,7 +6705,7 @@ translate ukrainian divine_obser_c96b8074:
 translate ukrainian divine_obser_c9ff07cc_1:
 
     # k "...!"
-    k "...!"
+    k "...!" with hpunch
 
 # game/game/keiko_events.rpy:1808
 translate ukrainian divine_obser_3a89c836:
@@ -6795,7 +6795,7 @@ translate ukrainian divine_obser_254fa0df:
 translate ukrainian divine_obser_3e8e0774:
 
     # mc "H-Hana?"
-    mc "H-Hana?"
+    mc "H-Hana?" with hpunch
 
 # game/game/keiko_events.rpy:1826
 translate ukrainian divine_obser_4e90c94a:
@@ -7137,13 +7137,13 @@ translate ukrainian divine_obser_de240f8c:
 translate ukrainian divine_obser_258b82f9:
 
     # mc "Oh-"
-    mc "Oh-"
+    mc "Oh-" (multiple=2)
 
 # game/game/keiko_events.rpy:1908
 translate ukrainian divine_obser_c8d5e25d:
 
     # k "Now!"
-    k "Now!"
+    k "Now!" (multiple=2)
 
 # game/game/keiko_events.rpy:1910
 translate ukrainian divine_obser_81725e06:
@@ -7419,25 +7419,25 @@ translate ukrainian goddess_friends_c35daffa:
 translate ukrainian goddess_friends_73b3470b:
 
     # k "{size=-6}Khgn!~"
-    k "{size=-6}Khgn!~"
+    k "{size=-6}Khgn!~" with vpunch
 
 # game/game/keiko_events.rpy:1990
 translate ukrainian goddess_friends_52d7e3f9:
 
     # fu "..."
-    fu "..."
+    fu "..." (multiple=2)
 
 # game/game/keiko_events.rpy:1991
 translate ukrainian goddess_friends_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/keiko_events.rpy:1992
 translate ukrainian goddess_friends_9742d6f4:
 
     # k "{size=-6}Ghmm!~"
-    k "{size=-6}Ghmm!~"
+    k "{size=-6}Ghmm!~" with hpunch
 
 # game/game/keiko_events.rpy:1994
 translate ukrainian goddess_friends_1b33db53:
@@ -7455,7 +7455,7 @@ translate ukrainian goddess_friends_a6d2bbdb:
 translate ukrainian goddess_friends_4fdc2349:
 
     # k "They look so cute together!!"
-    k "They look so cute together!!"
+    k "They look so cute together!!" with hpunch
 
 # game/game/keiko_events.rpy:1998
 translate ukrainian goddess_friends_04ccaab1:
@@ -8007,7 +8007,7 @@ translate ukrainian keiko_gal5_1fe97923:
 translate ukrainian keiko_gal5_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/keiko_events.rpy:2140
 translate ukrainian keiko_gal5_bc6ef9d7:
@@ -8043,7 +8043,7 @@ translate ukrainian keiko_gal5_3c21d44a:
 translate ukrainian keiko_gal5_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/keiko_events.rpy:2147
 translate ukrainian keiko_gal5_e3a72991:
@@ -8061,7 +8061,7 @@ translate ukrainian keiko_gal5_692f6df4:
 translate ukrainian keiko_gal5_89474c74:
 
     # mc "K-Keiko..."
-    mc "K-Keiko..."
+    mc "K-Keiko..." with cumflash
 
 # game/game/keiko_events.rpy:2150
 translate ukrainian keiko_gal5_1b2442b5:
@@ -8079,7 +8079,7 @@ translate ukrainian keiko_gal5_46f52a01:
 translate ukrainian keiko_gal5_345e2df1:
 
     # k "Oh my~ {w}What kind of requests do you make to a goddess?~{image=corazon}"
-    k "Oh my~ {w}What kind of requests do you make to a goddess?~{image=corazon}"
+    k "Oh my~ {w}What kind of requests do you make to a goddess?~{image=corazon}" with hpunch
 
 # game/game/keiko_events.rpy:2153
 translate ukrainian keiko_gal5_0ec47dbc:
@@ -8115,7 +8115,7 @@ translate ukrainian keiko_gal5_7cb25454:
 translate ukrainian keiko_gal5_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/keiko_events.rpy:2162
 translate ukrainian keiko_gal5_c548f381:
@@ -8133,7 +8133,7 @@ translate ukrainian keiko_gal5_772d5880:
 translate ukrainian keiko_gal5_a62f18e2:
 
     # mc "Ghn!"
-    mc "Ghn!"
+    mc "Ghn!" with cumflash
 
 # game/game/keiko_events.rpy:2166
 translate ukrainian keiko_gal5_ae43942d:
@@ -8193,7 +8193,7 @@ translate ukrainian keiko_gal5_b5da588e:
 translate ukrainian keiko_gal5_9861a9ce:
 
     # mc "A-Anytime... {w}I-It will be a pleasure..."
-    mc "A-Anytime... {w}I-It will be a pleasure..."
+    mc "A-Anytime... {w}I-It will be a pleasure..." with cumflash
 
 # game/game/keiko_events.rpy:2176
 translate ukrainian keiko_gal5_5a1aad15:
@@ -8307,7 +8307,7 @@ translate ukrainian keiko_gal5_a7bcf340:
 translate ukrainian keiko_gal5_82ead5e9:
 
     # mc "W-What-"
-    mc "W-What-"
+    mc "W-What-" with vpunch
 
 # game/game/keiko_events.rpy:2198
 translate ukrainian keiko_gal5_6188d8bd:
@@ -8361,7 +8361,7 @@ translate ukrainian keiko_gal5_7ae17919:
 translate ukrainian keiko_gal5_bde8d0e8:
 
     # mc "B-But I-"
-    mc "B-But I-"
+    mc "B-But I-" with cumflash
 
 # game/game/keiko_events.rpy:2207
 translate ukrainian keiko_gal5_f8997e36:
@@ -8391,19 +8391,19 @@ translate ukrainian keiko_gal5_2eddfa5e:
 translate ukrainian keiko_gal5_b702cb80:
 
     # mc "Hnhm!"
-    mc "Hnhm!"
+    mc "Hnhm!" with cumflash
 
 # game/game/keiko_events.rpy:2218
 translate ukrainian keiko_gal5_3a0b9432:
 
     # mc "Hnmm!"
-    mc "Hnmm!"
+    mc "Hnmm!" with hpunch
 
 # game/game/keiko_events.rpy:2221
 translate ukrainian keiko_gal5_47c3e1a3:
 
     # mc "K-Keiko!"
-    mc "K-Keiko!"
+    mc "K-Keiko!" with vpunch
 
 # game/game/keiko_events.rpy:2222
 translate ukrainian keiko_gal5_194d50d1:
@@ -8481,387 +8481,387 @@ translate ukrainian keiko_gal5_c3aea2c6:
 translate ukrainian keiko_gal5_cf79ec60:
 
     # k "Hahaha~{image=corazon}"
-    k "Hahaha~{image=corazon}"
+    k "Hahaha~{image=corazon}" (multiple=2)
 
 # game/game/keiko_events.rpy:2252
 translate ukrainian keiko_gal5_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
-# game/game/keiko_events.rpy:2264
+# game/game/keiko_events.rpy:2270
 translate ukrainian goddess_spend_283815c6:
 
     # k "Hello darling, what's the reason for your visit?"
     k "Hello darling, what's the reason for your visit?"
 
-# game/game/keiko_events.rpy:2265
+# game/game/keiko_events.rpy:2271
 translate ukrainian goddess_spend_eb0840d5:
 
     # fu "..."
     fu "..."
 
-# game/game/keiko_events.rpy:2268
+# game/game/keiko_events.rpy:2274
 translate ukrainian goddess_spend_bbbc754a:
 
     # mc "Am I interrupting something?"
     mc "Am I interrupting something?"
 
-# game/game/keiko_events.rpy:2270
+# game/game/keiko_events.rpy:2276
 translate ukrainian goddess_spend_f232ec9f:
 
     # k "You are just in time."
     k "You are just in time."
 
-# game/game/keiko_events.rpy:2271
+# game/game/keiko_events.rpy:2277
 translate ukrainian goddess_spend_ec2e0f27:
 
     # k "Would you like to join us for a cup of tea?"
     k "Would you like to join us for a cup of tea?"
 
-# game/game/keiko_events.rpy:2272
+# game/game/keiko_events.rpy:2278
 translate ukrainian goddess_spend_df9de37c:
 
     # mc "Su-"
     mc "Su-"
 
-# game/game/keiko_events.rpy:2276
+# game/game/keiko_events.rpy:2282
 translate ukrainian goddess_spend_3f871f46:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/keiko_events.rpy:2278
+# game/game/keiko_events.rpy:2284
 translate ukrainian goddess_spend_9c99f54f:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with hpunch
 
-# game/game/keiko_events.rpy:2279
+# game/game/keiko_events.rpy:2285
 translate ukrainian goddess_spend_14f9b867:
 
     # fu "I just thought..."
     fu "I just thought..."
 
-# game/game/keiko_events.rpy:2280
+# game/game/keiko_events.rpy:2286
 translate ukrainian goddess_spend_cffedc3a:
 
     # k "Hmm?~{image=corazon}"
     k "Hmm?~{image=corazon}"
 
-# game/game/keiko_events.rpy:2282
+# game/game/keiko_events.rpy:2288
 translate ukrainian goddess_spend_ccb067dd:
 
     # fu "A Goddess must be generous!"
-    fu "A Goddess must be generous!"
+    fu "A Goddess must be generous!" with hpunch
 
-# game/game/keiko_events.rpy:2283
+# game/game/keiko_events.rpy:2289
 translate ukrainian goddess_spend_b144dee5:
 
     # mc "Thank you Fumiko."
     mc "Thank you Fumiko."
 
-# game/game/keiko_events.rpy:2285
+# game/game/keiko_events.rpy:2291
 translate ukrainian goddess_spend_9692331d:
 
     # k "Since you are here, why don't you tell us about interesting things from your other world?"
     k "Since you are here, why don't you tell us about interesting things from your other world?"
 
-# game/game/keiko_events.rpy:2286
+# game/game/keiko_events.rpy:2292
 translate ukrainian goddess_spend_c87cab7f:
 
     # fu "...!"
     fu "...!"
 
-# game/game/keiko_events.rpy:2287
+# game/game/keiko_events.rpy:2293
 translate ukrainian goddess_spend_a04a806f:
 
     # mc "Hahaha, alright."
     mc "Hahaha, alright."
 
-# game/game/keiko_events.rpy:2288
+# game/game/keiko_events.rpy:2294
 translate ukrainian goddess_spend_5ab4ccd3:
 
     # mc "Let me think."
     mc "Let me think."
 
-# game/game/keiko_events.rpy:2294
+# game/game/keiko_events.rpy:2300
 translate ukrainian goddess_spend_b0ade6d4:
 
     # "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}\n{image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"
     "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}\n{image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"
 
-# game/game/keiko_events.rpy:2305
+# game/game/keiko_events.rpy:2311
 translate ukrainian goddess_spend_928f6b7b:
 
     # mc "I just came to say hello."
     mc "I just came to say hello."
 
-# game/game/keiko_events.rpy:2306
+# game/game/keiko_events.rpy:2312
 translate ukrainian goddess_spend_734ce15c:
 
     # k "Oh, how nice of you~{image=corazon}"
     k "Oh, how nice of you~{image=corazon}"
 
-# game/game/keiko_events.rpy:2308
+# game/game/keiko_events.rpy:2314
 translate ukrainian goddess_spend_cf1c55f2:
 
     # fu "Are you leaving already?"
     fu "Are you leaving already?"
 
-# game/game/keiko_events.rpy:2309
+# game/game/keiko_events.rpy:2315
 translate ukrainian goddess_spend_3f871f46_1:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/keiko_events.rpy:2311
+# game/game/keiko_events.rpy:2317
 translate ukrainian goddess_spend_6497af9c:
 
     # fu "I-I mean, it's better that way..."
     fu "I-I mean, it's better that way..."
 
-# game/game/keiko_events.rpy:2313
+# game/game/keiko_events.rpy:2319
 translate ukrainian goddess_spend_3eae0218:
 
     # k "Hmm fufu~{image=corazon}"
     k "Hmm fufu~{image=corazon}"
 
-# game/game/keiko_events.rpy:2327
+# game/game/keiko_events.rpy:2333
 translate ukrainian keiko_spend_a5853ecb:
 
     # k "Hello darling, how is your day going?"
     k "Hello darling, how is your day going?"
 
-# game/game/keiko_events.rpy:2328
+# game/game/keiko_events.rpy:2334
 translate ukrainian keiko_spend_7adb71e0:
 
     # mc "I'm a little tired actually."
     mc "I'm a little tired actually."
 
-# game/game/keiko_events.rpy:2330
+# game/game/keiko_events.rpy:2336
 translate ukrainian keiko_spend_17c0c9d0:
 
     # k "Oh really?"
     k "Oh really?"
 
-# game/game/keiko_events.rpy:2332
+# game/game/keiko_events.rpy:2338
 translate ukrainian keiko_spend_3661615f:
 
     # k "Then, come here~"
     k "Then, come here~"
 
-# game/game/keiko_events.rpy:2333
+# game/game/keiko_events.rpy:2339
 translate ukrainian keiko_spend_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/keiko_events.rpy:2335
+# game/game/keiko_events.rpy:2341
 translate ukrainian keiko_spend_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/keiko_events.rpy:2336
+# game/game/keiko_events.rpy:2342
 translate ukrainian keiko_spend_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/keiko_events.rpy:2337
+# game/game/keiko_events.rpy:2343
 translate ukrainian keiko_spend_d7edd024:
 
     # "."
     "."
 
-# game/game/keiko_events.rpy:2338
+# game/game/keiko_events.rpy:2344
 translate ukrainian keiko_spend_d96b822d:
 
     # k "{size=-6}How do you feel now?"
     k "{size=-6}How do you feel now?"
 
-# game/game/keiko_events.rpy:2339
+# game/game/keiko_events.rpy:2345
 translate ukrainian keiko_spend_afc0c1e9:
 
     # mc "{size=-6}Much better..."
     mc "{size=-6}Much better..."
 
-# game/game/keiko_events.rpy:2341
+# game/game/keiko_events.rpy:2347
 translate ukrainian keiko_spend_20995d56:
 
     # k "{size=-6}{i}Let your goddess spoil you from time to time~{image=corazon}"
     k "{size=-6}{i}Let your goddess spoil you from time to time~{image=corazon}"
 
-# game/game/keiko_events.rpy:2346
+# game/game/keiko_events.rpy:2352
 translate ukrainian keiko_spend_4d6c2204:
 
     # "{image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"
     "{image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"
 
-# game/game/keiko_events.rpy:2359
+# game/game/keiko_events.rpy:2365
 translate ukrainian keiko_spend_303eee28:
 
     # mc "Good morning, Keiko."
     mc "Good morning, Keiko."
 
-# game/game/keiko_events.rpy:2360
+# game/game/keiko_events.rpy:2366
 translate ukrainian keiko_spend_25d45121:
 
     # k "Oh? {w}Just passing by?"
     k "Oh? {w}Just passing by?"
 
-# game/game/keiko_events.rpy:2361
+# game/game/keiko_events.rpy:2367
 translate ukrainian keiko_spend_c05d28c1:
 
     # k "Have a lovely day, [mc]~{image=corazon}"
     k "Have a lovely day, [mc]~{image=corazon}"
 
-# game/game/keiko_events.rpy:2369
+# game/game/keiko_events.rpy:2375
 translate ukrainian keiko_first_morntalk_cfd4074e:
 
     # k "Darling, what brings you here?"
     k "Darling, what brings you here?"
 
-# game/game/keiko_events.rpy:2370
+# game/game/keiko_events.rpy:2376
 translate ukrainian keiko_first_morntalk_c6e0f207:
 
     # mc "I was wondering what a Goddess does during the day."
     mc "I was wondering what a Goddess does during the day."
 
-# game/game/keiko_events.rpy:2372
+# game/game/keiko_events.rpy:2378
 translate ukrainian keiko_first_morntalk_30acea3b:
 
     # k "Hmm...~"
     k "Hmm...~"
 
-# game/game/keiko_events.rpy:2373
+# game/game/keiko_events.rpy:2379
 translate ukrainian keiko_first_morntalk_4eb6e7cb:
 
     # k "When I'm not tending to souls, I think about you."
     k "When I'm not tending to souls, I think about you."
 
-# game/game/keiko_events.rpy:2374
+# game/game/keiko_events.rpy:2380
 translate ukrainian keiko_first_morntalk_93deaf69:
 
     # mc "Ah..."
     mc "Ah..."
 
-# game/game/keiko_events.rpy:2376
+# game/game/keiko_events.rpy:2382
 translate ukrainian keiko_first_morntalk_f1331203:
 
     # k "Fufufu~{image=corazon}"
     k "Fufufu~{image=corazon}"
 
-# game/game/keiko_events.rpy:2377
+# game/game/keiko_events.rpy:2383
 translate ukrainian keiko_first_morntalk_b357bbcd:
 
     # k "Well, {w}it depends on the rank of the goddesses."
     k "Well, {w}it depends on the rank of the goddesses."
 
-# game/game/keiko_events.rpy:2378
+# game/game/keiko_events.rpy:2384
 translate ukrainian keiko_first_morntalk_99ddab5b:
 
     # k "Goddesses like Fumiko and me guide lost souls, nurture the balance of nature, and sometimes whisper to the hearts of mortals in need."
     k "Goddesses like Fumiko and me guide lost souls, nurture the balance of nature, and sometimes whisper to the hearts of mortals in need."
 
-# game/game/keiko_events.rpy:2379
+# game/game/keiko_events.rpy:2385
 translate ukrainian keiko_first_morntalk_6bf6ac6d:
 
     # mc "That actually sounds exhausting."
     mc "That actually sounds exhausting."
 
-# game/game/keiko_events.rpy:2381
+# game/game/keiko_events.rpy:2387
 translate ukrainian keiko_first_morntalk_bee02a6d:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-7}Ghng~{/size}{/sc} It is... {w}That's why I cherish moments like this... with you~{image=corazon}"
     k "{sc=1}{outlinecolor=#000000}{size=-7}Ghng~{/size}{/sc} It is... {w}That's why I cherish moments like this... with you~{image=corazon}"
 
-# game/game/keiko_events.rpy:2382
+# game/game/keiko_events.rpy:2388
 translate ukrainian keiko_first_morntalk_a3bf4887:
 
     # mc "Glad I can help."
     mc "Glad I can help."
 
-# game/game/keiko_events.rpy:2383
+# game/game/keiko_events.rpy:2389
 translate ukrainian keiko_first_morntalk_3df81ae2:
 
     # mc "Once you mentioned higher-ranking goddesses, what do they do?"
     mc "Once you mentioned higher-ranking goddesses, what do they do?"
 
-# game/game/keiko_events.rpy:2385
+# game/game/keiko_events.rpy:2391
 translate ukrainian keiko_first_morntalk_0ca2d155:
 
     # k "Hmm... I'm not supposed to say too much to a \"Mortal\"."
     k "Hmm... I'm not supposed to say too much to a \"Mortal\"."
 
-# game/game/keiko_events.rpy:2386
+# game/game/keiko_events.rpy:2392
 translate ukrainian keiko_first_morntalk_03f4995c:
 
     # k "But those above us handle very important tasks, like shaping worlds, maintaining universal balance..."
     k "But those above us handle very important tasks, like shaping worlds, maintaining universal balance..."
 
-# game/game/keiko_events.rpy:2388
+# game/game/keiko_events.rpy:2394
 translate ukrainian keiko_first_morntalk_1ddd1690:
 
     # k "{size=-6}{i}Even managing the flow of time..."
     k "{size=-6}{i}Even managing the flow of time..."
 
-# game/game/keiko_events.rpy:2389
+# game/game/keiko_events.rpy:2395
 translate ukrainian keiko_first_morntalk_ec2029b2:
 
     # mc "And have you met them?"
     mc "And have you met them?"
 
-# game/game/keiko_events.rpy:2391
+# game/game/keiko_events.rpy:2397
 translate ukrainian keiko_first_morntalk_79c029c7:
 
     # k "I talked to some of them during a Divine Conclave."
     k "I talked to some of them during a Divine Conclave."
 
-# game/game/keiko_events.rpy:2392
+# game/game/keiko_events.rpy:2398
 translate ukrainian keiko_first_morntalk_c2c3c17c:
 
     # mc "Divine Conclave?"
     mc "Divine Conclave?"
 
-# game/game/keiko_events.rpy:2394
+# game/game/keiko_events.rpy:2400
 translate ukrainian keiko_first_morntalk_6022511d:
 
     # k "An exclusive meeting between high-ranking gods, {w}held on a special plane outside of mortal time and space."
     k "An exclusive meeting between high-ranking gods, {w}held on a special plane outside of mortal time and space."
 
-# game/game/keiko_events.rpy:2395
+# game/game/keiko_events.rpy:2401
 translate ukrainian keiko_first_morntalk_124fe593:
 
     # k "I only liked three girls, the rest were all just egocentric."
     k "I only liked three girls, the rest were all just egocentric."
 
-# game/game/keiko_events.rpy:2396
+# game/game/keiko_events.rpy:2402
 translate ukrainian keiko_first_morntalk_c1dff962:
 
     # mc "Oh..."
     mc "Oh..."
 
-# game/game/keiko_events.rpy:2397
+# game/game/keiko_events.rpy:2403
 translate ukrainian keiko_first_morntalk_cff3babf:
 
     # t "Keiko says it like it's the most normal thing in the world, but I can't even imagine what a meeting of all the gods must be like."
     t "Keiko says it like it's the most normal thing in the world, but I can't even imagine what a meeting of all the gods must be like."
 
-# game/game/keiko_events.rpy:2399
+# game/game/keiko_events.rpy:2405
 translate ukrainian keiko_first_morntalk_48e4299a:
 
     # k "Well~ I've probably said too much already, especially about things that don't concern mortals."
     k "Well~ I've probably said too much already, especially about things that don't concern mortals."
 
-# game/game/keiko_events.rpy:2400
+# game/game/keiko_events.rpy:2406
 translate ukrainian keiko_first_morntalk_335d6fff:
 
     # k "Now, why don't we just enjoy the moment?"
     k "Now, why don't we just enjoy the moment?"
 
-# game/game/keiko_events.rpy:2404
+# game/game/keiko_events.rpy:2410
 translate ukrainian keiko_first_morntalk_4d6c2204:
 
     # "{image=corazon}Keiko's affection has increased to [keiko_affection]{image=corazon}"

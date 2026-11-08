@@ -1,4 +1,4 @@
-
+﻿
 # game/game/fumiko_events.rpy:4
 translate ukrainian familiar_tail_04541167:
 
@@ -225,7 +225,7 @@ translate ukrainian familiar_tail_2a1907f8:
 translate ukrainian familiar_tail_89df0a58:
 
     # mc "{size=-7}{i}Oh!"
-    mc "{size=-7}{i}Oh!"
+    mc "{size=-7}{i}Oh!" with vpunch
 
 # game/game/fumiko_events.rpy:66
 translate ukrainian familiar_tail_e3ac4c3e:
@@ -285,7 +285,7 @@ translate ukrainian familiar_tail_e42610a3:
 translate ukrainian familiar_tail_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/fumiko_events.rpy:80
 translate ukrainian familiar_tail_08379c4c:
@@ -327,7 +327,7 @@ translate ukrainian familiar_tail_3ccdb3ec:
 translate ukrainian familiar_tail_abcc0aa2:
 
     # fu "{i}What is this thing!~{image=corazon}"
-    fu "{i}What is this thing!~{image=corazon}"
+    fu "{i}What is this thing!~{image=corazon}" with hpunch
 
 # game/game/fumiko_events.rpy:90
 translate ukrainian familiar_tail_acda1058:
@@ -423,7 +423,7 @@ translate ukrainian familiar_tail_eb0840d5_3:
 translate ukrainian familiar_tail_17933a08:
 
     # fu "{size=+6}EeEeeEEeEEeeeh!?"
-    fu "{size=+6}EeEeeEEeEEeeeh!?"
+    fu "{size=+6}EeEeeEEeEEeeeh!?" with hpunch
 
 # game/game/fumiko_events.rpy:116
 translate ukrainian familiar_tail_1a78a7a8:
@@ -435,7 +435,7 @@ translate ukrainian familiar_tail_1a78a7a8:
 translate ukrainian familiar_tail_cf28e20c:
 
     # fu "Who-?!"
-    fu "Who-?!"
+    fu "Who-?!" with hpunch
 
 # game/game/fumiko_events.rpy:119
 translate ukrainian familiar_tail_fb00020d:
@@ -447,7 +447,7 @@ translate ukrainian familiar_tail_fb00020d:
 translate ukrainian familiar_tail_62bb321d:
 
     # fu "W-W-Who-Whoever you are, y-yyou are in the domain of a goddess!"
-    fu "W-W-Who-Whoever you are, y-yyou are in the domain of a goddess!"
+    fu "W-W-Who-Whoever you are, y-yyou are in the domain of a goddess!" with hpunch
 
 # game/game/fumiko_events.rpy:122
 translate ukrainian familiar_tail_bb7278d2:
@@ -489,7 +489,7 @@ translate ukrainian familiar_tail_bd57eafd:
 translate ukrainian familiar_tail_d3908ae8:
 
     # fu "{size=+6}How did you get in here!"
-    fu "{size=+6}How did you get in here!"
+    fu "{size=+6}How did you get in here!" with hpunch
 
 # game/game/fumiko_events.rpy:135
 translate ukrainian familiar_tail_7237e26d:
@@ -507,7 +507,7 @@ translate ukrainian familiar_tail_a0208d1c:
 translate ukrainian familiar_tail_671355c5:
 
     # fu "{size=+6}You should not be able to be here!"
-    fu "{size=+6}You should not be able to be here!"
+    fu "{size=+6}You should not be able to be here!" with hpunch
 
 # game/game/fumiko_events.rpy:144
 translate ukrainian familiar_tail_0968fc46:
@@ -573,13 +573,13 @@ translate ukrainian familiar_tail_ecc505bf:
 translate ukrainian familiar_tail_a68319c5:
 
     # mc "{size=+6}SHIKA!"
-    mc "{size=+6}SHIKA!"
+    mc "{size=+6}SHIKA!" with hpunch
 
 # game/game/fumiko_events.rpy:164
 translate ukrainian familiar_tail_58247df5:
 
     # mc "UAGH!"
-    mc "UAGH!"
+    mc "UAGH!" with vpunch
 
 # game/game/fumiko_events.rpy:165
 translate ukrainian familiar_tail_eb0840d5_4:
@@ -861,7 +861,7 @@ translate ukrainian familiar_tail_a9232b70:
 translate ukrainian familiar_tail_6d5e3975:
 
     # fu "{i}What kind of goddess does such things?!"
-    fu "{i}What kind of goddess does such things?!"
+    fu "{i}What kind of goddess does such things?!" with vpunch
 
 # game/game/fumiko_events.rpy:250
 translate ukrainian familiar_tail_8b2f702e:
@@ -945,7 +945,7 @@ translate ukrainian cutefox_world_4b63fe09:
 translate ukrainian cutefox_world_3b9e8f0b:
 
     # fu "....!"
-    fu "....!"
+    fu "....!" with hpunch
 
 # game/game/fumiko_events.rpy:289
 translate ukrainian cutefox_world_d39354d7:
@@ -957,13 +957,13 @@ translate ukrainian cutefox_world_d39354d7:
 translate ukrainian cutefox_world_f20eaf0c:
 
     # fu "......!"
-    fu "......!"
+    fu "......!" with vpunch
 
 # game/game/fumiko_events.rpy:293
 translate ukrainian cutefox_world_bc2ca6bf:
 
     # fu "....! ...! .........!"
-    fu "....! ...! .........!"
+    fu "....! ...! .........!" with hpunch
 
 # game/game/fumiko_events.rpy:294
 translate ukrainian cutefox_world_d4ff6761:
@@ -1005,13 +1005,13 @@ translate ukrainian cutefox_world_7296db3f:
 translate ukrainian cutefox_world_c5d1eb69:
 
     # mc "Uag!-{w=0.5}{nw}"
-    mc "Uag!-{w=0.5}{nw}"
+    mc "Uag!-{w=0.5}{nw}" with vpunch
 
 # game/game/fumiko_events.rpy:321
 translate ukrainian cutefox_world_6ee8b731:
 
     # mc "{size=-5}Hhmp?"
-    mc "{size=-5}Hhmp?"
+    mc "{size=-5}Hhmp?" with hpunch
 
 # game/game/fumiko_events.rpy:322
 translate ukrainian cutefox_world_a20cefa7:
@@ -1089,13 +1089,13 @@ translate ukrainian cutefox_world_f8de5ac2:
 translate ukrainian cutefox_world_27fc5a84:
 
     # fu "Why do you show up just when I needed complete silence?!"
-    fu "Why do you show up just when I needed complete silence?!"
+    fu "Why do you show up just when I needed complete silence?!" with vpunch
 
 # game/game/fumiko_events.rpy:342
 translate ukrainian cutefox_world_e1181647:
 
     # mc "I-I! {w}{size=-6}I'm sorry...?"
-    mc "I-I! {w}{size=-6}I'm sorry...?"
+    mc "I-I! {w}{size=-6}I'm sorry...?" with hpunch
 
 # game/game/fumiko_events.rpy:343
 translate ukrainian cutefox_world_efd99232:
@@ -1179,7 +1179,7 @@ translate ukrainian cutefox_world_8b84f66f:
 translate ukrainian cutefox_world_f46f421c:
 
     # mc "I-It's nothing!"
-    mc "I-It's nothing!"
+    mc "I-It's nothing!" with vpunch
 
 # game/game/fumiko_events.rpy:362
 translate ukrainian cutefox_world_83eddeb6:
@@ -1449,7 +1449,7 @@ translate ukrainian cutefox_world_ab68e556:
 translate ukrainian cutefox_world_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/fumiko_events.rpy:421
 translate ukrainian cutefox_world_84da199c:
@@ -1461,7 +1461,7 @@ translate ukrainian cutefox_world_84da199c:
 translate ukrainian cutefox_world_f1738ec6:
 
     # mc "S-Sister? {w}We are talking about..."
-    mc "S-Sister? {w}We are talking about..."
+    mc "S-Sister? {w}We are talking about..." with hpunch
 
 # game/game/fumiko_events.rpy:424
 translate ukrainian cutefox_world_1189a2ba:
@@ -1569,7 +1569,7 @@ translate ukrainian cutefox_world_fa134c9d:
 translate ukrainian cutefox_world_9c99f54f:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with hpunch
 
 # game/game/fumiko_events.rpy:457
 translate ukrainian cutefox_world_d84af9fa:
@@ -1581,7 +1581,7 @@ translate ukrainian cutefox_world_d84af9fa:
 translate ukrainian cutefox_world_1c290ef3:
 
     # k "...!?"
-    k "...!?"
+    k "...!?" with vpunch
 
 # game/game/fumiko_events.rpy:461
 translate ukrainian cutefox_world_ba64675f:
@@ -1635,7 +1635,7 @@ translate ukrainian cutefox_world_f68c354b:
 translate ukrainian cutefox_world_b83e16f5:
 
     # k "W-Wait!"
-    k "W-Wait!"
+    k "W-Wait!" with vpunch
 
 # game/game/fumiko_events.rpy:475
 translate ukrainian cutefox_world_a7bcf340:
@@ -1773,7 +1773,7 @@ translate ukrainian cutefox_world_eb0840d5_12:
 translate ukrainian cutefox_world_e3374ef7:
 
     # fu "Oh, {w}but before you go!"
-    fu "Oh, {w}but before you go!"
+    fu "Oh, {w}but before you go!" with vpunch
 
 # game/game/fumiko_events.rpy:506
 translate ukrainian cutefox_world_03fb3e88:
@@ -1821,7 +1821,7 @@ translate ukrainian cutefox_world_3f70fa00:
 translate ukrainian cutefox_world_0d25733b:
 
     # fu "What? Why?!"
-    fu "What? Why?!"
+    fu "What? Why?!" with vpunch
 
 # game/game/fumiko_events.rpy:516
 translate ukrainian cutefox_world_e1cab732:
@@ -1833,7 +1833,7 @@ translate ukrainian cutefox_world_e1cab732:
 translate ukrainian cutefox_world_9c99f54f_1:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with hpunch
 
 # game/game/fumiko_events.rpy:519
 translate ukrainian cutefox_world_9a00d696:
@@ -2055,7 +2055,7 @@ translate ukrainian fox_promise_2b35b6fe_1:
 translate ukrainian fox_promise_5d2ce989:
 
     # mc "Oh! {w}Hello Fumiko!"
-    mc "Oh! {w}Hello Fumiko!"
+    mc "Oh! {w}Hello Fumiko!" with vpunch
 
 # game/game/fumiko_events.rpy:589
 translate ukrainian fox_promise_eb0840d5:
@@ -2085,13 +2085,13 @@ translate ukrainian fox_promise_eb0840d5_1:
 translate ukrainian fox_promise_43956ee1:
 
     # fu "And why don't you say anything?!"
-    fu "And why don't you say anything?!"
+    fu "And why don't you say anything?!" with vpunch
 
 # game/game/fumiko_events.rpy:596
 translate ukrainian fox_promise_880e25dc:
 
     # mc "I don't know!"
-    mc "I don't know!"
+    mc "I don't know!" with hpunch
 
 # game/game/fumiko_events.rpy:597
 translate ukrainian fox_promise_a3943e75:
@@ -2139,7 +2139,7 @@ translate ukrainian fox_promise_2868907f:
 translate ukrainian fox_promise_1d599249:
 
     # fu "L-Look! {w}fish!"
-    fu "L-Look! {w}fish!"
+    fu "L-Look! {w}fish!" with vpunch
 
 # game/game/fumiko_events.rpy:608
 translate ukrainian fox_promise_d0cd46b4:
@@ -2253,7 +2253,7 @@ translate ukrainian fox_promise_9747c838:
 translate ukrainian fox_promise_b9391355:
 
     # fu "AaH AAaah!{size=-6}"
-    fu "AaH AAaah!{size=-6}"
+    fu "AaH AAaah!{size=-6}" with vpunch
 
 # game/game/fumiko_events.rpy:639
 translate ukrainian fox_promise_d3d1a05c:
@@ -2439,13 +2439,13 @@ translate ukrainian fox_promise_8296bf3c:
 translate ukrainian fox_promise_4263a2e2:
 
     # fu "[mc]!!"
-    fu "[mc]!!"
+    fu "[mc]!!" with vpunch
 
 # game/game/fumiko_events.rpy:698
 translate ukrainian fox_promise_1816cc00:
 
     # fu "Sorry! {w}I knew I shouldn't have done it myself."
-    fu "Sorry! {w}I knew I shouldn't have done it myself."
+    fu "Sorry! {w}I knew I shouldn't have done it myself." with vpunch
 
 # game/game/fumiko_events.rpy:699
 translate ukrainian fox_promise_13fa8083:
@@ -2559,7 +2559,7 @@ translate ukrainian fox_promise_c566f865:
 translate ukrainian fox_promise_6d222cb7:
 
     # fu "Oh! Anything!"
-    fu "Oh! Anything!"
+    fu "Oh! Anything!" with hpunch
 
 # game/game/fumiko_events.rpy:729
 translate ukrainian fox_promise_93deaf69:
@@ -2685,7 +2685,7 @@ translate ukrainian fox_promise_19a94f5d:
 translate ukrainian fox_promise_5e6ccc95:
 
     # mc "HNGm!"
-    mc "HNGm!"
+    mc "HNGm!" with vpunch
 
 # game/game/fumiko_events.rpy:759
 translate ukrainian fox_promise_dbb34027:
@@ -2697,7 +2697,7 @@ translate ukrainian fox_promise_dbb34027:
 translate ukrainian fox_promise_d192ddb8:
 
     # t "I'm a monster!"
-    t "I'm a monster!"
+    t "I'm a monster!" with vpunch
 
 # game/game/fumiko_events.rpy:765
 translate ukrainian fox_promise_b2c9f181:
@@ -2769,7 +2769,7 @@ translate ukrainian fox_promise_eb0840d5_5:
 translate ukrainian fox_promise_d4074135:
 
     # fu "{size=-5}...!"
-    fu "{size=-5}...!"
+    fu "{size=-5}...!" with vpunch
 
 # game/game/fumiko_events.rpy:782
 translate ukrainian fox_promise_2b35b6fe_6:
@@ -2781,13 +2781,13 @@ translate ukrainian fox_promise_2b35b6fe_6:
 translate ukrainian fox_promise_e7a86d6e:
 
     # t "It is super fluffy!"
-    t "It is super fluffy!"
+    t "It is super fluffy!" with hpunch
 
 # game/game/fumiko_events.rpy:785
 translate ukrainian fox_promise_1d117751:
 
     # fu "{size=-5}W-Wha-?!~"
-    fu "{size=-5}W-Wha-?!~"
+    fu "{size=-5}W-Wha-?!~" with hpunch
 
 # game/game/fumiko_events.rpy:786
 translate ukrainian fox_promise_ed99d9dc:
@@ -2931,7 +2931,7 @@ translate ukrainian fox_promise_227977f4:
 translate ukrainian fumiko_gal1_e4a13657:
 
     # fu "Yes!~"
-    fu "Yes!~"
+    fu "Yes!~" with vpunch
 
 # game/game/fumiko_events.rpy:823
 translate ukrainian fumiko_gal1_9655d23e:
@@ -3117,19 +3117,19 @@ translate ukrainian fumiko_gal1_b7903140:
 translate ukrainian fumiko_gal1_ba435553:
 
     # mc "Aah...!"
-    mc "Aah...!"
+    mc "Aah...!" with vpunch
 
 # game/game/fumiko_events.rpy:873
 translate ukrainian fumiko_gal1_4a6a425c:
 
     # fu "A-Again?"
-    fu "A-Again?"
+    fu "A-Again?" with hpunch
 
 # game/game/fumiko_events.rpy:878
 translate ukrainian fumiko_gal1_e9f862f7:
 
     # fu "You've already annoyed me, {w}I'll get that rock out of there!"
-    fu "You've already annoyed me, {w}I'll get that rock out of there!"
+    fu "You've already annoyed me, {w}I'll get that rock out of there!" with hpunch
 
 # game/game/fumiko_events.rpy:879
 translate ukrainian fumiko_gal1_a0208d1c:
@@ -3147,7 +3147,7 @@ translate ukrainian fumiko_gal1_d7b4204b:
 translate ukrainian fumiko_gal1_9c99f54f:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with hpunch
 
 # game/game/fumiko_events.rpy:888
 translate ukrainian fumiko_gal1_baaa456b:
@@ -3183,7 +3183,7 @@ translate ukrainian fumiko_gal1_56dacc8f:
 translate ukrainian fumiko_gal1_5184143d:
 
     # t "Don't touch it!"
-    t "Don't touch it!"
+    t "Don't touch it!" with vpunch
 
 # game/game/fumiko_events.rpy:896
 translate ukrainian fumiko_gal1_5db64393:
@@ -3225,7 +3225,7 @@ translate ukrainian fumiko_gal1_513da32e:
 translate ukrainian fumiko_gal1_1af1ef67:
 
     # t "Why can't I tell her to stop investigating it?!"
-    t "Why can't I tell her to stop investigating it?!"
+    t "Why can't I tell her to stop investigating it?!" with hpunch
 
 # game/game/fumiko_events.rpy:906
 translate ukrainian fumiko_gal1_0000d7b4:
@@ -3249,7 +3249,7 @@ translate ukrainian fumiko_gal1_a3770129:
 translate ukrainian fumiko_gal1_f7c8b28f:
 
     # t "It was true that she had seen me do it with the girls!"
-    t "It was true that she had seen me do it with the girls!"
+    t "It was true that she had seen me do it with the girls!" with hpunch
 
 # game/game/fumiko_events.rpy:910
 translate ukrainian fumiko_gal1_2045156c:
@@ -3267,7 +3267,7 @@ translate ukrainian fumiko_gal1_1b4e9a7e:
 translate ukrainian fumiko_gal1_f090ee34:
 
     # mc "W-Why are you touching it?"
-    mc "W-Why are you touching it?"
+    mc "W-Why are you touching it?" with vpunch
 
 # game/game/fumiko_events.rpy:913
 translate ukrainian fumiko_gal1_556545ed:
@@ -3333,7 +3333,7 @@ translate ukrainian fumiko_gal1_83eddeb6:
 translate ukrainian fumiko_gal1_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/fumiko_events.rpy:925
 translate ukrainian fumiko_gal1_0fbe77f0:
@@ -3363,7 +3363,7 @@ translate ukrainian fumiko_gal1_80eccdc8:
 translate ukrainian fumiko_gal1_bf474e43:
 
     # t "There should be limits to the curiosity of a goddess!"
-    t "There should be limits to the curiosity of a goddess!"
+    t "There should be limits to the curiosity of a goddess!" with hpunch
 
 # game/game/fumiko_events.rpy:930
 translate ukrainian fumiko_gal1_68252791:
@@ -3441,7 +3441,7 @@ translate ukrainian fumiko_gal1_39909127:
 translate ukrainian fumiko_gal1_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/fumiko_events.rpy:944
 translate ukrainian fumiko_gal1_7d5870b1:
@@ -3471,7 +3471,7 @@ translate ukrainian fumiko_gal1_a437a450:
 translate ukrainian fumiko_gal1_da7056d9:
 
     # mc "F-Fum-!"
-    mc "F-Fum-!"
+    mc "F-Fum-!" with vpunch
 
 # game/game/fumiko_events.rpy:950
 translate ukrainian fumiko_gal1_eb0840d5_3:
@@ -3489,7 +3489,7 @@ translate ukrainian fumiko_gal1_5d5f2a0d:
 translate ukrainian fumiko_gal1_53843552:
 
     # t "Sorry Keiko! {w}I can't stop her!"
-    t "Sorry Keiko! {w}I can't stop her!"
+    t "Sorry Keiko! {w}I can't stop her!" with hpunch
 
 # game/game/fumiko_events.rpy:953
 translate ukrainian fumiko_gal1_6ebc87c0:
@@ -3507,7 +3507,7 @@ translate ukrainian fumiko_gal1_e0fec83d:
 translate ukrainian fumiko_gal1_8e7aa065:
 
     # mc "I-I'm going to cum if you keep doing that!"
-    mc "I-I'm going to cum if you keep doing that!"
+    mc "I-I'm going to cum if you keep doing that!" with cumflash
 
 # game/game/fumiko_events.rpy:956
 translate ukrainian fumiko_gal1_c2c445fe:
@@ -3531,7 +3531,7 @@ translate ukrainian fumiko_gal1_2f7346f4:
 translate ukrainian fumiko_gal1_7ee61e2c:
 
     # t "Heck, even I'm moving my hips a little."
-    t "Heck, even I'm moving my hips a little."
+    t "Heck, even I'm moving my hips a little." with cumflash
 
 # game/game/fumiko_events.rpy:960
 translate ukrainian fumiko_gal1_f6f7940d:
@@ -3561,7 +3561,7 @@ translate ukrainian fumiko_gal1_759ebba4:
 translate ukrainian fumiko_gal1_8ad47637:
 
     # mc "T-That makes sense..."
-    mc "T-That makes sense..."
+    mc "T-That makes sense..." with cumflash
 
 # game/game/fumiko_events.rpy:965
 translate ukrainian fumiko_gal1_95921dbb:
@@ -3591,7 +3591,7 @@ translate ukrainian fumiko_gal1_1c56a191:
 translate ukrainian fumiko_gal1_662266cd:
 
     # t "That goddess!"
-    t "That goddess!"
+    t "That goddess!" with hpunch
 
 # game/game/fumiko_events.rpy:970
 translate ukrainian fumiko_gal1_1d37a2f5:
@@ -3603,7 +3603,7 @@ translate ukrainian fumiko_gal1_1d37a2f5:
 translate ukrainian fumiko_gal1_d6bde1b1:
 
     # mc "I-I'm cumming!"
-    mc "I-I'm cumming!"
+    mc "I-I'm cumming!" with hpunch
 
 # game/game/fumiko_events.rpy:973
 translate ukrainian fumiko_gal1_e4f93d08:
@@ -3615,7 +3615,7 @@ translate ukrainian fumiko_gal1_e4f93d08:
 translate ukrainian fumiko_gal1_88abc580:
 
     # fu "Hhgnmmm!??"
-    fu "Hhgnmmm!??"
+    fu "Hhgnmmm!??" with vpunch
 
 # game/game/fumiko_events.rpy:983
 translate ukrainian fumiko_gal1_3545b2f0:
@@ -3705,7 +3705,7 @@ translate ukrainian fumiko_gal1_d7591f6d:
 translate ukrainian fumiko_gal1_313ae146:
 
     # "{i}Fumiko uses her magic and everything is as if nothing happened."
-    "{i}Fumiko uses her magic and everything is as if nothing happened."
+    "{i}Fumiko uses her magic and everything is as if nothing happened." with cumflash
 
 # game/game/fumiko_events.rpy:1013
 translate ukrainian fumiko_gal1_c1dff962:
@@ -3729,7 +3729,7 @@ translate ukrainian fumiko_gal1_1281d4a8:
 translate ukrainian fumiko_gal1_82f6ad1c:
 
     # t "She is so... {w}Fumiko...."
-    t "She is so... {w}Fumiko...."
+    t "She is so... {w}Fumiko...." with hpunch
 
 # game/game/fumiko_events.rpy:1022
 translate ukrainian fumiko_gal1_417af7b0_1:
@@ -3747,7 +3747,7 @@ translate ukrainian fumiko_gal1_c943b0fc:
 translate ukrainian fumiko_gal1_90f14b30:
 
     # fu "So you have no problem with showing me more?!"
-    fu "So you have no problem with showing me more?!"
+    fu "So you have no problem with showing me more?!" with vpunch
 
 # game/game/fumiko_events.rpy:1026
 translate ukrainian fumiko_gal1_2b35b6fe_1:
@@ -4125,7 +4125,7 @@ translate ukrainian fumi_evening_interaction_026331b4:
 translate ukrainian fumi_night_interaction_160b347a:
 
     # t "Eh!?"
-    t "Eh!?"
+    t "Eh!?" with hpunch
 
 # game/game/fumiko_events.rpy:1157
 translate ukrainian fumi_night_interaction_d4a732c2:
@@ -4155,1215 +4155,1215 @@ translate ukrainian fumi_night_interaction_8ebd5f6e:
 translate ukrainian fumi_night_interaction_c44903e0:
 
     # fu "{sc=3}{outlinecolor=#000000}Ghn..."
-    fu "{sc=3}{outlinecolor=#000000}Ghn..."
+    fu "{sc=3}{outlinecolor=#000000}Ghn..." (multiple=2)
 
 # game/game/fumiko_events.rpy:1164
 translate ukrainian fumi_night_interaction_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/fumiko_events.rpy:1166
 translate ukrainian fumi_night_interaction_4c92e60b:
 
     # t "I'd better go!"
-    t "I'd better go!"
+    t "I'd better go!" with hpunch
 
-# game/game/fumiko_events.rpy:1175
+# game/game/fumiko_events.rpy:1174
 translate ukrainian fumi_day_int_d7ae370b:
 
     # fu "W-What are you doing here?"
     fu "W-What are you doing here?"
 
-# game/game/fumiko_events.rpy:1176
+# game/game/fumiko_events.rpy:1175
 translate ukrainian fumi_day_int_fe7c12c5:
 
     # mc "I just wanted to see what you were up to."
     mc "I just wanted to see what you were up to."
 
-# game/game/fumiko_events.rpy:1177
+# game/game/fumiko_events.rpy:1176
 translate ukrainian fumi_day_int_3c31e4eb:
 
     # fu "Why?"
     fu "Why?"
 
-# game/game/fumiko_events.rpy:1178
+# game/game/fumiko_events.rpy:1177
 translate ukrainian fumi_day_int_b3ae8984:
 
     # mc "Uhm..."
     mc "Uhm..."
 
-# game/game/fumiko_events.rpy:1179
+# game/game/fumiko_events.rpy:1178
 translate ukrainian fumi_day_int_9c6cf113:
 
     # mc "Call it a human habit."
     mc "Call it a human habit."
 
-# game/game/fumiko_events.rpy:1181
+# game/game/fumiko_events.rpy:1180
 translate ukrainian fumi_day_int_883abd83:
 
     # fu "Oh!"
     fu "Oh!"
 
-# game/game/fumiko_events.rpy:1182
+# game/game/fumiko_events.rpy:1181
 translate ukrainian fumi_day_int_f768d447:
 
     # fu "How interesting. And what exactly am I supposed to do now?"
     fu "How interesting. And what exactly am I supposed to do now?"
 
-# game/game/fumiko_events.rpy:1183
+# game/game/fumiko_events.rpy:1182
 translate ukrainian fumi_day_int_dc1b82db:
 
     # mc "{size=-6}Err..."
     mc "{size=-6}Err..."
 
-# game/game/fumiko_events.rpy:1185
+# game/game/fumiko_events.rpy:1184
 translate ukrainian fumi_day_int_f448edbb:
 
     # mc "Do you always feed your fish at this time?"
     mc "Do you always feed your fish at this time?"
 
-# game/game/fumiko_events.rpy:1186
+# game/game/fumiko_events.rpy:1185
 translate ukrainian fumi_day_int_a34288c6:
 
     # fu "Yes, I like taking care of them."
     fu "Yes, I like taking care of them."
 
-# game/game/fumiko_events.rpy:1187
+# game/game/fumiko_events.rpy:1186
 translate ukrainian fumi_day_int_074b6154:
 
     # fu "They're just there, {w}swimming and eating."
     fu "They're just there, {w}swimming and eating."
 
-# game/game/fumiko_events.rpy:1189
+# game/game/fumiko_events.rpy:1188
 translate ukrainian fumi_day_int_cbae6217:
 
     # fu "They're very playful too."
     fu "They're very playful too."
 
-# game/game/fumiko_events.rpy:1190
+# game/game/fumiko_events.rpy:1189
 translate ukrainian fumi_day_int_1b6e3be4:
 
     # fu "The one on the left is Fi, the one in the middle is Ish, and the last one is Boo."
     fu "The one on the left is Fi, the one in the middle is Ish, and the last one is Boo."
 
-# game/game/fumiko_events.rpy:1191
+# game/game/fumiko_events.rpy:1190
 translate ukrainian fumi_day_int_354137ab:
 
     # mc "You're... {w}very creative with names."
     mc "You're... {w}very creative with names."
 
-# game/game/fumiko_events.rpy:1193
+# game/game/fumiko_events.rpy:1192
 translate ukrainian fumi_day_int_a8946a5a:
 
     # mc "Why Boo?"
     mc "Why Boo?"
 
-# game/game/fumiko_events.rpy:1195
+# game/game/fumiko_events.rpy:1194
 translate ukrainian fumi_day_int_fc82c695:
 
     # fu "It is because-"
     fu "It is because-"
 
-# game/game/fumiko_events.rpy:1197
+# game/game/fumiko_events.rpy:1196
 translate ukrainian fumi_day_int_e3f24168:
 
     # fu "Ah..."
-    fu "Ah..."
+    fu "Ah..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1198
+# game/game/fumiko_events.rpy:1197
 translate ukrainian fumi_day_int_5146f6aa:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Oh..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1199
+# game/game/fumiko_events.rpy:1198
 translate ukrainian fumi_day_int_bd8443da:
 
     # mc "{size=-6}Sorry for your loss..."
     mc "{size=-6}Sorry for your loss..."
 
-# game/game/fumiko_events.rpy:1200
+# game/game/fumiko_events.rpy:1199
 translate ukrainian fumi_day_int_a2bbef27:
 
     # fu "He is not dead!"
-    fu "He is not dead!"
+    fu "He is not dead!" with hpunch
 
-# game/game/fumiko_events.rpy:1202
+# game/game/fumiko_events.rpy:1201
 translate ukrainian fumi_day_int_c1e67b73:
 
     # fu "He used to scare me by pretending to be dead, {w}so I named him Boo."
     fu "He used to scare me by pretending to be dead, {w}so I named him Boo."
 
-# game/game/fumiko_events.rpy:1203
+# game/game/fumiko_events.rpy:1202
 translate ukrainian fumi_day_int_a7bcf340:
 
     # mc "I see..."
     mc "I see..."
 
-# game/game/fumiko_events.rpy:1204
+# game/game/fumiko_events.rpy:1203
 translate ukrainian fumi_day_int_fc8ca0fb:
 
     # t "Only the cute and innocent Fumiko could be pranked by her own fish..."
     t "Only the cute and innocent Fumiko could be pranked by her own fish..."
 
-# game/game/fumiko_events.rpy:1205
+# game/game/fumiko_events.rpy:1204
 translate ukrainian fumi_day_int_0fd0836a:
 
     # mc "A-Are you sure he's not dead right now? {w}I think they are trying to eat it..."
     mc "A-Are you sure he's not dead right now? {w}I think they are trying to eat it..."
 
-# game/game/fumiko_events.rpy:1206
+# game/game/fumiko_events.rpy:1205
 translate ukrainian fumi_day_int_faef4659:
 
     # fu "I told you, they are very playful."
     fu "I told you, they are very playful."
 
-# game/game/fumiko_events.rpy:1207
+# game/game/fumiko_events.rpy:1206
 translate ukrainian fumi_day_int_1ce7a7d6:
 
     # mc "What exactly are you feeding him?"
     mc "What exactly are you feeding him?"
 
-# game/game/fumiko_events.rpy:1209
+# game/game/fumiko_events.rpy:1208
 translate ukrainian fumi_day_int_4dfe25ee:
 
     # fu "It's condensed magic."
     fu "It's condensed magic."
 
-# game/game/fumiko_events.rpy:1210
+# game/game/fumiko_events.rpy:1209
 translate ukrainian fumi_day_int_6e50b142:
 
     # mc "Condensed magic? {w}Is that even possible?"
     mc "Condensed magic? {w}Is that even possible?"
 
-# game/game/fumiko_events.rpy:1211
+# game/game/fumiko_events.rpy:1210
 translate ukrainian fumi_day_int_30431954:
 
     # mc "And how can tiny fish eat that?"
     mc "And how can tiny fish eat that?"
 
-# game/game/fumiko_events.rpy:1213
+# game/game/fumiko_events.rpy:1212
 translate ukrainian fumi_day_int_7507fe5b:
 
     # fu "Hehehe~"
     fu "Hehehe~"
 
-# game/game/fumiko_events.rpy:1214
+# game/game/fumiko_events.rpy:1213
 translate ukrainian fumi_day_int_7def0839:
 
     # fu "Surprised, aren't you? That's what a Goddess can do."
     fu "Surprised, aren't you? That's what a Goddess can do."
 
-# game/game/fumiko_events.rpy:1215
+# game/game/fumiko_events.rpy:1214
 translate ukrainian fumi_day_int_68387e4d:
 
     # fu "Here~"
     fu "Here~"
 
-# game/game/fumiko_events.rpy:1217
+# game/game/fumiko_events.rpy:1216
 translate ukrainian fumi_day_int_4d5abbca:
 
     # mc "Oh... It's like a marble..."
     mc "Oh... It's like a marble..."
 
-# game/game/fumiko_events.rpy:1218
+# game/game/fumiko_events.rpy:1217
 translate ukrainian fumi_day_int_fa3a700d:
 
     # fu "These fish can eat it because they're my creations~"
     fu "These fish can eat it because they're my creations~"
 
-# game/game/fumiko_events.rpy:1219
+# game/game/fumiko_events.rpy:1218
 translate ukrainian fumi_day_int_3f908c00:
 
     # mc "That... makes sense, I guess..."
     mc "That... makes sense, I guess..."
 
-# game/game/fumiko_events.rpy:1220
+# game/game/fumiko_events.rpy:1219
 translate ukrainian fumi_day_int_6dff18a4:
 
     # t "If the world I'm in already defies logic, {w}then the actions of the Goddesses must be even more unpredictable..."
     t "If the world I'm in already defies logic, {w}then the actions of the Goddesses must be even more unpredictable..."
 
-# game/game/fumiko_events.rpy:1221
+# game/game/fumiko_events.rpy:1220
 translate ukrainian fumi_day_int_20b724fd:
 
     # t "I gave up trying to make sense of it a long time ago."
     t "I gave up trying to make sense of it a long time ago."
 
-# game/game/fumiko_events.rpy:1223
+# game/game/fumiko_events.rpy:1222
 translate ukrainian fumi_day_int_a958dfe6:
 
     # fu "Hmn~ hnm~"
     fu "Hmn~ hnm~"
 
-# game/game/fumiko_events.rpy:1228
+# game/game/fumiko_events.rpy:1227
 translate ukrainian fumi_day_int_f6c55327:
 
     # "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}"
     "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}"
 
-# game/game/fumiko_events.rpy:1237
+# game/game/fumiko_events.rpy:1236
 translate ukrainian fumi_cardgame_f33551b9:
 
     # fu "Really? What is it? {w}A bigger cannon?"
-    fu "Really? What is it? {w}A bigger cannon?"
+    fu "Really? What is it? {w}A bigger cannon?" with hpunch
 
-# game/game/fumiko_events.rpy:1238
+# game/game/fumiko_events.rpy:1237
 translate ukrainian fumi_cardgame_ed2f37fb:
 
     # mc "Hahaha, why would I bring you another cannon?"
     mc "Hahaha, why would I bring you another cannon?"
 
-# game/game/fumiko_events.rpy:1239
+# game/game/fumiko_events.rpy:1238
 translate ukrainian fumi_cardgame_dc35e590:
 
     # mc "Do you like board games?"
     mc "Do you like board games?"
 
-# game/game/fumiko_events.rpy:1241
+# game/game/fumiko_events.rpy:1240
 translate ukrainian fumi_cardgame_bbb070d5:
 
     # fu "Games?"
     fu "Games?"
 
-# game/game/fumiko_events.rpy:1242
+# game/game/fumiko_events.rpy:1241
 translate ukrainian fumi_cardgame_8ef55066:
 
     # mc "I bought some cards, thinking we could play an easy game."
     mc "I bought some cards, thinking we could play an easy game."
 
-# game/game/fumiko_events.rpy:1244
+# game/game/fumiko_events.rpy:1243
 translate ukrainian fumi_cardgame_3c65c42b:
 
     # fu "What is that!?"
-    fu "What is that!?"
+    fu "What is that!?" with vpunch
 
-# game/game/fumiko_events.rpy:1245
+# game/game/fumiko_events.rpy:1244
 translate ukrainian fumi_cardgame_11dda4fe:
 
     # t "Why is she so cute?"
     t "Why is she so cute?"
 
-# game/game/fumiko_events.rpy:1246
+# game/game/fumiko_events.rpy:1245
 translate ukrainian fumi_cardgame_161396ef:
 
     # mc "I just told you."
     mc "I just told you."
 
-# game/game/fumiko_events.rpy:1247
+# game/game/fumiko_events.rpy:1246
 translate ukrainian fumi_cardgame_61122768:
 
     # mc "Look, I'll teach you how to play."
     mc "Look, I'll teach you how to play."
 
-# game/game/fumiko_events.rpy:1249
+# game/game/fumiko_events.rpy:1248
 translate ukrainian fumi_cardgame_bea4e0f7:
 
     # fu "Yes!"
     fu "Yes!"
 
-# game/game/fumiko_events.rpy:1253
+# game/game/fumiko_events.rpy:1252
 translate ukrainian fumi_cardgame_eb0840d5:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1255
+# game/game/fumiko_events.rpy:1254
 translate ukrainian fumi_cardgame_42561a7f:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-7}Gghn..."
     fu "{sc=2}{outlinecolor=#000000}{size=-7}Gghn..."
 
-# game/game/fumiko_events.rpy:1256
+# game/game/fumiko_events.rpy:1255
 translate ukrainian fumi_cardgame_115c4d7d:
 
     # mc "Nothing about using goddess powers for this, eh."
     mc "Nothing about using goddess powers for this, eh."
 
-# game/game/fumiko_events.rpy:1257
+# game/game/fumiko_events.rpy:1256
 translate ukrainian fumi_cardgame_4d00f597:
 
     # fu "That would ruin the game..."
     fu "That would ruin the game..."
 
-# game/game/fumiko_events.rpy:1259
+# game/game/fumiko_events.rpy:1258
 translate ukrainian fumi_cardgame_b0f26f7d:
 
     # fu "This one!"
-    fu "This one!"
+    fu "This one!" with vpunch
 
-# game/game/fumiko_events.rpy:1261
+# game/game/fumiko_events.rpy:1260
 translate ukrainian fumi_cardgame_ee13b53f:
 
     # fu "{sc=2}{outlinecolor=#000000}{i}{size=-7}Haa..."
     fu "{sc=2}{outlinecolor=#000000}{i}{size=-7}Haa..."
 
-# game/game/fumiko_events.rpy:1262
+# game/game/fumiko_events.rpy:1261
 translate ukrainian fumi_cardgame_d17cbb8c:
 
     # mc "Hahaha, remember to shuffle them so I don't know where you put it."
     mc "Hahaha, remember to shuffle them so I don't know where you put it."
 
-# game/game/fumiko_events.rpy:1264
+# game/game/fumiko_events.rpy:1263
 translate ukrainian fumi_cardgame_a5bbaa59:
 
     # fu "O-Okay..."
     fu "O-Okay..."
 
-# game/game/fumiko_events.rpy:1265
+# game/game/fumiko_events.rpy:1264
 translate ukrainian fumi_cardgame_9f961077:
 
     # fu "You're not looking, right?"
     fu "You're not looking, right?"
 
-# game/game/fumiko_events.rpy:1266
+# game/game/fumiko_events.rpy:1265
 translate ukrainian fumi_cardgame_e737e37d:
 
     # mc "All I see is something very cute, so don't worry."
     mc "All I see is something very cute, so don't worry."
 
-# game/game/fumiko_events.rpy:1267
+# game/game/fumiko_events.rpy:1266
 translate ukrainian fumi_cardgame_68aa614f:
 
     # fu "You won't guess it, right?"
     fu "You won't guess it, right?"
 
-# game/game/fumiko_events.rpy:1268
+# game/game/fumiko_events.rpy:1267
 translate ukrainian fumi_cardgame_06c0ca6e:
 
     # mc "I'll try."
     mc "I'll try."
 
-# game/game/fumiko_events.rpy:1270
+# game/game/fumiko_events.rpy:1269
 translate ukrainian fumi_cardgame_8e5fe2a3:
 
     # fu "{sc=2}{outlinecolor=#000000}{i}{size=-7}Ghn..."
     fu "{sc=2}{outlinecolor=#000000}{i}{size=-7}Ghn..."
 
-# game/game/fumiko_events.rpy:1271
+# game/game/fumiko_events.rpy:1270
 translate ukrainian fumi_cardgame_8fea2db2:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/game/fumiko_events.rpy:1272
+# game/game/fumiko_events.rpy:1271
 translate ukrainian fumi_cardgame_207619d2:
 
     # t "Something I've noticed while playing with her..."
     t "Something I've noticed while playing with her..."
 
-# game/game/fumiko_events.rpy:1274
+# game/game/fumiko_events.rpy:1273
 translate ukrainian fumi_cardgame_d9796033:
 
     # t "She doesn't know how to hide her reactions..."
     t "She doesn't know how to hide her reactions..."
 
-# game/game/fumiko_events.rpy:1275
+# game/game/fumiko_events.rpy:1274
 translate ukrainian fumi_cardgame_5af43410:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-7}Ghg..."
     fu "{sc=2}{outlinecolor=#000000}{size=-7}Ghg..."
 
-# game/game/fumiko_events.rpy:1277
+# game/game/fumiko_events.rpy:1276
 translate ukrainian fumi_cardgame_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/fumiko_events.rpy:1279
+# game/game/fumiko_events.rpy:1278
 translate ukrainian fumi_cardgame_b91591d9:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-7}Gnhn..."
     fu "{sc=2}{outlinecolor=#000000}{size=-7}Gnhn..."
 
-# game/game/fumiko_events.rpy:1280
+# game/game/fumiko_events.rpy:1279
 translate ukrainian fumi_cardgame_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/fumiko_events.rpy:1281
+# game/game/fumiko_events.rpy:1280
 translate ukrainian fumi_cardgame_2c61d132:
 
     # t "I-I can't..."
     t "I-I can't..."
 
-# game/game/fumiko_events.rpy:1283
+# game/game/fumiko_events.rpy:1282
 translate ukrainian fumi_cardgame_ef49546e:
 
     # mc "{size=-8}Sigh...*{/size} {w}This one..."
-    mc "{size=-8}Sigh...*{/size} {w}This one..."
+    mc "{size=-8}Sigh...*{/size} {w}This one..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1284
+# game/game/fumiko_events.rpy:1283
 translate ukrainian fumi_cardgame_bd9b700c:
 
     # fu "...!~{image=corazon}"
-    fu "...!~{image=corazon}"
+    fu "...!~{image=corazon}" (multiple=2)
 
-# game/game/fumiko_events.rpy:1286
+# game/game/fumiko_events.rpy:1285
 translate ukrainian fumi_cardgame_6c84e01f:
 
     # fu "I can still win!~"
     fu "I can still win!~"
 
-# game/game/fumiko_events.rpy:1287
+# game/game/fumiko_events.rpy:1286
 translate ukrainian fumi_cardgame_7b32dcda:
 
     # t "I wish I could take a picture and save this moment."
     t "I wish I could take a picture and save this moment."
 
-# game/game/fumiko_events.rpy:1289
+# game/game/fumiko_events.rpy:1288
 translate ukrainian fumi_cardgame_b12907fb:
 
     # mc "Alright..."
     mc "Alright..."
 
-# game/game/fumiko_events.rpy:1291
+# game/game/fumiko_events.rpy:1290
 translate ukrainian fumi_cardgame_89d63487:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-7}Ghgh..."
     fu "{sc=2}{outlinecolor=#000000}{size=-7}Ghgh..."
 
-# game/game/fumiko_events.rpy:1292
+# game/game/fumiko_events.rpy:1291
 translate ukrainian fumi_cardgame_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/fumiko_events.rpy:1293
+# game/game/fumiko_events.rpy:1292
 translate ukrainian fumi_cardgame_faec1061:
 
     # t "If I keep staring at her, I'll die of a sweetness overdose before the game ends."
     t "If I keep staring at her, I'll die of a sweetness overdose before the game ends."
 
-# game/game/fumiko_events.rpy:1295
+# game/game/fumiko_events.rpy:1294
 translate ukrainian fumi_cardgame_b7903140:
 
     # fu "Hmm?"
     fu "Hmm?"
 
-# game/game/fumiko_events.rpy:1297
+# game/game/fumiko_events.rpy:1296
 translate ukrainian fumi_cardgame_b0f26f7d_1:
 
     # fu "This one!"
-    fu "This one!"
+    fu "This one!" with vpunch
 
-# game/game/fumiko_events.rpy:1299
+# game/game/fumiko_events.rpy:1298
 translate ukrainian fumi_cardgame_eb0840d5_1:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1301
+# game/game/fumiko_events.rpy:1300
 translate ukrainian fumi_cardgame_aed6196f:
 
     # fu "...!~"
     fu "...!~"
 
-# game/game/fumiko_events.rpy:1302
+# game/game/fumiko_events.rpy:1301
 translate ukrainian fumi_cardgame_8f6ca704:
 
     # fu "D-Did I win?"
     fu "D-Did I win?"
 
-# game/game/fumiko_events.rpy:1303
+# game/game/fumiko_events.rpy:1302
 translate ukrainian fumi_cardgame_2d162f0a:
 
     # mc "Yes, you learn very fast!"
-    mc "Yes, you learn very fast!"
+    mc "Yes, you learn very fast!" with vpunch
 
-# game/game/fumiko_events.rpy:1305
+# game/game/fumiko_events.rpy:1304
 translate ukrainian fumi_cardgame_9fc5cb42:
 
     # fu "I won!~{image=corazon}"
     fu "I won!~{image=corazon}"
 
-# game/game/fumiko_events.rpy:1307
+# game/game/fumiko_events.rpy:1306
 translate ukrainian fumi_cardgame_8daee17c:
 
     # mc "You won!"
     mc "You won!"
 
-# game/game/fumiko_events.rpy:1308
+# game/game/fumiko_events.rpy:1307
 translate ukrainian fumi_cardgame_13a96ace:
 
     # fu "...?"
     fu "...?"
 
-# game/game/fumiko_events.rpy:1309
+# game/game/fumiko_events.rpy:1308
 translate ukrainian fumi_cardgame_39b13e27:
 
     # mc "Here, {w}clap your hands with mine."
     mc "Here, {w}clap your hands with mine."
 
-# game/game/fumiko_events.rpy:1311
+# game/game/fumiko_events.rpy:1310
 translate ukrainian fumi_cardgame_761b4b52:
 
     # fu "{size=-7}Gulp*{/size}, l-like this?"
     fu "{size=-7}Gulp*{/size}, l-like this?"
 
-# game/game/fumiko_events.rpy:1312
+# game/game/fumiko_events.rpy:1311
 translate ukrainian fumi_cardgame_b1371ba8:
 
     # t "She takes it very seriously..."
     t "She takes it very seriously..."
 
-# game/game/fumiko_events.rpy:1315
+# game/game/fumiko_events.rpy:1314
 translate ukrainian fumi_cardgame_8f32adb3:
 
     # mc "Yay."
-    mc "Yay."
+    mc "Yay." (multiple=2)
 
-# game/game/fumiko_events.rpy:1316
+# game/game/fumiko_events.rpy:1315
 translate ukrainian fumi_cardgame_5f08e128:
 
     # fu "Y-Yay..."
-    fu "Y-Yay..."
+    fu "Y-Yay..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1317
+# game/game/fumiko_events.rpy:1316
 translate ukrainian fumi_cardgame_11193718:
 
     # mc "It's a way to celebrate."
     mc "It's a way to celebrate."
 
-# game/game/fumiko_events.rpy:1319
+# game/game/fumiko_events.rpy:1318
 translate ukrainian fumi_cardgame_7de7bb4c:
 
     # fu "That was fun~{image=corazon}"
     fu "That was fun~{image=corazon}"
 
-# game/game/fumiko_events.rpy:1320
+# game/game/fumiko_events.rpy:1319
 translate ukrainian fumi_cardgame_2a815c3c:
 
     # mc "I'm glad you liked it."
     mc "I'm glad you liked it."
 
-# game/game/fumiko_events.rpy:1321
+# game/game/fumiko_events.rpy:1320
 translate ukrainian fumi_cardgame_6fca26ba:
 
     # fu "Uhm... would you like to do it again?"
     fu "Uhm... would you like to do it again?"
 
-# game/game/fumiko_events.rpy:1322
+# game/game/fumiko_events.rpy:1321
 translate ukrainian fumi_cardgame_8053bdc9:
 
     # mc "Of course-"
     mc "Of course-"
 
-# game/game/fumiko_events.rpy:1323
+# game/game/fumiko_events.rpy:1322
 translate ukrainian fumi_cardgame_2a5e712f:
 
     # "{sc=1}{outlinecolor=#000000}{size=-7}{color=#8cc1e9}{i}I see you're having fun~"
     "{sc=1}{outlinecolor=#000000}{size=-7}{color=#8cc1e9}{i}I see you're having fun~"
 
-# game/game/fumiko_events.rpy:1325
+# game/game/fumiko_events.rpy:1324
 translate ukrainian fumi_cardgame_b9f76196:
 
     # mc "Kei-"
-    mc "Kei-"
+    mc "Kei-" with hpunch
 
-# game/game/fumiko_events.rpy:1326
+# game/game/fumiko_events.rpy:1325
 translate ukrainian fumi_cardgame_89ebe494:
 
     # t "It smells... really good..."
     t "It smells... really good..."
 
-# game/game/fumiko_events.rpy:1327
+# game/game/fumiko_events.rpy:1326
 translate ukrainian fumi_cardgame_babf7e87:
 
     # fu "Oh, hey."
     fu "Oh, hey."
 
-# game/game/fumiko_events.rpy:1328
+# game/game/fumiko_events.rpy:1327
 translate ukrainian fumi_cardgame_5804826a:
 
     # fu "I thought you were visiting the other goddesses today."
     fu "I thought you were visiting the other goddesses today."
 
-# game/game/fumiko_events.rpy:1330
+# game/game/fumiko_events.rpy:1329
 translate ukrainian fumi_cardgame_2d7c1213:
 
     # k "I just got back. I was going to invite you for tea, but I didn't expect to run into [mc]."
     k "I just got back. I was going to invite you for tea, but I didn't expect to run into [mc]."
 
-# game/game/fumiko_events.rpy:1331
+# game/game/fumiko_events.rpy:1330
 translate ukrainian fumi_cardgame_8114a09f:
 
     # mc "Uh..."
     mc "Uh..."
 
-# game/game/fumiko_events.rpy:1332
+# game/game/fumiko_events.rpy:1331
 translate ukrainian fumi_cardgame_69bc1761:
 
     # t "We never talked about the time she was spying on me when the Fumiko thing happened..."
     t "We never talked about the time she was spying on me when the Fumiko thing happened..."
 
-# game/game/fumiko_events.rpy:1333
+# game/game/fumiko_events.rpy:1332
 translate ukrainian fumi_cardgame_b7a7719d:
 
     # t "I want to believe I imagined it, but if I didn't..."
     t "I want to believe I imagined it, but if I didn't..."
 
-# game/game/fumiko_events.rpy:1335
+# game/game/fumiko_events.rpy:1334
 translate ukrainian fumi_cardgame_3e23192f:
 
     # fu "[mc], can three people play?"
     fu "[mc], can three people play?"
 
-# game/game/fumiko_events.rpy:1336
+# game/game/fumiko_events.rpy:1335
 translate ukrainian fumi_cardgame_209347ae:
 
     # mc "Hmm? Y-Yeah..."
     mc "Hmm? Y-Yeah..."
 
-# game/game/fumiko_events.rpy:1338
+# game/game/fumiko_events.rpy:1337
 translate ukrainian fumi_cardgame_7f6e64a3:
 
     # fu "Come on, let's play. [mc] brought a new, really fun human game."
     fu "Come on, let's play. [mc] brought a new, really fun human game."
 
-# game/game/fumiko_events.rpy:1339
+# game/game/fumiko_events.rpy:1338
 translate ukrainian fumi_cardgame_1c439056:
 
     # k "Hmm, cards?"
     k "Hmm, cards?"
 
-# game/game/fumiko_events.rpy:1340
+# game/game/fumiko_events.rpy:1339
 translate ukrainian fumi_cardgame_1faed9a2:
 
     # mc "Do you know how to play?"
     mc "Do you know how to play?"
 
-# game/game/fumiko_events.rpy:1341
+# game/game/fumiko_events.rpy:1340
 translate ukrainian fumi_cardgame_444b3233:
 
     # k "I'll learn as we go~"
     k "I'll learn as we go~"
 
-# game/game/fumiko_events.rpy:1343
+# game/game/fumiko_events.rpy:1342
 translate ukrainian fumi_cardgame_a74ba099:
 
     # mc "Okay, let me—"
     mc "Okay, let me—"
 
-# game/game/fumiko_events.rpy:1344
+# game/game/fumiko_events.rpy:1343
 translate ukrainian fumi_cardgame_7a011616:
 
     # k "But."
     k "But."
 
-# game/game/fumiko_events.rpy:1345
+# game/game/fumiko_events.rpy:1344
 translate ukrainian fumi_cardgame_0ad09975:
 
     # mc "...?"
-    mc "...?"
+    mc "...?" (multiple=2)
 
-# game/game/fumiko_events.rpy:1346
+# game/game/fumiko_events.rpy:1345
 translate ukrainian fumi_cardgame_018fbdbf:
 
     # fu "...?"
-    fu "...?"
+    fu "...?" (multiple=2)
 
-# game/game/fumiko_events.rpy:1347
+# game/game/fumiko_events.rpy:1346
 translate ukrainian fumi_cardgame_2debb370:
 
     # k "What if we add a penalty for the loser?"
     k "What if we add a penalty for the loser?"
 
-# game/game/fumiko_events.rpy:1348
+# game/game/fumiko_events.rpy:1347
 translate ukrainian fumi_cardgame_a568af8f:
 
     # mc "{size=-8}Uh..."
     mc "{size=-8}Uh..."
 
-# game/game/fumiko_events.rpy:1349
+# game/game/fumiko_events.rpy:1348
 translate ukrainian fumi_cardgame_dedb76b3:
 
     # fu "A penalty?"
     fu "A penalty?"
 
-# game/game/fumiko_events.rpy:1351
+# game/game/fumiko_events.rpy:1350
 translate ukrainian fumi_cardgame_550318b2:
 
     # k "Every time someone loses, they have to remove a piece of clothing~"
     k "Every time someone loses, they have to remove a piece of clothing~"
 
-# game/game/fumiko_events.rpy:1352
+# game/game/fumiko_events.rpy:1351
 translate ukrainian fumi_cardgame_01aaccf8:
 
     # mc "{size=-6}W-What?"
     mc "{size=-6}W-What?"
 
-# game/game/fumiko_events.rpy:1353
+# game/game/fumiko_events.rpy:1352
 translate ukrainian fumi_cardgame_da8c2b30:
 
     # fu "Clothes? {w}Is that how humans play...?"
     fu "Clothes? {w}Is that how humans play...?"
 
-# game/game/fumiko_events.rpy:1354
+# game/game/fumiko_events.rpy:1353
 translate ukrainian fumi_cardgame_c42b36b2:
 
     # mc "W-Well-"
     mc "W-Well-"
 
-# game/game/fumiko_events.rpy:1356
+# game/game/fumiko_events.rpy:1355
 translate ukrainian fumi_cardgame_8d924eae:
 
     # k "Come on, don't tell me you're embarrassed."
     k "Come on, don't tell me you're embarrassed."
 
-# game/game/fumiko_events.rpy:1357
+# game/game/fumiko_events.rpy:1356
 translate ukrainian fumi_cardgame_eb0840d5_2:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1359
+# game/game/fumiko_events.rpy:1358
 translate ukrainian fumi_cardgame_357aa725:
 
     # fu "A g-goddess has no \nshame in showing her body..."
-    fu "A g-goddess has no \nshame in showing her body..."
+    fu "A g-goddess has no \nshame in showing her body..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1360
+# game/game/fumiko_events.rpy:1359
 translate ukrainian fumi_cardgame_b64b5bfd:
 
     # k "Let's play!~{image=corazon}"
-    k "Let's play!~{image=corazon}"
+    k "Let's play!~{image=corazon}" (multiple=3)
 
-# game/game/fumiko_events.rpy:1361
+# game/game/fumiko_events.rpy:1360
 translate ukrainian fumi_cardgame_dd74d36f:
 
     # mc "Ah..."
-    mc "Ah..."
+    mc "Ah..." (multiple=3)
 
-# game/game/fumiko_events.rpy:1363
+# game/game/fumiko_events.rpy:1362
 translate ukrainian fumi_cardgame_1e89d0ab:
 
     # t "Keiko is acting strange."
     t "Keiko is acting strange."
 
-# game/game/fumiko_events.rpy:1367
+# game/game/fumiko_events.rpy:1366
 translate ukrainian fumi_cardgame_4190411d:
 
     # t "This can't be happening..."
     t "This can't be happening..."
 
-# game/game/fumiko_events.rpy:1369
+# game/game/fumiko_events.rpy:1368
 translate ukrainian fumi_cardgame_3f43575f:
 
     # t "How is it possible that only the two of us keep losing?"
     t "How is it possible that only the two of us keep losing?"
 
-# game/game/fumiko_events.rpy:1370
+# game/game/fumiko_events.rpy:1369
 translate ukrainian fumi_cardgame_01bd03ed:
 
     # t "No, of course it can happen."
     t "No, of course it can happen."
 
-# game/game/fumiko_events.rpy:1371
+# game/game/fumiko_events.rpy:1370
 translate ukrainian fumi_cardgame_ac7d19c1:
 
     # t "Keiko... {w}is taking advantage of Fumiko to win."
     t "Keiko... {w}is taking advantage of Fumiko to win."
 
-# game/game/fumiko_events.rpy:1373
+# game/game/fumiko_events.rpy:1372
 translate ukrainian fumi_cardgame_f80425ad:
 
     # k "Come on, it's your turn~{image=corazon}"
     k "Come on, it's your turn~{image=corazon}"
 
-# game/game/fumiko_events.rpy:1374
+# game/game/fumiko_events.rpy:1373
 translate ukrainian fumi_cardgame_8114a09f_1:
 
     # mc "Uh..."
     mc "Uh..."
 
-# game/game/fumiko_events.rpy:1375
+# game/game/fumiko_events.rpy:1374
 translate ukrainian fumi_cardgame_cc9b988a:
 
     # t "I'll end up naked if this keeps up..."
     t "I'll end up naked if this keeps up..."
 
-# game/game/fumiko_events.rpy:1376
+# game/game/fumiko_events.rpy:1375
 translate ukrainian fumi_cardgame_d003557d:
 
     # t "And Fumiko staring at me while she's almost naked isn't helping me concentrate."
     t "And Fumiko staring at me while she's almost naked isn't helping me concentrate."
 
-# game/game/fumiko_events.rpy:1378
+# game/game/fumiko_events.rpy:1377
 translate ukrainian fumi_cardgame_bf8c4701:
 
     # mc "Hmm...?"
     mc "Hmm...?"
 
-# game/game/fumiko_events.rpy:1379
+# game/game/fumiko_events.rpy:1378
 translate ukrainian fumi_cardgame_f4cd1c91:
 
     # t "She's trying to lure me into her trap."
     t "She's trying to lure me into her trap."
 
-# game/game/fumiko_events.rpy:1380
+# game/game/fumiko_events.rpy:1379
 translate ukrainian fumi_cardgame_36d185d4:
 
     # t "She wants me to think she's offering me the Joker when it's not!"
-    t "She wants me to think she's offering me the Joker when it's not!"
+    t "She wants me to think she's offering me the Joker when it's not!" with hpunch
 
-# game/game/fumiko_events.rpy:1382
+# game/game/fumiko_events.rpy:1381
 translate ukrainian fumi_cardgame_8a8e081b:
 
     # mc "This one!"
-    mc "This one!"
+    mc "This one!" with hpunch
 
-# game/game/fumiko_events.rpy:1383
+# game/game/fumiko_events.rpy:1382
 translate ukrainian fumi_cardgame_47886743:
 
     # t "Did you really think I'd fall for your tricks? My mind works a thousand miles an hou-"
     t "Did you really think I'd fall for your tricks? My mind works a thousand miles an hou-"
 
-# game/game/fumiko_events.rpy:1385
+# game/game/fumiko_events.rpy:1384
 translate ukrainian fumi_cardgame_15941294:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Eeeh..."
     mc "{sc=1}{outlinecolor=#000000}{size=-8}Eeeh..."
 
-# game/game/fumiko_events.rpy:1386
+# game/game/fumiko_events.rpy:1385
 translate ukrainian fumi_cardgame_df8266d7:
 
     # k "Fufufu~{image=corazon} so cute~"
     k "Fufufu~{image=corazon} so cute~"
 
-# game/game/fumiko_events.rpy:1387
+# game/game/fumiko_events.rpy:1386
 translate ukrainian fumi_cardgame_7042a278:
 
     # fu "{size=-6}N-Now it's my turn..."
     fu "{size=-6}N-Now it's my turn..."
 
-# game/game/fumiko_events.rpy:1389
+# game/game/fumiko_events.rpy:1388
 translate ukrainian fumi_cardgame_f695591e:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-7}Ghng..."
     fu "{sc=1}{outlinecolor=#000000}{size=-7}Ghng..."
 
-# game/game/fumiko_events.rpy:1390
+# game/game/fumiko_events.rpy:1389
 translate ukrainian fumi_cardgame_e6a8ae0e:
 
     # mc "{size=-6}They are beautiful..."
     mc "{size=-6}They are beautiful..."
 
-# game/game/fumiko_events.rpy:1391
+# game/game/fumiko_events.rpy:1390
 translate ukrainian fumi_cardgame_4bc4b2e5:
 
     # k "Hmm?"
     k "Hmm?"
 
-# game/game/fumiko_events.rpy:1392
+# game/game/fumiko_events.rpy:1391
 translate ukrainian fumi_cardgame_2e24e23c:
 
     # mc "T-The cards! {w}They have a nice design..."
-    mc "T-The cards! {w}They have a nice design..."
+    mc "T-The cards! {w}They have a nice design..." with hpunch
 
-# game/game/fumiko_events.rpy:1394
+# game/game/fumiko_events.rpy:1393
 translate ukrainian fumi_cardgame_49336f5e:
 
     # fu "This one!"
-    fu "This one!"
+    fu "This one!" with hpunch
 
-# game/game/fumiko_events.rpy:1395
+# game/game/fumiko_events.rpy:1394
 translate ukrainian fumi_cardgame_e2e43ec3:
 
     # t "Fuck."
     t "Fuck."
 
-# game/game/fumiko_events.rpy:1397
+# game/game/fumiko_events.rpy:1396
 translate ukrainian fumi_cardgame_a604fe85:
 
     # fu "Oh!~{image=corazon}"
     fu "Oh!~{image=corazon}"
 
-# game/game/fumiko_events.rpy:1399
+# game/game/fumiko_events.rpy:1398
 translate ukrainian fumi_cardgame_a55eb8a9:
 
     # k "Oh, we won."
     k "Oh, we won."
 
-# game/game/fumiko_events.rpy:1400
+# game/game/fumiko_events.rpy:1399
 translate ukrainian fumi_cardgame_abbcff33:
 
     # fu "We won!"
     fu "We won!"
 
-# game/game/fumiko_events.rpy:1402
+# game/game/fumiko_events.rpy:1401
 translate ukrainian fumi_cardgame_b32c5532:
 
     # k "Come on Darling, you lost again~{image=corazon}"
     k "Come on Darling, you lost again~{image=corazon}"
 
-# game/game/fumiko_events.rpy:1403
+# game/game/fumiko_events.rpy:1402
 translate ukrainian fumi_cardgame_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1404
+# game/game/fumiko_events.rpy:1403
 translate ukrainian fumi_cardgame_52d7e3f9:
 
     # fu "..."
-    fu "..."
+    fu "..." (multiple=2)
 
-# game/game/fumiko_events.rpy:1405
+# game/game/fumiko_events.rpy:1404
 translate ukrainian fumi_cardgame_d0eac528:
 
     # t "This goddess toyed with my mind however she pleased..."
     t "This goddess toyed with my mind however she pleased..."
 
-# game/game/fumiko_events.rpy:1407
+# game/game/fumiko_events.rpy:1406
 translate ukrainian fumi_cardgame_034e6008:
 
     # mc "{size=-6}Sigh...*"
     mc "{size=-6}Sigh...*"
 
-# game/game/fumiko_events.rpy:1408
+# game/game/fumiko_events.rpy:1407
 translate ukrainian fumi_cardgame_c87cab7f:
 
     # fu "...!"
     fu "...!"
 
-# game/game/fumiko_events.rpy:1409
+# game/game/fumiko_events.rpy:1408
 translate ukrainian fumi_cardgame_ec57c3e3:
 
     # k "Ara~ Undressing in front of two goddesses? How daring!~{image=corazon}"
-    k "Ara~ Undressing in front of two goddesses? How daring!~{image=corazon}"
+    k "Ara~ Undressing in front of two goddesses? How daring!~{image=corazon}" with hpunch
 
-# game/game/fumiko_events.rpy:1410
+# game/game/fumiko_events.rpy:1409
 translate ukrainian fumi_cardgame_1969b31d:
 
     # mc "This was your idea!"
-    mc "This was your idea!"
+    mc "This was your idea!" with hpunch
 
-# game/game/fumiko_events.rpy:1412
+# game/game/fumiko_events.rpy:1411
 translate ukrainian fumi_cardgame_deffe38a:
 
     # k "Fufu~{image=corazon} {w}That was fun, but it's getting late."
     k "Fufu~{image=corazon} {w}That was fun, but it's getting late."
 
-# game/game/fumiko_events.rpy:1413
+# game/game/fumiko_events.rpy:1412
 translate ukrainian fumi_cardgame_078c3460:
 
     # k "You should head back."
     k "You should head back."
 
-# game/game/fumiko_events.rpy:1414
+# game/game/fumiko_events.rpy:1413
 translate ukrainian fumi_cardgame_133c59df:
 
     # mc "Ah, yes..."
     mc "Ah, yes..."
 
-# game/game/fumiko_events.rpy:1415
+# game/game/fumiko_events.rpy:1414
 translate ukrainian fumi_cardgame_ecaf5b40:
 
     # fu "{color=#CC9FDE}{i}His thing isn't as hard as last time..."
     fu "{color=#CC9FDE}{i}His thing isn't as hard as last time..."
 
-# game/game/fumiko_events.rpy:1417
+# game/game/fumiko_events.rpy:1416
 translate ukrainian fumi_cardgame_0e7c60c5:
 
     # k "Thank you for teaching us something so fun."
     k "Thank you for teaching us something so fun."
 
-# game/game/fumiko_events.rpy:1418
+# game/game/fumiko_events.rpy:1417
 translate ukrainian fumi_cardgame_4b07f141:
 
     # mc "Thanks for playing. Shall we try again another day?"
     mc "Thanks for playing. Shall we try again another day?"
 
-# game/game/fumiko_events.rpy:1419
+# game/game/fumiko_events.rpy:1418
 translate ukrainian fumi_cardgame_f4b1f3ad:
 
     # k "Sure, whenever you want."
     k "Sure, whenever you want."
 
-# game/game/fumiko_events.rpy:1420
+# game/game/fumiko_events.rpy:1419
 translate ukrainian fumi_cardgame_1ceab608:
 
     # t "W-Why is Fumiko staring so much at my..."
     t "W-Why is Fumiko staring so much at my..."
 
-# game/game/fumiko_events.rpy:1421
+# game/game/fumiko_events.rpy:1420
 translate ukrainian fumi_cardgame_f82fc5ea:
 
     # fu "{color=#CC9FDE}{i}Huh? Did it just move? It's growing little by little..."
     fu "{color=#CC9FDE}{i}Huh? Did it just move? It's growing little by little..."
 
-# game/game/fumiko_events.rpy:1423
+# game/game/fumiko_events.rpy:1422
 translate ukrainian fumi_cardgame_bbfff4ea:
 
     # fu "S-Sure."
     fu "S-Sure."
 
-# game/game/fumiko_events.rpy:1424
+# game/game/fumiko_events.rpy:1423
 translate ukrainian fumi_cardgame_5369c83b:
 
     # fu "Uhm... {w}thank you for teaching me how to play."
     fu "Uhm... {w}thank you for teaching me how to play."
 
-# game/game/fumiko_events.rpy:1425
+# game/game/fumiko_events.rpy:1424
 translate ukrainian fumi_cardgame_a7a92e8f:
 
     # mc "No problem."
     mc "No problem."
 
-# game/game/fumiko_events.rpy:1426
+# game/game/fumiko_events.rpy:1425
 translate ukrainian fumi_cardgame_f1331203:
 
     # k "Fufufu~{image=corazon}"
     k "Fufufu~{image=corazon}"
 
-# game/game/fumiko_events.rpy:1428
+# game/game/fumiko_events.rpy:1427
 translate ukrainian fumi_cardgame_ccdcc5b9:
 
     # mc "S-See you later..."
     mc "S-See you later..."
 
-# game/game/fumiko_events.rpy:1429
+# game/game/fumiko_events.rpy:1428
 translate ukrainian fumi_cardgame_2ab3f3da:
 
     # t "I left just in time; Fumiko's body was already starting to provoke something in me."
     t "I left just in time; Fumiko's body was already starting to provoke something in me."
 
-# game/game/fumiko_events.rpy:1430
+# game/game/fumiko_events.rpy:1429
 translate ukrainian fumi_cardgame_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/fumiko_events.rpy:1431
+# game/game/fumiko_events.rpy:1430
 translate ukrainian fumi_cardgame_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/fumiko_events.rpy:1432
+# game/game/fumiko_events.rpy:1431
 translate ukrainian fumi_cardgame_d7edd024:
 
     # "."
     "."
 
-# game/game/fumiko_events.rpy:1434
+# game/game/fumiko_events.rpy:1433
 translate ukrainian fumi_cardgame_eb0840d5_3:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1435
+# game/game/fumiko_events.rpy:1434
 translate ukrainian fumi_cardgame_b3019757:
 
     # k "I noticed you were paying a bit more attention to [mc]'s body."
     k "I noticed you were paying a bit more attention to [mc]'s body."
 
-# game/game/fumiko_events.rpy:1437
+# game/game/fumiko_events.rpy:1436
 translate ukrainian fumi_cardgame_c17ccdec:
 
     # fu "W-What! That's not true!"
-    fu "W-What! That's not true!"
+    fu "W-What! That's not true!" with hpunch
 
-# game/game/fumiko_events.rpy:1438
+# game/game/fumiko_events.rpy:1437
 translate ukrainian fumi_cardgame_be272d39:
 
     # k "You know..."
     k "You know..."
 
-# game/game/fumiko_events.rpy:1439
+# game/game/fumiko_events.rpy:1438
 translate ukrainian fumi_cardgame_6acfe6e1:
 
     # fu "W-What-"
     fu "W-What-"
 
-# game/game/fumiko_events.rpy:1440
+# game/game/fumiko_events.rpy:1439
 translate ukrainian fumi_cardgame_a4a0672e:
 
     # k "In this kind of game, you can create any penalty you want."
     k "In this kind of game, you can create any penalty you want."
 
-# game/game/fumiko_events.rpy:1441
+# game/game/fumiko_events.rpy:1440
 translate ukrainian fumi_cardgame_eb0840d5_4:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1443
+# game/game/fumiko_events.rpy:1442
 translate ukrainian fumi_cardgame_fcd0aadf:
 
     # fu "Anything... I want?"
     fu "Anything... I want?"
 
-# game/game/fumiko_events.rpy:1444
+# game/game/fumiko_events.rpy:1443
 translate ukrainian fumi_cardgame_2e984237:
 
     # k "It's a human game where the rules are strictly respected; they can't be refused."
     k "It's a human game where the rules are strictly respected; they can't be refused."
 
-# game/game/fumiko_events.rpy:1445
+# game/game/fumiko_events.rpy:1444
 translate ukrainian fumi_cardgame_692a6882:
 
     # fu "R-Really...?"
     fu "R-Really...?"
 
-# game/game/fumiko_events.rpy:1446
+# game/game/fumiko_events.rpy:1445
 translate ukrainian fumi_cardgame_5f693164:
 
     # k "Yes, even..."
     k "Yes, even..."
 
-# game/game/fumiko_events.rpy:1448
+# game/game/fumiko_events.rpy:1447
 translate ukrainian fumi_cardgame_eb0840d5_5:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1450
+# game/game/fumiko_events.rpy:1449
 translate ukrainian fumi_cardgame_9c99f54f:
 
     # fu "...!"
-    fu "...!"
+    fu "...!" with hpunch
 
-# game/game/fumiko_events.rpy:1451
+# game/game/fumiko_events.rpy:1450
 translate ukrainian fumi_cardgame_2a75a473:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-7}W-W-What are you saying!?"
-    fu "{sc=1}{outlinecolor=#000000}{size=-7}W-W-What are you saying!?"
+    fu "{sc=1}{outlinecolor=#000000}{size=-7}W-W-What are you saying!?" with vpunch
 
-# game/game/fumiko_events.rpy:1452
+# game/game/fumiko_events.rpy:1451
 translate ukrainian fumi_cardgame_32d0a667:
 
     # k "Fufu~"
     k "Fufu~"
 
-# game/game/fumiko_events.rpy:1453
+# game/game/fumiko_events.rpy:1452
 translate ukrainian fumi_cardgame_4fa23c50:
 
     # k "Have fun~"
     k "Have fun~"
 
-# game/game/fumiko_events.rpy:1455
+# game/game/fumiko_events.rpy:1454
 translate ukrainian fumi_cardgame_cffffe75:
 
     # fu "{size=-6}Ghg... {w}teasing me again..."
     fu "{size=-6}Ghg... {w}teasing me again..."
 
-# game/game/fumiko_events.rpy:1456
+# game/game/fumiko_events.rpy:1455
 translate ukrainian fumi_cardgame_eb0840d5_6:
 
     # fu "..."
     fu "..."
 
-# game/game/fumiko_events.rpy:1457
+# game/game/fumiko_events.rpy:1456
 translate ukrainian fumi_cardgame_8744fcea:
 
     # fu "{size=-6}Anything I want..."
     fu "{size=-6}Anything I want..."
 
-# game/game/fumiko_events.rpy:1462
+# game/game/fumiko_events.rpy:1461
 translate ukrainian fumi_cardgame_f6c55327:
 
     # "{image=corazon}Fumiko's affection has increased to [fumiko_affection]{image=corazon}"
@@ -5547,7 +5547,7 @@ translate ukrainian fumi_keiko_saw_092af923:
 translate ukrainian fumi_keiko_saw_95e1efa2:
 
     # t "That's not fair!"
-    t "That's not fair!"
+    t "That's not fair!" with hpunch
 
 # game/game/fumiko_events.rpy:1517
 translate ukrainian fumi_keiko_saw_d29864d0:
@@ -5583,7 +5583,7 @@ translate ukrainian fumi_keiko_saw_185892c4:
 translate ukrainian fumi_keiko_saw_ca6db0e2:
 
     # fu "L-Let's play!"
-    fu "L-Let's play!"
+    fu "L-Let's play!" with vpunch
 
 # game/game/fumiko_events.rpy:1525
 translate ukrainian fumi_keiko_saw_23c38059:
@@ -5901,7 +5901,7 @@ translate ukrainian fumi_keiko_saw_2b35b6fe_3:
 translate ukrainian fumi_keiko_saw_752bb4af:
 
     # mc "You think I'll fall for it again?!"
-    mc "You think I'll fall for it again?!"
+    mc "You think I'll fall for it again?!" with vpunch
 
 # game/game/fumiko_events.rpy:1597
 translate ukrainian fumi_keiko_saw_9f7be043:
@@ -5913,7 +5913,7 @@ translate ukrainian fumi_keiko_saw_9f7be043:
 translate ukrainian fumi_keiko_saw_fadcc44a:
 
     # k "{sc=2}{outlinecolor=#000000}{size=-7}Hahaha~{image=corazon}"
-    k "{sc=2}{outlinecolor=#000000}{size=-7}Hahaha~{image=corazon}"
+    k "{sc=2}{outlinecolor=#000000}{size=-7}Hahaha~{image=corazon}" with hpunch
 
 # game/game/fumiko_events.rpy:1601
 translate ukrainian fumi_keiko_saw_a910518e:
@@ -5961,7 +5961,7 @@ translate ukrainian fumi_keiko_saw_134dde52:
 translate ukrainian fumi_keiko_saw_ad02389f:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-7}How!?"
-    fu "{sc=2}{outlinecolor=#000000}{size=-7}How!?"
+    fu "{sc=2}{outlinecolor=#000000}{size=-7}How!?" with vpunch
 
 # game/game/fumiko_events.rpy:1612
 translate ukrainian fumi_keiko_saw_c9fbcc19:
@@ -6195,13 +6195,13 @@ translate ukrainian fumi_keiko_saw_e89d3da1:
 translate ukrainian fumi_keiko_saw_119092e4:
 
     # k "What?"
-    k "What?"
+    k "What?" (multiple=2)
 
 # game/game/fumiko_events.rpy:1661
 translate ukrainian fumi_keiko_saw_94b6a9c5:
 
     # fu "What?"
-    fu "What?"
+    fu "What?" (multiple=2)
 
 # game/game/fumiko_events.rpy:1662
 translate ukrainian fumi_keiko_saw_fb2e5377:
@@ -6249,7 +6249,7 @@ translate ukrainian fumi_keiko_saw_6c483f96:
 translate ukrainian fumi_keiko_saw_49c49f08:
 
     # t "And why are they acting like I'm about to undergo surgery?!"
-    t "And why are they acting like I'm about to undergo surgery?!"
+    t "And why are they acting like I'm about to undergo surgery?!" with hpunch
 
 # game/game/fumiko_events.rpy:1672
 translate ukrainian fumi_keiko_saw_4b78e510:
@@ -6435,7 +6435,7 @@ translate ukrainian fumiko_gal2_331f4206:
 translate ukrainian fumiko_gal2_9268ff58:
 
     # mc "K-Keiko!?"
-    mc "K-Keiko!?"
+    mc "K-Keiko!?" with hpunch
 
 # game/game/fumiko_events.rpy:1720
 translate ukrainian fumiko_gal2_681b44a2:
@@ -6513,7 +6513,7 @@ translate ukrainian fumiko_gal2_bea4e0f7:
 translate ukrainian fumiko_gal2_1aaa53c3:
 
     # t "What is this feeling!?"
-    t "What is this feeling!?"
+    t "What is this feeling!?" with vpunch
 
 # game/game/fumiko_events.rpy:1737
 translate ukrainian fumiko_gal2_49ccb4bd:
@@ -6771,13 +6771,13 @@ translate ukrainian fumiko_gal2_d81b576d:
 translate ukrainian fumiko_gal2_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/fumiko_events.rpy:1788
 translate ukrainian fumiko_gal2_75edcc35:
 
     # t "I've managed to keep it together down there this whole time, but this is really pushing my limits!"
-    t "I've managed to keep it together down there this whole time, but this is really pushing my limits!"
+    t "I've managed to keep it together down there this whole time, but this is really pushing my limits!" with vpunch
 
 # game/game/fumiko_events.rpy:1789
 translate ukrainian fumiko_gal2_83a99362:
@@ -6879,7 +6879,7 @@ translate ukrainian fumiko_gal2_d9ad7479:
 translate ukrainian fumiko_gal2_4ff7f731:
 
     # k "Time to raise those arms!"
-    k "Time to raise those arms!"
+    k "Time to raise those arms!" with vpunch
 
 # game/game/fumiko_events.rpy:1810
 translate ukrainian fumiko_gal2_766ca1df:
@@ -6891,7 +6891,7 @@ translate ukrainian fumiko_gal2_766ca1df:
 translate ukrainian fumiko_gal2_a00789ab:
 
     # mc "My impenetrable armor!"
-    mc "My impenetrable armor!"
+    mc "My impenetrable armor!" with vpunch
 
 # game/game/fumiko_events.rpy:1813
 translate ukrainian fumiko_gal2_2b35b6fe_4:
@@ -6909,7 +6909,7 @@ translate ukrainian fumiko_gal2_7ca57639:
 translate ukrainian fumiko_gal2_6ca71da4:
 
     # t "I'm touching the sky!"
-    t "I'm touching the sky!"
+    t "I'm touching the sky!" with vpunch
 
 # game/game/fumiko_events.rpy:1816
 translate ukrainian fumiko_gal2_86bc516d:
@@ -6981,7 +6981,7 @@ translate ukrainian fumiko_gal2_9ec3ac07:
 translate ukrainian fumiko_gal2_c0ff3c16:
 
     # t "Of course Keiko noticed!"
-    t "Of course Keiko noticed!"
+    t "Of course Keiko noticed!" with hpunch
 
 # game/game/fumiko_events.rpy:1830
 translate ukrainian fumiko_gal2_a22a1062:
@@ -7011,13 +7011,13 @@ translate ukrainian fumiko_gal2_655bada0:
 translate ukrainian fumiko_gal2_c186d109:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-10}Anhm~ HNmn~"
-    fu "{sc=1}{outlinecolor=#000000}{size=-10}Anhm~ HNmn~"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Anhm~ HNmn~" (multiple=2)
 
 # game/game/fumiko_events.rpy:1836
 translate ukrainian fumiko_gal2_21109119:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-10}HNgm~ Anhm~ [mc]~{image=corazon}"
-    k "{sc=1}{outlinecolor=#000000}{size=-10}HNgm~ Anhm~ [mc]~{image=corazon}"
+    k "{sc=1}{outlinecolor=#000000}{size=-10}HNgm~ Anhm~ [mc]~{image=corazon}" (multiple=2)
 
 # game/game/fumiko_events.rpy:1837
 translate ukrainian fumiko_gal2_7d5ff59c:
@@ -7059,7 +7059,7 @@ translate ukrainian fumiko_gal2_65bd709a:
 translate ukrainian fumiko_gal2_7d6b6505:
 
     # t "Hang in there, [mc]!"
-    t "Hang in there, [mc]!"
+    t "Hang in there, [mc]!" with vpunch
 
 # game/game/fumiko_events.rpy:1844
 translate ukrainian fumiko_gal2_5676b332:
@@ -7071,7 +7071,7 @@ translate ukrainian fumiko_gal2_5676b332:
 translate ukrainian fumiko_gal2_ca32b2e4:
 
     # t "That perverted goddess!"
-    t "That perverted goddess!"
+    t "That perverted goddess!" with hpunch
 
 # game/game/fumiko_events.rpy:1847
 translate ukrainian fumiko_gal2_ac5b7064:
@@ -7095,7 +7095,7 @@ translate ukrainian fumiko_gal2_b7903140_1:
 translate ukrainian fumiko_gal2_c6e5d0b6:
 
     # fu "It's huge!"
-    fu "It's huge!"
+    fu "It's huge!" with hpunch
 
 # game/game/fumiko_events.rpy:1852
 translate ukrainian fumiko_gal2_29ab7e1f:
@@ -7107,7 +7107,7 @@ translate ukrainian fumiko_gal2_29ab7e1f:
 translate ukrainian fumiko_gal2_f7544a4b:
 
     # t "Don't act like you didn't already know!"
-    t "Don't act like you didn't already know!"
+    t "Don't act like you didn't already know!" with vpunch
 
 # game/game/fumiko_events.rpy:1854
 translate ukrainian fumiko_gal2_361bec69:
@@ -7365,7 +7365,7 @@ translate ukrainian fumiko_gal2_eb0840d5_1:
 translate ukrainian fumiko_gal2_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/fumiko_events.rpy:1906
 translate ukrainian fumiko_gal2_1dac24ad:
@@ -7539,31 +7539,31 @@ translate ukrainian fumiko_gal2_441f3263:
 translate ukrainian fumiko_gal2_122e4f47:
 
     # mc "I'm!-"
-    mc "I'm!-"
+    mc "I'm!-" with cumflash
 
 # game/game/fumiko_events.rpy:1937
 translate ukrainian fumiko_gal2_7c7481c8:
 
     # k "Fufu~{image=corazon}"
-    k "Fufu~{image=corazon}"
+    k "Fufu~{image=corazon}" (multiple=2)
 
 # game/game/fumiko_events.rpy:1938
 translate ukrainian fumiko_gal2_ebfdbb22:
 
     # fu "Hmm?"
-    fu "Hmm?"
+    fu "Hmm?" (multiple=2)
 
 # game/game/fumiko_events.rpy:1945
 translate ukrainian fumiko_gal2_1e8094bc:
 
     # k "Oh my~{image=corazon}{image=corazon}"
-    k "Oh my~{image=corazon}{image=corazon}"
+    k "Oh my~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/fumiko_events.rpy:1946
 translate ukrainian fumiko_gal2_046fa9f7:
 
     # fu "Ah!"
-    fu "Ah!"
+    fu "Ah!" (multiple=2)
 
 # game/game/fumiko_events.rpy:1948
 translate ukrainian fumiko_gal2_d46854c0:
@@ -7629,7 +7629,7 @@ translate ukrainian fumiko_gal2_b6b00521:
 translate ukrainian fumiko_gal2_89c695c0:
 
     # fu "[mc], help me!"
-    fu "[mc], help me!"
+    fu "[mc], help me!" with hpunch
 
 # game/game/fumiko_events.rpy:1964
 translate ukrainian fumiko_gal2_4f77191d:
@@ -7659,7 +7659,7 @@ translate ukrainian fumiko_gal2_dea85be9:
 translate ukrainian fumiko_gal2_9bbf4dc4:
 
     # fu "Wait, what are you doing?!"
-    fu "Wait, what are you doing?!"
+    fu "Wait, what are you doing?!" with hpunch
 
 # game/game/fumiko_events.rpy:1970
 translate ukrainian fumiko_gal2_11455b53_1:
@@ -7713,13 +7713,13 @@ translate ukrainian fumiko_gal2_2b35b6fe_6:
 translate ukrainian fumiko_gal2_2ae6a106:
 
     # mc "If it'll make Fumiko a better goddess, I'll do it!"
-    mc "If it'll make Fumiko a better goddess, I'll do it!"
+    mc "If it'll make Fumiko a better goddess, I'll do it!" with hpunch
 
 # game/game/fumiko_events.rpy:1984
 translate ukrainian fumiko_gal2_6f69fd74:
 
     # fu "[mc]!?"
-    fu "[mc]!?"
+    fu "[mc]!?" with hpunch
 
 # game/game/fumiko_events.rpy:1985
 translate ukrainian fumiko_gal2_2562d36f:
@@ -7737,7 +7737,7 @@ translate ukrainian fumiko_gal2_bccd4b72:
 translate ukrainian fumiko_gal2_297219dc:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-10}Aah!~"
-    fu "{sc=1}{outlinecolor=#000000}{size=-10}Aah!~"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}Aah!~" with hpunch
 
 # game/game/fumiko_events.rpy:1989
 translate ukrainian fumiko_gal2_a6e02e03:
@@ -7761,7 +7761,7 @@ translate ukrainian fumiko_gal2_a4d49e98:
 translate ukrainian fumiko_gal2_2adce4c2:
 
     # fu "A-A goddess cannot- {w}AAahm~{image=corazon}"
-    fu "A-A goddess cannot- {w}AAahm~{image=corazon}"
+    fu "A-A goddess cannot- {w}AAahm~{image=corazon}" with cumflash
 
 # game/game/fumiko_events.rpy:1993
 translate ukrainian fumiko_gal2_47cda37e:
@@ -7815,7 +7815,7 @@ translate ukrainian fumiko_gal2_6011039e:
 translate ukrainian fumiko_gal2_a19dab63:
 
     # fu "I-I never- {w}HNgm~{image=corazon}{image=corazon}"
-    fu "I-I never- {w}HNgm~{image=corazon}{image=corazon}"
+    fu "I-I never- {w}HNgm~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/fumiko_events.rpy:2002
 translate ukrainian fumiko_gal2_0413129a:
@@ -7827,7 +7827,7 @@ translate ukrainian fumiko_gal2_0413129a:
 translate ukrainian fumiko_gal2_7d239613:
 
     # fu "Ah!{image=corazon} D-Did it get harder?"
-    fu "Ah!{image=corazon} D-Did it get harder?"
+    fu "Ah!{image=corazon} D-Did it get harder?" with cumflash
 
 # game/game/fumiko_events.rpy:2004
 translate ukrainian fumiko_gal2_b8dab925:
@@ -7851,7 +7851,7 @@ translate ukrainian fumiko_gal2_5a6733fa:
 translate ukrainian fumiko_gal2_580cc93b:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!" with cumflash
 
 # game/game/fumiko_events.rpy:2008
 translate ukrainian fumiko_gal2_2d607dd0:
@@ -7869,7 +7869,7 @@ translate ukrainian fumiko_gal2_f4a054bb:
 translate ukrainian fumiko_gal2_cc40ff37:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-10}NHgm~{image=corazon}{image=corazon} {w}Aahnm~{image=corazon} {w}I-I can't~{image=corazon}"
-    fu "{sc=1}{outlinecolor=#000000}{size=-10}NHgm~{image=corazon}{image=corazon} {w}Aahnm~{image=corazon} {w}I-I can't~{image=corazon}"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}NHgm~{image=corazon}{image=corazon} {w}Aahnm~{image=corazon} {w}I-I can't~{image=corazon}" with cumflash
 
 # game/game/fumiko_events.rpy:2012
 translate ukrainian fumiko_gal2_4c6b5bb0:
@@ -7881,7 +7881,7 @@ translate ukrainian fumiko_gal2_4c6b5bb0:
 translate ukrainian fumiko_gal2_1c6b5461:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-10}AaAHNhmNHMn~{image=corazon}{image=corazon}"
-    fu "{sc=1}{outlinecolor=#000000}{size=-10}AaAHNhmNHMn~{image=corazon}{image=corazon}"
+    fu "{sc=1}{outlinecolor=#000000}{size=-10}AaAHNhmNHMn~{image=corazon}{image=corazon}" with long_vpunch
 
 # game/game/fumiko_events.rpy:2021
 translate ukrainian fumiko_gal2_c1dff962:

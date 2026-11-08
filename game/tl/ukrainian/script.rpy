@@ -1,3095 +1,3095 @@
-
-# game/game/script.rpy:50
+﻿
+# game/game/script.rpy:56
 translate ukrainian start_a55bd194:
 
     # mc "{i}{size=-6}Why wouldn't I? {w}My name is... [mc]."
     mc "{i}{size=-6}Чого б це ні? {w}Мене звати... [name_form('nom')]."
 
-# game/game/script.rpy:73
+# game/game/script.rpy:79
 translate ukrainian start_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:74
+# game/game/script.rpy:80
 translate ukrainian start_a1ad018b:
 
     # t "{i}{size=-6}What I have... {w}in front of me...?"
     t "{i}{size=-6}Що це... {w}перед моїми очима...?"
 
-# game/game/script.rpy:76
+# game/game/script.rpy:82
 translate ukrainian start_5d8290ef:
 
     # t "What am I..."
     t "Що я..."
 
-# game/game/script.rpy:82
+# game/game/script.rpy:88
 translate ukrainian start_ca22d1de:
 
     # mc "Championship?"
     mc "Чемпіонату?"
 
-# game/game/script.rpy:85
+# game/game/script.rpy:91
 translate ukrainian start_a285ad8b:
 
     # t "A practice sword... {w}my Kendo clothes."
     t "Тренувальний меч... {w}моя форма для кендо."
 
-# game/game/script.rpy:88
+# game/game/script.rpy:94
 translate ukrainian start_094d8640:
 
     # t "I fell asleep in the middle of a fight?"
     t "Я заснув посеред бою?"
 
-# game/game/script.rpy:92
+# game/game/script.rpy:98
 translate ukrainian start_907c90a4:
 
     # audi "You can do it [mc]!"
-    audi "Ти зможеш, [name_form('voc')]!"
+    audi "Ти зможеш, [name_form('voc')]!" with hpunch
 
-# game/game/script.rpy:93
+# game/game/script.rpy:99
 translate ukrainian start_3f871f46:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:95
+# game/game/script.rpy:101
 translate ukrainian start_e83f85d9:
 
     # t "Those voices..."
     t "Знайомі голоси..."
 
-# game/game/script.rpy:96
+# game/game/script.rpy:102
 translate ukrainian start_bd6de789:
 
     # t "Are those the girls from the Kendo club?"
     t "Це дівчата з клубу кендо?"
 
-# game/game/script.rpy:97
+# game/game/script.rpy:103
 translate ukrainian start_433597cd:
 
     # t "They always come to cheer me up, but I don't even remember their names."
     t "Завжди приходять підтримати мене, але я навіть їхніх імен не пам'ятаю."
 
-# game/game/script.rpy:99
+# game/game/script.rpy:105
 translate ukrainian start_7fb49bb6:
 
     # t "I help them sometimes in their classes, but I always refuse their invitations to go out or hang out."
     t "Інколи я допомагаю їм на заняттях, але завжди відмовляюся від їхніх запрошень піти погуляти або потусити."
 
-# game/game/script.rpy:100
+# game/game/script.rpy:106
 translate ukrainian start_50b10901:
 
     # t "Still, they are here."
     t "Попри все, вони вже тут."
 
-# game/game/script.rpy:110
+# game/game/script.rpy:116
 translate ukrainian start_46ad48ab:
 
     # t "Eh? What?"
     t "Га? Що?"
 
-# game/game/script.rpy:112
+# game/game/script.rpy:118
 translate ukrainian start_d9b1fda8:
 
     # audi "{i}{size=-6}This should be the most important fight for the champion."
     audi "{i}{size=-6}Мабуть, це буде найважливішим поєдинком для чемпіона."
 
-# game/game/script.rpy:113
+# game/game/script.rpy:119
 translate ukrainian start_d495ee2b:
 
     # audi "{i}{size=-6}Yes, if he wins, he'll go on to compete internationally."
     audi "{i}{size=-6}Так, якщо він переможе, то візьме участь у міжнародних змаганнях."
 
-# game/game/script.rpy:114
+# game/game/script.rpy:120
 translate ukrainian start_079a2207:
 
     # audi "{i}{size=-6}[mc] has a tough opponent..."
     audi "{i}{size=-6}[name_form('nom')] має грізного суперника..."
 
-# game/game/script.rpy:115
+# game/game/script.rpy:121
 translate ukrainian start_0d2139a9:
 
     # t "The pose, the fact that he hasn't put on his equipment yet {w}and that stupid face."
     t "Його поза, те, що він ще не надів спорядження{w}, і це дурне обличчя."
 
-# game/game/script.rpy:116
+# game/game/script.rpy:122
 translate ukrainian start_7c8fb7f1:
 
     # t "This guy doesn't take me seriously."
     t "Цей хлопець не сприймає мене серйозно."
 
-# game/game/script.rpy:118
+# game/game/script.rpy:124
 translate ukrainian start_37ad2cdb:
 
     # mc "{size=-6}{i}Sigh*"
     mc "{size=-6}{i}*Хааах*"
 
-# game/game/script.rpy:119
+# game/game/script.rpy:125
 translate ukrainian start_f3766b4c:
 
     # t "When was the last time I enjoyed doing this?"
     t "Коли взагалі я востаннє отримував задоволення від цього?"
 
-# game/game/script.rpy:120
+# game/game/script.rpy:126
 translate ukrainian start_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:121
+# game/game/script.rpy:127
 translate ukrainian start_72371b83:
 
     # t "Right... {w}when my mother used to teach me before she passed away."
     t "Точно... {w}коли моя мама навчала мене ще до того, як пішла з життя."
 
-# game/game/script.rpy:122
+# game/game/script.rpy:128
 translate ukrainian start_4fb2101d:
 
     # t "Now this has become nothing more than a way to-"
     t "Тепер це стало не більше ніж способом-"
 
-# game/game/script.rpy:131
+# game/game/script.rpy:137
 translate ukrainian start_3aef8a9b:
 
     # t "Exactly, that's why I entered this tournament..."
     t "Авжеж, саме тому я й узяв участь у цьому турнірі..."
 
-# game/game/script.rpy:133
+# game/game/script.rpy:139
 translate ukrainian start_e953e490:
 
     # t "This is the only way to make easy money to pay for my studies and live comfortably."
     t "Наразі це єдиний спосіб легко заробити гроші, щоб оплатити навчання та жити в достатку."
 
-# game/game/script.rpy:135
+# game/game/script.rpy:141
 translate ukrainian start_5f4206c9:
 
     # t "Without my mother I was left alone, I have no other relatives and my father abandoned us before I was born."
     t "Без мами я залишився повністю сам. У мене немає інших родичів, а батько покинув нас ще до мого народження."
 
-# game/game/script.rpy:136
+# game/game/script.rpy:142
 translate ukrainian start_6d6705af:
 
     # t "Why am I remembering this now? {w}I must concentra-"
     t "Чому це згадалося саме зараз? {w}Мушу зосереди-"
 
-# game/game/script.rpy:141
+# game/game/script.rpy:147
 translate ukrainian start_6db459a0:
 
     # mc "{sc=1}{outlinecolor=#000000}Ggh-"
     mc "{sc=1}{outlinecolor=#000000}Гх-"
 
-# game/game/script.rpy:142
+# game/game/script.rpy:148
 translate ukrainian start_3805b1a3:
 
     # t "M-My head... {w}it hurts..."
     t "Г-Голова... {w}розколюється..."
 
-# game/game/script.rpy:147
+# game/game/script.rpy:153
 translate ukrainian start_b7b3cfc9:
 
     # t "I shouldn't have stayed up late yesterday."
     t "Не варто було вчора засиджуватися до опівночі."
 
-# game/game/script.rpy:148
+# game/game/script.rpy:154
 translate ukrainian start_d42c4e50:
 
     # t "But final exams are so close, I can't waste time..."
     t "Але іспити вже на носі, не можу гаяти час..."
 
-# game/game/script.rpy:149
+# game/game/script.rpy:155
 translate ukrainian start_3f871f46_1:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:151
+# game/game/script.rpy:157
 translate ukrainian start_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:152
+# game/game/script.rpy:158
 translate ukrainian start_95c37e01:
 
     # t "He is saying something... {w}but I don't remember what he said."
     t "Він щось каже... {w}не можу згадати, що саме."
 
-# game/game/script.rpy:153
+# game/game/script.rpy:159
 translate ukrainian start_40d9e3cc:
 
     # t "Hmm? {w}R-Remember? {w}How would I remember something I haven't heard yet."
     t "Гмм? {w}З-Згадати? {w}Як я збираюся згадувати щось, чого ще навіть не чув?"
 
-# game/game/script.rpy:155
+# game/game/script.rpy:161
 translate ukrainian start_717f04e8:
 
     # t "It was the typical phrase of a guy with a very high ego."
     t "Це була типова фраза як на хлопця з роздутим его."
 
-# game/game/script.rpy:156
+# game/game/script.rpy:162
 translate ukrainian start_b78a40de:
 
     # t "And won't anyone say anything to him for that stupid posturing he's doing? {w}I know he wants to impress the jury but..."
     t "І абсолютно ніхто нічого йому не скаже за його дурнувату позу? {w}Розумію, він хоче вразити журі, але..."
 
-# game/game/script.rpy:157
+# game/game/script.rpy:163
 translate ukrainian start_f84e7d0b:
 
     # t "{size=-6}{i}Whatever...{/size} {w}let's get this over with soon."
     t "{size=-6}{i}Біс із ним...{/i}{/size} {w}нумо швидше з цим покінчу."
 
-# game/game/script.rpy:161
+# game/game/script.rpy:167
 translate ukrainian start_32684e28:
 
     # t "After his lower attack, he will feint at me and leave his guard unprotected."
     t "Після удару знизу він зробить випад у мій бік і залишить дірку у своїй обороні."
 
-# game/game/script.rpy:163
+# game/game/script.rpy:169
 translate ukrainian start_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:164
+# game/game/script.rpy:170
 translate ukrainian start_686a7437:
 
     # t "Why do I talk as if I know what he will do...?"
     t "Чому це я говорю так, ніби знаю, що він зробить...?"
 
-# game/game/script.rpy:175
+# game/game/script.rpy:181
 translate ukrainian start_4906bc2b:
 
     # "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}...!?"
     "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}...!?"
 
-# game/game/script.rpy:180
+# game/game/script.rpy:186
 translate ukrainian start_a23cb972:
 
     # "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}Haaaa!"
     "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}Хаааа!"
 
-# game/game/script.rpy:195
+# game/game/script.rpy:201
 translate ukrainian start_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:196
+# game/game/script.rpy:202
 translate ukrainian start_27d89e96:
 
     # "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}{i}W-What just happened?"
     "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}{i}Щ-Що трапилося?"
 
-# game/game/script.rpy:197
+# game/game/script.rpy:203
 translate ukrainian start_54e7df3b:
 
     # t "I feel like this... has already happened...."
     t "Здається мені, що це... вже колись відбулося..."
 
-# game/game/script.rpy:198
+# game/game/script.rpy:204
 translate ukrainian start_7e4f9b51:
 
     # t "I must be too tired, I'd better go home..."
     t "Мабуть, я надто втомився, варто вертатися додому..."
 
-# game/game/script.rpy:203
+# game/game/script.rpy:209
 translate ukrainian start_133864ed:
 
     # mc "Hmm? {w=0.5}Mmm..."
     mc "Гмм? {w=0.5}Ммм..."
 
-# game/game/script.rpy:205
+# game/game/script.rpy:211
 translate ukrainian start_284dc19a:
 
     # mc "Thank you for inviting me."
     mc "Дякую Вам за запрошення."
 
-# game/game/script.rpy:210
+# game/game/script.rpy:216
 translate ukrainian start_76191351:
 
     # "{color=#F4CDA1}{i}This is not fair! It's impossible for him to win!"
-    "{color=#F4CDA1}{i}Не чесно! Він просто не міг перемогти!"
+    "{color=#F4CDA1}{i}Не чесно! Він просто не міг перемогти!" with vpunch
 
-# game/game/script.rpy:211
+# game/game/script.rpy:217
 translate ukrainian start_321d21ea:
 
     # "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}{i}I'm sure he cheated!"
-    "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}{i}Впевнений, він махлював!"
+    "{sc=1}{outlinecolor=#000000}{color=#F4CDA1}{i}Впевнений, він махлював!" with hpunch
 
-# game/game/script.rpy:212
+# game/game/script.rpy:218
 translate ukrainian start_1852ad28:
 
     # audi "{size=-8}No way, what a bad loser."
     audi "{size=-8}Оце так, який же невдаха."
 
-# game/game/script.rpy:214
+# game/game/script.rpy:220
 translate ukrainian start_ad4d7c7a:
 
     # audi "{size=-8}I always found it pathetic the way he fought, he didn't respect his opponents..."
     audi "{size=-8}Я завжди вважав жалюгідним його стиль бою, він ніколи не поважав суперників..."
 
-# game/game/script.rpy:215
+# game/game/script.rpy:221
 translate ukrainian start_9ce7c2bb:
 
     # audi "{size=-8}He cheated? We all saw how you got your ass kicked."
     audi "{size=-8}Він махлював? Ми всі бачили, як тобі натовкли сраку."
 
-# game/game/script.rpy:216
+# game/game/script.rpy:222
 translate ukrainian start_e675c0b2:
 
     # "{color=#F4CDA1}{i}This fucker, he ruined everything!"
     "{color=#F4CDA1}{i}Цей вишкребок, він усе зруйнував!"
 
-# game/game/script.rpy:217
+# game/game/script.rpy:223
 translate ukrainian start_4c9e5605:
 
     # "{color=#F4CDA1}{i}My money, my fame!"
     "{color=#F4CDA1}{i}Мої гроші, моя слава!"
 
-# game/game/script.rpy:219
+# game/game/script.rpy:225
 translate ukrainian start_05ac7043:
 
     # "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}My future."
     "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}Моє майбутнє."
 
-# game/game/script.rpy:221
+# game/game/script.rpy:227
 translate ukrainian start_878e0b1e:
 
     # "{color=#A2A9C9}[mc]! You were awesome!"
     "{color=#A2A9C9}[name_form('voc')]! Ти був неймовірним!"
 
-# game/game/script.rpy:222
+# game/game/script.rpy:228
 translate ukrainian start_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:224
+# game/game/script.rpy:230
 translate ukrainian start_cae22b6c:
 
     # mc "Oh... {w}club president."
     mc "Ох... {w}президентко клубу."
 
-# game/game/script.rpy:225
+# game/game/script.rpy:231
 translate ukrainian start_d0883dc4:
 
     # "{color=#A2A9C9}Me and the girls were screaming at the top of our lungs!"
     "{color=#A2A9C9}Я та інші дівчата кричали щосили у твою підтримку!"
 
-# game/game/script.rpy:226
+# game/game/script.rpy:232
 translate ukrainian start_ca9d9bf1:
 
     # "{color=#7D666F}You taught that rich crybaby a lesson!"
     "{color=#7D666F}Ти добряче провчив того багатого плаксія!"
 
-# game/game/script.rpy:228
+# game/game/script.rpy:234
 translate ukrainian start_d2efecf2:
 
     # mc "Thank you..."
     mc "Дякую..."
 
-# game/game/script.rpy:229
+# game/game/script.rpy:235
 translate ukrainian start_6411aae5:
 
     # "{color=#A2A9C9}Uhm... {w}do you have anything to do after the awards ceremony?"
     "{color=#A2A9C9}Угм... {w}у тебе є якісь плани після церемонії нагородження?"
 
-# game/game/script.rpy:230
+# game/game/script.rpy:236
 translate ukrainian start_dd9229c0:
 
     # "{color=#A2A9C9}Because if you want... {w}{size=-6}we can all go celebrate together..."
     "{color=#A2A9C9}Адже якщо ти хочеш... {w}{size=-6}ми всі можемо відсвяткувати разом..."
 
-# game/game/script.rpy:231
+# game/game/script.rpy:237
 translate ukrainian start_82d20a35:
 
     # "{color=#7D666F}{size=-8}{i}You can do it president!"
-    "{color=#7D666F}{size=-8}{i}У тебе все вийде, президентко!"
+    "{color=#7D666F}{size=-8}{i}У тебе все вийде, президентко!" with vpunch
 
-# game/game/script.rpy:233
+# game/game/script.rpy:239
 translate ukrainian start_8e862ce5:
 
     # "{color=#956F7B}Shh!"
     "{color=#956F7B}Тсс!"
 
-# game/game/script.rpy:234
+# game/game/script.rpy:240
 translate ukrainian start_8ab9b498:
 
     # t "I don't think I can... {w}I have to go to study and-"
     t "Не думаю, що зможу... {w}Мені треба повертатися до навчання і-"
 
-# game/game/script.rpy:235
+# game/game/script.rpy:241
 translate ukrainian start_e0767b5c:
 
     # "{sc=1}{outlinecolor=#000000}{size=-8}Hey! What are you doing? Put that down!"
     "{sc=1}{outlinecolor=#000000}{size=-8}Гей! Що ти робиш? Поклади на місце!"
 
-# game/game/script.rpy:236
+# game/game/script.rpy:242
 translate ukrainian start_3f871f46_2:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:237
+# game/game/script.rpy:243
 translate ukrainian start_0e405d61:
 
     # t "What's going on over there?"
     t "Що там відбувається?"
 
-# game/game/script.rpy:240
+# game/game/script.rpy:246
 translate ukrainian start_e8a41497:
 
     # "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-8}It's his fault..."
     "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-8}Це його провина..."
 
-# game/game/script.rpy:241
+# game/game/script.rpy:247
 translate ukrainian start_d1b12b1e:
 
     # "P-Put that down, it's dangerous!"
-    "П-Поклади на місце, це небезпечно!"
+    "П-Поклади на місце, це небезпечно!" with hpunch
 
-# game/game/script.rpy:242
+# game/game/script.rpy:248
 translate ukrainian start_f3b5cdd0:
 
     # "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-8}It's all..."
     "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-8}Це все..."
 
-# game/game/script.rpy:247
+# game/game/script.rpy:253
 translate ukrainian start_7a341582:
 
     # "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-5}His fault!"
-    "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-5}Його провина!"
+    "{sc=2}{outlinecolor=#000000}{color=#F4CDA1}{i}{size=-5}Його провина!" with hpunch
 
-# game/game/script.rpy:249
+# game/game/script.rpy:255
 translate ukrainian start_ef66cb4e:
 
     # "{color=#A2A9C9}{size=-6}What do you say?"
     "{color=#A2A9C9}{size=-6}Що скажеш?"
 
-# game/game/script.rpy:250
+# game/game/script.rpy:256
 translate ukrainian start_dc28d84a:
 
     # t "That guy, what is he doing?!"
     t "Той хлопець, що це він робить?!"
 
-# game/game/script.rpy:255
+# game/game/script.rpy:261
 translate ukrainian start_d686c40d:
 
     # mc "{sc=2}{outlinecolor=#000000}Move!"
-    mc "{sc=2}{outlinecolor=#000000}Тікайте!"
+    mc "{sc=2}{outlinecolor=#000000}Тікайте!" (multiple=2)
 
-# game/game/script.rpy:256
+# game/game/script.rpy:262
 translate ukrainian start_3c7eccd8:
 
     # "{color=#A2A9C9}Eh?"
-    "{color=#A2A9C9}Ех?"
+    "{color=#A2A9C9}Ех?" (multiple=2)
 
-# game/game/script.rpy:262
+# game/game/script.rpy:268
 translate ukrainian start_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:263
+# game/game/script.rpy:269
 translate ukrainian start_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:264
+# game/game/script.rpy:270
 translate ukrainian start_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:268
+# game/game/script.rpy:274
 translate ukrainian start_092824ec:
 
     # t "I see..."
     t "Зрозуміло..."
 
-# game/game/script.rpy:269
+# game/game/script.rpy:275
 translate ukrainian start_76eefd59:
 
     # t "Now everything makes sense."
     t "Тепер усе стало на свої місця."
 
-# game/game/script.rpy:271
+# game/game/script.rpy:277
 translate ukrainian start_682f81a1:
 
     # t "The only thing appearing before my eyes... {w}is how I died?"
     t "Єдине, що постає перед моїми очима... {w}— це те, як я помер?"
 
-# game/game/script.rpy:272
+# game/game/script.rpy:278
 translate ukrainian start_f2698006:
 
     # t "No memories of my mother, no happy moments... {w}{sc=2}{outlinecolor=#000000}nothing."
     t "Жодного спогаду про маму, жодного щасливого моменту... {w}{sc=2}{outlinecolor=#000000}Нічого."
 
-# game/game/script.rpy:273
+# game/game/script.rpy:279
 translate ukrainian start_654a8ec7:
 
     # t "It's as if my entire life was just an empty fog."
     t "Ніби все моє життя було порожнім туманом."
 
-# game/game/script.rpy:278
+# game/game/script.rpy:284
 translate ukrainian start_3ebdb8a6:
 
     # t "Just a replay of my final moments..."
     t "Лише повтор моїх останніх хвилин життя..."
 
-# game/game/script.rpy:279
+# game/game/script.rpy:285
 translate ukrainian start_4758b817:
 
     # t "My life... {w}it was so meaningless. How did I let it become like this?"
     t "Моє життя... {w}воно було таким безглуздим. Як я дозволив, щоб усе дійшло до цього?"
 
-# game/game/script.rpy:280
+# game/game/script.rpy:286
 translate ukrainian start_6c534f0d:
 
     # t "Always waiting for the future to bring something better, but I never did anything to change things."
     t "Завжди очікував, що майбутнє принесе щось краще, але я ніколи й пальцем не вдарив, аби щось змінити."
 
-# game/game/script.rpy:285
+# game/game/script.rpy:291
 translate ukrainian start_ce672d81:
 
     # t "Why didn't I truly live? {w}Why didn't I take chances, seize opportunities, find someone who mattered to me?"
     t "Чому я ніколи не жив по-справжньому? {w}Чому я не намагався, не користувався нагодами, не знайшов когось важливого для себе?"
 
-# game/game/script.rpy:287
+# game/game/script.rpy:293
 translate ukrainian start_e3b7d0f4:
 
     # t "And now, what's left? Only this feeling of emptiness..."
     t "А тепер що залишилося? Лише це відчуття порожнечі..."
 
-# game/game/script.rpy:288
+# game/game/script.rpy:294
 translate ukrainian start_23604bb6:
 
     # t "But there's no time. It's all over, and now all I have are memories of a life I never truly lived."
     t "Але час вичерпано. Все скінчено, і тепер усе, що я маю — спогади про життя, якого я так і не прожив по-справжньому."
 
-# game/game/script.rpy:289
+# game/game/script.rpy:295
 translate ukrainian start_cc4b8602:
 
     # t "Who knew I would think of these things only at the moment of my death..."
     t "Хто ж знав, що я думатиму про такі речі лише в момент своєї смерті..."
 
-# game/game/script.rpy:290
+# game/game/script.rpy:296
 translate ukrainian start_8840414e:
 
     # mc "{size=-6}Hahaha..."
     mc "{size=-6}Хахаха..."
 
-# game/game/script.rpy:291
+# game/game/script.rpy:297
 translate ukrainian start_ea1a0886:
 
     # t "So simple is human life..."
     t "Таке просте людське життя..."
 
-# game/game/script.rpy:293
+# game/game/script.rpy:299
 translate ukrainian start_59862ee8:
 
     # t "In that moment, I acted without thinking about what it would cost me..."
     t "У той момент я діяв без найменшої думки, у що це мені обійшлося б..."
 
-# game/game/script.rpy:294
+# game/game/script.rpy:300
 translate ukrainian start_4c6f8bdd:
 
     # t "I didn't even learn her name, {w}but I gave my life for her."
     t "Я навіть не запам'ятав її ім'я, {w}але віддав своє життя за неї."
 
-# game/game/script.rpy:296
+# game/game/script.rpy:302
 translate ukrainian start_e4be6021:
 
     # mc "Sigh*"
     mc "{i}*Хааах*{/i}"
 
-# game/game/script.rpy:297
+# game/game/script.rpy:303
 translate ukrainian start_acd643b9:
 
     # t "If I had to die for something... I'm glad it was to protect someone else."
     t "Якщо мені судилося померти за щось... Я радий, що це було, аби захистити когось."
 
-# game/game/script.rpy:299
+# game/game/script.rpy:305
 translate ukrainian start_0798e231:
 
     # t "{sc=1}{outlinecolor=#000000}{i}I have no regrets..."
     t "{sc=1}{outlinecolor=#000000}{i}Я ні про що не шкодую..."
 
-# game/game/script.rpy:302
+# game/game/script.rpy:308
 translate ukrainian start_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/script.rpy:303
+# game/game/script.rpy:309
 translate ukrainian start_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:304
+# game/game/script.rpy:310
 translate ukrainian start_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:315
+# game/game/script.rpy:321
 translate ukrainian start_3360fa9f:
 
     # mc "Just 5 more minutes..."
     mc "Ще 5 хвилин..."
 
-# game/game/script.rpy:316
+# game/game/script.rpy:322
 translate ukrainian start_a8dd8215:
 
     # m "No 5 more minutes, get up now~~"
     m "Ніяких 5 хвилин, нумо вставай~~"
 
-# game/game/script.rpy:317
+# game/game/script.rpy:323
 translate ukrainian start_ab1ac4d6:
 
     # mc "Yeah... ye-"
     mc "Так... та-"
 
-# game/game/script.rpy:318
+# game/game/script.rpy:324
 translate ukrainian start_c16ed4c8:
 
     # m "If you don't wake up {w}I'm going to pinch you."
     m "Якщо зараз же не прокинешся, {w}я тебе вщипну."
 
-# game/game/script.rpy:319
+# game/game/script.rpy:325
 translate ukrainian start_5fe08659:
 
     # mc "{sc=1}{outlinecolor=#000000}{i}ZzZ..."
     mc "{sc=1}{outlinecolor=#000000}{i}ХррРр..."
 
-# game/game/script.rpy:320
+# game/game/script.rpy:326
 translate ukrainian start_aaa97cfa:
 
     # m "I warned you... Fufu~{image=corazon}"
     m "Я тебе попередила... Хуху~{image=corazon}"
 
-# game/game/script.rpy:323
+# game/game/script.rpy:329
 translate ukrainian start_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:324
+# game/game/script.rpy:330
 translate ukrainian start_d905d731:
 
     # m "Fufu... you finally woke up."
     m "Хуху... нарешті прокинувся."
 
-# game/game/script.rpy:325
+# game/game/script.rpy:331
 translate ukrainian start_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:326
+# game/game/script.rpy:332
 translate ukrainian start_608709bd:
 
     # m "What's wrong? The cat got your tongue?"
     m "Що таке? Язика проковтнув?"
 
-# game/game/script.rpy:327
+# game/game/script.rpy:333
 translate ukrainian start_d09e2509:
 
     # mc "Amazing."
     mc "Неймовірно."
 
-# game/game/script.rpy:332
+# game/game/script.rpy:338
 translate ukrainian start_edfefbce:
 
     # m "Mmm?"
     m "Ммм?"
 
-# game/game/script.rpy:333
+# game/game/script.rpy:339
 translate ukrainian start_3559eb99:
 
     # t "Are my eyes alright? Is there a beautiful girl above me?"
     t "Мої очі мені не брешуть? Гарна дівчина прямо наді мною?"
 
-# game/game/script.rpy:334
+# game/game/script.rpy:340
 translate ukrainian start_efa14ae0:
 
     # t "And she has {w}wings?"
     t "І в неї {w}крила?"
 
-# game/game/script.rpy:335
+# game/game/script.rpy:341
 translate ukrainian start_7d939a4e:
 
     # t "Why do I feel more excited than surprised?"
     t "Чому я почуваюся більше збуджено аніж здивовано?"
 
-# game/game/script.rpy:337
+# game/game/script.rpy:343
 translate ukrainian start_b1b6e5f3:
 
     # m "Hey! {w}Hello handsome."
     m "Гей! {w}Привіт, красунчику."
 
-# game/game/script.rpy:338
+# game/game/script.rpy:344
 translate ukrainian start_c7f1d094:
 
     # mc "A-An angel?"
     mc "Я-Янгол?"
 
-# game/game/script.rpy:339
+# game/game/script.rpy:345
 translate ukrainian start_0be31bc1:
 
     # m "Welcome back, I thought you'd never open your eyes."
     m "З поверненням! Гадала, ти вже ніколи не розплющиш свої оченята."
 
-# game/game/script.rpy:340
+# game/game/script.rpy:346
 translate ukrainian start_328ad917:
 
     # mc "What is... this place?"
     mc "Що це... за місце?"
 
-# game/game/script.rpy:341
+# game/game/script.rpy:347
 translate ukrainian start_6a8ab4ff:
 
     # mc "Why can't I feel my body?"
     mc "Чому я не відчуваю свого тіла?"
 
-# game/game/script.rpy:342
+# game/game/script.rpy:348
 translate ukrainian start_1d6352d1:
 
     # m "I know you have many questions and I'll ans-"
     m "Знаю, у тебе багато питань, і я відпо-"
 
-# game/game/script.rpy:343
+# game/game/script.rpy:349
 translate ukrainian start_e612037c:
 
     # m "..."
     m "..."
 
-# game/game/script.rpy:345
+# game/game/script.rpy:351
 translate ukrainian start_fb4df942:
 
     # m "Uhm... {w}{i}Fufu~{image=corazon} "
     m "Ухм... {w}{i}Хуху~{image=corazon} "
 
-# game/game/script.rpy:346
+# game/game/script.rpy:352
 translate ukrainian start_f2b290ee:
 
     # m "Are you sure you don't feel your body...?"
     m "Ти впевнений, що нічого не відчуваєш...?"
 
-# game/game/script.rpy:347
+# game/game/script.rpy:353
 translate ukrainian start_ac504d82:
 
     # mc "Yes, it's like I'm asleep all {size=-6}the way from my neck-"
     mc "Так, ніби все моє тіло сонне, {size=-6}починаючи аж з шиї-"
 
-# game/game/script.rpy:349
+# game/game/script.rpy:355
 translate ukrainian start_67f90881:
 
     # mc "{size=-6}-to my {size=-8}{w}feet..."
     mc "{size=-6}-й до самих {size=-8}{w}п'ят..."
 
-# game/game/script.rpy:350
+# game/game/script.rpy:356
 translate ukrainian start_e4787410:
 
     # mc "{size=-8}Oh..."
     mc "{size=-8}Ох..."
 
-# game/game/script.rpy:352
+# game/game/script.rpy:358
 translate ukrainian start_2d6eb769:
 
     # mc "{sc=1}{outlinecolor=#000000}W-Wait!"
     mc "{sc=1}{outlinecolor=#000000}З-Зажди!"
 
-# game/game/script.rpy:355
+# game/game/script.rpy:361
 translate ukrainian start_83375684:
 
     # mc "{sc=2}{outlinecolor=#000000}I-It's not what it looks like!"
     mc "{sc=2}{outlinecolor=#000000}Ц-Це не те, чим здається!"
 
-# game/game/script.rpy:357
+# game/game/script.rpy:363
 translate ukrainian start_0f3abe46:
 
     # m "Calm down, it's a natural reaction."
     m "Заспокойся, це природна реакція."
 
-# game/game/script.rpy:358
+# game/game/script.rpy:364
 translate ukrainian start_1241ac69:
 
     # m "{size=-8}But I didn't think it would be that big..."
     m "{size=-8}Проте, не думала, що він буде настільки великим..."
 
-# game/game/script.rpy:359
+# game/game/script.rpy:365
 translate ukrainian start_8be7a0b3:
 
     # mc "Did you say something?"
     mc "Ти щось сказала?"
 
-# game/game/script.rpy:361
+# game/game/script.rpy:367
 translate ukrainian start_34b3a897:
 
     # m "Ah, nothing~~{image=corazon}"
     m "Ах, нічого~~{image=corazon}"
 
-# game/game/script.rpy:362
+# game/game/script.rpy:368
 translate ukrainian start_639abb1e:
 
     # m "Do you think you can get up?"
     m "Як гадаєш, зможеш підвестися?"
 
-# game/game/script.rpy:363
+# game/game/script.rpy:369
 translate ukrainian start_a90424f0:
 
     # m "So, we don't get so {w}distracted...{image=corazon}"
     m "Аби ми так сильно не {w}відволікалися...{image=corazon}"
 
-# game/game/script.rpy:365
+# game/game/script.rpy:371
 translate ukrainian start_4982c21e:
 
     # m "If you do, {w}I'll answer whatever you want..."
     m "Якщо зможеш, {w}відповім на будь-яке твоє питання..."
 
-# game/game/script.rpy:366
+# game/game/script.rpy:372
 translate ukrainian start_a04e7b68:
 
     # mc "O-Ok..."
     mc "Г-Гаразд..."
 
-# game/game/script.rpy:371
+# game/game/script.rpy:377
 translate ukrainian start_0355547f:
 
     # "{i}You take a deep breath and focus as much as you can on each limb of your body."
     "{i}Ти робиш глибокий подих та чимдуж фокусуєшся на кожній зі своїх кінцівок."
 
-# game/game/script.rpy:372
+# game/game/script.rpy:378
 translate ukrainian start_88adf6b3:
 
     # "{i}At the same time, you manage to make your erection go away."
     "{i}Разом з тим тобі вдається придушити власну ерекцію."
 
-# game/game/script.rpy:373
+# game/game/script.rpy:379
 translate ukrainian start_16695ec9:
 
     # m "{size=-7}Ah~{image=corazon} what a shame..."
     m "{size=-7}Ах~{image=corazon} як шкода..."
 
-# game/game/script.rpy:375
+# game/game/script.rpy:381
 translate ukrainian start_9f333642:
 
     # mc "The cut... {w}and the blood disappeared."
     mc "Поріз... {w}і кров повністю зникли."
 
-# game/game/script.rpy:376
+# game/game/script.rpy:382
 translate ukrainian start_783c5633:
 
     # mc "And when did I change my clothes?"
     mc "І коли це я перевдягнувся?"
 
-# game/game/script.rpy:377
+# game/game/script.rpy:383
 translate ukrainian start_b59add5e:
 
     # m "How do you feel?"
     m "Як почуваєшся?"
 
-# game/game/script.rpy:379
+# game/game/script.rpy:385
 translate ukrainian start_014d4242:
 
     # mc "Better."
     mc "Краще."
 
-# game/game/script.rpy:380
+# game/game/script.rpy:386
 translate ukrainian start_912af5eb:
 
     # mc "My body feels very light and my vision is a little blurry."
     mc "Тіло наче пір'їнка, але перед очима все трохи розмито."
 
-# game/game/script.rpy:381
+# game/game/script.rpy:387
 translate ukrainian start_01ae7074:
 
     # mc "But more than anything, I'm very... {w}confused."
     mc "Але насамперед я досить... {w}спантеличений."
 
-# game/game/script.rpy:403
+# game/game/script.rpy:409
 translate ukrainian choice1_2e200f54:
 
     # m "I'm Keiko."
     m "Мене звати Кейко."
 
-# game/game/script.rpy:404
+# game/game/script.rpy:410
 translate ukrainian choice1_6a253736:
 
     # k "As you can see, I'm a goddess."
     k "Як бачиш, я — богиня."
 
-# game/game/script.rpy:405
+# game/game/script.rpy:411
 translate ukrainian choice1_06275d9e:
 
     # t "Ah she was a goddess, not an angel."
     t "Ах, то вона богиня, а не янгол."
 
-# game/game/script.rpy:406
+# game/game/script.rpy:412
 translate ukrainian choice1_22a8485d:
 
     # t "Not that I would know anyway, I've never seen one before."
     t "Не те щоб я загалом знав — ніколи не бачив таких у своєму житті."
 
-# game/game/script.rpy:407
+# game/game/script.rpy:413
 translate ukrainian choice1_a8947712:
 
     # t "But... {w}that would explain her immense..."
     t "Однак... {w}це б пояснило її величезні..."
 
-# game/game/script.rpy:409
+# game/game/script.rpy:415
 translate ukrainian choice1_018c4475:
 
     # mc "Beauty..."
     mc "Красу..."
 
-# game/game/script.rpy:410
+# game/game/script.rpy:416
 translate ukrainian choice1_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:411
+# game/game/script.rpy:417
 translate ukrainian choice1_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:412
+# game/game/script.rpy:418
 translate ukrainian choice1_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:414
+# game/game/script.rpy:420
 translate ukrainian choice1_ff5f936d:
 
     # k "Is something wrong?~{image=corazon}"
     k "Щось не так?~{image=corazon}"
 
-# game/game/script.rpy:415
+# game/game/script.rpy:421
 translate ukrainian choice1_5d5b9ee6:
 
     # mc "I-I have more questions!"
-    mc "У-У мене є ще питання!"
+    mc "У-У мене є ще питання!" with hpunch
 
-# game/game/script.rpy:423
+# game/game/script.rpy:429
 translate ukrainian choice2_f3bbc0a2:
 
     # mc "What happened after that guy attacked me? {w}Is the girl okay?"
     mc "Що трапилося після того, як той хлопець напав на мене? {w}З дівчатами все гаразд?"
 
-# game/game/script.rpy:425
+# game/game/script.rpy:431
 translate ukrainian choice2_0eeb8966:
 
     # k "Wait, {w}are you telling me that you kept your memories?"
     k "Стривай, {w}ти кажеш, що не втратив власних спогадів?"
 
-# game/game/script.rpy:426
+# game/game/script.rpy:432
 translate ukrainian choice2_4b9c3375:
 
     # t "Then it's true..."
     t "Отже, це все було насправді..."
 
-# game/game/script.rpy:427
+# game/game/script.rpy:433
 translate ukrainian choice2_4d5a3851:
 
     # mc "Is that a bad thing?"
     mc "А це погано?"
 
-# game/game/script.rpy:429
+# game/game/script.rpy:435
 translate ukrainian choice2_1931869d:
 
     # k "No no, that's amazing! A soul who remembers his past life couldn't be more interesting!"
     k "Ні-ні, це дивовижно! Душа, яка пам'ятає своє минуле життя, — це найцікавіше, що тільки може бути!"
 
-# game/game/script.rpy:430
+# game/game/script.rpy:436
 translate ukrainian choice2_6cad4a2d:
 
     # mc "Soul..."
     mc "Душа..."
 
-# game/game/script.rpy:432
+# game/game/script.rpy:438
 translate ukrainian choice2_73522469:
 
     # k "Oh yeah...{w} you just died."
     k "А, так...{w} ти ж щойно помер."
 
-# game/game/script.rpy:433
+# game/game/script.rpy:439
 translate ukrainian choice2_bc056495:
 
     # k "I know you're scared, and you don't under-"
     k "Знаю, ти наляканий й не можеш зрозу-"
 
-# game/game/script.rpy:434
+# game/game/script.rpy:440
 translate ukrainian choice2_eaba9da2:
 
     # mc "I didn't think anyone could lose their sanity enough to do that."
     mc "Не думав, що хтось здатний настільки зійти з розуму, аби вчинити таке."
 
-# game/game/script.rpy:435
+# game/game/script.rpy:441
 translate ukrainian choice2_ed4acfde:
 
     # mc "I hope that guy didn't attack anyone else."
     mc "Сподіваюся той хлопець більше ні на кого не напав."
 
-# game/game/script.rpy:436
+# game/game/script.rpy:442
 translate ukrainian choice2_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:438
+# game/game/script.rpy:444
 translate ukrainian choice2_f9e188b5:
 
     # k "You don't look so worried."
     k "По тобі не скажеш, що ти стурбований."
 
-# game/game/script.rpy:439
+# game/game/script.rpy:445
 translate ukrainian choice2_e85fd405:
 
     # mc "Well, it's not something that's easy to grasp."
     mc "Ну, те, що відбулося, точно не так легко усвідомити."
 
-# game/game/script.rpy:440
+# game/game/script.rpy:446
 translate ukrainian choice2_4f7ba3ad:
 
     # mc "But what else can I do? All of this is a consequence of my actions."
     mc "Але що ще я можу? Все це — наслідки моїх дій."
 
-# game/game/script.rpy:441
+# game/game/script.rpy:447
 translate ukrainian choice2_01738e52:
 
     # t "Besides, how else would I react? {w}I never act the way people expect me to act."
     t "До того ж як ще мені реагувати? {w}Я ніколи не дію так, як від мене очікують цього інші."
 
-# game/game/script.rpy:442
+# game/game/script.rpy:448
 translate ukrainian choice2_48ce4bcf:
 
     # t "When my mother died, I didn't shed a single tear."
     t "Коли моя мама померла, я навіть єдиної сльози не пролив."
 
-# game/game/script.rpy:443
+# game/game/script.rpy:449
 translate ukrainian choice2_f10f47c8:
 
     # t "All the people at the funeral thought maybe I was crazy."
     t "Кожен, хто був на похороні, гадав, що я, певно, збожеволів."
 
-# game/game/script.rpy:444
+# game/game/script.rpy:450
 translate ukrainian choice2_67b67c20:
 
     # t "But at that time... {w}I still didn't believe it was true..."
     t "Але я тоді... {w}Я досі ніяк не можу повірити в це..."
 
-# game/game/script.rpy:446
+# game/game/script.rpy:452
 translate ukrainian choice2_b2ebca0f:
 
     # k "Hmm... you're quite interesting~{image=corazon}"
     k "Гмм... ти досить цікавий~{image=corazon}"
 
-# game/game/script.rpy:453
+# game/game/script.rpy:459
 translate ukrainian choice3_d341971e:
 
     # k "This would be a part of what you call heaven."
     k "Це можна вважати частиною того, що ви звете раєм."
 
-# game/game/script.rpy:454
+# game/game/script.rpy:460
 translate ukrainian choice3_c585a0b1:
 
     # mc "A part? {w}Why?"
     mc "Частиною? {w}Чому?"
 
-# game/game/script.rpy:455
+# game/game/script.rpy:461
 translate ukrainian choice3_8a2ec85e:
 
     # k "Yes, {w}this place was made by me, it lasts as long as I wish."
     k "Так, {w}я зробила це місце, і воно існує стільки, скільки я забажаю."
 
-# game/game/script.rpy:456
+# game/game/script.rpy:462
 translate ukrainian choice3_2783a7a0:
 
     # k "You know, {w}it's not widely accepted among gods to interfere with mortals..."
     k "Знаєш, {w}серед богів не є прийнятним втручатися в життя смертних..."
 
-# game/game/script.rpy:458
+# game/game/script.rpy:464
 translate ukrainian choice3_a9a834f4:
 
     # k "But I wanted to talk to you face to face~{image=corazon}"
     k "Але я хотіла поговорити з тобою віч-на-віч~{image=corazon}"
 
-# game/game/script.rpy:459
+# game/game/script.rpy:465
 translate ukrainian choice3_cb0f31f1:
 
     # mc "{size=-6}{i}Gulp*"
     mc "{size=-6}{i}*Ковть*"
 
-# game/game/script.rpy:460
+# game/game/script.rpy:466
 translate ukrainian choice3_f57ff4ce:
 
     # mc "W-Why me?"
     mc "Ч-Чому саме зі мною?"
 
-# game/game/script.rpy:462
+# game/game/script.rpy:468
 translate ukrainian choice3_d2265712:
 
     # k "Because I was watching you."
     k "Тому що я спостерігала за тобою."
 
-# game/game/script.rpy:463
+# game/game/script.rpy:469
 translate ukrainian choice3_b530de1f:
 
     # k "You saved that girl without even thinking about it!"
     k "Ти врятував ту дівчину, навіть на секунду не замислюючись!"
 
-# game/game/script.rpy:465
+# game/game/script.rpy:471
 translate ukrainian choice3_0b7a2a12:
 
     # k "And when I felt your soul, {w}you had no regret about your action."
     k "І коли я відчула твою душу, {w}ти зовсім не шкодував про свій вчинок."
 
-# game/game/script.rpy:466
+# game/game/script.rpy:472
 translate ukrainian choice3_7bc534df:
 
     # k "I couldn't pass up the opportunity to meet someone like you."
     k "Я не могла впустити можливість зустрітися з кимось на кшталт тебе."
 
-# game/game/script.rpy:467
+# game/game/script.rpy:473
 translate ukrainian choice3_58c20ba2:
 
     # k "And I wanted to know what kind of person you were."
     k "Мені хотілося знати, якою ти був людиною."
 
-# game/game/script.rpy:468
+# game/game/script.rpy:474
 translate ukrainian choice3_7a1b05db:
 
     # mc "Stop, you flatter me."
     mc "Припини, ти мені лестиш."
 
-# game/game/script.rpy:470
+# game/game/script.rpy:476
 translate ukrainian choice3_5ea540e9:
 
     # k "{size=-8}And I was bored..."
     k "{size=-8}Та і я нудьгувала тоді..."
 
-# game/game/script.rpy:471
+# game/game/script.rpy:477
 translate ukrainian choice3_11455b53:
 
     # mc "What?"
     mc "Що?"
 
-# game/game/script.rpy:478
+# game/game/script.rpy:484
 translate ukrainian choice4_75b0e01e:
 
     # mc "Well thanks for answering my questions."
     mc "Що ж, дякую за відповіді."
 
-# game/game/script.rpy:479
+# game/game/script.rpy:485
 translate ukrainian choice4_02028834:
 
     # mc "I didn't think a goddess would take the time to talk to me."
     mc "Не думав, що богиня виділить свій час на балачки зі мною."
 
-# game/game/script.rpy:480
+# game/game/script.rpy:486
 translate ukrainian choice4_0154605c:
 
     # mc "I'll take this as a reward for my action."
     mc "Вважатиму це своєю винагородою за вчинки."
 
-# game/game/script.rpy:482
+# game/game/script.rpy:488
 translate ukrainian choice4_31b4e5c7:
 
     # t "Who would have thought that my life would end like this."
     t "Хто б міг подумати, що моє життя закінчиться ось так."
 
-# game/game/script.rpy:483
+# game/game/script.rpy:489
 translate ukrainian choice4_223ec4d5:
 
     # t "In the blink of an eye."
     t "У мить ока."
 
-# game/game/script.rpy:484
+# game/game/script.rpy:490
 translate ukrainian choice4_c84581c8:
 
     # t "And I spent my whole life studying and training... pushing people away."
     t "І все життя я провів навчаючись та тренуючись... відштовхуючи людей довкола."
 
-# game/game/script.rpy:485
+# game/game/script.rpy:491
 translate ukrainian choice4_5be15508:
 
     # t "What was the meaning of my life?"
     t "Який був сенс у моєму житті?"
 
-# game/game/script.rpy:486
+# game/game/script.rpy:492
 translate ukrainian choice4_29e2019d:
 
     # t "Hahaha.."
     t "Хахаха..."
 
-# game/game/script.rpy:487
+# game/game/script.rpy:493
 translate ukrainian choice4_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:488
+# game/game/script.rpy:494
 translate ukrainian choice4_37ad2cdb:
 
     # mc "{size=-6}{i}Sigh*"
     mc "{size=-6}{i}*Хааах*"
 
-# game/game/script.rpy:493
+# game/game/script.rpy:499
 translate ukrainian choice4_9bf986fe:
 
     # k "Wait... {w}I didn't bring you here just to talk~"
     k "Чекай... {w}Я тебе сюди запросила не лише потеревенити~"
 
-# game/game/script.rpy:494
+# game/game/script.rpy:500
 translate ukrainian choice4_102aa7ae:
 
     # mc "W-What?"
     mc "Щ-Що?"
 
-# game/game/script.rpy:495
+# game/game/script.rpy:501
 translate ukrainian choice4_28414ca1:
 
     # k "Yes, I have something else in mind...{w} a kind of reward as you say~{image=corazon}"
     k "Так, у мене на думці дещо інше...{w} щось на кшталт винагороди, як ти казав~{image=corazon}"
 
-# game/game/script.rpy:497
+# game/game/script.rpy:503
 translate ukrainian choice4_c70cc9b1:
 
     # k "That we will both enjoy~{image=corazon}"
     k "Чим ми обидва зможемо насолодитися~{image=corazon}"
 
-# game/game/script.rpy:498
+# game/game/script.rpy:504
 translate ukrainian choice4_ceaada45:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Gulp*"
     mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}*Ковть*{/i}"
 
-# game/game/script.rpy:500
+# game/game/script.rpy:506
 translate ukrainian choice4_55cec405:
 
     # t "Is this what I think it is?"
     t "Це те, про що я думаю?"
 
-# game/game/script.rpy:501
+# game/game/script.rpy:507
 translate ukrainian choice4_5f95de90:
 
     # t "Are these the stairs to adulthood?"
     t "Сходи до дорослого життя?"
 
-# game/game/script.rpy:502
+# game/game/script.rpy:508
 translate ukrainian choice4_fdcefcac:
 
     # t "{i}Mom, {w}your abandoned son will finally become an adult."
     t "{i}Мамо, {w}твій залишений син нарешті стане дорослим."
 
-# game/game/script.rpy:505
+# game/game/script.rpy:511
 translate ukrainian choice4_a688e7cd:
 
     # k "I'll give you the opportunity to come back to life in a new world!"
-    k "Я дам тобі можливість переродитися в новому світі!"
+    k "Я дам тобі можливість переродитися в новому світі!" with vpunch
 
-# game/game/script.rpy:506
+# game/game/script.rpy:512
 translate ukrainian choice4_6bedd863:
 
     # mc "{size=-6}Oh..."
     mc "{size=-6}Ох..."
 
-# game/game/script.rpy:511
+# game/game/script.rpy:517
 translate ukrainian choice4_dcd86e92:
 
     # k "Oh?"
     k "Ох?"
 
-# game/game/script.rpy:512
+# game/game/script.rpy:518
 translate ukrainian choice4_d4099de1:
 
     # mc "I mean, {w}n-new world?"
-    mc "Тобто {w}н-новий світ?"
+    mc "Тобто {w}н-новий світ?" with vpunch
 
-# game/game/script.rpy:513
+# game/game/script.rpy:519
 translate ukrainian choice4_b1a79461:
 
     # t "I almost took off my pants..."
     t "Я ледь штані не почав знімати..."
 
-# game/game/script.rpy:515
+# game/game/script.rpy:521
 translate ukrainian choice4_8331c54a:
 
     # k "Yes, for your act of bravery."
     k "Так, за твій подвиг."
 
-# game/game/script.rpy:516
+# game/game/script.rpy:522
 translate ukrainian choice4_574680ca:
 
     # k "I'll reward you with a new life."
     k "Я винагороджу тебе новим життям."
 
-# game/game/script.rpy:518
+# game/game/script.rpy:524
 translate ukrainian choice4_7f7a4931:
 
     # k "Although, I didn't expect you to keep your memories..."
     k "Хоча для мене стало несподіванкою, що ти зберіг свої спогади..."
 
-# game/game/script.rpy:519
+# game/game/script.rpy:525
 translate ukrainian choice4_3b3cdcc3:
 
     # k "I was going to rebirth you as a new-born baby."
     k "Я планувала переродити тебе як новонародженого немовля."
 
-# game/game/script.rpy:520
+# game/game/script.rpy:526
 translate ukrainian choice4_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:522
+# game/game/script.rpy:528
 translate ukrainian choice4_795e9579:
 
     # k "Well, I'll change my plans."
     k "Що ж, зміна планів."
 
-# game/game/script.rpy:523
+# game/game/script.rpy:529
 translate ukrainian choice4_5ecd0fde:
 
     # k "You'll practically be resurrected."
     k "Ти практично воскреснеш."
 
-# game/game/script.rpy:524
+# game/game/script.rpy:530
 translate ukrainian choice4_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:525
+# game/game/script.rpy:531
 translate ukrainian choice4_6f4fea1f:
 
     # t "Could it be that she's quite carefree...?"
     t "Може бути таке, що вона досить легковажна...?"
 
-# game/game/script.rpy:526
+# game/game/script.rpy:532
 translate ukrainian choice4_90f13055:
 
     # k "{size=-8}What can go wrong~{image=corazon}"
     k "{size=-8}Що може піти не так~{image=corazon}"
 
-# game/game/script.rpy:527
+# game/game/script.rpy:533
 translate ukrainian choice4_fb6e3188:
 
     # mc "{size=-6}{i}Eeh..."
     mc "{size=-6}{i}Еех..."
 
-# game/game/script.rpy:532
+# game/game/script.rpy:538
 translate ukrainian choice4_6f4b0d5b:
 
     # k "Think of this as a new life with your past memories."
     k "Уяви собі це як нове життя зі своїми спогадами про минуле."
 
-# game/game/script.rpy:533
+# game/game/script.rpy:539
 translate ukrainian choice4_7a59d28c:
 
     # t "It doesn't sound bad at all..."
     t "Звучить зовсім непогано..."
 
-# game/game/script.rpy:535
+# game/game/script.rpy:541
 translate ukrainian choice4_b75e89c7:
 
     # k "This is going to be great!{w} I know you'll entertain me a lot!"
-    k "Це буде просто супер!{w} Упевнена, ти мене чудово розважиш!"
+    k "Це буде просто супер!{w} Упевнена, ти мене чудово розважиш!" with hpunch
 
-# game/game/script.rpy:536
+# game/game/script.rpy:542
 translate ukrainian choice4_78b6e098:
 
     # t "{size=-6}Enterta-"
     t "{size=-6}Розва-"
 
-# game/game/script.rpy:537
+# game/game/script.rpy:543
 translate ukrainian choice4_55db63d5:
 
     # t "Well, whatever, {w}I'll be able to live again."
     t "Ну, хай там як, {w}я зможу знову жити."
 
-# game/game/script.rpy:538
+# game/game/script.rpy:544
 translate ukrainian choice4_b632e553:
 
     # t "Seeing how easy it is to die showed me that I should live my life and not just go with it."
     t "Побачивши, як легко померти, я усвідомив, що я маю жити своє життя, а не плисти за течією."
 
-# game/game/script.rpy:540
+# game/game/script.rpy:546
 translate ukrainian choice4_7353f7a2:
 
     # mc "If you're willing to give me that option."
     mc "Якщо ти дійсно бажаєш надати мені цю можливість."
 
-# game/game/script.rpy:541
+# game/game/script.rpy:547
 translate ukrainian choice4_dd079e79:
 
     # mc "I'll make the most of every moment."
     mc "Я витисну максимум із кожної миті."
 
-# game/game/script.rpy:543
+# game/game/script.rpy:549
 translate ukrainian choice4_c7bdb283:
 
     # k "I'm glad~{image=corazon} {w}I'll always be watching you."
     k "Я рада~{image=corazon} {w}Я завжди спостерігатиму за тобою."
 
-# game/game/script.rpy:544
+# game/game/script.rpy:550
 translate ukrainian choice4_b7242d76:
 
     # k "I'll also give you my blessing."
     k "Я також подарую тобі своє благословення."
 
-# game/game/script.rpy:545
+# game/game/script.rpy:551
 translate ukrainian choice4_be3dd219:
 
     # k "Take it as something to face the dangers you'll encounter~{image=corazon}"
     k "Прийми його як захист від небезпек, що на тебе чекатимуть~{image=corazon}"
 
-# game/game/script.rpy:546
+# game/game/script.rpy:552
 translate ukrainian choice4_5f0a1bed:
 
     # mc "Dangers?"
     mc "«Небезпек»?"
 
-# game/game/script.rpy:547
+# game/game/script.rpy:553
 translate ukrainian choice4_256e9728:
 
     # mc "What kind of dangers?"
     mc "Які це небезпеки?"
 
-# game/game/script.rpy:549
+# game/game/script.rpy:555
 translate ukrainian choice4_a0a797a5:
 
     # k "You know monsters, {w}magic... {w}bad people."
     k "Ну, знаєш: монстри, {w}магія... {w}різні поганці."
 
-# game/game/script.rpy:550
+# game/game/script.rpy:556
 translate ukrainian choice4_4cab5e33:
 
     # k "Also, with my blessing, your physical attributes will improve."
     k "Крім того, моє благословення також посилить тебе фізично."
 
-# game/game/script.rpy:551
+# game/game/script.rpy:557
 translate ukrainian choice4_4d553db5:
 
     # k "We don't want you to last only a few days in this world, hehe."
     k "Ми ж не хочемо, щоб ти прожив у цьому світі лише кілька днів, хе-хе."
 
-# game/game/script.rpy:552
+# game/game/script.rpy:558
 translate ukrainian choice4_e48286f1:
 
     # mc "I'll gladly take it."
     mc "Я з радістю прийму його."
 
-# game/game/script.rpy:554
+# game/game/script.rpy:560
 translate ukrainian choice4_8fb0e523:
 
     # k "{size=-8}{i}I've never done this before..."
     k "{size=-8}{i}Ніколи цього раніше не робила..."
 
-# game/game/script.rpy:555
+# game/game/script.rpy:561
 translate ukrainian choice4_b1be5325:
 
     # k "{size=-8}{i}I hope it works, it wasn't that difficult..."
     k "{size=-8}{i}Сподіваюся, спрацює. Пам'ятаю, це не було чимось складним..."
 
-# game/game/script.rpy:556
+# game/game/script.rpy:562
 translate ukrainian choice4_9762900f:
 
     # k "{size=-8}{i}Well, {w}whatever happens will happen~"
     k "{size=-8}{i}Ну, {w}що трапиться, те й трапиться~"
 
-# game/game/script.rpy:558
+# game/game/script.rpy:564
 translate ukrainian choice4_f7fd9909:
 
     # k "Another thing, if you want to learn magic, you'll have to find someone to teach you."
     k "Ще одне: якщо ти хочеш освоїти магію, тобі доведеться знайти когось, хто тебе неї навчить."
 
-# game/game/script.rpy:559
+# game/game/script.rpy:565
 translate ukrainian choice4_5f9e12df:
 
     # t "Magic? A world with magic, {w}what will that be like..."
     t "Магія? Світ, де існує магія. {w}Цікаво, як то воно буде..."
 
-# game/game/script.rpy:560
+# game/game/script.rpy:566
 translate ukrainian choice4_83c2be3d:
 
     # mc "Understood, I'm already more or less clear, Keiko."
     mc "Зрозумів. Мені вже більш-менш усе ясно, Кейко."
 
-# game/game/script.rpy:561
+# game/game/script.rpy:567
 translate ukrainian choice4_e90ee6a4:
 
     # k "Perfect! {w}Now come closer and close your eyes."
     k "Чудово! {w}А тепер підійди до мене та заплющ очі."
 
-# game/game/script.rpy:563
+# game/game/script.rpy:569
 translate ukrainian choice4_46cfa2f4:
 
     # mc "All right..."
     mc "Гаразд..."
 
-# game/game/script.rpy:571
+# game/game/script.rpy:577
 translate ukrainian choice4_79ebfcf8:
 
     # k "Awesome!"
-    k "Супер!"
+    k "Супер!" with hpunch
 
-# game/game/script.rpy:572
+# game/game/script.rpy:578
 translate ukrainian choice4_87e124a2:
 
     # mc "I feel like something is growing in my body..."
     mc "Мені здається, ніби щось росте в моєму тілі..."
 
-# game/game/script.rpy:573
+# game/game/script.rpy:579
 translate ukrainian choice4_0e480cb0:
 
     # mc "Th-This power, {w}I feel better than ever!"
     mc "Ц-Ця сила, {w}почуваюся краще ніж будь-коли!"
 
-# game/game/script.rpy:575
+# game/game/script.rpy:581
 translate ukrainian choice4_7607a6b1:
 
     # k "Uhm..."
     k "Угу..."
 
-# game/game/script.rpy:576
+# game/game/script.rpy:582
 translate ukrainian choice4_30eefe6f:
 
     # k "Yeah... {w}I can see it~{image=corazon}"
     k "Так... {w}Я бачу~{image=corazon}"
 
-# game/game/script.rpy:578
+# game/game/script.rpy:584
 translate ukrainian choice4_e384244e:
 
     # mc "Ah... {w}so that's what it was..."
     mc "Ах... {w}то ось що це було..."
 
-# game/game/script.rpy:579
+# game/game/script.rpy:585
 translate ukrainian choice4_6b0d5083:
 
     # t "{size=-8}Come on man! {w}Not in front of a goddess!"
-    t "{size=-8}Ну ж бо, друже! {w}Тільки не перед богинею!"
+    t "{size=-8}Ну ж бо, друже! {w}Тільки не перед богинею!" with hpunch
 
-# game/game/script.rpy:580
+# game/game/script.rpy:586
 translate ukrainian choice4_8f09da1e:
 
     # k "For being just your soul, you have too much... {w}\"energy\"~{image=corazon}"
     k "Як на звичайну душу, у тебе забагато... {w}«енергії»~{image=corazon}"
 
-# game/game/script.rpy:582
+# game/game/script.rpy:588
 translate ukrainian choice4_2aaa86bf:
 
     # mc "I c-can't help it, {w}like you said it's a natural reaction."
     mc "Н-Не можу нічого вдіяти, {w}як ти казала, — це природна реакція."
 
-# game/game/script.rpy:583
+# game/game/script.rpy:589
 translate ukrainian choice4_82091822_1:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:584
+# game/game/script.rpy:590
 translate ukrainian choice4_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:585
+# game/game/script.rpy:591
 translate ukrainian choice4_4572680b:
 
     # mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}Ahem*"
-    mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}*Кхм*"
+    mc "{sc=1}{outlinecolor=#000000}{i}{size=-6}*Кхм*" with vpunch
 
-# game/game/script.rpy:587
+# game/game/script.rpy:593
 translate ukrainian choice4_a0942e75:
 
     # k "Ah! Well, {w}I think it's time for you to go."
     k "Ах! Ну, {w}гадаю, вже час тобі рушати."
 
-# game/game/script.rpy:588
+# game/game/script.rpy:594
 translate ukrainian choice4_05935060:
 
     # k "One more thing."
     k "І ще одне."
 
-# game/game/script.rpy:589
+# game/game/script.rpy:595
 translate ukrainian choice4_3aff2bb7:
 
     # k "I know it's not necessary to mention it but..."
     k "Знаю, це не обов'язково казати, але..."
 
-# game/game/script.rpy:591
+# game/game/script.rpy:597
 translate ukrainian choice4_53aa9e04:
 
     # k "{size=-6}Never mention any of this, {w}if the Gods found out that someone was reborn with their memories..."
     k "{size=-6}Ніколи не згадуй нічого з цього. {w}Якщо інші боги дізнаються, що хтось переродився з усіма спогадами..."
 
-# game/game/script.rpy:592
+# game/game/script.rpy:598
 translate ukrainian choice4_c1e74259:
 
     # k "{size=-6}I don't know what they would do..."
     k "{size=-6}Не знаю, що вони тоді зроблять..."
 
-# game/game/script.rpy:593
+# game/game/script.rpy:599
 translate ukrainian choice4_a8339026:
 
     # mc "{size=-6}I promise, I'm the best at keeping secrets."
     mc "{size=-6}Запевняю: найкраще, що в мене виходить, — це зберігати таємниці."
 
-# game/game/script.rpy:595
+# game/game/script.rpy:601
 translate ukrainian choice4_162aced7:
 
     # k "Glad to hear that [mc]."
     k "Рада це чути, [name_form('voc')]."
 
-# game/game/script.rpy:596
+# game/game/script.rpy:602
 translate ukrainian choice4_2924f301:
 
     # k "I hope that if we meet again, {w}it will be under different circumstances~{image=corazon}"
     k "Сподіваюся, якщо ми знову зустрінемося, {w}то це буде за інших обставин~{image=corazon}"
 
-# game/game/script.rpy:597
+# game/game/script.rpy:603
 translate ukrainian choice4_7d2f8064:
 
     # t "When did I tell her my name?"
     t "Хіба я казав їй ім'я?"
 
-# game/game/script.rpy:598
+# game/game/script.rpy:604
 translate ukrainian choice4_b23cd129:
 
     # mc "I hope the same Keiko..."
     mc "Я теж на це сподіваюся..."
 
-# game/game/script.rpy:600
+# game/game/script.rpy:606
 translate ukrainian choice4_101d39c8:
 
     # t "So it's not the end yet."
     t "Отже, це ще не кінець."
 
-# game/game/script.rpy:601
+# game/game/script.rpy:607
 translate ukrainian choice4_7614d7fe:
 
     # t "But to think that everything that just happened was out of the sheer boredom of that goddess."
     t "Але подумати тільки: все, що щойно сталося, було суто через нудьгу тієї богині."
 
-# game/game/script.rpy:602
+# game/game/script.rpy:608
 translate ukrainian choice4_f8212696:
 
     # t "She didn't ask me for anything in return... {w}I feel that something isn't right."
     t "Вона навіть не попросила нічого натомість... {w}Мені здається, це неправильно."
 
-# game/game/script.rpy:603
+# game/game/script.rpy:609
 translate ukrainian choice4_f924da31:
 
     # t "Mmm... {w}whatever happens, this life will no longer be the same as before."
     t "Ммм... {w}Що б там не було, це життя нізащо не стане схожим на моє минуле."
 
-# game/game/script.rpy:617
+# game/game/script.rpy:623
 translate ukrainian choice4_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:618
+# game/game/script.rpy:624
 translate ukrainian choice4_3b78366f:
 
     # mc "When she told me \"new world\"."
     mc "Коли вона мені сказала «новий світ»..."
 
-# game/game/script.rpy:620
+# game/game/script.rpy:626
 translate ukrainian choice4_acf36d8a:
 
     # mc "I wasn't expecting this."
     mc "Я точно не очікував цього."
 
-# game/game/script.rpy:621
+# game/game/script.rpy:627
 translate ukrainian choice4_293ee232:
 
     # t "But I'm not complaining."
     t "Хоча я не скаржуся."
 
-# game/game/script.rpy:622
+# game/game/script.rpy:628
 translate ukrainian choice4_40200c7d:
 
     # t "A cat... {w}no, {w}fox girl?"
     t "Дівчина-кішка... {w}ні, {w}дівчина-лисичка?"
 
-# game/game/script.rpy:623
+# game/game/script.rpy:629
 translate ukrainian choice4_f712ad20:
 
     # f "Silly~"
     f "Дурнику~"
 
-# game/game/script.rpy:624
+# game/game/script.rpy:630
 translate ukrainian choice4_0a4eba9e:
 
     # f "You're not there yet."
     f "Ти ще не прибув туди."
 
-# game/game/script.rpy:625
+# game/game/script.rpy:631
 translate ukrainian choice4_83fd8940:
 
     # t "Not yet?"
     t "Ще ні?"
 
-# game/game/script.rpy:626
+# game/game/script.rpy:632
 translate ukrainian choice4_d4ffbc4d:
 
     # t "Wait, {w}she has wings like Keiko's?"
     t "Стоп, {w}у неї крила як у Кейко?"
 
-# game/game/script.rpy:627
+# game/game/script.rpy:633
 translate ukrainian choice4_7dd9c800:
 
     # mc "And you're a goddess from what I can see..."
     mc "А ти, судячи з усього, — богиня..."
 
-# game/game/script.rpy:628
+# game/game/script.rpy:634
 translate ukrainian choice4_d8fd949c:
 
     # t "All goddesses do this?"
     t "Усі богині так роблять?"
 
-# game/game/script.rpy:629
+# game/game/script.rpy:635
 translate ukrainian choice4_f910301a:
 
     # t "They'll make me addicted to waking up this way."
     t "Від подібних пробуджень у мене скоро з'явиться залежність."
 
-# game/game/script.rpy:630
+# game/game/script.rpy:636
 translate ukrainian choice4_8459b0a7:
 
     # f "Yes."
     f "Так."
 
-# game/game/script.rpy:631
+# game/game/script.rpy:637
 translate ukrainian choice4_03ff68bf:
 
     # f "I'm Fumiko."
     f "Я Фуміко."
 
-# game/game/script.rpy:632
+# game/game/script.rpy:638
 translate ukrainian choice4_a8257873:
 
     # mc "I'm [mc]."
     mc "Я [name_form('nom')]."
 
-# game/game/script.rpy:633
+# game/game/script.rpy:639
 translate ukrainian choice4_54f8e219:
 
     # mc "Did you also see me get cut by a crazy guy?"
     mc "Ти теж бачила, як мене рубанув той божевільний?"
 
-# game/game/script.rpy:634
+# game/game/script.rpy:640
 translate ukrainian choice4_7b5882c5:
 
     # fu "Hmm... {w}and you have your memories..."
     fu "Хмм... {w}і ти зберіг власні спогади..."
 
-# game/game/script.rpy:635
+# game/game/script.rpy:641
 translate ukrainian choice4_425a2a0b:
 
     # t "Fuck."
-    t "Бля."
+    t "Бля." with hpunch
 
-# game/game/script.rpy:636
+# game/game/script.rpy:642
 translate ukrainian choice4_6ede8cbd:
 
     # t "Sorry Keiko."
     t "Пробач мені, Кейко."
 
-# game/game/script.rpy:637
+# game/game/script.rpy:643
 translate ukrainian choice4_0501cc09:
 
     # t "I did my best."
     t "Я зробив усе, що було в моїх силах."
 
-# game/game/script.rpy:638
+# game/game/script.rpy:644
 translate ukrainian choice4_a9f9e9bf:
 
     # fu "So... Keiko found someone interesting."
     fu "Тож... Кейко знайшла когось цікавого."
 
-# game/game/script.rpy:639
+# game/game/script.rpy:645
 translate ukrainian choice4_728ebb20:
 
     # fu "I can feel her blessing on you... {w=0.5}a very strong one."
     fu "Я також відчуваю її благословіння на тобі... {w=0.5}доволі-таки сильне."
 
-# game/game/script.rpy:641
+# game/game/script.rpy:647
 translate ukrainian choice4_f8be3ea1:
 
     # fu "I have a deal for you."
     fu "Пропоную тобі угоду."
 
-# game/game/script.rpy:642
+# game/game/script.rpy:648
 translate ukrainian choice4_c4577cb8:
 
     # mc "What kind of deal?"
     mc "Яку ще угоду?"
 
-# game/game/script.rpy:643
+# game/game/script.rpy:649
 translate ukrainian choice4_557ec9c4:
 
     # fu "I won't say anything about this..."
     fu "Я триматиму рот на замку..."
 
-# game/game/script.rpy:644
+# game/game/script.rpy:650
 translate ukrainian choice4_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:646
+# game/game/script.rpy:652
 translate ukrainian choice4_8aeeddef:
 
     # fu "If you help me with something."
     fu "Якщо ти мені допоможеш з дечим."
 
-# game/game/script.rpy:647
+# game/game/script.rpy:653
 translate ukrainian choice4_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:648
+# game/game/script.rpy:654
 translate ukrainian choice4_006df670:
 
     # t "I don't think I have any other option."
     t "Гадаю, в мене немає вибору."
 
-# game/game/script.rpy:649
+# game/game/script.rpy:655
 translate ukrainian choice4_5c82388b:
 
     # mc "If there's anything I can help you with..."
     mc "Якщо дійсно є щось, з чим я можу допомогти..."
 
-# game/game/script.rpy:651
+# game/game/script.rpy:657
 translate ukrainian choice4_4aaa4c98:
 
     # fu "Perfect, {w}look you-"
-    fu "Ідеально! {w}Дивись, ти-"
+    fu "Ідеально! {w}Дивись, ти-" with vpunch
 
-# game/game/script.rpy:652
+# game/game/script.rpy:658
 translate ukrainian choice4_eb0840d5:
 
     # fu "..."
     fu "..."
 
-# game/game/script.rpy:653
+# game/game/script.rpy:659
 translate ukrainian choice4_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:658
+# game/game/script.rpy:664
 translate ukrainian choice4_8e0ff536:
 
     # fu "Why do I feel like there's something hitting my stomach?"
     fu "Чому мені здається ніби щось упирається в мій живіт?"
 
-# game/game/script.rpy:659
+# game/game/script.rpy:665
 translate ukrainian choice4_2b35b6fe_7:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:660
+# game/game/script.rpy:666
 translate ukrainian choice4_5529d495:
 
     # t "{size=-6}Come on man! Really?"
-    t "{size=-6}Друже! Ти серйозно?"
+    t "{size=-6}Друже! Ти серйозно?" with hpunch
 
-# game/game/script.rpy:661
+# game/game/script.rpy:667
 translate ukrainian choice4_e8e6ed0b:
 
     # t "I'm starting to think I have a problem down there."
     t "Починаю думати, що в мене там унизу не все гаразд."
 
-# game/game/script.rpy:663
+# game/game/script.rpy:669
 translate ukrainian choice4_fc182a3f:
 
     # t "She's touching it!"
-    t "Вона його торкається!"
+    t "Вона його торкається!" with hpunch
 
-# game/game/script.rpy:664
+# game/game/script.rpy:670
 translate ukrainian choice4_0cae3f7d:
 
     # t "I have to think of something extremely convincing."
     t "Треба вигадати щось надзвичайно переконливе."
 
-# game/game/script.rpy:665
+# game/game/script.rpy:671
 translate ukrainian choice4_c33b515c:
 
     # mc "Err..."
     mc "Емм..."
 
-# game/game/script.rpy:666
+# game/game/script.rpy:672
 translate ukrainian choice4_2b35b6fe_8:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:668
+# game/game/script.rpy:674
 translate ukrainian choice4_c6c5a261:
 
     # mc "It's a{w}... {w}{size=-5}rock.{w=1.0}"
     mc "Це{w}... {w}{size=-5}камінчик."
 
-# game/game/script.rpy:669
+# game/game/script.rpy:675
 translate ukrainian choice4_eb0840d5_1:
 
     # fu "..."
     fu "..."
 
-# game/game/script.rpy:670
+# game/game/script.rpy:676
 translate ukrainian choice4_2b35b6fe_9:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:671
+# game/game/script.rpy:677
 translate ukrainian choice4_171daf06:
 
     # t "I'm fucked."
     t "Мені пизда."
 
-# game/game/script.rpy:676
+# game/game/script.rpy:682
 translate ukrainian choice4_5ee2c0fe:
 
     # fu "How strange, must be a very big rock."
     fu "Оце дивина, мабуть, там якийсь здоровезний камінь."
 
-# game/game/script.rpy:677
+# game/game/script.rpy:683
 translate ukrainian choice4_3c8c2eb9:
 
     # fu "And for what purpose? {w}For what reason-"
     fu "І для чого? {w}Навіщо він-"
 
-# game/game/script.rpy:679
+# game/game/script.rpy:685
 translate ukrainian choice4_7ae2d043:
 
     # fu "Well, {w}whatever."
     fu "Ну, {w}неважливо."
 
-# game/game/script.rpy:680
+# game/game/script.rpy:686
 translate ukrainian choice4_75415721:
 
     # t "Wait, really?"
     t "Чекай, серйозно?"
 
-# game/game/script.rpy:681
+# game/game/script.rpy:687
 translate ukrainian choice4_c728cd7e:
 
     # t "Did she really believe it?"
     t "Вона дійсно сприйняла це за чисту монету?"
 
-# game/game/script.rpy:682
+# game/game/script.rpy:688
 translate ukrainian choice4_48f986ab:
 
     # fu "Let's get up to talk better."
     fu "Нумо встанемо, щоб зручніше було говорити."
 
-# game/game/script.rpy:683
+# game/game/script.rpy:689
 translate ukrainian choice4_a123dfb6:
 
     # fu "And drop that rock. Sometimes I don't understand humans."
     fu "І облиш той камінь. Інколи я зовсім не розумію людей."
 
-# game/game/script.rpy:684
+# game/game/script.rpy:690
 translate ukrainian choice4_ed862fd2:
 
     # mc "Ok..."
     mc "Гаразд..."
 
-# game/game/script.rpy:692
+# game/game/script.rpy:698
 translate ukrainian choice4_c21622d2:
 
     # mc "Ahem*"
     mc "{i}*Кхм*{/i}"
 
-# game/game/script.rpy:693
+# game/game/script.rpy:699
 translate ukrainian choice4_8f42c95e:
 
     # mc "Then explain to me, {w}what do you want me to do?"
     mc "Отже, поясни мені, {w}що ти хочеш, щоб я зробив?"
 
-# game/game/script.rpy:694
+# game/game/script.rpy:700
 translate ukrainian choice4_99b0aa4e:
 
     # fu "Okay..."
     fu "Добре..."
 
-# game/game/script.rpy:695
+# game/game/script.rpy:701
 translate ukrainian choice4_2d096732:
 
     # fu "To sum it up..."
     fu "У загальному..."
 
-# game/game/script.rpy:697
+# game/game/script.rpy:703
 translate ukrainian choice4_30e7fdb8:
 
     # fu "This world you're going to. It's not a happy place for everyone."
     fu "Світ, у який ти прямуєш... далеко не для кожного є щасливим місцем."
 
-# game/game/script.rpy:698
+# game/game/script.rpy:704
 translate ukrainian choice4_c997dc16:
 
     # t "I knew that Keiko was hiding something from me."
     t "Знав, що Кейко щось приховувала від мене."
 
-# game/game/script.rpy:699
+# game/game/script.rpy:705
 translate ukrainian choice4_cdb4aaab:
 
     # t "I was wondering what could entertain a goddess if they can see everything."
     t "Що б ще могло розважити богиню, котра й так усе бачить."
 
-# game/game/script.rpy:700
+# game/game/script.rpy:706
 translate ukrainian choice4_580bddd3:
 
     # t "I may be an idiot, but I'm not stupid."
     t "Може я й ідіот, але не дурний."
 
-# game/game/script.rpy:701
+# game/game/script.rpy:707
 translate ukrainian choice4_62c7c31c:
 
     # fu "You'll understand when you see it, but let's say there's a lot of... {w}difference between... {w}uhm... \"things\"."
     fu "Ти зрозумієш, коли сам побачиш. Скажімо, що там є велика... {w}різниця між... {w}угм... «поняттями»."
 
-# game/game/script.rpy:703
+# game/game/script.rpy:709
 translate ukrainian choice4_698b44db:
 
     # fu "And someone very important to me is in that place."
     fu "Також там перебуває дехто дуже важлива для мене."
 
-# game/game/script.rpy:704
+# game/game/script.rpy:710
 translate ukrainian choice4_028b9e44:
 
     # fu "I can't give you many details but..."
     fu "Не можу тобі назвати всі деталі, але..."
 
-# game/game/script.rpy:705
+# game/game/script.rpy:711
 translate ukrainian choice4_506575c9:
 
     # fu "She's in danger or will be soon."
     fu "Вона в небезпеці, або скоро потрапить у неї."
 
-# game/game/script.rpy:706
+# game/game/script.rpy:712
 translate ukrainian choice4_30557b6f:
 
     # mc "And you want me to protect her?"
     mc "І ти хочеш, щоб я захистив її?"
 
-# game/game/script.rpy:708
+# game/game/script.rpy:714
 translate ukrainian choice4_0d6ba0dd:
 
     # fu "Exactly."
     fu "Саме так!"
 
-# game/game/script.rpy:710
+# game/game/script.rpy:716
 translate ukrainian choice4_162304f1:
 
     # fu "{size=-8}Goddesses can't intervene in the \"human\" world..."
     fu "{size=-8}Богині не можуть втручатися у «людський» світ..."
 
-# game/game/script.rpy:712
+# game/game/script.rpy:718
 translate ukrainian choice4_4e7a91ae:
 
     # mc "But didn't you just intervene in the pure fact of sending me there?"
     mc "Але хіба сам факт того, що ти відправляєш мене туди, — це не втручання?"
 
-# game/game/script.rpy:714
+# game/game/script.rpy:720
 translate ukrainian choice4_eb0840d5_2:
 
     # fu "..."
     fu "..."
 
-# game/game/script.rpy:715
+# game/game/script.rpy:721
 translate ukrainian choice4_2b35b6fe_10:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:720
+# game/game/script.rpy:726
 translate ukrainian choice4_6519430a:
 
     # fu "If you help me-"
     fu "Якщо мені допоможеш-"
 
-# game/game/script.rpy:721
+# game/game/script.rpy:727
 translate ukrainian choice4_03725709:
 
     # t "Did she just completely ignore me...?"
     t "Вона мене щойно повністю проігнорувала...?"
 
-# game/game/script.rpy:722
+# game/game/script.rpy:728
 translate ukrainian choice4_19c84800:
 
     # fu "I'll keep your secret, and everyone will be happy!"
     fu "Я збережу твій секрет, і всі будуть щасливі!"
 
-# game/game/script.rpy:723
+# game/game/script.rpy:729
 translate ukrainian choice4_349dc824:
 
     # fu "What do you think?"
     fu "То що скажеш?"
 
-# game/game/script.rpy:725
+# game/game/script.rpy:731
 translate ukrainian choice4_b4376984:
 
     # mc "Mmh..."
     mc "Ммг..."
 
-# game/game/script.rpy:726
+# game/game/script.rpy:732
 translate ukrainian choice4_2a6b14d6:
 
     # t "{i}My answer is quite clear."
     t "{i}Моя відповідь досить очевидна."
 
-# game/game/script.rpy:727
+# game/game/script.rpy:733
 translate ukrainian choice4_3ec1c555:
 
     # t "Nothing has changed in me, even though I have died, I am still me."
     t "Для мене нічого не змінилося: навіть після смерті я — це все ще я..."
 
-# game/game/script.rpy:728
+# game/game/script.rpy:734
 translate ukrainian choice4_64f9df60:
 
     # t "I know that even if she hadn't discovered my secret, {w}I would have helped her anyway."
     t "Навіть якби вона не дізналася моєї таємниці, {w}я б однаково допоміг їй."
 
-# game/game/script.rpy:729
+# game/game/script.rpy:735
 translate ukrainian choice4_6f5a8120:
 
     # mc "Leave it to me, {w}you don't have to worry."
     mc "Залиш це на мене, {w}тобі не слід хвилюватися."
 
-# game/game/script.rpy:731
+# game/game/script.rpy:737
 translate ukrainian choice4_34f0d6c4:
 
     # mc "Deal or no deal, I will not let anything bad happen to her."
     mc "Буде це угода, чи ні, я не дозволю, щоб з нею сталося щось погане."
 
-# game/game/script.rpy:732
+# game/game/script.rpy:738
 translate ukrainian choice4_2198ca2d:
 
     # mc "I promise you on my soul that is in front of you."
     mc "Присягаюся своєю душею, що зараз стоїть перед тобою."
 
-# game/game/script.rpy:733
+# game/game/script.rpy:739
 translate ukrainian choice4_0a561f37:
 
     # t "Besides, she wants to save someone, unlike Keiko who only wants to entertain herself."
     t "До того ж вона хоче врятувати когось, на відміну від Кейко, яка бажає лише розваг."
 
-# game/game/script.rpy:735
+# game/game/script.rpy:741
 translate ukrainian choice4_6de3474c:
 
     # fu "{sc=2}{outlinecolor=#000000}Ah...{w} Uhm...{w} Yes!"
-    fu "{sc=2}{outlinecolor=#000000}Ах...{w} Угу...{w} Так!"
+    fu "{sc=2}{outlinecolor=#000000}Ах...{w} Угу...{w} Так!" with vpunch
 
-# game/game/script.rpy:736
+# game/game/script.rpy:742
 translate ukrainian choice4_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:737
+# game/game/script.rpy:743
 translate ukrainian choice4_b761c438:
 
     # fu "{size=-6}I..."
     fu "{size=-6}Я..."
 
-# game/game/script.rpy:739
+# game/game/script.rpy:745
 translate ukrainian choice4_c58051df:
 
     # fu "{size=-6}I'm counting on you..."
     fu "{size=-6}Я розраховую на тебе..."
 
-# game/game/script.rpy:740
+# game/game/script.rpy:746
 translate ukrainian choice4_cde5bd9b:
 
     # mc "Is something wrong, Fumiko?"
     mc "Щось не так, Фуміко?"
 
-# game/game/script.rpy:742
+# game/game/script.rpy:748
 translate ukrainian choice4_920e63be:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-8}Ah! No, {w}of course not."
-    fu "{sc=2}{outlinecolor=#000000}{size=-8}Ах! Ні, {w}звісно ні."
+    fu "{sc=2}{outlinecolor=#000000}{size=-8}Ах! Ні, {w}звісно ні." with vpunch
 
-# game/game/script.rpy:744
+# game/game/script.rpy:750
 translate ukrainian choice4_ec3014b8:
 
     # fu "{size=-6}{i}What's happening to me..."
     fu "{size=-6}{i}Що це зі мною..."
 
-# game/game/script.rpy:745
+# game/game/script.rpy:751
 translate ukrainian choice4_2b35b6fe_11:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:746
+# game/game/script.rpy:752
 translate ukrainian choice4_b08fff4a:
 
     # t "Her face turned red, she must be very worried."
     t "Вона почервоніла. Певно, надто схвильована."
 
-# game/game/script.rpy:747
+# game/game/script.rpy:753
 translate ukrainian choice4_aa7a6f93:
 
     # mc "Well, I should go."
     mc "Що ж, мені час вирушати."
 
-# game/game/script.rpy:748
+# game/game/script.rpy:754
 translate ukrainian choice4_17fc71db:
 
     # mc "The sooner I arrive, the safer she'll be."
     mc "Що швидше я прибуду, тим безпечніше їй буде."
 
-# game/game/script.rpy:750
+# game/game/script.rpy:756
 translate ukrainian choice4_7bcd1cc8:
 
     # fu "{size=-8}Ah, right!"
     fu "{size=-8}Ах, звісно!"
 
-# game/game/script.rpy:751
+# game/game/script.rpy:757
 translate ukrainian choice4_c7c82e3d:
 
     # fu "{size=-8}Will you need anything?"
     fu "{size=-8}Можливо, тобі щось знадобиться?"
 
-# game/game/script.rpy:752
+# game/game/script.rpy:758
 translate ukrainian choice4_ed387a82:
 
     # t "Why does she speak more quietly if there's no one here...?"
     t "Чому вона так шепоче, коли тут навіть нікого немає...?"
 
-# game/game/script.rpy:754
+# game/game/script.rpy:760
 translate ukrainian choice4_4ca8f719:
 
     # fu "{size=-8}I'd give you my blessing, but the one you have is already... {w}strong enough..."
     fu "{size=-8}Я б дарувала тобі своє благословення, але те, що в тебе, вже й так... {w}достатньо потужне..."
 
-# game/game/script.rpy:755
+# game/game/script.rpy:761
 translate ukrainian choice4_b20d7bdc:
 
     # fu "{size=-8}And I think too much."
     fu "{size=-8}Як на мене, аж занадто."
 
-# game/game/script.rpy:757
+# game/game/script.rpy:763
 translate ukrainian choice4_577f33b3:
 
     # mc "Mmm..."
     mc "Ммм..."
 
-# game/game/script.rpy:758
+# game/game/script.rpy:764
 translate ukrainian choice4_9e4ae962:
 
     # t "I don't know..."
     t "Навіть не знаю..."
 
-# game/game/script.rpy:759
+# game/game/script.rpy:765
 translate ukrainian choice4_cda340a9:
 
     # t "Can she give me material things?"
     t "Чи зможе вона мені дати щось матеріальне?"
 
-# game/game/script.rpy:760
+# game/game/script.rpy:766
 translate ukrainian choice4_829ed19e:
 
     # fu "{sc=2}{outlinecolor=#000000}W-WH-"
     fu "{sc=2}{outlinecolor=#000000}Щ-ЩО-"
 
-# game/game/script.rpy:763
+# game/game/script.rpy:769
 translate ukrainian choice4_f0d319f7:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-8}WW-Www-ww-wW-W-"
-    fu "{sc=2}{outlinecolor=#000000}{size=-8}Щ-Щщш-шш-шЩ-Щ-"
+    fu "{sc=2}{outlinecolor=#000000}{size=-8}Щ-Щщш-шш-шЩ-Щ-" with hpunch
 
-# game/game/script.rpy:764
+# game/game/script.rpy:770
 translate ukrainian choice4_b6845304:
 
     # fu "{sc=2}{outlinecolor=#000000}W-What are you doing!?"
-    fu "{sc=2}{outlinecolor=#000000}Щ-Що ти це робиш!?"
+    fu "{sc=2}{outlinecolor=#000000}Щ-Що ти це робиш!?" with vpunch
 
-# game/game/script.rpy:765
+# game/game/script.rpy:771
 translate ukrainian choice4_56e82d39:
 
     # mc "Oh... sorry, {w}it was a reflex."
     mc "Ох... пробач, {w}я рефлекторно."
 
-# game/game/script.rpy:767
+# game/game/script.rpy:773
 translate ukrainian choice4_3ab84f0c:
 
     # t "Something that suits me in a world where I'll start from zero..."
     t "Щось, що мені знадобиться у світі, де я почну з чистого аркуша..."
 
-# game/game/script.rpy:768
+# game/game/script.rpy:774
 translate ukrainian choice4_20f3d2de:
 
     # t "If I'll have to face monsters or magic..."
     t "Якщо мені доведеться зіткнутися з монстрами чи магією..."
 
-# game/game/script.rpy:769
+# game/game/script.rpy:775
 translate ukrainian choice4_c5cc843c:
 
     # mc "Can you get me a katana?"
     mc "Ти зможеш дати мені катану?"
 
-# game/game/script.rpy:771
+# game/game/script.rpy:777
 translate ukrainian choice4_30d9ee49:
 
     # fu "A katana? {w}Is that the only thing you want?"
     fu "Катану? {w}Це все, що ти бажаєш?"
 
-# game/game/script.rpy:772
+# game/game/script.rpy:778
 translate ukrainian choice4_ea17b5c5:
 
     # t "Mmm... Also, {w}I don't know what the clothes of this world will be like, but I want to make sure."
     t "Ммм... Також, {w}я не знаю, як вдягаються у цьому світі, перестрахуватися не буде зайвим."
 
-# game/game/script.rpy:773
+# game/game/script.rpy:779
 translate ukrainian choice4_12054b7d:
 
     # mc "Yes, and clothes according to the world, {w}I don't want to arrive like this."
     mc "Так, і вбрання, відповідно до цього світу, {w}не хочу прибути туди якось так."
 
-# game/game/script.rpy:774
+# game/game/script.rpy:780
 translate ukrainian choice4_1b7759fb:
 
     # mc "It would attract a lot of attention if I look different than \"normal\"."
     mc "Я привертатиму забагато зайвої уваги, якщо виглядатиму інакше від «звичного»."
 
-# game/game/script.rpy:775
+# game/game/script.rpy:781
 translate ukrainian choice4_1feb2d9c:
 
     # fu "Yes... {w}I can do that."
     fu "Добре... {w}Я це зможу."
 
-# game/game/script.rpy:776
+# game/game/script.rpy:782
 translate ukrainian choice4_eb0840d5_3:
 
     # fu "..."
     fu "..."
 
-# game/game/script.rpy:778
+# game/game/script.rpy:784
 translate ukrainian choice4_775cb365:
 
     # fu "Hahaha~"
-    fu "Хахаха~"
+    fu "Хахаха~" with vpunch
 
-# game/game/script.rpy:779
+# game/game/script.rpy:785
 translate ukrainian choice4_989a1cf6:
 
     # fu "You're a strange human."
     fu "Ти дивна людина."
 
-# game/game/script.rpy:780
+# game/game/script.rpy:786
 translate ukrainian choice4_6d8b25c7:
 
     # fu "I see why Keiko let you be reborn like this."
     fu "Тепер зрозуміло, чому Кейко дозволила тобі так переродитися."
 
-# game/game/script.rpy:781
+# game/game/script.rpy:787
 translate ukrainian choice4_03fb3e88_1:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:782
+# game/game/script.rpy:788
 translate ukrainian choice4_3d996037:
 
     # mc "What are you talking about?"
     mc "Про що це ти?"
 
-# game/game/script.rpy:784
+# game/game/script.rpy:790
 translate ukrainian choice4_e56a59b7:
 
     # fu "Nothing, nothing fufu~"
     fu "Нічого, нічого, хуху~"
 
-# game/game/script.rpy:785
+# game/game/script.rpy:791
 translate ukrainian choice4_c3093409:
 
     # t "I don't know what happened but seeing her laugh, it seems that all her worries vanished."
     t "Не знаю, що щойно трапилося, але коли бачу, як вона сміється, аж спокійніше стає на душі."
 
-# game/game/script.rpy:786
+# game/game/script.rpy:792
 translate ukrainian choice4_10c34bb9:
 
     # mc "Hmm... {w}you look really cute when you laugh."
     mc "Гмм... {w}ти доволі мила, коли смієшся."
 
-# game/game/script.rpy:787
+# game/game/script.rpy:793
 translate ukrainian choice4_eb0840d5_4:
 
     # fu "..."
     fu "..."
 
-# game/game/script.rpy:789
+# game/game/script.rpy:795
 translate ukrainian choice4_52d02e9a:
 
     # fu "Ah..."
     fu "Ах..."
 
-# game/game/script.rpy:790
+# game/game/script.rpy:796
 translate ukrainian choice4_b530327b:
 
     # fu "W-Well I'll send you now, are you ready?"
     fu "Щ-Що ж, я вже відправлятиму тебе. Ти готовий?"
 
-# game/game/script.rpy:791
+# game/game/script.rpy:797
 translate ukrainian choice4_c20b45ed:
 
     # fu "{size=-8}Why's my heart beating so fast with the things this mortal says...?"
     fu "{size=-8}Чому моє серденько так швидко тьохкає після слів цього смертного...?"
 
-# game/game/script.rpy:792
+# game/game/script.rpy:798
 translate ukrainian choice4_75e276c7:
 
     # mc "Yes, whenever you like."
     mc "Так, можеш починати."
 
-# game/game/script.rpy:794
+# game/game/script.rpy:800
 translate ukrainian choice4_a01f5f88:
 
     # fu "Okay... {w}close your eyes."
     fu "Гаразд... {w}заплющ очі."
 
-# game/game/script.rpy:796
+# game/game/script.rpy:802
 translate ukrainian choice4_67711e8a:
 
     # mc "Wait! And how'll I know who I should protect?"
     mc "Стривай! А як я взагалі зрозумію, кого я маю захистити?"
 
-# game/game/script.rpy:798
+# game/game/script.rpy:804
 translate ukrainian choice4_4fd9cda2:
 
     # fu "{size=-6}You'll know when the time comes..."
     fu "{size=-6}Дізнаєшся, коли настане час..."
 
-# game/game/script.rpy:799
+# game/game/script.rpy:805
 translate ukrainian choice4_cd69749b:
 
     # mc "And will I see you again?"
     mc "Ми ще побачимось?"
 
-# game/game/script.rpy:800
+# game/game/script.rpy:806
 translate ukrainian choice4_eb0840d5_5:
 
     # fu "..."
     fu "..."
 
-# game/game/script.rpy:801
+# game/game/script.rpy:807
 translate ukrainian choice4_7c0de4a9:
 
     # fu "{size=-6}M-Maybe..."
     fu "{size=-6}М-Можливо..."
 
-# game/game/script.rpy:816
+# game/game/script.rpy:822
 translate ukrainian choice4_2ccf79eb:
 
     # mc "Whatever it is, {w}I must first keep my promise."
     mc "У будь-якому разі, {w}спершу я маю виконати власну обіцянку."
 
-# game/game/script.rpy:823
+# game/game/script.rpy:829
 translate ukrainian choice4_cdf4ef0f:
 
     # t "I can feel a gentle breeze."
     t "Відчуваю приємний вітерець."
 
-# game/game/script.rpy:824
+# game/game/script.rpy:830
 translate ukrainian choice4_fe4b2659:
 
     # t "The sun reaches me directly but it's not uncomfortable, in fact, it's a soft warm feeling."
     t "Сонце світить прямісінько на мене, але це зовсім не дошкуляє — навпаки, воно приємно огортає м'яким теплом."
 
-# game/game/script.rpy:825
+# game/game/script.rpy:831
 translate ukrainian choice4_4f0fc2b6:
 
     # mc "So, {w}I've truly been reborn."
     mc "Тож {w}я таки справді переродився."
 
-# game/game/script.rpy:826
+# game/game/script.rpy:832
 translate ukrainian choice4_fa70aa52:
 
     # t "What kind of place is this?"
     t "Що це за місце?"
 
-# game/game/script.rpy:827
+# game/game/script.rpy:833
 translate ukrainian choice4_9bd9b90d:
 
     # t "It feels so peaceful.. It doesn't feel like my original world at all."
     t "Тут так спокійно... Зовсім не схоже на мій звичний світ."
 
-# game/game/script.rpy:828
+# game/game/script.rpy:834
 translate ukrainian choice4_7df3dd67:
 
     # t "Infinity of trees, a clear sky."
     t "Нескінченне море дерев, чисте небо."
 
-# game/game/script.rpy:830
+# game/game/script.rpy:836
 translate ukrainian choice4_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:831
+# game/game/script.rpy:837
 translate ukrainian choice4_dfa9307f:
 
     # t "The katana that I asked for."
     t "Катана, про яку я просив."
 
-# game/game/script.rpy:832
+# game/game/script.rpy:838
 translate ukrainian choice4_0f860aa3:
 
     # t "Fumiko really gave it to me."
     t "Фуміко справді дала її мені."
 
-# game/game/script.rpy:833
+# game/game/script.rpy:839
 translate ukrainian choice4_5a7c4c6f:
 
     # t "They don't seem to take the no-intervention rule very seriously..."
     t "Здається, вони не надто серйозно сприймають правило невтручання..."
 
-# game/game/script.rpy:834
+# game/game/script.rpy:840
 translate ukrainian choice4_302779c8:
 
     # t "There must be special cases."
     t "Можливо, є певні винятки."
 
-# game/game/script.rpy:836
+# game/game/script.rpy:842
 translate ukrainian choice4_d4544747:
 
     # mc "This is a very good katana."
     mc "Яка чудова катана."
 
-# game/game/script.rpy:837
+# game/game/script.rpy:843
 translate ukrainian choice4_d7e2d0b5:
 
     # mc "Just by holding it I can tell."
     mc "Можу це сказати, лише тримаючи її."
 
-# game/game/script.rpy:838
+# game/game/script.rpy:844
 translate ukrainian choice4_3f871f46:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:839
+# game/game/script.rpy:845
 translate ukrainian choice4_c54d7121:
 
     # mc "On the handle it says..."
     mc "На руків'ї написано..."
 
-# game/game/script.rpy:841
+# game/game/script.rpy:847
 translate ukrainian choice4_cb9e692c:
 
     # mc "Chunchunmaru...?"
-    mc "Чунчунмару...?"
+    mc "Чунчунмару...?" with vpunch
 
-# game/game/script.rpy:842
+# game/game/script.rpy:848
 translate ukrainian choice4_2b35b6fe_12:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:844
+# game/game/script.rpy:850
 translate ukrainian choice4_65e54d3a:
 
     # t "Just kidding."
     t "Жартую."
 
-# game/game/script.rpy:845
+# game/game/script.rpy:851
 translate ukrainian choice4_ecd3c6b2:
 
     # t "Now, {w}I need to know where I am."
     t "Тепер {w}мені треба зрозуміти де я взагалі."
 
-# game/game/script.rpy:846
+# game/game/script.rpy:852
 translate ukrainian choice4_dec0d59e:
 
     # t "I'd better check the area, {w}or it'll get dark, and I don't want to have a bad time..."
     t "Варто оглянути місцевість, {w}інакше скоро стемніє, а мені зовсім не хочеться потрапити в халепу..."
 
-# game/game/script.rpy:868
+# game/game/script.rpy:874
 translate ukrainian stones_d416a847:
 
     # t "This is where I appeared."
     t "Саме тут я спершу опинився."
 
-# game/game/script.rpy:869
+# game/game/script.rpy:875
 translate ukrainian stones_61222beb:
 
     # t "If it weren't for those strange symbols, I'd think these were just simple ruins."
     t "Якби не ці химерні символи, я б подумав, що це лише прості розвалини."
 
-# game/game/script.rpy:870
+# game/game/script.rpy:876
 translate ukrainian stones_ecbfcdc3:
 
     # mc "But... {w}why is everything destroyed?"
     mc "Але... {w}чому тут усе зруйновано?"
 
-# game/game/script.rpy:872
+# game/game/script.rpy:878
 translate ukrainian stones_f64252a1:
 
     # t "There is no moss on the broken parts..."
     t "Не бачу, аби щось встигло обрости мохом..."
 
-# game/game/script.rpy:873
+# game/game/script.rpy:879
 translate ukrainian stones_88261b7c:
 
     # t "Did I cause the collapse?"
     t "Це через мене воно все розвалилося?"
 
-# game/game/script.rpy:874
+# game/game/script.rpy:880
 translate ukrainian stones_202891d3:
 
     # t "It must have caused a lot of noise..."
     t "Певно, воно добряче так гепнуло..."
 
-# game/game/script.rpy:876
+# game/game/script.rpy:882
 translate ukrainian stones_63e9e0df:
 
     # t "If no one came to check, {w}this place must be far from civilization."
     t "Якщо ніхто не прийде на шум, {w}значить я досить далеко від цивілізації."
 
-# game/game/script.rpy:877
+# game/game/script.rpy:883
 translate ukrainian stones_dba10701:
 
     # t "Well, whatever, {w}I'll think about it later."
     t "Ну, хай там як, {w}пізніше буду думати про це."
 
-# game/game/script.rpy:879
+# game/game/script.rpy:885
 translate ukrainian stones_8cf016e4:
 
     # mc "I'll camp here for the night."
     mc "Зупинюся тут на ніч."
 
-# game/game/script.rpy:880
+# game/game/script.rpy:886
 translate ukrainian stones_a70ec429:
 
     # mc "I should look for wood to build a fire."
     mc "Мені варто пошукати якусь деревину для вогнища."
 
-# game/game/script.rpy:882
+# game/game/script.rpy:888
 translate ukrainian stones_68901ebd:
 
     # mc "This will do, {w}they look pretty dry."
     mc "Підійде, {w}виглядають достатньо сухо."
 
-# game/game/script.rpy:894
+# game/game/script.rpy:900
 translate ukrainian lake_d86a32f3:
 
     # t "This lake is close to where I appeared."
     t "Це озеро майже поруч із місцем, де я з'явився."
 
-# game/game/script.rpy:895
+# game/game/script.rpy:901
 translate ukrainian lake_8858b9ee:
 
     # t "It doesn't look like this place has been getting visitors lately."
     t "Не схоже, щоб це місце останнім часом було шалено популярним."
 
-# game/game/script.rpy:896
+# game/game/script.rpy:902
 translate ukrainian lake_1bfd557e:
 
     # t "Now that I think about it..."
     t "Тепер, коли я про це замислився..."
 
-# game/game/script.rpy:898
+# game/game/script.rpy:904
 translate ukrainian lake_5dcbd18b:
 
     # t "I haven't seen a single soul... {w}Did they really send me this far?"
     t "Я не бачив ні душі... {w}Невже мене відправили аж так далеко?"
 
-# game/game/script.rpy:899
+# game/game/script.rpy:905
 translate ukrainian lake_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:901
+# game/game/script.rpy:907
 translate ukrainian lake_6aa827fb:
 
     # t "The water looks crystal clear."
     t "Вода кришталево чиста."
 
-# game/game/script.rpy:903
+# game/game/script.rpy:909
 translate ukrainian lake_7fc1547b:
 
     # t "It'd be great if I could catch some fish."
     t "Було б непогано спіймати кілька рибин."
 
-# game/game/script.rpy:904
+# game/game/script.rpy:910
 translate ukrainian lake_dcb4c999:
 
     # t "I just need a rod... or something makeshift."
     t "Мені лише потрібна вудка... або щось схоже на неї."
 
-# game/game/script.rpy:906
+# game/game/script.rpy:912
 translate ukrainian lake_489df257:
 
     # t "But what could I use...?"
     t "Але що б зійшло за неї...?"
 
-# game/game/script.rpy:907
+# game/game/script.rpy:913
 translate ukrainian lake_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:909
+# game/game/script.rpy:915
 translate ukrainian lake_d023c69f:
 
     # mc "I think I've found your first mission, my friend."
     mc "Здається, напарнику, я знайшов тобі перше завдання."
 
-# game/game/script.rpy:913
+# game/game/script.rpy:919
 translate ukrainian lake_04745eeb:
 
     # "You tear off part of your clothes and use it to craft a makeshift rope, tying it to your katana."
     "Ти відриваєш частину свого одягу, перетворюючи її на імпровізовану мотузку, прив'язуєш її до своєї катани."
 
-# game/game/script.rpy:914
+# game/game/script.rpy:920
 translate ukrainian lake_82004fb3:
 
     # "As if by some miracle, you manage to catch a fish."
     "Наче якимось дивом тобі вдається спіймати рибу."
 
-# game/game/script.rpy:915
+# game/game/script.rpy:921
 translate ukrainian lake_ca871376:
 
     # t "It took a while, but at least I won't starve on my first day."
     t "Знадобилося трохи часу, але принаймні я не буду голодувати першого ж дня."
 
-# game/game/script.rpy:916
+# game/game/script.rpy:922
 translate ukrainian lake_fb8214d9:
 
     # "If the katana were alive, would it be wondering {w}\"what's the purpose of its existence?\""
     "Якби катана була живою, чи задавалася б вона питанням: {w}«У чому сенс мого існування?»"
 
-# game/game/script.rpy:938
+# game/game/script.rpy:944
 translate ukrainian set_fire_a15486c8:
 
     # mc "Ok,{w} let's see if lighting a campfire is really that hard."
     mc "Гаразд,{w} поглянемо, чи справді розвести багаття настільки важко."
 
-# game/game/script.rpy:939
+# game/game/script.rpy:945
 translate ukrainian set_fire_ed3d66a3:
 
     # t "I've seen lots of people do it on the internet."
     t "Я вже достатньо бачив, як це робили інші в Інтернеті."
 
-# game/game/script.rpy:940
+# game/game/script.rpy:946
 translate ukrainian set_fire_e4e93437:
 
     # t "I always wondered if that knowledge would ever come in handy."
     t "Завжди ставив собі питання, чи знадобляться мені колись ці знання."
 
-# game/game/script.rpy:941
+# game/game/script.rpy:947
 translate ukrainian set_fire_684bf0a1:
 
     # t "Well done, past [mc]."
     t "Молодець, минулий [name_form('nom')]."
 
-# game/game/script.rpy:942
+# game/game/script.rpy:948
 translate ukrainian set_fire_8392086d:
 
     # mc "Agh!"
-    mc "Агх!"
+    mc "Агх!" with hpunch
 
-# game/game/script.rpy:944
+# game/game/script.rpy:950
 translate ukrainian set_fire_b26884b8:
 
     # "With a stick and dry leaves, you manage to create a small flame."
     "За допомогою палиці та сухого листя тобі вдається розпалити невелике полум'я."
 
-# game/game/script.rpy:945
+# game/game/script.rpy:951
 translate ukrainian set_fire_36a527e6:
 
     # mc "Wow! Quick! I've got to place it under the sticks!"
-    mc "Ого! Швидше! Треба розмістити його під палицями!"
+    mc "Ого! Швидше! Треба розмістити його під палицями!" with hpunch
 
-# game/game/script.rpy:947
+# game/game/script.rpy:953
 translate ukrainian set_fire_4517a425:
 
     # t "One small step for man, one giant leap for [mc]."
     t "Один маленький крок для людини, й величезний стрибок для [name_form('acc')]."
 
-# game/game/script.rpy:951
+# game/game/script.rpy:957
 translate ukrainian set_fire_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:952
+# game/game/script.rpy:958
 translate ukrainian set_fire_a07c7a0f:
 
     # mc "Well, time to cook the fish."
     mc "Ну, час готувати рибу."
 
-# game/game/script.rpy:954
+# game/game/script.rpy:960
 translate ukrainian set_fire_90cdc177:
 
     # t "For a first day, it was pretty quiet... not to say boring."
     t "Як для першого дня, було досить тихо... не те щоб нудно."
 
-# game/game/script.rpy:955
+# game/game/script.rpy:961
 translate ukrainian set_fire_36823d49:
 
     # t "I haven't seen anyone."
     t "Я так нікого не зустрів."
 
-# game/game/script.rpy:956
+# game/game/script.rpy:962
 translate ukrainian set_fire_c4e2d1f4:
 
     # t "Then again, I don't know what I was expecting."
     t "З іншого боку, я й сам не знаю, чого очікував."
 
-# game/game/script.rpy:957
+# game/game/script.rpy:963
 translate ukrainian set_fire_5cfe6831:
 
     # t "A beautiful girl waiting for me?"
     t "Вродливої дівчини, що на мене чекає?"
 
-# game/game/script.rpy:958
+# game/game/script.rpy:964
 translate ukrainian set_fire_72b46801:
 
     # t "Telling me I'm the new hero who must save the world?"
     t "Котра скаже мені, що я новий герой й маю врятувати світ?"
 
-# game/game/script.rpy:959
+# game/game/script.rpy:965
 translate ukrainian set_fire_2291a267:
 
     # t "Hahaha, {w}well, I'm glad it wasn't like that."
-    t "Хахаха, {w}ну, принаймні я вдячний, що цього не було."
+    t "Хахаха, {w}ну, принаймні я вдячний, що цього не було." with hpunch
 
-# game/game/script.rpy:960
+# game/game/script.rpy:966
 translate ukrainian set_fire_bc2c3ccf:
 
     # t "I don't look like a hero at all."
     t "Не схожий я на героя, зовсім."
 
-# game/game/script.rpy:961
+# game/game/script.rpy:967
 translate ukrainian set_fire_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:962
+# game/game/script.rpy:968
 translate ukrainian set_fire_1bfd557e:
 
     # t "Now that I think about it..."
     t "Тепер оце я думаю..."
 
-# game/game/script.rpy:964
+# game/game/script.rpy:970
 translate ukrainian set_fire_5d997831:
 
     # t "Keiko said it would enhance my physical abilities."
     t "Кейко сказала, що воно посилить мене фізично."
 
-# game/game/script.rpy:965
+# game/game/script.rpy:971
 translate ukrainian set_fire_5d3343eb:
 
     # t "And Fumiko told me it was a pretty powerful blessing."
     t "Однак Фуміко розповіла, що це благословення доволі-таки потужне."
 
-# game/game/script.rpy:967
+# game/game/script.rpy:973
 translate ukrainian set_fire_956cc7fc:
 
     # t "But {w}I feel the same..."
     t "Хоча, {w}я почуваюся так само..."
 
-# game/game/script.rpy:968
+# game/game/script.rpy:974
 translate ukrainian set_fire_f63b309d:
 
     # t "I should find a way to test my skills..."
     t "Треба знайти спосіб перевірити власні навички..."
 
-# game/game/script.rpy:970
+# game/game/script.rpy:976
 translate ukrainian set_fire_cd8ed672:
 
     # t "The only real change I feel is a heightened awareness of my surroundings."
     t "Єдина відчутна зміна — у мене ніби загострилося сприйняття всього навколо."
 
-# game/game/script.rpy:971
+# game/game/script.rpy:977
 translate ukrainian set_fire_0db493f2:
 
     # t "Like the trees..."
     t "Наприклад, ці дерева..."
 
-# game/game/script.rpy:972
+# game/game/script.rpy:978
 translate ukrainian set_fire_495e9716:
 
     # t "The falling leaves..."
     t "Листя, що падає..."
 
-# game/game/script.rpy:974
+# game/game/script.rpy:980
 translate ukrainian set_fire_ebf129a3:
 
     # t "The wind..."
     t "Вітер..."
 
-# game/game/script.rpy:975
+# game/game/script.rpy:981
 translate ukrainian set_fire_abe10485:
 
     # t "And the overwhelming bloodlust..."
     t "І нестримна жага крові..."
 
-# game/game/script.rpy:986
+# game/game/script.rpy:992
 translate ukrainian set_fire_12bd19e8:
 
     # mc "What the-{w=0.3}{nw}"
     mc "Якого-{w=0.3}{nw}"
 
-# game/game/script.rpy:993
+# game/game/script.rpy:999
 translate ukrainian set_fire_f085b7c6:
 
     # t "Fuck fuck fuck!"
-    t "Бля, бля, бля!"
+    t "Бля, бля, бля!" with hpunch
 
-# game/game/script.rpy:994
+# game/game/script.rpy:1000
 translate ukrainian set_fire_6c38f3ba:
 
     # t "I said I wanted to test myself..."
     t "Я казав, що хочу випробувати себе..."
 
-# game/game/script.rpy:995
+# game/game/script.rpy:1001
 translate ukrainian set_fire_6e59279c:
 
     # t "But not like this, and not right now!"
-    t "Але ж не так і не зараз!"
+    t "Але ж не так і не зараз!" with hpunch
 
-# game/game/script.rpy:996
+# game/game/script.rpy:1002
 translate ukrainian set_fire_04bd48b7:
 
     # mc "T-Take it easy, boy..."
     mc "Л-Легше, хлопчику..."
 
-# game/game/script.rpy:997
+# game/game/script.rpy:1003
 translate ukrainian set_fire_701afe10:
 
     # mc "I know you're hungry and I probably look like a tasty piece of meat..."
     mc "Знаю, ти голодний і я, мабуть, виглядаю як дуже смачний шмат м'яса..."
 
-# game/game/script.rpy:998
+# game/game/script.rpy:1004
 translate ukrainian set_fire_edbf457f:
 
     # mc "But maybe we could settle this like civilized man and wolf?"
     mc "Але, можливо, ми могли б вирішити це як цивілізовані людина і вовк?"
 
-# game/game/script.rpy:1004
+# game/game/script.rpy:1010
 translate ukrainian set_fire_e4597528:
 
     # t "I think that made him angrier..."
     t "Гадаю, це його ще дужче розлютило..."
 
-# game/game/script.rpy:1005
+# game/game/script.rpy:1011
 translate ukrainian set_fire_4320be50:
 
     # mc "Alright, {w}no talking then."
     mc "Гаразд, {w}тоді годі із розмовами."
 
-# game/game/script.rpy:1006
+# game/game/script.rpy:1012
 translate ukrainian set_fire_38979598:
 
     # mc "Do you want the fish?"
     mc "Хочеш рибки?"
 
-# game/game/script.rpy:1012
+# game/game/script.rpy:1018
 translate ukrainian set_fire_c6249c89:
 
     # mc "OK, ok, I guess we're doing this the hard way."
     mc "ЗРОЗУМІВ, зрозумів. Певно, ми йдемо складним шляхом."
 
-# game/game/script.rpy:1014
+# game/game/script.rpy:1020
 translate ukrainian set_fire_64d4fd12:
 
     # t "I've been noticing it for a while, but..."
     t "Я вже деякий час це помічаю..."
 
-# game/game/script.rpy:1015
+# game/game/script.rpy:1021
 translate ukrainian set_fire_46946958:
 
     # t "The wolf's putting in a lot of effort to try and eat me, {w}yet I'm not struggling to hold him back."
     t "Вовк докладає чимало зусиль, щоб з'їсти мене, {w}натомість я з легкістю його стримую."
 
-# game/game/script.rpy:1016
+# game/game/script.rpy:1022
 translate ukrainian set_fire_82aaaab1:
 
     # mc "Are you really that weak?"
     mc "Невже ти дійсно такий слабкий?"
 
-# game/game/script.rpy:1017
+# game/game/script.rpy:1023
 translate ukrainian set_fire_69de793e:
 
     # mc "How long has it been since you last ate?"
     mc "Як давно ти востаннє їв?"
 
-# game/game/script.rpy:1018
+# game/game/script.rpy:1024
 translate ukrainian set_fire_aba59f2b:
 
     # t "And... {w}why am I not screaming or crying in fear?"
     t "А також... {w}чому я не кричу й не плачу від страху?"
 
-# game/game/script.rpy:1019
+# game/game/script.rpy:1025
 translate ukrainian set_fire_307d2ab8:
 
     # t "It's a giant wolf, and it's literally on top of me trying to devour me."
     t "Величезний вовк, що сидить прямо на мені й намагається мене зжерти."
 
-# game/game/script.rpy:1020
+# game/game/script.rpy:1026
 translate ukrainian set_fire_e73359b3:
 
     # t "I doubt I'm stronger than a six foot wolf..."
     t "Сумніваюся, що я сильніший за вовка заввишки майже у два метри..."
 
-# game/game/script.rpy:1022
+# game/game/script.rpy:1028
 translate ukrainian set_fire_269beece:
 
     # t "I have to think of some-"
     t "Треба щось вигада-"
 
-# game/game/script.rpy:1024
+# game/game/script.rpy:1030
 translate ukrainian set_fire_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1025
+# game/game/script.rpy:1031
 translate ukrainian set_fire_337ba93e:
 
     # mc "{sc=2}{outlinecolor=#000000}OH! Hell no!"
-    mc "{sc=2}{outlinecolor=#000000}ОХ! Чорт забирай!"
+    mc "{sc=2}{outlinecolor=#000000}ОХ! Чорт забирай!" with hpunch
 
-# game/game/script.rpy:1026
+# game/game/script.rpy:1032
 translate ukrainian set_fire_f35ff6e1:
 
     # mc "There's only one way to find out..."
     mc "Є лише один спосіб це з'ясувати..."
 
-# game/game/script.rpy:1028
+# game/game/script.rpy:1034
 translate ukrainian set_fire_7ef86a5b:
 
     # t "I'll try to push him off my chest."
     t "Спробую його скинути з себе."
 
-# game/game/script.rpy:1029
+# game/game/script.rpy:1035
 translate ukrainian set_fire_0e343a03:
 
     # t "3, {w}2,{w} 1!"
     t "3, {w}2,{w} 1!"
 
-# game/game/script.rpy:1038
+# game/game/script.rpy:1044
 translate ukrainian set_fire_95437497:
 
     # mc "HA!{w=0.3}{nw}"
@@ -3101,319 +3101,319 @@ translate ukrainian set_fire_47be42b9:
     # mc "A-"
     mc "Га-"
 
-# game/game/script.rpy:1046
+# game/game/script.rpy:1052
 translate ukrainian set_fire_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1047
+# game/game/script.rpy:1053
 translate ukrainian set_fire_a6362013:
 
     # t "I..."
     t "Я..."
 
-# game/game/script.rpy:1055
+# game/game/script.rpy:1061
 translate ukrainian set_fire_0d25dd18:
 
     # t "I really did get stronger..."
     t "Я справді став сильнішим..."
 
-# game/game/script.rpy:1056
+# game/game/script.rpy:1062
 translate ukrainian set_fire_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1058
+# game/game/script.rpy:1064
 translate ukrainian set_fire_c0ba5b92:
 
     # t "I's not moving."
     t "Він не рухається."
 
-# game/game/script.rpy:1059
+# game/game/script.rpy:1065
 translate ukrainian set_fire_3b0cf7c1:
 
     # t "Why do I feel a little bad?"
     t "Чому мені якось шкода його?"
 
-# game/game/script.rpy:1060
+# game/game/script.rpy:1066
 translate ukrainian set_fire_a3c4e71a:
 
     # t "He was trying to eat me..."
     t "Він намагався мене з'їсти..."
 
-# game/game/script.rpy:1062
+# game/game/script.rpy:1068
 translate ukrainian set_fire_6a08dc9b:
 
     # t "So this is what Fumiko meant when she said the blessing was powerful..."
     t "То ось що Фуміко мала на увазі, коли казала, що благословення було потужним..."
 
-# game/game/script.rpy:1063
+# game/game/script.rpy:1069
 translate ukrainian set_fire_3e2365bd:
 
     # mc "I know Keiko didn't want me to survive only a few days in this world."
     mc "Розумію, Кейко не хотіла, аби я прожив у цьому світі лише кілька днів."
 
-# game/game/script.rpy:1064
+# game/game/script.rpy:1070
 translate ukrainian set_fire_41556704:
 
     # mc "But... {w}isn't this a bit too much?"
     mc "Але... {w}хіба це не занадто?"
 
-# game/game/script.rpy:1066
+# game/game/script.rpy:1072
 translate ukrainian set_fire_8f1f8247:
 
     # t "Are people in this world just as strong?"
     t "Люди в цьому світі теж настільки сильні?"
 
-# game/game/script.rpy:1067
+# game/game/script.rpy:1073
 translate ukrainian set_fire_81be3279:
 
     # t "Luckily I didn't even have to draw my katana..."
     t "На щастя, мені навіть не довелося діставати свою катану..."
 
-# game/game/script.rpy:1068
+# game/game/script.rpy:1074
 translate ukrainian set_fire_7ce18444:
 
     # t "I come from a peaceful world, {w}so I'm not ready for this yet..."
     t "Я прибув із мирного світу, {w}тож поки що не готовий до цього..."
 
-# game/game/script.rpy:1069
+# game/game/script.rpy:1075
 translate ukrainian set_fire_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1071
+# game/game/script.rpy:1077
 translate ukrainian set_fire_7e5e590f:
 
     # mc "Ah! My food!"
-    mc "Ах! Моя риба!"
+    mc "Ах! Моя риба!" with hpunch
 
-# game/game/script.rpy:1072
+# game/game/script.rpy:1078
 translate ukrainian set_fire_44d35555:
 
     # mc "They will burn-"
     mc "Воно ж усе згорить-"
 
-# game/game/script.rpy:1073
+# game/game/script.rpy:1079
 translate ukrainian set_fire_69e8db1e:
 
     # a "{sc=2}{outlinecolor=#000000}{size=-6}{i}Watch out!!"
-    a "{sc=2}{outlinecolor=#000000}{size=-6}{i}Позаду!!"
+    a "{sc=2}{outlinecolor=#000000}{size=-6}{i}Позаду!!" with hpunch
 
-# game/game/script.rpy:1086
+# game/game/script.rpy:1092
 translate ukrainian set_fire_36eeb24f:
 
     # mc "...!!"
     mc "...!!"
 
-# game/game/script.rpy:1089
+# game/game/script.rpy:1095
 translate ukrainian set_fire_0e62004f:
 
     # t "{sc=2}{outlinecolor=#000000}Shit...! No time to switch hands!"
     t "{sc=2}{outlinecolor=#000000}Лайно...! Немає часу змінювати руку!"
 
-# game/game/script.rpy:1091
+# game/game/script.rpy:1097
 translate ukrainian set_fire_80cbb74e:
 
     # t "I didn't want to do this..."
     t "Не хотів я робити цього..."
 
-# game/game/script.rpy:1111
+# game/game/script.rpy:1117
 translate ukrainian set_fire_ed5b7426:
 
     # "{i}You approach the mysterious girl."
     "{i}Ти підійшов до загадкової дівчини."
 
-# game/game/script.rpy:1116
+# game/game/script.rpy:1122
 translate ukrainian set_fire_e0671f63:
 
     # t "Where did she come from? {w}That was a nasty fall..."
     t "Звідки вона взялася? {w}Оце так жорстке приземлення..."
 
-# game/game/script.rpy:1117
+# game/game/script.rpy:1123
 translate ukrainian set_fire_0d7ae849:
 
     # t "If it hadn't been for her, that wolf..."
     t "Якби не вона, той вовк..."
 
-# game/game/script.rpy:1118
+# game/game/script.rpy:1124
 translate ukrainian set_fire_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:1120
+# game/game/script.rpy:1126
 translate ukrainian set_fire_779dd59b:
 
     # t "Horns?"
     t "Роги?"
 
-# game/game/script.rpy:1121
+# game/game/script.rpy:1127
 translate ukrainian set_fire_140a71dd:
 
     # t "A girl with horns... {w}Now I realize I'm definitely not in my world."
     t "Дівчина з рогами... {w}Тепер я точно усвідомлюю, що не у своєму світі."
 
-# game/game/script.rpy:1123
+# game/game/script.rpy:1129
 translate ukrainian set_fire_5d7e1146:
 
     # t "Her clothes look shabby and worn out."
     t "Її одяг пошарпаний та зношений."
 
-# game/game/script.rpy:1124
+# game/game/script.rpy:1130
 translate ukrainian set_fire_463bbce5:
 
     # t "What is she doing in the woods at this hour...?"
     t "Що вона забула в лісі, ще й у таку годину...?"
 
-# game/game/script.rpy:1125
+# game/game/script.rpy:1131
 translate ukrainian set_fire_652650d3:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:1127
+# game/game/script.rpy:1133
 translate ukrainian set_fire_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1128
+# game/game/script.rpy:1134
 translate ukrainian set_fire_e18c34e9:
 
     # t "No comment."
     t "Краще промовчу."
 
-# game/game/script.rpy:1130
+# game/game/script.rpy:1136
 translate ukrainian set_fire_fd045785:
 
     # mc "Hey, {w}are you okay?"
     mc "Гей, {w}ти як?"
 
-# game/game/script.rpy:1131
+# game/game/script.rpy:1137
 translate ukrainian set_fire_198bd03b:
 
     # t "I'm worried she still hasn't woken up..."
     t "Я хвилююся, що вона досі не отямилася..."
 
-# game/game/script.rpy:1132
+# game/game/script.rpy:1138
 translate ukrainian set_fire_1350a949:
 
     # t "What should I do?"
     t "Що робити?"
 
-# game/game/script.rpy:1133
+# game/game/script.rpy:1139
 translate ukrainian set_fire_2b35b6fe_7:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1135
+# game/game/script.rpy:1141
 translate ukrainian set_fire_d27b1fd4:
 
     # t "I can't leave her here-"
     t "Не можу ж я її тут кинути-"
 
-# game/game/script.rpy:1140
+# game/game/script.rpy:1146
 translate ukrainian set_fire_20086df9:
 
     # a "{sc=2}{outlinecolor=#000000}Ah!"
-    a "{sc=2}{outlinecolor=#000000}Ах!"
+    a "{sc=2}{outlinecolor=#000000}Ах!" with hpunch
 
-# game/game/script.rpy:1146
+# game/game/script.rpy:1152
 translate ukrainian set_fire_2dc4b443:
 
     # t "I've never seen someone run away so fast."
     t "Ніколи не бачив, щоб хтось чкурнув так швидко."
 
-# game/game/script.rpy:1151
+# game/game/script.rpy:1157
 translate ukrainian set_fire_e963a4e6:
 
     # a "{sc=2}{outlinecolor=#000000}Please don't do anything to me!"
-    a "{sc=2}{outlinecolor=#000000}Будь ласка, не чіпайте мене!"
+    a "{sc=2}{outlinecolor=#000000}Будь ласка, не чіпайте мене!" with hpunch
 
-# game/game/script.rpy:1152
+# game/game/script.rpy:1158
 translate ukrainian set_fire_ef5cdd73:
 
     # a "{sc=2}{outlinecolor=#000000}I was just passing by!"
-    a "{sc=2}{outlinecolor=#000000}Я просто проходила повз!"
+    a "{sc=2}{outlinecolor=#000000}Я просто проходила повз!" with hpunch
 
-# game/game/script.rpy:1153
+# game/game/script.rpy:1159
 translate ukrainian set_fire_92984e35:
 
     # mc "Relax..."
     mc "Розслабся..."
 
-# game/game/script.rpy:1154
+# game/game/script.rpy:1160
 translate ukrainian set_fire_ec574a9e:
 
     # a "{sc=2}{outlinecolor=#000000}I didn't mean to intrude."
-    a "{sc=2}{outlinecolor=#000000}Я не хотіла втручатися."
+    a "{sc=2}{outlinecolor=#000000}Я не хотіла втручатися." with hpunch
 
-# game/game/script.rpy:1155
+# game/game/script.rpy:1161
 translate ukrainian set_fire_5ff0a044:
 
     # mc "I'm not going to hurt you..."
     mc "Я тебе не скривджу..."
 
-# game/game/script.rpy:1157
+# game/game/script.rpy:1163
 translate ukrainian set_fire_fd450bac:
 
     # a "{sc=2}{outlinecolor=#000000}If you're going to eat me, please make it quick and painless!"
-    a "{sc=2}{outlinecolor=#000000}Якщо плануєте мене з'їсти, зробіть це швидко та безболісно!"
+    a "{sc=2}{outlinecolor=#000000}Якщо плануєте мене з'їсти, зробіть це швидко та безболісно!" with hpunch
 
-# game/game/script.rpy:1158
+# game/game/script.rpy:1164
 translate ukrainian set_fire_138174df:
 
     # mc "{size=-6}{i}Eeeh..."
     mc "{size=-6}{i}Ееех..."
 
-# game/game/script.rpy:1159
+# game/game/script.rpy:1165
 translate ukrainian set_fire_aa29ac93:
 
     # t "She's too scared to even hear me out."
     t "Вона настільки налякана, що навіть не слухає."
 
-# game/game/script.rpy:1160
+# game/game/script.rpy:1166
 translate ukrainian set_fire_83de3b28:
 
     # t "Mmm..."
     t "Ммм..."
 
-# game/game/script.rpy:1162
+# game/game/script.rpy:1168
 translate ukrainian set_fire_58e50efb:
 
     # "{i}You get up and pick up the fish you dropped a moment ago."
     "{i}Ти встаєш та береш рибу, котру впустив мить тому."
 
-# game/game/script.rpy:1163
+# game/game/script.rpy:1169
 translate ukrainian set_fire_11d15444:
 
     # t "The others are almost burned, except for the one I dropped earlier..."
     t "Усі інші майже згоріли, окрім цієї, що я впустив..."
 
-# game/game/script.rpy:1165
+# game/game/script.rpy:1171
 translate ukrainian set_fire_fdd47c77:
 
     # a "{sc=1}{outlinecolor=#000000}Maybe you want to sell me, but I'm not worth much, {w}believe me!"
-    a "{sc=1}{outlinecolor=#000000}{size=-5}Можливо, ви хочете мене продати, але\nя майже нічого не вартую, {w}запевняю!"
+    a "{sc=1}{outlinecolor=#000000}{size=-5}Можливо, ви хочете мене продати, але\nя майже нічого не вартую, {w}запевняю!" with hpunch
 
-# game/game/script.rpy:1166
+# game/game/script.rpy:1172
 translate ukrainian set_fire_3f78b787:
 
     # t "And she keeps talking..."
     t "А вона не замовкає..."
 
-# game/game/script.rpy:1167
+# game/game/script.rpy:1173
 translate ukrainian set_fire_d7c1b248:
 
     # mc "Take it, {w}are you hungry?"
     mc "Візьми. {w}Мабуть, ти зголодніла?"
 
-# game/game/script.rpy:1168
+# game/game/script.rpy:1174
 translate ukrainian set_fire_2a87c271:
 
     # mc "It might be a little dirty, but it's better than the others..."
@@ -3425,3379 +3425,3379 @@ translate ukrainian set_fire_a8930fa5:
     # a "{size=-6}Maybe we can-"
     a "{size=-6}Можливо б нам-"
 
-# game/game/script.rpy:1170
+# game/game/script.rpy:1176
 translate ukrainian set_fire_8c003a78:
 
     # a "{sc=1}{outlinecolor=#000000}Sniff~ sniff~"
     a "{sc=1}{outlinecolor=#000000}Нюх~ нюх~"
 
-# game/game/script.rpy:1172
+# game/game/script.rpy:1178
 translate ukrainian set_fire_f0e533db:
 
     # a "{size=-6}Hmm?"
     a "{size=-6}Гмм?"
 
-# game/game/script.rpy:1174
+# game/game/script.rpy:1180
 translate ukrainian set_fire_17c68526:
 
     # a "Waa!"
-    a "Ваа!"
+    a "Ваа!" with hpunch
 
-# game/game/script.rpy:1175
+# game/game/script.rpy:1181
 translate ukrainian set_fire_3de31b30:
 
     # a "Can I really eat it?!"
-    a "Я справді можу це з'їсти?!"
+    a "Я справді можу це з'їсти?!" with vpunch
 
-# game/game/script.rpy:1176
+# game/game/script.rpy:1182
 translate ukrainian set_fire_b574606e:
 
     # t "Oh, what a drastic change."
     t "Ох, яка кардинальна зміна в настрої."
 
-# game/game/script.rpy:1178
+# game/game/script.rpy:1184
 translate ukrainian set_fire_f4faff9a:
 
     # t "She's devouring that fish like she hasn't eaten in days."
     t "Вона так запихається тією рибою, ніби вже кілька днів не їла."
 
-# game/game/script.rpy:1179
+# game/game/script.rpy:1185
 translate ukrainian set_fire_37adc040:
 
     # t "I should eat too, {w}I don't think I can ask her anything for now."
     t "Мені варто теж поїсти, {w}Не думаю, що зможу зараз її про щось розпитати."
 
-# game/game/script.rpy:1180
+# game/game/script.rpy:1186
 translate ukrainian set_fire_431ed236:
 
     # a "{sc=3}{outlinecolor=#000000}{size=-8}Nom~ Nom~"
     a "{sc=3}{outlinecolor=#000000}{size=-8}Ням~ Ням~"
 
-# game/game/script.rpy:1183
+# game/game/script.rpy:1189
 translate ukrainian set_fire_545bc5d6:
 
     # t "I didn't expect her to smile like that just from getting some fish."
     t "Не сподівався, що побачу її такою щасливою лише через якусь рибу."
 
-# game/game/script.rpy:1194
+# game/game/script.rpy:1200
 translate ukrainian set_fire_36c95f66:
 
     # mc "{size=-6}{i}Sigh...*{/size} {w}They burned..."
     mc "{size=-6}{i}Хах...{/i}{/size} {w}Вони згоріли..."
 
-# game/game/script.rpy:1196
+# game/game/script.rpy:1202
 translate ukrainian set_fire_2c2b4a28:
 
     # t "But they still look somewhat edible..."
     t "Але досі виглядають так, ніби можна їсти..."
 
-# game/game/script.rpy:1197
+# game/game/script.rpy:1203
 translate ukrainian set_fire_2a28f6bf:
 
     # t "I hope the blessing also protects me from stomachaches..."
     t "Сподіваюся, благословення мене також захистить від болю в животі..."
 
-# game/game/script.rpy:1198
+# game/game/script.rpy:1204
 translate ukrainian set_fire_c06ca724:
 
     # a "You really won't do anything to me?"
-    a "Ви справді не збираєтеся нічого зі мною робити?"
+    a "Ви справді не збираєтеся нічого зі мною робити?" (multiple=2)
 
-# game/game/script.rpy:1200
+# game/game/script.rpy:1206
 translate ukrainian set_fire_3f871f46:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:1202
+# game/game/script.rpy:1208
 translate ukrainian set_fire_a1c91efa:
 
     # mc "I already told you, {w}no."
     mc "Я ж уже тобі сказав: {w}ні."
 
-# game/game/script.rpy:1203
+# game/game/script.rpy:1209
 translate ukrainian set_fire_a2092b0a:
 
     # a "Don't I disgust you? {w}Doesn't it bother you that I'm here...?"
     a "Я вам не огидна? {w}Вас не турбує, що я тут поруч...?"
 
-# game/game/script.rpy:1204
+# game/game/script.rpy:1210
 translate ukrainian set_fire_2fc1fc7c:
 
     # mc "I think I was pretty clear."
     mc "Гадаю, я достатньо чітко висловився."
 
-# game/game/script.rpy:1205
+# game/game/script.rpy:1211
 translate ukrainian set_fire_bcea4c97:
 
     # mc "Besides, if I wanted to hurt you, I wouldn't warn you about it."
     mc "До того ж якби я хотів тобі зашкодити, зробив би це без попереджень."
 
-# game/game/script.rpy:1207
+# game/game/script.rpy:1213
 translate ukrainian set_fire_af8e4b6a:
 
     # a "{size=-6}You're right..."
     a "{size=-6}Маєте рацію..."
 
-# game/game/script.rpy:1208
+# game/game/script.rpy:1214
 translate ukrainian set_fire_f2b66154:
 
     # t "What's wrong with this girl, this is more than just fear."
     t "Що це взагалі з нею? Це щось більше, ніж просто страх."
 
-# game/game/script.rpy:1209
+# game/game/script.rpy:1215
 translate ukrainian set_fire_6fea4520:
 
     # t "She must have gone through something terrible..."
     t "Здається, їй довелося пройти через щось жахливе..."
 
-# game/game/script.rpy:1211
+# game/game/script.rpy:1217
 translate ukrainian set_fire_80221a99:
 
     # mc "Burned fish?"
     mc "Обпаленої рибки?"
 
-# game/game/script.rpy:1212
+# game/game/script.rpy:1218
 translate ukrainian set_fire_e1978b25:
 
     # a "Yes!~"
-    a "Так!~"
+    a "Так!~" with vpunch
 
-# game/game/script.rpy:1214
+# game/game/script.rpy:1220
 translate ukrainian set_fire_61a2edbc:
 
     # mc "Look, {w}we got off on the wrong foot."
     mc "Слухай, {w}початок у нас не задався."
 
-# game/game/script.rpy:1215
+# game/game/script.rpy:1221
 translate ukrainian set_fire_86bb65cd:
 
     # mc "First of all, {w}thank you for saving me."
     mc "Насамперед {w}дякую, що врятувала."
 
-# game/game/script.rpy:1216
+# game/game/script.rpy:1222
 translate ukrainian set_fire_e9fad0b0:
 
     # mc "Without you, I'd probably be dead."
     mc "Якби не ти, мені б уже були гайки."
 
-# game/game/script.rpy:1217
+# game/game/script.rpy:1223
 translate ukrainian set_fire_48066075:
 
     # mc "And I don't think you're disgusting. {w}You're actually really cute."
     mc "Й не кажи, що ти огидна. {w}Насправді ти доволі-таки мила."
 
-# game/game/script.rpy:1219
+# game/game/script.rpy:1225
 translate ukrainian set_fire_2cf5f01e:
 
     # a "{sc=3}{outlinecolor=#000000}{size=-8}Wuah!?"
-    a "{sc=3}{outlinecolor=#000000}{size=-8}Щь-ш-Що!?"
+    a "{sc=3}{outlinecolor=#000000}{size=-8}Щь-ш-Що!?" with vpunch
 
-# game/game/script.rpy:1220
+# game/game/script.rpy:1226
 translate ukrainian set_fire_0c393e90:
 
     # a "{sc=3}{outlinecolor=#000000}{size=-8}C-Cute??"
     a "{sc=3}{outlinecolor=#000000}{size=-8}М-Мила??"
 
-# game/game/script.rpy:1221
+# game/game/script.rpy:1227
 translate ukrainian set_fire_79ab54ab:
 
     # mc "I'm not going to hurt you. {w}You already have my trust."
     mc "Я тебе точно не скривджу. {w}Ти вже отримала мою довіру."
 
-# game/game/script.rpy:1222
+# game/game/script.rpy:1228
 translate ukrainian set_fire_268f29f5:
 
     # mc "Could you tell me your name?"
     mc "Не скажеш мені, як тебе звати?"
 
-# game/game/script.rpy:1224
+# game/game/script.rpy:1230
 translate ukrainian set_fire_e235274f:
 
     # mc "Please...?"
     mc "Будь ласка...?"
 
-# game/game/script.rpy:1225
+# game/game/script.rpy:1231
 translate ukrainian set_fire_bb8e4b4e:
 
     # a "..."
     a "..."
 
-# game/game/script.rpy:1226
+# game/game/script.rpy:1232
 translate ukrainian set_fire_3db10650:
 
     # a "{size=-9}...ko~"
     a "{size=-9}...ко~"
 
-# game/game/script.rpy:1227
+# game/game/script.rpy:1233
 translate ukrainian set_fire_93774c00:
 
     # mc "Ko?"
     mc "Ко?"
 
-# game/game/script.rpy:1229
+# game/game/script.rpy:1235
 translate ukrainian set_fire_155123d2:
 
     # a "R-Ryoko..."
     a "Р-Рьоко..."
 
-# game/game/script.rpy:1230
+# game/game/script.rpy:1236
 translate ukrainian set_fire_841e49cc:
 
     # mc "Ryoko, {w}that's a really cute name."
     mc "Рьоко {w}— дуже миле ім'я."
 
-# game/game/script.rpy:1231
+# game/game/script.rpy:1237
 translate ukrainian set_fire_f745bf93:
 
     # mc "I'm [mc], {w}nice to meet you."
     mc "Я [name_form('nom')], {w}приємно познайомитися."
 
-# game/game/script.rpy:1233
+# game/game/script.rpy:1239
 translate ukrainian set_fire_dac1fa99:
 
     # r "{size=-7}Nice to meet you too..."
     r "{size=-7}Мені теж приємно..."
 
-# game/game/script.rpy:1234
+# game/game/script.rpy:1240
 translate ukrainian set_fire_9d38234d:
 
     # mc "Now... {w}can you tell me what you were doing in the middle of the forest at this hour?"
     mc "Отже... {w}розкажеш мені, що ти робиш посеред лісу о такій годині?"
 
-# game/game/script.rpy:1236
+# game/game/script.rpy:1242
 translate ukrainian set_fire_1e80e35d:
 
     # t "Her worried expression came back the moment I asked."
     t "Її стурбований вираз обличчя повернувся, щойно я запитав."
 
-# game/game/script.rpy:1238
+# game/game/script.rpy:1244
 translate ukrainian set_fire_8caab161:
 
     # t "I'm not stupid. {w}That necklace she's wearing..."
     t "Я не дурень. {w}Цей нашийник, що на ній..."
 
-# game/game/script.rpy:1239
+# game/game/script.rpy:1245
 translate ukrainian set_fire_4fb7b2ea:
 
     # t "A normal person wouldn't use that as an accessory."
     t "Нормальна людина не носила б таке як прикрасу."
 
-# game/game/script.rpy:1240
+# game/game/script.rpy:1246
 translate ukrainian set_fire_7db91794:
 
     # t "If she doesn't want to talk, {w}I won't force her-"
     t "Якщо вона не хоче розповідати, {w}не заставлятиму її-"
 
-# game/game/script.rpy:1241
+# game/game/script.rpy:1247
 translate ukrainian set_fire_7bf13600:
 
     # r "I..."
     r "Я..."
 
-# game/game/script.rpy:1242
+# game/game/script.rpy:1248
 translate ukrainian set_fire_3f871f46_1:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:1244
+# game/game/script.rpy:1250
 translate ukrainian set_fire_d61a90c2:
 
     # mc "{size=-6}Eh-"
     mc "{size=-6}Ех-"
 
-# game/game/script.rpy:1245
+# game/game/script.rpy:1251
 translate ukrainian set_fire_bd6d661c:
 
     # t "S-She already finished the fish?"
     t "В-Вона вже й цю злопала?"
 
-# game/game/script.rpy:1246
+# game/game/script.rpy:1252
 translate ukrainian set_fire_da9108f9:
 
     # r "{size=-6}I'm running away..."
     r "{size=-6}Я втікаю..."
 
-# game/game/script.rpy:1247
+# game/game/script.rpy:1253
 translate ukrainian set_fire_2b35b6fe_8:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1252
+# game/game/script.rpy:1258
 translate ukrainian set_fire_e56fcc3e:
 
     # r "As you can see, {w}I'm a slave..."
     r "Як ви можете помітити, {w}я рабиня..."
 
-# game/game/script.rpy:1253
+# game/game/script.rpy:1259
 translate ukrainian set_fire_098184ac:
 
     # r "My friend and I were captured by mercenaries."
     r "Мою подругу й мене спіймали найманці."
 
-# game/game/script.rpy:1254
+# game/game/script.rpy:1260
 translate ukrainian set_fire_34fb5c19:
 
     # r "Horrendous people who capture whatever they can to sell them."
     r "Жахливі люди, які виловлюють усіх, кого тільки можуть, щоб потім продати."
 
-# game/game/script.rpy:1258
+# game/game/script.rpy:1264
 translate ukrainian set_fire_ff08e9c6:
 
     # r "They kept us in cages and mistreated us if we did anything they didn't like."
     r "Вони тримали нас у клітках і жорстоко поводилися з нами, коли ми робили щось, що їм не подобалося."
 
-# game/game/script.rpy:1259
+# game/game/script.rpy:1265
 translate ukrainian set_fire_2b35b6fe_9:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1260
+# game/game/script.rpy:1266
 translate ukrainian set_fire_4493eea9:
 
     # r "They were going to sell us to a new owner, someone known for being cruel to slaves..."
     r "Вони збиралися продати нас новому господареві, який славився жорстоким поводженням із рабами..."
 
-# game/game/script.rpy:1261
+# game/game/script.rpy:1267
 translate ukrainian set_fire_b0b92a74:
 
     # r "{size=-6}He only buys them to abuse them..."
     r "{size=-6}Він їх купує лише, щоб знущатися з них..."
 
-# game/game/script.rpy:1263
+# game/game/script.rpy:1269
 translate ukrainian set_fire_aad4d4af:
 
     # r "We heard from the others slaves that anyone sold to him was as good as dead..."
     r "Ми почули від інших рабів, що кожного, кого продавали йому, можна вважати вже мертвим..."
 
-# game/game/script.rpy:1264
+# game/game/script.rpy:1270
 translate ukrainian set_fire_8fea2db2:
 
     # mc "Hmm..."
     mc "Гмм..."
 
-# game/game/script.rpy:1265
+# game/game/script.rpy:1271
 translate ukrainian set_fire_559e876b:
 
     # r "Our only choice was to escape..."
     r "Ми мали лише один вибір — утекти..."
 
-# game/game/script.rpy:1267
+# game/game/script.rpy:1273
 translate ukrainian set_fire_876d14a3:
 
     # r "{size=-6}But I wouldn't have made it without..."
     r "{size=-6}Але б я не впоралася без..."
 
-# game/game/script.rpy:1268
+# game/game/script.rpy:1274
 translate ukrainian set_fire_a7bcf340:
 
     # mc "I see..."
     mc "Ясно..."
 
-# game/game/script.rpy:1270
+# game/game/script.rpy:1276
 translate ukrainian set_fire_a93d67e7:
 
     # r "I hate being weak! I couldn't do anything!"
-    r "Ненавиджу бути слабкою! Я ні на що не здатна!"
+    r "Ненавиджу бути слабкою! Я ні на що не здатна!" with vpunch
 
-# game/game/script.rpy:1271
+# game/game/script.rpy:1277
 translate ukrainian set_fire_40b03e09:
 
     # r "That doesn't make me any better than those guys. {w}I just left her behind!"
-    r "Я не краща за тих людей. {w}Я просто залишила її там!"
+    r "Я не краща за тих людей. {w}Я просто залишила її там!" with hpunch
 
-# game/game/script.rpy:1273
+# game/game/script.rpy:1279
 translate ukrainian set_fire_02792021:
 
     # r "{sc=3}{outlinecolor=#000000}And now I don't know if she's okay!"
-    r "{sc=3}{outlinecolor=#000000}І тепер я навіть не знаю, чи з нею все гаразд!"
+    r "{sc=3}{outlinecolor=#000000}І тепер я навіть не знаю, чи з нею все гаразд!" with vpunch
 
-# game/game/script.rpy:1274
+# game/game/script.rpy:1280
 translate ukrainian set_fire_fff2c58d:
 
     # r "{sc=3}{outlinecolor=#000000}I just ran and ran!"
-    r "{sc=3}{outlinecolor=#000000}Я лише бігла й бігла!"
+    r "{sc=3}{outlinecolor=#000000}Я лише бігла й бігла!" with hpunch
 
-# game/game/script.rpy:1275
+# game/game/script.rpy:1281
 translate ukrainian set_fire_a7116f59:
 
     # r "{sc=3}{outlinecolor=#000000}She told me not to look back, {w}but I did... {w}and I saw..."
     r "{sc=3}{outlinecolor=#000000}{size=-6}Вона сказала мені не озиратися, {w}але я не послухала... {w}і побачила..."
 
-# game/game/script.rpy:1278
+# game/game/script.rpy:1284
 translate ukrainian set_fire_ffae4ed0:
 
     # mc "{size=-8}It's okay..."
     mc "{size=-8}Усе гаразд..."
 
-# game/game/script.rpy:1279
+# game/game/script.rpy:1285
 translate ukrainian set_fire_6848fcc0:
 
     # mc "{size=-7}You don't have to say anything else..."
     mc "{size=-7}Ти не мусиш більше нічого говорити..."
 
-# game/game/script.rpy:1280
+# game/game/script.rpy:1286
 translate ukrainian set_fire_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:1281
+# game/game/script.rpy:1287
 translate ukrainian set_fire_453299ab:
 
     # mc "{size=-7}Everything's fine now."
     mc "{size=-7}Відтепер усе буде добре."
 
-# game/game/script.rpy:1283
+# game/game/script.rpy:1289
 translate ukrainian set_fire_5f8aac5a:
 
     # mc "{size=-6}You probably already know this, {w}but blaming yourself won't change anything."
     mc "{size=-6}Ти, напевно, вже це зрозуміла, {w}але, звинувачуючи себе, ти нічого не зміниш."
 
-# game/game/script.rpy:1284
+# game/game/script.rpy:1290
 translate ukrainian set_fire_ee99b730:
 
     # mc "{size=-6}What matters is that you had someone who wanted you to escape, and you did."
     mc "{size=-6}Головне — у тебе був той, хто хотів твого порятунку, і тобі це вдалося."
 
-# game/game/script.rpy:1285
+# game/game/script.rpy:1291
 translate ukrainian set_fire_e3212d48:
 
     # mc "{size=-6}You may say you're weak, {w}but your heart is incredibly strong, Ryoko..."
     mc "{size=-6}Можеш казати, що слабка, {w}але в тебе хоробре серце, Рьоко..."
 
-# game/game/script.rpy:1287
+# game/game/script.rpy:1293
 translate ukrainian set_fire_5e6eac92:
 
     # mc "Be proud to have such a friend."
     mc "Пишайся тим, що в тебе є така подруга."
 
-# game/game/script.rpy:1288
+# game/game/script.rpy:1294
 translate ukrainian set_fire_d677b456:
 
     # r "{sc=3}{outlinecolor=#000000}I-I..."
     r "{sc=3}{outlinecolor=#000000}Я-Я..."
 
-# game/game/script.rpy:1290
+# game/game/script.rpy:1296
 translate ukrainian set_fire_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:1291
+# game/game/script.rpy:1297
 translate ukrainian set_fire_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:1292
+# game/game/script.rpy:1298
 translate ukrainian set_fire_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:1293
+# game/game/script.rpy:1299
 translate ukrainian set_fire_cb611780:
 
     # t "After that..."
     t "Після цього..."
 
-# game/game/script.rpy:1296
+# game/game/script.rpy:1302
 translate ukrainian set_fire_3d82b6d0:
 
     # t "She cried in my arms for a while."
     t "Певний час вона ще плакала в моїх обіймах."
 
-# game/game/script.rpy:1297
+# game/game/script.rpy:1303
 translate ukrainian set_fire_76dec257:
 
     # t "Until she finally fell asleep..."
     t "Допоки нарешті не заснула..."
 
-# game/game/script.rpy:1300
+# game/game/script.rpy:1306
 translate ukrainian set_fire_93c30dbc:
 
     # t "So, slavery still exists in this world..."
     t "То рабство досі існує в цьому світі..."
 
-# game/game/script.rpy:1301
+# game/game/script.rpy:1307
 translate ukrainian set_fire_dc4a26fb:
 
     # t "This is what she meant by {w}\"You'll know it when the time comes\"?"
     t "Це вона мала на увазі, коли казала: {w}«Дізнаєшся, коли настане час»?"
 
-# game/game/script.rpy:1302
+# game/game/script.rpy:1308
 translate ukrainian set_fire_2b35b6fe_10:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1303
+# game/game/script.rpy:1309
 translate ukrainian set_fire_745ee7d7:
 
     # t "I shouldn't bring this up again... {w}at least not until she wants to talk about it."
     t "Мені не слід знову підіймати цю тему... {w}принаймні доти, доки вона сама не захоче про це поговорити."
 
-# game/game/script.rpy:1305
+# game/game/script.rpy:1311
 translate ukrainian set_fire_2b852aca:
 
     # t "It's been years since I hugged someone... {w}What made me do it now?"
     t "Я вже роками нікого не обіймав... {w}І що це на мене найшло саме зараз?"
 
-# game/game/script.rpy:1306
+# game/game/script.rpy:1312
 translate ukrainian set_fire_7a8be6b3:
 
     # t "Maybe... {w}I saw something of myself in her..."
     t "Можливо... {w}я побачив у ній частинку себе..."
 
-# game/game/script.rpy:1307
+# game/game/script.rpy:1313
 translate ukrainian set_fire_2b35b6fe_11:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1309
+# game/game/script.rpy:1315
 translate ukrainian set_fire_8ebfa5bf:
 
     # mc "Good night Ryoko."
     mc "На добраніч, Рьоко."
 
-# game/game/script.rpy:1310
+# game/game/script.rpy:1316
 translate ukrainian set_fire_1b2b53de:
 
     # r "{size=-6}Mmm..."
     r "{size=-6}Ммм..."
 
-# game/game/script.rpy:1311
+# game/game/script.rpy:1317
 translate ukrainian set_fire_e37c826b:
 
     # t "It doesn't matter. {w}As long as she's here..."
     t "Не важливо. {w}Допоки вона тут..."
 
-# game/game/script.rpy:1312
+# game/game/script.rpy:1318
 translate ukrainian set_fire_ced3f453:
 
     # t "I won't let anything happen to her...."
     t "Я не дозволю, аби з нею щось трапилося..."
 
-# game/game/script.rpy:1318
+# game/game/script.rpy:1324
 translate ukrainian set_fire_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:1319
+# game/game/script.rpy:1325
 translate ukrainian set_fire_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:1320
+# game/game/script.rpy:1326
 translate ukrainian set_fire_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:1324
+# game/game/script.rpy:1330
 translate ukrainian set_fire_df16bef4:
 
     # r "{size=-7}{i}He looks so calm..."
     r "{size=-7}{i}Він виглядає таким спокійним..."
 
-# game/game/script.rpy:1325
+# game/game/script.rpy:1331
 translate ukrainian set_fire_ea40cd4d:
 
     # r "{size=-7}{i}It looks like he stayed up all night keeping watch..."
     r "{size=-7}{i}Здається, він усю ніч не спав, вартуючи..."
 
-# game/game/script.rpy:1326
+# game/game/script.rpy:1332
 translate ukrainian set_fire_7520577d:
 
     # r "{size=-7}{i}I don't want to wake him..."
     r "{size=-7}{i}Не хочу його будити..."
 
-# game/game/script.rpy:1328
+# game/game/script.rpy:1334
 translate ukrainian set_fire_b9b755e5_1:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:1329
+# game/game/script.rpy:1335
 translate ukrainian set_fire_6397cfef:
 
     # mc "{size=-6}Mmm...?"
     mc "{size=-6}Ммм...?"
 
-# game/game/script.rpy:1334
+# game/game/script.rpy:1340
 translate ukrainian set_fire_ad32147b:
 
     # r "{sc=3}{outlinecolor=#000000}Aah- {w}Wuu- {w}Mun-"
     r "{sc=3}{outlinecolor=#000000}Аах- {w}Щьо- {w}Вах-"
 
-# game/game/script.rpy:1335
+# game/game/script.rpy:1341
 translate ukrainian set_fire_556cf21b:
 
     # mc "Ahwumun?"
     mc "«Ахщовах»?"
 
-# game/game/script.rpy:1336
+# game/game/script.rpy:1342
 translate ukrainian set_fire_f68732e8:
 
     # r "S-Sorry, I didn't mean to wake you..."
     r "П-Пробачте, я не хотіла вас розбудити..."
 
-# game/game/script.rpy:1338
+# game/game/script.rpy:1344
 translate ukrainian set_fire_8b2b4ef2:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Yaaawn*"
     mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Хаааах*{/i}"
 
-# game/game/script.rpy:1339
+# game/game/script.rpy:1345
 translate ukrainian set_fire_60e7bffd:
 
     # mc "{size=-8}What were you doing?"
     mc "{size=-8}Що це ти робила?"
 
-# game/game/script.rpy:1341
+# game/game/script.rpy:1347
 translate ukrainian set_fire_582518ed:
 
     # r "N-Nothing! {w}Did you sleep well?"
     r "Н-Нічого! {w}Вам добре спалося?"
 
-# game/game/script.rpy:1342
+# game/game/script.rpy:1348
 translate ukrainian set_fire_5f6800e2:
 
     # mc "It wasn't the best but there's not much to expect from the cold ground."
     mc "Не дуже, однак я на більше й не розраховував від холодної землі."
 
-# game/game/script.rpy:1343
+# game/game/script.rpy:1349
 translate ukrainian set_fire_100ac79b:
 
     # r "Sorry... {w}It must've been uncomfortable with me lying on your leg."
     r "Пробачте... {w}Мабуть, було незручно, коли я лежала у вас на ногах."
 
-# game/game/script.rpy:1344
+# game/game/script.rpy:1350
 translate ukrainian set_fire_09e63ca8:
 
     # mc "Don't worry. How do you feel?"
     mc "Не переймайся. Сама то як почуваєшся?"
 
-# game/game/script.rpy:1346
+# game/game/script.rpy:1352
 translate ukrainian set_fire_4cbc661b:
 
     # r "{size=-6}Much better, {w}thanks to you..."
     r "{size=-6}Значно краще, {w}завдяки вам..."
 
-# game/game/script.rpy:1347
+# game/game/script.rpy:1353
 translate ukrainian set_fire_e04395ed:
 
     # mc "I'm glad to hear that."
     mc "Радий це чути."
 
-# game/game/script.rpy:1348
+# game/game/script.rpy:1354
 translate ukrainian set_fire_3f871f46_2:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:1349
+# game/game/script.rpy:1355
 translate ukrainian set_fire_08cd443c:
 
     # r "Uhm?"
     r "Умм?"
 
-# game/game/script.rpy:1351
+# game/game/script.rpy:1357
 translate ukrainian set_fire_c17ef8ec:
 
     # mc "What's that?"
     mc "Що це?"
 
-# game/game/script.rpy:1352
+# game/game/script.rpy:1358
 translate ukrainian set_fire_75d43957:
 
     # r "Oh! {w}Do you remember the wolf from last night?"
-    r "Ох! {w}Пам'ятаєте вчорашнього вовка?"
+    r "Ох! {w}Пам'ятаєте вчорашнього вовка?" with vpunch
 
-# game/game/script.rpy:1353
+# game/game/script.rpy:1359
 translate ukrainian set_fire_84f602bb:
 
     # mc "How could I forget..."
     mc "Як я міг забути..."
 
-# game/game/script.rpy:1354
+# game/game/script.rpy:1360
 translate ukrainian set_fire_af688275:
 
     # r "Well, {w}I took what was usable and left it there for you."
     r "Тож {w}я дістала з нього все корисне й запакувала для вас."
 
-# game/game/script.rpy:1355
+# game/game/script.rpy:1361
 translate ukrainian set_fire_29887496:
 
     # r "Those types of wolves are really hard to kill, you know?"
     r "Ви знали, що цей вид вовків не так уже й просто вбити?"
 
-# game/game/script.rpy:1356
+# game/game/script.rpy:1362
 translate ukrainian set_fire_59a93ff4:
 
     # r "Their fangs and pelts sell for a lot in the markets."
     r "За їхні ікла та шкури можна чимало отримати на ринках."
 
-# game/game/script.rpy:1358
+# game/game/script.rpy:1364
 translate ukrainian set_fire_fcdd8231:
 
     # r "Ah, I used your katana, hope you don't mind."
     r "Ах, я скористалася вашою катаною. Сподіваюся, ви не проти."
 
-# game/game/script.rpy:1359
+# game/game/script.rpy:1365
 translate ukrainian set_fire_5f1c7ae9:
 
     # mc "My katana?"
     mc "Моєю катаною?"
 
-# game/game/script.rpy:1360
+# game/game/script.rpy:1366
 translate ukrainian set_fire_493544c7:
 
     # r "Yes! {w}It must have been forged by a skilled blacksmith."
     r "Так! {w}Здається, її викував дуже майстерний коваль."
 
-# game/game/script.rpy:1361
+# game/game/script.rpy:1367
 translate ukrainian set_fire_95533a2a:
 
     # t "Ryoko knows a lot about this... {w}Is this kind of knowledge common in this world?"
     t "Рьоко так багато знає про подібні речі... {w}Невже в цьому світі такі знання є чимось буденним?"
 
-# game/game/script.rpy:1362
+# game/game/script.rpy:1368
 translate ukrainian set_fire_cae838e9:
 
     # mc "Well... {w}thank you, Ryoko."
     mc "Що ж... {w}дякую тобі, Рьоко."
 
-# game/game/script.rpy:1363
+# game/game/script.rpy:1369
 translate ukrainian set_fire_b3d86042:
 
     # mc "I really appreciate it."
     mc "Я дійсно ціную твою допомогу."
 
-# game/game/script.rpy:1365
+# game/game/script.rpy:1371
 translate ukrainian set_fire_b85ceb92:
 
     # r "Uhm!"
-    r "Угу!"
+    r "Угу!" with hpunch
 
-# game/game/script.rpy:1366
+# game/game/script.rpy:1372
 translate ukrainian set_fire_d1c37cce:
 
     # t "Mmm...?"
     t "Ммм...?"
 
-# game/game/script.rpy:1367
+# game/game/script.rpy:1373
 translate ukrainian set_fire_16cce728:
 
     # t "Why did she lower her head?"
     t "Чому це вона схилила голову?"
 
-# game/game/script.rpy:1368
+# game/game/script.rpy:1374
 translate ukrainian set_fire_2192aa97:
 
     # t "Does she want... {w}headpats...?"
     t "Невже вона хоче... {w}щоб я погладив...?"
 
-# game/game/script.rpy:1370
+# game/game/script.rpy:1376
 translate ukrainian set_fire_2139d2d7:
 
     # r "...{image=corazon}~"
     r "...{image=corazon}~"
 
-# game/game/script.rpy:1371
+# game/game/script.rpy:1377
 translate ukrainian set_fire_de72a4c5:
 
     # t "I know I already said this, but... she's really cute.."
     t "Знаю, що вже це казав, але... вона справді дуже мила."
 
-# game/game/script.rpy:1372
+# game/game/script.rpy:1378
 translate ukrainian set_fire_594ff858:
 
     # t "Her hair is so soft and delicate..."
     t "Її волосся таке м'яке й ніжне..."
 
-# game/game/script.rpy:1373
+# game/game/script.rpy:1379
 translate ukrainian set_fire_6b4844ee:
 
     # r "Hehehe..."
     r "Хехехе..."
 
-# game/game/script.rpy:1374
+# game/game/script.rpy:1380
 translate ukrainian set_fire_37dfefcc:
 
     # r "{size=-6}Thank you M-Master..."
     r "{size=-6}Дякую, г-господарю..."
 
-# game/game/script.rpy:1375
+# game/game/script.rpy:1381
 translate ukrainian set_fire_070ae04f:
 
     # mc "M-Master?"
     mc "Г-Господарю?"
 
-# game/game/script.rpy:1377
+# game/game/script.rpy:1383
 translate ukrainian set_fire_a8bb2d68:
 
     # r "Yes!"
-    r "Так!"
+    r "Так!" with hpunch
 
-# game/game/script.rpy:1378
+# game/game/script.rpy:1384
 translate ukrainian set_fire_86130577:
 
     # r "I want you to be my Master!"
     r "Я хочу, щоб ви були моїм господарем!"
 
-# game/game/script.rpy:1379
+# game/game/script.rpy:1385
 translate ukrainian set_fire_1fe80ffe:
 
     # r "You're sweet, calm, and kind to me!"
     r "Ви такі люб'язні, спокійні та добрі до мене!"
 
-# game/game/script.rpy:1381
+# game/game/script.rpy:1387
 translate ukrainian set_fire_98f8f6c5:
 
     # r "I never thought I'd meet someone who would treat me kindly, even with these chains on."
     r "Ніколи не думала, що зустріну когось, хто ставитиметься до мене з такою добротою, навіть попри цей ланцюг на шиї."
 
-# game/game/script.rpy:1382
+# game/game/script.rpy:1388
 translate ukrainian set_fire_6a4d8fad:
 
     # r "{size=-6}And even more so, being a demon..."
     r "{size=-6}І навіть попри те, що я демон..."
 
-# game/game/script.rpy:1383
+# game/game/script.rpy:1389
 translate ukrainian set_fire_cc15d187:
 
     # mc "{size=-6}B-But I..."
     mc "{size=-6}А-Але я..."
 
-# game/game/script.rpy:1385
+# game/game/script.rpy:1391
 translate ukrainian set_fire_6d55513a:
 
     # r "{size=-6}The truth is... {w}I have nowhere else to go..."
     r "{size=-6}Правду кажучи... {w}Мені нікуди більше йти..."
 
-# game/game/script.rpy:1386
+# game/game/script.rpy:1392
 translate ukrainian set_fire_96750cf1:
 
     # r "I can't take these chains off, and if I'm alone, sooner or later someone will figure out I'm a runaway slave."
     r "Мені не зняти цього ланцюга. А якщо я залишуся сама, то рано чи пізно хтось здогадається, що я рабиня-втікачка."
 
-# game/game/script.rpy:1387
+# game/game/script.rpy:1393
 translate ukrainian set_fire_24958664:
 
     # r "And if I have to live like this, {w}I want you to be my Master."
     r "І якщо таким буде моє подальше життя, {w}я хочу, аби саме ви стали моїм господарем."
 
-# game/game/script.rpy:1389
+# game/game/script.rpy:1395
 translate ukrainian set_fire_592114f7:
 
     # r "{size=-6}Unless... {w}you don't want to, of course..."
     r "{size=-6}Хіба що... {w}ви, звичайно, проти..."
 
-# game/game/script.rpy:1390
+# game/game/script.rpy:1396
 translate ukrainian set_fire_2b35b6fe_12:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1392
+# game/game/script.rpy:1398
 translate ukrainian set_fire_3a1719f0:
 
     # t "Don't cheat by giving me those puppy eyes..."
     t "Не дивись на мене цими щенячими оченятами, так не чесно..."
 
-# game/game/script.rpy:1393
+# game/game/script.rpy:1399
 translate ukrainian set_fire_4a432854:
 
     # t "But what she says makes a lot of sense..."
     t "Але вона дійсно має рацію у своїх судженнях..."
 
-# game/game/script.rpy:1394
+# game/game/script.rpy:1400
 translate ukrainian set_fire_05751904:
 
     # t "If I don't accept, {w}it would be the same as abandoning her to her fate..."
     t "Якщо я відмовлю, {w}це буде те саме, що й залишити її напризволяще..."
 
-# game/game/script.rpy:1395
+# game/game/script.rpy:1401
 translate ukrainian set_fire_4a5b1a7d:
 
     # t "And I wouldn't do that to the one who saved me."
     t "Я б нізащо так не вчинив із тим, хто мене врятував."
 
-# game/game/script.rpy:1396
+# game/game/script.rpy:1402
 translate ukrainian set_fire_74545b99:
 
     # mc "All right... {w}but-"
     mc "Згоден... {w}але-"
 
-# game/game/script.rpy:1402
+# game/game/script.rpy:1408
 translate ukrainian set_fire_ffc56237:
 
     # r "{sc=2}{outlinecolor=#000000}Yaaaaay!~{image=corazon}"
     r "{sc=2}{outlinecolor=#000000}Урааааа!~{image=corazon}"
 
-# game/game/script.rpy:1405
+# game/game/script.rpy:1411
 translate ukrainian set_fire_f1aaac26:
 
     # t "And just like that, I got my first... {w}partner..."
     t "Ось так я і знайшов свою першу... {w}напарницю..."
 
-# game/game/script.rpy:1407
+# game/game/script.rpy:1413
 translate ukrainian set_fire_9cf75fa4:
 
     # mc "Listen, Ryoko..."
     mc "Слухай, Рьоко..."
 
-# game/game/script.rpy:1408
+# game/game/script.rpy:1414
 translate ukrainian set_fire_4a43d525:
 
     # mc "I don't like the fact that you're a slave."
     mc "Мене гнітить те, що ти рабиня."
 
-# game/game/script.rpy:1409
+# game/game/script.rpy:1415
 translate ukrainian set_fire_b1321623:
 
     # mc "So I don't want you to ever feel that way with me."
     mc "Тому я зовсім не хочу, щоб ти коли-небудь почувалася так поруч зі мною."
 
-# game/game/script.rpy:1410
+# game/game/script.rpy:1416
 translate ukrainian set_fire_4cbb92ef:
 
     # mc "To me, you're already a friend."
     mc "Тим паче я вже вважаю тебе подругою."
 
-# game/game/script.rpy:1411
+# game/game/script.rpy:1417
 translate ukrainian set_fire_3f7ec896:
 
     # r "{size=-7}...ter..."
     r "{size=-7}...-сподарю..."
 
-# game/game/script.rpy:1413
+# game/game/script.rpy:1419
 translate ukrainian set_fire_3effe39b:
 
     # mc "First, we need to do something about your clothes."
     mc "Спочатку, варто щось вирішити з твоїм одягом."
 
-# game/game/script.rpy:1414
+# game/game/script.rpy:1420
 translate ukrainian set_fire_34dccf49:
 
     # r "{size=-7}Master..."
     r "{size=-7}Господарю..."
 
-# game/game/script.rpy:1415
+# game/game/script.rpy:1421
 translate ukrainian set_fire_6b2de99a:
 
     # mc "Then I'll find a way to break that necklace."
     mc "Потім я знайду спосіб зняти з тебе цей нашийник."
 
-# game/game/script.rpy:1416
+# game/game/script.rpy:1422
 translate ukrainian set_fire_6200a409:
 
     # r "I'm really happy with what you're saying, {w}but..."
     r "Мене дійсно тішать ваші слова, {w}але..."
 
-# game/game/script.rpy:1418
+# game/game/script.rpy:1424
 translate ukrainian set_fire_9dddff12:
 
     # mc "What's wrong? Did I say something bad?"
     mc "Що таке? Я тебе чимось засмутив?"
 
-# game/game/script.rpy:1419
+# game/game/script.rpy:1425
 translate ukrainian set_fire_ca2ea3b1:
 
     # r "Err... {w}no, {w}no..."
     r "Еех... {w}ні, {w}ні..."
 
-# game/game/script.rpy:1420
+# game/game/script.rpy:1426
 translate ukrainian set_fire_652650d3_1:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:1421
+# game/game/script.rpy:1427
 translate ukrainian set_fire_15842b87:
 
     # r "{size=-6}Y-Your hands..."
     r "{size=-6}В-Ваші руки..."
 
-# game/game/script.rpy:1423
+# game/game/script.rpy:1429
 translate ukrainian set_fire_fac2e896:
 
     # mc "My... {w}{size=-6}hands?"
     mc "Мої... {w}{size=-6}руки?"
 
-# game/game/script.rpy:1424
+# game/game/script.rpy:1430
 translate ukrainian set_fire_2b35b6fe_13:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1425
+# game/game/script.rpy:1431
 translate ukrainian set_fire_b9b755e5_2:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:1427
+# game/game/script.rpy:1433
 translate ukrainian set_fire_d53f2c6a:
 
     # mc "{sc=2}{outlinecolor=#000000}SORRY!"
-    mc "{sc=2}{outlinecolor=#000000}ПРОБАЧ!"
+    mc "{sc=2}{outlinecolor=#000000}ПРОБАЧ!" with vpunch
 
-# game/game/script.rpy:1428
+# game/game/script.rpy:1434
 translate ukrainian set_fire_64dca71c:
 
     # r "D-Don't worry..."
     r "Н-Не хвилюйтеся..."
 
-# game/game/script.rpy:1429
+# game/game/script.rpy:1435
 translate ukrainian set_fire_a11819b4:
 
     # mc "I didn't mean to! I swear!"
     mc "Я не хотів! Клянуся!"
 
-# game/game/script.rpy:1430
+# game/game/script.rpy:1436
 translate ukrainian set_fire_23901cdd:
 
     # mc "It was a reflex! {w}They were so soft that- {w}I-"
     mc "Я рефлекторно! {w}Вони такі м'які, що- {w}я-"
 
-# game/game/script.rpy:1431
+# game/game/script.rpy:1437
 translate ukrainian set_fire_8c03878f:
 
     # t "What the hell am I saying?!"
-    t "Що я в біса таке кажу?!"
+    t "Що я в біса таке кажу?!" with vpunch
 
-# game/game/script.rpy:1433
+# game/game/script.rpy:1439
 translate ukrainian set_fire_a9eb5b61:
 
     # r "{color=#D16992}{size=-5}{i}He got nervous... because of me?"
     r "{color=#D16992}{size=-5}{i}Він збентежився... через мене?"
 
-# game/game/script.rpy:1434
+# game/game/script.rpy:1440
 translate ukrainian set_fire_56afc329:
 
     # r "{color=#D16992}{size=-5}{i}I didn't think I would find a human who would see me as a woman and not just a demon..."
     r "{color=#D16992}{size=-5}{i}Я й не думала, що знайду людину, яка бачитиме в мені дівчину, а не просто демона..."
 
-# game/game/script.rpy:1435
+# game/game/script.rpy:1441
 translate ukrainian set_fire_79fa51dc:
 
     # r "{color=#D16992}{size=-5}{i}Maybe..."
     r "{color=#D16992}{size=-5}{i}Можливо..."
 
-# game/game/script.rpy:1437
+# game/game/script.rpy:1443
 translate ukrainian set_fire_80e66dfe:
 
     # r "{color=#D16992}{size=-5}{i}No no, what am I thinking?!"
-    r "{color=#D16992}{size=-5}{i}Ні-ні, про що це я думаю?!"
+    r "{color=#D16992}{size=-5}{i}Ні-ні, про що це я думаю?!" with hpunch
 
-# game/game/script.rpy:1438
+# game/game/script.rpy:1444
 translate ukrainian set_fire_da634693:
 
     # r "{color=#D16992}{size=-5}{i}He's just being nice, {w}there's no way he..."
     r "{color=#D16992}{size=-5}{i}Він просто ввічливий, {w}не може бути, щоб він..."
 
-# game/game/script.rpy:1439
+# game/game/script.rpy:1445
 translate ukrainian set_fire_b9b755e5_3:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:1440
+# game/game/script.rpy:1446
 translate ukrainian set_fire_df0e92e9:
 
     # mc "Ryoko?"
     mc "Рьоко?"
 
-# game/game/script.rpy:1441
+# game/game/script.rpy:1447
 translate ukrainian set_fire_b9b755e5_4:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:1442
+# game/game/script.rpy:1448
 translate ukrainian set_fire_a15d334c:
 
     # mc "Hey..."
     mc "Гей..."
 
-# game/game/script.rpy:1444
+# game/game/script.rpy:1450
 translate ukrainian set_fire_5c7be87f:
 
     # r "{sc=2}{outlinecolor=#000000}Ah! Yes!"
     r "{sc=2}{outlinecolor=#000000}Ах! Так!"
 
-# game/game/script.rpy:1451
+# game/game/script.rpy:1457
 translate ukrainian set_fire_97d21fd8:
 
     # t "She said those wolves are hard to kill... {w}I hope they're worth something at the market she mentioned."
     t "Вона сказала, що цих вовків тяжко вбити... {w}Сподіваюся, це дісно щось вартуватиме на ринку, який вона згадувала."
 
-# game/game/script.rpy:1452
+# game/game/script.rpy:1458
 translate ukrainian set_fire_db640ac1:
 
     # t "I also need to gather some information. {w}I'll ask Ryoko what she knows."
     t "Також варто було б зібрати різного роду інформацію. {w}Спитаю в Рьоко, що вона знає."
 
-# game/game/script.rpy:1453
+# game/game/script.rpy:1459
 translate ukrainian set_fire_5ea97e8e:
 
     # mc "Hey Ryoko, {w}can I ask you a few questions?"
     mc "Чуєш, Рьоко, {w}я можу в тебе спитати дещо?"
 
-# game/game/script.rpy:1454
+# game/game/script.rpy:1460
 translate ukrainian set_fire_63116dcf:
 
     # r "Of course!"
-    r "Звісно!"
+    r "Звісно!" with vpunch
 
-# game/game/script.rpy:1474
+# game/game/script.rpy:1480
 translate ukrainian situation_0eb28ab5:
 
     # mc "I'm sure you've already noticed..."
     mc "Упевнений, ти вже помітила..."
 
-# game/game/script.rpy:1475
+# game/game/script.rpy:1481
 translate ukrainian situation_a913ba86:
 
     # mc "But I'm not from around here."
     mc "Я родом зовсім не звідси."
 
-# game/game/script.rpy:1476
+# game/game/script.rpy:1482
 translate ukrainian situation_3c4219dc:
 
     # mc "I come from a place far away, and I've been... {w}traveling."
     mc "Я прийшов із дуже далеких земель, і наразі я... {w}подорожую."
 
-# game/game/script.rpy:1478
+# game/game/script.rpy:1484
 translate ukrainian situation_83b37df8:
 
     # r "Yes! {w}You must be one of those adventurers!"
-    r "Так! {w}Ви, мабуть, один із тих пригодників!"
+    r "Так! {w}Ви, мабуть, один із тих пригодників!" with vpunch
 
-# game/game/script.rpy:1479
+# game/game/script.rpy:1485
 translate ukrainian situation_4363205c:
 
     # r "Strong people who travel around defeating monsters!"
     r "Сміливці та відчайдухи, які мандрують світом, перемагаючи монстрів!"
 
-# game/game/script.rpy:1480
+# game/game/script.rpy:1486
 translate ukrainian situation_ce58df94:
 
     # t "So there really are strong people in this world."
     t "Отже, у цьому світі справді існують сильні люди."
 
-# game/game/script.rpy:1481
+# game/game/script.rpy:1487
 translate ukrainian situation_aa3fd279:
 
     # t "Then maybe I won't look so out of place when I show up in front of others."
     t "Можливо, тоді я не так сильно впадатиму в око, з'являючись перед іншими."
 
-# game/game/script.rpy:1482
+# game/game/script.rpy:1488
 translate ukrainian situation_9e89cf41:
 
     # r "Although..."
     r "Проте..."
 
-# game/game/script.rpy:1483
+# game/game/script.rpy:1489
 translate ukrainian situation_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:1485
+# game/game/script.rpy:1491
 translate ukrainian situation_1b5d9fee:
 
     # r "You're the strongest person I've ever seen!"
-    r "Ви найсильніший, кого я тільки бачила!"
+    r "Ви найсильніший, кого я тільки бачила!" with hpunch
 
-# game/game/script.rpy:1486
+# game/game/script.rpy:1492
 translate ukrainian situation_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1487
+# game/game/script.rpy:1493
 translate ukrainian situation_07eba8ee:
 
     # mc "R-Really?"
     mc "С-Справді?"
 
-# game/game/script.rpy:1488
+# game/game/script.rpy:1494
 translate ukrainian situation_00239998:
 
     # mc "W-Why do you think that...?"
     mc "Ч-Чому ти так вважаєш...?"
 
-# game/game/script.rpy:1490
+# game/game/script.rpy:1496
 translate ukrainian situation_5773a6ee:
 
     # r "You defeated a Great Wolf with a single strike! {w}It usually takes three A-Rank adventurers to take one down!"
-    r "Ви змогли вбити могутнього вовка лише одним змахом! {w}Зазвичай знадобиться мінімум три A-рангових пригодників, щоб перемогти одного!"
+    r "Ви змогли вбити могутнього вовка лише одним змахом! {w}Зазвичай знадобиться мінімум три A-рангових пригодників, щоб перемогти одного!" with vpunch
 
-# game/game/script.rpy:1491
+# game/game/script.rpy:1497
 translate ukrainian situation_ac79111e:
 
     # t "Shit! {w}Keiko, this is your fault."
-    t "Чорт! {w}Це твоя провина, Кейко."
+    t "Чорт! {w}Це твоя провина, Кейко." with hpunch
 
-# game/game/script.rpy:1492
+# game/game/script.rpy:1498
 translate ukrainian situation_fc875c0b:
 
     # t "Wait- {w}A-Rank??"
     t "Стривай... {w}A-рангових??"
 
-# game/game/script.rpy:1493
+# game/game/script.rpy:1499
 translate ukrainian situation_ff29a85e:
 
     # t "Adventurers are ranked? Good to know."
     t "Пригодників розподіляють за рангами? Візьму до уваги."
 
-# game/game/script.rpy:1494
+# game/game/script.rpy:1500
 translate ukrainian situation_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1495
+# game/game/script.rpy:1501
 translate ukrainian situation_04250b80:
 
     # mc "R-Ryoko..."
     mc "Р-Рьоко..."
 
-# game/game/script.rpy:1497
+# game/game/script.rpy:1503
 translate ukrainian situation_3c46b32b:
 
     # r "Yes?"
     r "Так?"
 
-# game/game/script.rpy:1498
+# game/game/script.rpy:1504
 translate ukrainian situation_3ffe5f96:
 
     # mc "Can you keep that a secret? {w}I don't want to attract too much attention..."
     mc "Пообіцяєш не розповідати про це? {w}Я не хочу привертати забагато уваги до себе..."
 
-# game/game/script.rpy:1500
+# game/game/script.rpy:1506
 translate ukrainian situation_1d5393dd:
 
     # r "Yes, Master!"
-    r "Так, господарю!"
+    r "Так, господарю!" with vpunch
 
-# game/game/script.rpy:1501
+# game/game/script.rpy:1507
 translate ukrainian situation_37ad2cdb:
 
     # mc "{size=-6}{i}Sigh*"
     mc "{size=-6}{i}*Хааах*"
 
-# game/game/script.rpy:1507
+# game/game/script.rpy:1513
 translate ukrainian where_9883c7ca:
 
     # mc "Do you know where we are?"
     mc "Ти знаєш, де ми зараз?"
 
-# game/game/script.rpy:1509
+# game/game/script.rpy:1515
 translate ukrainian where_60607f29:
 
     # r "Yes! {w}This is the \"Howling Forest\"."
     r "Так! {w}Ми зараз у Ревучому лісі."
 
-# game/game/script.rpy:1510
+# game/game/script.rpy:1516
 translate ukrainian where_c122fd54:
 
     # r "People don't come here very often and... {w}well, now you know why."
     r "Люди не часто сюди ходять й... {w}ну, певно, ви зрозуміли чому."
 
-# game/game/script.rpy:1511
+# game/game/script.rpy:1517
 translate ukrainian where_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1512
+# game/game/script.rpy:1518
 translate ukrainian where_3666baef:
 
     # t "Really, goddesses? There wasn't a better place to drop me?"
     t "Серйозно, богині? Не було кращого місця для моєї появи?"
 
-# game/game/script.rpy:1513
+# game/game/script.rpy:1519
 translate ukrainian where_f8c20974:
 
     # t "And if she hadn't given me that katana, I would've... {w}damn..."
     t "І якби вона не дала мені цю катану, я б уже... {w}трясця..."
 
-# game/game/script.rpy:1514
+# game/game/script.rpy:1520
 translate ukrainian where_b83c34fc:
 
     # t "If I see them again, we're going to have a long talk."
     t "Якщо знову їх побачу, проведу з ними серйозну бесіду."
 
-# game/game/script.rpy:1516
+# game/game/script.rpy:1522
 translate ukrainian where_fc3a95ab:
 
     # r "Master?"
     r "Господарю?"
 
-# game/game/script.rpy:1517
+# game/game/script.rpy:1523
 translate ukrainian where_6cd9b760:
 
     # mc "Ah, {w}do you know if there are any villages or towns nearby?"
     mc "Ах, {w}можливо, ти знаєш, де тут найближче селище чи містечко?"
 
-# game/game/script.rpy:1519
+# game/game/script.rpy:1525
 translate ukrainian where_c63da6c1:
 
     # r "I remember seeing a map the mercenaries had."
     r "Пам'ятаю, я бачила мапу найманців."
 
-# game/game/script.rpy:1520
+# game/game/script.rpy:1526
 translate ukrainian where_48d31dd9:
 
     # r "If I'm not mistaken, there should be one close by."
     r "Якщо не помиляюся, є одне недалеко."
 
-# game/game/script.rpy:1521
+# game/game/script.rpy:1527
 translate ukrainian where_48b4a8f4:
 
     # r "If we leave now, we can get there before sunset."
     r "Рушимо зараз — і встигнемо до заходу сонця."
 
-# game/game/script.rpy:1522
+# game/game/script.rpy:1528
 translate ukrainian where_58c3ab96:
 
     # mc "That sounds perfect, {w}where would I be without you?"
     mc "Звучить чудово, {w}що б я робив без тебе?"
 
-# game/game/script.rpy:1524
+# game/game/script.rpy:1530
 translate ukrainian where_d8320aab:
 
     # r "{size=-8}Ah..."
     r "{size=-8}Ах..."
 
-# game/game/script.rpy:1526
+# game/game/script.rpy:1532
 translate ukrainian where_8006ed4d:
 
     # r "Hehehe~~{image=corazon}"
     r "Хехехе~~{image=corazon}"
 
-# game/game/script.rpy:1533
+# game/game/script.rpy:1539
 translate ukrainian wolf_068bd44c:
 
     # mc "I almost forgot, thanks again for warning me when that wolf attacked."
     mc "Я майже забув: хочу знову як слід подякувати тобі за те, що попередила мене тоді, перед нападом вовка."
 
-# game/game/script.rpy:1534
+# game/game/script.rpy:1540
 translate ukrainian wolf_2d8bc2aa:
 
     # mc "Not once, but twice. {w}I'll have to be more careful next time, haha..."
     mc "І не раз, а двічі. {w}Варто мені бути обачнішим наступного разу, хаха..."
 
-# game/game/script.rpy:1536
+# game/game/script.rpy:1542
 translate ukrainian wolf_8db313ae:
 
     # r "No problem, Master. But... {w}I only remember warning you once."
     r "Дрібниці, господарю. Але... {w}я пам'ятаю, що попередила вас лише раз."
 
-# game/game/script.rpy:1537
+# game/game/script.rpy:1543
 translate ukrainian wolf_d56f8e1e:
 
     # mc "W-What? {w}Then who warned me at the start of the fight?"
     mc "Щ-Що? {w}Тоді хто крикнув мені перед самим початком бою?"
 
-# game/game/script.rpy:1538
+# game/game/script.rpy:1544
 translate ukrainian wolf_f46e276c:
 
     # r "I'm not sure. I heard fighting noises and ran over to check."
     r "Не знаю. Я почула шум, коли битва вже почалася, й побігла перевірити."
 
-# game/game/script.rpy:1539
+# game/game/script.rpy:1545
 translate ukrainian wolf_0f439de4:
 
     # r "When I arrived, {w}the wolf was about to pounce on you..."
     r "Коли я прибігла, {w}вовк уже збирався накинутися на вас..."
 
-# game/game/script.rpy:1540
+# game/game/script.rpy:1546
 translate ukrainian wolf_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1542
+# game/game/script.rpy:1548
 translate ukrainian wolf_e4fcc0d1:
 
     # r "Mmm...?"
     r "Ммм...?"
 
-# game/game/script.rpy:1543
+# game/game/script.rpy:1549
 translate ukrainian wolf_109b00eb:
 
     # mc "M-Maybe it was just my imagination... {w}Thanks, Ryoko."
     mc "М-Мабуть, мені просто почулося... {w}Дякую тобі, Рьоко."
 
-# game/game/script.rpy:1545
+# game/game/script.rpy:1551
 translate ukrainian wolf_80ff26fc:
 
     # r "Yes!{image=corazon}"
     r "Будь ласка!{image=corazon}"
 
-# game/game/script.rpy:1551
+# game/game/script.rpy:1557
 translate ukrainian go_5e0f2063:
 
     # mc "It's time to start moving."
     mc "Пора вже нам рушати."
 
-# game/game/script.rpy:1553
+# game/game/script.rpy:1559
 translate ukrainian go_ec487fa1:
 
     # r "Understood! {w}I'll guide you to the village, then!"
-    r "Зрозуміла! {w}Тоді я проведу вас до села!"
+    r "Зрозуміла! {w}Тоді я проведу вас до села!" with vpunch
 
-# game/game/script.rpy:1554
+# game/game/script.rpy:1560
 translate ukrainian go_a4877141:
 
     # mc "I'm right behind you."
     mc "Уперед, я йтиму слідом."
 
-# game/game/script.rpy:1567
+# game/game/script.rpy:1573
 translate ukrainian go_fa6ca85c:
 
     # mc "Ryoko? Do your feet hurt?"
     mc "Рьоко? Твоїм ногам не боляче?"
 
-# game/game/script.rpy:1568
+# game/game/script.rpy:1574
 translate ukrainian go_2af06ddd:
 
     # mc "I can lend you my boots if you want..."
     mc "Можу позичити тобі свої чоботи, якщо хочеш..."
 
-# game/game/script.rpy:1569
+# game/game/script.rpy:1575
 translate ukrainian go_87d2683f:
 
     # r "Don't worry! I've been walking like this all my life!"
     r "Не переймайтеся! Я так ходила все своє життя!"
 
-# game/game/script.rpy:1570
+# game/game/script.rpy:1576
 translate ukrainian go_a44c8837:
 
     # mc "Not sure if that's something to be proud of..."
     mc "Не впевнений, що цим варто пишатися..."
 
-# game/game/script.rpy:1574
+# game/game/script.rpy:1580
 translate ukrainian go_fdd5d161:
 
     # mc "I'll say it again, {w}where would I be without you, Ryoko."
     mc "Скажу це знову: {w}що б я робив без тебе, Рьоко."
 
-# game/game/script.rpy:1575
+# game/game/script.rpy:1581
 translate ukrainian go_1e038366:
 
     # r "Master! {w}You're making me blush..."
     r "Господарю! {w}Ви змушуєте мене червоніти..."
 
-# game/game/script.rpy:1576
+# game/game/script.rpy:1582
 translate ukrainian go_c42c5741:
 
     # t "Between you and me, {w}I love it when she blushes."
     t "Між нами кажучи, {w}я обожнюю, коли вона червоніє."
 
-# game/game/script.rpy:1581
+# game/game/script.rpy:1587
 translate ukrainian go_9c17969e:
 
     # r "Master!!"
-    r "Господарю!!"
+    r "Господарю!!" with vpunch
 
-# game/game/script.rpy:1585
+# game/game/script.rpy:1591
 translate ukrainian go_35951817:
 
     # mc "Stay back, Ryoko!"
-    mc "Залишайся позаду, Рьоко!"
+    mc "Залишайся позаду, Рьоко!" with hpunch
 
-# game/game/script.rpy:1593
+# game/game/script.rpy:1599
 translate ukrainian go_c78b56f4:
 
     # t "{sc=2}{outlinecolor=#000000}Shit, shit, shit."
     t "{sc=2}{outlinecolor=#000000}Лайно, лайно, лайно."
 
-# game/game/script.rpy:1594
+# game/game/script.rpy:1600
 translate ukrainian go_5917e7ba:
 
     # r "Master! {w}Beyond those bushes is the way out of the forest!"
     r "Господарю! {w}За цими кущами лежить вихід із лісу!"
 
-# game/game/script.rpy:1596
+# game/game/script.rpy:1602
 translate ukrainian go_6db10707:
 
     # mc "Don't worry, Ryoko... {w}Just stay behind me..."
     mc "Не хвилюйся, Рьоко... {w}Просто стій за мною..."
 
-# game/game/script.rpy:1597
+# game/game/script.rpy:1603
 translate ukrainian go_b3f44cb6:
 
     # r "Please, be careful..."
     r "Будь ласка, будьте обережними..."
 
-# game/game/script.rpy:1599
+# game/game/script.rpy:1605
 translate ukrainian go_080380a4:
 
     # t "{size=-6}They came out of nowhere..."
     t "{size=-6}Вони прийшли нізвідки..."
 
-# game/game/script.rpy:1600
+# game/game/script.rpy:1606
 translate ukrainian go_74c7eeb0:
 
     # t "Is this some kind of sick joke?"
     t "Це що, якийсь злий жарт?"
 
-# game/game/script.rpy:1601
+# game/game/script.rpy:1607
 translate ukrainian go_c3758aaa:
 
     # t "Is someone testing me, or is it just my terrible luck again?"
     t "Хтось мене випробовує, чи це знову моя жахлива невдача?"
 
-# game/game/script.rpy:1602
+# game/game/script.rpy:1608
 translate ukrainian go_08ea3625:
 
     # mc "Ryoko!"
-    mc "Рьоко!"
+    mc "Рьоко!" with vpunch
 
-# game/game/script.rpy:1604
+# game/game/script.rpy:1610
 translate ukrainian go_747cf4de:
 
     # r "{sc=2}{outlinecolor=#000000}Ye-{w}Yes!?"
     r "{sc=2}{outlinecolor=#000000}Та-{w}Так!?"
 
-# game/game/script.rpy:1605
+# game/game/script.rpy:1611
 translate ukrainian go_2624ae1a:
 
     # mc "I'll distract them."
     mc "Я відверну їхню увагу."
 
-# game/game/script.rpy:1606
+# game/game/script.rpy:1612
 translate ukrainian go_64caae57:
 
     # mc "Run as fast as you can and get out of the forest."
     mc "А ти біжи щодуху і вибирайся з лісу."
 
-# game/game/script.rpy:1607
+# game/game/script.rpy:1613
 translate ukrainian go_4a28ad9e:
 
     # r "B-But what about you...?"
     r "А-А як же ви...?"
 
-# game/game/script.rpy:1608
+# game/game/script.rpy:1614
 translate ukrainian go_c368f380:
 
     # mc "That's an {sc=2}{outlinecolor=#000000}ORDER!"
-    mc "Це {sc=2}{outlinecolor=#000000}НАКАЗ!"
+    mc "Це {sc=2}{outlinecolor=#000000}НАКАЗ!" with hpunch
 
-# game/game/script.rpy:1610
+# game/game/script.rpy:1616
 translate ukrainian go_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:1611
+# game/game/script.rpy:1617
 translate ukrainian go_9ddd47c1:
 
     # mc "Ryoko!"
-    mc "Рьоко!"
+    mc "Рьоко!" with hpunch
 
-# game/game/script.rpy:1613
+# game/game/script.rpy:1619
 translate ukrainian go_c917deff:
 
     # r "{sc=2}{outlinecolor=#000000}I-I understand!"
-    r "{sc=2}{outlinecolor=#000000}З-Зрозуміла!"
+    r "{sc=2}{outlinecolor=#000000}З-Зрозуміла!" with vpunch
 
-# game/game/script.rpy:1615
+# game/game/script.rpy:1621
 translate ukrainian go_0e0a7592:
 
     # t "Okay, focus [mc]. You've been through worse."
     t "Гаразд, зосередься, [name_form('voc')]. Ти проходив і через гірше."
 
-# game/game/script.rpy:1616
+# game/game/script.rpy:1622
 translate ukrainian go_931041e8:
 
     # t "... Not really, but..."
     t "... Насправді ні, але..."
 
-# game/game/script.rpy:1617
+# game/game/script.rpy:1623
 translate ukrainian go_2b85e4bd:
 
     # t "I have to do what I can to get out of this!"
-    t "Я маю вкласти всі свої сили, щоб вибратися з цього!"
+    t "Я маю вкласти всі свої сили, щоб вибратися з цього!" with hpunch
 
-# game/game/script.rpy:1619
+# game/game/script.rpy:1625
 translate ukrainian go_d5e1b275:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Deep breath...*"
     mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Глибокий подих...*"
 
-# game/game/script.rpy:1620
+# game/game/script.rpy:1626
 translate ukrainian go_c7c5b51b:
 
     # t "Three wolves..."
     t "Три вовки..."
 
-# game/game/script.rpy:1621
+# game/game/script.rpy:1627
 translate ukrainian go_db467fb0:
 
     # t "Ryoko behind me..."
     t "Рьоко позаду мене..."
 
-# game/game/script.rpy:1622
+# game/game/script.rpy:1628
 translate ukrainian go_a5fca812:
 
     # t "I'm screwed... {w}but if I do nothing, {w}we'll both die here."
     t "Мені гаплик... {w}Але якщо я так і стоятиму, {w}помремо обоє."
 
-# game/game/script.rpy:1623
+# game/game/script.rpy:1629
 translate ukrainian go_982fe390:
 
     # mc "{size=-6}All right..."
     mc "{size=-6}Гаразд..."
 
-# game/game/script.rpy:1628
+# game/game/script.rpy:1634
 translate ukrainian go_3ccab323:
 
     # t "Two wolves moved forward as soon as the giant growled."
     t "Двоє вовків рушили вперед, щойно велетень загарчав."
 
-# game/game/script.rpy:1629
+# game/game/script.rpy:1635
 translate ukrainian go_63c1bb53:
 
     # t "I have read about this, the biggest must be the alpha..."
     t "Я колись читав про це. Здається, найбільший — це альфа самець..."
 
-# game/game/script.rpy:1630
+# game/game/script.rpy:1636
 translate ukrainian go_c6b9615f:
 
     # t "This is even worse than I thought..."
     t "Ситуація навіть гірше, ніж я думав..."
 
-# game/game/script.rpy:1631
+# game/game/script.rpy:1637
 translate ukrainian go_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1634
+# game/game/script.rpy:1640
 translate ukrainian go_916f5999:
 
     # mc "{sc=2}{outlinecolor=#000000}NOW!"
-    mc "{sc=2}{outlinecolor=#000000}ЗАРАЗ!"
+    mc "{sc=2}{outlinecolor=#000000}ЗАРАЗ!" with vpunch
 
-# game/game/script.rpy:1636
+# game/game/script.rpy:1642
 translate ukrainian go_b1447213:
 
     # r "{sc=2}{outlinecolor=#000000}Master!"
-    r "{sc=2}{outlinecolor=#000000}Господарю!"
+    r "{sc=2}{outlinecolor=#000000}Господарю!" with hpunch
 
-# game/game/script.rpy:1647
+# game/game/script.rpy:1653
 translate ukrainian go_196f0b84:
 
     # r "{sc=2}{outlinecolor=#000000}Aaah!"
-    r "{sc=2}{outlinecolor=#000000}Ааах!"
+    r "{sc=2}{outlinecolor=#000000}Ааах!" (multiple=2)
 
-# game/game/script.rpy:1648
+# game/game/script.rpy:1654
 translate ukrainian go_f22299a0:
 
     # mc "I won't let you!"
-    mc "Не дозволю!"
+    mc "Не дозволю!" (multiple=2)
 
-# game/game/script.rpy:1651
+# game/game/script.rpy:1657
 translate ukrainian go_08bd860f:
 
     # t "One down, two to g-{w=0.5}{nw}"
     t "Один готовий, залишилося дв-{w=0.5}{nw}"
 
-# game/game/script.rpy:1662
+# game/game/script.rpy:1668
 translate ukrainian go_bbac7587:
 
     # mc "{sc=2}{outlinecolor=#000000}Ghg!"
-    mc "{sc=2}{outlinecolor=#000000}Гхм!"
+    mc "{sc=2}{outlinecolor=#000000}Гхм!" with hpunch
 
-# game/game/script.rpy:1663
+# game/game/script.rpy:1669
 translate ukrainian go_5b1e3b08:
 
     # t "I-I'm not used to fighting so many at o-once."
     t "Н-Не звик я битися зі с-стількома одразу."
 
-# game/game/script.rpy:1665
+# game/game/script.rpy:1671
 translate ukrainian go_8e7a979e:
 
     # r "{sc=2}{outlinecolor=#000000}M-Master [mc]!"
-    r "{sc=2}{outlinecolor=#000000}Г-Господарю [name_form('voc')]!"
+    r "{sc=2}{outlinecolor=#000000}Г-Господарю [name_form('voc')]!" with hpunch
 
-# game/game/script.rpy:1666
+# game/game/script.rpy:1672
 translate ukrainian go_13403a9b:
 
     # mc "Just keep running!"
-    mc "Продовжуй бігти!"
+    mc "Продовжуй бігти!" with hpunch
 
-# game/game/script.rpy:1669
+# game/game/script.rpy:1675
 translate ukrainian go_b8b3f76d:
 
     # t "He wants to rip my arm off!"
     t "Він намагається відгризти мені руку!"
 
-# game/game/script.rpy:1678
+# game/game/script.rpy:1684
 translate ukrainian go_39b1cf3f:
 
     # mc "{sc=2}{outlinecolor=#000000}Aaaaaaaah!"
-    mc "{sc=2}{outlinecolor=#000000}Аааааааах!"
+    mc "{sc=2}{outlinecolor=#000000}Аааааааах!" with hpunch
 
-# game/game/script.rpy:1686
+# game/game/script.rpy:1692
 translate ukrainian go_41d0217d:
 
     # r "{sc=2}{outlinecolor=#000000}Someone, please! {w}HELP!"
-    r "{sc=2}{outlinecolor=#000000}Хто-небудь, прошу! {w}ДОПОМОЖІТЬ!"
+    r "{sc=2}{outlinecolor=#000000}Хто-небудь, прошу! {w}ДОПОМОЖІТЬ!" with hpunch
 
-# game/game/script.rpy:1687
+# game/game/script.rpy:1693
 translate ukrainian go_20daaddb:
 
     # r "{sc=2}{outlinecolor=#000000}Anyone!"
-    r "{sc=2}{outlinecolor=#000000}Благаю!"
+    r "{sc=2}{outlinecolor=#000000}Благаю!" with vpunch
 
-# game/game/script.rpy:1689
+# game/game/script.rpy:1695
 translate ukrainian go_c0a72876:
 
     # mc "{size=-6}W-What happened...?"
     mc "{size=-6}Щ-Що трапилося...?"
 
-# game/game/script.rpy:1690
+# game/game/script.rpy:1696
 translate ukrainian go_6240c1cc:
 
     # mc "{size=-6}I was distracted for just a second..."
     mc "{size=-6}Лише на мить відвернув увагу..."
 
-# game/game/script.rpy:1693
+# game/game/script.rpy:1699
 translate ukrainian go_354e384c:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Cough*"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Кхе*{/i}"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Кхе*{/i}" with hpunch
 
-# game/game/script.rpy:1694
+# game/game/script.rpy:1700
 translate ukrainian go_6b9b7651:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}He waited for the perfect moment..."
     t "{sc=1}{outlinecolor=#000000}{size=-6}Він очікував слушного моменту..."
 
-# game/game/script.rpy:1698
+# game/game/script.rpy:1704
 translate ukrainian go_e98b0038:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}T-These wolves are nothing like the first one..."
     t "{sc=1}{outlinecolor=#000000}{size=-6}Ц-Ці вовки абсолютно не схожі на першого..."
 
-# game/game/script.rpy:1699
+# game/game/script.rpy:1705
 translate ukrainian go_eebf27da:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}I never really had a chance..."
     t "{sc=1}{outlinecolor=#000000}{size=-6}У мене з самого початку не було шансів..."
 
-# game/game/script.rpy:1704
+# game/game/script.rpy:1710
 translate ukrainian go_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1705
+# game/game/script.rpy:1711
 translate ukrainian go_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
     mc "{size=-6}{i}*Хааах...*"
 
-# game/game/script.rpy:1706
+# game/game/script.rpy:1712
 translate ukrainian go_d6b82820:
 
     # t "{sc=1}{outlinecolor=#000000}{size=-6}Damn it..."
     t "{sc=1}{outlinecolor=#000000}{size=-6}До біса..."
 
-# game/game/script.rpy:1707
+# game/game/script.rpy:1713
 translate ukrainian go_0f5703e5:
 
     # t "{size=-6}J-Just when I made my first friend..."
     t "{size=-6}Я-Якраз коли я знайшов свою першу подругу..."
 
-# game/game/script.rpy:1708
+# game/game/script.rpy:1714
 translate ukrainian go_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:1709
+# game/game/script.rpy:1715
 translate ukrainian go_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:1710
+# game/game/script.rpy:1716
 translate ukrainian go_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:1714
+# game/game/script.rpy:1720
 translate ukrainian go_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1715
+# game/game/script.rpy:1721
 translate ukrainian go_806f3a2b:
 
     # t "{size=-6}{i}That voice again..."
     t "{size=-6}{i}Знову цей голос..."
 
-# game/game/script.rpy:1720
+# game/game/script.rpy:1726
 translate ukrainian go_ed0fff05:
 
     # t "Those words feel like a dejavu echoing in my head..."
     t "Ці слова наче дежавю лунають у моїй голові..."
 
-# game/game/script.rpy:1721
+# game/game/script.rpy:1727
 translate ukrainian go_00d6d1ca:
 
     # t "But..."
     t "Але..."
 
-# game/game/script.rpy:1722
+# game/game/script.rpy:1728
 translate ukrainian go_d81bf0db:
 
     # t "What is the point now? I won't be able to escape from this..."
     t "Який тепер у цьому сенс? Мені з цього точно не вибратися..."
 
-# game/game/script.rpy:1723
+# game/game/script.rpy:1729
 translate ukrainian go_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1724
+# game/game/script.rpy:1730
 translate ukrainian go_6a83a996:
 
     # t "{size=-7}At least Ryoko got away..."
     t "{size=-7}На щастя, Рьоко змогла втекти..."
 
-# game/game/script.rpy:1725
+# game/game/script.rpy:1731
 translate ukrainian go_5edf3d53:
 
     # t "{sc=1}{outlinecolor=#000000}Ha haha..."
     t "{sc=1}{outlinecolor=#000000}Ха хаха..."
 
-# game/game/script.rpy:1734
+# game/game/script.rpy:1740
 translate ukrainian go_6e6a5048:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Ghgh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}Гхгм!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}Гхгм!" with hpunch
 
-# game/game/script.rpy:1735
+# game/game/script.rpy:1741
 translate ukrainian go_916cc0a5:
 
     # t "I a-am losing my strength."
     t "Я в-втрачаю сили."
 
-# game/game/script.rpy:1736
+# game/game/script.rpy:1742
 translate ukrainian go_61469714:
 
     # t "{sc=2}{outlinecolor=#000000}{size=-6}Let go of me!"
-    t "{sc=2}{outlinecolor=#000000}{size=-6}Пусти мене!"
+    t "{sc=2}{outlinecolor=#000000}{size=-6}Пусти мене!" with hpunch
 
-# game/game/script.rpy:1742
+# game/game/script.rpy:1748
 translate ukrainian go_8631b7bb:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}I will not die in such a pathetic way!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}Я не збираюся так жалюгідно помирати!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}Я не збираюся так жалюгідно помирати!" with hpunch
 
-# game/game/script.rpy:1744
+# game/game/script.rpy:1750
 translate ukrainian go_2a3c1b7a:
 
     # t "T-The second I tried to fight back, he started tossing me around to stop me!"
     t "Щ-Щойно я почав чинити опір, як він став розмахувати мною, аби спинити мене!"
 
-# game/game/script.rpy:1745
+# game/game/script.rpy:1751
 translate ukrainian go_a63c3912:
 
     # t "A-Are the beasts of t-this world so intelligent?"
     t "З-Звірі цього світу аж на с-стільки розумні?"
 
-# game/game/script.rpy:1746
+# game/game/script.rpy:1752
 translate ukrainian go_35b6219e:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}GhnHhg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}ГхммНхг!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}ГхммНхг!" with hpunch
 
-# game/game/script.rpy:1752
+# game/game/script.rpy:1758
 translate ukrainian go_b4794d2c:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}...!"
     mc "{sc=2}{outlinecolor=#000000}{size=-6}...!"
 
-# game/game/script.rpy:1759
+# game/game/script.rpy:1765
 translate ukrainian go_4aad7b96:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Sigh...*"
     mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}*Хааа...*"
 
-# game/game/script.rpy:1761
+# game/game/script.rpy:1767
 translate ukrainian go_373143ec:
 
     # t "Did I... {w}make it?"
     t "Мені... {w}вдалося?"
 
-# game/game/script.rpy:1762
+# game/game/script.rpy:1768
 translate ukrainian go_b4665402:
 
     # mc "{size=-7}Haha... {w}take that..."
     mc "{size=-7}Хаха... {w}отримуй..."
 
-# game/game/script.rpy:1763
+# game/game/script.rpy:1769
 translate ukrainian go_6cd0447f:
 
     # mc "{size=-8}I have to... {w}get back to Ryoko... {w}she must be worried..."
     mc "{size=-8}Я маю... {w}наздогнати Рьоко... {w}Вона, певно, хвилюється..."
 
-# game/game/script.rpy:1764
+# game/game/script.rpy:1770
 translate ukrainian go_6f3ef14f:
 
     # mc "{size=-8}But I'm getting really..."
     mc "{size=-8}Але щось мене дуже клонить..."
 
-# game/game/script.rpy:1766
+# game/game/script.rpy:1772
 translate ukrainian go_ae6d8b95:
 
     # mc "{size=-8}...sleepy..."
     mc "{size=-8}...у сон..."
 
-# game/game/script.rpy:1771
+# game/game/script.rpy:1777
 translate ukrainian go_87129f9f:
 
     # r "{sc=2}{outlinecolor=#000000}This way! {w}Please, hurry!"
-    r "{sc=2}{outlinecolor=#000000}Сюди! {w}Будь ласка, швидше!"
+    r "{sc=2}{outlinecolor=#000000}Сюди! {w}Будь ласка, швидше!" with vpunch
 
-# game/game/script.rpy:1772
+# game/game/script.rpy:1778
 translate ukrainian go_952d9c5d:
 
     # "{color=#FFFCA9}Are those... three dead wolves?"
     "{color=#FFFCA9}Це що... три мертві вовки?"
 
-# game/game/script.rpy:1773
+# game/game/script.rpy:1779
 translate ukrainian go_c0b0b880:
 
     # r "He must be nearby!"
-    r "Він має бути десь тут!"
+    r "Він має бути десь тут!" with hpunch
 
-# game/game/script.rpy:1774
+# game/game/script.rpy:1780
 translate ukrainian go_acb53731:
 
     # "{color=#FFFCA9}H-He took them all down by himself?"
     "{color=#FFFCA9}В-Він убив їх усіх самотужки?"
 
-# game/game/script.rpy:1775
+# game/game/script.rpy:1781
 translate ukrainian go_b1447213_1:
 
     # r "{sc=2}{outlinecolor=#000000}Master!"
-    r "{sc=2}{outlinecolor=#000000}Господарю!"
+    r "{sc=2}{outlinecolor=#000000}Господарю!" with hpunch
 
-# game/game/script.rpy:1776
+# game/game/script.rpy:1782
 translate ukrainian go_44792762:
 
     # "{color=#FFFCA9}He's bleeding! {w}We have to get him to the village, fast!"
-    "{color=#FFFCA9}У нього кровотеча! {w}Його треба негайно доправити до селища!"
+    "{color=#FFFCA9}У нього кровотеча! {w}Його треба негайно доправити до селища!" with vpunch
 
-# game/game/script.rpy:1777
+# game/game/script.rpy:1783
 translate ukrainian go_6bc72e29:
 
     # r "{sc=2}{outlinecolor=#000000}Master [mc]!"
-    r "{sc=2}{outlinecolor=#000000}Господарю [name_form('voc')]!"
+    r "{sc=2}{outlinecolor=#000000}Господарю [name_form('voc')]!" with vpunch
 
-# game/game/script.rpy:1778
+# game/game/script.rpy:1784
 translate ukrainian go_99552732:
 
     # mc "{size=-10}Ryo-{w}ko..."
     mc "{size=-10}Рьо-{w}ко..."
 
-# game/game/script.rpy:1783
+# game/game/script.rpy:1789
 translate ukrainian go_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:1784
+# game/game/script.rpy:1790
 translate ukrainian go_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:1785
+# game/game/script.rpy:1791
 translate ukrainian go_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:1790
+# game/game/script.rpy:1796
 translate ukrainian go_0ec8dd18:
 
     # "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Na~ nana~ na~"
     "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}На~ нана~ на~"
 
-# game/game/script.rpy:1791
+# game/game/script.rpy:1797
 translate ukrainian go_4bf5e730:
 
     # mc "Mhm?"
     mc "Мгм?"
 
-# game/game/script.rpy:1792
+# game/game/script.rpy:1798
 translate ukrainian go_72c13c2b:
 
     # "{i}You hear someone humming in the distance."
     "{i}Ти чуєш, як хтось наспівує десь удалині."
 
-# game/game/script.rpy:1793
+# game/game/script.rpy:1799
 translate ukrainian go_4a62588b:
 
     # "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Laa~ la~ laa~"
     "{sc=1}{outlinecolor=#000000}{i}{color=#8CDAE9}{size=-8}Лаа~ ла~ лаа~"
 
-# game/game/script.rpy:1795
+# game/game/script.rpy:1801
 translate ukrainian go_2a953051:
 
     # mc "When did I get here?"
     mc "Коли це я тут опинився?"
 
-# game/game/script.rpy:1796
+# game/game/script.rpy:1802
 translate ukrainian go_53b5b842:
 
     # mc "I don't have any wounds, that means that..."
     mc "На мені ані подряпини, а отже..."
 
-# game/game/script.rpy:1797
+# game/game/script.rpy:1803
 translate ukrainian go_8be8d37c:
 
     # "{color=#8CDAE9}{size=-6}Oh!"
-    "{color=#8CDAE9}{size=-6}Ох!"
+    "{color=#8CDAE9}{size=-6}Ох!" with hpunch
 
-# game/game/script.rpy:1798
+# game/game/script.rpy:1804
 translate ukrainian go_ca4bb8c7:
 
     # "{color=#8CDAE9}{size=-6}You're finally awake! {w}Come on down!"
     "{color=#8CDAE9}{size=-6}Нарешті отямився! {w}Спускайся до мене!"
 
-# game/game/script.rpy:1799
+# game/game/script.rpy:1805
 translate ukrainian go_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1801
+# game/game/script.rpy:1807
 translate ukrainian go_9e2b0b98:
 
     # "{color=#8CDAE9}{size=-6}Don't you know it's rude to enter a bath with your clothes on?"
     "{color=#8CDAE9}{size=-6}Тобі не казали, що неввічливо заходити в купальню в речах?"
 
-# game/game/script.rpy:1803
+# game/game/script.rpy:1809
 translate ukrainian go_fcdeab6d:
 
     # k "[mc]~"
     k "[name_form('voc')]~"
 
-# game/game/script.rpy:1804
+# game/game/script.rpy:1810
 translate ukrainian go_830b59cd:
 
     # t "No wonder her voice sounded so familiar..."
     t "Не дивно, що голос здався мені знайомим..."
 
-# game/game/script.rpy:1805
+# game/game/script.rpy:1811
 translate ukrainian go_a34cd226:
 
     # mc "Keiko..."
     mc "Кейко..."
 
-# game/game/script.rpy:1807
+# game/game/script.rpy:1813
 translate ukrainian go_b2e0664e:
 
     # k "Fufufu~{image=corazon} I see you still remember me."
     k "Хухуху~{image=corazon} Бачу, ти досі мене пам'ятаєш."
 
-# game/game/script.rpy:1808
+# game/game/script.rpy:1814
 translate ukrainian go_e5937207:
 
     # mc "W-We just spoke a few days ago..."
     mc "М-Ми ж розмовляли кілька днів тому..."
 
-# game/game/script.rpy:1809
+# game/game/script.rpy:1815
 translate ukrainian go_b31b951b:
 
     # k "Maybe. {w}I'm not sure."
     k "Можливо. {w}Не впевнена."
 
-# game/game/script.rpy:1810
+# game/game/script.rpy:1816
 translate ukrainian go_6fa3e7ae:
 
     # k "Most of us don't really worry about the passage of time..."
     k "Більшість з нас не звертають увагу на плин часу..."
 
-# game/game/script.rpy:1812
+# game/game/script.rpy:1818
 translate ukrainian go_f87ef72b:
 
     # mc "{size=-6}I t-think I understand why..."
     mc "{size=-6}Гадаю, я розумію чому..."
 
-# game/game/script.rpy:1813
+# game/game/script.rpy:1819
 translate ukrainian go_4a05a6ed:
 
     # k "Hmm...?"
     k "Гмм...?"
 
-# game/game/script.rpy:1814
+# game/game/script.rpy:1820
 translate ukrainian go_924706d3:
 
     # k "What's wrong? {w}Something bothering you?"
     k "Що таке? {w}Тебе щось турбує?"
 
-# game/game/script.rpy:1815
+# game/game/script.rpy:1821
 translate ukrainian go_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1817
+# game/game/script.rpy:1823
 translate ukrainian go_d41c373a:
 
     # mc "I-I just... {w}don't want to disrespect you..."
     mc "Я-Я просто... {w}не хочу здатися нахабним..."
 
-# game/game/script.rpy:1818
+# game/game/script.rpy:1824
 translate ukrainian go_510513d2:
 
     # mc "I didn't mean to interrupt your bath..."
     mc "Я зовсім не збирався заважати тобі, поки ти купаєшся..."
 
-# game/game/script.rpy:1819
+# game/game/script.rpy:1825
 translate ukrainian go_88427d84:
 
     # k "...!~{image=corazon}{image=corazon}"
     k "...!~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1821
+# game/game/script.rpy:1827
 translate ukrainian go_09ed4df7:
 
     # k "Aside from being handsome, you're also adorable~{image=corazon}{image=corazon}"
     k "А ти не тільки красень, але й дуже милий~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1822
+# game/game/script.rpy:1828
 translate ukrainian go_d7afdc3b:
 
     # mc "I-"
     mc "Я-"
 
-# game/game/script.rpy:1823
+# game/game/script.rpy:1829
 translate ukrainian go_3e6e33fd:
 
     # k "Don't worry~{image=corazon} {w}You wouldn't be here if I didn't want you to be."
     k "Не хвилюйся~{image=corazon} {w}Тебе тут не було б, якби я не хотіла цього."
 
-# game/game/script.rpy:1824
+# game/game/script.rpy:1830
 translate ukrainian go_66e893f1:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}Gulp*"
     mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}*Ковть*"
 
-# game/game/script.rpy:1826
+# game/game/script.rpy:1832
 translate ukrainian go_1519ddc1:
 
     # t "Her figure is perfect and graceful..."
     t "Її фігура ідеальна й витончена..."
 
-# game/game/script.rpy:1827
+# game/game/script.rpy:1833
 translate ukrainian go_4f3c1bae:
 
     # t "I didn't think I'd ever see someone this beautiful...."
     t "І подумати не міг, що колись побачу настільки вродливу дівчину..."
 
-# game/game/script.rpy:1829
+# game/game/script.rpy:1835
 translate ukrainian go_f280b97e:
 
     # t "I could look at her forever and never get tired of it..."
     t "Я міг би споглядати на неї цілу вічність й ніколи б не втомився..."
 
-# game/game/script.rpy:1830
+# game/game/script.rpy:1836
 translate ukrainian go_57ce5707:
 
     # t "I'm definitely in heaven..."
     t "Я сто відсотків у раю..."
 
-# game/game/script.rpy:1831
+# game/game/script.rpy:1837
 translate ukrainian go_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1832
+# game/game/script.rpy:1838
 translate ukrainian go_97f428f0:
 
     # k "{size=-6}Hmn~ hnm~"
     k "{size=-6}Хм~ хм~"
 
-# game/game/script.rpy:1834
+# game/game/script.rpy:1840
 translate ukrainian go_8a84a3ba:
 
     # k "Are you going to bathe with me, or just keep staring at my butt all night?~{image=corazon}"
     k "Ти збираєшся доєднатися, чи будеш усю ніч розглядувати мої сідниці?~{image=corazon}"
 
-# game/game/script.rpy:1835
+# game/game/script.rpy:1841
 translate ukrainian go_debc2f64:
 
     # k "Not that I mind, {w}but I don't like being the only one without clothes..."
     k "Я, звісно, не проти, {w}але мені не подобається бути єдиною голяка..."
 
-# game/game/script.rpy:1836
+# game/game/script.rpy:1842
 translate ukrainian go_68695dad:
 
     # mc "A-Ah! Yes-"
-    mc "А-Ах! Так-"
+    mc "А-Ах! Так-" with hpunch
 
-# game/game/script.rpy:1837
+# game/game/script.rpy:1843
 translate ukrainian go_4efbdc0b:
 
     # mc "{size=-6}W-Wait what?"
     mc "{size=-6}С-Стривай, що?"
 
-# game/game/script.rpy:1838
+# game/game/script.rpy:1844
 translate ukrainian go_dd8fe536:
 
     # t "Take a bath with her?"
     t "Купатися з нею?"
 
-# game/game/script.rpy:1840
+# game/game/script.rpy:1846
 translate ukrainian go_b56be0e1:
 
     # k "If you want to keep talking, {w}I'll be in the water."
     k "Якщо хочеш продовжити нашу розмову, {w}чекатиму тебе у воді."
 
-# game/game/script.rpy:1841
+# game/game/script.rpy:1847
 translate ukrainian go_795f03c6:
 
     # t "Oh {w}my{w} Goddesses!"
-    t "О, {w}мої{w} богині!"
+    t "О, {w}мої{w} богині!" with vpunch
 
-# game/game/script.rpy:1843
+# game/game/script.rpy:1849
 translate ukrainian go_34716290:
 
     # k "Don't take too long~{image=corazon}{image=corazon}"
     k "Не затримуйся~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1844
+# game/game/script.rpy:1850
 translate ukrainian go_bd470c8c:
 
     # t "The first naked woman I ever see is a goddess... {w}I don't know what reality is anymore."
     t "Перша оголена дівчина, яку я взагалі бачу в житті, — і одразу богиня... {w}Я вже не розумію, де реальність, а де сон."
 
-# game/game/script.rpy:1846
+# game/game/script.rpy:1852
 translate ukrainian go_a36b8e79:
 
     # t "I'm suddenly feeling very religious..."
     t "Я раптом щиро увірував..."
 
-# game/game/script.rpy:1855
+# game/game/script.rpy:1861
 translate ukrainian go_d37c6b7e:
 
     # t "I don't know if it's just my imagination but..."
     t "Можливо, мені лише здається, але..."
 
-# game/game/script.rpy:1857
+# game/game/script.rpy:1863
 translate ukrainian go_798ccf4c:
 
     # t "Her eyes have been glued to a very specific part of me since I got in the water..."
     t "Вона очей не зводить з певної специфічної частини мого тіла, відтоді коли я заліз у воду..."
 
-# game/game/script.rpy:1858
+# game/game/script.rpy:1864
 translate ukrainian go_7bd391cd:
 
     # t "Something's... reacting, and her gaze isn't helping."
     t "Дещо там... пробуджується, а її пильний погляд взагалі не допомагає."
 
-# game/game/script.rpy:1859
+# game/game/script.rpy:1865
 translate ukrainian go_a7ddcfe8:
 
     # t "But I must endure. {w}This is a goddess in front of me..."
     t "Але я мушу триматися. {w}Переді мною богиня як-не-як..."
 
-# game/game/script.rpy:1861
+# game/game/script.rpy:1867
 translate ukrainian go_8d182158:
 
     # k "Why are you sitting so far away? {w}I don't bite, you know...?"
     k "Чому ти так далеко сів? {w}Не бійся, я ж не вкушу...?"
 
-# game/game/script.rpy:1862
+# game/game/script.rpy:1868
 translate ukrainian go_2defae74:
 
     # k "{size=-6}Well, sometimes~{image=corazon}"
     k "{size=-6}Ну, можливо, тільки разочок~{image=corazon}"
 
-# game/game/script.rpy:1863
+# game/game/script.rpy:1869
 translate ukrainian go_1fff66c5:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Gulp*"
     mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Ковть*"
 
-# game/game/script.rpy:1864
+# game/game/script.rpy:1870
 translate ukrainian go_98b01132:
 
     # mc "I-I just think... {w}it's not a good idea to get too close..."
     mc "Я-Я просто думаю... {w}не варто нам сідати занадто близько..."
 
-# game/game/script.rpy:1865
+# game/game/script.rpy:1871
 translate ukrainian go_089ab716:
 
     # mc "Also, this way we can talk more comfortably..."
     mc "До того ж так нам буде зручніше розмовляти..."
 
-# game/game/script.rpy:1867
+# game/game/script.rpy:1873
 translate ukrainian go_94720862:
 
     # k "Hmm... {w}whatever you say~{image=corazon}"
     k "Гмм... {w}Як скажеш~{image=corazon}"
 
-# game/game/script.rpy:1868
+# game/game/script.rpy:1874
 translate ukrainian go_cb70afb1:
 
     # mc "So..."
     mc "Отже..."
 
-# game/game/script.rpy:1870
+# game/game/script.rpy:1876
 translate ukrainian go_77486374:
 
     # k "Hmm?~"
     k "Гмм?~"
 
-# game/game/script.rpy:1871
+# game/game/script.rpy:1877
 translate ukrainian go_b8a96654:
 
     # mc "{size=-6}I died again..."
     mc "{size=-6}Я знову помер..."
 
-# game/game/script.rpy:1872
+# game/game/script.rpy:1878
 translate ukrainian go_7d8142d3:
 
     # mc "I didn't want it to end like that... {w}but I had no choice."
     mc "Не хотів я так закінчити... {w}але іншого вибору в мене не було."
 
-# game/game/script.rpy:1873
+# game/game/script.rpy:1879
 translate ukrainian go_5ece8753:
 
     # mc "Sorry, Keiko... {w}I wasted the life you gave me..."
     mc "Пробач, Кейко... {w}Я лише змарнував дароване тобою життя..."
 
-# game/game/script.rpy:1874
+# game/game/script.rpy:1880
 translate ukrainian go_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:1875
+# game/game/script.rpy:1881
 translate ukrainian go_c2e2fbef:
 
     # mc "I guess now I'll go to heaven... or wherever you're supposed to send me."
     mc "Гадаю, тепер я відправлюся в рай... або куди ти там мене маєш відправити."
 
-# game/game/script.rpy:1877
+# game/game/script.rpy:1883
 translate ukrainian go_d88e4b7a:
 
     # k "Hahaha~ {w}Silly~{image=corazon}{image=corazon}"
     k "Хахаха~ {w}Дурнику~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1878
+# game/game/script.rpy:1884
 translate ukrainian go_652650d3:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:1879
+# game/game/script.rpy:1885
 translate ukrainian go_1e79ae81:
 
     # k "You're not dead. {w}You're just asleep."
     k "Ти не вмер. {w}Ти просто спиш."
 
-# game/game/script.rpy:1880
+# game/game/script.rpy:1886
 translate ukrainian go_aa2d27e9:
 
     # k "That was quite the battle, wasn't it?"
     k "Ото була справжня битва, не вважаєш так?"
 
-# game/game/script.rpy:1881
+# game/game/script.rpy:1887
 translate ukrainian go_4193d750:
 
     # t "So she really has been watching me..."
     t "То вона справді спостерігала за мною..."
 
-# game/game/script.rpy:1883
+# game/game/script.rpy:1889
 translate ukrainian go_8dcaea94:
 
     # k "It's been a long time since a human entertained me this much."
     k "Давно мене так не забавляла звичайна людина."
 
-# game/game/script.rpy:1884
+# game/game/script.rpy:1890
 translate ukrainian go_157f5178:
 
     # k "Every decision you make... {w}every interaction..."
     k "Кожне твоє рішення... {w}кожна твоя дія..."
 
-# game/game/script.rpy:1885
+# game/game/script.rpy:1891
 translate ukrainian go_ad83d540:
 
     # k "Haha~ {w}You even hesitated to kill that first wolf."
-    k "Хаха~ {w}Ти навіть вагався, чи вбивати того першого вовка."
+    k "Хаха~ {w}Ти навіть вагався, чи вбивати того першого вовка." with vpunch
 
-# game/game/script.rpy:1886
+# game/game/script.rpy:1892
 translate ukrainian go_2b35b6fe_7:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1888
+# game/game/script.rpy:1894
 translate ukrainian go_c7f4a9c1:
 
     # k "But let me tell you something."
     k "Але дозволь мені дещо сказати."
 
-# game/game/script.rpy:1891
+# game/game/script.rpy:1897
 translate ukrainian go_9cc8b714:
 
     # t "Is she testing me!?"
-    t "Вона мене випробовує!?"
+    t "Вона мене випробовує!?" with vpunch
 
-# game/game/script.rpy:1892
+# game/game/script.rpy:1898
 translate ukrainian go_675fe55e:
 
     # k "If you keep acting like that, {w}you'll get yourself killed eventually."
     k "Якщо продовжиш так діяти, {w}рано чи пізно тебе й справді вб'ють."
 
-# game/game/script.rpy:1893
+# game/game/script.rpy:1899
 translate ukrainian go_c3283e26:
 
     # k "You won't always be this lucky."
     k "Ніколи не знаєш, коли фортуна повернеться боком."
 
-# game/game/script.rpy:1894
+# game/game/script.rpy:1900
 translate ukrainian go_c642f108:
 
     # k "You can be the kindest person in the world, but if it gets you killed, what good does it do?"
     k "Ти можеш бути найдобрішою людиною у світі, але якщо це призведе до твоєї смерті, то яка з того користь?"
 
-# game/game/script.rpy:1895
+# game/game/script.rpy:1901
 translate ukrainian go_5ded1c3a:
 
     # t "She's right... {w}I've already been saved twice..."
     t "Вона має рацію... {w}Мене вже двічі врятували..."
 
-# game/game/script.rpy:1897
+# game/game/script.rpy:1903
 translate ukrainian go_00d6d1ca_1:
 
     # t "But..."
     t "Але..."
 
-# game/game/script.rpy:1898
+# game/game/script.rpy:1904
 translate ukrainian go_3aa77b34:
 
     # mc "It's not something I can change. {w}That's just who I am."
     mc "Я нічого не можу з собою вдіяти. {w}Такий уже я є."
 
-# game/game/script.rpy:1899
+# game/game/script.rpy:1905
 translate ukrainian go_ac9ed97f:
 
     # mc "The day I stop being myself... {w}that's the day my life becomes meaningless."
     mc "День, коли я перестану бути собою... {w}тоді моє життя просто перетвориться на пустку."
 
-# game/game/script.rpy:1900
+# game/game/script.rpy:1906
 translate ukrainian go_10d2e92b:
 
     # mc "What's the point of living if you can't live the way you want?"
     mc "Бо який взагалі сенс життя, якщо не можеш жити так, як хочеш?"
 
-# game/game/script.rpy:1901
+# game/game/script.rpy:1907
 translate ukrainian go_39a50f9c:
 
     # mc "I learned that much from my previous life..."
     mc "Саме цьому мене навчило моє попереднє..."
 
-# game/game/script.rpy:1902
+# game/game/script.rpy:1908
 translate ukrainian go_82091822_1:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:1904
+# game/game/script.rpy:1910
 translate ukrainian go_d82257d0:
 
     # mc "Even if it kills me..."
     mc "Навіть якщо з рештою мене чекає смерть..."
 
-# game/game/script.rpy:1905
+# game/game/script.rpy:1911
 translate ukrainian go_99319117:
 
     # mc "I won't change who I am."
     mc "Я залишуся собою, до самого кінця."
 
-# game/game/script.rpy:1907
+# game/game/script.rpy:1913
 translate ukrainian go_034695b9:
 
     # mc "I won't leave anyone behind who needs help."
     mc "Я не облишу нікого, хто потребуватиме моєї допомоги."
 
-# game/game/script.rpy:1913
+# game/game/script.rpy:1919
 translate ukrainian keiko_gal1_6dbb4af1:
 
     # mc "And-"
     mc "І-"
 
-# game/game/script.rpy:1914
+# game/game/script.rpy:1920
 translate ukrainian keiko_gal1_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:1915
+# game/game/script.rpy:1921
 translate ukrainian keiko_gal1_c33b515c:
 
     # mc "Err..."
     mc "Емм..."
 
-# game/game/script.rpy:1919
+# game/game/script.rpy:1925
 translate ukrainian keiko_gal1_8f75747a:
 
     # k "Ufufu~{image=corazon}{image=corazon} {w}I knew you'd say something like that, that's why I find you so interesting."
     k "Ухуху~{image=corazon}{image=corazon} {w}Знала, що ти говоритимеш щось подібне, саме тому ти й здався мені цікавим."
 
-# game/game/script.rpy:1921
+# game/game/script.rpy:1927
 translate ukrainian keiko_gal1_cbb397c2:
 
     # mc "K-Keiko?"
     mc "К-Кейко?"
 
-# game/game/script.rpy:1922
+# game/game/script.rpy:1928
 translate ukrainian keiko_gal1_16f0d8b9:
 
     # k "Yes?"
     k "Так?"
 
-# game/game/script.rpy:1923
+# game/game/script.rpy:1929
 translate ukrainian keiko_gal1_e45d995d:
 
     # mc "W-What are you doing?"
     mc "Щ-Що це ти робиш?"
 
-# game/game/script.rpy:1924
+# game/game/script.rpy:1930
 translate ukrainian keiko_gal1_099d8006:
 
     # k "Isn't it obvious? {w}I'm just getting a bit more comfortable."
     k "Хіба не видно? {w}Я просто вирішила зручніше вмоститися."
 
-# game/game/script.rpy:1925
+# game/game/script.rpy:1931
 translate ukrainian keiko_gal1_ce9aaafe:
 
     # mc "Yes... but-"
     mc "Так... але-"
 
-# game/game/script.rpy:1927
+# game/game/script.rpy:1933
 translate ukrainian keiko_gal1_98071568:
 
     # k "Do you not like this? {w}Or is it that you don't like me being this close to you, [mc]?"
     k "Тобі це не подобається? {w}Чи тобі не подобаюся я, яка сідає поруч із тобою, [name_form('voc')]?"
 
-# game/game/script.rpy:1928
+# game/game/script.rpy:1934
 translate ukrainian keiko_gal1_c2a15ae1:
 
     # t "Shit, {w}w-what a sensual body..."
     t "Дідько, {w}я-яке спокусливе тіло..."
 
-# game/game/script.rpy:1929
+# game/game/script.rpy:1935
 translate ukrainian keiko_gal1_27e4a94f:
 
     # t "No! {w}M-Maybe this is normal for goddesses! I-I have to stay calm..."
-    t "Ні! {w}М-Можливо, для богинь це в рамках норми! Я-Я маю заспокоїтися..."
+    t "Ні! {w}М-Можливо, для богинь це в рамках норми! Я-Я маю заспокоїтися..." with hpunch
 
-# game/game/script.rpy:1930
+# game/game/script.rpy:1936
 translate ukrainian keiko_gal1_bb9b006b:
 
     # mc "O-Of course! {size=-6}I like you..."
     mc "З-Звісно ні! {size=-6}Ти мені до вподоби..."
 
-# game/game/script.rpy:1932
+# game/game/script.rpy:1938
 translate ukrainian keiko_gal1_b9dbfbc1:
 
     # k "That makes me very happy~{image=corazon}"
     k "Це мене дуже тішить~{image=corazon}"
 
-# game/game/script.rpy:1933
+# game/game/script.rpy:1939
 translate ukrainian keiko_gal1_d3f4c1ae:
 
     # t "I don't think I can hold back much longer... {w}I'm at my limit."
     t "Не думаю, що зможу ще протриматися... {w}Я вже на межі."
 
-# game/game/script.rpy:1937
+# game/game/script.rpy:1943
 translate ukrainian keiko_gal1_9c5fe85a:
 
     # k "{size=-9}Ara~{image=corazon}{image=corazon}"
     k "{size=-9}Йой~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1938
+# game/game/script.rpy:1944
 translate ukrainian keiko_gal1_83c7a85b:
 
     # t "Shit, I hope she's not mad..."
-    t "Бляха, сподіваюся, вона не злиться..."
+    t "Бляха, сподіваюся, вона не злиться..." with vpunch
 
-# game/game/script.rpy:1939
+# game/game/script.rpy:1945
 translate ukrainian keiko_gal1_3efd2eb9:
 
     # t "No matter how much she teases me... {w}she's still a goddess!"
     t "Байдуже скільки вона гратиметься зі мною... {w}вона досі залишається богинею!"
 
-# game/game/script.rpy:1941
+# game/game/script.rpy:1947
 translate ukrainian keiko_gal1_efa3e671:
 
     # t "Her body is so soft... why hasn't she moved yet...? {w}Maybe I should act like nothing happened..."
     t "Її тіло таке ніжне... Чому вона досі не ворухнулася...? {w}Мабуть, мені варто вдати, ніби нічого не трапилося..."
 
-# game/game/script.rpy:1942
+# game/game/script.rpy:1948
 translate ukrainian keiko_gal1_b6f568d9:
 
     # mc "K-Keiko, {w}w-was it you who spoke to me before I passed out?"
     mc "К-Кейко, {w}ц-це ти зі мною говорила перед тим, як я вирубився?"
 
-# game/game/script.rpy:1943
+# game/game/script.rpy:1949
 translate ukrainian keiko_gal1_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:1944
+# game/game/script.rpy:1950
 translate ukrainian keiko_gal1_a83455f7:
 
     # mc "Keiko...?"
     mc "Кейко...?"
 
-# game/game/script.rpy:1945
+# game/game/script.rpy:1951
 translate ukrainian keiko_gal1_c89e8745:
 
     # t "Did I mess up...? Did I offend her?"
     t "Я напартачив...? Невже я її образив?"
 
-# game/game/script.rpy:1946
+# game/game/script.rpy:1952
 translate ukrainian keiko_gal1_ece52b0b:
 
     # mc "Sorry... I tried to hold it back, but-"
     mc "Пробач... Я намагався стримуватися, але-"
 
-# game/game/script.rpy:1948
+# game/game/script.rpy:1954
 translate ukrainian keiko_gal1_a4452825:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Hng...!?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Хмг...!?{/i}"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Хмг...!?{/i}" with hpunch
 
-# game/game/script.rpy:1949
+# game/game/script.rpy:1955
 translate ukrainian keiko_gal1_d634c7bd:
 
     # t "She just sat on me...!"
     t "Вона щойно сіла зверху...!"
 
-# game/game/script.rpy:1950
+# game/game/script.rpy:1956
 translate ukrainian keiko_gal1_c2b9828c:
 
     # t "T-This has gone beyond teasing...!"
     t "Ц-Це вже вийшло за межі ігор...!"
 
-# game/game/script.rpy:1952
+# game/game/script.rpy:1958
 translate ukrainian keiko_gal1_367fa2e6:
 
     # k "You know, [mc]... love between goddesses and mortals is forbidden..."
     k "Знаєш, [name_form('voc')]... кохання між богинею та смертним під забороною..."
 
-# game/game/script.rpy:1953
+# game/game/script.rpy:1959
 translate ukrainian keiko_gal1_513464dd:
 
     # k "But... {w}only if the other goddesses find out~"
     k "Але... {w}тільки якщо інші богині про це дізнаються~"
 
-# game/game/script.rpy:1954
+# game/game/script.rpy:1960
 translate ukrainian keiko_gal1_02651a0b:
 
     # mc "Aah... Uhm.."
     mc "Аах... Угм..."
 
-# game/game/script.rpy:1955
+# game/game/script.rpy:1961
 translate ukrainian keiko_gal1_9c54bad5:
 
     # k "What's wrong? {w}Is there something else you wanted to talk about?"
     k "Що таке? {w}Можливо, ти хотів ще про щось поговорити?"
 
-# game/game/script.rpy:1956
+# game/game/script.rpy:1962
 translate ukrainian keiko_gal1_c14c584c:
 
     # mc "Well..."
     mc "Ну..."
 
-# game/game/script.rpy:1957
+# game/game/script.rpy:1963
 translate ukrainian keiko_gal1_76d72f1e:
 
     # mc "Y-You really like breaking the rules, don't you...?"
     mc "Б-Бачу, ти не любителька слідувати правилам, так...?"
 
-# game/game/script.rpy:1968
+# game/game/script.rpy:1974
 translate ukrainian keiko_gal1_b100695e:
 
     # mc "K-Keiko...!"
     mc "К-Кейко...!"
 
-# game/game/script.rpy:1969
+# game/game/script.rpy:1975
 translate ukrainian keiko_gal1_3e691387:
 
     # k "Mmm~{image=corazon} What was it you were saying before~?"
     k "Ммм~{image=corazon} Про що ти там щойно казав~?"
 
-# game/game/script.rpy:1970
+# game/game/script.rpy:1976
 translate ukrainian keiko_gal1_fc29271b:
 
     # mc "I think... {w}I forgot..."
     mc "Гадаю... {w}я забув..."
 
-# game/game/script.rpy:1971
+# game/game/script.rpy:1977
 translate ukrainian keiko_gal1_3b9fa451:
 
     # k "Hmm... {w}O-Oh, okay~{image=corazon}{image=corazon}"
     k "Гмм... {w}О-Ох, от і добре~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1972
+# game/game/script.rpy:1978
 translate ukrainian keiko_gal1_bbbdb4b5:
 
     # t "I can no longer order my thoughts..."
     t "Я вже не можу зібрати до купи думок..."
 
-# game/game/script.rpy:1973
+# game/game/script.rpy:1979
 translate ukrainian keiko_gal1_4b55b085:
 
     # t "Keiko's gentle movement is driving me crazy..."
     t "Ніжні рухи Кейко просто зводять мене з розуму..."
 
-# game/game/script.rpy:1974
+# game/game/script.rpy:1980
 translate ukrainian keiko_gal1_34d3ade4:
 
     # t "I have never felt this way before."
     t "Ніколи так не почувався до цього."
 
-# game/game/script.rpy:1975
+# game/game/script.rpy:1981
 translate ukrainian keiko_gal1_cd5034e8:
 
     # k "Ufufu~ {w}You can't even move... how cute~{image=corazon}{image=corazon}"
     k "Ухуху~ {w}Ти навіть зрушити не можеш... як мило~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1976
+# game/game/script.rpy:1982
 translate ukrainian keiko_gal1_186d39ca:
 
     # k "Hmn~{image=corazon} {w}Nnmn~{image=corazon}{image=corazon} {w}Come on, you can do it~{image=corazon}"
     k "{i}Гнм~{/i}{image=corazon} {w}{i}Ммнм~{/i}{image=corazon}{image=corazon} {w}Ну ж бо, не стримуйся~{image=corazon}"
 
-# game/game/script.rpy:1977
+# game/game/script.rpy:1983
 translate ukrainian keiko_gal1_2f37a681:
 
     # t "Is this really h-happening? {w}I-I'm not dreaming?"
     t "Це справді в-відбувається? {w}Я-Я не сплю?"
 
-# game/game/script.rpy:1978
+# game/game/script.rpy:1984
 translate ukrainian keiko_gal1_0000d7b4:
 
     # mc "W-Wait..."
     mc "Л-Легше..."
 
-# game/game/script.rpy:1979
+# game/game/script.rpy:1985
 translate ukrainian keiko_gal1_8f5967a2:
 
     # mc "{size=-6}I-I'm going to-"
     mc "{size=-6}Я-Я зараз-"
 
-# game/game/script.rpy:1990
+# game/game/script.rpy:1996
 translate ukrainian keiko_gal1_16bc3a76:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Hgm...!?"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Хгм...!?{/i}"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Хгм...!?{/i}" with hpunch
 
-# game/game/script.rpy:1991
+# game/game/script.rpy:1997
 translate ukrainian keiko_gal1_611b95d8:
 
     # k "W-Why did you suddenly stop t-talking [mc]?"
     k "Ч-Чому це ти раптом замовк, [name_form('voc')]?"
 
-# game/game/script.rpy:1992
+# game/game/script.rpy:1998
 translate ukrainian keiko_gal1_e045a2c4:
 
     # mc "{size=-6}This feels so good Keiko..."
     mc "{size=-6}Це дуже приємно, Кейко..."
 
-# game/game/script.rpy:1993
+# game/game/script.rpy:1999
 translate ukrainian keiko_gal1_dbf85238:
 
     # k "Mmm... what... {w}do you mean, {w}we're having a conversation, r-right?"
     k "Ммм... Про що... {w}це ти, {w}ми ж просто спілкуємося, т-так?"
 
-# game/game/script.rpy:1994
+# game/game/script.rpy:2000
 translate ukrainian keiko_gal1_d21f9565:
 
     # k "But just to clarify, {w}I haven't spoken to you since the last time we met... {w}mmm...~{image=corazon}{image=corazon}"
     k "Але, щоб уточнити, {w}я з тобою більше не говорила з моменту нашої останньої зустрічі... {w}ммм...~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:1995
+# game/game/script.rpy:2001
 translate ukrainian keiko_gal1_676479e4:
 
     # t "S-She heard me..."
     t "Т-То вона мене чула..."
 
-# game/game/script.rpy:1996
+# game/game/script.rpy:2002
 translate ukrainian keiko_gal1_3f2df9e5:
 
     # t "I think I had the wrong idea of what conversations are supposed to be like."
     t "Мені здається, я неправильно собі уявляв, якими мають бути розмови."
 
-# game/game/script.rpy:1997
+# game/game/script.rpy:2003
 translate ukrainian keiko_gal1_381e64c8:
 
     # t "But I think this is the best one I've ever had..."
     t "Однак, гадаю, це найкраща яку я мав у житті..."
 
-# game/game/script.rpy:1998
+# game/game/script.rpy:2004
 translate ukrainian keiko_gal1_05e9edf5:
 
     # k "{size=-7}Ahh~{image=corazon} {w}Aamnh~{image=corazon}{image=corazon}"
-    k "{size=-7}Ахх~{image=corazon} {w}{i}Ааммх~{/i}{image=corazon}{image=corazon}"
+    k "{size=-7}Ахх~{image=corazon} {w}{i}Ааммх~{/i}{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:1999
+# game/game/script.rpy:2005
 translate ukrainian keiko_gal1_e3381972:
 
     # t "Her sweet moans delight my ears..."
     t "Її солодкі стогони — наче музика для вух..."
 
-# game/game/script.rpy:2004
+# game/game/script.rpy:2010
 translate ukrainian keiko_gal1_8e8d58ba:
 
     # mc "E-Eeh?"
     mc "Е-Еех?"
 
-# game/game/script.rpy:2005
+# game/game/script.rpy:2011
 translate ukrainian keiko_gal1_17e198f1:
 
     # k "Don't worry, {w}just enjoy this warm conversation."
     k "Не хвилюйся, {w}просто насолоджуйся цією приємною розмовою."
 
-# game/game/script.rpy:2016
+# game/game/script.rpy:2022
 translate ukrainian keiko_gal1_596a7d94:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghn!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхм!{/i}"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхм!{/i}" with vpunch
 
-# game/game/script.rpy:2017
+# game/game/script.rpy:2023
 translate ukrainian keiko_gal1_ebd3683c:
 
     # k "Ah~{image=corazon} {w}H-How much bigger can you get?~{image=corazon}"
-    k "Ах~{image=corazon} {w}Н-Наскільки ж більшим ти ще можеш стати?~{image=corazon}"
+    k "Ах~{image=corazon} {w}Н-Наскільки ж більшим ти ще можеш стати?~{image=corazon}" with cumflash
 
-# game/game/script.rpy:2018
+# game/game/script.rpy:2024
 translate ukrainian keiko_gal1_1f1037b4:
 
     # t "I can see how she rubs her soft pussy against me..."
     t "Я можу бачити, як її м'яка кицька треться об мене..."
 
-# game/game/script.rpy:2019
+# game/game/script.rpy:2025
 translate ukrainian keiko_gal1_aa0cd6d7:
 
     # mc "T-This... {w}my mind is not working well anymore..."
     mc "Ц-Це... {w}я більше не здатний мислити..."
 
-# game/game/script.rpy:2020
+# game/game/script.rpy:2026
 translate ukrainian keiko_gal1_fc800b45:
 
     # k "Mmm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}{image=corazon}{image=corazon}"
     k "Ммм~~{image=corazon}{image=corazon} {w}[name_form('voc')]~{image=corazon}{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:2021
+# game/game/script.rpy:2027
 translate ukrainian keiko_gal1_a431bc84:
 
     # k "You don't need to think right now, {w}just let your Goddess take care of your tired body~{image=corazon}"
     k "Тобі й не треба зараз ні про що думати, {w}просто дозволь твоїй богині подбати про твоє стомлене тіло~{image=corazon}"
 
-# game/game/script.rpy:2023
+# game/game/script.rpy:2029
 translate ukrainian keiko_gal1_3b659fd0:
 
     # mc "I c-can't hold on anymore..."
     mc "Я б-більше не можу стримуватися..."
 
-# game/game/script.rpy:2024
+# game/game/script.rpy:2030
 translate ukrainian keiko_gal1_91fa9332:
 
     # mc "I think... I'm reaching the limit of this... {w}conversation..."
     mc "Гадаю... я вже на межі... {w}нашої розмови..."
 
-# game/game/script.rpy:2025
+# game/game/script.rpy:2031
 translate ukrainian keiko_gal1_674b57ae:
 
     # k "Aah~{image=corazon}{image=corazon} {w}M-Me too...{image=corazon}{image=corazon}"
-    k "Аах~{image=corazon}{image=corazon} {w}Я-Я теж...{image=corazon}{image=corazon}"
+    k "Аах~{image=corazon}{image=corazon} {w}Я-Я теж...{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:2026
+# game/game/script.rpy:2032
 translate ukrainian keiko_gal1_8ae1622a:
 
     # k "We'd better get this over with before we run out of time~"
     k "Нам краще поквапитися, поки не скінчився час~"
 
-# game/game/script.rpy:2036
+# game/game/script.rpy:2042
 translate ukrainian keiko_gal1_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:2037
+# game/game/script.rpy:2043
 translate ukrainian keiko_gal1_e8dcd854:
 
     # t "Having Keiko on top of me trying to make me cum...."
     t "Кейко прямо на мені, робить усе, аби я кінчив..."
 
-# game/game/script.rpy:2038
+# game/game/script.rpy:2044
 translate ukrainian keiko_gal1_da2d61af:
 
     # t "I wouldn't think a Goddess would be the first person to do that."
     t "Ніколи б не подумав, що мій перший раз буде аж з богинею."
 
-# game/game/script.rpy:2039
+# game/game/script.rpy:2045
 translate ukrainian keiko_gal1_16288c6a:
 
     # t "But there she is, looking at me with those playful eyes."
     t "Але ось вона, дивиться на мене своїми грайливими очима."
 
-# game/game/script.rpy:2040
+# game/game/script.rpy:2046
 translate ukrainian keiko_gal1_8cab7fc5:
 
     # k "{size=-8}Aah~{image=corazon} {w}Hnmh~{image=corazon} {w}Ghnh~{image=corazon}"
     k "{size=-8}Аах~{image=corazon} {w}{i}Гммх~{/i}{image=corazon} {w}{i}Гмхм~{/i}{image=corazon}"
 
-# game/game/script.rpy:2041
+# game/game/script.rpy:2047
 translate ukrainian keiko_gal1_77239f0f:
 
     # t "W-Waiting for the moment when I..."
     t "Ч-Чекаючи моменту, коли я..."
 
-# game/game/script.rpy:2043
+# game/game/script.rpy:2049
 translate ukrainian keiko_gal1_104844a9:
 
     # mc "{sc=1}{outlinecolor=#000000}K-Keiko!"
-    mc "{sc=1}{outlinecolor=#000000}К-Кейко!"
+    mc "{sc=1}{outlinecolor=#000000}К-Кейко!" with hpunch
 
-# game/game/script.rpy:2057
+# game/game/script.rpy:2063
 translate ukrainian keiko_gal1_04836d49:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Gnhgmhgn~{image=corazon}{image=corazon}{image=corazon}"
-    k "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гнхгмхгн~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    k "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гнхгмхгн~{/i}{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
-# game/game/script.rpy:2065
+# game/game/script.rpy:2071
 translate ukrainian keiko_gal1_31bdadf4:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Gnhg!"
     mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гмхг!{/i}"
 
-# game/game/script.rpy:2067
+# game/game/script.rpy:2073
 translate ukrainian keiko_gal1_f7dfda59:
 
     # k "{size=-6}Ufufu~{image=corazon} {w}Look at how much came~{image=corazon}"
     k "{size=-6}Ухуху~{image=corazon} {w}Поглянь, як багато з тебе вийшло~{image=corazon}"
 
-# game/game/script.rpy:2068
+# game/game/script.rpy:2074
 translate ukrainian keiko_gal1_e2d909ad:
 
     # mc "{size=-6}It felt amazing, Keiko..."
     mc "{size=-6}Це було неймовірно, Кейко..."
 
-# game/game/script.rpy:2069
+# game/game/script.rpy:2075
 translate ukrainian keiko_gal1_f6ac9e18:
 
     # k "{size=-6}It looks like we'll have to wash again..."
     k "{size=-6}Здається, нам знову доведеться митися..."
 
-# game/game/script.rpy:2070
+# game/game/script.rpy:2076
 translate ukrainian keiko_gal1_043978eb:
 
     # mc "{size=-6}Y-Yeah... {w}that's a good idea."
     mc "{size=-6}Т-Так... {w}хороша ідея."
 
-# game/game/script.rpy:2091
+# game/game/script.rpy:2097
 translate ukrainian keiko_gal1_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2092
+# game/game/script.rpy:2098
 translate ukrainian keiko_gal1_aa8b517e:
 
     # t "I don't know how to talk to her after what we just did..."
     t "Не знаю, як з нею розмовляти після того, що ми щойно зробили..."
 
-# game/game/script.rpy:2093
+# game/game/script.rpy:2099
 translate ukrainian keiko_gal1_f6ab7002:
 
     # t "I need to think of something to avoid making things awkward."
     t "Треба щось вигадати, щоб уникнути незручної паузи."
 
-# game/game/script.rpy:2094
+# game/game/script.rpy:2100
 translate ukrainian keiko_gal1_1bb01731:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:2095
+# game/game/script.rpy:2101
 translate ukrainian keiko_gal1_c7a074f9:
 
     # t "Oh!"
-    t "О!"
+    t "О!" with hpunch
 
-# game/game/script.rpy:2096
+# game/game/script.rpy:2102
 translate ukrainian keiko_gal1_4f0673c0:
 
     # mc "Hey, Keiko... what about your wings?"
     mc "Слухай, Кейко... а де твої крила?"
 
-# game/game/script.rpy:2098
+# game/game/script.rpy:2104
 translate ukrainian keiko_gal1_a854dca0:
 
     # k "Ah~ {w}I can hide them whenever I want, {w}so they don't get in the way during a bath."
     k "Ах~ {w}я можу їх ховати, коли захочу, {w}наприклад, щоб вони не заважали, коли я миюся."
 
-# game/game/script.rpy:2099
+# game/game/script.rpy:2105
 translate ukrainian keiko_gal1_ce5286a2:
 
     # mc "I see... {w}so you have more freedom to do... {w}things..."
     mc "Ясно... {w}Отже, у тебе достатньо свободи, щоб робити... {w}різне..."
 
-# game/game/script.rpy:2101
+# game/game/script.rpy:2107
 translate ukrainian keiko_gal1_2ab9bb68:
 
     # k "Hmm~{image=corazon} {w}And what exactly do you mean by that...?"
     k "Гмм~{image=corazon} {w}І що саме ти хочеш цим сказати...?"
 
-# game/game/script.rpy:2102
+# game/game/script.rpy:2108
 translate ukrainian keiko_gal1_1fdffebe:
 
     # mc "Well... {w}{size=-6}Err..."
     mc "Ну... {w}{size=-6}Емм..."
 
-# game/game/script.rpy:2103
+# game/game/script.rpy:2109
 translate ukrainian keiko_gal1_b1033445:
 
     # mc "Y-You know..."
     mc "З-Знаєш..."
 
-# game/game/script.rpy:2108
+# game/game/script.rpy:2114
 translate ukrainian keiko_gal1_a6a3ebf3:
 
     # k "Hahaha~ {w}You're so silly~{image=corazon}{image=corazon}"
-    k "Хахаха~ {w}Ти такий кумедний~{image=corazon}{image=corazon}"
+    k "Хахаха~ {w}Ти такий кумедний~{image=corazon}{image=corazon}" with hpunch
 
-# game/game/script.rpy:2109
+# game/game/script.rpy:2115
 translate ukrainian keiko_gal1_8def3de2:
 
     # t "Well... {w}at least the atmosphere lightened up."
     t "Ну... {w}принаймні атмосфера трохи розрядилася."
 
-# game/game/script.rpy:2110
+# game/game/script.rpy:2116
 translate ukrainian keiko_gal1_c0279291:
 
     # mc "We need to talk about something important."
     mc "Нам треба поговорити про дещо важливе."
 
-# game/game/script.rpy:2111
+# game/game/script.rpy:2117
 translate ukrainian keiko_gal1_bf323b67:
 
     # k "Then speak quickly."
     k "Тоді не тягни."
 
-# game/game/script.rpy:2113
+# game/game/script.rpy:2119
 translate ukrainian keiko_gal1_2f55a6bb:
 
     # k "Keeping your consciousness here while your body is so weak is dangerous. You need to wake up soon."
     k "Небезпечно тримати твою свідомість тут, поки твоє тіло так ослабло. Скоро ти маєш прокинутися."
 
-# game/game/script.rpy:2114
+# game/game/script.rpy:2120
 translate ukrainian keiko_gal1_7e5d33ff:
 
     # k "You'll have to endure the pain of your wounds, but that is the price you must pay after such a battle."
     k "Тобі доведеться терпіти біль від ран, але це та ціна, яку ти мусиш заплатити після такої битви."
 
-# game/game/script.rpy:2115
+# game/game/script.rpy:2121
 translate ukrainian keiko_gal1_de90047c:
 
     # mc "I almost forgot that I'm wounded..."
     mc "Я майже забув, що мене погризли..."
 
-# game/game/script.rpy:2116
+# game/game/script.rpy:2122
 translate ukrainian keiko_gal1_b7579e64:
 
     # mc "{size=-6}Well, at least I'm not dead..."
     mc "{size=-6}Ну, принаймні я ще живий..."
 
-# game/game/script.rpy:2118
+# game/game/script.rpy:2124
 translate ukrainian keiko_gal1_cbf166d4:
 
     # k "That's the \"spirit\"~{image=corazon}"
     k "Оце так бойовий «дух»~{image=corazon}" # прим.: каламбур на те, що тут тільки його душа зараз
 
-# game/game/script.rpy:2119
+# game/game/script.rpy:2125
 translate ukrainian keiko_gal1_1dd151a5:
 
     # mc "{size=-6}So{/size}... {w}remember how no other goddess was supposed to know about me and my memories?"
     mc "{size=-6}Ще{/size}... {w}пам'ятаєш про те, що ні яка богиня більше не повинна знати про мене і мої спогади?"
 
-# game/game/script.rpy:2122
+# game/game/script.rpy:2128
 translate ukrainian keiko_gal1_82091822_1:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:2124
+# game/game/script.rpy:2130
 translate ukrainian keiko_gal1_95109ca5:
 
     # k "{b}Hmm...?"
     k "{b}Гмм...?"
 
-# game/game/script.rpy:2125
+# game/game/script.rpy:2131
 translate ukrainian keiko_gal1_6a3c430c:
 
     # t "Shit."
     t "Трясця."
 
-# game/game/script.rpy:2126
+# game/game/script.rpy:2132
 translate ukrainian keiko_gal1_6d220ff0:
 
     # mc "Err... {w}When you sent me into the world..."
     mc "Емм... {w}Коли ти відправила мене в новий світ..."
 
-# game/game/script.rpy:2127
+# game/game/script.rpy:2133
 translate ukrainian keiko_gal1_0ef53410:
 
     # mc "{size=-6}A goddess..."
     mc "{size=-6}Певна богиня..."
 
-# game/game/script.rpy:2128
+# game/game/script.rpy:2134
 translate ukrainian keiko_gal1_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2129
+# game/game/script.rpy:2135
 translate ukrainian keiko_gal1_77637a12:
 
     # mc "{size=-8}I was stopped by a goddess named Fumiko!"
-    mc "{size=-8}Мене спіймала богиня, на ім'я Фуміко!"
+    mc "{size=-8}Мене спіймала богиня, на ім'я Фуміко!" with hpunch
 
-# game/game/script.rpy:2131
+# game/game/script.rpy:2137
 translate ukrainian keiko_gal1_82091822_2:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:2132
+# game/game/script.rpy:2138
 translate ukrainian keiko_gal1_0d0d9c62:
 
     # mc "I tried not to let anything slip, but she was really smart!"
-    mc "Я намагався нічого не виказати, але вона досить розумна!"
+    mc "Я намагався нічого не виказати, але вона досить розумна!" with vpunch
 
-# game/game/script.rpy:2133
+# game/game/script.rpy:2139
 translate ukrainian keiko_gal1_14ddfe09:
 
     # t "{size=-6}Or at least I tried..."
     t "{size=-6}Принаймні, я хочу в це вірити..."
 
-# game/game/script.rpy:2134
+# game/game/script.rpy:2140
 translate ukrainian keiko_gal1_757c9836:
 
     # k "..."
-    k "..."
+    k "..." (multiple=2)
 
-# game/game/script.rpy:2135
+# game/game/script.rpy:2141
 translate ukrainian keiko_gal1_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
-# game/game/script.rpy:2136
+# game/game/script.rpy:2142
 translate ukrainian keiko_gal1_acf08a6c:
 
     # mc "{size=-6}Uhm-"
     mc "{size=-6}Ухм-"
 
-# game/game/script.rpy:2141
+# game/game/script.rpy:2147
 translate ukrainian keiko_gal1_06e75701:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-6}Pff-"
     k "{sc=1}{outlinecolor=#000000}{size=-6}{i}Пфф-{/i}"
 
-# game/game/script.rpy:2142
+# game/game/script.rpy:2148
 translate ukrainian keiko_gal1_652650d3:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:2144
+# game/game/script.rpy:2150
 translate ukrainian keiko_gal1_c18eb93b:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Ahahaha~"
-    k "{sc=1}{outlinecolor=#000000}{size=-8}Ахахаха~"
+    k "{sc=1}{outlinecolor=#000000}{size=-8}Ахахаха~" with vpunch
 
-# game/game/script.rpy:2145
+# game/game/script.rpy:2151
 translate ukrainian keiko_gal1_d07314d8:
 
     # k "That girl... {w}her curiosity always gets the best of her."
     k "Та дівчина... {w}її цікавість завжди бере над нею верх."
 
-# game/game/script.rpy:2146
+# game/game/script.rpy:2152
 translate ukrainian keiko_gal1_42b3c52f:
 
     # mc "{size=-6}Eh...?"
     mc "{size=-6}Ех...?"
 
-# game/game/script.rpy:2147
+# game/game/script.rpy:2153
 translate ukrainian keiko_gal1_3536f256:
 
     # mc "You're not mad?"
     mc "Ти не сердишся?"
 
-# game/game/script.rpy:2149
+# game/game/script.rpy:2155
 translate ukrainian keiko_gal1_6eded538:
 
     # k "If it had been any other goddess, {w}maybe."
     k "Якби це була будь-яка інша богиня, {w}можливо."
 
-# game/game/script.rpy:2150
+# game/game/script.rpy:2156
 translate ukrainian keiko_gal1_1f4a0ce8:
 
     # k "But Fumiko isn't the type to cause problems."
     k "Але Фуміко — не з тих, хто створює проблеми."
 
-# game/game/script.rpy:2151
+# game/game/script.rpy:2157
 translate ukrainian keiko_gal1_b3783a99:
 
     # k "{size=-6}Besides..."
     k "{size=-6}Крім того..."
 
-# game/game/script.rpy:2153
+# game/game/script.rpy:2159
 translate ukrainian keiko_gal1_b8242b96:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Ahem..."
-    k "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Кхм...*{/i}"
+    k "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Кхм...*{/i}" with vpunch
 
-# game/game/script.rpy:2154
+# game/game/script.rpy:2160
 translate ukrainian keiko_gal1_0044da3e:
 
     # k "Well, what did she tell you?"
     k "Ну, і що вона тобі сказала?"
 
-# game/game/script.rpy:2155
+# game/game/script.rpy:2161
 translate ukrainian keiko_gal1_78fcb543:
 
     # t "So she does know her..."
     t "То вони знайомі..."
 
-# game/game/script.rpy:2156
+# game/game/script.rpy:2162
 translate ukrainian keiko_gal1_a8699d8f:
 
     # mc "She made me an offer"
     mc "Вона запропонувала мені угоду."
 
-# game/game/script.rpy:2158
+# game/game/script.rpy:2164
 translate ukrainian keiko_gal1_619ae082:
 
     # k "An offer? What kind of offer?"
     k "Угоду? Яку це угоду?"
 
-# game/game/script.rpy:2159
+# game/game/script.rpy:2165
 translate ukrainian keiko_gal1_3427a477:
 
     # mc "To protect {size=-6}someone."
     mc "Захистити {size=-6}декого."
 
-# game/game/script.rpy:2160
+# game/game/script.rpy:2166
 translate ukrainian keiko_gal1_bd4a82df:
 
     # mc "{i}{size=-8}In exchange, she promised {size=-8}not to say anything about me."
     mc "{i}{size=-6}Натомість вона пообіцяла {size=-6}нічого не розповідати про мене."
 
-# game/game/script.rpy:2161
+# game/game/script.rpy:2167
 translate ukrainian keiko_gal1_df387649:
 
     # k "{size=-6}Maybe it's-{w=0.5}{nw}"
     k "{size=-6}Можливо, це-{w=0.5}{nw}"
 
-# game/game/script.rpy:2165
+# game/game/script.rpy:2171
 translate ukrainian keiko_gal1_f9e43a4b:
 
     # t "{size=-6}My head... {w}I feel sleepy..."
     t "{size=-6}Моя голова... {w}Щось спати закортіло..."
 
-# game/game/script.rpy:2166
+# game/game/script.rpy:2172
 translate ukrainian keiko_gal1_979dd13f:
 
     # k "{size=-6}So that's why she was watching the souls entering that world..."
     k "{size=-6}Ось чому вона спостерігала, як душі входили в той світ..."
 
-# game/game/script.rpy:2167
+# game/game/script.rpy:2173
 translate ukrainian keiko_gal1_99f12b87:
 
     # k "{size=-6}{i}Sigh~{/size}{/i} {w}she's still worried about her..."
     k "{size=-6}{i}Хаах~{/size}{/i} {w}вона досі хвилюється через неї..."
 
-# game/game/script.rpy:2168
+# game/game/script.rpy:2174
 translate ukrainian keiko_gal1_82091822_3:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:2170
+# game/game/script.rpy:2176
 translate ukrainian keiko_gal1_c942fbe9:
 
     # k "Looks like you need to go now..."
     k "Видно, тобі вже час йти..."
 
-# game/game/script.rpy:2171
+# game/game/script.rpy:2177
 translate ukrainian keiko_gal1_ac9a2ed7:
 
     # mc "{size=-6}Yeah... {w}I can feel it too..."
     mc "{size=-6}Так... {w}Мені теж так здається..."
 
-# game/game/script.rpy:2173
+# game/game/script.rpy:2179
 translate ukrainian keiko_gal1_3998cbd5:
 
     # k "You have a strong body, even if I gave you a little help during your recovery~"
     k "У тебе міцне тіло, не зважаючи навіть на мою невеличку допомогу під час твого одужання~"
 
-# game/game/script.rpy:2174
+# game/game/script.rpy:2180
 translate ukrainian keiko_gal1_6feb2ee5:
 
     # mc "{size=-10}W-What do you mean...?"
     mc "{size=-10}П-Про що це ти...?"
 
-# game/game/script.rpy:2175
+# game/game/script.rpy:2181
 translate ukrainian keiko_gal1_431777ef:
 
     # k "What we did in the water just now wasn't only for... {w}fun~{image=corazon}"
     k "Те, чим ми займалися там, у воді, не було лише задля... {w}веселощів~{image=corazon}"
 
-# game/game/script.rpy:2177
+# game/game/script.rpy:2183
 translate ukrainian keiko_gal1_c8501fbf:
 
     # k "{size=-6}Though I admit... I got a little carried away~"
     k "{size=-6}Хоча мушу визнати... Я трішки захопилася~"
 
-# game/game/script.rpy:2178
+# game/game/script.rpy:2184
 translate ukrainian keiko_gal1_f2f4436a:
 
     # k "Let's just say it was my reward {w}for the entertainment you've been giving me-"
@@ -6809,13 +6809,13 @@ translate ukrainian keiko_gal1_1a56181f:
     # k "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few - we---..."
     k "{size=-8}Якби я не... т- б лежав без тями щ- кілька... тиж---..."
 
-# game/game/script.rpy:2186
+# game/game/script.rpy:2192
 translate ukrainian keiko_gal1_6752d29f:
 
     # mc "{size=-10}What...? {w}Did you say something...?"
     mc "{size=-8}Що...? {w}Ти щось сказала...?"
 
-# game/game/script.rpy:2187
+# game/game/script.rpy:2193
 translate ukrainian keiko_gal1_cff0da2d:
 
     # k "{size=-13}Not---ng, I'll expla-- it to you another t---."
@@ -6827,4609 +6827,4609 @@ translate ukrainian keiko_gal1_424d451f:
     # k "{size=-11}Now you must return and rest-body and soul."
     k "{size=-9}Тепер тобі час повернутися і відпочити... душею та тілом."
 
-# game/game/script.rpy:2190
+# game/game/script.rpy:2196
 translate ukrainian keiko_gal1_b505c216:
 
     # t "{size=-6}Keiko's voice is fading... more and more..."
     t "{size=-6}Голос Кейко стихає... все більше й більше..."
 
-# game/game/script.rpy:2191
+# game/game/script.rpy:2197
 translate ukrainian keiko_gal1_119f7ce0:
 
     # k "{size=-9}We'll m--- again [mc]. I also need t- talk to Fum--."
     k "{size=-9}Ще зуст----мось, [name_form('voc')]. Я також муш- поговорити з Фум---."
 
-# game/game/script.rpy:2192
+# game/game/script.rpy:2198
 translate ukrainian keiko_gal1_4a288ed3:
 
     # k "{size=-9}Bye Bye handsome... {w}{sc=1}{outlinecolor=#000000}{size=-8}Chu~{image=corazon}{image=corazon}"
     k "{size=-9}Бувай, красеню... {w}{sc=1}{outlinecolor=#000000}{size=-8}{i}*Чмок~*{/i}{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:2194
+# game/game/script.rpy:2200
 translate ukrainian keiko_gal1_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:2195
+# game/game/script.rpy:2201
 translate ukrainian keiko_gal1_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:2196
+# game/game/script.rpy:2202
 translate ukrainian keiko_gal1_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:2201
+# game/game/script.rpy:2207
 translate ukrainian keiko_gal1_711c0434:
 
     # t "Where... {w}am I?"
     t "Де... {w}це я?"
 
-# game/game/script.rpy:2202
+# game/game/script.rpy:2208
 translate ukrainian keiko_gal1_7408d63a:
 
     # t "I don't even have the strength to move my head... I feel something pressing against my chest..."
     t "У мене не залишилося сил навіть поворухнути головою... Відчуваю щось у себе на грудях..."
 
-# game/game/script.rpy:2203
+# game/game/script.rpy:2209
 translate ukrainian keiko_gal1_520a926d:
 
     # t "I'm trying to speak, but my mouth won't move..."
     t "Я намагаюся заговорити, але мій язик не рухається..."
 
-# game/game/script.rpy:2204
+# game/game/script.rpy:2210
 translate ukrainian keiko_gal1_9ed52dc3:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ry-{w}oko..."
     mc "{sc=1}{outlinecolor=#000000}{size=-8}Рьо-{w}ко..."
 
-# game/game/script.rpy:2205
+# game/game/script.rpy:2211
 translate ukrainian keiko_gal1_5159028c:
 
     # r "...?!"
     r "...?!"
 
-# game/game/script.rpy:2207
+# game/game/script.rpy:2213
 translate ukrainian keiko_gal1_79bcef39:
 
     # r "Master [mc]!"
-    r "Господарю [name_form('voc')]!"
+    r "Господарю [name_form('voc')]!" with vpunch
 
-# game/game/script.rpy:2208
+# game/game/script.rpy:2214
 translate ukrainian keiko_gal1_80854cfd:
 
     # r "I-I thought you'd never open your eyes."
     r "Я-Я думала, ви вже ніколи не розплющите очі."
 
-# game/game/script.rpy:2209
+# game/game/script.rpy:2215
 translate ukrainian keiko_gal1_adbb9d7c:
 
     # a "{size=-12}What a scare... did he really wake up?"
     a "{size=-12}Що за переполох... Невже він отямився?"
 
-# game/game/script.rpy:2211
+# game/game/script.rpy:2217
 translate ukrainian keiko_gal1_34ef80bf:
 
     # r "How do you feel? {w}Are you in pain? {w}Do you want me to get you some water?"
     r "Як себе почуваєте? {w}Вам боляче? {w}Мені принести вам трохи води?"
 
-# game/game/script.rpy:2212
+# game/game/script.rpy:2218
 translate ukrainian keiko_gal1_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2213
+# game/game/script.rpy:2219
 translate ukrainian keiko_gal1_7f62da09:
 
     # t "{size=-6}I can't answer her... {w}all my strength is going into keeping my eyes open."
     t "{size=-6}Я не можу їй відповісти... {w}Уся моя сила йде на те, щоб не заплющити очі."
 
-# game/game/script.rpy:2214
+# game/game/script.rpy:2220
 translate ukrainian keiko_gal1_dfaf98f0:
 
     # a "I don't think he can speak right now, Ryoko."
     a "Не думаю, що він може зараз розмовляти, Рьоко."
 
-# game/game/script.rpy:2215
+# game/game/script.rpy:2221
 translate ukrainian keiko_gal1_bb735ea0:
 
     # a "Your master hasn't recovered yet."
     a "Твій господар ще не оклигав."
 
-# game/game/script.rpy:2216
+# game/game/script.rpy:2222
 translate ukrainian keiko_gal1_d468a633:
 
     # a "In fact, {w}according to the doctor, it would've been a miracle if he ever woke up..."
     a "Насправді, {w}як казала лікарка, те, що він узагалі отямиться буде справжнім дивом..."
 
-# game/game/script.rpy:2218
+# game/game/script.rpy:2224
 translate ukrainian keiko_gal1_3f34ddf9:
 
     # r "{sc=1}{outlinecolor=#000000}..."
     r "{sc=1}{outlinecolor=#000000}..."
 
-# game/game/script.rpy:2219
+# game/game/script.rpy:2225
 translate ukrainian keiko_gal1_0275452b:
 
     # a "Err... {w}S-So soon..."
     a "Емм... {w}Т-Так швидко..."
 
-# game/game/script.rpy:2220
+# game/game/script.rpy:2226
 translate ukrainian keiko_gal1_b7851fd7:
 
     # a "{size=-6}{i}Sigh...~"
     a "{size=-6}{i}Хааах...~"
 
-# game/game/script.rpy:2221
+# game/game/script.rpy:2227
 translate ukrainian keiko_gal1_7dbdf747:
 
     # a "Let him rest for now. When he's fully recovered, tell him to come and speak with me."
     a "Дозволь йому відпочити. А коли він повністю одужає, передай йому, щоб зайшов до мене побалакати."
 
-# game/game/script.rpy:2222
+# game/game/script.rpy:2228
 translate ukrainian keiko_gal1_87d181f3:
 
     # a "You should get some rest too... {w}You've been awake since we arrived in the village."
     a "І ти теж маєш трохи відпочити... {w}Ти не спала із самого прибуття до нашого селища."
 
-# game/game/script.rpy:2223
+# game/game/script.rpy:2229
 translate ukrainian keiko_gal1_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:2225
+# game/game/script.rpy:2231
 translate ukrainian keiko_gal1_558f23cb:
 
     # r "{size=-10}Okay..."
     r "{size=-10}Гаразд..."
 
-# game/game/script.rpy:2226
+# game/game/script.rpy:2232
 translate ukrainian keiko_gal1_9217203d:
 
     # t "I hate seeing Ryoko sad."
     t "Так боляче бачити Рьоко засмученою."
 
-# game/game/script.rpy:2227
+# game/game/script.rpy:2233
 translate ukrainian keiko_gal1_c8e44e3f:
 
     # t "And knowing that I'm the reason for it... makes it worse."
     t "А ще гірше... усвідомлювати, що я — причина її сліз."
 
-# game/game/script.rpy:2228
+# game/game/script.rpy:2234
 translate ukrainian keiko_gal1_00e5cceb:
 
     # t "{size=-6}If only I could just..."
     t "{size=-6}Якби я тільки..."
 
-# game/game/script.rpy:2232
+# game/game/script.rpy:2238
 translate ukrainian keiko_gal1_60c49b37:
 
     # r "{size=-6}M-Master... {w}I'll be right here for you..."
     r "{size=-6}Г-Господарю... {w}Я завжди буду поруч із вами..."
 
-# game/game/script.rpy:2234
+# game/game/script.rpy:2240
 translate ukrainian keiko_gal1_f17eed6c:
 
     # t "I never thought I'd grow so attached to someone I met just a few days ago..."
     t "Я й подумати не міг, що так сильно прив'яжуся до людини, яку зустрів лише кілька днів тому..."
 
-# game/game/script.rpy:2235
+# game/game/script.rpy:2241
 translate ukrainian keiko_gal1_bd811cb2:
 
     # t "It's such a strange feeling..."
     t "Таке дивне відчуття..."
 
-# game/game/script.rpy:2236
+# game/game/script.rpy:2242
 translate ukrainian keiko_gal1_31000283:
 
     # t "{size=-6}I need to recover soon..."
     t "{size=-6}Маю якнайшвидше одужати..."
 
-# game/game/script.rpy:2238
+# game/game/script.rpy:2244
 translate ukrainian keiko_gal1_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:2239
+# game/game/script.rpy:2245
 translate ukrainian keiko_gal1_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:2240
+# game/game/script.rpy:2246
 translate ukrainian keiko_gal1_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:2244
+# game/game/script.rpy:2250
 translate ukrainian keiko_gal1_f44ea7f9:
 
     # mc "{size=-6}Hmm..."
     mc "{size=-6}Гмм..."
 
-# game/game/script.rpy:2246
+# game/game/script.rpy:2252
 translate ukrainian keiko_gal1_ebf884cf:
 
     # t "How much time has passed...?"
     t "Скільки часу вже минуло...?"
 
-# game/game/script.rpy:2247
+# game/game/script.rpy:2253
 translate ukrainian keiko_gal1_618aeec7:
 
     # t "My head's still spinning, but I feel better now."
     t "Голова досі обертом, але почуваюся вже значно краще."
 
-# game/game/script.rpy:2248
+# game/game/script.rpy:2254
 translate ukrainian keiko_gal1_cb4a7850:
 
     # t "There's no one else here..."
     t "Поруч нікого..."
 
-# game/game/script.rpy:2251
+# game/game/script.rpy:2257
 translate ukrainian keiko_gal1_af5052a5:
 
     # t "It almost feels like that battle with the wolves was just a dream..."
     t "Таке відчуття, ніби битва з вовками була лише жахливим сном..."
 
-# game/game/script.rpy:2252
+# game/game/script.rpy:2258
 translate ukrainian keiko_gal1_36dbabf2:
 
     # t "But these bandages say otherwise..."
     t "Але ці бинти свідчать про інше..."
 
-# game/game/script.rpy:2253
+# game/game/script.rpy:2259
 translate ukrainian keiko_gal1_b4d30e38:
 
     # t "Where's Ryoko...? {w}And my clothes..."
     t "Де Рьоко...? {w}І мій одяг..."
 
-# game/game/script.rpy:2255
+# game/game/script.rpy:2261
 translate ukrainian keiko_gal1_94a8eb26:
 
     # t "There they are."
     t "Ось де він."
 
-# game/game/script.rpy:2256
+# game/game/script.rpy:2262
 translate ukrainian keiko_gal1_8fd0301d:
 
     # "{i}You put on your clothes and prepare to leave the room."
     "{i}Ти вдягаєшся і готуєшся вийти з кімнати."
 
-# game/game/script.rpy:2264
+# game/game/script.rpy:2270
 translate ukrainian ryoko_encounter_b1926a30:
 
     # r "...!"
     r "...!"
 
-# game/game/script.rpy:2265
+# game/game/script.rpy:2271
 translate ukrainian ryoko_encounter_f76fc5e8:
 
     # r "{size=-6}M-Master [mc]..."
     r "{size=-6}Г-Господарю [name_form('voc')]..."
 
-# game/game/script.rpy:2270
+# game/game/script.rpy:2276
 translate ukrainian ryoko_encounter_8a5dcd81:
 
     # r "You're finally awake!"
-    r "Ви нарешті прокинулися!"
+    r "Ви нарешті прокинулися!" with hpunch
 
-# game/game/script.rpy:2271
+# game/game/script.rpy:2277
 translate ukrainian ryoko_encounter_9adc91fd:
 
     # t "Looks like she's been taking care of me all this time."
     t "Видно, вона весь цей час піклувалася про мене."
 
-# game/game/script.rpy:2272
+# game/game/script.rpy:2278
 translate ukrainian ryoko_encounter_8f7cb6dd:
 
     # mc "Were you really that worried?"
     mc "Ти й справді так сильно переймалася?"
 
-# game/game/script.rpy:2274
+# game/game/script.rpy:2280
 translate ukrainian ryoko_encounter_4ae5f57f:
 
     # r "Veeeery much!"
-    r "Дууууже сильно!"
+    r "Дууууже сильно!" with vpunch
 
-# game/game/script.rpy:2275
+# game/game/script.rpy:2281
 translate ukrainian ryoko_encounter_1f5b224d:
 
     # mc "Hahaha."
     mc "Хахаха."
 
-# game/game/script.rpy:2276
+# game/game/script.rpy:2282
 translate ukrainian ryoko_encounter_32109810:
 
     # mc "I feel much better now, and it's all thanks to you"
     mc "Почуваюся вже значно краще, і все це завдяки тобі."
 
-# game/game/script.rpy:2277
+# game/game/script.rpy:2283
 translate ukrainian ryoko_encounter_66ed9611:
 
     # r "Hehehe~{image=corazon}"
     r "Хехехе~{image=corazon}"
 
-# game/game/script.rpy:2278
+# game/game/script.rpy:2284
 translate ukrainian ryoko_encounter_ab0c1a84:
 
     # mc "Can you give me an update on what happened?"
     mc "Розкажеш мені, що взагалі трапилося?"
 
-# game/game/script.rpy:2280
+# game/game/script.rpy:2286
 translate ukrainian ryoko_encounter_e287f124:
 
     # r "Yes! Let's sit down."
     r "Так! Нумо присядемо."
 
-# game/game/script.rpy:2281
+# game/game/script.rpy:2287
 translate ukrainian ryoko_encounter_b8d12618:
 
     # r "It's not good to overdo it right after waking up."
     r "Не варто перенапружуватися відразу після того, як встали."
 
-# game/game/script.rpy:2282
+# game/game/script.rpy:2288
 translate ukrainian ryoko_encounter_495c71c2:
 
     # mc "Hahaha, all right. After you."
     mc "Хахаха, гаразд. Веди, я за тобою."
 
-# game/game/script.rpy:2284
+# game/game/script.rpy:2290
 translate ukrainian ryoko_encounter_1643e592:
 
     # t "I wonder whose house this is..."
     t "Цікаво, чий це дім..."
 
-# game/game/script.rpy:2286
+# game/game/script.rpy:2292
 translate ukrainian ryoko_encounter_6d695b84:
 
     # r "Well, where do you want to start?"
     r "Отже, з чого б ви хотіли почати?"
 
-# game/game/script.rpy:2287
+# game/game/script.rpy:2293
 translate ukrainian ryoko_encounter_577f33b3:
 
     # mc "Mmm..."
     mc "Ммм..."
 
-# game/game/script.rpy:2288
+# game/game/script.rpy:2294
 translate ukrainian ryoko_encounter_22cc9567:
 
     # mc "Where are we?"
     mc "Де це ми?"
 
-# game/game/script.rpy:2290
+# game/game/script.rpy:2296
 translate ukrainian ryoko_encounter_239b6568:
 
     # r "We're in the village I told you about!"
     r "Ми в селищі, про яке я згадувала!"
 
-# game/game/script.rpy:2291
+# game/game/script.rpy:2297
 translate ukrainian ryoko_encounter_e3fc1a7c:
 
     # mc "And how? Did you carry me all the way here by yourself?"
     mc "І як ми тут опинилися? Невже ти самотужки мене дотягнула?"
 
-# game/game/script.rpy:2293
+# game/game/script.rpy:2299
 translate ukrainian ryoko_encounter_1d53767a:
 
     # r "Well..."
     r "Ну..."
 
-# game/game/script.rpy:2294
+# game/game/script.rpy:2300
 translate ukrainian ryoko_encounter_c7c1dd12:
 
     # r "After I made it out of the forest, I hit a big wall."
     r "Коли я вибралася з лісу, то натрапила на велику стіну."
 
-# game/game/script.rpy:2295
+# game/game/script.rpy:2301
 translate ukrainian ryoko_encounter_8265a239:
 
     # r "I screamed for help for a long time, but no one answered."
     r "Я довго кликала на допомогу, але ніхто не відповідав."
 
-# game/game/script.rpy:2296
+# game/game/script.rpy:2302
 translate ukrainian ryoko_encounter_dc429b48:
 
     # r "When I was losing hope, {w}an adventurer opened the gate and offered to help me."
     r "Коли я вже втрачала надію, {w}одна пригодниця відкрила браму і запропонувала допомогу."
 
-# game/game/script.rpy:2298
+# game/game/script.rpy:2304
 translate ukrainian ryoko_encounter_803c7b0a:
 
     # r "{size=-6}If it wasn't for her... {w}I don't know what would've happened to you..."
     r "{size=-6}Якби не вона... {w}не можу й уявити, що б з вами було..."
 
-# game/game/script.rpy:2299
+# game/game/script.rpy:2305
 translate ukrainian ryoko_encounter_4a87b5e4:
 
     # mc "So, an adventurer... I'll have to thank her."
     mc "Отже, пригодниця... Маю їй пізніше віддячити."
 
-# game/game/script.rpy:2301
+# game/game/script.rpy:2307
 translate ukrainian ryoko_encounter_5616ce3a:
 
     # r "She said that once you're better, you should come to the village."
     r "Вона казала, аби ви прогулялися селом, щойно почуватиметеся краще."
 
-# game/game/script.rpy:2302
+# game/game/script.rpy:2308
 translate ukrainian ryoko_encounter_955cef77:
 
     # r "Ask for Yui."
     r "Пошукайте Юї."
 
-# game/game/script.rpy:2303
+# game/game/script.rpy:2309
 translate ukrainian ryoko_encounter_88ccade7:
 
     # r "She said she has something important to discuss with you."
     r "Вона також казала, що хоче обговорити з вами дещо важливе."
 
-# game/game/script.rpy:2304
+# game/game/script.rpy:2310
 translate ukrainian ryoko_encounter_ccbdf867:
 
     # t "Something important...? {w}I hope it's not what I think..."
     t "Дещо важливе...? {w}Сподіваюся, це не те, про що я думаю..."
 
-# game/game/script.rpy:2305
+# game/game/script.rpy:2311
 translate ukrainian ryoko_encounter_1119d545:
 
     # mc "Thanks for telling me, Ryoko."
     mc "Дякую тобі, що розповіла, Рьоко."
 
-# game/game/script.rpy:2307
+# game/game/script.rpy:2313
 translate ukrainian ryoko_encounter_cee94512:
 
     # r "No problem! Anything else you want to know?"
     r "Звертайтеся! Можливо, ви ще щось хотіли?"
 
-# game/game/script.rpy:2311
+# game/game/script.rpy:2317
 translate ukrainian ryoko_encounter_5e0a242f:
 
     # t "Hmm... I know Ryoko's trying to act like she's fine, but she looks exhausted."
     t "Гмм... Знаю, що Рьоко намагається вдавати, ніби з нею все гаразд, але вона виглядає виснаженою."
 
-# game/game/script.rpy:2312
+# game/game/script.rpy:2318
 translate ukrainian ryoko_encounter_0098ac1a:
 
     # t "She must've stayed by my side this whole time..."
     t "Певно, вона весь час була лише поруч зі мною..."
 
-# game/game/script.rpy:2313
+# game/game/script.rpy:2319
 translate ukrainian ryoko_encounter_de4c87a7:
 
     # mc "Actually... {w}yeah. I need you to come closer."
     mc "Насправді... {w}так. Можеш підійти ближче?"
 
-# game/game/script.rpy:2315
+# game/game/script.rpy:2321
 translate ukrainian ryoko_encounter_0143c86a:
 
     # r "Hmm? Okay..."
     r "Гмм? Гаразд..."
 
-# game/game/script.rpy:2320
+# game/game/script.rpy:2326
 translate ukrainian ryoko_encounter_7ecdca18:
 
     # r "What's wrong? {w}Do you need help with something...? {w}Or are you still not feeling well?"
     r "Що ви хотіли? {w}Вам треба моя допомога з чимось...? {w}Чи ви досі себе погано почуваєте?"
 
-# game/game/script.rpy:2322
+# game/game/script.rpy:2328
 translate ukrainian ryoko_encounter_895c6b6c:
 
     # r "{sc=1}{outlinecolor=#000000}M-Master??"
-    r "{sc=1}{outlinecolor=#000000}Г-Господарю??"
+    r "{sc=1}{outlinecolor=#000000}Г-Господарю??" with vpunch
 
-# game/game/script.rpy:2323
+# game/game/script.rpy:2329
 translate ukrainian ryoko_encounter_bb2a78d0:
 
     # r "What's wrong?"
     r "Щось трапилося?"
 
-# game/game/script.rpy:2324
+# game/game/script.rpy:2330
 translate ukrainian ryoko_encounter_b7df4fac:
 
     # mc "Nothing. I just wanted to pet you, that's all."
     mc "Нічого такого. Я лише хотів погладити тебе, та й усе."
 
-# game/game/script.rpy:2326
+# game/game/script.rpy:2332
 translate ukrainian ryoko_encounter_58324477:
 
     # r "Just that?"
     r "Лише погладити?"
 
-# game/game/script.rpy:2327
+# game/game/script.rpy:2333
 translate ukrainian ryoko_encounter_3861e8e3:
 
     # mc "Yeah, just that. {w}You don't like it?"
     mc "Так, лише погладити. {w}Тобі не подобається?"
 
-# game/game/script.rpy:2328
+# game/game/script.rpy:2334
 translate ukrainian ryoko_encounter_becbdfea:
 
     # r "O-Of course I do... {w}but if you do it so suddenly..."
     r "З-Звісно подобається... {w}але якщо ви це робитимете так раптово..."
 
-# game/game/script.rpy:2330
+# game/game/script.rpy:2336
 translate ukrainian ryoko_encounter_7fa78f09:
 
     # mc "Thank you for taking care of me. But now you need to rest too, right?"
     mc "Дякую, що піклувалася про мене. Але тепер ти теж маєш відпочити, гаразд?"
 
-# game/game/script.rpy:2331
+# game/game/script.rpy:2337
 translate ukrainian ryoko_encounter_898a1b36:
 
     # mc "I don't want anything bad to happen to you because of me."
     mc "Не хочу, аби щось погане трапилося з тобою через мене."
 
-# game/game/script.rpy:2332
+# game/game/script.rpy:2338
 translate ukrainian ryoko_encounter_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:2334
+# game/game/script.rpy:2340
 translate ukrainian ryoko_encounter_b41083b1:
 
     # r "{i}{size=-10}Why is he so kind to me...?"
     r "{i}{size=-9}Чому він такий добрий до мене...?"
 
-# game/game/script.rpy:2335
+# game/game/script.rpy:2341
 translate ukrainian ryoko_encounter_501791e8:
 
     # r "{i}{size=-10}How am I supposed to stop these feelings if he keeps treating me like this...?"
     r "{i}{size=-9}Як я маю стримувати ці почуття, коли він продовжує так до мене ставитися...?"
 
-# game/game/script.rpy:2337
+# game/game/script.rpy:2343
 translate ukrainian ryoko_encounter_a142a3aa:
 
     # mc "Understood, Ryoko?"
     mc "Зрозуміло, Рьоко?"
 
-# game/game/script.rpy:2339
+# game/game/script.rpy:2345
 translate ukrainian ryoko_encounter_16fc3ed2:
 
     # r "Yes~{image=corazon}{image=corazon}"
     r "Так~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:2342
+# game/game/script.rpy:2348
 translate ukrainian ryoko_encounter_5ffa9935:
 
     # "{image=corazon} Ryoko's affection has increased to [ryoko_affection] {image=corazon}"
     "{image=corazon} Прихильність Рьоко зросла до [ryoko_affection] {image=corazon}"
 
-# game/game/script.rpy:2354
+# game/game/script.rpy:2360
 translate ukrainian ryoko_encounter_acf752a9:
 
     # t "I'll look for Yui in the village. I should take the chance to explore the area and gather some information."
     t "Треба пошукати Юї в селищі. Варто також скористатися нагодою та оглянути все й зібрати трохи інформації."
 
-# game/game/script.rpy:2367
+# game/game/script.rpy:2373
 translate ukrainian town1_2e0621f0:
 
     # t "So, this is the town... {w}It looks kind of... empty?"
     t "Отже, ось воно — селище... {w}Виглядає дещо... безлюдно?"
 
-# game/game/script.rpy:2368
+# game/game/script.rpy:2374
 translate ukrainian town1_98726bac:
 
     # t "I don't even know what this \"Yui\" looks like. {w}Guess I should try to find someone who can help me."
     t "Я навіть не знаю, як та «Юї» виглядає. {w}Гадаю, мені варто пошукати когось, хто б міг допомогти."
 
-# game/game/script.rpy:2369
+# game/game/script.rpy:2375
 translate ukrainian town1_6c70c421:
 
     # mc "That must be the way out of this alley."
     mc "Мабуть, це і є вихід із цього провулку."
 
-# game/game/script.rpy:2378
+# game/game/script.rpy:2384
 translate ukrainian villagers_help_b27ea96b:
 
     # t "I'll ask them if they know where Yui is."
     t "Спитаю в них, чи вони знають де Юї."
 
-# game/game/script.rpy:2380
+# game/game/script.rpy:2386
 translate ukrainian villagers_help_21e17cc6:
 
     # mc "Excuse me."
     mc "Перепрошую."
 
-# game/game/script.rpy:2381
+# game/game/script.rpy:2387
 translate ukrainian villagers_help_803fbc63:
 
     # mc "Do you happen to know someone named Yui?"
     mc "Можливо, вам знайома дівчина, на ім'я Юї?"
 
-# game/game/script.rpy:2383
+# game/game/script.rpy:2389
 translate ukrainian villagers_help_fe72dfbb:
 
     # "{color=#E4D8AA}Ah, {w}you're..."
     "{color=#E4D8AA}Ах, {w}ти..."
 
-# game/game/script.rpy:2384
+# game/game/script.rpy:2390
 translate ukrainian villagers_help_3f871f46:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:2386
+# game/game/script.rpy:2392
 translate ukrainian villagers_help_062a951b:
 
     # "{color=#6998bc}{size=-8}Shh! Don't be rude!"
     "{color=#6998bc}{size=-8}Тихо! Поводься ввічливо!"
 
-# game/game/script.rpy:2387
+# game/game/script.rpy:2393
 translate ukrainian villagers_help_32f611ae:
 
     # "{color=#E4D8AA}{size=-8}I know, I know, I just didn't expect him to be so handsome!"
     "{color=#E4D8AA}{size=-8}Знаю, знаю. Просто не очікувала, що він буде таким красенем!"
 
-# game/game/script.rpy:2388
+# game/game/script.rpy:2394
 translate ukrainian villagers_help_305b9b52:
 
     # mc "Err... is there a problem?"
     mc "Емм... щось не так?"
 
-# game/game/script.rpy:2390
+# game/game/script.rpy:2396
 translate ukrainian villagers_help_27f0aac1:
 
     # "{color=#E4D8AA}{size=-8}O-Oh! Not at all, great warrior! Say, do you have a girlfriend?"
     "{color=#E4D8AA}{size=-8}О-Ох! Зовсім ні, величний воїне! Скажи-но, у тебе часом немає дівчини?"
 
-# game/game/script.rpy:2391
+# game/game/script.rpy:2397
 translate ukrainian villagers_help_d0270029:
 
     # t "G-Great warrior?"
     t "В-Величний воїн?"
 
-# game/game/script.rpy:2393
+# game/game/script.rpy:2399
 translate ukrainian villagers_help_816905b8:
 
     # "{color=#6998bc}You asked about Yui, right?"
     "{color=#6998bc}Ти питав за Юї, так?"
 
-# game/game/script.rpy:2395
+# game/game/script.rpy:2401
 translate ukrainian villagers_help_adeef2d3:
 
     # "{color=#E4D8AA}{size=-8}I think she's probably at home right now."
     "{color=#E4D8AA}{size=-8}Гадаю, вона зараз має бути в себе вдома."
 
-# game/game/script.rpy:2396
+# game/game/script.rpy:2402
 translate ukrainian villagers_help_3f6e421d:
 
     # mc "And where would that be?"
     mc "І де її дім?"
 
-# game/game/script.rpy:2397
+# game/game/script.rpy:2403
 translate ukrainian villagers_help_f5a90963:
 
     # "{color=#E4D8AA}Oh, how foolish of me to forget..."
     "{color=#E4D8AA}Ох, як же я могла забути..."
 
-# game/game/script.rpy:2398
+# game/game/script.rpy:2404
 translate ukrainian villagers_help_67ea5869:
 
     # "{color=#E4D8AA}Maybe my memory will come back if you accompany me to my house and-"
     "{color=#E4D8AA}Можливо, моя пам'ять повернеться, якщо ти проведеш мене додому і-"
 
-# game/game/script.rpy:2400
+# game/game/script.rpy:2406
 translate ukrainian villagers_help_0e242fbb:
 
     # "{color=#6998bc}Just turn that corner and go straight to the end! {w}You'll see a house with bamboo trees, she should be there!"
     "{color=#6998bc}Просто поверни за той ріг і йди прямо до кінця! {w}Ти побачиш будинок з бамбуковими деревами — вона має бути саме там!"
 
-# game/game/script.rpy:2401
+# game/game/script.rpy:2407
 translate ukrainian villagers_help_2598c2ea:
 
     # mc "Thank you. Sorry for the trouble."
     mc "Вельми вдячний. Пробачте, що потурбував."
 
-# game/game/script.rpy:2403
+# game/game/script.rpy:2409
 translate ukrainian villagers_help_7660943e:
 
     # "{color=#6998bc}No trouble at all. Take care~"
     "{color=#6998bc}Та пусте. Бережи себе~"
 
-# game/game/script.rpy:2417
+# game/game/script.rpy:2423
 translate ukrainian street_1_0ff54cd0:
 
     # mc "I shouldn't go around blindly, I should talk to those girls first."
     mc "Погана ідея йти наосліп. Варто спочатку запитати тих дівчат."
 
-# game/game/script.rpy:2423
+# game/game/script.rpy:2429
 translate ukrainian street_1_54d60c6a:
 
     # mc "Why would I go this way if I have already been given directions."
     mc "Навіщо я маю йти туди, якщо мені вже дали вказівки?"
 
-# game/game/script.rpy:2436
+# game/game/script.rpy:2442
 translate ukrainian village_street_8abd8b01:
 
     # t "Somewhere around here... I just have to look for a house with red cloth..."
     t "Десь у цьому напрямку... Мені просто треба шукати будинок із червоною тканиною..."
 
-# game/game/script.rpy:2438
+# game/game/script.rpy:2444
 translate ukrainian village_street_1acc0927:
 
     # t "Mmm... no, not this one."
     t "Ммм... ні, не цей."
 
-# game/game/script.rpy:2440
+# game/game/script.rpy:2446
 translate ukrainian village_street_23bc4ff6:
 
     # t "Not this one either."
     t "Цей також ні."
 
-# game/game/script.rpy:2442
+# game/game/script.rpy:2448
 translate ukrainian village_street_dc993384:
 
     # v "{size=-10}Look! It's the new guy."
     v "{size=-10}Дивися! Це той новий хлопець."
 
-# game/game/script.rpy:2443
+# game/game/script.rpy:2449
 translate ukrainian village_street_cd8cf881:
 
     # v "{size=-10}Wow, he doesn't look like a noble."
     v "{size=-10}Ого, по ньому не скажеш, що він якийсь дворянин."
 
-# game/game/script.rpy:2444
+# game/game/script.rpy:2450
 translate ukrainian village_street_6eeadfcd:
 
     # v "{size=-10}Why don't you go talk to him?"
     v "{size=-10}Чому б тобі не заговорити з ним?"
 
-# game/game/script.rpy:2445
+# game/game/script.rpy:2451
 translate ukrainian village_street_43e4f477:
 
     # v "{size=-10}S-Silly! My heart's not ready... I haven't seen a man in ages..."
     v "{size=-10}С-Смієшся! Моє серденько не готове... Я вже вічність не бачила жодного чоловіка..."
 
-# game/game/script.rpy:2447
+# game/game/script.rpy:2453
 translate ukrainian village_street_5245773e:
 
     # v "{size=-10}That's him!"
     v "{size=-10}Це він!"
 
-# game/game/script.rpy:2448
+# game/game/script.rpy:2454
 translate ukrainian village_street_202fb7e1:
 
     # v "{size=-10}Even if he has a demon slave, he doesn't seem like a bad person..."
     v "{size=-10}Попри те, що він з рабинею-демоном, він не здається таким уже поганцем..."
 
-# game/game/script.rpy:2450
+# game/game/script.rpy:2456
 translate ukrainian village_street_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:2452
+# game/game/script.rpy:2458
 translate ukrainian village_street_20033bf7:
 
     # mc "Hello, good morn-"
     mc "Доброго ран-"
 
-# game/game/script.rpy:2454
+# game/game/script.rpy:2460
 translate ukrainian village_street_b86e9817:
 
     # v "{sc=1}{outlinecolor=#000000}Hia!"
     v "{sc=1}{outlinecolor=#000000}Хія!"
 
-# game/game/script.rpy:2456
+# game/game/script.rpy:2462
 translate ukrainian village_street_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2458
+# game/game/script.rpy:2464
 translate ukrainian village_street_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2462
+# game/game/script.rpy:2468
 translate ukrainian village_street_0ae40874:
 
     # t "Okay... something weird is going on here..."
     t "Гаразд... щось тут дивне коїться..."
 
-# game/game/script.rpy:2464
+# game/game/script.rpy:2470
 translate ukrainian village_street_ee3aa969:
 
     # t "This must be the place..."
     t "Виглядає так, ніби це тут..."
 
-# game/game/script.rpy:2466
+# game/game/script.rpy:2472
 translate ukrainian village_street_6d15450b:
 
     # mc "Hello? Is anyone there?"
     mc "Вітаю? Тут хтось є?"
 
-# game/game/script.rpy:2467
+# game/game/script.rpy:2473
 translate ukrainian village_street_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2468
+# game/game/script.rpy:2474
 translate ukrainian village_street_d6e0ebea:
 
     # mc "Doctor?"
     mc "Лікарко?"
 
-# game/game/script.rpy:2469
+# game/game/script.rpy:2475
 translate ukrainian village_street_ad6d5425:
 
     # t "I forgot to ask Yui the doctor's name..."
     t "Забув спитати в Юї ім'я лікарки..."
 
-# game/game/script.rpy:2474
+# game/game/script.rpy:2480
 translate ukrainian village_street_975f9a71:
 
     # t "The door... {w}is open?"
     t "Двері... {w}не зачинені?"
 
-# game/game/script.rpy:2475
+# game/game/script.rpy:2481
 translate ukrainian village_street_ba4ef615:
 
     # mc "Hello, I'm coming in."
     mc "Вибачте, я заходжу."
 
-# game/game/script.rpy:2476
+# game/game/script.rpy:2482
 translate ukrainian village_street_115dbcbb:
 
     # mc "I hope I'm not intruding, I'm looking for the doc-"
     mc "Сподіваюся, я не завадив, я шукаю ліка-"
 
-# game/game/script.rpy:2484
+# game/game/script.rpy:2490
 translate ukrainian village_street_c62bd3a6:
 
     # mc "{sc=1}{outlinecolor=#000000}Ahg."
     mc "{sc=1}{outlinecolor=#000000}Агх."
 
-# game/game/script.rpy:2485
+# game/game/script.rpy:2491
 translate ukrainian village_street_d17e1299:
 
     # t "Did I just bump into someone?"
     t "Я щойно в когось влетів?"
 
-# game/game/script.rpy:2486
+# game/game/script.rpy:2492
 translate ukrainian village_street_9aef862a:
 
     # t "At least I landed on something soft."
     t "Принаймні приземлився я на щось м'яке."
 
-# game/game/script.rpy:2487
+# game/game/script.rpy:2493
 translate ukrainian village_street_54fa82b7:
 
     # a "Hey... {w}could you move?"
     a "Гей... {w}може злізеш?"
 
-# game/game/script.rpy:2488
+# game/game/script.rpy:2494
 translate ukrainian village_street_03fb3e88_1:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:2492
+# game/game/script.rpy:2498
 translate ukrainian village_street_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2493
+# game/game/script.rpy:2499
 translate ukrainian village_street_34c78d82:
 
     # mc "Oh!"
-    mc "Ох!"
+    mc "Ох!" with hpunch
 
-# game/game/script.rpy:2498
+# game/game/script.rpy:2504
 translate ukrainian village_street_9986eeb9:
 
     # mc "SORRY!"
-    mc "ВИБАЧ!"
+    mc "ВИБАЧ!" with hpunch
 
-# game/game/script.rpy:2499
+# game/game/script.rpy:2505
 translate ukrainian village_street_bb5b606e:
 
     # mc "I'm getting up right away!"
     mc "Зараз же встану!"
 
-# game/game/script.rpy:2505
+# game/game/script.rpy:2511
 translate ukrainian village_street_27279f1b:
 
     # t "I don't even know what to say..."
     t "Навіть не знаю, що й казати..."
 
-# game/game/script.rpy:2506
+# game/game/script.rpy:2512
 translate ukrainian village_street_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2508
+# game/game/script.rpy:2514
 translate ukrainian village_street_8d09390c:
 
     # a "I heard rumors about you, but no one said you were a pervert."
     a "Я чула багато чуток про тебе, але жодна не каже, що ти збоченець."
 
-# game/game/script.rpy:2510
+# game/game/script.rpy:2516
 translate ukrainian village_street_4e463f58:
 
     # mc "S-Sorry! It was an accident..."
     mc "П-Пробач! Я випадково..."
 
-# game/game/script.rpy:2511
+# game/game/script.rpy:2517
 translate ukrainian village_street_e57901ec:
 
     # mc "I came in and didn't see you..."
     mc "Коли заходив, зовсім не побачив тебе..."
 
-# game/game/script.rpy:2513
+# game/game/script.rpy:2519
 translate ukrainian village_street_387a84f7:
 
     # a "So you're all muscle, no brains, huh?"
     a "Отже, сила є — мізків не треба, та?"
 
-# game/game/script.rpy:2514
+# game/game/script.rpy:2520
 translate ukrainian village_street_e0715dbc:
 
     # mc "But-"
     mc "Ну-"
 
-# game/game/script.rpy:2516
+# game/game/script.rpy:2522
 translate ukrainian village_street_a6feba68:
 
     # a "Move. You're blocking the doorway."
     a "Рухайся вже. Ти в проході стоїш."
 
-# game/game/script.rpy:2517
+# game/game/script.rpy:2523
 translate ukrainian village_street_35882fba:
 
     # mc "Oh, right... Sorry."
     mc "А, так... Вибач."
 
-# game/game/script.rpy:2519
+# game/game/script.rpy:2525
 translate ukrainian village_street_29a608f8:
 
     # a "Do you only know how to apologize?"
     a "Ти тільки просити вибачення навчився?"
 
-# game/game/script.rpy:2520
+# game/game/script.rpy:2526
 translate ukrainian village_street_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2522
+# game/game/script.rpy:2528
 translate ukrainian village_street_bb8e4b4e:
 
     # a "..."
     a "..."
 
-# game/game/script.rpy:2526
+# game/game/script.rpy:2532
 translate ukrainian village_street_15cad8a0:
 
     # "{i}The girl leaves without another word."
     "{i}Дівчина мовчки пішла."
 
-# game/game/script.rpy:2528
+# game/game/script.rpy:2534
 translate ukrainian village_street_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
     mc "{size=-6}{i}*Хааах...*"
 
-# game/game/script.rpy:2530
+# game/game/script.rpy:2536
 translate ukrainian village_street_8eabdf40:
 
     # a "Wow, you really messed up."
     a "Ого, майстерно налажав."
 
-# game/game/script.rpy:2532
+# game/game/script.rpy:2538
 translate ukrainian village_street_9719e0f8:
 
     # a "Out of everyone, you had to make {b}her{/b} angry."
     a "З усіх людей ти розлютив саме {b}її{/b}."
 
-# game/game/script.rpy:2534
+# game/game/script.rpy:2540
 translate ukrainian village_street_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2538
+# game/game/script.rpy:2544
 translate ukrainian village_street_172301b5:
 
     # mc "And you are...?"
     mc "А ти...?"
 
-# game/game/script.rpy:2540
+# game/game/script.rpy:2546
 translate ukrainian village_street_5d0e903b:
 
     # a "Oh! Sorry about that."
     a "Ох! Вибач, що не представилася."
 
-# game/game/script.rpy:2545
+# game/game/script.rpy:2551
 translate ukrainian village_street_538cb09b:
 
     # a "Hello! My name is Shika."
     a "Привіт! Мене звати Шика."
 
-# game/game/script.rpy:2546
+# game/game/script.rpy:2552
 translate ukrainian village_street_a8257873:
 
     # mc "I'm [mc]."
     mc "Я [name_form('nom')]."
 
-# game/game/script.rpy:2548
+# game/game/script.rpy:2554
 translate ukrainian village_street_8c749e64:
 
     # s "Nice to meet you, [mc]."
     s "Рада знайомству, [name_form('voc')]."
 
-# game/game/script.rpy:2550
+# game/game/script.rpy:2556
 translate ukrainian village_street_c132e95b:
 
     # t "What's going on...? Is she scared?"
     t "Що вже...? Вона боїться?"
 
-# game/game/script.rpy:2551
+# game/game/script.rpy:2557
 translate ukrainian village_street_ea351707:
 
     # mc "I'm looking for the doc-"
     mc "Я шукаю лікар-"
 
-# game/game/script.rpy:2553
+# game/game/script.rpy:2559
 translate ukrainian village_street_be8bee75:
 
     # s "Are you a thief?"
     s "Ти — крадій?"
 
-# game/game/script.rpy:2557
+# game/game/script.rpy:2563
 translate ukrainian village_street_42bd829d:
 
     # mc "Wait, what?"
     mc "Стоп, що?"
 
-# game/game/script.rpy:2559
+# game/game/script.rpy:2565
 translate ukrainian village_street_eceeca1d:
 
     # s "Just so you know, I'm trained to kill!"
     s "До твого відома, я навчена вбивати!"
 
-# game/game/script.rpy:2560
+# game/game/script.rpy:2566
 translate ukrainian village_street_d0090d19:
 
     # mc "N-No... I just came to-"
     mc "Н-Ні... Я лише прийшов до-"
 
-# game/game/script.rpy:2562
+# game/game/script.rpy:2568
 translate ukrainian village_street_0971ffc8:
 
     # s "{sc=1}{outlinecolor=#000000}Haaa!!"
     s "{sc=1}{outlinecolor=#000000}Хааа!!"
 
-# game/game/script.rpy:2569
+# game/game/script.rpy:2575
 translate ukrainian village_street_5c2aa7fd:
 
     # s "a-"
     s "...а-"
 
-# game/game/script.rpy:2575
+# game/game/script.rpy:2581
 translate ukrainian village_street_2b35b6fe_7:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2577
+# game/game/script.rpy:2583
 translate ukrainian village_street_2b35b6fe_8:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2579
+# game/game/script.rpy:2585
 translate ukrainian village_street_25558010:
 
     # mc "Uh... {w}Do you need help...?"
     mc "Ух... {w}Тобі допомогти...?"
 
-# game/game/script.rpy:2586
+# game/game/script.rpy:2592
 translate ukrainian village_street_cc2027aa:
 
     # s "You're stronger than you look!"
     s "А ти сильніший, ніж здаєшся!"
 
-# game/game/script.rpy:2587
+# game/game/script.rpy:2593
 translate ukrainian village_street_2485f494:
 
     # mc "I..."
     mc "Я..."
 
-# game/game/script.rpy:2589
+# game/game/script.rpy:2595
 translate ukrainian village_street_f5b7fcd8:
 
     # s "Just take me, but please leave the doctor alone!"
     s "Можеш забрати мене, але, будь ласка, облиш Лікарку!"
 
-# game/game/script.rpy:2603
+# game/game/script.rpy:2609
 translate ukrainian shika_tickling_cc92f30b:
 
     # mc "Are you really sure you want to sacrifice yourself?"
     mc "Ти справді впевнена, що хочеш пожертвувати собою?"
 
-# game/game/script.rpy:2605
+# game/game/script.rpy:2611
 translate ukrainian shika_tickling_11add0f4:
 
     # s "Yes! {w}As long as you keep your promise and leave without hurting anyone!"
-    s "Так! {w}Лише стримай обіцянку і йди, не чіпаючи нікого!"
+    s "Так! {w}Лише стримай обіцянку і йди, не чіпаючи нікого!" with vpunch
 
-# game/game/script.rpy:2607
+# game/game/script.rpy:2613
 translate ukrainian shika_tickling_896035dd:
 
     # mc "Alright... {w}I'll make it as painless as possible."
     mc "Гаразд... {w}Постараюся зробити це якомога безболісніше."
 
-# game/game/script.rpy:2609
+# game/game/script.rpy:2615
 translate ukrainian shika_tickling_3a71204c:
 
     # s "I hope you live a long life, Doctor."
     s "Сподіваюся, ви проживете довге життя, Лікарко."
 
-# game/game/script.rpy:2610
+# game/game/script.rpy:2616
 translate ukrainian shika_tickling_ca8b27c3:
 
     # s "{size=-6}{i}My time has come..."
     s "{size=-6}{i}Мій час настав..."
 
-# game/game/script.rpy:2612
+# game/game/script.rpy:2618
 translate ukrainian shika_tickling_dbd31391:
 
     # s "Goodbye... always remember m-"
     s "Прощавайте... Не забудьте пом'янути незлим тих-" #Відсилка на Заповіт
 
-# game/game/script.rpy:2619
+# game/game/script.rpy:2625
 translate ukrainian shika_tickling_60cbe841:
 
     # s "{sc=2}{outlinecolor=#000000}HAHAHAHA!"
-    s "{sc=2}{outlinecolor=#000000}ХАХАХАХА!"
+    s "{sc=2}{outlinecolor=#000000}ХАХАХАХА!" with hpunch
 
-# game/game/script.rpy:2620
+# game/game/script.rpy:2626
 translate ukrainian shika_tickling_ba6ea9e0:
 
     # s "{sc=2}{outlinecolor=#000000}{size=-8}No, please! A-Anything but this! Hahaha!"
     s "{sc=2}{outlinecolor=#000000}{size=-8}Ні, благаю! Щ-Що завгодно, але тільки не це! Хахаха!"
 
-# game/game/script.rpy:2622
+# game/game/script.rpy:2628
 translate ukrainian shika_tickling_27f1be10:
 
     # mc "You dared to attack me!"
-    mc "Ти наважилася напасти на мене!"
+    mc "Ти наважилася напасти на мене!" with vpunch
 
-# game/game/script.rpy:2624
+# game/game/script.rpy:2630
 translate ukrainian shika_tickling_940f97bc:
 
     # mc "Now I have no choice but to punish you with all my might!"
-    mc "У мене не залишилося вибору, окрім як застосувати найсуворіше покарання!"
+    mc "У мене не залишилося вибору, окрім як застосувати найсуворіше покарання!" with vpunch
 
-# game/game/script.rpy:2625
+# game/game/script.rpy:2631
 translate ukrainian shika_tickling_e6bc6421:
 
     # s "{sc=1}{outlinecolor=#000000}I-It was a mistake! I-I was just passing by! Hahaha!"
     s "{sc=1}{outlinecolor=#000000}Ц-Це непорозуміння! Я-Я лише повз йшла! Хахаха!"
 
-# game/game/script.rpy:2627
+# game/game/script.rpy:2633
 translate ukrainian shika_tickling_0e4316d2:
 
     # mc "Yeah, yeah, and I'm the protagonist of a visual novel."
-    mc "Так, так, а я — протагоніст візуальної новели."
+    mc "Так, так, а я — протагоніст візуальної новели." with hpunch
 
-# game/game/script.rpy:2629
+# game/game/script.rpy:2635
 translate ukrainian shika_tickling_b126f0a9:
 
     # mc "I won't fall for your lies! Mwahaha!"
-    mc "Я не піддамся твоїй облуді! Мухаха!"
+    mc "Я не піддамся твоїй облуді! Мухаха!" with vpunch
 
-# game/game/script.rpy:2630
+# game/game/script.rpy:2636
 translate ukrainian shika_tickling_172183bd:
 
     # s "{sc=1}{outlinecolor=#000000}I-I don't even k-know what you're t-talking about! \nStop or I'll die! Hahaha!"
     s "{sc=1}{outlinecolor=#000000}Я-Я навіть не розумію, п-про що ти кажеш! \nЗупинись, або помреш! Хахаха!"
 
-# game/game/script.rpy:2632
+# game/game/script.rpy:2638
 translate ukrainian shika_tickling_d3b98e59:
 
     # a "I see you two have already met."
     a "Бачу, ви двоє вже познайомилися."
 
-# game/game/script.rpy:2634
+# game/game/script.rpy:2640
 translate ukrainian shika_tickling_3f871f46:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:2638
+# game/game/script.rpy:2644
 translate ukrainian shika_tickling_2782b41b:
 
     # s "Oh Doctor! You came to save me!"
     s "Ох, Лікарко! Ви прийшли врятувати мене!"
 
-# game/game/script.rpy:2640
+# game/game/script.rpy:2646
 translate ukrainian shika_tickling_8ebd5f53:
 
     # mc "H-Hello, you're the doctor?"
     mc "В-Вітаю, то це ти лікарка?"
 
-# game/game/script.rpy:2641
+# game/game/script.rpy:2647
 translate ukrainian shika_tickling_6ff60c05:
 
     # a "Why don't we talk in the living room while Shika recovers from your deadly attack?"
     a "Чому б нам не поговорити у вітальні, поки Шика оговтується від твоєї смертельної атаки?"
 
-# game/game/script.rpy:2643
+# game/game/script.rpy:2649
 translate ukrainian shika_tickling_6bedd863:
 
     # mc "{size=-6}Oh..."
     mc "{size=-6}Ох..."
 
-# game/game/script.rpy:2644
+# game/game/script.rpy:2650
 translate ukrainian shika_tickling_101c0557:
 
     # s "{sc=1}{outlinecolor=#000000}{size=-8}Grandma...? Is that you...?"
     s "{sc=1}{outlinecolor=#000000}{size=-8}Бабусю...? Це ти...?"
 
-# game/game/script.rpy:2646
+# game/game/script.rpy:2652
 translate ukrainian shika_tickling_7783b0d2:
 
     # mc "Ok, I'll follow you."
     mc "Гаразд, ходімо."
 
-# game/game/script.rpy:2652
+# game/game/script.rpy:2658
 translate ukrainian shika_tickling_1b1c65df:
 
     # "{image=corazon}Shika's affection has increased to [shika_affection]{image=corazon}"
     "{image=corazon}Прихильність Шики зросла до [shika_affection]{image=corazon}"
 
-# game/game/script.rpy:2660
+# game/game/script.rpy:2666
 translate ukrainian doctor_1_9d315002:
 
     # mc "Ahem*, I'm looking for the doctor. Yui told me I could find her here..."
     mc "Кхм, я шукаю лікарку. Юї сказала мені, що вона тут..."
 
-# game/game/script.rpy:2664
+# game/game/script.rpy:2670
 translate ukrainian doctor_1_c1e70408:
 
     # s "The doctor...?"
     s "Лікарку...?"
 
-# game/game/script.rpy:2666
+# game/game/script.rpy:2672
 translate ukrainian doctor_1_c0cd1ba7:
 
     # s "So you're not here to rob and kill us while no one's looking?"
     s "То ти тут не для того, щоб пограбувати й убити нас, поки ніхто не бачить?"
 
-# game/game/script.rpy:2667
+# game/game/script.rpy:2673
 translate ukrainian doctor_1_9719281c:
 
     # mc "That... {w}{size=-6}sigh*"
     mc "Саме... {w}{size=-6}{i}*Хааах*{/i}"
 
-# game/game/script.rpy:2668
+# game/game/script.rpy:2674
 translate ukrainian doctor_1_9d141740:
 
     # mc "That's what I've been trying to explain from the beginning..."
     mc "Саме це я й намагався пояснити із самого початку..."
 
-# game/game/script.rpy:2670
+# game/game/script.rpy:2676
 translate ukrainian doctor_1_a30d169a:
 
     # s "You should've said so earlier!"
     s "Ти мав сказати раніше!"
 
-# game/game/script.rpy:2671
+# game/game/script.rpy:2677
 translate ukrainian doctor_1_56dec67d:
 
     # t "You know what? I'm not even going to argue anymore..."
     t "Знаєш? Я навіть не буду більше сперечатися..."
 
-# game/game/script.rpy:2673
+# game/game/script.rpy:2679
 translate ukrainian doctor_1_3fb0f7ae:
 
     # s "I'll go get her right now."
     s "Зараз покличу її."
 
-# game/game/script.rpy:2674
+# game/game/script.rpy:2680
 translate ukrainian doctor_1_72f9210e:
 
     # mc "Thanks, Shika."
     mc "Дякую, Шико."
 
-# game/game/script.rpy:2676
+# game/game/script.rpy:2682
 translate ukrainian doctor_1_8bfb123c:
 
     # s "How do you know my name?!"
-    s "Звідки ти знаєш, як мене звати?!"
+    s "Звідки ти знаєш, як мене звати?!" with vpunch
 
-# game/game/script.rpy:2678
+# game/game/script.rpy:2684
 translate ukrainian doctor_1_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
     mc "{size=-6}{i}*Хааах...*"
 
-# game/game/script.rpy:2682
+# game/game/script.rpy:2688
 translate ukrainian doctor_1_9fed6771:
 
     # s "You can go in now. She's waiting for you in the living room."
     s "Можеш заходити. Вона очікує тебе у вітальні."
 
-# game/game/script.rpy:2683
+# game/game/script.rpy:2689
 translate ukrainian doctor_1_911b8314:
 
     # s "And take your shoes off! Don't you have any manners?"
     s "І ану роззувайся! Ти про манери взагалі чув?"
 
-# game/game/script.rpy:2684
+# game/game/script.rpy:2690
 translate ukrainian doctor_1_9d89cde5:
 
     # mc "But you-"
     mc "Але ти ж-"
 
-# game/game/script.rpy:2685
+# game/game/script.rpy:2691
 translate ukrainian doctor_1_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2686
+# game/game/script.rpy:2692
 translate ukrainian doctor_1_dd0a2602:
 
     # mc "{size=-6}Okay, okay, I got it."
     mc "{size=-6}Так, так, гаразд."
 
-# game/game/script.rpy:2697
+# game/game/script.rpy:2703
 translate ukrainian expedicion_forest_e29843bd:
 
     # t "When I arrived, I was unconscious and wounded."
     t "Коли я сюди потрапив, я був без свідомості та поранений."
 
-# game/game/script.rpy:2698
+# game/game/script.rpy:2704
 translate ukrainian expedicion_forest_f8d1e4f9:
 
     # t "But this time it's different."
     t "Але цього разу все інакше."
 
-# game/game/script.rpy:2700
+# game/game/script.rpy:2706
 translate ukrainian expedicion_forest_457c7566:
 
     # mc "Wow! We really went back to the forest."
     mc "Оце так! Ми дійсно вернулися до лісу."
 
-# game/game/script.rpy:2701
+# game/game/script.rpy:2707
 translate ukrainian expedicion_forest_bcbe4d9d:
 
     # y "Are you scared?"
     y "Злякався?"
 
-# game/game/script.rpy:2706
+# game/game/script.rpy:2712
 translate ukrainian expedicion_forest_77799a1b:
 
     # mc "Nostalgic, I would say."
     mc "Ностальгую, я б сказав."
 
-# game/game/script.rpy:2708
+# game/game/script.rpy:2714
 translate ukrainian expedicion_forest_d9eb0247:
 
     # mc "It seems like only yesterday that a wolf three times my size buried its fangs in my stomach."
     mc "Здається, ніби лише вчора вовк, який був утричі більший за мене, впився іклами мені в живіт."
 
-# game/game/script.rpy:2710
+# game/game/script.rpy:2716
 translate ukrainian expedicion_forest_fdf7c366:
 
     # mc "Haaa~ {w}What good memories..."
     mc "Хааа~ {w}Які гарні спогади..."
 
-# game/game/script.rpy:2712
+# game/game/script.rpy:2718
 translate ukrainian expedicion_forest_8915c3de:
 
     # y "Hahaha, Are you crazy?"
     y "Хахаха, не жартуй так, дурнику."
 
-# game/game/script.rpy:2714
+# game/game/script.rpy:2720
 translate ukrainian expedicion_forest_9211fdc6:
 
     # y "Better not add another \"good memory\" today."
     y "Обійдемося сьогодні без таких «гарних спогадів»."
 
-# game/game/script.rpy:2716
+# game/game/script.rpy:2722
 translate ukrainian expedicion_forest_e41bd257:
 
     # mc "Now in the company of all of you, I have nothing to fear."
     mc "Тепер, коли я з вами всіма, мені нічого боятися."
 
-# game/game/script.rpy:2718
+# game/game/script.rpy:2724
 translate ukrainian expedicion_forest_113dd889:
 
     # r "Are you sure you don't want me to help move the materials?"
     r "Упевнена, що не хочете, аби я допомогла перенести матеріали?"
 
-# game/game/script.rpy:2720
+# game/game/script.rpy:2726
 translate ukrainian expedicion_forest_e2e69d79:
 
     # y "The girls can handle it. They haven't endured their training for nothing."
     y "Дівчата з цим впораються. Вони ж не дарма пройшли через таке тренування."
 
-# game/game/script.rpy:2722
+# game/game/script.rpy:2728
 translate ukrainian expedicion_forest_b90daffe:
 
     # y "{size=+9}Right girls!?"
     y "{size=+9}Правда, дівчата!?"
 
-# game/game/script.rpy:2723
+# game/game/script.rpy:2729
 translate ukrainian expedicion_forest_4fae1665:
 
     # so "{size=+10}YES!"
-    so "{size=+10}ТАК!"
+    so "{size=+10}ТАК!" with vpunch
 
-# game/game/script.rpy:2725
+# game/game/script.rpy:2731
 translate ukrainian expedicion_forest_89b36d9d:
 
     # mc "You have them well trained."
     mc "Ти гарно їх вимуштрувала."
 
-# game/game/script.rpy:2726
+# game/game/script.rpy:2732
 translate ukrainian expedicion_forest_c0e9d037:
 
     # y "You should have seen them when they first started."
     y "Варто було тобі їх побачити, коли вони тільки починали."
 
-# game/game/script.rpy:2727
+# game/game/script.rpy:2733
 translate ukrainian expedicion_forest_f99bde99:
 
     # y "But that story will be for another day."
     y "Але про це — іншим разом."
 
-# game/game/script.rpy:2728
+# game/game/script.rpy:2734
 translate ukrainian expedicion_forest_414448cb:
 
     # y "This is a good place to start."
     y "Гадаю, це гарне місце, щоб почати."
 
-# game/game/script.rpy:2730
+# game/game/script.rpy:2736
 translate ukrainian expedicion_forest_985a610b:
 
     # y "Start by securing the perimeter, {w}the others will begin to assemble the walls!"
     y "Спочатку необхідно зачистити периметр, {w}а решта займеться стінами!"
 
-# game/game/script.rpy:2731
+# game/game/script.rpy:2737
 translate ukrainian expedicion_forest_dba62412:
 
     # so "{size=+10}Understood!!"
-    so "{size=+10}Прийнято!!"
+    so "{size=+10}Прийнято!!" with vpunch
 
-# game/game/script.rpy:2732
+# game/game/script.rpy:2738
 translate ukrainian expedicion_forest_18e292ec:
 
     # mc "Can I help them with the walls? They look pretty heav-"
     mc "Я можу допомогти їм зі стінами? Вони виглядають важ-"
 
-# game/game/script.rpy:2734
+# game/game/script.rpy:2740
 translate ukrainian expedicion_forest_11455b53:
 
     # mc "What?"
     mc "Ого?"
 
-# game/game/script.rpy:2735
+# game/game/script.rpy:2741
 translate ukrainian expedicion_forest_1b453a9d:
 
     # h "Fufu."
     h "Хуху."
 
-# game/game/script.rpy:2736
+# game/game/script.rpy:2742
 translate ukrainian expedicion_forest_652650d3:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:2738
+# game/game/script.rpy:2744
 translate ukrainian expedicion_forest_cf3763aa:
 
     # h "Do you think we didn't think about that?"
     h "Гадаєш, ми про це не подумали?"
 
-# game/game/script.rpy:2739
+# game/game/script.rpy:2745
 translate ukrainian expedicion_forest_91905ede:
 
     # mc "How?"
     mc "І як?..."
 
-# game/game/script.rpy:2741
+# game/game/script.rpy:2747
 translate ukrainian expedicion_forest_2fe1fc0b:
 
     # h "All thanks to this."
     h "Усе завдяки цьому."
 
-# game/game/script.rpy:2742
+# game/game/script.rpy:2748
 translate ukrainian expedicion_forest_671d9444:
 
     # mc "That is..."
     mc "Це ж..."
 
-# game/game/script.rpy:2744
+# game/game/script.rpy:2750
 translate ukrainian expedicion_forest_88cf6b8c:
 
     # y "Hana told me that you helped her complete it."
     y "Хана мені розповіла, що ти допоміг їй завершити його."
 
-# game/game/script.rpy:2746
+# game/game/script.rpy:2752
 translate ukrainian expedicion_forest_0016ac50:
 
     # mc "Err... well... {w}yeah."
     mc "Емм... ну... {w}наче."
 
-# game/game/script.rpy:2748
+# game/game/script.rpy:2754
 translate ukrainian expedicion_forest_5879d32b:
 
     # ak "{size=-10}Why has nothing appeared yet..."
     ak "{size=-10}Ще жоден звір не показав себе..."
 
-# game/game/script.rpy:2749
+# game/game/script.rpy:2755
 translate ukrainian expedicion_forest_fe192618:
 
     # ak "{size=-10}Are they waiting for something?"
     ak "{size=-10}Вони на щось чекають?"
 
-# game/game/script.rpy:2751
+# game/game/script.rpy:2757
 translate ukrainian expedicion_forest_6153f22e:
 
     # r "Master!"
     r "Господарю!"
 
-# game/game/script.rpy:2752
+# game/game/script.rpy:2758
 translate ukrainian expedicion_forest_354f4563:
 
     # mc "Ye-Yeah?"
     mc "Т-Так?"
 
-# game/game/script.rpy:2754
+# game/game/script.rpy:2760
 translate ukrainian expedicion_forest_32317109:
 
     # r "Can I help them?"
     r "Я можу їм допомогти?"
 
-# game/game/script.rpy:2755
+# game/game/script.rpy:2761
 translate ukrainian expedicion_forest_5e0102d1:
 
     # mc "But.."
     mc "Але..."
 
-# game/game/script.rpy:2757
+# game/game/script.rpy:2763
 translate ukrainian expedicion_forest_79f32437:
 
     # h "We're safe here. A little help won't hurt."
     h "Тут ми в безпеці. Невелика допомога не нашкодить."
 
-# game/game/script.rpy:2759
+# game/game/script.rpy:2765
 translate ukrainian expedicion_forest_a90c4c14:
 
     # y "The girls are standing guard, nothing bad will happen to her."
     y "Дівчата стоять на варті, з нею все буде добре."
 
-# game/game/script.rpy:2760
+# game/game/script.rpy:2766
 translate ukrainian expedicion_forest_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:2761
+# game/game/script.rpy:2767
 translate ukrainian expedicion_forest_a8d04a91:
 
     # t "I don't feel anything or anyone in the vicinity..."
     t "Я не відчуваю поблизу нас жодної живої істоти..."
 
-# game/game/script.rpy:2762
+# game/game/script.rpy:2768
 translate ukrainian expedicion_forest_140e90f8:
 
     # t "But I feel that something's watching us... but it has no evil intentions, perhaps it's a squirrel or something."
     t "Хоча ні, все ж хтось на нас дивиться... але без злих намірів, можливо, це білка чи інша тваринка."
 
-# game/game/script.rpy:2764
+# game/game/script.rpy:2770
 translate ukrainian expedicion_forest_dd91aa36:
 
     # mc "Ok {w}but if you see a problem, you have to be the first to run."
     mc "Добре, {w}але якщо щось трапиться, ти маєш першою бігти до мене."
 
-# game/game/script.rpy:2766
+# game/game/script.rpy:2772
 translate ukrainian expedicion_forest_5d9497a5:
 
     # r "Yes!"
     r "Так!"
 
-# game/game/script.rpy:2770
+# game/game/script.rpy:2776
 translate ukrainian expedicion_forest_aaf7558b:
 
     # h "Ryoko is full of energy."
     h "Рьоко така жвава."
 
-# game/game/script.rpy:2771
+# game/game/script.rpy:2777
 translate ukrainian expedicion_forest_55435cc4:
 
     # mc "Yeah.."
     mc "Ага..."
 
-# game/game/script.rpy:2773
+# game/game/script.rpy:2779
 translate ukrainian expedicion_forest_7802d6a0:
 
     # h "Are you all right? You look a little worried."
     h "Усе гаразд? Видно, ти трохи схвильований."
 
-# game/game/script.rpy:2775
+# game/game/script.rpy:2781
 translate ukrainian expedicion_forest_f705863b:
 
     # mc "It's just..."
     mc "Просто..."
 
-# game/game/script.rpy:2777
+# game/game/script.rpy:2783
 translate ukrainian expedicion_forest_546500fc:
 
     # t "I don't know if it's the right time to talk about this now."
     t "Не знаю, чи зараз вдалий час про це говорити."
 
-# game/game/script.rpy:2779
+# game/game/script.rpy:2785
 translate ukrainian expedicion_forest_f0a4cb14:
 
     # mc "No, nothing. {w}Yesterday Ryoko had a nightmare."
     mc "Та, дурниці. {w}Уночі Рьоко наснилося жахіття."
 
-# game/game/script.rpy:2780
+# game/game/script.rpy:2786
 translate ukrainian expedicion_forest_48fd223e:
 
     # mc "So I was worried that she wasn't feeling well."
     mc "Ось я і переймався, що їй недобре."
 
-# game/game/script.rpy:2782
+# game/game/script.rpy:2788
 translate ukrainian expedicion_forest_08827c03:
 
     # y "Mmm? What kind of nightmare?"
     y "Ммм? І про що було це жахіття?"
 
-# game/game/script.rpy:2783
+# game/game/script.rpy:2789
 translate ukrainian expedicion_forest_2964b068:
 
     # mc "I wanted to ask her when we were done with all this."
     mc "Хотів її спитати, вже коли ми тут завершимо з усім."
 
-# game/game/script.rpy:2785
+# game/game/script.rpy:2791
 translate ukrainian expedicion_forest_ab930a7f:
 
     # y "Well, she looks pretty OK to me."
     y "Ну, як на мене, з нею все гаразд."
 
-# game/game/script.rpy:2787
+# game/game/script.rpy:2793
 translate ukrainian expedicion_forest_0a0d2024:
 
     # so "Ah, I forgot to bring the hammer."
     so "Ах, я забула взяти молоток."
 
-# game/game/script.rpy:2789
+# game/game/script.rpy:2795
 translate ukrainian expedicion_forest_2f831f54:
 
     # r "Here!"
     r "Ось!"
 
-# game/game/script.rpy:2791
+# game/game/script.rpy:2797
 translate ukrainian expedicion_forest_db294ae5:
 
     # so "W-Wow, Thanks!"
     so "О-Ого, дякую!"
 
-# game/game/script.rpy:2792
+# game/game/script.rpy:2798
 translate ukrainian expedicion_forest_d7935b16:
 
     # t "Maybe it's just my imagination...."
     t "Мабуть, я надто сильно переймаюся..."
 
-# game/game/script.rpy:2794
+# game/game/script.rpy:2800
 translate ukrainian expedicion_forest_dbe98fed:
 
     # ak "{size=-10}These are human... footprints?"
     ak "{size=-10}Хіба це людські... сліди?"
 
-# game/game/script.rpy:2796
+# game/game/script.rpy:2802
 translate ukrainian expedicion_forest_8a045ba9:
 
     # so "We're finished here!"
     so "Тут усе готово!"
 
-# game/game/script.rpy:2797
+# game/game/script.rpy:2803
 translate ukrainian expedicion_forest_1ef59fac:
 
     # y "Perfect, let's move on, to the lake area."
     y "Чудово, просуваймося далі до озера."
 
-# game/game/script.rpy:2798
+# game/game/script.rpy:2804
 translate ukrainian expedicion_forest_889ec1f6:
 
     # so "Ok!"
     so "Так!"
 
-# game/game/script.rpy:2804
+# game/game/script.rpy:2810
 translate ukrainian expedicion_forest_a3f6eb99:
 
     # mc "Ryoko, stand behind Hana with the rest."
     mc "Рьоко, стій позаду Хани разом з іншими."
 
-# game/game/script.rpy:2805
+# game/game/script.rpy:2811
 translate ukrainian expedicion_forest_1b962705:
 
     # r "Y-Yes!"
     r "Т-Так!"
 
-# game/game/script.rpy:2806
+# game/game/script.rpy:2812
 translate ukrainian expedicion_forest_a643a993:
 
     # mc "Yui I can take care of one, you take care of the other!"
     mc "Юї, я займуся одним, на тобі інший!"
 
-# game/game/script.rpy:2807
+# game/game/script.rpy:2813
 translate ukrainian expedicion_forest_3280be41:
 
     # y "Got it! {w}You two with me! {w}The rest of you stay with the materials!"
     y "Зрозуміла! {w}Ви двоє, за мною! {w}Решта — залишайтеся біля матеріалів!"
 
-# game/game/script.rpy:2808
+# game/game/script.rpy:2814
 translate ukrainian expedicion_forest_2e52cb52:
 
     # so "Yes!"
     so "Так!"
 
-# game/game/script.rpy:2810
+# game/game/script.rpy:2816
 translate ukrainian expedicion_forest_669664cb:
 
     # mc "Hey."
     mc "Гей."
 
-# game/game/script.rpy:2811
+# game/game/script.rpy:2817
 translate ukrainian expedicion_forest_ffba88df:
 
     # mc "I'm sorry for what I'm about to do but, {w}it's nothing personal."
     mc "Звиняй за те, що я зараз зроблю, але {w}нічого особистого."
 
-# game/game/script.rpy:2813
+# game/game/script.rpy:2819
 translate ukrainian expedicion_forest_f9f3efc1:
 
     # y "Get ready."
     y "Готуйтеся."
 
-# game/game/script.rpy:2817
+# game/game/script.rpy:2823
 translate ukrainian expedicion_forest_f93cba98:
 
     # r "Master..."
     r "Господарю..."
 
-# game/game/script.rpy:2819
+# game/game/script.rpy:2825
 translate ukrainian expedicion_forest_655e3898:
 
     # h "Don't worry, this is nothing compared to when he fought three at the same time."
     h "Не хвилюйся, це ніщо в порівнянні з тим, коли він бився з трьома одночасно."
 
-# game/game/script.rpy:2821
+# game/game/script.rpy:2827
 translate ukrainian expedicion_forest_1ead44b0:
 
     # mc "You don't plan to attack?"
     mc "Не плануєш нападати?"
 
-# game/game/script.rpy:2823
+# game/game/script.rpy:2829
 translate ukrainian expedicion_forest_7f859e76:
 
     # mc "Then I'll make the first mov-"
     mc "Тоді я зроблю перший кро-"
 
-# game/game/script.rpy:2828
+# game/game/script.rpy:2834
 translate ukrainian expedicion_forest_17b5d26f:
 
     # mc "What?{w=0.5}{nw}"
     mc "Що?{w=0.5}{nw}"
 
-# game/game/script.rpy:2848
+# game/game/script.rpy:2854
 translate ukrainian expedicion_forest_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:2850
+# game/game/script.rpy:2856
 translate ukrainian expedicion_forest_9a06772f:
 
     # ak "Who?!"
     ak "Хто це?!"
 
-# game/game/script.rpy:2852
+# game/game/script.rpy:2858
 translate ukrainian expedicion_forest_5fc70695:
 
     # y "That is-"
     y "Невже-"
 
-# game/game/script.rpy:2857
+# game/game/script.rpy:2863
 translate ukrainian expedicion_forest_ee4d8d6f:
 
     # y "An Orc?!"
-    y "Орк?!"
+    y "Орк?!" with vpunch
 
-# game/game/script.rpy:2858
+# game/game/script.rpy:2864
 translate ukrainian expedicion_forest_e0e2f65d:
 
     # orco "Buujiii jiji!"
     orco "{i}Буужііі жіжі!{/i}"
 
-# game/game/script.rpy:2860
+# game/game/script.rpy:2866
 translate ukrainian expedicion_forest_3d5c28b0:
 
     # ak "{size=-10}{i}The footprints I found weren't human."
     ak "{size=-10}{i}Отже, сліди, що я знайшла, були не людськими."
 
-# game/game/script.rpy:2861
+# game/game/script.rpy:2867
 translate ukrainian expedicion_forest_1ff6e737:
 
     # ak "{size=-10}{i}That's why no wolves appeared at the beginning."
     ak "{size=-10}{i}І ось чому на початку ми не бачили жодного вовка."
 
-# game/game/script.rpy:2863
+# game/game/script.rpy:2869
 translate ukrainian expedicion_forest_91f79622:
 
     # ak "Hey pervert! Change of plans!"
-    ak "Агов, збоченцю! Зміна планів!"
+    ak "Агов, збоченцю! Зміна планів!" with vpunch
 
-# game/game/script.rpy:2864
+# game/game/script.rpy:2870
 translate ukrainian expedicion_forest_d9e68409:
 
     # mc "Akane?"
     mc "Акане?"
 
-# game/game/script.rpy:2866
+# game/game/script.rpy:2872
 translate ukrainian expedicion_forest_c09fde7f:
 
     # ak "The wolves weren't attacking, they were running!"
-    ak "Вовки не планували напад, вони тікали!"
+    ak "Вовки не планували напад, вони тікали!" with vpunch
 
-# game/game/script.rpy:2867
+# game/game/script.rpy:2873
 translate ukrainian expedicion_forest_7be08bdb:
 
     # mc "Running? {w}From that thing?"
     mc "Тікали? {w}Від цього здорованя?"
 
-# game/game/script.rpy:2869
+# game/game/script.rpy:2875
 translate ukrainian expedicion_forest_099f2b65:
 
     # ak "Hana."
     ak "Хано."
 
-# game/game/script.rpy:2870
+# game/game/script.rpy:2876
 translate ukrainian expedicion_forest_65715fd6:
 
     # h "Y-Yes?"
     h "Т-Так?"
 
-# game/game/script.rpy:2872
+# game/game/script.rpy:2878
 translate ukrainian expedicion_forest_7e94dc19:
 
     # ak "I'll use my power. I need you to be ready for when I can't \"take it anymore\"."
     ak "Я скористаюся своєю силою. Мені потрібно, щоб ти була готова до того моменту, коли я не зможу «більше стримуватися»."
 
-# game/game/script.rpy:2873
+# game/game/script.rpy:2879
 translate ukrainian expedicion_forest_4a69fb73:
 
     # h "Okay, I'll get the girls out of here."
     h "Гаразд, я відведу дівчат звідси."
 
-# game/game/script.rpy:2875
+# game/game/script.rpy:2881
 translate ukrainian expedicion_forest_b2ed50f3:
 
     # h "Come on girls, let's take this back the way we came."
     h "Нумо, дівчата, ходімо назад, звідки ми почали."
 
-# game/game/script.rpy:2876
+# game/game/script.rpy:2882
 translate ukrainian expedicion_forest_cc198762:
 
     # v "Y-Yes!"
     v "Т-Так!"
 
-# game/game/script.rpy:2877
+# game/game/script.rpy:2883
 translate ukrainian expedicion_forest_8a9f6bb6:
 
     # r "{size=-10}Master..."
     r "{size=-10}Господарю..."
 
-# game/game/script.rpy:2879
+# game/game/script.rpy:2885
 translate ukrainian expedicion_forest_42e7c366:
 
     # ak "Yui! Let's take care of this one right away!"
     ak "Юї! Одразу ж розберімося з ним!"
 
-# game/game/script.rpy:2880
+# game/game/script.rpy:2886
 translate ukrainian expedicion_forest_b7f51ed2:
 
     # y "Ok!"
     y "Гаразд!"
 
-# game/game/script.rpy:2882
+# game/game/script.rpy:2888
 translate ukrainian expedicion_forest_e33bdc6e:
 
     # ak "Hey! Don't get overconfident, and don't let him catch you."
     ak "Гей! Не будь занадто самовпевненим і не дай йому тебе спіймати."
 
-# game/game/script.rpy:2884
+# game/game/script.rpy:2890
 translate ukrainian expedicion_forest_66e90fce:
 
     # t "Catch m-?"
     t "Спійма-?"
 
-# game/game/script.rpy:2890
+# game/game/script.rpy:2896
 translate ukrainian orc_losefight_c79108bf:
 
     # y "[mc]!"
     y "[name_form('voc')]!"
 
-# game/game/script.rpy:2891
+# game/game/script.rpy:2897
 translate ukrainian orc_losefight_0cfba1f8:
 
     # t "I can't believe I was defeated by a pig."
     t "Не можу повірити, що цей свинопикий мене переміг."
 
-# game/game/script.rpy:2892
+# game/game/script.rpy:2898
 translate ukrainian orc_losefight_e37aefb9:
 
     # orco "Buuji jiji!"
     orco "{i}Буужі жіжі!{/i}"
 
-# game/game/script.rpy:2911
+# game/game/script.rpy:2917
 translate ukrainian orcfight_start_ffd3e515:
 
     # mc "This guy!{w=0.2}{nw}"
     mc "Цей здоровань!{w=0.5}{nw}"
 
-# game/game/script.rpy:2920
+# game/game/script.rpy:2926
 translate ukrainian orcfight_start_2ffc2a3d:
 
     # orco "Buujii jiji!"
     orco "{i}Буужіі жіжі!{/i}"
 
-# game/game/script.rpy:2921
+# game/game/script.rpy:2927
 translate ukrainian orcfight_start_9004c71d:
 
     # t "How can it be so fast?"
     t "Як йому вдається так швидко рухатися?"
 
-# game/game/script.rpy:2937
+# game/game/script.rpy:2943
 translate ukrainian orcfight_start_8e366486:
 
     # y "Ha!"
     y "Ха!"
 
-# game/game/script.rpy:2946
+# game/game/script.rpy:2952
 translate ukrainian orcfight_start_0a6d6fa1:
 
     # ak "Keep it there!"
     ak "Тримайте його!"
 
-# game/game/script.rpy:2949
+# game/game/script.rpy:2955
 translate ukrainian orcfight_start_4c4149fa:
 
     # t "This is very strange. This world is very unbalanced. {w}I know I don't have any experience fighting but."
     t "Якось дуже дивно. Цей світ якийсь не збалансований. {w}Розумію, у мене не так багато досвіду в битвах, але..."
 
-# game/game/script.rpy:2950
+# game/game/script.rpy:2956
 translate ukrainian orcfight_start_a7bed691:
 
     # t "Monsters are too strong for the level of adventurers, {w}couldn't I start by fighting simple monsters? {w}A slime maybe?"
     t "Монстри надто сильні для такого рівня пригодника як я, {w}чи не можна було б почати з більш простих? {w}Наприклад, слиз?"
 
-# game/game/script.rpy:2951
+# game/game/script.rpy:2957
 translate ukrainian orcfight_start_a86ae47b:
 
     # orco "Buuuji jiji."
     orco "{i}Бууужі жіжі{/i}."
 
-# game/game/script.rpy:2955
+# game/game/script.rpy:2961
 translate ukrainian orcfight_start_dfab3f72:
 
     # ak "Haaa!"
     ak "Хааа!"
 
-# game/game/script.rpy:2957
+# game/game/script.rpy:2963
 translate ukrainian orcfight_start_da26df10:
 
     # ak "Know your place!"
     ak "Знай своє місце!"
 
-# game/game/script.rpy:2959
+# game/game/script.rpy:2965
 translate ukrainian orcfight_start_cb68918d:
 
     # "{w=0.2}{nw}"
     "{w=0.2}{nw}"
 
-# game/game/script.rpy:2964
+# game/game/script.rpy:2970
 translate ukrainian orcfight_start_8e43d802:
 
     # "{w=0.5}{nw}"
     "{w=0.5}{nw}"
 
-# game/game/script.rpy:2966
+# game/game/script.rpy:2972
 translate ukrainian orcfight_start_21e673d7:
 
     # mc "Woah!"
     mc "Овва!"
 
-# game/game/script.rpy:2967
+# game/game/script.rpy:2973
 translate ukrainian orcfight_start_b9f2b2ed:
 
     # t "They killed him!"
     t "Вони з ним впоралися!"
 
-# game/game/script.rpy:2969
+# game/game/script.rpy:2975
 translate ukrainian orcfight_start_93da0e37:
 
     # t "I'll have to do my part."
     t "Час і мені завершити."
 
-# game/game/script.rpy:2971
+# game/game/script.rpy:2977
 translate ukrainian orcfight_start_a8b5b19f:
 
     # orco "Buuji jiji."
     orco "{i}Буужі жіжі{/i}."
 
-# game/game/script.rpy:2972
+# game/game/script.rpy:2978
 translate ukrainian orcfight_start_5ea0e790:
 
     # t "This guy is annoying me, It's like he doesn't take me seriously."
     t "Він уже почав мені набридати. Таке відчуття, ніби він не сприймає мене серйозно."
 
-# game/game/script.rpy:2980
+# game/game/script.rpy:2986
 translate ukrainian orcfight_start_a0e2e461:
 
     # mc "Now!{w=0.2}{nw}"
     mc "Зараз!{w=0.2}{nw}"
 
-# game/game/script.rpy:2983
+# game/game/script.rpy:2989
 translate ukrainian orcfight_start_1b2f094e:
 
     # ak "Wait!{w=0.5}{nw}"
     ak "Стій!{w=0.5}{nw}"
 
-# game/game/script.rpy:2992
+# game/game/script.rpy:2998
 translate ukrainian orcfight_start_4e3eb2a5:
 
     # mc "Ha!"
     mc "Ха!"
 
-# game/game/script.rpy:2997
+# game/game/script.rpy:3003
 translate ukrainian orcfight_start_87f848d8:
 
     # mc "I pierced his heart, {w}he should no longer..."
     mc "Я проткнув його серце, {w}він має вже..."
 
-# game/game/script.rpy:2998
+# game/game/script.rpy:3004
 translate ukrainian orcfight_start_3c0f98bd:
 
     # ak "Stay away from him!"
-    ak "Забирайся від нього!"
+    ak "Забирайся від нього!" with vpunch
 
-# game/game/script.rpy:3000
+# game/game/script.rpy:3006
 translate ukrainian orcfight_start_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:3002
+# game/game/script.rpy:3008
 translate ukrainian orcfight_start_eed3897a:
 
     # y "Orcs have more than one heart!"
     y "У орків декілька сердець!"
 
-# game/game/script.rpy:3004
+# game/game/script.rpy:3010
 translate ukrainian orcfight_start_aae115e2:
 
     # y "He's not dead yet!"
-    y "Він ще не помер!"
+    y "Він ще не помер!" with vpunch
 
-# game/game/script.rpy:3006
+# game/game/script.rpy:3012
 translate ukrainian orcfight_start_baf68029:
 
     # t "Am I going to..."
     t "Невже мені зараз..."
 
-# game/game/script.rpy:3012
+# game/game/script.rpy:3018
 translate ukrainian orcfight_start_46ff4a61:
 
     # t "Die?"
     t "Кінець?"
 
-# game/game/script.rpy:3022
+# game/game/script.rpy:3028
 translate ukrainian orcfight_start_5ef674c3:
 
     # orco "BUUjiii!!??"
-    orco "{i}БУУжііі!!??{/i}"
+    orco "{i}БУУжііі!!??{/i}" with hpunch
 
-# game/game/script.rpy:3028
+# game/game/script.rpy:3034
 translate ukrainian orcfight_start_1ef706f6:
 
     # mc "Who?"
     mc "Га?"
 
-# game/game/script.rpy:3036
+# game/game/script.rpy:3042
 translate ukrainian orcfight_start_394dd499:
 
     # orco "Buu Jiii?!!"
     orco "{i}Буу Жііі?!!{/i}"
 
-# game/game/script.rpy:3038
+# game/game/script.rpy:3044
 translate ukrainian orcfight_start_0ec6b952:
 
     # a "Now."
     a "Зараз."
 
-# game/game/script.rpy:3040
+# game/game/script.rpy:3046
 translate ukrainian orcfight_start_3f3eeed6:
 
     # a "Neck!"
     a "Шию!"
 
-# game/game/script.rpy:3042
+# game/game/script.rpy:3048
 translate ukrainian orcfight_start_652650d3:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:3044
+# game/game/script.rpy:3050
 translate ukrainian orcfight_start_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:3046
+# game/game/script.rpy:3052
 translate ukrainian orcfight_start_1c3fefd6:
 
     # mc "Aaaah!"
     mc "Аааах!"
 
-# game/game/script.rpy:3054
+# game/game/script.rpy:3060
 translate ukrainian orcfight_start_e8554f22:
 
     # t "That voice again."
     t "Знову цей голос."
 
-# game/game/script.rpy:3058
+# game/game/script.rpy:3064
 translate ukrainian orcfight_start_af110f56:
 
     # t "What?{w} We'll be able to what?"
     t "Що?{w} Що ми скоро зможемо?"
 
-# game/game/script.rpy:3059
+# game/game/script.rpy:3065
 translate ukrainian orcfight_start_1bb01731:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3060
+# game/game/script.rpy:3066
 translate ukrainian orcfight_start_51fb453f:
 
     # t "No response..."
     t "Тиша..."
 
-# game/game/script.rpy:3062
+# game/game/script.rpy:3068
 translate ukrainian orcfight_start_c52d83a1:
 
     # t "Who is she?"
     t "Хто вона така?"
 
-# game/game/script.rpy:3063
+# game/game/script.rpy:3069
 translate ukrainian orcfight_start_f11cdade:
 
     # t "And why does she seem familiar to me?"
     t "І чому вона виглядає так знайомо?"
 
-# game/game/script.rpy:3064
+# game/game/script.rpy:3070
 translate ukrainian orcfight_start_3941206f:
 
     # mc "Hey.. {w}Thank-"
     mc "Цейво... {w}Дяку-"
 
-# game/game/script.rpy:3066
+# game/game/script.rpy:3072
 translate ukrainian orcfight_start_b49200e3:
 
     # a "Your way of fighting."
     a "Те, як ти б'єшся."
 
-# game/game/script.rpy:3068
+# game/game/script.rpy:3074
 translate ukrainian orcfight_start_78e877c0:
 
     # a "Too careless."
     a "Надто нерозважливо."
 
-# game/game/script.rpy:3070
+# game/game/script.rpy:3076
 translate ukrainian orcfight_start_e54a1ef3:
 
     # a "Looking to die? {w}Human?"
     a "Шукаєш смерті? {w}Людино?"
 
-# game/game/script.rpy:3072
+# game/game/script.rpy:3078
 translate ukrainian orcfight_start_2485f494:
 
     # mc "I..."
     mc "Я..."
 
-# game/game/script.rpy:3074
+# game/game/script.rpy:3080
 translate ukrainian orcfight_start_64fb3745:
 
     # y "Akane!"
-    y "Акане!"
+    y "Акане!" with vpunch
 
-# game/game/script.rpy:3079
+# game/game/script.rpy:3085
 translate ukrainian orcfight_start_bd7b747e:
 
     # mc "Ah.."
     mc "Ах..."
 
-# game/game/script.rpy:3081
+# game/game/script.rpy:3087
 translate ukrainian orcfight_start_ef0995ec:
 
     # mc "She left."
     mc "Вона пішла."
 
-# game/game/script.rpy:3086
+# game/game/script.rpy:3092
 translate ukrainian orcfight_start_dd6e9d03:
 
     # mc "What's wrong with Akane?"
     mc "Що трапилося з Акане?"
 
-# game/game/script.rpy:3087
+# game/game/script.rpy:3093
 translate ukrainian orcfight_start_9aa4483b:
 
     # y "I don't know. She suddenly started to feel bad."
     y "Не знаю. Їй раптово стало погано."
 
-# game/game/script.rpy:3088
+# game/game/script.rpy:3094
 translate ukrainian orcfight_start_5b8bf29c:
 
     # y "Look for Hana quickly!"
     y "Покличте Хану, швидко!"
 
-# game/game/script.rpy:3089
+# game/game/script.rpy:3095
 translate ukrainian orcfight_start_2e52cb52:
 
     # so "Yes!"
     so "Так!"
 
-# game/game/script.rpy:3091
+# game/game/script.rpy:3097
 translate ukrainian orcfight_start_165bfd11:
 
     # mc "Hey, are you okay?"
     mc "Агов, ти в нормі?"
 
-# game/game/script.rpy:3092
+# game/game/script.rpy:3098
 translate ukrainian orcfight_start_46b79df3:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:3093
+# game/game/script.rpy:3099
 translate ukrainian orcfight_start_bfd491a2:
 
     # y "She stopped responding a moment ago."
     y "Вона перестала відповідати хвилину тому."
 
-# game/game/script.rpy:3094
+# game/game/script.rpy:3100
 translate ukrainian orcfight_start_6607fe2e:
 
     # t "Her face is red, it looks like she has a fever..."
     t "Її лице червоне, здається в неї гарячка..."
 
-# game/game/script.rpy:3096
+# game/game/script.rpy:3102
 translate ukrainian orcfight_start_28789c8a:
 
     # mc "Wow, it's boiling."
     mc "Жах, вона вся горить."
 
-# game/game/script.rpy:3097
+# game/game/script.rpy:3103
 translate ukrainian orcfight_start_7ff513b1:
 
     # y "What's taking so long?"
     y "Чому так довго?"
 
-# game/game/script.rpy:3099
+# game/game/script.rpy:3105
 translate ukrainian orcfight_start_9f380771:
 
     # ak "Ha~"
     ak "Ха~"
 
-# game/game/script.rpy:3100
+# game/game/script.rpy:3106
 translate ukrainian orcfight_start_5f8a68f7:
 
     # mc "Oh, you're back?"
     mc "О, ти з нами?"
 
-# game/game/script.rpy:3102
+# game/game/script.rpy:3108
 translate ukrainian orcfight_start_680b8e7e:
 
     # mc "What are you-?"
     mc "Що ти-?"
 
-# game/game/script.rpy:3103
+# game/game/script.rpy:3109
 translate ukrainian orcfight_start_1602d98f:
 
     # y "Akane?"
     y "Акане?"
 
-# game/game/script.rpy:3105
+# game/game/script.rpy:3111
 translate ukrainian orcfight_start_76f975d0:
 
     # "Kigh*"
-    "{i}*Кусь*{/i}"
+    "{i}*Кусь*{/i}" with vpunch
 
-# game/game/script.rpy:3109
+# game/game/script.rpy:3115
 translate ukrainian orcfight_start_d58404be:
 
     # y "Whaaat?"
-    y "Щоооо?"
+    y "Щоооо?" with hpunch
 
-# game/game/script.rpy:3111
+# game/game/script.rpy:3117
 translate ukrainian orcfight_start_3b915abd:
 
     # ak "Chuuu~"
     ak "{i}Чмоок~{/i}"
 
-# game/game/script.rpy:3113
+# game/game/script.rpy:3119
 translate ukrainian orcfight_start_6c8374f0:
 
     # y "Wa wa wa wa."
     y "{i}Ва-ва-ва-вах.{/i}"
 
-# game/game/script.rpy:3115
+# game/game/script.rpy:3121
 translate ukrainian orcfight_start_aaa91e92:
 
     # mc "Err Yui? {w}A little help?"
     mc "Емм, Юї? {w}Допоможеш трохи?"
 
-# game/game/script.rpy:3116
+# game/game/script.rpy:3122
 translate ukrainian orcfight_start_6c8374f0_1:
 
     # y "Wa wa wa wa."
     y "{i}Ва-ва-ва-вах.{/i}"
 
-# game/game/script.rpy:3118
+# game/game/script.rpy:3124
 translate ukrainian orcfight_start_3b915abd_1:
 
     # ak "Chuuu~"
     ak "{i}Чмоок~{/i}"
 
-# game/game/script.rpy:3119
+# game/game/script.rpy:3125
 translate ukrainian orcfight_start_d64c5287:
 
     # t "Strange, I don't feel pain..."
     t "Дивно, зовсім не боляче..."
 
-# game/game/script.rpy:3121
+# game/game/script.rpy:3127
 translate ukrainian orcfight_start_21a501a3:
 
     # h "Ara~ {w}we are too late..."
     h "Овва~ {w}ми не встигли..."
 
-# game/game/script.rpy:3122
+# game/game/script.rpy:3128
 translate ukrainian orcfight_start_fc3a95ab:
 
     # r "Master?"
     r "Господарю?"
 
-# game/game/script.rpy:3123
+# game/game/script.rpy:3129
 translate ukrainian orcfight_start_a88c5771:
 
     # mc "Hana, what's going-"
     mc "Хана, що вона ро-"
 
-# game/game/script.rpy:3125
+# game/game/script.rpy:3131
 translate ukrainian orcfight_start_ab2010fe:
 
     # mc "On-"
     mc "...-бить."
 
-# game/game/script.rpy:3128
+# game/game/script.rpy:3134
 translate ukrainian orcfight_start_7cf0f5af:
 
     # r "[mc]!!"
     r "[name_form('voc')]!!"
 
-# game/game/script.rpy:3129
+# game/game/script.rpy:3135
 translate ukrainian orcfight_start_d14216c9:
 
     # h "Oh."
     h "Ох."
 
-# game/game/script.rpy:3130
+# game/game/script.rpy:3136
 translate ukrainian orcfight_start_6c8374f0_2:
 
     # y "Wa wa wa wa."
     y "{i}Ва-ва-ва-вах.{/i}"
 
-# game/game/script.rpy:3150
+# game/game/script.rpy:3156
 translate ukrainian rod_mision_97ac5e41:
 
     # h "Oh! How are you today?"
     h "О! Привіт. Як справи?"
 
-# game/game/script.rpy:3151
+# game/game/script.rpy:3157
 translate ukrainian rod_mision_9a523ff8:
 
     # mc "Hey Hana, are you busy?"
     mc "Привіт, Хано. Ти зараз зайнята?"
 
-# game/game/script.rpy:3153
+# game/game/script.rpy:3159
 translate ukrainian rod_mision_4a278b99:
 
     # h "Not at all, do you need something?"
     h "Зовсім ні. Треба моя допомога?"
 
-# game/game/script.rpy:3154
+# game/game/script.rpy:3160
 translate ukrainian rod_mision_9ea8fe28:
 
     # mc "I was investigating the surrounding area and realized that the lake is now safe enough to fish."
     mc "Я досліджував околиці й зрозумів, що озеро зараз стало достатньо безпечне, аби рибалити в ньому."
 
-# game/game/script.rpy:3156
+# game/game/script.rpy:3162
 translate ukrainian rod_mision_e3619e8c:
 
     # h "You're right, Yui mentioned something like that."
     h "А й справді, Юї теж щось подібне казала."
 
-# game/game/script.rpy:3158
+# game/game/script.rpy:3164
 translate ukrainian rod_mision_638113b4:
 
     # h "We were going to put a person in charge of that."
     h "Ми планували зробити когось відповідальним за це."
 
-# game/game/script.rpy:3160
+# game/game/script.rpy:3166
 translate ukrainian rod_mision_c65a8e10:
 
     # h "{size=-10}And now that I remember, there was a girl who loved to fish."
     h "{size=-10}А тепер, коли я це згадала, колись тут була дівчина, яка обожнювала ловити рибу."
 
-# game/game/script.rpy:3161
+# game/game/script.rpy:3167
 translate ukrainian rod_mision_d401ed24:
 
     # mc "Do you know where I can get a fishing rod?"
     mc "Не знаєш де я можу взяти вудку?"
 
-# game/game/script.rpy:3163
+# game/game/script.rpy:3169
 translate ukrainian rod_mision_ddb33831:
 
     # h "Do you know how to fish?"
     h "Ти вмієш рибалити?"
 
-# game/game/script.rpy:3164
+# game/game/script.rpy:3170
 translate ukrainian rod_mision_d68efc84:
 
     # mc "I'm a fast learner."
     mc "Я швидко вчуся."
 
-# game/game/script.rpy:3166
+# game/game/script.rpy:3172
 translate ukrainian rod_mision_1c7940fa:
 
     # h "Hmm... Have you searched your house? I remember there was a room where they kept that kind of stuff..."
     h "Гмм... Не дивився у власному будинку? Пам'ятаю там була кімната, де зберігалися подібні речі..."
 
-# game/game/script.rpy:3167
+# game/game/script.rpy:3173
 translate ukrainian rod_mision_4ca02bdb:
 
     # mc "Oh.."
     mc "Ох..."
 
-# game/game/script.rpy:3169
+# game/game/script.rpy:3175
 translate ukrainian rod_mision_dc1c1cd3:
 
     # mc "Now that you mention it, I haven't checked anything but the bathroom and the backyard...."
     mc "Якщо вже про це заговорили, то я справді перевірив лише ванну кімнату та задній двір..."
 
-# game/game/script.rpy:3171
+# game/game/script.rpy:3177
 translate ukrainian rod_mision_61533207:
 
     # h "Hahaha why am I not surprised."
     h "Хахаха, чому я не здивована."
 
-# game/game/script.rpy:3173
+# game/game/script.rpy:3179
 translate ukrainian rod_mision_8df368fe:
 
     # h "There are rooms which you can easily transform into bedrooms."
     h "Там повно кімнат, які можна легко перетворити на спальні."
 
-# game/game/script.rpy:3175
+# game/game/script.rpy:3181
 translate ukrainian rod_mision_2c81517c:
 
     # h "Although, I think they were pretty much abandoned, you might have to invest in materials and stuff."
     h "Хоча, гадаю, вони практично занедбані. Тобі, можливо, доведеться витратитися на матеріали та інше."
 
-# game/game/script.rpy:3176
+# game/game/script.rpy:3182
 translate ukrainian rod_mision_ca17a820:
 
     # mc "That sounds pretty good, Ryoko has had to sleep with me all this time."
     mc "Звучить чудово, Рьоко постійно доводиться спати поруч зі мною."
 
-# game/game/script.rpy:3178
+# game/game/script.rpy:3184
 translate ukrainian rod_mision_0c1be5d6:
 
     # h "{size=-10}{i}I wouldn't consider that as a bad thing..."
     h "{size=-10}{i}Я б не назвала це чимось поганим..."
 
-# game/game/script.rpy:3180
+# game/game/script.rpy:3186
 translate ukrainian rod_mision_f5cd0367:
 
     # mc "Well, I'll see if I'm lucky."
     mc "Ну, подивимося, чи пощастить мені."
 
-# game/game/script.rpy:3182
+# game/game/script.rpy:3188
 translate ukrainian rod_mision_c046956a:
 
     # h "Ok! Say hi to Ryoko for me!"
     h "Гаразд! Передавай Рьоко привіт від мене!"
 
-# game/game/script.rpy:3184
+# game/game/script.rpy:3190
 translate ukrainian rod_mision_07dc4120:
 
     # mc "Seeya."
     mc "Побачимося."
 
-# game/game/script.rpy:3194
+# game/game/script.rpy:3200
 translate ukrainian storage_rod_4aa6a25a:
 
     # t "This must be the room that Hana told me about."
     t "Здається, це та кімната, про яку мені казала Хана."
 
-# game/game/script.rpy:3195
+# game/game/script.rpy:3201
 translate ukrainian storage_rod_fc3a95ab:
 
     # r "Master?"
     r "Господарю?"
 
-# game/game/script.rpy:3197
+# game/game/script.rpy:3203
 translate ukrainian storage_rod_2a45732e:
 
     # mc "Oh, what's up?"
     mc "О, як справи?"
 
-# game/game/script.rpy:3199
+# game/game/script.rpy:3205
 translate ukrainian storage_rod_9b7fef51:
 
     # r "What are you doing?"
     r "Чудово. Що ви робите?"
 
-# game/game/script.rpy:3201
+# game/game/script.rpy:3207
 translate ukrainian storage_rod_c4cfde76:
 
     # mc "I'm looking for something."
     mc "Я дещо шукаю."
 
-# game/game/script.rpy:3202
+# game/game/script.rpy:3208
 translate ukrainian storage_rod_bf051c37:
 
     # mc "Do you want to help me?"
     mc "Хочеш мені допомогти?"
 
-# game/game/script.rpy:3204
+# game/game/script.rpy:3210
 translate ukrainian storage_rod_25aa9a8d:
 
     # r "Yes! Please!"
     r "Так! Дякую!"
 
-# game/game/script.rpy:3205
+# game/game/script.rpy:3211
 translate ukrainian storage_rod_e15055f8:
 
     # mc "Hahaha, I'm the one who should be thanking you."
     mc "Хахаха, це мені треба дякувати тобі."
 
-# game/game/script.rpy:3207
+# game/game/script.rpy:3213
 translate ukrainian storage_rod_3e92a27b:
 
     # r "Hehehe."
     r "Хехехе."
 
-# game/game/script.rpy:3209
+# game/game/script.rpy:3215
 translate ukrainian storage_rod_80336fbd:
 
     # r "And what are you looking for?"
     r "І що саме ви шукаєте?"
 
-# game/game/script.rpy:3210
+# game/game/script.rpy:3216
 translate ukrainian storage_rod_2743998f:
 
     # mc "A fishing rod."
     mc "Вудку."
 
-# game/game/script.rpy:3211
+# game/game/script.rpy:3217
 translate ukrainian storage_rod_4b08bb47:
 
     # r "Fishing rod? {w}Here?"
     r "Вудку? {w}Тут?"
 
-# game/game/script.rpy:3212
+# game/game/script.rpy:3218
 translate ukrainian storage_rod_b5b97ab3:
 
     # mc "Hana told me that they used to keep things here."
     mc "Хана мені сказала, що тут зберігали різні речі."
 
-# game/game/script.rpy:3214
+# game/game/script.rpy:3220
 translate ukrainian storage_rod_d517828a:
 
     # r "There are a lot of boxes!"
     r "Як багато коробок!"
 
-# game/game/script.rpy:3215
+# game/game/script.rpy:3221
 translate ukrainian storage_rod_55435cc4:
 
     # mc "Yeah.."
     mc "Ага..."
 
-# game/game/script.rpy:3217
+# game/game/script.rpy:3223
 translate ukrainian storage_rod_069596a0:
 
     # r "What do they contain?"
     r "І що в них?"
 
-# game/game/script.rpy:3218
+# game/game/script.rpy:3224
 translate ukrainian storage_rod_ec382866:
 
     # mc "I don't-"
     mc "Не зна-"
 
-# game/game/script.rpy:3219
+# game/game/script.rpy:3225
 translate ukrainian storage_rod_03fb3e88:
 
     # mc "Mmm?"
     mc "Ммм?"
 
-# game/game/script.rpy:3221
+# game/game/script.rpy:3227
 translate ukrainian storage_rod_8745dd60:
 
     # mc "Look, {w}that must be it."
     mc "Поглянь, {w}здається, це вона."
 
-# game/game/script.rpy:3223
+# game/game/script.rpy:3229
 translate ukrainian storage_rod_782d1076:
 
     # r "Right! I'll bring it to you!"
     r "Дійсно! Зараз вам її подам!"
 
-# game/game/script.rpy:3225
+# game/game/script.rpy:3231
 translate ukrainian storage_rod_f2316b97:
 
     # mc "Ah."
     mc "Ах."
 
-# game/game/script.rpy:3226
+# game/game/script.rpy:3232
 translate ukrainian storage_rod_c79c2f03:
 
     # t "She's always so enthusiastic."
     t "У неї завжди так багато ентузіазму."
 
-# game/game/script.rpy:3228
+# game/game/script.rpy:3234
 translate ukrainian storage_rod_1f872ae9:
 
     # mc "Hahaha, relax, it's not going anywhere."
     mc "Хахаха, спокійніше, я не поспішаю."
 
-# game/game/script.rpy:3230
+# game/game/script.rpy:3236
 translate ukrainian storage_rod_638d6422:
 
     # r "Hm?"
     r "Гм?"
 
-# game/game/script.rpy:3232
+# game/game/script.rpy:3238
 translate ukrainian storage_rod_d3dc0b3b:
 
     # r "It's stuck in something..."
     r "Щось її тримає..."
 
-# game/game/script.rpy:3233
+# game/game/script.rpy:3239
 translate ukrainian storage_rod_e6fa8b1c:
 
     # mc "Let me help you."
     mc "Дозволь, я допоможу."
 
-# game/game/script.rpy:3235
+# game/game/script.rpy:3241
 translate ukrainian storage_rod_570ddf9c:
 
     # r "Hmmp!"
-    r "{i}Гммп!{/i}"
+    r "{i}Гммп!{/i}" with vpunch
 
-# game/game/script.rpy:3236
+# game/game/script.rpy:3242
 translate ukrainian storage_rod_328de178:
 
     # mc "Wait, I think there's a box-"
     mc "Стривай, видно, там короб-"
 
-# game/game/script.rpy:3238
+# game/game/script.rpy:3244
 translate ukrainian storage_rod_d222d065:
 
     # r "I got it!"
     r "Вдалося!"
 
-# game/game/script.rpy:3240
+# game/game/script.rpy:3246
 translate ukrainian storage_rod_21358d67:
 
     # mc "Watch out!"
     mc "Обережно!"
 
-# game/game/script.rpy:3242
+# game/game/script.rpy:3248
 translate ukrainian storage_rod_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:3243
+# game/game/script.rpy:3249
 translate ukrainian storage_rod_bc2b07bc:
 
     # mc "Are you okay? That box was pretty heavy."
     mc "Не забилася? Та коробка доволі важка."
 
-# game/game/script.rpy:3244
+# game/game/script.rpy:3250
 translate ukrainian storage_rod_99155f58:
 
     # r "{size=-10}Yes.."
     r "{size=-10}Ні..."
 
-# game/game/script.rpy:3246
+# game/game/script.rpy:3252
 translate ukrainian storage_rod_16525ed2:
 
     # mc "I told you to be more careful."
     mc "Казав же тобі, будь обережнішою."
 
-# game/game/script.rpy:3247
+# game/game/script.rpy:3253
 translate ukrainian storage_rod_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:3249
+# game/game/script.rpy:3255
 translate ukrainian storage_rod_ca4e5eee:
 
     # mc "Are you sure it didn't hit you?"
     mc "Упевнена, що я випадково не задів тебе?"
 
-# game/game/script.rpy:3250
+# game/game/script.rpy:3256
 translate ukrainian storage_rod_acee4f45:
 
     # r "Y-yes.. {w}{size=-10}Master...{w}{size=-10}[mc]..."
     r "Т-Так... {w}{size=-10}господарю...{w}{size=-5}[name_form('voc')]..."
 
-# game/game/script.rpy:3252
+# game/game/script.rpy:3258
 translate ukrainian storage_rod_ec60237f:
 
     # mc "I like your enthusiasm but-"
     mc "Мені подобається твій ентузіазм, але-"
 
-# game/game/script.rpy:3253
+# game/game/script.rpy:3259
 translate ukrainian storage_rod_b9b755e5_1:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:3254
+# game/game/script.rpy:3260
 translate ukrainian storage_rod_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3255
+# game/game/script.rpy:3261
 translate ukrainian storage_rod_e2f0c6d1:
 
     # t "Why... does she look so pretty right now...?"
     t "Чому... зараз вона виглядає такою привабливою...?"
 
-# game/game/script.rpy:3257
+# game/game/script.rpy:3263
 translate ukrainian storage_rod_e46f6f05:
 
     # r "{size=-10}Mas..{w}ter."
     r "{size=-10}Госпо...{w}дарю."
 
-# game/game/script.rpy:3259
+# game/game/script.rpy:3265
 translate ukrainian storage_rod_32ca5bbe:
 
     # mc "Ryoko..."
     mc "Рьоко..."
 
-# game/game/script.rpy:3263
+# game/game/script.rpy:3269
 translate ukrainian storage_rod_8dbc0be7:
 
     # r "Ah."
     r "Ах."
 
-# game/game/script.rpy:3264
+# game/game/script.rpy:3270
 translate ukrainian storage_rod_b8de06d3:
 
     # mc "Oh."
     mc "Ох."
 
-# game/game/script.rpy:3266
+# game/game/script.rpy:3272
 translate ukrainian storage_rod_7f9f6dd4:
 
     # t "I was about to..."
     t "Невже я збирався..."
 
-# game/game/script.rpy:3268
+# game/game/script.rpy:3274
 translate ukrainian storage_rod_c21622d2:
 
     # mc "Ahem*"
     mc "{i}*Кхм*{/i}"
 
-# game/game/script.rpy:3270
+# game/game/script.rpy:3276
 translate ukrainian storage_rod_2039c3cd:
 
     # mc "The boxes fell off... haha..."
     mc "Йой, коробки впали... хаха..."
 
-# game/game/script.rpy:3272
+# game/game/script.rpy:3278
 translate ukrainian storage_rod_9783e33a:
 
     # r "Yes... {w}sorry."
     r "Так... {w}пробачте."
 
-# game/game/script.rpy:3273
+# game/game/script.rpy:3279
 translate ukrainian storage_rod_6f81aae8:
 
     # mc "Don't worry, I'll pick them up right away."
     mc "Пусте, я зараз їх підніму."
 
-# game/game/script.rpy:3275
+# game/game/script.rpy:3281
 translate ukrainian storage_rod_de433ff6:
 
     # r "Let me help you..."
     r "Я вам допоможу..."
 
-# game/game/script.rpy:3277
+# game/game/script.rpy:3283
 translate ukrainian storage_rod_ed862fd2:
 
     # mc "Ok..."
     mc "Дякую..."
 
-# game/game/script.rpy:3280
+# game/game/script.rpy:3286
 translate ukrainian storage_rod_6612ab6d:
 
     # r "{i}{size=-10}I ruined it!!!"
     r "{i}{size=-10}Я все зіпсувала!!!"
 
-# game/game/script.rpy:3304
+# game/game/script.rpy:3310
 translate ukrainian wood_mission_5ce62be6:
 
     # t "I'll go to sleep and come back in the morning."
     t "Піду посплю й прийду завтра зранку."
 
-# game/game/script.rpy:3306
+# game/game/script.rpy:3312
 translate ukrainian wood_mission_c7f4681b:
 
     # t "I don't think I've gone to that gate yet."
     t "Не думаю, що я ще виходив за ці ворота."
 
-# game/game/script.rpy:3308
+# game/game/script.rpy:3314
 translate ukrainian wood_mission_c9d156c5:
 
     # t "I see a building in the distance."
     t "Бачу якийсь будиночок."
 
-# game/game/script.rpy:3309
+# game/game/script.rpy:3315
 translate ukrainian wood_mission_a2c41be2:
 
     # t "What do they do here?"
     t "Що вони тут роблять?"
 
-# game/game/script.rpy:3310
+# game/game/script.rpy:3316
 translate ukrainian wood_mission_bf7d45a6:
 
     # so "Hey!"
-    so "Агов!"
+    so "Агов!" with hpunch
 
-# game/game/script.rpy:3311
+# game/game/script.rpy:3317
 translate ukrainian wood_mission_652650d3:
 
     # mc "...?"
     mc "...?"
 
-# game/game/script.rpy:3313
+# game/game/script.rpy:3319
 translate ukrainian wood_mission_542316e7:
 
     # so "Who is there?"
     so "Хто тут?"
 
-# game/game/script.rpy:3314
+# game/game/script.rpy:3320
 translate ukrainian wood_mission_453328cb:
 
     # so "For the moment the villagers aren't allowed to pass."
     so "Наразі мешканцям селища заборонено сюди заходити."
 
-# game/game/script.rpy:3315
+# game/game/script.rpy:3321
 translate ukrainian wood_mission_9dafe136:
 
     # mc "But... I-"
     mc "Але... я-"
 
-# game/game/script.rpy:3316
+# game/game/script.rpy:3322
 translate ukrainian wood_mission_290e48a8:
 
     # y "Relax soldier, {w}he has my permission."
     y "Спокійно, солдатко, {w}у нього мій дозвіл."
 
-# game/game/script.rpy:3318
+# game/game/script.rpy:3324
 translate ukrainian wood_mission_9e4cfe6f:
 
     # so "M-Miss Yui!"
-    so "П-Пані Юї!"
+    so "П-Пані Юї!" with hpunch
 
-# game/game/script.rpy:3319
+# game/game/script.rpy:3325
 translate ukrainian wood_mission_372828ef:
 
     # y "Didn't you realize who he is?"
     y "Хіба ти не впізнала його?"
 
-# game/game/script.rpy:3321
+# game/game/script.rpy:3327
 translate ukrainian wood_mission_53dad3eb:
 
     # so "Mmm?"
     so "Ммм?"
 
-# game/game/script.rpy:3324
+# game/game/script.rpy:3330
 translate ukrainian wood_mission_51942114:
 
     # so "...!"
-    so "...!"
+    so "...!" (multiple=2)
 
-# game/game/script.rpy:3325
+# game/game/script.rpy:3331
 translate ukrainian wood_mission_ba72d5af:
 
     # mc "Yo."
-    mc "Привітик."
+    mc "Привітик." (multiple=2)
 
-# game/game/script.rpy:3327
+# game/game/script.rpy:3333
 translate ukrainian wood_mission_7ba57d38:
 
     # so "{size=+10}I'm so sorry!"
-    so "{size=+10}Мені шкода!"
+    so "{size=+10}Мені шкода!" with hpunch
 
-# game/game/script.rpy:3328
+# game/game/script.rpy:3334
 translate ukrainian wood_mission_4c88d80b:
 
     # mc "D-Don't worry, {w}you're just doing your job..."
     mc "Н-Не хвилюйся, {w}ти просто робиш свою роботу..."
 
-# game/game/script.rpy:3330
+# game/game/script.rpy:3336
 translate ukrainian wood_mission_9198b1e5:
 
     # so "{size=+10}It won't happen again."
     so "{size=+10}Це більше не повториться."
 
-# game/game/script.rpy:3331
+# game/game/script.rpy:3337
 translate ukrainian wood_mission_2515c914:
 
     # mc "It's ok..."
     mc "Усе гаразд..."
 
-# game/game/script.rpy:3332
+# game/game/script.rpy:3338
 translate ukrainian wood_mission_a6de7695:
 
     # t "I don't feel comfortable being treated with so much respect..."
     t "Мені незручно, коли до мене ставляться з такою великою повагою..."
 
-# game/game/script.rpy:3334
+# game/game/script.rpy:3340
 translate ukrainian wood_mission_a9fdac90:
 
     # y "Are you coming or will you keep scaring my soldier?"
     y "Ти заходиш, чи будеш далі розглядати мою солдатку?"
 
-# game/game/script.rpy:3335
+# game/game/script.rpy:3341
 translate ukrainian wood_mission_4aadf486:
 
     # mc "Hahaha..."
     mc "Хахаха..."
 
-# game/game/script.rpy:3337
+# game/game/script.rpy:3343
 translate ukrainian wood_mission_140fd6c0:
 
     # so "{size=-8}Psst!"
     so "{size=-8}{i}Пссс!{/i}"
 
-# game/game/script.rpy:3338
+# game/game/script.rpy:3344
 translate ukrainian wood_mission_3f871f46:
 
     # mc "Hmm?"
     mc "Гмм?"
 
-# game/game/script.rpy:3340
+# game/game/script.rpy:3346
 translate ukrainian wood_mission_09d19417:
 
     # so "{size=-8}So-rry..."
     so "{size=-8}Про-бач..."
 
-# game/game/script.rpy:3341
+# game/game/script.rpy:3347
 translate ukrainian wood_mission_d3b8696b:
 
     # t "Sorr-?"
     t "Про-?"
 
-# game/game/script.rpy:3343
+# game/game/script.rpy:3349
 translate ukrainian wood_mission_6dff3a44:
 
     # t "What-"
     t "Що-"
 
-# game/game/script.rpy:3344
+# game/game/script.rpy:3350
 translate ukrainian wood_mission_49a9e302:
 
     # y "Hurry up!"
     y "Поквапся!"
 
-# game/game/script.rpy:3346
+# game/game/script.rpy:3352
 translate ukrainian wood_mission_f4ca4e3f:
 
     # mc "I-I'm coming!"
     mc "І-Іду!"
 
-# game/game/script.rpy:3347
+# game/game/script.rpy:3353
 translate ukrainian wood_mission_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3348
+# game/game/script.rpy:3354
 translate ukrainian wood_mission_af6727cd:
 
     # t "Apology accepted..."
     t "Вибачення прийнято..."
 
-# game/game/script.rpy:3353
+# game/game/script.rpy:3359
 translate ukrainian wood_mission_24700f63:
 
     # mc "How did you build this place so fast?"
     mc "Як вам вдалося так швидко це збудувати?"
 
-# game/game/script.rpy:3354
+# game/game/script.rpy:3360
 translate ukrainian wood_mission_13aadd7f:
 
     # y "It was already here before, we just fixed it."
     y "Це все вже було тут, ми тільки полагодили."
 
-# game/game/script.rpy:3355
+# game/game/script.rpy:3361
 translate ukrainian wood_mission_4d7966cf:
 
     # mc "You really don't waste your time."
     mc "Ви точно не марнуєте свій час."
 
-# game/game/script.rpy:3356
+# game/game/script.rpy:3362
 translate ukrainian wood_mission_62ecb2bc:
 
     # y "Hahaha I've been waiting for this moment!"
     y "Хахаха, я чекала цього моменту!"
 
-# game/game/script.rpy:3357
+# game/game/script.rpy:3363
 translate ukrainian wood_mission_9fd2e901:
 
     # sob "Miss Yui!"
     sob "Пані Юї!"
 
-# game/game/script.rpy:3359
+# game/game/script.rpy:3365
 translate ukrainian wood_mission_ec032cd7:
 
     # soc "We finished all the preparations."
     soc "Підготовка завершена."
 
-# game/game/script.rpy:3360
+# game/game/script.rpy:3366
 translate ukrainian wood_mission_73d1a25e:
 
     # y "Perfect, {w}then we just have to put this place to work."
     y "Чудово, {w}тоді нам залишається тільки розпочати тут роботу."
 
-# game/game/script.rpy:3361
+# game/game/script.rpy:3367
 translate ukrainian wood_mission_c2a8059d:
 
     # y "Go and inform Hana."
     y "Йдіть і повідомте Хану."
 
-# game/game/script.rpy:3363
+# game/game/script.rpy:3369
 translate ukrainian wood_mission_eb55279f:
 
     # y "After that, go to rest."
     y "Ну а потім, відпочивайте."
 
-# game/game/script.rpy:3364
+# game/game/script.rpy:3370
 translate ukrainian wood_mission_9bcef327:
 
     # y "Good job girls."
     y "Гарна робота, дівчата."
 
-# game/game/script.rpy:3366
+# game/game/script.rpy:3372
 translate ukrainian wood_mission_4477c300:
 
     # sob "Understood!"
-    sob "Зрозуміла!"
+    sob "Зрозуміла!" (multiple=2)
 
-# game/game/script.rpy:3367
+# game/game/script.rpy:3373
 translate ukrainian wood_mission_c10a57fc:
 
     # soc "Understood!"
-    soc "Зрозуміла!"
+    soc "Зрозуміла!" (multiple=2)
 
-# game/game/script.rpy:3372
+# game/game/script.rpy:3378
 translate ukrainian wood_mission_6c686b04:
 
     # y "[mc]."
     y "[name_form('voc')]."
 
-# game/game/script.rpy:3373
+# game/game/script.rpy:3379
 translate ukrainian wood_mission_7c927b78:
 
     # mc "Yes?"
     mc "Так?"
 
-# game/game/script.rpy:3374
+# game/game/script.rpy:3380
 translate ukrainian wood_mission_f7783141:
 
     # y "You must have already realized what this place is for."
     y "Ти мав би вже здогадатися, для чого це місце."
 
-# game/game/script.rpy:3376
+# game/game/script.rpy:3382
 translate ukrainian wood_mission_8d2c6a6a:
 
     # mc "Well, I've only seen axes."
     mc "Ну, я бачив одні сокири."
 
-# game/game/script.rpy:3377
+# game/game/script.rpy:3383
 translate ukrainian wood_mission_4a9283de:
 
     # mc "Lots of wood."
     mc "Багато дерева."
 
-# game/game/script.rpy:3379
+# game/game/script.rpy:3385
 translate ukrainian wood_mission_2e53c163:
 
     # mc "And quite a lot of construction materials."
     mc "І чимало будівельних матеріалів."
 
-# game/game/script.rpy:3380
+# game/game/script.rpy:3386
 translate ukrainian wood_mission_50f6ff1b:
 
     # mc "This is a place totally related to wood."
     mc "Отже, це місце повністю пов'язане з деревом."
 
-# game/game/script.rpy:3382
+# game/game/script.rpy:3388
 translate ukrainian wood_mission_b9a0a172:
 
     # y "Hahaha, idiot~"
     y "Хахаха, дурко~"
 
-# game/game/script.rpy:3383
+# game/game/script.rpy:3389
 translate ukrainian wood_mission_7fce0143:
 
     # y "As we're completely surrounded by trees, {w}it's time to make use of them."
     y "Оскільки довкола нас лише дерева, {w}треба знайти для них застосування."
 
-# game/game/script.rpy:3385
+# game/game/script.rpy:3391
 translate ukrainian wood_mission_d2928354:
 
     # y "And I need your help with something."
     y "І мені знадобиться твоя допомога з дечим."
 
-# game/game/script.rpy:3386
+# game/game/script.rpy:3392
 translate ukrainian wood_mission_a59e4808:
 
     # mc "Woah... {w}right here? {w}Well... who am I to refuse..."
     mc "Невже... {w}прямо тут? {w}Ну... хто я такий, аби відмовитися..."
 
-# game/game/script.rpy:3388
+# game/game/script.rpy:3394
 translate ukrainian wood_mission_811835de:
 
     # y "Eh? {w}W-What do {size=-5}you mea-..."
     y "Ех? {w}П-Про що {size=-5}це ти-..."
 
-# game/game/script.rpy:3389
+# game/game/script.rpy:3395
 translate ukrainian wood_mission_71a86863:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:3391
+# game/game/script.rpy:3397
 translate ukrainian wood_mission_784224a9:
 
     # y "I-Idiot!!"
     y "Д-Дурко!!"
 
-# game/game/script.rpy:3392
+# game/game/script.rpy:3398
 translate ukrainian wood_mission_14a87610:
 
     # mc "Hahaha, I'm just kidding!"
     mc "Хахаха, я лише жартую!"
 
-# game/game/script.rpy:3394
+# game/game/script.rpy:3400
 translate ukrainian wood_mission_8e8bdefc:
 
     # y "{size=-6}Hmmp!"
-    y "{size=-6}{i}Хммп!{/i}"
+    y "{size=-6}{i}Хммп!{/i}" with vpunch
 
-# game/game/script.rpy:3395
+# game/game/script.rpy:3401
 translate ukrainian wood_mission_31f47b4a:
 
     # mc "Tell me, what do you need? I'll be happy to help you."
     mc "Скажи, що тобі потрібно? Я з радістю допоможу."
 
-# game/game/script.rpy:3396
+# game/game/script.rpy:3402
 translate ukrainian wood_mission_71a86863_1:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:3397
+# game/game/script.rpy:3403
 translate ukrainian wood_mission_7c927b78_1:
 
     # mc "Yes?"
     mc "Ну?"
 
-# game/game/script.rpy:3399
+# game/game/script.rpy:3405
 translate ukrainian wood_mission_54ca7bf0:
 
     # y "Have you ever cut down any trees?"
     y "Чи доводилося тобі коли-небудь рубати дерева?"
 
-# game/game/script.rpy:3400
+# game/game/script.rpy:3406
 translate ukrainian wood_mission_5d156af5:
 
     # mc "No, but I'm a fast learner."
     mc "Ні, але я швидко вчуся."
 
-# game/game/script.rpy:3402
+# game/game/script.rpy:3408
 translate ukrainian wood_mission_cc56920c:
 
     # y "I need some wood."
     y "Мені треба трохи деревини."
 
-# game/game/script.rpy:3403
+# game/game/script.rpy:3409
 translate ukrainian wood_mission_48a276ed:
 
     # y "And my girls haven't been able to rest since we started this whole thing."
     y "А мої дівчата не мали змоги відпочити відтоді, як ми розпочали всю цю справу."
 
-# game/game/script.rpy:3404
+# game/game/script.rpy:3410
 translate ukrainian wood_mission_44a2e412:
 
     # mc "What do you plan to build?"
     mc "Збираєшся щось збудувати?"
 
-# game/game/script.rpy:3406
+# game/game/script.rpy:3412
 translate ukrainian wood_mission_7569adbe:
 
     # y "Rebuild, I would say, {w}have you noticed that our village has stores but they're closed?"
     y "Відбудувати, я б сказала. {w}Ти помітив, що в нашому селищі є крамнички, але вони закриті?"
 
-# game/game/script.rpy:3407
+# game/game/script.rpy:3413
 translate ukrainian wood_mission_f800bed0:
 
     # mc "Yes."
     mc "Так."
 
-# game/game/script.rpy:3408
+# game/game/script.rpy:3414
 translate ukrainian wood_mission_702db948:
 
     # t "Yes...?"
     t "Ніби-то...?"
 
-# game/game/script.rpy:3410
+# game/game/script.rpy:3416
 translate ukrainian wood_mission_82cd58e3:
 
     # y "Well, that was because there was no need to have them open when there was no one to do business with, {w}but now we must prepare."
     y "Ну, раніше просто не виникало потреби їх відчиняти — не було із ким мати справи, {w}але тепер мусимо підготуватися."
 
-# game/game/script.rpy:3411
+# game/game/script.rpy:3417
 translate ukrainian wood_mission_d77ab9a8:
 
     # y "Also, {w}since we secured the lake, if you catch something you can sell it there."
     y "Крім того, {w}оскільки ми також узяли під контроль озеро, якщо вдасться щось зловити, то зможеш продати це там."
 
-# game/game/script.rpy:3412
+# game/game/script.rpy:3418
 translate ukrainian wood_mission_73bff30e:
 
     # t "That sounds interesting."
     t "Звучить цікаво."
 
-# game/game/script.rpy:3413
+# game/game/script.rpy:3419
 translate ukrainian wood_mission_e77ec5d2:
 
     # mc "Just tell me how much wood you need and I'll get to work."
     mc "Просто скажи, скільки деревини тобі потрібно, і я візьмуся за роботу."
 
-# game/game/script.rpy:3415
+# game/game/script.rpy:3421
 translate ukrainian wood_mission_eb89336c:
 
     # y "Don't think I'll let you do it for free, everything has a reward."
     y "Тільки не думай, що робитимеш це задарма — за все передбачена винагорода."
 
-# game/game/script.rpy:3416
+# game/game/script.rpy:3422
 translate ukrainian wood_mission_c9f5d8f4:
 
     # t "Ooho...?"
     t "{i}Оо-хо...?{/i}"
 
-# game/game/script.rpy:3417
+# game/game/script.rpy:3423
 translate ukrainian wood_mission_d498d112:
 
     # mc "And what would my reward be?"
     mc "І яка ж буде моя винагорода?"
 
-# game/game/script.rpy:3419
+# game/game/script.rpy:3425
 translate ukrainian wood_mission_9b08f97f:
 
     # y "I'm still thinking about what it could be."
     y "Я досі думаю над нею."
 
-# game/game/script.rpy:3420
+# game/game/script.rpy:3426
 translate ukrainian wood_mission_2c00972e:
 
     # y "You could earn money."
     y "Можу виплатити тобі монетами."
 
-# game/game/script.rpy:3421
+# game/game/script.rpy:3427
 translate ukrainian wood_mission_9178fdda:
 
     # t "Her tits felt so good that day, {w}so soft and perfect..."
     t "Її цицьки були такі приємні того дня, {w}м'які та ідеальні..."
 
-# game/game/script.rpy:3423
+# game/game/script.rpy:3429
 translate ukrainian wood_mission_c5540a9a:
 
     # y "Well, while you work, I'll think abo-"
     y "Ну, поки працюватимеш, я поду-"
 
-# game/game/script.rpy:3424
+# game/game/script.rpy:3430
 translate ukrainian wood_mission_f542cd6a:
 
     # t "And her figure is so feminine despite training so hard."
     t "І її фігура така жіночна, попри те, що вона так інтенсивно тренується."
 
-# game/game/script.rpy:3425
+# game/game/script.rpy:3431
 translate ukrainian wood_mission_71a86863_2:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:3426
+# game/game/script.rpy:3432
 translate ukrainian wood_mission_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3427
+# game/game/script.rpy:3433
 translate ukrainian wood_mission_049333a8:
 
     # y "[mc]?"
     y "[name_form('voc')]?"
 
-# game/game/script.rpy:3429
+# game/game/script.rpy:3435
 translate ukrainian wood_mission_eede1145:
 
     # y "May I know what you're thinking?"
     y "Можна дізнатися, про що ти думаєш?"
 
-# game/game/script.rpy:3431
+# game/game/script.rpy:3437
 translate ukrainian wood_mission_701d2464:
 
     # mc "What!?"
     mc "Га!?"
 
-# game/game/script.rpy:3432
+# game/game/script.rpy:3438
 translate ukrainian wood_mission_ea669f1e:
 
     # mc "What thighs! {w}I'm not thinking about anything!"
-    mc "Оце так стегна! {w}Я ні про що не думаю!"
+    mc "Оце так стегна! {w}Я ні про що не думаю!" with hpunch
 
-# game/game/script.rpy:3433
+# game/game/script.rpy:3439
 translate ukrainian wood_mission_71a86863_3:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:3434
+# game/game/script.rpy:3440
 translate ukrainian wood_mission_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3436
+# game/game/script.rpy:3442
 translate ukrainian wood_mission_e981d742:
 
     # y "{size=-10}F-First get the wood and t-then we'll see..."
     y "{size=-10}С-Спочатку підготуй деревину, а п-потім побачимо..."
 
-# game/game/script.rpy:3437
+# game/game/script.rpy:3443
 translate ukrainian wood_mission_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3438
+# game/game/script.rpy:3444
 translate ukrainian wood_mission_8fb81757:
 
     # y "I-I have to go now... {w}I need 40 pieces of wood. {w}I'll leave you to it."
     y "М-Мені вже треба йти... {w}Принеси 40 колод. {w}Залишаю це на тебе."
 
-# game/game/script.rpy:3440
+# game/game/script.rpy:3446
 translate ukrainian wood_mission_86ed24f7:
 
     # y "B-Bye..."
     y "Б-Бувай..."
 
-# game/game/script.rpy:3441
+# game/game/script.rpy:3447
 translate ukrainian wood_mission_31e7d7c2:
 
     # y "Good luck with that..."
     y "І щасти тобі з цим..."
 
-# game/game/script.rpy:3444
+# game/game/script.rpy:3450
 translate ukrainian wood_mission_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3448
+# game/game/script.rpy:3454
 translate ukrainian wood_mission_f93108b8:
 
     # mc "HAAAAAAA!!"
-    mc "ХААААААА!!"
+    mc "ХААААААА!!" with hpunch
 
-# game/game/script.rpy:3450
+# game/game/script.rpy:3456
 translate ukrainian wood_mission_aab3383c:
 
     # y "Idiot.."
     y "Дурко..."
 
-# game/game/script.rpy:3468
+# game/game/script.rpy:3474
 translate ukrainian mother_dream_7f7620e0:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}Sigh*"
     mc "{sc=1}{outlinecolor=#000000}{size=-6}{i}{i}*Хааах*{/i}"
 
-# game/game/script.rpy:3469
+# game/game/script.rpy:3475
 translate ukrainian mother_dream_bd301f8a:
 
     # t "The village is feeling more and more cheerful."
     t "У селищі з кожним днем стає все веселіше."
 
-# game/game/script.rpy:3470
+# game/game/script.rpy:3476
 translate ukrainian mother_dream_b9f450e8:
 
     # t "The girls are doing a great job."
     t "Дівчата гарно справляються."
 
-# game/game/script.rpy:3471
+# game/game/script.rpy:3477
 translate ukrainian mother_dream_8d8b78fa:
 
     # t "I can't imagine this place without them."
     t "Важко уявити це місце без них."
 
-# game/game/script.rpy:3472
+# game/game/script.rpy:3478
 translate ukrainian mother_dream_1bb01731:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3473
+# game/game/script.rpy:3479
 translate ukrainian mother_dream_5c4d413d:
 
     # t "I wonder..."
     t "Цікаво..."
 
-# game/game/script.rpy:3475
+# game/game/script.rpy:3481
 translate ukrainian mother_dream_a760f6dd:
 
     # t "I wonder if the goddesses are still watching me."
     t "Цікаво, чи богині досі спостерігають за мною."
 
-# game/game/script.rpy:3479
+# game/game/script.rpy:3485
 translate ukrainian mother_dream_130025dc:
 
     # t "Since I've been here, I haven't had a day with nothing to do."
     t "Відколи я тут опинився, не було жодного дня, коли б мені не було чим зайнятися."
 
-# game/game/script.rpy:3483
+# game/game/script.rpy:3489
 translate ukrainian mother_dream_c2421452:
 
     # t "And with Ryoko I've been able to enjoy my new life."
     t "І разом з Рьоко я зміг насолоджуватися своїм новим життям."
 
-# game/game/script.rpy:3484
+# game/game/script.rpy:3490
 translate ukrainian mother_dream_1bb01731_1:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3485
+# game/game/script.rpy:3491
 translate ukrainian mother_dream_cbb29264:
 
     # t "But why did Fumiko want to save a... {w}demon?"
     t "Але чому Фуміко хотіла, аби я врятував... {w}демоницю?"
 
-# game/game/script.rpy:3486
+# game/game/script.rpy:3492
 translate ukrainian mother_dream_1bb01731_2:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3487
+# game/game/script.rpy:3493
 translate ukrainian mother_dream_81ae37a0:
 
     # t "There's a lot I don't understand."
     t "Я ще багато чого не розумію."
 
-# game/game/script.rpy:3491
+# game/game/script.rpy:3497
 translate ukrainian mother_dream_4c51d8b6:
 
     # t "According to everyone, gods and demons are like cats and dogs."
     t "Як кажуть усі, боги й демони — це як кішки й собаки..."
 
-# game/game/script.rpy:3495
+# game/game/script.rpy:3501
 translate ukrainian mother_dream_95e75b82:
 
     # t "My mother... {w}did she come here via a goddess too?"
     t "Моя мама... {w}Можливо, вона теж прийшла в цей світ завдяки богині?"
 
-# game/game/script.rpy:3496
+# game/game/script.rpy:3502
 translate ukrainian mother_dream_d2f448cd:
 
     # t "Is she in heaven right now?"
     t "Вона зараз у раю?"
 
-# game/game/script.rpy:3497
+# game/game/script.rpy:3503
 translate ukrainian mother_dream_1bb01731_3:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3498
+# game/game/script.rpy:3504
 translate ukrainian mother_dream_e36ffeb7:
 
     # t "How."
     t "Як..."
 
-# game/game/script.rpy:3500
+# game/game/script.rpy:3506
 translate ukrainian mother_dream_d9e2f8e6:
 
     # t "Did she-"
     t "...вона..."
 
-# game/game/script.rpy:3502
+# game/game/script.rpy:3508
 translate ukrainian mother_dream_46ff4a61:
 
     # t "Die?"
     t "...померла?"
 
-# game/game/script.rpy:3508
+# game/game/script.rpy:3514
 translate ukrainian mother_dream_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3511
+# game/game/script.rpy:3517
 translate ukrainian mother_dream_d352d36e:
 
     # mc "Where..."
     mc "Де..."
 
-# game/game/script.rpy:3513
+# game/game/script.rpy:3519
 translate ukrainian mother_dream_e59cf96b:
 
     # mc "This is..."
     mc "Це..."
 
-# game/game/script.rpy:3519
+# game/game/script.rpy:3525
 translate ukrainian mother_dream_bc70acc1:
 
     # mc "My home?"
     mc "Мій дім?"
 
-# game/game/script.rpy:3521
+# game/game/script.rpy:3527
 translate ukrainian mother_dream_88dca032:
 
     # mc "My hands are small..."
     mc "Мої руки маленькі..."
 
-# game/game/script.rpy:3522
+# game/game/script.rpy:3528
 translate ukrainian mother_dream_d30a1a90:
 
     # a "Hey, how much longer will you be in there."
     a "Ну, і як довго ти ще там стоятимеш."
 
-# game/game/script.rpy:3523
+# game/game/script.rpy:3529
 translate ukrainian mother_dream_ef1ed6d1:
 
     # a "Come or the food will get cold."
     a "Ходи вже, а то охолоне все."
 
-# game/game/script.rpy:3524
+# game/game/script.rpy:3530
 translate ukrainian mother_dream_80449949:
 
     # t "That voice..."
     t "Цей голос..."
 
-# game/game/script.rpy:3525
+# game/game/script.rpy:3531
 translate ukrainian mother_dream_73fa9c82:
 
     # t "Ah right... {w}mom was preparing dinner."
     t "Ах, так... {w}мама готувала вечерю."
 
-# game/game/script.rpy:3527
+# game/game/script.rpy:3533
 translate ukrainian mother_dream_b202b51b:
 
     # mc "I'm coming mom..."
     mc "Іду, мамо..."
 
-# game/game/script.rpy:3529
+# game/game/script.rpy:3535
 translate ukrainian mother_dream_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3530
+# game/game/script.rpy:3536
 translate ukrainian mother_dream_129ba0a0:
 
     # mom "What's wrong [mc]."
     mom "Що таке, [name_form('voc')]."
 
-# game/game/script.rpy:3531
+# game/game/script.rpy:3537
 translate ukrainian mother_dream_e0bfb76b:
 
     # mom "Are you not hungry?"
     mom "Невже не голодний?"
 
-# game/game/script.rpy:3532
+# game/game/script.rpy:3538
 translate ukrainian mother_dream_d57e87bb:
 
     # mc "Ah, {w}err... {w}yes..."
     mc "Ах, {w}емм... {w}так..."
 
-# game/game/script.rpy:3534
+# game/game/script.rpy:3540
 translate ukrainian mother_dream_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3536
+# game/game/script.rpy:3542
 translate ukrainian mother_dream_9608cf71:
 
     # mom "{sc=1}{outlinecolor=#000000}Hmm~ {w}Hmm...~"
     mom "{sc=1}{outlinecolor=#000000}{i}Хмм~ {w}Хмм...~"
 
-# game/game/script.rpy:3537
+# game/game/script.rpy:3543
 translate ukrainian mother_dream_12585ec2:
 
     # mom "{sc=1}{outlinecolor=#000000}Hnm~ {w}Hunm...~{image=corazon}"
     mom "{sc=1}{outlinecolor=#000000}{i}Хнм~ {w}Хунм...~{image=corazon}"
 
-# game/game/script.rpy:3539
+# game/game/script.rpy:3545
 translate ukrainian mother_dream_bbfd79f9:
 
     # t "{size=-6}W-What?"
     t "{size=-6}Щ-Що?"
 
-# game/game/script.rpy:3540
+# game/game/script.rpy:3546
 translate ukrainian mother_dream_84a05a3c:
 
     # t "I-"
     t "Щось-"
 
-# game/game/script.rpy:3542
+# game/game/script.rpy:3548
 translate ukrainian mother_dream_a398fab8:
 
     # t "I have something in my eyes?"
     t "Щось потрапило в очі?"
 
-# game/game/script.rpy:3544
+# game/game/script.rpy:3550
 translate ukrainian mother_dream_a78f0123:
 
     # t "Am I... {w}crying?"
     t "Невже я... {w}плачу?"
 
-# game/game/script.rpy:3545
+# game/game/script.rpy:3551
 translate ukrainian mother_dream_4cd76835:
 
     # t "Why?"
     t "Чому?"
 
-# game/game/script.rpy:3546
+# game/game/script.rpy:3552
 translate ukrainian mother_dream_1dbe6b7a:
 
     # mom "What's wrong!?"
-    mom "Що трапилося!?"
+    mom "Що трапилося!?" with hpunch
 
-# game/game/script.rpy:3547
+# game/game/script.rpy:3553
 translate ukrainian mother_dream_c81d4ea7:
 
     # mom "Are you feeling okay!?"
     mom "Усе гаразд!?"
 
-# game/game/script.rpy:3549
+# game/game/script.rpy:3555
 translate ukrainian mother_dream_7a28c915:
 
     # mc "{size=-6}I... {w}I don't know..."
     mc "{size=-6}Я... {w}не знаю..."
 
-# game/game/script.rpy:3550
+# game/game/script.rpy:3556
 translate ukrainian mother_dream_e475ae9c:
 
     # mom "Did those kids bother you again?"
     mom "Ті дітлахи знову дошкуляли тобі?"
 
-# game/game/script.rpy:3551
+# game/game/script.rpy:3557
 translate ukrainian mother_dream_64407f67:
 
     # mc "It's not that..."
     mc "Справа не в цьому..."
 
-# game/game/script.rpy:3553
+# game/game/script.rpy:3559
 translate ukrainian mother_dream_34da196e:
 
     # mom "Do you have a fever? {w=0.5}Sorry, it's my fault for not noticing."
     mom "У тебе температура? {w=0.5}Пробач, я б мала це помітити."
 
-# game/game/script.rpy:3554
+# game/game/script.rpy:3560
 translate ukrainian mother_dream_b39922a5:
 
     # mc "{size=-6}No {w}no..."
     mc "{size=-6}Ні{w}, ні..."
 
-# game/game/script.rpy:3555
+# game/game/script.rpy:3561
 translate ukrainian mother_dream_d7afdc3b:
 
     # mc "I-"
     mc "Я-"
 
-# game/game/script.rpy:3556
+# game/game/script.rpy:3562
 translate ukrainian mother_dream_71b8c963:
 
     # mom "Mmm?"
     mom "Ммм?"
 
-# game/game/script.rpy:3557
+# game/game/script.rpy:3563
 translate ukrainian mother_dream_9c6bdc74:
 
     # mc "I feel, {w}if I close my eyes.."
     mc "Я відчуваю, {w}що якщо зараз заплющу очі..."
 
-# game/game/script.rpy:3558
+# game/game/script.rpy:3564
 translate ukrainian mother_dream_ae91681e:
 
     # mom "Yes?"
     mom "Так?"
 
-# game/game/script.rpy:3559
+# game/game/script.rpy:3565
 translate ukrainian mother_dream_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3561
+# game/game/script.rpy:3567
 translate ukrainian mother_dream_69be8062:
 
     # mom "Hmm?"
     mom "Гмм?"
 
-# game/game/script.rpy:3562
+# game/game/script.rpy:3568
 translate ukrainian mother_dream_ecfe2daa:
 
     # mc "I'll {w}never see you again..."
     mc "Я {w}більше ніколи тебе не побачу..."
 
-# game/game/script.rpy:3563
+# game/game/script.rpy:3569
 translate ukrainian mother_dream_f864b487:
 
     # mom "..."
     mom "..."
 
-# game/game/script.rpy:3564
+# game/game/script.rpy:3570
 translate ukrainian mother_dream_d73f7fdc:
 
     # mom "Why do you think that?"
     mom "Чому ти так думаєш?"
 
-# game/game/script.rpy:3565
+# game/game/script.rpy:3571
 translate ukrainian mother_dream_4a659145:
 
     # mc "Because..."
     mc "Тому що..."
 
-# game/game/script.rpy:3567
+# game/game/script.rpy:3573
 translate ukrainian mother_dream_976ff649:
 
     # mc "The shrine in the back."
     mc "Той вівтар позаду."
 
-# game/game/script.rpy:3568
+# game/game/script.rpy:3574
 translate ukrainian mother_dream_46ca356b:
 
     # mc "It's-"
-    mc "Він-"
+    mc "Він-" with cumflash
 
-# game/game/script.rpy:3569
+# game/game/script.rpy:3575
 translate ukrainian mother_dream_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3570
+# game/game/script.rpy:3576
 translate ukrainian mother_dream_2667fb40:
 
     # mc "{size=-6}It's yours..."
     mc "{size=-6}Присвячений тобі..."
 
-# game/game/script.rpy:3572
+# game/game/script.rpy:3578
 translate ukrainian mother_dream_199aa1ab:
 
     # mom "My little crybaby..."
     mom "Маленький мій плаксійко..."
 
-# game/game/script.rpy:3573
+# game/game/script.rpy:3579
 translate ukrainian mother_dream_dcb76466:
 
     # mom "Even if I disappear."
     mom "Навіть якщо я зникну."
 
-# game/game/script.rpy:3575
+# game/game/script.rpy:3581
 translate ukrainian mother_dream_77445e38:
 
     # mom "You have to know that I'll always be with you."
     mom "Ти маєш знати: я завжди буду поруч з тобою."
 
-# game/game/script.rpy:3576
+# game/game/script.rpy:3582
 translate ukrainian mother_dream_ee62d3a4:
 
     # mom "As long as you have me in your memory, I'll never disappear."
     mom "Допоки ти пам'ятаєш про мене, я ніколи не зникну."
 
-# game/game/script.rpy:3577
+# game/game/script.rpy:3583
 translate ukrainian mother_dream_89d29ebf:
 
     # mc "Mom?"
     mc "Мамо?"
 
-# game/game/script.rpy:3579
+# game/game/script.rpy:3585
 translate ukrainian mother_dream_ae91681e_1:
 
     # mom "Yes?"
     mom "Так?"
 
-# game/game/script.rpy:3580
+# game/game/script.rpy:3586
 translate ukrainian mother_dream_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3581
+# game/game/script.rpy:3587
 translate ukrainian mother_dream_12044a63:
 
     # mc "Did you really die?"
     mc "Ти справді померла?"
 
-# game/game/script.rpy:3582
+# game/game/script.rpy:3588
 translate ukrainian mother_dream_09a776cb:
 
     # mom "I-"
     mom "Я-"
 
-# game/game/script.rpy:3584
+# game/game/script.rpy:3590
 translate ukrainian mother_dream_851051d1:
 
     # mc "Mom!?"
-    mc "Мамо!?"
+    mc "Мамо!?" with vpunch
 
-# game/game/script.rpy:3588
+# game/game/script.rpy:3594
 translate ukrainian mother_dream_b2b9e19d:
 
     # mc "What do you mean?"
     mc "Про що це ти?"
 
-# game/game/script.rpy:3594
+# game/game/script.rpy:3600
 translate ukrainian mother_dream_c490201b:
 
     # mc "{size=-5}You..."
     mc "{size=-5}Ти..."
 
-# game/game/script.rpy:3600
+# game/game/script.rpy:3606
 translate ukrainian mother_dream_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:3602
+# game/game/script.rpy:3608
 translate ukrainian mother_dream_38f1a25f:
 
     # t "What..."
     t "Що..."
 
-# game/game/script.rpy:3603
+# game/game/script.rpy:3609
 translate ukrainian mother_dream_d0dcf98a:
 
     # t "What a strange dream..."
     t "Який дивний сон..."
 
-# game/game/script.rpy:3605
+# game/game/script.rpy:3611
 translate ukrainian mother_dream_0707e878:
 
     # t "It has been a long time since I dreamed about my mother."
     t "Давно вже мені не снилася мама."
 
-# game/game/script.rpy:3606
+# game/game/script.rpy:3612
 translate ukrainian mother_dream_e4be6021:
 
     # mc "Sigh*"
     mc "{i}*Хааах*{/i}"
 
-# game/game/script.rpy:3607
+# game/game/script.rpy:3613
 translate ukrainian mother_dream_f165185b:
 
     # t "It felt very real."
     t "Усе здавалося таким справжнім."
 
-# game/game/script.rpy:3608
+# game/game/script.rpy:3614
 translate ukrainian mother_dream_1bb01731_4:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3609
+# game/game/script.rpy:3615
 translate ukrainian mother_dream_ff237ad0:
 
     # t "What was she going to tell me in the end?"
     t "Що вона хотіла сказати мені вкінці?"
 
-# game/game/script.rpy:3611
+# game/game/script.rpy:3617
 translate ukrainian mother_dream_1bb01731_5:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3612
+# game/game/script.rpy:3618
 translate ukrainian mother_dream_a4668dd0:
 
     # t "But the truth is, I no longer remember how she died..."
     t "Але правда в тому, що я вже не пам'ятаю, як вона померла..."
 
-# game/game/script.rpy:3613
+# game/game/script.rpy:3619
 translate ukrainian mother_dream_d8755c70:
 
     # t "Or rather... {w}did I ever remember that?"
     t "Або, точніше... {w}чи я взагалі коли-небудь пам'ятав про це?"
 
-# game/game/script.rpy:3614
+# game/game/script.rpy:3620
 translate ukrainian mother_dream_8bb23a12:
 
     # t "Maybe I can ask the goddesses..."
     t "Можливо, мені варто запитати про це в богинь..."
 
-# game/game/script.rpy:3615
+# game/game/script.rpy:3621
 translate ukrainian mother_dream_b77c7782:
 
     # t "I don't think they remember every soul they've ever seen but... {w}I wouldn't lose anything by asking them."
     t "Не думаю, що вони пам'ятають кожну душу, яку коли-небудь бачили, але... {w}Не спробую — не дізнаюся."
 
-# game/game/script.rpy:3616
+# game/game/script.rpy:3622
 translate ukrainian mother_dream_1bb01731_6:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3617
+# game/game/script.rpy:3623
 translate ukrainian mother_dream_0476ce90:
 
     # t "There must be a way to contact the goddesses without having to almost die."
     t "Має ж бути якийсь спосіб зв'язатися з богинями не тільки при смерті."
 
-# game/game/script.rpy:3618
+# game/game/script.rpy:3624
 translate ukrainian mother_dream_1bb01731_7:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3619
+# game/game/script.rpy:3625
 translate ukrainian mother_dream_4967ca39:
 
     # t "Maybe."
     t "Можливо."
 
-# game/game/script.rpy:3621
+# game/game/script.rpy:3627
 translate ukrainian mother_dream_3b76647a:
 
     # t "I could approach those stones where I first arrived..."
     t "Я міг би сходити до тих руїн, біля яких я вперше опинився..."
 
-# game/game/script.rpy:3640
+# game/game/script.rpy:3646
 translate ukrainian stone_mission_3ab93e2d:
 
     # nc "In the next version you'll be able to visit the goddesses!"
     nc "In the next version you'll be able to visit the goddesses!"
 
-# game/game/script.rpy:3641
+# game/game/script.rpy:3647
 translate ukrainian stone_mission_e8d52261:
 
     # nc "Sorry!"
     nc "Sorry!"
 
-# game/game/script.rpy:3656
+# game/game/script.rpy:3662
 translate ukrainian stone_teleport_fbee37e8:
 
     # r "{sc=1}{outlinecolor=#000000}Nom nom~"
     r "{sc=1}{outlinecolor=#000000}Nom nom~"
 
-# game/game/script.rpy:3657
+# game/game/script.rpy:3663
 translate ukrainian stone_teleport_44fc2972:
 
     # c "If you eat too much, you'll get sick."
     c "If you eat too much, you'll get sick."
 
-# game/game/script.rpy:3659
+# game/game/script.rpy:3665
 translate ukrainian stone_teleport_77eae1dc:
 
     # c "And you might gain some weight."
     c "And you might gain some weight."
 
-# game/game/script.rpy:3661
+# game/game/script.rpy:3667
 translate ukrainian stone_teleport_64061566:
 
     # r "{sc=2}{outlinecolor=#000000}What!?"
-    r "{sc=2}{outlinecolor=#000000}What!?"
+    r "{sc=2}{outlinecolor=#000000}What!?" with vpunch
 
-# game/game/script.rpy:3662
+# game/game/script.rpy:3668
 translate ukrainian stone_teleport_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:3663
+# game/game/script.rpy:3669
 translate ukrainian stone_teleport_171f1ff5:
 
     # t "A lot has happened lately."
     t "A lot has happened lately."
 
-# game/game/script.rpy:3666
+# game/game/script.rpy:3672
 translate ukrainian stone_teleport_8cdd1d3e:
 
     # t "Ryoko's been getting more and more motivated with her training."
     t "Ryoko's been getting more and more motivated with her training."
 
-# game/game/script.rpy:3667
+# game/game/script.rpy:3673
 translate ukrainian stone_teleport_32b2a1f1:
 
     # t "I never thought she'd pick it up so quickly."
     t "I never thought she'd pick it up so quickly."
 
-# game/game/script.rpy:3669
+# game/game/script.rpy:3675
 translate ukrainian stone_teleport_c0fdf6be:
 
     # t "Maybe I'm just saying that because it's her..."
     t "Maybe I'm just saying that because it's her..."
 
-# game/game/script.rpy:3670
+# game/game/script.rpy:3676
 translate ukrainian stone_teleport_d3f1bf3f:
 
     # t "But in a few years, she could become really strong."
     t "But in a few years, she could become really strong."
 
-# game/game/script.rpy:3673
+# game/game/script.rpy:3679
 translate ukrainian stone_teleport_b582c182:
 
     # t "Charlotte has also settled into the house pretty well."
     t "Charlotte has also settled into the house pretty well."
 
-# game/game/script.rpy:3674
+# game/game/script.rpy:3680
 translate ukrainian stone_teleport_7a28cac7:
 
     # t "At first she only came back at night, but now I see her hanging around the house a lot more."
     t "At first she only came back at night, but now I see her hanging around the house a lot more."
 
-# game/game/script.rpy:3680
+# game/game/script.rpy:3686
 translate ukrainian stone_teleport_691effc2:
 
     # t "She's been getting along really well with Ryoko."
     t "She's been getting along really well with Ryoko."
 
-# game/game/script.rpy:3682
+# game/game/script.rpy:3688
 translate ukrainian stone_teleport_1bb01731:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3684
+# game/game/script.rpy:3690
 translate ukrainian stone_teleport_71b6cacf:
 
     # t "But even though life feels peaceful, between fighting monsters and everything else-"
     t "But even though life feels peaceful, between fighting monsters and everything else-"
 
-# game/game/script.rpy:3685
+# game/game/script.rpy:3691
 translate ukrainian stone_teleport_93684a4d:
 
     # t "there's still this weight on my mind that just won't go away."
     t "there's still this weight on my mind that just won't go away."
 
-# game/game/script.rpy:3686
+# game/game/script.rpy:3692
 translate ukrainian stone_teleport_fc3a95ab:
 
     # r "Master?"
     r "Master?"
 
-# game/game/script.rpy:3687
+# game/game/script.rpy:3693
 translate ukrainian stone_teleport_034e6008:
 
     # mc "{size=-6}Sigh...*"
     mc "{size=-6}Sigh...*"
 
-# game/game/script.rpy:3688
+# game/game/script.rpy:3694
 translate ukrainian stone_teleport_ad5f277d:
 
     # c "Human?"
     c "Human?"
 
-# game/game/script.rpy:3689
+# game/game/script.rpy:3695
 translate ukrainian stone_teleport_4bbea194:
 
     # c "What did you want to tell us?"
     c "What did you want to tell us?"
 
-# game/game/script.rpy:3691
+# game/game/script.rpy:3697
 translate ukrainian stone_teleport_842bb05a:
 
     # t "Even if nothing comes from visiting those stones, at least I'll have tried."
     t "Even if nothing comes from visiting those stones, at least I'll have tried."
 
-# game/game/script.rpy:3692
+# game/game/script.rpy:3698
 translate ukrainian stone_teleport_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
-# game/game/script.rpy:3693
+# game/game/script.rpy:3699
 translate ukrainian stone_teleport_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
-# game/game/script.rpy:3695
+# game/game/script.rpy:3701
 translate ukrainian stone_teleport_86319f4c:
 
     # r "{size=-6}He's lost in thought again."
     r "{size=-6}He's lost in thought again."
 
-# game/game/script.rpy:3696
+# game/game/script.rpy:3702
 translate ukrainian stone_teleport_1b5d8009:
 
     # t "It won't take me long now that I know the way better."
     t "It won't take me long now that I know the way better."
 
-# game/game/script.rpy:3697
+# game/game/script.rpy:3703
 translate ukrainian stone_teleport_573cf663:
 
     # c "{size=-6}Or maybe the human just doesn't like rice."
     c "{size=-6}Or maybe the human just doesn't like rice."
 
-# game/game/script.rpy:3698
+# game/game/script.rpy:3704
 translate ukrainian stone_teleport_0e0895f1:
 
     # t "And now that most of the path is safe, it won't be as dangerous as before."
     t "And now that most of the path is safe, it won't be as dangerous as before."
 
-# game/game/script.rpy:3699
+# game/game/script.rpy:3705
 translate ukrainian stone_teleport_6947b42d:
 
     # t "I'll still be careful, though."
     t "I'll still be careful, though."
 
-# game/game/script.rpy:3701
+# game/game/script.rpy:3707
 translate ukrainian stone_teleport_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3702
+# game/game/script.rpy:3708
 translate ukrainian stone_teleport_f0c78c10_1:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
-# game/game/script.rpy:3703
+# game/game/script.rpy:3709
 translate ukrainian stone_teleport_3ff4bc74_1:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
-# game/game/script.rpy:3705
+# game/game/script.rpy:3711
 translate ukrainian stone_teleport_3c7db9cf:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Nom..."
     mc "{sc=1}{outlinecolor=#000000}{size=-6}Nom..."
 
-# game/game/script.rpy:3706
+# game/game/script.rpy:3712
 translate ukrainian stone_teleport_1d37a04f:
 
     # c "...!"
-    c "...!"
+    c "...!" (multiple=2)
 
-# game/game/script.rpy:3707
+# game/game/script.rpy:3713
 translate ukrainian stone_teleport_675c115c:
 
     # r "...!"
-    r "...!"
+    r "...!" (multiple=2)
 
-# game/game/script.rpy:3708
+# game/game/script.rpy:3714
 translate ukrainian stone_teleport_7e07bcc7:
 
     # r "I wanna do it too!"
     r "I wanna do it too!"
 
-# game/game/script.rpy:3710
+# game/game/script.rpy:3716
 translate ukrainian stone_teleport_48b35c1f:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-6}Munch... munch..."
     mc "{sc=1}{outlinecolor=#000000}{size=-6}Munch... munch..."
 
-# game/game/script.rpy:3711
+# game/game/script.rpy:3717
 translate ukrainian stone_teleport_241e00c5:
 
     # r "{sc=1}{outlinecolor=#000000}{size=-8}Fuuh~"
     r "{sc=1}{outlinecolor=#000000}{size=-8}Fuuh~"
 
-# game/game/script.rpy:3713
+# game/game/script.rpy:3719
 translate ukrainian stone_teleport_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:3714
+# game/game/script.rpy:3720
 translate ukrainian stone_teleport_1e665559:
 
     # c "Hmm..."
     c "Hmm..."
 
-# game/game/script.rpy:3716
+# game/game/script.rpy:3722
 translate ukrainian stone_teleport_e2e8c028:
 
     # mc "{size=-6}Slurp...*"
     mc "{size=-6}Slurp...*"
 
-# game/game/script.rpy:3717
+# game/game/script.rpy:3723
 translate ukrainian stone_teleport_59d862c9:
 
     # r "Oh!"
     r "Oh!"
 
-# game/game/script.rpy:3718
+# game/game/script.rpy:3724
 translate ukrainian stone_teleport_820f4272:
 
     # r "I've never seen him so deep in thought!"
     r "I've never seen him so deep in thought!"
 
-# game/game/script.rpy:3719
+# game/game/script.rpy:3725
 translate ukrainian stone_teleport_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3720
+# game/game/script.rpy:3726
 translate ukrainian stone_teleport_ddbb9ad0:
 
     # c "This is weird."
     c "This is weird."
 
-# game/game/script.rpy:3721
+# game/game/script.rpy:3727
 translate ukrainian stone_teleport_3f871f46:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/script.rpy:3723
+# game/game/script.rpy:3729
 translate ukrainian stone_teleport_b60325c7:
 
     # mc "Girls?"
     mc "Girls?"
 
-# game/game/script.rpy:3724
+# game/game/script.rpy:3730
 translate ukrainian stone_teleport_422d11ba:
 
     # r "Are you okay?"
     r "Are you okay?"
 
-# game/game/script.rpy:3725
+# game/game/script.rpy:3731
 translate ukrainian stone_teleport_df8b12c9:
 
     # c "You've been spacing out for a while."
     c "You've been spacing out for a while."
 
-# game/game/script.rpy:3726
+# game/game/script.rpy:3732
 translate ukrainian stone_teleport_4b26ca9e:
 
     # mc "Oh, sorry. I was just remembering something..."
     mc "Oh, sorry. I was just remembering something..."
 
-# game/game/script.rpy:3727
+# game/game/script.rpy:3733
 translate ukrainian stone_teleport_f629b3cb:
 
     # c "So, what did you want to tell us?"
     c "So, what did you want to tell us?"
 
-# game/game/script.rpy:3728
+# game/game/script.rpy:3734
 translate ukrainian stone_teleport_adc50327:
 
     # mc "Ah, right."
     mc "Ah, right."
 
-# game/game/script.rpy:3729
+# game/game/script.rpy:3735
 translate ukrainian stone_teleport_83d4c9d1:
 
     # mc "Ryoko, do you remember where we first met?"
     mc "Ryoko, do you remember where we first met?"
 
-# game/game/script.rpy:3731
+# game/game/script.rpy:3737
 translate ukrainian stone_teleport_947f47cd:
 
     # r "Of course!"
     r "Of course!"
 
-# game/game/script.rpy:3732
+# game/game/script.rpy:3738
 translate ukrainian stone_teleport_1e3f7f63:
 
     # mc "I'm going back there."
     mc "I'm going back there."
 
-# game/game/script.rpy:3733
+# game/game/script.rpy:3739
 translate ukrainian stone_teleport_d3f8a51c:
 
     # c "Where exactly?"
     c "Where exactly?"
 
-# game/game/script.rpy:3734
+# game/game/script.rpy:3740
 translate ukrainian stone_teleport_5921b9fb:
 
     # r "It was near some strange stones."
     r "It was near some strange stones."
 
-# game/game/script.rpy:3735
+# game/game/script.rpy:3741
 translate ukrainian stone_teleport_bbdea444:
 
     # c "Stones?"
     c "Stones?"
 
-# game/game/script.rpy:3736
+# game/game/script.rpy:3742
 translate ukrainian stone_teleport_44031c80:
 
     # mc "I'll go and come back quickly."
     mc "I'll go and come back quickly."
 
-# game/game/script.rpy:3738
+# game/game/script.rpy:3744
 translate ukrainian stone_teleport_36b29a5a:
 
     # c "Are you going alone?"
     c "Are you going alone?"
 
-# game/game/script.rpy:3739
+# game/game/script.rpy:3745
 translate ukrainian stone_teleport_4212ca27:
 
     # r "I could go with you."
     r "I could go with you."
 
-# game/game/script.rpy:3741
+# game/game/script.rpy:3747
 translate ukrainian stone_teleport_35755ed2:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." with vpunch
 
-# game/game/script.rpy:3742
+# game/game/script.rpy:3748
 translate ukrainian stone_teleport_644beaa3:
 
     # mc "I'm really glad to have people who care about me."
     mc "I'm really glad to have people who care about me."
 
-# game/game/script.rpy:3743
+# game/game/script.rpy:3749
 translate ukrainian stone_teleport_d19f855d:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:3744
+# game/game/script.rpy:3750
 translate ukrainian stone_teleport_b3a937f1:
 
     # mc "Don't worry. Now that the area's safer, I shouldn't run into any trouble."
     mc "Don't worry. Now that the area's safer, I shouldn't run into any trouble."
 
-# game/game/script.rpy:3745
+# game/game/script.rpy:3751
 translate ukrainian stone_teleport_d2e246c7:
 
     # mc "It's just a bit farther than the lake. I won't be long."
     mc "It's just a bit farther than the lake. I won't be long."
 
-# game/game/script.rpy:3746
+# game/game/script.rpy:3752
 translate ukrainian stone_teleport_a0a57f60:
 
     # t "Even if it's close, I don't want anything happening to either of them."
     t "Even if it's close, I don't want anything happening to either of them."
 
-# game/game/script.rpy:3748
+# game/game/script.rpy:3754
 translate ukrainian stone_teleport_f93cba98:
 
     # r "Master..."
     r "Master..."
 
-# game/game/script.rpy:3749
+# game/game/script.rpy:3755
 translate ukrainian stone_teleport_d95fd75e:
 
     # mc "I'll be back before nightfall."
     mc "I'll be back before nightfall."
 
-# game/game/script.rpy:3750
+# game/game/script.rpy:3756
 translate ukrainian stone_teleport_389197eb:
 
     # mc "Got it?"
     mc "Got it?"
 
-# game/game/script.rpy:3751
+# game/game/script.rpy:3757
 translate ukrainian stone_teleport_f0c78c10_2:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
-# game/game/script.rpy:3752
+# game/game/script.rpy:3758
 translate ukrainian stone_teleport_3ff4bc74_2:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
-# game/game/script.rpy:3754
+# game/game/script.rpy:3760
 translate ukrainian stone_teleport_3d9e1e7e:
 
     # r "Okay..."
     r "Okay..."
 
-# game/game/script.rpy:3755
+# game/game/script.rpy:3761
 translate ukrainian stone_teleport_d19f855d_1:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:3756
+# game/game/script.rpy:3762
 translate ukrainian stone_teleport_535746f0:
 
     # mc "Thanks, girls. {w}Take care of the house while I'm gone."
     mc "Thanks, girls. {w}Take care of the house while I'm gone."
 
-# game/game/script.rpy:3758
+# game/game/script.rpy:3764
 translate ukrainian stone_teleport_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3759
+# game/game/script.rpy:3765
 translate ukrainian stone_teleport_d1b9f8a1:
 
     # mc "Who ate all the rice balls?"
     mc "Who ate all the rice balls?"
 
-# game/game/script.rpy:3760
+# game/game/script.rpy:3766
 translate ukrainian stone_teleport_77006225:
 
     # c "Ryoko."
     c "Ryoko."
 
-# game/game/script.rpy:3761
+# game/game/script.rpy:3767
 translate ukrainian stone_teleport_ed031695:
 
     # r "{sc=1}{outlinecolor=#000000}What!?"
-    r "{sc=1}{outlinecolor=#000000}What!?"
+    r "{sc=1}{outlinecolor=#000000}What!?" with hpunch
 
-# game/game/script.rpy:3762
+# game/game/script.rpy:3768
 translate ukrainian stone_teleport_5d50ad10:
 
     # mc "Looks like I'll have to train you harder so you don't lose your stamina."
     mc "Looks like I'll have to train you harder so you don't lose your stamina."
 
-# game/game/script.rpy:3763
+# game/game/script.rpy:3769
 translate ukrainian stone_teleport_63f35271:
 
     # r "{sc=1}{outlinecolor=#000000}NooOoOOoo~"
-    r "{sc=1}{outlinecolor=#000000}NooOoOOoo~"
+    r "{sc=1}{outlinecolor=#000000}NooOoOOoo~" with vpunch
 
-# game/game/script.rpy:3764
+# game/game/script.rpy:3770
 translate ukrainian stone_teleport_2daa3df1:
 
     # c "{size=-8}Heh.."
     c "{size=-8}Heh.."
 
-# game/game/script.rpy:3765
+# game/game/script.rpy:3771
 translate ukrainian stone_teleport_411ebef2:
 
     # mc "And Charlotte will join in for just watching and doing nothing."
     mc "And Charlotte will join in for just watching and doing nothing."
 
-# game/game/script.rpy:3766
+# game/game/script.rpy:3772
 translate ukrainian stone_teleport_327a70b0:
 
     # c "{sc=1}{outlinecolor=#000000}{size=-8}Wha!"
-    c "{sc=1}{outlinecolor=#000000}{size=-8}Wha!"
+    c "{sc=1}{outlinecolor=#000000}{size=-8}Wha!" with hpunch
 
-# game/game/script.rpy:3768
+# game/game/script.rpy:3774
 translate ukrainian stone_teleport_f73361ab:
 
     # c "{sc=2}{outlinecolor=#000000}Hahaha."
-    c "{sc=2}{outlinecolor=#000000}Hahaha."
+    c "{sc=2}{outlinecolor=#000000}Hahaha." (multiple=2)
 
-# game/game/script.rpy:3769
+# game/game/script.rpy:3775
 translate ukrainian stone_teleport_7f06df9d:
 
     # r "{sc=2}{outlinecolor=#000000}Hahaha~"
-    r "{sc=2}{outlinecolor=#000000}Hahaha~"
+    r "{sc=2}{outlinecolor=#000000}Hahaha~" (multiple=3)
 
-# game/game/script.rpy:3770
+# game/game/script.rpy:3776
 translate ukrainian stone_teleport_b2f3dd6e:
 
     # mc "{sc=2}{outlinecolor=#000000}Hahaha."
     mc "{sc=2}{outlinecolor=#000000}Hahaha."
 
-# game/game/script.rpy:3775
+# game/game/script.rpy:3781
 translate ukrainian stone_teleport_bf771aeb:
 
     # mc "Why the long faces?"
     mc "Why the long faces?"
 
-# game/game/script.rpy:3776
+# game/game/script.rpy:3782
 translate ukrainian stone_teleport_b27a2731:
 
     # mc "It's just like going to the lake."
     mc "It's just like going to the lake."
 
-# game/game/script.rpy:3777
+# game/game/script.rpy:3783
 translate ukrainian stone_teleport_57b01703:
 
     # r "I don't know... I just have a bad feeling about this."
     r "I don't know... I just have a bad feeling about this."
 
-# game/game/script.rpy:3778
+# game/game/script.rpy:3784
 translate ukrainian stone_teleport_109a45bb:
 
     # mc "Maybe it's because we had to fight there before."
     mc "Maybe it's because we had to fight there before."
 
-# game/game/script.rpy:3779
+# game/game/script.rpy:3785
 translate ukrainian stone_teleport_eaa1a8eb:
 
     # mc "Don't worry, I'll be back as soon as I can."
     mc "Don't worry, I'll be back as soon as I can."
 
-# game/game/script.rpy:3780
+# game/game/script.rpy:3786
 translate ukrainian stone_teleport_d19f855d_2:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:3782
+# game/game/script.rpy:3788
 translate ukrainian stone_teleport_1ecb954e:
 
     # r "If you say so..."
     r "If you say so..."
 
-# game/game/script.rpy:3783
+# game/game/script.rpy:3789
 translate ukrainian stone_teleport_985b91bc:
 
     # c "Just don't let your guard down like you always do."
     c "Just don't let your guard down like you always do."
 
-# game/game/script.rpy:3784
+# game/game/script.rpy:3790
 translate ukrainian stone_teleport_35dce81c:
 
     # mc "Yes, ma'am."
     mc "Yes, ma'am."
 
-# game/game/script.rpy:3785
+# game/game/script.rpy:3791
 translate ukrainian stone_teleport_d19f855d_3:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:3787
+# game/game/script.rpy:3793
 translate ukrainian stone_teleport_266ab581:
 
     # c "And don't do anything stupid."
@@ -11441,571 +11441,571 @@ translate ukrainian stone_teleport_42f414c1:
     # mc "When have I ever done anythi-"
     mc "When have I ever done anythi-"
 
-# game/game/script.rpy:3790
+# game/game/script.rpy:3796
 translate ukrainian stone_teleport_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3791
+# game/game/script.rpy:3797
 translate ukrainian stone_teleport_625ee635:
 
     # mc "...Okay."
     mc "...Okay."
 
-# game/game/script.rpy:3793
+# game/game/script.rpy:3799
 translate ukrainian stone_teleport_e2fd6d11:
 
     # mc "See you later, girls."
     mc "See you later, girls."
 
-# game/game/script.rpy:3794
+# game/game/script.rpy:3800
 translate ukrainian stone_teleport_e81f1b1b:
 
     # r "Bye-bye, Master!"
     r "Bye-bye, Master!"
 
-# game/game/script.rpy:3795
+# game/game/script.rpy:3801
 translate ukrainian stone_teleport_d19f855d_4:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:3796
+# game/game/script.rpy:3802
 translate ukrainian stone_teleport_64b6585e:
 
     # c "Goodbye, Human."
     c "Goodbye, Human."
 
-# game/game/script.rpy:3801
+# game/game/script.rpy:3807
 translate ukrainian stone_teleport_ea8343c0:
 
     # mc "There it is."
     mc "There it is."
 
-# game/game/script.rpy:3802
+# game/game/script.rpy:3808
 translate ukrainian stone_teleport_15bcc50d:
 
     # t "Since I know the way now, it didn't take me long at all."
     t "Since I know the way now, it didn't take me long at all."
 
-# game/game/script.rpy:3803
+# game/game/script.rpy:3809
 translate ukrainian stone_teleport_577f33b3:
 
     # mc "Mmm..."
     mc "Mmm..."
 
-# game/game/script.rpy:3805
+# game/game/script.rpy:3811
 translate ukrainian stone_teleport_b6afabd0:
 
     # t "Seeing it again makes me feel like this was all just a dream..."
     t "Seeing it again makes me feel like this was all just a dream..."
 
-# game/game/script.rpy:3806
+# game/game/script.rpy:3812
 translate ukrainian stone_teleport_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3807
+# game/game/script.rpy:3813
 translate ukrainian stone_teleport_ab02e3e7:
 
     # t "So... what do I do now?"
     t "So... what do I do now?"
 
-# game/game/script.rpy:3809
+# game/game/script.rpy:3815
 translate ukrainian stone_teleport_9e1f941d:
 
     # t "All I see are simple ruins..."
     t "All I see are simple ruins..."
 
-# game/game/script.rpy:3810
+# game/game/script.rpy:3816
 translate ukrainian stone_teleport_546b4858:
 
     # t "Aside from those strange symbols..."
     t "Aside from those strange symbols..."
 
-# game/game/script.rpy:3811
+# game/game/script.rpy:3817
 translate ukrainian stone_teleport_1bb01731_1:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3813
+# game/game/script.rpy:3819
 translate ukrainian stone_teleport_034e6008_1:
 
     # mc "{size=-6}Sigh...*"
     mc "{size=-6}Sigh...*"
 
-# game/game/script.rpy:3814
+# game/game/script.rpy:3820
 translate ukrainian stone_teleport_93825326:
 
     # mc "I don't even know what I expected to happen."
     mc "I don't even know what I expected to happen."
 
-# game/game/script.rpy:3815
+# game/game/script.rpy:3821
 translate ukrainian stone_teleport_0b4bbe9d:
 
     # t "I should probably just head back home."
     t "I should probably just head back home."
 
-# game/game/script.rpy:3817
+# game/game/script.rpy:3823
 translate ukrainian stone_teleport_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:3818
+# game/game/script.rpy:3824
 translate ukrainian stone_teleport_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:3819
+# game/game/script.rpy:3825
 translate ukrainian stone_teleport_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:3820
+# game/game/script.rpy:3826
 translate ukrainian stone_teleport_339d12cd:
 
     # mc "{size=-6}What am I even doing..."
     mc "{size=-6}What am I even doing..."
 
-# game/game/script.rpy:3822
+# game/game/script.rpy:3828
 translate ukrainian stone_teleport_c1c88dd4:
 
     # t "Yeah, [mc]... {w}sitting here is really going to accomplish something."
     t "Yeah, [mc]... {w}sitting here is really going to accomplish something."
 
-# game/game/script.rpy:3823
+# game/game/script.rpy:3829
 translate ukrainian stone_teleport_733dc515:
 
     # t "I feel so stupid."
     t "I feel so stupid."
 
-# game/game/script.rpy:3824
+# game/game/script.rpy:3830
 translate ukrainian stone_teleport_1bb01731_2:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:3825
+# game/game/script.rpy:3831
 translate ukrainian stone_teleport_918ffa10:
 
     # t "What was that feeling I had when I first came here?"
     t "What was that feeling I had when I first came here?"
 
-# game/game/script.rpy:3827
+# game/game/script.rpy:3833
 translate ukrainian stone_teleport_629c8718:
 
     # t "It was like... floating."
     t "It was like... floating."
 
-# game/game/script.rpy:3832
+# game/game/script.rpy:3838
 translate ukrainian stone_teleport_d262792c:
 
     # t "My consciousness... and my soul..."
     t "My consciousness... and my soul..."
 
-# game/game/script.rpy:3834
+# game/game/script.rpy:3840
 translate ukrainian stone_teleport_aef64029:
 
     # t "How many goddesses are out there besides Keiko and Fumiko...?"
     t "How many goddesses are out there besides Keiko and Fumiko...?"
 
-# game/game/script.rpy:3836
+# game/game/script.rpy:3842
 translate ukrainian stone_teleport_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3839
+# game/game/script.rpy:3845
 translate ukrainian stone_teleport_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3840
+# game/game/script.rpy:3846
 translate ukrainian stone_teleport_aa9a34f3:
 
     # t "Well, whatever... {w}it's not like I thought I could just visit them whenever I wanted."
     t "Well, whatever... {w}it's not like I thought I could just visit them whenever I wanted."
 
-# game/game/script.rpy:3846
+# game/game/script.rpy:3852
 translate ukrainian sucu_lose_7e7230bf:
 
     # a "How did he get here?"
     a "How did he get here?"
 
-# game/game/script.rpy:3854
+# game/game/script.rpy:3860
 translate ukrainian sucu_start_fight_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3855
+# game/game/script.rpy:3861
 translate ukrainian sucu_start_fight_ec6771f8:
 
     # mc "What the-"
     mc "What the-"
 
-# game/game/script.rpy:3866
+# game/game/script.rpy:3872
 translate ukrainian sucu_start_fight_2d35f4c1:
 
     # t "{sc=2}{outlinecolor=#000000}Shit!{w=0.3}{nw}"
     t "{sc=2}{outlinecolor=#000000}Shit!{w=0.3}{nw}"
 
-# game/game/script.rpy:3867
+# game/game/script.rpy:3873
 translate ukrainian sucu_start_fight_294be5bb:
 
     # a "...!?"
     a "...!?"
 
-# game/game/script.rpy:3869
+# game/game/script.rpy:3875
 translate ukrainian sucu_start_fight_92871c46:
 
     # mc "What's going on?"
-    mc "What's going on?"
+    mc "What's going on?" with vpunch
 
-# game/game/script.rpy:3871
+# game/game/script.rpy:3877
 translate ukrainian sucu_start_fight_e874b6d0:
 
     # mc "...!!{w=0.3}{nw}"
     mc "...!!{w=0.3}{nw}"
 
-# game/game/script.rpy:3883
+# game/game/script.rpy:3889
 translate ukrainian sucu_start_fight_b86c42a6:
 
     # t "W-What's with this ridiculous strength? She just broke my guard!"
     t "W-What's with this ridiculous strength? She just broke my guard!"
 
-# game/game/script.rpy:3886
+# game/game/script.rpy:3892
 translate ukrainian sucu_start_fight_0b6d7461:
 
     # t "If she manages to land a direct hit on me, I'm done for!"
     t "If she manages to land a direct hit on me, I'm done for!"
 
-# game/game/script.rpy:3888
+# game/game/script.rpy:3894
 translate ukrainian sucu_start_fight_be3f1ba6:
 
     # t "It's going to be all or nothing!"
     t "It's going to be all or nothing!"
 
-# game/game/script.rpy:3897
+# game/game/script.rpy:3903
 translate ukrainian sucu_start_fight_b1af17da:
 
     # mc "{sc=2}{outlinecolor=#000000}G-Ghg! She almost broke my arms!{w=0.5}{nw}"
     mc "{sc=2}{outlinecolor=#000000}G-Ghg! She almost broke my arms!{w=0.5}{nw}"
 
-# game/game/script.rpy:3904
+# game/game/script.rpy:3910
 translate ukrainian sucu_start_fight_66869796:
 
     # t "{sc=2}{outlinecolor=#000000}M-My ribs!"
-    t "{sc=2}{outlinecolor=#000000}M-My ribs!"
+    t "{sc=2}{outlinecolor=#000000}M-My ribs!" (multiple=2)
 
-# game/game/script.rpy:3905
+# game/game/script.rpy:3911
 translate ukrainian sucu_start_fight_c95c4868:
 
     # a "{size=-6}How?"
-    a "{size=-6}How?"
+    a "{size=-6}How?" (multiple=2)
 
-# game/game/script.rpy:3906
+# game/game/script.rpy:3912
 translate ukrainian sucu_start_fight_2ef0eaec:
 
     # mc "I-I don't want to fight!"
-    mc "I-I don't want to fight!"
+    mc "I-I don't want to fight!" with hpunch
 
-# game/game/script.rpy:3912
+# game/game/script.rpy:3918
 translate ukrainian sucu_start_fight_a88646f4:
 
     # t "What is she doing?"
     t "What is she doing?"
 
-# game/game/script.rpy:3914
+# game/game/script.rpy:3920
 translate ukrainian sucu_start_fight_786a8a14:
 
     # t "That doesn't look like something I can stop by blocking..."
     t "That doesn't look like something I can stop by blocking..."
 
-# game/game/script.rpy:3917
+# game/game/script.rpy:3923
 translate ukrainian sucu_start_fight_bac5038b:
 
     # a "{sc=2}{outlinecolor=#000000}{size=+5}That's enough!"
-    a "{sc=2}{outlinecolor=#000000}{size=+5}That's enough!"
+    a "{sc=2}{outlinecolor=#000000}{size=+5}That's enough!" with hpunch
 
-# game/game/script.rpy:3918
+# game/game/script.rpy:3924
 translate ukrainian sucu_start_fight_bb8e4b4e:
 
     # a "..."
     a "..."
 
-# game/game/script.rpy:3919
+# game/game/script.rpy:3925
 translate ukrainian sucu_start_fight_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3924
+# game/game/script.rpy:3930
 translate ukrainian sucu_start_fight_28a08d44:
 
     # a "{size=-8}Sigh...~"
     a "{size=-8}Sigh...~"
 
-# game/game/script.rpy:3925
+# game/game/script.rpy:3931
 translate ukrainian sucu_start_fight_ac521013:
 
     # t "She canceled it..."
     t "She canceled it..."
 
-# game/game/script.rpy:3926
+# game/game/script.rpy:3932
 translate ukrainian sucu_start_fight_b05d64fb:
 
     # t "Whose voice was that?"
     t "Whose voice was that?"
 
-# game/game/script.rpy:3928
+# game/game/script.rpy:3934
 translate ukrainian sucu_start_fight_506c8fd0:
 
     # mc "Err.."
     mc "Err.."
 
-# game/game/script.rpy:3929
+# game/game/script.rpy:3935
 translate ukrainian sucu_start_fight_bb8e4b4e_1:
 
     # a "..."
     a "..."
 
-# game/game/script.rpy:3931
+# game/game/script.rpy:3937
 translate ukrainian sucu_start_fight_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3932
+# game/game/script.rpy:3938
 translate ukrainian sucu_start_fight_3421f223:
 
     # mc "...I-"
     mc "...I-"
 
-# game/game/script.rpy:3934
+# game/game/script.rpy:3940
 translate ukrainian sucu_start_fight_dab9f8c2:
 
     # t "And she just walks away?"
     t "And she just walks away?"
 
-# game/game/script.rpy:3935
+# game/game/script.rpy:3941
 translate ukrainian sucu_start_fight_337b41fa:
 
     # t "Where the hell am I?"
     t "Where the hell am I?"
 
-# game/game/script.rpy:3936
+# game/game/script.rpy:3942
 translate ukrainian sucu_start_fight_2afd72b4:
 
     # t "That girl was way too strong... {w}If we had kept fighting, I would've-"
     t "That girl was way too strong... {w}If we had kept fighting, I would've-"
 
-# game/game/script.rpy:3941
+# game/game/script.rpy:3947
 translate ukrainian sucu_start_fight_a46cdbfb:
 
     # t "What is this place...?"
     t "What is this place...?"
 
-# game/game/script.rpy:3942
+# game/game/script.rpy:3948
 translate ukrainian sucu_start_fight_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3943
+# game/game/script.rpy:3949
 translate ukrainian sucu_start_fight_e52f8761:
 
     # a "{size=+6}Aren't you going to come closer, little mortal?"
     a "{size=+6}Aren't you going to come closer, little mortal?"
 
-# game/game/script.rpy:3945
+# game/game/script.rpy:3951
 translate ukrainian sucu_start_fight_729c5748:
 
     # a "{size=+6}Come on, don't be shy."
     a "{size=+6}Come on, don't be shy."
 
-# game/game/script.rpy:3946
+# game/game/script.rpy:3952
 translate ukrainian sucu_start_fight_a3c394ca:
 
     # a "If you don't, {w}I might just finish that fight you were about to lose."
     a "If you don't, {w}I might just finish that fight you were about to lose."
 
-# game/game/script.rpy:3947
+# game/game/script.rpy:3953
 translate ukrainian sucu_start_fight_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3949
+# game/game/script.rpy:3955
 translate ukrainian sucu_start_fight_47570768:
 
     # a "That's better."
     a "That's better."
 
-# game/game/script.rpy:3950
+# game/game/script.rpy:3956
 translate ukrainian sucu_start_fight_d04440f2:
 
     # t "I-I really don't think I should be here..."
     t "I-I really don't think I should be here..."
 
-# game/game/script.rpy:3952
+# game/game/script.rpy:3958
 translate ukrainian sucu_start_fight_481b7920:
 
     # t "Those wings... {w}they're different from what I'm used to seeing..."
     t "Those wings... {w}they're different from what I'm used to seeing..."
 
-# game/game/script.rpy:3953
+# game/game/script.rpy:3959
 translate ukrainian sucu_start_fight_2b37a407:
 
     # a "Yuuka, {w}why don't you pour our guest a cup of tea?"
     a "Yuuka, {w}why don't you pour our guest a cup of tea?"
 
-# game/game/script.rpy:3954
+# game/game/script.rpy:3960
 translate ukrainian sucu_start_fight_d9849639:
 
     # yu "Yes."
     yu "Yes."
 
-# game/game/script.rpy:3955
+# game/game/script.rpy:3961
 translate ukrainian sucu_start_fight_e3e3405e:
 
     # a "Will you just stand there, or are you going to sit down?"
     a "Will you just stand there, or are you going to sit down?"
 
-# game/game/script.rpy:3956
+# game/game/script.rpy:3962
 translate ukrainian sucu_start_fight_fee53f69:
 
     # t "I feel completely out of place..."
     t "I feel completely out of place..."
 
-# game/game/script.rpy:3958
+# game/game/script.rpy:3964
 translate ukrainian sucu_start_fight_997a27e3:
 
     # mc "Excuse me..."
     mc "Excuse me..."
 
-# game/game/script.rpy:3959
+# game/game/script.rpy:3965
 translate ukrainian sucu_start_fight_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:3960
+# game/game/script.rpy:3966
 translate ukrainian sucu_start_fight_7246fd5c:
 
     # a "Don't you think you should introduce yourself?"
     a "Don't you think you should introduce yourself?"
 
-# game/game/script.rpy:3961
+# game/game/script.rpy:3967
 translate ukrainian sucu_start_fight_c1dff962:
 
     # mc "Oh..."
     mc "Oh..."
 
-# game/game/script.rpy:3963
+# game/game/script.rpy:3969
 translate ukrainian sucu_start_fight_0ec8d7f8:
 
     # mc "My name is..."
     mc "My name is..."
 
-# game/game/script.rpy:3965
+# game/game/script.rpy:3971
 translate ukrainian sucu_start_fight_7c72d6ee:
 
     # mc "[mc]..."
     mc "[mc]..."
 
-# game/game/script.rpy:3967
+# game/game/script.rpy:3973
 translate ukrainian sucu_start_fight_641d9cbb:
 
     # a "Tell me, [mc]... {w}why are you trespassing in my house?"
     a "Tell me, [mc]... {w}why are you trespassing in my house?"
 
-# game/game/script.rpy:3968
+# game/game/script.rpy:3974
 translate ukrainian sucu_start_fight_5b164fea:
 
     # mc "T-Trespassing?!"
     mc "T-Trespassing?!"
 
-# game/game/script.rpy:3969
+# game/game/script.rpy:3975
 translate ukrainian sucu_start_fight_2f5bbb56:
 
     # mc "I swear, that wasn't my intention."
     mc "I swear, that wasn't my intention."
 
-# game/game/script.rpy:3970
+# game/game/script.rpy:3976
 translate ukrainian sucu_start_fight_07629b99:
 
     # mc "I-I don't even know how I ended up here..."
     mc "I-I don't even know how I ended up here..."
 
-# game/game/script.rpy:3972
+# game/game/script.rpy:3978
 translate ukrainian sucu_start_fight_bb8e4b4e_2:
 
     # a "..."
     a "..."
 
-# game/game/script.rpy:3973
+# game/game/script.rpy:3979
 translate ukrainian sucu_start_fight_52e4decb:
 
     # t "Her presence... {w}it's so overwhelming..."
     t "Her presence... {w}it's so overwhelming..."
 
-# game/game/script.rpy:3974
+# game/game/script.rpy:3980
 translate ukrainian sucu_start_fight_8e6c7268:
 
     # mc "You haven't told me your name..."
     mc "You haven't told me your name..."
 
-# game/game/script.rpy:3976
+# game/game/script.rpy:3982
 translate ukrainian sucu_start_fight_6613fc79:
 
     # a "Oh, {w}what bad manners I have."
     a "Oh, {w}what bad manners I have."
 
-# game/game/script.rpy:3978
+# game/game/script.rpy:3984
 translate ukrainian sucu_start_fight_2509d2a0:
 
     # yu "Excuse me."
     yu "Excuse me."
 
-# game/game/script.rpy:3980
+# game/game/script.rpy:3986
 translate ukrainian sucu_start_fight_74c921c5:
 
     # hi "I'm the great and beautiful goddess Hikari."
     hi "I'm the great and beautiful goddess Hikari."
 
-# game/game/script.rpy:3981
+# game/game/script.rpy:3987
 translate ukrainian sucu_start_fight_1590603e:
 
     # hi "And this is Yuuka, {w}my maid."
     hi "And this is Yuuka, {w}my maid."
 
-# game/game/script.rpy:3983
+# game/game/script.rpy:3989
 translate ukrainian sucu_start_fight_ea750ef3:
 
     # mc "Thank you... {w}Yuuka."
     mc "Thank you... {w}Yuuka."
 
-# game/game/script.rpy:3984
+# game/game/script.rpy:3990
 translate ukrainian sucu_start_fight_38fb3ce7:
 
     # yu "..."
     yu "..."
 
-# game/game/script.rpy:3985
+# game/game/script.rpy:3991
 translate ukrainian sucu_start_fight_16f3043e:
 
     # t "Why are they staring at me like that...?"
     t "Why are they staring at me like that...?"
 
-# game/game/script.rpy:3986
+# game/game/script.rpy:3992
 translate ukrainian sucu_start_fight_b1750048:
 
     # t "I really hope she didn't put anything weird in this tea..."
@@ -12017,901 +12017,901 @@ translate ukrainian sucu_start_fight_30366e1b:
     # t "It's delici-"
     t "It's delici-"
 
-# game/game/script.rpy:3989
+# game/game/script.rpy:3995
 translate ukrainian sucu_start_fight_c4202957:
 
     # hi "Yuuka, you'll have to die."
     hi "Yuuka, you'll have to die."
 
-# game/game/script.rpy:3992
+# game/game/script.rpy:3998
 translate ukrainian sucu_start_fight_98f9e683:
 
     # mc "{sc=2}{outlinecolor=#000000}CoOugh* Couugh* C-Cough!"
-    mc "{sc=2}{outlinecolor=#000000}CoOugh* Couugh* C-Cough!"
+    mc "{sc=2}{outlinecolor=#000000}CoOugh* Couugh* C-Cough!" with hpunch
 
-# game/game/script.rpy:3993
+# game/game/script.rpy:3999
 translate ukrainian sucu_start_fight_d3ced7f8:
 
     # yu "As you command."
     yu "As you command."
 
-# game/game/script.rpy:3994
+# game/game/script.rpy:4000
 translate ukrainian sucu_start_fight_3c5e528e:
 
     # hi "Are you alright?"
     hi "Are you alright?"
 
-# game/game/script.rpy:3996
+# game/game/script.rpy:4002
 translate ukrainian sucu_start_fight_bf0fde6d:
 
     # mc "W-Why does Yuuka have to die?!"
     mc "W-Why does Yuuka have to die?!"
 
-# game/game/script.rpy:3997
+# game/game/script.rpy:4003
 translate ukrainian sucu_start_fight_99ddff2f:
 
     # hi "Why? You ask."
     hi "Why? You ask."
 
-# game/game/script.rpy:3998
+# game/game/script.rpy:4004
 translate ukrainian sucu_start_fight_bb91d276:
 
     # hi "Her only job is to not let anyone into this place."
     hi "Her only job is to not let anyone into this place."
 
-# game/game/script.rpy:4000
+# game/game/script.rpy:4006
 translate ukrainian sucu_start_fight_19fd8ba6:
 
     # hi "Since she wasn't able to fulfill it, she's no longer of any use to me."
     hi "Since she wasn't able to fulfill it, she's no longer of any use to me."
 
-# game/game/script.rpy:4001
+# game/game/script.rpy:4007
 translate ukrainian sucu_start_fight_38fb3ce7_1:
 
     # yu "..."
     yu "..."
 
-# game/game/script.rpy:4002
+# game/game/script.rpy:4008
 translate ukrainian sucu_start_fight_974b9837:
 
     # mc "B-But even I don't know how I got here."
     mc "B-But even I don't know how I got here."
 
-# game/game/script.rpy:4004
+# game/game/script.rpy:4010
 translate ukrainian sucu_start_fight_1e01469b:
 
     # hi "But even so, {w}she couldn't defeat a mere mortal in seconds."
     hi "But even so, {w}she couldn't defeat a mere mortal in seconds."
 
-# game/game/script.rpy:4005
+# game/game/script.rpy:4011
 translate ukrainian sucu_start_fight_93a01385:
 
     # mc "Don't you think that decision is a bit drastic?"
     mc "Don't you think that decision is a bit drastic?"
 
-# game/game/script.rpy:4007
+# game/game/script.rpy:4013
 translate ukrainian sucu_start_fight_f3cf9eea:
 
     # hi "Mmm..."
     hi "Mmm..."
 
-# game/game/script.rpy:4008
+# game/game/script.rpy:4014
 translate ukrainian sucu_start_fight_38fb3ce7_2:
 
     # yu "..."
     yu "..."
 
-# game/game/script.rpy:4009
+# game/game/script.rpy:4015
 translate ukrainian sucu_start_fight_ac625f3f:
 
     # hi "It's a tedious job to create another maid..."
     hi "It's a tedious job to create another maid..."
 
-# game/game/script.rpy:4010
+# game/game/script.rpy:4016
 translate ukrainian sucu_start_fight_3fbffa09:
 
     # t "Create?"
     t "Create?"
 
-# game/game/script.rpy:4011
+# game/game/script.rpy:4017
 translate ukrainian sucu_start_fight_eaa0fc66:
 
     # hi "I'll think about it for a moment."
     hi "I'll think about it for a moment."
 
-# game/game/script.rpy:4012
+# game/game/script.rpy:4018
 translate ukrainian sucu_start_fight_d9849639_1:
 
     # yu "Yes."
     yu "Yes."
 
-# game/game/script.rpy:4014
+# game/game/script.rpy:4020
 translate ukrainian sucu_start_fight_f39e30da:
 
     # hi "Now tell me, how did you get here."
     hi "Now tell me, how did you get here."
 
-# game/game/script.rpy:4015
+# game/game/script.rpy:4021
 translate ukrainian sucu_start_fight_f71ce09e:
 
     # t "She got serious out of nowhere..."
     t "She got serious out of nowhere..."
 
-# game/game/script.rpy:4016
+# game/game/script.rpy:4022
 translate ukrainian sucu_start_fight_dc98908a:
 
     # mc "I was..."
     mc "I was..."
 
-# game/game/script.rpy:4017
+# game/game/script.rpy:4023
 translate ukrainian sucu_start_fight_e421a47e:
 
     # t "Keiko told me that the other goddesses shouldn't know about me..."
     t "Keiko told me that the other goddesses shouldn't know about me..."
 
-# game/game/script.rpy:4018
+# game/game/script.rpy:4024
 translate ukrainian sucu_start_fight_37b91272:
 
     # t "So I can't tell her that I was looking for her..."
     t "So I can't tell her that I was looking for her..."
 
-# game/game/script.rpy:4019
+# game/game/script.rpy:4025
 translate ukrainian sucu_start_fight_cd30f20d:
 
     # mc "It turns out that I was walking through a forest and I found some strange stones with some strange symbols on them..."
     mc "It turns out that I was walking through a forest and I found some strange stones with some strange symbols on them..."
 
-# game/game/script.rpy:4020
+# game/game/script.rpy:4026
 translate ukrainian sucu_start_fight_140361b4:
 
     # mc "I-I sat down to rest there, and when I opened my eyes I was here..."
     mc "I-I sat down to rest there, and when I opened my eyes I was here..."
 
-# game/game/script.rpy:4022
+# game/game/script.rpy:4028
 translate ukrainian sucu_start_fight_0c9d21c9:
 
     # hi "Stones with symbols?"
     hi "Stones with symbols?"
 
-# game/game/script.rpy:4023
+# game/game/script.rpy:4029
 translate ukrainian sucu_start_fight_ba78d096:
 
     # hi "The summoning portals?"
     hi "The summoning portals?"
 
-# game/game/script.rpy:4025
+# game/game/script.rpy:4031
 translate ukrainian sucu_start_fight_984a61c6:
 
     # yu "I believe there are still remnants scattered around that world."
     yu "I believe there are still remnants scattered around that world."
 
-# game/game/script.rpy:4027
+# game/game/script.rpy:4033
 translate ukrainian sucu_start_fight_ec18d37f:
 
     # hi "Hmm..."
     hi "Hmm..."
 
-# game/game/script.rpy:4032
+# game/game/script.rpy:4038
 translate ukrainian sucu_start_fight_dfb314ba:
 
     # hi "Will you please stop with your stupid lies?"
     hi "Will you please stop with your stupid lies?"
 
-# game/game/script.rpy:4033
+# game/game/script.rpy:4039
 translate ukrainian sucu_start_fight_41572e4f:
 
     # mc "W-What do you mean...?"
     mc "W-What do you mean...?"
 
-# game/game/script.rpy:4034
+# game/game/script.rpy:4040
 translate ukrainian sucu_start_fight_8374537d:
 
     # hi "You were able to use a summoning portal to get here."
     hi "You were able to use a summoning portal to get here."
 
-# game/game/script.rpy:4036
+# game/game/script.rpy:4042
 translate ukrainian sucu_start_fight_d1d5711c:
 
     # hi "You were able to stop my maid's attacks."
     hi "You were able to stop my maid's attacks."
 
-# game/game/script.rpy:4037
+# game/game/script.rpy:4043
 translate ukrainian sucu_start_fight_64aaa879:
 
     # hi "And aren't you surprised to see a goddess?"
     hi "And aren't you surprised to see a goddess?"
 
-# game/game/script.rpy:4039
+# game/game/script.rpy:4045
 translate ukrainian sucu_start_fight_3460278a:
 
     # hi "Do you think I'm stupid?"
     hi "Do you think I'm stupid?"
 
-# game/game/script.rpy:4040
+# game/game/script.rpy:4046
 translate ukrainian sucu_start_fight_a8ae7eb1:
 
     # t "She's right. I think I acted way more clueless than a normal person would in this situation."
     t "She's right. I think I acted way more clueless than a normal person would in this situation."
 
-# game/game/script.rpy:4041
+# game/game/script.rpy:4047
 translate ukrainian sucu_start_fight_3468e351:
 
     # t "I was so bewildered that I forgot to pretend."
     t "I was so bewildered that I forgot to pretend."
 
-# game/game/script.rpy:4043
+# game/game/script.rpy:4049
 translate ukrainian sucu_start_fight_73c77849:
 
     # hi "You're useless now, {w}step aside."
     hi "You're useless now, {w}step aside."
 
-# game/game/script.rpy:4044
+# game/game/script.rpy:4050
 translate ukrainian sucu_start_fight_5d2c53b3:
 
     # yu "Sorry."
     yu "Sorry."
 
-# game/game/script.rpy:4045
+# game/game/script.rpy:4051
 translate ukrainian sucu_start_fight_7260f128:
 
     # t "The personality of this goddess changed completely..."
     t "The personality of this goddess changed completely..."
 
-# game/game/script.rpy:4047
+# game/game/script.rpy:4053
 translate ukrainian sucu_start_fight_72936386:
 
     # hi "Having to see someone related to that woman again."
     hi "Having to see someone related to that woman again."
 
-# game/game/script.rpy:4048
+# game/game/script.rpy:4054
 translate ukrainian sucu_start_fight_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/game/script.rpy:4049
+# game/game/script.rpy:4055
 translate ukrainian sucu_start_fight_50e7e6fa:
 
     # hi "But I don't see anything great in you."
     hi "But I don't see anything great in you."
 
-# game/game/script.rpy:4051
+# game/game/script.rpy:4057
 translate ukrainian sucu_start_fight_12c6368b:
 
     # hi "Hahaha!! {w}This is what she earned for breaking the rules!"
-    hi "Hahaha!! {w}This is what she earned for breaking the rules!"
+    hi "Hahaha!! {w}This is what she earned for breaking the rules!" with vpunch
 
-# game/game/script.rpy:4053
+# game/game/script.rpy:4059
 translate ukrainian sucu_start_fight_ec382866:
 
     # mc "I don't-"
     mc "I don't-"
 
-# game/game/script.rpy:4054
+# game/game/script.rpy:4060
 translate ukrainian sucu_start_fight_1e2278c1:
 
     # mc "I-I don't understand anything you're saying..."
     mc "I-I don't understand anything you're saying..."
 
-# game/game/script.rpy:4056
+# game/game/script.rpy:4062
 translate ukrainian sucu_start_fight_fa54563d:
 
     # hi "Don't play dumb, mortal-"
     hi "Don't play dumb, mortal-"
 
-# game/game/script.rpy:4057
+# game/game/script.rpy:4063
 translate ukrainian sucu_start_fight_5e181dc1:
 
     # hi "..."
     hi "..."
 
-# game/game/script.rpy:4059
+# game/game/script.rpy:4065
 translate ukrainian sucu_start_fight_9fc3641e:
 
     # hi "Wait."
     hi "Wait."
 
-# game/game/script.rpy:4060
+# game/game/script.rpy:4066
 translate ukrainian sucu_start_fight_4ca80011:
 
     # hi "You really don't remember anything?"
     hi "You really don't remember anything?"
 
-# game/game/script.rpy:4061
+# game/game/script.rpy:4067
 translate ukrainian sucu_start_fight_7a9ff6a4:
 
     # hi "Is this their way of protecting you?"
     hi "Is this their way of protecting you?"
 
-# game/game/script.rpy:4062
+# game/game/script.rpy:4068
 translate ukrainian sucu_start_fight_86c91b20:
 
     # hi "Or perhaps she wanted to protect herself, which, given how selfish she is, I wouldn't doubt."
     hi "Or perhaps she wanted to protect herself, which, given how selfish she is, I wouldn't doubt."
 
-# game/game/script.rpy:4064
+# game/game/script.rpy:4070
 translate ukrainian sucu_start_fight_9b05794e:
 
     # hi "Haven't you found anything that made you doubt all these years?"
     hi "Haven't you found anything that made you doubt all these years?"
 
-# game/game/script.rpy:4065
+# game/game/script.rpy:4071
 translate ukrainian sucu_start_fight_44f9225f:
 
     # hi "Do you think you're dead?"
     hi "Do you think you're dead?"
 
-# game/game/script.rpy:4066
+# game/game/script.rpy:4072
 translate ukrainian sucu_start_fight_e619896b:
 
     # hi "No, {w}no..."
     hi "No, {w}no..."
 
-# game/game/script.rpy:4067
+# game/game/script.rpy:4073
 translate ukrainian sucu_start_fight_9f50e219:
 
     # hi "I can see that your time is still moving."
     hi "I can see that your time is still moving."
 
-# game/game/script.rpy:4068
+# game/game/script.rpy:4074
 translate ukrainian sucu_start_fight_0d62dfea:
 
     # hi "This is what you've been led to believe."
     hi "This is what you've been led to believe."
 
-# game/game/script.rpy:4070
+# game/game/script.rpy:4076
 translate ukrainian sucu_start_fight_10eae540:
 
     # yu "Would you like another cup of tea?"
     yu "Would you like another cup of tea?"
 
-# game/game/script.rpy:4073
+# game/game/script.rpy:4079
 translate ukrainian sucu_start_fight_349f3908:
 
     # hi "Shut up."
     hi "Shut up."
 
-# game/game/script.rpy:4076
+# game/game/script.rpy:4082
 translate ukrainian sucu_start_fight_89bc73bd:
 
     # mc "Yuuka! "
     mc "Yuuka! "
 
-# game/game/script.rpy:4077
+# game/game/script.rpy:4083
 translate ukrainian sucu_start_fight_8511e51a:
 
     # mc "Why did you do that? She just offered you tea!"
     mc "Why did you do that? She just offered you tea!"
 
-# game/game/script.rpy:4078
+# game/game/script.rpy:4084
 translate ukrainian sucu_start_fight_5e181dc1_1:
 
     # hi "..."
     hi "..."
 
-# game/game/script.rpy:4079
+# game/game/script.rpy:4085
 translate ukrainian sucu_start_fight_e0374c5e:
 
     # hi "{sc=1}{outlinecolor=#000000}{size=-10}Sigh~"
     hi "{sc=1}{outlinecolor=#000000}{size=-10}Sigh~"
 
-# game/game/script.rpy:4080
+# game/game/script.rpy:4086
 translate ukrainian sucu_start_fight_7022a82a:
 
     # hi "You look so much like her. It makes me sick."
     hi "You look so much like her. It makes me sick."
 
-# game/game/script.rpy:4082
+# game/game/script.rpy:4088
 translate ukrainian sucu_start_fight_23edf30a:
 
     # mc "Hey! Are you okay?"
     mc "Hey! Are you okay?"
 
-# game/game/script.rpy:4083
+# game/game/script.rpy:4089
 translate ukrainian sucu_start_fight_393f023d:
 
     # mc "She doesn't move."
     mc "She doesn't move."
 
-# game/game/script.rpy:4084
+# game/game/script.rpy:4090
 translate ukrainian sucu_start_fight_d60f68dc:
 
     # hi "With the {sc=1}{outlinecolor=#000000}{size=-10}saaaame{/sc} kind heart as that idiot."
     hi "With the {sc=1}{outlinecolor=#000000}{size=-10}saaaame{/sc} kind heart as that idiot."
 
-# game/game/script.rpy:4086
+# game/game/script.rpy:4092
 translate ukrainian sucu_start_fight_036b97cb:
 
     # hi "Don't touch my belongings without my permission."
-    hi "Don't touch my belongings without my permission."
+    hi "Don't touch my belongings without my permission." (multiple=2)
 
-# game/game/script.rpy:4087
+# game/game/script.rpy:4093
 translate ukrainian sucu_start_fight_9ec3523e:
 
     # mc "Yu-"
-    mc "Yu-"
+    mc "Yu-" (multiple=2)
 
-# game/game/script.rpy:4095
+# game/game/script.rpy:4101
 translate ukrainian sucu_start_fight_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:4096
+# game/game/script.rpy:4102
 translate ukrainian sucu_start_fight_45d93a98:
 
     # r "{size=-10}I don't know... I feel that something's bothering me."
     r "{size=-10}I don't know... I feel that something's bothering me."
 
-# game/game/script.rpy:4097
+# game/game/script.rpy:4103
 translate ukrainian sucu_start_fight_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:4098
+# game/game/script.rpy:4104
 translate ukrainian sucu_start_fight_02a35d40:
 
     # c "{size=-10}Don't do anything stupid."
     c "{size=-10}Don't do anything stupid."
 
-# game/game/script.rpy:4100
+# game/game/script.rpy:4106
 translate ukrainian sucu_start_fight_ec18d37f_1:
 
     # hi "Hmm..."
     hi "Hmm..."
 
-# game/game/script.rpy:4102
+# game/game/script.rpy:4108
 translate ukrainian sucu_start_fight_7e43b5a9:
 
     # hi "You're still conscious."
     hi "You're still conscious."
 
-# game/game/script.rpy:4104
+# game/game/script.rpy:4110
 translate ukrainian sucu_start_fight_c9057322:
 
     # hi "Aaah, I'm bored already."
     hi "Aaah, I'm bored already."
 
-# game/game/script.rpy:4105
+# game/game/script.rpy:4111
 translate ukrainian sucu_start_fight_43ba4188:
 
     # hi "I thought you might entertain me after that demonstration at the beginning."
     hi "I thought you might entertain me after that demonstration at the beginning."
 
-# game/game/script.rpy:4106
+# game/game/script.rpy:4112
 translate ukrainian sucu_start_fight_a805e36a:
 
     # hi "But in terms of strength, you're nothing like her."
     hi "But in terms of strength, you're nothing like her."
 
-# game/game/script.rpy:4108
+# game/game/script.rpy:4114
 translate ukrainian sucu_start_fight_5dd2bcb3:
 
     # mc "{size=-10}W-Who is she..."
     mc "{size=-10}W-Who is she..."
 
-# game/game/script.rpy:4110
+# game/game/script.rpy:4116
 translate ukrainian sucu_start_fight_a654e707:
 
     # mc "{size=-6}Of whom you speak so much..."
     mc "{size=-6}Of whom you speak so much..."
 
-# game/game/script.rpy:4111
+# game/game/script.rpy:4117
 translate ukrainian sucu_start_fight_e0845f72:
 
     # t "I feel like I've been run over by a truck..."
     t "I feel like I've been run over by a truck..."
 
-# game/game/script.rpy:4112
+# game/game/script.rpy:4118
 translate ukrainian sucu_start_fight_ec18d37f_2:
 
     # hi "Hmm..."
     hi "Hmm..."
 
-# game/game/script.rpy:4114
+# game/game/script.rpy:4120
 translate ukrainian sucu_start_fight_6d325130:
 
     # hi "I could make this more interesting."
     hi "I could make this more interesting."
 
-# game/game/script.rpy:4115
+# game/game/script.rpy:4121
 translate ukrainian sucu_start_fight_371d213a:
 
     # hi "Is it better if I show it to you myself?"
     hi "Is it better if I show it to you myself?"
 
-# game/game/script.rpy:4117
+# game/game/script.rpy:4123
 translate ukrainian sucu_start_fight_6dd3b15c:
 
     # hi "I'll break those chains before their time."
-    hi "I'll break those chains before their time."
+    hi "I'll break those chains before their time." with cumflash
 
-# game/game/script.rpy:4118
+# game/game/script.rpy:4124
 translate ukrainian sucu_start_fight_6ee43c05:
 
     # hi "If you die, it'll be the fault of how weak you are."
-    hi "If you die, it'll be the fault of how weak you are."
+    hi "If you die, it'll be the fault of how weak you are." with cumflash
 
-# game/game/script.rpy:4119
+# game/game/script.rpy:4125
 translate ukrainian sucu_start_fight_82988156:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-10}Ghg... {w}Chains...?"
     mc "{sc=1}{outlinecolor=#000000}{size=-10}Ghg... {w}Chains...?"
 
-# game/game/script.rpy:4120
+# game/game/script.rpy:4126
 translate ukrainian sucu_start_fight_5389a730:
 
     # hi "{size=-6}It'll only hurt a lot-"
     hi "{size=-6}It'll only hurt a lot-"
 
-# game/game/script.rpy:4122
+# game/game/script.rpy:4128
 translate ukrainian sucu_start_fight_5bbbb026:
 
     # hi "Eh?"
     hi "Eh?"
 
-# game/game/script.rpy:4123
+# game/game/script.rpy:4129
 translate ukrainian sucu_start_fight_e2e749ac:
 
     # hi "Why do I feel Keiko's power?"
     hi "Why do I feel Keiko's power?"
 
-# game/game/script.rpy:4124
+# game/game/script.rpy:4130
 translate ukrainian sucu_start_fight_dd18da0b:
 
     # t "She's going to find out!"
     t "She's going to find out!"
 
-# game/game/script.rpy:4125
+# game/game/script.rpy:4131
 translate ukrainian sucu_start_fight_45886b42:
 
     # hi "Did she..."
     hi "Did she..."
 
-# game/game/script.rpy:4130
+# game/game/script.rpy:4136
 translate ukrainian sucu_start_fight_78751a68:
 
     # t "This feels familiar...."
     t "This feels familiar...."
 
-# game/game/script.rpy:4136
+# game/game/script.rpy:4142
 translate ukrainian sucu_start_fight_477a161e:
 
     # mc "I knew it.."
     mc "I knew it.."
 
-# game/game/script.rpy:4138
+# game/game/script.rpy:4144
 translate ukrainian sucu_start_fight_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4139
+# game/game/script.rpy:4145
 translate ukrainian sucu_start_fight_73b0f0f9:
 
     # "With a feeling of joy and a bit of nostalgia, you smile back at her."
     "With a feeling of joy and a bit of nostalgia, you smile back at her."
 
-# game/game/script.rpy:4141
+# game/game/script.rpy:4147
 translate ukrainian sucu_start_fight_88aed3a9:
 
     # hi "Now I understand why I felt your power. You were coming this way."
     hi "Now I understand why I felt your power. You were coming this way."
 
-# game/game/script.rpy:4142
+# game/game/script.rpy:4148
 translate ukrainian sucu_start_fight_8693d79d:
 
     # t "She didn't find out!"
     t "She didn't find out!"
 
-# game/game/script.rpy:4143
+# game/game/script.rpy:4149
 translate ukrainian sucu_start_fight_fc0a2a21:
 
     # k "What do you think you're doing with a mortal in your world?"
     k "What do you think you're doing with a mortal in your world?"
 
-# game/game/script.rpy:4145
+# game/game/script.rpy:4151
 translate ukrainian sucu_start_fight_f25ed1db:
 
     # hi "None of your business."
     hi "None of your business."
 
-# game/game/script.rpy:4146
+# game/game/script.rpy:4152
 translate ukrainian sucu_start_fight_1e17630c:
 
     # k "Do you know that by hurting a mortal you are breaking one of the most important rules?"
     k "Do you know that by hurting a mortal you are breaking one of the most important rules?"
 
-# game/game/script.rpy:4147
+# game/game/script.rpy:4153
 translate ukrainian sucu_start_fight_fa1f2c10:
 
     # t "I haven't seen Keiko so angry before..."
     t "I haven't seen Keiko so angry before..."
 
-# game/game/script.rpy:4149
+# game/game/script.rpy:4155
 translate ukrainian sucu_start_fight_fe4984b4:
 
     # hi "Bla bla bla."
     hi "Bla bla bla."
 
-# game/game/script.rpy:4150
+# game/game/script.rpy:4156
 translate ukrainian sucu_start_fight_3948d0f0:
 
     # hi "I have my reasons."
     hi "I have my reasons."
 
-# game/game/script.rpy:4151
+# game/game/script.rpy:4157
 translate ukrainian sucu_start_fight_b8972774:
 
     # k "Do you want to become a fallen Angel?"
     k "Do you want to become a fallen Angel?"
 
-# game/game/script.rpy:4152
+# game/game/script.rpy:4158
 translate ukrainian sucu_start_fight_16229c23:
 
     # hi "Don't compare me to that idiot."
     hi "Don't compare me to that idiot."
 
-# game/game/script.rpy:4153
+# game/game/script.rpy:4159
 translate ukrainian sucu_start_fight_49e97f6b:
 
     # hi "No, thanks."
     hi "No, thanks."
 
-# game/game/script.rpy:4155
+# game/game/script.rpy:4161
 translate ukrainian sucu_start_fight_7a3279ad:
 
     # hi "He disrespected me by coming to my house."
     hi "He disrespected me by coming to my house."
 
-# game/game/script.rpy:4156
+# game/game/script.rpy:4162
 translate ukrainian sucu_start_fight_4f4eac53:
 
     # hi "I didn't invite him here."
     hi "I didn't invite him here."
 
-# game/game/script.rpy:4157
+# game/game/script.rpy:4163
 translate ukrainian sucu_start_fight_f3e75761:
 
     # hi "I have the right to do what I want."
     hi "I have the right to do what I want."
 
-# game/game/script.rpy:4159
+# game/game/script.rpy:4165
 translate ukrainian sucu_start_fight_4b2abea6:
 
     # hi "Besides, {w}That boy seems to be the son of-"
     hi "Besides, {w}That boy seems to be the son of-"
 
-# game/game/script.rpy:4161
+# game/game/script.rpy:4167
 translate ukrainian sucu_start_fight_9942d6f0:
 
     # k "Silence."
-    k "Silence."
+    k "Silence." with vpunch
 
-# game/game/script.rpy:4162
+# game/game/script.rpy:4168
 translate ukrainian sucu_start_fight_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4163
+# game/game/script.rpy:4169
 translate ukrainian sucu_start_fight_57180eb9:
 
     # k "One more word and I'll rat you out to the higher ranks."
     k "One more word and I'll rat you out to the higher ranks."
 
-# game/game/script.rpy:4164
+# game/game/script.rpy:4170
 translate ukrainian sucu_start_fight_c823dfe8:
 
     # k "I'll take it from here."
     k "I'll take it from here."
 
-# game/game/script.rpy:4166
+# game/game/script.rpy:4172
 translate ukrainian sucu_start_fight_16628cc6:
 
     # hi "Anyway, {w} I was already bored."
     hi "Anyway, {w} I was already bored."
 
-# game/game/script.rpy:4167
+# game/game/script.rpy:4173
 translate ukrainian sucu_start_fight_f600ac08:
 
     # hi "Do whatever you want."
     hi "Do whatever you want."
 
-# game/game/script.rpy:4168
+# game/game/script.rpy:4174
 translate ukrainian sucu_start_fight_9352164e:
 
     # hi "Erase his memory, {w}although, {w}I wouldn't blame him for still remembering my beauty."
     hi "Erase his memory, {w}although, {w}I wouldn't blame him for still remembering my beauty."
 
-# game/game/script.rpy:4170
+# game/game/script.rpy:4176
 translate ukrainian sucu_start_fight_0c3aaaf8:
 
     # hi "{sc=1}{outlinecolor=#000000}{size=-8}Ha haha~"
     hi "{sc=1}{outlinecolor=#000000}{size=-8}Ha haha~"
 
-# game/game/script.rpy:4171
+# game/game/script.rpy:4177
 translate ukrainian sucu_start_fight_82091822_1:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4172
+# game/game/script.rpy:4178
 translate ukrainian sucu_start_fight_fea9c400:
 
     # mc "{size=-10}I..."
     mc "{size=-10}I..."
 
-# game/game/script.rpy:4174
+# game/game/script.rpy:4180
 translate ukrainian sucu_start_fight_a1a3c84f:
 
     # k "{sc=1}{outlinecolor=#000000}{size=-8}Shh~"
     k "{sc=1}{outlinecolor=#000000}{size=-8}Shh~"
 
-# game/game/script.rpy:4175
+# game/game/script.rpy:4181
 translate ukrainian sucu_start_fight_a7e7cc4d:
 
     # t "I understand. Not here..."
     t "I understand. Not here..."
 
-# game/game/script.rpy:4177
+# game/game/script.rpy:4183
 translate ukrainian sucu_start_fight_2321e2ff:
 
     # t "Keiko has a sad face."
     t "Keiko has a sad face."
 
-# game/game/script.rpy:4178
+# game/game/script.rpy:4184
 translate ukrainian sucu_start_fight_01375ebf:
 
     # t "She must feel guilty about my stupidity..."
     t "She must feel guilty about my stupidity..."
 
-# game/game/script.rpy:4180
+# game/game/script.rpy:4186
 translate ukrainian sucu_start_fight_e961e82d:
 
     # k "Give me your hand... {w}m-mortal..."
     k "Give me your hand... {w}m-mortal..."
 
-# game/game/script.rpy:4181
+# game/game/script.rpy:4187
 translate ukrainian sucu_start_fight_c7d247d7:
 
     # mc "{size=-10}Understood..."
     mc "{size=-10}Understood..."
 
-# game/game/script.rpy:4183
+# game/game/script.rpy:4189
 translate ukrainian sucu_start_fight_82c13f2f:
 
     # t "I feel Keiko's magic..."
     t "I feel Keiko's magic..."
 
-# game/game/script.rpy:4193
+# game/game/script.rpy:4199
 translate ukrainian sucu_start_fight_a4fbb44e:
 
     # hi "Who would have thought that fun would come straight to my door."
     hi "Who would have thought that fun would come straight to my door."
 
-# game/game/script.rpy:4194
+# game/game/script.rpy:4200
 translate ukrainian sucu_start_fight_f9a9230a:
 
     # hi "I won't let it end here."
     hi "I won't let it end here."
 
-# game/game/script.rpy:4196
+# game/game/script.rpy:4202
 translate ukrainian sucu_start_fight_e703f9be:
 
     # hi "How long do you plan to sleep."
     hi "How long do you plan to sleep."
 
-# game/game/script.rpy:4197
+# game/game/script.rpy:4203
 translate ukrainian sucu_start_fight_5d550028:
 
     # hi "{sc=1}{outlinecolor=#000000}{size=-8}Do your job, I'm thirsty."
     hi "{sc=1}{outlinecolor=#000000}{size=-8}Do your job, I'm thirsty."
 
-# game/game/script.rpy:4202
+# game/game/script.rpy:4208
 translate ukrainian sucu_start_fight_06f5d854:
 
     # yu "{sc=1}{outlinecolor=#000000}{size=-8}GaaAaahhgg!!"
     yu "{sc=1}{outlinecolor=#000000}{size=-8}GaaAaahhgg!!"
 
-# game/game/script.rpy:4204
+# game/game/script.rpy:4210
 translate ukrainian sucu_start_fight_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/script.rpy:4205
+# game/game/script.rpy:4211
 translate ukrainian sucu_start_fight_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:4206
+# game/game/script.rpy:4212
 translate ukrainian sucu_start_fight_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:4210
+# game/game/script.rpy:4216
 translate ukrainian sucu_start_fight_2b35b6fe_7:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4212
+# game/game/script.rpy:4218
 translate ukrainian sucu_start_fight_a34cd226:
 
     # mc "Keiko..."
     mc "Keiko..."
 
-# game/game/script.rpy:4213
+# game/game/script.rpy:4219
 translate ukrainian sucu_start_fight_4c7abcf2:
 
     # k "[mc]."
     k "[mc]."
 
-# game/game/script.rpy:4214
+# game/game/script.rpy:4220
 translate ukrainian sucu_start_fight_0f338290:
 
     # k "How do you feel?"
     k "How do you feel?"
 
-# game/game/script.rpy:4216
+# game/game/script.rpy:4222
 translate ukrainian sucu_start_fight_d3605157:
 
     # mc "Better now that I'm in a place I know..."
     mc "Better now that I'm in a place I know..."
 
-# game/game/script.rpy:4217
+# game/game/script.rpy:4223
 translate ukrainian sucu_start_fight_fc362142:
 
     # mc "With a person I know."
     mc "With a person I know."
 
-# game/game/script.rpy:4219
+# game/game/script.rpy:4225
 translate ukrainian sucu_start_fight_15a4ea63:
 
     # k "Why are you so reckless?"
     k "Why are you so reckless?"
 
-# game/game/script.rpy:4220
+# game/game/script.rpy:4226
 translate ukrainian sucu_start_fight_392bb974:
 
     # mc "I don't understand what happened this time."
     mc "I don't understand what happened this time."
 
-# game/game/script.rpy:4222
+# game/game/script.rpy:4228
 translate ukrainian sucu_start_fight_3edb88d4:
 
     # mc "I was just looking for a way to communicate with you."
     mc "I was just looking for a way to communicate with you."
 
-# game/game/script.rpy:4223
+# game/game/script.rpy:4229
 translate ukrainian sucu_start_fight_29bc24ca:
 
     # mc "I only wanted to ask you a few questions."
     mc "I only wanted to ask you a few questions."
 
-# game/game/script.rpy:4225
+# game/game/script.rpy:4231
 translate ukrainian sucu_start_fight_d338b5c3:
 
     # mc "But after what happened, it only raised more..."
     mc "But after what happened, it only raised more..."
 
-# game/game/script.rpy:4226
+# game/game/script.rpy:4232
 translate ukrainian sucu_start_fight_22c3b200:
 
     # mc "Are you feeling well?"
     mc "Are you feeling well?"
 
-# game/game/script.rpy:4228
+# game/game/script.rpy:4234
 translate ukrainian sucu_start_fight_37d6e306:
 
     # k "Don't you think there's a proper time to do this kind of thing...?"
     k "Don't you think there's a proper time to do this kind of thing...?"
 
-# game/game/script.rpy:4231
+# game/game/script.rpy:4237
 translate ukrainian sucu_start_fight_1d82a7e7:
 
     # mc "...!"
@@ -12923,15949 +12923,15949 @@ translate ukrainian sucu_start_fight_ebdf3587:
     # mc "My hand-there's something wrong with it!"
     mc "My hand-there's something wrong with it!"
 
-# game/game/script.rpy:4233
+# game/game/script.rpy:4239
 translate ukrainian sucu_start_fight_4e4a03ba:
 
     # mc "I think seeing you so imposing awakened something in me..."
     mc "I think seeing you so imposing awakened something in me..."
 
-# game/game/script.rpy:4234
+# game/game/script.rpy:4240
 translate ukrainian sucu_start_fight_82091822_2:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4236
+# game/game/script.rpy:4242
 translate ukrainian sucu_start_fight_323ed325:
 
     # k "Hahahaha~"
-    k "Hahahaha~"
+    k "Hahahaha~" with hpunch
 
-# game/game/script.rpy:4237
+# game/game/script.rpy:4243
 translate ukrainian sucu_start_fight_5f99dd13:
 
     # k "Well, that shows you're feeling better."
     k "Well, that shows you're feeling better."
 
-# game/game/script.rpy:4238
+# game/game/script.rpy:4244
 translate ukrainian sucu_start_fight_82091822_3:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4240
+# game/game/script.rpy:4246
 translate ukrainian sucu_start_fight_cffec1b3:
 
     # k "What did Hikari tell you?"
     k "What did Hikari tell you?"
 
-# game/game/script.rpy:4241
+# game/game/script.rpy:4247
 translate ukrainian sucu_start_fight_12089543:
 
     # mc "I don't know where to start."
     mc "I don't know where to start."
 
-# game/game/script.rpy:4242
+# game/game/script.rpy:4248
 translate ukrainian sucu_start_fight_5de00899:
 
     # mc "I don't know if it's too many coincidences or if I'm going crazy, overthinking everything."
     mc "I don't know if it's too many coincidences or if I'm going crazy, overthinking everything."
 
-# game/game/script.rpy:4243
+# game/game/script.rpy:4249
 translate ukrainian sucu_start_fight_f8f474de:
 
     # mc "At first she was calm, but when I told her my name her attitude changed completely."
     mc "At first she was calm, but when I told her my name her attitude changed completely."
 
-# game/game/script.rpy:4245
+# game/game/script.rpy:4251
 translate ukrainian sucu_start_fight_17958ae5:
 
     # mc "And she mentioned something about being \"related to that woman\"."
     mc "And she mentioned something about being \"related to that woman\"."
 
-# game/game/script.rpy:4247
+# game/game/script.rpy:4253
 translate ukrainian sucu_start_fight_293b7d32:
 
     # k "[mc]..."
     k "[mc]..."
 
-# game/game/script.rpy:4249
+# game/game/script.rpy:4255
 translate ukrainian sucu_start_fight_0de501ce:
 
     # mc "I know I may sound like an idiot, but everything points to-"
     mc "I know I may sound like an idiot, but everything points to-"
 
-# game/game/script.rpy:4251
+# game/game/script.rpy:4257
 translate ukrainian sucu_start_fight_dfbbb168:
 
     # k "Hey..."
     k "Hey..."
 
-# game/game/script.rpy:4252
+# game/game/script.rpy:4258
 translate ukrainian sucu_start_fight_c1c1fc04:
 
     # mc "My mother... {w}was in that world?"
     mc "My mother... {w}was in that world?"
 
-# game/game/script.rpy:4253
+# game/game/script.rpy:4259
 translate ukrainian sucu_start_fight_82091822_4:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4254
+# game/game/script.rpy:4260
 translate ukrainian sucu_start_fight_f8cd5639:
 
     # mc "Is she the heroine they talk about, the one who saved people?"
     mc "Is she the heroine they talk about, the one who saved people?"
 
-# game/game/script.rpy:4256
+# game/game/script.rpy:4262
 translate ukrainian sucu_start_fight_e2396e28:
 
     # mc "How is that possible if she died when..."
     mc "How is that possible if she died when..."
 
-# game/game/script.rpy:4257
+# game/game/script.rpy:4263
 translate ukrainian sucu_start_fight_7184797b:
 
     # mc "W-When..."
-    mc "W-When..."
+    mc "W-When..." with flash
 
-# game/game/script.rpy:4259
+# game/game/script.rpy:4265
 translate ukrainian sucu_start_fight_7ad053a1:
 
     # mc "Ahggh!"
-    mc "Ahggh!"
+    mc "Ahggh!" with hpunch
 
-# game/game/script.rpy:4260
+# game/game/script.rpy:4266
 translate ukrainian sucu_start_fight_e88ec44d:
 
     # k "[mc]!"
     k "[mc]!"
 
-# game/game/script.rpy:4262
+# game/game/script.rpy:4268
 translate ukrainian sucu_start_fight_ebc2aa35:
 
     # mc "Why did Hikari know my mother, and why did she hate her?"
     mc "Why did Hikari know my mother, and why did she hate her?"
 
-# game/game/script.rpy:4263
+# game/game/script.rpy:4269
 translate ukrainian sucu_start_fight_9a5c83d9:
 
     # mc "Fallen Angel? I don't understand anything!"
     mc "Fallen Angel? I don't understand anything!"
 
-# game/game/script.rpy:4265
+# game/game/script.rpy:4271
 translate ukrainian sucu_start_fight_07aa7b40:
 
     # k "If you let me explain..."
     k "If you let me explain..."
 
-# game/game/script.rpy:4266
+# game/game/script.rpy:4272
 translate ukrainian sucu_start_fight_d240275a:
 
     # mc "I've been having strange dreams since I got here."
     mc "I've been having strange dreams since I got here."
 
-# game/game/script.rpy:4268
+# game/game/script.rpy:4274
 translate ukrainian sucu_start_fight_3bac2897:
 
     # k "Are you already having those dreams?"
     k "Are you already having those dreams?"
 
-# game/game/script.rpy:4269
+# game/game/script.rpy:4275
 translate ukrainian sucu_start_fight_b2b9e19d:
 
     # mc "What do you mean?"
     mc "What do you mean?"
 
-# game/game/script.rpy:4271
+# game/game/script.rpy:4277
 translate ukrainian sucu_start_fight_45a87c6b:
 
     # k "Let's sit down and I'll tell you what I know..."
     k "Let's sit down and I'll tell you what I know..."
 
-# game/game/script.rpy:4272
+# game/game/script.rpy:4278
 translate ukrainian sucu_start_fight_2b35b6fe_8:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4273
+# game/game/script.rpy:4279
 translate ukrainian sucu_start_fight_84f16542:
 
     # mc "Okay..."
     mc "Okay..."
 
-# game/game/script.rpy:4275
+# game/game/script.rpy:4281
 translate ukrainian sucu_start_fight_41206fea:
 
     # mc "Do you want me to lie down there...?"
     mc "Do you want me to lie down there...?"
 
-# game/game/script.rpy:4276
+# game/game/script.rpy:4282
 translate ukrainian sucu_start_fight_7811337c:
 
     # k "What's wrong with it?"
     k "What's wrong with it?"
 
-# game/game/script.rpy:4277
+# game/game/script.rpy:4283
 translate ukrainian sucu_start_fight_c14c584c:
 
     # mc "Well..."
     mc "Well..."
 
-# game/game/script.rpy:4278
+# game/game/script.rpy:4284
 translate ukrainian sucu_start_fight_81309a3c:
 
     # k "If you don't, I won't tell you anything."
     k "If you don't, I won't tell you anything."
 
-# game/game/script.rpy:4279
+# game/game/script.rpy:4285
 translate ukrainian sucu_start_fight_2b35b6fe_9:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4281
+# game/game/script.rpy:4287
 translate ukrainian sucu_start_fight_a5422faa:
 
     # t "It feels so comfortable..."
     t "It feels so comfortable..."
 
-# game/game/script.rpy:4282
+# game/game/script.rpy:4288
 translate ukrainian sucu_start_fight_70e1168d:
 
     # k "What do you think?"
     k "What do you think?"
 
-# game/game/script.rpy:4283
+# game/game/script.rpy:4289
 translate ukrainian sucu_start_fight_42341fb4:
 
     # k "Do you feel calmer?"
     k "Do you feel calmer?"
 
-# game/game/script.rpy:4284
+# game/game/script.rpy:4290
 translate ukrainian sucu_start_fight_a5e3fdf4:
 
     # mc "Ye-"
     mc "Ye-"
 
-# game/game/script.rpy:4286
+# game/game/script.rpy:4292
 translate ukrainian sucu_start_fight_2b35b6fe_10:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4287
+# game/game/script.rpy:4293
 translate ukrainian sucu_start_fight_84d9991b:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/game/script.rpy:4289
+# game/game/script.rpy:4295
 translate ukrainian sucu_start_fight_b4d07a18:
 
     # k "That's the look I like~{image=corazon}"
     k "That's the look I like~{image=corazon}"
 
-# game/game/script.rpy:4290
+# game/game/script.rpy:4296
 translate ukrainian sucu_start_fight_36a742fb:
 
     # mc "I'm sorry... {w}I got a little carried away."
     mc "I'm sorry... {w}I got a little carried away."
 
-# game/game/script.rpy:4292
+# game/game/script.rpy:4298
 translate ukrainian sucu_start_fight_a4879c9a:
 
     # k "I don't blame you."
     k "I don't blame you."
 
-# game/game/script.rpy:4293
+# game/game/script.rpy:4299
 translate ukrainian sucu_start_fight_1163be91:
 
     # k "Listen to me carefully."
     k "Listen to me carefully."
 
-# game/game/script.rpy:4294
+# game/game/script.rpy:4300
 translate ukrainian sucu_start_fight_84d9991b_1:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/game/script.rpy:4295
+# game/game/script.rpy:4301
 translate ukrainian sucu_start_fight_3c60847c:
 
     # k "I have a limit to what I can tell you."
     k "I have a limit to what I can tell you."
 
-# game/game/script.rpy:4296
+# game/game/script.rpy:4302
 translate ukrainian sucu_start_fight_5a2ab89d:
 
     # k "And I'm only doing it because I feel guilty that you ended up with that spoiled goddess."
     k "And I'm only doing it because I feel guilty that you ended up with that spoiled goddess."
 
-# game/game/script.rpy:4297
+# game/game/script.rpy:4303
 translate ukrainian sucu_start_fight_e63c0d76:
 
     # mc "No, it was all my fau-"
     mc "No, it was all my fau-"
 
-# game/game/script.rpy:4299
+# game/game/script.rpy:4305
 translate ukrainian sucu_start_fight_39b09cab:
 
     # k "Shhh~{image=corazon}{image=corazon}"
     k "Shhh~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:4300
+# game/game/script.rpy:4306
 translate ukrainian sucu_start_fight_2b35b6fe_11:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4302
+# game/game/script.rpy:4308
 translate ukrainian sucu_start_fight_48ef5525:
 
     # "Keiko takes a long breath."
     "Keiko takes a long breath."
 
-# game/game/script.rpy:4304
+# game/game/script.rpy:4310
 translate ukrainian sucu_start_fight_64ac4548:
 
     # k "Yes."
     k "Yes."
 
-# game/game/script.rpy:4305
+# game/game/script.rpy:4311
 translate ukrainian sucu_start_fight_7c927b78:
 
     # mc "Yes?"
     mc "Yes?"
 
-# game/game/script.rpy:4306
+# game/game/script.rpy:4312
 translate ukrainian sucu_start_fight_ad0ed157:
 
     # k "Your mother was in that world."
     k "Your mother was in that world."
 
-# game/game/script.rpy:4307
+# game/game/script.rpy:4313
 translate ukrainian sucu_start_fight_8db86a34:
 
     # mc "How is that possible?"
     mc "How is that possible?"
 
-# game/game/script.rpy:4308
+# game/game/script.rpy:4314
 translate ukrainian sucu_start_fight_f00b036e:
 
     # mc "Did they do the same to her as they did to me?"
     mc "Did they do the same to her as they did to me?"
 
-# game/game/script.rpy:4309
+# game/game/script.rpy:4315
 translate ukrainian sucu_start_fight_82091822_5:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4311
+# game/game/script.rpy:4317
 translate ukrainian sucu_start_fight_e80f1822:
 
     # k "No..."
     k "No..."
 
-# game/game/script.rpy:4312
+# game/game/script.rpy:4318
 translate ukrainian sucu_start_fight_702e4e83:
 
     # k "She's a different case..."
     k "She's a different case..."
 
-# game/game/script.rpy:4313
+# game/game/script.rpy:4319
 translate ukrainian sucu_start_fight_3e65a524:
 
     # mc "So she's not dead?"
     mc "So she's not dead?"
 
-# game/game/script.rpy:4314
+# game/game/script.rpy:4320
 translate ukrainian sucu_start_fight_82091822_6:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4315
+# game/game/script.rpy:4321
 translate ukrainian sucu_start_fight_50be8954:
 
     # k "I don't know..."
     k "I don't know..."
 
-# game/game/script.rpy:4316
+# game/game/script.rpy:4322
 translate ukrainian sucu_start_fight_b9752861:
 
     # k "But..."
     k "But..."
 
-# game/game/script.rpy:4317
+# game/game/script.rpy:4323
 translate ukrainian sucu_start_fight_276c0b86:
 
     # k "I'll tell you the most important thing."
     k "I'll tell you the most important thing."
 
-# game/game/script.rpy:4319
+# game/game/script.rpy:4325
 translate ukrainian sucu_start_fight_4582a41a:
 
     # k "Those dreams you're having will tell you everything you want to know."
     k "Those dreams you're having will tell you everything you want to know."
 
-# game/game/script.rpy:4320
+# game/game/script.rpy:4326
 translate ukrainian sucu_start_fight_17a93846:
 
     # mc "But I need to become stronger..."
     mc "But I need to become stronger..."
 
-# game/game/script.rpy:4322
+# game/game/script.rpy:4328
 translate ukrainian sucu_start_fight_4bc4b2e5:
 
     # k "Hmm?"
     k "Hmm?"
 
-# game/game/script.rpy:4323
+# game/game/script.rpy:4329
 translate ukrainian sucu_start_fight_bf3776b5:
 
     # k "Did Hikari tell you?"
     k "Did Hikari tell you?"
 
-# game/game/script.rpy:4324
+# game/game/script.rpy:4330
 translate ukrainian sucu_start_fight_796b70e6:
 
     # mc "No... {w}Sometimes I hear a voice in my head."
     mc "No... {w}Sometimes I hear a voice in my head."
 
-# game/game/script.rpy:4325
+# game/game/script.rpy:4331
 translate ukrainian sucu_start_fight_a834d423:
 
     # t "{size=-10}The usual..."
     t "{size=-10}The usual..."
 
-# game/game/script.rpy:4327
+# game/game/script.rpy:4333
 translate ukrainian sucu_start_fight_82091822_7:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4328
+# game/game/script.rpy:4334
 translate ukrainian sucu_start_fight_4f1d1f1b:
 
     # mc "And what's a fallen angel?"
     mc "And what's a fallen angel?"
 
-# game/game/script.rpy:4330
+# game/game/script.rpy:4336
 translate ukrainian sucu_start_fight_69063117:
 
     # k "When goddesses break the rules, they're stripped of their powers and sent to Earth..."
     k "When goddesses break the rules, they're stripped of their powers and sent to Earth..."
 
-# game/game/script.rpy:4331
+# game/game/script.rpy:4337
 translate ukrainian sucu_start_fight_3c55bf48:
 
     # mc "May I know what these rules are...?"
     mc "May I know what these rules are...?"
 
-# game/game/script.rpy:4332
+# game/game/script.rpy:4338
 translate ukrainian sucu_start_fight_82091822_8:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4334
+# game/game/script.rpy:4340
 translate ukrainian sucu_start_fight_6d598b1b:
 
     # k "There are many, but the most important ones are not to interfere with or harm mortals."
     k "There are many, but the most important ones are not to interfere with or harm mortals."
 
-# game/game/script.rpy:4335
+# game/game/script.rpy:4341
 translate ukrainian sucu_start_fight_4d703814:
 
     # k "And..."
     k "And..."
 
-# game/game/script.rpy:4337
+# game/game/script.rpy:4343
 translate ukrainian sucu_start_fight_4fd688af:
 
     # k "You can't have children with someone who isn't another divine being..."
     k "You can't have children with someone who isn't another divine being..."
 
-# game/game/script.rpy:4338
+# game/game/script.rpy:4344
 translate ukrainian sucu_start_fight_77534349:
 
     # mc "They sound quite harsh."
     mc "They sound quite harsh."
 
-# game/game/script.rpy:4340
+# game/game/script.rpy:4346
 translate ukrainian sucu_start_fight_7793bc56:
 
     # k "However, a goddess chooses when to become pregnant."
     k "However, a goddess chooses when to become pregnant."
 
-# game/game/script.rpy:4341
+# game/game/script.rpy:4347
 translate ukrainian sucu_start_fight_c1dff962_1:
 
     # mc "Oh..."
     mc "Oh..."
 
-# game/game/script.rpy:4343
+# game/game/script.rpy:4349
 translate ukrainian sucu_start_fight_2dec7a37:
 
     # t "I remember when she told me that as long as the other goddesses didn't know, nothing would happen."
     t "I remember when she told me that as long as the other goddesses didn't know, nothing would happen."
 
-# game/game/script.rpy:4345
+# game/game/script.rpy:4351
 translate ukrainian sucu_start_fight_25e39a37:
 
     # t "My mother was in that world and nobody knows if she's dead."
     t "My mother was in that world and nobody knows if she's dead."
 
-# game/game/script.rpy:4346
+# game/game/script.rpy:4352
 translate ukrainian sucu_start_fight_1e2444d7:
 
     # t "I feel they're hiding something very important from me."
     t "I feel they're hiding something very important from me."
 
-# game/game/script.rpy:4347
+# game/game/script.rpy:4353
 translate ukrainian sucu_start_fight_71ff88c1:
 
     # t "Still... {w}that means..."
     t "Still... {w}that means..."
 
-# game/game/script.rpy:4349
+# game/game/script.rpy:4355
 translate ukrainian sucu_start_fight_9935f285:
 
     # t "I could look for her!"
-    t "I could look for her!"
+    t "I could look for her!" with hpunch
 
-# game/game/script.rpy:4354
+# game/game/script.rpy:4360
 translate ukrainian keiko_gal2_488128b9:
 
     # k "Do you have any other questions?"
     k "Do you have any other questions?"
 
-# game/game/script.rpy:4355
+# game/game/script.rpy:4361
 translate ukrainian keiko_gal2_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4356
+# game/game/script.rpy:4362
 translate ukrainian keiko_gal2_7398ce69:
 
     # mc "I have two in fact."
     mc "I have two in fact."
 
-# game/game/script.rpy:4357
+# game/game/script.rpy:4363
 translate ukrainian keiko_gal2_a4dbb030:
 
     # mc "What can I do to become stronger?"
     mc "What can I do to become stronger?"
 
-# game/game/script.rpy:4358
+# game/game/script.rpy:4364
 translate ukrainian keiko_gal2_f1bbbabc:
 
     # mc "And.."
     mc "And.."
 
-# game/game/script.rpy:4360
+# game/game/script.rpy:4366
 translate ukrainian keiko_gal2_742b16b9:
 
     # mc "At what point did this happen?"
     mc "At what point did this happen?"
 
-# game/game/script.rpy:4361
+# game/game/script.rpy:4367
 translate ukrainian keiko_gal2_d055095d:
 
     # k "To become stronger-"
     k "To become stronger-"
 
-# game/game/script.rpy:4362
+# game/game/script.rpy:4368
 translate ukrainian keiko_gal2_795981e3:
 
     # mc "And you start with that question?"
     mc "And you start with that question?"
 
-# game/game/script.rpy:4363
+# game/game/script.rpy:4369
 translate ukrainian keiko_gal2_635e159f:
 
     # k "It was the first one you asked, wasn't it?"
     k "It was the first one you asked, wasn't it?"
 
-# game/game/script.rpy:4364
+# game/game/script.rpy:4370
 translate ukrainian keiko_gal2_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4365
+# game/game/script.rpy:4371
 translate ukrainian keiko_gal2_99d1efe4:
 
     # k "Fufufu~{image=/bg/icons/heart_text.png}"
     k "Fufufu~{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4367
+# game/game/script.rpy:4373
 translate ukrainian keiko_gal2_1638339a:
 
     # k "You were on the right track."
     k "You were on the right track."
 
-# game/game/script.rpy:4368
+# game/game/script.rpy:4374
 translate ukrainian keiko_gal2_5bf7bb60:
 
     # k "I can't tell you what to do, but you should go visit the village north of the lake."
     k "I can't tell you what to do, but you should go visit the village north of the lake."
 
-# game/game/script.rpy:4369
+# game/game/script.rpy:4375
 translate ukrainian keiko_gal2_992b37ca:
 
     # k "They may need your help..."
     k "They may need your help..."
 
-# game/game/script.rpy:4370
+# game/game/script.rpy:4376
 translate ukrainian keiko_gal2_12f41433:
 
     # mc "W-Who are they?"
     mc "W-Who are they?"
 
-# game/game/script.rpy:4371
+# game/game/script.rpy:4377
 translate ukrainian keiko_gal2_38922d88:
 
     # k "Look how big you are~~{image=/bg/icons/heart_text.png}"
     k "Look how big you are~~{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4373
+# game/game/script.rpy:4379
 translate ukrainian keiko_gal2_30fd23fd:
 
     # t "She doesn't seem to be able to tell me much more..."
     t "She doesn't seem to be able to tell me much more..."
 
-# game/game/script.rpy:4374
+# game/game/script.rpy:4380
 translate ukrainian keiko_gal2_a34cd226:
 
     # mc "Keiko..."
     mc "Keiko..."
 
-# game/game/script.rpy:4376
+# game/game/script.rpy:4382
 translate ukrainian keiko_gal2_16f0d8b9:
 
     # k "Yes?"
     k "Yes?"
 
-# game/game/script.rpy:4378
+# game/game/script.rpy:4384
 translate ukrainian keiko_gal2_24d3bc80:
 
     # mc "Can you uncover your tits?"
     mc "Can you uncover your tits?"
 
-# game/game/script.rpy:4380
+# game/game/script.rpy:4386
 translate ukrainian keiko_gal2_602caaba:
 
     # k "Wasn't it just two questions?"
     k "Wasn't it just two questions?"
 
-# game/game/script.rpy:4381
+# game/game/script.rpy:4387
 translate ukrainian keiko_gal2_8d54f3c6:
 
     # mc "I.."
     mc "I.."
 
-# game/game/script.rpy:4383
+# game/game/script.rpy:4389
 translate ukrainian keiko_gal2_86ff644a:
 
     # k "Fufufu, just kidding~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "Fufufu, just kidding~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4387
+# game/game/script.rpy:4393
 translate ukrainian keiko_gal2_3f871f46:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/script.rpy:4389
+# game/game/script.rpy:4395
 translate ukrainian keiko_gal2_273fa2d0:
 
     # mc "Woah."
     mc "Woah."
 
-# game/game/script.rpy:4391
+# game/game/script.rpy:4397
 translate ukrainian keiko_gal2_614d81ee:
 
     # k "Better?"
     k "Better?"
 
-# game/game/script.rpy:4392
+# game/game/script.rpy:4398
 translate ukrainian keiko_gal2_85785fdb:
 
     # mc "Perfect."
     mc "Perfect."
 
-# game/game/script.rpy:4394
+# game/game/script.rpy:4400
 translate ukrainian keiko_gal2_77086996:
 
     # k "You've been staring at them since we got here."
     k "You've been staring at them since we got here."
 
-# game/game/script.rpy:4396
+# game/game/script.rpy:4402
 translate ukrainian keiko_gal2_ae8a5a29:
 
     # k "Fufufu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "Fufufu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4397
+# game/game/script.rpy:4403
 translate ukrainian keiko_gal2_8cfb3ff8:
 
     # k "No matter how much you suck nothing is going to come out.."
     k "No matter how much you suck nothing is going to come out.."
 
-# game/game/script.rpy:4398
+# game/game/script.rpy:4404
 translate ukrainian keiko_gal2_4e1191e5:
 
     # k "What happened? {w}Did I say something that turned you on?~~"
     k "What happened? {w}Did I say something that turned you on?~~"
 
-# game/game/script.rpy:4399
+# game/game/script.rpy:4405
 translate ukrainian keiko_gal2_9700108d:
 
     # k "Ahh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "Ahh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4400
+# game/game/script.rpy:4406
 translate ukrainian keiko_gal2_ec316b42:
 
     # k "You're licking very hard..."
     k "You're licking very hard..."
 
-# game/game/script.rpy:4402
+# game/game/script.rpy:4408
 translate ukrainian keiko_gal2_38491e1f:
 
     # k "Are you getting excited just by the idea of doing it with a goddess?"
     k "Are you getting excited just by the idea of doing it with a goddess?"
 
-# game/game/script.rpy:4403
+# game/game/script.rpy:4409
 translate ukrainian keiko_gal2_50f2512f:
 
     # k "I think I've spoiled you too much~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "I think I've spoiled you too much~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4404
+# game/game/script.rpy:4410
 translate ukrainian keiko_gal2_4ddec497:
 
     # k "If it weren't for this huge penis {image=/bg/icons/heart_text.png}, I'd think you were just a kid sucking breasts."
     k "If it weren't for this huge penis {image=/bg/icons/heart_text.png}, I'd think you were just a kid sucking breasts."
 
-# game/game/script.rpy:4406
+# game/game/script.rpy:4412
 translate ukrainian keiko_gal2_ba5fb1e4:
 
     # k "You're going to cum, aren't you?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "You're going to cum, aren't you?~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4407
+# game/game/script.rpy:4413
 translate ukrainian keiko_gal2_18c4467c:
 
     # k "It's swelling..."
     k "It's swelling..."
 
-# game/game/script.rpy:4412
+# game/game/script.rpy:4418
 translate ukrainian keiko_gal2_cb0d7d43:
 
     # k "Ohh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "Ohh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4413
+# game/game/script.rpy:4419
 translate ukrainian keiko_gal2_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:4415
+# game/game/script.rpy:4421
 translate ukrainian keiko_gal2_f91c2083:
 
     # k "Did it feel good?"
     k "Did it feel good?"
 
-# game/game/script.rpy:4417
+# game/game/script.rpy:4423
 translate ukrainian keiko_gal2_acc0d1ed:
 
     # mc "Yes... {w}I think I needed that..."
     mc "Yes... {w}I think I needed that..."
 
-# game/game/script.rpy:4427
+# game/game/script.rpy:4433
 translate ukrainian keiko_gal2_90e912e8:
 
     # mc "In fact {w}I don't feel injured anymore..."
     mc "In fact {w}I don't feel injured anymore..."
 
-# game/game/script.rpy:4429
+# game/game/script.rpy:4435
 translate ukrainian keiko_gal2_9e5ed67e:
 
     # k "The magic of the goddesses has healing properties."
     k "The magic of the goddesses has healing properties."
 
-# game/game/script.rpy:4430
+# game/game/script.rpy:4436
 translate ukrainian keiko_gal2_0d89edfe:
 
     # k "Even if it's in your soul, I didn't want you to go back to your world wounded."
     k "Even if it's in your soul, I didn't want you to go back to your world wounded."
 
-# game/game/script.rpy:4432
+# game/game/script.rpy:4438
 translate ukrainian keiko_gal2_2a0204d0:
 
     # mc "That's why I recovered so quickly when I was attacked by those wolves."
     mc "That's why I recovered so quickly when I was attacked by those wolves."
 
-# game/game/script.rpy:4433
+# game/game/script.rpy:4439
 translate ukrainian keiko_gal2_ae8a5a29_1:
 
     # k "Fufufu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "Fufufu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4435
+# game/game/script.rpy:4441
 translate ukrainian keiko_gal2_c645db6e:
 
     # k "Now I really like your look."
     k "Now I really like your look."
 
-# game/game/script.rpy:4437
+# game/game/script.rpy:4443
 translate ukrainian keiko_gal2_fb7c4106:
 
     # mc "Now I know what I have to do and what my next goal is."
     mc "Now I know what I have to do and what my next goal is."
 
-# game/game/script.rpy:4439
+# game/game/script.rpy:4445
 translate ukrainian keiko_gal2_044d9c92:
 
     # k "And I'll keep watching you."
     k "And I'll keep watching you."
 
-# game/game/script.rpy:4441
+# game/game/script.rpy:4447
 translate ukrainian keiko_gal2_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4443
+# game/game/script.rpy:4449
 translate ukrainian keiko_gal2_5f1becd0:
 
     # mc "Is there any way to see you again without going to the wrong place?"
     mc "Is there any way to see you again without going to the wrong place?"
 
-# game/game/script.rpy:4444
+# game/game/script.rpy:4450
 translate ukrainian keiko_gal2_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4446
+# game/game/script.rpy:4452
 translate ukrainian keiko_gal2_9f60ae29:
 
     # k "I'm really spoiling you."
     k "I'm really spoiling you."
 
-# game/game/script.rpy:4448
+# game/game/script.rpy:4454
 translate ukrainian keiko_gal2_ec0b0476:
 
     # k "Give me your wrist..."
     k "Give me your wrist..."
 
-# game/game/script.rpy:4449
+# game/game/script.rpy:4455
 translate ukrainian keiko_gal2_ed862fd2:
 
     # mc "Ok..."
     mc "Ok..."
 
-# game/game/script.rpy:4451
+# game/game/script.rpy:4457
 translate ukrainian keiko_gal2_82091822_1:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4458
+# game/game/script.rpy:4464
 translate ukrainian keiko_gal2_83ec7aa1:
 
     # mc "Wow what was that?"
     mc "Wow what was that?"
 
-# game/game/script.rpy:4460
+# game/game/script.rpy:4466
 translate ukrainian keiko_gal2_89cff126:
 
     # k "Let's say I gave you the keys to my house.~~{image=/bg/icons/heart_text.png}"
     k "Let's say I gave you the keys to my house.~~{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4461
+# game/game/script.rpy:4467
 translate ukrainian keiko_gal2_4ca02bdb:
 
     # mc "Oh.."
     mc "Oh.."
 
-# game/game/script.rpy:4463
+# game/game/script.rpy:4469
 translate ukrainian keiko_gal2_b3dacb0e:
 
     # k "You'd better get back to your \"world\" now."
     k "You'd better get back to your \"world\" now."
 
-# game/game/script.rpy:4468
+# game/game/script.rpy:4474
 translate ukrainian keiko_gal2_7d55836e:
 
     # k "It has already been 47 days there."
     k "It has already been 47 days there."
 
-# game/game/script.rpy:4470
+# game/game/script.rpy:4476
 translate ukrainian keiko_gal2_4ca02bdb_1:
 
     # mc "Oh.."
     mc "Oh.."
 
-# game/game/script.rpy:4471
+# game/game/script.rpy:4477
 translate ukrainian keiko_gal2_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4472
+# game/game/script.rpy:4478
 translate ukrainian keiko_gal2_26cd23a5:
 
     # mc "WHAT!?"
-    mc "WHAT!?"
+    mc "WHAT!?" with hpunch
 
-# game/game/script.rpy:4477
+# game/game/script.rpy:4483
 translate ukrainian keiko_gal2_634325d3:
 
     # k "Hahahahaha."
-    k "Hahahahaha."
+    k "Hahahahaha." with vpunch
 
-# game/game/script.rpy:4479
+# game/game/script.rpy:4485
 translate ukrainian keiko_gal2_b0a54b77:
 
     # k "I'm just kidding."
     k "I'm just kidding."
 
-# game/game/script.rpy:4481
+# game/game/script.rpy:4487
 translate ukrainian keiko_gal2_4141d8e8:
 
     # k "Not even a day has passed."
     k "Not even a day has passed."
 
-# game/game/script.rpy:4482
+# game/game/script.rpy:4488
 translate ukrainian keiko_gal2_f93722a6:
 
     # k "{size=-10}Maybe.."
     k "{size=-10}Maybe.."
 
-# game/game/script.rpy:4483
+# game/game/script.rpy:4489
 translate ukrainian keiko_gal2_b8bf6282:
 
     # mc "I almost had a heart attack."
     mc "I almost had a heart attack."
 
-# game/game/script.rpy:4484
+# game/game/script.rpy:4490
 translate ukrainian keiko_gal2_ae8a5a29_2:
 
     # k "Fufufu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     k "Fufufu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4485
+# game/game/script.rpy:4491
 translate ukrainian keiko_gal2_3fb18e65:
 
     # k "When you want to see me, just go to the stones and think of this place or me."
     k "When you want to see me, just go to the stones and think of this place or me."
 
-# game/game/script.rpy:4486
+# game/game/script.rpy:4492
 translate ukrainian keiko_gal2_2051d66a:
 
     # mc "Understood."
     mc "Understood."
 
-# game/game/script.rpy:4487
+# game/game/script.rpy:4493
 translate ukrainian keiko_gal2_82091822_2:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:4488
+# game/game/script.rpy:4494
 translate ukrainian keiko_gal2_b5f397fd:
 
     # k "Be careful."
     k "Be careful."
 
-# game/game/script.rpy:4491
+# game/game/script.rpy:4497
 translate ukrainian keiko_gal2_553b8387:
 
     # t "I'm back."
     t "I'm back."
 
-# game/game/script.rpy:4492
+# game/game/script.rpy:4498
 translate ukrainian keiko_gal2_3f357316:
 
     # t "It's not dark yet."
     t "It's not dark yet."
 
-# game/game/script.rpy:4493
+# game/game/script.rpy:4499
 translate ukrainian keiko_gal2_1bb01731:
 
     # t "..."
     t "..."
 
-# game/game/script.rpy:4495
+# game/game/script.rpy:4501
 translate ukrainian keiko_gal2_5b935dec:
 
     # t "That was a rather peculiar experience."
     t "That was a rather peculiar experience."
 
-# game/game/script.rpy:4500
+# game/game/script.rpy:4506
 translate ukrainian keiko_gal2_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4501
+# game/game/script.rpy:4507
 translate ukrainian keiko_gal2_0025096c:
 
     # t "What is a cat doing here?"
     t "What is a cat doing here?"
 
-# game/game/script.rpy:4502
+# game/game/script.rpy:4508
 translate ukrainian keiko_gal2_dc7d7b72:
 
     # t "It's the same one I've seen in the village..."
     t "It's the same one I've seen in the village..."
 
-# game/game/script.rpy:4504
+# game/game/script.rpy:4510
 translate ukrainian keiko_gal2_9f5b7f9d:
 
     # mc "Hey, what are you doing here?"
     mc "Hey, what are you doing here?"
 
-# game/game/script.rpy:4506
+# game/game/script.rpy:4512
 translate ukrainian keiko_gal2_64ae8476:
 
     # mc "You got lost, and you found me here?"
     mc "You got lost, and you found me here?"
 
-# game/game/script.rpy:4508
+# game/game/script.rpy:4514
 translate ukrainian keiko_gal2_4e01c281:
 
     # mc "Long time no see."
     mc "Long time no see."
 
-# game/game/script.rpy:4510
+# game/game/script.rpy:4516
 translate ukrainian keiko_gal2_6766dd33:
 
     # mc "What? {w}Is it changing!?"
     mc "What? {w}Is it changing!?"
 
-# game/game/script.rpy:4513
+# game/game/script.rpy:4519
 translate ukrainian keiko_gal2_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4515
+# game/game/script.rpy:4521
 translate ukrainian keiko_gal2_2d566e2a:
 
     # t "The cat has evolved into Charlottemon..."
     t "The cat has evolved into Charlottemon..."
 
-# game/game/script.rpy:4516
+# game/game/script.rpy:4522
 translate ukrainian keiko_gal2_d19f855d:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:4517
+# game/game/script.rpy:4523
 translate ukrainian keiko_gal2_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4518
+# game/game/script.rpy:4524
 translate ukrainian keiko_gal2_d0f9994c:
 
     # mc "Were you that cat?"
     mc "Were you that cat?"
 
-# game/game/script.rpy:4520
+# game/game/script.rpy:4526
 translate ukrainian keiko_gal2_aa89ab46:
 
     # c "I thought you knew since we fought the orc."
     c "I thought you knew since we fought the orc."
 
-# game/game/script.rpy:4522
+# game/game/script.rpy:4528
 translate ukrainian keiko_gal2_afecd223:
 
     # mc "That's why you appeared out of nowhere..."
     mc "That's why you appeared out of nowhere..."
 
-# game/game/script.rpy:4523
+# game/game/script.rpy:4529
 translate ukrainian keiko_gal2_d19f855d_1:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:4525
+# game/game/script.rpy:4531
 translate ukrainian keiko_gal2_55a2a302:
 
     # c "Why are you sitting here?"
     c "Why are you sitting here?"
 
-# game/game/script.rpy:4527
+# game/game/script.rpy:4533
 translate ukrainian keiko_gal2_348593e4:
 
     # c "You haven't moved since I arrived..."
     c "You haven't moved since I arrived..."
 
-# game/game/script.rpy:4529
+# game/game/script.rpy:4535
 translate ukrainian keiko_gal2_4dd8498e:
 
     # mc "Oh...{w} Err..."
     mc "Oh...{w} Err..."
 
-# game/game/script.rpy:4530
+# game/game/script.rpy:4536
 translate ukrainian keiko_gal2_a584518d:
 
     # mc "I was... {w}meditating..."
     mc "I was... {w}meditating..."
 
-# game/game/script.rpy:4532
+# game/game/script.rpy:4538
 translate ukrainian keiko_gal2_eb44a0a8:
 
     # c "I didn't know you had that habit, Human."
     c "I didn't know you had that habit, Human."
 
-# game/game/script.rpy:4534
+# game/game/script.rpy:4540
 translate ukrainian keiko_gal2_84d9991b:
 
     # mc "Yes..."
     mc "Yes..."
 
-# game/game/script.rpy:4535
+# game/game/script.rpy:4541
 translate ukrainian keiko_gal2_5a6e790e:
 
     # mc "Were you looking after me?"
     mc "Were you looking after me?"
 
-# game/game/script.rpy:4536
+# game/game/script.rpy:4542
 translate ukrainian keiko_gal2_d19f855d_2:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:4538
+# game/game/script.rpy:4544
 translate ukrainian keiko_gal2_86715e1c:
 
     # t "This girl..."
     t "This girl..."
 
-# game/game/script.rpy:4540
+# game/game/script.rpy:4546
 translate ukrainian keiko_gal2_bb656870:
 
     # mc "Let's go home. Ryoko must be worried."
     mc "Let's go home. Ryoko must be worried."
 
-# game/game/script.rpy:4543
+# game/game/script.rpy:4549
 translate ukrainian keiko_gal2_00d11b49:
 
     # c "Yes..."
     c "Yes..."
 
-# game/game/script.rpy:4559
+# game/game/script.rpy:4565
 translate ukrainian natsuki_encounter_7023e6b4:
 
     # ao "What do you think of the new guy?"
     ao "What do you think of the new guy?"
 
-# game/game/script.rpy:4560
+# game/game/script.rpy:4566
 translate ukrainian natsuki_encounter_737e77e4:
 
     # sa "Hmm?"
     sa "Hmm?"
 
-# game/game/script.rpy:4564
+# game/game/script.rpy:4570
 translate ukrainian natsuki_encounter_7455e877:
 
     # sa "I think he is a powerful ally."
     sa "I think he is a powerful ally."
 
-# game/game/script.rpy:4565
+# game/game/script.rpy:4571
 translate ukrainian natsuki_encounter_8687a7d7:
 
     # ao "Yes, I know, but that's not what I meant."
     ao "Yes, I know, but that's not what I meant."
 
-# game/game/script.rpy:4568
+# game/game/script.rpy:4574
 translate ukrainian natsuki_encounter_16e5ff7e:
 
     # sa "Would you also like to fight him?"
     sa "Would you also like to fight him?"
 
-# game/game/script.rpy:4569
+# game/game/script.rpy:4575
 translate ukrainian natsuki_encounter_45feb290:
 
     # ao "No!"
-    ao "No!"
+    ao "No!" with hpunch
 
-# game/game/script.rpy:4571
+# game/game/script.rpy:4577
 translate ukrainian natsuki_encounter_c9fa0826:
 
     # ao "Do you think he has a girlfriend or wife?"
     ao "Do you think he has a girlfriend or wife?"
 
-# game/game/script.rpy:4572
+# game/game/script.rpy:4578
 translate ukrainian natsuki_encounter_c614be01:
 
     # sa "What?"
     sa "What?"
 
-# game/game/script.rpy:4573
+# game/game/script.rpy:4579
 translate ukrainian natsuki_encounter_d1408770:
 
     # ao "Didn't you see how handsome he is?"
     ao "Didn't you see how handsome he is?"
 
-# game/game/script.rpy:4575
+# game/game/script.rpy:4581
 translate ukrainian natsuki_encounter_14f5c205:
 
     # sa "He looks strong..."
     sa "He looks strong..."
 
-# game/game/script.rpy:4576
+# game/game/script.rpy:4582
 translate ukrainian natsuki_encounter_74ae04fc:
 
     # ao "Sigh*"
     ao "Sigh*"
 
-# game/game/script.rpy:4577
+# game/game/script.rpy:4583
 translate ukrainian natsuki_encounter_814275e4:
 
     # ao "I don't remember the last time I talked about boys."
     ao "I don't remember the last time I talked about boys."
 
-# game/game/script.rpy:4578
+# game/game/script.rpy:4584
 translate ukrainian natsuki_encounter_7dbec352:
 
     # ao "And you don't show the slightest interest."
     ao "And you don't show the slightest interest."
 
-# game/game/script.rpy:4580
+# game/game/script.rpy:4586
 translate ukrainian natsuki_encounter_43c27bd7:
 
     # ao "Didn't you see how he looked at us?"
     ao "Didn't you see how he looked at us?"
 
-# game/game/script.rpy:4581
+# game/game/script.rpy:4587
 translate ukrainian natsuki_encounter_ea0aeb37:
 
     # sa "Mmm..."
     sa "Mmm..."
 
-# game/game/script.rpy:4583
+# game/game/script.rpy:4589
 translate ukrainian natsuki_encounter_3ab44332:
 
     # sa "Yes, {w}he looked at me a lot..."
     sa "Yes, {w}he looked at me a lot..."
 
-# game/game/script.rpy:4584
+# game/game/script.rpy:4590
 translate ukrainian natsuki_encounter_5c0e2697:
 
     # ao "I bet he already has a thing with those two girls."
     ao "I bet he already has a thing with those two girls."
 
-# game/game/script.rpy:4586
+# game/game/script.rpy:4592
 translate ukrainian natsuki_encounter_1ea8e5a7:
 
     # ao "You can tell they are very close."
     ao "You can tell they are very close."
 
-# game/game/script.rpy:4587
+# game/game/script.rpy:4593
 translate ukrainian natsuki_encounter_a1f0b406:
 
     # ao "How lucky~"
     ao "How lucky~"
 
-# game/game/script.rpy:4589
+# game/game/script.rpy:4595
 translate ukrainian natsuki_encounter_f25893a8:
 
     # ao "I bet he has a huge p-"
     ao "I bet he has a huge p-"
 
-# game/game/script.rpy:4591
+# game/game/script.rpy:4597
 translate ukrainian natsuki_encounter_98d2562e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" (multiple=2)
 
-# game/game/script.rpy:4592
+# game/game/script.rpy:4598
 translate ukrainian natsuki_encounter_55fbc30f:
 
     # ao "...!"
-    ao "...!"
+    ao "...!" (multiple=2)
 
-# game/game/script.rpy:4594
+# game/game/script.rpy:4600
 translate ukrainian natsuki_encounter_05dbf1be:
 
     # mc "We are leaving, {w}we have to report the situation of this place."
     mc "We are leaving, {w}we have to report the situation of this place."
 
-# game/game/script.rpy:4595
+# game/game/script.rpy:4601
 translate ukrainian natsuki_encounter_52fb95d9:
 
     # mc "And let them know that I'll be helping from now on."
     mc "And let them know that I'll be helping from now on."
 
-# game/game/script.rpy:4597
+# game/game/script.rpy:4603
 translate ukrainian natsuki_encounter_cd6ba433:
 
     # ao "Really?!"
     ao "Really?!"
 
-# game/game/script.rpy:4598
+# game/game/script.rpy:4604
 translate ukrainian natsuki_encounter_4dcdae15:
 
     # sa "It will be a pleasure to have you on our side."
     sa "It will be a pleasure to have you on our side."
 
-# game/game/script.rpy:4600
+# game/game/script.rpy:4606
 translate ukrainian natsuki_encounter_508f79c7:
 
     # r "Thanks for showing us around!"
     r "Thanks for showing us around!"
 
-# game/game/script.rpy:4601
+# game/game/script.rpy:4607
 translate ukrainian natsuki_encounter_60ffd4b6:
 
     # ao "No problem! {w}Come whenever you want~"
     ao "No problem! {w}Come whenever you want~"
 
-# game/game/script.rpy:4603
+# game/game/script.rpy:4609
 translate ukrainian natsuki_encounter_17149b59:
 
     # mc "Take care, I won't be long."
     mc "Take care, I won't be long."
 
-# game/game/script.rpy:4604
+# game/game/script.rpy:4610
 translate ukrainian natsuki_encounter_0ec56f57:
 
     # ao "Okay, we'll be waiting for you."
     ao "Okay, we'll be waiting for you."
 
-# game/game/script.rpy:4605
+# game/game/script.rpy:4611
 translate ukrainian natsuki_encounter_83d233c4:
 
     # sa "Be careful on the way."
     sa "Be careful on the way."
 
-# game/game/script.rpy:4610
+# game/game/script.rpy:4616
 translate ukrainian natsuki_encounter_cb540aa1:
 
     # ao "Oh! {w}You're back!"
-    ao "Oh! {w}You're back!"
+    ao "Oh! {w}You're back!" with hpunch
 
-# game/game/script.rpy:4611
+# game/game/script.rpy:4617
 translate ukrainian natsuki_encounter_3f871f46:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/script.rpy:4612
+# game/game/script.rpy:4618
 translate ukrainian natsuki_encounter_a41ae245:
 
     # r "...?"
     r "...?"
 
-# game/game/script.rpy:4614
+# game/game/script.rpy:4620
 translate ukrainian natsuki_encounter_ac952bd1:
 
     # ao "I thought you wouldn't get to meet our new allies."
     ao "I thought you wouldn't get to meet our new allies."
 
-# game/game/script.rpy:4615
+# game/game/script.rpy:4621
 translate ukrainian natsuki_encounter_b01afc04:
 
     # a "Ohh really?"
     a "Ohh really?"
 
-# game/game/script.rpy:4616
+# game/game/script.rpy:4622
 translate ukrainian natsuki_encounter_622e17df:
 
     # a "What happened here? Why so many people?"
     a "What happened here? Why so many people?"
 
-# game/game/script.rpy:4618
+# game/game/script.rpy:4624
 translate ukrainian natsuki_encounter_caabd000:
 
     # a "Let me introduce myself, {w} I am-"
     a "Let me introduce myself, {w} I am-"
 
-# game/game/script.rpy:4622
+# game/game/script.rpy:4628
 translate ukrainian natsuki_encounter_f12aeeee:
 
     # r "{size=-8}N-Natsuki?"
     r "{size=-8}N-Natsuki?"
 
-# game/game/script.rpy:4624
+# game/game/script.rpy:4630
 translate ukrainian natsuki_encounter_3d8ca82a:
 
     # na "...?"
     na "...?"
 
-# game/game/script.rpy:4625
+# game/game/script.rpy:4631
 translate ukrainian natsuki_encounter_b79eed06:
 
     # t "Ryoko?"
     t "Ryoko?"
 
-# game/game/script.rpy:4627
+# game/game/script.rpy:4633
 translate ukrainian natsuki_encounter_05903eac:
 
     # r "{size=-8}I-Is it you? {w}Natsuki..."
     r "{size=-8}I-Is it you? {w}Natsuki..."
 
-# game/game/script.rpy:4628
+# game/game/script.rpy:4634
 translate ukrainian natsuki_encounter_dd65b650:
 
     # na "{size=-8}R-Ryo{w}ko..?"
     na "{size=-8}R-Ryo{w}ko..?"
 
-# game/game/script.rpy:4629
+# game/game/script.rpy:4635
 translate ukrainian natsuki_encounter_183f2441:
 
     # t "Do they know each other..?"
     t "Do they know each other..?"
 
-# game/game/script.rpy:4631
+# game/game/script.rpy:4637
 translate ukrainian natsuki_encounter_e9c28e09:
 
     # na "Still as whiny as ever..."
     na "Still as whiny as ever..."
 
-# game/game/script.rpy:4632
+# game/game/script.rpy:4638
 translate ukrainian natsuki_encounter_c342cc8a:
 
     # r "{size=-5}I t-thought you were..."
     r "{size=-5}I t-thought you were..."
 
-# game/game/script.rpy:4634
+# game/game/script.rpy:4640
 translate ukrainian natsuki_encounter_8ed1fc3e:
 
     # na "I thought so too..."
     na "I thought so too..."
 
-# game/game/script.rpy:4636
+# game/game/script.rpy:4642
 translate ukrainian natsuki_encounter_8c6cc753:
 
     # na "..."
-    na "..."
+    na "..." (multiple=2)
 
-# game/game/script.rpy:4637
+# game/game/script.rpy:4643
 translate ukrainian natsuki_encounter_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
-# game/game/script.rpy:4639
+# game/game/script.rpy:4645
 translate ukrainian natsuki_encounter_22c30998:
 
     # r "Naatsuki!!"
-    r "Naatsuki!!"
+    r "Naatsuki!!" (multiple=2)
 
-# game/game/script.rpy:4640
+# game/game/script.rpy:4646
 translate ukrainian natsuki_encounter_34968f73:
 
     # na "{size=-7}Ghn!"
-    na "{size=-7}Ghn!"
+    na "{size=-7}Ghn!" (multiple=2)
 
-# game/game/script.rpy:4642
+# game/game/script.rpy:4648
 translate ukrainian natsuki_encounter_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:4643
+# game/game/script.rpy:4649
 translate ukrainian natsuki_encounter_d19f855d:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:4644
+# game/game/script.rpy:4650
 translate ukrainian natsuki_encounter_7e9cecc8:
 
     # t "She must be just as confused as I am."
     t "She must be just as confused as I am."
 
-# game/game/script.rpy:4646
+# game/game/script.rpy:4652
 translate ukrainian natsuki_encounter_7154b560:
 
     # mc "{size=-10}It looks like we will be staying a while longer."
     mc "{size=-10}It looks like we will be staying a while longer."
 
-# game/game/script.rpy:4647
+# game/game/script.rpy:4653
 translate ukrainian natsuki_encounter_8b7f0998:
 
     # c "Hmn."
     c "Hmn."
 
-# game/game/script.rpy:4648
+# game/game/script.rpy:4654
 translate ukrainian natsuki_encounter_3a0a3758:
 
     # r "Natsuki! {w}Natsuki!"
-    r "Natsuki! {w}Natsuki!"
+    r "Natsuki! {w}Natsuki!" with vpunch
 
-# game/game/script.rpy:4650
+# game/game/script.rpy:4656
 translate ukrainian natsuki_encounter_a71535b5:
 
     # t "The others also remained silent."
     t "The others also remained silent."
 
-# game/game/script.rpy:4651
+# game/game/script.rpy:4657
 translate ukrainian natsuki_encounter_83cda03f:
 
     # mc "{size=-10}It's better to give them some space."
     mc "{size=-10}It's better to give them some space."
 
-# game/game/script.rpy:4656
+# game/game/script.rpy:4662
 translate ukrainian natsuki_encounter_92c00d3b:
 
     # t "It seems that they have known each other for years."
     t "It seems that they have known each other for years."
 
-# game/game/script.rpy:4657
+# game/game/script.rpy:4663
 translate ukrainian natsuki_encounter_15f097ae:
 
     # t "I'm happy that Ryoko was able to see a friend again."
     t "I'm happy that Ryoko was able to see a friend again."
 
-# game/game/script.rpy:4658
+# game/game/script.rpy:4664
 translate ukrainian natsuki_encounter_21765e5b:
 
     # c "This brings back a lot of memories."
     c "This brings back a lot of memories."
 
-# game/game/script.rpy:4659
+# game/game/script.rpy:4665
 translate ukrainian natsuki_encounter_03fb3e88_1:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:4660
+# game/game/script.rpy:4666
 translate ukrainian natsuki_encounter_95b4a587:
 
     # mc "Why do you say so?"
     mc "Why do you say so?"
 
-# game/game/script.rpy:4662
+# game/game/script.rpy:4668
 translate ukrainian natsuki_encounter_6024dd65:
 
     # c "There was a time when I was in this village."
     c "There was a time when I was in this village."
 
-# game/game/script.rpy:4663
+# game/game/script.rpy:4669
 translate ukrainian natsuki_encounter_b51c1b5a:
 
     # mc "You seemed to know a lot about this place."
     mc "You seemed to know a lot about this place."
 
-# game/game/script.rpy:4664
+# game/game/script.rpy:4670
 translate ukrainian natsuki_encounter_4d7d8b86:
 
     # c "Yes... {w}I used to travel with a girl."
     c "Yes... {w}I used to travel with a girl."
 
-# game/game/script.rpy:4665
+# game/game/script.rpy:4671
 translate ukrainian natsuki_encounter_a785da13:
 
     # c "Sometimes, we used to sit here while we ate."
     c "Sometimes, we used to sit here while we ate."
 
-# game/game/script.rpy:4666
+# game/game/script.rpy:4672
 translate ukrainian natsuki_encounter_8f21720a:
 
     # mc "The same person you used to fish with?"
     mc "The same person you used to fish with?"
 
-# game/game/script.rpy:4668
+# game/game/script.rpy:4674
 translate ukrainian natsuki_encounter_00d11b49:
 
     # c "Yes..."
     c "Yes..."
 
-# game/game/script.rpy:4669
+# game/game/script.rpy:4675
 translate ukrainian natsuki_encounter_a1464d1a:
 
     # mc "I was told that there are some mixed hot springs."
     mc "I was told that there are some mixed hot springs."
 
-# game/game/script.rpy:4670
+# game/game/script.rpy:4676
 translate ukrainian natsuki_encounter_171462f0:
 
     # c "In the past, they weren't mixed."
     c "In the past, they weren't mixed."
 
-# game/game/script.rpy:4671
+# game/game/script.rpy:4677
 translate ukrainian natsuki_encounter_6bcd6ecd:
 
     # mc "Maybe they did it to attract more adventurers."
     mc "Maybe they did it to attract more adventurers."
 
-# game/game/script.rpy:4672
+# game/game/script.rpy:4678
 translate ukrainian natsuki_encounter_a9f34c76:
 
     # c "I don't know."
     c "I don't know."
 
-# game/game/script.rpy:4673
+# game/game/script.rpy:4679
 translate ukrainian natsuki_encounter_457149c4:
 
     # mc "Maybe... {w} we could go together sometime?"
     mc "Maybe... {w} we could go together sometime?"
 
-# game/game/script.rpy:4674
+# game/game/script.rpy:4680
 translate ukrainian natsuki_encounter_d19f855d_1:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:4676
+# game/game/script.rpy:4682
 translate ukrainian natsuki_encounter_fabe4767:
 
     # c "Maybe..."
     c "Maybe..."
 
-# game/game/script.rpy:4677
+# game/game/script.rpy:4683
 translate ukrainian natsuki_encounter_4681be6f:
 
     # t "Yes!"
-    t "Yes!"
+    t "Yes!" with hpunch
 
-# game/game/script.rpy:4678
+# game/game/script.rpy:4684
 translate ukrainian natsuki_encounter_6153f22e:
 
     # r "Master!"
     r "Master!"
 
-# game/game/script.rpy:4679
+# game/game/script.rpy:4685
 translate ukrainian natsuki_encounter_40b7db49:
 
     # na "Hello."
     na "Hello."
 
-# game/game/script.rpy:4681
+# game/game/script.rpy:4687
 translate ukrainian natsuki_encounter_f6263144:
 
     # mc "Oh, Hey."
     mc "Oh, Hey."
 
-# game/game/script.rpy:4682
+# game/game/script.rpy:4688
 translate ukrainian natsuki_encounter_f4991eb8:
 
     # mc "All good?"
     mc "All good?"
 
-# game/game/script.rpy:4684
+# game/game/script.rpy:4690
 translate ukrainian natsuki_encounter_8e17cebf:
 
     # r "Yes!~{image=corazon}"
-    r "Yes!~{image=corazon}"
+    r "Yes!~{image=corazon}" with vpunch
 
-# game/game/script.rpy:4685
+# game/game/script.rpy:4691
 translate ukrainian natsuki_encounter_ab19c9ee:
 
     # mc "Hahaha, {w}I'm happy for you."
     mc "Hahaha, {w}I'm happy for you."
 
-# game/game/script.rpy:4686
+# game/game/script.rpy:4692
 translate ukrainian natsuki_encounter_55035df8:
 
     # na "Hahaha."
     na "Hahaha."
 
-# game/game/script.rpy:4688
+# game/game/script.rpy:4694
 translate ukrainian natsuki_encounter_e808a8b2:
 
     # na "Can I talk to you alone?"
     na "Can I talk to you alone?"
 
-# game/game/script.rpy:4689
+# game/game/script.rpy:4695
 translate ukrainian natsuki_encounter_f7246537:
 
     # mc "Mmm? {w}Talk?"
     mc "Mmm? {w}Talk?"
 
-# game/game/script.rpy:4691
+# game/game/script.rpy:4697
 translate ukrainian natsuki_encounter_2fcc7ac5:
 
     # mc "Sure..."
     mc "Sure..."
 
-# game/game/script.rpy:4692
+# game/game/script.rpy:4698
 translate ukrainian natsuki_encounter_2f504faf:
 
     # r "I'll stay with Charlotte. She seems to be pretty sleepy."
     r "I'll stay with Charlotte. She seems to be pretty sleepy."
 
-# game/game/script.rpy:4693
+# game/game/script.rpy:4699
 translate ukrainian natsuki_encounter_ec35ade7:
 
     # c "Yaaawn*"
     c "Yaaawn*"
 
-# game/game/script.rpy:4695
+# game/game/script.rpy:4701
 translate ukrainian natsuki_encounter_ecdaf543:
 
     # mc "What did you want to tell me?"
     mc "What did you want to tell me?"
 
-# game/game/script.rpy:4696
+# game/game/script.rpy:4702
 translate ukrainian natsuki_encounter_a5a920d6:
 
     # mc "Maybe it's because of something in the town? Now I will be helping here-"
     mc "Maybe it's because of something in the town? Now I will be helping here-"
 
-# game/game/script.rpy:4699
+# game/game/script.rpy:4705
 translate ukrainian natsuki_encounter_8d33dec8:
 
     # na "Thank you for taking care of Ryoko!"
-    na "Thank you for taking care of Ryoko!"
+    na "Thank you for taking care of Ryoko!" (multiple=2)
 
-# game/game/script.rpy:4700
+# game/game/script.rpy:4706
 translate ukrainian natsuki_encounter_60494c90:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "Eh?" (multiple=2)
 
-# game/game/script.rpy:4701
+# game/game/script.rpy:4707
 translate ukrainian natsuki_encounter_9d5d52e3:
 
     # na "She told me that she has been with you since she escaped from the slavers."
     na "She told me that she has been with you since she escaped from the slavers."
 
-# game/game/script.rpy:4703
+# game/game/script.rpy:4709
 translate ukrainian natsuki_encounter_987b7e5a:
 
     # mc "You don't have to thank me! {w}I just did what anyone would do."
     mc "You don't have to thank me! {w}I just did what anyone would do."
 
-# game/game/script.rpy:4704
+# game/game/script.rpy:4710
 translate ukrainian natsuki_encounter_9cfff0a2:
 
     # mc "Besides, without her I would be dead."
     mc "Besides, without her I would be dead."
 
-# game/game/script.rpy:4705
+# game/game/script.rpy:4711
 translate ukrainian natsuki_encounter_f51656ec:
 
     # na "She told me you would answer me that way."
     na "She told me you would answer me that way."
 
-# game/game/script.rpy:4706
+# game/game/script.rpy:4712
 translate ukrainian natsuki_encounter_506c8fd0:
 
     # mc "Err.."
     mc "Err.."
 
-# game/game/script.rpy:4708
+# game/game/script.rpy:4714
 translate ukrainian natsuki_encounter_08979f99:
 
     # na "And no. {w}Not everyone would take care of a demon as if they were part of their family."
     na "And no. {w}Not everyone would take care of a demon as if they were part of their family."
 
-# game/game/script.rpy:4709
+# game/game/script.rpy:4715
 translate ukrainian natsuki_encounter_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4710
+# game/game/script.rpy:4716
 translate ukrainian natsuki_encounter_b7ac5334:
 
     # na "Thank you very much..."
     na "Thank you very much..."
 
-# game/game/script.rpy:4711
+# game/game/script.rpy:4717
 translate ukrainian natsuki_encounter_70b5cb5e:
 
     # na "{size=-10}Really..."
     na "{size=-10}Really..."
 
-# game/game/script.rpy:4712
+# game/game/script.rpy:4718
 translate ukrainian natsuki_encounter_35dcff22:
 
     # mc "I-It's ok..."
     mc "I-It's ok..."
 
-# game/game/script.rpy:4714
+# game/game/script.rpy:4720
 translate ukrainian natsuki_encounter_fabc78ab:
 
     # na "If you ever need anything, the Adventurer's lounge manager is here to serve you!"
     na "If you ever need anything, the Adventurer's lounge manager is here to serve you!"
 
-# game/game/script.rpy:4715
+# game/game/script.rpy:4721
 translate ukrainian natsuki_encounter_db6d6865:
 
     # mc "Are you in charge?"
     mc "Are you in charge?"
 
-# game/game/script.rpy:4716
+# game/game/script.rpy:4722
 translate ukrainian natsuki_encounter_1e345f80:
 
     # na "Aoi told me that you're interested in joining us."
     na "Aoi told me that you're interested in joining us."
 
-# game/game/script.rpy:4717
+# game/game/script.rpy:4723
 translate ukrainian natsuki_encounter_c7c620ba:
 
     # mc "Yes!{w} I want to obtain my rank."
     mc "Yes!{w} I want to obtain my rank."
 
-# game/game/script.rpy:4719
+# game/game/script.rpy:4725
 translate ukrainian natsuki_encounter_028c6d9d:
 
     # na "Of course! Just come and talk to me whenever you want!"
     na "Of course! Just come and talk to me whenever you want!"
 
-# game/game/script.rpy:4720
+# game/game/script.rpy:4726
 translate ukrainian natsuki_encounter_20356c68:
 
     # na "I will reopen the salon just for you!"
     na "I will reopen the salon just for you!"
 
-# game/game/script.rpy:4721
+# game/game/script.rpy:4727
 translate ukrainian natsuki_encounter_c8deb497:
 
     # mc "Perfect!"
     mc "Perfect!"
 
-# game/game/script.rpy:4722
+# game/game/script.rpy:4728
 translate ukrainian natsuki_encounter_2604fb74:
 
     # na "Just look for the sign I'll put back up."
     na "Just look for the sign I'll put back up."
 
-# game/game/script.rpy:4724
+# game/game/script.rpy:4730
 translate ukrainian natsuki_encounter_2536d150:
 
     # na "Well, {w}you should go home now~"
     na "Well, {w}you should go home now~"
 
-# game/game/script.rpy:4725
+# game/game/script.rpy:4731
 translate ukrainian natsuki_encounter_59273509:
 
     # na "I don't want you to travel at night."
     na "I don't want you to travel at night."
 
-# game/game/script.rpy:4726
+# game/game/script.rpy:4732
 translate ukrainian natsuki_encounter_808cf84e:
 
     # mc "You are right."
     mc "You are right."
 
-# game/game/script.rpy:4728
+# game/game/script.rpy:4734
 translate ukrainian natsuki_encounter_a8cb8fa0:
 
     # na "One last thing...{w} Ryoko mentioned that you guys are pretty close."
     na "One last thing...{w} Ryoko mentioned that you guys are pretty close."
 
-# game/game/script.rpy:4729
+# game/game/script.rpy:4735
 translate ukrainian natsuki_encounter_fc14b6ff:
 
     # mc "Y-yeah.."
     mc "Y-yeah.."
 
-# game/game/script.rpy:4731
+# game/game/script.rpy:4737
 translate ukrainian natsuki_encounter_6c4370bc:
 
     # na "Maah~{image=corazon}"
     na "Maah~{image=corazon}"
 
-# game/game/script.rpy:4732
+# game/game/script.rpy:4738
 translate ukrainian natsuki_encounter_3de9761b:
 
     # na "A human who accepts everyone equally."
     na "A human who accepts everyone equally."
 
-# game/game/script.rpy:4733
+# game/game/script.rpy:4739
 translate ukrainian natsuki_encounter_3c6ade7c:
 
     # na "If only the world were filled with people like you..."
     na "If only the world were filled with people like you..."
 
-# game/game/script.rpy:4734
+# game/game/script.rpy:4740
 translate ukrainian natsuki_encounter_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4735
+# game/game/script.rpy:4741
 translate ukrainian natsuki_encounter_7a032f8a:
 
     # na "Maybe if you had children with all of us, they could be raised to be like you."
     na "Maybe if you had children with all of us, they could be raised to be like you."
 
-# game/game/script.rpy:4736
+# game/game/script.rpy:4742
 translate ukrainian natsuki_encounter_bbb6ce9b:
 
     # mc "...!?"
-    mc "...!?"
+    mc "...!?" with hpunch
 
-# game/game/script.rpy:4737
+# game/game/script.rpy:4743
 translate ukrainian natsuki_encounter_55035df8_1:
 
     # na "Hahaha."
     na "Hahaha."
 
-# game/game/script.rpy:4738
+# game/game/script.rpy:4744
 translate ukrainian natsuki_encounter_92911d9a:
 
     # na "Mmm~~ {w}It doesn't seem to be an idea you don't like.."
     na "Mmm~~ {w}It doesn't seem to be an idea you don't like.."
 
-# game/game/script.rpy:4748
+# game/game/script.rpy:4754
 translate ukrainian natsuki_encounter_97e71906:
 
     # t "They all look like nice girls."
     t "They all look like nice girls."
 
-# game/game/script.rpy:4749
+# game/game/script.rpy:4755
 translate ukrainian natsuki_encounter_3f8abfcb:
 
     # t "I'll do my best to help them."
     t "I'll do my best to help them."
 
-# game/game/script.rpy:4750
+# game/game/script.rpy:4756
 translate ukrainian natsuki_encounter_9709060b:
 
     # t "I should talk to Ryoko. She said she wanted to tell me something."
     t "I should talk to Ryoko. She said she wanted to tell me something."
 
-# game/game/script.rpy:4751
+# game/game/script.rpy:4757
 translate ukrainian natsuki_encounter_fd672554:
 
     # t "I also have to talk to Natsuki."
     t "I also have to talk to Natsuki."
 
-# game/game/script.rpy:4752
+# game/game/script.rpy:4758
 translate ukrainian natsuki_encounter_a43147eb:
 
     # t "And let Hana know about the situation."
     t "And let Hana know about the situation."
 
-# game/game/script.rpy:4757
+# game/game/script.rpy:4763
 translate ukrainian natsuki_encounter_636c25e6:
 
     # "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}"
     "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4768
+# game/game/script.rpy:4774
 translate ukrainian mother_memory2_a9afa8ae:
 
     # t "Rain."
     t "Rain."
 
-# game/game/script.rpy:4769
+# game/game/script.rpy:4775
 translate ukrainian mother_memory2_2d81e1af:
 
     # t "This humid air and the soothing sound.."
     t "This humid air and the soothing sound.."
 
-# game/game/script.rpy:4771
+# game/game/script.rpy:4777
 translate ukrainian mother_memory2_4d5dc034:
 
     # t "I always wondered why I came here from time to time."
     t "I always wondered why I came here from time to time."
 
-# game/game/script.rpy:4772
+# game/game/script.rpy:4778
 translate ukrainian mother_memory2_455da5ca:
 
     # t "It didn't make sense."
     t "It didn't make sense."
 
-# game/game/script.rpy:4774
+# game/game/script.rpy:4780
 translate ukrainian mother_memory2_99c051ef:
 
     # t "The cemetery was always empty."
     t "The cemetery was always empty."
 
-# game/game/script.rpy:4775
+# game/game/script.rpy:4781
 translate ukrainian mother_memory2_37e7e49e:
 
     # t "And colorful..."
     t "And colorful..."
 
-# game/game/script.rpy:4779
+# game/game/script.rpy:4785
 translate ukrainian mother_memory2_0b46a03b:
 
     # mom "Did they mess with you again?"
     mom "Did they mess with you again?"
 
-# game/game/script.rpy:4780
+# game/game/script.rpy:4786
 translate ukrainian mother_memory2_b3a38f0c:
 
     # mc "{size=-10}... {w}Nnm..."
     mc "{size=-10}... {w}Nnm..."
 
-# game/game/script.rpy:4781
+# game/game/script.rpy:4787
 translate ukrainian mother_memory2_71f8a5e1:
 
     # mom "Do you want me to go talk to their mothers again?"
     mom "Do you want me to go talk to their mothers again?"
 
-# game/game/script.rpy:4783
+# game/game/script.rpy:4789
 translate ukrainian mother_memory2_f91e6ef9:
 
     # mc "N-No! {w}I mean..."
-    mc "N-No! {w}I mean..."
+    mc "N-No! {w}I mean..." with vpunch
 
-# game/game/script.rpy:4784
+# game/game/script.rpy:4790
 translate ukrainian mother_memory2_d39992fc:
 
     # mc "It's not necessary, they're just idiots..."
     mc "It's not necessary, they're just idiots..."
 
-# game/game/script.rpy:4785
+# game/game/script.rpy:4791
 translate ukrainian mother_memory2_d956ae0d:
 
     # mom "Do you want to cry on your mother's chest?~{image=/bg/icons/heart_text.png}"
     mom "Do you want to cry on your mother's chest?~{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4787
+# game/game/script.rpy:4793
 translate ukrainian mother_memory2_77aef6b7:
 
     # mc "Mom... {w}I'm not a kid anymore."
     mc "Mom... {w}I'm not a kid anymore."
 
-# game/game/script.rpy:4788
+# game/game/script.rpy:4794
 translate ukrainian mother_memory2_36a5af8a:
 
     # mom "Do you no longer feel protected by mom?? {w}Then you'll arrive with a tattoo and shaved hair~~"
     mom "Do you no longer feel protected by mom?? {w}Then you'll arrive with a tattoo and shaved hair~~"
 
-# game/game/script.rpy:4790
+# game/game/script.rpy:4796
 translate ukrainian mother_memory2_e4be6021:
 
     # mc "Sigh*"
     mc "Sigh*"
 
-# game/game/script.rpy:4792
+# game/game/script.rpy:4798
 translate ukrainian mother_memory2_3cfc07ff:
 
     # mom "I don't know if I should have taught you kendo..."
     mom "I don't know if I should have taught you kendo..."
 
-# game/game/script.rpy:4793
+# game/game/script.rpy:4799
 translate ukrainian mother_memory2_9a1e4f9b:
 
     # mom "I'm glad you've become strong, but you shouldn't be fighting against everyone."
     mom "I'm glad you've become strong, but you shouldn't be fighting against everyone."
 
-# game/game/script.rpy:4794
+# game/game/script.rpy:4800
 translate ukrainian mother_memory2_99ed9b6d:
 
     # mom "Why don't you try to make friends? Now you don't get sick like you used to."
     mom "Why don't you try to make friends? Now you don't get sick like you used to."
 
-# game/game/script.rpy:4795
+# game/game/script.rpy:4801
 translate ukrainian mother_memory2_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4797
+# game/game/script.rpy:4803
 translate ukrainian mother_memory2_edb140d2:
 
     # mc "It's their fault for saying weird things."
     mc "It's their fault for saying weird things."
 
-# game/game/script.rpy:4798
+# game/game/script.rpy:4804
 translate ukrainian mother_memory2_1d8667ee:
 
     # mom "Like what?"
     mom "Like what?"
 
-# game/game/script.rpy:4800
+# game/game/script.rpy:4806
 translate ukrainian mother_memory2_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4801
+# game/game/script.rpy:4807
 translate ukrainian mother_memory2_f7d6755a:
 
     # mom "[mc]?"
     mom "[mc]?"
 
-# game/game/script.rpy:4803
+# game/game/script.rpy:4809
 translate ukrainian mother_memory2_3437e54d:
 
     # a "Look! It's the wimpy one."
     a "Look! It's the wimpy one."
 
-# game/game/script.rpy:4804
+# game/game/script.rpy:4810
 translate ukrainian mother_memory2_d38c21e1:
 
     # a "I haven't seen him for a long time, I thought he was dead, HAHAHA."
     a "I haven't seen him for a long time, I thought he was dead, HAHAHA."
 
-# game/game/script.rpy:4805
+# game/game/script.rpy:4811
 translate ukrainian mother_memory2_a4f10e73:
 
     # a "Did you know? {w}They say he always gets sick and if you pick on him, he would go crying to his mother."
     a "Did you know? {w}They say he always gets sick and if you pick on him, he would go crying to his mother."
 
-# game/game/script.rpy:4806
+# game/game/script.rpy:4812
 translate ukrainian mother_memory2_5a4d0de2:
 
     # a "HAHAHa."
-    a "HAHAHa."
+    a "HAHAHa." with hpunch
 
-# game/game/script.rpy:4807
+# game/game/script.rpy:4813
 translate ukrainian mother_memory2_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4808
+# game/game/script.rpy:4814
 translate ukrainian mother_memory2_d6018717:
 
     # a "I saw his mother once, she's super hot!! Hahaha."
     a "I saw his mother once, she's super hot!! Hahaha."
 
-# game/game/script.rpy:4809
+# game/game/script.rpy:4815
 translate ukrainian mother_memory2_f308533c:
 
     # a "Really?! {w}Hey, crybaby, you can play with us if you bring us your mother's panties."
-    a "Really?! {w}Hey, crybaby, you can play with us if you bring us your mother's panties."
+    a "Really?! {w}Hey, crybaby, you can play with us if you bring us your mother's panties." with hpunch
 
-# game/game/script.rpy:4810
+# game/game/script.rpy:4816
 translate ukrainian mother_memory2_a6fd8077:
 
     # a "HAHAAHAHHAHA."
-    a "HAHAAHAHHAHA."
+    a "HAHAAHAHHAHA." with vpunch
 
-# game/game/script.rpy:4811
+# game/game/script.rpy:4817
 translate ukrainian mother_memory2_6c529069:
 
     # a "And you haven't seen the size of her t-"
-    a "And you haven't seen the size of her t-"
+    a "And you haven't seen the size of her t-" with hpunch
 
-# game/game/script.rpy:4812
+# game/game/script.rpy:4818
 translate ukrainian mother_memory2_2242f16c:
 
     # mc "AAaaAaH!!!"
-    mc "AAaaAaH!!!"
+    mc "AAaaAaH!!!" with hpunch
 
-# game/game/script.rpy:4813
+# game/game/script.rpy:4819
 translate ukrainian mother_memory2_b216cbc0:
 
     # a "What are you doing?! You fucking weirdo!"
-    a "What are you doing?! You fucking weirdo!"
+    a "What are you doing?! You fucking weirdo!" with hpunch
 
-# game/game/script.rpy:4814
+# game/game/script.rpy:4820
 translate ukrainian mother_memory2_fcb025ac:
 
     # a "You're crazy! {w}No one will ever play with you!"
-    a "You're crazy! {w}No one will ever play with you!"
+    a "You're crazy! {w}No one will ever play with you!" with vpunch
 
-# game/game/script.rpy:4815
+# game/game/script.rpy:4821
 translate ukrainian mother_memory2_7bf441bb:
 
     # mc "I'm not interested in playing with shitty people like all of you!"
-    mc "I'm not interested in playing with shitty people like all of you!"
+    mc "I'm not interested in playing with shitty people like all of you!" with hpunch
 
-# game/game/script.rpy:4817
+# game/game/script.rpy:4823
 translate ukrainian mother_memory2_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4818
+# game/game/script.rpy:4824
 translate ukrainian mother_memory2_390a59e2:
 
     # mom "If you don't tell me I won't train you anymore~~"
     mom "If you don't tell me I won't train you anymore~~"
 
-# game/game/script.rpy:4819
+# game/game/script.rpy:4825
 translate ukrainian mother_memory2_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4821
+# game/game/script.rpy:4827
 translate ukrainian mother_memory2_1cf6372d:
 
     # mom "And you'll make mom very saaad~~"
     mom "And you'll make mom very saaad~~"
 
-# game/game/script.rpy:4823
+# game/game/script.rpy:4829
 translate ukrainian mother_memory2_a921cd79:
 
     # mc "Whatever, they'll never speak to me again."
     mc "Whatever, they'll never speak to me again."
 
-# game/game/script.rpy:4824
+# game/game/script.rpy:4830
 translate ukrainian mother_memory2_44d9f994:
 
     # mom "Mnmm~~"
     mom "Mnmm~~"
 
-# game/game/script.rpy:4826
+# game/game/script.rpy:4832
 translate ukrainian mother_memory2_ad3cd05a:
 
     # mc "Besides, if I have you, I don't need stupid friends."
     mc "Besides, if I have you, I don't need stupid friends."
 
-# game/game/script.rpy:4827
+# game/game/script.rpy:4833
 translate ukrainian mother_memory2_07ff71ef:
 
     # mom "Always so stubborn."
     mom "Always so stubborn."
 
-# game/game/script.rpy:4829
+# game/game/script.rpy:4835
 translate ukrainian mother_memory2_690a812e:
 
     # mom "You're just like your father."
     mom "You're just like your father."
 
-# game/game/script.rpy:4831
+# game/game/script.rpy:4837
 translate ukrainian mother_memory2_5f67c8bf:
 
     # mc "That's not something I want to hear."
     mc "That's not something I want to hear."
 
-# game/game/script.rpy:4832
+# game/game/script.rpy:4838
 translate ukrainian mother_memory2_b6c983d6:
 
     # mc "I don't want anything to do with a guy who just dumps you."
     mc "I don't want anything to do with a guy who just dumps you."
 
-# game/game/script.rpy:4833
+# game/game/script.rpy:4839
 translate ukrainian mother_memory2_96656496:
 
     # mom "[mc]..."
     mom "[mc]..."
 
-# game/game/script.rpy:4834
+# game/game/script.rpy:4840
 translate ukrainian mother_memory2_25d47db9:
 
     # mc "It's always been just you and me."
     mc "It's always been just you and me."
 
-# game/game/script.rpy:4835
+# game/game/script.rpy:4841
 translate ukrainian mother_memory2_1bac7447:
 
     # mc "I'll do what that idiot didn't do and I'll stay with you forever!"
     mc "I'll do what that idiot didn't do and I'll stay with you forever!"
 
-# game/game/script.rpy:4836
+# game/game/script.rpy:4842
 translate ukrainian mother_memory2_56b6942e:
 
     # mom "Maa~~{image=/bg/icons/heart_text.png} what a responsible boy I have~~"
     mom "Maa~~{image=/bg/icons/heart_text.png} what a responsible boy I have~~"
 
-# game/game/script.rpy:4837
+# game/game/script.rpy:4843
 translate ukrainian mother_memory2_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:4838
+# game/game/script.rpy:4844
 translate ukrainian mother_memory2_89d29ebf:
 
     # mc "Mom?"
     mc "Mom?"
 
-# game/game/script.rpy:4840
+# game/game/script.rpy:4846
 translate ukrainian mother_memory2_3e5d07f2:
 
     # mom "Yes honey?"
     mom "Yes honey?"
 
-# game/game/script.rpy:4841
+# game/game/script.rpy:4847
 translate ukrainian mother_memory2_72597864:
 
     # mc "Why-"
     mc "Why-"
 
-# game/game/script.rpy:4842
+# game/game/script.rpy:4848
 translate ukrainian mother_memory2_6f78da44:
 
     # mom "Do you want to cry on your mother's chest now?!"
-    mom "Do you want to cry on your mother's chest now?!"
+    mom "Do you want to cry on your mother's chest now?!" with hpunch
 
-# game/game/script.rpy:4843
+# game/game/script.rpy:4849
 translate ukrainian mother_memory2_86cef36a:
 
     # mc "Noo!"
-    mc "Noo!"
+    mc "Noo!" with vpunch
 
-# game/game/script.rpy:4845
+# game/game/script.rpy:4851
 translate ukrainian mother_memory2_b00afa0e:
 
     # mc "I don't understand why we do this."
     mc "I don't understand why we do this."
 
-# game/game/script.rpy:4846
+# game/game/script.rpy:4852
 translate ukrainian mother_memory2_6ff797d0:
 
     # mom "What is that?"
     mom "What is that?"
 
-# game/game/script.rpy:4848
+# game/game/script.rpy:4854
 translate ukrainian mother_memory2_b6818d71:
 
     # mc "You know."
     mc "You know."
 
-# game/game/script.rpy:4850
+# game/game/script.rpy:4856
 translate ukrainian mother_memory2_8773d873:
 
     # mc "Coming to see a grave without a name."
     mc "Coming to see a grave without a name."
 
-# game/game/script.rpy:4852
+# game/game/script.rpy:4858
 translate ukrainian mother_memory2_79123a40:
 
     # mom "You don't like the cemetery?"
     mom "You don't like the cemetery?"
 
-# game/game/script.rpy:4854
+# game/game/script.rpy:4860
 translate ukrainian mother_memory2_a6830a3d:
 
     # mc "It's not that, but what's the point of coming to see an empty tomb?"
     mc "It's not that, but what's the point of coming to see an empty tomb?"
 
-# game/game/script.rpy:4855
+# game/game/script.rpy:4861
 translate ukrainian mother_memory2_c5bed4b5:
 
     # mom "A-And why do you think it's empty?"
     mom "A-And why do you think it's empty?"
 
-# game/game/script.rpy:4857
+# game/game/script.rpy:4863
 translate ukrainian mother_memory2_e770283b:
 
     # mc "I don't know... {w}I can feel it..."
     mc "I don't know... {w}I can feel it..."
 
-# game/game/script.rpy:4858
+# game/game/script.rpy:4864
 translate ukrainian mother_memory2_4a002629:
 
     # mom "...!"
-    mom "...!"
+    mom "...!" with vpunch
 
-# game/game/script.rpy:4859
+# game/game/script.rpy:4865
 translate ukrainian mother_memory2_cbb49f40:
 
     # mom "M-Maybe you're confused..."
     mom "M-Maybe you're confused..."
 
-# game/game/script.rpy:4861
+# game/game/script.rpy:4867
 translate ukrainian mother_memory2_109829e8:
 
     # mc "Do you think so? {w}Like I can feel a warmth... from the others, but in this one there's nothing..."
     mc "Do you think so? {w}Like I can feel a warmth... from the others, but in this one there's nothing..."
 
-# game/game/script.rpy:4862
+# game/game/script.rpy:4868
 translate ukrainian mother_memory2_00d6b440:
 
     # mom "{size=-10}Time is running out..."
     mom "{size=-10}Time is running out..."
 
-# game/game/script.rpy:4863
+# game/game/script.rpy:4869
 translate ukrainian mother_memory2_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/game/script.rpy:4865
+# game/game/script.rpy:4871
 translate ukrainian mother_memory2_be33c29c:
 
     # mc "Hmnhnm!"
-    mc "Hmnhnm!"
+    mc "Hmnhnm!" with vpunch
 
-# game/game/script.rpy:4866
+# game/game/script.rpy:4872
 translate ukrainian mother_memory2_8a4b30bb:
 
     # mom "Look, the breasts on which you always cried!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
     mom "Look, the breasts on which you always cried!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:4867
+# game/game/script.rpy:4873
 translate ukrainian mother_memory2_c2d212af:
 
     # mc "MhMN~ {w}Mom! {w}I can't breathe!"
-    mc "MhMN~ {w}Mom! {w}I can't breathe!"
+    mc "MhMN~ {w}Mom! {w}I can't breathe!" with hpunch
 
-# game/game/script.rpy:4869
+# game/game/script.rpy:4875
 translate ukrainian mother_memory2_8a4c81e2:
 
     # mc "Phuah!"
-    mc "Phuah!"
+    mc "Phuah!" with hpunch
 
-# game/game/script.rpy:4870
+# game/game/script.rpy:4876
 translate ukrainian mother_memory2_c383d8e4:
 
     # mom "Staying with someone forever is very hard work, you know?"
     mom "Staying with someone forever is very hard work, you know?"
 
-# game/game/script.rpy:4871
+# game/game/script.rpy:4877
 translate ukrainian mother_memory2_0e94690a:
 
     # mc "I don't care!"
     mc "I don't care!"
 
-# game/game/script.rpy:4873
+# game/game/script.rpy:4879
 translate ukrainian mother_memory2_b7cd178a:
 
     # mc "I'll get stronger and stronger until I can lift you with one arm."
     mc "I'll get stronger and stronger until I can lift you with one arm."
 
-# game/game/script.rpy:4874
+# game/game/script.rpy:4880
 translate ukrainian mother_memory2_d7d2c0bb:
 
     # mc "I'll be so strong that no one will bother us, and you won't be tired all the time!"
     mc "I'll be so strong that no one will bother us, and you won't be tired all the time!"
 
-# game/game/script.rpy:4875
+# game/game/script.rpy:4881
 translate ukrainian mother_memory2_f864b487:
 
     # mom "..."
     mom "..."
 
-# game/game/script.rpy:4876
+# game/game/script.rpy:4882
 translate ukrainian mother_memory2_9e67737f:
 
     # mc "Unless... {w}{size=-10}you don't want to be with me..."
     mc "Unless... {w}{size=-10}you don't want to be with me..."
 
-# game/game/script.rpy:4878
+# game/game/script.rpy:4884
 translate ukrainian mother_memory2_02334109:
 
     # mom "My little man."
     mom "My little man."
 
-# game/game/script.rpy:4879
+# game/game/script.rpy:4885
 translate ukrainian mother_memory2_a01ccbf6:
 
     # mom "If I could stay by your side all my life I would."
     mom "If I could stay by your side all my life I would."
 
-# game/game/script.rpy:4880
+# game/game/script.rpy:4886
 translate ukrainian mother_memory2_6eaafd79:
 
     # mc "Then you promise!?"
-    mc "Then you promise!?"
+    mc "Then you promise!?" with hpunch
 
-# game/game/script.rpy:4882
+# game/game/script.rpy:4888
 translate ukrainian mother_memory2_f864b487_1:
 
     # mom "..."
     mom "..."
 
-# game/game/script.rpy:4884
+# game/game/script.rpy:4890
 translate ukrainian mother_memory2_6db263e3:
 
     # mom "Y-Yes{w}, no one, {w}not even the gods themselves, will prevent me from staying with you."
     mom "Y-Yes{w}, no one, {w}not even the gods themselves, will prevent me from staying with you."
 
-# game/game/script.rpy:4885
+# game/game/script.rpy:4891
 translate ukrainian mother_memory2_ac6c028c:
 
     # mc "Really!?"
-    mc "Really!?"
+    mc "Really!?" with vpunch
 
-# game/game/script.rpy:4887
+# game/game/script.rpy:4893
 translate ukrainian mother_memory2_1919e2ac:
 
     # mom "You're the best thing that ever happened to me [mc]."
     mom "You're the best thing that ever happened to me [mc]."
 
-# game/game/script.rpy:4889
+# game/game/script.rpy:4895
 translate ukrainian mother_memory2_8b105810:
 
     # mc "{size=-10}Why are you crying?"
     mc "{size=-10}Why are you crying?"
 
-# game/game/script.rpy:4890
+# game/game/script.rpy:4896
 translate ukrainian mother_memory2_5a85dc18:
 
     # mom "{size=-10}It's only of happiness..."
     mom "{size=-10}It's only of happiness..."
 
-# game/game/script.rpy:4891
+# game/game/script.rpy:4897
 translate ukrainian mother_memory2_46c81667:
 
     # mom "{size=-10}Since we'll always be together."
     mom "{size=-10}Since we'll always be together."
 
-# game/game/script.rpy:4892
+# game/game/script.rpy:4898
 translate ukrainian mother_memory2_47361e4f:
 
     # mc "{size=-10}Hahaha, sometimes you act weird."
     mc "{size=-10}Hahaha, sometimes you act weird."
 
-# game/game/script.rpy:4893
+# game/game/script.rpy:4899
 translate ukrainian mother_memory2_d66e8f5f:
 
     # mom "{size=-10}Who are you calling weird! {w}Come here!"
-    mom "{size=-10}Who are you calling weird! {w}Come here!"
+    mom "{size=-10}Who are you calling weird! {w}Come here!" with hpunch
 
-# game/game/script.rpy:4894
+# game/game/script.rpy:4900
 translate ukrainian mother_memory2_5e12484a:
 
     # mc "{size=-10}You are suffocating!"
     mc "{size=-10}You are suffocating!"
 
-# game/game/script.rpy:4900
+# game/game/script.rpy:4906
 translate ukrainian mother_memory2_7d48a55c:
 
     # mc "That... {w}that was weird, why was I talking with my mom? {w}At her grave?"
     mc "That... {w}that was weird, why was I talking with my mom? {w}At her grave?"
 
-# game/game/script.rpy:4917
+# game/game/script.rpy:4923
 translate ukrainian back_to_reality_8fea2db2:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/game/script.rpy:4924
+# game/game/script.rpy:4930
 translate ukrainian back_to_reality_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:4930
+# game/game/script.rpy:4936
 translate ukrainian back_to_reality_6ceb43ca:
 
     # "{size=-10}{color=#C9887C}H-Hey, stay away from that!"
-    "{size=-10}{color=#C9887C}H-Hey, stay away from that!"
+    "{size=-10}{color=#C9887C}H-Hey, stay away from that!" with vpunch
 
-# game/game/script.rpy:4931
+# game/game/script.rpy:4937
 translate ukrainian back_to_reality_81da183b:
 
     # "{size=-10}{color=#319B85}Woah, it would take two of me to fill this."
-    "{size=-10}{color=#319B85}Woah, it would take two of me to fill this."
+    "{size=-10}{color=#319B85}Woah, it would take two of me to fill this." with vpunch
 
-# game/game/script.rpy:4932
+# game/game/script.rpy:4938
 translate ukrainian back_to_reality_f11fe657:
 
     # "{size=-10}{color=#319B85}Don't you want to try it?"
     "{size=-10}{color=#319B85}Don't you want to try it?"
 
-# game/game/script.rpy:4933
+# game/game/script.rpy:4939
 translate ukrainian back_to_reality_40c186e5:
 
     # "{size=-10}{color=#C9887C}G-Ghg..."
     "{size=-10}{color=#C9887C}G-Ghg..."
 
-# game/game/script.rpy:4934
+# game/game/script.rpy:4940
 translate ukrainian back_to_reality_3578a982:
 
     # "{size=-10}{color=#C9887C}N-No..."
     "{size=-10}{color=#C9887C}N-No..."
 
-# game/game/script.rpy:4935
+# game/game/script.rpy:4941
 translate ukrainian back_to_reality_f2c7d4a0:
 
     # "{size=-10}{color=#319B85}If you say so."
     "{size=-10}{color=#319B85}If you say so."
 
-# game/game/script.rpy:4940
+# game/game/script.rpy:4946
 translate ukrainian back_to_reality_de1d526a:
 
     # r "{size=-10}W-Well, {w}m-maybe-"
     r "{size=-10}W-Well, {w}m-maybe-"
 
-# game/game/script.rpy:4941
+# game/game/script.rpy:4947
 translate ukrainian back_to_reality_bb6bf58b:
 
     # mc "{size=-9}Hnm... {w}Girls?"
     mc "{size=-9}Hnm... {w}Girls?"
 
-# game/game/script.rpy:4945
+# game/game/script.rpy:4951
 translate ukrainian back_to_reality_19b200c8:
 
     # r "Oh Master~ {w}sorry for waking you up so early."
     r "Oh Master~ {w}sorry for waking you up so early."
 
-# game/game/script.rpy:4947
+# game/game/script.rpy:4953
 translate ukrainian back_to_reality_b15dfdd0:
 
     # r "Good morning, {w}did you sleep well?"
     r "Good morning, {w}did you sleep well?"
 
-# game/game/script.rpy:4948
+# game/game/script.rpy:4954
 translate ukrainian back_to_reality_88d54552:
 
     # mc "{size=-10}Ryoko... {w}Were you talking to me?"
     mc "{size=-10}Ryoko... {w}Were you talking to me?"
 
-# game/game/script.rpy:4950
+# game/game/script.rpy:4956
 translate ukrainian back_to_reality_496fbc23:
 
     # r "Oh sorry, did you hear me while I was talking to Charlotte?"
     r "Oh sorry, did you hear me while I was talking to Charlotte?"
 
-# game/game/script.rpy:4951
+# game/game/script.rpy:4957
 translate ukrainian back_to_reality_f2626437:
 
     # mc "Charlotte?"
     mc "Charlotte?"
 
-# game/game/script.rpy:4953
+# game/game/script.rpy:4959
 translate ukrainian back_to_reality_3383afa7:
 
     # mc "Oh you are also..."
     mc "Oh you are also..."
 
-# game/game/script.rpy:4954
+# game/game/script.rpy:4960
 translate ukrainian back_to_reality_57e1657b:
 
     # mc "{size=-10}...here"
     mc "{size=-10}...here"
 
-# game/game/script.rpy:4955
+# game/game/script.rpy:4961
 translate ukrainian back_to_reality_d19f855d:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:4957
+# game/game/script.rpy:4963
 translate ukrainian back_to_reality_fc35ac7f:
 
     # c "Ryoko told me to do it."
     c "Ryoko told me to do it."
 
-# game/game/script.rpy:4958
+# game/game/script.rpy:4964
 translate ukrainian back_to_reality_75c212f5:
 
     # r "W-What!?"
-    r "W-What!?"
+    r "W-What!?" with vpunch
 
-# game/game/script.rpy:4959
+# game/game/script.rpy:4965
 translate ukrainian back_to_reality_054c5ee0:
 
     # mc "I see."
     mc "I see."
 
-# game/game/script.rpy:4961
+# game/game/script.rpy:4967
 translate ukrainian back_to_reality_2126cf60:
 
     # r "Master! That's not true, I told her not to do it."
     r "Master! That's not true, I told her not to do it."
 
-# game/game/script.rpy:4962
+# game/game/script.rpy:4968
 translate ukrainian back_to_reality_430aa8e2:
 
     # mc "What I will do..."
     mc "What I will do..."
 
-# game/game/script.rpy:4964
+# game/game/script.rpy:4970
 translate ukrainian back_to_reality_32509fe2:
 
     # c "Have her do push-ups with me on top {w}or have her cook me something nice with fish."
     c "Have her do push-ups with me on top {w}or have her cook me something nice with fish."
 
-# game/game/script.rpy:4965
+# game/game/script.rpy:4971
 translate ukrainian back_to_reality_e533f065:
 
     # r "Eh?"
     r "Eh?"
 
-# game/game/script.rpy:4966
+# game/game/script.rpy:4972
 translate ukrainian back_to_reality_282d27ac:
 
     # mc "Oh it sounds tempting."
     mc "Oh it sounds tempting."
 
-# game/game/script.rpy:4968
+# game/game/script.rpy:4974
 translate ukrainian back_to_reality_0f61fe8f:
 
     # r "Eehh~ {w}But I can't do any push-ups and I still don't know how to cook well!"
     r "Eehh~ {w}But I can't do any push-ups and I still don't know how to cook well!"
 
-# game/game/script.rpy:4970
+# game/game/script.rpy:4976
 translate ukrainian back_to_reality_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:4975
+# game/game/script.rpy:4981
 translate ukrainian back_to_reality_e6990582:
 
     # r "It's all your fault! {w}Take that off!"
-    r "It's all your fault! {w}Take that off!"
+    r "It's all your fault! {w}Take that off!" with vpunch
 
-# game/game/script.rpy:4976
+# game/game/script.rpy:4982
 translate ukrainian back_to_reality_2b7d755e:
 
     # c "Wait! {w}It's warm!"
-    c "Wait! {w}It's warm!"
+    c "Wait! {w}It's warm!" with hpunch
 
-# game/game/script.rpy:4978
+# game/game/script.rpy:4984
 translate ukrainian back_to_reality_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:4979
+# game/game/script.rpy:4985
 translate ukrainian back_to_reality_92c1211a:
 
     # c "Wait! {w}Seriously! If you pull it off me, you're going to-"
-    c "Wait! {w}Seriously! If you pull it off me, you're going to-"
+    c "Wait! {w}Seriously! If you pull it off me, you're going to-" with hpunch
 
-# game/game/script.rpy:4980
+# game/game/script.rpy:4986
 translate ukrainian back_to_reality_4fdd3a25:
 
     # r "T-Take it off!"
-    r "T-Take it off!"
+    r "T-Take it off!" with vpunch
 
-# game/game/script.rpy:4982
+# game/game/script.rpy:4988
 translate ukrainian back_to_reality_3b33c74e:
 
     # t "Ryoko has become more relaxed and I practically see her playing or hanging out with Charlotte every day."
     t "Ryoko has become more relaxed and I practically see her playing or hanging out with Charlotte every day."
 
-# game/game/script.rpy:4984
+# game/game/script.rpy:4990
 translate ukrainian back_to_reality_3b3247ce:
 
     # t "Since I started going to Sakura Town, {w}I train her from time to time, but she is very responsible and serious about it."
     t "Since I started going to Sakura Town, {w}I train her from time to time, but she is very responsible and serious about it."
 
-# game/game/script.rpy:4990
+# game/game/script.rpy:4996
 translate ukrainian back_to_reality_4c67d564:
 
     # t "Even if I am not at home, she practices alone."
     t "Even if I am not at home, she practices alone."
 
-# game/game/script.rpy:4996
+# game/game/script.rpy:5002
 translate ukrainian back_to_reality_86950b97:
 
     # r "{size=-10}///~"
     r "{size=-10}///~"
 
-# game/game/script.rpy:4998
+# game/game/script.rpy:5004
 translate ukrainian back_to_reality_af1e431f:
 
     # t "She even got to the point of training with me."
     t "She even got to the point of training with me."
 
-# game/game/script.rpy:5000
+# game/game/script.rpy:5006
 translate ukrainian back_to_reality_a6840266:
 
     # t "As cute as she looks, she's serious business."
     t "As cute as she looks, she's serious business."
 
-# game/game/script.rpy:5001
+# game/game/script.rpy:5007
 translate ukrainian back_to_reality_af7bbc3c:
 
     # t "Once she takes her katana, I must be careful not to get careless."
     t "Once she takes her katana, I must be careful not to get careless."
 
-# game/game/script.rpy:5015
+# game/game/script.rpy:5021
 translate ukrainian back_to_reality_b4f462aa:
 
     # r "Ah-"
     r "Ah-"
 
-# game/game/script.rpy:5016
+# game/game/script.rpy:5022
 translate ukrainian back_to_reality_6f1331b1:
 
     # t "Since we got back from Natsuki's visit and everything that has happened, she has been much more motivated."
     t "Since we got back from Natsuki's visit and everything that has happened, she has been much more motivated."
 
-# game/game/script.rpy:5018
+# game/game/script.rpy:5024
 translate ukrainian back_to_reality_f8430d7a:
 
     # mc "{size=-10}Hmp."
     mc "{size=-10}Hmp."
 
-# game/game/script.rpy:5019
+# game/game/script.rpy:5025
 translate ukrainian back_to_reality_e6f8368f:
 
     # r "a"
     r "a"
 
-# game/game/script.rpy:5020
+# game/game/script.rpy:5026
 translate ukrainian back_to_reality_83372fcd:
 
     # mc "You leave your guard wide open on every move."
     mc "You leave your guard wide open on every move."
 
-# game/game/script.rpy:5023
+# game/game/script.rpy:5029
 translate ukrainian back_to_reality_30d8b551:
 
     # mc "Don't let it slip out of your hands every time you swing, {w}keep a firm grip."
     mc "Don't let it slip out of your hands every time you swing, {w}keep a firm grip."
 
-# game/game/script.rpy:5024
+# game/game/script.rpy:5030
 translate ukrainian back_to_reality_6c065990:
 
     # r "I still can't even touch you Maaaster~"
     r "I still can't even touch you Maaaster~"
 
-# game/game/script.rpy:5026
+# game/game/script.rpy:5032
 translate ukrainian back_to_reality_69991548:
 
     # r "Master [mc] is too strong~"
     r "Master [mc] is too strong~"
 
-# game/game/script.rpy:5027
+# game/game/script.rpy:5033
 translate ukrainian back_to_reality_b24becfc:
 
     # mc "For the little time you have been practicing, you are making a lot of progress."
     mc "For the little time you have been practicing, you are making a lot of progress."
 
-# game/game/script.rpy:5028
+# game/game/script.rpy:5034
 translate ukrainian back_to_reality_cbf941ba:
 
     # r "If Master says so..."
     r "If Master says so..."
 
-# game/game/script.rpy:5030
+# game/game/script.rpy:5036
 translate ukrainian back_to_reality_c3393add:
 
     # t "Just by looking at the condition of her training katana, I can tell how much effort she has put in."
     t "Just by looking at the condition of her training katana, I can tell how much effort she has put in."
 
-# game/game/script.rpy:5031
+# game/game/script.rpy:5037
 translate ukrainian back_to_reality_aa1ece7b:
 
     # t "If Mayu had not made it, it might have already been broken."
     t "If Mayu had not made it, it might have already been broken."
 
-# game/game/script.rpy:5033
+# game/game/script.rpy:5039
 translate ukrainian back_to_reality_a9e66cfd:
 
     # c "Ryoko! {w}They just got out!"
-    c "Ryoko! {w}They just got out!"
+    c "Ryoko! {w}They just got out!" with vpunch
 
-# game/game/script.rpy:5034
+# game/game/script.rpy:5040
 translate ukrainian back_to_reality_21b54de2:
 
     # r "You are lying again, you still have it on!"
     r "You are lying again, you still have it on!"
 
-# game/game/script.rpy:5036
+# game/game/script.rpy:5042
 translate ukrainian back_to_reality_179235fb:
 
     # c "That's not what I mean!"
-    c "That's not what I mean!"
+    c "That's not what I mean!" with vpunch
 
-# game/game/script.rpy:5037
+# game/game/script.rpy:5043
 translate ukrainian back_to_reality_fe6e0ca4:
 
     # r "Stop moving so much!"
     r "Stop moving so much!"
 
-# game/game/script.rpy:5038
+# game/game/script.rpy:5044
 translate ukrainian back_to_reality_e088baa0:
 
     # t "Lately Charlotte has been looking for me when I'm around the house."
     t "Lately Charlotte has been looking for me when I'm around the house."
 
-# game/game/script.rpy:5040
+# game/game/script.rpy:5046
 translate ukrainian back_to_reality_a0bdc914:
 
     # t "Sometimes she comes to wake me up and sometimes she just comes to hang out with me."
     t "Sometimes she comes to wake me up and sometimes she just comes to hang out with me."
 
-# game/game/script.rpy:5041
+# game/game/script.rpy:5047
 translate ukrainian back_to_reality_f76a1b66:
 
     # t "Although lately I accompany her when she climbs on the roof."
     t "Although lately I accompany her when she climbs on the roof."
 
-# game/game/script.rpy:5043
+# game/game/script.rpy:5049
 translate ukrainian back_to_reality_fcf8d035:
 
     # t "She said she would let me accompany her on one of her rounds of the outskirts of town."
     t "She said she would let me accompany her on one of her rounds of the outskirts of town."
 
-# game/game/script.rpy:5044
+# game/game/script.rpy:5050
 translate ukrainian back_to_reality_50045b55:
 
     # t "But it seems that what's holding her back is the fact that I'm constantly going to Sakura Town."
     t "But it seems that what's holding her back is the fact that I'm constantly going to Sakura Town."
 
-# game/game/script.rpy:5048
+# game/game/script.rpy:5054
 translate ukrainian back_to_reality_a2d47147:
 
     # mc "{size=-10}a"
     mc "{size=-10}a"
 
-# game/game/script.rpy:5049
+# game/game/script.rpy:5055
 translate ukrainian back_to_reality_1c4ac661:
 
     # t "One thing I have learned is that this place is more important to her than I thought."
     t "One thing I have learned is that this place is more important to her than I thought."
 
-# game/game/script.rpy:5050
+# game/game/script.rpy:5056
 translate ukrainian back_to_reality_e31459da:
 
     # t "She always does the same routine and never fails."
     t "She always does the same routine and never fails."
 
-# game/game/script.rpy:5052
+# game/game/script.rpy:5058
 translate ukrainian back_to_reality_c5fbb079:
 
     # t "From what she has told me, the {w}\"soldier girl\"{w}, which is what she calls Yui, {w}cannot cover all the sectors of this place."
     t "From what she has told me, the {w}\"soldier girl\"{w}, which is what she calls Yui, {w}cannot cover all the sectors of this place."
 
-# game/game/script.rpy:5054
+# game/game/script.rpy:5060
 translate ukrainian back_to_reality_525b4554:
 
     # t "And since she likes to do everything in secret, if she sees a girl already defending an area, she looks for another one to balance the protection."
     t "And since she likes to do everything in secret, if she sees a girl already defending an area, she looks for another one to balance the protection."
 
-# game/game/script.rpy:5055
+# game/game/script.rpy:5061
 translate ukrainian back_to_reality_c28ee430:
 
     # t "She doesn't like to get involved with people."
     t "She doesn't like to get involved with people."
 
-# game/game/script.rpy:5057
+# game/game/script.rpy:5063
 translate ukrainian back_to_reality_6dfc4c1d:
 
     # t "That's why she was always in her cat form since I met her."
     t "That's why she was always in her cat form since I met her."
 
-# game/game/script.rpy:5058
+# game/game/script.rpy:5064
 translate ukrainian back_to_reality_0bf46012:
 
     # t "But one thing she's mentioned lately is that-"
     t "But one thing she's mentioned lately is that-"
 
-# game/game/script.rpy:5062
+# game/game/script.rpy:5068
 translate ukrainian back_to_reality_08e2ba8a:
 
     # t "-she's waiting for someone..."
     t "-she's waiting for someone..."
 
-# game/game/script.rpy:5063
+# game/game/script.rpy:5069
 translate ukrainian back_to_reality_007be764:
 
     # c "... {size=-10}snif* {w}snif*~"
     c "... {size=-10}snif* {w}snif*~"
 
-# game/game/script.rpy:5065
+# game/game/script.rpy:5071
 translate ukrainian back_to_reality_985c1b5d:
 
     # c "...!"
-    c "...!"
+    c "...!" with hpunch
 
-# game/game/script.rpy:5067
+# game/game/script.rpy:5073
 translate ukrainian back_to_reality_5867876c:
 
     # t "Seeing her smile more and more fills me with joy."
     t "Seeing her smile more and more fills me with joy."
 
-# game/game/script.rpy:5068
+# game/game/script.rpy:5074
 translate ukrainian back_to_reality_d0e331c2:
 
     # t "And since she's been living here, {w}I don't know at what point she became friends with Akane."
     t "And since she's been living here, {w}I don't know at what point she became friends with Akane."
 
-# game/game/script.rpy:5070
+# game/game/script.rpy:5076
 translate ukrainian back_to_reality_640c7bd1:
 
     # c "R-Ryoko!"
-    c "R-Ryoko!"
+    c "R-Ryoko!" with vpunch
 
-# game/game/script.rpy:5071
+# game/game/script.rpy:5077
 translate ukrainian back_to_reality_f3e3af3a:
 
     # c "I w-will never do it aga-"
     c "I w-will never do it aga-"
 
-# game/game/script.rpy:5072
+# game/game/script.rpy:5078
 translate ukrainian back_to_reality_c0e0a88f:
 
     # r "We have to go-"
-    r "We have to go-"
+    r "We have to go-" with hpunch
 
-# game/game/script.rpy:5075
+# game/game/script.rpy:5081
 translate ukrainian back_to_reality_2071d6f2:
 
     # r "-celebrate!"
-    r "-celebrate!"
+    r "-celebrate!" with vpunch
 
-# game/game/script.rpy:5076
+# game/game/script.rpy:5082
 translate ukrainian back_to_reality_d18990a5:
 
     # c "Ggnya!"
-    c "Ggnya!"
+    c "Ggnya!" with vpunch
 
-# game/game/script.rpy:5078
+# game/game/script.rpy:5084
 translate ukrainian back_to_reality_66c1e192:
 
     # mc "{size=-10}Oh."
-    mc "{size=-10}Oh."
+    mc "{size=-10}Oh." (multiple=2)
 
-# game/game/script.rpy:5079
+# game/game/script.rpy:5085
 translate ukrainian back_to_reality_b8ce3971:
 
     # r "{size=-10}Oh."
-    r "{size=-10}Oh."
+    r "{size=-10}Oh." (multiple=2)
 
-# game/game/script.rpy:5081
+# game/game/script.rpy:5087
 translate ukrainian back_to_reality_7d3e2553:
 
     # c "Look what you did!"
     c "Look what you did!"
 
-# game/game/script.rpy:5082
+# game/game/script.rpy:5088
 translate ukrainian back_to_reality_a8c1de24:
 
     # r "Mmm? What's wrong with it? {w}It's like when we bathe together."
     r "Mmm? What's wrong with it? {w}It's like when we bathe together."
 
-# game/game/script.rpy:5083
+# game/game/script.rpy:5089
 translate ukrainian back_to_reality_e64eafcc:
 
     # t "They were bathing together?! {w}I've missed so much since I've been busy?"
-    t "They were bathing together?! {w}I've missed so much since I've been busy?"
+    t "They were bathing together?! {w}I've missed so much since I've been busy?" with hpunch
 
-# game/game/script.rpy:5085
+# game/game/script.rpy:5091
 translate ukrainian back_to_reality_9044b6fa:
 
     # c "Yes, but the human is staring at me! {w}He will go into mating mode."
     c "Yes, but the human is staring at me! {w}He will go into mating mode."
 
-# game/game/script.rpy:5086
+# game/game/script.rpy:5092
 translate ukrainian back_to_reality_e1c36874:
 
     # mc "W-Wh-"
     mc "W-Wh-"
 
-# game/game/script.rpy:5087
+# game/game/script.rpy:5093
 translate ukrainian back_to_reality_6ca2791b:
 
     # r "If that happens, {w}we only have to take care of-"
     r "If that happens, {w}we only have to take care of-"
 
-# game/game/script.rpy:5089
+# game/game/script.rpy:5095
 translate ukrainian back_to_reality_8aa475a5:
 
     # ak "Are you three having fun?"
     ak "Are you three having fun?"
 
-# game/game/script.rpy:5090
+# game/game/script.rpy:5096
 translate ukrainian back_to_reality_03fb3e88_1:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:5092
+# game/game/script.rpy:5098
 translate ukrainian back_to_reality_d56be43f:
 
     # mc "Oh Akan-"
     mc "Oh Akan-"
 
-# game/game/script.rpy:5093
+# game/game/script.rpy:5099
 translate ukrainian back_to_reality_cd4f8759:
 
     # t "Wow."
     t "Wow."
 
-# game/game/script.rpy:5094
+# game/game/script.rpy:5100
 translate ukrainian back_to_reality_c96f7add:
 
     # ak "Do you plan to sleep all day?"
     ak "Do you plan to sleep all day?"
 
-# game/game/script.rpy:5095
+# game/game/script.rpy:5101
 translate ukrainian back_to_reality_0cb62a38:
 
     # r "Sorry Akane, {w}I got distracted with Charlotte..."
     r "Sorry Akane, {w}I got distracted with Charlotte..."
 
-# game/game/script.rpy:5097
+# game/game/script.rpy:5103
 translate ukrainian back_to_reality_5564c251:
 
     # ak "Don't worry Ryoko, {w}you gave me time to prepare the last of it."
     ak "Don't worry Ryoko, {w}you gave me time to prepare the last of it."
 
-# game/game/script.rpy:5098
+# game/game/script.rpy:5104
 translate ukrainian back_to_reality_8c8563dd:
 
     # c "Can we go now?"
     c "Can we go now?"
 
-# game/game/script.rpy:5100
+# game/game/script.rpy:5106
 translate ukrainian back_to_reality_351597d3:
 
     # ak "Sure, {w}I did what you asked."
     ak "Sure, {w}I did what you asked."
 
-# game/game/script.rpy:5101
+# game/game/script.rpy:5107
 translate ukrainian back_to_reality_74727851:
 
     # c "Yees!~"
-    c "Yees!~"
+    c "Yees!~" with vpunch
 
-# game/game/script.rpy:5102
+# game/game/script.rpy:5108
 translate ukrainian back_to_reality_c890fd5e:
 
     # t "... {w}When will be the day she treats me like that?"
     t "... {w}When will be the day she treats me like that?"
 
-# game/game/script.rpy:5104
+# game/game/script.rpy:5110
 translate ukrainian back_to_reality_6e5b4247:
 
     # ak "Can you stop looking at me while you are completely naked? {w}It gives me the creeps."
     ak "Can you stop looking at me while you are completely naked? {w}It gives me the creeps."
 
-# game/game/script.rpy:5105
+# game/game/script.rpy:5111
 translate ukrainian back_to_reality_6f29fa84:
 
     # mc "O-Oh, right."
     mc "O-Oh, right."
 
-# game/game/script.rpy:5107
+# game/game/script.rpy:5113
 translate ukrainian back_to_reality_449a489c:
 
     # ak "Why don't you move?"
     ak "Why don't you move?"
 
-# game/game/script.rpy:5108
+# game/game/script.rpy:5114
 translate ukrainian back_to_reality_9ee76a4c:
 
     # mc "Sorr-"
     mc "Sorr-"
 
-# game/game/script.rpy:5110
+# game/game/script.rpy:5116
 translate ukrainian back_to_reality_5e174dbd:
 
     # ak "Haa Mooh~"
     ak "Haa Mooh~"
 
-# game/game/script.rpy:5111
+# game/game/script.rpy:5117
 translate ukrainian back_to_reality_16ad1555:
 
     # ak "Ryoko, {w}can you pass me his sweatshirt?"
     ak "Ryoko, {w}can you pass me his sweatshirt?"
 
-# game/game/script.rpy:5112
+# game/game/script.rpy:5118
 translate ukrainian back_to_reality_acde69b9:
 
     # r "Oh, here you go~"
     r "Oh, here you go~"
 
-# game/game/script.rpy:5114
+# game/game/script.rpy:5120
 translate ukrainian back_to_reality_ad831f16:
 
     # ak "You can go and sit down in the meantime."
     ak "You can go and sit down in the meantime."
 
-# game/game/script.rpy:5115
+# game/game/script.rpy:5121
 translate ukrainian back_to_reality_b3ade730:
 
     # r "Okay~"
-    r "Okay~"
+    r "Okay~" (multiple=2)
 
-# game/game/script.rpy:5116
+# game/game/script.rpy:5122
 translate ukrainian back_to_reality_d6829b7a:
 
     # c "Okay~"
-    c "Okay~"
+    c "Okay~" (multiple=2)
 
-# game/game/script.rpy:5118
+# game/game/script.rpy:5124
 translate ukrainian back_to_reality_46b79df3:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:5119
+# game/game/script.rpy:5125
 translate ukrainian back_to_reality_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5120
+# game/game/script.rpy:5126
 translate ukrainian back_to_reality_1a8ff146:
 
     # t "Akane continues to research possible recipes to help better control her bloodlust."
     t "Akane continues to research possible recipes to help better control her bloodlust."
 
-# game/game/script.rpy:5122
+# game/game/script.rpy:5128
 translate ukrainian back_to_reality_24169127:
 
     # ak "Sigh~ {w}What a careless man, you should take more care of your image."
     ak "Sigh~ {w}What a careless man, you should take more care of your image."
 
-# game/game/script.rpy:5123
+# game/game/script.rpy:5129
 translate ukrainian back_to_reality_803bda65:
 
     # mc "I couldn't look good next to you even if I wanted to, {w}your beauty would dull me."
     mc "I couldn't look good next to you even if I wanted to, {w}your beauty would dull me."
 
-# game/game/script.rpy:5125
+# game/game/script.rpy:5131
 translate ukrainian back_to_reality_a2663493:
 
     # ak "Yes yes, {w}I have already told you that your flattery is useless..."
     ak "Yes yes, {w}I have already told you that your flattery is useless..."
 
-# game/game/script.rpy:5126
+# game/game/script.rpy:5132
 translate ukrainian back_to_reality_e850eec7:
 
     # mc "I was just telling the truth."
     mc "I was just telling the truth."
 
-# game/game/script.rpy:5128
+# game/game/script.rpy:5134
 translate ukrainian back_to_reality_ad63bbf0:
 
     # ak "Do you know that everything you say gets blown away by the wind if you do it while you're not wearing pants?"
     ak "Do you know that everything you say gets blown away by the wind if you do it while you're not wearing pants?"
 
-# game/game/script.rpy:5130
+# game/game/script.rpy:5136
 translate ukrainian back_to_reality_b8de06d3:
 
     # mc "Oh."
     mc "Oh."
 
-# game/game/script.rpy:5132
+# game/game/script.rpy:5138
 translate ukrainian back_to_reality_98165e78:
 
     # t "It's great how well she has adapted to this place, {w}teaching Ryoko to cook has really brought them together."
     t "It's great how well she has adapted to this place, {w}teaching Ryoko to cook has really brought them together."
 
-# game/game/script.rpy:5134
+# game/game/script.rpy:5140
 translate ukrainian back_to_reality_f0ec3a09:
 
     # t "Sometimes I accompany her when she is reading in the backyard."
     t "Sometimes I accompany her when she is reading in the backyard."
 
-# game/game/script.rpy:5138
+# game/game/script.rpy:5144
 translate ukrainian back_to_reality_7bf12c68:
 
     # t "Although she uses me as her personal chair, {w}she now initiates conversations with me."
     t "Although she uses me as her personal chair, {w}she now initiates conversations with me."
 
-# game/game/script.rpy:5139
+# game/game/script.rpy:5145
 translate ukrainian back_to_reality_900d70c4:
 
     # t "She doesn't tell me much about her other than everything I know, {w}It is very rare that she talks about herself."
     t "She doesn't tell me much about her other than everything I know, {w}It is very rare that she talks about herself."
 
-# game/game/script.rpy:5141
+# game/game/script.rpy:5147
 translate ukrainian back_to_reality_7b08c175:
 
     # t "But one thing she told me was that, {w}she lost a lot of people because of her bloodlust..."
     t "But one thing she told me was that, {w}she lost a lot of people because of her bloodlust..."
 
-# game/game/script.rpy:5142
+# game/game/script.rpy:5148
 translate ukrainian back_to_reality_63473224:
 
     # t "And she won't give me any more details than that."
     t "And she won't give me any more details than that."
 
-# game/game/script.rpy:5144
+# game/game/script.rpy:5150
 translate ukrainian back_to_reality_4db4d532:
 
     # t "And although she always tries to push everyone away, {w}with Ryoko and Charlotte it's not like that."
     t "And although she always tries to push everyone away, {w}with Ryoko and Charlotte it's not like that."
 
-# game/game/script.rpy:5152
+# game/game/script.rpy:5158
 translate ukrainian back_to_reality_f4b2784a:
 
     # ak "...!"
     ak "...!"
 
-# game/game/script.rpy:5154
+# game/game/script.rpy:5160
 translate ukrainian back_to_reality_b9b755e5_1:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:5155
+# game/game/script.rpy:5161
 translate ukrainian back_to_reality_d3c59263:
 
     # t "Perhaps their differences and situations made them get along immediately."
     t "Perhaps their differences and situations made them get along immediately."
 
-# game/game/script.rpy:5158
+# game/game/script.rpy:5164
 translate ukrainian back_to_reality_34faf565:
 
     # t "Ryoko told me that Akane's laugh is very cute."
     t "Ryoko told me that Akane's laugh is very cute."
 
-# game/game/script.rpy:5159
+# game/game/script.rpy:5165
 translate ukrainian back_to_reality_aeaae030:
 
     # t "She has heard her laughing at the top of her lungs."
     t "She has heard her laughing at the top of her lungs."
 
-# game/game/script.rpy:5161
+# game/game/script.rpy:5167
 translate ukrainian back_to_reality_bcfe77e3:
 
     # t "But right now."
     t "But right now."
 
-# game/game/script.rpy:5162
+# game/game/script.rpy:5168
 translate ukrainian back_to_reality_3e8a10d0:
 
     # t "She's rushing me."
     t "She's rushing me."
 
-# game/game/script.rpy:5164
+# game/game/script.rpy:5170
 translate ukrainian back_to_reality_8e7d8867:
 
     # ak "{size=-10}It's amazing how long it takes you to get dressed."
     ak "{size=-10}It's amazing how long it takes you to get dressed."
 
-# game/game/script.rpy:5165
+# game/game/script.rpy:5171
 translate ukrainian back_to_reality_28c3a004:
 
     # ak "{size=-10}If it were an emergency I could not count on you."
     ak "{size=-10}If it were an emergency I could not count on you."
 
-# game/game/script.rpy:5167
+# game/game/script.rpy:5173
 translate ukrainian back_to_reality_0f8d8dc1:
 
     # mc "{size=-10}Was it necessary for you to look at me while I was doing it?"
     mc "{size=-10}Was it necessary for you to look at me while I was doing it?"
 
-# game/game/script.rpy:5168
+# game/game/script.rpy:5174
 translate ukrainian back_to_reality_5b8e8bb7:
 
     # ak "{size=-10}S-Shut up! {w}I'm waiting for you! And I do what I want!"
-    ak "{size=-10}S-Shut up! {w}I'm waiting for you! And I do what I want!"
+    ak "{size=-10}S-Shut up! {w}I'm waiting for you! And I do what I want!" with hpunch
 
-# game/game/script.rpy:5170
+# game/game/script.rpy:5176
 translate ukrainian back_to_reality_4003fa3e:
 
     # ak "Are you ready? {w}Let's go..."
     ak "Are you ready? {w}Let's go..."
 
-# game/game/script.rpy:5171
+# game/game/script.rpy:5177
 translate ukrainian back_to_reality_f800bed0:
 
     # mc "Yes."
     mc "Yes."
 
-# game/game/script.rpy:5172
+# game/game/script.rpy:5178
 translate ukrainian back_to_reality_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5173
+# game/game/script.rpy:5179
 translate ukrainian back_to_reality_31a345d8:
 
     # mc "Akan-?"
     mc "Akan-?"
 
-# game/game/script.rpy:5177
+# game/game/script.rpy:5183
 translate ukrainian back_to_reality_4698326e:
 
     # mc "Eh-"
     mc "Eh-"
 
-# game/game/script.rpy:5178
+# game/game/script.rpy:5184
 translate ukrainian back_to_reality_8942e26c:
 
     # ak "{size=-10}Tshuu~"
     ak "{size=-10}Tshuu~"
 
-# game/game/script.rpy:5179
+# game/game/script.rpy:5185
 translate ukrainian back_to_reality_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5180
+# game/game/script.rpy:5186
 translate ukrainian back_to_reality_279b9138:
 
     # t "She now does this without warning, {w}I should have known, {w}she always gets like a tomato when she's going to do this."
     t "She now does this without warning, {w}I should have known, {w}she always gets like a tomato when she's going to do this."
 
-# game/game/script.rpy:5182
+# game/game/script.rpy:5188
 translate ukrainian back_to_reality_cd6689f5:
 
     # ak "{size=-8}That should do it."
     ak "{size=-8}That should do it."
 
-# game/game/script.rpy:5183
+# game/game/script.rpy:5189
 translate ukrainian back_to_reality_3d8b4a5f:
 
     # mc "{size=-8}Uhm? {w}So fast?"
     mc "{size=-8}Uhm? {w}So fast?"
 
-# game/game/script.rpy:5185
+# game/game/script.rpy:5191
 translate ukrainian back_to_reality_a6cf630a:
 
     # ak "{size=-8}I don't want them to see me."
     ak "{size=-8}I don't want them to see me."
 
-# game/game/script.rpy:5186
+# game/game/script.rpy:5192
 translate ukrainian back_to_reality_e9f315bd:
 
     # ak "{size=-8}And if I suck you too much, {w}I will leave you very tired by the time you go to the other town."
     ak "{size=-8}And if I suck you too much, {w}I will leave you very tired by the time you go to the other town."
 
-# game/game/script.rpy:5187
+# game/game/script.rpy:5193
 translate ukrainian back_to_reality_44fa84c0:
 
     # mc "Heh."
     mc "Heh."
 
-# game/game/script.rpy:5189
+# game/game/script.rpy:5195
 translate ukrainian back_to_reality_eb510e63:
 
     # ak "Take off that perverted face and move."
     ak "Take off that perverted face and move."
 
-# game/game/script.rpy:5190
+# game/game/script.rpy:5196
 translate ukrainian back_to_reality_c7ed12b2:
 
     # ak "The food is going to get cold."
     ak "The food is going to get cold."
 
-# game/game/script.rpy:5191
+# game/game/script.rpy:5197
 translate ukrainian back_to_reality_681fc7a9:
 
     # mc "Food?"
     mc "Food?"
 
-# game/game/script.rpy:5194
+# game/game/script.rpy:5200
 translate ukrainian back_to_reality_792ba627:
 
     # mc "Wow, and all this f-?"
     mc "Wow, and all this f-?"
 
-# game/game/script.rpy:5195
+# game/game/script.rpy:5201
 translate ukrainian back_to_reality_5979559b:
 
     # r "Is this okay?"
     r "Is this okay?"
 
-# game/game/script.rpy:5197
+# game/game/script.rpy:5203
 translate ukrainian back_to_reality_368ba024:
 
     # t "What are they doing...?"
     t "What are they doing...?"
 
-# game/game/script.rpy:5198
+# game/game/script.rpy:5204
 translate ukrainian back_to_reality_056853a8:
 
     # c "Mmm... {w}you have to lower your head more, try to make your shoulders touch the floor but not your butt."
     c "Mmm... {w}you have to lower your head more, try to make your shoulders touch the floor but not your butt."
 
-# game/game/script.rpy:5199
+# game/game/script.rpy:5205
 translate ukrainian back_to_reality_2b6733d4:
 
     # r "Leave my butt up?"
     r "Leave my butt up?"
 
-# game/game/script.rpy:5201
+# game/game/script.rpy:5207
 translate ukrainian back_to_reality_fc6f1045:
 
     # r "H-How about t-this?"
     r "H-How about t-this?"
 
-# game/game/script.rpy:5202
+# game/game/script.rpy:5208
 translate ukrainian back_to_reality_f38ddc23:
 
     # c "Mmm... {w}no... {w}you're doing something wrong."
     c "Mmm... {w}no... {w}you're doing something wrong."
 
-# game/game/script.rpy:5203
+# game/game/script.rpy:5209
 translate ukrainian back_to_reality_f61a4b15:
 
     # ak "Hey... girls, we're ready."
     ak "Hey... girls, we're ready."
 
-# game/game/script.rpy:5205
+# game/game/script.rpy:5211
 translate ukrainian back_to_reality_7aab7858:
 
     # r "Oh, sorry, I wanted Charlotte to teach me how to stretch like her."
     r "Oh, sorry, I wanted Charlotte to teach me how to stretch like her."
 
-# game/game/script.rpy:5206
+# game/game/script.rpy:5212
 translate ukrainian back_to_reality_b9be17f0:
 
     # c "I can eat fish now?"
     c "I can eat fish now?"
 
-# game/game/script.rpy:5208
+# game/game/script.rpy:5214
 translate ukrainian back_to_reality_56df566d:
 
     # ak "Come on, {w}let's sit down."
     ak "Come on, {w}let's sit down."
 
-# game/game/script.rpy:5209
+# game/game/script.rpy:5215
 translate ukrainian back_to_reality_4907a152:
 
     # c "This looks very delicious..."
     c "This looks very delicious..."
 
-# game/game/script.rpy:5210
+# game/game/script.rpy:5216
 translate ukrainian back_to_reality_eae616f3:
 
     # r "I wish I could cook like Akane..."
     r "I wish I could cook like Akane..."
 
-# game/game/script.rpy:5211
+# game/game/script.rpy:5217
 translate ukrainian back_to_reality_aaf9cd89:
 
     # ak "You just need more practice!"
     ak "You just need more practice!"
 
-# game/game/script.rpy:5212
+# game/game/script.rpy:5218
 translate ukrainian back_to_reality_92af2fec:
 
     # ak "Mmm?"
     ak "Mmm?"
 
-# game/game/script.rpy:5214
+# game/game/script.rpy:5220
 translate ukrainian back_to_reality_61829fb3:
 
     # ak "What's up? {w}Not hungry?"
     ak "What's up? {w}Not hungry?"
 
-# game/game/script.rpy:5215
+# game/game/script.rpy:5221
 translate ukrainian back_to_reality_e8cc0849:
 
     # mc "This is a very big breakfast, {w}what is the reason for this?"
     mc "This is a very big breakfast, {w}what is the reason for this?"
 
-# game/game/script.rpy:5217
+# game/game/script.rpy:5223
 translate ukrainian back_to_reality_b5e058ad:
 
     # r "I told Akane everything you've been doing."
     r "I told Akane everything you've been doing."
 
-# game/game/script.rpy:5218
+# game/game/script.rpy:5224
 translate ukrainian back_to_reality_bb0216ba:
 
     # c "And she wanted to do this to celebrate your joining the adventurers."
     c "And she wanted to do this to celebrate your joining the adventurers."
 
-# game/game/script.rpy:5219
+# game/game/script.rpy:5225
 translate ukrainian back_to_reality_c9799299:
 
     # ak "{size=-10}Eh-"
     ak "{size=-10}Eh-"
 
-# game/game/script.rpy:5220
+# game/game/script.rpy:5226
 translate ukrainian back_to_reality_054c5ee0_1:
 
     # mc "I see."
     mc "I see."
 
-# game/game/script.rpy:5222
+# game/game/script.rpy:5228
 translate ukrainian back_to_reality_c67c096b:
 
     # ak "Eeeh!?"
-    ak "Eeeh!?"
+    ak "Eeeh!?" with hpunch
 
-# game/game/script.rpy:5224
+# game/game/script.rpy:5230
 translate ukrainian back_to_reality_18c80a8a:
 
     # ak "{size=-10}I told you not to say anything!"
-    ak "{size=-10}I told you not to say anything!"
+    ak "{size=-10}I told you not to say anything!" with vpunch
 
-# game/game/script.rpy:5225
+# game/game/script.rpy:5231
 translate ukrainian back_to_reality_9a0da073:
 
     # r "Whoops~"
     r "Whoops~"
 
-# game/game/script.rpy:5227
+# game/game/script.rpy:5233
 translate ukrainian back_to_reality_8a2ebdd0:
 
     # mc "I-I didn't know... {w}you loved me so much... {w}{size=-10}Snif*."
     mc "I-I didn't know... {w}you loved me so much... {w}{size=-10}Snif*."
 
-# game/game/script.rpy:5229
+# game/game/script.rpy:5235
 translate ukrainian back_to_reality_44869d2a:
 
     # c "Everything will be fine."
-    c "Everything will be fine."
+    c "Everything will be fine." (multiple=2)
 
-# game/game/script.rpy:5230
+# game/game/script.rpy:5236
 translate ukrainian back_to_reality_0a751dd1:
 
     # r "Iosh~ iosh~{image=corazon}"
-    r "Iosh~ iosh~{image=corazon}"
+    r "Iosh~ iosh~{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5232
+# game/game/script.rpy:5238
 translate ukrainian back_to_reality_9ff294a4:
 
     # ak "{size=+7}Stop playing along and start eating!!!"
-    ak "{size=+7}Stop playing along and start eating!!!"
+    ak "{size=+7}Stop playing along and start eating!!!" with hpunch
 
-# game/game/script.rpy:5233
+# game/game/script.rpy:5239
 translate ukrainian back_to_reality_fe350999:
 
     # "Hahahahaha."
-    "Hahahahaha."
+    "Hahahahaha." with hpunch
 
-# game/game/script.rpy:5238
+# game/game/script.rpy:5244
 translate ukrainian back_to_reality_3ff0341c:
 
     # t "Wow, that was delicious."
     t "Wow, that was delicious."
 
-# game/game/script.rpy:5240
+# game/game/script.rpy:5246
 translate ukrainian back_to_reality_fa33adc3:
 
     # r "Haa~ {w}I couldn't stop eating~"
     r "Haa~ {w}I couldn't stop eating~"
 
-# game/game/script.rpy:5241
+# game/game/script.rpy:5247
 translate ukrainian back_to_reality_6bba4ebd:
 
     # mc "That makes two of us, I feel I have gained energy for weeks."
     mc "That makes two of us, I feel I have gained energy for weeks."
 
-# game/game/script.rpy:5242
+# game/game/script.rpy:5248
 translate ukrainian back_to_reality_46b79df3_1:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:5244
+# game/game/script.rpy:5250
 translate ukrainian back_to_reality_9086a5a0:
 
     # mc "Hahaha, {w}what's up with that belly?"
     mc "Hahaha, {w}what's up with that belly?"
 
-# game/game/script.rpy:5245
+# game/game/script.rpy:5251
 translate ukrainian back_to_reality_4b7c72e0:
 
     # c "I can't eat anymore~"
     c "I can't eat anymore~"
 
-# game/game/script.rpy:5246
+# game/game/script.rpy:5252
 translate ukrainian back_to_reality_000f46cc:
 
     # c "It is the best fish I have ever tasted..."
     c "It is the best fish I have ever tasted..."
 
-# game/game/script.rpy:5248
+# game/game/script.rpy:5254
 translate ukrainian back_to_reality_03dc6b63:
 
     # r "Akane has magic hands..."
     r "Akane has magic hands..."
 
-# game/game/script.rpy:5249
+# game/game/script.rpy:5255
 translate ukrainian back_to_reality_c7fa5231:
 
     # c "I want you to cook fish for me forever~"
     c "I want you to cook fish for me forever~"
 
-# game/game/script.rpy:5250
+# game/game/script.rpy:5256
 translate ukrainian back_to_reality_c3e36738:
 
     # t "Looks like someone is happy."
     t "Looks like someone is happy."
 
-# game/game/script.rpy:5252
+# game/game/script.rpy:5258
 translate ukrainian back_to_reality_80ab26d1:
 
     # t "There she is."
     t "There she is."
 
-# game/game/script.rpy:5254
+# game/game/script.rpy:5260
 translate ukrainian back_to_reality_a43ca41f:
 
     # ak "I guess you feel in perfect condition to continue helping out there, right?"
     ak "I guess you feel in perfect condition to continue helping out there, right?"
 
-# game/game/script.rpy:5255
+# game/game/script.rpy:5261
 translate ukrainian back_to_reality_92c46e8c:
 
     # mc "Of course, {w}thank you Akane."
     mc "Of course, {w}thank you Akane."
 
-# game/game/script.rpy:5256
+# game/game/script.rpy:5262
 translate ukrainian back_to_reality_9e7962f2:
 
     # ak "It's not like I did it for you either."
     ak "It's not like I did it for you either."
 
-# game/game/script.rpy:5258
+# game/game/script.rpy:5264
 translate ukrainian back_to_reality_859c5f8f:
 
     # r "Mmm? {w}But the other day I heard you say that you felt Master was tired."
     r "Mmm? {w}But the other day I heard you say that you felt Master was tired."
 
-# game/game/script.rpy:5259
+# game/game/script.rpy:5265
 translate ukrainian back_to_reality_8d9a97fe:
 
     # c "Is that why she looked worried?"
     c "Is that why she looked worried?"
 
-# game/game/script.rpy:5261
+# game/game/script.rpy:5267
 translate ukrainian back_to_reality_3740c1a7:
 
     # ak "W-What are you going to do now?!"
-    ak "W-What are you going to do now?!"
+    ak "W-What are you going to do now?!" with vpunch
 
-# game/game/script.rpy:5262
+# game/game/script.rpy:5268
 translate ukrainian back_to_reality_b743e090:
 
     # mc "Mmm... {w}I'll take a bath before going to Sakura Town."
     mc "Mmm... {w}I'll take a bath before going to Sakura Town."
 
-# game/game/script.rpy:5264
+# game/game/script.rpy:5270
 translate ukrainian back_to_reality_31a45124:
 
     # ak "Then don't waste your time, go right now."
     ak "Then don't waste your time, go right now."
 
-# game/game/script.rpy:5265
+# game/game/script.rpy:5271
 translate ukrainian back_to_reality_ddc85723:
 
     # ak "I'm going to clean this up."
     ak "I'm going to clean this up."
 
-# game/game/script.rpy:5267
+# game/game/script.rpy:5273
 translate ukrainian back_to_reality_17993b19:
 
     # mc "But I can help you."
     mc "But I can help you."
 
-# game/game/script.rpy:5268
+# game/game/script.rpy:5274
 translate ukrainian back_to_reality_35151d78:
 
     # ak "Go!"
-    ak "Go!"
+    ak "Go!" with hpunch
 
-# game/game/script.rpy:5269
+# game/game/script.rpy:5275
 translate ukrainian back_to_reality_11441aeb:
 
     # "Akane takes the trays and leaves quickly."
     "Akane takes the trays and leaves quickly."
 
-# game/game/script.rpy:5270
+# game/game/script.rpy:5276
 translate ukrainian back_to_reality_df0d6382:
 
     # r "Don't worry Master, we will help her."
     r "Don't worry Master, we will help her."
 
-# game/game/script.rpy:5271
+# game/game/script.rpy:5277
 translate ukrainian back_to_reality_c49b1fb9:
 
     # mc "All right."
     mc "All right."
 
-# game/game/script.rpy:5276
+# game/game/script.rpy:5282
 translate ukrainian back_to_reality_d240e002:
 
     # t "What a great way to start the day."
     t "What a great way to start the day."
 
-# game/game/script.rpy:5277
+# game/game/script.rpy:5283
 translate ukrainian back_to_reality_0ec6f966:
 
     # t "If every day was as good as this one, I would be the happiest man alive."
     t "If every day was as good as this one, I would be the happiest man alive."
 
-# game/game/script.rpy:5279
+# game/game/script.rpy:5285
 translate ukrainian back_to_reality_7fd66edd:
 
     # t "But something is bothering me, I feel a discomfort in my mind."
     t "But something is bothering me, I feel a discomfort in my mind."
 
-# game/game/script.rpy:5280
+# game/game/script.rpy:5286
 translate ukrainian back_to_reality_635b55b0:
 
     # t "As if I were forgetting something."
     t "As if I were forgetting something."
 
-# game/game/script.rpy:5281
+# game/game/script.rpy:5287
 translate ukrainian back_to_reality_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5282
+# game/game/script.rpy:5288
 translate ukrainian back_to_reality_4cdcb275:
 
     # t "Maybe Akane is right, {w}am I really tired?"
     t "Maybe Akane is right, {w}am I really tired?"
 
-# game/game/script.rpy:5283
+# game/game/script.rpy:5289
 translate ukrainian back_to_reality_edb79691:
 
     # t "It's better not to think about it, {w}I want to keep enjoying myself and there is nothing that can make this day even better."
     t "It's better not to think about it, {w}I want to keep enjoying myself and there is nothing that can make this day even better."
 
-# game/game/script.rpy:5287
+# game/game/script.rpy:5293
 translate ukrainian back_to_reality_066da81f:
 
     # r "We are on time!"
-    r "We are on time!"
+    r "We are on time!" with vpunch
 
-# game/game/script.rpy:5288
+# game/game/script.rpy:5294
 translate ukrainian back_to_reality_af8b9d87:
 
     # c "You are right, {w}the human takes his time when bathing."
     c "You are right, {w}the human takes his time when bathing."
 
-# game/game/script.rpy:5289
+# game/game/script.rpy:5295
 translate ukrainian back_to_reality_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5291
+# game/game/script.rpy:5297
 translate ukrainian back_to_reality_2daef8d5:
 
     # c "{size=-7}Sorry to interrupt."
     c "{size=-7}Sorry to interrupt."
 
-# game/game/script.rpy:5292
+# game/game/script.rpy:5298
 translate ukrainian back_to_reality_909930bd:
 
     # r "Master [mc], {w}may we join you?"
     r "Master [mc], {w}may we join you?"
 
-# game/game/script.rpy:5293
+# game/game/script.rpy:5299
 translate ukrainian back_to_reality_dcc26c57:
 
     # mc "Ah.. {w}ehm... {w}yeah..."
     mc "Ah.. {w}ehm... {w}yeah..."
 
-# game/game/script.rpy:5298
+# game/game/script.rpy:5304
 translate ukrainian ryochar_gal0_5528da3f:
 
     # r "I told you he wouldn't bother."
     r "I told you he wouldn't bother."
 
-# game/game/script.rpy:5299
+# game/game/script.rpy:5305
 translate ukrainian ryochar_gal0_4f81a8a8:
 
     # c "You were right."
     c "You were right."
 
-# game/game/script.rpy:5301
+# game/game/script.rpy:5307
 translate ukrainian ryochar_gal0_f6572b50:
 
     # r "Shall I wash your hair?~"
     r "Shall I wash your hair?~"
 
-# game/game/script.rpy:5302
+# game/game/script.rpy:5308
 translate ukrainian ryochar_gal0_fde0685b:
 
     # c "Okay~ {w}then I'll do it for you."
     c "Okay~ {w}then I'll do it for you."
 
-# game/game/script.rpy:5303
+# game/game/script.rpy:5309
 translate ukrainian ryochar_gal0_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5305
+# game/game/script.rpy:5311
 translate ukrainian ryochar_gal0_d1b69f24:
 
     # r "Hehehe {w}the water is perfect!"
     r "Hehehe {w}the water is perfect!"
 
-# game/game/script.rpy:5306
+# game/game/script.rpy:5312
 translate ukrainian ryochar_gal0_c1cfb680:
 
     # c "Don't move too much! {w}You may fall."
     c "Don't move too much! {w}You may fall."
 
-# game/game/script.rpy:5307
+# game/game/script.rpy:5313
 translate ukrainian ryochar_gal0_561e575c:
 
     # t "Did I just die without noticing?"
     t "Did I just die without noticing?"
 
-# game/game/script.rpy:5309
+# game/game/script.rpy:5315
 translate ukrainian ryochar_gal0_392f9d50:
 
     # r "We have to get nice and clean~"
     r "We have to get nice and clean~"
 
-# game/game/script.rpy:5310
+# game/game/script.rpy:5316
 translate ukrainian ryochar_gal0_eb657ed7:
 
     # c "I got water in my eyes..."
     c "I got water in my eyes..."
 
-# game/game/script.rpy:5311
+# game/game/script.rpy:5317
 translate ukrainian ryochar_gal0_8f5bb9d3:
 
     # t "These girls..."
     t "These girls..."
 
-# game/game/script.rpy:5313
+# game/game/script.rpy:5319
 translate ukrainian ryochar_gal0_b5008167:
 
     # r "Come, let me wash your back."
     r "Come, let me wash your back."
 
-# game/game/script.rpy:5314
+# game/game/script.rpy:5320
 translate ukrainian ryochar_gal0_e595ee7e:
 
     # c "Uhm."
     c "Uhm."
 
-# game/game/script.rpy:5315
+# game/game/script.rpy:5321
 translate ukrainian ryochar_gal0_99bb1a9d:
 
     # mc "D-Do you-"
-    mc "D-Do you-"
+    mc "D-Do you-" with vpunch
 
-# game/game/script.rpy:5317
+# game/game/script.rpy:5323
 translate ukrainian ryochar_gal0_063461aa:
 
     # c "Mmm?"
-    c "Mmm?"
+    c "Mmm?" (multiple=2)
 
-# game/game/script.rpy:5318
+# game/game/script.rpy:5324
 translate ukrainian ryochar_gal0_a70334b4:
 
     # r "Mmm?"
-    r "Mmm?"
+    r "Mmm?" (multiple=2)
 
-# game/game/script.rpy:5319
+# game/game/script.rpy:5325
 translate ukrainian ryochar_gal0_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5320
+# game/game/script.rpy:5326
 translate ukrainian ryochar_gal0_8a211e5b:
 
     # mc "Do you want me to... do it?"
     mc "Do you want me to... do it?"
 
-# game/game/script.rpy:5322
+# game/game/script.rpy:5328
 translate ukrainian ryochar_gal0_8e17cebf:
 
     # r "Yes!~{image=corazon}"
-    r "Yes!~{image=corazon}"
+    r "Yes!~{image=corazon}" with vpunch
 
-# game/game/script.rpy:5323
+# game/game/script.rpy:5329
 translate ukrainian ryochar_gal0_86d918ae:
 
     # c "That would be very helpful..."
     c "That would be very helpful..."
 
-# game/game/script.rpy:5324
+# game/game/script.rpy:5330
 translate ukrainian ryochar_gal0_399359c9:
 
     # mc "Ok... {w}have a seat then."
     mc "Ok... {w}have a seat then."
 
-# game/game/script.rpy:5325
+# game/game/script.rpy:5331
 translate ukrainian ryochar_gal0_91b35c23:
 
     # c "Uhm."
-    c "Uhm."
+    c "Uhm." (multiple=2)
 
-# game/game/script.rpy:5326
+# game/game/script.rpy:5332
 translate ukrainian ryochar_gal0_67ab080d:
 
     # r "Uhm~"
-    r "Uhm~"
+    r "Uhm~" (multiple=2)
 
-# game/game/script.rpy:5328
+# game/game/script.rpy:5334
 translate ukrainian ryochar_gal0_16678c83:
 
     # r "But are you sure Master? {w}You were already in the bathtub."
     r "But are you sure Master? {w}You were already in the bathtub."
 
-# game/game/script.rpy:5329
+# game/game/script.rpy:5335
 translate ukrainian ryochar_gal0_ec139f4d:
 
     # mc "Don't worry, let me treat myself."
     mc "Don't worry, let me treat myself."
 
-# game/game/script.rpy:5331
+# game/game/script.rpy:5337
 translate ukrainian ryochar_gal0_33400047:
 
     # c "Treat?"
     c "Treat?"
 
-# game/game/script.rpy:5332
+# game/game/script.rpy:5338
 translate ukrainian ryochar_gal0_d627b324:
 
     # mc "I mean... {w}I want to spend some more time with you before I leave..."
     mc "I mean... {w}I want to spend some more time with you before I leave..."
 
-# game/game/script.rpy:5333
+# game/game/script.rpy:5339
 translate ukrainian ryochar_gal0_2553479c:
 
     # r "Hehehe, I'm glad Master likes our company."
     r "Hehehe, I'm glad Master likes our company."
 
-# game/game/script.rpy:5335
+# game/game/script.rpy:5341
 translate ukrainian ryochar_gal0_d6e31983:
 
     # t "Well, I'll start washing her back."
     t "Well, I'll start washing her back."
 
-# game/game/script.rpy:5336
+# game/game/script.rpy:5342
 translate ukrainian ryochar_gal0_d3784449:
 
     # t "Or so I would like to say."
     t "Or so I would like to say."
 
-# game/game/script.rpy:5338
+# game/game/script.rpy:5344
 translate ukrainian ryochar_gal0_8f7b8e1b:
 
     # t "This guy down here is ready for battle."
     t "This guy down here is ready for battle."
 
-# game/game/script.rpy:5339
+# game/game/script.rpy:5345
 translate ukrainian ryochar_gal0_1570a6cb:
 
     # c "Is something wrong, Human?"
     c "Is something wrong, Human?"
 
-# game/game/script.rpy:5340
+# game/game/script.rpy:5346
 translate ukrainian ryochar_gal0_32d089fc:
 
     # mc "A-Ah no, here I come, {w}don't turn around or it might get in your eyes..."
     mc "A-Ah no, here I come, {w}don't turn around or it might get in your eyes..."
 
-# game/game/script.rpy:5341
+# game/game/script.rpy:5347
 translate ukrainian ryochar_gal0_57eca6c9:
 
     # r "Okay~"
     r "Okay~"
 
-# game/game/script.rpy:5344
+# game/game/script.rpy:5350
 translate ukrainian ryochar_gal0_1d37a04f:
 
     # c "...!"
-    c "...!"
+    c "...!" (multiple=2)
 
-# game/game/script.rpy:5345
+# game/game/script.rpy:5351
 translate ukrainian ryochar_gal0_675c115c:
 
     # r "...!"
-    r "...!"
+    r "...!" (multiple=2)
 
-# game/game/script.rpy:5346
+# game/game/script.rpy:5352
 translate ukrainian ryochar_gal0_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:5347
+# game/game/script.rpy:5353
 translate ukrainian ryochar_gal0_94d7505f:
 
     # r "No nothing... {w}it tickled me a little."
     r "No nothing... {w}it tickled me a little."
 
-# game/game/script.rpy:5348
+# game/game/script.rpy:5354
 translate ukrainian ryochar_gal0_d19f855d:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:5350
+# game/game/script.rpy:5356
 translate ukrainian ryochar_gal0_24141aff:
 
     # c "{size=-10}Hnm... {w}It feels a little strange with the Human's hand..."
     c "{size=-10}Hnm... {w}It feels a little strange with the Human's hand..."
 
-# game/game/script.rpy:5351
+# game/game/script.rpy:5357
 translate ukrainian ryochar_gal0_14791b19:
 
     # mc "Let me know if I am doing it too rough."
     mc "Let me know if I am doing it too rough."
 
-# game/game/script.rpy:5352
+# game/game/script.rpy:5358
 translate ukrainian ryochar_gal0_024237fa:
 
     # r "{size=-10}Uhm..."
     r "{size=-10}Uhm..."
 
-# game/game/script.rpy:5354
+# game/game/script.rpy:5360
 translate ukrainian ryochar_gal0_c01908d8:
 
     # mc "I thought Charlotte wouldn't like water."
     mc "I thought Charlotte wouldn't like water."
 
-# game/game/script.rpy:5355
+# game/game/script.rpy:5361
 translate ukrainian ryochar_gal0_fd6311fc:
 
     # c "I don't like it, {w}but this one is warm...~"
     c "I don't like it, {w}but this one is warm...~"
 
-# game/game/script.rpy:5357
+# game/game/script.rpy:5363
 translate ukrainian ryochar_gal0_530fe280:
 
     # r "Charlotte told me that she got used to bathing with a friend."
     r "Charlotte told me that she got used to bathing with a friend."
 
-# game/game/script.rpy:5358
+# game/game/script.rpy:5364
 translate ukrainian ryochar_gal0_1c511c7e:
 
     # mc "Oh, {w}in the thermal baths of the other town?"
     mc "Oh, {w}in the thermal baths of the other town?"
 
-# game/game/script.rpy:5360
+# game/game/script.rpy:5366
 translate ukrainian ryochar_gal0_00d11b49:
 
     # c "Yes..."
     c "Yes..."
 
-# game/game/script.rpy:5361
+# game/game/script.rpy:5367
 translate ukrainian ryochar_gal0_0ddf26ae:
 
     # t "So she doesn't like water either, another feline discovery."
     t "So she doesn't like water either, another feline discovery."
 
-# game/game/script.rpy:5362
+# game/game/script.rpy:5368
 translate ukrainian ryochar_gal0_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:5368
+# game/game/script.rpy:5374
 translate ukrainian ryochar_gal0_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
-# game/game/script.rpy:5369
+# game/game/script.rpy:5375
 translate ukrainian ryochar_gal0_c1d7122d:
 
     # c "Mmm? {w}What's wrong Human?"
     c "Mmm? {w}What's wrong Human?"
 
-# game/game/script.rpy:5370
+# game/game/script.rpy:5376
 translate ukrainian ryochar_gal0_5c91c201:
 
     # mc "N-Nothing, {w}I just remembered something..."
     mc "N-Nothing, {w}I just remembered something..."
 
-# game/game/script.rpy:5372
+# game/game/script.rpy:5378
 translate ukrainian ryochar_gal0_9413fa05:
 
     # r "And have you met new people Master?"
     r "And have you met new people Master?"
 
-# game/game/script.rpy:5373
+# game/game/script.rpy:5379
 translate ukrainian ryochar_gal0_eb443b00:
 
     # t "R-Ryoko... {w}She noticed my erection..."
     t "R-Ryoko... {w}She noticed my erection..."
 
-# game/game/script.rpy:5377
+# game/game/script.rpy:5383
 translate ukrainian ryochar_gal0_d9000eed:
 
     # mc "... {w}Uh... yes, {w}there are all kinds of people in that town...."
     mc "... {w}Uh... yes, {w}there are all kinds of people in that town...."
 
-# game/game/script.rpy:5379
+# game/game/script.rpy:5385
 translate ukrainian ryochar_gal0_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:5380
+# game/game/script.rpy:5386
 translate ukrainian ryochar_gal0_c20b4171:
 
     # c "How is the dragon girl?"
     c "How is the dragon girl?"
 
-# game/game/script.rpy:5381
+# game/game/script.rpy:5387
 translate ukrainian ryochar_gal0_4443ca55:
 
     # c "I still remember how hard it was to stop her punch."
     c "I still remember how hard it was to stop her punch."
 
-# game/game/script.rpy:5382
+# game/game/script.rpy:5388
 translate ukrainian ryochar_gal0_d1c781ee:
 
     # t "F-Fuck, {w}Ryoko is jerking me off with a lot of pressure but at the same time very delicately..."
     t "F-Fuck, {w}Ryoko is jerking me off with a lot of pressure but at the same time very delicately..."
 
-# game/game/script.rpy:5383
+# game/game/script.rpy:5389
 translate ukrainian ryochar_gal0_ad5f277d:
 
     # c "Human?"
     c "Human?"
 
-# game/game/script.rpy:5384
+# game/game/script.rpy:5390
 translate ukrainian ryochar_gal0_b1bc6b64:
 
     # mc "Yes, she's fine, she's a good girl once you get to know her..."
     mc "Yes, she's fine, she's a good girl once you get to know her..."
 
-# game/game/script.rpy:5385
+# game/game/script.rpy:5391
 translate ukrainian ryochar_gal0_f25c5418:
 
     # c "I see, it's good to meet strong people."
     c "I see, it's good to meet strong people."
 
-# game/game/script.rpy:5386
+# game/game/script.rpy:5392
 translate ukrainian ryochar_gal0_88f281c1:
 
     # c "You can learn a lot from them."
     c "You can learn a lot from them."
 
-# game/game/script.rpy:5387
+# game/game/script.rpy:5393
 translate ukrainian ryochar_gal0_5aa72ccd:
 
     # mc "Y-Yeah..."
     mc "Y-Yeah..."
 
-# game/game/script.rpy:5388
+# game/game/script.rpy:5394
 translate ukrainian ryochar_gal0_af866a3c:
 
     # r "M-Master? {w}How much longer do you need?"
     r "M-Master? {w}How much longer do you need?"
 
-# game/game/script.rpy:5389
+# game/game/script.rpy:5395
 translate ukrainian ryochar_gal0_e0141b41:
 
     # mc "I am almost at my limit..."
     mc "I am almost at my limit..."
 
-# game/game/script.rpy:5390
+# game/game/script.rpy:5396
 translate ukrainian ryochar_gal0_69204b8f:
 
     # c "Limit?"
     c "Limit?"
 
-# game/game/script.rpy:5391
+# game/game/script.rpy:5397
 translate ukrainian ryochar_gal0_d6f8eb96:
 
     # mc "T-To my limit of running out of soap in my hands!"
-    mc "T-To my limit of running out of soap in my hands!"
+    mc "T-To my limit of running out of soap in my hands!" with vpunch
 
-# game/game/script.rpy:5392
+# game/game/script.rpy:5398
 translate ukrainian ryochar_gal0_91f9e74f:
 
     # c "Ah..."
     c "Ah..."
 
-# game/game/script.rpy:5393
+# game/game/script.rpy:5399
 translate ukrainian ryochar_gal0_66ed9611:
 
     # r "Hehehe~{image=corazon}"
     r "Hehehe~{image=corazon}"
 
-# game/game/script.rpy:5395
+# game/game/script.rpy:5401
 translate ukrainian ryochar_gal0_5ae39210:
 
     # t "Shit... {w}Ryoko has improved a lot in this... {w}but it bothers me that I'm the only one going through this situation..."
     t "Shit... {w}Ryoko has improved a lot in this... {w}but it bothers me that I'm the only one going through this situation..."
 
-# game/game/script.rpy:5397
+# game/game/script.rpy:5403
 translate ukrainian ryochar_gal0_cd855516:
 
     # r "...!"
-    r "...!"
+    r "...!" with vpunch
 
-# game/game/script.rpy:5398
+# game/game/script.rpy:5404
 translate ukrainian ryochar_gal0_e3c4889f:
 
     # mc "Did something happen?"
     mc "Did something happen?"
 
-# game/game/script.rpy:5399
+# game/game/script.rpy:5405
 translate ukrainian ryochar_gal0_702357a8:
 
     # r "I-It feels... {w}good... {w}With your big hands it's like a massage..."
     r "I-It feels... {w}good... {w}With your big hands it's like a massage..."
 
-# game/game/script.rpy:5400
+# game/game/script.rpy:5406
 translate ukrainian ryochar_gal0_054c5ee0:
 
     # mc "I see."
     mc "I see."
 
-# game/game/script.rpy:5401
+# game/game/script.rpy:5407
 translate ukrainian ryochar_gal0_824d3396:
 
     # t "As much as I love that Ryoko is like this, I can't let her take the lead."
     t "As much as I love that Ryoko is like this, I can't let her take the lead."
 
-# game/game/script.rpy:5402
+# game/game/script.rpy:5408
 translate ukrainian ryochar_gal0_1dd84906:
 
     # mc "Almost-"
     mc "Almost-"
 
-# game/game/script.rpy:5404
+# game/game/script.rpy:5410
 translate ukrainian ryochar_gal0_7eff70c1:
 
     # mc "{size=-10}finished..."
     mc "{size=-10}finished..."
 
-# game/game/script.rpy:5405
+# game/game/script.rpy:5411
 translate ukrainian ryochar_gal0_173dfa96:
 
     # t "W-Why is she looking at me like that...?"
     t "W-Why is she looking at me like that...?"
 
-# game/game/script.rpy:5406
+# game/game/script.rpy:5412
 translate ukrainian ryochar_gal0_99078e4e:
 
     # r "O-Okay..."
     r "O-Okay..."
 
-# game/game/script.rpy:5407
+# game/game/script.rpy:5413
 translate ukrainian ryochar_gal0_ab33c9f3:
 
     # t "W-Wait... {w}where is my other hand?"
     t "W-Wait... {w}where is my other hand?"
 
-# game/game/script.rpy:5409
+# game/game/script.rpy:5415
 translate ukrainian ryochar_gal0_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5410
+# game/game/script.rpy:5416
 translate ukrainian ryochar_gal0_d19f855d_1:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:5412
+# game/game/script.rpy:5418
 translate ukrainian ryochar_gal0_b966c03d:
 
     # mc "Gulp*"
     mc "Gulp*"
 
-# game/game/script.rpy:5413
+# game/game/script.rpy:5419
 translate ukrainian ryochar_gal0_8a58045e:
 
     # c "Sigh*"
     c "Sigh*"
 
-# game/game/script.rpy:5415
+# game/game/script.rpy:5421
 translate ukrainian ryochar_gal0_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5416
+# game/game/script.rpy:5422
 translate ukrainian ryochar_gal0_df1b5461:
 
     # t "She..."
     t "She..."
 
-# game/game/script.rpy:5417
+# game/game/script.rpy:5423
 translate ukrainian ryochar_gal0_df835ed3:
 
     # c "You are right... {w}it's like a massage..."
     c "You are right... {w}it's like a massage..."
 
-# game/game/script.rpy:5418
+# game/game/script.rpy:5424
 translate ukrainian ryochar_gal0_217b173a:
 
     # r "S-See?"
     r "S-See?"
 
-# game/game/script.rpy:5420
+# game/game/script.rpy:5426
 translate ukrainian ryochar_gal0_8cef6002:
 
     # c "{size=-8}GHhn~{image=corazon} {w}Haa..~{image=corazon}{image=corazon}"
-    c "{size=-8}GHhn~{image=corazon} {w}Haa..~{image=corazon}{image=corazon}"
+    c "{size=-8}GHhn~{image=corazon} {w}Haa..~{image=corazon}{image=corazon}" with cumflash (multiple=2)
 
-# game/game/script.rpy:5421
+# game/game/script.rpy:5427
 translate ukrainian ryochar_gal0_cfa31997:
 
     # r "{size=-8}Hhnn~{image=corazon} {w}Mnh..~{image=corazon}"
-    r "{size=-8}Hhnn~{image=corazon} {w}Mnh..~{image=corazon}"
+    r "{size=-8}Hhnn~{image=corazon} {w}Mnh..~{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5422
+# game/game/script.rpy:5428
 translate ukrainian ryochar_gal0_3a7b2c3e:
 
     # mc "And has something interesting happened here?"
     mc "And has something interesting happened here?"
 
-# game/game/script.rpy:5423
+# game/game/script.rpy:5429
 translate ukrainian ryochar_gal0_8ab5fb0f:
 
     # r "{size=-8}I-I heard s-something... {w}f-from Shika..."
     r "{size=-8}I-I heard s-something... {w}f-from Shika..."
 
-# game/game/script.rpy:5424
+# game/game/script.rpy:5430
 translate ukrainian ryochar_gal0_d716013a:
 
     # t "Ryoko is having a hard time speaking..."
     t "Ryoko is having a hard time speaking..."
 
-# game/game/script.rpy:5425
+# game/game/script.rpy:5431
 translate ukrainian ryochar_gal0_8df3b956:
 
     # t "What if..."
     t "What if..."
 
-# game/game/script.rpy:5427
+# game/game/script.rpy:5433
 translate ukrainian ryochar_gal0_18b26ba6:
 
     # r "M-Master? {w}Are you listening...?"
     r "M-Master? {w}Are you listening...?"
 
-# game/game/script.rpy:5428
+# game/game/script.rpy:5434
 translate ukrainian ryochar_gal0_b14f0054:
 
     # mc "Ah yes, what did she tell you?"
     mc "Ah yes, what did she tell you?"
 
-# game/game/script.rpy:5429
+# game/game/script.rpy:5435
 translate ukrainian ryochar_gal0_c939a6b7:
 
     # r "S-She told me that the doctor was worried... {w}{size=-8}Hhngm~{image=corazon}{/size} {w}b-but now she is more relaxed b-because they took care of something..."
     r "S-She told me that the doctor was worried... {w}{size=-8}Hhngm~{image=corazon}{/size} {w}b-but now she is more relaxed b-because they took care of something..."
 
-# game/game/script.rpy:5430
+# game/game/script.rpy:5436
 translate ukrainian ryochar_gal0_4911ee75:
 
     # r "{size=-8}Hanm~{image=corazon}{/size} {w}S-Shika didn't know what..."
-    r "{size=-8}Hanm~{image=corazon}{/size} {w}S-Shika didn't know what..."
+    r "{size=-8}Hanm~{image=corazon}{/size} {w}S-Shika didn't know what..." with cumflash
 
-# game/game/script.rpy:5431
+# game/game/script.rpy:5437
 translate ukrainian ryochar_gal0_2f982cbc:
 
     # t "Hmm... they must have taken care of that bandit problem."
     t "Hmm... they must have taken care of that bandit problem."
 
-# game/game/script.rpy:5432
+# game/game/script.rpy:5438
 translate ukrainian ryochar_gal0_ef9012ff:
 
     # t "Great, I feel more relaxed."
     t "Great, I feel more relaxed."
 
-# game/game/script.rpy:5433
+# game/game/script.rpy:5439
 translate ukrainian ryochar_gal0_a7bcf340:
 
     # mc "I see..."
     mc "I see..."
 
-# game/game/script.rpy:5434
+# game/game/script.rpy:5440
 translate ukrainian ryochar_gal0_55431970:
 
     # c "{size=-8}Mnhm...~{image=corazon}{/size} {w}t-the girl soldier has been moving all over the place lately."
     c "{size=-8}Mnhm...~{image=corazon}{/size} {w}t-the girl soldier has been moving all over the place lately."
 
-# game/game/script.rpy:5435
+# game/game/script.rpy:5441
 translate ukrainian ryochar_gal0_d5f49e30:
 
     # mc "Yes? {w}What do you think she's doing?"
     mc "Yes? {w}What do you think she's doing?"
 
-# game/game/script.rpy:5437
+# game/game/script.rpy:5443
 translate ukrainian ryochar_gal0_be0dc66f:
 
     # c "I-I don't know... {w}{size=-8}Gngn~{image=corazon}{/size} {w}but she has reinforced more the east zone..."
     c "I-I don't know... {w}{size=-8}Gngn~{image=corazon}{/size} {w}but she has reinforced more the east zone..."
 
-# game/game/script.rpy:5438
+# game/game/script.rpy:5444
 translate ukrainian ryochar_gal0_4b3668c0:
 
     # t "That's what she's always doing..."
     t "That's what she's always doing..."
 
-# game/game/script.rpy:5439
+# game/game/script.rpy:5445
 translate ukrainian ryochar_gal0_a5ac8d41:
 
     # c "B-But the strange thing is... {w}{size=-8}Hhnm~{image=corazon}"
     c "B-But the strange thing is... {w}{size=-8}Hhnm~{image=corazon}"
 
-# game/game/script.rpy:5440
+# game/game/script.rpy:5446
 translate ukrainian ryochar_gal0_40e499f3:
 
     # c "That I haven't felt that much monster a-activity {w}{size=-8}Haanm~{image=corazon}{/size} {w} f-for her to be doing that..."
     c "That I haven't felt that much monster a-activity {w}{size=-8}Haanm~{image=corazon}{/size} {w} f-for her to be doing that..."
 
-# game/game/script.rpy:5441
+# game/game/script.rpy:5447
 translate ukrainian ryochar_gal0_b37c5322:
 
     # mc "She always makes sure everything is perfect."
     mc "She always makes sure everything is perfect."
 
-# game/game/script.rpy:5442
+# game/game/script.rpy:5448
 translate ukrainian ryochar_gal0_b4d284f2:
 
     # c "I-If you say so... {w}{size=-8}NHmn~{image=corazon}{/size}"
-    c "I-If you say so... {w}{size=-8}NHmn~{image=corazon}{/size}"
+    c "I-If you say so... {w}{size=-8}NHmn~{image=corazon}{/size}" with cumflash
 
-# game/game/script.rpy:5443
+# game/game/script.rpy:5449
 translate ukrainian ryochar_gal0_4ac145a4:
 
     # t "Charlotte's voice is breaking, too..."
     t "Charlotte's voice is breaking, too..."
 
-# game/game/script.rpy:5444
+# game/game/script.rpy:5450
 translate ukrainian ryochar_gal0_81a472bc:
 
     # t "All this conversation did not make me realize that-"
     t "All this conversation did not make me realize that-"
 
-# game/game/script.rpy:5447
+# game/game/script.rpy:5453
 translate ukrainian ryochar_gal0_ccd96dfb:
 
     # mc "I am at my limit!"
-    mc "I am at my limit!"
+    mc "I am at my limit!" with vpunch
 
-# game/game/script.rpy:5449
+# game/game/script.rpy:5455
 translate ukrainian ryochar_gal0_6b0c3a4a:
 
     # c "Hnghm!~{image=corazon}"
-    c "Hnghm!~{image=corazon}"
+    c "Hnghm!~{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5450
+# game/game/script.rpy:5456
 translate ukrainian ryochar_gal0_0ce284b0:
 
     # r "NHgmhn!~{image=corazon}{image=corazon}"
-    r "NHgmhn!~{image=corazon}{image=corazon}"
+    r "NHgmhn!~{image=corazon}{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5451
+# game/game/script.rpy:5457
 translate ukrainian ryochar_gal0_8a4e0039:
 
     # r "Ma-Master! I-"
-    r "Ma-Master! I-"
+    r "Ma-Master! I-" with cumflash
 
-# game/game/script.rpy:5452
+# game/game/script.rpy:5458
 translate ukrainian ryochar_gal0_5bf54f43:
 
     # c "H-Human! I can't keep my voice down anymore!"
-    c "H-Human! I can't keep my voice down anymore!"
+    c "H-Human! I can't keep my voice down anymore!" with cumflash
 
-# game/game/script.rpy:5453
+# game/game/script.rpy:5459
 translate ukrainian ryochar_gal0_1d82a7e7_1:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:5461
+# game/game/script.rpy:5467
 translate ukrainian ryochar_gal0_e9b767e6:
 
     # c "GHghngm!~~{image=corazon}{image=corazon}{image=corazon}"
-    c "GHghngm!~~{image=corazon}{image=corazon}{image=corazon}"
+    c "GHghngm!~~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5462
+# game/game/script.rpy:5468
 translate ukrainian ryochar_gal0_21ee7ec5:
 
     # r "Haaahnmn!~{image=corazon}{image=corazon}{image=corazon}"
-    r "Haaahnmn!~{image=corazon}{image=corazon}{image=corazon}"
+    r "Haaahnmn!~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5463
+# game/game/script.rpy:5469
 translate ukrainian ryochar_gal0_86a609ad:
 
     # mc "Fuuck!"
-    mc "Fuuck!"
+    mc "Fuuck!" with hpunch
 
-# game/game/script.rpy:5467
+# game/game/script.rpy:5473
 translate ukrainian ryochar_gal0_9c212949:
 
     # c "MhnNHM!~~{image=corazon}{image=corazon}{image=corazon}"
-    c "MhnNHM!~~{image=corazon}{image=corazon}{image=corazon}"
+    c "MhnNHM!~~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5468
+# game/game/script.rpy:5474
 translate ukrainian ryochar_gal0_7c92e2f6:
 
     # r "Mn-Maaaster!~{image=corazon}{image=corazon}{image=corazon}"
-    r "Mn-Maaaster!~{image=corazon}{image=corazon}{image=corazon}"
+    r "Mn-Maaaster!~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5471
+# game/game/script.rpy:5477
 translate ukrainian ryochar_gal0_1726917f:
 
     # c "Hhgnm~{image=corazon}"
-    c "Hhgnm~{image=corazon}"
+    c "Hhgnm~{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5472
+# game/game/script.rpy:5478
 translate ukrainian ryochar_gal0_9ec14e30:
 
     # r "Haanm~{image=corazon}{image=corazon}{image=corazon}"
-    r "Haanm~{image=corazon}{image=corazon}{image=corazon}"
+    r "Haanm~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
-# game/game/script.rpy:5473
+# game/game/script.rpy:5479
 translate ukrainian ryochar_gal0_08832ce8:
 
     # mc "H-Hey! {w}Are you ok?"
     mc "H-Hey! {w}Are you ok?"
 
-# game/game/script.rpy:5474
+# game/game/script.rpy:5480
 translate ukrainian ryochar_gal0_33942b50:
 
     # c "{size=-8}Too good~~{image=corazon}{image=corazon}"
     c "{size=-8}Too good~~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5475
+# game/game/script.rpy:5481
 translate ukrainian ryochar_gal0_2a9fad68:
 
     # r "M-Master [mc]...~{image=corazon}"
     r "M-Master [mc]...~{image=corazon}"
 
-# game/game/script.rpy:5477
+# game/game/script.rpy:5483
 translate ukrainian ryochar_gal0_b7fb818a:
 
     # mc "Are you both well?"
     mc "Are you both well?"
 
-# game/game/script.rpy:5478
+# game/game/script.rpy:5484
 translate ukrainian ryochar_gal0_e1cffbf2:
 
     # r "M-Master...~{image=corazon} {w}It felt very good...~{image=corazon}"
     r "M-Master...~{image=corazon} {w}It felt very good...~{image=corazon}"
 
-# game/game/script.rpy:5479
+# game/game/script.rpy:5485
 translate ukrainian ryochar_gal0_e81e8f68:
 
     # c "{size=-8}Gghnm~...~{image=corazon}"
     c "{size=-8}Gghnm~...~{image=corazon}"
 
-# game/game/script.rpy:5480
+# game/game/script.rpy:5486
 translate ukrainian ryochar_gal0_fee0cc03:
 
     # r "I'm sorry..."
     r "I'm sorry..."
 
-# game/game/script.rpy:5481
+# game/game/script.rpy:5487
 translate ukrainian ryochar_gal0_69e291fa:
 
     # mc "Mmm? {w}Why...?"
     mc "Mmm? {w}Why...?"
 
-# game/game/script.rpy:5482
+# game/game/script.rpy:5488
 translate ukrainian ryochar_gal0_a24733b4:
 
     # r "We wanted to make you feel good..."
     r "We wanted to make you feel good..."
 
-# game/game/script.rpy:5483
+# game/game/script.rpy:5489
 translate ukrainian ryochar_gal0_102aa7ae:
 
     # mc "W-What?"
     mc "W-What?"
 
-# game/game/script.rpy:5485
+# game/game/script.rpy:5491
 translate ukrainian ryochar_gal0_fe6228bd:
 
     # r "I wanted to do something to make you happy..."
     r "I wanted to do something to make you happy..."
 
-# game/game/script.rpy:5486
+# game/game/script.rpy:5492
 translate ukrainian ryochar_gal0_1e435bb3:
 
     # r "As I know that you love both of us, {w}I told Charlotte so that we could do it together..."
     r "As I know that you love both of us, {w}I told Charlotte so that we could do it together..."
 
-# game/game/script.rpy:5487
+# game/game/script.rpy:5493
 translate ukrainian ryochar_gal0_4d71983c:
 
     # c "Hhnm...~{image=corazon}{image=corazon}"
     c "Hhnm...~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5489
+# game/game/script.rpy:5495
 translate ukrainian ryochar_gal0_bc2d4bcc:
 
     # r "But it seems that I didn't manage to get everything out..."
     r "But it seems that I didn't manage to get everything out..."
 
-# game/game/script.rpy:5490
+# game/game/script.rpy:5496
 translate ukrainian ryochar_gal0_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5492
+# game/game/script.rpy:5498
 translate ukrainian ryochar_gal0_30f71643:
 
     # r "Mas-!"
-    r "Mas-!"
+    r "Mas-!" with hpunch
 
-# game/game/script.rpy:5494
+# game/game/script.rpy:5500
 translate ukrainian ryochar_gal0_ebaaa51e:
 
     # r "This pose is a little..."
     r "This pose is a little..."
 
-# game/game/script.rpy:5497
+# game/game/script.rpy:5503
 translate ukrainian ryochar_gal0_0a8cab47:
 
     # r "U-Ughg~{image=corazon}{image=corazon}"
     r "U-Ughg~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5499
+# game/game/script.rpy:5505
 translate ukrainian ryochar_gal0_dbd74cc8:
 
     # mc "You are very wet Ryoko..."
     mc "You are very wet Ryoko..."
 
-# game/game/script.rpy:5500
+# game/game/script.rpy:5506
 translate ukrainian ryochar_gal0_be3bca27:
 
     # r "M-Master... [mc]...~{image=corazon}"
     r "M-Master... [mc]...~{image=corazon}"
 
-# game/game/script.rpy:5503
+# game/game/script.rpy:5509
 translate ukrainian ryochar_gal0_b967ca1d:
 
     # r "Gngh~{image=corazon} {w}Ghnm~{image=corazon}{image=corazon} {w}Mnh~{image=corazon}"
-    r "Gngh~{image=corazon} {w}Ghnm~{image=corazon}{image=corazon} {w}Mnh~{image=corazon}"
+    r "Gngh~{image=corazon} {w}Ghnm~{image=corazon}{image=corazon} {w}Mnh~{image=corazon}" with cumflash
 
-# game/game/script.rpy:5504
+# game/game/script.rpy:5510
 translate ukrainian ryochar_gal0_829070a5:
 
     # mc "Hold on tight Ryoko."
     mc "Hold on tight Ryoko."
 
-# game/game/script.rpy:5505
+# game/game/script.rpy:5511
 translate ukrainian ryochar_gal0_96b8b8e4:
 
     # r "Ma-M-Master, {w}it f-feels very good~{image=corazon} {w}Haanma~{image=corazon}"
     r "Ma-M-Master, {w}it f-feels very good~{image=corazon} {w}Haanma~{image=corazon}"
 
-# game/game/script.rpy:5506
+# game/game/script.rpy:5512
 translate ukrainian ryochar_gal0_5fe185f0:
 
     # r "Hunm~~{image=corazon} {w}T-This is the deepest {w}NHnm~~{image=corazon} {w}you've e-ever put it in me..."
     r "Hunm~~{image=corazon} {w}T-This is the deepest {w}NHnm~~{image=corazon} {w}you've e-ever put it in me..."
 
-# game/game/script.rpy:5507
+# game/game/script.rpy:5513
 translate ukrainian ryochar_gal0_4ac7e181:
 
     # r "P-Please keep giving m-me love... {w}NHhgmn~~{image=corazon}{image=corazon} {w}u-until you are satisfied!"
-    r "P-Please keep giving m-me love... {w}NHhgmn~~{image=corazon}{image=corazon} {w}u-until you are satisfied!"
+    r "P-Please keep giving m-me love... {w}NHhgmn~~{image=corazon}{image=corazon} {w}u-until you are satisfied!" with cumflash
 
-# game/game/script.rpy:5508
+# game/game/script.rpy:5514
 translate ukrainian ryochar_gal0_4bfb35ef:
 
     # mc "Y-You've been cumming for a while..."
     mc "Y-You've been cumming for a while..."
 
-# game/game/script.rpy:5509
+# game/game/script.rpy:5515
 translate ukrainian ryochar_gal0_1188866c:
 
     # r "Y-Yes...{image=corazon} {w}so-sorry... {w}I can't help i-it if Master hits me so haaaard~{image=corazon}{image=corazon}"
     r "Y-Yes...{image=corazon} {w}so-sorry... {w}I can't help i-it if Master hits me so haaaard~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5510
+# game/game/script.rpy:5516
 translate ukrainian ryochar_gal0_629069a6:
 
     # t "Her face is too erotic... {w}even if I just cum, {w}Ryoko manages to turn me on to an extreme point."
     t "Her face is too erotic... {w}even if I just cum, {w}Ryoko manages to turn me on to an extreme point."
 
-# game/game/script.rpy:5511
+# game/game/script.rpy:5517
 translate ukrainian ryochar_gal0_90c5cded:
 
     # mc "Damn, I'm a-about to cum..."
     mc "Damn, I'm a-about to cum..."
 
-# game/game/script.rpy:5512
+# game/game/script.rpy:5518
 translate ukrainian ryochar_gal0_d7b6b122:
 
     # r "Hehehe~ {w}That makes me happy...{image=corazon}{image=corazon} {w}Master [mc] has a-already cum once but for m-my body he'll do it again~{image=corazon}"
     r "Hehehe~ {w}That makes me happy...{image=corazon}{image=corazon} {w}Master [mc] has a-already cum once but for m-my body he'll do it again~{image=corazon}"
 
-# game/game/script.rpy:5514
+# game/game/script.rpy:5520
 translate ukrainian ryochar_gal0_a6faa1c4:
 
     # r "Hgngmh~{image=corazon} {w}haANM~{image=corazon} {w}mhN~{image=corazon}{image=corazon}"
-    r "Hgngmh~{image=corazon} {w}haANM~{image=corazon} {w}mhN~{image=corazon}{image=corazon}"
+    r "Hgngmh~{image=corazon} {w}haANM~{image=corazon} {w}mhN~{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5515
+# game/game/script.rpy:5521
 translate ukrainian ryochar_gal0_2ed7c25e:
 
     # r "M-Master... {w}sorry... {w}I can't hold on anymore...~{image=corazon}{image=corazon}"
     r "M-Master... {w}sorry... {w}I can't hold on anymore...~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5516
+# game/game/script.rpy:5522
 translate ukrainian ryochar_gal0_9f97e1e1:
 
     # mc "D-Don't worry, I'll hold you."
     mc "D-Don't worry, I'll hold you."
 
-# game/game/script.rpy:5517
+# game/game/script.rpy:5523
 translate ukrainian ryochar_gal0_591222eb:
 
     # r "M-My butt... {w}GHhgn~{image=corazon}{image=corazon} {w}is it to y-your liking?"
     r "M-My butt... {w}GHhgn~{image=corazon}{image=corazon} {w}is it to y-your liking?"
 
-# game/game/script.rpy:5518
+# game/game/script.rpy:5524
 translate ukrainian ryochar_gal0_961e4d80:
 
     # mc "I love your w-whole body."
     mc "I love your w-whole body."
 
-# game/game/script.rpy:5519
+# game/game/script.rpy:5525
 translate ukrainian ryochar_gal0_f953f684:
 
     # r "Hehehe... your penis is swelling"
     r "Hehehe... your penis is swelling"
 
-# game/game/script.rpy:5520
+# game/game/script.rpy:5526
 translate ukrainian ryochar_gal0_f659545f:
 
     # r "A-Are you going to pour it all inside my {w}pussy?"
     r "A-Are you going to pour it all inside my {w}pussy?"
 
-# game/game/script.rpy:5522
+# game/game/script.rpy:5528
 translate ukrainian ryochar_gal0_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
-# game/game/script.rpy:5523
+# game/game/script.rpy:5529
 translate ukrainian ryochar_gal0_739e6eff:
 
     # r "Hnmm!~{image=corazon}{image=corazon} {w}L-Looks like y-you will...{image=corazon}"
     r "Hnmm!~{image=corazon}{image=corazon} {w}L-Looks like y-you will...{image=corazon}"
 
-# game/game/script.rpy:5524
+# game/game/script.rpy:5530
 translate ukrainian ryochar_gal0_e1df8a11:
 
     # mc "I can't take it anymore!"
-    mc "I can't take it anymore!"
+    mc "I can't take it anymore!" with hpunch
 
-# game/game/script.rpy:5531
+# game/game/script.rpy:5537
 translate ukrainian ryochar_gal0_deff06d8:
 
     # r "Gogghnm~~{image=corazon}{image=corazon}{image=corazon}"
-    r "Gogghnm~~{image=corazon}{image=corazon}{image=corazon}"
+    r "Gogghnm~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5534
+# game/game/script.rpy:5540
 translate ukrainian ryochar_gal0_5fd4f42e:
 
     # r "M-My inside... {w}is very waaaaarm...~{image=corazon}{image=corazon}{image=corazon}"
     r "M-My inside... {w}is very waaaaarm...~{image=corazon}{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5536
+# game/game/script.rpy:5542
 translate ukrainian ryochar_gal0_852c96e3:
 
     # mc "Wow... What happened to me...?"
     mc "Wow... What happened to me...?"
 
-# game/game/script.rpy:5537
+# game/game/script.rpy:5543
 translate ukrainian ryochar_gal0_c11d37fb:
 
     # r "Aaahnmn~~{image=corazon}{image=corazon} Master [mc]~~{image=corazon}{image=corazon}"
     r "Aaahnmn~~{image=corazon}{image=corazon} Master [mc]~~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5539
+# game/game/script.rpy:5545
 translate ukrainian ryochar_gal0_3186faf4:
 
     # r "{size=-10}Haanm...~{image=corazon} Haanm~{image=corazon}{image=corazon}"
     r "{size=-10}Haanm...~{image=corazon} Haanm~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5540
+# game/game/script.rpy:5546
 translate ukrainian ryochar_gal0_8f77e5ef:
 
     # r "{size=-10}T-Thank you... {w}Haamn~{image=corazon}{image=corazon} {w}M-Master [mc]..."
     r "{size=-10}T-Thank you... {w}Haamn~{image=corazon}{image=corazon} {w}M-Master [mc]..."
 
-# game/game/script.rpy:5542
+# game/game/script.rpy:5548
 translate ukrainian ryochar_gal0_44d60986:
 
     # r "...~~{image=corazon}{image=corazon}"
     r "...~~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5543
+# game/game/script.rpy:5549
 translate ukrainian ryochar_gal0_32ca5bbe:
 
     # mc "Ryoko..."
     mc "Ryoko..."
 
-# game/game/script.rpy:5544
+# game/game/script.rpy:5550
 translate ukrainian ryochar_gal0_03fb3e88_1:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:5546
+# game/game/script.rpy:5552
 translate ukrainian ryochar_gal0_2c679879:
 
     # mc "And Charlotte?"
     mc "And Charlotte?"
 
-# game/game/script.rpy:5548
+# game/game/script.rpy:5554
 translate ukrainian ryochar_gal0_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5549
+# game/game/script.rpy:5555
 translate ukrainian ryochar_gal0_d19f855d_2:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:5551
+# game/game/script.rpy:5557
 translate ukrainian ryochar_gal0_c4f59984:
 
     # c "{size=-10}Gulp* {w}I-It does not stop coming out..."
     c "{size=-10}Gulp* {w}I-It does not stop coming out..."
 
-# game/game/script.rpy:5552
+# game/game/script.rpy:5558
 translate ukrainian ryochar_gal0_93fc3ad9:
 
     # mc "Haaa..."
     mc "Haaa..."
 
-# game/game/script.rpy:5554
+# game/game/script.rpy:5560
 translate ukrainian ryochar_gal0_7d793b05:
 
     # mc "So... {w}there you are..."
     mc "So... {w}there you are..."
 
-# game/game/script.rpy:5555
+# game/game/script.rpy:5561
 translate ukrainian ryochar_gal0_33be24a8:
 
     # c "Eh...?"
     c "Eh...?"
 
-# game/game/script.rpy:5557
+# game/game/script.rpy:5563
 translate ukrainian ryochar_gal0_fe7a0dc4:
 
     # c "Why is it still so big?"
     c "Why is it still so big?"
 
-# game/game/script.rpy:5559
+# game/game/script.rpy:5565
 translate ukrainian ryochar_gal0_704485a2:
 
     # mc "So... {w}you two were going to make me... {w}happy?"
     mc "So... {w}you two were going to make me... {w}happy?"
 
-# game/game/script.rpy:5560
+# game/game/script.rpy:5566
 translate ukrainian ryochar_gal0_08a7fb7b:
 
     # c "{size=-10}C-Can we talk about it...?"
     c "{size=-10}C-Can we talk about it...?"
 
-# game/game/script.rpy:5561
+# game/game/script.rpy:5567
 translate ukrainian ryochar_gal0_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5563
+# game/game/script.rpy:5569
 translate ukrainian ryochar_gal0_a16a11e5:
 
     # c "Gmnya!"
-    c "Gmnya!"
+    c "Gmnya!" with vpunch
 
-# game/game/script.rpy:5564
+# game/game/script.rpy:5570
 translate ukrainian ryochar_gal0_63949d0f:
 
     # c "I-I don't think I can resist as well as Ryoko!"
     c "I-I don't think I can resist as well as Ryoko!"
 
-# game/game/script.rpy:5566
+# game/game/script.rpy:5572
 translate ukrainian ryochar_gal0_e39aedcc:
 
     # c "Y-You must be tired-"
     c "Y-You must be tired-"
 
-# game/game/script.rpy:5569
+# game/game/script.rpy:5575
 translate ukrainian ryochar_gal0_976ac199:
 
     # c "Al-A-Alrea Gnhgmhnm~!{image=corazon}{image=corazon}"
-    c "Al-A-Alrea Gnhgmhnm~!{image=corazon}{image=corazon}"
+    c "Al-A-Alrea Gnhgmhnm~!{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5571
+# game/game/script.rpy:5577
 translate ukrainian ryochar_gal0_772af9cf:
 
     # c "HaHN~{image=corazon} {w}H-Human~{image=corazon}{image=corazon} {w}W-Wauit~{image=corazon}"
-    c "HaHN~{image=corazon} {w}H-Human~{image=corazon}{image=corazon} {w}W-Wauit~{image=corazon}"
+    c "HaHN~{image=corazon} {w}H-Human~{image=corazon}{image=corazon} {w}W-Wauit~{image=corazon}" with cumflash
 
-# game/game/script.rpy:5572
+# game/game/script.rpy:5578
 translate ukrainian ryochar_gal0_78d9bac8:
 
     # c "W-Why are you so energetic?{image=corazon}{image=corazon}"
     c "W-Why are you so energetic?{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5573
+# game/game/script.rpy:5579
 translate ukrainian ryochar_gal0_ac2ddcbd:
 
     # mc "Today you all wanted to do something for me, {w}I must reciprocate."
     mc "Today you all wanted to do something for me, {w}I must reciprocate."
 
-# game/game/script.rpy:5574
+# game/game/script.rpy:5580
 translate ukrainian ryochar_gal0_441dfce1:
 
     # c "Haanm~{image=corazon}{image=corazon} {w}T-This is a very rare... {w}Mgnghm~~ {image=corazon} {w}h-human habit."
     c "Haanm~{image=corazon}{image=corazon} {w}T-This is a very rare... {w}Mgnghm~~ {image=corazon} {w}h-human habit."
 
-# game/game/script.rpy:5575
+# game/game/script.rpy:5581
 translate ukrainian ryochar_gal0_6c2a8f46:
 
     # mc "And having you two naked together awakened something in me."
     mc "And having you two naked together awakened something in me."
 
-# game/game/script.rpy:5576
+# game/game/script.rpy:5582
 translate ukrainian ryochar_gal0_280cbebf:
 
     # c "HGnghm~ {image=corazon} {w}S-So this is not a human habit..."
     c "HGnghm~ {image=corazon} {w}S-So this is not a human habit..."
 
-# game/game/script.rpy:5578
+# game/game/script.rpy:5584
 translate ukrainian ryochar_gal0_4290b950:
 
     # c "Y-You are very horny and you l-like to mate!~{image=corazon}{image=corazon}"
-    c "Y-You are very horny and you l-like to mate!~{image=corazon}{image=corazon}"
+    c "Y-You are very horny and you l-like to mate!~{image=corazon}{image=corazon}" with hpunch
 
-# game/game/script.rpy:5579
+# game/game/script.rpy:5585
 translate ukrainian ryochar_gal0_018bf8fc:
 
     # mc "Hmm... {w}And why are you so wet? {w}Did seeing me with Ryoko turn you on?"
     mc "Hmm... {w}And why are you so wet? {w}Did seeing me with Ryoko turn you on?"
 
-# game/game/script.rpy:5580
+# game/game/script.rpy:5586
 translate ukrainian ryochar_gal0_adace2f9:
 
     # c "GhgNM~{image=corazon}{image=corazon} {w}AahNNM~{image=corazon} {w}GhgNM~{image=corazon}{image=corazon}{image=corazon}"
-    c "GhgNM~{image=corazon}{image=corazon} {w}AahNNM~{image=corazon} {w}GhgNM~{image=corazon}{image=corazon}{image=corazon}"
+    c "GhgNM~{image=corazon}{image=corazon} {w}AahNNM~{image=corazon} {w}GhgNM~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5581
+# game/game/script.rpy:5587
 translate ukrainian ryochar_gal0_f85a6f7e:
 
     # t "W-Wow, Charlotte got even tighter..."
     t "W-Wow, Charlotte got even tighter..."
 
-# game/game/script.rpy:5584
+# game/game/script.rpy:5590
 translate ukrainian ryochar_gal0_6544a285:
 
     # c "I-It's getting b-bigger... {w}GHhNmn~{image=corazon}{image=corazon}"
     c "I-It's getting b-bigger... {w}GHhNmn~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5585
+# game/game/script.rpy:5591
 translate ukrainian ryochar_gal0_d54e51dc:
 
     # c "HaanNM~{image=corazon} {w}D-Don't tell me you still have... {w}NGhnm~{image=corazon}{image=corazon} {w}m-more to release?{image=corazon}"
     c "HaanNM~{image=corazon} {w}D-Don't tell me you still have... {w}NGhnm~{image=corazon}{image=corazon} {w}m-more to release?{image=corazon}"
 
-# game/game/script.rpy:5586
+# game/game/script.rpy:5592
 translate ukrainian ryochar_gal0_ff643210:
 
     # mc "Y-Yes... {w}I'm a-about to."
     mc "Y-Yes... {w}I'm a-about to."
 
-# game/game/script.rpy:5587
+# game/game/script.rpy:5593
 translate ukrainian ryochar_gal0_6949d4dc:
 
     # c "Oh n-no... {w}I can still see all the liquid coming out of Ryoko...."
     c "Oh n-no... {w}I can still see all the liquid coming out of Ryoko...."
 
-# game/game/script.rpy:5588
+# game/game/script.rpy:5594
 translate ukrainian ryochar_gal0_c8975f9f:
 
     # c "Don't do it... {w}Ggmhn~{image=corazon}{image=corazon} {w}No, do it...{image=corazon}"
     c "Don't do it... {w}Ggmhn~{image=corazon}{image=corazon} {w}No, do it...{image=corazon}"
 
-# game/game/script.rpy:5589
+# game/game/script.rpy:5595
 translate ukrainian ryochar_gal0_d8828e75:
 
     # mc "C-Charlotte?"
     mc "C-Charlotte?"
 
-# game/game/script.rpy:5590
+# game/game/script.rpy:5596
 translate ukrainian ryochar_gal0_cfe1ec65:
 
     # c "M-My Instincts are m-messing with my head!{image=corazon}{image=corazon}"
-    c "M-My Instincts are m-messing with my head!{image=corazon}{image=corazon}"
+    c "M-My Instincts are m-messing with my head!{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5591
+# game/game/script.rpy:5597
 translate ukrainian ryochar_gal0_8db2a40d:
 
     # c "Gghmnm~{image=corazon}{image=corazon} {w}My body g-gets ready to receive it..."
     c "Gghmnm~{image=corazon}{image=corazon} {w}My body g-gets ready to receive it..."
 
-# game/game/script.rpy:5592
+# game/game/script.rpy:5598
 translate ukrainian ryochar_gal0_0658aae0:
 
     # mc "You are getting tighter and wetter!"
     mc "You are getting tighter and wetter!"
 
-# game/game/script.rpy:5593
+# game/game/script.rpy:5599
 translate ukrainian ryochar_gal0_8a836e5d:
 
     # mc "I'm going to cum!"
-    mc "I'm going to cum!"
+    mc "I'm going to cum!" with hpunch
 
-# game/game/script.rpy:5594
+# game/game/script.rpy:5600
 translate ukrainian ryochar_gal0_c2b75743:
 
     # c "Yes! Ggnhm~{image=corazon}{image=corazon} {w}inside, {w}l-leave it inside Human!{image=corazon}{image=corazon}{image=corazon}"
-    c "Yes! Ggnhm~{image=corazon}{image=corazon} {w}inside, {w}l-leave it inside Human!{image=corazon}{image=corazon}{image=corazon}"
+    c "Yes! Ggnhm~{image=corazon}{image=corazon} {w}inside, {w}l-leave it inside Human!{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5601
+# game/game/script.rpy:5607
 translate ukrainian ryochar_gal0_f7454c45:
 
     # c "GnGNhgnmnMnyaa~{image=corazon}{image=corazon}{image=corazon}"
-    c "GnGNhgnmnMnyaa~{image=corazon}{image=corazon}{image=corazon}"
+    c "GnGNhgnmnMnyaa~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
-# game/game/script.rpy:5604
+# game/game/script.rpy:5610
 translate ukrainian ryochar_gal0_893d0225:
 
     # mc "Charlotte!"
-    mc "Charlotte!"
+    mc "Charlotte!" with hpunch
 
-# game/game/script.rpy:5605
+# game/game/script.rpy:5611
 translate ukrainian ryochar_gal0_991f5e14:
 
     # c "Yees~{image=corazon}{image=corazon}{image=corazon}"
     c "Yees~{image=corazon}{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5607
+# game/game/script.rpy:5613
 translate ukrainian ryochar_gal0_9b537870:
 
     # c "{size=-10}Haaa~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
     c "{size=-10}Haaa~{image=corazon}{image=corazon} {w}Haaanm~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5609
+# game/game/script.rpy:5615
 translate ukrainian ryochar_gal0_367b894f:
 
     # c "{size=-10}Ughhgnm~{image=corazon}{image=corazon} {w}I feel my whole belly full..."
     c "{size=-10}Ughhgnm~{image=corazon}{image=corazon} {w}I feel my whole belly full..."
 
-# game/game/script.rpy:5611
+# game/game/script.rpy:5617
 translate ukrainian ryochar_gal0_d0d21d8d:
 
     # c "{size=-10}R-Really... {w}you've come three times?~{image=corazon}"
     c "{size=-10}R-Really... {w}you've come three times?~{image=corazon}"
 
-# game/game/script.rpy:5612
+# game/game/script.rpy:5618
 translate ukrainian ryochar_gal0_e60a3ad2:
 
     # mc "Wow... {w}what happened to my body...?"
     mc "Wow... {w}what happened to my body...?"
 
-# game/game/script.rpy:5614
+# game/game/script.rpy:5620
 translate ukrainian ryochar_gal0_c732b124:
 
     # c "{size=-10}When it comes to mating... {w}Haannm~{image=corazon} {w}y-you never cease to amaze me, Human..."
     c "{size=-10}When it comes to mating... {w}Haannm~{image=corazon} {w}y-you never cease to amaze me, Human..."
 
-# game/game/script.rpy:5616
+# game/game/script.rpy:5622
 translate ukrainian ryochar_gal0_dca02143:
 
     # c "{size=-10}Ghgnm~{image=corazon}"
     c "{size=-10}Ghgnm~{image=corazon}"
 
-# game/game/script.rpy:5617
+# game/game/script.rpy:5623
 translate ukrainian ryochar_gal0_a85e9f45:
 
     # mc "Gulp* {w}Are you ok...?"
     mc "Gulp* {w}Are you ok...?"
 
-# game/game/script.rpy:5618
+# game/game/script.rpy:5624
 translate ukrainian ryochar_gal0_19a82ece:
 
     # c "{size=-10}Yes... {w}Haaa~~{image=corazon} {w}give me a few minutes..."
     c "{size=-10}Yes... {w}Haaa~~{image=corazon} {w}give me a few minutes..."
 
-# game/game/script.rpy:5619
+# game/game/script.rpy:5625
 translate ukrainian ryochar_gal0_870deea4:
 
     # c "{size=-10}You can go now... {w}you'll be late, {w}I'll take care of Ryoko..."
     c "{size=-10}You can go now... {w}you'll be late, {w}I'll take care of Ryoko..."
 
-# game/game/script.rpy:5624
+# game/game/script.rpy:5630
 translate ukrainian ryochar_gal0_d189d1d8:
 
     # mc "A-All right... {w}don't stay too long, okay?"
     mc "A-All right... {w}don't stay too long, okay?"
 
-# game/game/script.rpy:5625
+# game/game/script.rpy:5631
 translate ukrainian ryochar_gal0_a7d47c54:
 
     # c "{size=-10}Gnghm~{image=corazon}{image=corazon}"
     c "{size=-10}Gnghm~{image=corazon}{image=corazon}"
 
-# game/game/script.rpy:5637
+# game/game/script.rpy:5643
 translate ukrainian ryochar_gal0_04d085ec:
 
     # t "I got a little out of control in the shower..."
     t "I got a little out of control in the shower..."
 
-# game/game/script.rpy:5638
+# game/game/script.rpy:5644
 translate ukrainian ryochar_gal0_1559e9b2:
 
     # t "I feel that today will be a good day."
     t "I feel that today will be a good day."
 
-# game/game/script.rpy:5647
+# game/game/script.rpy:5653
 translate ukrainian ryochar_gal0_24ca3cd8:
 
     # ak "Still not leaving?"
     ak "Still not leaving?"
 
-# game/game/script.rpy:5648
+# game/game/script.rpy:5654
 translate ukrainian ryochar_gal0_03fb3e88_2:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:5650
+# game/game/script.rpy:5656
 translate ukrainian ryochar_gal0_2fb1733b:
 
     # mc "Oh, hey Akane."
     mc "Oh, hey Akane."
 
-# game/game/script.rpy:5651
+# game/game/script.rpy:5657
 translate ukrainian ryochar_gal0_dcefc41c:
 
     # ak "I thought you had already left."
     ak "I thought you had already left."
 
-# game/game/script.rpy:5652
+# game/game/script.rpy:5658
 translate ukrainian ryochar_gal0_7998ccf5:
 
     # ak "Did you take so long to bathe?"
     ak "Did you take so long to bathe?"
 
-# game/game/script.rpy:5653
+# game/game/script.rpy:5659
 translate ukrainian ryochar_gal0_e2faf2dd:
 
     # mc "Erm... {w}yes, I was accompanied by Ryoko and Charlotte."
     mc "Erm... {w}yes, I was accompanied by Ryoko and Charlotte."
 
-# game/game/script.rpy:5655
+# game/game/script.rpy:5661
 translate ukrainian ryochar_gal0_d4c10dfe:
 
     # ak "Haaa? {w}I hope you didn't do anything to them."
     ak "Haaa? {w}I hope you didn't do anything to them."
 
-# game/game/script.rpy:5656
+# game/game/script.rpy:5662
 translate ukrainian ryochar_gal0_2b35b6fe_7:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5663
+# game/game/script.rpy:5669
 translate ukrainian ryochar_gal0_5a8f4c47:
 
     # c "...!"
-    c "...!"
+    c "...!" with vpunch
 
-# game/game/script.rpy:5664
+# game/game/script.rpy:5670
 translate ukrainian ryochar_gal0_cc761816:
 
     # mc "No..."
     mc "No..."
 
-# game/game/script.rpy:5666
+# game/game/script.rpy:5672
 translate ukrainian ryochar_gal0_46b79df3:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:5667
+# game/game/script.rpy:5673
 translate ukrainian ryochar_gal0_e28f5d85:
 
     # mc "Do you think that I of all people in the world would be capable of-"
     mc "Do you think that I of all people in the world would be capable of-"
 
-# game/game/script.rpy:5669
+# game/game/script.rpy:5675
 translate ukrainian ryochar_gal0_5aad5195:
 
     # ak "Yes."
     ak "Yes."
 
-# game/game/script.rpy:5670
+# game/game/script.rpy:5676
 translate ukrainian ryochar_gal0_bdcbde0d:
 
     # mc "{size=-10}You didn't let me finish..."
     mc "{size=-10}You didn't let me finish..."
 
-# game/game/script.rpy:5671
+# game/game/script.rpy:5677
 translate ukrainian ryochar_gal0_2117fe81:
 
     # ak "Especially if you are the one we are talking about."
     ak "Especially if you are the one we are talking about."
 
-# game/game/script.rpy:5672
+# game/game/script.rpy:5678
 translate ukrainian ryochar_gal0_605cf609:
 
     # mc "I'm glad you can speak so confidently about me."
     mc "I'm glad you can speak so confidently about me."
 
-# game/game/script.rpy:5674
+# game/game/script.rpy:5680
 translate ukrainian ryochar_gal0_96c73458:
 
     # ak "Sigh~"
     ak "Sigh~"
 
-# game/game/script.rpy:5675
+# game/game/script.rpy:5681
 translate ukrainian ryochar_gal0_4b99757c:
 
     # ak "Anyway, how do you feel? {w}After my meal."
     ak "Anyway, how do you feel? {w}After my meal."
 
-# game/game/script.rpy:5676
+# game/game/script.rpy:5682
 translate ukrainian ryochar_gal0_4493eeaf:
 
     # mc "It was delicious, {w}thank you for taking the trouble."
     mc "It was delicious, {w}thank you for taking the trouble."
 
-# game/game/script.rpy:5678
+# game/game/script.rpy:5684
 translate ukrainian ryochar_gal0_b411edbd:
 
     # ak "I already told you I didn't do it for you."
     ak "I already told you I didn't do it for you."
 
-# game/game/script.rpy:5679
+# game/game/script.rpy:5685
 translate ukrainian ryochar_gal0_5cdbbd30:
 
     # ak "I was only experimenting with certain recipes."
     ak "I was only experimenting with certain recipes."
 
-# game/game/script.rpy:5680
+# game/game/script.rpy:5686
 translate ukrainian ryochar_gal0_855dccfe:
 
     # mc "Mmm, {w}what do you mean?"
     mc "Mmm, {w}what do you mean?"
 
-# game/game/script.rpy:5681
+# game/game/script.rpy:5687
 translate ukrainian ryochar_gal0_b2837934:
 
     # ak "I simply made your food give you extra energy."
     ak "I simply made your food give you extra energy."
 
-# game/game/script.rpy:5682
+# game/game/script.rpy:5688
 translate ukrainian ryochar_gal0_2b35b6fe_8:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5684
+# game/game/script.rpy:5690
 translate ukrainian ryochar_gal0_30d35fe8:
 
     # ak "But it doesn't seem to have worked, {w}you look the same as always."
     ak "But it doesn't seem to have worked, {w}you look the same as always."
 
-# game/game/script.rpy:5685
+# game/game/script.rpy:5691
 translate ukrainian ryochar_gal0_f8b43803:
 
     # mc "{size=-10}Ah... now I understand..."
     mc "{size=-10}Ah... now I understand..."
 
-# game/game/script.rpy:5687
+# game/game/script.rpy:5693
 translate ukrainian ryochar_gal0_92af2fec:
 
     # ak "Mmm?"
     ak "Mmm?"
 
-# game/game/script.rpy:5688
+# game/game/script.rpy:5694
 translate ukrainian ryochar_gal0_8a054e02:
 
     # mc "I mean, {w}it worked!"
-    mc "I mean, {w}it worked!"
+    mc "I mean, {w}it worked!" with hpunch
 
-# game/game/script.rpy:5690
+# game/game/script.rpy:5696
 translate ukrainian ryochar_gal0_b71f2dd5:
 
     # ak "R-Really? And why are you still looking like a perverted idiot?"
     ak "R-Really? And why are you still looking like a perverted idiot?"
 
-# game/game/script.rpy:5691
+# game/game/script.rpy:5697
 translate ukrainian ryochar_gal0_fc456d77:
 
     # mc "This is my normal face my dear Akane."
     mc "This is my normal face my dear Akane."
 
-# game/game/script.rpy:5692
+# game/game/script.rpy:5698
 translate ukrainian ryochar_gal0_d6c6fcd1:
 
     # ak "Hmm... well, if you say it worked..."
     ak "Hmm... well, if you say it worked..."
 
-# game/game/script.rpy:5694
+# game/game/script.rpy:5700
 translate ukrainian ryochar_gal0_8cb1788f:
 
     # ak "Here, {w}I prepared a bento with the leftover food, {w}eat it when you feel hungry..."
     ak "Here, {w}I prepared a bento with the leftover food, {w}eat it when you feel hungry..."
 
-# game/game/script.rpy:5695
+# game/game/script.rpy:5701
 translate ukrainian ryochar_gal0_3b0db811:
 
     # mc "Hmm? {w}T-Thanks..."
     mc "Hmm? {w}T-Thanks..."
 
-# game/game/script.rpy:5697
+# game/game/script.rpy:5703
 translate ukrainian ryochar_gal0_8ecdc3e4:
 
     # ak "Whoever you are, {w}losing blood is bad for the body."
     ak "Whoever you are, {w}losing blood is bad for the body."
 
-# game/game/script.rpy:5698
+# game/game/script.rpy:5704
 translate ukrainian ryochar_gal0_7b1dd605:
 
     # ak "I have been studying and improving {size=-6}some recipes to {size=-10}help you recover faster."
     ak "I have been studying and improving {size=-6}some recipes to {size=-10}help you recover faster."
 
-# game/game/script.rpy:5700
+# game/game/script.rpy:5706
 translate ukrainian ryochar_gal0_4a3e92dc:
 
     # ak "Can you stop making that face?!"
-    ak "Can you stop making that face?!"
+    ak "Can you stop making that face?!" with hpunch
 
-# game/game/script.rpy:5701
+# game/game/script.rpy:5707
 translate ukrainian ryochar_gal0_5c8b4131:
 
     # mc "Hehehe, I'm not doing anything."
     mc "Hehehe, I'm not doing anything."
 
-# game/game/script.rpy:5703
+# game/game/script.rpy:5709
 translate ukrainian ryochar_gal0_02c60d54:
 
     # ak "That's what I mean! {w}Take off that creepy smile!"
     ak "That's what I mean! {w}Take off that creepy smile!"
 
-# game/game/script.rpy:5704
+# game/game/script.rpy:5710
 translate ukrainian ryochar_gal0_d21922a4:
 
     # mc "Can't I be happy anymore?"
     mc "Can't I be happy anymore?"
 
-# game/game/script.rpy:5706
+# game/game/script.rpy:5712
 translate ukrainian ryochar_gal0_a5dd9bf0:
 
     # ak "Haaa mooh~"
     ak "Haaa mooh~"
 
-# game/game/script.rpy:5707
+# game/game/script.rpy:5713
 translate ukrainian ryochar_gal0_a7053414:
 
     # ak "Go away."
     ak "Go away."
 
-# game/game/script.rpy:5708
+# game/game/script.rpy:5714
 translate ukrainian ryochar_gal0_35755ed2:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." with vpunch
 
-# game/game/script.rpy:5709
+# game/game/script.rpy:5715
 translate ukrainian ryochar_gal0_96c50534:
 
     # ak "And don't come back."
     ak "And don't come back."
 
-# game/game/script.rpy:5710
+# game/game/script.rpy:5716
 translate ukrainian ryochar_gal0_48a71235:
 
     # mc "Okay oka-"
     mc "Okay oka-"
 
-# game/game/script.rpy:5712
+# game/game/script.rpy:5718
 translate ukrainian ryochar_gal0_e8a877c6:
 
     # mc "{size=-10}Eh."
     mc "{size=-10}Eh."
 
-# game/game/script.rpy:5714
+# game/game/script.rpy:5720
 translate ukrainian ryochar_gal0_46b79df3_1:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:5715
+# game/game/script.rpy:5721
 translate ukrainian ryochar_gal0_63470a86:
 
     # ak "{size=-8}And don't come back hurt..."
     ak "{size=-8}And don't come back hurt..."
 
-# game/game/script.rpy:5716
+# game/game/script.rpy:5722
 translate ukrainian ryochar_gal0_eac07aec:
 
     # mc "Akan-"
     mc "Akan-"
 
-# game/game/script.rpy:5718
+# game/game/script.rpy:5724
 translate ukrainian ryochar_gal0_ceb6227c:
 
     # "Akane pushes you to the door."
     "Akane pushes you to the door."
 
-# game/game/script.rpy:5719
+# game/game/script.rpy:5725
 translate ukrainian ryochar_gal0_d674db90:
 
     # ak "I-If you lose blood, forget about being my source of energy!"
-    ak "I-If you lose blood, forget about being my source of energy!"
+    ak "I-If you lose blood, forget about being my source of energy!" with hpunch
 
-# game/game/script.rpy:5720
+# game/game/script.rpy:5726
 translate ukrainian ryochar_gal0_81572391:
 
     # t "Is that her way of telling me to take care of myself?"
     t "Is that her way of telling me to take care of myself?"
 
-# game/game/script.rpy:5724
+# game/game/script.rpy:5730
 translate ukrainian ryochar_gal0_e2382506:
 
     # t "Hahaha, I won't deny that I was very surprised."
     t "Hahaha, I won't deny that I was very surprised."
 
-# game/game/script.rpy:5725
+# game/game/script.rpy:5731
 translate ukrainian ryochar_gal0_52c40e2d:
 
     # mc "Mmm? {w}Is that Yui?"
     mc "Mmm? {w}Is that Yui?"
 
-# game/game/script.rpy:5730
+# game/game/script.rpy:5736
 translate ukrainian ryochar_gal0_f931be78:
 
     # t "She seems to be talking to her soldiers."
     t "She seems to be talking to her soldiers."
 
-# game/game/script.rpy:5732
+# game/game/script.rpy:5738
 translate ukrainian ryochar_gal0_8ee4553c:
 
     # y "{size=-5}........."
     y "{size=-5}........."
 
-# game/game/script.rpy:5733
+# game/game/script.rpy:5739
 translate ukrainian ryochar_gal0_8fea2db2:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/game/script.rpy:5735
+# game/game/script.rpy:5741
 translate ukrainian ryochar_gal0_1ce9c404:
 
     # y "...?"
     y "...?"
 
-# game/game/script.rpy:5736
+# game/game/script.rpy:5742
 translate ukrainian ryochar_gal0_482ffff7:
 
     # t "They are leaving, and she seems to have noticed me."
     t "They are leaving, and she seems to have noticed me."
 
-# game/game/script.rpy:5738
+# game/game/script.rpy:5744
 translate ukrainian ryochar_gal0_01db640a:
 
     # y "[mc], I see you are still here."
     y "[mc], I see you are still here."
 
-# game/game/script.rpy:5739
+# game/game/script.rpy:5745
 translate ukrainian ryochar_gal0_1b9b2d52:
 
     # mc "Yes, the girls gave me a little \"celebration\" at my house."
     mc "Yes, the girls gave me a little \"celebration\" at my house."
 
-# game/game/script.rpy:5741
+# game/game/script.rpy:5747
 translate ukrainian ryochar_gal0_a151c0c3:
 
     # y "Oh, for the welcome of the new E-Rank adventurer?"
     y "Oh, for the welcome of the new E-Rank adventurer?"
 
-# game/game/script.rpy:5742
+# game/game/script.rpy:5748
 translate ukrainian ryochar_gal0_ff4f01d9:
 
     # mc "{size=-8}Was it necessary to say the rank...?"
     mc "{size=-8}Was it necessary to say the rank...?"
 
-# game/game/script.rpy:5744
+# game/game/script.rpy:5750
 translate ukrainian ryochar_gal0_b4c9b7b1:
 
     # y "Hahaha~ {w}I didn't know you were the competitive type as well~"
-    y "Hahaha~ {w}I didn't know you were the competitive type as well~"
+    y "Hahaha~ {w}I didn't know you were the competitive type as well~" with vpunch
 
-# game/game/script.rpy:5745
+# game/game/script.rpy:5751
 translate ukrainian ryochar_gal0_2b35b6fe_9:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5746
+# game/game/script.rpy:5752
 translate ukrainian ryochar_gal0_0c9f53cc:
 
     # mc "Wait, {w}how did you know I already am?"
     mc "Wait, {w}how did you know I already am?"
 
-# game/game/script.rpy:5748
+# game/game/script.rpy:5754
 translate ukrainian ryochar_gal0_8d35cebf:
 
     # y "Mmm? {w}Ryoko, {w}she has told everyone."
     y "Mmm? {w}Ryoko, {w}she has told everyone."
 
-# game/game/script.rpy:5749
+# game/game/script.rpy:5755
 translate ukrainian ryochar_gal0_b8de06d3:
 
     # mc "Oh."
     mc "Oh."
 
-# game/game/script.rpy:5750
+# game/game/script.rpy:5756
 translate ukrainian ryochar_gal0_78446245:
 
     # y "She seems to be more excited about it than you are."
     y "She seems to be more excited about it than you are."
 
-# game/game/script.rpy:5751
+# game/game/script.rpy:5757
 translate ukrainian ryochar_gal0_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:5752
+# game/game/script.rpy:5758
 translate ukrainian ryochar_gal0_0c643777:
 
     # mc "And why are your soldiers running?"
     mc "And why are your soldiers running?"
 
-# game/game/script.rpy:5754
+# game/game/script.rpy:5760
 translate ukrainian ryochar_gal0_3b2de96a:
 
     # y "Oh, remember the \"bandits\" that roamed the area?"
     y "Oh, remember the \"bandits\" that roamed the area?"
 
-# game/game/script.rpy:5755
+# game/game/script.rpy:5761
 translate ukrainian ryochar_gal0_42e9fcc0:
 
     # y "I have already taken care of that problem, {w}we are now doing a round of inspection to see if we missed anything."
     y "I have already taken care of that problem, {w}we are now doing a round of inspection to see if we missed anything."
 
-# game/game/script.rpy:5756
+# game/game/script.rpy:5762
 translate ukrainian ryochar_gal0_a7f0090c:
 
     # mc "Wow, {w}as expected from you."
     mc "Wow, {w}as expected from you."
 
-# game/game/script.rpy:5758
+# game/game/script.rpy:5764
 translate ukrainian ryochar_gal0_fe2ba955:
 
     # y "It was no big deal, {w}they were wimps, and well, {w}it was also because we ambushed them."
     y "It was no big deal, {w}they were wimps, and well, {w}it was also because we ambushed them."
 
-# game/game/script.rpy:5759
+# game/game/script.rpy:5765
 translate ukrainian ryochar_gal0_31850f11:
 
     # y "My soldiers have already buried the bodies, {w}but one ran away."
     y "My soldiers have already buried the bodies, {w}but one ran away."
 
-# game/game/script.rpy:5760
+# game/game/script.rpy:5766
 translate ukrainian ryochar_gal0_c7e85fce:
 
     # mc "I see... {w}..."
     mc "I see... {w}..."
 
-# game/game/script.rpy:5762
+# game/game/script.rpy:5768
 translate ukrainian ryochar_gal0_3963aa1a:
 
     # mc "W-Wait, {w}you k-killed them?"
     mc "W-Wait, {w}you k-killed them?"
 
-# game/game/script.rpy:5763
+# game/game/script.rpy:5769
 translate ukrainian ryochar_gal0_20cf957f:
 
     # y "Mmm? {w}Of course."
     y "Mmm? {w}Of course."
 
-# game/game/script.rpy:5765
+# game/game/script.rpy:5771
 translate ukrainian ryochar_gal0_9c6e92d8:
 
     # t "Of course... {w}why am I surprised? {w}So it is just as normal to kill a monster as it is to kill a bandit..."
     t "Of course... {w}why am I surprised? {w}So it is just as normal to kill a monster as it is to kill a bandit..."
 
-# game/game/script.rpy:5766
+# game/game/script.rpy:5772
 translate ukrainian ryochar_gal0_23b098b2:
 
     # t "And even if they managed to capture them alive, there is no place to leave them."
     t "And even if they managed to capture them alive, there is no place to leave them."
 
-# game/game/script.rpy:5767
+# game/game/script.rpy:5773
 translate ukrainian ryochar_gal0_22d4e3ff:
 
     # t "There will come a time when I will have to..."
     t "There will come a time when I will have to..."
 
-# game/game/script.rpy:5769
+# game/game/script.rpy:5775
 translate ukrainian ryochar_gal0_049333a8:
 
     # y "[mc]?"
     y "[mc]?"
 
-# game/game/script.rpy:5770
+# game/game/script.rpy:5776
 translate ukrainian ryochar_gal0_1041797d:
 
     # mc "Ah err... {w}and the one that got away? {w}Is it not a danger for us that he will seek revenge or call in more bandits?"
     mc "Ah err... {w}and the one that got away? {w}Is it not a danger for us that he will seek revenge or call in more bandits?"
 
-# game/game/script.rpy:5772
+# game/game/script.rpy:5778
 translate ukrainian ryochar_gal0_2947bf32:
 
     # y "I doubt it, {w}unlike mercenaries who are more organized and do most things for a purpose or for money."
     y "I doubt it, {w}unlike mercenaries who are more organized and do most things for a purpose or for money."
 
-# game/game/script.rpy:5773
+# game/game/script.rpy:5779
 translate ukrainian ryochar_gal0_c7822dea:
 
     # y "Bandits are only together for convenience, {w}\"two is better than one to loot villages or rob people, right?\", {w}that's their thinking."
     y "Bandits are only together for convenience, {w}\"two is better than one to loot villages or rob people, right?\", {w}that's their thinking."
 
-# game/game/script.rpy:5775
+# game/game/script.rpy:5781
 translate ukrainian ryochar_gal0_e3fb6f80:
 
     # y "And the one that fled did not leave in good condition but was very fast. I think she was already injured before we found them."
     y "And the one that fled did not leave in good condition but was very fast. I think she was already injured before we found them."
 
-# game/game/script.rpy:5776
+# game/game/script.rpy:5782
 translate ukrainian ryochar_gal0_cac4873f:
 
     # mc "You know a lot about it."
     mc "You know a lot about it."
 
-# game/game/script.rpy:5777
+# game/game/script.rpy:5783
 translate ukrainian ryochar_gal0_0e4ac2f5:
 
     # y "I had to deal with many of them before."
     y "I had to deal with many of them before."
 
-# game/game/script.rpy:5779
+# game/game/script.rpy:5785
 translate ukrainian ryochar_gal0_4f3f88e5:
 
     # y "And I think that's a lot of talk, we should go back to what we were doing."
     y "And I think that's a lot of talk, we should go back to what we were doing."
 
-# game/game/script.rpy:5780
+# game/game/script.rpy:5786
 translate ukrainian ryochar_gal0_cce5b9a4:
 
     # mc "You are right, {w}I must go to see that everything is all right in Sakura Town."
     mc "You are right, {w}I must go to see that everything is all right in Sakura Town."
 
-# game/game/script.rpy:5781
+# game/game/script.rpy:5787
 translate ukrainian ryochar_gal0_99eaaf58:
 
     # y "What a confident adventurer."
     y "What a confident adventurer."
 
-# game/game/script.rpy:5783
+# game/game/script.rpy:5789
 translate ukrainian ryochar_gal0_eba73cdd:
 
     # mc "{size=-8}A kiss before we part?"
     mc "{size=-8}A kiss before we part?"
 
-# game/game/script.rpy:5785
+# game/game/script.rpy:5791
 translate ukrainian ryochar_gal0_b31f56f5:
 
     # y "W-W-WH-What are you asking for?!"
-    y "W-W-WH-What are you asking for?!"
+    y "W-W-WH-What are you asking for?!" with hpunch
 
-# game/game/script.rpy:5786
+# game/game/script.rpy:5792
 translate ukrainian ryochar_gal0_d921e5ca:
 
     # mc "Yui..."
     mc "Yui..."
 
-# game/game/script.rpy:5788
+# game/game/script.rpy:5794
 translate ukrainian ryochar_gal0_6d77a3c6:
 
     # y "T-They will all see us! {w}A-A-AAnd I have never k-kissed!!"
-    y "T-They will all see us! {w}A-A-AAnd I have never k-kissed!!"
+    y "T-They will all see us! {w}A-A-AAnd I have never k-kissed!!" with vpunch
 
-# game/game/script.rpy:5789
+# game/game/script.rpy:5795
 translate ukrainian ryochar_gal0_18ae9ede:
 
     # mc "Don't worry, I don't see anyone hanging around..."
     mc "Don't worry, I don't see anyone hanging around..."
 
-# game/game/script.rpy:5790
+# game/game/script.rpy:5796
 translate ukrainian ryochar_gal0_71a86863:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:5791
+# game/game/script.rpy:5797
 translate ukrainian ryochar_gal0_7eeb13ec:
 
     # mc "{size=-10}Hehe, I see you still have a long way to go."
     mc "{size=-10}Hehe, I see you still have a long way to go."
 
-# game/game/script.rpy:5793
+# game/game/script.rpy:5799
 translate ukrainian ryochar_gal0_64bddad1:
 
     # mc "Do you think I would do something you wouldn't want me to do?"
     mc "Do you think I would do something you wouldn't want me to do?"
 
-# game/game/script.rpy:5794
+# game/game/script.rpy:5800
 translate ukrainian ryochar_gal0_444e7092:
 
     # y "Eh?"
     y "Eh?"
 
-# game/game/script.rpy:5796
+# game/game/script.rpy:5802
 translate ukrainian ryochar_gal0_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
-# game/game/script.rpy:5797
+# game/game/script.rpy:5803
 translate ukrainian ryochar_gal0_ddcb271c:
 
     # t "Nothing better than seeing that face after she acts so serious."
     t "Nothing better than seeing that face after she acts so serious."
 
-# game/game/script.rpy:5798
+# game/game/script.rpy:5804
 translate ukrainian ryochar_gal0_9c715384:
 
     # mc "Well, I'll see you later, Yu-"
     mc "Well, I'll see you later, Yu-"
 
-# game/game/script.rpy:5803
+# game/game/script.rpy:5809
 translate ukrainian ryochar_gal0_4698326e:
 
     # mc "Eh-"
     mc "Eh-"
 
-# game/game/script.rpy:5804
+# game/game/script.rpy:5810
 translate ukrainian ryochar_gal0_45a40f52:
 
     # y "Idiot! idiot! iiiiidiiiot!"
-    y "Idiot! idiot! iiiiidiiiot!"
+    y "Idiot! idiot! iiiiidiiiot!" with hpunch
 
-# game/game/script.rpy:5806
+# game/game/script.rpy:5812
 translate ukrainian ryochar_gal0_8bea9997:
 
     # y "{size=+6}[mc] Idiiioooooot!!!"
-    y "{size=+6}[mc] Idiiioooooot!!!"
+    y "{size=+6}[mc] Idiiioooooot!!!" with hpunch
 
-# game/game/script.rpy:5807
+# game/game/script.rpy:5813
 translate ukrainian ryochar_gal0_893258c4:
 
     # t "She is using her ability to run away...?"
     t "She is using her ability to run away...?"
 
-# game/game/script.rpy:5809
+# game/game/script.rpy:5815
 translate ukrainian ryochar_gal0_04bfa0b7:
 
     # t "Y-Yui? {w}The same Yui? {w}Did she just kiss my cheek?"
     t "Y-Yui? {w}The same Yui? {w}Did she just kiss my cheek?"
 
-# game/game/script.rpy:5810
+# game/game/script.rpy:5816
 translate ukrainian ryochar_gal0_2b35b6fe_10:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5811
+# game/game/script.rpy:5817
 translate ukrainian ryochar_gal0_e8e60d47:
 
     # t "Hahaha."
     t "Hahaha."
 
-# game/game/script.rpy:5813
+# game/game/script.rpy:5819
 translate ukrainian ryochar_gal0_d79ad349:
 
     # t "I wonder when was the last time I felt so at peace..."
     t "I wonder when was the last time I felt so at peace..."
 
-# game/game/script.rpy:5814
+# game/game/script.rpy:5820
 translate ukrainian ryochar_gal0_0c2beb1f:
 
     # t "My stay in this world just keeps getting better and better..."
     t "My stay in this world just keeps getting better and better..."
 
-# game/game/script.rpy:5819
+# game/game/script.rpy:5825
 translate ukrainian ryochar_gal0_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:5820
+# game/game/script.rpy:5826
 translate ukrainian ryochar_gal0_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:5821
+# game/game/script.rpy:5827
 translate ukrainian ryochar_gal0_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:5826
+# game/game/script.rpy:5832
 translate ukrainian ryochar_gal0_0f13397a:
 
     # zu "..."
     zu "..."
 
-# game/game/script.rpy:5827
+# game/game/script.rpy:5833
 translate ukrainian ryochar_gal0_7be09b16:
 
     # zu "{size=-6}Yaaaawn~ {w}Why did he take so long to leave today?"
     zu "{size=-6}Yaaaawn~ {w}Why did he take so long to leave today?"
 
-# game/game/script.rpy:5828
+# game/game/script.rpy:5834
 translate ukrainian ryochar_gal0_ebef436f:
 
     # zu "I thought I had timed it right according to what the old rabbit told me."
     zu "I thought I had timed it right according to what the old rabbit told me."
 
-# game/game/script.rpy:5829
+# game/game/script.rpy:5835
 translate ukrainian ryochar_gal0_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:5830
+# game/game/script.rpy:5836
 translate ukrainian ryochar_gal0_cce665af:
 
     # "Are we really going to do this?"
     "Are we really going to do this?"
 
-# game/game/script.rpy:5832
+# game/game/script.rpy:5838
 translate ukrainian ryochar_gal0_db677aaf:
 
     # zu "What? {w}You don't like the idea?"
     zu "What? {w}You don't like the idea?"
 
-# game/game/script.rpy:5833
+# game/game/script.rpy:5839
 translate ukrainian ryochar_gal0_507dfa8b:
 
     # "He seems like a nice guy..."
     "He seems like a nice guy..."
 
-# game/game/script.rpy:5835
+# game/game/script.rpy:5841
 translate ukrainian ryochar_gal0_900dcf5d:
 
     # zu "For you, everyone is good."
     zu "For you, everyone is good."
 
-# game/game/script.rpy:5836
+# game/game/script.rpy:5842
 translate ukrainian ryochar_gal0_1f482698:
 
     # zu "When are you going to learn to be a better judge of people."
     zu "When are you going to learn to be a better judge of people."
 
-# game/game/script.rpy:5838
+# game/game/script.rpy:5844
 translate ukrainian ryochar_gal0_062ecae3:
 
     # zu "What? {w}You got attached to the little brat?"
     zu "What? {w}You got attached to the little brat?"
 
-# game/game/script.rpy:5840
+# game/game/script.rpy:5846
 translate ukrainian ryochar_gal0_32c91d6d:
 
     # "But from all the time we have been watching him, {w}I feel he is the kindest person I have ever seen..."
     "But from all the time we have been watching him, {w}I feel he is the kindest person I have ever seen..."
 
-# game/game/script.rpy:5841
+# game/game/script.rpy:5847
 translate ukrainian ryochar_gal0_c0063913:
 
     # "Having to do something like that to a person like him-"
     "Having to do something like that to a person like him-"
 
-# game/game/script.rpy:5843
+# game/game/script.rpy:5849
 translate ukrainian ryochar_gal0_3c6f2f30:
 
     # zu "Well, {w}no matter what you want, {w}we don't have a choice."
     zu "Well, {w}no matter what you want, {w}we don't have a choice."
 
-# game/game/script.rpy:5845
+# game/game/script.rpy:5851
 translate ukrainian ryochar_gal0_9230c59a:
 
     # zu "This is the only way to get it back."
     zu "This is the only way to get it back."
 
-# game/game/script.rpy:5847
+# game/game/script.rpy:5853
 translate ukrainian ryochar_gal0_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/script.rpy:5849
+# game/game/script.rpy:5855
 translate ukrainian ryochar_gal0_ef8749d0:
 
     # "Yes! {w}You're right, {w}you always know what you're doing!"
-    "Yes! {w}You're right, {w}you always know what you're doing!"
+    "Yes! {w}You're right, {w}you always know what you're doing!" with hpunch
 
-# game/game/script.rpy:5850
+# game/game/script.rpy:5856
 translate ukrainian ryochar_gal0_479f7228:
 
     # "If you don't mind, I don't want to look at that ugly mask, so I'll go to sleep."
     "If you don't mind, I don't want to look at that ugly mask, so I'll go to sleep."
 
-# game/game/script.rpy:5852
+# game/game/script.rpy:5858
 translate ukrainian ryochar_gal0_f4f7a920:
 
     # "I love you sis!~{image=corazon}"
-    "I love you sis!~{image=corazon}"
+    "I love you sis!~{image=corazon}" with vpunch
 
-# game/game/script.rpy:5854
+# game/game/script.rpy:5860
 translate ukrainian ryochar_gal0_1f69447d:
 
     # zu "Duuummy."
     zu "Duuummy."
 
-# game/game/script.rpy:5855
+# game/game/script.rpy:5861
 translate ukrainian ryochar_gal0_bd7d9deb:
 
     # zu "Leave it all to me..."
     zu "Leave it all to me..."
 
-# game/game/script.rpy:5856
+# game/game/script.rpy:5862
 translate ukrainian ryochar_gal0_0f13397a_1:
 
     # zu "..."
     zu "..."
 
-# game/game/script.rpy:5858
+# game/game/script.rpy:5864
 translate ukrainian ryochar_gal0_95329ce5:
 
     # zu "Well... {w}let's get to work."
     zu "Well... {w}let's get to work."
 
-# game/game/script.rpy:5860
+# game/game/script.rpy:5866
 translate ukrainian ryochar_gal0_0f13397a_2:
 
     # zu "..."
     zu "..."
 
-# game/game/script.rpy:5861
+# game/game/script.rpy:5867
 translate ukrainian ryochar_gal0_adf8143e:
 
     # zu "{size=-10}Sigh~"
     zu "{size=-10}Sigh~"
 
-# game/game/script.rpy:5863
+# game/game/script.rpy:5869
 translate ukrainian ryochar_gal0_92d56182:
 
     # zu "And you are...?"
     zu "And you are...?"
 
-# game/game/script.rpy:5865
+# game/game/script.rpy:5871
 translate ukrainian ryochar_gal0_0f13397a_3:
 
     # zu "..."
     zu "..."
 
-# game/game/script.rpy:5866
+# game/game/script.rpy:5872
 translate ukrainian ryochar_gal0_fcefb3e3:
 
     # c "{size=-6}Who are you, what are you doing here?"
     c "{size=-6}Who are you, what are you doing here?"
 
-# game/game/script.rpy:5867
+# game/game/script.rpy:5873
 translate ukrainian ryochar_gal0_4a39cde5:
 
     # c "{size=-6}You have 10 seconds."
     c "{size=-6}You have 10 seconds."
 
-# game/game/script.rpy:5868
+# game/game/script.rpy:5874
 translate ukrainian ryochar_gal0_ff548d01:
 
     # zu "{size=-10}Snif* {w}Snif*"
     zu "{size=-10}Snif* {w}Snif*"
 
-# game/game/script.rpy:5870
+# game/game/script.rpy:5876
 translate ukrainian ryochar_gal0_4f6cc6d7:
 
     # zu "That's a very sharp weapon for a kitten like you."
     zu "That's a very sharp weapon for a kitten like you."
 
-# game/game/script.rpy:5871
+# game/game/script.rpy:5877
 translate ukrainian ryochar_gal0_28978344:
 
     # zu "I admit that you are really skilled to manage to sneak behind my back without me noticing."
     zu "I admit that you are really skilled to manage to sneak behind my back without me noticing."
 
-# game/game/script.rpy:5872
+# game/game/script.rpy:5878
 translate ukrainian ryochar_gal0_14e119fe:
 
     # c "{size=-6}5 seconds."
     c "{size=-6}5 seconds."
 
-# game/game/script.rpy:5874
+# game/game/script.rpy:5880
 translate ukrainian ryochar_gal0_fa7b5289:
 
     # zu "Countdown to your death?"
     zu "Countdown to your death?"
 
-# game/game/script.rpy:5882
+# game/game/script.rpy:5888
 translate ukrainian ryochar_gal0_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/game/script.rpy:5893
+# game/game/script.rpy:5899
 translate ukrainian ryochar_gal0_37029618:
 
     # sa "...!?"
     sa "...!?"
 
-# game/game/script.rpy:5895
+# game/game/script.rpy:5901
 translate ukrainian ryochar_gal0_1a44489e:
 
     # sa "Wow, {w}are you okay?"
     sa "Wow, {w}are you okay?"
 
-# game/game/script.rpy:5896
+# game/game/script.rpy:5902
 translate ukrainian ryochar_gal0_0bc8c542:
 
     # mc "As always your fists are pretty hard, hahaha."
     mc "As always your fists are pretty hard, hahaha."
 
-# game/game/script.rpy:5900
+# game/game/script.rpy:5906
 translate ukrainian ryochar_gal0_0bf4dea7:
 
     # ao "{size=-6}That had to hurt~"
     ao "{size=-6}That had to hurt~"
 
-# game/game/script.rpy:5901
+# game/game/script.rpy:5907
 translate ukrainian ryochar_gal0_c26bcfd9:
 
     # ao "{size=-6}Nom~ {w}You should move more."
     ao "{size=-6}Nom~ {w}You should move more."
 
-# game/game/script.rpy:5902
+# game/game/script.rpy:5908
 translate ukrainian ryochar_gal0_2b35b6fe_11:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5904
+# game/game/script.rpy:5910
 translate ukrainian ryochar_gal0_72b06637:
 
     # ao "Eh? Have you finished?"
     ao "Eh? Have you finished?"
 
-# game/game/script.rpy:5905
+# game/game/script.rpy:5911
 translate ukrainian ryochar_gal0_07cd6b38:
 
     # sa "..."
     sa "..."
 
-# game/game/script.rpy:5906
+# game/game/script.rpy:5912
 translate ukrainian ryochar_gal0_8f5bf36e:
 
     # sa "What are you supposed to be doing?"
     sa "What are you supposed to be doing?"
 
-# game/game/script.rpy:5908
+# game/game/script.rpy:5914
 translate ukrainian ryochar_gal0_3864a381:
 
     # ao "..."
     ao "..."
 
-# game/game/script.rpy:5910
+# game/game/script.rpy:5916
 translate ukrainian ryochar_gal0_2b35b6fe_12:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5912
+# game/game/script.rpy:5918
 translate ukrainian ryochar_gal0_37be66be:
 
     # ao "Doh youm mwant?"
     ao "Doh youm mwant?"
 
-# game/game/script.rpy:5913
+# game/game/script.rpy:5919
 translate ukrainian ryochar_gal0_fefce11a:
 
     # sa "First offer, then eat!"
-    sa "First offer, then eat!"
+    sa "First offer, then eat!" with vpunch
 
-# game/game/script.rpy:5915
+# game/game/script.rpy:5921
 translate ukrainian ryochar_gal0_cbc1d46b:
 
     # ao "You know that because of my weakness Alice punishes me by not allowing me to do extra work."
     ao "You know that because of my weakness Alice punishes me by not allowing me to do extra work."
 
-# game/game/script.rpy:5916
+# game/game/script.rpy:5922
 translate ukrainian ryochar_gal0_fe9ea07a:
 
     # ao "So, {w}I have nothing to do."
     ao "So, {w}I have nothing to do."
 
-# game/game/script.rpy:5917
+# game/game/script.rpy:5923
 translate ukrainian ryochar_gal0_7e4c1665:
 
     # ao "But changing the subject."
     ao "But changing the subject."
 
-# game/game/script.rpy:5918
+# game/game/script.rpy:5924
 translate ukrainian ryochar_gal0_ab456928:
 
     # sa "Oi."
     sa "Oi."
 
-# game/game/script.rpy:5920
+# game/game/script.rpy:5926
 translate ukrainian ryochar_gal0_d3b3a926:
 
     # ao "Are you okay?"
     ao "Are you okay?"
 
-# game/game/script.rpy:5921
+# game/game/script.rpy:5927
 translate ukrainian ryochar_gal0_71288183:
 
     # ao "Sayori's punches are serious business {w}and you haven't been dodging even 70 percent of them."
     ao "Sayori's punches are serious business {w}and you haven't been dodging even 70 percent of them."
 
-# game/game/script.rpy:5922
+# game/game/script.rpy:5928
 translate ukrainian ryochar_gal0_192963f9:
 
     # mc "Yes, I'm fine... {w}I'm still learning."
     mc "Yes, I'm fine... {w}I'm still learning."
 
-# game/game/script.rpy:5924
+# game/game/script.rpy:5930
 translate ukrainian ryochar_gal0_ffbca66a:
 
     # sa "It is true that you seem very distracted today..."
     sa "It is true that you seem very distracted today..."
 
-# game/game/script.rpy:5926
+# game/game/script.rpy:5932
 translate ukrainian ryochar_gal0_3c2af0b6:
 
     # sa "Why don't you rest for a while?"
     sa "Why don't you rest for a while?"
 
-# game/game/script.rpy:5927
+# game/game/script.rpy:5933
 translate ukrainian ryochar_gal0_8fea2db2_1:
 
     # mc "Hmm..."
     mc "Hmm..."
 
-# game/game/script.rpy:5928
+# game/game/script.rpy:5934
 translate ukrainian ryochar_gal0_0f240219:
 
     # mc "If you say so..."
     mc "If you say so..."
 
-# game/game/script.rpy:5930
+# game/game/script.rpy:5936
 translate ukrainian ryochar_gal0_7c50675b:
 
     # t "I thought I was feeling better."
     t "I thought I was feeling better."
 
-# game/game/script.rpy:5931
+# game/game/script.rpy:5937
 translate ukrainian ryochar_gal0_05ed1107:
 
     # t "But the feeling that I am forgetting something is still there..."
     t "But the feeling that I am forgetting something is still there..."
 
-# game/game/script.rpy:5933
+# game/game/script.rpy:5939
 translate ukrainian ryochar_gal0_b54f3e2d:
 
     # ao "Oh? {w}What's that?"
     ao "Oh? {w}What's that?"
 
-# game/game/script.rpy:5934
+# game/game/script.rpy:5940
 translate ukrainian ryochar_gal0_541772c7:
 
     # mc "My lunch."
     mc "My lunch."
 
-# game/game/script.rpy:5935
+# game/game/script.rpy:5941
 translate ukrainian ryochar_gal0_d9ddc033:
 
     # ao "Hmm~ {w}who made it, Ryoko or Charlotte?"
     ao "Hmm~ {w}who made it, Ryoko or Charlotte?"
 
-# game/game/script.rpy:5936
+# game/game/script.rpy:5942
 translate ukrainian ryochar_gal0_36300858:
 
     # mc "Another girl who lives with me."
     mc "Another girl who lives with me."
 
-# game/game/script.rpy:5938
+# game/game/script.rpy:5944
 translate ukrainian ryochar_gal0_fb7673b3:
 
     # ao "What?! {w}Are there even more enemies? {w}And that one even cooks especially for you!?"
-    ao "What?! {w}Are there even more enemies? {w}And that one even cooks especially for you!?"
+    ao "What?! {w}Are there even more enemies? {w}And that one even cooks especially for you!?" with hpunch
 
-# game/game/script.rpy:5939
+# game/game/script.rpy:5945
 translate ukrainian ryochar_gal0_b821e281:
 
     # mc "Hahaha, what are you talking about? {w}It's nothing special, it's leftover food."
     mc "Hahaha, what are you talking about? {w}It's nothing special, it's leftover food."
 
-# game/game/script.rpy:5943
+# game/game/script.rpy:5949
 translate ukrainian ryochar_gal0_2b35b6fe_13:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:5944
+# game/game/script.rpy:5950
 translate ukrainian ryochar_gal0_708474ed:
 
     # ao "Yeah, {w}that's not leftovers at all."
     ao "Yeah, {w}that's not leftovers at all."
 
-# game/game/script.rpy:5946
+# game/game/script.rpy:5952
 translate ukrainian ryochar_gal0_84c61336:
 
     # ao "Sayori, let's play something!"
-    ao "Sayori, let's play something!"
+    ao "Sayori, let's play something!" with hpunch
 
-# game/game/script.rpy:5947
+# game/game/script.rpy:5953
 translate ukrainian ryochar_gal0_e147af70:
 
     # sa "Eeeh~ {w}Can't you see I'm training?"
     sa "Eeeh~ {w}Can't you see I'm training?"
 
-# game/game/script.rpy:5948
+# game/game/script.rpy:5954
 translate ukrainian ryochar_gal0_74e51182:
 
     # t "Thanks for the food!"
     t "Thanks for the food!"
 
-# game/game/script.rpy:5967
+# game/game/script.rpy:5973
 translate ukrainian ryochar_gal0_1645b7eb:
 
     # mc "....!"
     mc "....!"
 
-# game/game/script.rpy:5968
+# game/game/script.rpy:5974
 translate ukrainian ryochar_gal0_9ec674fa:
 
     # t "W-What? {w}What was that?"
     t "W-What? {w}What was that?"
 
-# game/game/script.rpy:5973
+# game/game/script.rpy:5979
 translate ukrainian ryochar_gal0_007bd628:
 
     # ao "For you Mr Miyagi."
     ao "For you Mr Miyagi."
 
-# game/game/script.rpy:5974
+# game/game/script.rpy:5980
 translate ukrainian ryochar_gal0_c5ddd6c5:
 
     # sa "May I know what you are doing?"
     sa "May I know what you are doing?"
 
-# game/game/script.rpy:5975
+# game/game/script.rpy:5981
 translate ukrainian ryochar_gal0_9cf3136a:
 
     # ao "Mmm?"
-    ao "Mmm?"
+    ao "Mmm?" (multiple=2)
 
-# game/game/script.rpy:5976
+# game/game/script.rpy:5982
 translate ukrainian ryochar_gal0_ba2f5883:
 
     # sa "Uhm?"
-    sa "Uhm?"
+    sa "Uhm?" (multiple=2)
 
-# game/game/script.rpy:5978
+# game/game/script.rpy:5984
 translate ukrainian ryochar_gal0_906519a3:
 
     # ao "[mc]? {w}Do you have a headache?"
     ao "[mc]? {w}Do you have a headache?"
 
-# game/game/script.rpy:5979
+# game/game/script.rpy:5985
 translate ukrainian ryochar_gal0_3c3fe500:
 
     # sa "Maybe the punches did affect you... {w}I'm sorry, I should control myself more."
     sa "Maybe the punches did affect you... {w}I'm sorry, I should control myself more."
 
-# game/game/script.rpy:5980
+# game/game/script.rpy:5986
 translate ukrainian ryochar_gal0_e2d366f0:
 
     # mc "N-No, it's nothing..."
     mc "N-No, it's nothing..."
 
-# game/game/script.rpy:5982
+# game/game/script.rpy:5988
 translate ukrainian ryochar_gal0_ffa6606a:
 
     # sa "Maybe you'd better go back to rest today."
     sa "Maybe you'd better go back to rest today."
 
-# game/game/script.rpy:5983
+# game/game/script.rpy:5989
 translate ukrainian ryochar_gal0_987d08ef:
 
     # ao "Yes... Sayori is right, it's strange to see you like this."
     ao "Yes... Sayori is right, it's strange to see you like this."
 
-# game/game/script.rpy:5984
+# game/game/script.rpy:5990
 translate ukrainian ryochar_gal0_1ca10847:
 
     # mc "No... relax, maybe I just need to go for a walk for a while."
     mc "No... relax, maybe I just need to go for a walk for a while."
 
-# game/game/script.rpy:5986
+# game/game/script.rpy:5992
 translate ukrainian ryochar_gal0_f98000d3:
 
     # mc "Sorry, I'll be right back."
     mc "Sorry, I'll be right back."
 
-# game/game/script.rpy:5987
+# game/game/script.rpy:5993
 translate ukrainian ryochar_gal0_8e08fc32:
 
     # ao "W-Wait, {w}are you sure you'll be okay?"
     ao "W-Wait, {w}are you sure you'll be okay?"
 
-# game/game/script.rpy:5988
+# game/game/script.rpy:5994
 translate ukrainian ryochar_gal0_bd0af91b:
 
     # sa "Aoi, {w}my mother used to tell me that when I see that my man wants to be alone, I have to give him space."
     sa "Aoi, {w}my mother used to tell me that when I see that my man wants to be alone, I have to give him space."
 
-# game/game/script.rpy:5989
+# game/game/script.rpy:5995
 translate ukrainian ryochar_gal0_debdca80:
 
     # ao "... {w}Ho hoooo~"
     ao "... {w}Ho hoooo~"
 
-# game/game/script.rpy:5990
+# game/game/script.rpy:5996
 translate ukrainian ryochar_gal0_9bc45a5e:
 
     # ao "Hehehe, so you see yourself as [mc]'s woman?"
     ao "Hehehe, so you see yourself as [mc]'s woman?"
 
-# game/game/script.rpy:5991
+# game/game/script.rpy:5997
 translate ukrainian ryochar_gal0_d898ad7b:
 
     # sa "Of course."
     sa "Of course."
 
-# game/game/script.rpy:5992
+# game/game/script.rpy:5998
 translate ukrainian ryochar_gal0_01b01489:
 
     # ao "Gasp!!!"
-    ao "Gasp!!!"
+    ao "Gasp!!!" with vpunch
 
-# game/game/script.rpy:5993
+# game/game/script.rpy:5999
 translate ukrainian ryochar_gal0_f9ac1a2b:
 
     # sa "I am his woman friend, and I must respect his space."
     sa "I am his woman friend, and I must respect his space."
 
-# game/game/script.rpy:5994
+# game/game/script.rpy:6000
 translate ukrainian ryochar_gal0_3864a381_1:
 
     # ao "..."
     ao "..."
 
-# game/game/script.rpy:5995
+# game/game/script.rpy:6001
 translate ukrainian ryochar_gal0_cb8c7c37:
 
     # ao "I don't even know what I expected."
     ao "I don't even know what I expected."
 
-# game/game/script.rpy:5997
+# game/game/script.rpy:6003
 translate ukrainian ryochar_gal0_04abbd0e:
 
     # t "What the hell was that I saw? It was like I was blinking really fast."
     t "What the hell was that I saw? It was like I was blinking really fast."
 
-# game/game/script.rpy:5998
+# game/game/script.rpy:6004
 translate ukrainian ryochar_gal0_4c6b5616:
 
     # t "An Oni? {w}Do Oni look like that too...?"
     t "An Oni? {w}Do Oni look like that too...?"
 
-# game/game/script.rpy:6000
+# game/game/script.rpy:6006
 translate ukrainian ryochar_gal0_cdb60eb6:
 
     # t "I stopped hearing her voice and now I see strange things?"
     t "I stopped hearing her voice and now I see strange things?"
 
-# game/game/script.rpy:6004
+# game/game/script.rpy:6010
 translate ukrainian ryochar_gal0_5cdbc6b2:
 
     # t "Just when I thought I was making progre-"
     t "Just when I thought I was making progre-"
 
-# game/game/script.rpy:6005
+# game/game/script.rpy:6011
 translate ukrainian ryochar_gal0_03fb3e88_3:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:6007
+# game/game/script.rpy:6013
 translate ukrainian ryochar_gal0_671d9444:
 
     # mc "That is..."
     mc "That is..."
 
-# game/game/script.rpy:6008
+# game/game/script.rpy:6014
 translate ukrainian ryochar_gal0_dfd370c8:
 
     # t "It's the dog, how rare to see her so early in the mor-"
     t "It's the dog, how rare to see her so early in the mor-"
 
-# game/game/script.rpy:6009
+# game/game/script.rpy:6015
 translate ukrainian ryochar_gal0_350c5a55:
 
     # mc "Hey!?"
-    mc "Hey!?"
+    mc "Hey!?" with hpunch
 
-# game/game/script.rpy:6014
+# game/game/script.rpy:6020
 translate ukrainian ryochar_gal0_61fa6123:
 
     # mc "What happened to you?!"
-    mc "What happened to you?!"
+    mc "What happened to you?!" with vpunch
 
-# game/game/script.rpy:6015
+# game/game/script.rpy:6021
 translate ukrainian ryochar_gal0_5f9b772e:
 
     # "...."
     "...."
 
-# game/game/script.rpy:6016
+# game/game/script.rpy:6022
 translate ukrainian ryochar_gal0_7f57827f:
 
     # mc "Don't worry, I'll get Diana to-"
     mc "Don't worry, I'll get Diana to-"
 
-# game/game/script.rpy:6017
+# game/game/script.rpy:6023
 translate ukrainian ryochar_gal0_db52e2cd:
 
     # "...!"
     "...!"
 
-# game/game/script.rpy:6020
+# game/game/script.rpy:6026
 translate ukrainian ryochar_gal0_fb2e5377:
 
     # mc "Eh?"
     mc "Eh?"
 
-# game/game/script.rpy:6021
+# game/game/script.rpy:6027
 translate ukrainian ryochar_gal0_6305d131:
 
     # t "Is the dog stopping me?"
     t "Is the dog stopping me?"
 
-# game/game/script.rpy:6026
+# game/game/script.rpy:6032
 translate ukrainian ryochar_gal0_4aa666f4:
 
     # mc "W-What's wrong? {w}Don't you want me to call Diana?"
     mc "W-What's wrong? {w}Don't you want me to call Diana?"
 
-# game/game/script.rpy:6027
+# game/game/script.rpy:6033
 translate ukrainian ryochar_gal0_5f9b772e_1:
 
     # "...."
     "...."
 
-# game/game/script.rpy:6035
+# game/game/script.rpy:6041
 translate ukrainian ryochar_gal0_55273544:
 
     # mc "Eeeeehh!?!?"
-    mc "Eeeeehh!?!?"
+    mc "Eeeeehh!?!?" with hpunch
 
-# game/game/script.rpy:6040
+# game/game/script.rpy:6046
 translate ukrainian ryochar_gal0_67bdfb9d:
 
     # mc "I don't understand what the fuck is going on!!"
-    mc "I don't understand what the fuck is going on!!"
+    mc "I don't understand what the fuck is going on!!" with hpunch
 
-# game/game/script.rpy:6042
+# game/game/script.rpy:6048
 translate ukrainian ryochar_gal0_1a36c3c7:
 
     # mc "I'm gooooing to faaaaall!"
-    mc "I'm gooooing to faaaaall!"
+    mc "I'm gooooing to faaaaall!" with hpunch
 
-# game/game/script.rpy:6046
+# game/game/script.rpy:6052
 translate ukrainian ryochar_gal0_989d0f03:
 
     # t "Ha! I got the hang of it!"
-    t "Ha! I got the hang of it!"
+    t "Ha! I got the hang of it!" with vpunch
 
-# game/game/script.rpy:6048
+# game/game/script.rpy:6054
 translate ukrainian ryochar_gal0_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:6049
+# game/game/script.rpy:6055
 translate ukrainian ryochar_gal0_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:6050
+# game/game/script.rpy:6056
 translate ukrainian ryochar_gal0_a20cefa7_4:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6056
+# game/game/script.rpy:6062
 translate ukrainian ryochar_gal0_dc404c8e:
 
     # t "If I catch the timing I can coordinate it with me!"
     t "If I catch the timing I can coordinate it with me!"
 
-# game/game/script.rpy:6058
+# game/game/script.rpy:6064
 translate ukrainian ryochar_gal0_c3347ed1:
 
     # t "It's easier than it look! {w}HAHA!"
-    t "It's easier than it look! {w}HAHA!"
+    t "It's easier than it look! {w}HAHA!" with vpunch
 
-# game/game/script.rpy:6059
+# game/game/script.rpy:6065
 translate ukrainian ryochar_gal0_724764f8:
 
     # t "I'm riding a giant dog!"
-    t "I'm riding a giant dog!"
+    t "I'm riding a giant dog!" with hpunch
 
-# game/game/script.rpy:6061
+# game/game/script.rpy:6067
 translate ukrainian ryochar_gal0_e6205681:
 
     # t "HAHAHA I'm unstoppable!!"
-    t "HAHAHA I'm unstoppable!!"
+    t "HAHAHA I'm unstoppable!!" with hpunch
 
-# game/game/script.rpy:6076
+# game/game/script.rpy:6082
 translate ukrainian ryochar_gal0_3b21f354:
 
     # mc "......"
     mc "......"
 
-# game/game/script.rpy:6077
+# game/game/script.rpy:6083
 translate ukrainian ryochar_gal0_1ebf6a79:
 
     # a "{size=-10}That's all I can do."
     a "{size=-10}That's all I can do."
 
-# game/game/script.rpy:6078
+# game/game/script.rpy:6084
 translate ukrainian ryochar_gal0_18d72f66:
 
     # a "{size=-10}I lost everything... {w}maybe you still have time..."
     a "{size=-10}I lost everything... {w}maybe you still have time..."
 
-# game/game/script.rpy:6080
+# game/game/script.rpy:6086
 translate ukrainian ryochar_gal0_5c090e89:
 
     # mc "...."
     mc "...."
 
-# game/game/script.rpy:6082
+# game/game/script.rpy:6088
 translate ukrainian ryochar_gal0_89334b8c:
 
     # t "I heard a very soft voice, whose was it?"
     t "I heard a very soft voice, whose was it?"
 
-# game/game/script.rpy:6083
+# game/game/script.rpy:6089
 translate ukrainian ryochar_gal0_4c74c7ac:
 
     # mc "Lost everything?"
     mc "Lost everything?"
 
-# game/game/script.rpy:6084
+# game/game/script.rpy:6090
 translate ukrainian ryochar_gal0_03fb3e88_4:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:6086
+# game/game/script.rpy:6092
 translate ukrainian ryochar_gal0_e0159630:
 
     # mc "Why is there no one at the guard post...?"
     mc "Why is there no one at the guard post...?"
 
-# game/game/script.rpy:6090
+# game/game/script.rpy:6096
 translate ukrainian ryochar_gal0_dcf7df8f:
 
     # s "NOOOOO!"
-    s "NOOOOO!"
+    s "NOOOOO!" with hpunch
 
-# game/game/script.rpy:6093
+# game/game/script.rpy:6099
 translate ukrainian ryochar_gal0_1dd9eae0:
 
     # mc "SHIKA!?"
-    mc "SHIKA!?"
+    mc "SHIKA!?" with vpunch
 
-# game/game/script.rpy:6095
+# game/game/script.rpy:6101
 translate ukrainian ryochar_gal0_ff388ef0:
 
     # t "She had never screamed like that before."
     t "She had never screamed like that before."
 
-# game/game/script.rpy:6096
+# game/game/script.rpy:6102
 translate ukrainian ryochar_gal0_0f05fc06:
 
     # t "What the hell is going on?!"
-    t "What the hell is going on?!"
+    t "What the hell is going on?!" with hpunch
 
-# game/game/script.rpy:6098
+# game/game/script.rpy:6104
 translate ukrainian ryochar_gal0_d499cf7a:
 
     # mc "............"
     mc "............"
 
-# game/game/script.rpy:6099
+# game/game/script.rpy:6105
 translate ukrainian ryochar_gal0_278c7e29:
 
     # "........."
     "........."
 
-# game/game/script.rpy:6100
+# game/game/script.rpy:6106
 translate ukrainian ryochar_gal0_a20cefa7_5:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6115
+# game/game/script.rpy:6121
 translate ukrainian ryochar_gal0_8e1cea04:
 
     # zu "Now everyone thinks they're a big deal or what."
     zu "Now everyone thinks they're a big deal or what."
 
-# game/game/script.rpy:6119
+# game/game/script.rpy:6125
 translate ukrainian ryochar_gal0_32221020:
 
     # zu "Well, {w}they say that garbage tends to gather with garbage."
     zu "Well, {w}they say that garbage tends to gather with garbage."
 
-# game/game/script.rpy:6121
+# game/game/script.rpy:6127
 translate ukrainian ryochar_gal0_0d716ed3:
 
     # zu "I have to go somewhere."
     zu "I have to go somewhere."
 
-# game/game/script.rpy:6123
+# game/game/script.rpy:6129
 translate ukrainian ryochar_gal0_7cd42b36:
 
     # zu "Can you get out of the way?"
     zu "Can you get out of the way?"
 
-# game/game/script.rpy:6124
+# game/game/script.rpy:6130
 translate ukrainian ryochar_gal0_58cc63d4:
 
     # zu "I'm starting to get annoyed."
     zu "I'm starting to get annoyed."
 
-# game/game/script.rpy:6126
+# game/game/script.rpy:6132
 translate ukrainian ryochar_gal0_d19f855d_3:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:6127
+# game/game/script.rpy:6133
 translate ukrainian ryochar_gal0_27b66413:
 
     # zu "Not very talkative, {w}huh?"
     zu "Not very talkative, {w}huh?"
 
-# game/game/script.rpy:6129
+# game/game/script.rpy:6135
 translate ukrainian ryochar_gal0_289c896c:
 
     # c "{size=-8}I will not attack you if you answer me at this time."
     c "{size=-8}I will not attack you if you answer me at this time."
 
-# game/game/script.rpy:6130
+# game/game/script.rpy:6136
 translate ukrainian ryochar_gal0_940b8457:
 
     # c "{size=-8}Who are you, {w}and why did you help me?"
     c "{size=-8}Who are you, {w}and why did you help me?"
 
-# game/game/script.rpy:6131
+# game/game/script.rpy:6137
 translate ukrainian ryochar_gal0_dcd78a6a:
 
     # a "{size=-8}Y-You... {w}are not very friendly..."
     a "{size=-8}Y-You... {w}are not very friendly..."
 
-# game/game/script.rpy:6132
+# game/game/script.rpy:6138
 translate ukrainian ryochar_gal0_9698ffbc:
 
     # c "{size=-8}Answer."
     c "{size=-8}Answer."
 
-# game/game/script.rpy:6134
+# game/game/script.rpy:6140
 translate ukrainian ryochar_gal0_cba8344e:
 
     # a "{size=-8}... {w}Isn't it enough for you to know that I'm not on either side?"
     a "{size=-8}... {w}Isn't it enough for you to know that I'm not on either side?"
 
-# game/game/script.rpy:6135
+# game/game/script.rpy:6141
 translate ukrainian ryochar_gal0_f1c4bc74:
 
     # c "{size=-8}Answer or I will consider you my enemy."
     c "{size=-8}Answer or I will consider you my enemy."
 
-# game/game/script.rpy:6136
+# game/game/script.rpy:6142
 translate ukrainian ryochar_gal0_46a3c063:
 
     # a "{size=-8}I don't have a name..."
     a "{size=-8}I don't have a name..."
 
-# game/game/script.rpy:6137
+# game/game/script.rpy:6143
 translate ukrainian ryochar_gal0_9b0cd592:
 
     # c "{size=-8}Make one up."
     c "{size=-8}Make one up."
 
-# game/game/script.rpy:6138
+# game/game/script.rpy:6144
 translate ukrainian ryochar_gal0_bb8e4b4e:
 
     # a "..."
     a "..."
 
-# game/game/script.rpy:6140
+# game/game/script.rpy:6146
 translate ukrainian ryochar_gal0_00bee5a3:
 
     # a "{size=-8}There is a girl who calls me, {w}Karyn."
     a "{size=-8}There is a girl who calls me, {w}Karyn."
 
-# game/game/script.rpy:6141
+# game/game/script.rpy:6147
 translate ukrainian ryochar_gal0_908377a6:
 
     # c "{size=-8}Why did you save me... \"Karyn\"?"
     c "{size=-8}Why did you save me... \"Karyn\"?"
 
-# game/game/script.rpy:6143
+# game/game/script.rpy:6149
 translate ukrainian ryochar_gal0_3578590c:
 
     # kar "{size=-8}Because I no longer have anything to lose {w}and I've lost all will to live~"
     kar "{size=-8}Because I no longer have anything to lose {w}and I've lost all will to live~"
 
-# game/game/script.rpy:6144
+# game/game/script.rpy:6150
 translate ukrainian ryochar_gal0_d19f855d_4:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:6145
+# game/game/script.rpy:6151
 translate ukrainian ryochar_gal0_9aecc18f:
 
     # kar "{size=-8}And..."
     kar "{size=-8}And..."
 
-# game/game/script.rpy:6147
+# game/game/script.rpy:6153
 translate ukrainian ryochar_gal0_9dbec884:
 
     # kar "{size=-8}They took it all away from me..."
     kar "{size=-8}They took it all away from me..."
 
-# game/game/script.rpy:6149
+# game/game/script.rpy:6155
 translate ukrainian ryochar_gal0_a43f0950:
 
     # kar "{size=-8}Let's say we have an enemy in common."
     kar "{size=-8}Let's say we have an enemy in common."
 
-# game/game/script.rpy:6150
+# game/game/script.rpy:6156
 translate ukrainian ryochar_gal0_2ba298b7:
 
     # kar "{size=-8}How is your wound?"
     kar "{size=-8}How is your wound?"
 
-# game/game/script.rpy:6152
+# game/game/script.rpy:6158
 translate ukrainian ryochar_gal0_d19f855d_5:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:6154
+# game/game/script.rpy:6160
 translate ukrainian ryochar_gal0_32baa9c3:
 
     # c "{size=-8}Just stay out of the way."
     c "{size=-8}Just stay out of the way."
 
-# game/game/script.rpy:6155
+# game/game/script.rpy:6161
 translate ukrainian ryochar_gal0_20b7df07:
 
     # kar "{size=-10}Sigh~{/size} {size=-8}{w}This is why I hate cats."
     kar "{size=-10}Sigh~{/size} {size=-8}{w}This is why I hate cats."
 
-# game/game/script.rpy:6157
+# game/game/script.rpy:6163
 translate ukrainian ryochar_gal0_a65c7ff3:
 
     # zu "{i}{size=-10}I'm sure I hit her,{w} why is it still not-"
     zu "{i}{size=-10}I'm sure I hit her,{w} why is it still not-"
 
-# game/game/script.rpy:6163
+# game/game/script.rpy:6169
 translate ukrainian ryochar_gal0_0f13397a_4:
 
     # zu "..."
     zu "..."
 
-# game/game/script.rpy:6170
+# game/game/script.rpy:6176
 translate ukrainian ryochar_gal0_f022e22d:
 
     # zu "{i}{size=-10}What an annoying kitten."
     zu "{i}{size=-10}What an annoying kitten."
 
-# game/game/script.rpy:6177
+# game/game/script.rpy:6183
 translate ukrainian ryochar_gal0_6df0392e:
 
     # zu "Die."
     zu "Die."
 
-# game/game/script.rpy:6185
+# game/game/script.rpy:6191
 translate ukrainian ryochar_gal0_10f1dc79:
 
     # c "Annoying."
     c "Annoying."
 
-# game/game/script.rpy:6186
+# game/game/script.rpy:6192
 translate ukrainian ryochar_gal0_4be09670:
 
     # kar "Eeh, {w}I thought I did a good job."
     kar "Eeh, {w}I thought I did a good job."
 
-# game/game/script.rpy:6188
+# game/game/script.rpy:6194
 translate ukrainian ryochar_gal0_585f6340:
 
     # c "Because of you she escaped."
     c "Because of you she escaped."
 
-# game/game/script.rpy:6189
+# game/game/script.rpy:6195
 translate ukrainian ryochar_gal0_07a0d5e9:
 
     # kar "But I don't think she'll get anywhere with that wound..."
     kar "But I don't think she'll get anywhere with that wound..."
 
-# game/game/script.rpy:6190
+# game/game/script.rpy:6196
 translate ukrainian ryochar_gal0_27bbf81c:
 
     # c "It does me no good that she is injured if her death is not confirmed."
     c "It does me no good that she is injured if her death is not confirmed."
 
-# game/game/script.rpy:6192
+# game/game/script.rpy:6198
 translate ukrainian ryochar_gal0_31eab9c1:
 
     # kar "Sigh~ You and I could never get along."
     kar "Sigh~ You and I could never get along."
 
-# game/game/script.rpy:6194
+# game/game/script.rpy:6200
 translate ukrainian ryochar_gal0_a0b84478:
 
     # kar "Why don't you go after her if it bothers you so much?"
     kar "Why don't you go after her if it bothers you so much?"
 
-# game/game/script.rpy:6195
+# game/game/script.rpy:6201
 translate ukrainian ryochar_gal0_d19f855d_6:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:6197
+# game/game/script.rpy:6203
 translate ukrainian ryochar_gal0_979be09e:
 
     # kar "...?"
     kar "...?"
 
-# game/game/script.rpy:6199
+# game/game/script.rpy:6205
 translate ukrainian ryochar_gal0_ab1514ae:
 
     # kar "Waa~ {w}That looks painful."
     kar "Waa~ {w}That looks painful."
 
-# game/game/script.rpy:6201
+# game/game/script.rpy:6207
 translate ukrainian ryochar_gal0_d19f855d_7:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:6202
+# game/game/script.rpy:6208
 translate ukrainian ryochar_gal0_1d017e06:
 
     # kar "Did you make all those moves when you were poisoned?"
     kar "Did you make all those moves when you were poisoned?"
 
-# game/game/script.rpy:6203
+# game/game/script.rpy:6209
 translate ukrainian ryochar_gal0_e61e7f47:
 
     # kar "Now I understand why she didn't attack us while you were telling me about your life."
     kar "Now I understand why she didn't attack us while you were telling me about your life."
 
-# game/game/script.rpy:6205
+# game/game/script.rpy:6211
 translate ukrainian ryochar_gal0_825599c7:
 
     # c "The girl ran away, and I didn't get any information."
     c "The girl ran away, and I didn't get any information."
 
-# game/game/script.rpy:6206
+# game/game/script.rpy:6212
 translate ukrainian ryochar_gal0_13bfeca5:
 
     # kar "{size=-10}Oii~ {w}You should get that treated or it will get worse."
     kar "{size=-10}Oii~ {w}You should get that treated or it will get worse."
 
-# game/game/script.rpy:6207
+# game/game/script.rpy:6213
 translate ukrainian ryochar_gal0_0e61f7cc:
 
     # c "What would she gain by observing the Human?"
     c "What would she gain by observing the Human?"
 
-# game/game/script.rpy:6208
+# game/game/script.rpy:6214
 translate ukrainian ryochar_gal0_d34e99ab:
 
     # kar "{size=-10}Oiii~ {w}I'm talking to you~"
     kar "{size=-10}Oiii~ {w}I'm talking to you~"
 
-# game/game/script.rpy:6209
+# game/game/script.rpy:6215
 translate ukrainian ryochar_gal0_ad3a7824:
 
     # c "She already knew how to fight people, and her ability left me paralyzed."
     c "She already knew how to fight people, and her ability left me paralyzed."
 
-# game/game/script.rpy:6210
+# game/game/script.rpy:6216
 translate ukrainian ryochar_gal0_76708640:
 
     # c "Such cowardly tricks are typical of mercenaries."
     c "Such cowardly tricks are typical of mercenaries."
 
-# game/game/script.rpy:6211
+# game/game/script.rpy:6217
 translate ukrainian ryochar_gal0_dc065b54:
 
     # kar "Wan {w}wan~"
     kar "Wan {w}wan~"
 
-# game/game/script.rpy:6213
+# game/game/script.rpy:6219
 translate ukrainian ryochar_gal0_03060c3d:
 
     # c "Haven't anyone told you how annoying you are?"
     c "Haven't anyone told you how annoying you are?"
 
-# game/game/script.rpy:6214
+# game/game/script.rpy:6220
 translate ukrainian ryochar_gal0_15d5dd8c:
 
     # kar "..."
     kar "..."
 
-# game/game/script.rpy:6219
+# game/game/script.rpy:6225
 translate ukrainian ryochar_gal0_615c289b:
 
     # kar "More than you think."
     kar "More than you think."
 
-# game/game/script.rpy:6221
+# game/game/script.rpy:6227
 translate ukrainian ryochar_gal0_bfcc40c6:
 
     # kar "{size=-10}Hehe..."
     kar "{size=-10}Hehe..."
 
-# game/game/script.rpy:6223
+# game/game/script.rpy:6229
 translate ukrainian ryochar_gal0_d19f855d_8:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:6225
+# game/game/script.rpy:6231
 translate ukrainian ryochar_gal0_7fa39872:
 
     # c "Sorr-"
     c "Sorr-"
 
-# game/game/script.rpy:6232
+# game/game/script.rpy:6238
 translate ukrainian ryochar_gal0_f1a6bc35:
 
     # kar "Woow."
     kar "Woow."
 
-# game/game/script.rpy:6233
+# game/game/script.rpy:6239
 translate ukrainian ryochar_gal0_8eb088a5:
 
     # kar "That comes from the direction in which the cat ran."
     kar "That comes from the direction in which the cat ran."
 
-# game/game/script.rpy:6235
+# game/game/script.rpy:6241
 translate ukrainian ryochar_gal0_cb39b50c:
 
     # zu "I hope you at least have the brains to understand this, {w}mask fucker."
     zu "I hope you at least have the brains to understand this, {w}mask fucker."
 
-# game/game/script.rpy:6236
+# game/game/script.rpy:6242
 translate ukrainian ryochar_gal0_d69e1da5:
 
     # zu "The brat is gone."
     zu "The brat is gone."
 
-# game/game/script.rpy:6237
+# game/game/script.rpy:6243
 translate ukrainian ryochar_gal0_e12560e9:
 
     # zu "And the cat is paralyzed."
     zu "And the cat is paralyzed."
 
-# game/game/script.rpy:6239
+# game/game/script.rpy:6245
 translate ukrainian ryochar_gal0_bc95c923:
 
     # zu "If he does not keep his promise, {w}I will kill him."
     zu "If he does not keep his promise, {w}I will kill him."
 
-# game/game/script.rpy:6240
+# game/game/script.rpy:6246
 translate ukrainian ryochar_gal0_b9e94d70:
 
     # zu "{size=-10}I've done my share of the work, {w}I'm going to sleep."
     zu "{size=-10}I've done my share of the work, {w}I'm going to sleep."
 
-# game/game/script.rpy:6244
+# game/game/script.rpy:6250
 translate ukrainian ryochar_gal0_6e2fc47a:
 
     # kar "H-Hey! {w}What are you doing, you can barely stand up!"
-    kar "H-Hey! {w}What are you doing, you can barely stand up!"
+    kar "H-Hey! {w}What are you doing, you can barely stand up!" with vpunch
 
-# game/game/script.rpy:6246
+# game/game/script.rpy:6252
 translate ukrainian ryochar_gal0_f69b7610:
 
     # c "{size=-8}That was a signal to her teammates."
     c "{size=-8}That was a signal to her teammates."
 
-# game/game/script.rpy:6247
+# game/game/script.rpy:6253
 translate ukrainian ryochar_gal0_5f507405:
 
     # c "{size=-8}She knows she's not getting anywhere with that wound, so she warns them in another way."
     c "{size=-8}She knows she's not getting anywhere with that wound, so she warns them in another way."
 
-# game/game/script.rpy:6248
+# game/game/script.rpy:6254
 translate ukrainian ryochar_gal0_ef159c3f:
 
     # kar "The one who will get nowhere will be you if you keep moving! {w}You make the poison spread faster!"
-    kar "The one who will get nowhere will be you if you keep moving! {w}You make the poison spread faster!"
+    kar "The one who will get nowhere will be you if you keep moving! {w}You make the poison spread faster!" with vpunch
 
-# game/game/script.rpy:6250
+# game/game/script.rpy:6256
 translate ukrainian ryochar_gal0_492e5e6d:
 
     # c "{size=-8}I have to get back to town as soon as possible."
     c "{size=-8}I have to get back to town as soon as possible."
 
-# game/game/script.rpy:6251
+# game/game/script.rpy:6257
 translate ukrainian ryochar_gal0_647a5f35:
 
     # c "{i}{size=-10}I have to protect your village..."
     c "{i}{size=-10}I have to protect your village..."
 
-# game/game/script.rpy:6252
+# game/game/script.rpy:6258
 translate ukrainian ryochar_gal0_fd73489a:
 
     # c "{i}{size=-15}I have to do it... {w}I have to keep safe the place where you will return..."
     c "{i}{size=-15}I have to do it... {w}I have to keep safe the place where you will return..."
 
-# game/game/script.rpy:6255
+# game/game/script.rpy:6261
 translate ukrainian ryochar_gal0_f9091666:
 
     # c "GNMNYA!!!"
-    c "GNMNYA!!!"
+    c "GNMNYA!!!" with hpunch
 
-# game/game/script.rpy:6256
+# game/game/script.rpy:6262
 translate ukrainian ryochar_gal0_c62bef9d:
 
     # kar "God, {w}how I hate cats."
     kar "God, {w}how I hate cats."
 
-# game/game/script.rpy:6258
+# game/game/script.rpy:6264
 translate ukrainian ryochar_gal0_1c4414db:
 
     # kar "This way you will never find a male that wants to mate with you."
     kar "This way you will never find a male that wants to mate with you."
 
-# game/game/script.rpy:6259
+# game/game/script.rpy:6265
 translate ukrainian ryochar_gal0_6a909369:
 
     # c "You dog! {w}I knew you were my enemy!"
-    c "You dog! {w}I knew you were my enemy!"
+    c "You dog! {w}I knew you were my enemy!" with vpunch
 
-# game/game/script.rpy:6261
+# game/game/script.rpy:6267
 translate ukrainian ryochar_gal0_b2834e13:
 
     # kar "Stay still, stubborn cat, let the ointment take effect."
     kar "Stay still, stubborn cat, let the ointment take effect."
 
-# game/game/script.rpy:6262
+# game/game/script.rpy:6268
 translate ukrainian ryochar_gal0_f74e49d9:
 
     # kar "It burns because it is working."
     kar "It burns because it is working."
 
-# game/game/script.rpy:6263
+# game/game/script.rpy:6269
 translate ukrainian ryochar_gal0_f1e3572e:
 
     # c "I don't need it! {w}I have to hurry back!"
     c "I don't need it! {w}I have to hurry back!"
 
-# game/game/script.rpy:6264
+# game/game/script.rpy:6270
 translate ukrainian ryochar_gal0_ecaf5e00:
 
     # c "Eh?"
     c "Eh?"
 
-# game/game/script.rpy:6266
+# game/game/script.rpy:6272
 translate ukrainian ryochar_gal0_dc207294:
 
     # c "I recovered my senses."
     c "I recovered my senses."
 
-# game/game/script.rpy:6267
+# game/game/script.rpy:6273
 translate ukrainian ryochar_gal0_2cb84380:
 
     # kar "I just told you, it will help with the dizziness and disorientation but you will still feel paralysis until the poison leaves your body."
     kar "I just told you, it will help with the dizziness and disorientation but you will still feel paralysis until the poison leaves your body."
 
-# game/game/script.rpy:6269
+# game/game/script.rpy:6275
 translate ukrainian ryochar_gal0_9a2f1fda:
 
     # kar "Do you still plan to go in those conditions?"
     kar "Do you still plan to go in those conditions?"
 
-# game/game/script.rpy:6271
+# game/game/script.rpy:6277
 translate ukrainian ryochar_gal0_67193097:
 
     # c "If your family was in a house engulfed in flames, wouldn't you go?"
     c "If your family was in a house engulfed in flames, wouldn't you go?"
 
-# game/game/script.rpy:6272
+# game/game/script.rpy:6278
 translate ukrainian ryochar_gal0_15d5dd8c_1:
 
     # kar "..."
     kar "..."
 
-# game/game/script.rpy:6273
+# game/game/script.rpy:6279
 translate ukrainian ryochar_gal0_e3d53851:
 
     # c "And why are you still here?"
     c "And why are you still here?"
 
-# game/game/script.rpy:6274
+# game/game/script.rpy:6280
 translate ukrainian ryochar_gal0_f838fd32:
 
     # kar "Our common enemy is attacking you, right? I'm coming with you."
     kar "Our common enemy is attacking you, right? I'm coming with you."
 
-# game/game/script.rpy:6275
+# game/game/script.rpy:6281
 translate ukrainian ryochar_gal0_6c6236cc:
 
     # c "If you get in my way again, {w}I will peel you."
     c "If you get in my way again, {w}I will peel you."
 
-# game/game/script.rpy:6276
+# game/game/script.rpy:6282
 translate ukrainian ryochar_gal0_fd30c76d:
 
     # kar "You are welcome."
     kar "You are welcome."
 
-# game/game/script.rpy:6281
+# game/game/script.rpy:6287
 translate ukrainian ryochar_gal0_0c5afe84:
 
     # ba1 "That shitty cat only had one job and she did it poorly."
     ba1 "That shitty cat only had one job and she did it poorly."
 
-# game/game/script.rpy:6285
+# game/game/script.rpy:6291
 translate ukrainian ryochar_gal0_ee7db6e4:
 
     # bav "Boss, {w}what do we do?"
     bav "Boss, {w}what do we do?"
 
-# game/game/script.rpy:6287
+# game/game/script.rpy:6293
 translate ukrainian ryochar_gal0_b39126a3:
 
     # ba1 "What else? {w}The fucking cat already ratted us out, {w}go in and kidnap all the bitches you can find."
     ba1 "What else? {w}The fucking cat already ratted us out, {w}go in and kidnap all the bitches you can find."
 
-# game/game/script.rpy:6289
+# game/game/script.rpy:6295
 translate ukrainian ryochar_gal0_c3b63d76:
 
     # ba1 "And those that resist, {w}just kill them."
     ba1 "And those that resist, {w}just kill them."
 
-# game/game/script.rpy:6290
+# game/game/script.rpy:6296
 translate ukrainian ryochar_gal0_dbc55b32:
 
     # bav "{size=+10}Yes!"
-    bav "{size=+10}Yes!"
+    bav "{size=+10}Yes!" with vpunch
 
-# game/game/script.rpy:6292
+# game/game/script.rpy:6298
 translate ukrainian ryochar_gal0_db4772e6:
 
     # kar "Why is there no one defending?"
     kar "Why is there no one defending?"
 
-# game/game/script.rpy:6293
+# game/game/script.rpy:6299
 translate ukrainian ryochar_gal0_aad346f5:
 
     # c "{size=-10}Come on, get down, don't make any noise."
     c "{size=-10}Come on, get down, don't make any noise."
 
-# game/game/script.rpy:6294
+# game/game/script.rpy:6300
 translate ukrainian ryochar_gal0_103322a1:
 
     # kar "{size=-10}Stealth, {w}I understand."
     kar "{size=-10}Stealth, {w}I understand."
 
-# game/game/script.rpy:6295
+# game/game/script.rpy:6301
 translate ukrainian ryochar_gal0_9a614b12:
 
     # c "{size=-10}Sigh*"
     c "{size=-10}Sigh*"
 
-# game/game/script.rpy:6297
+# game/game/script.rpy:6303
 translate ukrainian ryochar_gal0_4a39c45d:
 
     # kar "{size=-10}Wow, you got kicked out the front door."
     kar "{size=-10}Wow, you got kicked out the front door."
 
-# game/game/script.rpy:6298
+# game/game/script.rpy:6304
 translate ukrainian ryochar_gal0_2013c675:
 
     # kar "{size=-10}They seem to be talking... {w}those girls are super brave to confront so many."
     kar "{size=-10}They seem to be talking... {w}those girls are super brave to confront so many."
 
-# game/game/script.rpy:6299
+# game/game/script.rpy:6305
 translate ukrainian ryochar_gal0_7d703b2f:
 
     # kar "{size=-10}Whoever is in charge here was super quick to notice the bandits' att-"
     kar "{size=-10}Whoever is in charge here was super quick to notice the bandits' att-"
 
-# game/game/script.rpy:6301
+# game/game/script.rpy:6307
 translate ukrainian ryochar_gal0_91e82469:
 
     # kar "{size=-10}Those are not just bandits."
     kar "{size=-10}Those are not just bandits."
 
-# game/game/script.rpy:6302
+# game/game/script.rpy:6308
 translate ukrainian ryochar_gal0_d3b92e92:
 
     # c "{size=-10}Do you know of any?"
     c "{size=-10}Do you know of any?"
 
-# game/game/script.rpy:6303
+# game/game/script.rpy:6309
 translate ukrainian ryochar_gal0_2826afcd:
 
     # kar "{size=-10}The fucker who is talking to that woman."
     kar "{size=-10}The fucker who is talking to that woman."
 
-# game/game/script.rpy:6304
+# game/game/script.rpy:6310
 translate ukrainian ryochar_gal0_c4138fb0:
 
     # kar "{size=-10}But they are mixed up, {w}what are they doing working together with bandits?"
     kar "{size=-10}But they are mixed up, {w}what are they doing working together with bandits?"
 
-# game/game/script.rpy:6306
+# game/game/script.rpy:6312
 translate ukrainian ryochar_gal0_fbfb0e4e:
 
     # ba1 "Woow, {w}If I had known I was going to be greeted by three beautiful bitches I would have come sooner."
     ba1 "Woow, {w}If I had known I was going to be greeted by three beautiful bitches I would have come sooner."
 
-# game/game/script.rpy:6307
+# game/game/script.rpy:6313
 translate ukrainian ryochar_gal0_137d2ab8:
 
     # ev "HAHAHAHA."
-    ev "HAHAHAHA."
+    ev "HAHAHAHA." with hpunch
 
-# game/game/script.rpy:6308
+# game/game/script.rpy:6314
 translate ukrainian ryochar_gal0_34665744:
 
     # h "Why are there two of the Queen's slaves with you? {w}We had reached an agreement."
     h "Why are there two of the Queen's slaves with you? {w}We had reached an agreement."
 
-# game/game/script.rpy:6309
+# game/game/script.rpy:6315
 translate ukrainian ryochar_gal0_f9b53f97:
 
     # ba1 "I don't have to explain myself to you, beauty, {w}come in peacefully and no one will get hurt."
     ba1 "I don't have to explain myself to you, beauty, {w}come in peacefully and no one will get hurt."
 
-# game/game/script.rpy:6310
+# game/game/script.rpy:6316
 translate ukrainian ryochar_gal0_ff29d562:
 
     # ba1 "Well, maybe one or two."
     ba1 "Well, maybe one or two."
 
-# game/game/script.rpy:6312
+# game/game/script.rpy:6318
 translate ukrainian ryochar_gal0_c42736db:
 
     # ak "Answer, or I'll break your mask along with every one of your teeth, {w}you scumbag."
     ak "Answer, or I'll break your mask along with every one of your teeth, {w}you scumbag."
 
-# game/game/script.rpy:6313
+# game/game/script.rpy:6319
 translate ukrainian ryochar_gal0_d9b35634:
 
     # ba1 "Ooh! {w}Women with character! And I thought I'd come here to be bored HAHAHAHA."
-    ba1 "Ooh! {w}Women with character! And I thought I'd come here to be bored HAHAHAHA."
+    ba1 "Ooh! {w}Women with character! And I thought I'd come here to be bored HAHAHAHA." with hpunch
 
-# game/game/script.rpy:6314
+# game/game/script.rpy:6320
 translate ukrainian ryochar_gal0_8c1c907d:
 
     # ba1 "I will tell you why we are here just because I liked you."
     ba1 "I will tell you why we are here just because I liked you."
 
-# game/game/script.rpy:6316
+# game/game/script.rpy:6322
 translate ukrainian ryochar_gal0_325d5fba:
 
     # bav "{size=-10}B-Boss."
     bav "{size=-10}B-Boss."
 
-# game/game/script.rpy:6317
+# game/game/script.rpy:6323
 translate ukrainian ryochar_gal0_4ced2539:
 
     # ba1 "The {w}\"Queen\" {w}has branded this town as treasonous."
     ba1 "The {w}\"Queen\" {w}has branded this town as treasonous."
 
-# game/game/script.rpy:6319
+# game/game/script.rpy:6325
 translate ukrainian ryochar_gal0_4da344fa:
 
     # ba1 "For hiding a repugnant demon."
     ba1 "For hiding a repugnant demon."
 
-# game/game/script.rpy:6320
+# game/game/script.rpy:6326
 translate ukrainian ryochar_gal0_995e145b:
 
     # y "Well, they gave her false information."
     y "Well, they gave her false information."
 
-# game/game/script.rpy:6322
+# game/game/script.rpy:6328
 translate ukrainian ryochar_gal0_87423739:
 
     # ba1 "HAHA! {w}False information? {w}That's the best you can come up with?"
-    ba1 "HAHA! {w}False information? {w}That's the best you can come up with?"
+    ba1 "HAHA! {w}False information? {w}That's the best you can come up with?" with hpunch
 
-# game/game/script.rpy:6323
+# game/game/script.rpy:6329
 translate ukrainian ryochar_gal0_462fc7e4:
 
     # ba1 "A man has been going in and out of this shitty town{w} and lately he has been seen leaving here with a disgusting and nasty demon."
     ba1 "A man has been going in and out of this shitty town{w} and lately he has been seen leaving here with a disgusting and nasty demon."
 
-# game/game/script.rpy:6325
+# game/game/script.rpy:6331
 translate ukrainian ryochar_gal0_44d558dd:
 
     # ba1 "Or what? {w}Did he fuck you guys so much that your memory is failing you?"
     ba1 "Or what? {w}Did he fuck you guys so much that your memory is failing you?"
 
-# game/game/script.rpy:6326
+# game/game/script.rpy:6332
 translate ukrainian ryochar_gal0_4b93592b:
 
     # ba1 "{size=-5}Besides... {w}if it were false information..."
     ba1 "{size=-5}Besides... {w}if it were false information..."
 
-# game/game/script.rpy:6328
+# game/game/script.rpy:6334
 translate ukrainian ryochar_gal0_0ef16a7e:
 
     # ba1 "You, {w}blondie, {w}tell the one in front to stop looking at me like that."
     ba1 "You, {w}blondie, {w}tell the one in front to stop looking at me like that."
 
-# game/game/script.rpy:6330
+# game/game/script.rpy:6336
 translate ukrainian ryochar_gal0_f5405d47:
 
     # ba1 "I can't have a calm conversation if every time I say something her expression gets darker HAHAHA."
     ba1 "I can't have a calm conversation if every time I say something her expression gets darker HAHAHA."
 
-# game/game/script.rpy:6331
+# game/game/script.rpy:6337
 translate ukrainian ryochar_gal0_aab60c7d:
 
     # ba1 "It's irritating me."
     ba1 "It's irritating me."
 
-# game/game/script.rpy:6333
+# game/game/script.rpy:6339
 translate ukrainian ryochar_gal0_2bcb559a:
 
     # y "{size=-6}Hana, {w}it's up to you."
     y "{size=-6}Hana, {w}it's up to you."
 
-# game/game/script.rpy:6334
+# game/game/script.rpy:6340
 translate ukrainian ryochar_gal0_cbb5fea7:
 
     # y "{size=-6}Although..."
     y "{size=-6}Although..."
 
-# game/game/script.rpy:6336
+# game/game/script.rpy:6342
 translate ukrainian ryochar_gal0_33fbbfec:
 
     # y "{size=-6}I think you've made up your mind since the guy opened his mouth..."
     y "{size=-6}I think you've made up your mind since the guy opened his mouth..."
 
-# game/game/script.rpy:6337
+# game/game/script.rpy:6343
 translate ukrainian ryochar_gal0_fe70e729:
 
     # ba1 "Every time I mention the demon your gaze looks worse."
     ba1 "Every time I mention the demon your gaze looks worse."
 
-# game/game/script.rpy:6338
+# game/game/script.rpy:6344
 translate ukrainian ryochar_gal0_f0eb7831:
 
     # ba1 "You gave yourself away!"
-    ba1 "You gave yourself away!"
+    ba1 "You gave yourself away!" with hpunch
 
-# game/game/script.rpy:6339
+# game/game/script.rpy:6345
 translate ukrainian ryochar_gal0_8aff21f3:
 
     # ba1 "But I admit that women like you give me goosebumps HAHAHA."
-    ba1 "But I admit that women like you give me goosebumps HAHAHA."
+    ba1 "But I admit that women like you give me goosebumps HAHAHA." with vpunch
 
-# game/game/script.rpy:6340
+# game/game/script.rpy:6346
 translate ukrainian ryochar_gal0_137d2ab8_1:
 
     # ev "HAHAHAHA."
-    ev "HAHAHAHA."
+    ev "HAHAHAHA." with hpunch
 
-# game/game/script.rpy:6342
+# game/game/script.rpy:6348
 translate ukrainian ryochar_gal0_c923de49:
 
     # h "{size=-6}Akane."
     h "{size=-6}Akane."
 
-# game/game/script.rpy:6343
+# game/game/script.rpy:6349
 translate ukrainian ryochar_gal0_5fea0356:
 
     # ak "{size=-6}Y-Yeah?"
     ak "{size=-6}Y-Yeah?"
 
-# game/game/script.rpy:6344
+# game/game/script.rpy:6350
 translate ukrainian ryochar_gal0_37929244:
 
     # h "{size=-6}How much energy do you have?"
     h "{size=-6}How much energy do you have?"
 
-# game/game/script.rpy:6345
+# game/game/script.rpy:6351
 translate ukrainian ryochar_gal0_79c7469c:
 
     # ak "{size=-6}I didn't recover much this morning so not much."
     ak "{size=-6}I didn't recover much this morning so not much."
 
-# game/game/script.rpy:6347
+# game/game/script.rpy:6353
 translate ukrainian ryochar_gal0_4e54817d:
 
     # ak "{size=-6}And you know that if I go into frenzy mode, I can be dangerous to allies and enemies alike..."
     ak "{size=-6}And you know that if I go into frenzy mode, I can be dangerous to allies and enemies alike..."
 
-# game/game/script.rpy:6348
+# game/game/script.rpy:6354
 translate ukrainian ryochar_gal0_7395d9d4:
 
     # h "{size=-6}It works for me."
     h "{size=-6}It works for me."
 
-# game/game/script.rpy:6349
+# game/game/script.rpy:6355
 translate ukrainian ryochar_gal0_ab2cad37:
 
     # h "{size=-6}On my signa-"
     h "{size=-6}On my signa-"
 
-# game/game/script.rpy:6354
+# game/game/script.rpy:6360
 translate ukrainian ryochar_gal0_aa199024:
 
     # "AaaAAaahh!!"
-    "AaaAAaahh!!"
+    "AaaAAaahh!!" with hpunch
 
-# game/game/script.rpy:6355
+# game/game/script.rpy:6361
 translate ukrainian ryochar_gal0_067163dc:
 
     # h "WHAT!?"
     h "WHAT!?"
 
-# game/game/script.rpy:6357
+# game/game/script.rpy:6363
 translate ukrainian ryochar_gal0_bc440679:
 
     # bav "Boss, look what I found! {w}There's a lot of these hiding all over the village, hahaha!"
-    bav "Boss, look what I found! {w}There's a lot of these hiding all over the village, hahaha!"
+    bav "Boss, look what I found! {w}There's a lot of these hiding all over the village, hahaha!" with hpunch
 
-# game/game/script.rpy:6361
+# game/game/script.rpy:6367
 translate ukrainian ryochar_gal0_0cd5aa53:
 
     # ba1 "Did it take you that long to catch that shit? {w}Don't you know how boring it is to do time?"
     ba1 "Did it take you that long to catch that shit? {w}Don't you know how boring it is to do time?"
 
-# game/game/script.rpy:6363
+# game/game/script.rpy:6369
 translate ukrainian ryochar_gal0_1f6cbbed:
 
     # bav "Sorry Boss! {w}This one was pretty sneaky Hahaha!"
-    bav "Sorry Boss! {w}This one was pretty sneaky Hahaha!"
+    bav "Sorry Boss! {w}This one was pretty sneaky Hahaha!" with hpunch
 
-# game/game/script.rpy:6364
+# game/game/script.rpy:6370
 translate ukrainian ryochar_gal0_65fb0ad6:
 
     # h "{size=-10}Shika..."
     h "{size=-10}Shika..."
 
-# game/game/script.rpy:6366
+# game/game/script.rpy:6372
 translate ukrainian ryochar_gal0_fbc10f50:
 
     # s "SORRY DOCTOR! {w}THIS IS MY FAULT!"
-    s "SORRY DOCTOR! {w}THIS IS MY FAULT!"
+    s "SORRY DOCTOR! {w}THIS IS MY FAULT!" with hpunch
 
-# game/game/script.rpy:6368
+# game/game/script.rpy:6374
 translate ukrainian ryochar_gal0_930e456b:
 
     # s "I-I TRIED BUT HE GOT ME ANYWAY!"
-    s "I-I TRIED BUT HE GOT ME ANYWAY!"
+    s "I-I TRIED BUT HE GOT ME ANYWAY!" with hpunch
 
-# game/game/script.rpy:6369
+# game/game/script.rpy:6375
 translate ukrainian ryochar_gal0_7b1ca4e5:
 
     # bav "Shut your fucking mouth before I make your face unrecognizable!"
-    bav "Shut your fucking mouth before I make your face unrecognizable!"
+    bav "Shut your fucking mouth before I make your face unrecognizable!" with hpunch
 
-# game/game/script.rpy:6371
+# game/game/script.rpy:6377
 translate ukrainian ryochar_gal0_48a1140e:
 
     # ba1 "Well, {w}things have changed, {w}now either you surrender or we kill them all and take only the demon."
     ba1 "Well, {w}things have changed, {w}now either you surrender or we kill them all and take only the demon."
 
-# game/game/script.rpy:6372
+# game/game/script.rpy:6378
 translate ukrainian ryochar_gal0_3f89e13b:
 
     # h "A-At what point..."
     h "A-At what point..."
 
-# game/game/script.rpy:6374
+# game/game/script.rpy:6380
 translate ukrainian ryochar_gal0_63dee627:
 
     # ba1 "HAHAHA, {w}since we broke down this door."
-    ba1 "HAHAHA, {w}since we broke down this door."
+    ba1 "HAHAHA, {w}since we broke down this door." with hpunch
 
-# game/game/script.rpy:6375
+# game/game/script.rpy:6381
 translate ukrainian ryochar_gal0_3528bc26:
 
     # ba1 "Nothing personal precious, {w}you already lost the game since I set foot here."
     ba1 "Nothing personal precious, {w}you already lost the game since I set foot here."
 
-# game/game/script.rpy:6377
+# game/game/script.rpy:6383
 translate ukrainian ryochar_gal0_db49d531:
 
     # y "Cheating fucking scum."
     y "Cheating fucking scum."
 
-# game/game/script.rpy:6378
+# game/game/script.rpy:6384
 translate ukrainian ryochar_gal0_cd69ea0f:
 
     # ba1 "What? {w}You thought the smoke ball at the beginning was just the dust kicked up by falling doors?"
     ba1 "What? {w}You thought the smoke ball at the beginning was just the dust kicked up by falling doors?"
 
-# game/game/script.rpy:6379
+# game/game/script.rpy:6385
 translate ukrainian ryochar_gal0_5f282ad7:
 
     # ba1 "Wake up from your cloud, princess."
     ba1 "Wake up from your cloud, princess."
 
-# game/game/script.rpy:6380
+# game/game/script.rpy:6386
 translate ukrainian ryochar_gal0_7d79e94c:
 
     # so "W-What do we do, Miss Yui?"
     so "W-What do we do, Miss Yui?"
 
-# game/game/script.rpy:6381
+# game/game/script.rpy:6387
 translate ukrainian ryochar_gal0_b340c40c:
 
     # y "Just wait."
     y "Just wait."
 
-# game/game/script.rpy:6383
+# game/game/script.rpy:6389
 translate ukrainian ryochar_gal0_bac83909:
 
     # ak "Hana! React! {w}What do we do now?!"
-    ak "Hana! React! {w}What do we do now?!"
+    ak "Hana! React! {w}What do we do now?!" with hpunch
 
-# game/game/script.rpy:6384
+# game/game/script.rpy:6390
 translate ukrainian ryochar_gal0_5dc58adf:
 
     # ba1 "Yes, what will you do now?"
     ba1 "Yes, what will you do now?"
 
-# game/game/script.rpy:6386
+# game/game/script.rpy:6392
 translate ukrainian ryochar_gal0_86913b42:
 
     # ba1 "{size=-6}Exactly..."
     ba1 "{size=-6}Exactly..."
 
-# game/game/script.rpy:6391
+# game/game/script.rpy:6397
 translate ukrainian ryochar_gal0_9972a28a:
 
     # ba1 "{size=-10}Nothing..."
     ba1 "{size=-10}Nothing..."
 
-# game/game/script.rpy:6392
+# game/game/script.rpy:6398
 translate ukrainian ryochar_gal0_2fded262:
 
     # h "..."
     h "..."
 
-# game/game/script.rpy:6394
+# game/game/script.rpy:6400
 translate ukrainian ryochar_gal0_a20cefa7_6:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6395
+# game/game/script.rpy:6401
 translate ukrainian ryochar_gal0_8dabefc6_2:
 
     # ".."
     ".."
 
-# game/game/script.rpy:6396
+# game/game/script.rpy:6402
 translate ukrainian ryochar_gal0_d7edd024_2:
 
     # "."
     "."
 
-# game/game/script.rpy:6401
+# game/game/script.rpy:6407
 translate ukrainian ryochar_gal0_60bb69ba:
 
     # c "Die."
     c "Die."
 
-# game/game/script.rpy:6403
+# game/game/script.rpy:6409
 translate ukrainian ryochar_gal0_54b4263b:
 
     # bav "Stop moving you little-"
     bav "Stop moving you little-"
 
-# game/game/script.rpy:6408
+# game/game/script.rpy:6414
 translate ukrainian ryochar_gal0_f14004db:
 
     # bav "-shit!"
     bav "-shit!"
 
-# game/game/script.rpy:6409
+# game/game/script.rpy:6415
 translate ukrainian ryochar_gal0_90531f33:
 
     # bav "Eh?"
     bav "Eh?"
 
-# game/game/script.rpy:6413
+# game/game/script.rpy:6419
 translate ukrainian ryochar_gal0_c7249649:
 
     # s "AaaAAAaaah!!!"
     s "AaaAAAaaah!!!"
 
-# game/game/script.rpy:6415
+# game/game/script.rpy:6421
 translate ukrainian ryochar_gal0_08bbfde7:
 
     # bav "W-What?!"
-    bav "W-What?!"
+    bav "W-What?!" with hpunch
 
-# game/game/script.rpy:6417
+# game/game/script.rpy:6423
 translate ukrainian ryochar_gal0_09a19151:
 
     # bav "K-Kill the hostag-!"
     bav "K-Kill the hostag-!"
 
-# game/game/script.rpy:6423
+# game/game/script.rpy:6429
 translate ukrainian ryochar_gal0_f0ab99d4:
 
     # bav "Gaaaghhag!"
-    bav "Gaaaghhag!"
+    bav "Gaaaghhag!" with hpunch
 
-# game/game/script.rpy:6428
+# game/game/script.rpy:6434
 translate ukrainian ryochar_gal0_31d66042:
 
     # kar "HAHAHahahaHAha!"
-    kar "HAHAHahahaHAha!"
+    kar "HAHAHahahaHAha!" with hpunch
 
-# game/game/script.rpy:6430
+# game/game/script.rpy:6436
 translate ukrainian ryochar_gal0_64ccf7d0:
 
     # c "Stupid dog, you're getting too carried away."
     c "Stupid dog, you're getting too carried away."
 
-# game/game/script.rpy:6432
+# game/game/script.rpy:6438
 translate ukrainian ryochar_gal0_db1ac7c6:
 
     # bav "We must show you the consequences!"
     bav "We must show you the consequences!"
 
-# game/game/script.rpy:6440
+# game/game/script.rpy:6446
 translate ukrainian ryochar_gal0_6b95d912:
 
     # bav "AAAgh!"
-    bav "AAAgh!"
+    bav "AAAgh!" with hpunch
 
-# game/game/script.rpy:6442
+# game/game/script.rpy:6448
 translate ukrainian ryochar_gal0_b809f224:
 
     # c "Shit, the paralysis increased, that guy will not die quickly.."
     c "Shit, the paralysis increased, that guy will not die quickly.."
 
-# game/game/script.rpy:6443
+# game/game/script.rpy:6449
 translate ukrainian ryochar_gal0_b32d4177:
 
     # c "And the dog is not going to do anything in that state."
     c "And the dog is not going to do anything in that state."
 
-# game/game/script.rpy:6445
+# game/game/script.rpy:6451
 translate ukrainian ryochar_gal0_dcce5f5d:
 
     # c "Sorry..."
     c "Sorry..."
 
-# game/game/script.rpy:6450
+# game/game/script.rpy:6456
 translate ukrainian ryochar_gal0_297d93f3:
 
     # c "What?"
     c "What?"
 
-# game/game/script.rpy:6452
+# game/game/script.rpy:6458
 translate ukrainian ryochar_gal0_65cabcbf:
 
     # v "..."
     v "..."
 
-# game/game/script.rpy:6454
+# game/game/script.rpy:6460
 translate ukrainian ryochar_gal0_d28ed9c6:
 
     # r "I-I hit him..."
     r "I-I hit him..."
 
-# game/game/script.rpy:6456
+# game/game/script.rpy:6462
 translate ukrainian ryochar_gal0_8d71158c:
 
     # r "Are you ok?"
     r "Are you ok?"
 
-# game/game/script.rpy:6457
+# game/game/script.rpy:6463
 translate ukrainian ryochar_gal0_e565d8e9:
 
     # v "{size=-10}Eh... sob*{w}Uhm... {w}T-Thank you Ryoko."
     v "{size=-10}Eh... sob*{w}Uhm... {w}T-Thank you Ryoko."
 
-# game/game/script.rpy:6459
+# game/game/script.rpy:6465
 translate ukrainian ryochar_gal0_7b0ba0e4:
 
     # c "Why do I feel so happy?"
     c "Why do I feel so happy?"
 
-# game/game/script.rpy:6461
+# game/game/script.rpy:6467
 translate ukrainian ryochar_gal0_709eabcf:
 
     # "Clap* {w}Clap* {w}Clap*"
-    "Clap* {w}Clap* {w}Clap*"
+    "Clap* {w}Clap* {w}Clap*" with hpunch
 
-# game/game/script.rpy:6462
+# game/game/script.rpy:6468
 translate ukrainian ryochar_gal0_4844e54b:
 
     # ba1 "Wow, {w}all that in just a few seconds?"
     ba1 "Wow, {w}all that in just a few seconds?"
 
-# game/game/script.rpy:6464
+# game/game/script.rpy:6470
 translate ukrainian ryochar_gal0_e67c97a9:
 
     # ba1 "I see you have competent people after all."
     ba1 "I see you have competent people after all."
 
-# game/game/script.rpy:6465
+# game/game/script.rpy:6471
 translate ukrainian ryochar_gal0_05c5410f:
 
     # ms "It's not s-safe to be here anymore, these people are crazy!"
     ms "It's not s-safe to be here anymore, these people are crazy!"
 
-# game/game/script.rpy:6466
+# game/game/script.rpy:6472
 translate ukrainian ryochar_gal0_c5895534:
 
     # ban "H-Hey Boss! {w}Three of my colleagues are dead! {w}You said this would be easy!"
-    ban "H-Hey Boss! {w}Three of my colleagues are dead! {w}You said this would be easy!"
+    ban "H-Hey Boss! {w}Three of my colleagues are dead! {w}You said this would be easy!" with hpunch
 
-# game/game/script.rpy:6468
+# game/game/script.rpy:6474
 translate ukrainian ryochar_gal0_e0f57d6c:
 
     # ban "W-We just wanted to become mercenaries! {w}I don't want this anymore!"
-    ban "W-We just wanted to become mercenaries! {w}I don't want this anymore!"
+    ban "W-We just wanted to become mercenaries! {w}I don't want this anymore!" with hpunch
 
-# game/game/script.rpy:6469
+# game/game/script.rpy:6475
 translate ukrainian ryochar_gal0_f3f9ccfe:
 
     # ba1 "{size=-10}Sigh..."
     ba1 "{size=-10}Sigh..."
 
-# game/game/script.rpy:6470
+# game/game/script.rpy:6476
 translate ukrainian ryochar_gal0_f6d3d87c:
 
     # ba1 "This is why I hate useless bandits."
     ba1 "This is why I hate useless bandits."
 
-# game/game/script.rpy:6472
+# game/game/script.rpy:6478
 translate ukrainian ryochar_gal0_9bb0e056:
 
     # ban "I will have to look for new teammates to-"
     ban "I will have to look for new teammates to-"
 
-# game/game/script.rpy:6475
+# game/game/script.rpy:6481
 translate ukrainian ryochar_gal0_2e47e4df:
 
     # ban "Gaaghn! {w}GgaaGH!"
     ban "Gaaghn! {w}GgaaGH!"
 
-# game/game/script.rpy:6477
+# game/game/script.rpy:6483
 translate ukrainian ryochar_gal0_a714118b:
 
     # ban "{size=-10}Gaahgnngnnm!!"
-    ban "{size=-10}Gaahgnngnnm!!"
+    ban "{size=-10}Gaahgnngnnm!!" with vpunch
 
-# game/game/script.rpy:6479
+# game/game/script.rpy:6485
 translate ukrainian ryochar_gal0_a29c5e7a:
 
     # c "Did he just kill him? But how?"
     c "Did he just kill him? But how?"
 
-# game/game/script.rpy:6481
+# game/game/script.rpy:6487
 translate ukrainian ryochar_gal0_16e0daa6:
 
     # c "{size=+6}Hey Karyn!"
-    c "{size=+6}Hey Karyn!"
+    c "{size=+6}Hey Karyn!" with hpunch
 
-# game/game/script.rpy:6483
+# game/game/script.rpy:6489
 translate ukrainian ryochar_gal0_979be09e_1:
 
     # kar "...?"
     kar "...?"
 
-# game/game/script.rpy:6485
+# game/game/script.rpy:6491
 translate ukrainian ryochar_gal0_5fbed239:
 
     # ba1 "Sorry for that interruption."
     ba1 "Sorry for that interruption."
 
-# game/game/script.rpy:6487
+# game/game/script.rpy:6493
 translate ukrainian ryochar_gal0_8e75ff12:
 
     # ba1 "Does anyone have anything else to say?"
     ba1 "Does anyone have anything else to say?"
 
-# game/game/script.rpy:6488
+# game/game/script.rpy:6494
 translate ukrainian ryochar_gal0_60c61bc9:
 
     # ev "..."
     ev "..."
 
-# game/game/script.rpy:6490
+# game/game/script.rpy:6496
 translate ukrainian ryochar_gal0_0458e228:
 
     # ev "{size=+10}N-No!"
-    ev "{size=+10}N-No!"
+    ev "{size=+10}N-No!" with hpunch
 
-# game/game/script.rpy:6491
+# game/game/script.rpy:6497
 translate ukrainian ryochar_gal0_427fcb40:
 
     # ba1 "Where were we?"
     ba1 "Where were we?"
 
-# game/game/script.rpy:6492
+# game/game/script.rpy:6498
 translate ukrainian ryochar_gal0_075bd810:
 
     # h "In your death."
     h "In your death."
 
-# game/game/script.rpy:6502
+# game/game/script.rpy:6508
 translate ukrainian ryochar_gal0_3b8f1d29:
 
     # t "I must... {w}tell you about my day..."
     t "I must... {w}tell you about my day..."
 
-# game/game/script.rpy:6509
+# game/game/script.rpy:6515
 translate ukrainian ryochar_gal0_a96569d0:
 
     # r "{size=-10}That's the man who..."
     r "{size=-10}That's the man who..."
 
-# game/game/script.rpy:6511
+# game/game/script.rpy:6517
 translate ukrainian ryochar_gal0_3ffc743a:
 
     # r "{size=-10}This was all my fault?"
     r "{size=-10}This was all my fault?"
 
-# game/game/script.rpy:6512
+# game/game/script.rpy:6518
 translate ukrainian ryochar_gal0_554dfb95:
 
     # t "I have to... {w}help you with whatever you need..."
     t "I have to... {w}help you with whatever you need..."
 
-# game/game/script.rpy:6514
+# game/game/script.rpy:6520
 translate ukrainian ryochar_gal0_267005d6:
 
     # ak "{size=-9}You took too long, {w}[mc]..."
     ak "{size=-9}You took too long, {w}[mc]..."
 
-# game/game/script.rpy:6516
+# game/game/script.rpy:6522
 translate ukrainian ryochar_gal0_9698082f:
 
     # t "What if we take a walk around?"
     t "What if we take a walk around?"
 
-# game/game/script.rpy:6519
+# game/game/script.rpy:6525
 translate ukrainian ryochar_gal0_728bc3d7:
 
     # t "No wait... {w}maybe you're too busy hahaha..."
     t "No wait... {w}maybe you're too busy hahaha..."
 
-# game/game/script.rpy:6522
+# game/game/script.rpy:6528
 translate ukrainian ryochar_gal0_fbd87522:
 
     # c "{size=-10}Kghn..."
     c "{size=-10}Kghn..."
 
-# game/game/script.rpy:6523
+# game/game/script.rpy:6529
 translate ukrainian ryochar_gal0_651dbfbd:
 
     # t "Goddesses, {w}was it necessary?"
     t "Goddesses, {w}was it necessary?"
 
-# game/game/script.rpy:6525
+# game/game/script.rpy:6531
 translate ukrainian ryochar_gal0_4cd76835:
 
     # t "Why?"
     t "Why?"
 
-# game/game/script.rpy:6527
+# game/game/script.rpy:6533
 translate ukrainian ryochar_gal0_b39fd333:
 
     # mc "My legs... {w}are very heavy."
     mc "My legs... {w}are very heavy."
 
-# game/game/script.rpy:6531
+# game/game/script.rpy:6537
 translate ukrainian ryochar_gal0_da2a44e1:
 
     # t "Is it just another whim of yours?"
     t "Is it just another whim of yours?"
 
-# game/game/script.rpy:6535
+# game/game/script.rpy:6541
 translate ukrainian ryochar_gal0_2b35b6fe_14:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6537
+# game/game/script.rpy:6543
 translate ukrainian ryochar_gal0_d6c0ffd5:
 
     # r "{size=-10}M-Master [mc]... {w}t-that man..."
     r "{size=-10}M-Master [mc]... {w}t-that man..."
 
-# game/game/script.rpy:6538
+# game/game/script.rpy:6544
 translate ukrainian ryochar_gal0_98af0d28:
 
     # mc "I'm glad you are well Ryoko."
     mc "I'm glad you are well Ryoko."
 
-# game/game/script.rpy:6540
+# game/game/script.rpy:6546
 translate ukrainian ryochar_gal0_50ae894c:
 
     # r "Sob*"
     r "Sob*"
 
-# game/game/script.rpy:6541
+# game/game/script.rpy:6547
 translate ukrainian ryochar_gal0_677fd476:
 
     # t "What did I do?"
     t "What did I do?"
 
-# game/game/script.rpy:6543
+# game/game/script.rpy:6549
 translate ukrainian ryochar_gal0_3b87886d:
 
     # t "This world made me meet you, didn't it?"
     t "This world made me meet you, didn't it?"
 
-# game/game/script.rpy:6545
+# game/game/script.rpy:6551
 translate ukrainian ryochar_gal0_be079f2c:
 
     # t "This world...."
     t "This world...."
 
-# game/game/script.rpy:6549
+# game/game/script.rpy:6555
 translate ukrainian ryochar_gal0_ca92387a:
 
     # t "This world..."
     t "This world..."
 
-# game/game/script.rpy:6551
+# game/game/script.rpy:6557
 translate ukrainian ryochar_gal0_6bfc9761:
 
     # bav "Where did this guy come from?"
     bav "Where did this guy come from?"
 
-# game/game/script.rpy:6552
+# game/game/script.rpy:6558
 translate ukrainian ryochar_gal0_218cbe48:
 
     # ms "It's him! The one who didn't let us capture the high priestess!"
-    ms "It's him! The one who didn't let us capture the high priestess!"
+    ms "It's him! The one who didn't let us capture the high priestess!" with hpunch
 
-# game/game/script.rpy:6554
+# game/game/script.rpy:6560
 translate ukrainian ryochar_gal0_0d3f0a04:
 
     # bav "HAHAHA, he came to die on his own!"
     bav "HAHAHA, he came to die on his own!"
 
-# game/game/script.rpy:6556
+# game/game/script.rpy:6562
 translate ukrainian ryochar_gal0_ca92387a_1:
 
     # t "This world..."
     t "This world..."
 
-# game/game/script.rpy:6558
+# game/game/script.rpy:6564
 translate ukrainian ryochar_gal0_037d3aeb:
 
     # t "Is sick."
     t "Is sick."
 
-# game/game/script.rpy:6564
+# game/game/script.rpy:6570
 translate ukrainian ryochar_gal0_81db8184:
 
     # t "{size=-10}I don't want to hear anything, {w}the noise is making me see reality."
     t "{size=-10}I don't want to hear anything, {w}the noise is making me see reality."
 
-# game/game/script.rpy:6566
+# game/game/script.rpy:6572
 translate ukrainian ryochar_gal0_84e51a96:
 
     # ba1 "Mmm?"
     ba1 "Mmm?"
 
-# game/game/script.rpy:6567
+# game/game/script.rpy:6573
 translate ukrainian ryochar_gal0_b4fbeb43:
 
     # bav "Boss, {w}leave him to me."
     bav "Boss, {w}leave him to me."
 
-# game/game/script.rpy:6568
+# game/game/script.rpy:6574
 translate ukrainian ryochar_gal0_895250b4:
 
     # t "{size=-10}I don't care about anything anymore."
     t "{size=-10}I don't care about anything anymore."
 
-# game/game/script.rpy:6570
+# game/game/script.rpy:6576
 translate ukrainian ryochar_gal0_3b9d3fe3:
 
     # bav "I will prove to you that I have the makings of a mercenary."
     bav "I will prove to you that I have the makings of a mercenary."
 
-# game/game/script.rpy:6571
+# game/game/script.rpy:6577
 translate ukrainian ryochar_gal0_6e5a1e20:
 
     # t "{size=-10}Aaah damn, {w}the noise doesn't stop."
     t "{size=-10}Aaah damn, {w}the noise doesn't stop."
 
-# game/game/script.rpy:6579
+# game/game/script.rpy:6585
 translate ukrainian reality_partdos_7ef0ae7b:
 
     # bav "This asshole doesn't know who he's messing with."
     bav "This asshole doesn't know who he's messing with."
 
-# game/game/script.rpy:6580
+# game/game/script.rpy:6586
 translate ukrainian reality_partdos_b0144b1c:
 
     # t "A world as sick as this one..."
     t "A world as sick as this one..."
 
-# game/game/script.rpy:6592
+# game/game/script.rpy:6598
 translate ukrainian reality_partdos_7dae25bc:
 
     # ba1 "Wow."
     ba1 "Wow."
 
-# game/game/script.rpy:6597
+# game/game/script.rpy:6603
 translate ukrainian reality_partdos_363e7289:
 
     # mc "{b}{i}I must take care of healing it..."
     mc "{b}{i}I must take care of healing it..."
 
-# game/game/script.rpy:6598
+# game/game/script.rpy:6604
 translate ukrainian reality_partdos_0ddd93e8:
 
     # ba1 "Brat, {w}that was a pretty clean and quick cut."
     ba1 "Brat, {w}that was a pretty clean and quick cut."
 
-# game/game/script.rpy:6599
+# game/game/script.rpy:6605
 translate ukrainian reality_partdos_1772f2f4:
 
     # ba1 "I can see why that woman is so interested in you."
     ba1 "I can see why that woman is so interested in you."
 
-# game/game/script.rpy:6600
+# game/game/script.rpy:6606
 translate ukrainian reality_partdos_c89449f5:
 
     # ba1 "HAHAHA."
-    ba1 "HAHAHA."
+    ba1 "HAHAHA." with hpunch
 
-# game/game/script.rpy:6602
+# game/game/script.rpy:6608
 translate ukrainian reality_partdos_d97e25b0:
 
     # mc "{size=-10}Another annoying noise..."
     mc "{size=-10}Another annoying noise..."
 
-# game/game/script.rpy:6603
+# game/game/script.rpy:6609
 translate ukrainian reality_partdos_b66a7bd3:
 
     # ba1 "Mmm? {w}{size=-10}Sigh*"
     ba1 "Mmm? {w}{size=-10}Sigh*"
 
-# game/game/script.rpy:6605
+# game/game/script.rpy:6611
 translate ukrainian reality_partdos_6e7f54f7:
 
     # ms "{size=-10}I-I don't know if we should be here..."
     ms "{size=-10}I-I don't know if we should be here..."
 
-# game/game/script.rpy:6606
+# game/game/script.rpy:6612
 translate ukrainian reality_partdos_c90ea305:
 
     # ba1 "How boring, {w}he went into despair."
     ba1 "How boring, {w}he went into despair."
 
-# game/game/script.rpy:6607
+# game/game/script.rpy:6613
 translate ukrainian reality_partdos_f745115b:
 
     # t "{size=-10}Shut up."
     t "{size=-10}Shut up."
 
-# game/game/script.rpy:6608
+# game/game/script.rpy:6614
 translate ukrainian reality_partdos_ee9c4190:
 
     # ba1 "And I thought someone would finally be a worthy opponent..."
     ba1 "And I thought someone would finally be a worthy opponent..."
 
-# game/game/script.rpy:6609
+# game/game/script.rpy:6615
 translate ukrainian reality_partdos_bed61763:
 
     # t "{size=+10}{b}{i}Shut up."
-    t "{size=+10}{b}{i}Shut up."
+    t "{size=+10}{b}{i}Shut up." with vpunch
 
-# game/game/script.rpy:6611
+# game/game/script.rpy:6617
 translate ukrainian reality_partdos_7f6a97d2:
 
     # ba1 "I will not listen to that bitch and I will end you right here."
     ba1 "I will not listen to that bitch and I will end you right here."
 
-# game/game/script.rpy:6612
+# game/game/script.rpy:6618
 translate ukrainian reality_partdos_5f9ffaaa:
 
     # t "What a slow guy..."
     t "What a slow guy..."
 
-# game/game/script.rpy:6613
+# game/game/script.rpy:6619
 translate ukrainian reality_partdos_f359f707:
 
     # t "Who is it? {w}Why is he attacking me?"
     t "Who is it? {w}Why is he attacking me?"
 
-# game/game/script.rpy:6615
+# game/game/script.rpy:6621
 translate ukrainian reality_partdos_f6709575:
 
     # t "What was I doing? {w}I think I feel a little bad."
     t "What was I doing? {w}I think I feel a little bad."
 
-# game/game/script.rpy:6616
+# game/game/script.rpy:6622
 translate ukrainian reality_partdos_ec6594e7:
 
     # t "I should go and have Hana check me..."
     t "I should go and have Hana check me..."
 
-# game/game/script.rpy:6618
+# game/game/script.rpy:6624
 translate ukrainian reality_partdos_4b069515:
 
     # t "{b}Hana?"
-    t "{b}Hana?"
+    t "{b}Hana?" with flash
 
-# game/game/script.rpy:6619
+# game/game/script.rpy:6625
 translate ukrainian reality_partdos_8d663cd4:
 
     # t "Aaah right, {w}hahaha {w}that guy took it from me."
     t "Aaah right, {w}hahaha {w}that guy took it from me."
 
-# game/game/script.rpy:6620
+# game/game/script.rpy:6626
 translate ukrainian reality_partdos_481ffda9:
 
     # t "That guy, {w}he made my girls sad."
     t "That guy, {w}he made my girls sad."
 
-# game/game/script.rpy:6621
+# game/game/script.rpy:6627
 translate ukrainian reality_partdos_6173c6d8:
 
     # t "It's all... {w}his-"
-    t "It's all... {w}his-"
+    t "It's all... {w}his-" with flash
 
-# game/game/script.rpy:6633
+# game/game/script.rpy:6639
 translate ukrainian reality_parttres_1ec5eee6:
 
     # mc "{size=+10}{b}FAULT!"
-    mc "{size=+10}{b}FAULT!"
+    mc "{size=+10}{b}FAULT!" with hpunch
 
-# game/game/script.rpy:6654
+# game/game/script.rpy:6660
 translate ukrainian reality_parttres_fa321dd1:
 
     # ms "...!??"
     ms "...!??"
 
-# game/game/script.rpy:6656
+# game/game/script.rpy:6662
 translate ukrainian reality_parttres_345cf692:
 
     # ms "...."
     ms "...."
 
-# game/game/script.rpy:6658
+# game/game/script.rpy:6664
 translate ukrainian reality_parttres_e87d6397:
 
     # ms "I'd rather go tell the Queen that we failed than have this lunatic kill me!"
-    ms "I'd rather go tell the Queen that we failed than have this lunatic kill me!"
+    ms "I'd rather go tell the Queen that we failed than have this lunatic kill me!" with hpunch
 
-# game/game/script.rpy:6660
+# game/game/script.rpy:6666
 translate ukrainian reality_parttres_8c151002:
 
     # ba1 "Haha.."
     ba1 "Haha.."
 
-# game/game/script.rpy:6662
+# game/game/script.rpy:6668
 translate ukrainian reality_parttres_204ca6b3:
 
     # ba1 "HAHAHAHA!!"
-    ba1 "HAHAHAHA!!"
+    ba1 "HAHAHAHA!!" with hpunch
 
-# game/game/script.rpy:6664
+# game/game/script.rpy:6670
 translate ukrainian reality_parttres_e975b9c8:
 
     # ba1 "YES, FINALLY! {w}THIS IS WHAT I'VE BEEN WAITING FOR! {w}HAHAHA-"
-    ba1 "YES, FINALLY! {w}THIS IS WHAT I'VE BEEN WAITING FOR! {w}HAHAHA-"
+    ba1 "YES, FINALLY! {w}THIS IS WHAT I'VE BEEN WAITING FOR! {w}HAHAHA-" with hpunch
 
-# game/game/script.rpy:6665
+# game/game/script.rpy:6671
 translate ukrainian reality_parttres_abef8c16:
 
     # ba1 "FINALLY SOMEONE LIKE THAT GUY SHOWED UP!"
-    ba1 "FINALLY SOMEONE LIKE THAT GUY SHOWED UP!"
+    ba1 "FINALLY SOMEONE LIKE THAT GUY SHOWED UP!" with vpunch
 
-# game/game/script.rpy:6667
+# game/game/script.rpy:6673
 translate ukrainian reality_parttres_fc9c01bf:
 
     # ba1 "WHAT? {w}NO!"
     ba1 "WHAT? {w}NO!"
 
-# game/game/script.rpy:6668
+# game/game/script.rpy:6674
 translate ukrainian reality_parttres_fdcfebc6:
 
     # ba1 "Let me fight him!"
     ba1 "Let me fight him!"
 
-# game/game/script.rpy:6670
+# game/game/script.rpy:6676
 translate ukrainian reality_parttres_20eee3ea:
 
     # ba1 "LET ME-"
     ba1 "LET ME-"
 
-# game/game/script.rpy:6671
+# game/game/script.rpy:6677
 translate ukrainian reality_parttres_e9d973aa:
 
     # ba1 "Eh?"
     ba1 "Eh?"
 
-# game/game/script.rpy:6673
+# game/game/script.rpy:6679
 translate ukrainian reality_parttres_9ff92a7d:
 
     # ba1 "That's the one..."
     ba1 "That's the one..."
 
-# game/game/script.rpy:6675
+# game/game/script.rpy:6681
 translate ukrainian reality_parttres_9673978f:
 
     # r "Master! {w}Please react!"
-    r "Master! {w}Please react!"
+    r "Master! {w}Please react!" with hpunch
 
-# game/game/script.rpy:6676
+# game/game/script.rpy:6682
 translate ukrainian reality_parttres_c7b6eb75:
 
     # ba1 "I found you."
     ba1 "I found you."
 
-# game/game/script.rpy:6678
+# game/game/script.rpy:6684
 translate ukrainian reality_parttres_4f7bd766:
 
     # ba1 "HAHAHAH-"
-    ba1 "HAHAHAH-"
+    ba1 "HAHAHAH-" with vpunch
 
-# game/game/script.rpy:6688
+# game/game/script.rpy:6694
 translate ukrainian reality_parttres_65a96272:
 
     # r "M-Master please!"
-    r "M-Master please!"
+    r "M-Master please!" with vpunch
 
-# game/game/script.rpy:6693
+# game/game/script.rpy:6699
 translate ukrainian reality_parttres_f8aa9a63:
 
     # mc "Shika?"
     mc "Shika?"
 
-# game/game/script.rpy:6694
+# game/game/script.rpy:6700
 translate ukrainian reality_parttres_79f08707:
 
     # r "Mmm?"
     r "Mmm?"
 
-# game/game/script.rpy:6696
+# game/game/script.rpy:6702
 translate ukrainian reality_parttres_77d779a6:
 
     # r "{size=-10}S-Shikaa..."
     r "{size=-10}S-Shikaa..."
 
-# game/game/script.rpy:6698
+# game/game/script.rpy:6704
 translate ukrainian reality_parttres_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6700
+# game/game/script.rpy:6706
 translate ukrainian reality_parttres_e1554201:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:6701
+# game/game/script.rpy:6707
 translate ukrainian reality_parttres_ccde9ebd:
 
     # s "{size=-10}D-Doctor, {w}please get up..."
     s "{size=-10}D-Doctor, {w}please get up..."
 
-# game/game/script.rpy:6702
+# game/game/script.rpy:6708
 translate ukrainian reality_parttres_f4012943:
 
     # s "{size=-10}S-Stop joking... {w}you're always telling me not to lie down on the floor."
     s "{size=-10}S-Stop joking... {w}you're always telling me not to lie down on the floor."
 
-# game/game/script.rpy:6704
+# game/game/script.rpy:6710
 translate ukrainian reality_parttres_ddbbb3ed:
 
     # s "Doctor, {w}please... {w}get up, {w}I will not misbehave again..."
     s "Doctor, {w}please... {w}get up, {w}I will not misbehave again..."
 
-# game/game/script.rpy:6706
+# game/game/script.rpy:6712
 translate ukrainian reality_parttres_fc889a66:
 
     # s "I will stop eating ice cream every day..."
     s "I will stop eating ice cream every day..."
 
-# game/game/script.rpy:6707
+# game/game/script.rpy:6713
 translate ukrainian reality_parttres_ad1eb6d1:
 
     # s "I will give them all to Ryoko..."
     s "I will give them all to Ryoko..."
 
-# game/game/script.rpy:6709
+# game/game/script.rpy:6715
 translate ukrainian reality_parttres_5a79b7b9:
 
     # s "I will stop giving [mc] problems..."
     s "I will stop giving [mc] problems..."
 
-# game/game/script.rpy:6710
+# game/game/script.rpy:6716
 translate ukrainian reality_parttres_cffdac68:
 
     # s "And I will stop asking him to play with me so much..."
     s "And I will stop asking him to play with me so much..."
 
-# game/game/script.rpy:6712
+# game/game/script.rpy:6718
 translate ukrainian reality_parttres_c2afd834:
 
     # s "...."
     s "...."
 
-# game/game/script.rpy:6713
+# game/game/script.rpy:6719
 translate ukrainian reality_parttres_aa8afefb:
 
     # s "D-Doctor..."
     s "D-Doctor..."
 
-# game/game/script.rpy:6715
+# game/game/script.rpy:6721
 translate ukrainian reality_parttres_e8353f25:
 
     # s "{size=-10}I'll give you my life if you get up..."
     s "{size=-10}I'll give you my life if you get up..."
 
-# game/game/script.rpy:6716
+# game/game/script.rpy:6722
 translate ukrainian reality_parttres_9408ce8d:
 
     # s "{size=-10}I promise you everything and much more, {w}but don't leave me alone!"
     s "{size=-10}I promise you everything and much more, {w}but don't leave me alone!"
 
-# game/game/script.rpy:6719
+# game/game/script.rpy:6725
 translate ukrainian reality_parttres_247d9504:
 
     # mc "Shika..."
     mc "Shika..."
 
-# game/game/script.rpy:6721
+# game/game/script.rpy:6727
 translate ukrainian reality_parttres_3d75d220:
 
     # mc "Shika!"
-    mc "Shika!"
+    mc "Shika!" with vpunch
 
-# game/game/script.rpy:6722
+# game/game/script.rpy:6728
 translate ukrainian reality_parttres_0c54e6f8:
 
     # mc "You can't heal that kind of wound!"
-    mc "You can't heal that kind of wound!"
+    mc "You can't heal that kind of wound!" with vpunch
 
-# game/game/script.rpy:6725
+# game/game/script.rpy:6731
 translate ukrainian reality_parttres_4f727dee:
 
     # mc "H-Hey!"
-    mc "H-Hey!"
+    mc "H-Hey!" with hpunch
 
-# game/game/script.rpy:6726
+# game/game/script.rpy:6732
 translate ukrainian reality_parttres_1bff2d4f:
 
     # s "{size=+10}I will not let her go!"
-    s "{size=+10}I will not let her go!"
+    s "{size=+10}I will not let her go!" with vpunch
 
-# game/game/script.rpy:6727
+# game/game/script.rpy:6733
 translate ukrainian reality_parttres_99ed5f53:
 
     # mc "S-Shika! I know that of all of us it's the hardest for you! {w}B-But you must understand!"
     mc "S-Shika! I know that of all of us it's the hardest for you! {w}B-But you must understand!"
 
-# game/game/script.rpy:6730
+# game/game/script.rpy:6736
 translate ukrainian reality_parttres_7fe8f7ac:
 
     # s "{size=+10}NO!"
-    s "{size=+10}NO!"
+    s "{size=+10}NO!" with vpunch
 
-# game/game/script.rpy:6731
+# game/game/script.rpy:6737
 translate ukrainian reality_parttres_aea2ee08:
 
     # t "I-It's pushing me away!"
     t "I-It's pushing me away!"
 
-# game/game/script.rpy:6734
+# game/game/script.rpy:6740
 translate ukrainian reality_parttres_7e33e0fc:
 
     # t "W-Where is she getting all that magic from?"
     t "W-Where is she getting all that magic from?"
 
-# game/game/script.rpy:6741
+# game/game/script.rpy:6747
 translate ukrainian reality_parttres_fdb7404c:
 
     # mc "WHAT?!"
-    mc "WHAT?!"
+    mc "WHAT?!" with vpunch
 
-# game/game/script.rpy:6754
+# game/game/script.rpy:6760
 translate ukrainian reality_parttres_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6755
+# game/game/script.rpy:6761
 translate ukrainian reality_parttres_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:6756
+# game/game/script.rpy:6762
 translate ukrainian reality_parttres_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:6758
+# game/game/script.rpy:6764
 translate ukrainian reality_parttres_cb36a6eb:
 
     # r "Master [mc]! {w}Are you ok?"
-    r "Master [mc]! {w}Are you ok?"
+    r "Master [mc]! {w}Are you ok?" with vpunch
 
-# game/game/script.rpy:6759
+# game/game/script.rpy:6765
 translate ukrainian reality_parttres_c0a74576:
 
     # mc "Y-Yes, {w}w-what happened?!"
     mc "Y-Yes, {w}w-what happened?!"
 
-# game/game/script.rpy:6760
+# game/game/script.rpy:6766
 translate ukrainian reality_parttres_a7ae5544:
 
     # r "I-I don't know..."
     r "I-I don't know..."
 
-# game/game/script.rpy:6762
+# game/game/script.rpy:6768
 translate ukrainian reality_parttres_47710f54:
 
     # c "Shika seems to have caused an explosion of magic..."
     c "Shika seems to have caused an explosion of magic..."
 
-# game/game/script.rpy:6763
+# game/game/script.rpy:6769
 translate ukrainian reality_parttres_9efacfd8:
 
     # c "But I don't understand what happened before..."
     c "But I don't understand what happened before..."
 
-# game/game/script.rpy:6764
+# game/game/script.rpy:6770
 translate ukrainian reality_parttres_a450e57a:
 
     # mc "Charlotte, how are you? You look very weak."
     mc "Charlotte, how are you? You look very weak."
 
-# game/game/script.rpy:6766
+# game/game/script.rpy:6772
 translate ukrainian reality_parttres_049aebd9:
 
     # c "I have a bit of poison in my body but it is already disappearing..."
     c "I have a bit of poison in my body but it is already disappearing..."
 
-# game/game/script.rpy:6767
+# game/game/script.rpy:6773
 translate ukrainian reality_parttres_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6770
+# game/game/script.rpy:6776
 translate ukrainian reality_parttres_0fbecc20:
 
     # mc "What?!"
-    mc "What?!"
+    mc "What?!" (multiple=2)
 
-# game/game/script.rpy:6771
+# game/game/script.rpy:6777
 translate ukrainian reality_parttres_32bbe4f5:
 
     # r "What!?"
-    r "What!?"
+    r "What!?" (multiple=2)
 
-# game/game/script.rpy:6772
+# game/game/script.rpy:6778
 translate ukrainian reality_parttres_9a433ca7:
 
     # r "Always doing whatever you want!"
     r "Always doing whatever you want!"
 
-# game/game/script.rpy:6773
+# game/game/script.rpy:6779
 translate ukrainian reality_parttres_ad141b03:
 
     # r "When will you learn to take better care of yourself!"
     r "When will you learn to take better care of yourself!"
 
-# game/game/script.rpy:6775
+# game/game/script.rpy:6781
 translate ukrainian reality_parttres_4698326e:
 
     # mc "Eh-"
     mc "Eh-"
 
-# game/game/script.rpy:6776
+# game/game/script.rpy:6782
 translate ukrainian reality_parttres_b0ef5ef3:
 
     # r "Now we've lost the doctor and I'm not going to let you go out and do crazy things anymore!"
-    r "Now we've lost the doctor and I'm not going to let you go out and do crazy things anymore!"
+    r "Now we've lost the doctor and I'm not going to let you go out and do crazy things anymore!" with vpunch
 
-# game/game/script.rpy:6777
+# game/game/script.rpy:6783
 translate ukrainian reality_parttres_04c5b9ab:
 
     # mc "I am hallucinating."
     mc "I am hallucinating."
 
-# game/game/script.rpy:6778
+# game/game/script.rpy:6784
 translate ukrainian reality_parttres_26e430a4:
 
     # mc "Hana..."
     mc "Hana..."
 
-# game/game/script.rpy:6780
+# game/game/script.rpy:6786
 translate ukrainian reality_parttres_9c4bbe38:
 
     # r "Yes Master! We have to honor the doctor!"
     r "Yes Master! We have to honor the doctor!"
 
-# game/game/script.rpy:6781
+# game/game/script.rpy:6787
 translate ukrainian reality_parttres_6ac2fe83:
 
     # mc "H-Hana..."
     mc "H-Hana..."
 
-# game/game/script.rpy:6782
+# game/game/script.rpy:6788
 translate ukrainian reality_parttres_455f29b8:
 
     # c "Okay, {w}he's already entered the madness."
     c "Okay, {w}he's already entered the madness."
 
-# game/game/script.rpy:6783
+# game/game/script.rpy:6789
 translate ukrainian reality_parttres_6bf70c2d:
 
     # mc "Hana is moving!"
-    mc "Hana is moving!"
+    mc "Hana is moving!" with hpunch
 
-# game/game/script.rpy:6785
+# game/game/script.rpy:6791
 translate ukrainian reality_parttres_6b5583e8:
 
     # c "What are you-"
     c "What are you-"
 
-# game/game/script.rpy:6786
+# game/game/script.rpy:6792
 translate ukrainian reality_parttres_303ae5af:
 
     # h "{size=-10}Eeh?"
     h "{size=-10}Eeh?"
 
-# game/game/script.rpy:6787
+# game/game/script.rpy:6793
 translate ukrainian reality_parttres_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
-# game/game/script.rpy:6788
+# game/game/script.rpy:6794
 translate ukrainian reality_parttres_3ff4bc74:
 
     # r "..."
-    r "..."
+    r "..." (multiple=2)
 
-# game/game/script.rpy:6791
+# game/game/script.rpy:6797
 translate ukrainian reality_parttres_ca85ca2e:
 
     # c "We have entered the madness!"
-    c "We have entered the madness!"
+    c "We have entered the madness!" (multiple=2)
 
-# game/game/script.rpy:6792
+# game/game/script.rpy:6798
 translate ukrainian reality_parttres_7639e06c:
 
     # r "We have entered the madness!"
-    r "We have entered the madness!"
+    r "We have entered the madness!" (multiple=2)
 
-# game/game/script.rpy:6794
+# game/game/script.rpy:6800
 translate ukrainian reality_parttres_fc0eca81:
 
     # mc "We are not crazy!"
-    mc "We are not crazy!"
+    mc "We are not crazy!" with vpunch
 
-# game/game/script.rpy:6796
+# game/game/script.rpy:6802
 translate ukrainian reality_parttres_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6797
+# game/game/script.rpy:6803
 translate ukrainian reality_parttres_7454f7ec:
 
     # mc "H-Hana?"
     mc "H-Hana?"
 
-# game/game/script.rpy:6798
+# game/game/script.rpy:6804
 translate ukrainian reality_parttres_5f9b772e:
 
     # "...."
     "...."
 
-# game/game/script.rpy:6800
+# game/game/script.rpy:6806
 translate ukrainian reality_parttres_004ddf07:
 
     # h "{size=-10}Ara?{/size} {w}[mc]?"
     h "{size=-10}Ara?{/size} {w}[mc]?"
 
-# game/game/script.rpy:6801
+# game/game/script.rpy:6807
 translate ukrainian reality_parttres_f820a381:
 
     # h "Why am I covered in blood, and why are we sleeping on the floor with Shika?"
     h "Why am I covered in blood, and why are we sleeping on the floor with Shika?"
 
-# game/game/script.rpy:6802
+# game/game/script.rpy:6808
 translate ukrainian reality_parttres_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6803
+# game/game/script.rpy:6809
 translate ukrainian reality_parttres_932763c0:
 
     # h "I feel like I had a long dream..."
     h "I feel like I had a long dream..."
 
-# game/game/script.rpy:6810
+# game/game/script.rpy:6816
 translate ukrainian reality_parttres_a33b8c25:
 
     # h "Eh-"
     h "Eh-"
 
-# game/game/script.rpy:6812
+# game/game/script.rpy:6818
 translate ukrainian reality_parttres_c2b718d7:
 
     # h "EEeeeh!?"
-    h "EEeeeh!?"
+    h "EEeeeh!?" with vpunch
 
-# game/game/script.rpy:6813
+# game/game/script.rpy:6819
 translate ukrainian reality_parttres_380224f8:
 
     # h "[mc]... {w}I-I don't know if it's time to do these things..."
     h "[mc]... {w}I-I don't know if it's time to do these things..."
 
-# game/game/script.rpy:6814
+# game/game/script.rpy:6820
 translate ukrainian reality_parttres_d636c23b:
 
     # mc "{size=-10}I'm so happy..."
     mc "{size=-10}I'm so happy..."
 
-# game/game/script.rpy:6815
+# game/game/script.rpy:6821
 translate ukrainian reality_parttres_a8bb8837:
 
     # mc "{size=-10}I thought I would lose someone again..."
     mc "{size=-10}I thought I would lose someone again..."
 
-# game/game/script.rpy:6817
+# game/game/script.rpy:6823
 translate ukrainian reality_parttres_2fded262:
 
     # h "..."
     h "..."
 
-# game/game/script.rpy:6819
+# game/game/script.rpy:6825
 translate ukrainian reality_parttres_1516b4b8:
 
     # h "{size=-10}Looks like I gave you a good scare."
     h "{size=-10}Looks like I gave you a good scare."
 
-# game/game/script.rpy:6820
+# game/game/script.rpy:6826
 translate ukrainian reality_parttres_84ca1e8c:
 
     # h "{size=-10}Everything is fine now..."
     h "{size=-10}Everything is fine now..."
 
-# game/game/script.rpy:6826
+# game/game/script.rpy:6832
 translate ukrainian reality_parttres_e91f3015:
 
     # t "With her uncontrollable crying, {w}she stuck to Hana together with the two girls who were just as confused as I was about what had just happened..."
     t "With her uncontrollable crying, {w}she stuck to Hana together with the two girls who were just as confused as I was about what had just happened..."
 
-# game/game/script.rpy:6827
+# game/game/script.rpy:6833
 translate ukrainian reality_parttres_8f60c078:
 
     # h "Iosh~ iosh~ {w}Everything is fine now."
     h "Iosh~ iosh~ {w}Everything is fine now."
 
-# game/game/script.rpy:6828
+# game/game/script.rpy:6834
 translate ukrainian reality_parttres_643bd40a:
 
     # s "WAAaaaAAAAaaaa!!"
-    s "WAAaaaAAAAaaaa!!"
+    s "WAAaaaAAAAaaaa!!" with hpunch
 
-# game/game/script.rpy:6834
+# game/game/script.rpy:6840
 translate ukrainian reality_parttres_f5df7f40:
 
     # ak "D-Don't do {w}{size=-10}sob*{/size} {w}that again..."
     ak "D-Don't do {w}{size=-10}sob*{/size} {w}that again..."
 
-# game/game/script.rpy:6835
+# game/game/script.rpy:6841
 translate ukrainian reality_parttres_26d70c96:
 
     # h "Uhm~~{image=corazon}"
     h "Uhm~~{image=corazon}"
 
-# game/game/script.rpy:6837
+# game/game/script.rpy:6843
 translate ukrainian reality_parttres_e1554201_1:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:6840
+# game/game/script.rpy:6846
 translate ukrainian reality_parttres_a489d1f1:
 
     # y "I thought... {w}I would never see you again."
     y "I thought... {w}I would never see you again."
 
-# game/game/script.rpy:6842
+# game/game/script.rpy:6848
 translate ukrainian reality_parttres_2fded262_1:
 
     # h "..."
     h "..."
 
-# game/game/script.rpy:6844
+# game/game/script.rpy:6850
 translate ukrainian reality_parttres_422bd0fe:
 
     # t "Cleaning up all that mess was a big job, but we all helped..."
     t "Cleaning up all that mess was a big job, but we all helped..."
 
-# game/game/script.rpy:6845
+# game/game/script.rpy:6851
 translate ukrainian reality_parttres_a83e9072:
 
     # t "And I..."
     t "And I..."
 
-# game/game/script.rpy:6850
+# game/game/script.rpy:6856
 translate ukrainian reality_parttres_73834592:
 
     # t "I killed someone."
     t "I killed someone."
 
-# game/game/script.rpy:6852
+# game/game/script.rpy:6858
 translate ukrainian reality_parttres_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6853
+# game/game/script.rpy:6859
 translate ukrainian reality_parttres_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:6854
+# game/game/script.rpy:6860
 translate ukrainian reality_parttres_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:6860
+# game/game/script.rpy:6866
 translate ukrainian reality_parttres_bff4641c:
 
     # mc "W-What? {w}Who?"
     mc "W-What? {w}Who?"
 
-# game/game/script.rpy:6871
+# game/game/script.rpy:6877
 translate ukrainian reality_parttres_34548685:
 
     # "{image=corazon}The affection of all increased!{image=corazon}"
     "{image=corazon}The affection of all increased!{image=corazon}"
 
-# game/game/script.rpy:6873
+# game/game/script.rpy:6879
 translate ukrainian reality_parttres_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/game/script.rpy:6875
+# game/game/script.rpy:6881
 translate ukrainian reality_parttres_4a87c379:
 
     # "{image=/bg/icons/heart_text.png}Karyn's affection has increased to [karyn_affection]{image=/bg/icons/heart_text.png}"
     "{image=/bg/icons/heart_text.png}Karyn's affection has increased to [karyn_affection]{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:6889
+# game/game/script.rpy:6895
 translate ukrainian yui_entrada_town_25fb61f2:
 
     # t "It's strange that the entrance hasn't been repaired yet, I'll ask Yui now that she doesn't look so busy."
     t "It's strange that the entrance hasn't been repaired yet, I'll ask Yui now that she doesn't look so busy."
 
-# game/game/script.rpy:6891
+# game/game/script.rpy:6897
 translate ukrainian yui_entrada_town_9e43fee8:
 
     # mc "Hey Yui?"
     mc "Hey Yui?"
 
-# game/game/script.rpy:6895
+# game/game/script.rpy:6901
 translate ukrainian yui_entrada_town_ce14f745:
 
     # y "Hmm?"
     y "Hmm?"
 
-# game/game/script.rpy:6897
+# game/game/script.rpy:6903
 translate ukrainian yui_entrada_town_ff966286:
 
     # y "[mc]? {w}Do you need anything?"
     y "[mc]? {w}Do you need anything?"
 
-# game/game/script.rpy:6898
+# game/game/script.rpy:6904
 translate ukrainian yui_entrada_town_80162b8f:
 
     # mc "Can I come closer?"
     mc "Can I come closer?"
 
-# game/game/script.rpy:6899
+# game/game/script.rpy:6905
 translate ukrainian yui_entrada_town_a0a6127f:
 
     # y "Sure, come here, I don't see anything dangerous around."
     y "Sure, come here, I don't see anything dangerous around."
 
-# game/game/script.rpy:6901
+# game/game/script.rpy:6907
 translate ukrainian yui_entrada_town_441e27e8:
 
     # y "Although I know that if something like that happened... {w}you would have no problem to take care of it hahaha..."
     y "Although I know that if something like that happened... {w}you would have no problem to take care of it hahaha..."
 
-# game/game/script.rpy:6902
+# game/game/script.rpy:6908
 translate ukrainian yui_entrada_town_d958d75a:
 
     # t "I've noticed that Yui has been acting like this since everything happened..."
     t "I've noticed that Yui has been acting like this since everything happened..."
 
-# game/game/script.rpy:6903
+# game/game/script.rpy:6909
 translate ukrainian yui_entrada_town_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:6904
+# game/game/script.rpy:6910
 translate ukrainian yui_entrada_town_3ce89fcd:
 
     # mc "I think you could handle it on your own."
     mc "I think you could handle it on your own."
 
-# game/game/script.rpy:6906
+# game/game/script.rpy:6912
 translate ukrainian yui_entrada_town_304dde96:
 
     # y "Who knows... {w}now I'm quite doubtful of my skills..."
     y "Who knows... {w}now I'm quite doubtful of my skills..."
 
-# game/game/script.rpy:6907
+# game/game/script.rpy:6913
 translate ukrainian yui_entrada_town_49b6061c:
 
     # y "{size=-5}I couldn't even protect Hana and my girls..."
     y "{size=-5}I couldn't even protect Hana and my girls..."
 
-# game/game/script.rpy:6909
+# game/game/script.rpy:6915
 translate ukrainian yui_entrada_town_12e783df:
 
     # mc "First of all, that guy was pretty weird."
     mc "First of all, that guy was pretty weird."
 
-# game/game/script.rpy:6911
+# game/game/script.rpy:6917
 translate ukrainian yui_entrada_town_4d1c0bf9:
 
     # mc "I hit him with the desire to break him in half..."
     mc "I hit him with the desire to break him in half..."
 
-# game/game/script.rpy:6912
+# game/game/script.rpy:6918
 translate ukrainian yui_entrada_town_b3d08aee:
 
     # y "You're right..."
     y "You're right..."
 
-# game/game/script.rpy:6914
+# game/game/script.rpy:6920
 translate ukrainian yui_entrada_town_ecae9fe8:
 
     # y "Who knew there was someone as strong as you out there."
     y "Who knew there was someone as strong as you out there."
 
-# game/game/script.rpy:6915
+# game/game/script.rpy:6921
 translate ukrainian yui_entrada_town_acf1fba0:
 
     # mc "As strong as I am..."
     mc "As strong as I am..."
 
-# game/game/script.rpy:6917
+# game/game/script.rpy:6923
 translate ukrainian yui_entrada_town_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6918
+# game/game/script.rpy:6924
 translate ukrainian yui_entrada_town_23a4f99b:
 
     # t "I feel so weak..."
     t "I feel so weak..."
 
-# game/game/script.rpy:6921
+# game/game/script.rpy:6927
 translate ukrainian yui_entrada_town_1d82a7e7:
 
     # mc "...!"
     mc "...!"
 
-# game/game/script.rpy:6922
+# game/game/script.rpy:6928
 translate ukrainian yui_entrada_town_52a8b414:
 
     # y "Uhm?"
     y "Uhm?"
 
-# game/game/script.rpy:6924
+# game/game/script.rpy:6930
 translate ukrainian yui_entrada_town_bb3b824e:
 
     # mc "Well, {w}what I was coming to."
     mc "Well, {w}what I was coming to."
 
-# game/game/script.rpy:6925
+# game/game/script.rpy:6931
 translate ukrainian yui_entrada_town_c88bbb65:
 
     # y "Mmm?"
     y "Mmm?"
 
-# game/game/script.rpy:6926
+# game/game/script.rpy:6932
 translate ukrainian yui_entrada_town_7331868c:
 
     # mc "Why haven't you fixed the gate yet?"
     mc "Why haven't you fixed the gate yet?"
 
-# game/game/script.rpy:6928
+# game/game/script.rpy:6934
 translate ukrainian yui_entrada_town_c88503a2:
 
     # y "I knew that if I took too long you would come and try to help me haha..."
     y "I knew that if I took too long you would come and try to help me haha..."
 
-# game/game/script.rpy:6929
+# game/game/script.rpy:6935
 translate ukrainian yui_entrada_town_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6931
+# game/game/script.rpy:6937
 translate ukrainian yui_entrada_town_1dfc7049:
 
     # mc "{size=-10}{i}Don't make me hug you in front of your girls..."
     mc "{size=-10}{i}Don't make me hug you in front of your girls..."
 
-# game/game/script.rpy:6933
+# game/game/script.rpy:6939
 translate ukrainian yui_entrada_town_4e1a8ca4:
 
     # y "{size=-10}{i}W-Wa!"
-    y "{size=-10}{i}W-Wa!"
+    y "{size=-10}{i}W-Wa!" with vpunch
 
-# game/game/script.rpy:6935
+# game/game/script.rpy:6941
 translate ukrainian yui_entrada_town_d361d45a:
 
     # mc "{size=-10}{i}And if I give you a passionate kiss right here, {w}what will they say?"
     mc "{size=-10}{i}And if I give you a passionate kiss right here, {w}what will they say?"
 
-# game/game/script.rpy:6936
+# game/game/script.rpy:6942
 translate ukrainian yui_entrada_town_81a75da1:
 
     # y "W-wa-e!"
-    y "W-wa-e!"
+    y "W-wa-e!" with hpunch
 
-# game/game/script.rpy:6937
+# game/game/script.rpy:6943
 translate ukrainian yui_entrada_town_b10b8d34:
 
     # so "...?"
-    so "...?"
+    so "...?" (multiple=2)
 
-# game/game/script.rpy:6938
+# game/game/script.rpy:6944
 translate ukrainian yui_entrada_town_b10b8d34_1:
 
     # so "...?"
-    so "...?"
+    so "...?" (multiple=2)
 
-# game/game/script.rpy:6940
+# game/game/script.rpy:6946
 translate ukrainian yui_entrada_town_65d15036:
 
     # y "A-Ahem..."
     y "A-Ahem..."
 
-# game/game/script.rpy:6941
+# game/game/script.rpy:6947
 translate ukrainian yui_entrada_town_f885d457:
 
     # y "Ahem!"
-    y "Ahem!"
+    y "Ahem!" with vpunch
 
-# game/game/script.rpy:6942
+# game/game/script.rpy:6948
 translate ukrainian yui_entrada_town_2a5992d4:
 
     # mc "{size=-7}Hahahaha."
     mc "{size=-7}Hahahaha."
 
-# game/game/script.rpy:6944
+# game/game/script.rpy:6950
 translate ukrainian yui_entrada_town_666cbf58:
 
     # y "This place, as you can see, is passable for now."
     y "This place, as you can see, is passable for now."
 
-# game/game/script.rpy:6945
+# game/game/script.rpy:6951
 translate ukrainian yui_entrada_town_6a5c1ba0:
 
     # y "We have not received any attacks since that day, {w}which I will take advantage of to investigate the area further."
     y "We have not received any attacks since that day, {w}which I will take advantage of to investigate the area further."
 
-# game/game/script.rpy:6946
+# game/game/script.rpy:6952
 translate ukrainian yui_entrada_town_24069acd:
 
     # t "She already has everyone working as usual, as expected of Yui."
     t "She already has everyone working as usual, as expected of Yui."
 
-# game/game/script.rpy:6948
+# game/game/script.rpy:6954
 translate ukrainian yui_entrada_town_ee7bf83b:
 
     # y "So I am checking every corner of the surroundings of this village."
     y "So I am checking every corner of the surroundings of this village."
 
-# game/game/script.rpy:6949
+# game/game/script.rpy:6955
 translate ukrainian yui_entrada_town_6af386f5:
 
     # y "I have not been able to send out for wood to make the doors twice as thick and put Mayu to work."
     y "I have not been able to send out for wood to make the doors twice as thick and put Mayu to work."
 
-# game/game/script.rpy:6950
+# game/game/script.rpy:6956
 translate ukrainian yui_entrada_town_a7bcf340:
 
     # mc "I see..."
     mc "I see..."
 
-# game/game/script.rpy:6952
+# game/game/script.rpy:6958
 translate ukrainian yui_entrada_town_810d2f4f:
 
     # y "All my girls are busy right now..."
     y "All my girls are busy right now..."
 
-# game/game/script.rpy:6953
+# game/game/script.rpy:6959
 translate ukrainian yui_entrada_town_c7f1b9ca:
 
     # mc "How much do you need?"
     mc "How much do you need?"
 
-# game/game/script.rpy:6955
+# game/game/script.rpy:6961
 translate ukrainian yui_entrada_town_591a06e8:
 
     # y "Sigh... go talk to Mayu, she is more than ready to give you information."
     y "Sigh... go talk to Mayu, she is more than ready to give you information."
 
-# game/game/script.rpy:6956
+# game/game/script.rpy:6962
 translate ukrainian yui_entrada_town_8cf43ca9:
 
     # mc "Perfect, {w}leave it to me."
     mc "Perfect, {w}leave it to me."
 
-# game/game/script.rpy:6958
+# game/game/script.rpy:6964
 translate ukrainian yui_entrada_town_c2abfa52:
 
     # y "Thank you [mc], I am glad to have you with us."
     y "Thank you [mc], I am glad to have you with us."
 
-# game/game/script.rpy:6960
+# game/game/script.rpy:6966
 translate ukrainian yui_entrada_town_9b6b3eb9:
 
     # mc "And I am happy to see your beautiful face in the morning!"
-    mc "And I am happy to see your beautiful face in the morning!"
+    mc "And I am happy to see your beautiful face in the morning!" with hpunch
 
-# game/game/script.rpy:6961
+# game/game/script.rpy:6967
 translate ukrainian yui_entrada_town_55eaadbc:
 
     # so "{size=-10}Gasp!*"
-    so "{size=-10}Gasp!*"
+    so "{size=-10}Gasp!*" (multiple=2)
 
-# game/game/script.rpy:6962
+# game/game/script.rpy:6968
 translate ukrainian yui_entrada_town_55eaadbc_1:
 
     # so "{size=-10}Gasp!*"
-    so "{size=-10}Gasp!*"
+    so "{size=-10}Gasp!*" (multiple=2)
 
-# game/game/script.rpy:6963
+# game/game/script.rpy:6969
 translate ukrainian yui_entrada_town_71a86863:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:6969
+# game/game/script.rpy:6975
 translate ukrainian yui_entrada_town_20af2c0b:
 
     # y "{size=+10}[mc]!!"
-    y "{size=+10}[mc]!!"
+    y "{size=+10}[mc]!!" with hpunch
 
-# game/game/script.rpy:6972
+# game/game/script.rpy:6978
 translate ukrainian yui_entrada_town_c378f7e5:
 
     # "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
     "{image=/bg/icons/heart_text.png}Yui's affection has increased to [yui_affection]{image=/bg/icons/heart_text.png}"
 
-# game/game/script.rpy:6975
+# game/game/script.rpy:6981
 translate ukrainian yui_entrada_town_ae404594:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." with hpunch
 
-# game/game/script.rpy:6988
+# game/game/script.rpy:6994
 translate ukrainian recoger_gates_87af2224:
 
     # mc "Well, I'll put them in my pockets and take them to Mayu."
     mc "Well, I'll put them in my pockets and take them to Mayu."
 
-# game/game/script.rpy:6990
+# game/game/script.rpy:6996
 translate ukrainian recoger_gates_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:6991
+# game/game/script.rpy:6997
 translate ukrainian recoger_gates_045613d8:
 
     # t "I wish that could be possible..."
     t "I wish that could be possible..."
 
-# game/game/script.rpy:6993
+# game/game/script.rpy:6999
 translate ukrainian recoger_gates_3e8f161b:
 
     # t "T-They are... {w}heavier than they look..."
     t "T-They are... {w}heavier than they look..."
 
-# game/game/script.rpy:6994
+# game/game/script.rpy:7000
 translate ukrainian recoger_gates_7d6c711e:
 
     # t "But it's more difficult because I can't hold them very well..."
     t "But it's more difficult because I can't hold them very well..."
 
-# game/game/script.rpy:6996
+# game/game/script.rpy:7002
 translate ukrainian recoger_gates_5a43510e:
 
     # t "Maybe if I put them on my shoulders..."
     t "Maybe if I put them on my shoulders..."
 
-# game/game/script.rpy:7002
+# game/game/script.rpy:7008
 translate ukrainian recoger_gates_8dad0c12:
 
     # ma "I'm going to break my record!"
     ma "I'm going to break my record!"
 
-# game/game/script.rpy:7003
+# game/game/script.rpy:7009
 translate ukrainian recoger_gates_37a20d5e:
 
     # mc "{size=-8}{i}Tatakae... {w}tatakae..."
     mc "{size=-8}{i}Tatakae... {w}tatakae..."
 
-# game/game/script.rpy:7004
+# game/game/script.rpy:7010
 translate ukrainian recoger_gates_1839c78e:
 
     # ma "Mmm?"
     ma "Mmm?"
 
-# game/game/script.rpy:7006
+# game/game/script.rpy:7012
 translate ukrainian recoger_gates_fb898aac:
 
     # mc "{size=-8}W-Where do I drop them off...?"
     mc "{size=-8}W-Where do I drop them off...?"
 
-# game/game/script.rpy:7007
+# game/game/script.rpy:7013
 translate ukrainian recoger_gates_9ddc03d3:
 
     # ma "..."
     ma "..."
 
-# game/game/script.rpy:7008
+# game/game/script.rpy:7014
 translate ukrainian recoger_gates_e9f0e6bc:
 
     # mc "{size=-8}Mayu?"
     mc "{size=-8}Mayu?"
 
-# game/game/script.rpy:7010
+# game/game/script.rpy:7016
 translate ukrainian recoger_gates_765b86a7:
 
     # ma "Ahm... uHm... just... {w}leave them there... {w}I'll take care of it later..."
     ma "Ahm... uHm... just... {w}leave them there... {w}I'll take care of it later..."
 
-# game/game/script.rpy:7011
+# game/game/script.rpy:7017
 translate ukrainian recoger_gates_f7c16747:
 
     # mc "{size=-8}All right..."
     mc "{size=-8}All right..."
 
-# game/game/script.rpy:7015
+# game/game/script.rpy:7021
 translate ukrainian recoger_gates_46a1bbc2:
 
     # mc "Gghnm..."
-    mc "Gghnm..."
+    mc "Gghnm..." with vpunch
 
-# game/game/script.rpy:7016
+# game/game/script.rpy:7022
 translate ukrainian recoger_gates_5bd7e467:
 
     # ma "S-Shouldn't... you have asked for help with that...?"
     ma "S-Shouldn't... you have asked for help with that...?"
 
-# game/game/script.rpy:7017
+# game/game/script.rpy:7023
 translate ukrainian recoger_gates_dfc0a963:
 
     # mc "Mayu..."
-    mc "Mayu..."
+    mc "Mayu..." with vpunch
 
-# game/game/script.rpy:7018
+# game/game/script.rpy:7024
 translate ukrainian recoger_gates_66ebf923:
 
     # ma "Ahm... {w}y-yeah?"
     ma "Ahm... {w}y-yeah?"
 
-# game/game/script.rpy:7019
+# game/game/script.rpy:7025
 translate ukrainian recoger_gates_0b84c85f:
 
     # mc "{size=-10}Tatakae."
     mc "{size=-10}Tatakae."
 
-# game/game/script.rpy:7021
+# game/game/script.rpy:7027
 translate ukrainian recoger_gates_62f94bbe:
 
     # mc "Whoops."
-    mc "Whoops."
+    mc "Whoops." with vpunch
 
-# game/game/script.rpy:7022
+# game/game/script.rpy:7028
 translate ukrainian recoger_gates_fc0d7078:
 
     # ma "Thank you [mc]..."
     ma "Thank you [mc]..."
 
-# game/game/script.rpy:7023
+# game/game/script.rpy:7029
 translate ukrainian recoger_gates_90fdc694:
 
     # ma "... {w}Where is your sweatshirt?"
     ma "... {w}Where is your sweatshirt?"
 
-# game/game/script.rpy:7027
+# game/game/script.rpy:7033
 translate ukrainian recoger_gates_99355f85:
 
     # mc "Oh, at what point did I take it off?"
     mc "Oh, at what point did I take it off?"
 
-# game/game/script.rpy:7037
+# game/game/script.rpy:7043
 translate ukrainian gates_ready_775f5279:
 
     # y "[mc], {w}I'm glad you're here, the gates disappeared without us noticing."
-    y "[mc], {w}I'm glad you're here, the gates disappeared without us noticing."
+    y "[mc], {w}I'm glad you're here, the gates disappeared without us noticing." with hpunch
 
-# game/game/script.rpy:7038
+# game/game/script.rpy:7044
 translate ukrainian gates_ready_0dcaef16:
 
     # y "We think that maybe five people came back and took them away."
     y "We think that maybe five people came back and took them away."
 
-# game/game/script.rpy:7040
+# game/game/script.rpy:7046
 translate ukrainian gates_ready_ae79450f:
 
     # mc "Ahm..."
     mc "Ahm..."
 
-# game/game/script.rpy:7041
+# game/game/script.rpy:7047
 translate ukrainian gates_ready_e2e9a483:
 
     # y "This one was because of my carelessness, {w}how could they be so quiet!"
     y "This one was because of my carelessness, {w}how could they be so quiet!"
 
-# game/game/script.rpy:7042
+# game/game/script.rpy:7048
 translate ukrainian gates_ready_fc7cfbbf:
 
     # mc "Uhm... {w}Yui?"
     mc "Uhm... {w}Yui?"
 
-# game/game/script.rpy:7044
+# game/game/script.rpy:7050
 translate ukrainian gates_ready_c4717797:
 
     # y "What will I tell Hana..."
     y "What will I tell Hana..."
 
-# game/game/script.rpy:7045
+# game/game/script.rpy:7051
 translate ukrainian gates_ready_6601c8da:
 
     # y "Not only could I do nothing, but now I am being very useles-"
     y "Not only could I do nothing, but now I am being very useles-"
 
-# game/game/script.rpy:7047
+# game/game/script.rpy:7053
 translate ukrainian gates_ready_f0c64327:
 
     # mc "Yui! {w}I was the one who took them!"
-    mc "Yui! {w}I was the one who took them!"
+    mc "Yui! {w}I was the one who took them!" with vpunch
 
-# game/game/script.rpy:7048
+# game/game/script.rpy:7054
 translate ukrainian gates_ready_71a86863:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:7049
+# game/game/script.rpy:7055
 translate ukrainian gates_ready_14ee4709:
 
     # y "{size=-10}Wait {w}What?"
     y "{size=-10}Wait {w}What?"
 
-# game/game/script.rpy:7051
+# game/game/script.rpy:7057
 translate ukrainian gates_ready_76945021:
 
     # mc "Mayu asked me for them, the other day I didn't want to bother you so I just took them."
     mc "Mayu asked me for them, the other day I didn't want to bother you so I just took them."
 
-# game/game/script.rpy:7052
+# game/game/script.rpy:7058
 translate ukrainian gates_ready_a660c879:
 
     # y "{size=-8}D-Did you take... {w}the gates?"
     y "{size=-8}D-Did you take... {w}the gates?"
 
-# game/game/script.rpy:7053
+# game/game/script.rpy:7059
 translate ukrainian gates_ready_f800bed0:
 
     # mc "Yes."
     mc "Yes."
 
-# game/game/script.rpy:7055
+# game/game/script.rpy:7061
 translate ukrainian gates_ready_38fb8b6f:
 
     # y "One by one I guess?"
     y "One by one I guess?"
 
-# game/game/script.rpy:7056
+# game/game/script.rpy:7062
 translate ukrainian gates_ready_4a7f0ba7:
 
     # mc "Let's just say... {w}I saved myself a trip..."
     mc "Let's just say... {w}I saved myself a trip..."
 
-# game/game/script.rpy:7058
+# game/game/script.rpy:7064
 translate ukrainian gates_ready_e5f04e7c:
 
     # y "D-Do you know how much one of those doors weighs...?"
     y "D-Do you know how much one of those doors weighs...?"
 
-# game/game/script.rpy:7059
+# game/game/script.rpy:7065
 translate ukrainian gates_ready_d567ed2e:
 
     # mc "They were quite heavy to be honest."
     mc "They were quite heavy to be honest."
 
-# game/game/script.rpy:7061
+# game/game/script.rpy:7067
 translate ukrainian gates_ready_71a86863_1:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:7064
+# game/game/script.rpy:7070
 translate ukrainian gates_ready_325f8678:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
-# game/game/script.rpy:7066
+# game/game/script.rpy:7072
 translate ukrainian gates_ready_97d173b1:
 
     # y "{size=-10}Moooh~"
     y "{size=-10}Moooh~"
 
-# game/game/script.rpy:7067
+# game/game/script.rpy:7073
 translate ukrainian gates_ready_5a01569d:
 
     # t "Wow, {w}that was a lot of feelings in just a few seconds."
     t "Wow, {w}that was a lot of feelings in just a few seconds."
 
-# game/game/script.rpy:7069
+# game/game/script.rpy:7075
 translate ukrainian gates_ready_f128f6cb:
 
     # mc "Sorry to scare you."
     mc "Sorry to scare you."
 
-# game/game/script.rpy:7070
+# game/game/script.rpy:7076
 translate ukrainian gates_ready_71a86863_2:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:7072
+# game/game/script.rpy:7078
 translate ukrainian gates_ready_96e477fe:
 
     # y "[mc] idiot..."
     y "[mc] idiot..."
 
-# game/game/script.rpy:7073
+# game/game/script.rpy:7079
 translate ukrainian gates_ready_d33524f5:
 
     # mc "Hahahaha."
     mc "Hahahaha."
 
-# game/game/script.rpy:7075
+# game/game/script.rpy:7081
 translate ukrainian gates_ready_131071a1:
 
     # mc "Well, that's what I was coming to, {w}Mayu is already reinforcing and preparing them, in one day she will have them ready."
     mc "Well, that's what I was coming to, {w}Mayu is already reinforcing and preparing them, in one day she will have them ready."
 
-# game/game/script.rpy:7077
+# game/game/script.rpy:7083
 translate ukrainian gates_ready_b15b337f:
 
     # y "Oh, that's very fast."
     y "Oh, that's very fast."
 
-# game/game/script.rpy:7078
+# game/game/script.rpy:7084
 translate ukrainian gates_ready_743c3aba:
 
     # y "Well, it is Mayu after all."
     y "Well, it is Mayu after all."
 
-# game/game/script.rpy:7080
+# game/game/script.rpy:7086
 translate ukrainian gates_ready_92f30a5c:
 
     # y "And you are the one who got the materials right away..."
     y "And you are the one who got the materials right away..."
 
-# game/game/script.rpy:7082
+# game/game/script.rpy:7088
 translate ukrainian gates_ready_42eb5dc9:
 
     # mc "That sounds like flirting, {w}are you flirting with me? {w}Because it's working."
     mc "That sounds like flirting, {w}are you flirting with me? {w}Because it's working."
 
-# game/game/script.rpy:7083
+# game/game/script.rpy:7089
 translate ukrainian gates_ready_34397eab:
 
     # y "I-I..."
     y "I-I..."
 
-# game/game/script.rpy:7085
+# game/game/script.rpy:7091
 translate ukrainian gates_ready_90cbda5b:
 
     # y "{size=-7}I am not doing anything! Idiot!"
-    y "{size=-7}I am not doing anything! Idiot!"
+    y "{size=-7}I am not doing anything! Idiot!" with vpunch
 
-# game/game/script.rpy:7086
+# game/game/script.rpy:7092
 translate ukrainian gates_ready_4715d990:
 
     # mc "Hahaha, she told me to let you know because she doesn't want to see me carry the gates in titan mode or something."
     mc "Hahaha, she told me to let you know because she doesn't want to see me carry the gates in titan mode or something."
 
-# game/game/script.rpy:7088
+# game/game/script.rpy:7094
 translate ukrainian gates_ready_40767e03:
 
     # y "I don't know what you mean by that, {w}but perfect, {w}as soon as Mayu finishes I will send my girls."
     y "I don't know what you mean by that, {w}but perfect, {w}as soon as Mayu finishes I will send my girls."
 
-# game/game/script.rpy:7089
+# game/game/script.rpy:7095
 translate ukrainian gates_ready_8f16554a:
 
     # mc "So, my work here is done."
     mc "So, my work here is done."
 
-# game/game/script.rpy:7091
+# game/game/script.rpy:7097
 translate ukrainian gates_ready_62fc57ef:
 
     # y "Thank you [mc], you are worthy to be called the leader of the town."
     y "Thank you [mc], you are worthy to be called the leader of the town."
 
-# game/game/script.rpy:7092
+# game/game/script.rpy:7098
 translate ukrainian gates_ready_3ae5b167:
 
     # mc "L-Lead- {w}again...?"
     mc "L-Lead- {w}again...?"
 
-# game/game/script.rpy:7094
+# game/game/script.rpy:7100
 translate ukrainian gates_ready_9fefa189:
 
     # y "Hahahaha, let's talk about that another day."
     y "Hahahaha, let's talk about that another day."
 
-# game/game/script.rpy:7095
+# game/game/script.rpy:7101
 translate ukrainian gates_ready_d921e5ca:
 
     # mc "Yui..."
     mc "Yui..."
 
-# game/game/script.rpy:7097
+# game/game/script.rpy:7103
 translate ukrainian gates_ready_6e13aab3:
 
     # y "Bye [mc], thanks to you the girls will be able to leave their homes."
     y "Bye [mc], thanks to you the girls will be able to leave their homes."
 
-# game/game/script.rpy:7100
+# game/game/script.rpy:7106
 translate ukrainian gates_ready_3e92f55b:
 
     # t "Someone like me can't be called a leader..."
     t "Someone like me can't be called a leader..."
 
-# game/game/script.rpy:7105
+# game/game/script.rpy:7111
 translate ukrainian gates_ready_eb24b2d4:
 
     # t "Are you only going to answer me when you want to?"
     t "Are you only going to answer me when you want to?"
 
-# game/game/script.rpy:7106
+# game/game/script.rpy:7112
 translate ukrainian gates_ready_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7107
+# game/game/script.rpy:7113
 translate ukrainian gates_ready_76fa3a01:
 
     # "{i}The voice disappears."
     "{i}The voice disappears."
 
-# game/game/script.rpy:7108
+# game/game/script.rpy:7114
 translate ukrainian gates_ready_e4be6021:
 
     # mc "Sigh*"
     mc "Sigh*"
 
-# game/game/script.rpy:7113
+# game/game/script.rpy:7119
 translate ukrainian gates_ready_3281b9f6:
 
     # t "The entrance should be fixed by now..."
     t "The entrance should be fixed by now..."
 
-# game/game/script.rpy:7126
+# game/game/script.rpy:7132
 translate ukrainian magic_shop_c3746f8a:
 
     # t "It seems that the store is not open yet."
     t "It seems that the store is not open yet."
 
-# game/game/script.rpy:7127
+# game/game/script.rpy:7133
 translate ukrainian magic_shop_ab0aff40:
 
     # t "I should see if I can find any missions on the adventurers' board."
     t "I should see if I can find any missions on the adventurers' board."
 
-# game/game/script.rpy:7134
+# game/game/script.rpy:7140
 translate ukrainian magic_shop_86df8d7c:
 
     # t "I must come in the morning."
     t "I must come in the morning."
 
-# game/game/script.rpy:7141
+# game/game/script.rpy:7147
 translate ukrainian magic_shop_1e4cfe72:
 
     # t "I should come back another day, it hasn't been long since they started working on my clothes."
     t "I should come back another day, it hasn't been long since they started working on my clothes."
 
-# game/game/script.rpy:7148
+# game/game/script.rpy:7154
 translate ukrainian magic_store_c5cb21d2:
 
     # t "I think this must be it, it's right in front of the hot springs."
     t "I think this must be it, it's right in front of the hot springs."
 
-# game/game/script.rpy:7149
+# game/game/script.rpy:7155
 translate ukrainian magic_store_43d804f0:
 
     # t "Natsuki told me it should be open by now but I don't see any signs that this is a store..."
     t "Natsuki told me it should be open by now but I don't see any signs that this is a store..."
 
-# game/game/script.rpy:7154
+# game/game/script.rpy:7160
 translate ukrainian magic_store_0216cadb:
 
     # t "If I think about it, Diana doesn't look like someone who can run a business."
     t "If I think about it, Diana doesn't look like someone who can run a business."
 
-# game/game/script.rpy:7155
+# game/game/script.rpy:7161
 translate ukrainian magic_store_8a8b0745:
 
     # t "Maybe Iris is the one in charge of that."
     t "Maybe Iris is the one in charge of that."
 
-# game/game/script.rpy:7160
+# game/game/script.rpy:7166
 translate ukrainian magic_store_ed3484db:
 
     # "{color=#e8e3cf}You can come in!"
-    "{color=#e8e3cf}You can come in!"
+    "{color=#e8e3cf}You can come in!" with hpunch
 
-# game/game/script.rpy:7161
+# game/game/script.rpy:7167
 translate ukrainian magic_store_21e17cc6:
 
     # mc "Excuse me."
     mc "Excuse me."
 
-# game/game/script.rpy:7166
+# game/game/script.rpy:7172
 translate ukrainian magic_store_15b9e802:
 
     # t "This place feels very quiet, I don't hear anything from outside."
     t "This place feels very quiet, I don't hear anything from outside."
 
-# game/game/script.rpy:7167
+# game/game/script.rpy:7173
 translate ukrainian magic_store_3ffdf224:
 
     # "{color=#e8e3cf}Hmm? {w}I didn't think it would be you."
     "{color=#e8e3cf}Hmm? {w}I didn't think it would be you."
 
-# game/game/script.rpy:7168
+# game/game/script.rpy:7174
 translate ukrainian magic_store_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:7170
+# game/game/script.rpy:7176
 translate ukrainian magic_store_7032da0d:
 
     # mc "Iris..."
     mc "Iris..."
 
-# game/game/script.rpy:7171
+# game/game/script.rpy:7177
 translate ukrainian magic_store_828b9892:
 
     # ir "Do you need something?"
     ir "Do you need something?"
 
-# game/game/script.rpy:7172
+# game/game/script.rpy:7178
 translate ukrainian magic_store_fc2801d0:
 
     # ir "Miss Diana has just left and will be back in a few minutes."
     ir "Miss Diana has just left and will be back in a few minutes."
 
-# game/game/script.rpy:7174
+# game/game/script.rpy:7180
 translate ukrainian magic_store_0cdb4f14:
 
     # mc "Oh... {w}and I thought I'd come early to meet you both."
     mc "Oh... {w}and I thought I'd come early to meet you both."
 
-# game/game/script.rpy:7175
+# game/game/script.rpy:7181
 translate ukrainian magic_store_cd2dffd0:
 
     # mc "This place is already open? {w}You know, the store."
     mc "This place is already open? {w}You know, the store."
 
-# game/game/script.rpy:7177
+# game/game/script.rpy:7183
 translate ukrainian magic_store_75b8cc8a:
 
     # ir "Yes."
     ir "Yes."
 
-# game/game/script.rpy:7178
+# game/game/script.rpy:7184
 translate ukrainian magic_store_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7179
+# game/game/script.rpy:7185
 translate ukrainian magic_store_29355945:
 
     # mc "Y-Yes?"
     mc "Y-Yes?"
 
-# game/game/script.rpy:7181
+# game/game/script.rpy:7187
 translate ukrainian magic_store_e1351920:
 
     # ir "But Miss Diana is so nervous that she can't bring herself to put up the sign outside the store."
     ir "But Miss Diana is so nervous that she can't bring herself to put up the sign outside the store."
 
-# game/game/script.rpy:7182
+# game/game/script.rpy:7188
 translate ukrainian magic_store_7739be94:
 
     # mc "It makes sense."
     mc "It makes sense."
 
-# game/game/script.rpy:7183
+# game/game/script.rpy:7189
 translate ukrainian magic_store_25ec80d6:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7185
+# game/game/script.rpy:7191
 translate ukrainian magic_store_bbc42a9c:
 
     # ir "You can wait for her if you need both of us to listen to you."
     ir "You can wait for her if you need both of us to listen to you."
 
-# game/game/script.rpy:7186
+# game/game/script.rpy:7192
 translate ukrainian magic_store_ea3ffc54:
 
     # mc "Sure, I will do that."
     mc "Sure, I will do that."
 
-# game/game/script.rpy:7188
+# game/game/script.rpy:7194
 translate ukrainian magic_store_fe02f789:
 
     # mc "Sorry to bother you."
     mc "Sorry to bother you."
 
-# game/game/script.rpy:7189
+# game/game/script.rpy:7195
 translate ukrainian magic_store_530bab0d:
 
     # ir "You don't bother me, {w}or I would have made you wait outside."
     ir "You don't bother me, {w}or I would have made you wait outside."
 
-# game/game/script.rpy:7190
+# game/game/script.rpy:7196
 translate ukrainian magic_store_c7ae9110:
 
     # ir "Now I can chat with someone while I wait for her to arrive."
     ir "Now I can chat with someone while I wait for her to arrive."
 
-# game/game/script.rpy:7191
+# game/game/script.rpy:7197
 translate ukrainian magic_store_6e210749:
 
     # ir "She went to the High Priestess for advice."
     ir "She went to the High Priestess for advice."
 
-# game/game/script.rpy:7193
+# game/game/script.rpy:7199
 translate ukrainian magic_store_d1bcb1af:
 
     # mc "Advice on what?"
     mc "Advice on what?"
 
-# game/game/script.rpy:7194
+# game/game/script.rpy:7200
 translate ukrainian magic_store_05a1cfe0:
 
     # ir "To put the sign outside."
     ir "To put the sign outside."
 
-# game/game/script.rpy:7195
+# game/game/script.rpy:7201
 translate ukrainian magic_store_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7197
+# game/game/script.rpy:7203
 translate ukrainian magic_store_a467ed25:
 
     # ir "Yes, that's the kind of person she is."
     ir "Yes, that's the kind of person she is."
 
-# game/game/script.rpy:7198
+# game/game/script.rpy:7204
 translate ukrainian magic_store_56f17055:
 
     # mc "I didn't say anything..."
     mc "I didn't say anything..."
 
-# game/game/script.rpy:7199
+# game/game/script.rpy:7205
 translate ukrainian magic_store_04da7824:
 
     # ir "It was not necessary, and I agree."
     ir "It was not necessary, and I agree."
 
-# game/game/script.rpy:7201
+# game/game/script.rpy:7207
 translate ukrainian magic_store_6ab9b32a:
 
     # ir "If it weren't for that personality, she would be a great and well known magician."
     ir "If it weren't for that personality, she would be a great and well known magician."
 
-# game/game/script.rpy:7202
+# game/game/script.rpy:7208
 translate ukrainian magic_store_62d8d66a:
 
     # mc "Do you think so? I think it's already incredible what she does."
     mc "Do you think so? I think it's already incredible what she does."
 
-# game/game/script.rpy:7203
+# game/game/script.rpy:7209
 translate ukrainian magic_store_6878a87d:
 
     # mc "From the view of someone normal like me."
     mc "From the view of someone normal like me."
 
-# game/game/script.rpy:7204
+# game/game/script.rpy:7210
 translate ukrainian magic_store_25ec80d6_1:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7206
+# game/game/script.rpy:7212
 translate ukrainian magic_store_43f2f2a7:
 
     # ir "Do you really call yourself normal? {w}\"Thigh lover\" guy."
     ir "Do you really call yourself normal? {w}\"Thigh lover\" guy."
 
-# game/game/script.rpy:7207
+# game/game/script.rpy:7213
 translate ukrainian magic_store_999e12e1:
 
     # mc "That was something you read wrong!"
-    mc "That was something you read wrong!"
+    mc "That was something you read wrong!" with vpunch
 
-# game/game/script.rpy:7209
+# game/game/script.rpy:7215
 translate ukrainian magic_store_e69c28a2:
 
     # ir "I know what I saw."
     ir "I know what I saw."
 
-# game/game/script.rpy:7210
+# game/game/script.rpy:7216
 translate ukrainian magic_store_5b8d6de1:
 
     # mc "P-Perhaps the strange letters were not completely generated yet..."
     mc "P-Perhaps the strange letters were not completely generated yet..."
 
-# game/game/script.rpy:7211
+# game/game/script.rpy:7217
 translate ukrainian magic_store_a09fd4b5:
 
     # ir "Whatever you say, {w}{i}{size=-6}thighs guy."
     ir "Whatever you say, {w}{i}{size=-6}thighs guy."
 
-# game/game/script.rpy:7212
+# game/game/script.rpy:7218
 translate ukrainian magic_store_f7fd88dc:
 
     # mc "{size=-6}{i}Sigh...*"
     mc "{size=-6}{i}Sigh...*"
 
-# game/game/script.rpy:7214
+# game/game/script.rpy:7220
 translate ukrainian magic_store_2bbc9de6:
 
     # ir "And what happened to that arm?"
     ir "And what happened to that arm?"
 
-# game/game/script.rpy:7215
+# game/game/script.rpy:7221
 translate ukrainian magic_store_a3903601:
 
     # mc "Yesterday-"
     mc "Yesterday-"
 
-# game/game/script.rpy:7216
+# game/game/script.rpy:7222
 translate ukrainian magic_store_d52aacf2:
 
     # ir "Did something bite you?"
     ir "Did something bite you?"
 
-# game/game/script.rpy:7217
+# game/game/script.rpy:7223
 translate ukrainian magic_store_4ae5c013:
 
     # mc "W-What? {w}How-"
     mc "W-What? {w}How-"
 
-# game/game/script.rpy:7218
+# game/game/script.rpy:7224
 translate ukrainian magic_store_565d1ff7:
 
     # ir "I noticed that your support with that arm is superficial, you didn't close your fist at any moment and you didn't move it to let it rest."
     ir "I noticed that your support with that arm is superficial, you didn't close your fist at any moment and you didn't move it to let it rest."
 
-# game/game/script.rpy:7220
+# game/game/script.rpy:7226
 translate ukrainian magic_store_06da5dde:
 
     # ir "Something that can damage your forearm flexor and extensor muscles must be some kind of beast."
     ir "Something that can damage your forearm flexor and extensor muscles must be some kind of beast."
 
-# game/game/script.rpy:7221
+# game/game/script.rpy:7227
 translate ukrainian magic_store_570ce156:
 
     # mc "Can you tell just by touching it?"
     mc "Can you tell just by touching it?"
 
-# game/game/script.rpy:7222
+# game/game/script.rpy:7228
 translate ukrainian magic_store_ca66ad31:
 
     # ir "There is slight swelling and through the bandage I can feel several lacerations made with something sharp that follow a mandibular pattern."
     ir "There is slight swelling and through the bandage I can feel several lacerations made with something sharp that follow a mandibular pattern."
 
-# game/game/script.rpy:7224
+# game/game/script.rpy:7230
 translate ukrainian magic_store_374b4d2c:
 
     # ir "The good thing is that you treated it in time and with good medicine..."
     ir "The good thing is that you treated it in time and with good medicine..."
 
-# game/game/script.rpy:7225
+# game/game/script.rpy:7231
 translate ukrainian magic_store_b95dd5c0:
 
     # ir "{i}{size=-6}A very good one... {w}I could say that you even used a potion..."
     ir "{i}{size=-6}A very good one... {w}I could say that you even used a potion..."
 
-# game/game/script.rpy:7226
+# game/game/script.rpy:7232
 translate ukrainian magic_store_ee2a39d9:
 
     # mc "A potion?"
     mc "A potion?"
 
-# game/game/script.rpy:7228
+# game/game/script.rpy:7234
 translate ukrainian magic_store_d1b46c8b:
 
     # ir "Am I wrong?"
     ir "Am I wrong?"
 
-# game/game/script.rpy:7229
+# game/game/script.rpy:7235
 translate ukrainian magic_store_d2b4471a:
 
     # mc "Your level of analysis surprises me..."
     mc "Your level of analysis surprises me..."
 
-# game/game/script.rpy:7231
+# game/game/script.rpy:7237
 translate ukrainian magic_store_dd832deb:
 
     # mc "I recently had a fight with a... {w}wolf..."
     mc "I recently had a fight with a... {w}wolf..."
 
-# game/game/script.rpy:7232
+# game/game/script.rpy:7238
 translate ukrainian magic_store_644e1927:
 
     # mc "You know, adventurer stuff..."
     mc "You know, adventurer stuff..."
 
-# game/game/script.rpy:7233
+# game/game/script.rpy:7239
 translate ukrainian magic_store_473c6e53:
 
     # ir "Huh..."
     ir "Huh..."
 
-# game/game/script.rpy:7234
+# game/game/script.rpy:7240
 translate ukrainian magic_store_3301ab3d:
 
     # mc "Going back to what you said before, do you sell potions here?"
     mc "Going back to what you said before, do you sell potions here?"
 
-# game/game/script.rpy:7236
+# game/game/script.rpy:7242
 translate ukrainian magic_store_3bac9682:
 
     # ir "It seems that this is the first time you visit a magic store..."
     ir "It seems that this is the first time you visit a magic store..."
 
-# game/game/script.rpy:7237
+# game/game/script.rpy:7243
 translate ukrainian magic_store_5aa72ccd:
 
     # mc "Y-Yeah..."
     mc "Y-Yeah..."
 
-# game/game/script.rpy:7239
+# game/game/script.rpy:7245
 translate ukrainian magic_store_7d872d21:
 
     # ir "Here we sell custom-made magic clothes and potions of all kinds, which is my specialty."
     ir "Here we sell custom-made magic clothes and potions of all kinds, which is my specialty."
 
-# game/game/script.rpy:7240
+# game/game/script.rpy:7246
 translate ukrainian magic_store_2537acd0:
 
     # ir "We also sell books."
     ir "We also sell books."
 
-# game/game/script.rpy:7241
+# game/game/script.rpy:7247
 translate ukrainian magic_store_4c57a239:
 
     # mc "I see... {w}and what kind of potions?"
     mc "I see... {w}and what kind of potions?"
 
-# game/game/script.rpy:7243
+# game/game/script.rpy:7249
 translate ukrainian magic_store_025b12d3:
 
     # ir "Healing, stamina and magic recovery."
     ir "Healing, stamina and magic recovery."
 
-# game/game/script.rpy:7244
+# game/game/script.rpy:7250
 translate ukrainian magic_store_a2c0d675:
 
     # ir "{size=-6}Aphrodisiac."
     ir "{size=-6}Aphrodisiac."
 
-# game/game/script.rpy:7245
+# game/game/script.rpy:7251
 translate ukrainian magic_store_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/game/script.rpy:7246
+# game/game/script.rpy:7252
 translate ukrainian magic_store_5e5a2de1:
 
     # ir "I can show you the variety when we open the store."
     ir "I can show you the variety when we open the store."
 
-# game/game/script.rpy:7247
+# game/game/script.rpy:7253
 translate ukrainian magic_store_3c3936b1:
 
     # mc "Sounds good to me, thank you."
     mc "Sounds good to me, thank you."
 
-# game/game/script.rpy:7249
+# game/game/script.rpy:7255
 translate ukrainian magic_store_f1e88fa7:
 
     # ir "{i}{size=-6}Sigh~"
     ir "{i}{size=-6}Sigh~"
 
-# game/game/script.rpy:7250
+# game/game/script.rpy:7256
 translate ukrainian magic_store_8f1e0469:
 
     # ir "Hmm... {w}well, Miss Diana is taking too long..."
     ir "Hmm... {w}well, Miss Diana is taking too long..."
 
-# game/game/script.rpy:7251
+# game/game/script.rpy:7257
 translate ukrainian magic_store_69c25b65:
 
     # mc "Yeah..."
     mc "Yeah..."
 
-# game/game/script.rpy:7252
+# game/game/script.rpy:7258
 translate ukrainian magic_store_4f2a3af4:
 
     # mc "What can we do while we wait for her?"
     mc "What can we do while we wait for her?"
 
-# game/game/script.rpy:7253
+# game/game/script.rpy:7259
 translate ukrainian magic_store_25ec80d6_2:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7255
+# game/game/script.rpy:7261
 translate ukrainian magic_store_25ec80d6_3:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7256
+# game/game/script.rpy:7262
 translate ukrainian magic_store_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7258
+# game/game/script.rpy:7264
 translate ukrainian magic_store_25ec80d6_4:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7259
+# game/game/script.rpy:7265
 translate ukrainian magic_store_fcbe4ae5:
 
     # mc "D-Diana!"
-    mc "D-Diana!"
+    mc "D-Diana!" with vpunch
 
-# game/game/script.rpy:7261
+# game/game/script.rpy:7267
 translate ukrainian magic_store_1c32acf1:
 
     # di "Huuiiih!"
-    di "Huuiiih!"
+    di "Huuiiih!" with vpunch
 
-# game/game/script.rpy:7262
+# game/game/script.rpy:7268
 translate ukrainian magic_store_2241f004:
 
     # ir "Oh..."
     ir "Oh..."
 
-# game/game/script.rpy:7263
+# game/game/script.rpy:7269
 translate ukrainian magic_store_03fb3e88_1:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:7265
+# game/game/script.rpy:7271
 translate ukrainian magic_store_4f7014a2:
 
     # di "We are under attack!"
-    di "We are under attack!"
+    di "We are under attack!" with hpunch
 
-# game/game/script.rpy:7266
+# game/game/script.rpy:7272
 translate ukrainian magic_store_63a82a22:
 
     # mc "Oh, it's Diana."
     mc "Oh, it's Diana."
 
-# game/game/script.rpy:7267
+# game/game/script.rpy:7273
 translate ukrainian magic_store_363020be:
 
     # ir "Sensei, it's all right, {s}the test subject{/s} [mc] was waiting for you."
     ir "Sensei, it's all right, {s}the test subject{/s} [mc] was waiting for you."
 
-# game/game/script.rpy:7269
+# game/game/script.rpy:7275
 translate ukrainian magic_store_76cb27e7:
 
     # mc "Did you say something?"
-    mc "Did you say something?"
+    mc "Did you say something?" (multiple=2)
 
-# game/game/script.rpy:7270
+# game/game/script.rpy:7276
 translate ukrainian magic_store_e1936794:
 
     # ir "No."
-    ir "No."
+    ir "No." (multiple=3)
 
-# game/game/script.rpy:7271
+# game/game/script.rpy:7277
 translate ukrainian magic_store_be4e3e61:
 
     # di "[mc]?"
     di "[mc]?"
 
-# game/game/script.rpy:7273
+# game/game/script.rpy:7279
 translate ukrainian magic_store_f34fae2d:
 
     # di "W-What are you d-doing here?"
     di "W-What are you d-doing here?"
 
-# game/game/script.rpy:7274
+# game/game/script.rpy:7280
 translate ukrainian magic_store_c33b515c:
 
     # mc "Err..."
     mc "Err..."
 
-# game/game/script.rpy:7275
+# game/game/script.rpy:7281
 translate ukrainian magic_store_63f09f5f:
 
     # ir "Well, {w}our first job since we closed the store arrived at our doorstep."
     ir "Well, {w}our first job since we closed the store arrived at our doorstep."
 
-# game/game/script.rpy:7276
+# game/game/script.rpy:7282
 translate ukrainian magic_store_f3206670:
 
     # di "A job?"
     di "A job?"
 
-# game/game/script.rpy:7278
+# game/game/script.rpy:7284
 translate ukrainian magic_store_7808e553:
 
     # mc "Yeah wel-"
-    mc "Yeah wel-"
+    mc "Yeah wel-" (multiple=2)
 
-# game/game/script.rpy:7279
+# game/game/script.rpy:7285
 translate ukrainian magic_store_c293b060:
 
     # di "{size=-6}{i}Aaah ahh..."
-    di "{size=-6}{i}Aaah ahh..."
+    di "{size=-6}{i}Aaah ahh..." with vpunch
 
-# game/game/script.rpy:7280
+# game/game/script.rpy:7286
 translate ukrainian magic_store_fa8f7fa2:
 
     # ir "{size=-6}{i}Interesting..."
-    ir "{size=-6}{i}Interesting..."
+    ir "{size=-6}{i}Interesting..." (multiple=3)
 
-# game/game/script.rpy:7281
+# game/game/script.rpy:7287
 translate ukrainian magic_store_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7282
+# game/game/script.rpy:7288
 translate ukrainian magic_store_7f06040d:
 
     # mc "Maybe it has to do with magic."
     mc "Maybe it has to do with magic."
 
-# game/game/script.rpy:7284
+# game/game/script.rpy:7290
 translate ukrainian magic_store_0742d7da:
 
     # di "Hmm?"
     di "Hmm?"
 
-# game/game/script.rpy:7285
+# game/game/script.rpy:7291
 translate ukrainian magic_store_b2885b8e:
 
     # t "When will I be able to have a conversation without having to use the \"magic\" word...?"
     t "When will I be able to have a conversation without having to use the \"magic\" word...?"
 
-# game/game/script.rpy:7287
+# game/game/script.rpy:7293
 translate ukrainian magic_store_78f142ab:
 
     # mc "Can you give me a few minutes of your time?"
     mc "Can you give me a few minutes of your time?"
 
-# game/game/script.rpy:7288
+# game/game/script.rpy:7294
 translate ukrainian magic_store_050f3ab5:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7289
+# game/game/script.rpy:7295
 translate ukrainian magic_store_3bf4dad9:
 
     # ir "Yes, we will both listen to you."
     ir "Yes, we will both listen to you."
 
-# game/game/script.rpy:7291
+# game/game/script.rpy:7297
 translate ukrainian magic_store_7f215df9:
 
     # mc "Where to start..."
     mc "Where to start..."
 
-# game/game/script.rpy:7292
+# game/game/script.rpy:7298
 translate ukrainian magic_store_0a887932:
 
     # ir "Just think of it as walking into any other store."
     ir "Just think of it as walking into any other store."
 
-# game/game/script.rpy:7293
+# game/game/script.rpy:7299
 translate ukrainian magic_store_050f3ab5_1:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7294
+# game/game/script.rpy:7300
 translate ukrainian magic_store_808cf84e:
 
     # mc "You are right."
     mc "You are right."
 
-# game/game/script.rpy:7295
+# game/game/script.rpy:7301
 translate ukrainian magic_store_2a12b48b:
 
     # mc "I need clothes, in which I can go unnoticed."
     mc "I need clothes, in which I can go unnoticed."
 
-# game/game/script.rpy:7297
+# game/game/script.rpy:7303
 translate ukrainian magic_store_3a59e96f:
 
     # mc "A cape or a mask."
     mc "A cape or a mask."
 
-# game/game/script.rpy:7298
+# game/game/script.rpy:7304
 translate ukrainian magic_store_eb38fee2:
 
     # di "A m-mask? {w}Why do y-you want to h-hide your face?"
     di "A m-mask? {w}Why do y-you want to h-hide your face?"
 
-# game/game/script.rpy:7299
+# game/game/script.rpy:7305
 translate ukrainian magic_store_4b5fc62b:
 
     # ir "Why do you ask him that, Sensei? {w}Do you find his face handsome and feel it's a waste for him to hide it?"
     ir "Why do you ask him that, Sensei? {w}Do you find his face handsome and feel it's a waste for him to hide it?"
 
-# game/game/script.rpy:7301
+# game/game/script.rpy:7307
 translate ukrainian magic_store_a6f7c9c6:
 
     # di "N-No! I am n-not interested in his face!"
-    di "N-No! I am n-not interested in his face!"
+    di "N-No! I am n-not interested in his face!" with hpunch
 
-# game/game/script.rpy:7302
+# game/game/script.rpy:7308
 translate ukrainian magic_store_cb7c744a:
 
     # ir "{i}{size=-6}Hmmn..."
     ir "{i}{size=-6}Hmmn..."
 
-# game/game/script.rpy:7303
+# game/game/script.rpy:7309
 translate ukrainian magic_store_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7305
+# game/game/script.rpy:7311
 translate ukrainian magic_store_7cc42106:
 
     # di "Y-You don't plan to do b-bad things, do you?"
     di "Y-You don't plan to do b-bad things, do you?"
 
-# game/game/script.rpy:7306
+# game/game/script.rpy:7312
 translate ukrainian magic_store_65cc93d0:
 
     # mc "Well... let's say I've already done them."
     mc "Well... let's say I've already done them."
 
-# game/game/script.rpy:7308
+# game/game/script.rpy:7314
 translate ukrainian magic_store_135fed52:
 
     # di "W-What!?"
-    di "W-What!?"
+    di "W-What!?" with hpunch
 
-# game/game/script.rpy:7311
+# game/game/script.rpy:7317
 translate ukrainian magic_store_8eea8021:
 
     # di "I-Iris! {w}He is a c-criminal! Kikikick him out!"
-    di "I-Iris! {w}He is a c-criminal! Kikikick him out!"
+    di "I-Iris! {w}He is a c-criminal! Kikikick him out!" with hpunch
 
-# game/game/script.rpy:7312
+# game/game/script.rpy:7318
 translate ukrainian magic_store_60310329:
 
     # ir "Calm down Sensei."
     ir "Calm down Sensei."
 
-# game/game/script.rpy:7314
+# game/game/script.rpy:7320
 translate ukrainian magic_store_73ba0d25:
 
     # ir "I see, {w}the queen has already put you on wanted?"
     ir "I see, {w}the queen has already put you on wanted?"
 
-# game/game/script.rpy:7315
+# game/game/script.rpy:7321
 translate ukrainian magic_store_db09f355:
 
     # mc "Ah- {w}yes... you figured it out right away..."
     mc "Ah- {w}yes... you figured it out right away..."
 
-# game/game/script.rpy:7317
+# game/game/script.rpy:7323
 translate ukrainian magic_store_60769149:
 
     # di "Is he wanted?"
     di "Is he wanted?"
 
-# game/game/script.rpy:7318
+# game/game/script.rpy:7324
 translate ukrainian magic_store_2729e2e6:
 
     # ir "Yes, it seems that our client already has a bounty on his head."
     ir "Yes, it seems that our client already has a bounty on his head."
 
-# game/game/script.rpy:7320
+# game/game/script.rpy:7326
 translate ukrainian magic_store_941ff32d:
 
     # di "F-Fofofor his head!? {w}Iris! He is dangerous, kick him o-!"
-    di "F-Fofofor his head!? {w}Iris! He is dangerous, kick him o-!"
+    di "F-Fofofor his head!? {w}Iris! He is dangerous, kick him o-!" with hpunch
 
-# game/game/script.rpy:7325
+# game/game/script.rpy:7331
 translate ukrainian magic_store_da9cfbb2:
 
     # di "{i}{size=-6}Aw-"
     di "{i}{size=-6}Aw-"
 
-# game/game/script.rpy:7326
+# game/game/script.rpy:7332
 translate ukrainian magic_store_60310329_1:
 
     # ir "Calm down Sensei."
     ir "Calm down Sensei."
 
-# game/game/script.rpy:7328
+# game/game/script.rpy:7334
 translate ukrainian magic_store_a039cf5e:
 
     # ir "It is not good to treat customers like that, {w}especially when it is thanks to him that we will be able to re-open this store."
     ir "It is not good to treat customers like that, {w}especially when it is thanks to him that we will be able to re-open this store."
 
-# game/game/script.rpy:7329
+# game/game/script.rpy:7335
 translate ukrainian magic_store_7032da0d_1:
 
     # mc "Iris..."
     mc "Iris..."
 
-# game/game/script.rpy:7330
+# game/game/script.rpy:7336
 translate ukrainian magic_store_4746382d:
 
     # ir "{size=-6}{i}And I still can't get any samples from him."
     ir "{size=-6}{i}And I still can't get any samples from him."
 
-# game/game/script.rpy:7331
+# game/game/script.rpy:7337
 translate ukrainian magic_store_49ad1099:
 
     # mc "{i}{size=-6}Iris..."
     mc "{i}{size=-6}Iris..."
 
-# game/game/script.rpy:7332
+# game/game/script.rpy:7338
 translate ukrainian magic_store_050f3ab5_2:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7334
+# game/game/script.rpy:7340
 translate ukrainian magic_store_80aa7e39:
 
     # di "{size=-6}{i}Sorry..."
     di "{size=-6}{i}Sorry..."
 
-# game/game/script.rpy:7335
+# game/game/script.rpy:7341
 translate ukrainian magic_store_dff26075:
 
     # mc "Don't worry, I know I endanger everyone by walking around here showing my face."
     mc "Don't worry, I know I endanger everyone by walking around here showing my face."
 
-# game/game/script.rpy:7337
+# game/game/script.rpy:7343
 translate ukrainian magic_store_229c39e8:
 
     # mc "And you are the only ones I know who could help me with this."
     mc "And you are the only ones I know who could help me with this."
 
-# game/game/script.rpy:7338
+# game/game/script.rpy:7344
 translate ukrainian magic_store_9b43aa40:
 
     # mc "I didn't want to talk to Alice so you can say whether to help me or not."
     mc "I didn't want to talk to Alice so you can say whether to help me or not."
 
-# game/game/script.rpy:7339
+# game/game/script.rpy:7345
 translate ukrainian magic_store_050f3ab5_3:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7341
+# game/game/script.rpy:7347
 translate ukrainian magic_store_25ec80d6_5:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7342
+# game/game/script.rpy:7348
 translate ukrainian magic_store_050f3ab5_4:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7344
+# game/game/script.rpy:7350
 translate ukrainian magic_store_25ec80d6_6:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7345
+# game/game/script.rpy:7351
 translate ukrainian magic_store_9a9608f6:
 
     # di "...!"
     di "...!"
 
-# game/game/script.rpy:7347
+# game/game/script.rpy:7353
 translate ukrainian magic_store_f687d897:
 
     # di "{size=-6}{i}Inhale~"
     di "{size=-6}{i}Inhale~"
 
-# game/game/script.rpy:7348
+# game/game/script.rpy:7354
 translate ukrainian magic_store_c76f09c5:
 
     # t "Eh? W-What is she doing?"
     t "Eh? W-What is she doing?"
 
-# game/game/script.rpy:7349
+# game/game/script.rpy:7355
 translate ukrainian magic_store_9a4db955:
 
     # di "{size=-6}{i}Inhaaale~"
     di "{size=-6}{i}Inhaaale~"
 
-# game/game/script.rpy:7351
+# game/game/script.rpy:7357
 translate ukrainian magic_store_15c8b647:
 
     # di "I w-willhelp youin any wayIca-"
-    di "I w-willhelp youin any wayIca-"
+    di "I w-willhelp youin any wayIca-" with hpunch
 
-# game/game/script.rpy:7354
+# game/game/script.rpy:7360
 translate ukrainian magic_store_cab1c5a1:
 
     # di "{size=-6}{i}Agw...~"
     di "{size=-6}{i}Agw...~"
 
-# game/game/script.rpy:7355
+# game/game/script.rpy:7361
 translate ukrainian magic_store_b2f2b1d7:
 
     # t "She bit her tongue..."
     t "She bit her tongue..."
 
-# game/game/script.rpy:7356
+# game/game/script.rpy:7362
 translate ukrainian magic_store_e7d5bf50:
 
     # mc "Wait, {w}really?"
     mc "Wait, {w}really?"
 
-# game/game/script.rpy:7358
+# game/game/script.rpy:7364
 translate ukrainian magic_store_352fd04d:
 
     # di "{size=-6}Uhm."
     di "{size=-6}Uhm."
 
-# game/game/script.rpy:7359
+# game/game/script.rpy:7365
 translate ukrainian magic_store_f709e35a:
 
     # mc "Thank you Diana!"
-    mc "Thank you Diana!"
+    mc "Thank you Diana!" with hpunch
 
-# game/game/script.rpy:7360
+# game/game/script.rpy:7366
 translate ukrainian magic_store_f043fd75:
 
     # ir "Perfect."
     ir "Perfect."
 
-# game/game/script.rpy:7362
+# game/game/script.rpy:7368
 translate ukrainian magic_store_0c444971:
 
     # ir "I need to take all your measurements."
     ir "I need to take all your measurements."
 
-# game/game/script.rpy:7363
+# game/game/script.rpy:7369
 translate ukrainian magic_store_ccc8046b:
 
     # mc "Ah... {w}sure."
     mc "Ah... {w}sure."
 
-# game/game/script.rpy:7364
+# game/game/script.rpy:7370
 translate ukrainian magic_store_2ec9145d:
 
     # ir "Take it out."
     ir "Take it out."
 
-# game/game/script.rpy:7365
+# game/game/script.rpy:7371
 translate ukrainian magic_store_11455b53_1:
 
     # mc "What?"
     mc "What?"
 
-# game/game/script.rpy:7367
+# game/game/script.rpy:7373
 translate ukrainian magic_store_dc99ae06:
 
     # ir "I said, {w}get up."
     ir "I said, {w}get up."
 
-# game/game/script.rpy:7368
+# game/game/script.rpy:7374
 translate ukrainian magic_store_93deaf69:
 
     # mc "Ah..."
     mc "Ah..."
 
-# game/game/script.rpy:7369
+# game/game/script.rpy:7375
 translate ukrainian magic_store_9601fffc:
 
     # di "Did you m-mention that you h-have to go unnoticed?"
     di "Did you m-mention that you h-have to go unnoticed?"
 
-# game/game/script.rpy:7371
+# game/game/script.rpy:7377
 translate ukrainian magic_store_5d856f72:
 
     # ir "{size=-6}Hmm..."
     ir "{size=-6}Hmm..."
 
-# game/game/script.rpy:7372
+# game/game/script.rpy:7378
 translate ukrainian magic_store_d637f2a6:
 
     # mc "Yes... {w}in fact, I need to enter the western kingdom without being seen."
     mc "Yes... {w}in fact, I need to enter the western kingdom without being seen."
 
-# game/game/script.rpy:7374
+# game/game/script.rpy:7380
 translate ukrainian magic_store_98247a19:
 
     # di "W-What?"
     di "W-What?"
 
-# game/game/script.rpy:7375
+# game/game/script.rpy:7381
 translate ukrainian magic_store_026503b9:
 
     # ir "Huh."
     ir "Huh."
 
-# game/game/script.rpy:7376
+# game/game/script.rpy:7382
 translate ukrainian magic_store_b65e9acb:
 
     # di "A-Are you... {w}crazy?"
     di "A-Are you... {w}crazy?"
 
-# game/game/script.rpy:7378
+# game/game/script.rpy:7384
 translate ukrainian magic_store_e5d87626:
 
     # ir "Sensei, we are in the business of accepting jobs, not judging clients' reasons."
     ir "Sensei, we are in the business of accepting jobs, not judging clients' reasons."
 
-# game/game/script.rpy:7379
+# game/game/script.rpy:7385
 translate ukrainian magic_store_f63d00b8:
 
     # di "{size=-6}Y-You're right... {w}I s-should be more professional."
     di "{size=-6}Y-You're right... {w}I s-should be more professional."
 
-# game/game/script.rpy:7380
+# game/game/script.rpy:7386
 translate ukrainian magic_store_25ec80d6_7:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7382
+# game/game/script.rpy:7388
 translate ukrainian magic_store_09115421:
 
     # ir "Why are you going to do that stupid crazy thing?"
     ir "Why are you going to do that stupid crazy thing?"
 
-# game/game/script.rpy:7383
+# game/game/script.rpy:7389
 translate ukrainian magic_store_91cc8318:
 
     # mc "Oi."
     mc "Oi."
 
-# game/game/script.rpy:7384
+# game/game/script.rpy:7390
 translate ukrainian magic_store_b01a34ff:
 
     # ir "Well, it doesn't matter."
     ir "Well, it doesn't matter."
 
-# game/game/script.rpy:7386
+# game/game/script.rpy:7392
 translate ukrainian magic_store_6fbfbbfb:
 
     # mc "I would like a simple mask that I can put on when I need it."
     mc "I would like a simple mask that I can put on when I need it."
 
-# game/game/script.rpy:7387
+# game/game/script.rpy:7393
 translate ukrainian magic_store_4c9b503e:
 
     # mc "It is not necessary for it to cover my entire face, the more subtle the better."
     mc "It is not necessary for it to cover my entire face, the more subtle the better."
 
-# game/game/script.rpy:7389
+# game/game/script.rpy:7395
 translate ukrainian magic_store_c39b1b2a:
 
     # ir "Sensei, already thinking about how you will do it?"
     ir "Sensei, already thinking about how you will do it?"
 
-# game/game/script.rpy:7390
+# game/game/script.rpy:7396
 translate ukrainian magic_store_7a13ed0e:
 
     # di "Using the same fabric with which I made my cape, I could make one that instead of increasing the magic recovery, it decreases it to make you imperceptible..."
     di "Using the same fabric with which I made my cape, I could make one that instead of increasing the magic recovery, it decreases it to make you imperceptible..."
 
-# game/game/script.rpy:7392
+# game/game/script.rpy:7398
 translate ukrainian magic_store_408e51eb:
 
     # di "Yes, using the correct magic circles I could... hnm... {size=-6}{i}murmur~ murmur~"
     di "Yes, using the correct magic circles I could... hnm... {size=-6}{i}murmur~ murmur~"
 
-# game/game/script.rpy:7393
+# game/game/script.rpy:7399
 translate ukrainian magic_store_c52114eb:
 
     # t "Diana concentrating on her book is a completely different person."
     t "Diana concentrating on her book is a completely different person."
 
-# game/game/script.rpy:7394
+# game/game/script.rpy:7400
 translate ukrainian magic_store_5d856f72_1:
 
     # ir "{size=-6}Hmm..."
     ir "{size=-6}Hmm..."
 
-# game/game/script.rpy:7395
+# game/game/script.rpy:7401
 translate ukrainian magic_store_63f3633d:
 
     # t "I'm glad she decided to help me, I'll tell Charlotte that everything went well."
     t "I'm glad she decided to help me, I'll tell Charlotte that everything went well."
 
-# game/game/script.rpy:7396
+# game/game/script.rpy:7402
 translate ukrainian magic_store_bd7ce0c0:
 
     # di "{size=-6}{i}murmur~ murmur~"
     di "{size=-6}{i}murmur~ murmur~"
 
-# game/game/script.rpy:7398
+# game/game/script.rpy:7404
 translate ukrainian magic_store_e5db2dac:
 
     # ir "Sensei, we have a problem."
     ir "Sensei, we have a problem."
 
-# game/game/script.rpy:7399
+# game/game/script.rpy:7405
 translate ukrainian magic_store_384abcb2:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Mmm?" (multiple=2)
 
-# game/game/script.rpy:7400
+# game/game/script.rpy:7406
 translate ukrainian magic_store_4bdb6a28:
 
     # di "Uhm?"
-    di "Uhm?"
+    di "Uhm?" (multiple=2)
 
-# game/game/script.rpy:7402
+# game/game/script.rpy:7408
 translate ukrainian magic_store_a4e04f17:
 
     # ir "We're going to need a lot of material down here..."
     ir "We're going to need a lot of material down here..."
 
-# game/game/script.rpy:7403
+# game/game/script.rpy:7409
 translate ukrainian magic_store_fa502ae4:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with vpunch
 
-# game/game/script.rpy:7407
+# game/game/script.rpy:7413
 translate ukrainian magic_store_decfddb4:
 
     # di "AaaAah! I looked at it directly!"
-    di "AaaAah! I looked at it directly!"
+    di "AaaAah! I looked at it directly!" with hpunch
 
-# game/game/script.rpy:7408
+# game/game/script.rpy:7414
 translate ukrainian magic_store_5cc6ca38:
 
     # ir "{size=-6}This is a great discovery."
     ir "{size=-6}This is a great discovery."
 
-# game/game/script.rpy:7409
+# game/game/script.rpy:7415
 translate ukrainian magic_store_30b04a83:
 
     # mc "What happened to professionalism?!"
-    mc "What happened to professionalism?!"
+    mc "What happened to professionalism?!" with hpunch
 
-# game/game/script.rpy:7415
+# game/game/script.rpy:7421
 translate ukrainian magic_store_c461411f:
 
     # "{image=corazon}Diana's affection has increased to [diana_affection]{image=corazon}\n {image=corazon}Iris' affection has increased to [iris_affection]{image=corazon}"
     "{image=corazon}Diana's affection has increased to [diana_affection]{image=corazon}\n {image=corazon}Iris' affection has increased to [iris_affection]{image=corazon}"
 
-# game/game/script.rpy:7422
+# game/game/script.rpy:7428
 translate ukrainian magic_store_e0f731a2:
 
     # ir "Come in a few days, we will start working on it."
     ir "Come in a few days, we will start working on it."
 
-# game/game/script.rpy:7423
+# game/game/script.rpy:7429
 translate ukrainian magic_store_23045004:
 
     # ir "We will talk about money later."
     ir "We will talk about money later."
 
-# game/game/script.rpy:7425
+# game/game/script.rpy:7431
 translate ukrainian magic_store_2051d66a:
 
     # mc "Understood."
     mc "Understood."
 
-# game/game/script.rpy:7426
+# game/game/script.rpy:7432
 translate ukrainian magic_store_fb8bcfd1:
 
     # mc "See you later, {w}and again, thank you both."
     mc "See you later, {w}and again, thank you both."
 
-# game/game/script.rpy:7427
+# game/game/script.rpy:7433
 translate ukrainian magic_store_3cf9d3a6:
 
     # di "{size=-6}B-Bye..."
     di "{size=-6}B-Bye..."
 
-# game/game/script.rpy:7428
+# game/game/script.rpy:7434
 translate ukrainian magic_store_f572b93b:
 
     # ir "It's our job."
     ir "It's our job."
 
-# game/game/script.rpy:7431
+# game/game/script.rpy:7437
 translate ukrainian magic_store_baced37c:
 
     # ir "I haven't had the opportunity to talk with him that much."
     ir "I haven't had the opportunity to talk with him that much."
 
-# game/game/script.rpy:7432
+# game/game/script.rpy:7438
 translate ukrainian magic_store_c710ed51:
 
     # ir "He is a strangely nice person, especially since he told us something so important out of the blue and in the most carefree way."
     ir "He is a strangely nice person, especially since he told us something so important out of the blue and in the most carefree way."
 
-# game/game/script.rpy:7433
+# game/game/script.rpy:7439
 translate ukrainian magic_store_050f3ab5_5:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7435
+# game/game/script.rpy:7441
 translate ukrainian magic_store_46ecc4c9:
 
     # ir "What do you think Sensei?"
     ir "What do you think Sensei?"
 
-# game/game/script.rpy:7436
+# game/game/script.rpy:7442
 translate ukrainian magic_store_e232ac0c:
 
     # ir "{size=-6}Mmm...?"
     ir "{size=-6}Mmm...?"
 
-# game/game/script.rpy:7437
+# game/game/script.rpy:7443
 translate ukrainian magic_store_c75f8737:
 
     # ir "Sensei?"
     ir "Sensei?"
 
-# game/game/script.rpy:7439
+# game/game/script.rpy:7445
 translate ukrainian magic_store_050f3ab5_6:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7441
+# game/game/script.rpy:7447
 translate ukrainian magic_store_050f3ab5_7:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7443
+# game/game/script.rpy:7449
 translate ukrainian magic_store_91ab202c:
 
     # di "I think I'll go p-put up the s-store sign now..."
     di "I think I'll go p-put up the s-store sign now..."
 
-# game/game/script.rpy:7444
+# game/game/script.rpy:7450
 translate ukrainian magic_store_25ec80d6_8:
 
     # ir "..."
     ir "..."
 
-# game/game/script.rpy:7445
+# game/game/script.rpy:7451
 translate ukrainian magic_store_9c739e42:
 
     # ir "Sounds good to me."
     ir "Sounds good to me."
 
-# game/game/script.rpy:7458
+# game/game/script.rpy:7464
 translate ukrainian new_clothes_623c1c05:
 
     # mc "Hello."
     mc "Hello."
 
-# game/game/script.rpy:7459
+# game/game/script.rpy:7465
 translate ukrainian new_clothes_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:7460
+# game/game/script.rpy:7466
 translate ukrainian new_clothes_117af0fb:
 
     # ir "Yees, come in."
-    ir "Yees, come in."
+    ir "Yees, come in." with vpunch
 
-# game/game/script.rpy:7465
+# game/game/script.rpy:7471
 translate ukrainian new_clothes_c6862b35:
 
     # mc "Hello, {w}I was told that-"
     mc "Hello, {w}I was told that-"
 
-# game/game/script.rpy:7467
+# game/game/script.rpy:7473
 translate ukrainian new_clothes_0f89dbe2:
 
     # di "{size=-6}Ghn!"
-    di "{size=-6}Ghn!"
+    di "{size=-6}Ghn!" (multiple=2)
 
-# game/game/script.rpy:7468
+# game/game/script.rpy:7474
 translate ukrainian new_clothes_7c2edbd4:
 
     # mc "Ah-"
     mc "Ah-"
 
-# game/game/script.rpy:7469
+# game/game/script.rpy:7475
 translate ukrainian new_clothes_1ed250a6:
 
     # mc "Diana?"
     mc "Diana?"
 
-# game/game/script.rpy:7472
+# game/game/script.rpy:7478
 translate ukrainian new_clothes_ccc92285:
 
     # di "{size=-6}Hhnm..."
     di "{size=-6}Hhnm..."
 
-# game/game/script.rpy:7473
+# game/game/script.rpy:7479
 translate ukrainian new_clothes_fb2e5377:
 
     # mc "Eh?"
     mc "Eh?"
 
-# game/game/script.rpy:7474
+# game/game/script.rpy:7480
 translate ukrainian new_clothes_56f09ab9:
 
     # ir "[mc]."
     ir "[mc]."
 
-# game/game/script.rpy:7476
+# game/game/script.rpy:7482
 translate ukrainian new_clothes_29355945:
 
     # mc "Y-Yes?"
     mc "Y-Yes?"
 
-# game/game/script.rpy:7477
+# game/game/script.rpy:7483
 translate ukrainian new_clothes_3eb54835:
 
     # ir "It was Miss Diana who looked for you and told you to come, {w}right?"
     ir "It was Miss Diana who looked for you and told you to come, {w}right?"
 
-# game/game/script.rpy:7479
+# game/game/script.rpy:7485
 translate ukrainian new_clothes_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/game/script.rpy:7480
+# game/game/script.rpy:7486
 translate ukrainian new_clothes_2045bddc:
 
     # di "...!"
-    di "...!"
+    di "...!" with vpunch
 
-# game/game/script.rpy:7481
+# game/game/script.rpy:7487
 translate ukrainian new_clothes_13296513:
 
     # ir "Tell me, was it her?"
     ir "Tell me, was it her?"
 
-# game/game/script.rpy:7482
+# game/game/script.rpy:7488
 translate ukrainian new_clothes_12c05ea6:
 
     # mc "Yes, I met her and she told me to come here."
     mc "Yes, I met her and she told me to come here."
 
-# game/game/script.rpy:7484
+# game/game/script.rpy:7490
 translate ukrainian new_clothes_7dc39147:
 
     # di ".....~"
     di ".....~"
 
-# game/game/script.rpy:7485
+# game/game/script.rpy:7491
 translate ukrainian new_clothes_de60ff32:
 
     # t "With a cute face like that, {w}I couldn't help but play along..."
     t "With a cute face like that, {w}I couldn't help but play along..."
 
-# game/game/script.rpy:7486
+# game/game/script.rpy:7492
 translate ukrainian new_clothes_bcee2deb:
 
     # ir "I see."
     ir "I see."
 
-# game/game/script.rpy:7489
+# game/game/script.rpy:7495
 translate ukrainian new_clothes_331f8674:
 
     # ir "{b}Because."
     ir "{b}Because."
 
-# game/game/script.rpy:7494
+# game/game/script.rpy:7500
 translate ukrainian new_clothes_c3c12385:
 
     # ir "{b}If not, she will have to be punished."
     ir "{b}If not, she will have to be punished."
 
-# game/game/script.rpy:7495
+# game/game/script.rpy:7501
 translate ukrainian new_clothes_1581cf3c:
 
     # di "Huuhii!"
-    di "Huuhii!"
+    di "Huuhii!" with vpunch
 
-# game/game/script.rpy:7496
+# game/game/script.rpy:7502
 translate ukrainian new_clothes_e85e5b67:
 
     # t "W-What kind of punishment?"
     t "W-What kind of punishment?"
 
-# game/game/script.rpy:7497
+# game/game/script.rpy:7503
 translate ukrainian new_clothes_fb7e1b4c:
 
     # mc "D-Don't worry, {w}she told me to come, {w}I was even surprised to see her."
     mc "D-Don't worry, {w}she told me to come, {w}I was even surprised to see her."
 
-# game/game/script.rpy:7498
+# game/game/script.rpy:7504
 translate ukrainian new_clothes_c0758e54:
 
     # ir "{size=-6}{i}Sigh~"
     ir "{size=-6}{i}Sigh~"
 
-# game/game/script.rpy:7503
+# game/game/script.rpy:7509
 translate ukrainian new_clothes_8298ed64:
 
     # ir "Okay, I won't ask any more questions this time."
     ir "Okay, I won't ask any more questions this time."
 
-# game/game/script.rpy:7504
+# game/game/script.rpy:7510
 translate ukrainian new_clothes_eb9da6a2:
 
     # ir "Let's get down to business."
     ir "Let's get down to business."
 
-# game/game/script.rpy:7505
+# game/game/script.rpy:7511
 translate ukrainian new_clothes_89d2dfab:
 
     # ir "Sensei, please explain to him."
     ir "Sensei, please explain to him."
 
-# game/game/script.rpy:7507
+# game/game/script.rpy:7513
 translate ukrainian new_clothes_c5fa050f:
 
     # di "{size=-6}Ehm... {w}uhmm..."
     di "{size=-6}Ehm... {w}uhmm..."
 
-# game/game/script.rpy:7508
+# game/game/script.rpy:7514
 translate ukrainian new_clothes_c0b7a27c:
 
     # di "Y-Your clothes are a-almost ready..."
     di "Y-Your clothes are a-almost ready..."
 
-# game/game/script.rpy:7509
+# game/game/script.rpy:7515
 translate ukrainian new_clothes_fb1e1ea9:
 
     # mc "Clothes?"
     mc "Clothes?"
 
-# game/game/script.rpy:7510
+# game/game/script.rpy:7516
 translate ukrainian new_clothes_45155b5b:
 
     # mc "But I only asked for a cape."
     mc "But I only asked for a cape."
 
-# game/game/script.rpy:7512
+# game/game/script.rpy:7518
 translate ukrainian new_clothes_729bf8cf:
 
     # di "Yes... {w}well..."
     di "Yes... {w}well..."
 
-# game/game/script.rpy:7513
+# game/game/script.rpy:7519
 translate ukrainian new_clothes_44bb45da:
 
     # ir "Do you really think a cape will help you not to be recognized by your clothes?"
     ir "Do you really think a cape will help you not to be recognized by your clothes?"
 
-# game/game/script.rpy:7514
+# game/game/script.rpy:7520
 translate ukrainian new_clothes_74c0a505:
 
     # mc "You are right..."
     mc "You are right..."
 
-# game/game/script.rpy:7516
+# game/game/script.rpy:7522
 translate ukrainian new_clothes_0bde58dc:
 
     # ir "We just need you to try it on to start adding the magic circles."
     ir "We just need you to try it on to start adding the magic circles."
 
-# game/game/script.rpy:7517
+# game/game/script.rpy:7523
 translate ukrainian new_clothes_c49b1fb9:
 
     # mc "All right."
     mc "All right."
 
-# game/game/script.rpy:7519
+# game/game/script.rpy:7525
 translate ukrainian new_clothes_e63f9cd3:
 
     # di "H-Here is the cape, give m-me a second to b-bring you the rest."
     di "H-Here is the cape, give m-me a second to b-bring you the rest."
 
-# game/game/script.rpy:7520
+# game/game/script.rpy:7526
 translate ukrainian new_clothes_9b34dee1:
 
     # t "Diana is calmer than usual, is it because this has to do with what she likes?"
     t "Diana is calmer than usual, is it because this has to do with what she likes?"
 
-# game/game/script.rpy:7521
+# game/game/script.rpy:7527
 translate ukrainian new_clothes_dda39b18:
 
     # mc "And where do I change?"
     mc "And where do I change?"
 
-# game/game/script.rpy:7523
+# game/game/script.rpy:7529
 translate ukrainian new_clothes_b7c37c2d:
 
     # ir "Right here, get naked."
     ir "Right here, get naked."
 
-# game/game/script.rpy:7525
+# game/game/script.rpy:7531
 translate ukrainian new_clothes_654a3e4d:
 
     # di "W-WW-What?!"
-    di "W-WW-What?!"
+    di "W-WW-What?!" (multiple=2)
 
-# game/game/script.rpy:7526
+# game/game/script.rpy:7532
 translate ukrainian new_clothes_b5f3604a:
 
     # mc "What!?"
-    mc "What!?"
+    mc "What!?" (multiple=2)
 
-# game/game/script.rpy:7527
+# game/game/script.rpy:7533
 translate ukrainian new_clothes_77d375b3:
 
     # ir "Just kidding, {w}there is a dressing room down the hall to the right."
     ir "Just kidding, {w}there is a dressing room down the hall to the right."
 
-# game/game/script.rpy:7529
+# game/game/script.rpy:7535
 translate ukrainian new_clothes_6a27fdd5:
 
     # mc "Ah, I see..."
     mc "Ah, I see..."
 
-# game/game/script.rpy:7530
+# game/game/script.rpy:7536
 translate ukrainian new_clothes_108f3ecc:
 
     # ir "{size=-6}But next time I will look."
     ir "{size=-6}But next time I will look."
 
-# game/game/script.rpy:7532
+# game/game/script.rpy:7538
 translate ukrainian new_clothes_f1c9a40f:
 
     # ir "What?"
-    ir "What?"
+    ir "What?" (multiple=2)
 
-# game/game/script.rpy:7533
+# game/game/script.rpy:7539
 translate ukrainian new_clothes_3d6409e6:
 
     # mc "What?"
-    mc "What?"
+    mc "What?" (multiple=2)
 
-# game/game/script.rpy:7538
+# game/game/script.rpy:7544
 translate ukrainian new_clothes_698d7569:
 
     # mc "Wow."
     mc "Wow."
 
-# game/game/script.rpy:7540
+# game/game/script.rpy:7546
 translate ukrainian new_clothes_f145338d:
 
     # t "I feel strange wearing different clothes."
     t "I feel strange wearing different clothes."
 
-# game/game/script.rpy:7541
+# game/game/script.rpy:7547
 translate ukrainian new_clothes_fd66d13b:
 
     # t "Since I came into this world I have used the same thing every day."
     t "Since I came into this world I have used the same thing every day."
 
-# game/game/script.rpy:7542
+# game/game/script.rpy:7548
 translate ukrainian new_clothes_630edcfd:
 
     # t "Ryoko washes my clothes every day because of that..."
     t "Ryoko washes my clothes every day because of that..."
 
-# game/game/script.rpy:7544
+# game/game/script.rpy:7550
 translate ukrainian new_clothes_afd74152:
 
     # mc "What do you think?"
     mc "What do you think?"
 
-# game/game/script.rpy:7545
+# game/game/script.rpy:7551
 translate ukrainian new_clothes_d86da528:
 
     # ir "What do you mean? {w}You tell us if it feels comfortable or if it feels tight in any part."
     ir "What do you mean? {w}You tell us if it feels comfortable or if it feels tight in any part."
 
-# game/game/script.rpy:7547
+# game/game/script.rpy:7553
 translate ukrainian new_clothes_f2316b97:
 
     # mc "Ah."
     mc "Ah."
 
-# game/game/script.rpy:7548
+# game/game/script.rpy:7554
 translate ukrainian new_clothes_ab5dbf27:
 
     # di "{size=-6}Hahaha~"
     di "{size=-6}Hahaha~"
 
-# game/game/script.rpy:7549
+# game/game/script.rpy:7555
 translate ukrainian new_clothes_0519ad23:
 
     # mc "Everything fits perfectly."
     mc "Everything fits perfectly."
 
-# game/game/script.rpy:7550
+# game/game/script.rpy:7556
 translate ukrainian new_clothes_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7552
+# game/game/script.rpy:7558
 translate ukrainian new_clothes_6df63403:
 
     # mc "Except for..."
     mc "Except for..."
 
-# game/game/script.rpy:7553
+# game/game/script.rpy:7559
 translate ukrainian new_clothes_1087bf7e:
 
     # ir "Hmm?"
     ir "Hmm?"
 
-# game/game/script.rpy:7555
+# game/game/script.rpy:7561
 translate ukrainian new_clothes_4fb0699a:
 
     # mc "It's a little tight in the... {w}crotch..."
     mc "It's a little tight in the... {w}crotch..."
 
-# game/game/script.rpy:7556
+# game/game/script.rpy:7562
 translate ukrainian new_clothes_0764c615:
 
     # ir "..."
-    ir "..."
+    ir "..." (multiple=2)
 
-# game/game/script.rpy:7557
+# game/game/script.rpy:7563
 translate ukrainian new_clothes_10f23bf7:
 
     # di "..."
-    di "..."
+    di "..." (multiple=2)
 
-# game/game/script.rpy:7560
+# game/game/script.rpy:7566
 translate ukrainian new_clothes_5c906edd:
 
     # di "Hiaaah! I looked directly at it again!"
-    di "Hiaaah! I looked directly at it again!"
+    di "Hiaaah! I looked directly at it again!" with vpunch
 
-# game/game/script.rpy:7561
+# game/game/script.rpy:7567
 translate ukrainian new_clothes_ff14c723:
 
     # ir "I swore I did the calculations right."
     ir "I swore I did the calculations right."
 
-# game/game/script.rpy:7563
+# game/game/script.rpy:7569
 translate ukrainian new_clothes_18360809:
 
     # ir "{size=-6}Did I just make a mistake? Impossible."
     ir "{size=-6}Did I just make a mistake? Impossible."
 
-# game/game/script.rpy:7564
+# game/game/script.rpy:7570
 translate ukrainian new_clothes_246930e5:
 
     # mc "Eeeh-"
     mc "Eeeh-"
 
-# game/game/script.rpy:7566
+# game/game/script.rpy:7572
 translate ukrainian new_clothes_fb22b1cb:
 
     # di "I-I-II-Iris!!!"
-    di "I-I-II-Iris!!!"
+    di "I-I-II-Iris!!!" (multiple=2)
 
-# game/game/script.rpy:7568
+# game/game/script.rpy:7574
 translate ukrainian new_clothes_afdc59db:
 
     # ir "I need to look at it, {w}touch it, {w}feel it!"
-    ir "I need to look at it, {w}touch it, {w}feel it!"
+    ir "I need to look at it, {w}touch it, {w}feel it!" with vpunch
 
-# game/game/script.rpy:7569
+# game/game/script.rpy:7575
 translate ukrainian new_clothes_911da589:
 
     # mc "Calm down! It's just a little tight!"
     mc "Calm down! It's just a little tight!"
 
-# game/game/script.rpy:7572
+# game/game/script.rpy:7578
 translate ukrainian new_clothes_08ca3d90:
 
     # ir "Show me!"
-    ir "Show me!"
+    ir "Show me!" with hpunch
 
-# game/game/script.rpy:7573
+# game/game/script.rpy:7579
 translate ukrainian new_clothes_62fca25c:
 
     # ir "I didn't make a mistake on purpose just so you don't want to show it!"
     ir "I didn't make a mistake on purpose just so you don't want to show it!"
 
-# game/game/script.rpy:7575
+# game/game/script.rpy:7581
 translate ukrainian new_clothes_7367e779:
 
     # ir "Ah-"
     ir "Ah-"
 
-# game/game/script.rpy:7576
+# game/game/script.rpy:7582
 translate ukrainian new_clothes_7866132a:
 
     # mc "Eh? {w}What did you say?"
     mc "Eh? {w}What did you say?"
 
-# game/game/script.rpy:7577
+# game/game/script.rpy:7583
 translate ukrainian new_clothes_050f3ab5:
 
     # di "..."
     di "..."
 
-# game/game/script.rpy:7579
+# game/game/script.rpy:7585
 translate ukrainian new_clothes_f28cc044:
 
     # ir "{size=-6}Tsk*"
     ir "{size=-6}Tsk*"
 
-# game/game/script.rpy:7580
+# game/game/script.rpy:7586
 translate ukrainian new_clothes_0d3b15b6:
 
     # ir "You can go and change."
     ir "You can go and change."
 
-# game/game/script.rpy:7581
+# game/game/script.rpy:7587
 translate ukrainian new_clothes_3350daba:
 
     # mc "{size=-6}Oi."
     mc "{size=-6}Oi."
 
-# game/game/script.rpy:7583
+# game/game/script.rpy:7589
 translate ukrainian new_clothes_d585a48c:
 
     # ir "We will start working on the magic circles."
     ir "We will start working on the magic circles."
 
-# game/game/script.rpy:7585
+# game/game/script.rpy:7591
 translate ukrainian new_clothes_37cd429d:
 
     # mc "Oi!"
-    mc "Oi!"
+    mc "Oi!" with hpunch
 
-# game/game/script.rpy:7588
+# game/game/script.rpy:7594
 translate ukrainian new_clothes_c461411f:
 
     # "{image=corazon}Diana's affection has increased to [diana_affection]{image=corazon}\n {image=corazon}Iris' affection has increased to [iris_affection]{image=corazon}"
     "{image=corazon}Diana's affection has increased to [diana_affection]{image=corazon}\n {image=corazon}Iris' affection has increased to [iris_affection]{image=corazon}"
 
-# game/game/script.rpy:7593
+# game/game/script.rpy:7599
 translate ukrainian new_clothes_6f825c91:
 
     # ir "We will let you know when Diana finishes your mask."
     ir "We will let you know when Diana finishes your mask."
 
-# game/game/script.rpy:7594
+# game/game/script.rpy:7600
 translate ukrainian new_clothes_706d080e:
 
     # mc "{size=-6}{i}Sigh* {w}All right..."
     mc "{size=-6}{i}Sigh* {w}All right..."
 
-# game/game/script.rpy:7596
+# game/game/script.rpy:7602
 translate ukrainian new_clothes_e5b23631:
 
     # t "At least... I already have new clothes..."
     t "At least... I already have new clothes..."
 
-# game/game/script.rpy:7597
+# game/game/script.rpy:7603
 translate ukrainian new_clothes_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:7598
+# game/game/script.rpy:7604
 translate ukrainian new_clothes_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:7599
+# game/game/script.rpy:7605
 translate ukrainian new_clothes_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:7608
+# game/game/script.rpy:7614
 translate ukrainian is_time_leader_5ee032fb:
 
     # "{color=#FFFCA9}You got up early today."
     "{color=#FFFCA9}You got up early today."
 
-# game/game/script.rpy:7609
+# game/game/script.rpy:7615
 translate ukrainian is_time_leader_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:7611
+# game/game/script.rpy:7617
 translate ukrainian is_time_leader_4089c5cd:
 
     # mc "Yui, how are you?"
     mc "Yui, how are you?"
 
-# game/game/script.rpy:7612
+# game/game/script.rpy:7618
 translate ukrainian is_time_leader_501af68c:
 
     # y "Good~ {w=0.5}I'm eating something before starting my daily routine."
     y "Good~ {w=0.5}I'm eating something before starting my daily routine."
 
-# game/game/script.rpy:7613
+# game/game/script.rpy:7619
 translate ukrainian is_time_leader_c97d83e1:
 
     # mc "Daily routine? {w}So that's why I still don't get my good morning kisses?"
     mc "Daily routine? {w}So that's why I still don't get my good morning kisses?"
 
-# game/game/script.rpy:7615
+# game/game/script.rpy:7621
 translate ukrainian is_time_leader_589ea5d5:
 
     # y "{size=-6}K-Kis-"
-    y "{size=-6}K-Kis-"
+    y "{size=-6}K-Kis-" with vpunch
 
-# game/game/script.rpy:7617
+# game/game/script.rpy:7623
 translate ukrainian is_time_leader_bc296d80:
 
     # y "As if that were part of it, idiot."
     y "As if that were part of it, idiot."
 
-# game/game/script.rpy:7618
+# game/game/script.rpy:7624
 translate ukrainian is_time_leader_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:7619
+# game/game/script.rpy:7625
 translate ukrainian is_time_leader_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7620
+# game/game/script.rpy:7626
 translate ukrainian is_time_leader_2d678b94:
 
     # mc "By the way..."
     mc "By the way..."
 
-# game/game/script.rpy:7622
+# game/game/script.rpy:7628
 translate ukrainian is_time_leader_f8ad0eab:
 
     # mc "Do you know why the girls are looking at me more than usual?"
     mc "Do you know why the girls are looking at me more than usual?"
 
-# game/game/script.rpy:7624
+# game/game/script.rpy:7630
 translate ukrainian is_time_leader_0304dda3:
 
     # mc "I f-feel like I did something bad..."
     mc "I f-feel like I did something bad..."
 
-# game/game/script.rpy:7625
+# game/game/script.rpy:7631
 translate ukrainian is_time_leader_36a37c86:
 
     # y "Mmm? Ah, {w=0.5}maybe it's because they all already know."
     y "Mmm? Ah, {w=0.5}maybe it's because they all already know."
 
-# game/game/script.rpy:7626
+# game/game/script.rpy:7632
 translate ukrainian is_time_leader_10e077dd:
 
     # mc "They know what?"
     mc "They know what?"
 
-# game/game/script.rpy:7627
+# game/game/script.rpy:7633
 translate ukrainian is_time_leader_bd8739a3:
 
     # ak "[mc]?"
     ak "[mc]?"
 
-# game/game/script.rpy:7629
+# game/game/script.rpy:7635
 translate ukrainian is_time_leader_9a08bcff:
 
     # mc "Oh, hey."
     mc "Oh, hey."
 
-# game/game/script.rpy:7630
+# game/game/script.rpy:7636
 translate ukrainian is_time_leader_4c8e4227:
 
     # ak "You usually get up in another hour."
     ak "You usually get up in another hour."
 
-# game/game/script.rpy:7631
+# game/game/script.rpy:7637
 translate ukrainian is_time_leader_b691da1b:
 
     # mc "D-Does everyone know my exact schedule?"
     mc "D-Does everyone know my exact schedule?"
 
-# game/game/script.rpy:7633
+# game/game/script.rpy:7639
 translate ukrainian is_time_leader_171c841e:
 
     # y "Hahaha~ It's because you're always the last one to get up."
     y "Hahaha~ It's because you're always the last one to get up."
 
-# game/game/script.rpy:7634
+# game/game/script.rpy:7640
 translate ukrainian is_time_leader_a92f4955:
 
     # ak "Better this way, now it is not necessary for me to tell him."
     ak "Better this way, now it is not necessary for me to tell him."
 
-# game/game/script.rpy:7635
+# game/game/script.rpy:7641
 translate ukrainian is_time_leader_e3c4889f:
 
     # mc "Did something happen?"
     mc "Did something happen?"
 
-# game/game/script.rpy:7637
+# game/game/script.rpy:7643
 translate ukrainian is_time_leader_e38d6039:
 
     # y "Nothing bad, I just ran into Akane and wanted to know how you two did on your little trip."
     y "Nothing bad, I just ran into Akane and wanted to know how you two did on your little trip."
 
-# game/game/script.rpy:7638
+# game/game/script.rpy:7644
 translate ukrainian is_time_leader_1931f52d:
 
     # mc "{size=-6}Well..."
     mc "{size=-6}Well..."
 
-# game/game/script.rpy:7639
+# game/game/script.rpy:7645
 translate ukrainian is_time_leader_adcc1310:
 
     # ak "We did well, there were no problems."
     ak "We did well, there were no problems."
 
-# game/game/script.rpy:7641
+# game/game/script.rpy:7647
 translate ukrainian is_time_leader_e47a6135:
 
     # y "Glad to hear that, and how did her mother treat you?"
     y "Glad to hear that, and how did her mother treat you?"
 
-# game/game/script.rpy:7642
+# game/game/script.rpy:7648
 translate ukrainian is_time_leader_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7643
+# game/game/script.rpy:7649
 translate ukrainian is_time_leader_1b26776e:
 
     # mc "She gave me a warm welcom-"
     mc "She gave me a warm welcom-"
 
-# game/game/script.rpy:7645
+# game/game/script.rpy:7651
 translate ukrainian is_time_leader_f7578a05:
 
     # ak "Regarding that."
-    ak "Regarding that."
+    ak "Regarding that." with vpunch
 
-# game/game/script.rpy:7646
+# game/game/script.rpy:7652
 translate ukrainian is_time_leader_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7648
+# game/game/script.rpy:7654
 translate ukrainian is_time_leader_bb0eeaf4:
 
     # mc "Thank you."
     mc "Thank you."
 
-# game/game/script.rpy:7649
+# game/game/script.rpy:7655
 translate ukrainian is_time_leader_bfd17680:
 
     # ak "Let's wait until we are all together at the meeting."
     ak "Let's wait until we are all together at the meeting."
 
-# game/game/script.rpy:7650
+# game/game/script.rpy:7656
 translate ukrainian is_time_leader_5d06cacb:
 
     # ak "There is something I need you all to hear."
     ak "There is something I need you all to hear."
 
-# game/game/script.rpy:7651
+# game/game/script.rpy:7657
 translate ukrainian is_time_leader_063aa6b5:
 
     # y "Oh, all right."
     y "Oh, all right."
 
-# game/game/script.rpy:7653
+# game/game/script.rpy:7659
 translate ukrainian is_time_leader_1f62865d:
 
     # mc "Meeting?"
     mc "Meeting?"
 
-# game/game/script.rpy:7654
+# game/game/script.rpy:7660
 translate ukrainian is_time_leader_29fd0a2c:
 
     # y "Yes, you must know very well the reason for that."
     y "Yes, you must know very well the reason for that."
 
-# game/game/script.rpy:7655
+# game/game/script.rpy:7661
 translate ukrainian is_time_leader_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7657
+# game/game/script.rpy:7663
 translate ukrainian is_time_leader_01ec2db7:
 
     # ak "I never thought this place would end up under the command of... {w}him."
     ak "I never thought this place would end up under the command of... {w}him."
 
-# game/game/script.rpy:7658
+# game/game/script.rpy:7664
 translate ukrainian is_time_leader_4154fc3c:
 
     # y "I think [mc] will do a good job."
     y "I think [mc] will do a good job."
 
-# game/game/script.rpy:7659
+# game/game/script.rpy:7665
 translate ukrainian is_time_leader_959f65f8:
 
     # mc "A-Are you talking about..."
     mc "A-Are you talking about..."
 
-# game/game/script.rpy:7661
+# game/game/script.rpy:7667
 translate ukrainian is_time_leader_7101ffcb:
 
     # mc "The leadership of this village?"
     mc "The leadership of this village?"
 
-# game/game/script.rpy:7662
+# game/game/script.rpy:7668
 translate ukrainian is_time_leader_65bbdd00:
 
     # mc "But I did say we would talk about it first."
     mc "But I did say we would talk about it first."
 
-# game/game/script.rpy:7663
+# game/game/script.rpy:7669
 translate ukrainian is_time_leader_c9282840:
 
     # mc "And it is necessary {size=-6}to know everyone's {size=-6}opinion fir-"
     mc "And it is necessary {size=-6}to know everyone's {size=-6}opinion fir-"
 
-# game/game/script.rpy:7664
+# game/game/script.rpy:7670
 translate ukrainian is_time_leader_f42a6d29:
 
     # mc "Can you stop looking at me like I have no other choice?!"
-    mc "Can you stop looking at me like I have no other choice?!"
+    mc "Can you stop looking at me like I have no other choice?!" with vpunch
 
-# game/game/script.rpy:7665
+# game/game/script.rpy:7671
 translate ukrainian is_time_leader_4a7dcda0:
 
     # to "You won't do it?"
     to "You won't do it?"
 
-# game/game/script.rpy:7667
+# game/game/script.rpy:7673
 translate ukrainian is_time_leader_be5f0e63:
 
     # mc "Tomoe?"
     mc "Tomoe?"
 
-# game/game/script.rpy:7668
+# game/game/script.rpy:7674
 translate ukrainian is_time_leader_dc7c51d4:
 
     # to "And I was already preparing products with your face printed on them."
     to "And I was already preparing products with your face printed on them."
 
-# game/game/script.rpy:7669
+# game/game/script.rpy:7675
 translate ukrainian is_time_leader_fb6e3188:
 
     # mc "{size=-6}{i}Eeh..."
     mc "{size=-6}{i}Eeh..."
 
-# game/game/script.rpy:7671
+# game/game/script.rpy:7677
 translate ukrainian is_time_leader_63d811c1:
 
     # to "Here~"
     to "Here~"
 
-# game/game/script.rpy:7672
+# game/game/script.rpy:7678
 translate ukrainian is_time_leader_8f1a0559:
 
     # y "Thank you, are you going to the meeting?"
     y "Thank you, are you going to the meeting?"
 
-# game/game/script.rpy:7673
+# game/game/script.rpy:7679
 translate ukrainian is_time_leader_e93138b7:
 
     # to "Of course, it will be at Mayu's house, right?"
     to "Of course, it will be at Mayu's house, right?"
 
-# game/game/script.rpy:7675
+# game/game/script.rpy:7681
 translate ukrainian is_time_leader_cbc33f78:
 
     # to "And now it sounds more interesting knowing his situation."
     to "And now it sounds more interesting knowing his situation."
 
-# game/game/script.rpy:7676
+# game/game/script.rpy:7682
 translate ukrainian is_time_leader_58ab36ca:
 
     # mc "{size=-6}Oi."
-    mc "{size=-6}Oi."
+    mc "{size=-6}Oi." with vpunch
 
-# game/game/script.rpy:7677
+# game/game/script.rpy:7683
 translate ukrainian is_time_leader_7e314834:
 
     # ak "Well, I'd be worried if he was hopping on one foot like a pervert saying how much he wants to be the leader."
     ak "Well, I'd be worried if he was hopping on one foot like a pervert saying how much he wants to be the leader."
 
-# game/game/script.rpy:7678
+# game/game/script.rpy:7684
 translate ukrainian is_time_leader_f7ee1c25:
 
     # mc "Sigh*... {w}and what time is the meeting?"
     mc "Sigh*... {w}and what time is the meeting?"
 
-# game/game/script.rpy:7680
+# game/game/script.rpy:7686
 translate ukrainian is_time_leader_37d2be4f:
 
     # y "In the evening, don't be late~"
     y "In the evening, don't be late~"
 
-# game/game/script.rpy:7681
+# game/game/script.rpy:7687
 translate ukrainian is_time_leader_e16da81c:
 
     # ak "{size=-10}{sc=3}{outlinecolor=#000000}Ghmn~{/sc}{/size} {size=-6}{w}What will I cook today...?~ {w=0.5}I could buy right now."
     ak "{size=-10}{sc=3}{outlinecolor=#000000}Ghmn~{/sc}{/size} {size=-6}{w}What will I cook today...?~ {w=0.5}I could buy right now."
 
-# game/game/script.rpy:7682
+# game/game/script.rpy:7688
 translate ukrainian is_time_leader_f2e18d8a:
 
     # to "{size=-6}{i}Hmm... full body pillow, \"Leader's Edition\" or \"[mc]'s Edition\"."
     to "{size=-6}{i}Hmm... full body pillow, \"Leader's Edition\" or \"[mc]'s Edition\"."
 
-# game/game/script.rpy:7683
+# game/game/script.rpy:7689
 translate ukrainian is_time_leader_50575423:
 
     # mc "What did you just say?"
     mc "What did you just say?"
 
-# game/game/script.rpy:7685
+# game/game/script.rpy:7691
 translate ukrainian is_time_leader_6030efbb:
 
     # to "What do you need Akane?"
     to "What do you need Akane?"
 
-# game/game/script.rpy:7686
+# game/game/script.rpy:7692
 translate ukrainian is_time_leader_9cdb2fc5:
 
     # mc "Don't ignore me..."
     mc "Don't ignore me..."
 
-# game/game/script.rpy:7690
+# game/game/script.rpy:7696
 translate ukrainian is_time_leader_b987b875:
 
     # t "At Mayu's house in the evening..."
     t "At Mayu's house in the evening..."
 
-# game/game/script.rpy:7691
+# game/game/script.rpy:7697
 translate ukrainian is_time_leader_653980ab:
 
     # t "I have nothing to do today, I could go visit Hana."
     t "I have nothing to do today, I could go visit Hana."
 
-# game/game/script.rpy:7700
+# game/game/script.rpy:7706
 translate ukrainian hana_time_3bbd52d7:
 
     # s "Need something from the great Shika?!"
     s "Need something from the great Shika?!"
 
-# game/game/script.rpy:7701
+# game/game/script.rpy:7707
 translate ukrainian hana_time_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7702
+# game/game/script.rpy:7708
 translate ukrainian hana_time_e1554201:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:7704
+# game/game/script.rpy:7710
 translate ukrainian hana_time_a1a6a169:
 
     # s "Need something from the amazing Shika?"
     s "Need something from the amazing Shika?"
 
-# game/game/script.rpy:7705
+# game/game/script.rpy:7711
 translate ukrainian hana_time_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7706
+# game/game/script.rpy:7712
 translate ukrainian hana_time_e1554201_1:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:7708
+# game/game/script.rpy:7714
 translate ukrainian hana_time_362301e9:
 
     # s "NEED-"
     s "NEED-"
 
-# game/game/script.rpy:7710
+# game/game/script.rpy:7716
 translate ukrainian hana_time_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7711
+# game/game/script.rpy:7717
 translate ukrainian hana_time_e1554201_2:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:7713
+# game/game/script.rpy:7719
 translate ukrainian hana_time_7786f80b:
 
     # s "{sc=3}{outlinecolor=#000000}Ghgn!!"
-    s "{sc=3}{outlinecolor=#000000}Ghgn!!"
+    s "{sc=3}{outlinecolor=#000000}Ghgn!!" with hpunch
 
-# game/game/script.rpy:7714
+# game/game/script.rpy:7720
 translate ukrainian hana_time_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:7715
+# game/game/script.rpy:7721
 translate ukrainian hana_time_901f7f82:
 
     # mc "My thoughts won over me."
     mc "My thoughts won over me."
 
-# game/game/script.rpy:7717
+# game/game/script.rpy:7723
 translate ukrainian hana_time_bc3eba9c:
 
     # s "{sc=3}{outlinecolor=#000000}Ghn mhng ahg!~"
     s "{sc=3}{outlinecolor=#000000}Ghn mhng ahg!~"
 
-# game/game/script.rpy:7718
+# game/game/script.rpy:7724
 translate ukrainian hana_time_19f7fd12:
 
     # mc "All right, sorr-"
     mc "All right, sorr-"
 
-# game/game/script.rpy:7720
+# game/game/script.rpy:7726
 translate ukrainian hana_time_4a55a58f:
 
     # s "Cool, {w=0.5}sensual, {w=0.5}tall, {w=0.5}great bo-"
     s "Cool, {w=0.5}sensual, {w=0.5}tall, {w=0.5}great bo-"
 
-# game/game/script.rpy:7722
+# game/game/script.rpy:7728
 translate ukrainian hana_time_c4581c25:
 
     # s "Mhn, {w=0.5}hnm, {w=0.5}nghm-"
     s "Mhn, {w=0.5}hnm, {w=0.5}nghm-"
 
-# game/game/script.rpy:7723
+# game/game/script.rpy:7729
 translate ukrainian hana_time_3dbea192:
 
     # t "And she continues talking..."
     t "And she continues talking..."
 
-# game/game/script.rpy:7724
+# game/game/script.rpy:7730
 translate ukrainian hana_time_25eaacbf:
 
     # mc "Is Hana inside?"
     mc "Is Hana inside?"
 
-# game/game/script.rpy:7726
+# game/game/script.rpy:7732
 translate ukrainian hana_time_4769e881:
 
     # s "Yes~"
     s "Yes~"
 
-# game/game/script.rpy:7727
+# game/game/script.rpy:7733
 translate ukrainian hana_time_465f7e66:
 
     # mc "Thank you, {w}glad to see you doing well Shika."
     mc "Thank you, {w}glad to see you doing well Shika."
 
-# game/game/script.rpy:7729
+# game/game/script.rpy:7735
 translate ukrainian hana_time_31a2d717:
 
     # s "Hehehe~ {w}now the doctor looks much better, I don't feel so worried anymore."
     s "Hehehe~ {w}now the doctor looks much better, I don't feel so worried anymore."
 
-# game/game/script.rpy:7730
+# game/game/script.rpy:7736
 translate ukrainian hana_time_a15f0df2:
 
     # mc "I'm glad to hear that, all thanks to you."
     mc "I'm glad to hear that, all thanks to you."
 
-# game/game/script.rpy:7732
+# game/game/script.rpy:7738
 translate ukrainian hana_time_c46aaae2:
 
     # s "Wait."
     s "Wait."
 
-# game/game/script.rpy:7733
+# game/game/script.rpy:7739
 translate ukrainian hana_time_cecb475e:
 
     # mc "Hnm?"
     mc "Hnm?"
 
-# game/game/script.rpy:7735
+# game/game/script.rpy:7741
 translate ukrainian hana_time_64d860dd:
 
     # s "I too am glad to see you doing so much better~{image=corazon}"
     s "I too am glad to see you doing so much better~{image=corazon}"
 
-# game/game/script.rpy:7736
+# game/game/script.rpy:7742
 translate ukrainian hana_time_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7738
+# game/game/script.rpy:7744
 translate ukrainian hana_time_8ff60624:
 
     # mc "Will you come to the meeting at Mayu's house?"
     mc "Will you come to the meeting at Mayu's house?"
 
-# game/game/script.rpy:7739
+# game/game/script.rpy:7745
 translate ukrainian hana_time_c9849a2a:
 
     # s "Of course, I must be there for your coronation!"
     s "Of course, I must be there for your coronation!"
 
-# game/game/script.rpy:7740
+# game/game/script.rpy:7746
 translate ukrainian hana_time_25bca6e8:
 
     # mc "Cor-"
     mc "Cor-"
 
-# game/game/script.rpy:7742
+# game/game/script.rpy:7748
 translate ukrainian hana_time_d291df9f:
 
     # mc "Shika, we're just goin-"
     mc "Shika, we're just goin-"
 
-# game/game/script.rpy:7743
+# game/game/script.rpy:7749
 translate ukrainian hana_time_c4cb193f:
 
     # s "Hnm~ hnm~ hmn~"
     s "Hnm~ hnm~ hmn~"
 
-# game/game/script.rpy:7744
+# game/game/script.rpy:7750
 translate ukrainian hana_time_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7746
+# game/game/script.rpy:7752
 translate ukrainian hana_time_0b671ab1:
 
     # mc "See you there..."
     mc "See you there..."
 
-# game/game/script.rpy:7747
+# game/game/script.rpy:7753
 translate ukrainian hana_time_55387c96:
 
     # s "Yes~{image=corazon}"
     s "Yes~{image=corazon}"
 
-# game/game/script.rpy:7753
+# game/game/script.rpy:7759
 translate ukrainian hana_time_6d4ffbbd:
 
     # t "Everyone already takes this for granted?"
     t "Everyone already takes this for granted?"
 
-# game/game/script.rpy:7754
+# game/game/script.rpy:7760
 translate ukrainian hana_time_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:7755
+# game/game/script.rpy:7761
 translate ukrainian hana_time_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:7756
+# game/game/script.rpy:7762
 translate ukrainian hana_time_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:7757
+# game/game/script.rpy:7763
 translate ukrainian hana_time_69705684:
 
     # mc "Hana?"
     mc "Hana?"
 
-# game/game/script.rpy:7762
+# game/game/script.rpy:7768
 translate ukrainian hana_time_8fe6e49c:
 
     # h "[mc]?~ Come in~"
     h "[mc]?~ Come in~"
 
-# game/game/script.rpy:7764
+# game/game/script.rpy:7770
 translate ukrainian hana_time_29822867:
 
     # mc "Hey, what are you doing?"
     mc "Hey, what are you doing?"
 
-# game/game/script.rpy:7766
+# game/game/script.rpy:7772
 translate ukrainian hana_time_4f916c43:
 
     # h "Nothing, I was just making something."
     h "Nothing, I was just making something."
 
-# game/game/script.rpy:7767
+# game/game/script.rpy:7773
 translate ukrainian hana_time_9845abab:
 
     # h "Do you need anything?"
     h "Do you need anything?"
 
-# game/game/script.rpy:7768
+# game/game/script.rpy:7774
 translate ukrainian hana_time_12c44136:
 
     # mc "I just wanted to see you."
     mc "I just wanted to see you."
 
-# game/game/script.rpy:7770
+# game/game/script.rpy:7776
 translate ukrainian hana_time_6f449edf:
 
     # h "Oh my~ {w}I'm the luckiest girl."
     h "Oh my~ {w}I'm the luckiest girl."
 
-# game/game/script.rpy:7771
+# game/game/script.rpy:7777
 translate ukrainian hana_time_60b7e5cd:
 
     # h "Such a busy man decided to come visit me."
     h "Such a busy man decided to come visit me."
 
-# game/game/script.rpy:7773
+# game/game/script.rpy:7779
 translate ukrainian hana_time_1bfecb82:
 
     # h "Have a seat, no one is coming today."
     h "Have a seat, no one is coming today."
 
-# game/game/script.rpy:7774
+# game/game/script.rpy:7780
 translate ukrainian hana_time_a31340dd:
 
     # mc "Really?"
     mc "Really?"
 
-# game/game/script.rpy:7776
+# game/game/script.rpy:7782
 translate ukrainian hana_time_6fbf6e98:
 
     # h "Yes, I wasn't always so busy, you know?"
     h "Yes, I wasn't always so busy, you know?"
 
-# game/game/script.rpy:7777
+# game/game/script.rpy:7783
 translate ukrainian hana_time_ec14cb13:
 
     # h "Since I had no way to get medicinal plants before, creating potions for the village was no longer an option."
     h "Since I had no way to get medicinal plants before, creating potions for the village was no longer an option."
 
-# game/game/script.rpy:7779
+# game/game/script.rpy:7785
 translate ukrainian hana_time_d6c62e54:
 
     # h "We now have resources with which I can create many~"
     h "We now have resources with which I can create many~"
 
-# game/game/script.rpy:7780
+# game/game/script.rpy:7786
 translate ukrainian hana_time_48b36683:
 
     # h "So the girls just come to buy minor potions and leave."
     h "So the girls just come to buy minor potions and leave."
 
-# game/game/script.rpy:7781
+# game/game/script.rpy:7787
 translate ukrainian hana_time_ab35cc6e:
 
     # mc "Like the one Yui gave me?"
     mc "Like the one Yui gave me?"
 
-# game/game/script.rpy:7783
+# game/game/script.rpy:7789
 translate ukrainian hana_time_e1c4c93e:
 
     # h "Exactly, I hope you didn't have the need to use it."
     h "Exactly, I hope you didn't have the need to use it."
 
-# game/game/script.rpy:7784
+# game/game/script.rpy:7790
 translate ukrainian hana_time_c1dff962:
 
     # mc "Oh..."
     mc "Oh..."
 
-# game/game/script.rpy:7785
+# game/game/script.rpy:7791
 translate ukrainian hana_time_6656a7b1:
 
     # mc "That day my stomach hurt, so I drank it."
     mc "That day my stomach hurt, so I drank it."
 
-# game/game/script.rpy:7786
+# game/game/script.rpy:7792
 translate ukrainian hana_time_d67a7d6d:
 
     # mc "Nothing serious."
     mc "Nothing serious."
 
-# game/game/script.rpy:7787
+# game/game/script.rpy:7793
 translate ukrainian hana_time_12994113:
 
     # t "Although it calmed the pain, the dizziness didn't disappear all day..."
     t "Although it calmed the pain, the dizziness didn't disappear all day..."
 
-# game/game/script.rpy:7788
+# game/game/script.rpy:7794
 translate ukrainian hana_time_e6eb7299:
 
     # t "I don't plan to drink anything made by vampires ever again."
     t "I don't plan to drink anything made by vampires ever again."
 
-# game/game/script.rpy:7790
+# game/game/script.rpy:7796
 translate ukrainian hana_time_8a78ae1c:
 
     # h "I see, are you feeling better now?"
     h "I see, are you feeling better now?"
 
-# game/game/script.rpy:7791
+# game/game/script.rpy:7797
 translate ukrainian hana_time_e60dc83b:
 
     # mc "Yes, it wasn't that bad, it healed me immediately."
     mc "Yes, it wasn't that bad, it healed me immediately."
 
-# game/game/script.rpy:7793
+# game/game/script.rpy:7799
 translate ukrainian hana_time_7f065ebb:
 
     # h "Oh~ {w}so you don't need me to check you...?"
     h "Oh~ {w}so you don't need me to check you...?"
 
-# game/game/script.rpy:7794
+# game/game/script.rpy:7800
 translate ukrainian hana_time_2b35b6fe_5:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7796
+# game/game/script.rpy:7802
 translate ukrainian hana_time_f398006d:
 
     # mc "{sc=3}{outlinecolor=#000000}Ugh..."
     mc "{sc=3}{outlinecolor=#000000}Ugh..."
 
-# game/game/script.rpy:7797
+# game/game/script.rpy:7803
 translate ukrainian hana_time_ce3dc23b:
 
     # mc "{sc=3}{outlinecolor=#000000}My stomach..."
     mc "{sc=3}{outlinecolor=#000000}My stomach..."
 
-# game/game/script.rpy:7798
+# game/game/script.rpy:7804
 translate ukrainian hana_time_4917ecde:
 
     # h "Ara~"
     h "Ara~"
 
-# game/game/script.rpy:7800
+# game/game/script.rpy:7806
 translate ukrainian hana_time_f5874a29:
 
     # mc "I n-need your help doctor."
     mc "I n-need your help doctor."
 
-# game/game/script.rpy:7801
+# game/game/script.rpy:7807
 translate ukrainian hana_time_cb9436c6:
 
     # h "Ohm~ {w=0.5}My poor man."
     h "Ohm~ {w=0.5}My poor man."
 
-# game/game/script.rpy:7803
+# game/game/script.rpy:7809
 translate ukrainian hana_time_b85dc241:
 
     # h "Let me take care of you."
     h "Let me take care of you."
 
-# game/game/script.rpy:7804
+# game/game/script.rpy:7810
 translate ukrainian hana_time_e6f4b578:
 
     # h "You can rest here."
     h "You can rest here."
 
-# game/game/script.rpy:7805
+# game/game/script.rpy:7811
 translate ukrainian hana_time_aed8e521:
 
     # h "Don't move until I finish examining you~{image=corazon}"
     h "Don't move until I finish examining you~{image=corazon}"
 
-# game/game/script.rpy:7806
+# game/game/script.rpy:7812
 translate ukrainian hana_time_21c40418:
 
     # mc "Oh, alright..."
     mc "Oh, alright..."
 
-# game/game/script.rpy:7808
+# game/game/script.rpy:7814
 translate ukrainian hana_time_40dff5de:
 
     # mc "I think I'm getting better..."
     mc "I think I'm getting better..."
 
-# game/game/script.rpy:7809
+# game/game/script.rpy:7815
 translate ukrainian hana_time_f251d8c6:
 
     # h "Fufufu~{image=corazon}"
     h "Fufufu~{image=corazon}"
 
-# game/game/script.rpy:7810
+# game/game/script.rpy:7816
 translate ukrainian hana_time_1d7c7dbd:
 
     # h "I haven't done anything yet."
     h "I haven't done anything yet."
 
-# game/game/script.rpy:7811
+# game/game/script.rpy:7817
 translate ukrainian hana_time_c79bbe40:
 
     # mc "{size=-6}Hhnm..."
     mc "{size=-6}Hhnm..."
 
-# game/game/script.rpy:7813
+# game/game/script.rpy:7819
 translate ukrainian hana_time_5342f42d:
 
     # h "Hey, don't fall asleep."
     h "Hey, don't fall asleep."
 
-# game/game/script.rpy:7814
+# game/game/script.rpy:7820
 translate ukrainian hana_time_d06c613e:
 
     # h "I still need to see if you have a fever."
     h "I still need to see if you have a fever."
 
-# game/game/script.rpy:7815
+# game/game/script.rpy:7821
 translate ukrainian hana_time_ee87e6f3:
 
     # mc "Oh?"
     mc "Oh?"
 
-# game/game/script.rpy:7817
+# game/game/script.rpy:7823
 translate ukrainian hana_time_018fcdc4:
 
     # mc "May I know how you will do it?"
     mc "May I know how you will do it?"
 
-# game/game/script.rpy:7818
+# game/game/script.rpy:7824
 translate ukrainian hana_time_be61e672:
 
     # h "Let's see~"
     h "Let's see~"
 
-# game/game/script.rpy:7820
+# game/game/script.rpy:7826
 translate ukrainian hana_time_eed254b2:
 
     # h "Chu~{image=corazon}"
     h "Chu~{image=corazon}"
 
-# game/game/script.rpy:7822
+# game/game/script.rpy:7828
 translate ukrainian hana_time_61f8bcc7:
 
     # h "Not here."
     h "Not here."
 
-# game/game/script.rpy:7824
+# game/game/script.rpy:7830
 translate ukrainian hana_time_eed254b2_1:
 
     # h "Chu~{image=corazon}"
     h "Chu~{image=corazon}"
 
-# game/game/script.rpy:7826
+# game/game/script.rpy:7832
 translate ukrainian hana_time_fc2b7e4d:
 
     # h "Neither here~"
     h "Neither here~"
 
-# game/game/script.rpy:7827
+# game/game/script.rpy:7833
 translate ukrainian hana_time_f69bbaf4:
 
     # h "Hmm... maybe..."
     h "Hmm... maybe..."
 
-# game/game/script.rpy:7831
+# game/game/script.rpy:7837
 translate ukrainian hana_time_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:7832
+# game/game/script.rpy:7838
 translate ukrainian hana_time_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:7833
+# game/game/script.rpy:7839
 translate ukrainian hana_time_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:7834
+# game/game/script.rpy:7840
 translate ukrainian hana_time_1ae7b7e6:
 
     # h "{size=-6}Fufu~{image=corazon}"
     h "{size=-6}Fufu~{image=corazon}"
 
-# game/game/script.rpy:7836
+# game/game/script.rpy:7842
 translate ukrainian hana_time_874a4f82:
 
     # h "I didn't notice anything strange, are you sure you are sick?"
     h "I didn't notice anything strange, are you sure you are sick?"
 
-# game/game/script.rpy:7837
+# game/game/script.rpy:7843
 translate ukrainian hana_time_2016788a:
 
     # mc "Your treatment was very effective..."
     mc "Your treatment was very effective..."
 
-# game/game/script.rpy:7838
+# game/game/script.rpy:7844
 translate ukrainian hana_time_b1973485:
 
     # h "That wasn't a treatment, I was just checking your temperature."
     h "That wasn't a treatment, I was just checking your temperature."
 
-# game/game/script.rpy:7839
+# game/game/script.rpy:7845
 translate ukrainian hana_time_054c5ee0:
 
     # mc "I see."
     mc "I see."
 
-# game/game/script.rpy:7841
+# game/game/script.rpy:7847
 translate ukrainian hana_time_be81a9d7:
 
     # h "Hahaha~"
     h "Hahaha~"
 
-# game/game/script.rpy:7842
+# game/game/script.rpy:7848
 translate ukrainian hana_time_53f0301a:
 
     # h "Have you heard about today's meeting?"
     h "Have you heard about today's meeting?"
 
-# game/game/script.rpy:7843
+# game/game/script.rpy:7849
 translate ukrainian hana_time_ea0fbc46:
 
     # mc "Oh right..."
     mc "Oh right..."
 
-# game/game/script.rpy:7845
+# game/game/script.rpy:7851
 translate ukrainian hana_time_20812537:
 
     # h "All the girls in the village were happy to know that you could be the new leader."
     h "All the girls in the village were happy to know that you could be the new leader."
 
-# game/game/script.rpy:7846
+# game/game/script.rpy:7852
 translate ukrainian hana_time_2af45948:
 
     # mc "To think that all my actions have brought me to this situation..."
     mc "To think that all my actions have brought me to this situation..."
 
-# game/game/script.rpy:7848
+# game/game/script.rpy:7854
 translate ukrainian hana_time_fab5f1f2:
 
     # h "And? {w=0.5}Now do you realize how much they all appreciate you?"
     h "And? {w=0.5}Now do you realize how much they all appreciate you?"
 
-# game/game/script.rpy:7849
+# game/game/script.rpy:7855
 translate ukrainian hana_time_dfa93929:
 
     # h "No one, not a single soul was angry or objected to this."
     h "No one, not a single soul was angry or objected to this."
 
-# game/game/script.rpy:7850
+# game/game/script.rpy:7856
 translate ukrainian hana_time_37ad2cdb:
 
     # mc "{size=-6}{i}Sigh*"
     mc "{size=-6}{i}Sigh*"
 
-# game/game/script.rpy:7852
+# game/game/script.rpy:7858
 translate ukrainian hana_time_ac3db7e0:
 
     # mc "Do you think I can be like you or Yui?"
     mc "Do you think I can be like you or Yui?"
 
-# game/game/script.rpy:7853
+# game/game/script.rpy:7859
 translate ukrainian hana_time_814410d5:
 
     # h "Like us?"
     h "Like us?"
 
-# game/game/script.rpy:7855
+# game/game/script.rpy:7861
 translate ukrainian hana_time_04e417c2:
 
     # h "I'm just the doctor, Yui is the one who protects us."
     h "I'm just the doctor, Yui is the one who protects us."
 
-# game/game/script.rpy:7856
+# game/game/script.rpy:7862
 translate ukrainian hana_time_a4402e2d:
 
     # h "It is different to act as a leader than just trying to survive."
     h "It is different to act as a leader than just trying to survive."
 
-# game/game/script.rpy:7857
+# game/game/script.rpy:7863
 translate ukrainian hana_time_2b35b6fe_6:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7858
+# game/game/script.rpy:7864
 translate ukrainian hana_time_08b5b809:
 
     # h "And I trust."
     h "And I trust."
 
-# game/game/script.rpy:7862
+# game/game/script.rpy:7868
 translate ukrainian hana_time_392d4892:
 
     # h "I trust that you have good ideas to improve this little village."
     h "I trust that you have good ideas to improve this little village."
 
-# game/game/script.rpy:7863
+# game/game/script.rpy:7869
 translate ukrainian hana_time_2ff016c8:
 
     # t "Well... {w}I have knowledge of my other world..."
     t "Well... {w}I have knowledge of my other world..."
 
-# game/game/script.rpy:7864
+# game/game/script.rpy:7870
 translate ukrainian hana_time_be76f554:
 
     # t "There are things I could build with Mayu's help..."
     t "There are things I could build with Mayu's help..."
 
-# game/game/script.rpy:7866
+# game/game/script.rpy:7872
 translate ukrainian hana_time_9cc10fad:
 
     # h "{i}{size=-6}And being a leader, you could easily build a place on the lake we talked about some time ago."
     h "{i}{size=-6}And being a leader, you could easily build a place on the lake we talked about some time ago."
 
-# game/game/script.rpy:7867
+# game/game/script.rpy:7873
 translate ukrainian hana_time_1bfcc92e:
 
     # mc "{sc=3}{outlinecolor=#000000}Eauh-"
-    mc "{sc=3}{outlinecolor=#000000}Eauh-"
+    mc "{sc=3}{outlinecolor=#000000}Eauh-" with vpunch
 
-# game/game/script.rpy:7868
+# game/game/script.rpy:7874
 translate ukrainian hana_time_3e82b4e3:
 
     # h "{i}{size=-6}Then I could show you the bikini you were so excited about..."
     h "{i}{size=-6}Then I could show you the bikini you were so excited about..."
 
-# game/game/script.rpy:7869
+# game/game/script.rpy:7875
 translate ukrainian hana_time_74ef8610:
 
     # mc "H-Hana? {w}I have a slight suspicion that you are trying to convince me."
     mc "H-Hana? {w}I have a slight suspicion that you are trying to convince me."
 
-# game/game/script.rpy:7871
+# game/game/script.rpy:7877
 translate ukrainian hana_time_38906977:
 
     # h "Oh my~ {w=0.5}of course not~{image=corazon}"
     h "Oh my~ {w=0.5}of course not~{image=corazon}"
 
-# game/game/script.rpy:7873
+# game/game/script.rpy:7879
 translate ukrainian hana_time_8e089b94:
 
     # mc "See you in the evening then."
     mc "See you in the evening then."
 
-# game/game/script.rpy:7874
+# game/game/script.rpy:7880
 translate ukrainian hana_time_58ff7aed:
 
     # h "I'll be there~"
     h "I'll be there~"
 
-# game/game/script.rpy:7880
+# game/game/script.rpy:7886
 translate ukrainian hana_time_7725dbd8:
 
     # "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
     "{image=corazon}Hana's affection has increased to [hana_affection]{image=corazon}"
 
-# game/game/script.rpy:7894
+# game/game/script.rpy:7900
 translate ukrainian yui_time_a88646f4:
 
     # t "What is she doing?"
     t "What is she doing?"
 
-# game/game/script.rpy:7899
+# game/game/script.rpy:7905
 translate ukrainian yui_time_6caa8a86:
 
     # t "She looks very focused, is she drawing?"
     t "She looks very focused, is she drawing?"
 
-# game/game/script.rpy:7900
+# game/game/script.rpy:7906
 translate ukrainian yui_time_42b0611c:
 
     # y "{i}{size=-6}Maybe... {w=0.5}this place could be useful..."
     y "{i}{size=-6}Maybe... {w=0.5}this place could be useful..."
 
-# game/game/script.rpy:7902
+# game/game/script.rpy:7908
 translate ukrainian yui_time_ec0efb14:
 
     # t "It looks like a map of the entire village."
     t "It looks like a map of the entire village."
 
-# game/game/script.rpy:7903
+# game/game/script.rpy:7909
 translate ukrainian yui_time_a33a499f:
 
     # y "{i}{size=-6}Could we raise animals? Plant things?"
     y "{i}{size=-6}Could we raise animals? Plant things?"
 
-# game/game/script.rpy:7905
+# game/game/script.rpy:7911
 translate ukrainian yui_time_be3bfd95:
 
     # y "{i}{size=-6}I may have drawn too many indications..."
     y "{i}{size=-6}I may have drawn too many indications..."
 
-# game/game/script.rpy:7906
+# game/game/script.rpy:7912
 translate ukrainian yui_time_c6c075be:
 
     # y "{i}{size=-6}Will it be understood? {w}Or is it too messy?"
     y "{i}{size=-6}Will it be understood? {w}Or is it too messy?"
 
-# game/game/script.rpy:7907
+# game/game/script.rpy:7913
 translate ukrainian yui_time_28fee696:
 
     # mc "I think it looks g-"
     mc "I think it looks g-"
 
-# game/game/script.rpy:7912
+# game/game/script.rpy:7918
 translate ukrainian yui_time_c063bd10:
 
     # y "{sc=3}{outlinecolor=#000000}Wiuuhmn!"
-    y "{sc=3}{outlinecolor=#000000}Wiuuhmn!"
+    y "{sc=3}{outlinecolor=#000000}Wiuuhmn!" with hpunch
 
-# game/game/script.rpy:7914
+# game/game/script.rpy:7920
 translate ukrainian yui_time_71a86863:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:7915
+# game/game/script.rpy:7921
 translate ukrainian yui_time_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7917
+# game/game/script.rpy:7923
 translate ukrainian yui_time_80334b26:
 
     # y "S-Sorry, I sneezed."
     y "S-Sorry, I sneezed."
 
-# game/game/script.rpy:7918
+# game/game/script.rpy:7924
 translate ukrainian yui_time_3df5f918:
 
     # mc "T-That was a sneeze?"
     mc "T-That was a sneeze?"
 
-# game/game/script.rpy:7919
+# game/game/script.rpy:7925
 translate ukrainian yui_time_59ce1cb3:
 
     # y "Why do you approach without making noise?"
     y "Why do you approach without making noise?"
 
-# game/game/script.rpy:7921
+# game/game/script.rpy:7927
 translate ukrainian yui_time_fdb4b263:
 
     # mc "I approached you like I always do..."
     mc "I approached you like I always do..."
 
-# game/game/script.rpy:7922
+# game/game/script.rpy:7928
 translate ukrainian yui_time_81deaad1:
 
     # mc "You were very focused doing that."
     mc "You were very focused doing that."
 
-# game/game/script.rpy:7924
+# game/game/script.rpy:7930
 translate ukrainian yui_time_0e1b4f46:
 
     # mc "But anyway, sorry, I'll be more careful next time."
     mc "But anyway, sorry, I'll be more careful next time."
 
-# game/game/script.rpy:7925
+# game/game/script.rpy:7931
 translate ukrainian yui_time_c31f4431:
 
     # y "{size=-6}Idiot..."
     y "{size=-6}Idiot..."
 
-# game/game/script.rpy:7926
+# game/game/script.rpy:7932
 translate ukrainian yui_time_1e19099b:
 
     # mc "So? What are you doing?"
     mc "So? What are you doing?"
 
-# game/game/script.rpy:7928
+# game/game/script.rpy:7934
 translate ukrainian yui_time_e146fad0:
 
     # y "As in a few hours we will have the meeting."
     y "As in a few hours we will have the meeting."
 
-# game/game/script.rpy:7929
+# game/game/script.rpy:7935
 translate ukrainian yui_time_447b9600:
 
     # y "I thought that instead of talking about everything, I could show it in more detail."
     y "I thought that instead of talking about everything, I could show it in more detail."
 
-# game/game/script.rpy:7930
+# game/game/script.rpy:7936
 translate ukrainian yui_time_4fb18f85:
 
     # mc "I see, good thinking."
     mc "I see, good thinking."
 
-# game/game/script.rpy:7932
+# game/game/script.rpy:7938
 translate ukrainian yui_time_bcbbd52c:
 
     # mc "Hmm? Is that me?"
     mc "Hmm? Is that me?"
 
-# game/game/script.rpy:7933
+# game/game/script.rpy:7939
 translate ukrainian yui_time_c4e8d155:
 
     # y "Mmm? Yes, it looks strange?"
     y "Mmm? Yes, it looks strange?"
 
-# game/game/script.rpy:7935
+# game/game/script.rpy:7941
 translate ukrainian yui_time_87dafd0f:
 
     # mc "Not at all, I just think it's cute that you drew us all."
     mc "Not at all, I just think it's cute that you drew us all."
 
-# game/game/script.rpy:7936
+# game/game/script.rpy:7942
 translate ukrainian yui_time_5d5181ea:
 
     # y "C-Cut-"
-    y "C-Cut-"
+    y "C-Cut-" with hpunch
 
-# game/game/script.rpy:7938
+# game/game/script.rpy:7944
 translate ukrainian yui_time_5eb6bcea:
 
     # y "D-Don't make fun of me, or I'll erase it all and do it again..."
     y "D-Don't make fun of me, or I'll erase it all and do it again..."
 
-# game/game/script.rpy:7939
+# game/game/script.rpy:7945
 translate ukrainian yui_time_2f124ac9:
 
     # mc "If you do that, I'll start calling you Honey."
     mc "If you do that, I'll start calling you Honey."
 
-# game/game/script.rpy:7941
+# game/game/script.rpy:7947
 translate ukrainian yui_time_9c4ec0e1:
 
     # yh "W-What!"
     yh "W-What!"
 
-# game/game/script.rpy:7942
+# game/game/script.rpy:7948
 translate ukrainian yui_time_2d0d1146:
 
     # yh "What does that have to do with this?!"
-    yh "What does that have to do with this?!"
+    yh "What does that have to do with this?!" with hpunch
 
-# game/game/script.rpy:7944
+# game/game/script.rpy:7950
 translate ukrainian yui_time_fb9821a9:
 
     # mc "You don't do this in 2 minutes, I won't let you redo something you've been working on all day."
     mc "You don't do this in 2 minutes, I won't let you redo something you've been working on all day."
 
-# game/game/script.rpy:7945
+# game/game/script.rpy:7951
 translate ukrainian yui_time_aef7252f:
 
     # mc "Honey."
     mc "Honey."
 
-# game/game/script.rpy:7947
+# game/game/script.rpy:7953
 translate ukrainian yui_time_adb9c7df:
 
     # yh "O-Okay, okay! {w=0.5}I'll just leave it like that!"
-    yh "O-Okay, okay! {w=0.5}I'll just leave it like that!"
+    yh "O-Okay, okay! {w=0.5}I'll just leave it like that!" with vpunch
 
-# game/game/script.rpy:7949
+# game/game/script.rpy:7955
 translate ukrainian yui_time_e98b3b13:
 
     # yh "{sc=3}{outlinecolor=#000000}And give me b-back my name!"
-    yh "{sc=3}{outlinecolor=#000000}And give me b-back my name!"
+    yh "{sc=3}{outlinecolor=#000000}And give me b-back my name!" with hpunch
 
-# game/game/script.rpy:7950
+# game/game/script.rpy:7956
 translate ukrainian yui_time_96e7257e:
 
     # mc "Hahaha, ok..."
     mc "Hahaha, ok..."
 
-# game/game/script.rpy:7951
+# game/game/script.rpy:7957
 translate ukrainian yui_time_acda1058:
 
     # t "Hmm..."
     t "Hmm..."
 
-# game/game/script.rpy:7953
+# game/game/script.rpy:7959
 translate ukrainian yui_time_909c8af7:
 
     # y "W-What are yo-"
     y "W-What are yo-"
 
-# game/game/script.rpy:7956
+# game/game/script.rpy:7962
 translate ukrainian yui_time_f2d9e381:
 
     # mc "Whoops"
-    mc "Whoops"
+    mc "Whoops" (multiple=2)
 
-# game/game/script.rpy:7957
+# game/game/script.rpy:7963
 translate ukrainian yui_time_da52780b:
 
     # y "Ah-"
-    y "Ah-"
+    y "Ah-" (multiple=2)
 
-# game/game/script.rpy:7958
+# game/game/script.rpy:7964
 translate ukrainian yui_time_66ad73b8:
 
     # mc "You let your guard dow-"
     mc "You let your guard dow-"
 
-# game/game/script.rpy:7961
+# game/game/script.rpy:7967
 translate ukrainian yui_time_80db3faf:
 
     # mc "Oh-"
     mc "Oh-"
 
-# game/game/script.rpy:7963
+# game/game/script.rpy:7969
 translate ukrainian yui_time_c14c584c:
 
     # mc "Well..."
     mc "Well..."
 
-# game/game/script.rpy:7965
+# game/game/script.rpy:7971
 translate ukrainian yui_time_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:7966
+# game/game/script.rpy:7972
 translate ukrainian yui_time_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:7967
+# game/game/script.rpy:7973
 translate ukrainian yui_time_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:7969
+# game/game/script.rpy:7975
 translate ukrainian yui_time_29cb2fa2:
 
     # mc "Are you still angry?"
     mc "Are you still angry?"
 
-# game/game/script.rpy:7970
+# game/game/script.rpy:7976
 translate ukrainian yui_time_0255ab45:
 
     # y "{size=-6}Hnmm..."
     y "{size=-6}Hnmm..."
 
-# game/game/script.rpy:7971
+# game/game/script.rpy:7977
 translate ukrainian yui_time_e3c0d3f5:
 
     # mc "Hahaha, {w}but you've done a good job with this."
     mc "Hahaha, {w}but you've done a good job with this."
 
-# game/game/script.rpy:7972
+# game/game/script.rpy:7978
 translate ukrainian yui_time_71a86863_1:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:7974
+# game/game/script.rpy:7980
 translate ukrainian yui_time_7c709ce7:
 
     # y "Thank you."
     y "Thank you."
 
-# game/game/script.rpy:7975
+# game/game/script.rpy:7981
 translate ukrainian yui_time_80e8a2b3:
 
     # y "I'm glad to hear that... because..."
     y "I'm glad to hear that... because..."
 
-# game/game/script.rpy:7976
+# game/game/script.rpy:7982
 translate ukrainian yui_time_03fb3e88:
 
     # mc "Mmm?"
     mc "Mmm?"
 
-# game/game/script.rpy:7977
+# game/game/script.rpy:7983
 translate ukrainian yui_time_2bf258dc:
 
     # y "I want you to be the one who understands it the most, since you will be making the decisions from now on..."
     y "I want you to be the one who understands it the most, since you will be making the decisions from now on..."
 
-# game/game/script.rpy:7978
+# game/game/script.rpy:7984
 translate ukrainian yui_time_b6c43c4a:
 
     # mc "M-Me?"
     mc "M-Me?"
 
-# game/game/script.rpy:7980
+# game/game/script.rpy:7986
 translate ukrainian yui_time_a3d1a5b1:
 
     # y "Of course, {w=0.5}leader~"
     y "Of course, {w=0.5}leader~"
 
-# game/game/script.rpy:7981
+# game/game/script.rpy:7987
 translate ukrainian yui_time_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:7982
+# game/game/script.rpy:7988
 translate ukrainian yui_time_e75377aa:
 
     # y "The last time we spoke you opened my eyes."
     y "The last time we spoke you opened my eyes."
 
-# game/game/script.rpy:7984
+# game/game/script.rpy:7990
 translate ukrainian yui_time_bc488c69:
 
     # y "I will strive to help you make this place a good town~"
     y "I will strive to help you make this place a good town~"
 
-# game/game/script.rpy:7985
+# game/game/script.rpy:7991
 translate ukrainian yui_time_2666c370:
 
     # mc "I'm glad to hear that, {w}but I'm not the leader yet."
     mc "I'm glad to hear that, {w}but I'm not the leader yet."
 
-# game/game/script.rpy:7986
+# game/game/script.rpy:7992
 translate ukrainian yui_time_834b7a80:
 
     # mc "And just for that."
     mc "And just for that."
 
-# game/game/script.rpy:7988
+# game/game/script.rpy:7994
 translate ukrainian yui_time_c88bbb65:
 
     # y "Mmm?"
     y "Mmm?"
 
-# game/game/script.rpy:7989
+# game/game/script.rpy:7995
 translate ukrainian yui_time_b42868b0:
 
     # mc "See you in a few hours."
     mc "See you in a few hours."
 
-# game/game/script.rpy:7991
+# game/game/script.rpy:7997
 translate ukrainian yui_time_71a86863_2:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:7993
+# game/game/script.rpy:7999
 translate ukrainian yui_time_b712165f:
 
     # y "{sc=3}{outlinecolor=#000000}Ehnm!"
-    y "{sc=3}{outlinecolor=#000000}Ehnm!"
+    y "{sc=3}{outlinecolor=#000000}Ehnm!" with hpunch
 
-# game/game/script.rpy:7994
+# game/game/script.rpy:8000
 translate ukrainian yui_time_b9e7b59b:
 
     # mc "If you erase it, you know what I will do to you."
     mc "If you erase it, you know what I will do to you."
 
-# game/game/script.rpy:7996
+# game/game/script.rpy:8002
 translate ukrainian yui_time_455b8133:
 
     # y "[mc]!"
-    y "[mc]!"
+    y "[mc]!" with vpunch
 
-# game/game/script.rpy:7997
+# game/game/script.rpy:8003
 translate ukrainian yui_time_68b85104:
 
     # mc "{size=-6}Hahaha."
     mc "{size=-6}Hahaha."
 
-# game/game/script.rpy:7998
+# game/game/script.rpy:8004
 translate ukrainian yui_time_47da26b3:
 
     # mc "{size=-6}Now it does look like you."
     mc "{size=-6}Now it does look like you."
 
-# game/game/script.rpy:7999
+# game/game/script.rpy:8005
 translate ukrainian yui_time_b9736348:
 
     # y "Mooh~"
     y "Mooh~"
 
-# game/game/script.rpy:8000
+# game/game/script.rpy:8006
 translate ukrainian yui_time_71a86863_3:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:8002
+# game/game/script.rpy:8008
 translate ukrainian yui_time_6cf606b2:
 
     # y "Hmm... {w=0.5}\"I'm not the leader {w}{b}yet{/b}\"?..."
     y "Hmm... {w=0.5}\"I'm not the leader {w}{b}yet{/b}\"?..."
 
-# game/game/script.rpy:8004
+# game/game/script.rpy:8010
 translate ukrainian yui_time_1f178313:
 
     # y "{i}{size=-6}Giggles*"
     y "{i}{size=-6}Giggles*"
 
-# game/game/script.rpy:8010
+# game/game/script.rpy:8016
 translate ukrainian yui_time_2a8c4977:
 
     # "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
     "{image=corazon}Yui's affection has increased to [yui_affection]{image=corazon}"
 
-# game/game/script.rpy:8024
+# game/game/script.rpy:8030
 translate ukrainian village_meeting_6153f22e:
 
     # r "Master!"
     r "Master!"
 
-# game/game/script.rpy:8029
+# game/game/script.rpy:8035
 translate ukrainian village_meeting_7aff0a2a:
 
     # mc "Oh hey, I didn't know you two were coming."
     mc "Oh hey, I didn't know you two were coming."
 
-# game/game/script.rpy:8030
+# game/game/script.rpy:8036
 translate ukrainian village_meeting_fac1cbe5:
 
     # r "Akane told us that you are going to talk about important things."
     r "Akane told us that you are going to talk about important things."
 
-# game/game/script.rpy:8032
+# game/game/script.rpy:8038
 translate ukrainian village_meeting_46f394cb:
 
     # r "When she told me that you could be the next leader I decided to find Charlotte and come right away."
     r "When she told me that you could be the next leader I decided to find Charlotte and come right away."
 
-# game/game/script.rpy:8033
+# game/game/script.rpy:8039
 translate ukrainian village_meeting_a175cb3d:
 
     # c "{size=-6}Hhmm... {w}I was training."
     c "{size=-6}Hhmm... {w}I was training."
 
-# game/game/script.rpy:8034
+# game/game/script.rpy:8040
 translate ukrainian village_meeting_17900d3e:
 
     # c "It was not necessary for me to come too..."
     c "It was not necessary for me to come too..."
 
-# game/game/script.rpy:8036
+# game/game/script.rpy:8042
 translate ukrainian village_meeting_fad52eb2:
 
     # c "{sc=3}{outlinecolor=#000000}Yaawnm~"
-    c "{sc=3}{outlinecolor=#000000}Yaawnm~"
+    c "{sc=3}{outlinecolor=#000000}Yaawnm~" (multiple=2)
 
-# game/game/script.rpy:8037
+# game/game/script.rpy:8043
 translate ukrainian village_meeting_f10a016c:
 
     # r "Mooh~"
-    r "Mooh~"
+    r "Mooh~" (multiple=2)
 
-# game/game/script.rpy:8038
+# game/game/script.rpy:8044
 translate ukrainian village_meeting_3cab2d27:
 
     # r "I'll give you a double portion of fish next dinner."
     r "I'll give you a double portion of fish next dinner."
 
-# game/game/script.rpy:8039
+# game/game/script.rpy:8045
 translate ukrainian village_meeting_d19f855d:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:8041
+# game/game/script.rpy:8047
 translate ukrainian village_meeting_b6e55999:
 
     # c "What are we waiting for."
     c "What are we waiting for."
 
-# game/game/script.rpy:8042
+# game/game/script.rpy:8048
 translate ukrainian village_meeting_18ee1c72:
 
     # r "{size=-6}{i}Sigh~"
     r "{size=-6}{i}Sigh~"
 
-# game/game/script.rpy:8043
+# game/game/script.rpy:8049
 translate ukrainian village_meeting_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:8045
+# game/game/script.rpy:8051
 translate ukrainian village_meeting_34d94bf7:
 
     # mc "I'm glad you came, maybe it's a good idea for you to know about the situation in the village as well."
     mc "I'm glad you came, maybe it's a good idea for you to know about the situation in the village as well."
 
-# game/game/script.rpy:8046
+# game/game/script.rpy:8052
 translate ukrainian village_meeting_2f3b7635:
 
     # mc "Is Akane still in the house?"
     mc "Is Akane still in the house?"
 
-# game/game/script.rpy:8047
+# game/game/script.rpy:8053
 translate ukrainian village_meeting_81d64696:
 
     # r "No, she went out earlier, she must be inside by now."
     r "No, she went out earlier, she must be inside by now."
 
-# game/game/script.rpy:8049
+# game/game/script.rpy:8055
 translate ukrainian village_meeting_00ac1d98:
 
     # mc "Then let's go inside."
     mc "Then let's go inside."
 
-# game/game/script.rpy:8050
+# game/game/script.rpy:8056
 translate ukrainian village_meeting_79459d30:
 
     # c "Okay."
-    c "Okay."
+    c "Okay." (multiple=2)
 
-# game/game/script.rpy:8051
+# game/game/script.rpy:8057
 translate ukrainian village_meeting_c32151a8:
 
     # r "Yes~"
-    r "Yes~"
+    r "Yes~" (multiple=2)
 
-# game/game/script.rpy:8056
+# game/game/script.rpy:8062
 translate ukrainian village_meeting_d77bf2f1:
 
     # s "Wooah!~"
     s "Wooah!~"
 
-# game/game/script.rpy:8058
+# game/game/script.rpy:8064
 translate ukrainian village_meeting_0cc0a448:
 
     # ma "This is nothing! I can still handle more!"
     ma "This is nothing! I can still handle more!"
 
-# game/game/script.rpy:8059
+# game/game/script.rpy:8065
 translate ukrainian village_meeting_ca5828dd:
 
     # to "How many times have you done this?"
     to "How many times have you done this?"
 
-# game/game/script.rpy:8060
+# game/game/script.rpy:8066
 translate ukrainian village_meeting_e062db3b:
 
     # c "{size=-6}Are we in the right place?"
-    c "{size=-6}Are we in the right place?"
+    c "{size=-6}Are we in the right place?" (multiple=2)
 
-# game/game/script.rpy:8062
+# game/game/script.rpy:8068
 translate ukrainian village_meeting_90e50d5c:
 
     # r "{size=-6}I think so..."
-    r "{size=-6}I think so..."
+    r "{size=-6}I think so..." (multiple=3)
 
-# game/game/script.rpy:8065
+# game/game/script.rpy:8071
 translate ukrainian village_meeting_d14e7d18:
 
     # ma "This is the first time I put two things."
     ma "This is the first time I put two things."
 
-# game/game/script.rpy:8066
+# game/game/script.rpy:8072
 translate ukrainian village_meeting_7478e23d:
 
     # ma "Give me something else!"
-    ma "Give me something else!"
+    ma "Give me something else!" with hpunch
 
-# game/game/script.rpy:8067
+# game/game/script.rpy:8073
 translate ukrainian village_meeting_e305a569:
 
     # s "Which thing? {w}A chair?"
     s "Which thing? {w}A chair?"
 
-# game/game/script.rpy:8068
+# game/game/script.rpy:8074
 translate ukrainian village_meeting_4ad92ff4:
 
     # ma "Yes!-"
-    ma "Yes!-"
+    ma "Yes!-" with hpunch
 
-# game/game/script.rpy:8070
+# game/game/script.rpy:8076
 translate ukrainian village_meeting_c7da331a:
 
     # h "Don't even think about it, if they fall on your head I will be very angry."
-    h "Don't even think about it, if they fall on your head I will be very angry."
+    h "Don't even think about it, if they fall on your head I will be very angry." with vpunch
 
-# game/game/script.rpy:8071
+# game/game/script.rpy:8077
 translate ukrainian village_meeting_9b5ce080:
 
     # ak "Say what you want, but being able to do that is a talent..."
     ak "Say what you want, but being able to do that is a talent..."
 
-# game/game/script.rpy:8073
+# game/game/script.rpy:8079
 translate ukrainian village_meeting_22e66f76:
 
     # h "Now I understand why I found bruises on her head..."
     h "Now I understand why I found bruises on her head..."
 
-# game/game/script.rpy:8074
+# game/game/script.rpy:8080
 translate ukrainian village_meeting_dbf4a188:
 
     # ak "Oh, hey, you managed to convince Charlotte."
     ak "Oh, hey, you managed to convince Charlotte."
 
-# game/game/script.rpy:8076
+# game/game/script.rpy:8082
 translate ukrainian village_meeting_535ffc75:
 
     # c "I'm expecting a lot of fish for the next dinner."
     c "I'm expecting a lot of fish for the next dinner."
 
-# game/game/script.rpy:8077
+# game/game/script.rpy:8083
 translate ukrainian village_meeting_7ea830c0:
 
     # r "There you go..."
     r "There you go..."
 
-# game/game/script.rpy:8078
+# game/game/script.rpy:8084
 translate ukrainian village_meeting_ccb47180:
 
     # ak "You never change..."
     ak "You never change..."
 
-# game/game/script.rpy:8080
+# game/game/script.rpy:8086
 translate ukrainian village_meeting_c6f96d65:
 
     # h "Then we just have to wait for Yui."
     h "Then we just have to wait for Yui."
 
-# game/game/script.rpy:8081
+# game/game/script.rpy:8087
 translate ukrainian village_meeting_ae7de76f:
 
     # ak "In the morning I invited her to join us for lunch but she said she was busy."
     ak "In the morning I invited her to join us for lunch but she said she was busy."
 
-# game/game/script.rpy:8082
+# game/game/script.rpy:8088
 translate ukrainian village_meeting_9511ba37:
 
     # mc "I just saw her, I'm sure she'll be here in a few minutes."
     mc "I just saw her, I'm sure she'll be here in a few minutes."
 
-# game/game/script.rpy:8084
+# game/game/script.rpy:8090
 translate ukrainian village_meeting_8b58abd9:
 
     # mc "Seeing the two of you together reminds me of the first time we met."
     mc "Seeing the two of you together reminds me of the first time we met."
 
-# game/game/script.rpy:8085
+# game/game/script.rpy:8091
 translate ukrainian village_meeting_8dd38072:
 
     # h "Fufu~ {w}When Akane wanted nothing to do with you?"
     h "Fufu~ {w}When Akane wanted nothing to do with you?"
 
-# game/game/script.rpy:8086
+# game/game/script.rpy:8092
 translate ukrainian village_meeting_1fce5a05:
 
     # ak "Of course, who would want to meet a complete pervert."
     ak "Of course, who would want to meet a complete pervert."
 
-# game/game/script.rpy:8087
+# game/game/script.rpy:8093
 translate ukrainian village_meeting_4698326e:
 
     # mc "Eh-"
     mc "Eh-"
 
-# game/game/script.rpy:8089
+# game/game/script.rpy:8095
 translate ukrainian village_meeting_63da9e0a:
 
     # h "And what made you change your mind?"
     h "And what made you change your mind?"
 
-# game/game/script.rpy:8090
+# game/game/script.rpy:8096
 translate ukrainian village_meeting_46b79df3:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:8092
+# game/game/script.rpy:8098
 translate ukrainian village_meeting_66dbe202:
 
     # ak "He is a useful pervert."
     ak "He is a useful pervert."
 
-# game/game/script.rpy:8093
+# game/game/script.rpy:8099
 translate ukrainian village_meeting_3a210e7d:
 
     # h "Hahaha~ {w=0.5}He is still a pervert?"
-    h "Hahaha~ {w=0.5}He is still a pervert?"
+    h "Hahaha~ {w=0.5}He is still a pervert?" with hpunch
 
-# game/game/script.rpy:8094
+# game/game/script.rpy:8100
 translate ukrainian village_meeting_5a9b4fec:
 
     # mc "A-At least everything ended well..."
     mc "A-At least everything ended well..."
 
-# game/game/script.rpy:8096
+# game/game/script.rpy:8102
 translate ukrainian village_meeting_fd0b68e5:
 
     # h "{size=-6}{i}Well... he is a man after all."
     h "{size=-6}{i}Well... he is a man after all."
 
-# game/game/script.rpy:8098
+# game/game/script.rpy:8104
 translate ukrainian village_meeting_d2422d8e:
 
     # mc "{i}{size=-6}Uhm..."
     mc "{i}{size=-6}Uhm..."
 
-# game/game/script.rpy:8099
+# game/game/script.rpy:8105
 translate ukrainian village_meeting_c03020e4:
 
     # h "How do you feel? Ready for this meeting?"
     h "How do you feel? Ready for this meeting?"
 
-# game/game/script.rpy:8100
+# game/game/script.rpy:8106
 translate ukrainian village_meeting_fab5200b:
 
     # mc "Y-Yeah, we will only talk about the problems of the village, won't we?"
     mc "Y-Yeah, we will only talk about the problems of the village, won't we?"
 
-# game/game/script.rpy:8101
+# game/game/script.rpy:8107
 translate ukrainian village_meeting_7972495d:
 
     # h "Oh... suure~{image=corazon}"
     h "Oh... suure~{image=corazon}"
 
-# game/game/script.rpy:8105
+# game/game/script.rpy:8111
 translate ukrainian village_meeting_e33b6250:
 
     # y "Excuse me."
     y "Excuse me."
 
-# game/game/script.rpy:8107
+# game/game/script.rpy:8113
 translate ukrainian village_meeting_19d99d93:
 
     # y "Sorry, I had to talk to the soldiers and I ran out of time."
     y "Sorry, I had to talk to the soldiers and I ran out of time."
 
-# game/game/script.rpy:8108
+# game/game/script.rpy:8114
 translate ukrainian village_meeting_dc29ae4b:
 
     # h "Don't worry, the important thing is that we are all here."
     h "Don't worry, the important thing is that we are all here."
 
-# game/game/script.rpy:8110
+# game/game/script.rpy:8116
 translate ukrainian village_meeting_abdc64ec:
 
     # ak "Hello."
-    ak "Hello."
+    ak "Hello." (multiple=2)
 
-# game/game/script.rpy:8111
+# game/game/script.rpy:8117
 translate ukrainian village_meeting_ff754112:
 
     # mc "Hey."
-    mc "Hey."
+    mc "Hey." (multiple=2)
 
-# game/game/script.rpy:8112
+# game/game/script.rpy:8118
 translate ukrainian village_meeting_255f7d4e:
 
     # y "Hello."
     y "Hello."
 
-# game/game/script.rpy:8113
+# game/game/script.rpy:8119
 translate ukrainian village_meeting_4df3c549:
 
     # ma "Hey Yui!"
-    ma "Hey Yui!"
+    ma "Hey Yui!" with hpunch
 
-# game/game/script.rpy:8114
+# game/game/script.rpy:8120
 translate ukrainian village_meeting_f1deb1b1:
 
     # y "Hello-"
     y "Hello-"
 
-# game/game/script.rpy:8116
+# game/game/script.rpy:8122
 translate ukrainian village_meeting_71a86863:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:8117
+# game/game/script.rpy:8123
 translate ukrainian village_meeting_6a618a27:
 
     # mc "Mmm? What happened?"
     mc "Mmm? What happened?"
 
-# game/game/script.rpy:8119
+# game/game/script.rpy:8125
 translate ukrainian village_meeting_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8120
+# game/game/script.rpy:8126
 translate ukrainian village_meeting_59798d23:
 
     # t "How is that even possible?"
     t "How is that even possible?"
 
-# game/game/script.rpy:8121
+# game/game/script.rpy:8127
 translate ukrainian village_meeting_92f4facc:
 
     # y "What are you doing...?"
     y "What are you doing...?"
 
-# game/game/script.rpy:8122
+# game/game/script.rpy:8128
 translate ukrainian village_meeting_0558f5bf:
 
     # s "More to the left! No! Your other left!"
-    s "More to the left! No! Your other left!"
+    s "More to the left! No! Your other left!" (multiple=2)
 
-# game/game/script.rpy:8123
+# game/game/script.rpy:8129
 translate ukrainian village_meeting_6e596f11:
 
     # to "Sigh~"
-    to "Sigh~"
+    to "Sigh~" (multiple=2)
 
-# game/game/script.rpy:8124
+# game/game/script.rpy:8130
 translate ukrainian village_meeting_220252f1:
 
     # h "Can you stop that? We are about to start the meeting..."
     h "Can you stop that? We are about to start the meeting..."
 
-# game/game/script.rpy:8125
+# game/game/script.rpy:8131
 translate ukrainian village_meeting_9ddc03d3:
 
     # ma "..."
     ma "..."
 
-# game/game/script.rpy:8126
+# game/game/script.rpy:8132
 translate ukrainian village_meeting_b9ea94bd:
 
     # ma "I think, I don't know how to get out of here."
     ma "I think, I don't know how to get out of here."
 
-# game/game/script.rpy:8128
+# game/game/script.rpy:8134
 translate ukrainian village_meeting_c0c4c69c:
 
     # to "All right, let me help you."
     to "All right, let me help you."
 
-# game/game/script.rpy:8129
+# game/game/script.rpy:8135
 translate ukrainian village_meeting_3d41c287:
 
     # ma "Thanks Tomoe, {w=0.5}I think I stopped feeling my legs 4 minutes ago."
     ma "Thanks Tomoe, {w=0.5}I think I stopped feeling my legs 4 minutes ago."
 
-# game/game/script.rpy:8130
+# game/game/script.rpy:8136
 translate ukrainian village_meeting_891349cd:
 
     # h "Sigh~"
     h "Sigh~"
 
-# game/game/script.rpy:8135
+# game/game/script.rpy:8141
 translate ukrainian village_meeting_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8136
+# game/game/script.rpy:8142
 translate ukrainian village_meeting_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:8137
+# game/game/script.rpy:8143
 translate ukrainian village_meeting_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:8142
+# game/game/script.rpy:8148
 translate ukrainian village_meeting_5ea0f756:
 
     # h "Then let's start the first village meeting."
     h "Then let's start the first village meeting."
 
-# game/game/script.rpy:8143
+# game/game/script.rpy:8149
 translate ukrainian village_meeting_3f8f2148:
 
     # h "Today we will discuss several topics."
     h "Today we will discuss several topics."
 
-# game/game/script.rpy:8144
+# game/game/script.rpy:8150
 translate ukrainian village_meeting_d1ecd384:
 
     # h "You may ask, why are we starting to do this?"
     h "You may ask, why are we starting to do this?"
 
-# game/game/script.rpy:8146
+# game/game/script.rpy:8152
 translate ukrainian village_meeting_42a54959:
 
     # h "It's quite simple, we are all part of this place."
     h "It's quite simple, we are all part of this place."
 
-# game/game/script.rpy:8147
+# game/game/script.rpy:8153
 translate ukrainian village_meeting_b3c79571:
 
     # h "But even so, we have been acting individually all this time."
     h "But even so, we have been acting individually all this time."
 
-# game/game/script.rpy:8149
+# game/game/script.rpy:8155
 translate ukrainian village_meeting_57f60909:
 
     # h "Now because of that, we have gone through some difficult times."
     h "Now because of that, we have gone through some difficult times."
 
-# game/game/script.rpy:8157
+# game/game/script.rpy:8163
 translate ukrainian village_meeting_ff997bc5:
 
     # h "That's why all the information you have, whether good or bad, can help us avoid that kind of thing."
     h "That's why all the information you have, whether good or bad, can help us avoid that kind of thing."
 
-# game/game/script.rpy:8158
+# game/game/script.rpy:8164
 translate ukrainian village_meeting_e9be88cc:
 
     # h "If anyone wants to come here and talk, raise your hand."
     h "If anyone wants to come here and talk, raise your hand."
 
-# game/game/script.rpy:8163
+# game/game/script.rpy:8169
 translate ukrainian village_meeting_9908ecf8:
 
     # ma "{sc=3}{outlinecolor=#000000}Yes, yes, me!"
-    ma "{sc=3}{outlinecolor=#000000}Yes, yes, me!"
+    ma "{sc=3}{outlinecolor=#000000}Yes, yes, me!" with hpunch
 
-# game/game/script.rpy:8164
+# game/game/script.rpy:8170
 translate ukrainian village_meeting_a2db397d:
 
     # h "Mayu."
     h "Mayu."
 
-# game/game/script.rpy:8166
+# game/game/script.rpy:8172
 translate ukrainian village_meeting_5f51ee1e:
 
     # t "I wonder what she wants to talk about."
     t "I wonder what she wants to talk about."
 
-# game/game/script.rpy:8167
+# game/game/script.rpy:8173
 translate ukrainian village_meeting_0dbcc738:
 
     # t "And is it necessary to pose like that?"
     t "And is it necessary to pose like that?"
 
-# game/game/script.rpy:8168
+# game/game/script.rpy:8174
 translate ukrainian village_meeting_87fd4c42:
 
     # to "Hahaha, initiative is in abundance in this girl."
     to "Hahaha, initiative is in abundance in this girl."
 
-# game/game/script.rpy:8170
+# game/game/script.rpy:8176
 translate ukrainian village_meeting_0fc57ebb:
 
     # ma "I think starting with Yui's project is the best thing to do now!"
     ma "I think starting with Yui's project is the best thing to do now!"
 
-# game/game/script.rpy:8171
+# game/game/script.rpy:8177
 translate ukrainian village_meeting_c265a43c:
 
     # ma "Now what we need most are tools, protections, more gates!"
-    ma "Now what we need most are tools, protections, more gates!"
+    ma "Now what we need most are tools, protections, more gates!" with vpunch
 
-# game/game/script.rpy:8172
+# game/game/script.rpy:8178
 translate ukrainian village_meeting_ad89f2c4:
 
     # t "Oh, {w}I thought she were going to talk about how much she love wood and how we should cut down more trees."
     t "Oh, {w}I thought she were going to talk about how much she love wood and how we should cut down more trees."
 
-# game/game/script.rpy:8174
+# game/game/script.rpy:8180
 translate ukrainian village_meeting_7732d7a8:
 
     # ma "I love wood and we should cut more trees!"
-    ma "I love wood and we should cut more trees!"
+    ma "I love wood and we should cut more trees!" with hpunch
 
-# game/game/script.rpy:8175
+# game/game/script.rpy:8181
 translate ukrainian village_meeting_7c2edbd4:
 
     # mc "Ah-"
     mc "Ah-"
 
-# game/game/script.rpy:8176
+# game/game/script.rpy:8182
 translate ukrainian village_meeting_891349cd_1:
 
     # h "Sigh~"
     h "Sigh~"
 
-# game/game/script.rpy:8177
+# game/game/script.rpy:8183
 translate ukrainian village_meeting_7632af30:
 
     # ma "It is necessary in order to achieve everything you have in mind!"
     ma "It is necessary in order to achieve everything you have in mind!"
 
-# game/game/script.rpy:8178
+# game/game/script.rpy:8184
 translate ukrainian village_meeting_a7c17d67:
 
     # ma "Don't be afraid to ask me for anything, I will build it for you."
     ma "Don't be afraid to ask me for anything, I will build it for you."
 
-# game/game/script.rpy:8181
+# game/game/script.rpy:8187
 translate ukrainian village_meeting_06a24c3b:
 
     # ma "And I look forward to whatever Yui has planned!"
     ma "And I look forward to whatever Yui has planned!"
 
-# game/game/script.rpy:8183
+# game/game/script.rpy:8189
 translate ukrainian village_meeting_b72a13d9:
 
     # ma "Thanks! No more questions."
-    ma "Thanks! No more questions."
+    ma "Thanks! No more questions." with vpunch
 
-# game/game/script.rpy:8185
+# game/game/script.rpy:8191
 translate ukrainian village_meeting_312533a6:
 
     # h "That was better than I expected..."
     h "That was better than I expected..."
 
-# game/game/script.rpy:8186
+# game/game/script.rpy:8192
 translate ukrainian village_meeting_308100e2:
 
     # h "Thanks Mayu."
     h "Thanks Mayu."
 
-# game/game/script.rpy:8187
+# game/game/script.rpy:8193
 translate ukrainian village_meeting_2e316a23:
 
     # y "Hahaha, I appreciate your support."
     y "Hahaha, I appreciate your support."
 
-# game/game/script.rpy:8188
+# game/game/script.rpy:8194
 translate ukrainian village_meeting_26469d4b:
 
     # to "Hmm..."
     to "Hmm..."
 
-# game/game/script.rpy:8190
+# game/game/script.rpy:8196
 translate ukrainian village_meeting_251e73ff:
 
     # to "Can I go now?"
     to "Can I go now?"
 
-# game/game/script.rpy:8191
+# game/game/script.rpy:8197
 translate ukrainian village_meeting_f835ed9e:
 
     # h "Oh, of course."
     h "Oh, of course."
 
-# game/game/script.rpy:8192
+# game/game/script.rpy:8198
 translate ukrainian village_meeting_03ab334a:
 
     # to "Well, I'm just consider myself a merchant and my opinions are quite simple."
     to "Well, I'm just consider myself a merchant and my opinions are quite simple."
 
-# game/game/script.rpy:8193
+# game/game/script.rpy:8199
 translate ukrainian village_meeting_409a5a46:
 
     # to "And if everything goes well, my store will also receive the benefit."
     to "And if everything goes well, my store will also receive the benefit."
 
-# game/game/script.rpy:8195
+# game/game/script.rpy:8201
 translate ukrainian village_meeting_7e7c9911:
 
     # to "And by that I mean, the people who will come can be adventurers as well as villagers, good or bad."
     to "And by that I mean, the people who will come can be adventurers as well as villagers, good or bad."
 
-# game/game/script.rpy:8196
+# game/game/script.rpy:8202
 translate ukrainian village_meeting_c596dd64:
 
     # to "What's my point?"
     to "What's my point?"
 
-# game/game/script.rpy:8197
+# game/game/script.rpy:8203
 translate ukrainian village_meeting_741975c6:
 
     # to "We have no way of quickly warning if the village is in danger."
     to "We have no way of quickly warning if the village is in danger."
 
-# game/game/script.rpy:8198
+# game/game/script.rpy:8204
 translate ukrainian village_meeting_66f151ed:
 
     # y "Hmm..."
     y "Hmm..."
 
-# game/game/script.rpy:8200
+# game/game/script.rpy:8206
 translate ukrainian village_meeting_b6d78afb:
 
     # to "How about setting some kind of alarm? A bell in certain places in the village."
     to "How about setting some kind of alarm? A bell in certain places in the village."
 
-# game/game/script.rpy:8201
+# game/game/script.rpy:8207
 translate ukrainian village_meeting_5aa49972:
 
     # c "{size=-6}{i}That's not a bad idea, you could put one on the roof where I keep watch."
     c "{size=-6}{i}That's not a bad idea, you could put one on the roof where I keep watch."
 
-# game/game/script.rpy:8202
+# game/game/script.rpy:8208
 translate ukrainian village_meeting_f3a8b511:
 
     # to "And maybe a few tables outside my store would be nice~ Hahaha."
     to "And maybe a few tables outside my store would be nice~ Hahaha."
 
-# game/game/script.rpy:8204
+# game/game/script.rpy:8210
 translate ukrainian village_meeting_fc505b69:
 
     # to "Thank you for listening."
     to "Thank you for listening."
 
-# game/game/script.rpy:8205
+# game/game/script.rpy:8211
 translate ukrainian village_meeting_8ad74d64:
 
     # to "Oh, and..."
     to "Oh, and..."
 
-# game/game/script.rpy:8207
+# game/game/script.rpy:8213
 translate ukrainian village_meeting_2f83dda1:
 
     # to "If you harvest the forest too much, don't complain if you anger the elemental spirits... hehehe~"
     to "If you harvest the forest too much, don't complain if you anger the elemental spirits... hehehe~"
 
-# game/game/script.rpy:8208
+# game/game/script.rpy:8214
 translate ukrainian village_meeting_d45f3ecf:
 
     # s "{size=-6}Spirits!?"
-    s "{size=-6}Spirits!?"
+    s "{size=-6}Spirits!?" with hpunch
 
-# game/game/script.rpy:8209
+# game/game/script.rpy:8215
 translate ukrainian village_meeting_91871872:
 
     # to "They help us more than you think, so be careful..."
     to "They help us more than you think, so be careful..."
 
-# game/game/script.rpy:8210
+# game/game/script.rpy:8216
 translate ukrainian village_meeting_ea0eb875:
 
     # r "{size=-6}{i}Elemental spirits are more likely to approach elves than other races..."
     r "{size=-6}{i}Elemental spirits are more likely to approach elves than other races..."
 
-# game/game/script.rpy:8212
+# game/game/script.rpy:8218
 translate ukrainian village_meeting_1d24b57c:
 
     # t "Spirits? {w}I remember Yui saying that dryads exist."
     t "Spirits? {w}I remember Yui saying that dryads exist."
 
-# game/game/script.rpy:8213
+# game/game/script.rpy:8219
 translate ukrainian village_meeting_460a0396:
 
     # t "Tomoe is very mysterious about how she gets her mercancy, does it have anything to do with it?"
     t "Tomoe is very mysterious about how she gets her mercancy, does it have anything to do with it?"
 
-# game/game/script.rpy:8214
+# game/game/script.rpy:8220
 translate ukrainian village_meeting_09064350:
 
     # y "All right, it's my turn."
     y "All right, it's my turn."
 
-# game/game/script.rpy:8216
+# game/game/script.rpy:8222
 translate ukrainian village_meeting_ab5ac93a:
 
     # y "I don't know why I hadn't thought of that, so thanks for mentioning it Tomoe."
     y "I don't know why I hadn't thought of that, so thanks for mentioning it Tomoe."
 
-# game/game/script.rpy:8217
+# game/game/script.rpy:8223
 translate ukrainian village_meeting_f1b52ce3:
 
     # to "Glad to be of help."
     to "Glad to be of help."
 
-# game/game/script.rpy:8218
+# game/game/script.rpy:8224
 translate ukrainian village_meeting_fa23a33c:
 
     # y "I came with the intention of knowing everyone's opinion and ideas, {w=0.5}so that's a good start."
     y "I came with the intention of knowing everyone's opinion and ideas, {w=0.5}so that's a good start."
 
-# game/game/script.rpy:8219
+# game/game/script.rpy:8225
 translate ukrainian village_meeting_70d5eb39:
 
     # y "If you can come closer please."
     y "If you can come closer please."
 
-# game/game/script.rpy:8221
+# game/game/script.rpy:8227
 translate ukrainian village_meeting_3bb9ac35:
 
     # y "I prepared a map of the village."
     y "I prepared a map of the village."
 
-# game/game/script.rpy:8222
+# game/game/script.rpy:8228
 translate ukrainian village_meeting_3e85a49b:
 
     # ma "More constructions!?"
-    ma "More constructions!?"
+    ma "More constructions!?" with hpunch
 
-# game/game/script.rpy:8223
+# game/game/script.rpy:8229
 translate ukrainian village_meeting_b02bd726:
 
     # r "Woaah~"
-    r "Woaah~"
+    r "Woaah~" (multiple=2)
 
-# game/game/script.rpy:8224
+# game/game/script.rpy:8230
 translate ukrainian village_meeting_699b0755:
 
     # s "Wooh~"
-    s "Wooh~"
+    s "Wooh~" (multiple=2)
 
-# game/game/script.rpy:8225
+# game/game/script.rpy:8231
 translate ukrainian village_meeting_6bd84df7:
 
     # c "Interesting..."
-    c "Interesting..."
+    c "Interesting..." (multiple=2)
 
-# game/game/script.rpy:8226
+# game/game/script.rpy:8232
 translate ukrainian village_meeting_65a39260:
 
     # ak "We are all there."
-    ak "We are all there."
+    ak "We are all there." (multiple=2)
 
-# game/game/script.rpy:8227
+# game/game/script.rpy:8233
 translate ukrainian village_meeting_a86028ed:
 
     # h "I see you have been quite busy."
     h "I see you have been quite busy."
 
-# game/game/script.rpy:8229
+# game/game/script.rpy:8235
 translate ukrainian village_meeting_47e5e9c5:
 
     # y "I will proceed to explain everything I have discovered so far."
     y "I will proceed to explain everything I have discovered so far."
 
-# game/game/script.rpy:8230
+# game/game/script.rpy:8236
 translate ukrainian village_meeting_6fd08d24:
 
     # y "If you have questions or know more than I do, don't hesitate to let me know."
     y "If you have questions or know more than I do, don't hesitate to let me know."
 
-# game/game/script.rpy:8231
+# game/game/script.rpy:8237
 translate ukrainian village_meeting_47f24a70:
 
     # t "And she didn't erase what I drew for her hahaha."
     t "And she didn't erase what I drew for her hahaha."
 
-# game/game/script.rpy:8233
+# game/game/script.rpy:8239
 translate ukrainian village_meeting_c98d0bb4:
 
     # y "These are all the houses in which people live."
     y "These are all the houses in which people live."
 
-# game/game/script.rpy:8234
+# game/game/script.rpy:8240
 translate ukrainian village_meeting_78d08e48:
 
     # y "Those that are crossed out are houses that are in too bad condition to be habitable."
     y "Those that are crossed out are houses that are in too bad condition to be habitable."
 
-# game/game/script.rpy:8235
+# game/game/script.rpy:8241
 translate ukrainian village_meeting_5e0a86e8:
 
     # to "These could be great places for adventurers and travelers to stay."
     to "These could be great places for adventurers and travelers to stay."
 
-# game/game/script.rpy:8236
+# game/game/script.rpy:8242
 translate ukrainian village_meeting_876fb578:
 
     # to "Or maybe for people who want to come and live here."
     to "Or maybe for people who want to come and live here."
 
-# game/game/script.rpy:8237
+# game/game/script.rpy:8243
 translate ukrainian village_meeting_c097265f:
 
     # to "It would be a good source of money."
     to "It would be a good source of money."
 
-# game/game/script.rpy:8238
+# game/game/script.rpy:8244
 translate ukrainian village_meeting_fe654c95:
 
     # ma "I have checked them, {w=0.5}{sc=3}{outlinecolor=#000000}a lot of materials will be needed..."
     ma "I have checked them, {w=0.5}{sc=3}{outlinecolor=#000000}a lot of materials will be needed..."
 
-# game/game/script.rpy:8239
+# game/game/script.rpy:8245
 translate ukrainian village_meeting_5329a64a:
 
     # t "Did her voice just tremble?"
     t "Did her voice just tremble?"
 
-# game/game/script.rpy:8241
+# game/game/script.rpy:8247
 translate ukrainian village_meeting_4d514f0d:
 
     # y "The red thing surrounding the village is obviously the wall."
     y "The red thing surrounding the village is obviously the wall."
 
-# game/game/script.rpy:8242
+# game/game/script.rpy:8248
 translate ukrainian village_meeting_3aae3845:
 
     # h "We have always used only two entrances, the others are blocked."
     h "We have always used only two entrances, the others are blocked."
 
-# game/game/script.rpy:8243
+# game/game/script.rpy:8249
 translate ukrainian village_meeting_444f8432:
 
     # c "The northern and southern areas of the village are the blind spots, and monsters tend to hang around there."
     c "The northern and southern areas of the village are the blind spots, and monsters tend to hang around there."
 
-# game/game/script.rpy:8244
+# game/game/script.rpy:8250
 translate ukrainian village_meeting_3ed3c3db:
 
     # y "Yes, and if you have observed well, they are perfect places to be used."
     y "Yes, and if you have observed well, they are perfect places to be used."
 
-# game/game/script.rpy:8246
+# game/game/script.rpy:8252
 translate ukrainian village_meeting_bc05e280:
 
     # y "There are two areas here that we could take advantage of but I don't know how."
     y "There are two areas here that we could take advantage of but I don't know how."
 
-# game/game/script.rpy:8247
+# game/game/script.rpy:8253
 translate ukrainian village_meeting_46b79df3_1:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:8248
+# game/game/script.rpy:8254
 translate ukrainian village_meeting_d1ff2319:
 
     # s "This must be a perfect place for medicinal plants!"
     s "This must be a perfect place for medicinal plants!"
 
-# game/game/script.rpy:8249
+# game/game/script.rpy:8255
 translate ukrainian village_meeting_51356f67:
 
     # s "It's right behind our house Doctor!"
     s "It's right behind our house Doctor!"
 
-# game/game/script.rpy:8250
+# game/game/script.rpy:8256
 translate ukrainian village_meeting_b2d39946:
 
     # h "Our garden is not so good for that kind of plants."
     h "Our garden is not so good for that kind of plants."
 
-# game/game/script.rpy:8251
+# game/game/script.rpy:8257
 translate ukrainian village_meeting_20be55e2:
 
     # y "I see, then this place..."
     y "I see, then this place..."
 
-# game/game/script.rpy:8253
+# game/game/script.rpy:8259
 translate ukrainian village_meeting_c5a02247:
 
     # ak "That place, don't touch it yet."
     ak "That place, don't touch it yet."
 
-# game/game/script.rpy:8254
+# game/game/script.rpy:8260
 translate ukrainian village_meeting_426b4ba2:
 
     # h "Hmm?"
     h "Hmm?"
 
-# game/game/script.rpy:8255
+# game/game/script.rpy:8261
 translate ukrainian village_meeting_394f2e14:
 
     # ak "If you were to clean it, would you let me take care of it?"
     ak "If you were to clean it, would you let me take care of it?"
 
-# game/game/script.rpy:8256
+# game/game/script.rpy:8262
 translate ukrainian village_meeting_32eebb1b:
 
     # h "Of course, do you have something in mind?"
     h "Of course, do you have something in mind?"
 
-# game/game/script.rpy:8257
+# game/game/script.rpy:8263
 translate ukrainian village_meeting_33cadd1a:
 
     # ak "I don't know yet."
     ak "I don't know yet."
 
-# game/game/script.rpy:8259
+# game/game/script.rpy:8265
 translate ukrainian village_meeting_7ec18c7f:
 
     # y "And finally this area needs to be cleaned, and here we could put some kind of frame with protections, to prevent them from locking us in again."
     y "And finally this area needs to be cleaned, and here we could put some kind of frame with protections, to prevent them from locking us in again."
 
-# game/game/script.rpy:8260
+# game/game/script.rpy:8266
 translate ukrainian village_meeting_71f9ca31:
 
     # mc "I'll take care of that, that on the center is the way we could open, isn't it? {w}It led to a dungeon if I remember correctly."
     mc "I'll take care of that, that on the center is the way we could open, isn't it? {w}It led to a dungeon if I remember correctly."
 
-# game/game/script.rpy:8261
+# game/game/script.rpy:8267
 translate ukrainian village_meeting_040666d0:
 
     # mc "I don't think it's our priority for now."
     mc "I don't think it's our priority for now."
 
-# game/game/script.rpy:8262
+# game/game/script.rpy:8268
 translate ukrainian village_meeting_b6e55f76:
 
     # y "That's what I thought, let's just take care of the village for now."
     y "That's what I thought, let's just take care of the village for now."
 
-# game/game/script.rpy:8263
+# game/game/script.rpy:8269
 translate ukrainian village_meeting_81273c5d:
 
     # mc "Mayu, did you hear that? {w}Time to start preparing the tools."
     mc "Mayu, did you hear that? {w}Time to start preparing the tools."
 
-# game/game/script.rpy:8264
+# game/game/script.rpy:8270
 translate ukrainian village_meeting_c8cda331:
 
     # y "Hahaha, she's been pretty quiet even though all this means jobs for her."
     y "Hahaha, she's been pretty quiet even though all this means jobs for her."
 
-# game/game/script.rpy:8265
+# game/game/script.rpy:8271
 translate ukrainian village_meeting_71a86863_1:
 
     # y "..."
     y "..."
 
-# game/game/script.rpy:8267
+# game/game/script.rpy:8273
 translate ukrainian village_meeting_ddabc3b7:
 
     # y "Mayu?"
     y "Mayu?"
 
-# game/game/script.rpy:8268
+# game/game/script.rpy:8274
 translate ukrainian village_meeting_44b06052:
 
     # to "She was here a moment ago."
     to "She was here a moment ago."
 
-# game/game/script.rpy:8269
+# game/game/script.rpy:8275
 translate ukrainian village_meeting_4b1bc20f:
 
     # mc "I was so focused on the map that I didn't notice when she left."
     mc "I was so focused on the map that I didn't notice when she left."
 
-# game/game/script.rpy:8270
+# game/game/script.rpy:8276
 translate ukrainian village_meeting_eaa3d227:
 
     # s "Me too..."
     s "Me too..."
 
-# game/game/script.rpy:8271
+# game/game/script.rpy:8277
 translate ukrainian village_meeting_b0714f85:
 
     # ak "Ah... {w}behind Shika..."
     ak "Ah... {w}behind Shika..."
 
-# game/game/script.rpy:8273
+# game/game/script.rpy:8279
 translate ukrainian village_meeting_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8274
+# game/game/script.rpy:8280
 translate ukrainian village_meeting_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8276
+# game/game/script.rpy:8282
 translate ukrainian village_meeting_ffd4e0a2:
 
     # mc "What's wrong with her...?"
     mc "What's wrong with her...?"
 
-# game/game/script.rpy:8277
+# game/game/script.rpy:8283
 translate ukrainian village_meeting_ddabc3b7_1:
 
     # y "Mayu?"
     y "Mayu?"
 
-# game/game/script.rpy:8279
+# game/game/script.rpy:8285
 translate ukrainian village_meeting_87c35707:
 
     # h "What do you say Shika?"
     h "What do you say Shika?"
 
-# game/game/script.rpy:8280
+# game/game/script.rpy:8286
 translate ukrainian village_meeting_6ed3a54f:
 
     # s "{sc=3}{outlinecolor=#000000}She is dead{/sc}, {w}I mean, {w=0.5}Mayu fainted."
     s "{sc=3}{outlinecolor=#000000}She is dead{/sc}, {w}I mean, {w=0.5}Mayu fainted."
 
-# game/game/script.rpy:8281
+# game/game/script.rpy:8287
 translate ukrainian village_meeting_841d6b19:
 
     # h "Sigh~ {w}Let her rest, everything she has to do should have brought her to her maximum happiness."
     h "Sigh~ {w}Let her rest, everything she has to do should have brought her to her maximum happiness."
 
-# game/game/script.rpy:8282
+# game/game/script.rpy:8288
 translate ukrainian village_meeting_ff6b360b:
 
     # s "Okay~"
     s "Okay~"
 
-# game/game/script.rpy:8284
+# game/game/script.rpy:8290
 translate ukrainian village_meeting_5ff577ab:
 
     # s "Oh wait, she's dead."
     s "Oh wait, she's dead."
 
-# game/game/script.rpy:8285
+# game/game/script.rpy:8291
 translate ukrainian village_meeting_5822434e:
 
     # ma "{sc=3}{outlinecolor=#000000}Hehehe~"
     ma "{sc=3}{outlinecolor=#000000}Hehehe~"
 
-# game/game/script.rpy:8286
+# game/game/script.rpy:8292
 translate ukrainian village_meeting_d6ed573e:
 
     # t "More than happy, {w}she seems very excited..."
     t "More than happy, {w}she seems very excited..."
 
-# game/game/script.rpy:8288
+# game/game/script.rpy:8294
 translate ukrainian village_meeting_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8289
+# game/game/script.rpy:8295
 translate ukrainian village_meeting_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:8290
+# game/game/script.rpy:8296
 translate ukrainian village_meeting_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:8292
+# game/game/script.rpy:8298
 translate ukrainian village_meeting_326cf4a3:
 
     # h "Now, [mc], {w}it's your turn."
     h "Now, [mc], {w}it's your turn."
 
-# game/game/script.rpy:8293
+# game/game/script.rpy:8299
 translate ukrainian village_meeting_93deaf69:
 
     # mc "Ah..."
     mc "Ah..."
 
-# game/game/script.rpy:8294
+# game/game/script.rpy:8300
 translate ukrainian village_meeting_ae751070:
 
     # h "What have you decided?"
     h "What have you decided?"
 
-# game/game/script.rpy:8295
+# game/game/script.rpy:8301
 translate ukrainian village_meeting_a662812d:
 
     # y "We know we are putting you in a difficult position."
     y "We know we are putting you in a difficult position."
 
-# game/game/script.rpy:8296
+# game/game/script.rpy:8302
 translate ukrainian village_meeting_3a3b44b0:
 
     # y "But everyone here knows that you have the qualities of a leader."
     y "But everyone here knows that you have the qualities of a leader."
 
-# game/game/script.rpy:8297
+# game/game/script.rpy:8303
 translate ukrainian village_meeting_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8298
+# game/game/script.rpy:8304
 translate ukrainian village_meeting_a54d4884:
 
     # mc "The truth is, I know I'm not the right person for this."
     mc "The truth is, I know I'm not the right person for this."
 
-# game/game/script.rpy:8300
+# game/game/script.rpy:8306
 translate ukrainian village_meeting_44199782:
 
     # mc "I'm not wise like Hana nor do I know how to make the best decisions like Yui."
     mc "I'm not wise like Hana nor do I know how to make the best decisions like Yui."
 
-# game/game/script.rpy:8301
+# game/game/script.rpy:8307
 translate ukrainian village_meeting_b6fc6b62:
 
     # mc "I always live my own way acting on impulse more than for any other reason."
     mc "I always live my own way acting on impulse more than for any other reason."
 
-# game/game/script.rpy:8302
+# game/game/script.rpy:8308
 translate ukrainian village_meeting_a821333e:
 
     # h "..."
-    h "..."
+    h "..." (multiple=2)
 
-# game/game/script.rpy:8303
+# game/game/script.rpy:8309
 translate ukrainian village_meeting_f3682226:
 
     # y "..."
-    y "..."
+    y "..." (multiple=2)
 
-# game/game/script.rpy:8305
+# game/game/script.rpy:8311
 translate ukrainian village_meeting_0d8000fb:
 
     # mc "I don't know how others feel just by watching them."
     mc "I don't know how others feel just by watching them."
 
-# game/game/script.rpy:8306
+# game/game/script.rpy:8312
 translate ukrainian village_meeting_ac90a2ca:
 
     # mc "For me, it takes me much longer to understand people."
     mc "For me, it takes me much longer to understand people."
 
-# game/game/script.rpy:8307
+# game/game/script.rpy:8313
 translate ukrainian village_meeting_b9b755e5:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:8309
+# game/game/script.rpy:8315
 translate ukrainian village_meeting_b99b46c8:
 
     # mc "I'm not so prudent or rational and everything I do are just because of my whims and my way of being."
     mc "I'm not so prudent or rational and everything I do are just because of my whims and my way of being."
 
-# game/game/script.rpy:8310
+# game/game/script.rpy:8316
 translate ukrainian village_meeting_d19f855d_1:
 
     # c "..."
     c "..."
 
-# game/game/script.rpy:8312
+# game/game/script.rpy:8318
 translate ukrainian village_meeting_641dd724:
 
     # mc "I wish I could be as smart or tenacious as Akane."
     mc "I wish I could be as smart or tenacious as Akane."
 
-# game/game/script.rpy:8313
+# game/game/script.rpy:8319
 translate ukrainian village_meeting_6d0596d0:
 
     # ak "{size=-6}{i}Gahg-"
     ak "{size=-6}{i}Gahg-"
 
-# game/game/script.rpy:8314
+# game/game/script.rpy:8320
 translate ukrainian village_meeting_38fa66e6:
 
     # mc "Only someone like her can live without caring what anyone else says."
     mc "Only someone like her can live without caring what anyone else says."
 
-# game/game/script.rpy:8316
+# game/game/script.rpy:8322
 translate ukrainian village_meeting_3d4e24bb:
 
     # mc "Or to be able to help others in the same way that Shika does."
     mc "Or to be able to help others in the same way that Shika does."
 
-# game/game/script.rpy:8317
+# game/game/script.rpy:8323
 translate ukrainian village_meeting_e1554201:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:8318
+# game/game/script.rpy:8324
 translate ukrainian village_meeting_577bcd81:
 
     # mc "I don't have the cleverness that Tomoe always shows and the skills that Mayu has."
     mc "I don't have the cleverness that Tomoe always shows and the skills that Mayu has."
 
-# game/game/script.rpy:8319
+# game/game/script.rpy:8325
 translate ukrainian village_meeting_348d4806:
 
     # to "{size=-6}{i}Hmm..."
     to "{size=-6}{i}Hmm..."
 
-# game/game/script.rpy:8321
+# game/game/script.rpy:8327
 translate ukrainian village_meeting_fc896afd:
 
     # mc "But..."
     mc "But..."
 
-# game/game/script.rpy:8323
+# game/game/script.rpy:8329
 translate ukrainian village_meeting_dd086c17:
 
     # mc "If even knowing all that, you still trust me to be your leader."
     mc "If even knowing all that, you still trust me to be your leader."
 
-# game/game/script.rpy:8325
+# game/game/script.rpy:8331
 translate ukrainian village_meeting_38890052:
 
     # mc "I will do my best as long as I have all of you by my side."
     mc "I will do my best as long as I have all of you by my side."
 
-# game/game/script.rpy:8326
+# game/game/script.rpy:8332
 translate ukrainian village_meeting_5e0ca066:
 
     # mc "Because even if I don't completely trust myself."
     mc "Because even if I don't completely trust myself."
 
-# game/game/script.rpy:8328
+# game/game/script.rpy:8334
 translate ukrainian village_meeting_0e5a8a64:
 
     # mc "I trust all of you."
     mc "I trust all of you."
 
-# game/game/script.rpy:8329
+# game/game/script.rpy:8335
 translate ukrainian village_meeting_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8330
+# game/game/script.rpy:8336
 translate ukrainian village_meeting_121c9eb5:
 
     # h "[mc]-"
     h "[mc]-"
 
-# game/game/script.rpy:8338
+# game/game/script.rpy:8344
 translate ukrainian village_meeting_3c9ce991:
 
     # ma "{sc=3}{outlinecolor=#000000}We have a leader!"
-    ma "{sc=3}{outlinecolor=#000000}We have a leader!"
+    ma "{sc=3}{outlinecolor=#000000}We have a leader!" with hpunch
 
-# game/game/script.rpy:8347
+# game/game/script.rpy:8353
 translate ukrainian village_meeting_65e32ffd:
 
     # mc "{sc=3}{outlinecolor=#000000}UEgh!-"
-    mc "{sc=3}{outlinecolor=#000000}UEgh!-"
+    mc "{sc=3}{outlinecolor=#000000}UEgh!-" with cumflash
 
-# game/game/script.rpy:8348
+# game/game/script.rpy:8354
 translate ukrainian village_meeting_c6f76ca4:
 
     # to "HAHAHA~"
     to "HAHAHA~"
 
-# game/game/script.rpy:8349
+# game/game/script.rpy:8355
 translate ukrainian village_meeting_2c48f600:
 
     # h "Sigh*"
     h "Sigh*"
 
-# game/game/script.rpy:8350
+# game/game/script.rpy:8356
 translate ukrainian village_meeting_a35769ef:
 
     # s "Did you see how he flew?!"
     s "Did you see how he flew?!"
 
-# game/game/script.rpy:8352
+# game/game/script.rpy:8358
 translate ukrainian village_meeting_297950dd:
 
     # ma "Leader~ {w=0.5}leader!~{image=corazon}"
     ma "Leader~ {w=0.5}leader!~{image=corazon}"
 
-# game/game/script.rpy:8353
+# game/game/script.rpy:8359
 translate ukrainian village_meeting_ef80e3dc:
 
     # ak "{size=-6}{i}That must have hurt."
     ak "{size=-6}{i}That must have hurt."
 
-# game/game/script.rpy:8355
+# game/game/script.rpy:8361
 translate ukrainian village_meeting_9e022ce8:
 
     # ma "What are you waiting for? {w}Jump in too!"
     ma "What are you waiting for? {w}Jump in too!"
 
-# game/game/script.rpy:8356
+# game/game/script.rpy:8362
 translate ukrainian village_meeting_0ffea9aa:
 
     # ma "Let's celebrate!"
     ma "Let's celebrate!"
 
-# game/game/script.rpy:8357
+# game/game/script.rpy:8363
 translate ukrainian village_meeting_b9b755e5_1:
 
     # r "..."
     r "..."
 
-# game/game/script.rpy:8359
+# game/game/script.rpy:8365
 translate ukrainian village_meeting_7426a7fe:
 
     # r "Is this how it is celebrated? {w}Then... excuse me Master..."
     r "Is this how it is celebrated? {w}Then... excuse me Master..."
 
-# game/game/script.rpy:8361
+# game/game/script.rpy:8367
 translate ukrainian village_meeting_ed1e847f:
 
     # c "Well..."
     c "Well..."
 
-# game/game/script.rpy:8363
+# game/game/script.rpy:8369
 translate ukrainian village_meeting_31eac902:
 
     # s "Me too me too!"
     s "Me too me too!"
 
-# game/game/script.rpy:8365
+# game/game/script.rpy:8371
 translate ukrainian village_meeting_435c89c9:
 
     # to "I can't say no to something like this."
     to "I can't say no to something like this."
 
-# game/game/script.rpy:8366
+# game/game/script.rpy:8372
 translate ukrainian village_meeting_b7d8939c:
 
     # to "Are you coming Akane?"
     to "Are you coming Akane?"
 
-# game/game/script.rpy:8367
+# game/game/script.rpy:8373
 translate ukrainian village_meeting_18696a7d:
 
     # ak "I... {w}I'll pass."
     ak "I... {w}I'll pass."
 
-# game/game/script.rpy:8368
+# game/game/script.rpy:8374
 translate ukrainian village_meeting_e89184d5:
 
     # to "Okay."
     to "Okay."
 
-# game/game/script.rpy:8370
+# game/game/script.rpy:8376
 translate ukrainian village_meeting_df46e353:
 
     # h "I hope [mc] is okay..."
     h "I hope [mc] is okay..."
 
-# game/game/script.rpy:8371
+# game/game/script.rpy:8377
 translate ukrainian village_meeting_f753da9f:
 
     # y "Hahaha~"
     y "Hahaha~"
 
-# game/game/script.rpy:8372
+# game/game/script.rpy:8378
 translate ukrainian village_meeting_f64e3500:
 
     # y "I don't see him moving since Mayu jumped on him."
     y "I don't see him moving since Mayu jumped on him."
 
-# game/game/script.rpy:8373
+# game/game/script.rpy:8379
 translate ukrainian village_meeting_753aff67:
 
     # y "But we know he is strong."
     y "But we know he is strong."
 
-# game/game/script.rpy:8374
+# game/game/script.rpy:8380
 translate ukrainian village_meeting_e85537f5:
 
     # h "No matter how strong he is, he needs to breathe..."
     h "No matter how strong he is, he needs to breathe..."
 
-# game/game/script.rpy:8379
+# game/game/script.rpy:8385
 translate ukrainian village_meeting_6810da4d:
 
     # ev "{sc=3}{outlinecolor=#000000}Leader! {w=0.5}Leader! {w=0.5}Leader!~{image=corazon}"
-    ev "{sc=3}{outlinecolor=#000000}Leader! {w=0.5}Leader! {w=0.5}Leader!~{image=corazon}"
+    ev "{sc=3}{outlinecolor=#000000}Leader! {w=0.5}Leader! {w=0.5}Leader!~{image=corazon}" with vpunch
 
-# game/game/script.rpy:8381
+# game/game/script.rpy:8387
 translate ukrainian village_meeting_28b1c1b0:
 
     # h "Okay girls, you don't want to kill your leader on the first day."
     h "Okay girls, you don't want to kill your leader on the first day."
 
-# game/game/script.rpy:8382
+# game/game/script.rpy:8388
 translate ukrainian village_meeting_8a69520a:
 
     # ev "Yees~"
     ev "Yees~"
 
-# game/game/script.rpy:8383
+# game/game/script.rpy:8389
 translate ukrainian village_meeting_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8385
+# game/game/script.rpy:8391
 translate ukrainian village_meeting_c3fd9c22:
 
     # h "[mc]."
     h "[mc]."
 
-# game/game/script.rpy:8387
+# game/game/script.rpy:8393
 translate ukrainian village_meeting_9995f7f6:
 
     # h "This village is now in your care."
     h "This village is now in your care."
 
-# game/game/script.rpy:8389
+# game/game/script.rpy:8395
 translate ukrainian village_meeting_0921c660:
 
     # h "How about you start by giving it a name?"
     h "How about you start by giving it a name?"
 
-# game/game/script.rpy:8390
+# game/game/script.rpy:8396
 translate ukrainian village_meeting_359b71fa:
 
     # mc "A name..."
     mc "A name..."
 
-# game/game/script.rpy:8397
+# game/game/script.rpy:8403
 translate ukrainian village_meeting_a753ef76:
 
     # h "I see... you don't have a name?"
     h "I see... you don't have a name?"
 
-# game/game/script.rpy:8398
+# game/game/script.rpy:8404
 translate ukrainian village_meeting_7d63d0fa:
 
     # h "Well, if you think of one, let me know, okay?"
     h "Well, if you think of one, let me know, okay?"
 
-# game/game/script.rpy:8402
+# game/game/script.rpy:8408
 translate ukrainian village_meeting_11479b63:
 
     # mc "[vi_n]."
     mc "[vi_n]."
 
-# game/game/script.rpy:8416
+# game/game/script.rpy:8422
 translate ukrainian village_meeting_2efd3e74:
 
     # "{image=corazon}Everyone's affection has increased!{image=corazon}"
     "{image=corazon}Everyone's affection has increased!{image=corazon}"
 
-# game/game/script.rpy:8432
+# game/game/script.rpy:8438
 translate ukrainian land_first_time_ee3aa969:
 
     # t "This must be the place..."
     t "This must be the place..."
 
-# game/game/script.rpy:8436
+# game/game/script.rpy:8442
 translate ukrainian land_first_time_4ded5cd0:
 
     # t "Thanks to Natsuki's directions, it didn't take me long to get there."
     t "Thanks to Natsuki's directions, it didn't take me long to get there."
 
-# game/game/script.rpy:8437
+# game/game/script.rpy:8443
 translate ukrainian land_first_time_47079b05:
 
     # t "But still, I'm sweating...."
     t "But still, I'm sweating...."
 
-# game/game/script.rpy:8439
+# game/game/script.rpy:8445
 translate ukrainian land_first_time_577f33b3:
 
     # mc "Mmm..."
     mc "Mmm..."
 
-# game/game/script.rpy:8440
+# game/game/script.rpy:8446
 translate ukrainian land_first_time_aa9f044a:
 
     # t "The water is warm."
     t "The water is warm."
 
-# game/game/script.rpy:8441
+# game/game/script.rpy:8447
 translate ukrainian land_first_time_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8443
+# game/game/script.rpy:8449
 translate ukrainian land_first_time_fd37294f:
 
     # t "This place is very peaceful... {w}If only weak monsters are around, I could bring some of the girls with me next time."
     t "This place is very peaceful... {w}If only weak monsters are around, I could bring some of the girls with me next time."
 
-# game/game/script.rpy:8444
+# game/game/script.rpy:8450
 translate ukrainian land_first_time_3e496d38:
 
     # t "I should get moving, if there is more and more water, I'm on the-"
     t "I should get moving, if there is more and more water, I'm on the-"
 
-# game/game/script.rpy:8446
+# game/game/script.rpy:8452
 translate ukrainian land_first_time_f96410d7:
 
     # t "right path..."
     t "right path..."
 
-# game/game/script.rpy:8448
+# game/game/script.rpy:8454
 translate ukrainian land_first_time_93b66c30:
 
     # mc "Is that a slime?"
     mc "Is that a slime?"
 
-# game/game/script.rpy:8450
+# game/game/script.rpy:8456
 translate ukrainian land_first_time_fa8ea9ab:
 
     # t "Only one second was enough for it to leave the water that dirty..."
     t "Only one second was enough for it to leave the water that dirty..."
 
-# game/game/script.rpy:8451
+# game/game/script.rpy:8457
 translate ukrainian land_first_time_fcc5f8ae:
 
     # t "But, it doesn't look dangerous at all..."
     t "But, it doesn't look dangerous at all..."
 
-# game/game/script.rpy:8453
+# game/game/script.rpy:8459
 translate ukrainian land_first_time_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8454
+# game/game/script.rpy:8460
 translate ukrainian land_first_time_e136c25a:
 
     # "{color=#5ECE68}..."
     "{color=#5ECE68}..."
 
-# game/game/script.rpy:8455
+# game/game/script.rpy:8461
 translate ukrainian land_first_time_bfd9be57:
 
     # t "Should I really kill something that looks like that?"
     t "Should I really kill something that looks like that?"
 
-# game/game/script.rpy:8457
+# game/game/script.rpy:8463
 translate ukrainian land_first_time_260f3bb8:
 
     # t "Are they harmless?"
     t "Are they harmless?"
 
-# game/game/script.rpy:8458
+# game/game/script.rpy:8464
 translate ukrainian land_first_time_e136c25a_1:
 
     # "{color=#5ECE68}..."
     "{color=#5ECE68}..."
 
-# game/game/script.rpy:8464
+# game/game/script.rpy:8470
 translate ukrainian land_first_time_165543b7:
 
     # "{sc=3}{outlinecolor=#000000}{color=#5ECE68}GAHHK!"
     "{sc=3}{outlinecolor=#000000}{color=#5ECE68}GAHHK!"
 
-# game/game/script.rpy:8466
+# game/game/script.rpy:8472
 translate ukrainian land_first_time_eac2f878:
 
     # "{sc=3}{outlinecolor=#000000}{color=#5ECE68}GGwrrgh..."
     "{sc=3}{outlinecolor=#000000}{color=#5ECE68}GGwrrgh..."
 
-# game/game/script.rpy:8468
+# game/game/script.rpy:8474
 translate ukrainian land_first_time_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8470
+# game/game/script.rpy:8476
 translate ukrainian land_first_time_c49b1fb9:
 
     # mc "All right."
     mc "All right."
 
-# game/game/script.rpy:8482
+# game/game/script.rpy:8488
 translate ukrainian slimes_everywhere_4c87cfc1:
 
     # t "Oh... {w}This will take me a while..."
     t "Oh... {w}This will take me a while..."
 
-# game/game/script.rpy:8484
+# game/game/script.rpy:8490
 translate ukrainian slimes_everywhere_a2bbb32c:
 
     # t "So the water that reaches the hot springs comes from here."
     t "So the water that reaches the hot springs comes from here."
 
-# game/game/script.rpy:8486
+# game/game/script.rpy:8492
 translate ukrainian slimes_everywhere_299916be:
 
     # t "This is a beautiful place, I don't know who put up that fence but it won't stop a slime."
     t "This is a beautiful place, I don't know who put up that fence but it won't stop a slime."
 
-# game/game/script.rpy:8488
+# game/game/script.rpy:8494
 translate ukrainian slimes_everywhere_4f2adef8:
 
     # t "They look so relaxed, but they're making a mess of this place."
     t "They look so relaxed, but they're making a mess of this place."
 
-# game/game/script.rpy:8489
+# game/game/script.rpy:8495
 translate ukrainian slimes_everywhere_dfd7ab24:
 
     # t "I have to be careful, they may be slimes, but the one I just killed gave me some fight."
     t "I have to be careful, they may be slimes, but the one I just killed gave me some fight."
 
-# game/game/script.rpy:8491
+# game/game/script.rpy:8497
 translate ukrainian slimes_everywhere_358d7906:
 
     # t "If it gets too complicated, it is better to escape and come back later."
     t "If it gets too complicated, it is better to escape and come back later."
 
-# game/game/script.rpy:8494
+# game/game/script.rpy:8500
 translate ukrainian slimes_everywhere_2ea9602d:
 
     # t "Well, let's get to work."
     t "Well, let's get to work."
 
-# game/game/script.rpy:8505
+# game/game/script.rpy:8511
 translate ukrainian all_slimes_defeated_8b0c28ae:
 
     # t "All right, I think that was the last one."
     t "All right, I think that was the last one."
 
-# game/game/script.rpy:8506
+# game/game/script.rpy:8512
 translate ukrainian all_slimes_defeated_d42211fd:
 
     # t "I must go tell Natsuki."
     t "I must go tell Natsuki."
 
-# game/game/script.rpy:8514
+# game/game/script.rpy:8520
 translate ukrainian past_dream_0c0fd76e:
 
     # t "These past few days have been exhausting... I just want to relax with the girls."
     t "These past few days have been exhausting... I just want to relax with the girls."
 
-# game/game/script.rpy:8517
+# game/game/script.rpy:8523
 translate ukrainian past_dream_26170f9c:
 
     # t "You again."
     t "You again."
 
-# game/game/script.rpy:8522
+# game/game/script.rpy:8528
 translate ukrainian past_dream_6527f2bb:
 
     # t "You talk like you knew this was going to happen all along."
     t "You talk like you knew this was going to happen all along."
 
-# game/game/script.rpy:8526
+# game/game/script.rpy:8532
 translate ukrainian past_dream_6d70f35e:
 
     # t "I hear noises from Ryoko's room."
     t "I hear noises from Ryoko's room."
 
-# game/game/script.rpy:8527
+# game/game/script.rpy:8533
 translate ukrainian past_dream_cb2c1c1a:
 
     # "{color=#FF5C5C}{size=-6}It must be really uncomfortable."
     "{color=#FF5C5C}{size=-6}It must be really uncomfortable."
 
-# game/game/script.rpy:8528
+# game/game/script.rpy:8534
 translate ukrainian past_dream_8e3e39a2:
 
     # "{color=#D16992}{size=-6}It's a strange feeling... but I've gotten used to it."
     "{color=#D16992}{size=-6}It's a strange feeling... but I've gotten used to it."
 
-# game/game/script.rpy:8529
+# game/game/script.rpy:8535
 translate ukrainian past_dream_fdb000a1:
 
     # "{color=#86CDB7}{size=-6}I've noticed how it bothers you when you hold your weapon."
     "{color=#86CDB7}{size=-6}I've noticed how it bothers you when you hold your weapon."
 
-# game/game/script.rpy:8532
+# game/game/script.rpy:8538
 translate ukrainian past_dream_60b26a60:
 
     # t "Time for what?"
     t "Time for what?"
 
-# game/game/script.rpy:8534
+# game/game/script.rpy:8540
 translate ukrainian past_dream_6322ecdf:
 
     # t "Would be nice if you stopped using my head to talk to yourself..."
     t "Would be nice if you stopped using my head to talk to yourself..."
 
-# game/game/script.rpy:8543
+# game/game/script.rpy:8549
 translate ukrainian past_dream_4b29e37e:
 
     # mc "{sc=3}{outlinecolor=#000000}GHhng!?"
     mc "{sc=3}{outlinecolor=#000000}GHhng!?"
 
-# game/game/script.rpy:8545
+# game/game/script.rpy:8551
 translate ukrainian past_dream_f9c0a994:
 
     # t "W-What's happening? My head feels like it's going to explode!"
     t "W-What's happening? My head feels like it's going to explode!"
 
-# game/game/script.rpy:8554
+# game/game/script.rpy:8560
 translate ukrainian past_dream_9628646a:
 
     # "{sc=3}{outlinecolor=#000000}{i}{size=-9}Watching them again? What do you find so interesting?"
     "{sc=3}{outlinecolor=#000000}{i}{size=-9}Watching them again? What do you find so interesting?"
 
-# game/game/script.rpy:8556
+# game/game/script.rpy:8562
 translate ukrainian past_dream_6081bc7e:
 
     # t "{sc=2}{outlinecolor=#000000}{i}{size=-6}T-This isn't... {w}my mind..."
     t "{sc=2}{outlinecolor=#000000}{i}{size=-6}T-This isn't... {w}my mind..."
 
-# game/game/script.rpy:8557
+# game/game/script.rpy:8563
 translate ukrainian past_dream_0d5845c3:
 
     # r "What was that noise? {w}Master?"
     r "What was that noise? {w}Master?"
 
-# game/game/script.rpy:8559
+# game/game/script.rpy:8565
 translate ukrainian past_dream_4d2468bf:
 
     # r "Master [mc], what are you doing?"
     r "Master [mc], what are you doing?"
 
-# game/game/script.rpy:8560
+# game/game/script.rpy:8566
 translate ukrainian past_dream_ac01a4d3:
 
     # ak "If you were trying to scare us, it didn't work, you perv-"
     ak "If you were trying to scare us, it didn't work, you perv-"
 
-# game/game/script.rpy:8563
+# game/game/script.rpy:8569
 translate ukrainian past_dream_53eb7b02:
 
     # r "{sc=2}{outlinecolor=#000000}Master!"
     r "{sc=2}{outlinecolor=#000000}Master!"
 
-# game/game/script.rpy:8564
+# game/game/script.rpy:8570
 translate ukrainian past_dream_b7a5a46b:
 
     # ak "{sc=1}{outlinecolor=#000000}Charlotte, go get Hana!"
     ak "{sc=1}{outlinecolor=#000000}Charlotte, go get Hana!"
 
-# game/game/script.rpy:8565
+# game/game/script.rpy:8571
 translate ukrainian past_dream_50b1935b:
 
     # c "Right!"
     c "Right!"
 
-# game/game/script.rpy:8567
+# game/game/script.rpy:8573
 translate ukrainian past_dream_2581af85:
 
     # r "{sc=2}{outlinecolor=#000000}Wake up! {w}What happened?"
     r "{sc=2}{outlinecolor=#000000}Wake up! {w}What happened?"
 
-# game/game/script.rpy:8568
+# game/game/script.rpy:8574
 translate ukrainian past_dream_4a770871:
 
     # ak "I swear if- {w}Ryoko, help me carry him!"
     ak "I swear if- {w}Ryoko, help me carry him!"
 
-# game/game/script.rpy:8569
+# game/game/script.rpy:8575
 translate ukrainian past_dream_1b962705:
 
     # r "Y-Yes!"
     r "Y-Yes!"
 
-# game/game/script.rpy:8570
+# game/game/script.rpy:8576
 translate ukrainian past_dream_5ee77dbe:
 
     # ak "{size=-6}If you got hurt or something... I'm going to be really upset.."
     ak "{size=-6}If you got hurt or something... I'm going to be really upset.."
 
-# game/game/script.rpy:8571
+# game/game/script.rpy:8577
 translate ukrainian past_dream_a20cefa7:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8572
+# game/game/script.rpy:8578
 translate ukrainian past_dream_8dabefc6:
 
     # ".."
     ".."
 
-# game/game/script.rpy:8573
+# game/game/script.rpy:8579
 translate ukrainian past_dream_d7edd024:
 
     # "."
     "."
 
-# game/game/script.rpy:8595
+# game/game/script.rpy:8601
 translate ukrainian past_dream_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8596
+# game/game/script.rpy:8602
 translate ukrainian past_dream_8dabefc6_1:
 
     # ".."
     ".."
 
-# game/game/script.rpy:8597
+# game/game/script.rpy:8603
 translate ukrainian past_dream_d7edd024_1:
 
     # "."
     "."
 
-# game/game/script.rpy:8604
+# game/game/script.rpy:8610
 translate ukrainian past_dream_40c4b5d1:
 
     # "{color=#F5B6F2}{size=-6}Hmm...?"
     "{color=#F5B6F2}{size=-6}Hmm...?"
 
-# game/game/script.rpy:8605
+# game/game/script.rpy:8611
 translate ukrainian past_dream_6fb0ec7d:
 
     # "{color=#F5B6F2}{size=-6}Sigh~"
     "{color=#F5B6F2}{size=-6}Sigh~"
 
-# game/game/script.rpy:8607
+# game/game/script.rpy:8613
 translate ukrainian past_dream_5a0d69a1:
 
     # "{color=#F5B6F2}Again?"
     "{color=#F5B6F2}Again?"
 
-# game/game/script.rpy:8608
+# game/game/script.rpy:8614
 translate ukrainian past_dream_69ac0054:
 
     # "{color=#F5B6F2}Does she even take her role as Goddess seriously?"
     "{color=#F5B6F2}Does she even take her role as Goddess seriously?"
 
-# game/game/script.rpy:8610
+# game/game/script.rpy:8616
 translate ukrainian past_dream_c0194bcf:
 
     # "{color=#F5B6F2}Well, I guess I'm not surprised anymore."
     "{color=#F5B6F2}Well, I guess I'm not surprised anymore."
 
-# game/game/script.rpy:8611
+# game/game/script.rpy:8617
 translate ukrainian past_dream_08f8a9bf:
 
     # "{color=#F5B6F2}She's been like this ever since I met her, and honestly..."
     "{color=#F5B6F2}She's been like this ever since I met her, and honestly..."
 
-# game/game/script.rpy:8613
+# game/game/script.rpy:8619
 translate ukrainian past_dream_71d45a21:
 
     # "{color=#F5B6F2}I hope she never changes."
     "{color=#F5B6F2}I hope she never changes."
 
-# game/game/script.rpy:8614
+# game/game/script.rpy:8620
 translate ukrainian past_dream_e277f359:
 
     # "Why are you looking at me like I'm doing something wrong?"
     "Why are you looking at me like I'm doing something wrong?"
 
-# game/game/script.rpy:8616
+# game/game/script.rpy:8622
 translate ukrainian past_dream_ffe89e85:
 
     # s "Because you are doing something wrong. {w}Do you realize what would happen if the high gods found out?"
     s "Because you are doing something wrong. {w}Do you realize what would happen if the high gods found out?"
 
-# game/game/script.rpy:8617
+# game/game/script.rpy:8623
 translate ukrainian past_dream_4675d971:
 
     # "We're goddesses, we're supposed to create and maintain order."
     "We're goddesses, we're supposed to create and maintain order."
 
-# game/game/script.rpy:8618
+# game/game/script.rpy:8624
 translate ukrainian past_dream_e688ba57:
 
     # s "Yes, but..."
     s "Yes, but..."
 
-# game/game/script.rpy:8620
+# game/game/script.rpy:8626
 translate ukrainian past_dream_90aae874:
 
     # s "From your own world, not the one you were assigned to?"
     s "From your own world, not the one you were assigned to?"
 
-# game/game/script.rpy:8621
+# game/game/script.rpy:8627
 translate ukrainian past_dream_64fef0db:
 
     # mir "There's nothing in the rules that says this is forbidden."
     mir "There's nothing in the rules that says this is forbidden."
 
-# game/game/script.rpy:8622
+# game/game/script.rpy:8628
 translate ukrainian past_dream_03646a0b:
 
     # s "Maybe because no goddess has ever been capable of creating an entire world."
     s "Maybe because no goddess has ever been capable of creating an entire world."
 
-# game/game/script.rpy:8624
+# game/game/script.rpy:8630
 translate ukrainian past_dream_a12a563c:
 
     # mir "Don't act like you're not interested, if you want I can add you to it too."
     mir "Don't act like you're not interested, if you want I can add you to it too."
 
-# game/game/script.rpy:8625
+# game/game/script.rpy:8631
 translate ukrainian past_dream_5f102da8:
 
     # s "No thanks..."
     s "No thanks..."
 
-# game/game/script.rpy:8627
+# game/game/script.rpy:8633
 translate ukrainian past_dream_0992706b:
 
     # s "It scares me to know that there can be a human version of me living in another world."
     s "It scares me to know that there can be a human version of me living in another world."
 
-# game/game/script.rpy:8628
+# game/game/script.rpy:8634
 translate ukrainian past_dream_8e097e35:
 
     # mir "Not necessarily. She's not separate from me, everything she learns and feels."
     mir "Not necessarily. She's not separate from me, everything she learns and feels."
 
-# game/game/script.rpy:8629
+# game/game/script.rpy:8635
 translate ukrainian past_dream_6cb919e0:
 
     # mir "I live it, too."
     mir "I live it, too."
 
-# game/game/script.rpy:8630
+# game/game/script.rpy:8636
 translate ukrainian past_dream_127b17c5:
 
     # s "Can you do that?"
     s "Can you do that?"
 
-# game/game/script.rpy:8632
+# game/game/script.rpy:8638
 translate ukrainian past_dream_99044850:
 
     # mir "Controlling the flow of time is more than just seeing the past or the future."
     mir "Controlling the flow of time is more than just seeing the past or the future."
 
-# game/game/script.rpy:8633
+# game/game/script.rpy:8639
 translate ukrainian past_dream_76b81dd7:
 
     # mir "When I follow the thread of a soul, I can witness everything it has learned, lived, and felt, as if it were my own."
     mir "When I follow the thread of a soul, I can witness everything it has learned, lived, and felt, as if it were my own."
 
-# game/game/script.rpy:8634
+# game/game/script.rpy:8640
 translate ukrainian past_dream_e1554201:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:8636
+# game/game/script.rpy:8642
 translate ukrainian past_dream_60257641:
 
     # mir "Come on, what are you afraid of?"
     mir "Come on, what are you afraid of?"
 
-# game/game/script.rpy:8637
+# game/game/script.rpy:8643
 translate ukrainian past_dream_aa6939e2:
 
     # s "I-"
     s "I-"
 
-# game/game/script.rpy:8638
+# game/game/script.rpy:8644
 translate ukrainian past_dream_3ce3fdda:
 
     # "{color=#8cc1e9}Hey, don't bring Shika into your weird games."
     "{color=#8cc1e9}Hey, don't bring Shika into your weird games."
 
-# game/game/script.rpy:8640
+# game/game/script.rpy:8646
 translate ukrainian past_dream_4f841833:
 
     # mir "Oh~ I've been found out."
     mir "Oh~ I've been found out."
 
-# game/game/script.rpy:8641
+# game/game/script.rpy:8647
 translate ukrainian past_dream_925795f4:
 
     # s "Keiko, I wasn't going-"
     s "Keiko, I wasn't going-"
 
-# game/game/script.rpy:8642
+# game/game/script.rpy:8648
 translate ukrainian past_dream_62be50c9:
 
     # k "Fufu~ I know, I'm just kidding."
     k "Fufu~ I know, I'm just kidding."
 
-# game/game/script.rpy:8644
+# game/game/script.rpy:8650
 translate ukrainian past_dream_095940da:
 
     # s "Are you coming for tea?"
     s "Are you coming for tea?"
 
-# game/game/script.rpy:8645
+# game/game/script.rpy:8651
 translate ukrainian past_dream_108ba87c:
 
     # k "I was coming for something else but a cup of tea wouldn't hurt."
     k "I was coming for something else but a cup of tea wouldn't hurt."
 
-# game/game/script.rpy:8646
+# game/game/script.rpy:8652
 translate ukrainian past_dream_2202a62d:
 
     # mir "Shika, can you prepare the table in the meantime? I need to talk to Keiko."
     mir "Shika, can you prepare the table in the meantime? I need to talk to Keiko."
 
-# game/game/script.rpy:8648
+# game/game/script.rpy:8654
 translate ukrainian past_dream_192e2b64:
 
     # s "Sure~"
     s "Sure~"
 
-# game/game/script.rpy:8650
+# game/game/script.rpy:8656
 translate ukrainian past_dream_fb764ae7:
 
     # s "Hmm~ Hmm~"
     s "Hmm~ Hmm~"
 
-# game/game/script.rpy:8651
+# game/game/script.rpy:8657
 translate ukrainian past_dream_0e8a2064:
 
     # k "{sc=2}{outlinecolor=#000000}{i}{size=-8}You want me to do what?!"
-    k "{sc=2}{outlinecolor=#000000}{i}{size=-8}You want me to do what?!"
+    k "{sc=2}{outlinecolor=#000000}{i}{size=-8}You want me to do what?!" with hpunch
 
-# game/game/script.rpy:8653
+# game/game/script.rpy:8659
 translate ukrainian past_dream_f5e6fdbf:
 
     # s "Uhm?"
     s "Uhm?"
 
-# game/game/script.rpy:8654
+# game/game/script.rpy:8660
 translate ukrainian past_dream_97e3c1a3:
 
     # k "{sc=2}{outlinecolor=#000000}{i}{size=-8}A-And how am I supposed to know when to do it?!"
     k "{sc=2}{outlinecolor=#000000}{i}{size=-8}A-And how am I supposed to know when to do it?!"
 
-# game/game/script.rpy:8656
+# game/game/script.rpy:8662
 translate ukrainian past_dream_7ab0c818:
 
     # mir "{size=-8}I'll give you an hourglass, and with my magic, no matter the space or time, it will always flow at the same pace."
     mir "{size=-8}I'll give you an hourglass, and with my magic, no matter the space or time, it will always flow at the same pace."
 
-# game/game/script.rpy:8657
+# game/game/script.rpy:8663
 translate ukrainian past_dream_d9605cf7:
 
     # k "{size=-8}This is absolute madness that you want me to be a part of."
     k "{size=-8}This is absolute madness that you want me to be a part of."
 
-# game/game/script.rpy:8658
+# game/game/script.rpy:8664
 translate ukrainian past_dream_4e3b1842:
 
     # "{color=#2cd390}Hey Shika, {w}where is Mirai?"
     "{color=#2cd390}Hey Shika, {w}where is Mirai?"
 
-# game/game/script.rpy:8660
+# game/game/script.rpy:8666
 translate ukrainian past_dream_d8af8265:
 
     # s "Oh, you're just in time."
     s "Oh, you're just in time."
 
-# game/game/script.rpy:8661
+# game/game/script.rpy:8667
 translate ukrainian past_dream_4adc83a8:
 
     # s "She is talking with Keiko at the moment."
     s "She is talking with Keiko at the moment."
 
-# game/game/script.rpy:8662
+# game/game/script.rpy:8668
 translate ukrainian past_dream_ab5449c1:
 
     # s "Would you like to join us for a cup of tea?"
     s "Would you like to join us for a cup of tea?"
 
-# game/game/script.rpy:8663
+# game/game/script.rpy:8669
 translate ukrainian past_dream_05feaab9:
 
     # hi "And they left you alone to set the table?"
     hi "And they left you alone to set the table?"
 
-# game/game/script.rpy:8665
+# game/game/script.rpy:8671
 translate ukrainian past_dream_bd4f52a6:
 
     # hi "What will we do if you end up giving ice cream to all of us?"
     hi "What will we do if you end up giving ice cream to all of us?"
 
-# game/game/script.rpy:8666
+# game/game/script.rpy:8672
 translate ukrainian past_dream_6652927a:
 
     # s "Hey! {w}I wasn't planning to do that."
-    s "Hey! {w}I wasn't planning to do that."
+    s "Hey! {w}I wasn't planning to do that." with vpunch
 
-# game/game/script.rpy:8667
+# game/game/script.rpy:8673
 translate ukrainian past_dream_301375b1:
 
     # s "{size=-7}Today..."
     s "{size=-7}Today..."
 
-# game/game/script.rpy:8669
+# game/game/script.rpy:8675
 translate ukrainian past_dream_74fc39b6:
 
     # hi "Hahaha~ "
     hi "Hahaha~ "
 
-# game/game/script.rpy:8670
+# game/game/script.rpy:8676
 translate ukrainian past_dream_ab3941dc:
 
     # hi "Sure, pour me a cup please."
     hi "Sure, pour me a cup please."
 
-# game/game/script.rpy:8671
+# game/game/script.rpy:8677
 translate ukrainian past_dream_08c92802:
 
     # s "{size=-6}Hmp~"
     s "{size=-6}Hmp~"
 
-# game/game/script.rpy:8673
+# game/game/script.rpy:8679
 translate ukrainian past_dream_3b3256f1:
 
     # mir "Hikari, how are you?"
     mir "Hikari, how are you?"
 
-# game/game/script.rpy:8674
+# game/game/script.rpy:8680
 translate ukrainian past_dream_aab59f1e:
 
     # k "{size=-6}Sigh~"
     k "{size=-6}Sigh~"
 
-# game/game/script.rpy:8676
+# game/game/script.rpy:8682
 translate ukrainian past_dream_6a552166:
 
     # hi "Mirai!~"
     hi "Mirai!~"
 
-# game/game/script.rpy:8677
+# game/game/script.rpy:8683
 translate ukrainian past_dream_ec93e462:
 
     # mir "Careful, why don't we sit down?"
     mir "Careful, why don't we sit down?"
 
-# game/game/script.rpy:8678
+# game/game/script.rpy:8684
 translate ukrainian past_dream_63fed368:
 
     # hi "Let me feel this divine aura for a while longer."
     hi "Let me feel this divine aura for a while longer."
 
-# game/game/script.rpy:8679
+# game/game/script.rpy:8685
 translate ukrainian past_dream_90d9edf8:
 
     # k "Ew."
     k "Ew."
 
-# game/game/script.rpy:8681
+# game/game/script.rpy:8687
 translate ukrainian past_dream_2ed586a3:
 
     # hi "Jealous of how close we are?"
     hi "Jealous of how close we are?"
 
-# game/game/script.rpy:8682
+# game/game/script.rpy:8688
 translate ukrainian past_dream_675fe5aa:
 
     # k "Not at all, I would never stick to someone like that."
     k "Not at all, I would never stick to someone like that."
 
-# game/game/script.rpy:8683
+# game/game/script.rpy:8689
 translate ukrainian past_dream_1f84af3c:
 
     # k "Poor Mirai who has to put up with your drool every time she sees you."
     k "Poor Mirai who has to put up with your drool every time she sees you."
 
-# game/game/script.rpy:8685
+# game/game/script.rpy:8691
 translate ukrainian past_dream_5feb8939:
 
     # hi "Looking for a fight, cow tits?"
     hi "Looking for a fight, cow tits?"
 
-# game/game/script.rpy:8686
+# game/game/script.rpy:8692
 translate ukrainian past_dream_82091822:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:8688
+# game/game/script.rpy:8694
 translate ukrainian past_dream_32d0a667:
 
     # k "Fufu~"
     k "Fufu~"
 
-# game/game/script.rpy:8689
+# game/game/script.rpy:8695
 translate ukrainian past_dream_b19f7916:
 
     # hi "How many times have I already told you that I hate your face?"
     hi "How many times have I already told you that I hate your face?"
 
-# game/game/script.rpy:8690
+# game/game/script.rpy:8696
 translate ukrainian past_dream_fab58ad0:
 
     # k "I've lost count."
     k "I've lost count."
 
-# game/game/script.rpy:8691
+# game/game/script.rpy:8697
 translate ukrainian past_dream_7a7861f9:
 
     # mir "If you had a child, what name would you give him?"
     mir "If you had a child, what name would you give him?"
 
-# game/game/script.rpy:8693
+# game/game/script.rpy:8699
 translate ukrainian past_dream_757c9836:
 
     # k "..."
-    k "..."
+    k "..." (multiple=2)
 
-# game/game/script.rpy:8694
+# game/game/script.rpy:8700
 translate ukrainian past_dream_232e27bd:
 
     # hi "..."
-    hi "..."
+    hi "..." (multiple=2)
 
-# game/game/script.rpy:8695
+# game/game/script.rpy:8701
 translate ukrainian past_dream_cf7b0313:
 
     # s "Huh? {w}A child?"
     s "Huh? {w}A child?"
 
-# game/game/script.rpy:8697
+# game/game/script.rpy:8703
 translate ukrainian past_dream_91a13c71:
 
     # hi "Who is the father?"
     hi "Who is the father?"
 
-# game/game/script.rpy:8698
+# game/game/script.rpy:8704
 translate ukrainian past_dream_5106d444:
 
     # mir "Hahaha~ {w}girls, calm down, it's just a question."
     mir "Hahaha~ {w}girls, calm down, it's just a question."
 
-# game/game/script.rpy:8699
+# game/game/script.rpy:8705
 translate ukrainian past_dream_989707f9:
 
     # mir "I'm not pregnant."
     mir "I'm not pregnant."
 
-# game/game/script.rpy:8700
+# game/game/script.rpy:8706
 translate ukrainian past_dream_e1554201_1:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:8701
+# game/game/script.rpy:8707
 translate ukrainian past_dream_93a0e086:
 
     # s "What about... your human version?"
     s "What about... your human version?"
 
-# game/game/script.rpy:8703
+# game/game/script.rpy:8709
 translate ukrainian past_dream_5d3c4516:
 
     # mir "No! {w}It's just a question."
-    mir "No! {w}It's just a question."
+    mir "No! {w}It's just a question." with vpunch
 
-# game/game/script.rpy:8704
+# game/game/script.rpy:8710
 translate ukrainian past_dream_2890dcba:
 
     # mir "Have you ever thought about what it's like to have children or a family?"
     mir "Have you ever thought about what it's like to have children or a family?"
 
-# game/game/script.rpy:8706
+# game/game/script.rpy:8712
 translate ukrainian past_dream_8e71837e:
 
     # hi "I think you've been watching mortals too much lately."
     hi "I think you've been watching mortals too much lately."
 
-# game/game/script.rpy:8707
+# game/game/script.rpy:8713
 translate ukrainian past_dream_8a6c2bc7:
 
     # s "She's right, you watch that hunter and that demon girl every day."
     s "She's right, you watch that hunter and that demon girl every day."
 
-# game/game/script.rpy:8708
+# game/game/script.rpy:8714
 translate ukrainian past_dream_82091822_1:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:8709
+# game/game/script.rpy:8715
 translate ukrainian past_dream_6e77d31a:
 
     # mir "What's wrong with it?"
     mir "What's wrong with it?"
 
-# game/game/script.rpy:8710
+# game/game/script.rpy:8716
 translate ukrainian past_dream_e22c9f08:
 
     # s "What's wrong with it? You even gave him your blessing."
     s "What's wrong with it? You even gave him your blessing."
 
-# game/game/script.rpy:8712
+# game/game/script.rpy:8718
 translate ukrainian past_dream_6db592c6:
 
     # hi "She did what?!"
-    hi "She did what?!"
+    hi "She did what?!" with hpunch
 
-# game/game/script.rpy:8713
+# game/game/script.rpy:8719
 translate ukrainian past_dream_904f18b7:
 
     # mir "Hahaha~"
-    mir "Hahaha~"
+    mir "Hahaha~" with vpunch
 
-# game/game/script.rpy:8714
+# game/game/script.rpy:8720
 translate ukrainian past_dream_450355d8:
 
     # hi "That you made a fictional world for a human version of yourself to live as a mortal is one thing."
     hi "That you made a fictional world for a human version of yourself to live as a mortal is one thing."
 
-# game/game/script.rpy:8715
+# game/game/script.rpy:8721
 translate ukrainian past_dream_9f0215d4:
 
     # hi "But to give your blessing to a man who is the son of a demon?"
     hi "But to give your blessing to a man who is the son of a demon?"
 
-# game/game/script.rpy:8716
+# game/game/script.rpy:8722
 translate ukrainian past_dream_1b92d43a:
 
     # hi "You know the rules, demons are not to be blessed."
     hi "You know the rules, demons are not to be blessed."
 
-# game/game/script.rpy:8718
+# game/game/script.rpy:8724
 translate ukrainian past_dream_c9c27fa3:
 
     # k "Technically, his mother was human, so he is not a demon."
     k "Technically, his mother was human, so he is not a demon."
 
-# game/game/script.rpy:8719
+# game/game/script.rpy:8725
 translate ukrainian past_dream_4cf2db21:
 
     # hi "Are you defending her?"
     hi "Are you defending her?"
 
-# game/game/script.rpy:8720
+# game/game/script.rpy:8726
 translate ukrainian past_dream_3eaa3398:
 
     # k "I'm just saying she hasn't broken any rules."
     k "I'm just saying she hasn't broken any rules."
 
-# game/game/script.rpy:8721
+# game/game/script.rpy:8727
 translate ukrainian past_dream_b7b016f2:
 
     # hi "Someone who is about to be promoted cannot be doing these things."
     hi "Someone who is about to be promoted cannot be doing these things."
 
-# game/game/script.rpy:8723
+# game/game/script.rpy:8729
 translate ukrainian past_dream_e37bf43b:
 
     # hi "You are in the same rank as her, can't you talk some sense into her?"
     hi "You are in the same rank as her, can't you talk some sense into her?"
 
-# game/game/script.rpy:8724
+# game/game/script.rpy:8730
 translate ukrainian past_dream_cfcc07a5:
 
     # s "My wings changed recently, Mirai hasn't moved up just because she doesn't want to."
     s "My wings changed recently, Mirai hasn't moved up just because she doesn't want to."
 
-# game/game/script.rpy:8725
+# game/game/script.rpy:8731
 translate ukrainian past_dream_772c3a32:
 
     # s "And you know that once she gets an idea in her head, nothing changes it."
     s "And you know that once she gets an idea in her head, nothing changes it."
 
-# game/game/script.rpy:8727
+# game/game/script.rpy:8733
 translate ukrainian past_dream_19b008e4:
 
     # hi "W-Why don't you want to?"
     hi "W-Why don't you want to?"
 
-# game/game/script.rpy:8728
+# game/game/script.rpy:8734
 translate ukrainian past_dream_b0d62467:
 
     # mir "..."
     mir "..."
 
-# game/game/script.rpy:8729
+# game/game/script.rpy:8735
 translate ukrainian past_dream_2bda4c2d:
 
     # hi "Is it because of-... {w}those mortals again...?"
     hi "Is it because of-... {w}those mortals again...?"
 
-# game/game/script.rpy:8731
+# game/game/script.rpy:8737
 translate ukrainian past_dream_619e8084:
 
     # mir "It's not just that..."
     mir "It's not just that..."
 
-# game/game/script.rpy:8732
+# game/game/script.rpy:8738
 translate ukrainian past_dream_68bf4bc2:
 
     # hi "Just that...? {w}... {w}{size=-6}The chains...?"
     hi "Just that...? {w}... {w}{size=-6}The chains...?"
 
-# game/game/script.rpy:8733
+# game/game/script.rpy:8739
 translate ukrainian past_dream_5e90c881:
 
     # hi "{size=-6}Are we a joke to you...?"
     hi "{size=-6}Are we a joke to you...?"
 
-# game/game/script.rpy:8735
+# game/game/script.rpy:8741
 translate ukrainian past_dream_fb79e78c:
 
     # hi "Would you rather continue to watch a mortal pee on himself and eat bananas than be a High Goddess?"
     hi "Would you rather continue to watch a mortal pee on himself and eat bananas than be a High Goddess?"
 
-# game/game/script.rpy:8736
+# game/game/script.rpy:8742
 translate ukrainian past_dream_3838b525:
 
     # mir "If you gave yourself the time to know them, you wouldn't see them as mere monkeys."
     mir "If you gave yourself the time to know them, you wouldn't see them as mere monkeys."
 
-# game/game/script.rpy:8738
+# game/game/script.rpy:8744
 translate ukrainian past_dream_d5bcd783:
 
     # k "Hikari."
     k "Hikari."
 
-# game/game/script.rpy:8739
+# game/game/script.rpy:8745
 translate ukrainian past_dream_349f3908:
 
     # hi "Shut up."
     hi "Shut up."
 
-# game/game/script.rpy:8740
+# game/game/script.rpy:8746
 translate ukrainian past_dream_d7760377:
 
     # hi "Just those words were enough for me to understand it all"
     hi "Just those words were enough for me to understand it all"
 
-# game/game/script.rpy:8742
+# game/game/script.rpy:8748
 translate ukrainian past_dream_145abbc5:
 
     # hi "{size=-6}Someone with such great potential..."
     hi "{size=-6}Someone with such great potential..."
 
-# game/game/script.rpy:8743
+# game/game/script.rpy:8749
 translate ukrainian past_dream_f2d93ca5:
 
     # hi "{size=-6}I'm sure she just feels sorry for those animals..."
     hi "{size=-6}I'm sure she just feels sorry for those animals..."
 
-# game/game/script.rpy:8745
+# game/game/script.rpy:8751
 translate ukrainian past_dream_21552421:
 
     # "{sc=1}{outlinecolor=#000000}{color=#2cd390}{size=-10}{i}Maybe... if they disappear..."
     "{sc=1}{outlinecolor=#000000}{color=#2cd390}{size=-10}{i}Maybe... if they disappear..."
 
-# game/game/script.rpy:8746
+# game/game/script.rpy:8752
 translate ukrainian past_dream_999e6155:
 
     # k "Hey!"
-    k "Hey!"
+    k "Hey!" with hpunch
 
-# game/game/script.rpy:8748
+# game/game/script.rpy:8754
 translate ukrainian past_dream_a755f8d4:
 
     # s "That girl admires you too much Mirai."
     s "That girl admires you too much Mirai."
 
-# game/game/script.rpy:8749
+# game/game/script.rpy:8755
 translate ukrainian past_dream_7a9d5ed5:
 
     # mir "Hikari's mindset and way of thinking are those of a true high goddess."
     mir "Hikari's mindset and way of thinking are those of a true high goddess."
 
-# game/game/script.rpy:8750
+# game/game/script.rpy:8756
 translate ukrainian past_dream_303e1f1a:
 
     # mir "The disdain for anything non-divine has always been present among us."
     mir "The disdain for anything non-divine has always been present among us."
 
-# game/game/script.rpy:8751
+# game/game/script.rpy:8757
 translate ukrainian past_dream_945d2968:
 
     # k "Yes... {w}we changed because of you..."
     k "Yes... {w}we changed because of you..."
 
-# game/game/script.rpy:8752
+# game/game/script.rpy:8758
 translate ukrainian past_dream_0067a66b:
 
     # k "But it wasn't the time or the way to tell her about those things, Shika."
     k "But it wasn't the time or the way to tell her about those things, Shika."
 
-# game/game/script.rpy:8754
+# game/game/script.rpy:8760
 translate ukrainian past_dream_3fde4566:
 
     # s "Tell that to Mirai. {w}She's the one who told me to come today and reveal those things while Hikari was present."
     s "Tell that to Mirai. {w}She's the one who told me to come today and reveal those things while Hikari was present."
 
-# game/game/script.rpy:8755
+# game/game/script.rpy:8761
 translate ukrainian past_dream_c5ed5614:
 
     # k "Again with your games no one understands?"
     k "Again with your games no one understands?"
 
-# game/game/script.rpy:8756
+# game/game/script.rpy:8762
 translate ukrainian past_dream_08989889:
 
     # mir "Hahaha~"
     mir "Hahaha~"
 
-# game/game/script.rpy:8757
+# game/game/script.rpy:8763
 translate ukrainian past_dream_d732c613:
 
     # k "I'll go talk to her. Maybe if I explain the situation, she'll understand better."
     k "I'll go talk to her. Maybe if I explain the situation, she'll understand better."
 
-# game/game/script.rpy:8759
+# game/game/script.rpy:8765
 translate ukrainian past_dream_4c2f1470:
 
     # mir "Keiko, I have one last favor to ask."
     mir "Keiko, I have one last favor to ask."
 
-# game/game/script.rpy:8760
+# game/game/script.rpy:8766
 translate ukrainian past_dream_4bc4b2e5:
 
     # k "Hmm?"
     k "Hmm?"
 
-# game/game/script.rpy:8761
+# game/game/script.rpy:8767
 translate ukrainian past_dream_d7e973b0:
 
     # mir "Tell her what I did... and tell her..."
     mir "Tell her what I did... and tell her..."
 
-# game/game/script.rpy:8762
+# game/game/script.rpy:8768
 translate ukrainian past_dream_e33c4476:
 
     # mir "That the name I would choose would be..."
     mir "That the name I would choose would be..."
 
-# game/game/script.rpy:8764
+# game/game/script.rpy:8770
 translate ukrainian past_dream_e6eec820:
 
     # mir "{i}[mc]."
     mir "{i}[mc]."
 
-# game/game/script.rpy:8765
+# game/game/script.rpy:8771
 translate ukrainian past_dream_82091822_2:
 
     # k "..."
     k "..."
 
-# game/game/script.rpy:8767
+# game/game/script.rpy:8773
 translate ukrainian past_dream_07cbc57a:
 
     # k "I hope you know what you're doing..."
     k "I hope you know what you're doing..."
 
-# game/game/script.rpy:8768
+# game/game/script.rpy:8774
 translate ukrainian past_dream_3795c70a:
 
     # mir "{size=-6}...{w}So do I."
     mir "{size=-6}...{w}So do I."
 
-# game/game/script.rpy:8769
+# game/game/script.rpy:8775
 translate ukrainian past_dream_1955d7ba:
 
     # s "Sigh~"
     s "Sigh~"
 
-# game/game/script.rpy:8770
+# game/game/script.rpy:8776
 translate ukrainian past_dream_4f3a97b2:
 
     # s "And here I was, hoping for a nice peaceful moment with everyone together..."
     s "And here I was, hoping for a nice peaceful moment with everyone together..."
 
-# game/game/script.rpy:8771
+# game/game/script.rpy:8777
 translate ukrainian past_dream_62873768:
 
     # mir "Yeah..."
     mir "Yeah..."
 
-# game/game/script.rpy:8772
+# game/game/script.rpy:8778
 translate ukrainian past_dream_07bc31c9:
 
     # mir "Wanna go watch the mortals?"
     mir "Wanna go watch the mortals?"
 
-# game/game/script.rpy:8773
+# game/game/script.rpy:8779
 translate ukrainian past_dream_cd129df9:
 
     # s "Don't you ever learn?"
     s "Don't you ever learn?"
 
-# game/game/script.rpy:8774
+# game/game/script.rpy:8780
 translate ukrainian past_dream_e1554201_2:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:8775
+# game/game/script.rpy:8781
 translate ukrainian past_dream_f8df86ef:
 
     # s "Fine..."
     s "Fine..."
 
-# game/game/script.rpy:8776
+# game/game/script.rpy:8782
 translate ukrainian past_dream_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/game/script.rpy:8777
+# game/game/script.rpy:8783
 translate ukrainian past_dream_8dabefc6_2:
 
     # ".."
     ".."
 
-# game/game/script.rpy:8778
+# game/game/script.rpy:8784
 translate ukrainian past_dream_d7edd024_2:
 
     # "."
     "."
 
-# game/game/script.rpy:8787
+# game/game/script.rpy:8793
 translate ukrainian past_dream_8e870869:
 
     # t "{size=-6}Ugh... my head... {w}How much time has passed?"
     t "{size=-6}Ugh... my head... {w}How much time has passed?"
 
-# game/game/script.rpy:8788
+# game/game/script.rpy:8794
 translate ukrainian past_dream_0bff6d8e:
 
     # t "{size=-6}I feel sore... and like something heavy is pressing down on me."
     t "{size=-6}I feel sore... and like something heavy is pressing down on me."
 
-# game/game/script.rpy:8793
+# game/game/script.rpy:8799
 translate ukrainian past_dream_58be7799:
 
     # t "So this is what was making it hard to breathe..."
     t "So this is what was making it hard to breathe..."
 
-# game/game/script.rpy:8794
+# game/game/script.rpy:8800
 translate ukrainian past_dream_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8795
+# game/game/script.rpy:8801
 translate ukrainian past_dream_c7b0393e:
 
     # t "They must've stayed by my side... and ended up falling asleep on top of me."
     t "They must've stayed by my side... and ended up falling asleep on top of me."
 
-# game/game/script.rpy:8796
+# game/game/script.rpy:8802
 translate ukrainian past_dream_5cd421b1:
 
     # t "No wonder I felt like I was being crushed."
     t "No wonder I felt like I was being crushed."
 
-# game/game/script.rpy:8798
+# game/game/script.rpy:8804
 translate ukrainian past_dream_6b58889b:
 
     # mc "{size=-6}Sigh*"
     mc "{size=-6}Sigh*"
 
-# game/game/script.rpy:8799
+# game/game/script.rpy:8805
 translate ukrainian past_dream_a3615b3d:
 
     # t "Was everything I saw... real?"
     t "Was everything I saw... real?"
 
-# game/game/script.rpy:8800
+# game/game/script.rpy:8806
 translate ukrainian past_dream_2b35b6fe_1:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8801
+# game/game/script.rpy:8807
 translate ukrainian past_dream_e4af0793:
 
     # t "My mother had wings... {w}and they called that girl Shika..."
     t "My mother had wings... {w}and they called that girl Shika..."
 
-# game/game/script.rpy:8803
+# game/game/script.rpy:8809
 translate ukrainian past_dream_46bcb638:
 
     # t "I should get some rest... it'll help me clear my thoughts too."
     t "I should get some rest... it'll help me clear my thoughts too."
 
-# game/game/script.rpy:8810
+# game/game/script.rpy:8816
 translate ukrainian past_dream_2b35b6fe_2:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8811
+# game/game/script.rpy:8817
 translate ukrainian past_dream_d46e8cf8:
 
     # mc "{sc=1}{outlinecolor=#000000}Ugh..."
     mc "{sc=1}{outlinecolor=#000000}Ugh..."
 
-# game/game/script.rpy:8813
+# game/game/script.rpy:8819
 translate ukrainian past_dream_c20248f1:
 
     # t "I-I can't feel my arms... {w}or my legs."
     t "I-I can't feel my arms... {w}or my legs."
 
-# game/game/script.rpy:8814
+# game/game/script.rpy:8820
 translate ukrainian past_dream_c6558411:
 
     # t "I don't want to wake them up, but I think I've lost all circulation in my body..."
     t "I don't want to wake them up, but I think I've lost all circulation in my body..."
 
-# game/game/script.rpy:8816
+# game/game/script.rpy:8822
 translate ukrainian past_dream_d4f9ae0a:
 
     # t "At least being stuck here gave me time to sort out my thoughts."
     t "At least being stuck here gave me time to sort out my thoughts."
 
-# game/game/script.rpy:8817
+# game/game/script.rpy:8823
 translate ukrainian past_dream_d4691cd0:
 
     # t "That goddess was definitely my mother... Although there was something different about her."
     t "That goddess was definitely my mother... Although there was something different about her."
 
-# game/game/script.rpy:8818
+# game/game/script.rpy:8824
 translate ukrainian past_dream_1b79770b:
 
     # t "And she was friends with Shika."
     t "And she was friends with Shika."
 
-# game/game/script.rpy:8819
+# game/game/script.rpy:8825
 translate ukrainian past_dream_f4c9533f:
 
     # t "Not to mention that she was also friends with Keiko and, strangely enough, Hikari as well."
     t "Not to mention that she was also friends with Keiko and, strangely enough, Hikari as well."
 
-# game/game/script.rpy:8820
+# game/game/script.rpy:8826
 translate ukrainian past_dream_2d38495a:
 
     # t "What did she mean by \"Tell her what I did?\""
     t "What did she mean by \"Tell her what I did?\""
 
-# game/game/script.rpy:8821
+# game/game/script.rpy:8827
 translate ukrainian past_dream_2b35b6fe_3:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8822
+# game/game/script.rpy:8828
 translate ukrainian past_dream_c378a293:
 
     # t "What I don't get is, why did it feel like I was seeing everything through Shika's eyes?"
     t "What I don't get is, why did it feel like I was seeing everything through Shika's eyes?"
 
-# game/game/script.rpy:8823
+# game/game/script.rpy:8829
 translate ukrainian past_dream_90d16c71:
 
     # t "She said, \"Until next time\"... I guess I just have to wait for more answers."
     t "She said, \"Until next time\"... I guess I just have to wait for more answers."
 
-# game/game/script.rpy:8824
+# game/game/script.rpy:8830
 translate ukrainian past_dream_3f871f46:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/script.rpy:8826
+# game/game/script.rpy:8832
 translate ukrainian past_dream_6257b47f:
 
     # ak "{sc=1}{outlinecolor=#000000}{size=-6}Ghnm~{/sc} {w}What time is it...?"
     ak "{sc=1}{outlinecolor=#000000}{size=-6}Ghnm~{/sc} {w}What time is it...?"
 
-# game/game/script.rpy:8827
+# game/game/script.rpy:8833
 translate ukrainian past_dream_9e3d844c:
 
     # mc "{size=-6}Just barely dawn."
     mc "{size=-6}Just barely dawn."
 
-# game/game/script.rpy:8828
+# game/game/script.rpy:8834
 translate ukrainian past_dream_3d21a26a:
 
     # ak "{size=-6}I should get up and make breakfast..."
     ak "{size=-6}I should get up and make breakfast..."
 
-# game/game/script.rpy:8829
+# game/game/script.rpy:8835
 translate ukrainian past_dream_56cdda13:
 
     # mc "{size=-6}No rush. Take your time."
     mc "{size=-6}No rush. Take your time."
 
-# game/game/script.rpy:8830
+# game/game/script.rpy:8836
 translate ukrainian past_dream_46b79df3:
 
     # ak "..."
     ak "..."
 
-# game/game/script.rpy:8832
+# game/game/script.rpy:8838
 translate ukrainian past_dream_1bcdce2f:
 
     # ak "{sc=2}{outlinecolor=#000000}Gahg!"
-    ak "{sc=2}{outlinecolor=#000000}Gahg!"
+    ak "{sc=2}{outlinecolor=#000000}Gahg!" with hpunch
 
-# game/game/script.rpy:8833
+# game/game/script.rpy:8839
 translate ukrainian past_dream_b52082d3:
 
     # t "Did she just realize?"
     t "Did she just realize?"
 
-# game/game/script.rpy:8835
+# game/game/script.rpy:8841
 translate ukrainian past_dream_fc730dc6:
 
     # h "Oh my~"
     h "Oh my~"
 
-# game/game/script.rpy:8836
+# game/game/script.rpy:8842
 translate ukrainian past_dream_73fd68c9:
 
     # ak "{sc=2}{outlinecolor=#000000}Uagh!"
-    ak "{sc=2}{outlinecolor=#000000}Uagh!"
+    ak "{sc=2}{outlinecolor=#000000}Uagh!" with hpunch
 
-# game/game/script.rpy:8837
+# game/game/script.rpy:8843
 translate ukrainian past_dream_1fa6c8de:
 
     # h "I hope I'm not interrupting something~{image=corazon}"
     h "I hope I'm not interrupting something~{image=corazon}"
 
-# game/game/script.rpy:8842
+# game/game/script.rpy:8848
 translate ukrainian past_dream_c26ce915:
 
     # ak "There's no problem with his heartbeat! {w}Go ahead, Hana!"
-    ak "There's no problem with his heartbeat! {w}Go ahead, Hana!"
+    ak "There's no problem with his heartbeat! {w}Go ahead, Hana!" with hpunch
 
-# game/game/script.rpy:8843
+# game/game/script.rpy:8849
 translate ukrainian past_dream_7c872180:
 
     # h "Ah~"
     h "Ah~"
 
-# game/game/script.rpy:8845
+# game/game/script.rpy:8851
 translate ukrainian past_dream_c5da383f:
 
     # s "Hello Akane, why are you so red? Do you need to use the restroom?"
     s "Hello Akane, why are you so red? Do you need to use the restroom?"
 
-# game/game/script.rpy:8846
+# game/game/script.rpy:8852
 translate ukrainian past_dream_d6fc926f:
 
     # ak "{sc=1}{outlinecolor=#000000}Hello Shika!"
-    ak "{sc=1}{outlinecolor=#000000}Hello Shika!"
+    ak "{sc=1}{outlinecolor=#000000}Hello Shika!" with hpunch
 
-# game/game/script.rpy:8851
+# game/game/script.rpy:8857
 translate ukrainian past_dream_be81a9d7:
 
     # h "Hahaha~"
     h "Hahaha~"
 
-# game/game/script.rpy:8852
+# game/game/script.rpy:8858
 translate ukrainian past_dream_da632cf0:
 
     # s "Could she have eaten something that made her sick?"
     s "Could she have eaten something that made her sick?"
 
-# game/game/script.rpy:8853
+# game/game/script.rpy:8859
 translate ukrainian past_dream_5dfe0292:
 
     # r "{sc=1}{outlinecolor=#000000}{size=-8}Ghnm~"
     r "{sc=1}{outlinecolor=#000000}{size=-8}Ghnm~"
 
-# game/game/script.rpy:8855
+# game/game/script.rpy:8861
 translate ukrainian past_dream_aaa65f92:
 
     # r "{size=-6}What-"
     r "{size=-6}What-"
 
-# game/game/script.rpy:8856
+# game/game/script.rpy:8862
 translate ukrainian past_dream_085fab89:
 
     # r "Master! You're awake! Are you feeling okay?"
-    r "Master! You're awake! Are you feeling okay?"
+    r "Master! You're awake! Are you feeling okay?" with hpunch
 
-# game/game/script.rpy:8857
+# game/game/script.rpy:8863
 translate ukrainian past_dream_a4992c0b:
 
     # mc "Hey Ryoko... {w}yeah, I think I scared you all, didn't I?"
     mc "Hey Ryoko... {w}yeah, I think I scared you all, didn't I?"
 
-# game/game/script.rpy:8859
+# game/game/script.rpy:8865
 translate ukrainian past_dream_6a50e73e:
 
     # r "Mou~ When I saw you passed out, I didn't know what to do!"
     r "Mou~ When I saw you passed out, I didn't know what to do!"
 
-# game/game/script.rpy:8860
+# game/game/script.rpy:8866
 translate ukrainian past_dream_51883f55:
 
     # r "That's what you get for always pushing yourself and never resting!"
     r "That's what you get for always pushing yourself and never resting!"
 
-# game/game/script.rpy:8861
+# game/game/script.rpy:8867
 translate ukrainian past_dream_3f871f46_1:
 
     # mc "Hmm?"
     mc "Hmm?"
 
-# game/game/script.rpy:8863
+# game/game/script.rpy:8869
 translate ukrainian past_dream_704ba571:
 
     # h "I examined your body, and it looked as if you had pushed it to its limits."
     h "I examined your body, and it looked as if you had pushed it to its limits."
 
-# game/game/script.rpy:8864
+# game/game/script.rpy:8870
 translate ukrainian past_dream_2877ae41:
 
     # h "All that work you've been doing at the village entrance must've worn you out."
     h "All that work you've been doing at the village entrance must've worn you out."
 
-# game/game/script.rpy:8865
+# game/game/script.rpy:8871
 translate ukrainian past_dream_140848a5:
 
     # t "That may have been part of it... {w}but I'm sure most of it came from what that voice did to me."
     t "That may have been part of it... {w}but I'm sure most of it came from what that voice did to me."
 
-# game/game/script.rpy:8866
+# game/game/script.rpy:8872
 translate ukrainian past_dream_326512db:
 
     # t "Not something I can explain to them, though."
     t "Not something I can explain to them, though."
 
-# game/game/script.rpy:8867
+# game/game/script.rpy:8873
 translate ukrainian past_dream_60c0811c:
 
     # mc "I'll be more careful from now on."
     mc "I'll be more careful from now on."
 
-# game/game/script.rpy:8869
+# game/game/script.rpy:8875
 translate ukrainian past_dream_2b35b6fe_4:
 
     # mc "..."
     mc "..."
 
-# game/game/script.rpy:8870
+# game/game/script.rpy:8876
 translate ukrainian past_dream_e1554201_3:
 
     # s "..."
     s "..."
 
-# game/game/script.rpy:8872
+# game/game/script.rpy:8878
 translate ukrainian past_dream_722ed750:
 
     # s "What?"
     s "What?"
 
-# game/game/script.rpy:8873
+# game/game/script.rpy:8879
 translate ukrainian past_dream_f9b047ac:
 
     # mc "...?!"
-    mc "...?!"
+    mc "...?!" with hpunch
 
-# game/game/script.rpy:8875
+# game/game/script.rpy:8881
 translate ukrainian past_dream_8b9dccc8:
 
     # s "W-What ag youg foing!?"
-    s "W-What ag youg foing!?"
+    s "W-What ag youg foing!?" with hpunch
 
-# game/game/script.rpy:8876
+# game/game/script.rpy:8882
 translate ukrainian past_dream_68905f65:
 
     # mc "Ah... yeah, you're definitely still the same old Shika."
     mc "Ah... yeah, you're definitely still the same old Shika."
 
-# game/game/script.rpy:8877
+# game/game/script.rpy:8883
 translate ukrainian past_dream_45af439c:
 
     # s "What's that supposed to mean?!"
-    s "What's that supposed to mean?!"
+    s "What's that supposed to mean?!" with hpunch
 
-# game/game/script.rpy:8879
+# game/game/script.rpy:8885
 translate ukrainian past_dream_df696ca9:
 
     # h "You'd better start taking it easy from now on."
     h "You'd better start taking it easy from now on."
 
-# game/game/script.rpy:8880
+# game/game/script.rpy:8886
 translate ukrainian past_dream_24b7240d:
 
     # h "No more heavy lifting or big jobs for a few days. Got it?"
     h "No more heavy lifting or big jobs for a few days. Got it?"
 
-# game/game/script.rpy:8881
+# game/game/script.rpy:8887
 translate ukrainian past_dream_b623633b:
 
     # mc "Yes, you're right, I'll do that."
     mc "Yes, you're right, I'll do that."
 
-# game/game/script.rpy:8882
+# game/game/script.rpy:8888
 translate ukrainian past_dream_29b1d9d5:
 
     # mc "I don't want to see my doctor angry."
     mc "I don't want to see my doctor angry."
 
-# game/game/script.rpy:8884
+# game/game/script.rpy:8890
 translate ukrainian past_dream_e1d7f44b:
 
     # h "Exactly, you don't want to know what I'll do to you if you make me angry."
     h "Exactly, you don't want to know what I'll do to you if you make me angry."
 
-# game/game/script.rpy:8885
+# game/game/script.rpy:8891
 translate ukrainian past_dream_8114a09f:
 
     # mc "Uh..."
     mc "Uh..."
 
-# game/game/script.rpy:8886
+# game/game/script.rpy:8892
 translate ukrainian past_dream_947741b7:
 
     # s "Heeey~ {w}My cheek will turn red."
     s "Heeey~ {w}My cheek will turn red."
 
-# game/game/script.rpy:8887
+# game/game/script.rpy:8893
 translate ukrainian past_dream_8daf6dd4:
 
     # mc "Oh, sorry."
     mc "Oh, sorry."
 
-# game/game/script.rpy:8889
+# game/game/script.rpy:8895
 translate ukrainian past_dream_d17aa764:
 
     # r "How much longer do you plan to sleep?"
     r "How much longer do you plan to sleep?"
 
-# game/game/script.rpy:8890
+# game/game/script.rpy:8896
 translate ukrainian past_dream_bf99b552:
 
     # c "{size=-6}{i}Human... {w}I can't eat anymore."
     c "{size=-6}{i}Human... {w}I can't eat anymore."
 
-# game/game/script.rpy:8891
+# game/game/script.rpy:8897
 translate ukrainian past_dream_1f5b224d:
 
     # mc "Hahaha."
     mc "Hahaha."
 
-# game/game/script.rpy:8892
+# game/game/script.rpy:8898
 translate ukrainian past_dream_c9d46ad9:
 
     # r "{size=-7}{i}Mou~ {w}How lucky..."
     r "{size=-7}{i}Mou~ {w}How lucky..."
 
-# game/game/script.rpy:8894
+# game/game/script.rpy:8900
 translate ukrainian past_dream_8c0c1ecf:
 
     # t "I'll follow Hana's advice... I don't want them to worry again."
     t "I'll follow Hana's advice... I don't want them to worry again."
 
-# game/game/script.rpy:8895
+# game/game/script.rpy:8901
 translate ukrainian past_dream_1dfef0aa:
 
     # t "Besides, I need to start preparing for the trip to the kingdom."
     t "Besides, I need to start preparing for the trip to the kingdom."
 
-# game/game/script.rpy:8896
+# game/game/script.rpy:8902
 translate ukrainian past_dream_dd00600d:
 
     # t "Diana should have my clothes ready by now."
@@ -29343,25 +29343,25 @@ translate ukrainian goddesses_talk_fd6ada72:
 translate ukrainian goddesses_talk_972a4525:
 
     # k "Okay, that's enough."
-    k "Okay, that's enough."
+    k "Okay, that's enough." (multiple=2)
 
 # game/game/script.rpy:9027
 translate ukrainian goddesses_talk_463705cb:
 
     # fu "Mmm!?"
-    fu "Mmm!?"
+    fu "Mmm!?" (multiple=2)
 
 # game/game/script.rpy:9030
 translate ukrainian goddesses_talk_b9c47518:
 
     # k "You're so cute!~{image=corazon}"
-    k "You're so cute!~{image=corazon}"
+    k "You're so cute!~{image=corazon}" (multiple=2)
 
 # game/game/script.rpy:9031
 translate ukrainian goddesses_talk_84b672d6:
 
     # fu "K-Keikoo!"
-    fu "K-Keikoo!"
+    fu "K-Keikoo!" (multiple=2)
 
 # game/game/script.rpy:9032
 translate ukrainian goddesses_talk_15e6d3fc:
@@ -29427,13 +29427,13 @@ translate ukrainian goddesses_talk_74c0a505_1:
 translate ukrainian goddesses_talk_46b05207:
 
     # fu "{sc=1}{outlinecolor=#000000}{size=-6}Ghn..."
-    fu "{sc=1}{outlinecolor=#000000}{size=-6}Ghn..."
+    fu "{sc=1}{outlinecolor=#000000}{size=-6}Ghn..." (multiple=2)
 
 # game/game/script.rpy:9047
 translate ukrainian goddesses_talk_12091f62:
 
     # k "Do you need anything else?"
-    k "Do you need anything else?"
+    k "Do you need anything else?" (multiple=2)
 
 # game/game/script.rpy:9048
 translate ukrainian goddesses_talk_93deaf69:
@@ -29877,7 +29877,7 @@ translate ukrainian queen_notice_72d72ef8:
 translate ukrainian queen_notice_c311b536:
 
     # qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Because you'd undoubtedly end up killing her."
-    qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Because you'd undoubtedly end up killing her."
+    qu "{sc=1}{outlinecolor=#000000}{size=-6}{b}{i}Because you'd undoubtedly end up killing her." with vpunch
 
 # game/game/script.rpy:9165
 translate ukrainian queen_notice_2c97a012:
@@ -29889,7 +29889,7 @@ translate ukrainian queen_notice_2c97a012:
 translate ukrainian queen_notice_f0d73e40:
 
     # ors "You know me so well, {sc=1}{outlinecolor=#000000}{size=-6}HAHAHA."
-    ors "You know me so well, {sc=1}{outlinecolor=#000000}{size=-6}HAHAHA."
+    ors "You know me so well, {sc=1}{outlinecolor=#000000}{size=-6}HAHAHA." with vpunch
 
 # game/game/script.rpy:9167
 translate ukrainian queen_notice_e9db0096:
@@ -29943,7 +29943,7 @@ translate ukrainian queen_notice_e25a966b:
 translate ukrainian queen_notice_567c3951:
 
     # ors "...!"
-    ors "...!"
+    ors "...!" with long_vpunch
 
 # game/game/script.rpy:9181
 translate ukrainian queen_notice_f1831ebb:
@@ -30219,7 +30219,7 @@ translate ukrainian queen_notice_059d64b7:
 translate ukrainian queen_notice_69b4b241:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-6}IDIOT!"
-    y "{sc=1}{outlinecolor=#000000}{size=-6}IDIOT!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}IDIOT!" with hpunch
 
 # game/game/script.rpy:9262
 translate ukrainian queen_notice_42a46e8d:
@@ -30243,7 +30243,7 @@ translate ukrainian queen_notice_85976b77:
 translate ukrainian queen_notice_8d208ec9:
 
     # y "That's not why I came here!"
-    y "That's not why I came here!"
+    y "That's not why I came here!" with hpunch
 
 # game/game/script.rpy:9267
 translate ukrainian queen_notice_3d319e78:
@@ -30477,7 +30477,7 @@ translate ukrainian queen_notice_194a21bf:
 translate ukrainian queen_notice_8fb24361:
 
     # y "Really!?~"
-    y "Really!?~"
+    y "Really!?~" with vpunch
 
 # game/game/script.rpy:9316
 translate ukrainian queen_notice_ad25f0f0:
@@ -30489,13 +30489,13 @@ translate ukrainian queen_notice_ad25f0f0:
 translate ukrainian queen_notice_2ecce9f1:
 
     # y "Yees!-"
-    y "Yees!-"
+    y "Yees!-" with hpunch
 
 # game/game/script.rpy:9319
 translate ukrainian queen_notice_bbec8726:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-6}You idiot!"
-    y "{sc=1}{outlinecolor=#000000}{size=-6}You idiot!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}You idiot!" with vpunch
 
 # game/game/script.rpy:9320
 translate ukrainian queen_notice_1f5b224d:
@@ -30537,7 +30537,7 @@ translate ukrainian queen_notice_2b35b6fe_3:
 translate ukrainian queen_notice_2cc4a86b:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-The deal is sealed!"
-    y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-The deal is sealed!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}T-T-The deal is sealed!" with vpunch
 
 # game/game/script.rpy:9332
 translate ukrainian queen_notice_5cc47e88:
@@ -30555,7 +30555,7 @@ translate ukrainian queen_notice_7e1322bf:
 translate ukrainian queen_notice_2857e699:
 
     # y "I left the oven on!"
-    y "I left the oven on!"
+    y "I left the oven on!" with hpunch
 
 # game/game/script.rpy:9339
 translate ukrainian queen_notice_d40eb808:

@@ -51,7 +51,7 @@ translate ukrainian yui_first_meet_333ad584:
 translate ukrainian yui_first_meet_d7551410:
 
     # y "Yes, {w}I'm coming!"
-    y "Так, {w}я йду!"
+    y "Так, {w}я йду!" with vpunch
 
 # game/game/yui_events.rpy:160
 translate ukrainian yui_first_meet_837a2bc8:
@@ -129,7 +129,7 @@ translate ukrainian yui_first_meet_1aca86e5:
 translate ukrainian yui_first_meet_4c3feced:
 
     # y "{sc=2}{outlinecolor=#000000}Kyaaa!"
-    y "{sc=2}{outlinecolor=#000000}Хіяяя!"
+    y "{sc=2}{outlinecolor=#000000}Хіяяя!" with vpunch
 
 # game/game/yui_events.rpy:186
 translate ukrainian yui_first_meet_3612e5e1:
@@ -141,13 +141,13 @@ translate ukrainian yui_first_meet_3612e5e1:
 translate ukrainian yui_first_meet_6bfcd91f:
 
     # y "Wait for me at the kotatsu!"
-    y "Зачекай на мене за котацу!"
+    y "Зачекай на мене за котацу!" with hpunch
 
 # game/game/yui_events.rpy:188
 translate ukrainian yui_first_meet_edd6ea05:
 
     # y "A-And forget what you saw!"
-    y "Й-Й забудь, що бачив!"
+    y "Й-Й забудь, що бачив!" with vpunch
 
 # game/game/yui_events.rpy:189
 translate ukrainian yui_first_meet_7597be21:
@@ -183,13 +183,13 @@ translate ukrainian yui_first_meet_017f7c8f:
 translate ukrainian yui_first_meet_9896347e:
 
     # y "Are you still here?"
-    y "Ти ще тут?"
+    y "Ти ще тут?" with vpunch
 
 # game/game/yui_events.rpy:200
 translate ukrainian yui_first_meet_654a0de2:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Cough* Cough*"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Кхм* *Кхм*{/i}"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}*Кхм* *Кхм*{/i}" with vpunch
 
 # game/game/yui_events.rpy:201
 translate ukrainian yui_first_meet_ab80997a:
@@ -297,7 +297,7 @@ translate ukrainian yui_first_meet_8b255b9e:
 translate ukrainian yui_first_meet_e8214b59:
 
     # y "Y-You don't have to bow your head like that!"
-    y "Т-Тобі не треба так схиляти голову!"
+    y "Т-Тобі не треба так схиляти голову!" with hpunch
 
 # game/game/yui_events.rpy:230
 translate ukrainian yui_first_meet_2161b170:
@@ -519,7 +519,7 @@ translate ukrainian yui_first_meet_b2b9e19d:
 translate ukrainian yui_first_meet_83fbf965:
 
     # y "Let's have a practice fight!"
-    y "Влаштуємо спаринг!"
+    y "Влаштуємо спаринг!" with hpunch
 
 # game/game/yui_events.rpy:295
 translate ukrainian yui_first_meet_e0715dbc:
@@ -603,7 +603,7 @@ translate ukrainian yui_first_meet_b89fd437:
 translate ukrainian yui_first_meet_9a2c75d2:
 
     # y "Yees!~"
-    y "Сууупер!~"
+    y "Сууупер!~" with hpunch
 
 # game/game/yui_events.rpy:322
 translate ukrainian yui_first_meet_0e06332b:
@@ -771,7 +771,7 @@ translate ukrainian yui_talk_1_f198342e:
 translate ukrainian yui_talk_1_3e6c33f6:
 
     # y "Of course! {w}I can't pass up the opportunity to face someone strong!"
-    y "Звісно! {w}Не можу ж я впустити такий шанс поборотися з кимось сильним!"
+    y "Звісно! {w}Не можу ж я впустити такий шанс поборотися з кимось сильним!" with vpunch
 
 # game/game/yui_events.rpy:387
 translate ukrainian yui_talk_1_c81213ef:
@@ -1125,7 +1125,7 @@ translate ukrainian yui_fight_pratice_d0dbca18:
 translate ukrainian yui_fight_pratice_2bfa562d:
 
     # y "{size=-10}Wait, w-what?!"
-    y "{size=-10}Стоп, щ-що?!"
+    y "{size=-10}Стоп, щ-що?!" with hpunch
 
 # game/game/yui_events.rpy:517
 translate ukrainian yui_fight_pratice_1f5b224d:
@@ -1155,7 +1155,7 @@ translate ukrainian yui_fight_pratice_c95af7b1:
 translate ukrainian yui_fight_pratice_612878ca:
 
     # mc "Hmmp!"
-    mc "{i}Гммх!{/i}"
+    mc "{i}Гммх!{/i}" with vpunch
 
 # game/game/yui_events.rpy:524
 translate ukrainian yui_fight_pratice_3aeab040:
@@ -1227,7 +1227,7 @@ translate ukrainian yui_fight_pratice_31bc6687:
 translate ukrainian yui_fight_pratice_ac0b1e42:
 
     # y "Ha!"
-    y "Ха!"
+    y "Ха!" with vpunch
 
 # game/game/yui_events.rpy:550
 translate ukrainian yui_fight_pratice_6ca32fdf:
@@ -1377,7 +1377,7 @@ translate ukrainian yui_fight_pratice_d6c09de3:
 translate ukrainian yui_fight_pratice_f5b07da9:
 
     # y "Sounds great!"
-    y "Звучить цікаво!"
+    y "Звучить цікаво!" with vpunch
 
 # game/game/yui_events.rpy:584
 translate ukrainian yui_fight_pratice_8c33d2da:
@@ -1425,7 +1425,7 @@ translate ukrainian yui_fight_pratice_71a86863_4:
 translate ukrainian yui_fight_pratice_1cf656c2:
 
     # mc "Ok ok! {w}I was kidding!"
-    mc "Добре-добре! {w}Я жартую!"
+    mc "Добре-добре! {w}Я жартую!" with hpunch
 
 # game/game/yui_events.rpy:597
 translate ukrainian yui_fight_pratice_71a86863_5:
@@ -1491,7 +1491,7 @@ translate ukrainian yui_fight_pratice_5789dd6a:
 translate ukrainian yui_fight_pratice_fb8cedce:
 
     # mc "What? {w}Really?"
-    mc "Що? {w}Справді?"
+    mc "Що? {w}Справді?" with vpunch
 
 # game/game/yui_events.rpy:612
 translate ukrainian yui_fight_pratice_5d5255b5:
@@ -1533,13 +1533,13 @@ translate ukrainian yui_fight_pratice_2b35b6fe_9:
 translate ukrainian yui_fight_pratice_7b39146e:
 
     # mc "This is a fight I can't lose!"
-    mc "Цей бій я просто не можу програти!"
+    mc "Цей бій я просто не можу програти!" with hpunch
 
 # game/game/yui_events.rpy:628
 translate ukrainian yui_fight_pratice_127c9ede:
 
     # mc "AaAAaaAh!!!"
-    mc "АаААааАх!!!"
+    mc "АаААааАх!!!" with vpunch
 
 # game/game/yui_events.rpy:630
 translate ukrainian yui_fight_pratice_dea9e279:
@@ -1569,7 +1569,7 @@ translate ukrainian yui_fight_pratice_4e179f4a:
 translate ukrainian yui_fight_pratice_0cd13d65:
 
     # y "I-Idiot!"
-    y "Д-Дурко!"
+    y "Д-Дурко!" with vpunch
 
 # game/game/yui_events.rpy:636
 translate ukrainian yui_fight_pratice_c60b5667:
@@ -1665,7 +1665,7 @@ translate ukrainian yui_fight_pratice_75768c8f:
 translate ukrainian yui_fight_pratice_237c379b:
 
     # y "{size=+7}[mc] I-Idiot!"
-    y "{size=+7}[name_form('voc')], д-дурко!"
+    y "{size=+7}[name_form('voc')], д-дурко!" with hpunch
 
 # game/game/yui_events.rpy:664
 translate ukrainian yui_fight_pratice_bf20fc9f:
@@ -1677,7 +1677,7 @@ translate ukrainian yui_fight_pratice_bf20fc9f:
 translate ukrainian yui_fight_pratice_3e665e06:
 
     # mc "{size=+7}I've never been more serious!"
-    mc "{size=+7}Я ніколи не був настільки серйозним!"
+    mc "{size=+7}Я ніколи не був настільки серйозним!" with hpunch
 
 # game/game/yui_events.rpy:667
 translate ukrainian yui_fight_pratice_c359d4a4:
@@ -1893,7 +1893,7 @@ translate ukrainian yui_start_fight_5493a661:
 translate ukrainian yui_start_fight_c2ba335c:
 
     # mc "Ha!"
-    mc "Ха!"
+    mc "Ха!" with vpunch
 
 # game/game/yui_events.rpy:746
 translate ukrainian yui_start_fight_e536a869:
@@ -1947,7 +1947,7 @@ translate ukrainian yui_start_fight_1d9d5198:
 translate ukrainian yui_start_fight_6e6ece83:
 
     # mc "HaAAaa!!!{w=0.5}{nw}"
-    mc "ХаААаа!!!{w=0.5}{nw}"
+    mc "ХаААаа!!!{w=0.5}{nw}" with hpunch
 
 # game/game/yui_events.rpy:785
 translate ukrainian yui_start_fight_d6d9fe5f:
@@ -1959,7 +1959,7 @@ translate ukrainian yui_start_fight_d6d9fe5f:
 translate ukrainian yui_start_fight_85c8c4c5:
 
     # ak "{size=-10}{i}He sent Yui flying through the air?!"
-    ak "{size=-10}{i}Він аж підкинув Юї?!"
+    ak "{size=-10}{i}Він аж підкинув Юї?!" with hpunch
 
 # game/game/yui_events.rpy:793
 translate ukrainian yui_start_fight_8c73844b:
@@ -1977,7 +1977,7 @@ translate ukrainian yui_start_fight_57463d65:
 translate ukrainian yui_start_fight_296f919b:
 
     # v "He's so cool!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    v "Він такий крутий!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    v "Він такий крутий!!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/yui_events.rpy:798
 translate ukrainian yui_start_fight_819a1c32:
@@ -2001,7 +2001,7 @@ translate ukrainian yui_start_fight_d6cde899:
 translate ukrainian yui_start_fight_92fe705e:
 
     # v "Have my babies!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    v "Хочу діточок від тебе!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    v "Хочу діточок від тебе!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/yui_events.rpy:805
 translate ukrainian yui_start_fight_2b35b6fe:
@@ -2031,13 +2031,13 @@ translate ukrainian yui_start_fight_ab480fef:
 translate ukrainian yui_start_fight_04e68696:
 
     # t "What did I just do?!"
-    t "Що я взагалі щойно зробив?!"
+    t "Що я взагалі щойно зробив?!" with vpunch
 
 # game/game/yui_events.rpy:816
 translate ukrainian yui_start_fight_9f7c2859:
 
     # mc "Yui! {w}Are you ok?"
-    mc "Юї! {w}З тобою все гаразд?"
+    mc "Юї! {w}З тобою все гаразд?" with hpunch
 
 # game/game/yui_events.rpy:818
 translate ukrainian yui_start_fight_ca0c9643:
@@ -2091,7 +2091,7 @@ translate ukrainian yui_start_fight_9ee76a4c:
 translate ukrainian yui_start_fight_1b7d637a:
 
     # y "That was awesome!"
-    y "Це було неймовірно!"
+    y "Це було неймовірно!" with hpunch
 
 # game/game/yui_events.rpy:834
 translate ukrainian yui_start_fight_fb2e5377:
@@ -2139,7 +2139,7 @@ translate ukrainian yui_start_fight_024755ef:
 translate ukrainian yui_start_fight_9407ff1f:
 
     # mc "Yui!"
-    mc "Юї!"
+    mc "Юї!" with hpunch
 
 # game/game/yui_events.rpy:846
 translate ukrainian yui_start_fight_c88bbb65:
@@ -2511,7 +2511,7 @@ translate ukrainian yui_gal1_cc3d7cc2:
 translate ukrainian yui_gal1_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/yui_events.rpy:961
 translate ukrainian yui_gal1_88a0c65c:
@@ -2727,7 +2727,7 @@ translate ukrainian yui_gal1_1d82a7e7:
 translate ukrainian yui_gal1_5ad3bec3:
 
     # y "Take this! {w}And this! {w}And this!!"
-    y "Отримуй! {w}І ще! {w}І ще!!"
+    y "Отримуй! {w}І ще! {w}І ще!!" with vpunch
 
 # game/game/yui_events.rpy:1026
 translate ukrainian yui_gal1_b406b450:
@@ -2805,7 +2805,7 @@ translate ukrainian yui_gal1_89b397b2:
 translate ukrainian yui_gal1_23240ae4:
 
     # mc "I- {w}I'm cummm-"
-    mc "Я- {w}кінчч-"
+    mc "Я- {w}кінчч-" with hpunch
 
 # game/game/yui_events.rpy:1059
 translate ukrainian yui_gal1_0705a9cb:
@@ -3417,7 +3417,7 @@ translate ukrainian yui_boobjob_7115902d:
 translate ukrainian yui_boobjob_de4d40ad:
 
     # mc "I'm cumming!"
-    mc "Кінчаю!"
+    mc "Кінчаю!" with vpunch
 
 # game/game/yui_events.rpy:1276
 translate ukrainian yui_boobjob_8b132124:
@@ -3621,13 +3621,13 @@ translate ukrainian yui_store_mision_332b4873:
 translate ukrainian yui_store_mision_560e72f0:
 
     # t "{size=-6}{i}So close..."
-    t "{size=-6}{i}Надто близько..."
+    t "{size=-6}{i}Надто близько..." (multiple=3)
 
 # game/game/yui_events.rpy:1351
 translate ukrainian yui_store_mision_502a765b:
 
     # y "In just a few days!?"
-    y "За кілька днів!?"
+    y "За кілька днів!?" with vpunch
 
 # game/game/yui_events.rpy:1352
 translate ukrainian yui_store_mision_b31edbf2:
@@ -3759,7 +3759,7 @@ translate ukrainian yui_store_mision_1bf60051:
 translate ukrainian yui_store_mision_0e714ceb:
 
     # y "Okay~ {w}{size=-6}let's g-"
-    y "Добре~ {w}{size=-6}ході-"
+    y "Добре~ {w}{size=-6}ході-" (multiple=2)
 
 # game/game/yui_events.rpy:1390
 translate ukrainian yui_store_mision_05ff0605:
@@ -3771,7 +3771,7 @@ translate ukrainian yui_store_mision_05ff0605:
 translate ukrainian yui_store_mision_c3fc89d9:
 
     # y "Idiot!"
-    y "Дурко!"
+    y "Дурко!" with vpunch
 
 # game/game/yui_events.rpy:1400
 translate ukrainian yui_store_mision_e3e47917:
@@ -3801,7 +3801,7 @@ translate ukrainian yui_store_mision_b3a35d49:
 translate ukrainian yui_store_mision_bc1e6500:
 
     # so "As expected from you!"
-    so "Що і варто було очікувати від вас!"
+    so "Що і варто було очікувати від вас!" with hpunch
 
 # game/game/yui_events.rpy:1408
 translate ukrainian yui_store_mision_5e862ada:
@@ -3987,7 +3987,7 @@ translate ukrainian yui_store_mision_d570aebc:
 translate ukrainian yui_store_mision_ddd544f8:
 
     # y "W-Wait!"
-    y "С-Стій!"
+    y "С-Стій!" with hpunch
 
 # game/game/yui_events.rpy:1448
 translate ukrainian yui_store_mision_3f871f46:
@@ -4071,7 +4071,7 @@ translate ukrainian yui_store_mision_5497fd07:
 translate ukrainian yui_store_mision_e4f8484c:
 
     # y "Here!?"
-    y "Тут!?"
+    y "Тут!?" with hpunch
 
 # game/game/yui_events.rpy:1472
 translate ukrainian yui_store_mision_30aa2b30:
@@ -4095,7 +4095,7 @@ translate ukrainian yui_store_mision_e6e7d31c:
 translate ukrainian yui_store_mision_16c8de58:
 
     # y "And what kind of senses are those!"
-    y "І що це за інстинкти такі!"
+    y "І що це за інстинкти такі!" with vpunch
 
 # game/game/yui_events.rpy:1478
 translate ukrainian yui_store_mision_9af24b7a:
@@ -4143,7 +4143,7 @@ translate ukrainian yui_store_mision_71a86863_2:
 translate ukrainian yui_store_mision_9a25ed6f:
 
     # y "What!?"
-    y "Що!?"
+    y "Що!?" with vpunch
 
 # game/game/yui_events.rpy:1491
 translate ukrainian yui_store_mision_bb3f6716:
@@ -4539,7 +4539,7 @@ translate ukrainian yui_gal2_e69883f9:
 translate ukrainian yui_gal2_3b012c85:
 
     # y "A-Ah..."
-    y "А-Ах..."
+    y "А-Ах..." with cumflash
 
 # game/game/yui_events.rpy:1582
 translate ukrainian yui_gal2_9d3d29a8:
@@ -4569,13 +4569,13 @@ translate ukrainian yui_gal2_5a9cc0e3:
 translate ukrainian yui_gal2_6b27fa21:
 
     # y "C-Cute? {size=-10}{w}Don't make fun of me..."
-    y "М-Мила? {size=-10}{w}Годі жартувати з мене..."
+    y "М-Мила? {size=-10}{w}Годі жартувати з мене..." with cumflash
 
 # game/game/yui_events.rpy:1587
 translate ukrainian yui_gal2_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/yui_events.rpy:1588
 translate ukrainian yui_gal2_8c80852c:
@@ -4635,7 +4635,7 @@ translate ukrainian yui_gal2_82f748c6:
 translate ukrainian yui_gal2_5f72e051:
 
     # y "W-Why would I l-like to imagine it?!"
-    y "Н-Навіщо мені у-уявляти щось подібне?!"
+    y "Н-Навіщо мені у-уявляти щось подібне?!" with vpunch
 
 # game/game/yui_events.rpy:1599
 translate ukrainian yui_gal2_c87f848d:
@@ -4707,7 +4707,7 @@ translate ukrainian yui_gal2_76277e38:
 translate ukrainian yui_gal2_6b8dc185:
 
     # y "...!"
-    y "...!"
+    y "...!" with cumflash
 
 # game/game/yui_events.rpy:1612
 translate ukrainian yui_gal2_6b03bc8a:
@@ -4731,25 +4731,25 @@ translate ukrainian yui_gal2_18a4c480:
 translate ukrainian yui_gal2_f33bf2d9:
 
     # y "Hnhnm~{image=corazon} {w}I-I- {w}I can't-"
-    y "{i}Хнхнм~{/i}{image=corazon} {w}Я-Я- {w}Я не мож-"
+    y "{i}Хнхнм~{/i}{image=corazon} {w}Я-Я- {w}Я не мож-" with cumflash
 
 # game/game/yui_events.rpy:1617
 translate ukrainian yui_gal2_d24b963c:
 
     # mc "Ghnm!"
-    mc "{i}Гхнм!{/i}"
+    mc "{i}Гхнм!{/i}" with vpunch
 
 # game/game/yui_events.rpy:1625
 translate ukrainian yui_gal2_811c14fc:
 
     # mc "HNmh!"
-    mc "{i}ХНмх!{/i}"
+    mc "{i}ХНмх!{/i}" (multiple=2)
 
 # game/game/yui_events.rpy:1626
 translate ukrainian yui_gal2_a54c82e1:
 
     # y "Aaaaahnm~{image=corazon}{image=corazon}"
-    y "{i}Ааааахнм~{/i}{image=corazon}{image=corazon}"
+    y "{i}Ааааахнм~{/i}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/yui_events.rpy:1629
 translate ukrainian yui_gal2_2f22e70f:
@@ -4833,7 +4833,7 @@ translate ukrainian yui_gal2_71a86863_1:
 translate ukrainian yui_gal2_d8f7404d:
 
     # y "S-Sorry!"
-    y "П-Пробач!"
+    y "П-Пробач!" with vpunch
 
 # game/game/yui_events.rpy:1662
 translate ukrainian yui_gal2_46684eaa:
@@ -4893,7 +4893,7 @@ translate ukrainian yui_gal2_694e0452:
 translate ukrainian yui_gal2_82c7a60f:
 
     # y "And we're about 20 minutes from my house!"
-    y "І ми були у 20 хвилин від мого дому!"
+    y "І ми були у 20 хвилин від мого дому!" with vpunch
 
 # game/game/yui_events.rpy:1677
 translate ukrainian yui_gal2_09d20826:
@@ -5079,7 +5079,7 @@ translate ukrainian yui_thighjob_rep_71a86863:
 translate ukrainian yui_thighjob_rep_70ccf128:
 
     # y "Yes!"
-    y "Так!"
+    y "Так!" with vpunch
 
 # game/game/yui_events.rpy:1741
 translate ukrainian yui_thighjob_rep_1c9b815c:
@@ -5313,13 +5313,13 @@ translate ukrainian yui_thighjob_rep_aa4ef458:
 translate ukrainian yui_thighjob_rep_811c14fc:
 
     # mc "HNmh!"
-    mc "{i}НГмх!{/i}"
+    mc "{i}НГмх!{/i}" (multiple=2)
 
 # game/game/yui_events.rpy:1796
 translate ukrainian yui_thighjob_rep_a54c82e1:
 
     # y "Aaaaahnm~{image=corazon}{image=corazon}"
-    y "{i}Ааааахнм~{/i}{image=corazon}{image=corazon}"
+    y "{i}Ааааахнм~{/i}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/yui_events.rpy:1799
 translate ukrainian yui_thighjob_rep_2f22e70f:
@@ -6099,7 +6099,7 @@ translate ukrainian yui_h_event_d3699139:
 translate ukrainian yui_h_event_40570cc9:
 
     # s "...!"
-    s "...!"
+    s "...!" (multiple=2)
 
 # game/game/yui_events.rpy:2079
 translate ukrainian yui_h_event_2fded262:
@@ -6123,7 +6123,7 @@ translate ukrainian yui_h_event_f57f1b04:
 translate ukrainian yui_h_event_6002a114:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}I-I don't always bring him up!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}Я-Я не постійно згадую його!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}Я-Я не постійно згадую його!" with hpunch
 
 # game/game/yui_events.rpy:2084
 translate ukrainian yui_h_event_6d82c062:
@@ -6303,7 +6303,7 @@ translate ukrainian yui_h_event_823e94a7:
 translate ukrainian yui_h_event_693abdc3:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}N-No!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}Н-Ні!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}Н-Ні!" with vpunch
 
 # game/game/yui_events.rpy:2125
 translate ukrainian yui_h_event_40fb41b8:
@@ -6537,7 +6537,7 @@ translate ukrainian yui_h_mission2_3389cf67:
 translate ukrainian yui_h_mission2_59592656:
 
     # so "{sc=2}{outlinecolor=#000000}{size=-6}Yes..."
-    so "{sc=2}{outlinecolor=#000000}{size=-6}Так..."
+    so "{sc=2}{outlinecolor=#000000}{size=-6}Так..." with hpunch
 
 # game/game/yui_events.rpy:2190
 translate ukrainian yui_h_mission2_a4dc2445:
@@ -6669,7 +6669,7 @@ translate ukrainian yui_h_mission2_f907e7b3:
 translate ukrainian yui_h_mission2_08bd4498:
 
     # so "{sc=2}{outlinecolor=#000000}{size=-6}Yes!"
-    so "{sc=2}{outlinecolor=#000000}{size=-6}Так!"
+    so "{sc=2}{outlinecolor=#000000}{size=-6}Так!" with hpunch
 
 # game/game/yui_events.rpy:2221
 translate ukrainian yui_h_mission2_211299e2:
@@ -6687,7 +6687,7 @@ translate ukrainian yui_h_mission2_584f1c56:
 translate ukrainian yui_h_mission2_45b327db:
 
     # so "Ok!"
-    so "Гаразд!"
+    so "Гаразд!" with vpunch
 
 # game/game/yui_events.rpy:2224
 translate ukrainian yui_h_mission2_a5cd1188:
@@ -7041,7 +7041,7 @@ translate ukrainian training_work_d0fd842e:
 translate ukrainian training_work_56d4894f:
 
     # so "Yees~"
-    so "Таак~"
+    so "Таак~" with vpunch
 
 # game/game/yui_events.rpy:2348
 translate ukrainian training_work_2b35b6fe_1:
@@ -7113,7 +7113,7 @@ translate ukrainian training_work_103a7771:
 translate ukrainian training_work_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/yui_events.rpy:2383
 translate ukrainian training_work_ab61f498:
@@ -7473,7 +7473,7 @@ translate ukrainian training_work_db0eff64:
 translate ukrainian training_work_0a802d71:
 
     # y "Hnmnm~~{image=/bg/icons/heart_text.png}{w} Aahhnmn~{image=/bg/icons/heart_text.png}{w} HGHMNM~{image=/bg/icons/heart_text.png}"
-    y "{i}Хнмнм~~{/i}{image=/bg/icons/heart_text.png}{w} {i}Ааххнмн~{/i}{image=/bg/icons/heart_text.png}{w} {i}ХГХМНМ~{/i}{image=/bg/icons/heart_text.png}"
+    y "{i}Хнмнм~~{/i}{image=/bg/icons/heart_text.png}{w} {i}Ааххнмн~{/i}{image=/bg/icons/heart_text.png}{w} {i}ХГХМНМ~{/i}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/yui_events.rpy:2462
 translate ukrainian training_work_6e7da059:
@@ -7515,7 +7515,7 @@ translate ukrainian training_work_50067801:
 translate ukrainian training_work_1ed1d798:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-8}GhngmhnNMnhm~~~{image=corazon}{image=corazon}~"
-    y "{sc=1}{outlinecolor=#000000}{size=-8}{i}ГхнгмхнНМнхм~~~{/i}{image=corazon}{image=corazon}~"
+    y "{sc=1}{outlinecolor=#000000}{size=-8}{i}ГхнгмхнНМнхм~~~{/i}{image=corazon}{image=corazon}~" with vpunch
 
 # game/game/yui_events.rpy:2476
 translate ukrainian training_work_36eeb24f:
@@ -7527,7 +7527,7 @@ translate ukrainian training_work_36eeb24f:
 translate ukrainian training_work_469870f4:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхнг!{/i}"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхнг!{/i}" with hpunch
 
 # game/game/yui_events.rpy:2485
 translate ukrainian training_work_50cc9590:
@@ -7701,7 +7701,7 @@ translate ukrainian yui_1_S_0377d3a6:
 translate ukrainian yui_1_S_ffa50239:
 
     # so "Yes!"
-    so "Так!"
+    so "Так!" with hpunch
 
 # game/game/yui_events.rpy:2564
 translate ukrainian yui_1_S_fb479a1d:
@@ -7845,7 +7845,7 @@ translate ukrainian yui_1_S_e72fe41d:
 translate ukrainian yui_1_S_c7be75c6:
 
     # so "Yes!"
-    so "Так!"
+    so "Так!" with vpunch
 
 # game/game/yui_events.rpy:2597
 translate ukrainian yui_1_S_3f871f46_1:
@@ -7893,7 +7893,7 @@ translate ukrainian yui_1_S_f42bbe2f:
 translate ukrainian yui_1_S_602f4740:
 
     # so "Me!"
-    so "Я!"
+    so "Я!" with vpunch
 
 # game/game/yui_events.rpy:2608
 translate ukrainian yui_1_S_92d41242:
@@ -7929,13 +7929,13 @@ translate ukrainian yui_1_S_cd06d7ca:
 translate ukrainian yui_1_S_80a29ef7:
 
     # so "{sc=2}{outlinecolor=#000000}{size=-6}Me! Me!"
-    so "{sc=2}{outlinecolor=#000000}{size=-6}Я! Я!"
+    so "{sc=2}{outlinecolor=#000000}{size=-6}Я! Я!" with hpunch
 
 # game/game/yui_events.rpy:2616
 translate ukrainian yui_1_S_0c726428:
 
     # so "{sc=2}{outlinecolor=#000000}{size=-6}No, me!!"
-    so "{sc=2}{outlinecolor=#000000}{size=-6}Ні, я!!"
+    so "{sc=2}{outlinecolor=#000000}{size=-6}Ні, я!!" with hpunch
 
 # game/game/yui_events.rpy:2617
 translate ukrainian yui_1_S_248e92e4:
@@ -7965,13 +7965,13 @@ translate ukrainian yui_1_S_b405f5f2:
 translate ukrainian yui_1_S_dc7828f9:
 
     # "{sc=2}{outlinecolor=#000000}{size=-6}{color=#D9A1CD}Aaahh!"
-    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#D9A1CD}Ааахх!"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#D9A1CD}Ааахх!" (multiple=2)
 
 # game/game/yui_events.rpy:2624
 translate ukrainian yui_1_S_b3556ecb:
 
     # "{sc=2}{outlinecolor=#000000}{size=-6}{color=#E0B8A8}I can't lose!"
-    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#E0B8A8}Я не програю!"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#E0B8A8}Я не програю!" (multiple=3)
 
 # game/game/yui_events.rpy:2625
 translate ukrainian yui_1_S_1582f229:
@@ -8037,7 +8037,7 @@ translate ukrainian yui_1_S_2b35b6fe_2:
 translate ukrainian yui_1_S_b4bc24d5:
 
     # "{sc=2}{outlinecolor=#000000}{size=-6}{color=#5B88A8}50!"
-    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#5B88A8}50!"
+    "{sc=2}{outlinecolor=#000000}{size=-6}{color=#5B88A8}50!" with vpunch
 
 # game/game/yui_events.rpy:2640
 translate ukrainian yui_1_S_645d91ba:
@@ -8079,13 +8079,13 @@ translate ukrainian yui_1_S_054ff91f_1:
 translate ukrainian yui_1_S_130fe46f:
 
     # "{color=#E0B8A8}I wanted to be first!"
-    "{color=#E0B8A8}Я хотіла бути першою!"
+    "{color=#E0B8A8}Я хотіла бути першою!" with vpunch
 
 # game/game/yui_events.rpy:2648
 translate ukrainian yui_1_S_ca9f09f2:
 
     # "{color=#D9A1CD}I was at 46!"
-    "{color=#D9A1CD}Я дійшла до 46!"
+    "{color=#D9A1CD}Я дійшла до 46!" with hpunch
 
 # game/game/yui_events.rpy:2649
 translate ukrainian yui_1_S_012fc158:
@@ -8115,7 +8115,7 @@ translate ukrainian yui_1_S_8ebe6bb4:
 translate ukrainian yui_1_S_c7be75c6_1:
 
     # so "Yes!"
-    so "Так!"
+    so "Так!" with vpunch
 
 # game/game/yui_events.rpy:2657
 translate ukrainian yui_1_S_e98f5d81:
@@ -8199,7 +8199,7 @@ translate ukrainian yui_1_S_d298719d:
 translate ukrainian yui_1_S_b1cf425e:
 
     # y "[mc] {w}do you need help?"
-    y "[name_form('voc')], {w}тобі треба допомога?"
+    y "[name_form('voc')], {w}тобі треба допомога?" with vpunch
 
 # game/game/yui_events.rpy:2677
 translate ukrainian yui_1_S_0c8834df:
@@ -8247,7 +8247,7 @@ translate ukrainian yui_1_S_80405405:
 translate ukrainian yui_1_S_56d4894f:
 
     # so "Yees~"
-    so "Таак~"
+    so "Таак~" with vpunch
 
 # game/game/yui_events.rpy:2713
 translate ukrainian yui_1_S_1ef63c12:
@@ -8649,7 +8649,7 @@ translate ukrainian yui_1_S_2b35b6fe_8:
 translate ukrainian yui_1_S_0efe532a:
 
     # mc "Oh!"
-    mc "Ох!"
+    mc "Ох!" with vpunch
 
 # game/game/yui_events.rpy:2808
 translate ukrainian yui_1_S_88938d38:
@@ -8769,7 +8769,7 @@ translate ukrainian yui_gal3_67bf07fa:
 translate ukrainian yui_gal3_0d46bd0a:
 
     # y "W-What a-are you saying?!"
-    y "Щ-Що ти т-таке кажеш?!"
+    y "Щ-Що ти т-таке кажеш?!" with hpunch
 
 # game/game/yui_events.rpy:2839
 translate ukrainian yui_gal3_f6100e00:
@@ -8805,7 +8805,7 @@ translate ukrainian yui_gal3_8e22826e:
 translate ukrainian yui_gal3_96edc3f9:
 
     # mc "Y-Yui!?"
-    mc "Ю-Юї!?"
+    mc "Ю-Юї!?" with cumflash
 
 # game/game/yui_events.rpy:2847
 translate ukrainian yui_gal3_06743f89:
@@ -8829,7 +8829,7 @@ translate ukrainian yui_gal3_1ed31676:
 translate ukrainian yui_gal3_cd648f3e:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Eh? Ghg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}Ех? {i}Гхг!{/i}"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}Ех? {i}Гхг!{/i}" with cumflash
 
 # game/game/yui_events.rpy:2851
 translate ukrainian yui_gal3_21ea1194:
@@ -8943,7 +8943,7 @@ translate ukrainian yui_gal3_71a86863_4:
 translate ukrainian yui_gal3_6aa84f51:
 
     # mc "I-If you keep this up, I won't be able to hold out until you tell me."
-    mc "Я-Якщо продовжуватимеш так, я не стримаюся раніше, ніж ти мені розповіси."
+    mc "Я-Якщо продовжуватимеш так, я не стримаюся раніше, ніж ти мені розповіси." with cumflash
 
 # game/game/yui_events.rpy:2872
 translate ukrainian yui_gal3_71a86863_5:
@@ -8967,13 +8967,13 @@ translate ukrainian yui_gal3_b8367347:
 translate ukrainian yui_gal3_99f1ea7c:
 
     # mc "Ugh..."
-    mc "{i}Угх...{/i}"
+    mc "{i}Угх...{/i}" (multiple=2)
 
 # game/game/yui_events.rpy:2878
 translate ukrainian yui_gal3_871750a0:
 
     # y "Not that extreme!"
-    y "Без таких крайнощів!"
+    y "Без таких крайнощів!" (multiple=2)
 
 # game/game/yui_events.rpy:2879
 translate ukrainian yui_gal3_37945dd6:
@@ -9009,7 +9009,7 @@ translate ukrainian yui_gal3_4cca3990:
 translate ukrainian yui_gal3_990a3836:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}Lewd things!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}Непристойні речі!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}Непристойні речі!" with hpunch
 
 # game/game/yui_events.rpy:2886
 translate ukrainian yui_gal3_aec17af4:
@@ -9021,13 +9021,13 @@ translate ukrainian yui_gal3_aec17af4:
 translate ukrainian yui_gal3_72354882:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}Ggh!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Ггх!{/i}"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}{i}Ггх!{/i}" (multiple=2)
 
 # game/game/yui_events.rpy:2890
 translate ukrainian yui_gal3_93ef5607:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}I want to know what\n sex feels like!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}Я хочу дізнатися, як відчувається секс!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}Я хочу дізнатися, як відчувається секс!" (multiple=2)
 
 # game/game/yui_events.rpy:2892
 translate ukrainian yui_gal3_7745fc2e:
@@ -9069,7 +9069,7 @@ translate ukrainian yui_gal3_e33c47a5:
 translate ukrainian yui_gal3_82a081da:
 
     # y "{sc=2}{outlinecolor=#000000}{size=-6}B-Better forget what I said!"
-    y "{sc=2}{outlinecolor=#000000}{size=-6}К-Краще забудь, що я сказала!"
+    y "{sc=2}{outlinecolor=#000000}{size=-6}К-Краще забудь, що я сказала!" with hpunch
 
 # game/game/yui_events.rpy:2901
 translate ukrainian yui_gal3_ca0c9643:
@@ -9315,7 +9315,7 @@ translate ukrainian yui_gal3_b79d354d_1:
 translate ukrainian yui_gal3_03064661:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-6}...!"
-    y "{sc=1}{outlinecolor=#000000}{size=-6}...!"
+    y "{sc=1}{outlinecolor=#000000}{size=-6}...!" with vpunch
 
 # game/game/yui_events.rpy:2952
 translate ukrainian yui_gal3_995a58c6:
@@ -9387,13 +9387,13 @@ translate ukrainian yui_gal3_4cc33094:
 translate ukrainian yui_gal3_5caa7fb8:
 
     # y "Ah!"
-    y "Ах!"
+    y "Ах!" (multiple=2)
 
 # game/game/yui_events.rpy:2969
 translate ukrainian yui_gal3_65004f83:
 
     # mc "Ghn!"
-    mc "{i}Гхн!{/i}"
+    mc "{i}Гхн!{/i}" (multiple=2)
 
 # game/game/yui_events.rpy:2970
 translate ukrainian yui_gal3_46a645cb:
@@ -9573,7 +9573,7 @@ translate ukrainian yui_gal3_089c9a3e:
 translate ukrainian yui_gal3_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/yui_events.rpy:3004
 translate ukrainian yui_gal3_bb061f3e:
@@ -9633,7 +9633,7 @@ translate ukrainian yui_gal3_50067801:
 translate ukrainian yui_gal3_1ed1d798:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-8}GhngmhnNMnhm~~~{image=corazon}{image=corazon}~"
-    y "{sc=1}{outlinecolor=#000000}{size=-8}{i}ГхнгмхнНМнхм~~~{/i}{image=corazon}{image=corazon}~"
+    y "{sc=1}{outlinecolor=#000000}{size=-8}{i}ГхнгмхнНМнхм~~~{/i}{image=corazon}{image=corazon}~" with vpunch
 
 # game/game/yui_events.rpy:3022
 translate ukrainian yui_gal3_36eeb24f:
@@ -9645,7 +9645,7 @@ translate ukrainian yui_gal3_36eeb24f:
 translate ukrainian yui_gal3_469870f4:
 
     # mc "{sc=1}{outlinecolor=#000000}{size=-8}Ghng!"
-    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхнг{/i}!"
+    mc "{sc=1}{outlinecolor=#000000}{size=-8}{i}Гхнг{/i}!" with hpunch
 
 # game/game/yui_events.rpy:3031
 translate ukrainian yui_gal3_50cc9590:
@@ -10155,7 +10155,7 @@ translate ukrainian yui_bandisttalk_0080db22:
 translate ukrainian yui_bandisttalk_a236bae6:
 
     # y "Forget that right now!"
-    y "Forget that right now!"
+    y "Forget that right now!" with hpunch
 
 # game/game/yui_events.rpy:3183
 translate ukrainian yui_bandisttalk_9ada23e6:
@@ -10173,7 +10173,7 @@ translate ukrainian yui_bandisttalk_0a35ba49:
 translate ukrainian yui_bandisttalk_5f584c4b:
 
     # y "What kind of book is that!"
-    y "What kind of book is that!"
+    y "What kind of book is that!" with vpunch
 
 # game/game/yui_events.rpy:3187
 translate ukrainian yui_bandisttalk_8ab5bbbe:
@@ -10221,7 +10221,7 @@ translate ukrainian yui_bandisttalk_7da3c7b1:
 translate ukrainian yui_bandisttalk_667a3425:
 
     # a "Miss Yui!"
-    a "Miss Yui!"
+    a "Miss Yui!" with vpunch
 
 # game/game/yui_events.rpy:3206
 translate ukrainian yui_bandisttalk_cecb475e:
@@ -10263,7 +10263,7 @@ translate ukrainian yui_bandisttalk_4a0022d6:
 translate ukrainian yui_bandisttalk_da4f9ef0:
 
     # y "...!!!!"
-    y "...!!!!"
+    y "...!!!!" with hpunch
 
 # game/game/yui_events.rpy:3216
 translate ukrainian yui_bandisttalk_f9e1c401:
@@ -10425,7 +10425,7 @@ translate ukrainian yui_bandisttalk_0dcd6f4e:
 translate ukrainian yui_bandisttalk_ffa50239:
 
     # so "Yes!"
-    so "Yes!"
+    so "Yes!" with hpunch
 
 # game/game/yui_events.rpy:3254
 translate ukrainian yui_bandisttalk_31e00881:
@@ -10479,7 +10479,7 @@ translate ukrainian sol_eventuno_ca59035c:
 translate ukrainian sol_eventuno_d69fa79d:
 
     # so "Thank you for your work!"
-    so "Дякуємо за працю!"
+    so "Дякуємо за працю!" with vpunch
 
 # game/game/yui_events.rpy:3291
 translate ukrainian sol_eventuno_0411cbce:
@@ -10503,7 +10503,7 @@ translate ukrainian sol_eventuno_1abecabc:
 translate ukrainian sol_eventuno_c7be75c6:
 
     # so "Yes!"
-    so "Так!"
+    so "Так!" with vpunch
 
 # game/game/yui_events.rpy:3298
 translate ukrainian sol_eventuno_24b6951d:
@@ -10599,7 +10599,7 @@ translate ukrainian sol_eventuno_83bbbf32_1:
 translate ukrainian sol_eventuno_b3aa4e8c:
 
     # y "Perfect! {w}The first one to do 70 push-ups."
-    y "Чудово! {w}Перша, хто зробить 70 віджимань."
+    y "Чудово! {w}Перша, хто зробить 70 віджимань." with vpunch
 
 # game/game/yui_events.rpy:3323
 translate ukrainian sol_eventuno_62ecf5f1:
@@ -10611,7 +10611,7 @@ translate ukrainian sol_eventuno_62ecf5f1:
 translate ukrainian sol_eventuno_10f1d7ed:
 
     # so "AAAAHHH!!"
-    so "ААААХХХ!!"
+    so "ААААХХХ!!" with vpunch
 
 # game/game/yui_events.rpy:3326
 translate ukrainian sol_eventuno_17ab8f04:
@@ -11007,7 +11007,7 @@ translate ukrainian sol_eventuno_aecd1b58:
 translate ukrainian sol_eventuno_9630ff92:
 
     # so "Time for the main dish!"
-    so "Час для основної страви!"
+    so "Час для основної страви!" with vpunch
 
 # game/game/yui_events.rpy:3446
 translate ukrainian sol_eventuno_2b35b6fe_3:
@@ -11025,7 +11025,7 @@ translate ukrainian sol_eventuno_59b284fc:
 translate ukrainian sol_eventuno_768f11ba:
 
     # so "I can't wait any longer!{image=/bg/icons/heart_text.png}"
-    so "Більше не можу стримуватися!{image=/bg/icons/heart_text.png}"
+    so "Більше не можу стримуватися!{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/yui_events.rpy:3451
 translate ukrainian sol_eventuno_8df2b11f:
@@ -11055,13 +11055,13 @@ translate ukrainian sol_eventuno_97499a57:
 translate ukrainian sol_eventuno_6dc7d90f:
 
     # so "I'm cuuuuumming!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Кінчааааю!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Кінчааааю!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3456
 translate ukrainian sol_eventuno_4ee9fb3e:
 
     # so "GHnmghh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "{i}ГХнмгхх~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}ГХнмгхх~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3457
 translate ukrainian sol_eventuno_8083fc90:
@@ -11079,13 +11079,13 @@ translate ukrainian sol_eventuno_a4159f31:
 translate ukrainian sol_eventuno_5554aa39:
 
     # so "AAAghnmn~~{image=/bg/icons/heart_text.png}"
-    so "{i}АААгхнмн~~{/i}{image=/bg/icons/heart_text.png}"
+    so "{i}АААгхнмн~~{/i}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3461
 translate ukrainian sol_eventuno_7acd4765:
 
     # so "If I can get this reward, I would train every day!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Якби я постійно отримувала таку нагороду, то тренувалася б щодня!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Якби я постійно отримувала таку нагороду, то тренувалася б щодня!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/yui_events.rpy:3462
 translate ukrainian sol_eventuno_fe577cb3:
@@ -11109,19 +11109,19 @@ translate ukrainian sol_eventuno_ab2a5f4f:
 translate ukrainian sol_eventuno_8df5e73f:
 
     # so "Give me my reward quickly!"
-    so "Хутчіше дай мені мою нагороду!"
+    so "Хутчіше дай мені мою нагороду!" with cumflash
 
 # game/game/yui_events.rpy:3467
 translate ukrainian sol_eventuno_e8cc6650:
 
     # mc "I'm cumming!!!"
-    mc "Кінчаю!!!"
+    mc "Кінчаю!!!" with cumflash
 
 # game/game/yui_events.rpy:3470
 translate ukrainian sol_eventuno_b79a35ed:
 
     # so "IIiAAaaAhmnmnm~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "{i}ІІіААааАхмнмнм~~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}ІІіААааАхмнмнм~~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/yui_events.rpy:3472
 translate ukrainian sol_eventuno_3a05ad43:
@@ -11241,7 +11241,7 @@ translate ukrainian sol_eventdos_25f12859:
 translate ukrainian sol_eventdos_21c47786:
 
     # y "70 push-ups."
-    y "70 віджимань."
+    y "70 віджимань." with vpunch
 
 # game/game/yui_events.rpy:3540
 translate ukrainian sol_eventdos_62ecf5f1:
@@ -11253,7 +11253,7 @@ translate ukrainian sol_eventdos_62ecf5f1:
 translate ukrainian sol_eventdos_c57b8bdf:
 
     # so "AAAAaaaAAhh!"
-    so "ААААаааААхх!"
+    so "ААААаааААхх!" with hpunch
 
 # game/game/yui_events.rpy:3544
 translate ukrainian sol_eventdos_629aa85b:
@@ -11265,7 +11265,7 @@ translate ukrainian sol_eventdos_629aa85b:
 translate ukrainian sol_eventdos_69a768ba:
 
     # so "I won!"
-    so "Я перемогла!"
+    so "Я перемогла!" with vpunch
 
 # game/game/yui_events.rpy:3551
 translate ukrainian sol_eventdos_e5a31451:
@@ -11337,7 +11337,7 @@ translate ukrainian sol_eventdos_4d1a3f68:
 translate ukrainian sol_eventdos_632fe781:
 
     # so "Y-Yes!"
-    so "Т-Так!"
+    so "Т-Так!" with vpunch
 
 # game/game/yui_events.rpy:3573
 translate ukrainian sol_eventdos_74fa2127:
@@ -11373,7 +11373,7 @@ translate ukrainian sol_eventdos_2c8d56f8:
 translate ukrainian sol_eventdos_c7be75c6:
 
     # so "Yes!"
-    so "Так!"
+    so "Так!" with vpunch
 
 # game/game/yui_events.rpy:3584
 translate ukrainian sol_eventdos_cd0496bf:
@@ -11415,7 +11415,7 @@ translate ukrainian sol_eventdos_3502953e:
 translate ukrainian sol_eventdos_632fe781_1:
 
     # so "Y-Yes!"
-    so "Т-Так!"
+    so "Т-Так!" with vpunch
 
 # game/game/yui_events.rpy:3595
 translate ukrainian sol_eventdos_acf40086:
@@ -11475,7 +11475,7 @@ translate ukrainian sol_eventdos_11455b53:
 translate ukrainian sol_eventdos_1df8df19:
 
     # mc "When did she?!"
-    mc "Коли вона встигла?!"
+    mc "Коли вона встигла?!" with vpunch
 
 # game/game/yui_events.rpy:3615
 translate ukrainian sol_eventdos_ae7324e4:
@@ -11523,7 +11523,7 @@ translate ukrainian sol_eventdos_1cd340e1:
 translate ukrainian sol_eventdos_3ba7840d:
 
     # mc "F-Fuck!"
-    mc "Н-Ніхуя!"
+    mc "Н-Ніхуя!" with vpunch
 
 # game/game/yui_events.rpy:3625
 translate ukrainian sol_eventdos_51408175:
@@ -11541,7 +11541,7 @@ translate ukrainian sol_eventdos_30f65ec2:
 translate ukrainian sol_eventdos_d8644d93:
 
     # mc "She's sucking very hard!"
-    mc "Вона надто сильно смокче!"
+    mc "Вона надто сильно смокче!" with vpunch
 
 # game/game/yui_events.rpy:3628
 translate ukrainian sol_eventdos_8a040d21:
@@ -11559,7 +11559,7 @@ translate ukrainian sol_eventdos_befca1b3:
 translate ukrainian sol_eventdos_2f530a7c:
 
     # so "She was right~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Вона не помилялася~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Вона не помилялася~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3633
 translate ukrainian sol_eventdos_d4b0fc06:
@@ -11583,7 +11583,7 @@ translate ukrainian sol_eventdos_7efdcd5a:
 translate ukrainian sol_eventdos_a2c5e06c:
 
     # so "GhnmGNM!!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Thank you! {w}AAMmnmhm~~{image=/bg/icons/heart_text.png} {image=/bg/icons/heart_text.png} "
-    so "{i}ГхнмГНМ!!~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Дякую! {w}{i}ААМмнмхм~~{/i}{image=/bg/icons/heart_text.png} {image=/bg/icons/heart_text.png} "
+    so "{i}ГхнмГНМ!!~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Дякую! {w}{i}ААМмнмхм~~{/i}{image=/bg/icons/heart_text.png} {image=/bg/icons/heart_text.png} " with cumflash
 
 # game/game/yui_events.rpy:3638
 translate ukrainian sol_eventdos_e0e9fff1:
@@ -11607,13 +11607,13 @@ translate ukrainian sol_eventdos_2550eb78:
 translate ukrainian sol_eventdos_64e5fa34:
 
     # t "She's swallowing me completely!"
-    t "Вона повністю поглинає мене!"
+    t "Вона повністю поглинає мене!" with vpunch
 
 # game/game/yui_events.rpy:3644
 translate ukrainian sol_eventdos_d1fd6a9e:
 
     # so "I'll make your cock feel even better!!"
-    so "Я зроблю твоєму члену ще приємніше!!"
+    so "Я зроблю твоєму члену ще приємніше!!" with cumflash
 
 # game/game/yui_events.rpy:3645
 translate ukrainian sol_eventdos_aed04d36:
@@ -11649,7 +11649,7 @@ translate ukrainian sol_eventdos_ab74950e:
 translate ukrainian sol_eventdos_3ebccedf:
 
     # mc "I'm-"
-    mc "Я-"
+    mc "Я-" with cumflash
 
 # game/game/yui_events.rpy:3658
 translate ukrainian sol_eventdos_f054cf2e:
@@ -11661,13 +11661,13 @@ translate ukrainian sol_eventdos_f054cf2e:
 translate ukrainian sol_eventdos_ec147169:
 
     # so "GHMNM~~{image=/bg/icons/heart_text.png} {w}guuulp** {w}guulp* {image=/bg/icons/heart_text.png}"
-    so "{i}ГХМНМ~~{/i}{image=/bg/icons/heart_text.png} {w}{i}*кооовт*{/i} {w}{i}*коовть*{/i} {image=/bg/icons/heart_text.png}"
+    so "{i}ГХМНМ~~{/i}{image=/bg/icons/heart_text.png} {w}{i}*кооовт*{/i} {w}{i}*коовть*{/i} {image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3661
 translate ukrainian sol_eventdos_1f2bf20e:
 
     # mc "Fuuuck..."
-    mc "Їбааать..."
+    mc "Їбааать..." with vpunch
 
 # game/game/yui_events.rpy:3664
 translate ukrainian sol_eventdos_9f07725b:
@@ -11679,7 +11679,7 @@ translate ukrainian sol_eventdos_9f07725b:
 translate ukrainian sol_eventdos_d9672340:
 
     # so "T-Thank you!"
-    so "Д-Дякую тобі!"
+    so "Д-Дякую тобі!" with vpunch
 
 # game/game/yui_events.rpy:3667
 translate ukrainian sol_eventdos_c3f869ad:
@@ -11757,7 +11757,7 @@ translate ukrainian sol_eventtres_c79108bf:
 translate ukrainian sol_eventtres_71cd40bf:
 
     # so "Good evening Miss Yui!"
-    so "Доброго вечора, пані Юї!"
+    so "Доброго вечора, пані Юї!" with vpunch
 
 # game/game/yui_events.rpy:3720
 translate ukrainian sol_eventtres_0fadd113:
@@ -11799,7 +11799,7 @@ translate ukrainian sol_eventtres_7ef577f4:
 translate ukrainian sol_eventtres_52c611fb:
 
     # so "I don't want to be left behind!"
-    so "Я не хочу відставати!"
+    so "Я не хочу відставати!" with vpunch
 
 # game/game/yui_events.rpy:3733
 translate ukrainian sol_eventtres_76d4f870:
@@ -11859,7 +11859,7 @@ translate ukrainian sol_eventtres_003c3c83:
 translate ukrainian sol_eventtres_c7be75c6:
 
     # so "Yes!"
-    so "Так!"
+    so "Так!" with vpunch
 
 # game/game/yui_events.rpy:3752
 translate ukrainian sol_eventtres_a92fe68d:
@@ -11889,7 +11889,7 @@ translate ukrainian sol_eventtres_02fc6679:
 translate ukrainian sol_eventtres_ba1fc65b:
 
     # so "I'll do whatever you ask!"
-    so "Зроблю все, що ви скажете!"
+    so "Зроблю все, що ви скажете!" with vpunch
 
 # game/game/yui_events.rpy:3760
 translate ukrainian sol_eventtres_c9e606f5:
@@ -11937,7 +11937,7 @@ translate ukrainian sol_eventtres_a98a4feb:
 translate ukrainian sol_eventtres_e000ba27:
 
     # so "I can still do more!"
-    so "Я досі можу більше!"
+    so "Я досі можу більше!" with vpunch
 
 # game/game/yui_events.rpy:3779
 translate ukrainian sol_eventtres_516e84dd:
@@ -11949,7 +11949,7 @@ translate ukrainian sol_eventtres_516e84dd:
 translate ukrainian sol_eventtres_cc2038fd:
 
     # so "Oh! {w}Ok!"
-    so "Ох! {w}Гаразд!"
+    so "Ох! {w}Гаразд!" with hpunch
 
 # game/game/yui_events.rpy:3782
 translate ukrainian sol_eventtres_45068a5f:
@@ -12015,7 +12015,7 @@ translate ukrainian sol_eventtres_0cdc4aa0:
 translate ukrainian sol_eventtres_2c2ba9ff:
 
     # so "Please! {w}Deliver it here!"
-    so "Будь ласка! {w}Віддайте її прямо сюди!"
+    so "Будь ласка! {w}Віддайте її прямо сюди!" with vpunch
 
 # game/game/yui_events.rpy:3805
 translate ukrainian sol_eventtres_d21d697a:
@@ -12033,7 +12033,7 @@ translate ukrainian sol_eventtres_6c01bd1c:
 translate ukrainian sol_eventtres_e928e72e:
 
     # so "That's all I ask for as a reward!"
-    so "Я прошу лише цього як нагороди!"
+    so "Я прошу лише цього як нагороди!" with vpunch
 
 # game/game/yui_events.rpy:3808
 translate ukrainian sol_eventtres_a05c13d4:
@@ -12189,7 +12189,7 @@ translate ukrainian sol_eventtres_cfd1427d:
 translate ukrainian sol_eventtres_60ecf328:
 
     # so "Hiiaamnh~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "{i}Хіяяямнх~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "{i}Хіяяямнх~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3842
 translate ukrainian sol_eventtres_3c20e905:
@@ -12219,7 +12219,7 @@ translate ukrainian sol_eventtres_6a5a3d1a:
 translate ukrainian sol_eventtres_7703a5d6:
 
     # so "Yes, yeees~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}break me~~{image=/bg/icons/heart_text.png} {w}t-this is what I trained for!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    so "Так, тааак~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}ламайте мене~~{image=/bg/icons/heart_text.png} {w}с-саме для цього я тренувалася!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    so "Так, тааак~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}ламайте мене~~{image=/bg/icons/heart_text.png} {w}с-саме для цього я тренувалася!{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/yui_events.rpy:3847
 translate ukrainian sol_eventtres_5da908c7:
@@ -12237,7 +12237,7 @@ translate ukrainian sol_eventtres_9b889e1c:
 translate ukrainian sol_eventtres_7b1d8be6:
 
     # mc "I'm going to cum!"
-    mc "Я зараз кінчу!"
+    mc "Я зараз кінчу!" with vpunch
 
 # game/game/yui_events.rpy:3852
 translate ukrainian sol_eventtres_e210703d:
@@ -12279,7 +12279,7 @@ translate ukrainian sol_eventtres_08e0114c:
 translate ukrainian sol_eventtres_77d2de04:
 
     # mc "I'm cumming!"
-    mc "Кінчаю!"
+    mc "Кінчаю!" with cumflash
 
 # game/game/yui_events.rpy:3863
 translate ukrainian sol_eventtres_b36cf33f:
@@ -12327,7 +12327,7 @@ translate ukrainian sol_eventtres_022125fa:
 translate ukrainian sol_eventtres_2a63819f:
 
     # y "The best trainer is here-!"
-    y "Найкращий тренер повернувся...!"
+    y "Найкращий тренер повернувся...!" with vpunch
 
 # game/game/yui_events.rpy:3894
 translate ukrainian sol_eventtres_71a86863:
@@ -12381,7 +12381,7 @@ translate ukrainian yui_eventuno_c2b67b46:
 translate ukrainian yui_eventuno_70be9ad2:
 
     # y "{size=-10}He is here!"
-    y "{size=-10}He is here!"
+    y "{size=-10}He is here!" with vpunch
 
 # game/game/yui_events.rpy:3927
 translate ukrainian yui_eventuno_6ace51da:
@@ -12423,7 +12423,7 @@ translate ukrainian yui_eventuno_4d334170:
 translate ukrainian yui_eventuno_e42ae795:
 
     # y "{size=-10}I'll be in my position! {w}Remember the plan!"
-    y "{size=-10}I'll be in my position! {w}Remember the plan!"
+    y "{size=-10}I'll be in my position! {w}Remember the plan!" with vpunch
 
 # game/game/yui_events.rpy:3934
 translate ukrainian yui_eventuno_8dab1c8b:
@@ -12483,7 +12483,7 @@ translate ukrainian yui_eventuno_32dd4526:
 translate ukrainian yui_eventuno_c13adfc9:
 
     # h "And you're NOT into something weird like someone else!"
-    h "And you're NOT into something weird like someone else!"
+    h "And you're NOT into something weird like someone else!" with vpunch
 
 # game/game/yui_events.rpy:3949
 translate ukrainian yui_eventuno_f37ae916:
@@ -12507,13 +12507,13 @@ translate ukrainian yui_eventuno_4cfb1552:
 translate ukrainian yui_eventuno_52f9d621:
 
     # h "Right!?"
-    h "Right!?"
+    h "Right!?" with vpunch
 
 # game/game/yui_events.rpy:3956
 translate ukrainian yui_eventuno_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/yui_events.rpy:3958
 translate ukrainian yui_eventuno_88885f6f:
@@ -12555,7 +12555,7 @@ translate ukrainian yui_eventuno_b13c1d26:
 translate ukrainian yui_eventuno_4d42ca16:
 
     # y "I already have them Hana!"
-    y "I already have them Hana!"
+    y "I already have them Hana!" with vpunch
 
 # game/game/yui_events.rpy:3969
 translate ukrainian yui_eventuno_a0e3ed16:
@@ -12585,7 +12585,7 @@ translate ukrainian yui_eventuno_8b548e99:
 translate ukrainian yui_eventuno_71cfd51e:
 
     # y "Careful! {w}Don't choke ha ha ha."
-    y "Careful! {w}Don't choke ha ha ha."
+    y "Careful! {w}Don't choke ha ha ha." with vpunch
 
 # game/game/yui_events.rpy:3977
 translate ukrainian yui_eventuno_a5ccc50d:
@@ -12597,7 +12597,7 @@ translate ukrainian yui_eventuno_a5ccc50d:
 translate ukrainian yui_eventuno_44cad666:
 
     # y "Do you want another one? {w}You are always like that!"
-    y "Do you want another one? {w}You are always like that!"
+    y "Do you want another one? {w}You are always like that!" with vpunch
 
 # game/game/yui_events.rpy:3980
 translate ukrainian yui_eventuno_a1ee929e:
@@ -12609,13 +12609,13 @@ translate ukrainian yui_eventuno_a1ee929e:
 translate ukrainian yui_eventuno_a45e6b44:
 
     # h "HGhnnhm!!"
-    h "HGhnnhm!!"
+    h "HGhnnhm!!" with vpunch
 
 # game/game/yui_events.rpy:3983
 translate ukrainian yui_eventuno_8a972a0e:
 
     # y "Since you insist! {w}I'll let you eat the only ones left!"
-    y "Since you insist! {w}I'll let you eat the only ones left!"
+    y "Since you insist! {w}I'll let you eat the only ones left!" with vpunch
 
 # game/game/yui_events.rpy:3985
 translate ukrainian yui_eventuno_0afa8f52:
@@ -12627,7 +12627,7 @@ translate ukrainian yui_eventuno_0afa8f52:
 translate ukrainian yui_eventuno_4a30d595:
 
     # y "Y-Yes I know! {w}There won't be any left for [mc]..."
-    y "Y-Yes I know! {w}There won't be any left for [mc]..."
+    y "Y-Yes I know! {w}There won't be any left for [mc]..." with vpunch
 
 # game/game/yui_events.rpy:3987
 translate ukrainian yui_eventuno_a1563eeb:
@@ -12753,7 +12753,7 @@ translate ukrainian yui_eventuno_72a721a9:
 translate ukrainian yui_eventuno_325f8678:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:4027
 translate ukrainian yui_eventuno_137499b2:
@@ -12813,7 +12813,7 @@ translate ukrainian yui_eventuno_121f9ce8:
 translate ukrainian yui_eventuno_1473cbfc:
 
     # mc "It is not that! {w}It's just... {w}I'm worried that I won't be able to live up to your expectations..."
-    mc "It is not that! {w}It's just... {w}I'm worried that I won't be able to live up to your expectations..."
+    mc "It is not that! {w}It's just... {w}I'm worried that I won't be able to live up to your expectations..." with vpunch
 
 # game/game/yui_events.rpy:4041
 translate ukrainian yui_eventuno_6800e4f7:
@@ -12885,7 +12885,7 @@ translate ukrainian yui_eventuno_e87984e2:
 translate ukrainian yui_eventuno_2eb209c8:
 
     # y "Really?!"
-    y "Really?!"
+    y "Really?!" with vpunch
 
 # game/game/yui_events.rpy:4059
 translate ukrainian yui_eventuno_d1aa2fbe:
@@ -12915,7 +12915,7 @@ translate ukrainian yui_eventuno_030c7249:
 translate ukrainian yui_eventuno_a1056826:
 
     # y "Hhhnnmmm!!"
-    y "Hhhnnmmm!!"
+    y "Hhhnnmmm!!" with hpunch
 
 # game/game/yui_events.rpy:4067
 translate ukrainian yui_eventuno_36b245b4:
@@ -13047,7 +13047,7 @@ translate ukrainian yui_eventuno_ab4cab6a:
 translate ukrainian yui_eventuno_fad74001:
 
     # mc "Hey..."
-    mc "Hey..."
+    mc "Hey..." with vpunch
 
 # game/game/yui_events.rpy:4100
 translate ukrainian yui_eventuno_56585412:
@@ -13089,13 +13089,13 @@ translate ukrainian yui_eventuno_65d7126c:
 translate ukrainian yui_eventuno_9a25ed6f:
 
     # y "What!?"
-    y "What!?"
+    y "What!?" with vpunch
 
 # game/game/yui_events.rpy:4112
 translate ukrainian yui_eventuno_56170996:
 
     # y "What are you talking about! {w}[mc] you idiot!"
-    y "What are you talking about! {w}[mc] you idiot!"
+    y "What are you talking about! {w}[mc] you idiot!" with vpunch
 
 # game/game/yui_events.rpy:4113
 translate ukrainian yui_eventuno_d33524f5:
@@ -13155,7 +13155,7 @@ translate ukrainian yui_eventuno_94bf2b13:
 translate ukrainian yui_eventuno_aa570e9d:
 
     # y "That's not even possi-!"
-    y "That's not even possi-!"
+    y "That's not even possi-!" with vpunch
 
 # game/game/yui_events.rpy:4127
 translate ukrainian yui_eventuno_2b35b6fe_3:
@@ -13215,7 +13215,7 @@ translate ukrainian yui_eventuno_1367e064:
 translate ukrainian yui_eventuno_aac8349c:
 
     # sor "{size=-10}{i}Eehw! But you said you were going to help me train!"
-    sor "{size=-10}{i}Eehw! But you said you were going to help me train!"
+    sor "{size=-10}{i}Eehw! But you said you were going to help me train!" with vpunch
 
 # game/game/yui_events.rpy:4142
 translate ukrainian yui_eventuno_44ed2cfb:
@@ -13233,13 +13233,13 @@ translate ukrainian yui_eventuno_71a86863_1:
 translate ukrainian yui_eventuno_4eedcdb9:
 
     # soc "Mr. [mc]! {w}What are you doing here so early!?"
-    soc "Mr. [mc]! {w}What are you doing here so early!?"
+    soc "Mr. [mc]! {w}What are you doing here so early!?" with vpunch
 
 # game/game/yui_events.rpy:4146
 translate ukrainian yui_eventuno_d89c7060:
 
     # sor "Will you train us again?"
-    sor "Will you train us again?"
+    sor "Will you train us again?" with vpunch
 
 # game/game/yui_events.rpy:4147
 translate ukrainian yui_eventuno_e0412292:
@@ -13473,7 +13473,7 @@ translate ukrainian yui_eventdos_71a86863:
 translate ukrainian yui_eventdos_f34b1699:
 
     # y "Wa-What are you talking about?!"
-    y "Wa-What are you talking about?!"
+    y "Wa-What are you talking about?!" with vpunch
 
 # game/game/yui_events.rpy:4222
 translate ukrainian yui_eventdos_2e7e7376:
@@ -13485,13 +13485,13 @@ translate ukrainian yui_eventdos_2e7e7376:
 translate ukrainian yui_eventdos_c6c7a795:
 
     # h "Hahahaha~"
-    h "Hahahaha~"
+    h "Hahahaha~" with vpunch
 
 # game/game/yui_events.rpy:4225
 translate ukrainian yui_eventdos_221732dc:
 
     # y "Why are you laughing?!"
-    y "Why are you laughing?!"
+    y "Why are you laughing?!" with hpunch
 
 # game/game/yui_events.rpy:4227
 translate ukrainian yui_eventdos_210ebf8b:
@@ -13653,7 +13653,7 @@ translate ukrainian yui_eventdos_a1b89b7c:
 translate ukrainian yui_eventdos_2846f669:
 
     # y "He always says weird and lewd things when I least expect it!"
-    y "He always says weird and lewd things when I least expect it!"
+    y "He always says weird and lewd things when I least expect it!" with hpunch
 
 # game/game/yui_events.rpy:4266
 translate ukrainian yui_eventdos_7fda3c4d:
@@ -13731,7 +13731,7 @@ translate ukrainian yui_eventdos_8c443996:
 translate ukrainian yui_eventdos_70ccf128:
 
     # y "Yes!"
-    y "Yes!"
+    y "Yes!" with vpunch
 
 # game/game/yui_events.rpy:4286
 translate ukrainian yui_eventdos_569f7e72:
@@ -13743,13 +13743,13 @@ translate ukrainian yui_eventdos_569f7e72:
 translate ukrainian yui_eventdos_75675bf0:
 
     # y "Please help me!"
-    y "Please help me!"
+    y "Please help me!" with vpunch
 
 # game/game/yui_events.rpy:4288
 translate ukrainian yui_eventdos_d33a7a2f:
 
     # y "I mean, {w}my friend!"
-    y "I mean, {w}my friend!"
+    y "I mean, {w}my friend!" with vpunch
 
 # game/game/yui_events.rpy:4290
 translate ukrainian yui_eventdos_a030063f:
@@ -13869,7 +13869,7 @@ translate ukrainian yui_eventdos_73293503:
 translate ukrainian yui_eventdos_86e962c2:
 
     # y "Yes!? {w}That's great!"
-    y "Yes!? {w}That's great!"
+    y "Yes!? {w}That's great!" with vpunch
 
 # game/game/yui_events.rpy:4325
 translate ukrainian yui_eventdos_6744f4bf:
@@ -13941,7 +13941,7 @@ translate ukrainian yui_eventdos_2b35b6fe:
 translate ukrainian yui_eventdos_20db9780:
 
     # y "{size=-10}{i}Did it work?"
-    y "{size=-10}{i}Did it work?"
+    y "{size=-10}{i}Did it work?" with vpunch
 
 # game/game/yui_events.rpy:4341
 translate ukrainian yui_eventdos_86a72b84:
@@ -13953,7 +13953,7 @@ translate ukrainian yui_eventdos_86a72b84:
 translate ukrainian yui_eventdos_325f8678:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:4344
 translate ukrainian yui_eventdos_659e6ce7:
@@ -13965,13 +13965,13 @@ translate ukrainian yui_eventdos_659e6ce7:
 translate ukrainian yui_eventdos_dd4b064d:
 
     # y "I-Idiot! {w}Don't say things that can be misinterpreted!"
-    y "I-Idiot! {w}Don't say things that can be misinterpreted!"
+    y "I-Idiot! {w}Don't say things that can be misinterpreted!" with vpunch
 
 # game/game/yui_events.rpy:4348
 translate ukrainian yui_eventdos_325f8678_1:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:4349
 translate ukrainian yui_eventdos_015cfd44:
@@ -14007,7 +14007,7 @@ translate ukrainian yui_eventdos_c89534dd:
 translate ukrainian yui_eventdos_baa13c3c:
 
     # t "Don't make that face! {w}I can't take it anymore!"
-    t "Don't make that face! {w}I can't take it anymore!"
+    t "Don't make that face! {w}I can't take it anymore!" with hpunch
 
 # game/game/yui_events.rpy:4358
 translate ukrainian yui_eventdos_7f8236a7:
@@ -14067,7 +14067,7 @@ translate ukrainian yui_eventdos_71a86863_5:
 translate ukrainian yui_eventdos_4ce36bc6:
 
     # y "I'll be right back!"
-    y "I'll be right back!"
+    y "I'll be right back!" with vpunch
 
 # game/game/yui_events.rpy:4375
 translate ukrainian yui_eventdos_0313118d:
@@ -14163,7 +14163,7 @@ translate ukrainian yui_eventdos_2b35b6fe_3:
 translate ukrainian yui_eventdos_1aded2f3:
 
     # y "{size=-10}{i}D-Did it work? {w}He's embarrassed?"
-    y "{size=-10}{i}D-Did it work? {w}He's embarrassed?"
+    y "{size=-10}{i}D-Did it work? {w}He's embarrassed?" with vpunch
 
 # game/game/yui_events.rpy:4400
 translate ukrainian yui_eventdos_154f7980:
@@ -14175,13 +14175,13 @@ translate ukrainian yui_eventdos_154f7980:
 translate ukrainian yui_eventdos_bd266164:
 
     # y "{size=-10}{i}No! {w}I must do what Hana told me, or [mc] will keep messing with me!"
-    y "{size=-10}{i}No! {w}I must do what Hana told me, or [mc] will keep messing with me!"
+    y "{size=-10}{i}No! {w}I must do what Hana told me, or [mc] will keep messing with me!" with hpunch
 
 # game/game/yui_events.rpy:4404
 translate ukrainian yui_eventdos_9374dc4e:
 
     # y "Okay!"
-    y "Okay!"
+    y "Okay!" with vpunch
 
 # game/game/yui_events.rpy:4405
 translate ukrainian yui_eventdos_652650d3:
@@ -14211,7 +14211,7 @@ translate ukrainian yui_eventdos_df1b5461:
 translate ukrainian yui_eventdos_988f7893:
 
     # t "She got confused and took off clothes she shouldn't have!"
-    t "She got confused and took off clothes she shouldn't have!"
+    t "She got confused and took off clothes she shouldn't have!" with vpunch
 
 # game/game/yui_events.rpy:4415
 translate ukrainian yui_eventdos_87f9f194:
@@ -14241,37 +14241,37 @@ translate ukrainian yui_eventdos_03fb3e88_1:
 translate ukrainian yui_eventdos_97343a04:
 
     # y "S-SS-S-S-Soo!"
-    y "S-SS-S-S-Soo!"
+    y "S-SS-S-S-Soo!" with hpunch
 
 # game/game/yui_events.rpy:4422
 translate ukrainian yui_eventdos_2413e2a5:
 
     # mc "Y-Yui! {w}What's wrong?!"
-    mc "Y-Yui! {w}What's wrong?!"
+    mc "Y-Yui! {w}What's wrong?!" with vpunch
 
 # game/game/yui_events.rpy:4424
 translate ukrainian yui_eventdos_3f67579d:
 
     # y "I-I can't do this!"
-    y "I-I can't do this!"
+    y "I-I can't do this!" with vpunch
 
 # game/game/yui_events.rpy:4426
 translate ukrainian yui_eventdos_3798dceb:
 
     # y "Come back another day!"
-    y "Come back another day!"
+    y "Come back another day!" with hpunch
 
 # game/game/yui_events.rpy:4427
 translate ukrainian yui_eventdos_1ac2ec2c:
 
     # mc "Yui! {w}What happened?!"
-    mc "Yui! {w}What happened?!"
+    mc "Yui! {w}What happened?!" with vpunch
 
 # game/game/yui_events.rpy:4429
 translate ukrainian yui_eventdos_437ee29b:
 
     # y "{size=-10}{i}It's impossible for me to do that Hana!"
-    y "{size=-10}{i}It's impossible for me to do that Hana!"
+    y "{size=-10}{i}It's impossible for me to do that Hana!" with vpunch
 
 # game/game/yui_events.rpy:4431
 translate ukrainian yui_eventdos_c378f7e5:
@@ -14283,7 +14283,7 @@ translate ukrainian yui_eventdos_c378f7e5:
 translate ukrainian yui_eventdos_55ee4f68:
 
     # mc "Yuuui!!"
-    mc "Yuuui!!"
+    mc "Yuuui!!" with vpunch
 
 # game/game/yui_events.rpy:4446
 translate ukrainian yui_eventtres_1f25db0d:
@@ -14313,7 +14313,7 @@ translate ukrainian yui_eventtres_80cacbf6:
 translate ukrainian yui_eventtres_1417769f:
 
     # to "Come back anytime! {w}I always bring more."
-    to "Come back anytime! {w}I always bring more."
+    to "Come back anytime! {w}I always bring more." with vpunch
 
 # game/game/yui_events.rpy:4454
 translate ukrainian yui_eventtres_264a826f:
@@ -14415,7 +14415,7 @@ translate ukrainian yui_eventtres_71a86863:
 translate ukrainian yui_eventtres_cb454756:
 
     # y "Come with me immediately!"
-    y "Come with me immediately!"
+    y "Come with me immediately!" with vpunch
 
 # game/game/yui_events.rpy:4479
 translate ukrainian yui_eventtres_616be3f6:
@@ -14481,7 +14481,7 @@ translate ukrainian yui_eventtres_c9275ae5:
 translate ukrainian yui_eventtres_df1663c8:
 
     # y "It's nothing like that!"
-    y "It's nothing like that!"
+    y "It's nothing like that!" with vpunch
 
 # game/game/yui_events.rpy:4495
 translate ukrainian yui_eventtres_d9af6597:
@@ -14493,7 +14493,7 @@ translate ukrainian yui_eventtres_d9af6597:
 translate ukrainian yui_eventtres_5c711ab6:
 
     # y "I'm not trying today!"
-    y "I'm not trying today!"
+    y "I'm not trying today!" with vpunch
 
 # game/game/yui_events.rpy:4499
 translate ukrainian yui_eventtres_13f09e86:
@@ -14505,7 +14505,7 @@ translate ukrainian yui_eventtres_13f09e86:
 translate ukrainian yui_eventtres_325f8678:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:4502
 translate ukrainian yui_eventtres_09b6ef75:
@@ -14553,25 +14553,25 @@ translate ukrainian yui_eventtres_71a86863_2:
 translate ukrainian yui_eventtres_325f8678_1:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:4516
 translate ukrainian yui_eventtres_576da61c:
 
     # y "D-DD-Don't act like we're married!!!"
-    y "D-DD-Don't act like we're married!!!"
+    y "D-DD-Don't act like we're married!!!" with vpunch
 
 # game/game/yui_events.rpy:4517
 translate ukrainian yui_eventtres_58ae4ed7:
 
     # mc "Hahahaha."
-    mc "Hahahaha."
+    mc "Hahahaha." with vpunch
 
 # game/game/yui_events.rpy:4519
 translate ukrainian yui_eventtres_a124c1ab:
 
     # y "Idiot! {w}I'll be right back!"
-    y "Idiot! {w}I'll be right back!"
+    y "Idiot! {w}I'll be right back!" with vpunch
 
 # game/game/yui_events.rpy:4521
 translate ukrainian yui_eventtres_12cb3747:
@@ -14643,7 +14643,7 @@ translate ukrainian yui_eventtres_a48fb7ee:
 translate ukrainian yui_eventtres_3e7e8364:
 
     # y "Mooh! {w}Have one!"
-    y "Mooh! {w}Have one!"
+    y "Mooh! {w}Have one!" with vpunch
 
 # game/game/yui_events.rpy:4539
 translate ukrainian yui_eventtres_a5e3fdf4:
@@ -14811,7 +14811,7 @@ translate ukrainian yui_eventtres_88f8a702:
 translate ukrainian yui_eventtres_ebb60029:
 
     # y "If you say anything lewd I will hit you!"
-    y "If you say anything lewd I will hit you!"
+    y "If you say anything lewd I will hit you!" with vpunch
 
 # game/game/yui_events.rpy:4585
 translate ukrainian yui_eventtres_7c5f3777:
@@ -14823,7 +14823,7 @@ translate ukrainian yui_eventtres_7c5f3777:
 translate ukrainian yui_eventtres_960b3339:
 
     # y "You were really going to do it!"
-    y "You were really going to do it!"
+    y "You were really going to do it!" with vpunch
 
 # game/game/yui_events.rpy:4588
 translate ukrainian yui_eventtres_d931d95c:
@@ -14925,7 +14925,7 @@ translate ukrainian yui_eventtres_cbff852e:
 translate ukrainian yui_eventtres_926d6420:
 
     # y "I want to try it! {w}Maybe it will help me in combat!"
-    y "I want to try it! {w}Maybe it will help me in combat!"
+    y "I want to try it! {w}Maybe it will help me in combat!" with vpunch
 
 # game/game/yui_events.rpy:4614
 translate ukrainian yui_eventtres_2bac151b:
@@ -15063,7 +15063,7 @@ translate ukrainian yui_eventtres_9ebfffe0:
 translate ukrainian yui_eventtres_325f8678_2:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:4646
 translate ukrainian yui_eventtres_15e9dba1:
@@ -15081,7 +15081,7 @@ translate ukrainian yui_eventtres_c6f540e0:
 translate ukrainian yui_eventtres_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/yui_events.rpy:4651
 translate ukrainian yui_eventtres_94162c0a:
@@ -15105,7 +15105,7 @@ translate ukrainian yui_eventtres_b46ae74f:
 translate ukrainian yui_eventtres_8c1ee553:
 
     # y "Wa-W-Wai-"
-    y "Wa-W-Wai-"
+    y "Wa-W-Wai-" with vpunch
 
 # game/game/yui_events.rpy:4657
 translate ukrainian yui_eventtres_3f9d462b:
@@ -15129,7 +15129,7 @@ translate ukrainian yui_eventtres_626528ad:
 translate ukrainian yui_eventtres_ff07c16e:
 
     # mc "Y-Yui!!"
-    mc "Y-Yui!!"
+    mc "Y-Yui!!" with vpunch
 
 # game/game/yui_events.rpy:4667
 translate ukrainian yui_eventtres_c378f7e5:
@@ -15309,7 +15309,7 @@ translate ukrainian yui_eventcuatro_4dd3096b:
 translate ukrainian yui_eventcuatro_6fcec88c:
 
     # y "Idiot, {w}dryads are very uncommon in these parts, {w}and it's rare for them to appear in front of humans."
-    y "Idiot, {w}dryads are very uncommon in these parts, {w}and it's rare for them to appear in front of humans."
+    y "Idiot, {w}dryads are very uncommon in these parts, {w}and it's rare for them to appear in front of humans." with vpunch
 
 # game/game/yui_events.rpy:4730
 translate ukrainian yui_eventcuatro_52739558:
@@ -15339,7 +15339,7 @@ translate ukrainian yui_eventcuatro_eaa24d5f:
 translate ukrainian yui_eventcuatro_69ebb7a7:
 
     # y "Don't call me that!"
-    y "Don't call me that!"
+    y "Don't call me that!" with hpunch
 
 # game/game/yui_events.rpy:4738
 translate ukrainian yui_eventcuatro_d2320621:
@@ -15393,7 +15393,7 @@ translate ukrainian yui_eventcuatro_2797ddad:
 translate ukrainian yui_eventcuatro_4af76c47:
 
     # y "Hmm?!"
-    y "Hmm?!"
+    y "Hmm?!" with vpunch
 
 # game/game/yui_events.rpy:4752
 translate ukrainian yui_eventcuatro_6d0b3d1c:
@@ -15459,13 +15459,13 @@ translate ukrainian yui_eventcuatro_785ee78f:
 translate ukrainian yui_eventcuatro_eb4e2196:
 
     # mc "{size=-10}Tsch*"
-    mc "{size=-10}Tsch*"
+    mc "{size=-10}Tsch*" with hpunch
 
 # game/game/yui_events.rpy:4768
 translate ukrainian yui_eventcuatro_328ddc4a:
 
     # y "Why do you look so upset?!"
-    y "Why do you look so upset?!"
+    y "Why do you look so upset?!" with vpunch
 
 # game/game/yui_events.rpy:4776
 translate ukrainian yui_eventcuatro_22245203:
@@ -15501,7 +15501,7 @@ translate ukrainian yui_eventcuatro_ef4d05de:
 translate ukrainian yui_eventcuatro_aa98f101:
 
     # soc "Thank you for everything Miss Yui!"
-    soc "Thank you for everything Miss Yui!"
+    soc "Thank you for everything Miss Yui!" with vpunch
 
 # game/game/yui_events.rpy:4784
 translate ukrainian yui_eventcuatro_94266d2e:
@@ -15525,7 +15525,7 @@ translate ukrainian yui_eventcuatro_eecb92e6:
 translate ukrainian yui_eventcuatro_83323a6a:
 
     # y "{size=-10}{i}EeeH!?"
-    y "{size=-10}{i}EeeH!?"
+    y "{size=-10}{i}EeeH!?" with vpunch
 
 # game/game/yui_events.rpy:4789
 translate ukrainian yui_eventcuatro_6601f2f1:
@@ -15555,13 +15555,13 @@ translate ukrainian yui_eventcuatro_f2c21daa:
 translate ukrainian yui_eventcuatro_e47ba5b3:
 
     # soc "Eeeeh!?"
-    soc "Eeeeh!?"
+    soc "Eeeeh!?" with vpunch
 
 # game/game/yui_events.rpy:4796
 translate ukrainian yui_eventcuatro_fa34fc9c:
 
     # y "Eeeeh!?"
-    y "Eeeeh!?"
+    y "Eeeeh!?" with vpunch
 
 # game/game/yui_events.rpy:4797
 translate ukrainian yui_eventcuatro_fd139839:
@@ -15645,7 +15645,7 @@ translate ukrainian yui_eventcuatro_71a86863_4:
 translate ukrainian yui_eventcuatro_fd236448:
 
     # y "Ah! Yes, I knew it! {w}Let's go in."
-    y "Ah! Yes, I knew it! {w}Let's go in."
+    y "Ah! Yes, I knew it! {w}Let's go in." with vpunch
 
 # game/game/yui_events.rpy:4820
 translate ukrainian yui_eventcuatro_111f08b7:
@@ -15765,7 +15765,7 @@ translate ukrainian yui_eventcuatro_2b35b6fe_3:
 translate ukrainian yui_eventcuatro_36d0bbb9:
 
     # t "Oh shit, {w}that's what I get for thinking about that!"
-    t "Oh shit, {w}that's what I get for thinking about that!"
+    t "Oh shit, {w}that's what I get for thinking about that!" with vpunch
 
 # game/game/yui_events.rpy:4854
 translate ukrainian yui_eventcuatro_8dd5052a:
@@ -15843,13 +15843,13 @@ translate ukrainian yui_eventcuatro_890ab555:
 translate ukrainian yui_gal4_974729c1:
 
     # mc "Yui, I think-"
-    mc "Yui, I think-"
+    mc "Yui, I think-" with vpunch
 
 # game/game/yui_events.rpy:4875
 translate ukrainian yui_gal4_e6ac51d2:
 
     # y "Wait! I want to ask you something!"
-    y "Wait! I want to ask you something!"
+    y "Wait! I want to ask you something!" with vpunch
 
 # game/game/yui_events.rpy:4881
 translate ukrainian yui_gal4_bd3b9e2e:
@@ -15867,7 +15867,7 @@ translate ukrainian yui_gal4_71a86863:
 translate ukrainian yui_gal4_39f53bfd:
 
     # y "Yes! {w}Sorr-"
-    y "Yes! {w}Sorr-"
+    y "Yes! {w}Sorr-" with hpunch
 
 # game/game/yui_events.rpy:4889
 translate ukrainian yui_gal4_85976b77:
@@ -15933,7 +15933,7 @@ translate ukrainian yui_gal4_03fb3e88:
 translate ukrainian yui_gal4_0efe532a:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "Oh!" with vpunch
 
 # game/game/yui_events.rpy:4903
 translate ukrainian yui_gal4_284b440b:
@@ -16047,7 +16047,7 @@ translate ukrainian yui_gal4_85976b77_1:
 translate ukrainian yui_gal4_c5384ef6:
 
     # mc "Please!"
-    mc "Please!"
+    mc "Please!" with vpunch
 
 # game/game/yui_events.rpy:4934
 translate ukrainian yui_gal4_ebeae167:
@@ -16371,7 +16371,7 @@ translate ukrainian yui_gal4_7d0c7720:
 translate ukrainian yui_gal4_c83c5925:
 
     # t "What?!"
-    t "What?!"
+    t "What?!" with vpunch
 
 # game/game/yui_events.rpy:5001
 translate ukrainian yui_gal4_06c1a242:
@@ -16425,7 +16425,7 @@ translate ukrainian yui_gal4_07d5ff87:
 translate ukrainian yui_gal4_50ebb93d:
 
     # t "Better yet, it exceeds my expectations!"
-    t "Better yet, it exceeds my expectations!"
+    t "Better yet, it exceeds my expectations!" with vpunch
 
 # game/game/yui_events.rpy:5010
 translate ukrainian yui_gal4_eeeab9b2:
@@ -16449,7 +16449,7 @@ translate ukrainian yui_gal4_2311cf4c:
 translate ukrainian yui_gal4_967a8812:
 
     # y "GhNGM!?~ {w}HHNmhnm~~{image=corazon}"
-    y "GhNGM!?~ {w}HHNmhnm~~{image=corazon}"
+    y "GhNGM!?~ {w}HHNmhnm~~{image=corazon}" with hpunch
 
 # game/game/yui_events.rpy:5016
 translate ukrainian yui_gal4_fd5e3b72:
@@ -16533,13 +16533,13 @@ translate ukrainian yui_gal4_7db1e488:
 translate ukrainian yui_gal4_33ee129d:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "Fuck!" with vpunch
 
 # game/game/yui_events.rpy:5031
 translate ukrainian yui_gal4_fa5ef0c9:
 
     # y "Idiot! {w}GMhmng~~ {image=corazon} {w}Hnmhmnm~~{image=corazon}{image=corazon}"
-    y "Idiot! {w}GMhmng~~ {image=corazon} {w}Hnmhmnm~~{image=corazon}{image=corazon}"
+    y "Idiot! {w}GMhmng~~ {image=corazon} {w}Hnmhmnm~~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/yui_events.rpy:5032
 translate ukrainian yui_gal4_8318562d:
@@ -16551,7 +16551,7 @@ translate ukrainian yui_gal4_8318562d:
 translate ukrainian yui_gal4_d73a7b37:
 
     # y "And why are you {w}Gnhgmn~~{image=corazon}{image=corazon} {w}e-enjoying it even more?"
-    y "And why are you {w}Gnhgmn~~{image=corazon}{image=corazon} {w}e-enjoying it even more?"
+    y "And why are you {w}Gnhgmn~~{image=corazon}{image=corazon} {w}e-enjoying it even more?" with hpunch
 
 # game/game/yui_events.rpy:5034
 translate ukrainian yui_gal4_cff36eee:
@@ -16563,7 +16563,7 @@ translate ukrainian yui_gal4_cff36eee:
 translate ukrainian yui_gal4_5e884e51:
 
     # y "I'm going to {w}SLuuurpp~~{image=corazon}{image=corazon} {w}m-make you c-cum like crazy!{image=corazon}"
-    y "I'm going to {w}SLuuurpp~~{image=corazon}{image=corazon} {w}m-make you c-cum like crazy!{image=corazon}"
+    y "I'm going to {w}SLuuurpp~~{image=corazon}{image=corazon} {w}m-make you c-cum like crazy!{image=corazon}" with vpunch
 
 # game/game/yui_events.rpy:5036
 translate ukrainian yui_gal4_f33cd00f:
@@ -16581,19 +16581,19 @@ translate ukrainian yui_gal4_676ce44b:
 translate ukrainian yui_gal4_bb84a5a6:
 
     # y "GHNMN~~{image=corazon} {w}Tsuuurrpp~~{image=corazon}{image=corazon}{image=corazon} {w}HHMHMN~~{image=corazon}"
-    y "GHNMN~~{image=corazon} {w}Tsuuurrpp~~{image=corazon}{image=corazon}{image=corazon} {w}HHMHMN~~{image=corazon}"
+    y "GHNMN~~{image=corazon} {w}Tsuuurrpp~~{image=corazon}{image=corazon}{image=corazon} {w}HHMHMN~~{image=corazon}" with hpunch
 
 # game/game/yui_events.rpy:5039
 translate ukrainian yui_gal4_460d01f2:
 
     # mc "I'm already at my limit!"
-    mc "I'm already at my limit!"
+    mc "I'm already at my limit!" with vpunch
 
 # game/game/yui_events.rpy:5045
 translate ukrainian yui_gal4_111dfbe1:
 
     # y "Hhnmmnhm~~!"
-    y "Hhnmmnhm~~!"
+    y "Hhnmmnhm~~!" with vpunch
 
 # game/game/yui_events.rpy:5048
 translate ukrainian yui_gal4_9d0a7929:
@@ -16605,7 +16605,7 @@ translate ukrainian yui_gal4_9d0a7929:
 translate ukrainian yui_gal4_5a4b789e:
 
     # y "Aghem~ Aahghem~"
-    y "Aghem~ Aahghem~"
+    y "Aghem~ Aahghem~" with vpunch
 
 # game/game/yui_events.rpy:5055
 translate ukrainian yui_gal4_1ba2ba32:
@@ -16743,7 +16743,7 @@ translate ukrainian yui_eventnueve_afa69258:
 translate ukrainian yui_eventnueve_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/yui_events.rpy:5109
 translate ukrainian yui_eventnueve_c803ee40:
@@ -16911,13 +16911,13 @@ translate ukrainian yui_eventnueve_b331dc3a:
 translate ukrainian yui_eventnueve_eed3cc48:
 
     # sor "Sorry~"
-    sor "Sorry~"
+    sor "Sorry~" (multiple=2)
 
 # game/game/yui_events.rpy:5146
 translate ukrainian yui_eventnueve_51cfea73:
 
     # soc "Sorry for being late."
-    soc "Sorry for being late."
+    soc "Sorry for being late." (multiple=2)
 
 # game/game/yui_events.rpy:5147
 translate ukrainian yui_eventnueve_88c9dea3:
@@ -17283,19 +17283,19 @@ translate ukrainian yui_eventnueve_5e862ada:
 translate ukrainian yui_eventnueve_f77b6564:
 
     # sob "Miss Yui!"
-    sob "Miss Yui!"
+    sob "Miss Yui!" with hpunch
 
 # game/game/yui_events.rpy:5244
 translate ukrainian yui_eventnueve_c071ba42:
 
     # y "...!"
-    y "...!"
+    y "...!" (multiple=2)
 
 # game/game/yui_events.rpy:5245
 translate ukrainian yui_eventnueve_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/yui_events.rpy:5247
 translate ukrainian yui_eventnueve_0f56cfbc:
@@ -17313,7 +17313,7 @@ translate ukrainian yui_eventnueve_7d2ffb10:
 translate ukrainian yui_eventnueve_0a9fa675:
 
     # y "A-All right!"
-    y "A-All right!"
+    y "A-All right!" with hpunch
 
 # game/game/yui_events.rpy:5251
 translate ukrainian yui_eventnueve_1644db34:
@@ -17325,7 +17325,7 @@ translate ukrainian yui_eventnueve_1644db34:
 translate ukrainian yui_eventnueve_9f80d6f3:
 
     # y "Bye!"
-    y "Bye!"
+    y "Bye!" with hpunch
 
 # game/game/yui_events.rpy:5262
 translate ukrainian yui_eventnueve_c378f7e5:
@@ -17385,7 +17385,7 @@ translate ukrainian yui_eventnueve_e2354e71:
 translate ukrainian yui_eventnueve_f3c240eb:
 
     # mc "{b}Ugh!"
-    mc "{b}Ugh!"
+    mc "{b}Ugh!" with hpunch
 
 # game/game/yui_events.rpy:5282
 translate ukrainian yui_eventnueve_45aedf91:
@@ -17475,7 +17475,7 @@ translate ukrainian yui_eventdiez_7433b9f5:
 translate ukrainian yui_eventdiez_3b021b66:
 
     # y "Damn it!"
-    y "Damn it!"
+    y "Damn it!" with hpunch
 
 # game/game/yui_events.rpy:5324
 translate ukrainian yui_eventdiez_652650d3:
@@ -17511,13 +17511,13 @@ translate ukrainian yui_eventdiez_3fb26902:
 translate ukrainian yui_eventdiez_e9a2de7d:
 
     # y "What is the point if I can't protect anyone!"
-    y "What is the point if I can't protect anyone!"
+    y "What is the point if I can't protect anyone!" with hpunch
 
 # game/game/yui_events.rpy:5335
 translate ukrainian yui_eventdiez_ef153ceb:
 
     # y "How frustrating!"
-    y "How frustrating!"
+    y "How frustrating!" with vpunch
 
 # game/game/yui_events.rpy:5337
 translate ukrainian yui_eventdiez_1ebc1f6e:
@@ -17529,7 +17529,7 @@ translate ukrainian yui_eventdiez_1ebc1f6e:
 translate ukrainian yui_eventdiez_ef153ceb_1:
 
     # y "How frustrating!"
-    y "How frustrating!"
+    y "How frustrating!" with vpunch
 
 # game/game/yui_events.rpy:5340
 translate ukrainian yui_eventdiez_30807b3e:
@@ -17547,7 +17547,7 @@ translate ukrainian yui_eventdiez_2ac06e25:
 translate ukrainian yui_eventdiez_65f9d778:
 
     # y "HOW FRUSTRATING!"
-    y "HOW FRUSTRATING!"
+    y "HOW FRUSTRATING!" with vpunch
 
 # game/game/yui_events.rpy:5346
 translate ukrainian yui_eventdiez_2b35b6fe:
@@ -17739,13 +17739,13 @@ translate ukrainian yui_eventdiez_1a56a9e3:
 translate ukrainian yui_eventdiez_1bdf53bc:
 
     # y "T-That!-"
-    y "T-That!-"
+    y "T-That!-" with hpunch
 
 # game/game/yui_events.rpy:5396
 translate ukrainian yui_eventdiez_a7f24e05:
 
     # y "That is not even close to what we were talking about!"
-    y "That is not even close to what we were talking about!"
+    y "That is not even close to what we were talking about!" with hpunch
 
 # game/game/yui_events.rpy:5398
 translate ukrainian yui_eventdiez_647f0064:
@@ -17775,7 +17775,7 @@ translate ukrainian yui_eventdiez_2e7f814d:
 translate ukrainian yui_eventdiez_ac6fd017:
 
     # y "Eehh?!"
-    y "Eehh?!"
+    y "Eehh?!" with vpunch
 
 # game/game/yui_events.rpy:5404
 translate ukrainian yui_eventdiez_74262abf:
@@ -17799,7 +17799,7 @@ translate ukrainian yui_eventdiez_9798fb24:
 translate ukrainian yui_eventdiez_84c36dd7:
 
     # y "Hey, it's not that!"
-    y "Hey, it's not that!"
+    y "Hey, it's not that!" with hpunch
 
 # game/game/yui_events.rpy:5410
 translate ukrainian yui_eventdiez_03fb3e88:
@@ -18069,7 +18069,7 @@ translate ukrainian yui_eventdiez_df911ede:
 translate ukrainian yui_eventdiez_ef625186:
 
     # y "Yes!~{image=corazon}"
-    y "Yes!~{image=corazon}"
+    y "Yes!~{image=corazon}" with hpunch
 
 # game/game/yui_events.rpy:5467
 translate ukrainian yui_eventdiez_71a86863_6:
@@ -18081,7 +18081,7 @@ translate ukrainian yui_eventdiez_71a86863_6:
 translate ukrainian yui_eventdiez_e464e77b:
 
     # y "What obscene thing are you doing to my hand?"
-    y "What obscene thing are you doing to my hand?"
+    y "What obscene thing are you doing to my hand?" with hpunch
 
 # game/game/yui_events.rpy:5471
 translate ukrainian yui_eventdiez_f2316b97:
@@ -18123,7 +18123,7 @@ translate ukrainian yui_eventdiez_85976b77:
 translate ukrainian yui_eventdiez_176e714c:
 
     # y "The girls will be here any minute!"
-    y "The girls will be here any minute!"
+    y "The girls will be here any minute!" with vpunch
 
 # game/game/yui_events.rpy:5484
 translate ukrainian yui_eventdiez_1f5b224d:
@@ -18135,7 +18135,7 @@ translate ukrainian yui_eventdiez_1f5b224d:
 translate ukrainian yui_eventonce_144bf60b:
 
     # mc "Hmmp!"
-    mc "Hmmp!"
+    mc "Hmmp!" with hpunch
 
 # game/game/yui_events.rpy:5495
 translate ukrainian yui_eventonce_9a2639c8:
@@ -18213,7 +18213,7 @@ translate ukrainian yui_eventonce_2b35b6fe:
 translate ukrainian yui_eventonce_882563d1:
 
     # y "Eeh!?-"
-    y "Eeh!?-"
+    y "Eeh!?-" with vpunch
 
 # game/game/yui_events.rpy:5516
 translate ukrainian yui_eventonce_d31d3718:
@@ -18225,7 +18225,7 @@ translate ukrainian yui_eventonce_d31d3718:
 translate ukrainian yui_eventonce_91a2f84f:
 
     # y "Don't rub your face against my thigh!"
-    y "Don't rub your face against my thigh!"
+    y "Don't rub your face against my thigh!" with vpunch
 
 # game/game/yui_events.rpy:5518
 translate ukrainian yui_eventonce_71a86863:
@@ -18459,19 +18459,19 @@ translate ukrainian yui_eventonce_1baaabe7:
 translate ukrainian yui_eventonce_fb47d14c:
 
     # y "Stop saying that out of the blue!"
-    y "Stop saying that out of the blue!"
+    y "Stop saying that out of the blue!" with vpunch
 
 # game/game/yui_events.rpy:5573
 translate ukrainian yui_eventonce_431303ab:
 
     # mc "It's not my fault that I find you cute every second!"
-    mc "It's not my fault that I find you cute every second!"
+    mc "It's not my fault that I find you cute every second!" with hpunch
 
 # game/game/yui_events.rpy:5575
 translate ukrainian yui_eventonce_13d5ba43:
 
     # y "[mc]!"
-    y "[mc]!"
+    y "[mc]!" with hpunch
 
 # game/game/yui_events.rpy:5576
 translate ukrainian yui_eventonce_18a31c82:
@@ -18555,13 +18555,13 @@ translate ukrainian yui_eventonce_4fb4b429:
 translate ukrainian yui_eventonce_308a819f:
 
     # mc "EH?!"
-    mc "EH?!"
+    mc "EH?!" with hpunch
 
 # game/game/yui_events.rpy:5599
 translate ukrainian yui_eventonce_9a7a11c6:
 
     # mc "Yui!"
-    mc "Yui!"
+    mc "Yui!" with vpunch
 
 # game/game/yui_events.rpy:5601
 translate ukrainian yui_eventonce_9f859982:
@@ -18573,7 +18573,7 @@ translate ukrainian yui_eventonce_9f859982:
 translate ukrainian yui_eventonce_7ddb31d7:
 
     # mc "Yuuuui!!"
-    mc "Yuuuui!!"
+    mc "Yuuuui!!" with vpunch
 
 # game/game/yui_events.rpy:5608
 translate ukrainian yui_eventonce_a4344a95:
@@ -18669,7 +18669,7 @@ translate ukrainian yui_eventonce_d5d4b5c7:
 translate ukrainian yui_eventonce_60ae4ffd:
 
     # y "I-Idiot!"
-    y "I-Idiot!"
+    y "I-Idiot!" with hpunch
 
 # game/game/yui_events.rpy:5630
 translate ukrainian yui_eventonce_7c2edbd4:
@@ -18681,7 +18681,7 @@ translate ukrainian yui_eventonce_7c2edbd4:
 translate ukrainian yui_eventonce_8aa713cc:
 
     # y "Why did you do that?!"
-    y "Why did you do that?!"
+    y "Why did you do that?!" with vpunch
 
 # game/game/yui_events.rpy:5632
 translate ukrainian yui_eventonce_a3c2c877:
@@ -18693,7 +18693,7 @@ translate ukrainian yui_eventonce_a3c2c877:
 translate ukrainian yui_eventonce_dbd82f53:
 
     # y "Hmnm!"
-    y "Hmnm!"
+    y "Hmnm!" with vpunch
 
 # game/game/yui_events.rpy:5635
 translate ukrainian yui_eventonce_9b919fd3:
@@ -18843,7 +18843,7 @@ translate ukrainian yui_eventonce_077731a3:
 translate ukrainian yui_eventonce_df3ad449:
 
     # y "Stooop!"
-    y "Stooop!"
+    y "Stooop!" with hpunch
 
 # game/game/yui_events.rpy:5671
 translate ukrainian yui_eventonce_c5f8f62d:
@@ -18861,19 +18861,19 @@ translate ukrainian yui_eventonce_6620037d:
 translate ukrainian yui_eventonce_6b3fbdee:
 
     # y "Hana told me that when you annoy me a lot, do this!"
-    y "Hana told me that when you annoy me a lot, do this!"
+    y "Hana told me that when you annoy me a lot, do this!" with hpunch
 
 # game/game/yui_events.rpy:5675
 translate ukrainian yui_eventonce_4b2382b3:
 
     # t "Hana I love you!"
-    t "Hana I love you!"
+    t "Hana I love you!" with hpunch
 
 # game/game/yui_events.rpy:5677
 translate ukrainian yui_eventonce_fa22a117:
 
     # y "Say you will stop bothering me!"
-    y "Say you will stop bothering me!"
+    y "Say you will stop bothering me!" with vpunch
 
 # game/game/yui_events.rpy:5678
 translate ukrainian yui_eventonce_2b35b6fe_6:
@@ -18891,7 +18891,7 @@ translate ukrainian yui_eventonce_891890e6:
 translate ukrainian yui_eventonce_49df131f:
 
     # y "You heard me!"
-    y "You heard me!"
+    y "You heard me!" with hpunch
 
 # game/game/yui_events.rpy:5682
 translate ukrainian yui_eventonce_43385ac0:
@@ -18921,13 +18921,13 @@ translate ukrainian yui_eventonce_c378f7e5:
 translate ukrainian yui_eventonce_221732dc:
 
     # y "Why are you laughing?!"
-    y "Why are you laughing?!"
+    y "Why are you laughing?!" with hpunch
 
 # game/game/yui_events.rpy:5703
 translate ukrainian yui_eventdoce_1154680b:
 
     # ma "This is the best news I could ever hear!"
-    ma "This is the best news I could ever hear!"
+    ma "This is the best news I could ever hear!" with vpunch
 
 # game/game/yui_events.rpy:5704
 translate ukrainian yui_eventdoce_d85dfc78:
@@ -18975,13 +18975,13 @@ translate ukrainian yui_eventdoce_9763a5fc:
 translate ukrainian yui_eventdoce_6db110d2:
 
     # ma "Oh? [mc]!"
-    ma "Oh? [mc]!"
+    ma "Oh? [mc]!" (multiple=2)
 
 # game/game/yui_events.rpy:5715
 translate ukrainian yui_eventdoce_ca3b5136:
 
     # y "Hmm?"
-    y "Hmm?"
+    y "Hmm?" (multiple=2)
 
 # game/game/yui_events.rpy:5716
 translate ukrainian yui_eventdoce_303dfb09:
@@ -19071,7 +19071,7 @@ translate ukrainian yui_eventdoce_b780d26e:
 translate ukrainian yui_eventdoce_7edd2b58:
 
     # ma "{size=-8}Yujuu!"
-    ma "{size=-8}Yujuu!"
+    ma "{size=-8}Yujuu!" with hpunch
 
 # game/game/yui_events.rpy:5740
 translate ukrainian yui_eventdoce_c5854c91:
@@ -19143,13 +19143,13 @@ translate ukrainian yui_eventdoce_8a3b99bc:
 translate ukrainian yui_eventdoce_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/yui_events.rpy:5757
 translate ukrainian yui_eventdoce_60ae4ffd:
 
     # y "I-Idiot!"
-    y "I-Idiot!"
+    y "I-Idiot!" with hpunch
 
 # game/game/yui_events.rpy:5758
 translate ukrainian yui_eventdoce_1f5b224d:
@@ -19209,13 +19209,13 @@ translate ukrainian yui_eventdoce_7b5aefea:
 translate ukrainian yui_eventdoce_1855a558:
 
     # y "Eh?!-"
-    y "Eh?!-"
+    y "Eh?!-" with hpunch
 
 # game/game/yui_events.rpy:5780
 translate ukrainian yui_eventdoce_919564d7:
 
     # mc "That's my job."
-    mc "That's my job."
+    mc "That's my job." with hpunch
 
 # game/game/yui_events.rpy:5781
 translate ukrainian yui_eventdoce_2a5f47a3:
@@ -19227,19 +19227,19 @@ translate ukrainian yui_eventdoce_2a5f47a3:
 translate ukrainian yui_eventdoce_dae5a64a:
 
     # y "Hey!"
-    y "Hey!"
+    y "Hey!" with hpunch
 
 # game/game/yui_events.rpy:5783
 translate ukrainian yui_eventdoce_b6c47370:
 
     # h "Hahaha~"
-    h "Hahaha~"
+    h "Hahaha~" (multiple=2)
 
 # game/game/yui_events.rpy:5784
 translate ukrainian yui_eventdoce_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
 # game/game/yui_events.rpy:5785
 translate ukrainian yui_eventdoce_ade0dfc2:
@@ -19299,13 +19299,13 @@ translate ukrainian yui_eventdoce_bc09faa1:
 translate ukrainian yui_eventdoce_1f1cf6da:
 
     # mc "Understood!"
-    mc "Understood!"
+    mc "Understood!" with vpunch
 
 # game/game/yui_events.rpy:5799
 translate ukrainian yui_eventdoce_f665126b:
 
     # y "Eeh!?"
-    y "Eeh!?"
+    y "Eeh!?" with vpunch
 
 # game/game/yui_events.rpy:5801
 translate ukrainian yui_eventdoce_43ffaedb:
@@ -19581,13 +19581,13 @@ translate ukrainian yui_eventdoce_3d755646:
 translate ukrainian yui_eventdoce_54b91d3f_1:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/yui_events.rpy:5875
 translate ukrainian yui_eventdoce_affeac93:
 
     # y "Hmmn!"
-    y "Hmmn!"
+    y "Hmmn!" with hpunch
 
 # game/game/yui_events.rpy:5876
 translate ukrainian yui_eventdoce_1f5b224d_1:
@@ -19623,7 +19623,7 @@ translate ukrainian yui_eventdoce_ed381998:
 translate ukrainian yui_eventdoce_9f6467a1:
 
     # y "{i}Haaaa~"
-    y "{i}Haaaa~"
+    y "{i}Haaaa~" with hpunch
 
 # game/game/yui_events.rpy:5885
 translate ukrainian yui_eventdoce_2b35b6fe_1:
@@ -19695,7 +19695,7 @@ translate ukrainian yui_eventdoce_3af8246d:
 translate ukrainian yui_eventdoce_0922c67c:
 
     # t "C-Cutie?"
-    t "C-Cutie?"
+    t "C-Cutie?" with hpunch
 
 # game/game/yui_events.rpy:5901
 translate ukrainian yui_eventdoce_8c04a0e3:
@@ -19821,7 +19821,7 @@ translate ukrainian yui_eventdoce_b6376944:
 translate ukrainian yui_eventdoce_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/yui_events.rpy:5930
 translate ukrainian yui_eventdoce_eab266a8:
@@ -19917,7 +19917,7 @@ translate ukrainian yui_gal5_113d0c96:
 translate ukrainian yui_gal5_b0f4e2a2:
 
     # y "{i}{size=-8}The effect of alcohol is disappearing!"
-    y "{i}{size=-8}The effect of alcohol is disappearing!"
+    y "{i}{size=-8}The effect of alcohol is disappearing!" with vpunch
 
 # game/game/yui_events.rpy:5958
 translate ukrainian yui_gal5_d171dfb6:
@@ -19953,7 +19953,7 @@ translate ukrainian yui_gal5_e3891ef9:
 translate ukrainian yui_gal5_325f8678:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:5966
 translate ukrainian yui_gal5_5d7a2361:
@@ -19977,7 +19977,7 @@ translate ukrainian yui_gal5_06b04b48:
 translate ukrainian yui_gal5_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/yui_events.rpy:5972
 translate ukrainian yui_gal5_7f7c45e3:
@@ -19995,7 +19995,7 @@ translate ukrainian yui_gal5_84d9991b_1:
 translate ukrainian yui_gal5_825be00d:
 
     # y "{i}{size=-8}I have to hurry, or the effect of the alcohol won't help me anymore!"
-    y "{i}{size=-8}I have to hurry, or the effect of the alcohol won't help me anymore!"
+    y "{i}{size=-8}I have to hurry, or the effect of the alcohol won't help me anymore!" with hpunch
 
 # game/game/yui_events.rpy:5977
 translate ukrainian yui_gal5_1e9ae43a:
@@ -20127,7 +20127,7 @@ translate ukrainian yui_gal5_fb19186a:
 translate ukrainian yui_gal5_325f8678_1:
 
     # y "...!"
-    y "...!"
+    y "...!" with vpunch
 
 # game/game/yui_events.rpy:6006
 translate ukrainian yui_gal5_045a61d7:
@@ -20157,7 +20157,7 @@ translate ukrainian yui_gal5_7c48bd7e_1:
 translate ukrainian yui_gal5_cd6c0062:
 
     # y "HnmnM!~{image=corazon}"
-    y "HnmnM!~{image=corazon}"
+    y "HnmnM!~{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6013
 translate ukrainian yui_gal5_2606f157:
@@ -20211,7 +20211,7 @@ translate ukrainian yui_gal5_7e89f0ec:
 translate ukrainian yui_gal5_b4a409cf:
 
     # y "GHNmnm!~{image=corazon} {w}Haaa...{image=corazon}"
-    y "GHNmnm!~{image=corazon} {w}Haaa...{image=corazon}"
+    y "GHNmnm!~{image=corazon} {w}Haaa...{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6022
 translate ukrainian yui_gal5_b33037ff:
@@ -20253,7 +20253,7 @@ translate ukrainian yui_gal5_0617f563:
 translate ukrainian yui_gal5_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/yui_events.rpy:6030
 translate ukrainian yui_gal5_0da252dc:
@@ -20289,7 +20289,7 @@ translate ukrainian yui_gal5_f4607533:
 translate ukrainian yui_gal5_ee6f2790:
 
     # y "GHnmg!~"
-    y "GHnmg!~"
+    y "GHnmg!~" with cumflash
 
 # game/game/yui_events.rpy:6036
 translate ukrainian yui_gal5_4c024f5a:
@@ -20313,7 +20313,7 @@ translate ukrainian yui_gal5_509e3c63:
 translate ukrainian yui_gal5_3780235b:
 
     # y "HNHgmnm!?~{image=corazon}{image=corazon}{image=corazon}"
-    y "HNHgmnm!?~{image=corazon}{image=corazon}{image=corazon}"
+    y "HNHgmnm!?~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6041
 translate ukrainian yui_gal5_91b36e37:
@@ -20337,7 +20337,7 @@ translate ukrainian yui_gal5_eb472ab1:
 translate ukrainian yui_gal5_bc64d5bc:
 
     # y "HMNgnm!~{image=corazon}{image=corazon} "
-    y "HMNgnm!~{image=corazon}{image=corazon} "
+    y "HMNgnm!~{image=corazon}{image=corazon} " with cumflash
 
 # game/game/yui_events.rpy:6046
 translate ukrainian yui_gal5_3df6ced6:
@@ -20355,7 +20355,7 @@ translate ukrainian yui_gal5_33c11b28:
 translate ukrainian yui_gal5_321bb736:
 
     # mc "W-Why does your pussy feel so good?!"
-    mc "W-Why does your pussy feel so good?!"
+    mc "W-Why does your pussy feel so good?!" with cumflash
 
 # game/game/yui_events.rpy:6049
 translate ukrainian yui_gal5_6708e975:
@@ -20391,7 +20391,7 @@ translate ukrainian yui_gal5_6aef5447:
 translate ukrainian yui_gal5_be8e6d63:
 
     # y "[mc]!!"
-    y "[mc]!!"
+    y "[mc]!!" with cumflash
 
 # game/game/yui_events.rpy:6055
 translate ukrainian yui_gal5_7ff12b00:
@@ -20409,7 +20409,7 @@ translate ukrainian yui_gal5_e10f3dbc:
 translate ukrainian yui_gal5_cbe589f9:
 
     # y "Kyaa~{image=corazon} {w}Ghnmh?!{image=corazon} {w}Did it get bigger?~{image=corazon}{image=corazon}"
-    y "Kyaa~{image=corazon} {w}Ghnmh?!{image=corazon} {w}Did it get bigger?~{image=corazon}{image=corazon}"
+    y "Kyaa~{image=corazon} {w}Ghnmh?!{image=corazon} {w}Did it get bigger?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6058
 translate ukrainian yui_gal5_99b7abe1:
@@ -20427,7 +20427,7 @@ translate ukrainian yui_gal5_39c82005:
 translate ukrainian yui_gal5_3a512a10:
 
     # y "HMgnMnm!~{image=corazon}{image=corazon}"
-    y "HMgnMnm!~{image=corazon}{image=corazon}"
+    y "HMgnMnm!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6062
 translate ukrainian yui_gal5_37fa3ec1:
@@ -20475,7 +20475,7 @@ translate ukrainian yui_gal5_11d6229d:
 translate ukrainian yui_gal5_11bf7568:
 
     # y "It's going d-deeper than b-before!~~{image=corazon}"
-    y "It's going d-deeper than b-before!~~{image=corazon}"
+    y "It's going d-deeper than b-before!~~{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6072
 translate ukrainian yui_gal5_7d88e47f:
@@ -20493,13 +20493,13 @@ translate ukrainian yui_gal5_f23efb77:
 translate ukrainian yui_gal5_7a49325d_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/yui_events.rpy:6075
 translate ukrainian yui_gal5_76472f7b:
 
     # y "HngmMNnm!?~{image=corazon}{image=corazon}"
-    y "HngmMNnm!?~{image=corazon}{image=corazon}"
+    y "HngmMNnm!?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6076
 translate ukrainian yui_gal5_d9810b51:
@@ -20529,7 +20529,7 @@ translate ukrainian yui_gal5_2a445c43:
 translate ukrainian yui_gal5_7a49325d_2:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/yui_events.rpy:6082
 translate ukrainian yui_gal5_b15f9680:
@@ -20547,7 +20547,7 @@ translate ukrainian yui_gal5_b7c7a8da:
 translate ukrainian yui_gal5_6824e0f1:
 
     # y "GHNmgnMnmgmm~{image=corazon}{image=corazon}{image=corazon}"
-    y "GHNmgnMnmgmm~{image=corazon}{image=corazon}{image=corazon}"
+    y "GHNmgnMnmgmm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6086
 translate ukrainian yui_gal5_7aea376e:
@@ -20559,7 +20559,7 @@ translate ukrainian yui_gal5_7aea376e:
 translate ukrainian yui_gal5_74bcebba:
 
     # mc "I will cum deep inside you...!"
-    mc "I will cum deep inside you...!"
+    mc "I will cum deep inside you...!" with vpunch
 
 # game/game/yui_events.rpy:6088
 translate ukrainian yui_gal5_7330e2d9:
@@ -20607,7 +20607,7 @@ translate ukrainian yui_gal5_24c35b70:
 translate ukrainian yui_gal5_2b8e95b5:
 
     # y "Y-You were going to do it anyway!~~{image=corazon}{image=corazon}{image=corazon}"
-    y "Y-You were going to do it anyway!~~{image=corazon}{image=corazon}{image=corazon}"
+    y "Y-You were going to do it anyway!~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6097
 translate ukrainian yui_gal5_ca0c9643:
@@ -20619,37 +20619,37 @@ translate ukrainian yui_gal5_ca0c9643:
 translate ukrainian yui_gal5_5a7e4b73:
 
     # mc "I'm-!"
-    mc "I'm-!"
+    mc "I'm-!" with cumflash
 
 # game/game/yui_events.rpy:6100
 translate ukrainian yui_gal5_09ec42b4:
 
     # y "GnhnGmgn!!~~{image=corazon}{image=corazon}{image=corazon}"
-    y "GnhnGmgn!!~~{image=corazon}{image=corazon}{image=corazon}"
+    y "GnhnGmgn!!~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/yui_events.rpy:6107
 translate ukrainian yui_gal5_9381c5a6:
 
     # y "OoHGUUghhnm!~~{image=corazon}{image=corazon}{image=corazon}"
-    y "OoHGUUghhnm!~~{image=corazon}{image=corazon}{image=corazon}"
+    y "OoHGUUghhnm!~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/yui_events.rpy:6108
 translate ukrainian yui_gal5_30c5147c_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/yui_events.rpy:6114
 translate ukrainian yui_gal5_49d003a3:
 
     # mc "Yuuui!"
-    mc "Yuuui!"
+    mc "Yuuui!" with hpunch
 
 # game/game/yui_events.rpy:6115
 translate ukrainian yui_gal5_d9503429:
 
     # y "MNHGngnMnmm~{image=corazon}{image=corazon}{image=corazon}"
-    y "MNHGngnMnmm~{image=corazon}{image=corazon}{image=corazon}"
+    y "MNHGngnMnmm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/yui_events.rpy:6117
 translate ukrainian yui_gal5_f4867422:
@@ -20739,13 +20739,13 @@ translate ukrainian yui_relax_f9249ac7:
 translate ukrainian yui_relax_36223cdd:
 
     # sob "Yeees~"
-    sob "Yeees~"
+    sob "Yeees~" (multiple=2)
 
 # game/game/yui_events.rpy:6164
 translate ukrainian yui_relax_2579808c:
 
     # soc "Yees~"
-    soc "Yees~"
+    soc "Yees~" (multiple=2)
 
 # game/game/yui_events.rpy:6166
 translate ukrainian yui_relax_f7fd88dc:
@@ -20877,7 +20877,7 @@ translate ukrainian yui_relax_03fb3e88:
 translate ukrainian yui_relax_32be4102:
 
     # y "I mean! {w=0.5}In case you needed help."
-    y "I mean! {w=0.5}In case you needed help."
+    y "I mean! {w=0.5}In case you needed help." with hpunch
 
 # game/game/yui_events.rpy:6197
 translate ukrainian yui_relax_8772f643:
@@ -21069,19 +21069,19 @@ translate ukrainian yui_relax_062d59ac:
 translate ukrainian yui_relax_bf956846:
 
     # y "Someone will stumble upo-"
-    y "Someone will stumble upo-"
+    y "Someone will stumble upo-" (multiple=2)
 
 # game/game/yui_events.rpy:6252
 translate ukrainian yui_relax_de8e3a65:
 
     # mc "Hahaha, \nIt is as if we were talking about our children."
-    mc "Hahaha, \nIt is as if we were talking about our children."
+    mc "Hahaha, \nIt is as if we were talking about our children." (multiple=2)
 
 # game/game/yui_events.rpy:6258
 translate ukrainian yui_relax_c5242533:
 
     # y "{sc=3}{outlinecolor=#000000}Wahawa!?-"
-    y "{sc=3}{outlinecolor=#000000}Wahawa!?-"
+    y "{sc=3}{outlinecolor=#000000}Wahawa!?-" with hpunch
 
 # game/game/yui_events.rpy:6259
 translate ukrainian yui_relax_80db3faf:
@@ -21093,7 +21093,7 @@ translate ukrainian yui_relax_80db3faf:
 translate ukrainian yui_relax_07a0c7da:
 
     # y "It is too early to have children!"
-    y "It is too early to have children!"
+    y "It is too early to have children!" with vpunch
 
 # game/game/yui_events.rpy:6263
 translate ukrainian yui_relax_6687a282:
@@ -21105,7 +21105,7 @@ translate ukrainian yui_relax_6687a282:
 translate ukrainian yui_relax_ec386b6c:
 
     # y "{sc=3}{outlinecolor=#000000}Eahn-!"
-    y "{sc=3}{outlinecolor=#000000}Eahn-!"
+    y "{sc=3}{outlinecolor=#000000}Eahn-!" with hpunch
 
 # game/game/yui_events.rpy:6267
 translate ukrainian yui_relax_66676676:
@@ -21261,7 +21261,7 @@ translate ukrainian yui_relax_b269346a:
 translate ukrainian yui_relax_9374dc4e:
 
     # y "Okay!"
-    y "Okay!"
+    y "Okay!" with vpunch
 
 # game/game/yui_events.rpy:6306
 translate ukrainian yui_relax_9722c46a:
@@ -21279,7 +21279,7 @@ translate ukrainian yui_relax_1f5b224d_1:
 translate ukrainian yui_relax_c8f4efbc:
 
     # y "Idiot!"
-    y "Idiot!"
+    y "Idiot!" with hpunch
 
 # game/game/yui_events.rpy:6310
 translate ukrainian yui_relax_6bcb581a:
@@ -21345,7 +21345,7 @@ translate ukrainian yui_relax_47a0f5b4:
 translate ukrainian yui_relax_ea605c4e:
 
     # y "Hahaha~ {w=0.5}S-Sorry, I shouldn't laugh."
-    y "Hahaha~ {w=0.5}S-Sorry, I shouldn't laugh."
+    y "Hahaha~ {w=0.5}S-Sorry, I shouldn't laugh." with vpunch
 
 # game/game/yui_events.rpy:6325
 translate ukrainian yui_relax_91cb2dbf:
@@ -21375,13 +21375,13 @@ translate ukrainian yui_relax_4252f95a:
 translate ukrainian yui_relax_c1d340ab:
 
     # y "Nice!"
-    y "Nice!"
+    y "Nice!" (multiple=2)
 
 # game/game/yui_events.rpy:6334
 translate ukrainian yui_relax_1d53098f:
 
     # mc "I hit it!"
-    mc "I hit it!"
+    mc "I hit it!" (multiple=2)
 
 # game/game/yui_events.rpy:6335
 translate ukrainian yui_relax_708f7ca2:
@@ -21429,7 +21429,7 @@ translate ukrainian yui_relax_71a86863_1:
 translate ukrainian yui_relax_99f6c03c:
 
     # y "{sc=3}{outlinecolor=#000000}Wua-"
-    y "{sc=3}{outlinecolor=#000000}Wua-"
+    y "{sc=3}{outlinecolor=#000000}Wua-" with hpunch
 
 # game/game/yui_events.rpy:6349
 translate ukrainian yui_relax_66b81713:
@@ -21537,7 +21537,7 @@ translate ukrainian yui_relax_f63e0f32:
 translate ukrainian yui_relax_0b69414b:
 
     # t "What ideas is Hana putting in her head...?!"
-    t "What ideas is Hana putting in her head...?!"
+    t "What ideas is Hana putting in her head...?!" with hpunch
 
 # game/game/yui_events.rpy:6372
 translate ukrainian yui_relax_aa492dad:
@@ -21573,7 +21573,7 @@ translate ukrainian yui_relax_7274c110:
 translate ukrainian yui_relax_31b7a0a9:
 
     # y "{sc=3}{outlinecolor=#000000}[mc]!"
-    y "{sc=3}{outlinecolor=#000000}[mc]!"
+    y "{sc=3}{outlinecolor=#000000}[mc]!" with hpunch
 
 # game/game/yui_events.rpy:6380
 translate ukrainian yui_relax_ebae5256:
@@ -21657,7 +21657,7 @@ translate ukrainian yui_relax_f5bff40a:
 translate ukrainian yui_relax_54b91d3f:
 
     # y "...!"
-    y "...!"
+    y "...!" with hpunch
 
 # game/game/yui_events.rpy:6398
 translate ukrainian yui_relax_b993c100:
@@ -21705,7 +21705,7 @@ translate ukrainian yui_relax_65f022cd:
 translate ukrainian yui_relax_2be5ef28:
 
     # t "But how embarrassed she is is very noticeable!"
-    t "But how embarrassed she is is very noticeable!"
+    t "But how embarrassed she is is very noticeable!" with hpunch
 
 # game/game/yui_events.rpy:6409
 translate ukrainian yui_relax_212552cc:
@@ -21735,7 +21735,7 @@ translate ukrainian yui_relax_6e42fd52:
 translate ukrainian yui_relax_628d6c3d:
 
     # y "{sc=3}{outlinecolor=#000000}O-Okay!"
-    y "{sc=3}{outlinecolor=#000000}O-Okay!"
+    y "{sc=3}{outlinecolor=#000000}O-Okay!" with hpunch
 
 # game/game/yui_events.rpy:6420
 translate ukrainian yui_relax_13555325:
@@ -21831,7 +21831,7 @@ translate ukrainian yui_relax_71a86863_3:
 translate ukrainian yui_relax_8401d687:
 
     # y "Oh!"
-    y "Oh!"
+    y "Oh!" with hpunch
 
 # game/game/yui_events.rpy:6441
 translate ukrainian yui_relax_d24d8c30:
@@ -21909,7 +21909,7 @@ translate ukrainian yui_relax_912a89c0:
 translate ukrainian yui_relax_4e30bd6a:
 
     # mc "Hmn."
-    mc "Hmn."
+    mc "Hmn." with vpunch
 
 # game/game/yui_events.rpy:6458
 translate ukrainian yui_relax_4da370d6:
@@ -21933,13 +21933,13 @@ translate ukrainian yui_relax_74d78468:
 translate ukrainian yui_relax_e76bfd9e:
 
     # y "{sc=3}{outlinecolor=#000000}...!"
-    y "{sc=3}{outlinecolor=#000000}...!"
+    y "{sc=3}{outlinecolor=#000000}...!" (multiple=2)
 
 # game/game/yui_events.rpy:6466
 translate ukrainian yui_relax_3d69b344:
 
     # mc "I see..."
-    mc "I see..."
+    mc "I see..." (multiple=2)
 
 # game/game/yui_events.rpy:6467
 translate ukrainian yui_relax_6b21ef71:
@@ -21981,7 +21981,7 @@ translate ukrainian yui_relax_b781ac01:
 translate ukrainian yui_relax_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/yui_events.rpy:6477
 translate ukrainian yui_relax_373575e6:
@@ -22023,25 +22023,25 @@ translate ukrainian yui_relax_0379cb58:
 translate ukrainian yui_relax_c071ba42:
 
     # y "...!"
-    y "...!"
+    y "...!" (multiple=2)
 
 # game/game/yui_events.rpy:6493
 translate ukrainian yui_relax_0ad09975:
 
     # mc "...?"
-    mc "...?"
+    mc "...?" (multiple=2)
 
 # game/game/yui_events.rpy:6497
 translate ukrainian yui_relax_4750cb0d:
 
     # y "I got carried away by the conversation!"
-    y "I got carried away by the conversation!"
+    y "I got carried away by the conversation!" with hpunch
 
 # game/game/yui_events.rpy:6499
 translate ukrainian yui_relax_8e1a4924:
 
     # y "Forget what I said! {w=0.5}I didn't say anything!"
-    y "Forget what I said! {w=0.5}I didn't say anything!"
+    y "Forget what I said! {w=0.5}I didn't say anything!" with vpunch
 
 # game/game/yui_events.rpy:6500
 translate ukrainian yui_relax_4f82b896:
@@ -22191,7 +22191,7 @@ translate ukrainian yui_gal6_bee0312d:
 translate ukrainian yui_gal6_20779324:
 
     # y "What!"
-    y "What!"
+    y "What!" with hpunch
 
 # game/game/yui_events.rpy:6542
 translate ukrainian yui_gal6_1f5b224d:
@@ -22203,7 +22203,7 @@ translate ukrainian yui_gal6_1f5b224d:
 translate ukrainian yui_gal6_12d941e6:
 
     # mc "UHnm...!"
-    mc "UHnm...!"
+    mc "UHnm...!" with vpunch
 
 # game/game/yui_events.rpy:6546
 translate ukrainian yui_gal6_e68d2dfe:
@@ -22215,7 +22215,7 @@ translate ukrainian yui_gal6_e68d2dfe:
 translate ukrainian yui_gal6_db0adc09:
 
     # y "Take this! {w=0.5}And this! {w}Aahn~{image=corazon}"
-    y "Take this! {w=0.5}And this! {w}Aahn~{image=corazon}"
+    y "Take this! {w=0.5}And this! {w}Aahn~{image=corazon}" with hpunch
 
 # game/game/yui_events.rpy:6548
 translate ukrainian yui_gal6_e02f5e31:
@@ -22233,7 +22233,7 @@ translate ukrainian yui_gal6_7f547652:
 translate ukrainian yui_gal6_b8362ce9:
 
     # y "You want me to squeeze it tighter? Okay!"
-    y "You want me to squeeze it tighter? Okay!"
+    y "You want me to squeeze it tighter? Okay!" with hpunch
 
 # game/game/yui_events.rpy:6551
 translate ukrainian yui_gal6_a73e27ae:
@@ -22275,7 +22275,7 @@ translate ukrainian yui_gal6_9c699fe6:
 translate ukrainian yui_gal6_f6ca2858:
 
     # mc "W-Wait-"
-    mc "W-Wait-"
+    mc "W-Wait-" with cumflash
 
 # game/game/yui_events.rpy:6558
 translate ukrainian yui_gal6_43dfd8cc:
@@ -22293,7 +22293,7 @@ translate ukrainian yui_gal6_471e816c:
 translate ukrainian yui_gal6_68b7cf0a:
 
     # y "{sc=3}{outlinecolor=#000000}GMhgnmnnm~{image=corazon}{image=corazon}{image=corazon}"
-    y "{sc=3}{outlinecolor=#000000}GMhgnmnnm~{image=corazon}{image=corazon}{image=corazon}"
+    y "{sc=3}{outlinecolor=#000000}GMhgnmnnm~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/yui_events.rpy:6568
 translate ukrainian yui_gal6_ddec92ad:
@@ -22323,7 +22323,7 @@ translate ukrainian yui_gal6_3c714987:
 translate ukrainian yui_gal6_e356311d:
 
     # y "Your mind is like that because... {w}MHGhnnm~{image=corazon}{image=corazon} {w}y-you haven't seen what's wrong with all this...{image=corazon}"
-    y "Your mind is like that because... {w}MHGhnnm~{image=corazon}{image=corazon} {w}y-you haven't seen what's wrong with all this...{image=corazon}"
+    y "Your mind is like that because... {w}MHGhnnm~{image=corazon}{image=corazon} {w}y-you haven't seen what's wrong with all this...{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6575
 translate ukrainian yui_gal6_0637a9a8:
@@ -22335,13 +22335,13 @@ translate ukrainian yui_gal6_0637a9a8:
 translate ukrainian yui_gal6_8a5fae02:
 
     # y "Hhnmp! {w}Whatever you say... {w}NGHhn~{image=corazon}{image=corazon} {w}I won't listen to you."
-    y "Hhnmp! {w}Whatever you say... {w}NGHhn~{image=corazon}{image=corazon} {w}I won't listen to you."
+    y "Hhnmp! {w}Whatever you say... {w}NGHhn~{image=corazon}{image=corazon} {w}I won't listen to you." with hpunch
 
 # game/game/yui_events.rpy:6577
 translate ukrainian yui_gal6_5df61664:
 
     # y "D-Did you want to take advantage of my body? {w}Aaaahnm~{image=corazon}{image=corazon} {w}{sc=3}{outlinecolor=#000000}T-Then here you go!{image=corazon}{image=corazon}"
-    y "D-Did you want to take advantage of my body? {w}Aaaahnm~{image=corazon}{image=corazon} {w}{sc=3}{outlinecolor=#000000}T-Then here you go!{image=corazon}{image=corazon}"
+    y "D-Did you want to take advantage of my body? {w}Aaaahnm~{image=corazon}{image=corazon} {w}{sc=3}{outlinecolor=#000000}T-Then here you go!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6578
 translate ukrainian yui_gal6_f21213a7:
@@ -22353,7 +22353,7 @@ translate ukrainian yui_gal6_f21213a7:
 translate ukrainian yui_gal6_d2cf99ba:
 
     # mc "I-It's because I haven't finished doing it yet!"
-    mc "I-It's because I haven't finished doing it yet!"
+    mc "I-It's because I haven't finished doing it yet!" with hpunch
 
 # game/game/yui_events.rpy:6580
 translate ukrainian yui_gal6_f81a7e4a:
@@ -22377,13 +22377,13 @@ translate ukrainian yui_gal6_de44f57a:
 translate ukrainian yui_gal6_871710aa:
 
     # y "Ghggnm!"
-    y "Ghggnm!"
+    y "Ghggnm!" with vpunch
 
 # game/game/yui_events.rpy:6584
 translate ukrainian yui_gal6_d61b7c11:
 
     # mc "Hmhn!"
-    mc "Hmhn!"
+    mc "Hmhn!" with cumflash
 
 # game/game/yui_events.rpy:6585
 translate ukrainian yui_gal6_38e333ad:
@@ -22401,7 +22401,7 @@ translate ukrainian yui_gal6_9744d8ea:
 translate ukrainian yui_gal6_6c65d2bb:
 
     # mc "HGnhm!"
-    mc "HGnhm!"
+    mc "HGnhm!" with vpunch
 
 # game/game/yui_events.rpy:6590
 translate ukrainian yui_gal6_bb2efc62:
@@ -22413,7 +22413,7 @@ translate ukrainian yui_gal6_bb2efc62:
 translate ukrainian yui_gal6_53dea059:
 
     # y "T-This pleasure...~{image=corazon} {w}GMHmhn~{image=corazon} {w}it feels very good..."
-    y "T-This pleasure...~{image=corazon} {w}GMHmhn~{image=corazon} {w}it feels very good..."
+    y "T-This pleasure...~{image=corazon} {w}GMHmhn~{image=corazon} {w}it feels very good..." with cumflash
 
 # game/game/yui_events.rpy:6592
 translate ukrainian yui_gal6_92feda89:
@@ -22461,7 +22461,7 @@ translate ukrainian yui_gal6_b10036bb:
 translate ukrainian yui_gal6_17b6aa97:
 
     # y "I-Inserting your penis, again and again... {w}GNhnmhmn~{image=corazon}{image=corazon} at my will...~{image=corazon}{image=corazon}"
-    y "I-Inserting your penis, again and again... {w}GNhnmhmn~{image=corazon}{image=corazon} at my will...~{image=corazon}{image=corazon}"
+    y "I-Inserting your penis, again and again... {w}GNhnmhmn~{image=corazon}{image=corazon} at my will...~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6600
 translate ukrainian yui_gal6_f130d0ac:
@@ -22485,25 +22485,25 @@ translate ukrainian yui_gal6_59c51ce4:
 translate ukrainian yui_gal6_9f139c76:
 
     # t "S-She... is really using me to pleasure herself."
-    t "S-She... is really using me to pleasure herself."
+    t "S-She... is really using me to pleasure herself." with cumflash
 
 # game/game/yui_events.rpy:6604
 translate ukrainian yui_gal6_2d61d857:
 
     # t "And thinking about it just makes me-"
-    t "And thinking about it just makes me-"
+    t "And thinking about it just makes me-" with vpunch
 
 # game/game/yui_events.rpy:6605
 translate ukrainian yui_gal6_17f5b258:
 
     # y "Hhnhm~{image=corazon}{image=corazon} {w}Right there...~ {image=corazon}{image=corazon}{w}W-Why does it feel so good to rub me there...?~{image=corazon}{image=corazon}"
-    y "Hhnhm~{image=corazon}{image=corazon} {w}Right there...~ {image=corazon}{image=corazon}{w}W-Why does it feel so good to rub me there...?~{image=corazon}{image=corazon}"
+    y "Hhnhm~{image=corazon}{image=corazon} {w}Right there...~ {image=corazon}{image=corazon}{w}W-Why does it feel so good to rub me there...?~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/yui_events.rpy:6606
 translate ukrainian yui_gal6_9407ff1f:
 
     # mc "Yui!"
-    mc "Yui!"
+    mc "Yui!" with hpunch
 
 # game/game/yui_events.rpy:6614
 translate ukrainian yui_gal6_0323ef79:
@@ -22593,7 +22593,7 @@ translate ukrainian yui_date_activated_71a86863:
 translate ukrainian yui_date_activated_5e9c3c53:
 
     # y "W-Why are you saying something so embarrassing?!"
-    y "W-Why are you saying something so embarrassing?!"
+    y "W-Why are you saying something so embarrassing?!" with hpunch
 
 # game/game/yui_events.rpy:6655
 translate ukrainian yui_date_activated_e96da411:
@@ -22677,7 +22677,7 @@ translate ukrainian yui_date_activated_690165fb:
 translate ukrainian yui_date_activated_9ea0c460:
 
     # mc "Let's go!"
-    mc "Let's go!"
+    mc "Let's go!" with hpunch
 
 # game/game/yui_events.rpy:6674
 translate ukrainian yui_date_activated_6a3bf689:
@@ -22833,7 +22833,7 @@ translate ukrainian yui_dateuno_1b305ebd:
 translate ukrainian yui_dateuno_b86d5209:
 
     # y "W-What?"
-    y "W-What?"
+    y "W-What?" with hpunch
 
 # game/game/yui_events.rpy:6723
 translate ukrainian yui_dateuno_7eeae75e:
@@ -22857,7 +22857,7 @@ translate ukrainian yui_dateuno_7449095f:
 translate ukrainian yui_dateuno_9f2a64de:
 
     # y "Wasn't that supposed to be the shortest option?!"
-    y "Wasn't that supposed to be the shortest option?!"
+    y "Wasn't that supposed to be the shortest option?!" with hpunch
 
 # game/game/yui_events.rpy:6728
 translate ukrainian yui_dateuno_301438dc:
@@ -22923,7 +22923,7 @@ translate ukrainian yui_dateuno_2b35b6fe_1:
 translate ukrainian yui_dateuno_d2f28076:
 
     # y "I told you not to do that!"
-    y "I told you not to do that!"
+    y "I told you not to do that!" with vpunch
 
 # game/game/yui_events.rpy:6748
 translate ukrainian yui_dateuno_b7ee2262:
@@ -22989,7 +22989,7 @@ translate ukrainian yui_dateuno_5de9d7f7:
 translate ukrainian yui_dateuno_a9ec2714:
 
     # mc "Ah, no! {w}I just didn't know what to say."
-    mc "Ah, no! {w}I just didn't know what to say."
+    mc "Ah, no! {w}I just didn't know what to say." with hpunch
 
 # game/game/yui_events.rpy:6768
 translate ukrainian yui_dateuno_71a86863_2:
@@ -23199,7 +23199,7 @@ translate ukrainian yui_dateuno_c1ba0fff:
 translate ukrainian yui_dateuno_186e461e:
 
     # y "W-What? {w}Of course not..."
-    y "W-What? {w}Of course not..."
+    y "W-What? {w}Of course not..." with hpunch
 
 # game/game/yui_events.rpy:6817
 translate ukrainian yui_dateuno_71a86863_3:
@@ -23265,7 +23265,7 @@ translate ukrainian yui_dateuno_bf900686:
 translate ukrainian yui_dateuno_555a5be3:
 
     # y "W-What?! No!"
-    y "W-What?! No!"
+    y "W-What?! No!" with hpunch
 
 # game/game/yui_events.rpy:6831
 translate ukrainian yui_dateuno_066e60fc:
@@ -23283,7 +23283,7 @@ translate ukrainian yui_dateuno_fed2983e:
 translate ukrainian yui_dateuno_4f4fb32e:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Hey!" with hpunch
 
 # game/game/yui_events.rpy:6834
 translate ukrainian yui_dateuno_7db9c17e:
@@ -23409,7 +23409,7 @@ translate ukrainian yui_dateuno_7449095f_1:
 translate ukrainian yui_dateuno_f74ec6cd:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-7}W-What!?"
-    y "{sc=1}{outlinecolor=#000000}{size=-7}W-What!?"
+    y "{sc=1}{outlinecolor=#000000}{size=-7}W-What!?" with hpunch
 
 # game/game/yui_events.rpy:6867
 translate ukrainian yui_dateuno_c17be1e1:
@@ -23445,7 +23445,7 @@ translate ukrainian yui_dateuno_cf147f78:
 translate ukrainian yui_dateuno_3f3fd6bb:
 
     # y "{sc=1}{outlinecolor=#000000}{size=-7}You really said it!"
-    y "{sc=1}{outlinecolor=#000000}{size=-7}You really said it!"
+    y "{sc=1}{outlinecolor=#000000}{size=-7}You really said it!" with hpunch
 
 # game/game/yui_events.rpy:6876
 translate ukrainian yui_dateuno_1f5b224d_1:
@@ -23493,7 +23493,7 @@ translate ukrainian yui_dateuno_8b61dc62:
 translate ukrainian yui_dateuno_26b53454:
 
     # y "That doesn't make any sense."
-    y "That doesn't make any sense."
+    y "That doesn't make any sense." with hpunch
 
 # game/game/yui_events.rpy:6892
 translate ukrainian yui_dateuno_2b35b6fe_4:
@@ -23535,13 +23535,13 @@ translate ukrainian yui_dateuno_3ed5119b:
 translate ukrainian yui_dateuno_c6a820cb:
 
     # y "What—"
-    y "What—"
+    y "What—" (multiple=2)
 
 # game/game/yui_events.rpy:6907
 translate ukrainian yui_dateuno_479469a3:
 
     # mc "Mmph!"
-    mc "Mmph!"
+    mc "Mmph!" (multiple=2)
 
 # game/game/yui_events.rpy:6909
 translate ukrainian yui_dateuno_df67d2aa:

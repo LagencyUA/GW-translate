@@ -1,4 +1,4 @@
-
+﻿
 # game/game/day_time.rpy:12
 translate ukrainian bed_actions_9e5e76e4:
 
@@ -17,13 +17,13 @@ translate ukrainian bed_actions_e94abf61:
     # t "Going to the Stones during the evening would be nice."
     t "Going to the Stones during the evening would be nice."
 
-# game/game/day_time.rpy:63
+# game/game/day_time.rpy:65
 translate ukrainian bed_actions_96daab9f_1:
 
     # t "I could go to visit Keiko, I know she always sees me but it's not bad to talk to her for a while."
     t "I could go to visit Keiko, I know she always sees me but it's not bad to talk to her for a while."
 
-# game/game/day_time.rpy:64
+# game/game/day_time.rpy:66
 translate ukrainian bed_actions_e94abf61_1:
 
     # t "Going to the Stones during the evening would be nice."

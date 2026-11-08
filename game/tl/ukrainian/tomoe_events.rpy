@@ -471,7 +471,7 @@ translate ukrainian patron_shop_event_1f8d9084:
 translate ukrainian patron_shop_event_c01757a2:
 
     # to "You mean \"Lucky Sukebe\"?"
-    to "You mean \"Lucky Sukebe\"?"
+    to "You mean \"Lucky Sukebe\"?" with vpunch
 
 # game/game/tomoe_events.rpy:659
 translate ukrainian patron_shop_event_e7b4e6b1:
@@ -537,7 +537,7 @@ translate ukrainian patron_shop_event_2355ff79:
 translate ukrainian patron_shop_event_b37fd9b0:
 
     # mc "What!"
-    mc "What!"
+    mc "What!" with vpunch
 
 # game/game/tomoe_events.rpy:681
 translate ukrainian patron_shop_event_b37cf9c2:
@@ -621,13 +621,13 @@ translate ukrainian tomoe_eventuno_3a125cf1:
 translate ukrainian tomoe_eventuno_60e7fac4:
 
     # to "It's not enough with all the girls around you that now you're coming after me?"
-    to "Тобі не достатньо всіх тих дівчат довкола, і ти тепер прийшов за мною?"
+    to "Тобі не достатньо всіх тих дівчат довкола, і ти тепер прийшов за мною?" with vpunch
 
 # game/game/tomoe_events.rpy:712
 translate ukrainian tomoe_eventuno_5a5a6843:
 
     # mc "What? {w}No!"
-    mc "Що? {w}Ні!"
+    mc "Що? {w}Ні!" with vpunch
 
 # game/game/tomoe_events.rpy:714
 translate ukrainian tomoe_eventuno_38e61368:
@@ -657,7 +657,7 @@ translate ukrainian tomoe_eventuno_e86cedf5:
 translate ukrainian tomoe_eventuno_602c89e8:
 
     # to "Deeper!?"
-    to "Глибокому!?"
+    to "Глибокому!?" with vpunch
 
 # game/game/tomoe_events.rpy:722
 translate ukrainian tomoe_eventuno_61735882:
@@ -669,7 +669,7 @@ translate ukrainian tomoe_eventuno_61735882:
 translate ukrainian tomoe_eventuno_8373a35c:
 
     # mc "W-What are you tal-"
-    mc "Щ-Що ти верз-"
+    mc "Щ-Що ти верз-" with vpunch
 
 # game/game/tomoe_events.rpy:725
 translate ukrainian tomoe_eventuno_e4be6021:
@@ -867,7 +867,7 @@ translate ukrainian tomoe_eventuno_f808dd3d:
 translate ukrainian tomoe_eventuno_59714009:
 
     # mc "Is it true that you are like children of nature!?"
-    mc "Це правда, що ви наче діти природи!?"
+    mc "Це правда, що ви наче діти природи!?" with vpunch
 
 # game/game/tomoe_events.rpy:782
 translate ukrainian tomoe_eventuno_282622e0:
@@ -933,7 +933,7 @@ translate ukrainian tomoe_eventuno_3ebbddc9:
 translate ukrainian tomoe_eventuno_2b5fc5c0:
 
     # mc "What? {w}Why?"
-    mc "Що? {w}Чому?"
+    mc "Що? {w}Чому?" with vpunch
 
 # game/game/tomoe_events.rpy:799
 translate ukrainian tomoe_eventuno_4d21c7a3:
@@ -1029,7 +1029,7 @@ translate ukrainian tomoe_eventuno_e4be6021_1:
 translate ukrainian tomoe_eventuno_3a0e5874:
 
     # s "Ho ho ho!"
-    s "Хо-хо-хо!"
+    s "Хо-хо-хо!" with vpunch
 
 # game/game/tomoe_events.rpy:820
 translate ukrainian tomoe_eventuno_7234eb0c:
@@ -1089,13 +1089,13 @@ translate ukrainian tomoe_eventuno_41b1149e:
 translate ukrainian tomoe_eventuno_a03df87e:
 
     # t "If I talk to her normally I can clear up all the rumors!"
-    t "Якщо зможу поспілкуватися з нею нормально, то розвію всі чутки!"
+    t "Якщо зможу поспілкуватися з нею нормально, то розвію всі чутки!" with vpunch
 
 # game/game/tomoe_events.rpy:833
 translate ukrainian tomoe_eventuno_1270f65f:
 
     # s "[mc]?! {w}What are you doing here?"
-    s "[name_form('voc')]?! {w}Що ти тут робиш?"
+    s "[name_form('voc')]?! {w}Що ти тут робиш?" with vpunch
 
 # game/game/tomoe_events.rpy:835
 translate ukrainian tomoe_eventuno_423f5394:
@@ -1119,7 +1119,7 @@ translate ukrainian tomoe_eventuno_7ef2c4e9:
 translate ukrainian tomoe_eventuno_d2644a86:
 
     # s "Really! {w}Hehehe~"
-    s "Справді! {w}Хехехе~"
+    s "Справді! {w}Хехехе~" with vpunch
 
 # game/game/tomoe_events.rpy:840
 translate ukrainian tomoe_eventuno_6035b726:
@@ -1161,7 +1161,7 @@ translate ukrainian tomoe_eventuno_a62e27d6:
 translate ukrainian tomoe_eventuno_e19fd723:
 
     # mc "Let me help you!"
-    mc "Дозволь, я допоможу!"
+    mc "Дозволь, я допоможу!" with vpunch
 
 # game/game/tomoe_events.rpy:850
 translate ukrainian tomoe_eventuno_21908c73:
@@ -1185,7 +1185,7 @@ translate ukrainian tomoe_eventuno_69576248:
 translate ukrainian tomoe_eventuno_8ef899ff:
 
     # t "Is she doing it on purpose or what?!"
-    t "Вона це навмисно робить, чи як?!"
+    t "Вона це навмисно робить, чи як?!" with vpunch
 
 # game/game/tomoe_events.rpy:856
 translate ukrainian tomoe_eventuno_1809a37b:
@@ -1257,7 +1257,7 @@ translate ukrainian tomoe_eventuno_66a740b0:
 translate ukrainian tomoe_eventuno_df1d1343:
 
     # s "Thanks!"
-    s "Дякую!"
+    s "Дякую!" with vpunch
 
 # game/game/tomoe_events.rpy:874
 translate ukrainian tomoe_eventuno_a9bffbb4:
@@ -1269,7 +1269,7 @@ translate ukrainian tomoe_eventuno_a9bffbb4:
 translate ukrainian tomoe_eventuno_da5fe2eb:
 
     # s "Nooo!"
-    s "Ніііі!"
+    s "Ніііі!" with hpunch
 
 # game/game/tomoe_events.rpy:877
 translate ukrainian tomoe_eventuno_fe2098ae:
@@ -1299,25 +1299,25 @@ translate ukrainian tomoe_eventuno_c7739dd3:
 translate ukrainian tomoe_eventuno_869d3639:
 
     # s "{size=-10}Noo, it's all wet!"
-    s "{size=-10}Ніі, все намокло!"
+    s "{size=-10}Ніі, все намокло!" with vpunch
 
 # game/game/tomoe_events.rpy:885
 translate ukrainian tomoe_eventuno_35f4212e:
 
     # a "...!"
-    a "...!"
+    a "...!" with vpunch
 
 # game/game/tomoe_events.rpy:887
 translate ukrainian tomoe_eventuno_35f4212e_1:
 
     # a "...!"
-    a "...!"
+    a "...!" with vpunch
 
 # game/game/tomoe_events.rpy:888
 translate ukrainian tomoe_eventuno_45e92a93:
 
     # a "Don't look him in the eyes!"
-    a "Не дивіться йому в очі!"
+    a "Не дивіться йому в очі!" with hpunch
 
 # game/game/tomoe_events.rpy:889
 translate ukrainian tomoe_eventuno_a25fcf5b:
@@ -1371,7 +1371,7 @@ translate ukrainian tomoe_eventuno_7602f317:
 translate ukrainian tomoe_eventuno_9396348e:
 
     # a "Oooooh!"
-    a "Ооооох!"
+    a "Ооооох!" with vpunch
 
 # game/game/tomoe_events.rpy:901
 translate ukrainian tomoe_eventuno_ed185b45:
@@ -1413,7 +1413,7 @@ translate ukrainian tomoe_eventuno_cc8fedbc:
 translate ukrainian tomoe_eventuno_bfe6c78c:
 
     # s "Don't worry!"
-    s "Не переймайся!"
+    s "Не переймайся!" with vpunch
 
 # game/game/tomoe_events.rpy:915
 translate ukrainian tomoe_eventuno_8a1ac70e:
@@ -1473,13 +1473,13 @@ translate ukrainian tomoe_eventuno_f12014ff:
 translate ukrainian tomoe_eventuno_c57405d3:
 
     # s "Oh! {w}A coin on the ground! {w}Lucky me!"
-    s "О! {w}Монетка на підлозі! {w}Пощастило!"
+    s "О! {w}Монетка на підлозі! {w}Пощастило!" with vpunch
 
 # game/game/tomoe_events.rpy:930
 translate ukrainian tomoe_eventuno_545fad00:
 
     # a "Oooooh!!"
-    a "Ооооох!!"
+    a "Ооооох!!" with vpunch
 
 # game/game/tomoe_events.rpy:938
 translate ukrainian tomoe_eventuno_7421dcf4:
@@ -1563,7 +1563,7 @@ translate ukrainian tomoe_eventdos_c97a520d:
 translate ukrainian tomoe_eventdos_2ae4fbf4:
 
     # mc "But you told me to come another day!"
-    mc "Але ти сама мені сказала зайти іншим разом!"
+    mc "Але ти сама мені сказала зайти іншим разом!" with vpunch
 
 # game/game/tomoe_events.rpy:967
 translate ukrainian tomoe_eventdos_434301d5:
@@ -1593,7 +1593,7 @@ translate ukrainian tomoe_eventdos_bbe6cf70:
 translate ukrainian tomoe_eventdos_63d2705e:
 
     # mc "At least let me finish!"
-    mc "Дозволь хоча б закінчити!"
+    mc "Дозволь хоча б закінчити!" with vpunch
 
 # game/game/tomoe_events.rpy:975
 translate ukrainian tomoe_eventdos_d422671a:
@@ -1671,7 +1671,7 @@ translate ukrainian tomoe_eventdos_a48ba535:
 translate ukrainian tomoe_eventdos_d48a5631:
 
     # mc "What?!"
-    mc "Шо?!"
+    mc "Шо?!" with vpunch
 
 # game/game/tomoe_events.rpy:994
 translate ukrainian tomoe_eventdos_2cbdb707:
@@ -1797,7 +1797,7 @@ translate ukrainian tomoe_eventdos_9912423a:
 translate ukrainian tomoe_eventdos_0573888c:
 
     # to "Wait! {w}What are you doing?"
-    to "Стривай! {w}Що це ти робиш?"
+    to "Стривай! {w}Що це ти робиш?" with vpunch
 
 # game/game/tomoe_events.rpy:1030
 translate ukrainian tomoe_eventdos_55a92a64:
@@ -1821,7 +1821,7 @@ translate ukrainian tomoe_eventdos_d1b87f74:
 translate ukrainian tomoe_eventdos_0a6505c7:
 
     # to "Sorry!"
-    to "Пробач!"
+    to "Пробач!" with vpunch
 
 # game/game/tomoe_events.rpy:1038
 translate ukrainian tomoe_eventdos_b24e1857:
@@ -1833,25 +1833,25 @@ translate ukrainian tomoe_eventdos_b24e1857:
 translate ukrainian tomoe_eventdos_99914f6e:
 
     # to "My mistrust made you tell me things you didn't want to!"
-    to "Моя недовіра змусила тебе розповідати речі, які б ти не хотів!"
+    to "Моя недовіра змусила тебе розповідати речі, які б ти не хотів!" with vpunch
 
 # game/game/tomoe_events.rpy:1043
 translate ukrainian tomoe_eventdos_486b232f:
 
     # to "Please accept this potato!"
-    to "Будь ласка, прийми цю картоплину!"
+    to "Будь ласка, прийми цю картоплину!" with vpunch
 
 # game/game/tomoe_events.rpy:1044
 translate ukrainian tomoe_eventdos_e5d5183d:
 
     # mc "No thanks! {w}Get up! {w}And where do you get those things from?!"
-    mc "Ні, дякую! {w}Встань, будь ласка! {w}І звідки ти їх дістаєш?!"
+    mc "Ні, дякую! {w}Встань, будь ласка! {w}І звідки ти їх дістаєш?!" with vpunch
 
 # game/game/tomoe_events.rpy:1046
 translate ukrainian tomoe_eventdos_62cabdec:
 
     # to "Double discount!"
-    to "Подвійна знижка!"
+    to "Подвійна знижка!" with vpunch
 
 # game/game/tomoe_events.rpy:1047
 translate ukrainian tomoe_eventdos_b953404a:
@@ -1905,7 +1905,7 @@ translate ukrainian tomoe_eventdos_ad8d873d:
 translate ukrainian tomoe_eventdos_b9a10e7a:
 
     # mc "What kind of person did you think I was?!"
-    mc "Якою людиною я був на твою думку?!"
+    mc "Якою людиною я був на твою думку?!" with vpunch
 
 # game/game/tomoe_events.rpy:1063
 translate ukrainian tomoe_eventdos_b53d9686:
@@ -2019,13 +2019,13 @@ translate ukrainian tomoe_eventdos_a7bcf340:
 translate ukrainian tomoe_eventdos_d48a5631_1:
 
     # mc "What?!"
-    mc "Що?!"
+    mc "Що?!" with vpunch
 
 # game/game/tomoe_events.rpy:1101
 translate ukrainian tomoe_eventdos_aeab617e:
 
     # to "HAHAHA, {w}Just kidding!"
-    to "ХАХАХА, {w}Та я жартую!"
+    to "ХАХАХА, {w}Та я жартую!" with vpunch
 
 # game/game/tomoe_events.rpy:1103
 translate ukrainian tomoe_eventdos_ab76b71e:
@@ -2055,7 +2055,7 @@ translate ukrainian tomoe_eventdos_503c7ce3:
 translate ukrainian tomoe_eventdos_c19af184:
 
     # mc "S-So! {w}When there is a full moon you match the magic of the long ears?"
-    mc "Т-Тож! {w}Коли місяць повний, твоя магія відповідає довговухим?"
+    mc "Т-Тож! {w}Коли місяць повний, твоя магія відповідає довговухим?" with vpunch
 
 # game/game/tomoe_events.rpy:1112
 translate ukrainian tomoe_eventdos_f7842f87:
@@ -2181,7 +2181,7 @@ translate ukrainian tomoe_eventdos_133d19ba:
 translate ukrainian tomoe_eventdos_5dbfa763:
 
     # to "Eeeehh~~"
-    to "{i}Еееехх~~{/i}"
+    to "{i}Еееехх~~{/i}" with vpunch
 
 # game/game/tomoe_events.rpy:1145
 translate ukrainian tomoe_eventdos_04d1ed2e:
@@ -2301,7 +2301,7 @@ translate ukrainian tomoe_eventtres_14828973:
 translate ukrainian tomoe_eventtres_018fb75e:
 
     # to "Of course!"
-    to "Ну звісно!"
+    to "Ну звісно!" with vpunch
 
 # game/game/tomoe_events.rpy:1194
 translate ukrainian tomoe_eventtres_f91b9c04:
@@ -2367,7 +2367,7 @@ translate ukrainian tomoe_eventtres_028dd923:
 translate ukrainian tomoe_eventtres_a2516744:
 
     # mc "Why so many details on that?"
-    mc "Чому так детально?"
+    mc "Чому так детально?" with vpunch
 
 # game/game/tomoe_events.rpy:1210
 translate ukrainian tomoe_eventtres_4f479c7c:
@@ -2403,7 +2403,7 @@ translate ukrainian tomoe_eventtres_696c7ed1:
 translate ukrainian tomoe_eventtres_9dcfaf82:
 
     # to "Hahaha, {w}you seem to have the right attitude for the job."
-    to "Хахаха, {w}видно, у тебе є гарний хист для цієї роботи."
+    to "Хахаха, {w}видно, у тебе є гарний хист для цієї роботи." with vpunch
 
 # game/game/tomoe_events.rpy:1222
 translate ukrainian tomoe_eventtres_217f77b3:
@@ -2583,7 +2583,7 @@ translate ukrainian tomoe_eventtres_172027e9:
 translate ukrainian tomoe_eventtres_b0503f5f:
 
     # to "What a beautiful love story!"
-    to "Яка захоплива історія кохання!"
+    to "Яка захоплива історія кохання!" with vpunch
 
 # game/game/tomoe_events.rpy:1282
 translate ukrainian tomoe_eventtres_693f14bf:
@@ -2613,13 +2613,13 @@ translate ukrainian tomoe_eventtres_ecaba4ac:
 translate ukrainian tomoe_eventtres_8ecd8efe:
 
     # to "The story continues?"
-    to "Історія продовжується?"
+    to "Історія продовжується?" with vpunch
 
 # game/game/tomoe_events.rpy:1289
 translate ukrainian tomoe_eventtres_428275ac:
 
     # to "This story would sell out in a flash!"
-    to "Ця історія розлетиться просто вмить!"
+    to "Ця історія розлетиться просто вмить!" with vpunch
 
 # game/game/tomoe_events.rpy:1291
 translate ukrainian tomoe_eventtres_5104706c:
@@ -2805,13 +2805,13 @@ translate ukrainian tomoe_eventtres_352893e1:
 translate ukrainian tomoe_eventtres_fe962898:
 
     # to "But! {w}It will be for the next time we talk."
-    to "Але! {w}Залишимо це на наступний раз."
+    to "Але! {w}Залишимо це на наступний раз." with vpunch
 
 # game/game/tomoe_events.rpy:1339
 translate ukrainian tomoe_eventtres_6a5070f0:
 
     # mc "Ah!?"
-    mc "Га!?"
+    mc "Га!?" with hpunch
 
 # game/game/tomoe_events.rpy:1341
 translate ukrainian tomoe_eventtres_5a87d5e6:
@@ -2835,7 +2835,7 @@ translate ukrainian tomoe_eventtres_9d840848:
 translate ukrainian tomoe_eventtres_14e0ee7d:
 
     # mc "I'll be here!"
-    mc "Буду тут!"
+    mc "Буду тут!" with vpunch
 
 # game/game/tomoe_events.rpy:1347
 translate ukrainian tomoe_eventtres_13a260a2:
@@ -2901,7 +2901,7 @@ translate ukrainian tomoe_eventcuatro_83dea2ad:
 translate ukrainian tomoe_eventcuatro_ab9d2778:
 
     # to "I had an idea!"
-    to "У мене ідея!"
+    to "У мене ідея!" with vpunch
 
 # game/game/tomoe_events.rpy:1377
 translate ukrainian tomoe_eventcuatro_03fb3e88:
@@ -2973,7 +2973,7 @@ translate ukrainian tomoe_eventcuatro_d153a559:
 translate ukrainian tomoe_eventcuatro_51addc7b:
 
     # to "Hahaha {w}okay, you win."
-    to "Хахаха{w}, гаразд, твоя взяла."
+    to "Хахаха{w}, гаразд, твоя взяла." with vpunch
 
 # game/game/tomoe_events.rpy:1394
 translate ukrainian tomoe_eventcuatro_43f2e12c:
@@ -3003,13 +3003,13 @@ translate ukrainian tomoe_eventcuatro_2f888784:
 translate ukrainian tomoe_eventcuatro_228b902c:
 
     # mc "Where do you get this stuff from?!"
-    mc "Звідки ти все це дістаєш?!"
+    mc "Звідки ти все це дістаєш?!" with vpunch
 
 # game/game/tomoe_events.rpy:1402
 translate ukrainian tomoe_eventcuatro_40bd4f30:
 
     # to "Hahaha~"
-    to "Хахаха~"
+    to "Хахаха~" with hpunch
 
 # game/game/tomoe_events.rpy:1404
 translate ukrainian tomoe_eventcuatro_5c07512d:
@@ -3123,7 +3123,7 @@ translate ukrainian tomoe_eventcuatro_54d9c13d:
 translate ukrainian tomoe_eventcuatro_bda0593d:
 
     # to "Got it!"
-    to "Дістала!"
+    to "Дістала!" with vpunch
 
 # game/game/tomoe_events.rpy:1434
 translate ukrainian tomoe_eventcuatro_2b35b6fe:
@@ -3171,7 +3171,7 @@ translate ukrainian tomoe_gal1_05847c31:
 translate ukrainian tomoe_gal1_f9b81ca6:
 
     # mc "She will be back soon!"
-    mc "Вона скоро повернеться!"
+    mc "Вона скоро повернеться!" with vpunch
 
 # game/game/tomoe_events.rpy:1448
 translate ukrainian tomoe_gal1_c1bf79ae:
@@ -3189,7 +3189,7 @@ translate ukrainian tomoe_gal1_79f7d66c:
 translate ukrainian tomoe_gal1_0ace4c9d:
 
     # mc "Cough* Cough*"
-    mc "{i}*Кхм* *кхм*{/i}"
+    mc "{i}*Кхм* *кхм*{/i}" with vpunch
 
 # game/game/tomoe_events.rpy:1453
 translate ukrainian tomoe_gal1_2d134956:
@@ -3285,13 +3285,13 @@ translate ukrainian tomoe_gal1_469f355c:
 translate ukrainian tomoe_gal1_7e85b548:
 
     # to "Mnmm!"
-    to "{i}Мнмм!{/i}"
+    to "{i}Мнмм!{/i}" with vpunch
 
 # game/game/tomoe_events.rpy:1476
 translate ukrainian tomoe_gal1_7e1e272b:
 
     # to "Ghnm!~"
-    to "{i}Гхнм!~{/i}"
+    to "{i}Гхнм!~{/i}" with vpunch
 
 # game/game/tomoe_events.rpy:1477
 translate ukrainian tomoe_gal1_56a70fc0:
@@ -3303,7 +3303,7 @@ translate ukrainian tomoe_gal1_56a70fc0:
 translate ukrainian tomoe_gal1_612dc91f:
 
     # mc "Ahem! {w}Not at all..."
-    mc "{i}Кхем!{/i} {w}Та наче ні..."
+    mc "{i}Кхем!{/i} {w}Та наче ні..." with vpunch
 
 # game/game/tomoe_events.rpy:1480
 translate ukrainian tomoe_gal1_5dde149e:
@@ -3351,7 +3351,7 @@ translate ukrainian tomoe_gal1_899f2a88:
 translate ukrainian tomoe_gal1_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/tomoe_events.rpy:1488
 translate ukrainian tomoe_gal1_6ba8e426:
@@ -3393,7 +3393,7 @@ translate ukrainian tomoe_gal1_01737140:
 translate ukrainian tomoe_gal1_30c5147c_1:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/tomoe_events.rpy:1495
 translate ukrainian tomoe_gal1_fa76b877:
@@ -3435,13 +3435,13 @@ translate ukrainian tomoe_gal1_56792655:
 translate ukrainian tomoe_gal1_bef075e7:
 
     # to "Sluuurrrpp~~{image=corazon}{image=corazon}{image=corazon}"
-    to "{i}Сьооорррбб~~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    to "{i}Сьооорррбб~~{/i}{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:1503
 translate ukrainian tomoe_gal1_fe163bad:
 
     # mc "It's okay!"
-    mc "Усе добре!"
+    mc "Усе добре!" with hpunch
 
 # game/game/tomoe_events.rpy:1504
 translate ukrainian tomoe_gal1_a81de415:
@@ -3477,7 +3477,7 @@ translate ukrainian tomoe_gal1_31df8aab:
 translate ukrainian tomoe_gal1_ed5d1e99:
 
     # mc "Yes!"
-    mc "Так!"
+    mc "Так!" with vpunch
 
 # game/game/tomoe_events.rpy:1510
 translate ukrainian tomoe_gal1_3c6a52e2:
@@ -3513,7 +3513,7 @@ translate ukrainian tomoe_gal1_e2f25f79:
 translate ukrainian tomoe_gal1_8052e4e9:
 
     # to "HNmngm~{image=corazon}{image=corazon}{image=corazon} {w} HUhhnmm~~{w}{image=corazon}{image=corazon} "
-    to "{i}ХНмнгм~{/i}{image=corazon}{image=corazon}{image=corazon} {w} {i}ХУххнмм~~{/i}{w}{image=corazon}{image=corazon} "
+    to "{i}ХНмнгм~{/i}{image=corazon}{image=corazon}{image=corazon} {w} {i}ХУххнмм~~{/i}{w}{image=corazon}{image=corazon} " with vpunch
 
 # game/game/tomoe_events.rpy:1518
 translate ukrainian tomoe_gal1_d861bde6:
@@ -3531,13 +3531,13 @@ translate ukrainian tomoe_gal1_5751d7f0:
 translate ukrainian tomoe_gal1_2a85b019:
 
     # to "SLUUURPPP~~{image=corazon}{image=corazon}{image=corazon}"
-    to "{i}СЬОООРБББ~~{/i}{image=corazon}{image=corazon}{image=corazon}"
+    to "{i}СЬОООРБББ~~{/i}{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:1521
 translate ukrainian tomoe_gal1_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/tomoe_events.rpy:1522
 translate ukrainian tomoe_gal1_ebd1afde:
@@ -3567,7 +3567,7 @@ translate ukrainian tomoe_gal1_c087efac:
 translate ukrainian tomoe_gal1_be979462:
 
     # mc "I-I can't!"
-    mc "Не можу!"
+    mc "Не можу!" with vpunch
 
 # game/game/tomoe_events.rpy:1530
 translate ukrainian tomoe_gal1_e24854fb:
@@ -3579,7 +3579,7 @@ translate ukrainian tomoe_gal1_e24854fb:
 translate ukrainian tomoe_gal1_1a26c606:
 
     # to "HNGHHHnmmnmnm~~~{image=corazon}{image=corazon}"
-    to "{i}ХНГХХХнммнмнм~~~{/i}{image=corazon}{image=corazon}"
+    to "{i}ХНГХХХнммнмнм~~~{/i}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:1536
 translate ukrainian tomoe_gal1_1072916a:
@@ -3591,7 +3591,7 @@ translate ukrainian tomoe_gal1_1072916a:
 translate ukrainian tomoe_gal1_0f16b60a:
 
     # mc "Shiiit!"
-    mc "Трясцяяя!"
+    mc "Трясцяяя!" with cumflash
 
 # game/game/tomoe_events.rpy:1539
 translate ukrainian tomoe_gal1_9ad54206:
@@ -3621,7 +3621,7 @@ translate ukrainian tomoe_gal1_a34e0584:
 translate ukrainian tomoe_gal1_ed5d1e99_1:
 
     # mc "Yes!"
-    mc "Так!"
+    mc "Так!" with vpunch
 
 # game/game/tomoe_events.rpy:1558
 translate ukrainian tomoe_gal1_aa586f5b:
@@ -3711,7 +3711,7 @@ translate ukrainian tomoe_gal1_dc0ff26a:
 translate ukrainian tomoe_gal1_9dda8ef6:
 
     # to "Hahaha get up and stop apologizing."
-    to "Хахаха, вставай уже і годі просити вибачення."
+    to "Хахаха, вставай уже і годі просити вибачення." with vpunch
 
 # game/game/tomoe_events.rpy:1580
 translate ukrainian tomoe_gal1_9e064884:
@@ -3897,7 +3897,7 @@ translate ukrainian hall_on_3b980112:
 translate ukrainian hall_on_a5f05d81:
 
     # to "Are you doing it on purpose?"
-    to "Are you doing it on purpose?"
+    to "Are you doing it on purpose?" with vpunch
 
 # game/game/tomoe_events.rpy:1656
 translate ukrainian hall_on_97391bd6:
@@ -3963,7 +3963,7 @@ translate ukrainian hall_on_a5123569:
 translate ukrainian hall_on_3471e529:
 
     # mc "Accept-"
-    mc "Accept-"
+    mc "Accept-" with vpunch
 
 # game/game/tomoe_events.rpy:1672
 translate ukrainian hall_on_d38dbd3c:
@@ -4047,7 +4047,7 @@ translate ukrainian hall_on_89292024:
 translate ukrainian hall_on_b73ac3dc:
 
     # to "And I have not yet accepted the offer! {w}We can't do everything today!"
-    to "And I have not yet accepted the offer! {w}We can't do everything today!"
+    to "And I have not yet accepted the offer! {w}We can't do everything today!" with vpunch
 
 # game/game/tomoe_events.rpy:1692
 translate ukrainian hall_on_cc0f7995:
@@ -4389,7 +4389,7 @@ translate ukrainian tomoe_eventcinco_2b35b6fe:
 translate ukrainian tomoe_eventcinco_aba44ed7:
 
     # mc "Ahem* {w}I j-just remembered that I only came to sell you fish-"
-    mc "Ahem* {w}I j-just remembered that I only came to sell you fish-"
+    mc "Ahem* {w}I j-just remembered that I only came to sell you fish-" with vpunch
 
 # game/game/tomoe_events.rpy:1785
 translate ukrainian tomoe_eventcinco_09405ade:
@@ -4449,7 +4449,7 @@ translate ukrainian tomoe_eventcinco_bd2fa916:
 translate ukrainian tomoe_eventcinco_d1db4ae8:
 
     # to "I will use you as a delivery man!"
-    to "I will use you as a delivery man!"
+    to "I will use you as a delivery man!" with vpunch
 
 # game/game/tomoe_events.rpy:1805
 translate ukrainian tomoe_eventcinco_eda66522:
@@ -4983,7 +4983,7 @@ translate ukrainian tomoe_eventseis_d57540ce:
 translate ukrainian tomoe_eventseis_dc6f25c2:
 
     # to "Ghgnm!!"
-    to "Ghgnm!!"
+    to "Ghgnm!!" with vpunch
 
 # game/game/tomoe_events.rpy:1945
 translate ukrainian tomoe_eventseis_fb2e5377:
@@ -5001,13 +5001,13 @@ translate ukrainian tomoe_eventseis_c59581c6:
 translate ukrainian tomoe_eventseis_1d114e90:
 
     # mc "Ah! Yes!"
-    mc "Ah! Yes!"
+    mc "Ah! Yes!" with hpunch
 
 # game/game/tomoe_events.rpy:1952
 translate ukrainian tomoe_eventseis_233da495:
 
     # to "Haaa!"
-    to "Haaa!"
+    to "Haaa!" with vpunch
 
 # game/game/tomoe_events.rpy:1954
 translate ukrainian tomoe_eventseis_87decaf7:
@@ -5175,7 +5175,7 @@ translate ukrainian tomoe_eventseis_2b35b6fe:
 translate ukrainian tomoe_eventseis_b8d68444:
 
     # mc "Then I will start immediately!"
-    mc "Then I will start immediately!"
+    mc "Then I will start immediately!" with vpunch
 
 # game/game/tomoe_events.rpy:2001
 translate ukrainian tomoe_eventseis_27afe246:
@@ -5307,13 +5307,13 @@ translate ukrainian tomoe_eventseis_a960b3e1:
 translate ukrainian tomoe_eventseis_60c7d0b4:
 
     # mc "Hellooo! {w}Hana? Shika?"
-    mc "Hellooo! {w}Hana? Shika?"
+    mc "Hellooo! {w}Hana? Shika?" with hpunch
 
 # game/game/tomoe_events.rpy:2032
 translate ukrainian tomoe_eventseis_ce12343c:
 
     # h "{size=-8}Yeees~{image=corazon}"
-    h "{size=-8}Yeees~{image=corazon}"
+    h "{size=-8}Yeees~{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:2034
 translate ukrainian tomoe_eventseis_e4f37767:
@@ -5337,7 +5337,7 @@ translate ukrainian tomoe_eventseis_4359a5af:
 translate ukrainian tomoe_eventseis_e1d59c17:
 
     # s "It's me! {w}That's me!"
-    s "It's me! {w}That's me!"
+    s "It's me! {w}That's me!" with hpunch
 
 # game/game/tomoe_events.rpy:2039
 translate ukrainian tomoe_eventseis_e1488485:
@@ -5673,7 +5673,7 @@ translate ukrainian tomoe_eventseis_2b684309:
 translate ukrainian tomoe_eventseis_95d98f4c:
 
     # mc "Eeeh?!"
-    mc "Eeeh?!"
+    mc "Eeeh?!" with hpunch
 
 # game/game/tomoe_events.rpy:2129
 translate ukrainian tomoe_eventseis_e2888f36:
@@ -5775,7 +5775,7 @@ translate ukrainian tomoe_eventseis_2c581483:
 translate ukrainian tomoe_eventseis_91a485c1:
 
     # v "I can't take it anymore! He's so cute!"
-    v "I can't take it anymore! He's so cute!"
+    v "I can't take it anymore! He's so cute!" with hpunch
 
 # game/game/tomoe_events.rpy:2154
 translate ukrainian tomoe_eventseis_1645b7eb:
@@ -5799,19 +5799,19 @@ translate ukrainian tomoe_eventseis_3cb2d97c:
 translate ukrainian tomoe_eventseis_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/tomoe_events.rpy:2164
 translate ukrainian tomoe_eventseis_952fbaac:
 
     # ev "{size=-8}Come back anytime!~{image=corazon}"
-    ev "{size=-8}Come back anytime!~{image=corazon}"
+    ev "{size=-8}Come back anytime!~{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:2165
 translate ukrainian tomoe_eventseis_54e819e2:
 
     # t " I thought I wouldn't hold!"
-    t " I thought I wouldn't hold!"
+    t " I thought I wouldn't hold!" with vpunch
 
 # game/game/tomoe_events.rpy:2166
 translate ukrainian tomoe_eventseis_45ade069:
@@ -5835,7 +5835,7 @@ translate ukrainian tomoe_eventseis_070b1750:
 translate ukrainian tomoe_eventseis_09d3ab5e:
 
     # mc "Tomoe!"
-    mc "Tomoe!"
+    mc "Tomoe!" with hpunch
 
 # game/game/tomoe_events.rpy:2175
 translate ukrainian tomoe_eventseis_44b82623:
@@ -5847,13 +5847,13 @@ translate ukrainian tomoe_eventseis_44b82623:
 translate ukrainian tomoe_eventseis_b2649d46:
 
     # to "Ah!"
-    to "Ah!"
+    to "Ah!" (multiple=2)
 
 # game/game/tomoe_events.rpy:2182
 translate ukrainian tomoe_eventseis_c4106457:
 
     # mc "Agh!"
-    mc "Agh!"
+    mc "Agh!" (multiple=2)
 
 # game/game/tomoe_events.rpy:2184
 translate ukrainian tomoe_eventseis_2b35b6fe_3:
@@ -5901,7 +5901,7 @@ translate ukrainian tomoe_eventseis_b43772ab:
 translate ukrainian tomoe_eventseis_23184d95:
 
     # to "And stop massaging my tit!"
-    to "And stop massaging my tit!"
+    to "And stop massaging my tit!" with vpunch
 
 # game/game/tomoe_events.rpy:2197
 translate ukrainian tomoe_eventseis_7b3196c1:
@@ -5913,7 +5913,7 @@ translate ukrainian tomoe_eventseis_7b3196c1:
 translate ukrainian tomoe_eventseis_487a5a3c:
 
     # to "[mc]!"
-    to "[mc]!"
+    to "[mc]!" with vpunch
 
 # game/game/tomoe_events.rpy:2202
 translate ukrainian tomoe_eventseis_bbe4458e:
@@ -6141,7 +6141,7 @@ translate ukrainian tomoe_eventsiete_1c520952:
 translate ukrainian tomoe_eventsiete_b241565c:
 
     # to "Hahaha~ {w}why did you bring out such a deep ideology."
-    to "Hahaha~ {w}why did you bring out such a deep ideology."
+    to "Hahaha~ {w}why did you bring out such a deep ideology." with vpunch
 
 # game/game/tomoe_events.rpy:2276
 translate ukrainian tomoe_eventsiete_7d42b8ad:
@@ -6213,13 +6213,13 @@ translate ukrainian tomoe_eventsiete_2b35b6fe:
 translate ukrainian tomoe_eventsiete_1ca9ee9c:
 
     # to "Hahahaha~"
-    to "Hahahaha~"
+    to "Hahahaha~" (multiple=2)
 
 # game/game/tomoe_events.rpy:2294
 translate ukrainian tomoe_eventsiete_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
 # game/game/tomoe_events.rpy:2296
 translate ukrainian tomoe_eventsiete_3d8cfa51:
@@ -6399,7 +6399,7 @@ translate ukrainian tomoe_eventsiete_faa160ed:
 translate ukrainian tomoe_eventsiete_ef8a78fc:
 
     # to "Hey! {w}Why do you always bring that up!"
-    to "Hey! {w}Why do you always bring that up!"
+    to "Hey! {w}Why do you always bring that up!" with hpunch
 
 # game/game/tomoe_events.rpy:2337
 translate ukrainian tomoe_eventsiete_f87651e2:
@@ -6429,7 +6429,7 @@ translate ukrainian tomoe_eventsiete_2b35b6fe_1:
 translate ukrainian tomoe_eventsiete_bfb4e877:
 
     # mc "I don't think I'll last that long!"
-    mc "I don't think I'll last that long!"
+    mc "I don't think I'll last that long!" with hpunch
 
 # game/game/tomoe_events.rpy:2344
 translate ukrainian tomoe_eventsiete_08f2daba:
@@ -6885,7 +6885,7 @@ translate ukrainian tomoe_eventsiete_2b35b6fe_2:
 translate ukrainian tomoe_eventsiete_e701d12f:
 
     # mc "W-What?!"
-    mc "W-What?!"
+    mc "W-What?!" with hpunch
 
 # game/game/tomoe_events.rpy:2447
 translate ukrainian tomoe_eventsiete_e0664cbb:
@@ -6945,7 +6945,7 @@ translate ukrainian tomoe_eventsiete_3fc1b6a9:
 translate ukrainian tomoe_eventocho_427aa641:
 
     # to "You are just in time!"
-    to "You are just in time!"
+    to "You are just in time!" with vpunch
 
 # game/game/tomoe_events.rpy:2474
 translate ukrainian tomoe_eventocho_fd6b042f:
@@ -6975,19 +6975,19 @@ translate ukrainian tomoe_eventocho_29e06479:
 translate ukrainian tomoe_eventocho_2dbe167c:
 
     # mc "Yees!?"
-    mc "Yees!?"
+    mc "Yees!?" with hpunch
 
 # game/game/tomoe_events.rpy:2481
 translate ukrainian tomoe_eventocho_f5eacdc2:
 
     # to "Help me close the store!"
-    to "Help me close the store!"
+    to "Help me close the store!" with hpunch
 
 # game/game/tomoe_events.rpy:2482
 translate ukrainian tomoe_eventocho_c877ba38:
 
     # mc "Yees!-"
-    mc "Yees!-"
+    mc "Yees!-" with vpunch
 
 # game/game/tomoe_events.rpy:2484
 translate ukrainian tomoe_eventocho_e85ea320:
@@ -7029,7 +7029,7 @@ translate ukrainian tomoe_eventocho_31bd888d:
 translate ukrainian tomoe_eventocho_8ce533bb:
 
     # mc "AGh!"
-    mc "AGh!"
+    mc "AGh!" with hpunch
 
 # game/game/tomoe_events.rpy:2494
 translate ukrainian tomoe_eventocho_60a52150:
@@ -7041,7 +7041,7 @@ translate ukrainian tomoe_eventocho_60a52150:
 translate ukrainian tomoe_eventocho_eead72ba:
 
     # to "[mc]!?"
-    to "[mc]!?"
+    to "[mc]!?" with vpunch
 
 # game/game/tomoe_events.rpy:2497
 translate ukrainian tomoe_eventocho_adb4fa24:
@@ -7137,7 +7137,7 @@ translate ukrainian tomoe_eventocho_b35eee51:
 translate ukrainian tomoe_eventocho_d47f3b5c:
 
     # to "Get up now! This place won't close itself."
-    to "Get up now! This place won't close itself."
+    to "Get up now! This place won't close itself." with hpunch
 
 # game/game/tomoe_events.rpy:2519
 translate ukrainian tomoe_eventocho_5c7755d1:
@@ -7167,7 +7167,7 @@ translate ukrainian tomoe_eventocho_037e47da:
 translate ukrainian tomoe_eventocho_041b10fb:
 
     # mc "No ma'am!"
-    mc "No ma'am!"
+    mc "No ma'am!" with hpunch
 
 # game/game/tomoe_events.rpy:2524
 translate ukrainian tomoe_eventocho_e529d3d7:
@@ -7227,7 +7227,7 @@ translate ukrainian tomoe_eventocho_87e2466e:
 translate ukrainian tomoe_eventocho_f5bbeb1e:
 
     # to "Hahaha~ liar!"
-    to "Hahaha~ liar!"
+    to "Hahaha~ liar!" with hpunch
 
 # game/game/tomoe_events.rpy:2547
 translate ukrainian tomoe_eventocho_aaa5af64:
@@ -7359,7 +7359,7 @@ translate ukrainian tomoe_eventocho_c2b93fb8:
 translate ukrainian tomoe_eventocho_58ae4ed7:
 
     # mc "Hahahaha."
-    mc "Hahahaha."
+    mc "Hahahaha." with vpunch
 
 # game/game/tomoe_events.rpy:2576
 translate ukrainian tomoe_eventocho_94ea5b68:
@@ -7443,7 +7443,7 @@ translate ukrainian tomoe_eventocho_a7bcf340:
 translate ukrainian tomoe_eventocho_3843e74e:
 
     # to "Hahaha~"
-    to "Hahaha~"
+    to "Hahaha~" with vpunch
 
 # game/game/tomoe_events.rpy:2595
 translate ukrainian tomoe_eventocho_6a618a27:
@@ -7485,13 +7485,13 @@ translate ukrainian tomoe_eventocho_2b35b6fe_5:
 translate ukrainian tomoe_eventocho_1ca9ee9c:
 
     # to "Hahahaha~"
-    to "Hahahaha~"
+    to "Hahahaha~" (multiple=2)
 
 # game/game/tomoe_events.rpy:2605
 translate ukrainian tomoe_eventocho_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
 # game/game/tomoe_events.rpy:2610
 translate ukrainian tomoe_gal2_db5a32f5:
@@ -7857,7 +7857,7 @@ translate ukrainian tomoe_gal2_c06132d7:
 translate ukrainian tomoe_gal2_9daff2fc:
 
     # to "Mmnnm~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}Haaa~{image=corazon}"
-    to "Mmnnm~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}Haaa~{image=corazon}"
+    to "Mmnnm~{image=corazon} {w}Aaahnm~{image=corazon}{image=corazon} {w}Haaa~{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2694
 translate ukrainian tomoe_gal2_ddb73f1d:
@@ -7893,7 +7893,7 @@ translate ukrainian tomoe_gal2_12d2f8b8:
 translate ukrainian tomoe_gal2_00a12258:
 
     # to "Aaanm~{image=corazon} {w}Hhnmm~{image=corazon} {w}H-How good~{image=corazon}{image=corazon}"
-    to "Aaanm~{image=corazon} {w}Hhnmm~{image=corazon} {w}H-How good~{image=corazon}{image=corazon}"
+    to "Aaanm~{image=corazon} {w}Hhnmm~{image=corazon} {w}H-How good~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2700
 translate ukrainian tomoe_gal2_bc58ce11:
@@ -7905,13 +7905,13 @@ translate ukrainian tomoe_gal2_bc58ce11:
 translate ukrainian tomoe_gal2_e4fb2181:
 
     # to "[mc], {w}w-wait {w}I-I think I'm going to cum-"
-    to "[mc], {w}w-wait {w}I-I think I'm going to cum-"
+    to "[mc], {w}w-wait {w}I-I think I'm going to cum-" with cumflash
 
 # game/game/tomoe_events.rpy:2702
 translate ukrainian tomoe_gal2_d9063745:
 
     # mc "Ghgnm!"
-    mc "Ghgnm!"
+    mc "Ghgnm!" with vpunch
 
 # game/game/tomoe_events.rpy:2703
 translate ukrainian tomoe_gal2_103bf928:
@@ -7923,7 +7923,7 @@ translate ukrainian tomoe_gal2_103bf928:
 translate ukrainian tomoe_gal2_dddac90d:
 
     # to "Aaaahghhnmm!~~{image=corazon}{image=corazon}{image=corazon}"
-    to "Aaaahghhnmm!~~{image=corazon}{image=corazon}{image=corazon}"
+    to "Aaaahghhnmm!~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:2711
 translate ukrainian tomoe_gal2_8eefcafd:
@@ -8019,7 +8019,7 @@ translate ukrainian tomoe_gal2_8d44be8a:
 translate ukrainian tomoe_gal2_4709973a:
 
     # to "Hghhgnm!~"
-    to "Hghhgnm!~"
+    to "Hghhgnm!~" with vpunch
 
 # game/game/tomoe_events.rpy:2733
 translate ukrainian tomoe_gal2_5726ab13:
@@ -8127,7 +8127,7 @@ translate ukrainian tomoe_gal2_f3eae502:
 translate ukrainian tomoe_gal2_caa934d8:
 
     # mc "Ghngm!"
-    mc "Ghngm!"
+    mc "Ghngm!" with cumflash
 
 # game/game/tomoe_events.rpy:2753
 translate ukrainian tomoe_gal2_9494e436:
@@ -8157,7 +8157,7 @@ translate ukrainian tomoe_gal2_35ba2cb6:
 translate ukrainian tomoe_gal2_587dfa4a:
 
     # to "Did you just say {w}Mhnhm~~{image=corazon}{image=corazon} {w}that out loud?"
-    to "Did you just say {w}Mhnhm~~{image=corazon}{image=corazon} {w}that out loud?"
+    to "Did you just say {w}Mhnhm~~{image=corazon}{image=corazon} {w}that out loud?" with cumflash
 
 # game/game/tomoe_events.rpy:2759
 translate ukrainian tomoe_gal2_dd7d0342:
@@ -8193,7 +8193,7 @@ translate ukrainian tomoe_gal2_39679109:
 translate ukrainian tomoe_gal2_6829e952:
 
     # to "Elves' pussy are very wet... {w}Mhnhnm~~{image=corazon}{image=corazon}"
-    to "Elves' pussy are very wet... {w}Mhnhnm~~{image=corazon}{image=corazon}"
+    to "Elves' pussy are very wet... {w}Mhnhnm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2765
 translate ukrainian tomoe_gal2_07eba8ee:
@@ -8223,13 +8223,13 @@ translate ukrainian tomoe_gal2_e8ab83b1:
 translate ukrainian tomoe_gal2_2f1c4f95:
 
     # to "AaaHnMHM~{image=corazon}{image=corazon} {w}MhNHM~{image=corazon} {w}[mc]!~{image=corazon}"
-    to "AaaHnMHM~{image=corazon}{image=corazon} {w}MhNHM~{image=corazon} {w}[mc]!~{image=corazon}"
+    to "AaaHnMHM~{image=corazon}{image=corazon} {w}MhNHM~{image=corazon} {w}[mc]!~{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2772
 translate ukrainian tomoe_gal2_51591004:
 
     # mc "T-This... {w}feels too good!"
-    mc "T-This... {w}feels too good!"
+    mc "T-This... {w}feels too good!" with vpunch
 
 # game/game/tomoe_events.rpy:2773
 translate ukrainian tomoe_gal2_e299d953:
@@ -8253,7 +8253,7 @@ translate ukrainian tomoe_gal2_68a32dc7:
 translate ukrainian tomoe_gal2_22553a52:
 
     # to "Haaanm~{image=corazon} {w}HMnhm~{image=corazon} {w}That is nothing like what I said!~{image=corazon}{image=corazon}"
-    to "Haaanm~{image=corazon} {w}HMnhm~{image=corazon} {w}That is nothing like what I said!~{image=corazon}{image=corazon}"
+    to "Haaanm~{image=corazon} {w}HMnhm~{image=corazon} {w}That is nothing like what I said!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2777
 translate ukrainian tomoe_gal2_55cefcc5:
@@ -8283,7 +8283,7 @@ translate ukrainian tomoe_gal2_9ae20d21:
 translate ukrainian tomoe_gal2_1071e062:
 
     # to "You don't want me to walk again~{image=corazon}{image=corazon} {w}Hnhmmm~{image=corazon} {w}Aahnmm~~{image=corazon}{image=corazon}"
-    to "You don't want me to walk again~{image=corazon}{image=corazon} {w}Hnhmmm~{image=corazon} {w}Aahnmm~~{image=corazon}{image=corazon}"
+    to "You don't want me to walk again~{image=corazon}{image=corazon} {w}Hnhmmm~{image=corazon} {w}Aahnmm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2782
 translate ukrainian tomoe_gal2_02353698:
@@ -8301,7 +8301,7 @@ translate ukrainian tomoe_gal2_ba074b33:
 translate ukrainian tomoe_gal2_1c3fc218:
 
     # mc "I'm about to cum!"
-    mc "I'm about to cum!"
+    mc "I'm about to cum!" with vpunch
 
 # game/game/tomoe_events.rpy:2787
 translate ukrainian tomoe_gal2_d4866d18:
@@ -8313,7 +8313,7 @@ translate ukrainian tomoe_gal2_d4866d18:
 translate ukrainian tomoe_gal2_76bdb619:
 
     # to "Hhnmm~{image=corazon} {w}y-you are doing it on purpose!~{image=corazon}{image=corazon}"
-    to "Hhnmm~{image=corazon} {w}y-you are doing it on purpose!~{image=corazon}{image=corazon}"
+    to "Hhnmm~{image=corazon} {w}y-you are doing it on purpose!~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2789
 translate ukrainian tomoe_gal2_1cd4f115:
@@ -8343,7 +8343,7 @@ translate ukrainian tomoe_gal2_5394b7c6:
 translate ukrainian tomoe_gal2_df2c1d67:
 
     # to "D-Don't even think about... {w}Hhnmnm~{image=corazon}{image=corazon} {w}c-cumming inside..."
-    to "D-Don't even think about... {w}Hhnmnm~{image=corazon}{image=corazon} {w}c-cumming inside..."
+    to "D-Don't even think about... {w}Hhnmnm~{image=corazon}{image=corazon} {w}c-cumming inside..." with cumflash
 
 # game/game/tomoe_events.rpy:2794
 translate ukrainian tomoe_gal2_8068af0b:
@@ -8367,7 +8367,7 @@ translate ukrainian tomoe_gal2_f6902121:
 translate ukrainian tomoe_gal2_59d39af7:
 
     # mc "Y-You began to squeeze me tighter."
-    mc "Y-You began to squeeze me tighter."
+    mc "Y-You began to squeeze me tighter." with cumflash
 
 # game/game/tomoe_events.rpy:2798
 translate ukrainian tomoe_gal2_020cdadc:
@@ -8379,31 +8379,31 @@ translate ukrainian tomoe_gal2_020cdadc:
 translate ukrainian tomoe_gal2_ed0fd1ec:
 
     # to "I-I'm going to cum...!~{image=corazon} {w}i-if you keep fucking me hard~{image=corazon} {image=corazon}"
-    to "I-I'm going to cum...!~{image=corazon} {w}i-if you keep fucking me hard~{image=corazon} {image=corazon}"
+    to "I-I'm going to cum...!~{image=corazon} {w}i-if you keep fucking me hard~{image=corazon} {image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:2800
 translate ukrainian tomoe_gal2_130bbe9a:
 
     # mc "T-Tomoe!"
-    mc "T-Tomoe!"
+    mc "T-Tomoe!" with vpunch
 
 # game/game/tomoe_events.rpy:2807
 translate ukrainian tomoe_gal2_a7603fa8:
 
     # to "Gghgnoohgmmnghm~{image=corazon}{image=corazon}{image=corazon}"
-    to "Gghgnoohgmmnghm~{image=corazon}{image=corazon}{image=corazon}"
+    to "Gghgnoohgmmnghm~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:2808
 translate ukrainian tomoe_gal2_c5608bb4:
 
     # mc "Ghnm!"
-    mc "Ghnm!"
+    mc "Ghnm!" with cumflash
 
 # game/game/tomoe_events.rpy:2812
 translate ukrainian tomoe_gal2_de31df4e:
 
     # mc "....!"
-    mc "....!"
+    mc "....!" with hpunch
 
 # game/game/tomoe_events.rpy:2817
 translate ukrainian tomoe_gal2_156ed276:
@@ -8607,13 +8607,13 @@ translate ukrainian some_interesting_8a85ab19:
 translate ukrainian some_interesting_9f03faa2:
 
     # to "{size=-6}Hmm-"
-    to "{size=-6}Hmm-"
+    to "{size=-6}Hmm-" (multiple=2)
 
 # game/game/tomoe_events.rpy:2890
 translate ukrainian some_interesting_7afe6bce:
 
     # mc "No."
-    mc "No."
+    mc "No." (multiple=2)
 
 # game/game/tomoe_events.rpy:2892
 translate ukrainian some_interesting_a47df24b:
@@ -8643,7 +8643,7 @@ translate ukrainian some_interesting_d91efabb:
 translate ukrainian some_interesting_0b92fad8:
 
     # to "Oh! {w}{size=-6}{i}Naaaughty boooy~~"
-    to "Oh! {w}{size=-6}{i}Naaaughty boooy~~"
+    to "Oh! {w}{size=-6}{i}Naaaughty boooy~~" with hpunch
 
 # game/game/tomoe_events.rpy:2899
 translate ukrainian some_interesting_7237e26d:
@@ -8667,13 +8667,13 @@ translate ukrainian some_interesting_d3de2f41:
 translate ukrainian some_interesting_7f616b4c:
 
     # mc "I-I mean{w}, some thing like a toy or {size=-7}{i}an artifact that-"
-    mc "I-I mean{w}, some thing like a toy or {size=-7}{i}an artifact that-"
+    mc "I-I mean{w}, some thing like a toy or {size=-7}{i}an artifact that-" with hpunch
 
 # game/game/tomoe_events.rpy:2905
 translate ukrainian some_interesting_1efa6737:
 
     # to "...!~"
-    to "...!~"
+    to "...!~" with vpunch
 
 # game/game/tomoe_events.rpy:2907
 translate ukrainian some_interesting_ab0af9d6:
@@ -8787,7 +8787,7 @@ translate ukrainian some_interesting_054c5ee0:
 translate ukrainian some_interesting_6da53e59:
 
     # to "...!"
-    to "...!"
+    to "...!" with vpunch
 
 # game/game/tomoe_events.rpy:2938
 translate ukrainian some_interesting_607689d2:
@@ -8811,13 +8811,13 @@ translate ukrainian some_interesting_15c1e57f:
 translate ukrainian some_interesting_55847e98:
 
     # to "Forget that! {w}Go to Hana or Shika to heal you!"
-    to "Forget that! {w}Go to Hana or Shika to heal you!"
+    to "Forget that! {w}Go to Hana or Shika to heal you!" with hpunch
 
 # game/game/tomoe_events.rpy:2944
 translate ukrainian some_interesting_3fbe35f0:
 
     # to "Only after that I will sell it to you!"
-    to "Only after that I will sell it to you!"
+    to "Only after that I will sell it to you!" with vpunch
 
 # game/game/tomoe_events.rpy:2949
 translate ukrainian some_interesting_ed131e45:
@@ -8883,13 +8883,13 @@ translate ukrainian tomoe_eventnueve_3ebc1dea:
 translate ukrainian tomoe_eventnueve_b9a526f3:
 
     # to "Hmm?"
-    to "Hmm?"
+    to "Hmm?" (multiple=2)
 
 # game/game/tomoe_events.rpy:2985
 translate ukrainian tomoe_eventnueve_3034322c:
 
     # mc "Oh."
-    mc "Oh."
+    mc "Oh." (multiple=2)
 
 # game/game/tomoe_events.rpy:2986
 translate ukrainian tomoe_eventnueve_987f3361:
@@ -9129,7 +9129,7 @@ translate ukrainian tomoe_eventnueve_bff09d68:
 translate ukrainian tomoe_eventnueve_9029a321:
 
     # to "[mc]? {w}Ooh no, don't you dare!"
-    to "[mc]? {w}Ooh no, don't you dare!"
+    to "[mc]? {w}Ooh no, don't you dare!" with hpunch
 
 # game/game/tomoe_events.rpy:3043
 translate ukrainian tomoe_eventnueve_a55c389a:
@@ -9141,7 +9141,7 @@ translate ukrainian tomoe_eventnueve_a55c389a:
 translate ukrainian tomoe_eventnueve_59104351:
 
     # to "We'll talk about that later!"
-    to "We'll talk about that later!"
+    to "We'll talk about that later!" with hpunch
 
 # game/game/tomoe_events.rpy:3045
 translate ukrainian tomoe_eventnueve_a55c389a_1:
@@ -9453,13 +9453,13 @@ translate ukrainian tomoe_eventdiez_e90f79dd:
 translate ukrainian tomoe_eventdiez_4d5c6b7a:
 
     # mc "You look cute as always!"
-    mc "You look cute as always!"
+    mc "You look cute as always!" with hpunch
 
 # game/game/tomoe_events.rpy:3134
 translate ukrainian tomoe_eventdiez_10bedac3:
 
     # to "Hahahaha~{image=corazon}"
-    to "Hahahaha~{image=corazon}"
+    to "Hahahaha~{image=corazon}" with hpunch
 
 # game/game/tomoe_events.rpy:3135
 translate ukrainian tomoe_eventdiez_37c1458a:
@@ -9819,7 +9819,7 @@ translate ukrainian tomoe_eventonce_21256c58:
 translate ukrainian tomoe_eventonce_e4edd823:
 
     # to "Hey! {w}Stop looking at my stuff so much."
-    to "Hey! {w}Stop looking at my stuff so much."
+    to "Hey! {w}Stop looking at my stuff so much." with hpunch
 
 # game/game/tomoe_events.rpy:3239
 translate ukrainian tomoe_eventonce_1f5b224d:
@@ -10209,7 +10209,7 @@ translate ukrainian tomoe_eventonce_534ff9e0:
 translate ukrainian tomoe_eventonce_52e26bc3:
 
     # t "W-Why am I reading this?! {w}I'm invading Tomoe's privacy!"
-    t "W-Why am I reading this?! {w}I'm invading Tomoe's privacy!"
+    t "W-Why am I reading this?! {w}I'm invading Tomoe's privacy!" with hpunch
 
 # game/game/tomoe_events.rpy:3325
 translate ukrainian tomoe_eventonce_2b35b6fe_4:
@@ -10239,7 +10239,7 @@ translate ukrainian tomoe_eventonce_350e3941:
 translate ukrainian tomoe_eventonce_8b6fbaa7:
 
     # t "How?!"
-    t "How?!"
+    t "How?!" with vpunch
 
 # game/game/tomoe_events.rpy:3338
 translate ukrainian tomoe_eventonce_2b35b6fe_5:
@@ -10605,13 +10605,13 @@ translate ukrainian tomoe_eventdoce_7783ab02:
 translate ukrainian tomoe_eventdoce_4e0d18f2:
 
     # to "Leave me alone!"
-    to "Leave me alone!"
+    to "Leave me alone!" with hpunch
 
 # game/game/tomoe_events.rpy:3444
 translate ukrainian tomoe_eventdoce_516cfef3:
 
     # to "And stop breaking our rule-"
-    to "And stop breaking our rule-"
+    to "And stop breaking our rule-" with vpunch
 
 # game/game/tomoe_events.rpy:3445
 translate ukrainian tomoe_eventdoce_1faebeb0:
@@ -10767,7 +10767,7 @@ translate ukrainian tomoe_eventdoce_6b5d0811:
 translate ukrainian tomoe_eventdoce_27817b3d:
 
     # mc "Do you have any items on sale today?!"
-    mc "Do you have any items on sale today?!"
+    mc "Do you have any items on sale today?!" with hpunch
 
 # game/game/tomoe_events.rpy:3478
 translate ukrainian tomoe_eventdoce_a5ef0fde:
@@ -10923,25 +10923,25 @@ translate ukrainian tomoe_eventtrece_fcb97092:
 translate ukrainian tomoe_eventtrece_a0b27957:
 
     # mc "Am I possessed?"
-    mc "Am I possessed?"
+    mc "Am I possessed?" with vpunch
 
 # game/game/tomoe_events.rpy:3538
 translate ukrainian tomoe_eventtrece_4d0a8639:
 
     # mc "My face... {w}I can't feel my face!"
-    mc "My face... {w}I can't feel my face!"
+    mc "My face... {w}I can't feel my face!" with hpunch
 
 # game/game/tomoe_events.rpy:3539
 translate ukrainian tomoe_eventtrece_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/tomoe_events.rpy:3540
 translate ukrainian tomoe_eventtrece_edeb73db:
 
     # "{sc=2}{outlinecolor=#000000}{size=-6}You're a funny mortal, \nbut it's not the time for that..."
-    "{sc=2}{outlinecolor=#000000}{size=-6}You're a funny mortal, \nbut it's not the time for that..."
+    "{sc=2}{outlinecolor=#000000}{size=-6}You're a funny mortal, \nbut it's not the time for that..." (multiple=2)
 
 # game/game/tomoe_events.rpy:3541
 translate ukrainian tomoe_eventtrece_4f5a3cb6:
@@ -11031,13 +11031,13 @@ translate ukrainian tomoe_eventtrece_28a32d7f:
 translate ukrainian tomoe_eventtrece_3771364f:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-6}Ghg!"
-    to "{sc=2}{outlinecolor=#000000}{size=-6}Ghg!"
+    to "{sc=2}{outlinecolor=#000000}{size=-6}Ghg!" with cumflash
 
 # game/game/tomoe_events.rpy:3575
 translate ukrainian tomoe_eventtrece_0cd67a9e:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-6}Giaghhh!"
-    to "{sc=2}{outlinecolor=#000000}{size=-6}Giaghhh!"
+    to "{sc=2}{outlinecolor=#000000}{size=-6}Giaghhh!" with vpunch
 
 # game/game/tomoe_events.rpy:3577
 translate ukrainian tomoe_eventtrece_e78f0edc:
@@ -11061,7 +11061,7 @@ translate ukrainian tomoe_eventtrece_c66656c5:
 translate ukrainian tomoe_eventtrece_9fac2982:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-6}GHnhmgnm!!"
-    to "{sc=2}{outlinecolor=#000000}{size=-6}GHnhmgnm!!"
+    to "{sc=2}{outlinecolor=#000000}{size=-6}GHnhmgnm!!" with hpunch
 
 # game/game/tomoe_events.rpy:3584
 translate ukrainian tomoe_eventtrece_335fc6ae:
@@ -11085,7 +11085,7 @@ translate ukrainian tomoe_eventtrece_1a584741:
 translate ukrainian tomoe_eventtrece_ed2787a0:
 
     # mc "T-Tomoe!?"
-    mc "T-Tomoe!?"
+    mc "T-Tomoe!?" with hpunch
 
 # game/game/tomoe_events.rpy:3589
 translate ukrainian tomoe_eventtrece_2f99df1e:
@@ -11103,7 +11103,7 @@ translate ukrainian tomoe_eventtrece_abe9ddb1:
 translate ukrainian tomoe_eventtrece_c125f8e0:
 
     # to "{sc=2}{outlinecolor=#000000}NO!"
-    to "{sc=2}{outlinecolor=#000000}NO!"
+    to "{sc=2}{outlinecolor=#000000}NO!" with hpunch
 
 # game/game/tomoe_events.rpy:3594
 translate ukrainian tomoe_eventtrece_455b372c:
@@ -11133,7 +11133,7 @@ translate ukrainian tomoe_eventtrece_ac94232b:
 translate ukrainian tomoe_eventtrece_8ade8c4b:
 
     # to "GO AWAY!"
-    to "GO AWAY!"
+    to "GO AWAY!" with hpunch
 
 # game/game/tomoe_events.rpy:3606
 translate ukrainian tomoe_eventtrece_a33d2285:
@@ -11217,25 +11217,25 @@ translate ukrainian tomoe_eventtrece_7f24cea3:
 translate ukrainian tomoe_eventtrece_c3d54579:
 
     # mc "{sc=2}{outlinecolor=#000000}Aaah!"
-    mc "{sc=2}{outlinecolor=#000000}Aaah!"
+    mc "{sc=2}{outlinecolor=#000000}Aaah!" with vpunch
 
 # game/game/tomoe_events.rpy:3626
 translate ukrainian tomoe_eventtrece_5e5615c1:
 
     # to "{sc=2}{outlinecolor=#000000}Don't you understand?!"
-    to "{sc=2}{outlinecolor=#000000}Don't you understand?!"
+    to "{sc=2}{outlinecolor=#000000}Don't you understand?!" with hpunch
 
 # game/game/tomoe_events.rpy:3629
 translate ukrainian tomoe_eventtrece_2dd10fa0:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-6}Don't make me hurt you!"
-    to "{sc=2}{outlinecolor=#000000}{size=-6}Don't make me hurt you!"
+    to "{sc=2}{outlinecolor=#000000}{size=-6}Don't make me hurt you!" (multiple=2)
 
 # game/game/tomoe_events.rpy:3630
 translate ukrainian tomoe_eventtrece_34d46b4b:
 
     # t "The firefly broke the barrier!"
-    t "The firefly broke the barrier!"
+    t "The firefly broke the barrier!" (multiple=2)
 
 # game/game/tomoe_events.rpy:3633
 translate ukrainian tomoe_eventtrece_6d49ddc5:
@@ -11355,7 +11355,7 @@ translate ukrainian tomoe_eventtrece_03cd10d6:
 translate ukrainian tomoe_eventtrece_d68cf543:
 
     # to "Hey, where are you going? I'm not done with you yet!"
-    to "Hey, where are you going? I'm not done with you yet!"
+    to "Hey, where are you going? I'm not done with you yet!" with hpunch
 
 # game/game/tomoe_events.rpy:3678
 translate ukrainian tomoe_eventtrece_32ad6980:
@@ -11451,13 +11451,13 @@ translate ukrainian tomoe_eventtrece_a20cefa7_3:
 translate ukrainian tomoe_eventtrece_c355de8d:
 
     # to "Hahaha~"
-    to "Hahaha~"
+    to "Hahaha~" (multiple=2)
 
 # game/game/tomoe_events.rpy:3698
 translate ukrainian tomoe_eventtrece_53eec725:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "Hahaha." (multiple=2)
 
 # game/game/tomoe_events.rpy:3703
 translate ukrainian tomoe_eventtrece_a6be913e:
@@ -11643,13 +11643,13 @@ translate ukrainian tomoe_eventtrece_1a7b7066:
 translate ukrainian tomoe_eventtrece_5f61ed5e:
 
     # mc "Where do you even get those things?!"
-    mc "Where do you even get those things?!"
+    mc "Where do you even get those things?!" with hpunch
 
 # game/game/tomoe_events.rpy:3744
 translate ukrainian tomoe_eventtrece_3733cf80:
 
     # to "Hahaha~{image=corazon}"
-    to "Hahaha~{image=corazon}"
+    to "Hahaha~{image=corazon}" with vpunch
 
 # game/game/tomoe_events.rpy:3748
 translate ukrainian tomoe_eventtrece_5c6b6838:
@@ -11661,7 +11661,7 @@ translate ukrainian tomoe_eventtrece_5c6b6838:
 translate ukrainian tomoe_eventcatorce_d9635de8:
 
     # to "[mc]! Just who I wanted to see!"
-    to "[mc]! Just who I wanted to see!"
+    to "[mc]! Just who I wanted to see!" with hpunch
 
 # game/game/tomoe_events.rpy:3764
 translate ukrainian tomoe_eventcatorce_4698326e:
@@ -11709,7 +11709,7 @@ translate ukrainian tomoe_eventcatorce_bfe8073b:
 translate ukrainian tomoe_eventcatorce_42655c77:
 
     # mc "No!"
-    mc "No!"
+    mc "No!" with hpunch
 
 # game/game/tomoe_events.rpy:3777
 translate ukrainian tomoe_eventcatorce_b4a66189:
@@ -11919,7 +11919,7 @@ translate ukrainian tomoe_eventcatorce_c7122155:
 translate ukrainian tomoe_eventcatorce_1c85d092:
 
     # to "Wow, that's your first guess? {w}What a quick and incredible deductive ability!"
-    to "Wow, that's your first guess? {w}What a quick and incredible deductive ability!"
+    to "Wow, that's your first guess? {w}What a quick and incredible deductive ability!" with hpunch
 
 # game/game/tomoe_events.rpy:3830
 translate ukrainian tomoe_eventcatorce_30c1bda9:
@@ -12039,13 +12039,13 @@ translate ukrainian tomoe_gal3_7ffb0a98:
 translate ukrainian tomoe_gal3_52018482:
 
     # to "Ah~{image=corazon}"
-    to "Ah~{image=corazon}"
+    to "Ah~{image=corazon}" (multiple=2)
 
 # game/game/tomoe_events.rpy:3864
 translate ukrainian tomoe_gal3_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/tomoe_events.rpy:3865
 translate ukrainian tomoe_gal3_6b5e4e07:
@@ -12087,19 +12087,19 @@ translate ukrainian tomoe_gal3_dbf1a5a0:
 translate ukrainian tomoe_gal3_ca3df15d:
 
     # to "What?"
-    to "What?"
+    to "What?" (multiple=2)
 
 # game/game/tomoe_events.rpy:3873
 translate ukrainian tomoe_gal3_d958cbf4:
 
     # "What?"
-    "What?"
+    "What?" (multiple=3)
 
 # game/game/tomoe_events.rpy:3874
 translate ukrainian tomoe_gal3_22900e9c:
 
     # mc "What?"
-    mc "What?"
+    mc "What?" (multiple=3)
 
 # game/game/tomoe_events.rpy:3876
 translate ukrainian tomoe_gal3_2c3c0b65:
@@ -12261,13 +12261,13 @@ translate ukrainian tomoe_gal3_b3ae8984:
 translate ukrainian tomoe_gal3_face9afc:
 
     # mc "Hhnm!"
-    mc "Hhnm!"
+    mc "Hhnm!" (multiple=2)
 
 # game/game/tomoe_events.rpy:3907
 translate ukrainian tomoe_gal3_68fd8fad:
 
     # to "Aahnm~{image=corazon}{image=corazon}"
-    to "Aahnm~{image=corazon}{image=corazon}"
+    to "Aahnm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/tomoe_events.rpy:3908
 translate ukrainian tomoe_gal3_8d47a3dd:
@@ -12279,7 +12279,7 @@ translate ukrainian tomoe_gal3_8d47a3dd:
 translate ukrainian tomoe_gal3_113ce74f:
 
     # mc "Y-Yes, I noticed!"
-    mc "Y-Yes, I noticed!"
+    mc "Y-Yes, I noticed!" with hpunch
 
 # game/game/tomoe_events.rpy:3910
 translate ukrainian tomoe_gal3_7ead5e20:
@@ -12303,7 +12303,7 @@ translate ukrainian tomoe_gal3_27c17fb3:
 translate ukrainian tomoe_gal3_9cd2eeff:
 
     # mc "I-If you wanted me to hold on, you wouldn't be thrusting your h-hips into me like that!"
-    mc "I-If you wanted me to hold on, you wouldn't be thrusting your h-hips into me like that!"
+    mc "I-If you wanted me to hold on, you wouldn't be thrusting your h-hips into me like that!" with cumflash
 
 # game/game/tomoe_events.rpy:3914
 translate ukrainian tomoe_gal3_258683bf:
@@ -12333,7 +12333,7 @@ translate ukrainian tomoe_gal3_8277279f:
 translate ukrainian tomoe_gal3_750c5f0f:
 
     # to "{sc=2}{outlinecolor=#000000}Aah~ AAah~{image=corazon} AAH~ HGnhgmh~{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}Aah~ AAah~{image=corazon} AAH~ HGnhgmh~{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}Aah~ AAah~{image=corazon} AAH~ HGnhgmh~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:3920
 translate ukrainian tomoe_gal3_dbb9c802:
@@ -12345,7 +12345,7 @@ translate ukrainian tomoe_gal3_dbb9c802:
 translate ukrainian tomoe_gal3_0413c2bf:
 
     # to "I-It feels really good!~{image=corazon}{image=corazon} You can do it, hang in there~{image=corazon}"
-    to "I-It feels really good!~{image=corazon}{image=corazon} You can do it, hang in there~{image=corazon}"
+    to "I-It feels really good!~{image=corazon}{image=corazon} You can do it, hang in there~{image=corazon}" with hpunch
 
 # game/game/tomoe_events.rpy:3923
 translate ukrainian tomoe_gal3_4525986f:
@@ -12375,7 +12375,7 @@ translate ukrainian tomoe_gal3_217d6c5d:
 translate ukrainian tomoe_gal3_9cd893ca:
 
     # to "Don't tell me you're going to cum already?~{image=corazon} {w}hehehe~{image=corazon}{image=corazon}"
-    to "Don't tell me you're going to cum already?~{image=corazon} {w}hehehe~{image=corazon}{image=corazon}"
+    to "Don't tell me you're going to cum already?~{image=corazon} {w}hehehe~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:3928
 translate ukrainian tomoe_gal3_d01a1beb:
@@ -12399,7 +12399,7 @@ translate ukrainian tomoe_gal3_2b35b6fe_2:
 translate ukrainian tomoe_gal3_c320e2a6:
 
     # to "Gnhmg~{image=corazon} {w}Mnhmg~{image=corazon}{image=corazon}"
-    to "Gnhmg~{image=corazon} {w}Mnhmg~{image=corazon}{image=corazon}"
+    to "Gnhmg~{image=corazon} {w}Mnhmg~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:3932
 translate ukrainian tomoe_gal3_bfd86fa6:
@@ -12411,13 +12411,13 @@ translate ukrainian tomoe_gal3_bfd86fa6:
 translate ukrainian tomoe_gal3_fa9e2b42:
 
     # mc "All right you horny elf girl!"
-    mc "All right you horny elf girl!"
+    mc "All right you horny elf girl!" with hpunch
 
 # game/game/tomoe_events.rpy:3935
 translate ukrainian tomoe_gal3_dc970d38:
 
     # to "{sc=2}{outlinecolor=#000000}AhnhmNhmnM...!!~~{image=corazon}{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}AhnhmNhmnM...!!~~{image=corazon}{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}AhnhmNhmnM...!!~~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:3936
 translate ukrainian tomoe_gal3_cf5a3f11:
@@ -12435,13 +12435,13 @@ translate ukrainian tomoe_gal3_b1485db5:
 translate ukrainian tomoe_gal3_8b7f09a2:
 
     # to "{sc=2}{outlinecolor=#000000}GNhmg!~"
-    to "{sc=2}{outlinecolor=#000000}GNhmg!~"
+    to "{sc=2}{outlinecolor=#000000}GNhmg!~" (multiple=2)
 
 # game/game/tomoe_events.rpy:3941
 translate ukrainian tomoe_gal3_eac892fc:
 
     # mc "{sc=2}{outlinecolor=#000000}Hnm!"
-    mc "{sc=2}{outlinecolor=#000000}Hnm!"
+    mc "{sc=2}{outlinecolor=#000000}Hnm!" (multiple=2)
 
 # game/game/tomoe_events.rpy:3942
 translate ukrainian tomoe_gal3_33c11b28:
@@ -12477,7 +12477,7 @@ translate ukrainian tomoe_gal3_a3d9f752:
 translate ukrainian tomoe_gal3_7c7158c9:
 
     # mc "T-Tomoe... I-I'm already at my limit!"
-    mc "T-Tomoe... I-I'm already at my limit!"
+    mc "T-Tomoe... I-I'm already at my limit!" with cumflash
 
 # game/game/tomoe_events.rpy:3948
 translate ukrainian tomoe_gal3_44edef6b:
@@ -12501,13 +12501,13 @@ translate ukrainian tomoe_gal3_b9e330d1_1:
 translate ukrainian tomoe_gal3_419ec48e:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-6}UuuoghnNhmm~{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}{size=-6}UuuoghnNhmm~{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}{size=-6}UuuoghnNhmm~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/tomoe_events.rpy:3964
 translate ukrainian tomoe_gal3_7ae7f282:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-6}GHh...!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-6}GHh...!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-6}GHh...!" with hpunch
 
 # game/game/tomoe_events.rpy:3965
 translate ukrainian tomoe_gal3_41f28e55:
@@ -12687,7 +12687,7 @@ translate ukrainian tomoe_rep_uno_e5bf5bea:
 translate ukrainian tomoe_rep_uno_76bb83da:
 
     # to "What?!"
-    to "What?!"
+    to "What?!" with hpunch
 
 # game/game/tomoe_events.rpy:4033
 translate ukrainian tomoe_rep_uno_9ff1b24e:
@@ -12867,13 +12867,13 @@ translate ukrainian tomoe_rep_uno_fb237cd5:
 translate ukrainian tomoe_rep_uno_10277db9:
 
     # "{color=#785E6E}What?"
-    "{color=#785E6E}What?"
+    "{color=#785E6E}What?" (multiple=2)
 
 # game/game/tomoe_events.rpy:4073
 translate ukrainian tomoe_rep_uno_3d6409e6:
 
     # mc "What?"
-    mc "What?"
+    mc "What?" (multiple=2)
 
 # game/game/tomoe_events.rpy:4074
 translate ukrainian tomoe_rep_uno_775c3b3b:
@@ -12987,13 +12987,13 @@ translate ukrainian tomoe_rep_uno_63d0fc8e:
 translate ukrainian tomoe_rep_uno_936df12b:
 
     # mc "Hng!"
-    mc "Hng!"
+    mc "Hng!" with hpunch
 
 # game/game/tomoe_events.rpy:4100
 translate ukrainian tomoe_rep_uno_279f3ffa:
 
     # to "{size=-6}{i}Sluuuurrp~{image=corazon}{image=corazon}"
-    to "{size=-6}{i}Sluuuurrp~{image=corazon}{image=corazon}"
+    to "{size=-6}{i}Sluuuurrp~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:4101
 translate ukrainian tomoe_rep_uno_6d3b3dd8:
@@ -13029,7 +13029,7 @@ translate ukrainian tomoe_rep_uno_db92b577:
 translate ukrainian tomoe_rep_uno_e72f3d49:
 
     # to "{size=-6}{i}Hngmh~{image=corazon} {w}Ghngm~{image=corazon}"
-    to "{size=-6}{i}Hngmh~{image=corazon} {w}Ghngm~{image=corazon}"
+    to "{size=-6}{i}Hngmh~{image=corazon} {w}Ghngm~{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:4107
 translate ukrainian tomoe_rep_uno_b710c647:
@@ -13095,7 +13095,7 @@ translate ukrainian tomoe_rep_uno_6e05ad5a:
 translate ukrainian tomoe_rep_uno_8b82dcff:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" with hpunch
 
 # game/game/tomoe_events.rpy:4120
 translate ukrainian tomoe_rep_uno_d2107779:
@@ -13125,7 +13125,7 @@ translate ukrainian tomoe_rep_uno_e865fc74:
 translate ukrainian tomoe_rep_uno_9cf36427:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}GHg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}GHg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}GHg!" with hpunch
 
 # game/game/tomoe_events.rpy:4137
 translate ukrainian tomoe_rep_uno_424cf7c3:
@@ -13143,7 +13143,7 @@ translate ukrainian tomoe_rep_uno_e05f797e:
 translate ukrainian tomoe_rep_uno_1d114e90:
 
     # mc "Ah! Yes!"
-    mc "Ah! Yes!"
+    mc "Ah! Yes!" with hpunch
 
 # game/game/tomoe_events.rpy:4141
 translate ukrainian tomoe_rep_uno_a20cefa7:
@@ -13227,7 +13227,7 @@ translate ukrainian tomoe_rep_dos_776d3a11:
 translate ukrainian tomoe_rep_dos_fd16c221:
 
     # to "You'll help me close the store!"
-    to "You'll help me close the store!"
+    to "You'll help me close the store!" with hpunch
 
 # game/game/tomoe_events.rpy:4172
 translate ukrainian tomoe_rep_dos_0a69f768:
@@ -13329,7 +13329,7 @@ translate ukrainian tomoe_rep_dos_4374facf:
 translate ukrainian tomoe_rep_dos_e9ee7796:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with hpunch
 
 # game/game/tomoe_events.rpy:4200
 translate ukrainian tomoe_rep_dos_8114a09f:
@@ -13371,7 +13371,7 @@ translate ukrainian tomoe_rep_dos_2485f494:
 translate ukrainian tomoe_rep_dos_1c7a9209:
 
     # mc "Gnh!"
-    mc "Gnh!"
+    mc "Gnh!" with cumflash
 
 # game/game/tomoe_events.rpy:4209
 translate ukrainian tomoe_rep_dos_a42b0612:
@@ -13521,7 +13521,7 @@ translate ukrainian tomoe_rep_dos_0cd4167a:
 translate ukrainian tomoe_rep_dos_02511104:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-8}NHgm~{image=corazon} {w}Yes... {w}[mc]~{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}{size=-8}NHgm~{image=corazon} {w}Yes... {w}[mc]~{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}{size=-8}NHgm~{image=corazon} {w}Yes... {w}[mc]~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:4243
 translate ukrainian tomoe_rep_dos_91065860:
@@ -13545,7 +13545,7 @@ translate ukrainian tomoe_rep_dos_ff83a683:
 translate ukrainian tomoe_rep_dos_20164271:
 
     # to "Ahnnhm!"
-    to "Ahnnhm!"
+    to "Ahnnhm!" with cumflash
 
 # game/game/tomoe_events.rpy:4247
 translate ukrainian tomoe_rep_dos_7db77cdc:
@@ -13575,7 +13575,7 @@ translate ukrainian tomoe_rep_dos_96c63031:
 translate ukrainian tomoe_rep_dos_2177ae2f:
 
     # to "[mc]!"
-    to "[mc]!"
+    to "[mc]!" with cumflash
 
 # game/game/tomoe_events.rpy:4257
 translate ukrainian tomoe_rep_dos_5d017e1b:
@@ -13629,7 +13629,7 @@ translate ukrainian tomoe_rep_dos_ff8231d5:
 translate ukrainian tomoe_rep_dos_ab4a39de:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-8}NHhnmnm~{image=corazon}{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}{size=-8}NHhnmnm~{image=corazon}{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}{size=-8}NHhnmnm~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/tomoe_events.rpy:4272
 translate ukrainian tomoe_rep_dos_01381f69:
@@ -13665,7 +13665,7 @@ translate ukrainian tomoe_rep_dos_6f6a9e0b:
 translate ukrainian tomoe_rep_dos_edc1cc5c:
 
     # mc "Ggh!"
-    mc "Ggh!"
+    mc "Ggh!" with cumflash
 
 # game/game/tomoe_events.rpy:4279
 translate ukrainian tomoe_rep_dos_abaecf10:
@@ -13749,7 +13749,7 @@ translate ukrainian tomoe_rep_dos_ab48d831:
 translate ukrainian tomoe_rep_dos_045e3530:
 
     # to "Gnhmg!"
-    to "Gnhmg!"
+    to "Gnhmg!" with cumflash
 
 # game/game/tomoe_events.rpy:4295
 translate ukrainian tomoe_rep_dos_1d82a7e7_1:
@@ -13851,13 +13851,13 @@ translate ukrainian tomoe_rep_dos_a906cfde:
 translate ukrainian tomoe_rep_dos_29840c74:
 
     # to "W-Weren't you {w}Aahnm~ {w}a-at your limit?!"
-    to "W-Weren't you {w}Aahnm~ {w}a-at your limit?!"
+    to "W-Weren't you {w}Aahnm~ {w}a-at your limit?!" with cumflash
 
 # game/game/tomoe_events.rpy:4316
 translate ukrainian tomoe_rep_dos_92dc04fc:
 
     # mc "Yes!"
-    mc "Yes!"
+    mc "Yes!" with hpunch
 
 # game/game/tomoe_events.rpy:4317
 translate ukrainian tomoe_rep_dos_f7250b4f:
@@ -13899,7 +13899,7 @@ translate ukrainian tomoe_rep_dos_810a9631:
 translate ukrainian tomoe_rep_dos_dd4301d1:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghng!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghng!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghng!" with cumflash
 
 # game/game/tomoe_events.rpy:4331
 translate ukrainian tomoe_rep_dos_06b072a3:
@@ -13911,7 +13911,7 @@ translate ukrainian tomoe_rep_dos_06b072a3:
 translate ukrainian tomoe_rep_dos_9eb92a83:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!" with vpunch
 
 # game/game/tomoe_events.rpy:4340
 translate ukrainian tomoe_rep_dos_cc935c65:
@@ -13989,7 +13989,7 @@ translate ukrainian tomoe_rep_tres_8e9a7319:
 translate ukrainian tomoe_rep_tres_7b523823:
 
     # to "...!~{image=corazon}"
-    to "...!~{image=corazon}"
+    to "...!~{image=corazon}" with hpunch
 
 # game/game/tomoe_events.rpy:4370
 translate ukrainian tomoe_rep_tres_b84dc226:
@@ -14163,13 +14163,13 @@ translate ukrainian tomoe_rep_tres_8ef88028:
 translate ukrainian tomoe_rep_tres_b1345b5b:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" (multiple=2)
 
 # game/game/tomoe_events.rpy:4418
 translate ukrainian tomoe_rep_tres_30575d6d:
 
     # to "Ahn~"
-    to "Ahn~"
+    to "Ahn~" (multiple=2)
 
 # game/game/tomoe_events.rpy:4419
 translate ukrainian tomoe_rep_tres_c9413508:
@@ -14193,7 +14193,7 @@ translate ukrainian tomoe_rep_tres_84b78bc5:
 translate ukrainian tomoe_rep_tres_2f762145:
 
     # to "Ah!~ {w}Give it back to me!"
-    to "Ah!~ {w}Give it back to me!"
+    to "Ah!~ {w}Give it back to me!" with hpunch
 
 # game/game/tomoe_events.rpy:4424
 translate ukrainian tomoe_rep_tres_32873f0b:
@@ -14295,7 +14295,7 @@ translate ukrainian tomoe_rep_tres_1a31a316:
 translate ukrainian tomoe_rep_tres_566699ce:
 
     # mc "Ghng!"
-    mc "Ghng!"
+    mc "Ghng!" with hpunch
 
 # game/game/tomoe_events.rpy:4447
 translate ukrainian tomoe_rep_tres_b53992ea:
@@ -14307,7 +14307,7 @@ translate ukrainian tomoe_rep_tres_b53992ea:
 translate ukrainian tomoe_rep_tres_e4f8d640:
 
     # to "A-Ah~{image=corazon}{image=corazon} {w}I-I think it's bigger than usual."
-    to "A-Ah~{image=corazon}{image=corazon} {w}I-I think it's bigger than usual."
+    to "A-Ah~{image=corazon}{image=corazon} {w}I-I think it's bigger than usual." with cumflash
 
 # game/game/tomoe_events.rpy:4449
 translate ukrainian tomoe_rep_tres_41345b6c:
@@ -14325,7 +14325,7 @@ translate ukrainian tomoe_rep_tres_325377d4:
 translate ukrainian tomoe_rep_tres_9a1e9edb:
 
     # mc "A-And your pussy squeezes just like the first t-time..."
-    mc "A-And your pussy squeezes just like the first t-time..."
+    mc "A-And your pussy squeezes just like the first t-time..." with cumflash
 
 # game/game/tomoe_events.rpy:4452
 translate ukrainian tomoe_rep_tres_b5cedfbb:
@@ -14355,13 +14355,13 @@ translate ukrainian tomoe_rep_tres_94988e04:
 translate ukrainian tomoe_rep_tres_b4864e98:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-8}NHnhmgnmGhn~{image=corazon}{image=corazon}{image=corazon}"
-    to "{sc=2}{outlinecolor=#000000}{size=-8}NHnhmgnmGhn~{image=corazon}{image=corazon}{image=corazon}"
+    to "{sc=2}{outlinecolor=#000000}{size=-8}NHnhmgnmGhn~{image=corazon}{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/tomoe_events.rpy:4459
 translate ukrainian tomoe_rep_tres_d76d5a94:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghg!" (multiple=2)
 
 # game/game/tomoe_events.rpy:4460
 translate ukrainian tomoe_rep_tres_9857594f:
@@ -14409,7 +14409,7 @@ translate ukrainian tomoe_rep_tres_41ae43ae:
 translate ukrainian tomoe_rep_tres_80032faf:
 
     # mc "Ghg!"
-    mc "Ghg!"
+    mc "Ghg!" with cumflash
 
 # game/game/tomoe_events.rpy:4470
 translate ukrainian tomoe_rep_tres_e59712ec:
@@ -14499,13 +14499,13 @@ translate ukrainian tomoe_rep_tres_270197da:
 translate ukrainian tomoe_rep_tres_21cf9e8e:
 
     # to "{sc=2}{outlinecolor=#000000}{size=-8}Ughnhmg!"
-    to "{sc=2}{outlinecolor=#000000}{size=-8}Ughnhmg!"
+    to "{sc=2}{outlinecolor=#000000}{size=-8}Ughnhmg!" with cumflash
 
 # game/game/tomoe_events.rpy:4487
 translate ukrainian tomoe_rep_tres_a2522021:
 
     # mc "Of course!"
-    mc "Of course!"
+    mc "Of course!" with hpunch
 
 # game/game/tomoe_events.rpy:4488
 translate ukrainian tomoe_rep_tres_e0715dbc:
@@ -14529,7 +14529,7 @@ translate ukrainian tomoe_rep_tres_80616b4b:
 translate ukrainian tomoe_rep_tres_dd4301d1:
 
     # mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghng!"
-    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghng!"
+    mc "{sc=2}{outlinecolor=#000000}{size=-8}Ghng!" with cumflash
 
 # game/game/tomoe_events.rpy:4505
 translate ukrainian tomoe_rep_tres_752b7811:

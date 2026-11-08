@@ -1,17 +1,17 @@
-
-# game/game/rpg_battle.rpy:1021
+﻿
+# game/game/rpg_battle.rpy:1314
 translate ukrainian game_over_b9945784:
 
     # "A wounded adventurer! Quick, let's take him to the nearest village!"
     "A wounded adventurer! Quick, let's take him to the nearest village!"
 
-# game/game/rpg_battle.rpy:1022
+# game/game/rpg_battle.rpy:1315
 translate ukrainian game_over_0db9cefa:
 
     # "He's lucky we found him before the monsters ate him...."
     "He's lucky we found him before the monsters ate him...."
 
-# game/game/rpg_battle.rpy:1032
+# game/game/rpg_battle.rpy:1325
 translate ukrainian start_combat_rpg_5890e430:
 
     # t "A [enemy.name], here we go."

@@ -57,7 +57,7 @@ translate ukrainian AL_event1_9946f032:
 translate ukrainian AL_event1_73392e09:
 
     # a "Hey! {w}Is anyone there?"
-    a "Hey! {w}Is anyone there?"
+    a "Hey! {w}Is anyone there?" with vpunch
 
 # game/game/natsuki_events.rpy:120
 translate ukrainian AL_event1_03fb3e88:
@@ -87,13 +87,13 @@ translate ukrainian AL_event1_55e9d775:
 translate ukrainian AL_event1_3780c123:
 
     # a "OI!"
-    a "OI!"
+    a "OI!" with hpunch
 
 # game/game/natsuki_events.rpy:135
 translate ukrainian AL_event1_0c8ae185:
 
     # a "It's me! Natsuki!"
-    a "It's me! Natsuki!"
+    a "It's me! Natsuki!" with hpunch
 
 # game/game/natsuki_events.rpy:137
 translate ukrainian AL_event1_3d238ca7:
@@ -171,13 +171,13 @@ translate ukrainian AL_event1_de578673:
 translate ukrainian AL_event1_87817da0:
 
     # ao "Natsuki! {w}I've come to help you clea-!"
-    ao "Natsuki! {w}I've come to help you clea-!"
+    ao "Natsuki! {w}I've come to help you clea-!" with hpunch
 
 # game/game/natsuki_events.rpy:161
 translate ukrainian AL_event1_8f130d64:
 
     # na "A little stronger!"
-    na "A little stronger!"
+    na "A little stronger!" with hpunch
 
 # game/game/natsuki_events.rpy:162
 translate ukrainian AL_event1_58a8cb3d:
@@ -195,13 +195,13 @@ translate ukrainian AL_event1_37509969:
 translate ukrainian AL_event1_c77020d2:
 
     # na "A little more!"
-    na "A little more!"
+    na "A little more!" with hpunch
 
 # game/game/natsuki_events.rpy:167
 translate ukrainian AL_event1_b0d47719:
 
     # na "I'm about to!"
-    na "I'm about to!"
+    na "I'm about to!" with vpunch
 
 # game/game/natsuki_events.rpy:168
 translate ukrainian AL_event1_4d977cc1:
@@ -231,13 +231,13 @@ translate ukrainian AL_event1_fb78f346:
 translate ukrainian AL_event1_cef6e0e6:
 
     # na "Yes!"
-    na "Yes!"
+    na "Yes!" with vpunch
 
 # game/game/natsuki_events.rpy:181
 translate ukrainian AL_event1_302e13f5:
 
     # na "YES YES!"
-    na "YES YES!"
+    na "YES YES!" with hpunch
 
 # game/game/natsuki_events.rpy:183
 translate ukrainian AL_event1_ea431f2a:
@@ -783,7 +783,7 @@ translate ukrainian natsuki_eventuno_e0715dbc:
 translate ukrainian natsuki_eventuno_2dc97ab8:
 
     # a "Don't even think of moving!"
-    a "Don't even think of moving!"
+    a "Don't even think of moving!" with vpunch
 
 # game/game/natsuki_events.rpy:477
 translate ukrainian natsuki_eventuno_b70ba9bb:
@@ -807,7 +807,7 @@ translate ukrainian natsuki_eventuno_3913242d:
 translate ukrainian natsuki_eventuno_532df1ec:
 
     # a "Don't talk either!"
-    a "Don't talk either!"
+    a "Don't talk either!" with vpunch
 
 # game/game/natsuki_events.rpy:482
 translate ukrainian natsuki_eventuno_4d69691d:
@@ -843,13 +843,13 @@ translate ukrainian natsuki_eventuno_4f32c85e:
 translate ukrainian natsuki_eventuno_d9a26c21:
 
     # a "HAHAHAHA."
-    a "HAHAHAHA."
+    a "HAHAHAHA." with vpunch
 
 # game/game/natsuki_events.rpy:490
 translate ukrainian natsuki_eventuno_7496b439:
 
     # t "I won't let my death be due to a misunderstanding!"
-    t "I won't let my death be due to a misunderstanding!"
+    t "I won't let my death be due to a misunderstanding!" with hpunch
 
 # game/game/natsuki_events.rpy:491
 translate ukrainian natsuki_eventuno_3eece94e:
@@ -861,19 +861,19 @@ translate ukrainian natsuki_eventuno_3eece94e:
 translate ukrainian natsuki_eventuno_6d072299:
 
     # a "Onya!"
-    a "Onya!"
+    a "Onya!" with hpunch
 
 # game/game/natsuki_events.rpy:501
 translate ukrainian natsuki_eventuno_3e377c8d:
 
     # a "What do you think you're doing you bastard!"
-    a "What do you think you're doing you bastard!"
+    a "What do you think you're doing you bastard!" with vpunch
 
 # game/game/natsuki_events.rpy:502
 translate ukrainian natsuki_eventuno_7a7dc004:
 
     # mc "Trying not to get killed!"
-    mc "Trying not to get killed!"
+    mc "Trying not to get killed!" with hpunch
 
 # game/game/natsuki_events.rpy:504
 translate ukrainian natsuki_eventuno_1bbb1dbe:
@@ -903,7 +903,7 @@ translate ukrainian natsuki_eventuno_4eb22912:
 translate ukrainian natsuki_eventuno_f8dd4679:
 
     # a "S-Stop! {w}Stop it right now! I'm serious!"
-    a "S-Stop! {w}Stop it right now! I'm serious!"
+    a "S-Stop! {w}Stop it right now! I'm serious!" with vpunch
 
 # game/game/natsuki_events.rpy:512
 translate ukrainian natsuki_eventuno_27a9b072:
@@ -921,7 +921,7 @@ translate ukrainian natsuki_eventuno_ec2d5444:
 translate ukrainian natsuki_eventuno_0ec6546a:
 
     # mc "Okay! {w}But you'll have to listen to me!"
-    mc "Okay! {w}But you'll have to listen to me!"
+    mc "Okay! {w}But you'll have to listen to me!" with hpunch
 
 # game/game/natsuki_events.rpy:515
 translate ukrainian natsuki_eventuno_bb8e4b4e_2:
@@ -933,13 +933,13 @@ translate ukrainian natsuki_eventuno_bb8e4b4e_2:
 translate ukrainian natsuki_eventuno_35e236ee:
 
     # a "As if I'd listen to a bandit!"
-    a "As if I'd listen to a bandit!"
+    a "As if I'd listen to a bandit!" with vpunch
 
 # game/game/natsuki_events.rpy:520
 translate ukrainian natsuki_eventuno_a01b53b9:
 
     # a "Onyyya!!"
-    a "Onyyya!!"
+    a "Onyyya!!" with hpunch
 
 # game/game/natsuki_events.rpy:521
 translate ukrainian natsuki_eventuno_2992cc32:
@@ -963,13 +963,13 @@ translate ukrainian natsuki_eventuno_e4be6021:
 translate ukrainian natsuki_eventuno_1b4afacc:
 
     # na "{size=+10}Zuri!"
-    na "{size=+10}Zuri!"
+    na "{size=+10}Zuri!" with hpunch
 
 # game/game/natsuki_events.rpy:526
 translate ukrainian natsuki_eventuno_5e35a81f:
 
     # na "What are you doing!"
-    na "What are you doing!"
+    na "What are you doing!" with vpunch
 
 # game/game/natsuki_events.rpy:527
 translate ukrainian natsuki_eventuno_1cb085b3:
@@ -981,7 +981,7 @@ translate ukrainian natsuki_eventuno_1cb085b3:
 translate ukrainian natsuki_eventuno_2aade0be:
 
     # zu "Nyasuki! Look! I caught a bandit!"
-    zu "Nyasuki! Look! I caught a bandit!"
+    zu "Nyasuki! Look! I caught a bandit!" with hpunch
 
 # game/game/natsuki_events.rpy:531
 translate ukrainian natsuki_eventuno_4ebac72c:
@@ -1113,7 +1113,7 @@ translate ukrainian natsuki_eventuno_54420ae3:
 translate ukrainian natsuki_eventuno_6f82c8a0:
 
     # na "Curiosity you say?? {w}You left when everything was bad!"
-    na "Curiosity you say?? {w}You left when everything was bad!"
+    na "Curiosity you say?? {w}You left when everything was bad!" with vpunch
 
 # game/game/natsuki_events.rpy:572
 translate ukrainian natsuki_eventuno_709449ae:
@@ -1161,7 +1161,7 @@ translate ukrainian natsuki_eventuno_158b5a6e:
 translate ukrainian natsuki_eventuno_fddd427b:
 
     # zu "Nyoooo!!"
-    zu "Nyoooo!!"
+    zu "Nyoooo!!" with vpunch
 
 # game/game/natsuki_events.rpy:585
 translate ukrainian natsuki_eventuno_f98ef4d9:
@@ -1239,7 +1239,7 @@ translate ukrainian natsuki_eventuno_167ada0d:
 translate ukrainian natsuki_eventuno_012fd914:
 
     # zu "W-What! {w}Nyatsuki!"
-    zu "W-What! {w}Nyatsuki!"
+    zu "W-What! {w}Nyatsuki!" with hpunch
 
 # game/game/natsuki_events.rpy:606
 translate ukrainian natsuki_eventuno_2bbd0926:
@@ -1479,7 +1479,7 @@ translate ukrainian natsuki_eventdos_69148388:
 translate ukrainian natsuki_eventdos_d48a5631:
 
     # mc "What?!"
-    mc "What?!"
+    mc "What?!" with vpunch
 
 # game/game/natsuki_events.rpy:713
 translate ukrainian natsuki_eventdos_0c7f2035_1:
@@ -1515,7 +1515,7 @@ translate ukrainian natsuki_eventdos_2b35b6fe_1:
 translate ukrainian natsuki_eventdos_0b15459b:
 
     # na "Hahaha, {w}don't make that face, there's a real reason."
-    na "Hahaha, {w}don't make that face, there's a real reason."
+    na "Hahaha, {w}don't make that face, there's a real reason." with vpunch
 
 # game/game/natsuki_events.rpy:725
 translate ukrainian natsuki_eventdos_b7a87e36:
@@ -1605,7 +1605,7 @@ translate ukrainian natsuki_eventdos_6c561e58:
 translate ukrainian natsuki_eventdos_c8c7050e:
 
     # na "Ah! {w}Careful don't do it so hard."
-    na "Ah! {w}Careful don't do it so hard."
+    na "Ah! {w}Careful don't do it so hard." with vpunch
 
 # game/game/natsuki_events.rpy:758
 translate ukrainian natsuki_eventdos_8f49b3de:
@@ -1767,7 +1767,7 @@ translate ukrainian natsuki_eventdos_e83569a3:
 translate ukrainian natsuki_eventdos_092b664e:
 
     # zu "Nyatsukiiii!!!"
-    zu "Nyatsukiiii!!!"
+    zu "Nyatsukiiii!!!" with vpunch
 
 # game/game/natsuki_events.rpy:807
 translate ukrainian natsuki_eventdos_002e21d3:
@@ -1827,7 +1827,7 @@ translate ukrainian natsuki_eventdos_6d429ac1:
 translate ukrainian natsuki_eventdos_453d0aad:
 
     # zu "Whaaat!"
-    zu "Whaaat!"
+    zu "Whaaat!" with vpunch
 
 # game/game/natsuki_events.rpy:822
 translate ukrainian natsuki_eventdos_e1cd9e35:
@@ -1869,7 +1869,7 @@ translate ukrainian natsuki_eventdos_2aaff1eb:
 translate ukrainian natsuki_eventdos_3a85ee67:
 
     # zu "OHNYA!"
-    zu "OHNYA!"
+    zu "OHNYA!" with hpunch
 
 # game/game/natsuki_events.rpy:832
 translate ukrainian natsuki_eventdos_cc057703:
@@ -1917,7 +1917,7 @@ translate ukrainian natsuki_eventdos_636c25e6:
 translate ukrainian natsuki_eventdos_dea4a202:
 
     # zu "Nyauuhm~~{image=/bg/icons/heart_text.png} {w}I-It's coming!~~{image=/bg/icons/heart_text.png}"
-    zu "Nyauuhm~~{image=/bg/icons/heart_text.png} {w}I-It's coming!~~{image=/bg/icons/heart_text.png}"
+    zu "Nyauuhm~~{image=/bg/icons/heart_text.png} {w}I-It's coming!~~{image=/bg/icons/heart_text.png}" with hpunch
 
 # game/game/natsuki_events.rpy:847
 translate ukrainian natsuki_eventdos_e0a23c50:
@@ -1929,7 +1929,7 @@ translate ukrainian natsuki_eventdos_e0a23c50:
 translate ukrainian natsuki_eventdos_38bff468:
 
     # zu "I-I can't take it a-anyamore!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    zu "I-I can't take it a-anyamore!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    zu "I-I can't take it a-anyamore!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/natsuki_events.rpy:849
 translate ukrainian natsuki_eventdos_565c449c:
@@ -2235,7 +2235,7 @@ translate ukrainian natsuki_eventtres_1ec7520d:
 translate ukrainian natsuki_eventtres_390df19e:
 
     # t "What?!"
-    t "What?!"
+    t "What?!" with hpunch
 
 # game/game/natsuki_events.rpy:950
 translate ukrainian natsuki_eventtres_c38ed577:
@@ -2277,7 +2277,7 @@ translate ukrainian natsuki_eventtres_bd3c0256:
 translate ukrainian natsuki_eventtres_ab95c98e:
 
     # na "Scissors!"
-    na "Scissors!"
+    na "Scissors!" with vpunch
 
 # game/game/natsuki_events.rpy:961
 translate ukrainian natsuki_eventtres_0c7f2035:
@@ -2313,7 +2313,7 @@ translate ukrainian natsuki_eventtres_e8f68742:
 translate ukrainian natsuki_eventtres_7092b6e3:
 
     # na "Fuaaahaaa~~"
-    na "Fuaaahaaa~~"
+    na "Fuaaahaaa~~" with hpunch
 
 # game/game/natsuki_events.rpy:972
 translate ukrainian natsuki_eventtres_7187803b:
@@ -2571,7 +2571,7 @@ translate ukrainian natsuki_eventcuatro_4596183a:
 translate ukrainian natsuki_eventcuatro_b1ab9d79:
 
     # na "{size=-10}Hicc~~"
-    na "{size=-10}Hicc~~"
+    na "{size=-10}Hicc~~" with vpunch
 
 # game/game/natsuki_events.rpy:1059
 translate ukrainian natsuki_eventcuatro_5c4fc667:
@@ -2601,7 +2601,7 @@ translate ukrainian natsuki_eventcuatro_b55634e2:
 translate ukrainian natsuki_eventcuatro_87abe513:
 
     # na "Yaay!~"
-    na "Yaay!~"
+    na "Yaay!~" with hpunch
 
 # game/game/natsuki_events.rpy:1066
 translate ukrainian natsuki_eventcuatro_2b35b6fe:
@@ -2691,7 +2691,7 @@ translate ukrainian natsuki_eventcuatro_86d1bc42:
 translate ukrainian natsuki_eventcuatro_bbe34745:
 
     # na "Let's play!"
-    na "Let's play!"
+    na "Let's play!" with vpunch
 
 # game/game/natsuki_events.rpy:1088
 translate ukrainian natsuki_eventcuatro_11455b53:
@@ -2733,7 +2733,7 @@ translate ukrainian natsuki_eventcuatro_83ece25f:
 translate ukrainian natsuki_eventcuatro_341cf88b:
 
     # mc "Wait!"
-    mc "Wait!"
+    mc "Wait!" with vpunch
 
 # game/game/natsuki_events.rpy:1199
 translate ukrainian nat_rpsvari_7bfd6c6d:
@@ -2817,25 +2817,25 @@ translate ukrainian nat_rpsvari_2bb61380:
 translate ukrainian nat_rpsvari_8edb70d5:
 
     # na "Cheers!!!"
-    na "Cheers!!!"
+    na "Cheers!!!" with hpunch
 
 # game/game/natsuki_events.rpy:1234
 translate ukrainian nat_rpsvari_54175d49:
 
     # na "Kampai!!"
-    na "Kampai!!"
+    na "Kampai!!" with hpunch
 
 # game/game/natsuki_events.rpy:1238
 translate ukrainian nat_rpsvari_5b16871a:
 
     # na "To the bottom!!"
-    na "To the bottom!!"
+    na "To the bottom!!" with hpunch
 
 # game/game/natsuki_events.rpy:1242
 translate ukrainian nat_rpsvari_34d84921:
 
     # na "There should be nothing left!"
-    na "There should be nothing left!"
+    na "There should be nothing left!" with hpunch
 
 # game/game/natsuki_events.rpy:1245
 translate ukrainian nat_rpsvari_474bedfd:
@@ -2961,25 +2961,25 @@ translate ukrainian nat_rpsvari_2bf65059:
 translate ukrainian nat_rpsvari_8edb70d5_1:
 
     # na "Cheers!!!"
-    na "Cheers!!!"
+    na "Cheers!!!" with hpunch
 
 # game/game/natsuki_events.rpy:1310
 translate ukrainian nat_rpsvari_54175d49_1:
 
     # na "Kampai!!"
-    na "Kampai!!"
+    na "Kampai!!" with hpunch
 
 # game/game/natsuki_events.rpy:1314
 translate ukrainian nat_rpsvari_5b16871a_1:
 
     # na "To the bottom!!"
-    na "To the bottom!!"
+    na "To the bottom!!" with hpunch
 
 # game/game/natsuki_events.rpy:1318
 translate ukrainian nat_rpsvari_34d84921_1:
 
     # na "There should be nothing left!"
-    na "There should be nothing left!"
+    na "There should be nothing left!" with hpunch
 
 # game/game/natsuki_events.rpy:1321
 translate ukrainian nat_rpsvari_a5c1dda2:
@@ -3093,25 +3093,25 @@ translate ukrainian nat_rpsvari_2bf65059_1:
 translate ukrainian nat_rpsvari_8edb70d5_2:
 
     # na "Cheers!!!"
-    na "Cheers!!!"
+    na "Cheers!!!" with hpunch
 
 # game/game/natsuki_events.rpy:1381
 translate ukrainian nat_rpsvari_54175d49_2:
 
     # na "Kampai!!"
-    na "Kampai!!"
+    na "Kampai!!" with hpunch
 
 # game/game/natsuki_events.rpy:1385
 translate ukrainian nat_rpsvari_5b16871a_2:
 
     # na "To the bottom!!"
-    na "To the bottom!!"
+    na "To the bottom!!" with hpunch
 
 # game/game/natsuki_events.rpy:1389
 translate ukrainian nat_rpsvari_34d84921_2:
 
     # na "There should be nothing left!"
-    na "There should be nothing left!"
+    na "There should be nothing left!" with hpunch
 
 # game/game/natsuki_events.rpy:1402
 translate ukrainian nat_clothes_b966c03d:
@@ -3279,7 +3279,7 @@ translate ukrainian mc_lose_naked_80a837ac:
 translate ukrainian mc_draw_beer_0a6462c2:
 
     # mc "Gwagh~~"
-    mc "Gwagh~~"
+    mc "Gwagh~~" with hpunch
 
 # game/game/natsuki_events.rpy:1480
 translate ukrainian mc_draw_beer_8bf29a3a:
@@ -3321,7 +3321,7 @@ translate ukrainian natsuki_lose_rps_9f105110:
 translate ukrainian natsuki_lose_rps_44c439e2:
 
     # na "How is this possible!"
-    na "How is this possible!"
+    na "How is this possible!" with vpunch
 
 # game/game/natsuki_events.rpy:1507
 translate ukrainian natsuki_lose_rps_f4453fad:
@@ -3423,7 +3423,7 @@ translate ukrainian natsuki_lose_rps_0c7f2035_1:
 translate ukrainian natsuki_lose_rps_eb861028:
 
     # mc "...!!"
-    mc "...!!"
+    mc "...!!" with vpunch
 
 # game/game/natsuki_events.rpy:1535
 translate ukrainian natsuki_lose_rps_a539900b:
@@ -3525,7 +3525,7 @@ translate ukrainian natsuki_lose_rps_3ee29d4a:
 translate ukrainian natsuki_lose_rps_fdf21e80:
 
     # mc "Natsuki!"
-    mc "Natsuki!"
+    mc "Natsuki!" with vpunch
 
 # game/game/natsuki_events.rpy:1561
 translate ukrainian natsuki_lose_rps_1901d5fa:
@@ -3561,7 +3561,7 @@ translate ukrainian natsuki_lose_rps_ca809672:
 translate ukrainian natsuki_lose_rps_9c489ad7:
 
     # mc "Don't talk nonsense! {w}My body is reacting to your beauty!"
-    mc "Don't talk nonsense! {w}My body is reacting to your beauty!"
+    mc "Don't talk nonsense! {w}My body is reacting to your beauty!" with hpunch
 
 # game/game/natsuki_events.rpy:1570
 translate ukrainian natsuki_lose_rps_17318071:
@@ -3639,7 +3639,7 @@ translate ukrainian nat_gal1_d10ccd27:
 translate ukrainian nat_gal1_978029f0:
 
     # t "They're very soft!"
-    t "They're very soft!"
+    t "They're very soft!" with vpunch
 
 # game/game/natsuki_events.rpy:1592
 translate ukrainian nat_gal1_4c006c13:
@@ -3801,7 +3801,7 @@ translate ukrainian nat_gal1_7c2b57e0:
 translate ukrainian nat_gal1_9cbebe45:
 
     # mc "What man would just watch you undress, stand still and do nothing!"
-    mc "What man would just watch you undress, stand still and do nothing!"
+    mc "What man would just watch you undress, stand still and do nothing!" with vpunch
 
 # game/game/natsuki_events.rpy:1627
 translate ukrainian nat_gal1_2edb0d50:
@@ -3861,7 +3861,7 @@ translate ukrainian nat_gal1_06ab69dc:
 translate ukrainian nat_gal1_55e9554e:
 
     # "You bite her"
-    "You bite her"
+    "You bite her" with vpunch
 
 # game/game/natsuki_events.rpy:1638
 translate ukrainian nat_gal1_865e940b:
@@ -3927,7 +3927,7 @@ translate ukrainian nat_gal1_13082cd0:
 translate ukrainian nat_gal1_0d8f5831:
 
     # na "AAaaahnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    na "AAaaahnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    na "AAaaahnmn~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/natsuki_events.rpy:1656
 translate ukrainian nat_gal1_173c2bae:
@@ -4047,7 +4047,7 @@ translate ukrainian nat_gal1_cc04947e:
 translate ukrainian nat_gal1_1404512f:
 
     # na "Gghnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Yes, yes, don't stop...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}m-moving~~{image=/bg/icons/heart_text.png}"
-    na "Gghnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Yes, yes, don't stop...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}m-moving~~{image=/bg/icons/heart_text.png}"
+    na "Gghnm~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Yes, yes, don't stop...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}m-moving~~{image=/bg/icons/heart_text.png}" with flash
 
 # game/game/natsuki_events.rpy:1679
 translate ukrainian nat_gal1_39cd7f91:
@@ -4101,19 +4101,19 @@ translate ukrainian nat_gal1_808348a2:
 translate ukrainian nat_gal1_958d6c3a:
 
     # mc "I'm cumming!!!"
-    mc "I'm cumming!!!"
+    mc "I'm cumming!!!" with vpunch
 
 # game/game/natsuki_events.rpy:1696
 translate ukrainian nat_gal1_52bb8ef1:
 
     # na "AaAanmnhhh~~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    na "AaAanmnhhh~~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    na "AaAanmnhhh~~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with flash
 
 # game/game/natsuki_events.rpy:1698
 translate ukrainian nat_gal1_97965c5d:
 
     # na "Aagghnmm~~{image=/bg/icons/heart_text.png}"
-    na "Aagghnmm~~{image=/bg/icons/heart_text.png}"
+    na "Aagghnmm~~{image=/bg/icons/heart_text.png}" with flash
 
 # game/game/natsuki_events.rpy:1700
 translate ukrainian nat_gal1_f3a85037:
@@ -4125,7 +4125,7 @@ translate ukrainian nat_gal1_f3a85037:
 translate ukrainian nat_gal1_c40f0f42:
 
     # na "Maa... aa...ah~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    na "Maa... aa...ah~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    na "Maa... aa...ah~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/natsuki_events.rpy:1703
 translate ukrainian nat_gal1_269dc1be:
@@ -4299,7 +4299,7 @@ translate ukrainian nat_gal1_2b35b6fe_4:
 translate ukrainian nat_gal1_01a02563:
 
     # mc "You didn't wear your skirt?!"
-    mc "You didn't wear your skirt?!"
+    mc "You didn't wear your skirt?!" with vpunch
 
 # game/game/natsuki_events.rpy:1760
 translate ukrainian nat_gal1_f2697c34:
@@ -4341,7 +4341,7 @@ translate ukrainian nat_rep_first_8f244109:
 translate ukrainian nat_rep_first_03c96378:
 
     # na "It looks like you can see what I'm going to choose!"
-    na "It looks like you can see what I'm going to choose!"
+    na "It looks like you can see what I'm going to choose!" with vpunch
 
 # game/game/natsuki_events.rpy:1790
 translate ukrainian nat_rep_first_2b35b6fe:
@@ -4443,7 +4443,7 @@ translate ukrainian nat_rep_first_45a5343f:
 translate ukrainian nat_rep_first_fdf21e80:
 
     # mc "Natsuki!"
-    mc "Natsuki!"
+    mc "Natsuki!" with vpunch
 
 # game/game/natsuki_events.rpy:1823
 translate ukrainian nat_rep_first_5a30486c:
@@ -4695,7 +4695,7 @@ translate ukrainian nat_rep_first_260898c8:
 translate ukrainian nat_rep_first_3cfc0058:
 
     # na "Hanmnm~~{image=/bg/icons/heart_text.png} {w}[mc]~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}is growing even more?..{image=/bg/icons/heart_text.png}"
-    na "Hanmnm~~{image=/bg/icons/heart_text.png} {w}[mc]~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}is growing even more?..{image=/bg/icons/heart_text.png}"
+    na "Hanmnm~~{image=/bg/icons/heart_text.png} {w}[mc]~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}is growing even more?..{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/natsuki_events.rpy:1878
 translate ukrainian nat_rep_first_49a99d37:
@@ -4743,13 +4743,13 @@ translate ukrainian nat_rep_first_126c5c5b:
 translate ukrainian nat_rep_first_6a1acf8c:
 
     # na "[mc]!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}I-I just came...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}feels very good~~{image=/bg/icons/heart_text.png}"
-    na "[mc]!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}I-I just came...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}feels very good~~{image=/bg/icons/heart_text.png}"
+    na "[mc]!~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}I-I just came...{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}feels very good~~{image=/bg/icons/heart_text.png}" with cumflash
 
 # game/game/natsuki_events.rpy:1887
 translate ukrainian nat_rep_first_53309b21:
 
     # mc "Natsuki!"
-    mc "Natsuki!"
+    mc "Natsuki!" with hpunch
 
 # game/game/natsuki_events.rpy:1889
 translate ukrainian nat_rep_first_e55dea40:
@@ -4773,7 +4773,7 @@ translate ukrainian nat_rep_first_f5f52ece:
 translate ukrainian nat_rep_first_99663e3f:
 
     # na "[mc] I can't take it anymore!~{image=/bg/icons/heart_text.png} I'm cumming again!"
-    na "[mc] I can't take it anymore!~{image=/bg/icons/heart_text.png} I'm cumming again!"
+    na "[mc] I can't take it anymore!~{image=/bg/icons/heart_text.png} I'm cumming again!" with vpunch
 
 # game/game/natsuki_events.rpy:1893
 translate ukrainian nat_rep_first_a9013ed7:
@@ -4791,19 +4791,19 @@ translate ukrainian nat_rep_first_c3fb0641:
 translate ukrainian nat_rep_first_958d6c3a:
 
     # mc "I'm cumming!!!"
-    mc "I'm cumming!!!"
+    mc "I'm cumming!!!" with vpunch
 
 # game/game/natsuki_events.rpy:1903
 translate ukrainian nat_rep_first_cdacf2d4:
 
     # na "Huuuiiiaaaanhmn~~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
-    na "Huuuiiiaaaanhmn~~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}"
+    na "Huuuiiiaaaanhmn~~~~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with flash
 
 # game/game/natsuki_events.rpy:1905
 translate ukrainian nat_rep_first_97965c5d:
 
     # na "Aagghnmm~~{image=/bg/icons/heart_text.png}"
-    na "Aagghnmm~~{image=/bg/icons/heart_text.png}"
+    na "Aagghnmm~~{image=/bg/icons/heart_text.png}" with flash
 
 # game/game/natsuki_events.rpy:1907
 translate ukrainian nat_rep_first_2f44cc0e:
@@ -5037,7 +5037,7 @@ translate ukrainian new_adventurer_4c2a56f7:
 translate ukrainian new_adventurer_e459e9ba:
 
     # mc "Pff... {w}Special? Nah... {w}Haha ha!..."
-    mc "Pff... {w}Special? Nah... {w}Haha ha!..."
+    mc "Pff... {w}Special? Nah... {w}Haha ha!..." with vpunch
 
 # game/game/natsuki_events.rpy:1992
 translate ukrainian new_adventurer_4adb85f7:
@@ -5595,7 +5595,7 @@ translate ukrainian new_adventurer_e875bb82:
 translate ukrainian new_adventurer_1b135664:
 
     # mc "D-Datsugi?!"
-    mc "D-Datsugi?!"
+    mc "D-Datsugi?!" with vpunch
 
 # game/game/natsuki_events.rpy:2142
 translate ukrainian new_adventurer_2dfde519:
@@ -5691,7 +5691,7 @@ translate ukrainian new_adventurer_227dc7ec:
 translate ukrainian new_adventurer_519deef4:
 
     # mc "Of what?!"
-    mc "Of what?!"
+    mc "Of what?!" with vpunch
 
 # game/game/natsuki_events.rpy:2166
 translate ukrainian new_adventurer_5381b5cc:
@@ -5835,7 +5835,7 @@ translate ukrainian new_adventurer_2b35b6fe:
 translate ukrainian new_adventurer_f3d7758e:
 
     # t "Isn't this dangerous for me?!"
-    t "Isn't this dangerous for me?!"
+    t "Isn't this dangerous for me?!" with hpunch
 
 # game/game/natsuki_events.rpy:2200
 translate ukrainian new_adventurer_fd0c090d:
@@ -5985,7 +5985,7 @@ translate ukrainian new_adventurer_2b35b6fe_2:
 translate ukrainian new_adventurer_9dfe4a03:
 
     # mc "What!?"
-    mc "What!?"
+    mc "What!?" with hpunch
 
 # game/game/natsuki_events.rpy:2240
 translate ukrainian new_adventurer_5ba95100:
@@ -5997,7 +5997,7 @@ translate ukrainian new_adventurer_5ba95100:
 translate ukrainian new_adventurer_5ed37943:
 
     # ir "Really, {w}it says that, {w}read it for yourself!"
-    ir "Really, {w}it says that, {w}read it for yourself!"
+    ir "Really, {w}it says that, {w}read it for yourself!" with vpunch
 
 # game/game/natsuki_events.rpy:2242
 translate ukrainian new_adventurer_77e405e6:
@@ -6201,7 +6201,7 @@ translate ukrainian new_adventurer_ed6d40d5:
 translate ukrainian new_adventurer_b10e7300:
 
     # mc "But with what?!"
-    mc "But with what?!"
+    mc "But with what?!" with hpunch
 
 # game/game/natsuki_events.rpy:2297
 translate ukrainian new_adventurer_a2fd4972:
@@ -6327,7 +6327,7 @@ translate ukrainian new_adventurer_8a608d9d:
 translate ukrainian new_adventurer_321fd371:
 
     # sa "[mc]!"
-    sa "[mc]!"
+    sa "[mc]!" with vpunch
 
 # game/game/natsuki_events.rpy:2329
 translate ukrainian new_adventurer_e3d010a2:
@@ -6399,7 +6399,7 @@ translate ukrainian new_adventurer_12192a12:
 translate ukrainian new_adventurer_b0f4e6be:
 
     # mc "Stop studying me!"
-    mc "Stop studying me!"
+    mc "Stop studying me!" with vpunch
 
 # game/game/natsuki_events.rpy:2347
 translate ukrainian new_adventurer_d4116713:
@@ -6627,7 +6627,7 @@ translate ukrainian new_adventurer_93791243:
 translate ukrainian new_adventurer_77a8e6bc:
 
     # na "Ahem*"
-    na "Ahem*"
+    na "Ahem*" with vpunch
 
 # game/game/natsuki_events.rpy:2400
 translate ukrainian new_adventurer_df3f6720:
@@ -6645,7 +6645,7 @@ translate ukrainian new_adventurer_20454848:
 translate ukrainian new_adventurer_64a207b9:
 
     # yum "Snooooooring*"
-    yum "Snooooooring*"
+    yum "Snooooooring*" with hpunch
 
 # game/game/natsuki_events.rpy:2405
 translate ukrainian new_adventurer_3864a381:
@@ -6675,7 +6675,7 @@ translate ukrainian new_adventurer_48d004e3:
 translate ukrainian new_adventurer_4030abe0:
 
     # ev "Pachi~ pachi~ pachi~"
-    ev "Pachi~ pachi~ pachi~"
+    ev "Pachi~ pachi~ pachi~" with vpunch
 
 # game/game/natsuki_events.rpy:2412
 translate ukrainian new_adventurer_92b3bbc3:
@@ -6693,7 +6693,7 @@ translate ukrainian new_adventurer_4bd4cc66:
 translate ukrainian new_adventurer_0cac70cc:
 
     # yum "SnOooOooriNg*"
-    yum "SnOooOooriNg*"
+    yum "SnOooOooriNg*" with vpunch
 
 # game/game/natsuki_events.rpy:2417
 translate ukrainian new_adventurer_9db2b982:
@@ -6717,7 +6717,7 @@ translate ukrainian new_adventurer_48d004e3_1:
 translate ukrainian new_adventurer_4030abe0_1:
 
     # ev "Pachi~ pachi~ pachi~"
-    ev "Pachi~ pachi~ pachi~"
+    ev "Pachi~ pachi~ pachi~" with vpunch
 
 # game/game/natsuki_events.rpy:2423
 translate ukrainian new_adventurer_2a64f2cf:
@@ -6759,19 +6759,19 @@ translate ukrainian new_adventurer_4dd4cc82:
 translate ukrainian new_adventurer_9d9be8e1:
 
     # yum "SNOOOOR-"
-    yum "SNOOOOR-"
+    yum "SNOOOOR-" with hpunch
 
 # game/game/natsuki_events.rpy:2435
 translate ukrainian new_adventurer_2a6fc1cc:
 
     # ao "Hmn!"
-    ao "Hmn!"
+    ao "Hmn!" with vpunch
 
 # game/game/natsuki_events.rpy:2438
 translate ukrainian new_adventurer_f1074f61:
 
     # yum "Uagh!"
-    yum "Uagh!"
+    yum "Uagh!" with hpunch
 
 # game/game/natsuki_events.rpy:2439
 translate ukrainian new_adventurer_a20cefa7_1:
@@ -6789,7 +6789,7 @@ translate ukrainian new_adventurer_74bd934b:
 translate ukrainian new_adventurer_1b9fab71:
 
     # t "Hey!"
-    t "Hey!"
+    t "Hey!" with hpunch
 
 # game/game/natsuki_events.rpy:2444
 translate ukrainian new_adventurer_fecec734:
@@ -6843,7 +6843,7 @@ translate ukrainian new_adventurer_6295d981:
 translate ukrainian new_adventurer_ab2ebd6c:
 
     # ev "Yes!"
-    ev "Yes!"
+    ev "Yes!" with hpunch
 
 # game/game/natsuki_events.rpy:2459
 translate ukrainian new_adventurer_7aada16d:
@@ -6963,7 +6963,7 @@ translate ukrainian new_adventurer_2b35b6fe_5:
 translate ukrainian new_adventurer_fb880d32:
 
     # "BARK*"
-    "BARK*"
+    "BARK*" with hpunch
 
 # game/game/natsuki_events.rpy:2488
 translate ukrainian new_adventurer_966152ec:
@@ -7029,7 +7029,7 @@ translate ukrainian new_adventurer_99ed3d00:
 translate ukrainian new_adventurer_857303a1:
 
     # "BoOrk~"
-    "BoOrk~"
+    "BoOrk~" with hpunch
 
 # game/game/natsuki_events.rpy:2512
 translate ukrainian new_adventurer_aa620b0e:
@@ -7083,7 +7083,7 @@ translate ukrainian new_adventurer_0ac251bf:
 translate ukrainian new_adventurer_9c3cc31c:
 
     # mc "Here we go... {w}Hmmp*"
-    mc "Here we go... {w}Hmmp*"
+    mc "Here we go... {w}Hmmp*" with vpunch
 
 # game/game/natsuki_events.rpy:2526
 translate ukrainian new_adventurer_4a1f71e1:
@@ -7167,7 +7167,7 @@ translate ukrainian nat_eventcinco_38161eb6:
 translate ukrainian nat_eventcinco_c01d94f5:
 
     # mc "Hey! {w}Natsuki!"
-    mc "Hey! {w}Natsuki!"
+    mc "Hey! {w}Natsuki!" with vpunch
 
 # game/game/natsuki_events.rpy:2575
 translate ukrainian nat_eventcinco_1c0ce241:
@@ -7263,13 +7263,13 @@ translate ukrainian nat_eventcinco_ba9fd237:
 translate ukrainian nat_eventcinco_55ba7a4e:
 
     # na "[mc]!?!?"
-    na "[mc]!?!?"
+    na "[mc]!?!?" with vpunch
 
 # game/game/natsuki_events.rpy:2613
 translate ukrainian nat_eventcinco_addaaab3:
 
     # mc "I'm truly sorry!"
-    mc "I'm truly sorry!"
+    mc "I'm truly sorry!" with hpunch
 
 # game/game/natsuki_events.rpy:2614
 translate ukrainian nat_eventcinco_d32d822e:
@@ -7581,7 +7581,7 @@ translate ukrainian nat_eventcinco_a298d6ff:
 translate ukrainian nat_eventcinco_50b90500:
 
     # na "N-No, {w}I didn't mean it that way! {w}Iosh~ Iosh~"
-    na "N-No, {w}I didn't mean it that way! {w}Iosh~ Iosh~"
+    na "N-No, {w}I didn't mean it that way! {w}Iosh~ Iosh~" with vpunch
 
 # game/game/natsuki_events.rpy:2696
 translate ukrainian nat_eventcinco_050f3ab5_2:
@@ -7941,7 +7941,7 @@ translate ukrainian nat_eventcinco_41454d08:
 translate ukrainian nat_eventcinco_a1a692a0:
 
     # t "I did not solve any of the doubts I wanted to solve!"
-    t "I did not solve any of the doubts I wanted to solve!"
+    t "I did not solve any of the doubts I wanted to solve!" with vpunch
 
 # game/game/natsuki_events.rpy:2792
 translate ukrainian nat_eventcinco_6c01934d:
@@ -7959,7 +7959,7 @@ translate ukrainian nat_eventcinco_c1ef1f6c:
 translate ukrainian nat_eventseis_a8bb2d68:
 
     # r "Yes!"
-    r "Yes!"
+    r "Yes!" with hpunch
 
 # game/game/natsuki_events.rpy:2805
 translate ukrainian nat_eventseis_d8fa1df7:
@@ -8013,7 +8013,7 @@ translate ukrainian nat_eventseis_f4efcab5:
 translate ukrainian nat_eventseis_965e5113:
 
     # r "Natsuki!?"
-    r "Natsuki!?"
+    r "Natsuki!?" with vpunch
 
 # game/game/natsuki_events.rpy:2821
 translate ukrainian nat_eventseis_b7eac762:
@@ -8133,7 +8133,7 @@ translate ukrainian nat_eventseis_b11fcc0f:
 translate ukrainian nat_eventseis_22f646ad:
 
     # r "Thank you!~"
-    r "Thank you!~"
+    r "Thank you!~" with vpunch
 
 # game/game/natsuki_events.rpy:2861
 translate ukrainian nat_eventseis_4c6bd4b9:
@@ -8163,13 +8163,13 @@ translate ukrainian nat_eventseis_5119e8cf:
 translate ukrainian nat_eventseis_1f42768d:
 
     # mc "W-What? {w}Pff~ {w}But I brought her here myself."
-    mc "W-What? {w}Pff~ {w}But I brought her here myself."
+    mc "W-What? {w}Pff~ {w}But I brought her here myself." with vpunch
 
 # game/game/natsuki_events.rpy:2869
 translate ukrainian nat_eventseis_b4d103c9:
 
     # mc "I wouldn't be jealous of that {w}Haha!"
-    mc "I wouldn't be jealous of that {w}Haha!"
+    mc "I wouldn't be jealous of that {w}Haha!" with vpunch
 
 # game/game/natsuki_events.rpy:2871
 translate ukrainian nat_eventseis_440214c2:
@@ -8367,7 +8367,7 @@ translate ukrainian nat_eventseis_71c8f39d:
 translate ukrainian nat_eventseis_4842cd55:
 
     # na "Eating a lot and drinking like there's no tomorrow!"
-    na "Eating a lot and drinking like there's no tomorrow!"
+    na "Eating a lot and drinking like there's no tomorrow!" with vpunch
 
 # game/game/natsuki_events.rpy:2944
 translate ukrainian nat_eventseis_59588287:
@@ -8379,7 +8379,7 @@ translate ukrainian nat_eventseis_59588287:
 translate ukrainian nat_eventseis_c41da672:
 
     # mc "What are you teaching Ryoko!?"
-    mc "What are you teaching Ryoko!?"
+    mc "What are you teaching Ryoko!?" with hpunch
 
 # game/game/natsuki_events.rpy:2947
 translate ukrainian nat_eventseis_48494f93:
@@ -8499,7 +8499,7 @@ translate ukrainian nat_eventseis_29532dbf:
 translate ukrainian nat_eventseis_913daec5:
 
     # na "It's the least that could have happened to be able to talk to you today!"
-    na "It's the least that could have happened to be able to talk to you today!"
+    na "It's the least that could have happened to be able to talk to you today!" with vpunch
 
 # game/game/natsuki_events.rpy:2977
 translate ukrainian nat_eventseis_8cffff6a:
@@ -8553,7 +8553,7 @@ translate ukrainian nat_eventseis_57a48cad:
 translate ukrainian nat_eventseis_c30ea4c9:
 
     # r "Are you already an adventurer, Master!?"
-    r "Are you already an adventurer, Master!?"
+    r "Are you already an adventurer, Master!?" with vpunch
 
 # game/game/natsuki_events.rpy:2990
 translate ukrainian nat_eventseis_00af9298:
@@ -8565,7 +8565,7 @@ translate ukrainian nat_eventseis_00af9298:
 translate ukrainian nat_eventseis_8473baf8:
 
     # r "Can I see it?"
-    r "Can I see it?"
+    r "Can I see it?" with vpunch
 
 # game/game/natsuki_events.rpy:2994
 translate ukrainian nat_eventseis_8b6cff18:
@@ -8577,7 +8577,7 @@ translate ukrainian nat_eventseis_8b6cff18:
 translate ukrainian nat_eventseis_eaa6f698:
 
     # r "Wooah!"
-    r "Wooah!"
+    r "Wooah!" with hpunch
 
 # game/game/natsuki_events.rpy:2996
 translate ukrainian nat_eventseis_bf98cb9d:
@@ -8709,7 +8709,7 @@ translate ukrainian nat_eventseis_93291b6b:
 translate ukrainian nat_eventseis_308e72d7:
 
     # na "Ryoko! {w}It's time for me to teach you something important!"
-    na "Ryoko! {w}It's time for me to teach you something important!"
+    na "Ryoko! {w}It's time for me to teach you something important!" with vpunch
 
 # game/game/natsuki_events.rpy:3027
 translate ukrainian nat_eventseis_79f08707:
@@ -8727,13 +8727,13 @@ translate ukrainian nat_eventseis_548404e1:
 translate ukrainian nat_eventseis_67dfe83d:
 
     # na "I'll show you how a girl should drink!"
-    na "I'll show you how a girl should drink!"
+    na "I'll show you how a girl should drink!" with hpunch
 
 # game/game/natsuki_events.rpy:3031
 translate ukrainian nat_eventseis_fd5d103c:
 
     # mc "Don't teach her those things!"
-    mc "Don't teach her those things!"
+    mc "Don't teach her those things!" with vpunch
 
 # game/game/natsuki_events.rpy:3033
 translate ukrainian nat_eventseis_7b642b9f:
@@ -8757,7 +8757,7 @@ translate ukrainian nat_eventseis_2b35b6fe_3:
 translate ukrainian nat_eventseis_3b3c55cd:
 
     # mc "Get out of my head!"
-    mc "Get out of my head!"
+    mc "Get out of my head!" with hpunch
 
 # game/game/natsuki_events.rpy:3039
 translate ukrainian nat_eventseis_cc74ad4b:
@@ -8781,7 +8781,7 @@ translate ukrainian nat_eventseis_991c983a:
 translate ukrainian nat_eventseis_0a763d9c:
 
     # r "BOYF-?"
-    r "BOYF-?"
+    r "BOYF-?" with hpunch
 
 # game/game/natsuki_events.rpy:3046
 translate ukrainian nat_eventseis_8d435d98:
@@ -8841,7 +8841,7 @@ translate ukrainian nat_eventseis_ee16d7af:
 translate ukrainian nat_eventseis_bfff8579:
 
     # na "It's a joke! {w}It's too early!"
-    na "It's a joke! {w}It's too early!"
+    na "It's a joke! {w}It's too early!" with vpunch
 
 # game/game/natsuki_events.rpy:3061
 translate ukrainian nat_eventseis_320c8b8c:
@@ -8895,7 +8895,7 @@ translate ukrainian nat_eventseis_da49274e:
 translate ukrainian nat_eventseis_94cb3ce2:
 
     # na "Well, it's working."
-    na "Well, it's working."
+    na "Well, it's working." with vpunch
 
 # game/game/natsuki_events.rpy:3073
 translate ukrainian nat_eventseis_5248a3df:
@@ -9213,7 +9213,7 @@ translate ukrainian nat_gal2_c13bafb9:
 translate ukrainian nat_gal2_4c9da5a9:
 
     # na "Maah!~"
-    na "Maah!~"
+    na "Maah!~" with vpunch
 
 # game/game/natsuki_events.rpy:3180
 translate ukrainian nat_gal2_fe37ab32:
@@ -9345,7 +9345,7 @@ translate ukrainian nat_gal2_7c66d83e:
 translate ukrainian nat_gal2_4c410c1b:
 
     # na "Ghnm~"
-    na "Ghnm~"
+    na "Ghnm~" with cumflash
 
 # game/game/natsuki_events.rpy:3212
 translate ukrainian nat_gal2_f34b00ec:
@@ -9459,7 +9459,7 @@ translate ukrainian nat_gal2_3ee29d4a:
 translate ukrainian nat_gal2_93b236af:
 
     # na "Are you taking off your clothes?!"
-    na "Are you taking off your clothes?!"
+    na "Are you taking off your clothes?!" with vpunch
 
 # game/game/natsuki_events.rpy:3236
 translate ukrainian nat_gal2_2b35b6fe_3:
@@ -9549,7 +9549,7 @@ translate ukrainian nat_gal2_0c7f2035_1:
 translate ukrainian nat_gal2_929017ab:
 
     # na "AAhhhnm~~{image=corazon}{image=corazon}{image=corazon} {w}T-The tip has entered... "
-    na "AAhhhnm~~{image=corazon}{image=corazon}{image=corazon} {w}T-The tip has entered... "
+    na "AAhhhnm~~{image=corazon}{image=corazon}{image=corazon} {w}T-The tip has entered... " with vpunch
 
 # game/game/natsuki_events.rpy:3263
 translate ukrainian nat_gal2_b7f1f90c:
@@ -9597,7 +9597,7 @@ translate ukrainian nat_gal2_0bc3a0a3:
 translate ukrainian nat_gal2_83eed64a:
 
     # t "The way her pussy sucks my cock feels incredible!"
-    t "The way her pussy sucks my cock feels incredible!"
+    t "The way her pussy sucks my cock feels incredible!" with vpunch
 
 # game/game/natsuki_events.rpy:3274
 translate ukrainian nat_gal2_48c884ff:
@@ -9639,7 +9639,7 @@ translate ukrainian nat_gal2_91f82c64:
 translate ukrainian nat_gal2_6815ebd6:
 
     # na "HNHMHmnm~~{image=corazon}{image=corazon}{image=corazon}"
-    na "HNHMHmnm~~{image=corazon}{image=corazon}{image=corazon}"
+    na "HNHMHmnm~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/natsuki_events.rpy:3283
 translate ukrainian nat_gal2_4aca067b:
@@ -9687,7 +9687,7 @@ translate ukrainian nat_gal2_7ffe5ff2:
 translate ukrainian nat_gal2_c5608bb4:
 
     # mc "Ghnm!"
-    mc "Ghnm!"
+    mc "Ghnm!" with cumflash
 
 # game/game/natsuki_events.rpy:3291
 translate ukrainian nat_gal2_c7b70d2a:
@@ -9699,19 +9699,19 @@ translate ukrainian nat_gal2_c7b70d2a:
 translate ukrainian nat_gal2_2db322ba:
 
     # t "I don't know what she's doing, but she got tighter!"
-    t "I don't know what she's doing, but she got tighter!"
+    t "I don't know what she's doing, but she got tighter!" with vpunch
 
 # game/game/natsuki_events.rpy:3294
 translate ukrainian nat_gal2_22c62497:
 
     # mc "How intense!"
-    mc "How intense!"
+    mc "How intense!" with vpunch
 
 # game/game/natsuki_events.rpy:3295
 translate ukrainian nat_gal2_bf13e679:
 
     # na "Nmnm~~{image=corazon} {w}I can no longer feel my legs!~{image=corazon} {image=corazon} "
-    na "Nmnm~~{image=corazon} {w}I can no longer feel my legs!~{image=corazon} {image=corazon} "
+    na "Nmnm~~{image=corazon} {w}I can no longer feel my legs!~{image=corazon} {image=corazon} " with cumflash
 
 # game/game/natsuki_events.rpy:3296
 translate ukrainian nat_gal2_24743da9:
@@ -9723,7 +9723,7 @@ translate ukrainian nat_gal2_24743da9:
 translate ukrainian nat_gal2_92f0232a:
 
     # t "She started to move at a steady pace! I can't do it anymore!"
-    t "She started to move at a steady pace! I can't do it anymore!"
+    t "She started to move at a steady pace! I can't do it anymore!" with hpunch
 
 # game/game/natsuki_events.rpy:3298
 translate ukrainian nat_gal2_c69754dd:
@@ -9765,19 +9765,19 @@ translate ukrainian nat_gal2_814f14f4:
 translate ukrainian nat_gal2_47587d65:
 
     # na "[mc]!!"
-    na "[mc]!!"
+    na "[mc]!!" with cumflash
 
 # game/game/natsuki_events.rpy:3311
 translate ukrainian nat_gal2_ee5b717e:
 
     # na "NHhnmhnmNNMN~~~{image=corazon}{image=corazon}{image=corazon}{image=corazon}"
-    na "NHhnmhnmNNMN~~~{image=corazon}{image=corazon}{image=corazon}{image=corazon}"
+    na "NHhnmhnmNNMN~~~{image=corazon}{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/natsuki_events.rpy:3313
 translate ukrainian nat_gal2_7eecafde:
 
     # na "HmhnHNMM~~~{image=corazon}{image=corazon}"
-    na "HmhnHNMM~~~{image=corazon}{image=corazon}"
+    na "HmhnHNMM~~~{image=corazon}{image=corazon}" with hpunch
 
 # game/game/natsuki_events.rpy:3315
 translate ukrainian nat_gal2_f24b29c1:
@@ -9903,7 +9903,7 @@ translate ukrainian natsuki_ryoko_870b15d1:
 translate ukrainian natsuki_ryoko_069b4b94:
 
     # ede "HA HA HA! That's the way to respond!"
-    ede "HA HA HA! That's the way to respond!"
+    ede "HA HA HA! That's the way to respond!" with hpunch
 
 # game/game/natsuki_events.rpy:3375
 translate ukrainian natsuki_ryoko_90ff7daa:
@@ -9951,7 +9951,7 @@ translate ukrainian natsuki_ryoko_cd0ec389:
 translate ukrainian natsuki_ryoko_64dc8822:
 
     # ede "{i}Haaaa~ {w}{size=-5}{i}Burp*"
-    ede "{i}Haaaa~ {w}{size=-5}{i}Burp*"
+    ede "{i}Haaaa~ {w}{size=-5}{i}Burp*" with vpunch
 
 # game/game/natsuki_events.rpy:3387
 translate ukrainian natsuki_ryoko_44b43631:
@@ -10035,7 +10035,7 @@ translate ukrainian natsuki_ryoko_0c47632d:
 translate ukrainian natsuki_ryoko_d99be919:
 
     # r "Natsuki!"
-    r "Natsuki!"
+    r "Natsuki!" with vpunch
 
 # game/game/natsuki_events.rpy:3406
 translate ukrainian natsuki_ryoko_db8fcda4:
@@ -10095,7 +10095,7 @@ translate ukrainian natsuki_ryoko_3e18b5da:
 translate ukrainian natsuki_ryoko_c176a6bc:
 
     # ede "Perfect!"
-    ede "Perfect!"
+    ede "Perfect!" with hpunch
 
 # game/game/natsuki_events.rpy:3419
 translate ukrainian natsuki_ryoko_bb6823d6:
@@ -10113,7 +10113,7 @@ translate ukrainian natsuki_ryoko_c55297c4:
 translate ukrainian natsuki_ryoko_41d7f05b:
 
     # ede "HA HA HA!~"
-    ede "HA HA HA!~"
+    ede "HA HA HA!~" with vpunch
 
 # game/game/natsuki_events.rpy:3426
 translate ukrainian natsuki_ryoko_7883dd41:
@@ -10341,13 +10341,13 @@ translate ukrainian natsuki_ryoko_be625b59:
 translate ukrainian natsuki_ryoko_20031e17:
 
     # na "Hehehe~"
-    na "Hehehe~"
+    na "Hehehe~" (multiple=2)
 
 # game/game/natsuki_events.rpy:3473
 translate ukrainian natsuki_ryoko_a1f3c012:
 
     # mc "Hehehe."
-    mc "Hehehe."
+    mc "Hehehe." (multiple=2)
 
 # game/game/natsuki_events.rpy:3475
 translate ukrainian natsuki_ryoko_2d7e3867:
@@ -10371,7 +10371,7 @@ translate ukrainian natsuki_ryoko_0b79bc55:
 translate ukrainian natsuki_ryoko_68fe82c2:
 
     # na "What?!"
-    na "What?!"
+    na "What?!" with hpunch
 
 # game/game/natsuki_events.rpy:3484
 translate ukrainian natsuki_ryoko_3b8bee41:
@@ -10563,7 +10563,7 @@ translate ukrainian natsuki_ryoko_abe77af3:
 translate ukrainian natsuki_ryoko_3d37a27b:
 
     # r "Mooh~ Master!"
-    r "Mooh~ Master!"
+    r "Mooh~ Master!" with vpunch
 
 # game/game/natsuki_events.rpy:3525
 translate ukrainian natsuki_ryoko_b54294a9:
@@ -10593,13 +10593,13 @@ translate ukrainian natsuki_ryoko_07b81c9c:
 translate ukrainian nat_gal3_738e5b37:
 
     # na "It's my body."
-    na "It's my body."
+    na "It's my body." with vpunch
 
 # game/game/natsuki_events.rpy:3534
 translate ukrainian nat_gal3_8d3e9e69:
 
     # r "Eh!"
-    r "Eh!"
+    r "Eh!" with vpunch
 
 # game/game/natsuki_events.rpy:3535
 translate ukrainian nat_gal3_1f5b224d:
@@ -10611,7 +10611,7 @@ translate ukrainian nat_gal3_1f5b224d:
 translate ukrainian nat_gal3_d74e292d:
 
     # r "But Master says he loves my body!"
-    r "But Master says he loves my body!"
+    r "But Master says he loves my body!" with hpunch
 
 # game/game/natsuki_events.rpy:3538
 translate ukrainian nat_gal3_8d7363a6:
@@ -10671,19 +10671,19 @@ translate ukrainian nat_gal3_0b523521:
 translate ukrainian nat_gal3_50e8377d:
 
     # r "{size=+6}He rubbed his penis on me this morning!"
-    r "{size=+6}He rubbed his penis on me this morning!"
+    r "{size=+6}He rubbed his penis on me this morning!" with hpunch
 
 # game/game/natsuki_events.rpy:3553
 translate ukrainian nat_gal3_8c6cc753:
 
     # na "..."
-    na "..."
+    na "..." (multiple=2)
 
 # game/game/natsuki_events.rpy:3554
 translate ukrainian nat_gal3_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/natsuki_events.rpy:3556
 translate ukrainian nat_gal3_d78bdb95:
@@ -10737,7 +10737,7 @@ translate ukrainian nat_gal3_1d82a7e7:
 translate ukrainian nat_gal3_22a53d30:
 
     # r "...!"
-    r "...!"
+    r "...!" with hpunch
 
 # game/game/natsuki_events.rpy:3571
 translate ukrainian nat_gal3_3e8c2f71:
@@ -10767,19 +10767,19 @@ translate ukrainian nat_gal3_265fbc71:
 translate ukrainian nat_gal3_f63a5558:
 
     # na "Yaay~{image=corazon}"
-    na "Yaay~{image=corazon}"
+    na "Yaay~{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3579
 translate ukrainian nat_gal3_283c2fbe:
 
     # mc "Woah..."
-    mc "Woah..."
+    mc "Woah..." (multiple=2)
 
 # game/game/natsuki_events.rpy:3580
 translate ukrainian nat_gal3_7819a02e:
 
     # r "{size=-6}{i}Gasp*"
-    r "{size=-6}{i}Gasp*"
+    r "{size=-6}{i}Gasp*" with vpunch
 
 # game/game/natsuki_events.rpy:3581
 translate ukrainian nat_gal3_244a0b67:
@@ -10965,7 +10965,7 @@ translate ukrainian nat_gal3_59a4cc60:
 translate ukrainian nat_gal3_12ea5c65:
 
     # r "Uhm! {w}Of course not, actually, I want to do it!"
-    r "Uhm! {w}Of course not, actually, I want to do it!"
+    r "Uhm! {w}Of course not, actually, I want to do it!" with hpunch
 
 # game/game/natsuki_events.rpy:3621
 translate ukrainian nat_gal3_3c1c49e1:
@@ -11055,7 +11055,7 @@ translate ukrainian nat_gal3_2b35b6fe:
 translate ukrainian nat_gal3_c5608bb4:
 
     # mc "Ghnm!"
-    mc "Ghnm!"
+    mc "Ghnm!" with cumflash
 
 # game/game/natsuki_events.rpy:3640
 translate ukrainian nat_gal3_3e562bc8:
@@ -11115,13 +11115,13 @@ translate ukrainian nat_gal3_4c759624:
 translate ukrainian nat_gal3_4e87a476:
 
     # t "Ryoko is teaching Natsuki?!"
-    t "Ryoko is teaching Natsuki?!"
+    t "Ryoko is teaching Natsuki?!" with hpunch
 
 # game/game/natsuki_events.rpy:3650
 translate ukrainian nat_gal3_8814d9d1:
 
     # t "My horniness is at its peak!"
-    t "My horniness is at its peak!"
+    t "My horniness is at its peak!" with vpunch
 
 # game/game/natsuki_events.rpy:3651
 translate ukrainian nat_gal3_c410bb1b:
@@ -11133,7 +11133,7 @@ translate ukrainian nat_gal3_c410bb1b:
 translate ukrainian nat_gal3_ef6becb3:
 
     # mc "Gnhm!?"
-    mc "Gnhm!?"
+    mc "Gnhm!?" with hpunch
 
 # game/game/natsuki_events.rpy:3653
 translate ukrainian nat_gal3_05932274:
@@ -11169,25 +11169,25 @@ translate ukrainian nat_gal3_2b35b6fe_1:
 translate ukrainian nat_gal3_cbe8c99d:
 
     # mc "Gngn!"
-    mc "Gngn!"
+    mc "Gngn!" with hpunch
 
 # game/game/natsuki_events.rpy:3662
 translate ukrainian nat_gal3_a6b44ad0:
 
     # r "HhnNM~{image=corazon}{image=corazon} Aahnm~{image=corazon} Slurrp~{image=corazon}{image=corazon}"
-    r "HhnNM~{image=corazon}{image=corazon} Aahnm~{image=corazon} Slurrp~{image=corazon}{image=corazon}"
+    r "HhnNM~{image=corazon}{image=corazon} Aahnm~{image=corazon} Slurrp~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3663
 translate ukrainian nat_gal3_9a7fe0ea:
 
     # na "GHgnm~{image=corazon} Mgnmn~{image=corazon} AAahnm~{image=corazon}{image=corazon}"
-    na "GHgnm~{image=corazon} Mgnmn~{image=corazon} AAahnm~{image=corazon}{image=corazon}"
+    na "GHgnm~{image=corazon} Mgnmn~{image=corazon} AAahnm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3664
 translate ukrainian nat_gal3_56077701:
 
     # mc "Ladies, this feels too good!!"
-    mc "Ladies, this feels too good!!"
+    mc "Ladies, this feels too good!!" with vpunch
 
 # game/game/natsuki_events.rpy:3665
 translate ukrainian nat_gal3_ee7282ea:
@@ -11217,7 +11217,7 @@ translate ukrainian nat_gal3_93130339:
 translate ukrainian nat_gal3_5233dd0f:
 
     # t "And Natsuki's tongue is inexperienced but she is imitating Ryoko's movements very well!"
-    t "And Natsuki's tongue is inexperienced but she is imitating Ryoko's movements very well!"
+    t "And Natsuki's tongue is inexperienced but she is imitating Ryoko's movements very well!" with cumflash
 
 # game/game/natsuki_events.rpy:3670
 translate ukrainian nat_gal3_509d676e:
@@ -11259,7 +11259,7 @@ translate ukrainian nat_gal3_b81a85b6:
 translate ukrainian nat_gal3_ffa010bf:
 
     # mc "HGngm!"
-    mc "HGngm!"
+    mc "HGngm!" with cumflash
 
 # game/game/natsuki_events.rpy:3678
 translate ukrainian nat_gal3_ef8356ea:
@@ -11319,7 +11319,7 @@ translate ukrainian nat_gal3_7d584f8a:
 translate ukrainian nat_gal3_c9ac45d5:
 
     # mc "I can't take it anymore!"
-    mc "I can't take it anymore!"
+    mc "I can't take it anymore!" with cumflash
 
 # game/game/natsuki_events.rpy:3688
 translate ukrainian nat_gal3_40f952b1:
@@ -11343,31 +11343,31 @@ translate ukrainian nat_gal3_13766de3:
 translate ukrainian nat_gal3_bfd10d70:
 
     # na "Hehehe~{image=corazon}{image=corazon}"
-    na "Hehehe~{image=corazon}{image=corazon}"
+    na "Hehehe~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3692
 translate ukrainian nat_gal3_ae634f56:
 
     # r "Hehehe~{image=corazon}{image=corazon}"
-    r "Hehehe~{image=corazon}{image=corazon}"
+    r "Hehehe~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3694
 translate ukrainian nat_gal3_73b3536d:
 
     # mc "Hhgnm!"
-    mc "Hhgnm!"
+    mc "Hhgnm!" with cumflash
 
 # game/game/natsuki_events.rpy:3695
 translate ukrainian nat_gal3_46289721:
 
     # r "Hnmhmn~{image=corazon}{image=corazon} Aaaanhm~{image=corazon} Slurrp~{image=corazon}{image=corazon}"
-    r "Hnmhmn~{image=corazon}{image=corazon} Aaaanhm~{image=corazon} Slurrp~{image=corazon}{image=corazon}"
+    r "Hnmhmn~{image=corazon}{image=corazon} Aaaanhm~{image=corazon} Slurrp~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3696
 translate ukrainian nat_gal3_918f59e8:
 
     # na "MHNmhm~{image=corazon} Ssuuckk~{image=corazon} GgNmnm~{image=corazon}{image=corazon}"
-    na "MHNmhm~{image=corazon} Ssuuckk~{image=corazon} GgNmnm~{image=corazon}{image=corazon}"
+    na "MHNmhm~{image=corazon} Ssuuckk~{image=corazon} GgNmnm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3697
 translate ukrainian nat_gal3_bb29fff0:
@@ -11379,7 +11379,7 @@ translate ukrainian nat_gal3_bb29fff0:
 translate ukrainian nat_gal3_7f8aab1a:
 
     # t "None of them have stopped licking or sucking my penis!"
-    t "None of them have stopped licking or sucking my penis!"
+    t "None of them have stopped licking or sucking my penis!" with cumflash
 
 # game/game/natsuki_events.rpy:3699
 translate ukrainian nat_gal3_a302da6f:
@@ -11409,7 +11409,7 @@ translate ukrainian nat_gal3_9b71aacd:
 translate ukrainian nat_gal3_e41cac19:
 
     # mc "I can't hold on any longer!"
-    mc "I can't hold on any longer!"
+    mc "I can't hold on any longer!" with hpunch
 
 # game/game/natsuki_events.rpy:3705
 translate ukrainian nat_gal3_14243111:
@@ -11421,13 +11421,13 @@ translate ukrainian nat_gal3_14243111:
 translate ukrainian nat_gal3_de4d40ad:
 
     # mc "I'm cumming!"
-    mc "I'm cumming!"
+    mc "I'm cumming!" with vpunch
 
 # game/game/natsuki_events.rpy:3714
 translate ukrainian nat_gal3_a415e572:
 
     # mc "Ghgn!"
-    mc "Ghgn!"
+    mc "Ghgn!" with vpunch
 
 # game/game/natsuki_events.rpy:3717
 translate ukrainian nat_gal3_1d82a7e7_1:
@@ -11439,7 +11439,7 @@ translate ukrainian nat_gal3_1d82a7e7_1:
 translate ukrainian nat_gal3_71567ddb:
 
     # r "Ghngm!~{image=corazon}{image=corazon}{image=corazon}"
-    r "Ghngm!~{image=corazon}{image=corazon}{image=corazon}"
+    r "Ghngm!~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/natsuki_events.rpy:3721
 translate ukrainian nat_gal3_9a5b7e0d:
@@ -11451,19 +11451,19 @@ translate ukrainian nat_gal3_9a5b7e0d:
 translate ukrainian nat_gal3_aad0bfba:
 
     # na "MHNhm!~~{image=corazon}{image=corazon}{image=corazon}"
-    na "MHNhm!~~{image=corazon}{image=corazon}{image=corazon}"
+    na "MHNhm!~~{image=corazon}{image=corazon}{image=corazon}" with hpunch
 
 # game/game/natsuki_events.rpy:3726
 translate ukrainian nat_gal3_d23a9463:
 
     # r "Haaanm~{image=corazon}{image=corazon}"
-    r "Haaanm~{image=corazon}{image=corazon}"
+    r "Haaanm~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3727
 translate ukrainian nat_gal3_ad8c09c8:
 
     # na "Mhnmgh~{image=corazon}{image=corazon}"
-    na "Mhnmgh~{image=corazon}{image=corazon}"
+    na "Mhnmgh~{image=corazon}{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3728
 translate ukrainian nat_gal3_af54d1d7:
@@ -11481,13 +11481,13 @@ translate ukrainian nat_gal3_756eae64:
 translate ukrainian nat_gal3_0ee39abb:
 
     # na "Gulp~{image=corazon}"
-    na "Gulp~{image=corazon}"
+    na "Gulp~{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3733
 translate ukrainian nat_gal3_c7f5c631:
 
     # r "Gulp~{image=corazon}"
-    r "Gulp~{image=corazon}"
+    r "Gulp~{image=corazon}" (multiple=2)
 
 # game/game/natsuki_events.rpy:3734
 translate ukrainian nat_gal3_c1dff962:
@@ -11559,7 +11559,7 @@ translate ukrainian nat_gal3_29d74ae1:
 translate ukrainian nat_gal3_d0fd1ecc:
 
     # na "Hahaha~ Of course!"
-    na "Hahaha~ Of course!"
+    na "Hahaha~ Of course!" with vpunch
 
 # game/game/natsuki_events.rpy:3767
 translate ukrainian nat_gal3_6330cc0a:
@@ -11625,7 +11625,7 @@ translate ukrainian tablon_open_a45300c2:
 translate ukrainian tablon_open_cad4ed1b:
 
     # na "Hey! {w=0.5}Do you think I would show you missions out of your current rank?"
-    na "Hey! {w=0.5}Do you think I would show you missions out of your current rank?"
+    na "Hey! {w=0.5}Do you think I would show you missions out of your current rank?" with hpunch
 
 # game/game/natsuki_events.rpy:3799
 translate ukrainian tablon_open_e8393f83:
@@ -11871,19 +11871,19 @@ translate ukrainian nat_eventocho_07638be4:
 translate ukrainian nat_eventocho_d49dd3c4:
 
     # na "Shh~ {w}I know you will do it again \nand with more enthusiasm."
-    na "Shh~ {w}I know you will do it again \nand with more enthusiasm."
+    na "Shh~ {w}I know you will do it again \nand with more enthusiasm." (multiple=2)
 
 # game/game/natsuki_events.rpy:3872
 translate ukrainian nat_eventocho_b348e8c2:
 
     # mc "I-"
-    mc "I-"
+    mc "I-" (multiple=2)
 
 # game/game/natsuki_events.rpy:3874
 translate ukrainian nat_eventocho_a4b7e9ed:
 
     # na "Hahaha~{image=corazon}"
-    na "Hahaha~{image=corazon}"
+    na "Hahaha~{image=corazon}" with hpunch
 
 # game/game/natsuki_events.rpy:3875
 translate ukrainian nat_eventocho_592a5ecf:
@@ -12153,7 +12153,7 @@ translate ukrainian nat_eventocho_f788e22d:
 translate ukrainian nat_eventocho_830282b5:
 
     # na "Hahaha~"
-    na "Hahaha~"
+    na "Hahaha~" with hpunch
 
 # game/game/natsuki_events.rpy:3939
 translate ukrainian nat_eventocho_abbbcc9b:
@@ -12609,13 +12609,13 @@ translate ukrainian nat_eventnueve_5e3b47eb:
 translate ukrainian nat_eventnueve_26e05430:
 
     # mc "{size=-6}{i}Hmmp."
-    mc "{size=-6}{i}Hmmp."
+    mc "{size=-6}{i}Hmmp." (multiple=2)
 
 # game/game/natsuki_events.rpy:4064
 translate ukrainian nat_eventnueve_70ceb112:
 
     # na "{sc=2}{outlinecolor=#000000}M-Maaah..."
-    na "{sc=2}{outlinecolor=#000000}M-Maaah..."
+    na "{sc=2}{outlinecolor=#000000}M-Maaah..." (multiple=2)
 
 # game/game/natsuki_events.rpy:4065
 translate ukrainian nat_eventnueve_5a3279d2:
@@ -12831,7 +12831,7 @@ translate ukrainian nat_eventnueve_f6de026f:
 translate ukrainian nat_eventnueve_ffc372c2:
 
     # mc "But-"
-    mc "But-"
+    mc "But-" with hpunch
 
 # game/game/natsuki_events.rpy:4115
 translate ukrainian nat_eventnueve_4a7d4e3f:
@@ -12915,7 +12915,7 @@ translate ukrainian nat_eventnueve_fc2148f9:
 translate ukrainian nat_eventnueve_f5e3ced9:
 
     # na "Me neither! {w}It's just the two of us here, come on."
-    na "Me neither! {w}It's just the two of us here, come on."
+    na "Me neither! {w}It's just the two of us here, come on." with hpunch
 
 # game/game/natsuki_events.rpy:4135
 translate ukrainian nat_eventnueve_aa57323c:
@@ -13179,7 +13179,7 @@ translate ukrainian nat_eventdiez_1f5b224d:
 translate ukrainian nat_eventdiez_da98c262:
 
     # ede "Natsuuuuki~"
-    ede "Natsuuuuki~"
+    ede "Natsuuuuki~" with vpunch
 
 # game/game/natsuki_events.rpy:4232
 translate ukrainian nat_eventdiez_166c560f:
@@ -13233,13 +13233,13 @@ translate ukrainian nat_eventdiez_870b15d1:
 translate ukrainian nat_eventdiez_99e1474c:
 
     # na "Ok! Only one!"
-    na "Ok! Only one!"
+    na "Ok! Only one!" with hpunch
 
 # game/game/natsuki_events.rpy:4257
 translate ukrainian nat_eventdiez_f7317084:
 
     # ede "Wahoo!"
-    ede "Wahoo!"
+    ede "Wahoo!" with hpunch
 
 # game/game/natsuki_events.rpy:4258
 translate ukrainian nat_eventdiez_ba70ef45:
@@ -13371,7 +13371,7 @@ translate ukrainian nat_eventdiez_705919e9:
 translate ukrainian nat_eventdiez_5523f880:
 
     # ede "HAHAHA! {w}{sc=2}{outlinecolor=#000000}Hicupp~"
-    ede "HAHAHA! {w}{sc=2}{outlinecolor=#000000}Hicupp~"
+    ede "HAHAHA! {w}{sc=2}{outlinecolor=#000000}Hicupp~" with hpunch
 
 # game/game/natsuki_events.rpy:4292
 translate ukrainian nat_eventdiez_4ef9095d:
@@ -13461,7 +13461,7 @@ translate ukrainian nat_eventdiez_870b15d1_1:
 translate ukrainian nat_eventdiez_59cc8cdb:
 
     # ede "That was pretty awkward HAHAHA~"
-    ede "That was pretty awkward HAHAHA~"
+    ede "That was pretty awkward HAHAHA~" with hpunch
 
 # game/game/natsuki_events.rpy:4315
 translate ukrainian nat_eventdiez_896b0102:
@@ -13521,13 +13521,13 @@ translate ukrainian nat_eventdiez_5e124947:
 translate ukrainian nat_eventdiez_588ac9c5:
 
     # ede "That's the spirit! {w}Go and finish every missi-"
-    ede "That's the spirit! {w}Go and finish every missi-"
+    ede "That's the spirit! {w}Go and finish every missi-" with hpunch
 
 # game/game/natsuki_events.rpy:4329
 translate ukrainian nat_eventdiez_44124fc0:
 
     # ede "That's it!"
-    ede "That's it!"
+    ede "That's it!" with vpunch
 
 # game/game/natsuki_events.rpy:4330
 translate ukrainian nat_eventdiez_09541c6e:
@@ -13545,7 +13545,7 @@ translate ukrainian nat_eventdiez_9cd8dd2e:
 translate ukrainian nat_eventdiez_f16b1dc2:
 
     # ede "Thanks for the idea Rookie!"
-    ede "Thanks for the idea Rookie!"
+    ede "Thanks for the idea Rookie!" with vpunch
 
 # game/game/natsuki_events.rpy:4334
 translate ukrainian nat_eventdiez_3a57f78d:
@@ -13785,7 +13785,7 @@ translate ukrainian nat_gal4_67a83141:
 translate ukrainian nat_gal4_5b76c8a1:
 
     # mc "J-Just thinking about all the things we have done..."
-    mc "J-Just thinking about all the things we have done..."
+    mc "J-Just thinking about all the things we have done..." with cumflash
 
 # game/game/natsuki_events.rpy:4395
 translate ukrainian nat_gal4_85c8439b:
@@ -13887,7 +13887,7 @@ translate ukrainian nat_gal4_d2959ce9:
 translate ukrainian nat_gal4_ef86e412:
 
     # mc "{sc=1}{outlinecolor=#000000}GgHNMn!"
-    mc "{sc=1}{outlinecolor=#000000}GgHNMn!"
+    mc "{sc=1}{outlinecolor=#000000}GgHNMn!" with hpunch
 
 # game/game/natsuki_events.rpy:4421
 translate ukrainian nat_gal4_5e02303c:
@@ -13995,7 +13995,7 @@ translate ukrainian nat_gal4_de40b81f:
 translate ukrainian nat_gal4_da3889ca:
 
     # na "So hard...{image=corazon} {w}I love it~{image=corazon}{image=corazon}{image=corazon}"
-    na "So hard...{image=corazon} {w}I love it~{image=corazon}{image=corazon}{image=corazon}"
+    na "So hard...{image=corazon} {w}I love it~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/natsuki_events.rpy:4448
 translate ukrainian nat_gal4_aa69b059:
@@ -14013,13 +14013,13 @@ translate ukrainian nat_gal4_bd59b111:
 translate ukrainian nat_gal4_63d02706:
 
     # na "O-Oh no... {w}what am I going to do, {w}I-I'm already going to c-"
-    na "O-Oh no... {w}what am I going to do, {w}I-I'm already going to c-"
+    na "O-Oh no... {w}what am I going to do, {w}I-I'm already going to c-" with cumflash
 
 # game/game/natsuki_events.rpy:4453
 translate ukrainian nat_gal4_bc7e856a:
 
     # na "{sc=3}{outlinecolor=#000000}HNhgmgnmh~{image=corazon}{image=corazon}{image=corazon}"
-    na "{sc=3}{outlinecolor=#000000}HNhgmgnmh~{image=corazon}{image=corazon}{image=corazon}"
+    na "{sc=3}{outlinecolor=#000000}HNhgmgnmh~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/natsuki_events.rpy:4454
 translate ukrainian nat_gal4_1d82a7e7_2:
@@ -14055,7 +14055,7 @@ translate ukrainian nat_gal4_7652ea03:
 translate ukrainian nat_gal4_7265444b:
 
     # na "{sc=3}{outlinecolor=#000000}Aagnm~{image=corazon}{image=corazon} {w}HGNhm~{image=corazon} {w}UhnhNM~{image=corazon}"
-    na "{sc=3}{outlinecolor=#000000}Aagnm~{image=corazon}{image=corazon} {w}HGNhm~{image=corazon} {w}UhnhNM~{image=corazon}"
+    na "{sc=3}{outlinecolor=#000000}Aagnm~{image=corazon}{image=corazon} {w}HGNhm~{image=corazon} {w}UhnhNM~{image=corazon}" with cumflash
 
 # game/game/natsuki_events.rpy:4461
 translate ukrainian nat_gal4_cc4f89e5:
@@ -14079,7 +14079,7 @@ translate ukrainian nat_gal4_682a9e6b:
 translate ukrainian nat_gal4_bcdee5ef:
 
     # na "I c-can feel... {w}GHNhmg~{image=corazon}{image=corazon} {w}how you want to cum inside me~{image=corazon}{image=corazon}"
-    na "I c-can feel... {w}GHNhmg~{image=corazon}{image=corazon} {w}how you want to cum inside me~{image=corazon}{image=corazon}"
+    na "I c-can feel... {w}GHNhmg~{image=corazon}{image=corazon} {w}how you want to cum inside me~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/natsuki_events.rpy:4465
 translate ukrainian nat_gal4_a2d90af9:
@@ -14091,13 +14091,13 @@ translate ukrainian nat_gal4_a2d90af9:
 translate ukrainian nat_gal4_461c338b:
 
     # na "Ngmhng~{image=corazon}{image=corazon} {w}Is that all you hav-"
-    na "Ngmhng~{image=corazon}{image=corazon} {w}Is that all you hav-"
+    na "Ngmhng~{image=corazon}{image=corazon} {w}Is that all you hav-" with cumflash
 
 # game/game/natsuki_events.rpy:4469
 translate ukrainian nat_gal4_4237af7a:
 
     # na "{sc=3}{outlinecolor=#000000}NGHMhngmhnm~~{image=corazon}{image=corazon}{image=corazon}"
-    na "{sc=3}{outlinecolor=#000000}NGHMhngmhnm~~{image=corazon}{image=corazon}{image=corazon}"
+    na "{sc=3}{outlinecolor=#000000}NGHMhngmhnm~~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/natsuki_events.rpy:4470
 translate ukrainian nat_gal4_286fcd8e:
@@ -14121,19 +14121,19 @@ translate ukrainian nat_gal4_dff7fd32:
 translate ukrainian nat_gal4_f27dced6:
 
     # mc "N-Natsuki!"
-    mc "N-Natsuki!"
+    mc "N-Natsuki!" with vpunch
 
 # game/game/natsuki_events.rpy:4482
 translate ukrainian nat_gal4_bbf96968:
 
     # na "{sc=3}{outlinecolor=#000000}Ughnmnmbnb~{image=corazon}{image=corazon}{image=corazon}"
-    na "{sc=3}{outlinecolor=#000000}Ughnmnmbnb~{image=corazon}{image=corazon}{image=corazon}"
+    na "{sc=3}{outlinecolor=#000000}Ughnmnmbnb~{image=corazon}{image=corazon}{image=corazon}" with vpunch
 
 # game/game/natsuki_events.rpy:4490
 translate ukrainian nat_gal4_cad2d53c:
 
     # na "{sc=3}{outlinecolor=#000000}AAaanmhnmhgnmnm~{image=corazon}{image=corazon}"
-    na "{sc=3}{outlinecolor=#000000}AAaanmhnmhgnmnm~{image=corazon}{image=corazon}"
+    na "{sc=3}{outlinecolor=#000000}AAaanmhnmhgnmnm~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/natsuki_events.rpy:4491
 translate ukrainian nat_gal4_91dedd0d:

@@ -1,4 +1,4 @@
-
+﻿
 # game/game/map_GW.rpy:33
 translate ukrainian stone_dialogue_c3660bcb:
 
@@ -879,7 +879,7 @@ translate ukrainian first_forest_event_e279bc09:
 translate ukrainian first_forest_event_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/map_GW.rpy:295
 translate ukrainian first_forest_event_8e917409:
@@ -1119,7 +1119,7 @@ translate ukrainian first_forest_event_8b3125a1:
 translate ukrainian first_forest_event_93da24e3:
 
     # so "{size=+10}YES!"
-    so "{size=+10}ТАК!"
+    so "{size=+10}ТАК!" with hpunch
 
 # game/game/map_GW.rpy:390
 translate ukrainian first_forest_event_b8dbfb20:
@@ -1131,7 +1131,7 @@ translate ukrainian first_forest_event_b8dbfb20:
 translate ukrainian first_forest_event_4fae1665:
 
     # so "{size=+10}YES!"
-    so "{size=+10}ТАК!"
+    so "{size=+10}ТАК!" with vpunch
 
 # game/game/map_GW.rpy:393
 translate ukrainian first_forest_event_689976bc:
@@ -1143,7 +1143,7 @@ translate ukrainian first_forest_event_689976bc:
 translate ukrainian first_forest_event_77dd67d5:
 
     # so "{size=+10}YES!!"
-    so "{size=+10}ТАК!!"
+    so "{size=+10}ТАК!!" with vpunch
 
 # game/game/map_GW.rpy:396
 translate ukrainian first_forest_event_dd31bc96:
@@ -1371,7 +1371,7 @@ translate ukrainian forest_inicio_6d4bea12:
 translate ukrainian forest_inicio_786aee52:
 
     # so "{size=+10}Ahem*"
-    so "{size=+10}{i}*Кхм*{/i}"
+    so "{size=+10}{i}*Кхм*{/i}" with vpunch
 
 # game/game/map_GW.rpy:477
 translate ukrainian forest_inicio_03fb3e88:
@@ -1449,13 +1449,13 @@ translate ukrainian sato_event_1_426e69ab:
 translate ukrainian sato_event_1_c48388c0:
 
     # c "Yes."
-    c "Yes."
+    c "Yes." (multiple=2)
 
 # game/game/map_GW.rpy:519
 translate ukrainian sato_event_1_92e82b05:
 
     # r "Yes."
-    r "Yes."
+    r "Yes." (multiple=2)
 
 # game/game/map_GW.rpy:521
 translate ukrainian sato_event_1_376d114d:
@@ -1473,7 +1473,7 @@ translate ukrainian sato_event_1_94cac6d1:
 translate ukrainian sato_event_1_5cf80cbb:
 
     # mc "What!?"
-    mc "What!?"
+    mc "What!?" with vpunch
 
 # game/game/map_GW.rpy:526
 translate ukrainian sato_event_1_ec2d8853:
@@ -1533,7 +1533,7 @@ translate ukrainian sato_event_1_dcee8cb0:
 translate ukrainian sato_event_1_21464332:
 
     # t "Now you're distracted by butterflies!?"
-    t "Now you're distracted by butterflies!?"
+    t "Now you're distracted by butterflies!?" with hpunch
 
 # game/game/map_GW.rpy:542
 translate ukrainian sato_event_1_2de3efbb:
@@ -1701,7 +1701,7 @@ translate ukrainian sato_event_1_3ff504b7:
 translate ukrainian sato_event_1_418c6b68:
 
     # t "Do they see me as a kid now?!"
-    t "Do they see me as a kid now?!"
+    t "Do they see me as a kid now?!" with hpunch
 
 # game/game/map_GW.rpy:594
 translate ukrainian sato_event_1_94930ee6:
@@ -1797,7 +1797,7 @@ translate ukrainian sato_event_1_8a9f6bb6:
 translate ukrainian sato_event_1_09884666:
 
     # t "Stop judging me!"
-    t "Stop judging me!"
+    t "Stop judging me!" with vpunch
 
 # game/game/map_GW.rpy:617
 translate ukrainian sato_event_1_ff9f5230:
@@ -1875,7 +1875,7 @@ translate ukrainian sato_event_1_991c0126:
 translate ukrainian sato_event_1_b7f3d88e:
 
     # r "Master!"
-    r "Master!"
+    r "Master!" with vpunch
 
 # game/game/map_GW.rpy:649
 translate ukrainian sato_event_1_4a61c24b:
@@ -1941,7 +1941,7 @@ translate ukrainian sato_event_1_0c6abcdf:
 translate ukrainian sato_event_1_426aab87:
 
     # mc "Released?!"
-    mc "Released?!"
+    mc "Released?!" with vpunch
 
 # game/game/map_GW.rpy:665
 translate ukrainian sato_event_1_6946dbfe:
@@ -1953,19 +1953,19 @@ translate ukrainian sato_event_1_6946dbfe:
 translate ukrainian sato_event_1_b7f3d88e_1:
 
     # r "Master!"
-    r "Master!"
+    r "Master!" with vpunch
 
 # game/game/map_GW.rpy:668
 translate ukrainian sato_event_1_f0c78c10:
 
     # c "..."
-    c "..."
+    c "..." (multiple=2)
 
 # game/game/map_GW.rpy:669
 translate ukrainian sato_event_1_fb0b2ccf:
 
     # mc "..."
-    mc "..."
+    mc "..." (multiple=2)
 
 # game/game/map_GW.rpy:670
 translate ukrainian sato_event_1_732a8756:
@@ -2031,7 +2031,7 @@ translate ukrainian sato_event_1_44084635:
 translate ukrainian sato_event_1_228b8709:
 
     # a "I said no one can leave their homes!"
-    a "I said no one can leave their homes!"
+    a "I said no one can leave their homes!" with vpunch
 
 # game/game/map_GW.rpy:689
 translate ukrainian sato_event_1_03fb3e88_1:
@@ -2043,7 +2043,7 @@ translate ukrainian sato_event_1_03fb3e88_1:
 translate ukrainian sato_event_1_2e3bab44:
 
     # a "S-Sayori!"
-    a "S-Sayori!"
+    a "S-Sayori!" with hpunch
 
 # game/game/map_GW.rpy:692
 translate ukrainian sato_event_1_35a2fc9c:
@@ -2061,13 +2061,13 @@ translate ukrainian sato_event_1_029cd1e9:
 translate ukrainian sato_event_1_dcaa440c:
 
     # sa "Speak up, Aoi! {w}What's wrong with her?"
-    sa "Speak up, Aoi! {w}What's wrong with her?"
+    sa "Speak up, Aoi! {w}What's wrong with her?" with hpunch
 
 # game/game/map_GW.rpy:696
 translate ukrainian sato_event_1_63f6cb22:
 
     # ao "She's in trouble!"
-    ao "She's in trouble!"
+    ao "She's in trouble!" with vpunch
 
 # game/game/map_GW.rpy:703
 translate ukrainian sato_event_1_d201ff22:
@@ -2139,7 +2139,7 @@ translate ukrainian sato_event_1_374d0d66:
 translate ukrainian sato_event_1_32b6398b:
 
     # ms "Don't let her make you doubt!"
-    ms "Don't let her make you doubt!"
+    ms "Don't let her make you doubt!" with vpunch
 
 # game/game/map_GW.rpy:721
 translate ukrainian sato_event_1_8dc0c145:
@@ -2169,19 +2169,19 @@ translate ukrainian sato_event_1_374d0d66_1:
 translate ukrainian sato_event_1_801f0b3b:
 
     # ms "W-We can't disobey orders!"
-    ms "W-We can't disobey orders!"
+    ms "W-We can't disobey orders!" with hpunch
 
 # game/game/map_GW.rpy:733
 translate ukrainian sato_event_1_5321c80e:
 
     # sa "{size=+10}HEY!"
-    sa "{size=+10}HEY!"
+    sa "{size=+10}HEY!" with hpunch
 
 # game/game/map_GW.rpy:735
 translate ukrainian sato_event_1_953e5116:
 
     # sa "{size=+5}Touch a single hair and you're all dead!"
-    sa "{size=+5}Touch a single hair and you're all dead!"
+    sa "{size=+5}Touch a single hair and you're all dead!" with vpunch
 
 # game/game/map_GW.rpy:736
 translate ukrainian sato_event_1_36ff24ff:
@@ -2193,7 +2193,7 @@ translate ukrainian sato_event_1_36ff24ff:
 translate ukrainian sato_event_1_9ec43729:
 
     # al "Don't get close! {w}Don't put yourself in danger."
-    al "Don't get close! {w}Don't put yourself in danger."
+    al "Don't get close! {w}Don't put yourself in danger." with vpunch
 
 # game/game/map_GW.rpy:739
 translate ukrainian sato_event_1_78dbf64a:
@@ -2205,7 +2205,7 @@ translate ukrainian sato_event_1_78dbf64a:
 translate ukrainian sato_event_1_321e43c8:
 
     # ms "YES!"
-    ms "YES!"
+    ms "YES!" with hpunch
 
 # game/game/map_GW.rpy:741
 translate ukrainian sato_event_1_1744cb14:
@@ -2259,7 +2259,7 @@ translate ukrainian sato_event_1_16e83d50:
 translate ukrainian sato_event_1_7732dcd2:
 
     # ms "HuOOGhg!"
-    ms "HuOOGhg!"
+    ms "HuOOGhg!" with hpunch
 
 # game/game/map_GW.rpy:782
 translate ukrainian sato_event_1_00749889:
@@ -2307,13 +2307,13 @@ translate ukrainian sato_event_1_346cc8a3:
 translate ukrainian sato_event_1_5c2c1761:
 
     # ms "..."
-    ms "..."
+    ms "..." (multiple=2)
 
 # game/game/map_GW.rpy:793
 translate ukrainian sato_event_1_5c2c1761_1:
 
     # ms "..."
-    ms "..."
+    ms "..." (multiple=2)
 
 # game/game/map_GW.rpy:798
 translate ukrainian sato_event_1_07cd6b38:
@@ -2445,7 +2445,7 @@ translate ukrainian sato_event_1_3b13eea3:
 translate ukrainian sato_event_1_266b4c24:
 
     # t "Gulp* {w}S-She definitely looks like a goddess!"
-    t "Gulp* {w}S-She definitely looks like a goddess!"
+    t "Gulp* {w}S-She definitely looks like a goddess!" with vpunch
 
 # game/game/map_GW.rpy:833
 translate ukrainian sato_event_1_2e101d88:
@@ -2499,7 +2499,7 @@ translate ukrainian sato_event_1_1357c1d4:
 translate ukrainian sato_event_1_76843e27:
 
     # sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
-    sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
+    sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..." with hpunch
 
 # game/game/map_GW.rpy:846
 translate ukrainian sato_event_1_efa87892:
@@ -2523,7 +2523,7 @@ translate ukrainian sato_event_1_b88a0ab6:
 translate ukrainian sato_event_1_04b0f9f2:
 
     # ao "{size=+7}I-Is everyone well?"
-    ao "{size=+7}I-Is everyone well?"
+    ao "{size=+7}I-Is everyone well?" with vpunch
 
 # game/game/map_GW.rpy:851
 translate ukrainian sato_event_1_89fee938:
@@ -2559,7 +2559,7 @@ translate ukrainian sato_event_1_f4991eb8:
 translate ukrainian sato_event_1_8e17cebf:
 
     # r "Yes!~{image=corazon}"
-    r "Yes!~{image=corazon}"
+    r "Yes!~{image=corazon}" with vpunch
 
 # game/game/map_GW.rpy:859
 translate ukrainian sato_event_1_3864a381:
@@ -2639,13 +2639,13 @@ translate ukrainian sato_event_1_4e831efe:
     # t "I can go for a walk to see the village or talk to Alice right away."
     t "I can go for a walk to see the village or talk to Alice right away."
 
-# game/game/map_GW.rpy:1068
+# game/game/map_GW.rpy:1080
 translate ukrainian call_lake_b5f01245:
 
     # t "I'm interested in that huge gate on the left..."
     t "I'm interested in that huge gate on the left..."
 
-# game/game/map_GW.rpy:1273
+# game/game/map_GW.rpy:1285
 translate ukrainian beach_zone_ceac4071:
 
     # t "It's a lot of work; I should start early in the morning."

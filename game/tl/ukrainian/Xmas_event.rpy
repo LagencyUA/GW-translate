@@ -39,7 +39,7 @@ translate ukrainian christmas_event_a2b6abfb:
 translate ukrainian christmas_event_ceb67a6b:
 
     # ev "HAHAHAHA."
-    ev "HAHAHAHA."
+    ev "HAHAHAHA." with vpunch
 
 # game/game/Xmas_event.rpy:67
 translate ukrainian christmas_event_c301af6c:
@@ -423,7 +423,7 @@ translate ukrainian christmas_event_8fea2db2:
 translate ukrainian christmas_event_e28bd775:
 
     # r "N-No! {w}It was the opposite!"
-    r "N-No! {w}It was the opposite!"
+    r "N-No! {w}It was the opposite!" with vpunch
 
 # game/game/Xmas_event.rpy:175
 translate ukrainian christmas_event_dc032e83:
@@ -453,7 +453,7 @@ translate ukrainian christmas_event_2027ab87:
 translate ukrainian christmas_event_0f096a6e:
 
     # r "Oh right! {w}The doctor came and put some things in the house!"
-    r "Oh right! {w}The doctor came and put some things in the house!"
+    r "Oh right! {w}The doctor came and put some things in the house!" with vpunch
 
 # game/game/Xmas_event.rpy:182
 translate ukrainian christmas_event_69705684:
@@ -597,13 +597,13 @@ translate ukrainian christmas_event_8dbc0be7:
 translate ukrainian christmas_event_20affd63:
 
     # r "W-Wait! {w}It seems to be something important!"
-    r "W-Wait! {w}It seems to be something important!"
+    r "W-Wait! {w}It seems to be something important!" with hpunch
 
 # game/game/Xmas_event.rpy:219
 translate ukrainian christmas_event_610a0993:
 
     # c "Those shiny things have to be destroyed!"
-    c "Those shiny things have to be destroyed!"
+    c "Those shiny things have to be destroyed!" with vpunch
 
 # game/game/Xmas_event.rpy:221
 translate ukrainian christmas_event_16ac37bd:
@@ -639,7 +639,7 @@ translate ukrainian christmas_event_b64f3ee5:
 translate ukrainian christmas_event_01dd1507:
 
     # r "That's not what I mean!"
-    r "That's not what I mean!"
+    r "That's not what I mean!" with vpunch
 
 # game/game/Xmas_event.rpy:229
 translate ukrainian christmas_event_f1114aec:
@@ -993,7 +993,7 @@ translate ukrainian christmas_event_d70bd210:
 translate ukrainian christmas_event_25951b2f:
 
     # s "I'll be inside!"
-    s "I'll be inside!"
+    s "I'll be inside!" with vpunch
 
 # game/game/Xmas_event.rpy:334
 translate ukrainian christmas_event_3e7e853f:
@@ -1125,7 +1125,7 @@ translate ukrainian christmas_event_0ceadc26:
 translate ukrainian christmas_event_5ca14bda:
 
     # y "And stop calling me by weird names!"
-    y "And stop calling me by weird names!"
+    y "And stop calling me by weird names!" with vpunch
 
 # game/game/Xmas_event.rpy:368
 translate ukrainian christmas_event_7cf68e90:
@@ -1263,7 +1263,7 @@ translate ukrainian christmas_event_69376fe9:
 translate ukrainian christmas_event_0cd13d65:
 
     # y "I-Idiot!"
-    y "I-Idiot!"
+    y "I-Idiot!" with vpunch
 
 # game/game/Xmas_event.rpy:410
 translate ukrainian christmas_event_87ce4716:
@@ -1563,13 +1563,13 @@ translate ukrainian christmas_event_861145d6:
 translate ukrainian christmas_event_58ae4ed7:
 
     # mc "Hahahaha."
-    mc "Hahahaha."
+    mc "Hahahaha." with vpunch
 
 # game/game/Xmas_event.rpy:495
 translate ukrainian christmas_event_156d9c8c:
 
     # ak "And you laugh pervert?!"
-    ak "And you laugh pervert?!"
+    ak "And you laugh pervert?!" with vpunch
 
 # game/game/Xmas_event.rpy:497
 translate ukrainian christmas_event_fac79b0c:
@@ -1659,7 +1659,7 @@ translate ukrainian christmas_event_b3a2acb4:
 translate ukrainian christmas_event_762a7a45:
 
     # ak "T-That's why!"
-    ak "T-That's why!"
+    ak "T-That's why!" with vpunch
 
 # game/game/Xmas_event.rpy:521
 translate ukrainian christmas_event_03fb3e88_1:
@@ -1701,7 +1701,7 @@ translate ukrainian christmas_event_4d06c472:
 translate ukrainian christmas_event_2590cff7:
 
     # ak "I-I don't understand your way of thinking."
-    ak "I-I don't understand your way of thinking."
+    ak "I-I don't understand your way of thinking." with vpunch
 
 # game/game/Xmas_event.rpy:532
 translate ukrainian christmas_event_1f5b224d_1:
@@ -1731,7 +1731,7 @@ translate ukrainian christmas_event_c71ab76d:
 translate ukrainian christmas_event_8c4f081a:
 
     # mc "Woooa!"
-    mc "Woooa!"
+    mc "Woooa!" with vpunch
 
 # game/game/Xmas_event.rpy:541
 translate ukrainian christmas_event_0053a810:
@@ -1863,7 +1863,7 @@ translate ukrainian christmas_event_484c04b3:
 translate ukrainian christmas_event_b6da3dc7:
 
     # s "[mc]!"
-    s "[mc]!"
+    s "[mc]!" with hpunch
 
 # game/game/Xmas_event.rpy:592
 translate ukrainian christmas_event_420d8ad4:
@@ -2025,7 +2025,7 @@ translate ukrainian christmas_event_907562bc:
 translate ukrainian christmas_event_0acc2365:
 
     # "Hahahaha"
-    "Hahahaha"
+    "Hahahaha" with hpunch
 
 # game/game/Xmas_event.rpy:630
 translate ukrainian christmas_event_ee87e6f3:
@@ -2097,7 +2097,7 @@ translate ukrainian christmas_event_652650d3:
 translate ukrainian christmas_event_65d8d705:
 
     # s "[mc]! Look!"
-    s "[mc]! Look!"
+    s "[mc]! Look!" with hpunch
 
 # game/game/Xmas_event.rpy:650
 translate ukrainian christmas_event_04293591:
@@ -2217,7 +2217,7 @@ translate ukrainian christmas_event_159401fc:
 translate ukrainian christmas_event_7e4d99bf:
 
     # h "How cuuute!"
-    h "How cuuute!"
+    h "How cuuute!" with vpunch
 
 # game/game/Xmas_event.rpy:682
 translate ukrainian christmas_event_03fb3e88_2:
@@ -2229,7 +2229,7 @@ translate ukrainian christmas_event_03fb3e88_2:
 translate ukrainian christmas_event_21dc0f8e:
 
     # s "They look very good!"
-    s "They look very good!"
+    s "They look very good!" with vpunch
 
 # game/game/Xmas_event.rpy:689
 translate ukrainian christmas_event_7b125552:
@@ -2247,7 +2247,7 @@ translate ukrainian christmas_event_8e4d5a61:
 translate ukrainian christmas_event_9a76c7f6:
 
     # r "Master!"
-    r "Master!"
+    r "Master!" with hpunch
 
 # game/game/Xmas_event.rpy:693
 translate ukrainian christmas_event_d19f855d_1:
@@ -2655,7 +2655,7 @@ translate ukrainian christmas_event_681d0150:
 translate ukrainian christmas_event_0a89a274:
 
     # ak "A-Anyway! {w}I need your help."
-    ak "A-Anyway! {w}I need your help."
+    ak "A-Anyway! {w}I need your help." with vpunch
 
 # game/game/Xmas_event.rpy:802
 translate ukrainian christmas_event_3574a54f:
@@ -2685,7 +2685,7 @@ translate ukrainian christmas_event_03fb3e88_3:
 translate ukrainian christmas_event_145d3481:
 
     # ak "Shut up! {w}Come over here."
-    ak "Shut up! {w}Come over here."
+    ak "Shut up! {w}Come over here." with vpunch
 
 # game/game/Xmas_event.rpy:810
 translate ukrainian christmas_event_08fa5ca8:
@@ -3069,7 +3069,7 @@ translate ukrainian akane_xmas_gal_a8263f81:
 translate ukrainian akane_xmas_gal_f74dc7d0:
 
     # ak "Gghnm~{image=corazon} {w}Aaahnm~{image=corazon} {w}MMnnm~~{image=corazon}{image=corazon}"
-    ak "Gghnm~{image=corazon} {w}Aaahnm~{image=corazon} {w}MMnnm~~{image=corazon}{image=corazon}"
+    ak "Gghnm~{image=corazon} {w}Aaahnm~{image=corazon} {w}MMnnm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:916
 translate ukrainian akane_xmas_gal_79d8560b:
@@ -3099,7 +3099,7 @@ translate ukrainian akane_xmas_gal_90992ddc:
 translate ukrainian akane_xmas_gal_33ee129d:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "Fuck!" with vpunch
 
 # game/game/Xmas_event.rpy:923
 translate ukrainian akane_xmas_gal_7e694aef:
@@ -3111,7 +3111,7 @@ translate ukrainian akane_xmas_gal_7e694aef:
 translate ukrainian akane_xmas_gal_ec6eb97e:
 
     # ak "Mnmnm~{image=corazon} {w}GHanm~{image=corazon} {w}{size=-10}so good..{image=corazon}"
-    ak "Mnmnm~{image=corazon} {w}GHanm~{image=corazon} {w}{size=-10}so good..{image=corazon}"
+    ak "Mnmnm~{image=corazon} {w}GHanm~{image=corazon} {w}{size=-10}so good..{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:925
 translate ukrainian akane_xmas_gal_62368935:
@@ -3141,13 +3141,13 @@ translate ukrainian akane_xmas_gal_bd26be40:
 translate ukrainian akane_xmas_gal_d39f7a9a:
 
     # mc "Anytime!"
-    mc "Anytime!"
+    mc "Anytime!" with vpunch
 
 # game/game/Xmas_event.rpy:931
 translate ukrainian akane_xmas_gal_7a49325d:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with cumflash
 
 # game/game/Xmas_event.rpy:937
 translate ukrainian akane_xmas_gal_421291cf:
@@ -3213,7 +3213,7 @@ translate ukrainian akane_xmas_gal_38a4f8d5:
 translate ukrainian akane_xmas_gal_004f5e05:
 
     # ak "Only a pervert like you would think of that as a gift!"
-    ak "Only a pervert like you would think of that as a gift!"
+    ak "Only a pervert like you would think of that as a gift!" with vpunch
 
 # game/game/Xmas_event.rpy:966
 translate ukrainian akane_xmas_gal_8748e205:
@@ -3279,7 +3279,7 @@ translate ukrainian akane_xmas_gal_93dbc1d5:
 translate ukrainian akane_xmas_gal_c0306583:
 
     # s "Woow!"
-    s "Woow!"
+    s "Woow!" with vpunch
 
 # game/game/Xmas_event.rpy:987
 translate ukrainian akane_xmas_gal_128c6d07:
@@ -3333,13 +3333,13 @@ translate ukrainian akane_xmas_gal_be6ec35d:
 translate ukrainian akane_xmas_gal_7e5ec1b0:
 
     # ak "Let's enjoy the cake!"
-    ak "Let's enjoy the cake!"
+    ak "Let's enjoy the cake!" with hpunch
 
 # game/game/Xmas_event.rpy:1002
 translate ukrainian akane_xmas_gal_8b421dea:
 
     # s "Yes!"
-    s "Yes!"
+    s "Yes!" with vpunch
 
 # game/game/Xmas_event.rpy:1005
 translate ukrainian akane_xmas_gal_2b35b6fe_4:
@@ -3375,7 +3375,7 @@ translate ukrainian akane_xmas_gal_09f798f1:
 translate ukrainian akane_xmas_gal_920e2eeb:
 
     # "Hahaha~"
-    "Hahaha~"
+    "Hahaha~" with vpunch
 
 # game/game/Xmas_event.rpy:1015
 translate ukrainian akane_xmas_gal_0476825f:
@@ -3453,7 +3453,7 @@ translate ukrainian akane_xmas_gal_e1554201:
 translate ukrainian akane_xmas_gal_4c33e08f:
 
     # s "{i}{size=-5}Aren't these gloves pretty cool?!"
-    s "{i}{size=-5}Aren't these gloves pretty cool?!"
+    s "{i}{size=-5}Aren't these gloves pretty cool?!" with vpunch
 
 # game/game/Xmas_event.rpy:1042
 translate ukrainian akane_xmas_gal_b86ba065:
@@ -3603,7 +3603,7 @@ translate ukrainian akane_xmas_gal_ee9414d4:
 translate ukrainian akane_xmas_gal_dbd82f53:
 
     # y "Hmnm!"
-    y "Hmnm!"
+    y "Hmnm!" with vpunch
 
 # game/game/Xmas_event.rpy:1081
 translate ukrainian akane_xmas_gal_79fc6573:
@@ -4077,7 +4077,7 @@ translate ukrainian hana_xmas_gal_a79bb4cb:
 translate ukrainian hana_xmas_gal_626268f3:
 
     # h "AaaHNM~{image=corazon} {w}mhNMH~{image=corazon} {w}Sooo strong~~{image=corazon}"
-    h "AaaHNM~{image=corazon} {w}mhNMH~{image=corazon} {w}Sooo strong~~{image=corazon}"
+    h "AaaHNM~{image=corazon} {w}mhNMH~{image=corazon} {w}Sooo strong~~{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1211
 translate ukrainian hana_xmas_gal_52706018:
@@ -4101,7 +4101,7 @@ translate ukrainian hana_xmas_gal_2d53a964:
 translate ukrainian hana_xmas_gal_bfa9a699:
 
     # h "D-Don't make me {w}Aaahnm~{image=corazon} {w}wait any longer..."
-    h "D-Don't make me {w}Aaahnm~{image=corazon} {w}wait any longer..."
+    h "D-Don't make me {w}Aaahnm~{image=corazon} {w}wait any longer..." with cumflash
 
 # game/game/Xmas_event.rpy:1215
 translate ukrainian hana_xmas_gal_093dd149:
@@ -4119,7 +4119,7 @@ translate ukrainian hana_xmas_gal_46cfa2f4:
 translate ukrainian hana_xmas_gal_7a586e76:
 
     # h "Yeees~{image=corazon}{image=corazon}"
-    h "Yeees~{image=corazon}{image=corazon}"
+    h "Yeees~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1220
 translate ukrainian hana_xmas_gal_d143bf64:
@@ -4149,7 +4149,7 @@ translate ukrainian hana_xmas_gal_f037128d:
 translate ukrainian hana_xmas_gal_39e8f81d:
 
     # h "Loooooong!~{image=corazon}{image=corazon}{image=corazon}"
-    h "Loooooong!~{image=corazon}{image=corazon}{image=corazon}"
+    h "Loooooong!~{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1229
 translate ukrainian hana_xmas_gal_345f12a3:
@@ -4161,7 +4161,7 @@ translate ukrainian hana_xmas_gal_345f12a3:
 translate ukrainian hana_xmas_gal_92f136ba:
 
     # h "Aaahnmm~~{image=corazon}{image=corazon}"
-    h "Aaahnmm~~{image=corazon}{image=corazon}"
+    h "Aaahnmm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1233
 translate ukrainian hana_xmas_gal_2c7cf13d:
@@ -4191,7 +4191,7 @@ translate ukrainian hana_xmas_gal_75dd1477:
 translate ukrainian hana_xmas_gal_6d813f72:
 
     # h "Haaanmn!~{image=corazon}{image=corazon}"
-    h "Haaanmn!~{image=corazon}{image=corazon}"
+    h "Haaanmn!~{image=corazon}{image=corazon}" with vpunch
 
 # game/game/Xmas_event.rpy:1241
 translate ukrainian hana_xmas_gal_783c107a:
@@ -4227,7 +4227,7 @@ translate ukrainian hana_xmas_gal_711a5488:
 translate ukrainian hana_xmas_gal_b1c2b5ab:
 
     # h "I'll go crazy {w}Mnhmnm~~{image=corazon}{image=corazon} {w}i-if I keep cumming!~~{image=corazon}"
-    h "I'll go crazy {w}Mnhmnm~~{image=corazon}{image=corazon} {w}i-if I keep cumming!~~{image=corazon}"
+    h "I'll go crazy {w}Mnhmnm~~{image=corazon}{image=corazon} {w}i-if I keep cumming!~~{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1249
 translate ukrainian hana_xmas_gal_1d7fe8dc:
@@ -4275,7 +4275,7 @@ translate ukrainian hana_xmas_gal_df9d1157:
 translate ukrainian hana_xmas_gal_a51af88b:
 
     # h "[mc]!?"
-    h "[mc]!?"
+    h "[mc]!?" with cumflash
 
 # game/game/Xmas_event.rpy:1258
 translate ukrainian hana_xmas_gal_a1f3ea78:
@@ -4317,7 +4317,7 @@ translate ukrainian hana_xmas_gal_5e3da50e:
 translate ukrainian hana_xmas_gal_19db7614:
 
     # h "Shoot everything inside me!!{image=corazon}{image=corazon}{image=corazon}"
-    h "Shoot everything inside me!!{image=corazon}{image=corazon}{image=corazon}"
+    h "Shoot everything inside me!!{image=corazon}{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1269
 translate ukrainian hana_xmas_gal_50103e11:
@@ -4539,7 +4539,7 @@ translate ukrainian hana_xmas_gal_46b79df3:
 translate ukrainian hana_xmas_gal_d0840972:
 
     # ak "Haa?"
-    ak "Haa?"
+    ak "Haa?" with vpunch
 
 # game/game/Xmas_event.rpy:1341
 translate ukrainian hana_xmas_gal_cad81ffa:
@@ -4563,13 +4563,13 @@ translate ukrainian hana_xmas_gal_f1b332ae:
 translate ukrainian hana_xmas_gal_20044cdf:
 
     # h "Now girls!"
-    h "Now girls!"
+    h "Now girls!" with hpunch
 
 # game/game/Xmas_event.rpy:1348
 translate ukrainian hana_xmas_gal_b84d623e:
 
     # "Now!"
-    "Now!"
+    "Now!" with hpunch
 
 # game/game/Xmas_event.rpy:1353
 translate ukrainian hana_xmas_gal_28671acf:
@@ -4587,7 +4587,7 @@ translate ukrainian hana_xmas_gal_f514a02b:
 translate ukrainian hana_xmas_gal_e807ac18:
 
     # r "We did it!"
-    r "We did it!"
+    r "We did it!" with vpunch
 
 # game/game/Xmas_event.rpy:1356
 translate ukrainian hana_xmas_gal_3d299c3e:
@@ -4635,7 +4635,7 @@ translate ukrainian hana_xmas_gal_dd2eb319:
 translate ukrainian hana_xmas_gal_265d409a:
 
     # "Shika!"
-    "Shika!"
+    "Shika!" with hpunch
 
 # game/game/Xmas_event.rpy:1366
 translate ukrainian hana_xmas_gal_2fded262:
@@ -4773,7 +4773,7 @@ translate ukrainian hana_xmas_gal_2b35b6fe_5:
 translate ukrainian hana_xmas_gal_792d79c7:
 
     # y "Why did you look!"
-    y "Why did you look!"
+    y "Why did you look!" with hpunch
 
 # game/game/Xmas_event.rpy:1401
 translate ukrainian hana_xmas_gal_5146b025:
@@ -4785,13 +4785,13 @@ translate ukrainian hana_xmas_gal_5146b025:
 translate ukrainian hana_xmas_gal_17f78f3d:
 
     # mc "GUagh!"
-    mc "GUagh!"
+    mc "GUagh!" with vpunch
 
 # game/game/Xmas_event.rpy:1404
 translate ukrainian hana_xmas_gal_9a76c7f6:
 
     # r "Master!"
-    r "Master!"
+    r "Master!" with hpunch
 
 # game/game/Xmas_event.rpy:1405
 translate ukrainian hana_xmas_gal_f5de008f:
@@ -4971,19 +4971,19 @@ translate ukrainian hana_xmas_gal_03fb3e88_2:
 translate ukrainian hana_xmas_gal_b1e940c3:
 
     # ev "Merry Christmas!"
-    ev "Merry Christmas!"
+    ev "Merry Christmas!" with hpunch
 
 # game/game/Xmas_event.rpy:1466
 translate ukrainian hana_xmas_gal_13d56ab0:
 
     # s "Yeeees!"
-    s "Yeeees!"
+    s "Yeeees!" with vpunch
 
 # game/game/Xmas_event.rpy:1467
 translate ukrainian hana_xmas_gal_5d6e84fc:
 
     # r "Little Master is so cute!"
-    r "Little Master is so cute!"
+    r "Little Master is so cute!" with vpunch
 
 # game/game/Xmas_event.rpy:1468
 translate ukrainian hana_xmas_gal_369054eb:
@@ -5091,7 +5091,7 @@ translate ukrainian hana_xmas_gal_40fb41b8:
 translate ukrainian hana_xmas_gal_a093889e:
 
     # ak "What are you laughing at!"
-    ak "What are you laughing at!"
+    ak "What are you laughing at!" with hpunch
 
 # game/game/Xmas_event.rpy:1494
 translate ukrainian hana_xmas_gal_7de66938:
@@ -5163,7 +5163,7 @@ translate ukrainian hana_xmas_gal_81ac3fde:
 translate ukrainian hana_xmas_gal_0c15d160:
 
     # s "Eeeeh!"
-    s "Eeeeh!"
+    s "Eeeeh!" with vpunch
 
 # game/game/Xmas_event.rpy:1515
 translate ukrainian hana_xmas_gal_1f5b224d:
@@ -5175,7 +5175,7 @@ translate ukrainian hana_xmas_gal_1f5b224d:
 translate ukrainian hana_xmas_gal_a1b3b06e:
 
     # s "First I have to go to the bathroom!"
-    s "First I have to go to the bathroom!"
+    s "First I have to go to the bathroom!" with hpunch
 
 # game/game/Xmas_event.rpy:1517
 translate ukrainian hana_xmas_gal_d8dc75d1:
@@ -5199,13 +5199,13 @@ translate ukrainian hana_xmas_gal_7bce55d5:
 translate ukrainian hana_xmas_gal_45d43362:
 
     # h "Wait!"
-    h "Wait!"
+    h "Wait!" with hpunch
 
 # game/game/Xmas_event.rpy:1521
 translate ukrainian hana_xmas_gal_f32509be:
 
     # s "Don't worry doctor, it won't take long!"
-    s "Don't worry doctor, it won't take long!"
+    s "Don't worry doctor, it won't take long!" with vpunch
 
 # game/game/Xmas_event.rpy:1522
 translate ukrainian hana_xmas_gal_8d749e0a:
@@ -5247,7 +5247,7 @@ translate ukrainian hana_xmas_gal_7f4d04c6:
 translate ukrainian hana_xmas_gal_1690a805:
 
     # s "I'm not small!"
-    s "I'm not small!"
+    s "I'm not small!" with vpunch
 
 # game/game/Xmas_event.rpy:1536
 translate ukrainian hana_xmas_gal_e1554201_1:
@@ -5307,7 +5307,7 @@ translate ukrainian hana_xmas_gal_bfecc2f7:
 translate ukrainian hana_xmas_gal_f93b9e03:
 
     # mc "That's what you're worried about!?"
-    mc "That's what you're worried about!?"
+    mc "That's what you're worried about!?" with vpunch
 
 # game/game/Xmas_event.rpy:1557
 translate ukrainian hana_xmas_gal_a135cdbf:
@@ -5325,7 +5325,7 @@ translate ukrainian hana_xmas_gal_e84b9bef:
 translate ukrainian hana_xmas_gal_757983eb:
 
     # s "That my real hands are not cool!"
-    s "That my real hands are not cool!"
+    s "That my real hands are not cool!" with hpunch
 
 # game/game/Xmas_event.rpy:1561
 translate ukrainian hana_xmas_gal_f5a83537:
@@ -5337,7 +5337,7 @@ translate ukrainian hana_xmas_gal_f5a83537:
 translate ukrainian hana_xmas_gal_a57d0daa:
 
     # s "Please, I'll do anything!"
-    s "Please, I'll do anything!"
+    s "Please, I'll do anything!" with hpunch
 
 # game/game/Xmas_event.rpy:1564
 translate ukrainian hana_xmas_gal_2b35b6fe_8:
@@ -5535,7 +5535,7 @@ translate ukrainian shika_xmas_gal_e1554201_1:
 translate ukrainian shika_xmas_gal_97a24bd6:
 
     # s "Right!"
-    s "Right!"
+    s "Right!" with vpunch
 
 # game/game/Xmas_event.rpy:1617
 translate ukrainian shika_xmas_gal_1d82a7e7:
@@ -5769,13 +5769,13 @@ translate ukrainian shika_xmas_gal_c5f9c49e:
 translate ukrainian shika_xmas_gal_e000f771:
 
     # s "Haaanm~{image=corazon} {w}Ghgnm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}"
-    s "Haaanm~{image=corazon} {w}Ghgnm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}"
+    s "Haaanm~{image=corazon} {w}Ghgnm~~{image=corazon}{image=corazon} {w}[mc]~{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1671
 translate ukrainian shika_xmas_gal_1cdb4be3:
 
     # s "You must have planned it from the beginning!"
-    s "You must have planned it from the beginning!"
+    s "You must have planned it from the beginning!" with vpunch
 
 # game/game/Xmas_event.rpy:1672
 translate ukrainian shika_xmas_gal_2b35b6fe_3:
@@ -5799,7 +5799,7 @@ translate ukrainian shika_xmas_gal_a5f1fb45:
 translate ukrainian shika_xmas_gal_1c3fc218:
 
     # mc "I'm about to cum!"
-    mc "I'm about to cum!"
+    mc "I'm about to cum!" with vpunch
 
 # game/game/Xmas_event.rpy:1678
 translate ukrainian shika_xmas_gal_ef15a21d:
@@ -5829,7 +5829,7 @@ translate ukrainian shika_xmas_gal_d8463d33:
 translate ukrainian shika_xmas_gal_67d3af10:
 
     # s "I-I can't take it anymore...{image=corazon} {w}I'm going to cum!{image=corazon}{image=corazon}"
-    s "I-I can't take it anymore...{image=corazon} {w}I'm going to cum!{image=corazon}{image=corazon}"
+    s "I-I can't take it anymore...{image=corazon} {w}I'm going to cum!{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1683
 translate ukrainian shika_xmas_gal_b8077df9:
@@ -5943,7 +5943,7 @@ translate ukrainian shika_xmas_gal_6293ff9a:
 translate ukrainian shika_xmas_gal_44da6d40:
 
     # s "HE!?"
-    s "HE!?"
+    s "HE!?" with vpunch
 
 # game/game/Xmas_event.rpy:1734
 translate ukrainian shika_xmas_gal_7187803b:
@@ -6105,7 +6105,7 @@ translate ukrainian shika_xmas_gal_98c56f20:
 translate ukrainian shika_xmas_gal_f4fecdbc:
 
     # y "Hump!"
-    y "Hump!"
+    y "Hump!" with vpunch
 
 # game/game/Xmas_event.rpy:1776
 translate ukrainian shika_xmas_gal_2b35b6fe_5:
@@ -6357,7 +6357,7 @@ translate ukrainian yui_xmas_gal_9e362143:
 translate ukrainian yui_xmas_gal_eeb5cd28:
 
     # y "W-What!?"
-    y "W-What!?"
+    y "W-What!?" with vpunch
 
 # game/game/Xmas_event.rpy:1854
 translate ukrainian yui_xmas_gal_9e9727d1:
@@ -6375,7 +6375,7 @@ translate ukrainian yui_xmas_gal_fac1e3ae:
 translate ukrainian yui_xmas_gal_18cf83ae:
 
     # y "I didn't ask you that!!"
-    y "I didn't ask you that!!"
+    y "I didn't ask you that!!" with vpunch
 
 # game/game/Xmas_event.rpy:1858
 translate ukrainian yui_xmas_gal_1f5b224d:
@@ -6429,7 +6429,7 @@ translate ukrainian yui_xmas_gal_bad3066e:
 translate ukrainian yui_xmas_gal_55b53091:
 
     # mc "Quick, {w}understood!"
-    mc "Quick, {w}understood!"
+    mc "Quick, {w}understood!" with hpunch
 
 # game/game/Xmas_event.rpy:1872
 translate ukrainian yui_xmas_gal_54d05c15:
@@ -6513,7 +6513,7 @@ translate ukrainian yui_xmas_gal_6efb02e5:
 translate ukrainian yui_xmas_gal_10c6c90e:
 
     # t "Oh {w}my {w}HOLY GODDESSES!"
-    t "Oh {w}my {w}HOLY GODDESSES!"
+    t "Oh {w}my {w}HOLY GODDESSES!" with vpunch
 
 # game/game/Xmas_event.rpy:1893
 translate ukrainian yui_xmas_gal_07722c9d:
@@ -6657,7 +6657,7 @@ translate ukrainian yui_xmas_gal_24cc55f5:
 translate ukrainian yui_xmas_gal_099864c6:
 
     # y "Gghmn!"
-    y "Gghmn!"
+    y "Gghmn!" with cumflash
 
 # game/game/Xmas_event.rpy:1923
 translate ukrainian yui_xmas_gal_c53e6500:
@@ -6669,7 +6669,7 @@ translate ukrainian yui_xmas_gal_c53e6500:
 translate ukrainian yui_xmas_gal_5808c498:
 
     # y "MHmnh!"
-    y "MHmnh!"
+    y "MHmnh!" with cumflash
 
 # game/game/Xmas_event.rpy:1926
 translate ukrainian yui_xmas_gal_053308ef:
@@ -6747,7 +6747,7 @@ translate ukrainian yui_xmas_gal_7a6ce337:
 translate ukrainian yui_xmas_gal_51052ec4:
 
     # y "Ghmhnm~~{image=corazon}{image=corazon}"
-    y "Ghmhnm~~{image=corazon}{image=corazon}"
+    y "Ghmhnm~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1948
 translate ukrainian yui_xmas_gal_f75b9078:
@@ -6819,7 +6819,7 @@ translate ukrainian yui_xmas_gal_2d80da65:
 translate ukrainian yui_xmas_gal_72f6e6eb:
 
     # y "Hmhnm~~{image=corazon}{image=corazon} {w}I-I don't want to know!"
-    y "Hmhnm~~{image=corazon}{image=corazon} {w}I-I don't want to know!"
+    y "Hmhnm~~{image=corazon}{image=corazon} {w}I-I don't want to know!" with cumflash
 
 # game/game/Xmas_event.rpy:1964
 translate ukrainian yui_xmas_gal_605b1dcb:
@@ -6909,7 +6909,7 @@ translate ukrainian yui_xmas_gal_a143c065:
 translate ukrainian yui_xmas_gal_2323bd22:
 
     # y "I'm not lewd!"
-    y "I'm not lewd!"
+    y "I'm not lewd!" with vpunch
 
 # game/game/Xmas_event.rpy:1982
 translate ukrainian yui_xmas_gal_7edbf99d:
@@ -6921,7 +6921,7 @@ translate ukrainian yui_xmas_gal_7edbf99d:
 translate ukrainian yui_xmas_gal_6de97530:
 
     # y "I'm not!~{image=corazon} {w}I-I'm not!~{image=corazon} {w}I'm nooot!~{image=corazon}"
-    y "I'm not!~{image=corazon} {w}I-I'm not!~{image=corazon} {w}I'm nooot!~{image=corazon}"
+    y "I'm not!~{image=corazon} {w}I-I'm not!~{image=corazon} {w}I'm nooot!~{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1984
 translate ukrainian yui_xmas_gal_162810c4:
@@ -6933,7 +6933,7 @@ translate ukrainian yui_xmas_gal_162810c4:
 translate ukrainian yui_xmas_gal_fcd266ec:
 
     # y "[mc] idiot!{image=corazon}{image=corazon} {w}I-Idioooot!{image=corazon}{image=corazon}{image=corazon} {w}[mc]!{image=corazon}{image=corazon}"
-    y "[mc] idiot!{image=corazon}{image=corazon} {w}I-Idioooot!{image=corazon}{image=corazon}{image=corazon} {w}[mc]!{image=corazon}{image=corazon}"
+    y "[mc] idiot!{image=corazon}{image=corazon} {w}I-Idioooot!{image=corazon}{image=corazon}{image=corazon} {w}[mc]!{image=corazon}{image=corazon}" with hpunch
 
 # game/game/Xmas_event.rpy:1986
 translate ukrainian yui_xmas_gal_64e33510:
@@ -6951,7 +6951,7 @@ translate ukrainian yui_xmas_gal_cac4b29d:
 translate ukrainian yui_xmas_gal_3021f13b:
 
     # y "MHMnmmgnm!{image=corazon}"
-    y "MHMnmmgnm!{image=corazon}"
+    y "MHMnmmgnm!{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:1993
 translate ukrainian yui_xmas_gal_e5e3f612:
@@ -7029,7 +7029,7 @@ translate ukrainian yui_xmas_gal_71a86863_4:
 translate ukrainian yui_xmas_gal_0cd13d65:
 
     # y "I-Idiot!"
-    y "I-Idiot!"
+    y "I-Idiot!" with vpunch
 
 # game/game/Xmas_event.rpy:2026
 translate ukrainian yui_xmas_gal_c88bbb65_1:
@@ -7365,7 +7365,7 @@ translate ukrainian rycha_xmas_gal_11455b53:
 translate ukrainian rycha_xmas_gal_605e6df2:
 
     # mc "Guagh!"
-    mc "Guagh!"
+    mc "Guagh!" with vpunch
 
 # game/game/Xmas_event.rpy:2125
 translate ukrainian rycha_xmas_gal_49197180:
@@ -7485,7 +7485,7 @@ translate ukrainian rycha_xmas_gal_9f5d7311:
 translate ukrainian rycha_xmas_gal_71616a5b:
 
     # mc "BIG Gulp*"
-    mc "BIG Gulp*"
+    mc "BIG Gulp*" with hpunch
 
 # game/game/Xmas_event.rpy:2158
 translate ukrainian rycha_xmas_gal_854cd4de:
@@ -7611,7 +7611,7 @@ translate ukrainian rycha_xmas_gal_3a99eae7:
 translate ukrainian rycha_xmas_gal_dc0927be:
 
     # mc "I love it!"
-    mc "I love it!"
+    mc "I love it!" with vpunch
 
 # game/game/Xmas_event.rpy:2186
 translate ukrainian rycha_xmas_gal_3052ebeb:
@@ -7725,7 +7725,7 @@ translate ukrainian rycha_xmas_gal_f66a410f:
 translate ukrainian rycha_xmas_gal_30c5147c:
 
     # mc "...!"
-    mc "...!"
+    mc "...!" with vpunch
 
 # game/game/Xmas_event.rpy:2209
 translate ukrainian rycha_xmas_gal_eed87162:
@@ -7791,7 +7791,7 @@ translate ukrainian rycha_xmas_gal_a03ca57d:
 translate ukrainian rycha_xmas_gal_e9776e34:
 
     # c "It feels so much {w}Aaaahhnm~~{image=corazon}{image=corazon} {w}better!~{image=corazon}"
-    c "It feels so much {w}Aaaahhnm~~{image=corazon}{image=corazon} {w}better!~{image=corazon}"
+    c "It feels so much {w}Aaaahhnm~~{image=corazon}{image=corazon} {w}better!~{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:2222
 translate ukrainian rycha_xmas_gal_7edbf99d:
@@ -7809,7 +7809,7 @@ translate ukrainian rycha_xmas_gal_9c1cec61:
 translate ukrainian rycha_xmas_gal_7652766d:
 
     # r "Ghmnhm~~{image=corazon}{image=corazon} {w}M-M~~{image=corazon}{image=corazon}"
-    r "Ghmnhm~~{image=corazon}{image=corazon} {w}M-M~~{image=corazon}{image=corazon}"
+    r "Ghmnhm~~{image=corazon}{image=corazon} {w}M-M~~{image=corazon}{image=corazon}" with cumflash
 
 # game/game/Xmas_event.rpy:2225
 translate ukrainian rycha_xmas_gal_56c632d1:
