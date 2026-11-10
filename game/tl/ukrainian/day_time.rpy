@@ -1209,7 +1209,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:3444
     old "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#ffffff}Runes and Goddesses{/color}\"."
-    new "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#ffffff}Runes and Goddesses{/color}\"."
+    new "{color=#FF438D}Х{/color}-подія [[Завдання]\nВиконай завдання «{color=#ffffff}Руни та богині{/color}»."
 
     # game/day_time.rpy:3463
     old "{color=#FFFFFF}N{/color}-Event\nGo visit {color=#8cc1e9}Keiko{/color} at the {color=#ffffff}Stones{/color}."
