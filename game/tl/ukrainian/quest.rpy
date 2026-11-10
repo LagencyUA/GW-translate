@@ -247,7 +247,7 @@ translate ukrainian strings:
     new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з {color=#F3915B}Ханою{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} You can now travel to the new village. (Select it on the map.)"
-    new "{color=#E3CD5B}{b}•{/b}{/color} Тепер ти можеш відправитися в інше селище. (Обери на мапі.)"
+    new "{color=#E3CD5B}{b}•{/b}{/color} Тепер ти можеш відправитися в інше поселення. (Обери на мапі.)"
 
     # / Sakura Town     ST_mission
     old "{size=-5}{i}{b}I finally made it here, but things don't look good. I should look around and find out what's going on."

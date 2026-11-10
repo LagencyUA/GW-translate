@@ -351,7 +351,7 @@ translate ukrainian hana_talk_3a34d891:
 translate ukrainian hana_talk_4c280e2f:
 
     # h "There were no wars, and villages helped each other."
-    h "Не було війн, а селища допомагали одне одному."
+    h "Не було війн, а поселення допомагали одне одному."
 
 # game/game/hana_events.rpy:205
 translate ukrainian hana_talk_51565cbb:

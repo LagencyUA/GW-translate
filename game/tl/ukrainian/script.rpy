@@ -7257,7 +7257,7 @@ translate ukrainian ryoko_encounter_4a87b5e4:
 translate ukrainian ryoko_encounter_5616ce3a:
 
     # r "She said that once you're better, you should come to the village."
-    r "Вона казала, аби ви прогулялися селом, щойно почуватиметеся краще."
+    r "Вона казала, аби ви прогулялися селищем, щойно почуватиметеся краще."
 
 # game/game/script.rpy:2308
 translate ukrainian ryoko_encounter_955cef77:
@@ -10821,7 +10821,7 @@ translate ukrainian mother_dream_1bb01731_6:
 translate ukrainian mother_dream_0476ce90:
 
     # t "There must be a way to contact the goddesses without having to almost die."
-    t "Має ж бути якийсь спосіб зв'язатися з богинями не тільки при смерті."
+    t "Має ж бути якийсь спосіб достукатися до богинь, не опиняючись кожного разу на межі смерті."
 
 # game/game/script.rpy:3624
 translate ukrainian mother_dream_1bb01731_7:

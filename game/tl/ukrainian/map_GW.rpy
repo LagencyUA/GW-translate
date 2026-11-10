@@ -579,7 +579,7 @@ translate ukrainian first_forest_event_03fb3e88:
 translate ukrainian first_forest_event_61c41582:
 
     # h "Maybe we can open a safe way to another village!"
-    h "Можливо, нам удасться відкрити безпечний шлях до іншого селища!"
+    h "Можливо, нам удасться відкрити безпечний шлях до іншого поселення!"
 
 # game/game/map_GW.rpy:216
 translate ukrainian first_forest_event_ed94cc7b:
@@ -591,7 +591,7 @@ translate ukrainian first_forest_event_ed94cc7b:
 translate ukrainian first_forest_event_92a3c04c:
 
     # t "Strange, why didn't I think there would be more villages like this one?"
-    t "Дивно, чому я одразу не подумав, що тут існують й інші селища, схожі на це?"
+    t "Дивно, чому я одразу не подумав, що тут існують й інші поселення, схожі на це?"
 
 # game/game/map_GW.rpy:219
 translate ukrainian first_forest_event_b9b755e5_1:
@@ -603,7 +603,7 @@ translate ukrainian first_forest_event_b9b755e5_1:
 translate ukrainian first_forest_event_73004d72:
 
     # y "To the northwest lies a neighboring village."
-    y "На північному заході розташоване сусіднє селище."
+    y "На північному заході розташоване сусіднє поселення."
 
 # game/game/map_GW.rpy:222
 translate ukrainian first_forest_event_2150d8d4:
