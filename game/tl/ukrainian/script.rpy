@@ -2631,7 +2631,7 @@ translate ukrainian stones_d416a847:
 translate ukrainian stones_61222beb:
 
     # t "If it weren't for those strange symbols, I'd think these were just simple ruins."
-    t "Якби не ці химерні символи, я б подумав, що це лише прості розвалини."
+    t "Якби не ці химерні символи, я б подумав, що це лише прості руїни."
 
 # game/game/script.rpy:876
 translate ukrainian stones_ecbfcdc3:
@@ -2649,7 +2649,7 @@ translate ukrainian stones_f64252a1:
 translate ukrainian stones_88261b7c:
 
     # t "Did I cause the collapse?"
-    t "Це через мене воно все розвалилося?"
+    t "Це через мене воно все зруйнувалося?"
 
 # game/game/script.rpy:880
 translate ukrainian stones_202891d3:
@@ -30605,7 +30605,7 @@ translate ukrainian strings:
 
     # game/script.rpy:854
     old "Check the stones"
-    new "Перевірити розвалини"
+    new "Перевірити руїни"
 
     # game/script.rpy:854
     old "Check the lake"

@@ -156,7 +156,7 @@ translate ukrainian strings:
     new "{size=+3}Озеро"
 
     old "Stone"
-    new "{size=-5}Розвалини"
+    new "Руїни"
 
     old "Lands"
     new "Землі"
@@ -1205,7 +1205,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:3414
     old "{size=-13}Stones"
-    new "{size=-13}Розвалини"
+    new "{size=-13}Руїни"
 
     # game/day_time.rpy:3444
     old "{color=#FF438D}H{/color}-Event\nComplete the mission \"{color=#ffffff}Runes and Goddesses{/color}\"."

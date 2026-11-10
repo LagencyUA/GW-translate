@@ -241,7 +241,7 @@ translate ukrainian strings:
     new "{color=#E3CD5B}{b}•{/b}{/color} Проведи більше часу із {color=#C9887C}Рьоко{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go to the {color=#ffffff}Stones{/color}. (Select it on the map.)"
-    new "{color=#E3CD5B}{b}•{/b}{/color} Сходи до {color=#ffffff}розвалин{/color}. (Обери на мапі.)"
+    new "{color=#E3CD5B}{b}•{/b}{/color} Сходи до {color=#ffffff}руїн{/color}. (Обери на мапі.)"
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Talk to {color=#F3915B}Hana{/color}."
     new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з {color=#F3915B}Ханою{/color}."
