@@ -2361,7 +2361,7 @@ translate ukrainian tomoe_eventtres_2170ffd4:
 translate ukrainian tomoe_eventtres_028dd923:
 
     # to "Imagine if one night you came in and went up to the second floor, {w}entered my room, {w}opened the door with a little push to stop it from ringing, {w}and got into my bed?"
-    to "Тільки уяви, якщо однієї ночі ти прийдеш і підіймешся на другий поверх, {w}зайдеш у мою кімнату, {w}відкриєш двері легким поштовхом, щоб вони не скрипіли, {w}і залізеш в моє ліжко?"
+    to "Тільки уяви, якщо однієї ночі ти прийдеш і підіймешся на другий поверх, {w}зайдеш у мою кімнату, {w}відкриєш двері легким поштовхом, щоб вони не скрипіли, {w}і залізеш у моє ліжко?"
 
 # game/game/tomoe_events.rpy:1209
 translate ukrainian tomoe_eventtres_a2516744:

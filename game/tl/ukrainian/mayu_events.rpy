@@ -592,7 +592,7 @@ translate ukrainian mayu_talk_96ba90bd_1:
 translate ukrainian cons_ryoko_room_0ea40588:
 
     # mc "I already have the materials for this room."
-    mc "В мене вже є всі матеріали для цієї кімнати."
+    mc "У мене вже є всі матеріали для цієї кімнати."
 
 # game/game/mayu_events.rpy:914
 translate ukrainian cons_ryoko_room_c34a9d83:
@@ -736,7 +736,7 @@ translate ukrainian cons_2nd_room_3c17c59c:
 translate ukrainian cons_2nd_room_3d65f029:
 
     # mc "In fact, {w}I want to repair this room, I already have everything I need."
-    mc "Взагалі-то, {w}я хочу полагодити кімнату. В мене вже все готово."
+    mc "Взагалі-то, {w}я хочу полагодити кімнату. У мене вже все готово."
 
 # game/game/mayu_events.rpy:969
 translate ukrainian cons_2nd_room_9ddc03d3:

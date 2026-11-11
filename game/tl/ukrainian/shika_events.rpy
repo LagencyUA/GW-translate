@@ -1647,7 +1647,7 @@ translate ukrainian shika_gal1_2b35b6fe:
 translate ukrainian shika_gal1_f6236d5e:
 
     # mc "If I show you what I have there, will you believe me?..."
-    mc "Якщо я покажу тобі, що там в мене, ти мені повіриш?..."
+    mc "Якщо я покажу тобі, що там у мене, ти мені повіриш?..."
 
 # game/game/shika_events.rpy:586
 translate ukrainian shika_gal1_e1554201:
@@ -5589,7 +5589,7 @@ translate ukrainian shika_hrep_105a78de:
 translate ukrainian shika_hrep_a887ad11:
 
     # mc "Me? My plan was different..."
-    mc "Я? Мій план полягав у іншому..."
+    mc "Я? Мій план полягав в іншому..."
 
 # game/game/shika_events.rpy:1684
 translate ukrainian shika_hrep_47a68c38:

@@ -8925,7 +8925,7 @@ translate ukrainian orcfight_start_03fb3e88:
 translate ukrainian orcfight_start_eed3897a:
 
     # y "Orcs have more than one heart!"
-    y "У орків декілька сердець!"
+    y "В орків декілька сердець!"
 
 # game/game/script.rpy:3010
 translate ukrainian orcfight_start_aae115e2:
@@ -11388,7 +11388,7 @@ translate ukrainian stone_teleport_b27a2731:
 translate ukrainian stone_teleport_57b01703:
 
     # r "I don't know... I just have a bad feeling about this."
-    r "Я не знаю... В мене якесь погане передчуття."
+    r "Я не знаю... У мене якесь погане передчуття."
 
 # game/game/script.rpy:3784
 translate ukrainian stone_teleport_109a45bb:
@@ -11970,7 +11970,7 @@ translate ukrainian sucu_start_fight_8e6c7268:
 translate ukrainian sucu_start_fight_6613fc79:
 
     # a "Oh, {w}what bad manners I have."
-    a "Ой, {w}які ж в мене погані манери."
+    a "Ой, {w}які ж у мене погані манери."
 
 # game/game/script.rpy:3984
 translate ukrainian sucu_start_fight_2509d2a0:
@@ -12444,7 +12444,7 @@ translate ukrainian sucu_start_fight_a20cefa7:
 translate ukrainian sucu_start_fight_45d93a98:
 
     # r "{size=-10}I don't know... I feel that something's bothering me."
-    r "{size=-10}Я не знаю... В мене якесь погане передчуття."
+    r "{size=-10}Я не знаю... У мене якесь погане передчуття."
 
 # game/game/script.rpy:4103
 translate ukrainian sucu_start_fight_a20cefa7_1:
@@ -12678,7 +12678,7 @@ translate ukrainian sucu_start_fight_4f4eac53:
 translate ukrainian sucu_start_fight_f3e75761:
 
     # hi "I have the right to do what I want."
-    hi "В мене є право зробити так, як я захочу."
+    hi "У мене є право зробити так, як я захочу."
 
 # game/game/script.rpy:4165
 translate ukrainian sucu_start_fight_4b2abea6:
@@ -13476,7 +13476,7 @@ translate ukrainian keiko_gal2_f1bbbabc:
 translate ukrainian keiko_gal2_742b16b9:
 
     # mc "At what point did this happen?"
-    mc "У яку мить це відбулося?"
+    mc "В яку мить це відбулося?"
 
 # game/game/script.rpy:4367
 translate ukrainian keiko_gal2_d055095d:

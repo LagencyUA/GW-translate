@@ -2871,7 +2871,7 @@ translate ukrainian char_event4_738c4ef3:
 translate ukrainian char_event4_f592e81c:
 
     # mc "Of course,{w} or don't you see me in that way...?"
-    mc "Звісно.{w} Чи ти не бачиш в мені друга...?"
+    mc "Звісно.{w} Чи ти не бачиш у мені друга...?"
 
 # game/game/charlotte_events.rpy:1006
 translate ukrainian char_event4_d1d77b8a:
@@ -5247,7 +5247,7 @@ translate ukrainian char_night_spend_506c11b1:
 translate ukrainian char_night_spend_d9b24de0:
 
     # mc "I just wanted to see how you were doing."
-    mc "Я просто хотів поглянути, як в тебе справи."
+    mc "Я просто хотів поглянути, як у тебе справи."
 
 # game/game/charlotte_events.rpy:1638
 translate ukrainian char_night_spend_a0094907:

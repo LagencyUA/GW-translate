@@ -9561,7 +9561,7 @@ translate ukrainian yui_gal3_492d0504:
 translate ukrainian yui_gal3_de24917f:
 
     # y "N-Now you {w}AaaAah~{image=corazon} {w}didn't even ask before{w} NMNNMN~{image=corazon}{w} you did it~{image=corazon}{image=corazon}"
-    y "Л-Лише тепер {w}{i}АааАах~{/i}{image=corazon} {w}питаєш в мене, коли вже{w} {i}НМННМН~{/i}{image=corazon}{w} сам почав~{image=corazon}{image=corazon}"
+    y "Л-Лише тепер {w}{i}АааАах~{/i}{image=corazon} {w}питаєш у мене, коли вже{w} {i}НМННМН~{/i}{image=corazon}{w} сам почав~{image=corazon}{image=corazon}"
 
 # game/game/yui_events.rpy:3002
 translate ukrainian yui_gal3_089c9a3e:
@@ -11967,7 +11967,7 @@ translate ukrainian sol_eventtres_bf00a0f7:
 translate ukrainian sol_eventtres_95b4cd1d:
 
     # mc "You'll relax your muscles and reduce the pain of training."
-    mc "Так в тебе розслабляться м'язи та зменшиться біль після тренувань."
+    mc "Так у тебе розслабляться м'язи та зменшиться біль після тренувань."
 
 # game/game/yui_events.rpy:3787
 translate ukrainian sol_eventtres_53dad3eb:
@@ -12159,7 +12159,7 @@ translate ukrainian sol_eventtres_2acd2f6c:
 translate ukrainian sol_eventtres_22282130:
 
     # so "Yeah? {w}In my w-wet little pussy?~{image=/bg/icons/heart_text.png}"
-    so "Ага? {w}В мою м-мокреньку маленьку кицьку?~{image=/bg/icons/heart_text.png}"
+    so "Ага? {w}У мою м-мокреньку маленьку кицьку?~{image=/bg/icons/heart_text.png}"
 
 # game/game/yui_events.rpy:3834
 translate ukrainian sol_eventtres_76de6e98:

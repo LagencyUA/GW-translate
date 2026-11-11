@@ -4517,7 +4517,7 @@ translate ukrainian ryoko_handjob1_1fcb1404:
 translate ukrainian ryoko_2_h_9c12eb55:
 
     # t "I haven't been able to get out of my head how weak I was in the last fight...."
-    t "Я ніяк не можу позбутися думки про те, наскільки слабким я був у останній битві..."
+    t "Я ніяк не можу позбутися думки про те, наскільки слабким я був в останній битві..."
 
 # game/game/ryoko_events.rpy:1549
 translate ukrainian ryoko_2_h_85ff93ed:
