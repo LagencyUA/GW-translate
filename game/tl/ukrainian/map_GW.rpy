@@ -3,25 +3,25 @@
 translate ukrainian stone_dialogue_c3660bcb:
 
     # mc "Why do I need to go there?"
-    mc "Why do I need to go there?"
+    mc "Навіщо мені туди йти?"
 
 # game/game/map_GW.rpy:41
 translate ukrainian stone_requer_b26f0e41:
 
     # t "I can't just go there."
-    t "I can't just go there."
+    t "Я не можу просто зараз піти туди."
 
 # game/game/map_GW.rpy:42
 translate ukrainian stone_requer_fb1e98b6:
 
     # t "I think I still have some business to attend in the village."
-    t "I think I still have some business to attend in the village."
+    t "Гадаю, у мене ще є деякі справи, якими треба зайнятися в селищі."
 
 # game/game/map_GW.rpy:48
 translate ukrainian forest_dialogue_a0d178d9:
 
     # mc "I should spend more time with the girls before thinking about going back out into the Howling Forest."
-    mc "I should spend more time with the girls before thinking about going back out into the Howling Forest."
+    mc "Мені слід провести більше часу з дівчатами, перш ніж думати про те, щоб знову вирушити до Ревучого лісу."
 
 # game/game/map_GW.rpy:61
 translate ukrainian first_forest_event_9fafad11:
@@ -1329,7 +1329,7 @@ translate ukrainian first_forest_event_a20cefa7:
 translate ukrainian forest_inicio_5ce62be6:
 
     # t "I'll go to sleep and come back in the morning."
-    t "I'll go to sleep and come back in the morning."
+    t "Схожу посплю та вернуся зранку."
 
 # game/game/map_GW.rpy:465
 translate ukrainian forest_inicio_fcff7c84:
