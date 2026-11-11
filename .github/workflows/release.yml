@@ -1,3 +1,4 @@
+
 name: Publish Release
 
 on:
@@ -18,17 +19,36 @@ jobs:
           fetch-depth: 0
 
       - name: Extract Changelog Entry
+        shell: bash
         run: |
-          TAG_NAME="${{ github.ref_name }}"
-          VERSION="${TAG_NAME#v}"
+          TAG_NAME="${GITHUB_REF_NAME}"
 
+          # Перевіряємо, чи це тестовий реліз
+          if [[ "$TAG_NAME" == *-test ]]; then
+            IS_TEST=true
+            RELEASE_TAG="${TAG_NAME%-test}"
+          else
+            IS_TEST=false
+            RELEASE_TAG="$TAG_NAME"
+          fi
+
+          VERSION="${RELEASE_TAG#v}"
+
+          # Шукаємо відповідний запис у CHANGELOG.md
           awk -v version="$VERSION" '
-            $0 ~ "^## \\[" version "\\]" {
-              found=1
+            BEGIN {
+              header = "## [" version "]"
             }
-            found && NR > 1 && $0 ~ "^## \\[" && $0 !~ "^## \\[" version "\\]" {
+
+            substr($0, 1, length(header)) == header {
+              found = 1
+            }
+
+            found && NR > 1 && $0 ~ /^## \[/ &&
+              substr($0, 1, length(header)) != header {
               exit
             }
+
             found {
               print
             }
@@ -39,17 +59,20 @@ jobs:
             exit 1
           fi
 
+          echo "IS_TEST=${IS_TEST}" >> "$GITHUB_ENV"
+
           echo "Release notes:"
           cat release-notes.md
 
       - name: Prepare Clean Release Archive
+        shell: bash
         run: |
-          TAG_NAME="${{ github.ref_name }}"
+          TAG_NAME="${GITHUB_REF_NAME}"
           ARCHIVE_NAME="Goddesses_Whim_UA_${TAG_NAME}.zip"
 
           mkdir -p build/game/tl/ukrainian
 
-          cp -r game/tl/ukrainian/* build/game/tl/ukrainian/
+          cp -r game/tl/ukrainian/. build/game/tl/ukrainian/
 
           [ -d "icons" ] && cp -r icons build/
           [ -f "README.md" ] && cp README.md build/
@@ -66,6 +89,7 @@ jobs:
         with:
           files: ${{ env.ARCHIVE_NAME }}
           body_path: release-notes.md
-          prerelease: ${{ contains(github.ref_name, 'pre') || contains(github.ref_name, 'alpha') || contains(github.ref_name, 'beta') }}
+          draft: ${{ endsWith(github.ref_name, '-test') }}
+          prerelease: ${{ contains(github.ref_name, 'alpha') || contains(github.ref_name, 'beta') }}
           title: "Локалізація ${{ github.ref_name }}"
           generate_release_notes: false
