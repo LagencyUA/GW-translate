@@ -1407,115 +1407,115 @@ translate ukrainian forest_inicio_a83b0a77:
 translate ukrainian sato_event_1_5ecb153f:
 
     # t "I'm completely ready."
-    t "I'm completely ready."
+    t "Я цілком готовий."
 
 # game/game/map_GW.rpy:507
 translate ukrainian sato_event_1_30aba637:
 
     # t "I'll try to get there as soon as possible."
-    t "I'll try to get there as soon as possible."
+    t "Спробую дістатися туди якнайшвидше."
 
 # game/game/map_GW.rpy:508
 translate ukrainian sato_event_1_4ffa2b4a:
 
     # t "There's only one thing I didn't expect..."
-    t "There's only one thing I didn't expect..."
+    t "Не очікував я лише одного..."
 
 # game/game/map_GW.rpy:510
 translate ukrainian sato_event_1_95a73de3:
 
     # r "I haven't left the village with Master since we met."
-    r "I haven't left the village with Master since we met."
+    r "Я ще ніколи не полишала це селище, від нашої першої зустрічі з господарем."
 
 # game/game/map_GW.rpy:512
 translate ukrainian sato_event_1_f94b0589:
 
     # c "You've to be prepared at all times for any eventuality."
-    c "You've to be prepared at all times for any eventuality."
+    c "Ти повинна завжди бути готовою до будь-яких несподіванок."
 
 # game/game/map_GW.rpy:514
 translate ukrainian sato_event_1_a7286dc5:
 
     # r "Understood."
-    r "Understood."
+    r "Зрозуміла."
 
 # game/game/map_GW.rpy:516
 translate ukrainian sato_event_1_426e69ab:
 
     # mc "I remember I told you that I'd be gone for a few days."
-    mc "I remember I told you that I'd be gone for a few days."
+    mc "Я пам'ятаю, як казав вам, що мене не буде кілька днів."
 
 # game/game/map_GW.rpy:518
 translate ukrainian sato_event_1_c48388c0:
 
     # c "Yes."
-    c "Yes." (multiple=2)
+    c "Так." (multiple=2)
 
 # game/game/map_GW.rpy:519
 translate ukrainian sato_event_1_92e82b05:
 
     # r "Yes."
-    r "Yes." (multiple=2)
+    r "Так." (multiple=2)
 
 # game/game/map_GW.rpy:521
 translate ukrainian sato_event_1_376d114d:
 
     # mc "So...{w} what are you two doing here?"
-    mc "So...{w} what are you two doing here?"
+    mc "То...{w} що ви двоє робите?"
 
 # game/game/map_GW.rpy:523
 translate ukrainian sato_event_1_94cac6d1:
 
     # r "I was told that you were found \"meditating\" in the middle of those strange stones for several hours."
-    r "I was told that you were found \"meditating\" in the middle of those strange stones for several hours."
+    r "Мені кішка пронявчала, що вас знайшли, поки ви «медитували» серед тих дивних кам'яних руїн протягом кількох годин."
 
 # game/game/map_GW.rpy:524
 translate ukrainian sato_event_1_5cf80cbb:
 
     # mc "What!?"
-    mc "What!?" with vpunch
+    mc "Що!?" with vpunch
 
 # game/game/map_GW.rpy:526
 translate ukrainian sato_event_1_ec2d8853:
 
     # mc "Who told you that?"
-    mc "Who told you that?"
+    mc "І що це за кішка?"
 
 # game/game/map_GW.rpy:528
 translate ukrainian sato_event_1_67143680:
 
     # t "Don't look like you were distracted by a bird."
-    t "Don't look like you were distracted by a bird."
+    t "Не вдавай, ніби ґав ловиш."
 
 # game/game/map_GW.rpy:530
 translate ukrainian sato_event_1_a47c8d55:
 
     # r "I'll no longer let you go alone to faraway places."
-    r "I'll no longer let you go alone to faraway places."
+    r "Я більше не хочу дозволяти вам самому вирушати кудись у далечінь."
 
 # game/game/map_GW.rpy:531
 translate ukrainian sato_event_1_d7afdc3b:
 
     # mc "I-"
-    mc "I-"
+    mc "Я-"
 
 # game/game/map_GW.rpy:533
 translate ukrainian sato_event_1_bec311f2:
 
     # r "And you were planning to go with nothing to eat on the trip?"
-    r "And you were planning to go with nothing to eat on the trip?"
+    r "І невже ви планували піти в подорож, не взявши із собою нічого поїсти?"
 
 # game/game/map_GW.rpy:534
 translate ukrainian sato_event_1_610c7681:
 
     # mc "Err-"
-    mc "Err-"
+    mc "Емм-"
 
 # game/game/map_GW.rpy:536
 translate ukrainian sato_event_1_ad4d165a:
 
     # r "I'm sure you didn't even think about resting a little."
-    r "I'm sure you didn't even think about resting a little."
+    r "Упевнена, ви навіть не думали про невеличкий відпочинок."
 
 # game/game/map_GW.rpy:537
 translate ukrainian sato_event_1_2b35b6fe:
@@ -1527,25 +1527,25 @@ translate ukrainian sato_event_1_2b35b6fe:
 translate ukrainian sato_event_1_dcee8cb0:
 
     # mc "Char-"
-    mc "Char-"
+    mc "Шарл-"
 
 # game/game/map_GW.rpy:540
 translate ukrainian sato_event_1_21464332:
 
     # t "Now you're distracted by butterflies!?"
-    t "Now you're distracted by butterflies!?" with hpunch
+    t "Уже метеликів ловиш!?" with hpunch
 
 # game/game/map_GW.rpy:542
 translate ukrainian sato_event_1_2de3efbb:
 
     # mc "{size=-7}L-Let's go..."
-    mc "{size=-7}L-Let's go..."
+    mc "{size=-7}Х-Ходімо..."
 
 # game/game/map_GW.rpy:543
 translate ukrainian sato_event_1_ad706935:
 
     # r "Yes!~ {w}Master!~{image=corazon}"
-    r "Yes!~ {w}Master!~{image=corazon}"
+    r "Так!~ {w}Господарю!~{image=corazon}"
 
 # game/game/map_GW.rpy:544
 translate ukrainian sato_event_1_d19f855d:
@@ -1557,13 +1557,13 @@ translate ukrainian sato_event_1_d19f855d:
 translate ukrainian sato_event_1_067c2cc8:
 
     # t "They both seem to know the way."
-    t "They both seem to know the way."
+    t "Здається, ніби вони обидві знають дорогу."
 
 # game/game/map_GW.rpy:549
 translate ukrainian sato_event_1_6b4705d2:
 
     # t "Maybe it was a good idea to bring them with me."
-    t "Maybe it was a good idea to bring them with me."
+    t "Мабуть, це не така вже й погана ідея — узяти їх із собою."
 
 # game/game/map_GW.rpy:550
 translate ukrainian sato_event_1_2b35b6fe_1:
@@ -1575,151 +1575,151 @@ translate ukrainian sato_event_1_2b35b6fe_1:
 translate ukrainian sato_event_1_bc1700b8:
 
     # t "Or they bring me, I don't know what's going on."
-    t "Or they bring me, I don't know what's going on."
+    t "Чи це вони мене за собою тягнуть — я вже й сам не розумію, що коїться."
 
 # game/game/map_GW.rpy:558
 translate ukrainian sato_event_1_020ccc25:
 
     # c "We are close."
-    c "We are close."
+    c "Ми вже близько."
 
 # game/game/map_GW.rpy:559
 translate ukrainian sato_event_1_08b5df7f:
 
     # mc "Ok."
-    mc "Ok."
+    mc "Ясно."
 
 # game/game/map_GW.rpy:563
 translate ukrainian sato_event_1_e12f9378:
 
     # r "I can see it!"
-    r "I can see it!"
+    r "Я бачу його!"
 
 # game/game/map_GW.rpy:566
 translate ukrainian sato_event_1_61f57705:
 
     # mc "Is it that easy to get into this town?"
-    mc "Is it that easy to get into this town?"
+    mc "Невже потрапити в це містечко настільки просто?"
 
 # game/game/map_GW.rpy:570
 translate ukrainian sato_event_1_af879d5d:
 
     # c "They're surrounded by mountains, and the monsters don't approach thanks to the power of a high priestess."
-    c "They're surrounded by mountains, and the monsters don't approach thanks to the power of a high priestess."
+    c "Вони оточені горами, а монстри не наважуються наблизитися завдяки силі верховної жриці."
 
 # game/game/map_GW.rpy:572
 translate ukrainian sato_event_1_5ec1f12c:
 
     # c "But I remember there were many more people."
-    c "But I remember there were many more people."
+    c "Але, пригадую, що тут було значно більше людей."
 
 # game/game/map_GW.rpy:573
 translate ukrainian sato_event_1_fe7d23fb:
 
     # c "I only see one person from here."
-    c "I only see one person from here."
+    c "Я бачу звідси тільки когось одного."
 
 # game/game/map_GW.rpy:575
 translate ukrainian sato_event_1_3fd24705:
 
     # r "She looks kind of sad."
-    r "She looks kind of sad."
+    r "Вона якась сумна."
 
 # game/game/map_GW.rpy:576
 translate ukrainian sato_event_1_842d6717:
 
     # mc "How can you tell from this distance?"
-    mc "How can you tell from this distance?"
+    mc "Як ти це зрозуміла з такої відстані?"
 
 # game/game/map_GW.rpy:577
 translate ukrainian sato_event_1_62c8f79d:
 
     # r "I don't know..."
-    r "I don't know..."
+    r "Не знаю..."
 
 # game/game/map_GW.rpy:579
 translate ukrainian sato_event_1_e57c52c6:
 
     # mc "She seems to have noticed us."
-    mc "She seems to have noticed us."
+    mc "Здається, вона нас помітила."
 
 # game/game/map_GW.rpy:580
 translate ukrainian sato_event_1_e16d6595:
 
     # c "{size=-7}Hmm... {w}she doesn't seem to have any intention of attacking us."
-    c "{size=-7}Hmm... {w}she doesn't seem to have any intention of attacking us."
+    c "{size=-7}Гмм... {w}не схоже, що вона збирається на нас напасти."
 
 # game/game/map_GW.rpy:582
 translate ukrainian sato_event_1_502f9a4e:
 
     # mc "Let me talk to her."
-    mc "Let me talk to her."
+    mc "Я, певно, поговорю з нею."
 
 # game/game/map_GW.rpy:583
 translate ukrainian sato_event_1_d3b7c951:
 
     # c "Are you sure? {w}You shouldn't trust anyone."
-    c "Are you sure? {w}You shouldn't trust anyone."
+    c "Упевнений? {w}Не можна довіряти будь-кому."
 
 # game/game/map_GW.rpy:584
 translate ukrainian sato_event_1_686ef9a4:
 
     # mc "Hana gave me a letter to avoid any problems..."
-    mc "Hana gave me a letter to avoid any problems..."
+    mc "Хана дала мені цей лист, щоб уникнути проблем..."
 
 # game/game/map_GW.rpy:586
 translate ukrainian sato_event_1_dde66853:
 
     # mc "And if she wanted to hurt us, she would've done something by now."
-    mc "And if she wanted to hurt us, she would've done something by now."
+    mc "І якби вона хотіла нам зашкодити, то не стала б так довго чекати."
 
 # game/game/map_GW.rpy:587
 translate ukrainian sato_event_1_921d7c05:
 
     # r "Well... {w}if the doctor says so..."
-    r "Well... {w}if the doctor says so..."
+    r "Ну... {w}якщо лікарка дійсно так сказала..."
 
 # game/game/map_GW.rpy:588
 translate ukrainian sato_event_1_721b5795:
 
     # mc "{size=-7}Eh?"
-    mc "{size=-7}Eh?"
+    mc "{size=-7}Ех?"
 
 # game/game/map_GW.rpy:590
 translate ukrainian sato_event_1_e5ca7717:
 
     # c "All right, {w}don't talk too much and give her the letter."
-    c "All right, {w}don't talk too much and give her the letter."
+    c "Гаразд, {w}язиком багато не ляпай і просто віддай їй того листа."
 
 # game/game/map_GW.rpy:591
 translate ukrainian sato_event_1_3ff504b7:
 
     # r "If you feel you can't, I will speak for you~"
-    r "If you feel you can't, I will speak for you~"
+    r "Якщо відчуваєте, що не впораєтесь, я говоритиму від вашого імені~"
 
 # game/game/map_GW.rpy:592
 translate ukrainian sato_event_1_418c6b68:
 
     # t "Do they see me as a kid now?!"
-    t "Do they see me as a kid now?!" with hpunch
+    t "Тепер я дитина в їхніх очах?!" with hpunch
 
 # game/game/map_GW.rpy:594
 translate ukrainian sato_event_1_94930ee6:
 
     # t "Do they think I look for trouble everywhere I go?"
-    t "Do they think I look for trouble everywhere I go?"
+    t "Невже вони думають, що я на кожному кроці шукаю проблем?"
 
 # game/game/map_GW.rpy:596
 translate ukrainian sato_event_1_63c9faf2:
 
     # t "I'll show them how well I do this."
-    t "I'll show them how well I do this."
+    t "Я покажу їм, як добре я впораюся."
 
 # game/game/map_GW.rpy:597
 translate ukrainian sato_event_1_7f6ca188:
 
     # t "Just have a normal conversation, and hand her the letter."
-    t "Just have a normal conversation, and hand her the letter."
+    t "Просто треба нормально поговорити та передати цього листа."
 
 # game/game/map_GW.rpy:599
 translate ukrainian sato_event_1_2b35b6fe_2:
@@ -1731,79 +1731,79 @@ translate ukrainian sato_event_1_2b35b6fe_2:
 translate ukrainian sato_event_1_72441c49:
 
     # t "Now that I see her more closely..."
-    t "Now that I see her more closely..."
+    t "Тепер, коли я бачу її зблизька..."
 
 # game/game/map_GW.rpy:602
 translate ukrainian sato_event_1_e6cfac47:
 
     # t "This girl has... {w}scales?"
-    t "This girl has... {w}scales?"
+    t "У неї... {w}луска?"
 
 # game/game/map_GW.rpy:603
 translate ukrainian sato_event_1_bbc68778:
 
     # t "And her tail is quite peculiar..."
-    t "And her tail is quite peculiar..."
+    t "А її хвіст досить незвичний..."
 
 # game/game/map_GW.rpy:605
 translate ukrainian sato_event_1_76ca1ef0:
 
     # t "She looks very angry..."
-    t "She looks very angry..."
+    t "Якийсь у неї розлючений вигляд..."
 
 # game/game/map_GW.rpy:606
 translate ukrainian sato_event_1_3fd90cd8:
 
     # t "H-How can I start a conversation with someone who looks at me like that...?"
-    t "H-How can I start a conversation with someone who looks at me like that...?"
+    t "Я-Як мені почати розмову з кимось, хто на мене так дивиться...?"
 
 # game/game/map_GW.rpy:608
 translate ukrainian sato_event_1_36b61b20:
 
     # c "{size=-10}Stop looking at her and say something!"
-    c "{size=-10}Stop looking at her and say something!"
+    c "{size=-10}Годі витріщатися на неї, скажи вже щось!"
 
 # game/game/map_GW.rpy:609
 translate ukrainian sato_event_1_acecfce7:
 
     # r "{size=-10}Master has a lewd face..."
-    r "{size=-10}Master has a lewd face..."
+    r "{size=-10}У господаря хтиве обличчя..."
 
 # game/game/map_GW.rpy:611
 translate ukrainian sato_event_1_6aa40396:
 
     # mc "{size=+10}Ahem*"
-    mc "{size=+10}Ahem*"
+    mc "{size=+10}{i}*Кхем*{/i}"
 
 # game/game/map_GW.rpy:612
 translate ukrainian sato_event_1_ced426aa:
 
     # mc "It's a nice day, isn't it?"
-    mc "It's a nice day, isn't it?"
+    mc "Погодка сьогодні чудова, правда?"
 
 # game/game/map_GW.rpy:613
 translate ukrainian sato_event_1_9a614b12:
 
     # c "{size=-10}Sigh*"
-    c "{size=-10}Sigh*"
+    c "{size=-10}{i}*Хааах*{/i}"
 
 # game/game/map_GW.rpy:614
 translate ukrainian sato_event_1_8a9f6bb6:
 
     # r "{size=-10}Master..."
-    r "{size=-10}Master..."
+    r "{size=-10}Господарю..."
 
 # game/game/map_GW.rpy:615
 translate ukrainian sato_event_1_09884666:
 
     # t "Stop judging me!"
-    t "Stop judging me!" with vpunch
+    t "Годі мене критикувати!" with vpunch
 
 # game/game/map_GW.rpy:617
 translate ukrainian sato_event_1_ff9f5230:
 
     # mc "I have a letter."
-    mc "I have a letter."
+    mc "У мене лист."
 
 # game/game/map_GW.rpy:618
 translate ukrainian sato_event_1_bb8e4b4e:
@@ -1815,13 +1815,13 @@ translate ukrainian sato_event_1_bb8e4b4e:
 translate ukrainian sato_event_1_398f3f89:
 
     # c "{size=-10}You won't explain anything?"
-    c "{size=-10}You won't explain anything?"
+    c "{size=-10}Ти не збираєшся нічого пояснювати?"
 
 # game/game/map_GW.rpy:620
 translate ukrainian sato_event_1_7c4861dd:
 
     # r "{size=-10}Do you want me to take care of it?"
-    r "{size=-10}Do you want me to take care of it?"
+    r "{size=-10}Не бажаєте, щоб я впоралася з цим?"
 
 # game/game/map_GW.rpy:621
 translate ukrainian sato_event_1_2b35b6fe_3:
@@ -1839,7 +1839,7 @@ translate ukrainian sato_event_1_bb8e4b4e_1:
 translate ukrainian sato_event_1_674b7921:
 
     # t "Is it just me or is she looking at Ryoko...?"
-    t "Is it just me or is she looking at Ryoko...?"
+    t "Мені здається, чи вона дивиться на Рьоко...?"
 
 # game/game/map_GW.rpy:632
 translate ukrainian sato_event_1_b9b755e5:
@@ -1851,7 +1851,7 @@ translate ukrainian sato_event_1_b9b755e5:
 translate ukrainian sato_event_1_fbb1b965:
 
     # a "{size=-7}Sigh..."
-    a "{size=-7}Sigh..."
+    a "{size=-7}{i}*Хааах*{/i}..."
 
 # game/game/map_GW.rpy:635
 translate ukrainian sato_event_1_3784857a:
@@ -1863,97 +1863,97 @@ translate ukrainian sato_event_1_3784857a:
 translate ukrainian sato_event_1_dd43d9d5:
 
     # mc "Is something wrong-"
-    mc "Is something wrong-"
+    mc "Щось не та-"
 
 # game/game/map_GW.rpy:647
 translate ukrainian sato_event_1_991c0126:
 
     # c "{size=-7}Don't move."
-    c "{size=-7}Don't move."
+    c "{size=-7}Завмри."
 
 # game/game/map_GW.rpy:648
 translate ukrainian sato_event_1_b7f3d88e:
 
     # r "Master!"
-    r "Master!" with vpunch
+    r "Господарю!" with vpunch
 
 # game/game/map_GW.rpy:649
 translate ukrainian sato_event_1_4a61c24b:
 
     # t "C-Charlotte moved super fast..."
-    t "C-Charlotte moved super fast..."
+    t "Ш-Шарлотта дуже швидко відреагувала..."
 
 # game/game/map_GW.rpy:651
 translate ukrainian sato_event_1_93b97c67:
 
     # t "And Ryoko also acted immediately."
-    t "And Ryoko also acted immediately."
+    t "І Рьоко теж одразу почала діяти."
 
 # game/game/map_GW.rpy:652
 translate ukrainian sato_event_1_c890a565:
 
     # mc "Don't worry, everything is fine..."
-    mc "Don't worry, everything is fine..."
+    mc "Не хвилюйся, все добре..."
 
 # game/game/map_GW.rpy:654
 translate ukrainian sato_event_1_d9198cb1:
 
     # c "What do you think you're doing?"
-    c "What do you think you're doing?"
+    c "Що ти задумала?"
 
 # game/game/map_GW.rpy:655
 translate ukrainian sato_event_1_c657f679:
 
     # a "For a slaver, {w}they protect you very well."
-    a "For a slaver, {w}they protect you very well."
+    a "Як на рабовласника, {w}вони досить добре тебе захищають."
 
 # game/game/map_GW.rpy:657
 translate ukrainian sato_event_1_82fd2833:
 
     # a "I don't want to imagine how you trained them."
-    a "I don't want to imagine how you trained them."
+    a "Не хочу навіть уявляти, як ти їх тренував."
 
 # game/game/map_GW.rpy:658
 translate ukrainian sato_event_1_4ec7a2fb:
 
     # mc "Slaver?"
-    mc "Slaver?"
+    mc "Рабовласника?"
 
 # game/game/map_GW.rpy:660
 translate ukrainian sato_event_1_e95649e8:
 
     # a "Why do you protect that scum."
-    a "Why do you protect that scum."
+    a "Чому ти захищаєш цього негідника?"
 
 # game/game/map_GW.rpy:661
 translate ukrainian sato_event_1_3966b3dd:
 
     # a "If we kill him between the two of us, the demon girl's chains will be released."
-    a "If we kill him between the two of us, the demon girl's chains will be released."
+    a "Якщо ми вдвох його прикінчимо, це позбавить демоницю від ланцюгів."
 
 # game/game/map_GW.rpy:662
 translate ukrainian sato_event_1_0c6abcdf:
 
     # c "I said {w}don't move."
-    c "I said {w}don't move."
+    c "Сказала же, {w}завмри."
 
 # game/game/map_GW.rpy:664
 translate ukrainian sato_event_1_426aab87:
 
     # mc "Released?!"
-    mc "Released?!" with vpunch
+    mc "Позбавить?!" with vpunch
 
 # game/game/map_GW.rpy:665
 translate ukrainian sato_event_1_6946dbfe:
 
     # c "No one is anyone's slave."
-    c "No one is anyone's slave."
+    c "Тут ніхто нікому не раб."
 
 # game/game/map_GW.rpy:666
 translate ukrainian sato_event_1_b7f3d88e_1:
 
     # r "Master!"
-    r "Master!" with vpunch
+    r "Господарю!" with vpunch
 
 # game/game/map_GW.rpy:668
 translate ukrainian sato_event_1_f0c78c10:
@@ -1977,13 +1977,13 @@ translate ukrainian sato_event_1_732a8756:
 translate ukrainian sato_event_1_b3106831:
 
     # mc "It's a long story..."
-    mc "It's a long story..."
+    mc "Це довга історія..."
 
 # game/game/map_GW.rpy:672
 translate ukrainian sato_event_1_08f220de:
 
     # mc "Charlotte, {w}let her go, {w}there was just a misunderstanding."
-    mc "Charlotte, {w}let her go, {w}there was just a misunderstanding."
+    mc "Шарлотто, {w}відпусти її, {w}гадаю, це просто непорозуміння."
 
 # game/game/map_GW.rpy:673
 translate ukrainian sato_event_1_d19f855d_1:
@@ -1995,139 +1995,139 @@ translate ukrainian sato_event_1_d19f855d_1:
 translate ukrainian sato_event_1_3d22b18f:
 
     # a "What weird people..."
-    a "What weird people..."
+    a "Які ви всі дивні..."
 
 # game/game/map_GW.rpy:681
 translate ukrainian sato_event_1_4dfd982f:
 
     # a "But I admit that you guys look strong."
-    a "But I admit that you guys look strong."
+    a "Але варто визнати, ви маєте досить сильний вигляд."
 
 # game/game/map_GW.rpy:683
 translate ukrainian sato_event_1_d9a9f1dc:
 
     # mc "Now if you let me start again-"
-    mc "Now if you let me start again-"
+    mc "Тепер, якщо дозволиш мені почати спочатку-"
 
 # game/game/map_GW.rpy:684
 translate ukrainian sato_event_1_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/map_GW.rpy:685
 translate ukrainian sato_event_1_5e4df1c2:
 
     # mc "Someone is coming in a hurry."
-    mc "Someone is coming in a hurry."
+    mc "Хтось сюди поспішає."
 
 # game/game/map_GW.rpy:687
 translate ukrainian sato_event_1_44084635:
 
     # a "Huh...?"
-    a "Huh...?"
+    a "Га...?"
 
 # game/game/map_GW.rpy:688
 translate ukrainian sato_event_1_228b8709:
 
     # a "I said no one can leave their homes!"
-    a "I said no one can leave their homes!" with vpunch
+    a "Я ж казала, що нікому не можна виходити з дому!" with vpunch
 
 # game/game/map_GW.rpy:689
 translate ukrainian sato_event_1_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/map_GW.rpy:691
 translate ukrainian sato_event_1_2e3bab44:
 
     # a "S-Sayori!"
-    a "S-Sayori!" with hpunch
+    a "С-Сайорі!" with hpunch
 
 # game/game/map_GW.rpy:692
 translate ukrainian sato_event_1_35a2fc9c:
 
     # sa "What's wrong, why so agitated?"
-    sa "What's wrong, why so agitated?"
+    sa "Що сталося, чому ти така схвильована?"
 
 # game/game/map_GW.rpy:693
 translate ukrainian sato_event_1_029cd1e9:
 
     # a "It's the priestess!"
-    a "It's the priestess!"
+    a "Жриця!"
 
 # game/game/map_GW.rpy:694
 translate ukrainian sato_event_1_dcaa440c:
 
     # sa "Speak up, Aoi! {w}What's wrong with her?"
-    sa "Speak up, Aoi! {w}What's wrong with her?" with hpunch
+    sa "Кажи, Аой! {w}Що з нею?" with hpunch
 
 # game/game/map_GW.rpy:696
 translate ukrainian sato_event_1_63f6cb22:
 
     # ao "She's in trouble!"
-    ao "She's in trouble!" with vpunch
+    ao "Вона в халепі!" with vpunch
 
 # game/game/map_GW.rpy:703
 translate ukrainian sato_event_1_d201ff22:
 
     # mc "Aoi right?"
-    mc "Aoi right?"
+    mc "Аой, так?"
 
 # game/game/map_GW.rpy:704
 translate ukrainian sato_event_1_e172affa:
 
     # mc "Can we help in any way?"
-    mc "Can we help in any way?"
+    mc "Я зможу чимось допомогти?"
 
 # game/game/map_GW.rpy:705
 translate ukrainian sato_event_1_1572914a:
 
     # ao "W-Who are you...?"
-    ao "W-Who are you...?"
+    ao "Х-Хто ви...?"
 
 # game/game/map_GW.rpy:710
 translate ukrainian sato_event_1_4681dfa1:
 
     # a "Gentlemen, {w}why don't you lay down your weapons?"
-    a "Gentlemen, {w}why don't you lay down your weapons?"
+    a "Панове, {w}чому б вам не скласти свою зброю?"
 
 # game/game/map_GW.rpy:711
 translate ukrainian sato_event_1_8b443464:
 
     # ms "Don't resist."
-    ms "Don't resist."
+    ms "Не опирайся"
 
 # game/game/map_GW.rpy:712
 translate ukrainian sato_event_1_b818dc95:
 
     # ms "If you don't come with us, {w}we will take more people!"
-    ms "If you don't come with us, {w}we will take more people!"
+    ms "Якщо не підеш з нами, {w}ми заберемо ще більше людей!"
 
 # game/game/map_GW.rpy:713
 translate ukrainian sato_event_1_405c3b77:
 
     # a "You know I can't get out of here."
-    a "You know I can't get out of here."
+    a "Ви знаєте, що я не зможу лишити це місце."
 
 # game/game/map_GW.rpy:715
 translate ukrainian sato_event_1_9c8abd2c:
 
     # ms "W-We have the order to use force."
-    ms "W-We have the order to use force."
+    ms "У н-нас є наказ застосовувати силу."
 
 # game/game/map_GW.rpy:716
 translate ukrainian sato_event_1_5b980b0e:
 
     # a "You don't have to do this, {w}we could find a way to break those chains."
-    a "You don't have to do this, {w}we could find a way to break those chains."
+    a "Вам не обов'язково це робити, {w}ми могли б знайти спосіб розірвати ці ланцюги."
 
 # game/game/map_GW.rpy:717
 translate ukrainian sato_event_1_f97dae8c:
 
     # a "Don't you want to resume your old lives...?"
-    a "Don't you want to resume your old lives...?"
+    a "Хіба ви не бажаєте повернутися до свого колишнього життя...?"
 
 # game/game/map_GW.rpy:718
 translate ukrainian sato_event_1_374d0d66:
@@ -2139,25 +2139,25 @@ translate ukrainian sato_event_1_374d0d66:
 translate ukrainian sato_event_1_32b6398b:
 
     # ms "Don't let her make you doubt!"
-    ms "Don't let her make you doubt!" with vpunch
+    ms "Не дозвольте їй змусити вас засумніватися!" with vpunch
 
 # game/game/map_GW.rpy:721
 translate ukrainian sato_event_1_8dc0c145:
 
     # ms "Not even the high priestess can break the chains of slavery."
-    ms "Not even the high priestess can break the chains of slavery."
+    ms "Навіть верховна жриця не зможе розірвати рабські ланцюги."
 
 # game/game/map_GW.rpy:722
 translate ukrainian sato_event_1_b433f55b:
 
     # ms "Y-yes.."
-    ms "Y-yes.."
+    ms "Т-Так.."
 
 # game/game/map_GW.rpy:724
 translate ukrainian sato_event_1_1f07817e:
 
     # a "Gentlemen... {w}you know that if you take me out of here, {w}all the people in this village will die."
-    a "Gentlemen... {w}you know that if you take me out of here, {w}all the people in this village will die."
+    a "Панове... {w}ви ж розумієте, що якщо заберете мене звідси, {w}всі мешканці цього містечка загинуть."
 
 # game/game/map_GW.rpy:728
 translate ukrainian sato_event_1_374d0d66_1:
@@ -2169,139 +2169,139 @@ translate ukrainian sato_event_1_374d0d66_1:
 translate ukrainian sato_event_1_801f0b3b:
 
     # ms "W-We can't disobey orders!"
-    ms "W-We can't disobey orders!" with hpunch
+    ms "М-Ми не можемо ігнорувати накази!" with hpunch
 
 # game/game/map_GW.rpy:733
 translate ukrainian sato_event_1_5321c80e:
 
     # sa "{size=+10}HEY!"
-    sa "{size=+10}HEY!" with hpunch
+    sa "{size=+10}АГОВ!" with hpunch
 
 # game/game/map_GW.rpy:735
 translate ukrainian sato_event_1_953e5116:
 
     # sa "{size=+5}Touch a single hair and you're all dead!"
-    sa "{size=+5}Touch a single hair and you're all dead!" with vpunch
+    sa "{size=+5}Тільки пальцем торкніться її — і вам усім кінець!" with vpunch
 
 # game/game/map_GW.rpy:736
 translate ukrainian sato_event_1_36ff24ff:
 
     # sa "Miss Alice, {w}are you all right?"
-    sa "Miss Alice, {w}are you all right?"
+    sa "Пані Алісо, {w}з вами все гаразд?"
 
 # game/game/map_GW.rpy:737
 translate ukrainian sato_event_1_9ec43729:
 
     # al "Don't get close! {w}Don't put yourself in danger."
-    al "Don't get close! {w}Don't put yourself in danger." with vpunch
+    al "Не підходь! {w}Не варто ризикувати." with vpunch
 
 # game/game/map_GW.rpy:739
 translate ukrainian sato_event_1_78dbf64a:
 
     # ms "You two take care of her."
-    ms "You two take care of her."
+    ms "Ви двоє, займіться нею."
 
 # game/game/map_GW.rpy:740
 translate ukrainian sato_event_1_321e43c8:
 
     # ms "YES!"
-    ms "YES!" with hpunch
+    ms "ТАК!" with hpunch
 
 # game/game/map_GW.rpy:741
 translate ukrainian sato_event_1_1744cb14:
 
     # al "Wait! {w}Don't do anything to her."
-    al "Wait! {w}Don't do anything to her."
+    al "Стійте! {w}Не чіпайте її."
 
 # game/game/map_GW.rpy:743
 translate ukrainian sato_event_1_ece6de12:
 
     # al "{size=-8}Ah..."
-    al "{size=-8}Ah..."
+    al "{size=-8}Ах..."
 
 # game/game/map_GW.rpy:744
 translate ukrainian sato_event_1_4b0f837e:
 
     # ms "There's no longer any way out."
-    ms "There's no longer any way out."
+    ms "У тебе немає іншого вибору."
 
 # game/game/map_GW.rpy:745
 translate ukrainian sato_event_1_0e17f1c3:
 
     # ms "We don't want to hurt you, {w}just come with us."
-    ms "We don't want to hurt you, {w}just come with us."
+    ms "Ми не хочемо тобі зашкодити, {w}просто ходи з нами."
 
 # game/game/map_GW.rpy:746
 translate ukrainian sato_event_1_33f7df65:
 
     # al "Sayori, take care of all."
-    al "Sayori, take care of all."
+    al "Сайорі, подбай про все."
 
 # game/game/map_GW.rpy:747
 translate ukrainian sato_event_1_ca8b425e:
 
     # ms "Grab her."
-    ms "Grab her."
+    ms "Хапайте її."
 
 # game/game/map_GW.rpy:748
 translate ukrainian sato_event_1_4a8d877f:
 
     # ms "Ye-"
-    ms "Ye-"
+    ms "Та-"
 
 # game/game/map_GW.rpy:759
 translate ukrainian sato_event_1_16e83d50:
 
     # ms "Y-You!"
-    ms "Y-You!"
+    ms "Т-Ти!"
 
 # game/game/map_GW.rpy:772
 translate ukrainian sato_event_1_7732dcd2:
 
     # ms "HuOOGhg!"
-    ms "HuOOGhg!" with hpunch
+    ms "{i}ХуООГхг!{/i}" with hpunch
 
 # game/game/map_GW.rpy:782
 translate ukrainian sato_event_1_00749889:
 
     # mc "{size=-7}Sigh..."
-    mc "{size=-7}Sigh..."
+    mc "{size=-7}{i}*Хааах*{/i}..."
 
 # game/game/map_GW.rpy:783
 translate ukrainian sato_event_1_4082ec19:
 
     # t "E-Even if it was just a little bit... {w}I think I was able to control my strength..."
-    t "E-Even if it was just a little bit... {w}I think I was able to control my strength..."
+    t "Н-Навіть якщо зовсім трішки... {w}гадаю, мені вдалося контролювати власну силу..."
 
 # game/game/map_GW.rpy:785
 translate ukrainian sato_event_1_046166e3:
 
     # sa "{size=-7}{i}W-What the hell was that exaggeratedly strong blow?"
-    sa "{size=-7}{i}W-What the hell was that exaggeratedly strong blow?"
+    sa "{size=-7}{i}Щ-Що це в біса за скажений удар був?"
 
 # game/game/map_GW.rpy:786
 translate ukrainian sato_event_1_f71b9541:
 
     # sa "{size=-7}{i}That guy is stronger than he looks..."
-    sa "{size=-7}{i}That guy is stronger than he looks..."
+    sa "{size=-7}{i}Той хлопець сильніший, ніж здається..."
 
 # game/game/map_GW.rpy:788
 translate ukrainian sato_event_1_2f1186e1:
 
     # ms "A-Are they both unconscious?"
-    ms "A-Are they both unconscious?"
+    ms "Т-Ті двоє не при тямі?"
 
 # game/game/map_GW.rpy:789
 translate ukrainian sato_event_1_78d70f06:
 
     # ms "Who are those guys...?"
-    ms "Who are those guys...?"
+    ms "Хто вони такі...?"
 
 # game/game/map_GW.rpy:790
 translate ukrainian sato_event_1_346cc8a3:
 
     # mc "Do you want to keep fighting or do you want to join your comrades on the ground?"
-    mc "Do you want to keep fighting or do you want to join your comrades on the ground?"
+    mc "Хочете продовжити бійку, чи бажаєте доєднатися до своїх товаришів на землі?"
 
 # game/game/map_GW.rpy:792
 translate ukrainian sato_event_1_5c2c1761:
@@ -2325,37 +2325,37 @@ translate ukrainian sato_event_1_07cd6b38:
 translate ukrainian sato_event_1_d4b2cc90:
 
     # sa "{size=-7}{i}They can barely walk..."
-    sa "{size=-7}{i}They can barely walk..."
+    sa "{size=-7}{i}Вони ледь-ледь шкандибають..."
 
 # game/game/map_GW.rpy:801
 translate ukrainian sato_event_1_d2e8f683:
 
     # c "Good reaction, Human."
-    c "Good reaction, Human."
+    c "Гарна реакція, Людино."
 
 # game/game/map_GW.rpy:802
 translate ukrainian sato_event_1_8b023c6f:
 
     # mc "Oh, {w}thanks."
-    mc "Oh, {w}thanks."
+    mc "Ох, {w}дякую."
 
 # game/game/map_GW.rpy:804
 translate ukrainian sato_event_1_e95f60cd:
 
     # mc "Your moves are always amazing."
-    mc "Your moves are always amazing."
+    mc "Твої рухи дивовижні, як завжди."
 
 # game/game/map_GW.rpy:805
 translate ukrainian sato_event_1_02c24dc7:
 
     # mc "Watching you kick that guy reminded me of when I first met you."
-    mc "Watching you kick that guy reminded me of when I first met you."
+    mc "Коли я побачив, як ти збила того хлопця, це нагадало мені нашу першу зустріч."
 
 # game/game/map_GW.rpy:807
 translate ukrainian sato_event_1_c08de502:
 
     # mc "We make a good team hahaha."
-    mc "We make a good team hahaha."
+    mc "З нас виходить гарна команда, хахаха."
 
 # game/game/map_GW.rpy:808
 translate ukrainian sato_event_1_d19f855d_2:
@@ -2367,19 +2367,19 @@ translate ukrainian sato_event_1_d19f855d_2:
 translate ukrainian sato_event_1_18bcb034:
 
     # sa "Why did you help us?"
-    sa "Why did you help us?"
+    sa "Навіщо ви допомогли нам?"
 
 # game/game/map_GW.rpy:811
 translate ukrainian sato_event_1_01bf8ac7:
 
     # sa "Now you've become their enemy."
-    sa "Now you've become their enemy."
+    sa "Тепер ви також їхні вороги."
 
 # game/game/map_GW.rpy:812
 translate ukrainian sato_event_1_3395f4ec:
 
     # mc "Nor would I want to be allied with people who attack one person in a group."
-    mc "Nor would I want to be allied with people who attack one person in a group."
+    mc "А я б і не хотів товаришувати з тими, хто нападає групою на одного."
 
 # game/game/map_GW.rpy:813
 translate ukrainian sato_event_1_07cd6b38_1:
@@ -2391,13 +2391,13 @@ translate ukrainian sato_event_1_07cd6b38_1:
 translate ukrainian sato_event_1_051acbb7:
 
     # sa "I thought you were a weirdo but now my opinion has changed."
-    sa "I thought you were a weirdo but now my opinion has changed."
+    sa "Гадала, що ти якийсь дивак, але тепер моя думка змінилася."
 
 # game/game/map_GW.rpy:816
 translate ukrainian sato_event_1_e2664f38:
 
     # sa "{size=-10}Just a little."
-    sa "{size=-10}Just a little."
+    sa "{size=-10}Лише трохи."
 
 # game/game/map_GW.rpy:817
 translate ukrainian sato_event_1_2b35b6fe_4:
@@ -2409,25 +2409,25 @@ translate ukrainian sato_event_1_2b35b6fe_4:
 translate ukrainian sato_event_1_ff09e56a:
 
     # al "Young man, {w}may I know your name?"
-    al "Young man, {w}may I know your name?"
+    al "Юначе, {w}я можу дізнатися твоє ім'я?"
 
 # game/game/map_GW.rpy:819
 translate ukrainian sato_event_1_03fb3e88_2:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/map_GW.rpy:821
 translate ukrainian sato_event_1_7c900014:
 
     # t "She must be the high priestess."
-    t "She must be the high priestess."
+    t "Певно, вона і є верховна жриця."
 
 # game/game/map_GW.rpy:828
 translate ukrainian sato_event_1_950ff0c7:
 
     # t "She has an air that only goddesses have..."
-    t "She has an air that only goddesses have..."
+    t "У неї є та особлива аура, яка притаманна лише богиням..."
 
 # game/game/map_GW.rpy:829
 translate ukrainian sato_event_1_2b35b6fe_5:
@@ -2439,19 +2439,19 @@ translate ukrainian sato_event_1_2b35b6fe_5:
 translate ukrainian sato_event_1_3b13eea3:
 
     # t "WHAT!?"
-    t "WHAT!?"
+    t "ЯКОГО!?"
 
 # game/game/map_GW.rpy:832
 translate ukrainian sato_event_1_266b4c24:
 
     # t "Gulp* {w}S-She definitely looks like a goddess!"
-    t "Gulp* {w}S-She definitely looks like a goddess!" with vpunch
+    t "{i}*Ковть*{/i} {w}В-Вона сто відсотків виглядає як богиня!" with vpunch
 
 # game/game/map_GW.rpy:833
 translate ukrainian sato_event_1_2e101d88:
 
     # t "And I can see the color of her nipples...."
-    t "And I can see the color of her nipples...."
+    t "І мені навіть видно колір її ареол..."
 
 # game/game/map_GW.rpy:835
 translate ukrainian sato_event_1_d19f855d_3:
@@ -2469,97 +2469,97 @@ translate ukrainian sato_event_1_2b35b6fe_6:
 translate ukrainian sato_event_1_68b24bcb:
 
     # t "Her gaze is stronger than her words..."
-    t "Her gaze is stronger than her words..."
+    t "Її погляд сильніший за слова..."
 
 # game/game/map_GW.rpy:839
 translate ukrainian sato_event_1_406c1389:
 
     # mc "M-My name is [mc]."
-    mc "M-My name is [mc]."
+    mc "М-Мене звати [name_form('nom')]."
 
 # game/game/map_GW.rpy:840
 translate ukrainian sato_event_1_2c69f937:
 
     # al "A pleasure~ {w}I'm Alice, {w}the priestess who protects this town."
-    al "A pleasure~ {w}I'm Alice, {w}the priestess who protects this town."
+    al "Рада знайомству~ {w}Я Аліса{w} — жриця, яка оберігає це містечко."
 
 # game/game/map_GW.rpy:842
 translate ukrainian sato_event_1_95ab724c:
 
     # sa "Are you okay, Miss Alice?"
-    sa "Are you okay, Miss Alice?"
+    sa "З вами усе гаразд, пані Алісо?"
 
 # game/game/map_GW.rpy:843
 translate ukrainian sato_event_1_1357c1d4:
 
     # al "In perfect condition, {w}you arrived just in time~"
-    al "In perfect condition, {w}you arrived just in time~"
+    al "Усе чудово. {w}Ви прийшли в потрібний час~"
 
 # game/game/map_GW.rpy:845
 translate ukrainian sato_event_1_76843e27:
 
     # sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..."
-    sa "I beg your pardon, {w}if it hadn't been for Aoi, I wouldn't have noticed anything..." with hpunch
+    sa "Я щиро прошу вибачення, {w}якби не Аой, я б нічого не помітила..." with hpunch
 
 # game/game/map_GW.rpy:846
 translate ukrainian sato_event_1_efa87892:
 
     # al "{size=-6}S-Sayori..."
-    al "{size=-6}S-Sayori..."
+    al "{size=-6}С-Сайорі..."
 
 # game/game/map_GW.rpy:847
 translate ukrainian sato_event_1_afff42f9:
 
     # al "Don't worry... {w}it's not your obligation to protect me all the time."
-    al "Don't worry... {w}it's not your obligation to protect me all the time."
+    al "Не хвилюйся... {w}Ти не зобов'язана оберігати мене весь час."
 
 # game/game/map_GW.rpy:848
 translate ukrainian sato_event_1_b88a0ab6:
 
     # t "I thought Sayori would be someone wilder, but the respect she shows for the priestess is genuine."
-    t "I thought Sayori would be someone wilder, but the respect she shows for the priestess is genuine."
+    t "Я думав, що Сайорі буде більш нестриманою, але її повага, яку вона виявляє до жриці, дуже щира."
 
 # game/game/map_GW.rpy:850
 translate ukrainian sato_event_1_04b0f9f2:
 
     # ao "{size=+7}I-Is everyone well?"
-    ao "{size=+7}I-Is everyone well?" with vpunch
+    ao "{size=+7}Н-Народе, ви як?" with vpunch
 
 # game/game/map_GW.rpy:851
 translate ukrainian sato_event_1_89fee938:
 
     # r "{size=+7}Master!"
-    r "{size=+7}Master!"
+    r "{size=+7}Господарю!"
 
 # game/game/map_GW.rpy:853
 translate ukrainian sato_event_1_a8612011:
 
     # ao "I just saw that they left."
-    ao "I just saw that they left."
+    ao "Я щойно побачила, як вони пішли."
 
 # game/game/map_GW.rpy:854
 translate ukrainian sato_event_1_2898bc34:
 
     # r "Master!{w} Charlotte!"
-    r "Master!{w} Charlotte!"
+    r "Господарю!{w} Шарлотто!"
 
 # game/game/map_GW.rpy:855
 translate ukrainian sato_event_1_6b87c98e:
 
     # mc "Oh! {w}Ryoko."
-    mc "Oh! {w}Ryoko."
+    mc "Ох! {w}Рьоко."
 
 # game/game/map_GW.rpy:856
 translate ukrainian sato_event_1_f4991eb8:
 
     # mc "All good?"
-    mc "All good?"
+    mc "Усе добре?"
 
 # game/game/map_GW.rpy:858
 translate ukrainian sato_event_1_8e17cebf:
 
     # r "Yes!~{image=corazon}"
-    r "Yes!~{image=corazon}" with vpunch
+    r "Так!~{image=corazon}" with vpunch
 
 # game/game/map_GW.rpy:859
 translate ukrainian sato_event_1_3864a381:
@@ -2571,73 +2571,73 @@ translate ukrainian sato_event_1_3864a381:
 translate ukrainian sato_event_1_d5dddb96:
 
     # al "Looks like we have a lot to talk about young man."
-    al "Looks like we have a lot to talk about young man."
+    al "Видно, що нам є багато про що проговорити, юначе."
 
 # game/game/map_GW.rpy:863
 translate ukrainian sato_event_1_69928598:
 
     # al "But I know you come from far away and may want to relax for a while."
-    al "But I know you come from far away and may want to relax for a while."
+    al "Але я впевнена, що ви прийшли із місць далеких і, мабуть, бажаєте відпочити трішки."
 
 # game/game/map_GW.rpy:865
 translate ukrainian sato_event_1_46be11c2:
 
     # al "You can come and talk to me whenever it's convenient for you~"
-    al "You can come and talk to me whenever it's convenient for you~"
+    al "Можеш прийти та поговорити зі мною, коли тобі буде зручно~"
 
 # game/game/map_GW.rpy:866
 translate ukrainian sato_event_1_e8546084:
 
     # ao "I can show you the village if you want!"
-    ao "I can show you the village if you want!"
+    ao "Я можу показати вам містечко, якщо хочете!"
 
 # game/game/map_GW.rpy:867
 translate ukrainian sato_event_1_d4f3316a:
 
     # mc "That would be great, {w}but first of all."
-    mc "That would be great, {w}but first of all."
+    mc "Було б чудово, {w}але спершу."
 
 # game/game/map_GW.rpy:869
 translate ukrainian sato_event_1_26734fc3:
 
     # mc "I want you to read this letter."
-    mc "I want you to read this letter."
+    mc "Я хотів би, щоб ви прочитали цей лист."
 
 # game/game/map_GW.rpy:870
 translate ukrainian sato_event_1_71fc5e25:
 
     # c "{size=-10}Does something big always have to happen before you achieve your goal?"
-    c "{size=-10}Does something big always have to happen before you achieve your goal?"
+    c "{size=-10}Невже завжди має статися щось серйозне, перш ніж ти досягнеш своєї мети?"
 
 # game/game/map_GW.rpy:871
 translate ukrainian sato_event_1_b8c7af8e:
 
     # r "{size=-10}I hope Master doesn't hear us, {w}but I think he's very unlucky."
-    r "{size=-10}I hope Master doesn't hear us, {w}but I think he's very unlucky."
+    r "{size=-10}Сподіваюся, господар нас не чує, {w}але, мені здається, йому надзвичайно не щастить."
 
 # game/game/map_GW.rpy:872
 translate ukrainian sato_event_1_74684e36:
 
     # t "I hear you loud and clear..."
-    t "I hear you loud and clear..."
+    t "Я чую вас голосно та чітко..."
 
 # game/game/map_GW.rpy:875
 translate ukrainian sato_event_1_c16e980c:
 
     # al "Sure, {w}I'll read it right away~"
-    al "Sure, {w}I'll read it right away~"
+    al "Звісно, {w}я прочитаю його якнайшвидше~"
 
 # game/game/map_GW.rpy:876
 translate ukrainian sato_event_1_adcba5ec:
 
     # sa "{size=-8}That letter..."
-    sa "{size=-8}That letter..."
+    sa "{size=-8}Цей лист..."
 
 # game/game/map_GW.rpy:881
 translate ukrainian sato_event_1_4e831efe:
 
     # t "I can go for a walk to see the village or talk to Alice right away."
-    t "I can go for a walk to see the village or talk to Alice right away."
+    t "Я можу прогулятися сам та оглянути містечко, або одразу поговорити з Алісою."
 
 # game/game/map_GW.rpy:1080
 translate ukrainian call_lake_b5f01245:
@@ -2667,17 +2667,17 @@ translate ukrainian strings:
     old "I'd be lying if I said I wasn't a little nervous."
     new "Я б збрехав, якби сказав, що зовсім не хвилювався."
 
+    old "You and the girls head to the other village."
+    new "Ти разом з дівчатами вирушив до іншого поселення."
+
+    old "After lunch, we continued on our way."
+    new "Після невеличкого обіду ми продовжили нашу подорож."
+
+    old "{image=quest_text}A new mission has been added!"
+    new "{image=quest_text}З'явилося нове завдання!"
+
     old "You don't have any monster bait!"
     new "You don't have any monster bait!"
 
     old "-1 Monster bait"
     new "-1 Monster bait"
-
-    old "You and the girls head to the other village."
-    new "You and the girls head to the other village."
-
-    old "{image=quest_text}A new mission has been added!"
-    new "{image=quest_text}A new mission has been added!"
-
-    old "After lunch, we continued on our way."
-    new "After lunch, we continued on our way."
