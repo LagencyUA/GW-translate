@@ -47,7 +47,7 @@ translate ukrainian strings:
 
     # game/quest.rpy:229
     old "Sakura Town"
-    new "Sakura Town"
+    new "Містечко Сакура"
 
     # game/quest.rpy:235
     old "Ryoko Training"
@@ -249,21 +249,21 @@ translate ukrainian strings:
     old "{color=#E3CD5B}{b}•{/b}{/color} You can now travel to the new village. (Select it on the map.)"
     new "{color=#E3CD5B}{b}•{/b}{/color} Тепер ти можеш відправитися в інше поселення. (Обери на мапі.)"
 
-    # / Sakura Town     ST_mission
+    # Містечко Сакура / Sakura Town     ST_mission
     old "{size=-5}{i}{b}I finally made it here, but things don't look good. I should look around and find out what's going on."
-    new "{size=-5}{i}{b}I finally made it here, but things don't look good. I should look around and find out what's going on."
+    new "{size=-5}{i}{b}Нарешті я сюди дістався, але справи тут не дуже. Мені варто оглянути тут все та зрозуміти, що відбувається."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Let {color=#8F467D}Aoi{/color} show you around the village. (Morning)"
-    new "{color=#E3CD5B}{b}•{/b}{/color} Let {color=#8F467D}Aoi{/color} show you around the village. (Morning)"
+    new "{color=#E3CD5B}{b}•{/b}{/color} Дозволь {color=#8F467D}Аой{/color} показати тобі містечко. (Ранок)"
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Talk to {color=#BD4A17}Sayori{/color}. (Morning)"
-    new "{color=#E3CD5B}{b}•{/b}{/color} Talk to {color=#BD4A17}Sayori{/color}. (Morning)"
+    new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з {color=#BD4A17}Сайорі{/color}. (Ранок)"
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Talk to {color=#1A6FBA}Alice{/color} about the letter. (Morning)"
-    new "{color=#E3CD5B}{b}•{/b}{/color} Talk to {color=#1A6FBA}Alice{/color} about the letter. (Morning)"
+    new "{color=#E3CD5B}{b}•{/b}{/color} Поговори з {color=#1A6FBA}Алісою{/color} про лист. (Ранок)"
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Go say goodbye at the village's sakura tree. (Afternoon)"
-    new "{color=#E3CD5B}{b}•{/b}{/color} Go say goodbye at the village's sakura tree. (Afternoon)"
+    new "{color=#E3CD5B}{b}•{/b}{/color} Попрощайся з іншими біля сакури у містечку. (День)"
 
     # Тренування Рьоко / Ryoko Training     r_training_task
     old "{size=-5}{i}{b}Watching {color=#C9887C}Ryoko{/color} train reminded me of myself. I have to do everything I can to help her become stronger."
@@ -597,7 +597,7 @@ translate ukrainian strings:
     new "{size=-5}{i}{b}A dream or a memory? Could it be the work of the Goddesses, or is something playing with my mind?\nWhatever, Hana told me to rest so I'll take care of the pending tasks."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Your {color=#FCDEB3}adventurer's clothes{/color} is ready, go buy it at the {color=#FCDEB3}magic shop{/color}."
-    new "{color=#E3CD5B}{b}•{/b}{/color} Wait for Kaede to open her shop. \n   {color=#ff9900}{b}•{/b}{/color} Complete adventurer quests, and advance Natsuki's story."
+    new "{color=#E3CD5B}{b}•{/b}{/color} Your {color=#FCDEB3}adventurer's clothes{/color} is ready, go buy it at the {color=#FCDEB3}magic shop{/color}."
 
     old "{color=#E3CD5B}{b}•{/b}{/color} Wait for Kaede to open her shop. \n   {color=#ff9900}{b}•{/b}{/color} Complete adventurer quests, and advance Natsuki's story."
     new "{color=#E3CD5B}{b}•{/b}{/color} Wait for Kaede to open her shop. \n   {color=#ff9900}{b}•{/b}{/color} Complete adventurer quests, and advance Natsuki's story."
