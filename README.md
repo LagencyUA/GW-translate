@@ -153,7 +153,7 @@ game\tl\ukrainian\
 
 Завантажуючи, копіюючи або використовуючи цей мод, ви автоматично погоджуєтеся з умовами ліцензії **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** (повний текст див. у файлі [`LICENSE`](LICENSE)).
 
-* **Сфера дії:** Ця ліцензія поширюється виключно на створені файли перекладу та кастомні скрипти автоматизації, що містяться в цьому репозиторії.
+* **Сфера дії:** Ця ліцензія поширюється виключно на створені файли перекладу та допоміжні скрипти, що містяться в цьому репозиторії.
 * **Авторські права:** Усі права на оригінальну гру, сюжет, графіку, звуковий супровід та персонажів належать оригінальному розробнику — **Ncrow**.
 * **Шрифти:** У проєкті використовуються шрифти, які розповсюджуються під відповідними відкритими ліцензіями (OFL).
 
@@ -161,7 +161,7 @@ game\tl\ukrainian\
 
 By downloading, copying, or using this mod, you automatically agree to the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license (see the [`LICENSE`](LICENSE) file).
 
-* **Scope:** The license applies exclusively to the translation files and custom automation scripts created and contained in this repository.
+* **Scope:** The license applies exclusively to the translation files and supporting scripts created and contained in this repository.
 * **Copyright:** All rights to the original game, story, graphics, audio, and characters belong to the original developer — **Ncrow**.
 * **Fonts:** The project uses fonts under the respective open-source licenses (OFL).
 
