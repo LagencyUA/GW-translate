@@ -3,6 +3,8 @@
 [![Game Version](https://img.shields.io/badge/Версія_гри-0.4.7-blue.svg)](https://ncrow.itch.io/goddessess-whim)
 [![Translation Status](https://img.shields.io/badge/Прогрес-В_розробці-orange.svg)](#-стан-перекладу-на-цей-час)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Ліцензія-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE)
+[![Підтримати на Monobank](https://img.shields.io/badge/Підтримати-Monobank-000000?style=flat&logo=buymeacoffee&logoColor=white)](https://send.monobank.ua/jar/88qnHEf63N)
+
 > [!CAUTION]
 > ⚠️ **ВМІСТ ДЛЯ ДОРОСЛИХ (18+):** Цей мод є перекладом візуальної новели з ненормативною лексикою та сценами сексуального характеру. Якщо вам немає 18 років, залишіть цю сторінку.
 
@@ -108,8 +110,8 @@
 
 1. Завантажте [останній реліз](../../releases/latest) перекладу.
 2. Розпакуйте теку `game` з архіву в теку гри з заміною файлів:
-   * **Якщо є папка `base/`:** розпакуйте всередину `base/`.
-   * **Якщо папки `base/` немає:** розпакуйте в корінь поруч із `Goddesses'_Whim.exe`.
+   * **Якщо є тека `base/`:** розпакуйте всередину `base/`.
+   * **Якщо теки `base/` немає:** розпакуйте в корінь поруч із `Goddesses'_Whim.exe`.
 3. Запустіть гру:
    * При першому старті виберіть **Українська** у списку мов.
    * Якщо гра вже була запущена: відкрийте **Options ➜ Language** і перемкніться на українську.
