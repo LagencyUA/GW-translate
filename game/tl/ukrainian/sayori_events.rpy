@@ -3,7 +3,7 @@
 translate ukrainian sayori_variables_dd8dc8dc:
 
     # t "I've to talk to the other girls."
-    t "I've to talk to the other girls."
+    t "Мені треба поговорити й з іншими дівчатами."
 
 # game/game/sayori_events.rpy:25
 translate ukrainian sayo_training_place_e4d66570:
@@ -15,37 +15,37 @@ translate ukrainian sayo_training_place_e4d66570:
 translate ukrainian sayo_event1_09b0dccf:
 
     # t "That's the girl who attacked me."
-    t "That's the girl who attacked me."
+    t "Це ж та дівчина, що напала на мене."
 
 # game/game/sayori_events.rpy:78
 translate ukrainian sayo_event1_737e77e4:
 
     # sa "Hmm?"
-    sa "Hmm?"
+    sa "Гмм?"
 
 # game/game/sayori_events.rpy:79
 translate ukrainian sayo_event1_4840cb34:
 
     # t "I still haven't fixed the misunderstanding..."
-    t "I still haven't fixed the misunderstanding..."
+    t "Я досі не залагодив те непорозуміння..."
 
 # game/game/sayori_events.rpy:80
 translate ukrainian sayo_event1_a15d334c:
 
     # mc "Hey..."
-    mc "Hey..."
+    mc "Привіт..."
 
 # game/game/sayori_events.rpy:82
 translate ukrainian sayo_event1_2caee9b7:
 
     # sa "You..."
-    sa "You..."
+    sa "Ти..."
 
 # game/game/sayori_events.rpy:83
 translate ukrainian sayo_event1_c3a0cd6c:
 
     # mc "Looks like you guys have it complicated here too."
-    mc "Looks like you guys have it complicated here too."
+    mc "Видно, що вам тут теж несолодко."
 
 # game/game/sayori_events.rpy:84
 translate ukrainian sayo_event1_07cd6b38:
@@ -57,67 +57,67 @@ translate ukrainian sayo_event1_07cd6b38:
 translate ukrainian sayo_event1_719e8612:
 
     # sa "Sorry."
-    sa "Sorry."
+    sa "Пробач."
 
 # game/game/sayori_events.rpy:87
 translate ukrainian sayo_event1_4f82c72f:
 
     # mc "O-Oh?"
-    mc "O-Oh?"
+    mc "О-Ох?"
 
 # game/game/sayori_events.rpy:88
 translate ukrainian sayo_event1_3ced7d3c:
 
     # sa "I attacked you without listening."
-    sa "I attacked you without listening."
+    sa "Я напала на тебе, і навіть не слухала."
 
 # game/game/sayori_events.rpy:90
 translate ukrainian sayo_event1_9caae268:
 
     # sa "We have been very defensive this last time and..."
-    sa "We have been very defensive this last time and..."
+    sa "Останнім часом нам доводиться перебувати у постійному захисті, й..."
 
 # game/game/sayori_events.rpy:91
 translate ukrainian sayo_event1_7f2ee976:
 
     # sa "Well, {w}I'm really sorry..."
-    sa "Well, {w}I'm really sorry..."
+    sa "Тож... {w}мені дійсно шкода..."
 
 # game/game/sayori_events.rpy:92
 translate ukrainian sayo_event1_d04ff7d1:
 
     # mc "Don't worry, {w}you're not the first to attack me as soon as you see me."
-    mc "Don't worry, {w}you're not the first to attack me as soon as you see me."
+    mc "Не хвилюйся, {w}ти вже не перша, хто нападає на мене, щойно побачить."
 
 # game/game/sayori_events.rpy:94
 translate ukrainian sayo_event1_59bd12df:
 
     # sa "You're not from around here, are you?"
-    sa "You're not from around here, are you?"
+    sa "Здається, ти не з тутешніх країв, я права?"
 
 # game/game/sayori_events.rpy:95
 translate ukrainian sayo_event1_95b4a587:
 
     # mc "Why do you say so?"
-    mc "Why do you say so?"
+    mc "Чому тебе це цікавить?"
 
 # game/game/sayori_events.rpy:97
 translate ukrainian sayo_event1_39aa8d12:
 
     # sa "You hang out with a demon girl and a cat."
-    sa "You hang out with a demon girl and a cat."
+    sa "Ти ходиш разом з демоницею та кішкою."
 
 # game/game/sayori_events.rpy:98
 translate ukrainian sayo_event1_164e8a85:
 
     # mc "I still don't find what's strange about it."
-    mc "I still don't find what's strange about it."
+    mc "Я досі не розумію, що дивного у цьому."
 
 # game/game/sayori_events.rpy:100
 translate ukrainian sayo_event1_c6488131:
 
     # sa "Are you even human?"
-    sa "Are you even human?"
+    sa "Ти взагалі людина?"
 
 # game/game/sayori_events.rpy:101
 translate ukrainian sayo_event1_2b35b6fe:
@@ -129,67 +129,67 @@ translate ukrainian sayo_event1_2b35b6fe:
 translate ukrainian sayo_event1_4770a5c8:
 
     # sa "Most wouldn't even talk to me."
-    sa "Most wouldn't even talk to me."
+    sa "Більшість навіть не заговорили б зі мною."
 
 # game/game/sayori_events.rpy:104
 translate ukrainian sayo_event1_d5ae0922:
 
     # t "Why do humans treat these girls badly?"
-    t "Why do humans treat these girls badly?"
+    t "Чому люди так погано ставляться до цих дівчат?"
 
 # game/game/sayori_events.rpy:105
 translate ukrainian sayo_event1_7dd96d9e:
 
     # t "I need to get more information, maybe something has caused so much discrimination."
-    t "I need to get more information, maybe something has caused so much discrimination."
+    t "Мені треба більше інформації. Можливо, щось спричинило таку сильну дискримінацію."
 
 # game/game/sayori_events.rpy:106
 translate ukrainian sayo_event1_d8723fa5:
 
     # mc "I don't understand why..."
-    mc "I don't understand why..."
+    mc "Не розумію чому..."
 
 # game/game/sayori_events.rpy:108
 translate ukrainian sayo_event1_9db6bb28:
 
     # sa "Do you have problems with your eyesight? {w}Look at me!"
-    sa "Do you have problems with your eyesight? {w}Look at me!" with vpunch
+    sa "У тебе із зором проблеми? {w}Лишень поглянь на мене!" with vpunch
 
 # game/game/sayori_events.rpy:109
 translate ukrainian sayo_event1_b2dd28d8:
 
     # mc "Ehm..."
-    mc "Ehm..."
+    mc "Емм..."
 
 # game/game/sayori_events.rpy:111
 translate ukrainian sayo_event1_8b99a720:
 
     # t "Seems like a pretty steady girl."
-    t "Seems like a pretty steady girl."
+    t "Виглядає як досить підтягнута дівчина."
 
 # game/game/sayori_events.rpy:112
 translate ukrainian sayo_event1_af254111:
 
     # t "Maybe she likes to train."
-    t "Maybe she likes to train."
+    t "Мабуть, їй подобається тренуватися."
 
 # game/game/sayori_events.rpy:114
 translate ukrainian sayo_event1_586a760e:
 
     # t "Is she a dragon race?"
-    t "Is she a dragon race?"
+    t "Вона з драконідів?"
 
 # game/game/sayori_events.rpy:115
 translate ukrainian sayo_event1_04c053c6:
 
     # t "Just by looking at that impressive tail I can tell..."
-    t "Just by looking at that impressive tail I can tell..."
+    t "Лише погляду на той дивовижний хвіст достатньо, щоб сказати..."
 
 # game/game/sayori_events.rpy:117
 translate ukrainian sayo_event1_a9ff6146:
 
     # t "Would it be rude to ask her...?"
-    t "Would it be rude to ask her...?"
+    t "Чи не буде це грубо з мого боку — попросити в неї...?"
 
 # game/game/sayori_events.rpy:118
 translate ukrainian sayo_event1_07cd6b38_1:
@@ -201,151 +201,151 @@ translate ukrainian sayo_event1_07cd6b38_1:
 translate ukrainian sayo_event1_395af121:
 
     # sa "{size=-7}I didn't think you would get so serious..."
-    sa "{size=-7}I didn't think you would get so serious..."
+    sa "{size=-7}Не думала, що ти так серйозно це сприймеш..."
 
 # game/game/sayori_events.rpy:121
 translate ukrainian sayo_event1_0b997af4:
 
     # mc "A-Ah, sorry..."
-    mc "A-Ah, sorry..."
+    mc "А-Ах, пробач..."
 
 # game/game/sayori_events.rpy:123
 translate ukrainian sayo_event1_449a8c33:
 
     # sa "What do you think?"
-    sa "What do you think?"
+    sa "То що думаєш?"
 
 # game/game/sayori_events.rpy:124
 translate ukrainian sayo_event1_a5ee13b2:
 
     # t "What was her question?"
-    t "What was her question?"
+    t "Яке було її питання?"
 
 # game/game/sayori_events.rpy:125
 translate ukrainian sayo_event1_120471fd:
 
     # mc "I only see a girl."
-    mc "I only see a girl."
+    mc "Переді мною просто дівчина."
 
 # game/game/sayori_events.rpy:127
 translate ukrainian sayo_event1_49c4a9bf:
 
     # sa "W-What?"
-    sa "W-What?"
+    sa "Щ-Що?"
 
 # game/game/sayori_events.rpy:128
 translate ukrainian sayo_event1_5020b264:
 
     # mc "Uhm... {w}Err..."
-    mc "Uhm... {w}Err..."
+    mc "Умм... {w}Емм..."
 
 # game/game/sayori_events.rpy:130
 translate ukrainian sayo_event1_9fa7cdd2:
 
     # sa "Hahahaha~"
-    sa "Hahahaha~" with vpunch
+    sa "Хахахаха~" with vpunch
 
 # game/game/sayori_events.rpy:131
 translate ukrainian sayo_event1_5e3c15df:
 
     # sa "What the heck is that supposed to mean!?"
-    sa "What the heck is that supposed to mean!?"
+    sa "Що це, в дідька, взагалі означає!?"
 
 # game/game/sayori_events.rpy:133
 translate ukrainian sayo_event1_6f761773:
 
     # sa "I like you!"
-    sa "I like you!"
+    sa "Ти мені сподобався!"
 
 # game/game/sayori_events.rpy:134
 translate ukrainian sayo_event1_026c7681:
 
     # mc "Ouch."
-    mc "Ouch."
+    mc "Ай."
 
 # game/game/sayori_events.rpy:137
 translate ukrainian sayo_event1_6dd115bb:
 
     # sa "I never know what will come out of that mouth."
-    sa "I never know what will come out of that mouth."
+    sa "Ніколи не знаю, що вийде з твоїх вуст."
 
 # game/game/sayori_events.rpy:138
 translate ukrainian sayo_event1_026c7681_1:
 
     # mc "Ouch."
-    mc "Ouch."
+    mc "Ай."
 
 # game/game/sayori_events.rpy:139
 translate ukrainian sayo_event1_2209bb22:
 
     # mc "I-I wanted to explain everything to clear up the misunderstanding."
-    mc "I-I wanted to explain everything to clear up the misunderstanding."
+    mc "Я-Я хотів усе пояснити, щоб розвіяти попереднє непорозуміння."
 
 # game/game/sayori_events.rpy:141
 translate ukrainian sayo_event1_5abfd484:
 
     # mc "Ryoko, {w}the girl with chains, I found her running away."
-    mc "Ryoko, {w}the girl with chains, I found her running away."
+    mc "Рьоко, {w}дівчина з ланцюгом, я знайшов її, коли вона втікала."
 
 # game/game/sayori_events.rpy:142
 translate ukrainian sayo_event1_512636f8:
 
     # mc "She saved my life{w} and although she calls me Master, she's my partner."
-    mc "She saved my life{w} and although she calls me Master, she's my partner."
+    mc "Вона врятувала мені життя{w}, і хоча вона кличе мене господарем, ми з нею напарники."
 
 # game/game/sayori_events.rpy:144
 translate ukrainian sayo_event1_f6ce3af1:
 
     # sa "What a way to sum it all up."
-    sa "What a way to sum it all up."
+    sa "Цікавий спосіб усе підсумувати."
 
 # game/game/sayori_events.rpy:145
 translate ukrainian sayo_event1_8b584d6c:
 
     # sa "Sigh~"
-    sa "Sigh~"
+    sa "{i}*Хааах*~{/i}"
 
 # game/game/sayori_events.rpy:146
 translate ukrainian sayo_event1_c1c162a5:
 
     # sa "But I believe you, {w}you already showed me that you're not with those people."
-    sa "But I believe you, {w}you already showed me that you're not with those people."
+    sa "Але я тобі вірю. {w}Ти вже довів мені, що ти не з тих людей."
 
 # game/game/sayori_events.rpy:147
 translate ukrainian sayo_event1_0d6010a3:
 
     # mc "We come from a village southwest of here-"
-    mc "We come from a village southwest of here-"
+    mc "Ми прибули з селища, що розташоване на південний захід звідси-"
 
 # game/game/sayori_events.rpy:153
 translate ukrainian sayo_event1_eef60150:
 
     # sa "I remember that village."
-    sa "I remember that village."
+    sa "Я пам'ятаю його."
 
 # game/game/sayori_events.rpy:154
 translate ukrainian sayo_event1_858b0232:
 
     # sa "I see, {w}so you came here because they want to reestablish relations between villages."
-    sa "I see, {w}so you came here because they want to reestablish relations between villages."
+    sa "Ясно, {w}ти прийшов сюди, бо вони хочуть відновити відносини між нашими поселеннями."
 
 # game/game/sayori_events.rpy:155
 translate ukrainian sayo_event1_aec2737b:
 
     # mc "Yes, and the girls in charge of that place weren't getting any answers from here."
-    mc "Yes, and the girls in charge of that place weren't getting any answers from here."
+    mc "Так, і дівчата, що його очолюють, ніяк не могли отримати відповідь звідси."
 
 # game/game/sayori_events.rpy:157
 translate ukrainian sayo_event1_60cb3573:
 
     # sa "Well, now you know why."
-    sa "Well, now you know why."
+    sa "Ну, тепер ти знаєш чому."
 
 # game/game/sayori_events.rpy:158
 translate ukrainian sayo_event1_78ce7c6c:
 
     # sa "We're being harassed by those slaves, {w}sent by-"
-    sa "We're being harassed by those slaves, {w}sent by-"
+    sa "Нам дошкуляють ці раби, {w}яких відправила-"
 
 # game/game/sayori_events.rpy:159
 translate ukrainian sayo_event1_07cd6b38_2:
@@ -357,67 +357,67 @@ translate ukrainian sayo_event1_07cd6b38_2:
 translate ukrainian sayo_event1_08e550e6:
 
     # sa "The priestess will explain it better."
-    sa "The priestess will explain it better."
+    sa "Жриця це краще пояснить."
 
 # game/game/sayori_events.rpy:162
 translate ukrainian sayo_event1_8fea2db2:
 
     # mc "Hmm..."
-    mc "Hmm..."
+    mc "Гмм..."
 
 # game/game/sayori_events.rpy:163
 translate ukrainian sayo_event1_e7cb1aa8:
 
     # mc "Hey, {w}you mentioned that if I was killed, Ryoko would be released."
-    mc "Hey, {w}you mentioned that if I was killed, Ryoko would be released."
+    mc "Слухай, {w}ти казала щось, що якщо мене вб'ють, тоді Рьоко звільниться."
 
 # game/game/sayori_events.rpy:165
 translate ukrainian sayo_event1_299dfe52:
 
     # sa "Yes, but since you are not her true Master, {w}it won't work."
-    sa "Yes, but since you are not her true Master, {w}it won't work."
+    sa "Так, але оскільки ти не її справжній господар, {w}це не спрацює."
 
 # game/game/sayori_events.rpy:166
 translate ukrainian sayo_event1_11857b8f:
 
     # mc "Is it the only way to break those chains?"
-    mc "Is it the only way to break those chains?"
+    mc "Це єдиний спосіб розірвати ці ланцюги?"
 
 # game/game/sayori_events.rpy:168
 translate ukrainian sayo_event1_6e9f7087:
 
     # sa "The other way is for the slaveholder to free her of his own free will."
-    sa "The other way is for the slaveholder to free her of his own free will."
+    sa "Інший спосіб — коли утримувач раба звільняє його з власної волі."
 
 # game/game/sayori_events.rpy:169
 translate ukrainian sayo_event1_a2d347c8:
 
     # mc "{size=-8}I see..."
-    mc "{size=-8}I see..."
+    mc "{size=-8}Ясно..."
 
 # game/game/sayori_events.rpy:170
 translate ukrainian sayo_event1_605a5711:
 
     # sa "But that's quite rare."
-    sa "But that's quite rare."
+    sa "Але це трапляється надзвичайно рідко."
 
 # game/game/sayori_events.rpy:171
 translate ukrainian sayo_event1_86fb792e:
 
     # t "And only Ryoko knows who he is .... {w}I'll have to ask her."
-    t "And only Ryoko knows who he is .... {w}I'll have to ask her."
+    t "І лише Рьоко знає, хто це... {w}Я мушу її запитати якось."
 
 # game/game/sayori_events.rpy:173
 translate ukrainian sayo_event1_1e021e31:
 
     # mc "Thank you, this information is very helpful."
-    mc "Thank you, this information is very helpful."
+    mc "Дякую тобі, ці знання дуже допомогли."
 
 # game/game/sayori_events.rpy:174
 translate ukrainian sayo_event1_b2e6c51d:
 
     # sa "To you, {w}it's been a long time since I had a conversation with a human other than Aoi who didn't look at me with disgust every two seconds."
-    sa "To you, {w}it's been a long time since I had a conversation with a human other than Aoi who didn't look at me with disgust every two seconds."
+    sa "Це тобі я дякую. {w}Давно вже я не мала такої тривалої розмови з іншою людиною, окрім Аой, яка не буде дивитися на мене з огидою кожні кілька секунд."
 
 # game/game/sayori_events.rpy:175
 translate ukrainian sayo_event1_2b35b6fe_1:
@@ -429,31 +429,32 @@ translate ukrainian sayo_event1_2b35b6fe_1:
 translate ukrainian sayo_event1_c203d7e7:
 
     # sa "In fact, {w}you look at me the way a male would-"
-    sa "In fact, {w}you look at me the way a male would-"
+    sa "Ба більше, {w}ти дивився на мене так, як би це робив самець-"
 
 # game/game/sayori_events.rpy:178
 translate ukrainian sayo_event1_ea67c890:
 
     # mc "Ok!"
-    mc "Ok!" with hpunch
+    mc "Гаразд!" with hpunch
 
 # game/game/sayori_events.rpy:180
 translate ukrainian sayo_event1_c8a65c0a:
 
     # mc "I'll go and see what else I can find out about this place."
-    mc "I'll go and see what else I can find out about this place."
+    mc "Схожу ще подивлюся, що зможу дізнатися про це місце."
 
 # game/game/sayori_events.rpy:181
 translate ukrainian sayo_event1_737e77e4_1:
 
     # sa "Hmm?"
-    sa "Hmm?"
+    sa "Гмм?"
 
 # game/game/sayori_events.rpy:188
 translate ukrainian sayo_event1_00270fef:
 
     # sa "Sure!"
-    sa "Sure!"
+    sa "Звісно!"
+    $ stack_notify("{image=corazon_wing}Додано знайомство з {color=#BD4A17}Сайорі{/color}!")
 
 # game/game/sayori_events.rpy:196
 translate ukrainian sayo_spend_737e77e4:
@@ -15209,14 +15210,14 @@ translate ukrainian strings:
     new "You look exhausted."
 
 translate ukrainian strings:
+    old "You tell Sayori everything."
+    new "Ти розповідаєш усе Сайорі."
+
     old "You enjoy a morning together with Sayori and Aoi."
     new "You enjoy a morning together with Sayori and Aoi."
 
     old "You begin to remove the debris."
     new "You begin to remove the debris."
-
-    old "You tell Sayori everything."
-    new "You tell Sayori everything."
 
     old "You tell Sayori everything that happened."
     new "You tell Sayori everything that happened."
