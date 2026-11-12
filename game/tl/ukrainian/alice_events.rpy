@@ -3,19 +3,19 @@
 translate ukrainian alice_variables_e7afb492:
 
     # t "I already talked to her."
-    t "I already talked to her."
+    t "Я вже поговорив з нею."
 
 # game/game/alice_events.rpy:14
 translate ukrainian alice_event1_13a8096c:
 
     # t "Has she already read the letter?"
-    t "Has she already read the letter?"
+    t "Вона вже прочитала мій лист?"
 
 # game/game/alice_events.rpy:16
 translate ukrainian alice_event1_0f897f83:
 
     # mc "High Priestess?"
-    mc "High Priestess?"
+    mc "Верховна жрице?"
 
 # game/game/alice_events.rpy:17
 translate ukrainian alice_event1_dc7d1f31:
@@ -27,13 +27,13 @@ translate ukrainian alice_event1_dc7d1f31:
 translate ukrainian alice_event1_164a6a39:
 
     # t "Does she not hear me?"
-    t "Does she not hear me?"
+    t "Вона мене не чує?"
 
 # game/game/alice_events.rpy:19
 translate ukrainian alice_event1_4e85cb4d:
 
     # mc "Hello?"
-    mc "Hello?"
+    mc "Вітаю?"
 
 # game/game/alice_events.rpy:20
 translate ukrainian alice_event1_dc7d1f31_1:
@@ -45,25 +45,25 @@ translate ukrainian alice_event1_dc7d1f31_1:
 translate ukrainian alice_event1_577f33b3:
 
     # mc "Mmm..."
-    mc "Mmm..."
+    mc "Ммм..."
 
 # game/game/alice_events.rpy:22
 translate ukrainian alice_event1_75c8b800:
 
     # t "Seems to be asleep."
-    t "Seems to be asleep."
+    t "Здається, ніби вона уві сні."
 
 # game/game/alice_events.rpy:24
 translate ukrainian alice_event1_625aa4f2:
 
     # t "What's with the weird symbol?"
-    t "What's with the weird symbol?"
+    t "Що ж це за дивний символ?"
 
 # game/game/alice_events.rpy:25
 translate ukrainian alice_event1_38118e5b:
 
     # t "I don't think that's just a tattoo on her chest."
-    t "I don't think that's just a tattoo on her chest."
+    t "Не думаю, що це просто татуювання на грудях."
 
 # game/game/alice_events.rpy:26
 translate ukrainian alice_event1_2b35b6fe:
@@ -75,25 +75,25 @@ translate ukrainian alice_event1_2b35b6fe:
 translate ukrainian alice_event1_d90668f8:
 
     # t "Her size is not normal..."
-    t "Her size is not normal..."
+    t "Її розміри за межами нормального..."
 
 # game/game/alice_events.rpy:29
 translate ukrainian alice_event1_a176fe9f:
 
     # al "Ara~ you are here."
-    al "Ara~ you are here."
+    al "Йой~ ти тут."
 
 # game/game/alice_events.rpy:31
 translate ukrainian alice_event1_dd44cd96:
 
     # mc "AH! {w} Yes!"
-    mc "AH! {w} Yes!" with vpunch
+    mc "АХ! {w}Так!" with vpunch
 
 # game/game/alice_events.rpy:32
 translate ukrainian alice_event1_8f71fb16:
 
     # mc "I was just looking at that symbol on your chest!"
-    mc "I was just looking at that symbol on your chest!"
+    mc "Я просто розглядав той символ на грудях!"
 
 # game/game/alice_events.rpy:33
 translate ukrainian alice_event1_7bf731cb:
@@ -111,61 +111,61 @@ translate ukrainian alice_event1_1d82a7e7:
 translate ukrainian alice_event1_d6903e86:
 
     # al "Ah, {w}this~"
-    al "Ah, {w}this~"
+    al "А, {w}цей~"
 
 # game/game/alice_events.rpy:37
 translate ukrainian alice_event1_a9ac5faa:
 
     # al "It's what connects me to the barrier."
-    al "It's what connects me to the barrier."
+    al "Саме він пов'язує мене з бар'єром."
 
 # game/game/alice_events.rpy:38
 translate ukrainian alice_event1_451ee95d:
 
     # mc "Barrier?"
-    mc "Barrier?"
+    mc "Бар'єром?"
 
 # game/game/alice_events.rpy:39
 translate ukrainian alice_event1_18062bfe:
 
     # t "Charlotte mentioned that..."
-    t "Charlotte mentioned that..."
+    t "Шарлотта про це згадувала..."
 
 # game/game/alice_events.rpy:40
 translate ukrainian alice_event1_1a7bfac3:
 
     # al "Yes, the barrier is in charge of keeping the beasts away from here."
-    al "Yes, the barrier is in charge of keeping the beasts away from here."
+    al "Так, цей бар'єр слугує захистом, що відлякує різних хижаків звідси."
 
 # game/game/alice_events.rpy:42
 translate ukrainian alice_event1_12347c8f:
 
     # mc "Looks quite heavy..."
-    mc "Looks quite heavy..."
+    mc "Виглядає важко..."
 
 # game/game/alice_events.rpy:43
 translate ukrainian alice_event1_93f85263:
 
     # mc "You know, maintaining a barrier of that size..."
-    mc "You know, maintaining a barrier of that size..."
+    mc "Ну цейво, підтримувати бар'єр таких розмірів..."
 
 # game/game/alice_events.rpy:44
 translate ukrainian alice_event1_f823f102:
 
     # al "Are you worrying about me, young man?"
-    al "Are you worrying about me, young man?"
+    al "Невже ти переймаєшся за мене, юначе?"
 
 # game/game/alice_events.rpy:45
 translate ukrainian alice_event1_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Я..."
 
 # game/game/alice_events.rpy:47
 translate ukrainian alice_event1_4135dc62:
 
     # al "How cute you are~{image=corazon} "
-    al "How cute you are~{image=corazon} "
+    al "Який же ти милий~{image=corazon}"
 
 # game/game/alice_events.rpy:48
 translate ukrainian alice_event1_2b35b6fe_1:
@@ -177,49 +177,49 @@ translate ukrainian alice_event1_2b35b6fe_1:
 translate ukrainian alice_event1_21bfc1cb:
 
     # mc "Why are you calling me \"young man\"?"
-    mc "Why are you calling me \"young man\"?"
+    mc "Чому ви кличете мене юнаком?"
 
 # game/game/alice_events.rpy:50
 translate ukrainian alice_event1_886d6839:
 
     # mc "I don't think you're older than me..."
-    mc "I don't think you're older than me..."
+    mc "Не думаю, що ви старша за мене..."
 
 # game/game/alice_events.rpy:52
 translate ukrainian alice_event1_dfd8251a:
 
     # al "Ara?~{image=corazon} {w}Are you trying to flirt with me?"
-    al "Ara?~{image=corazon} {w}Are you trying to flirt with me?"
+    al "Ой-йой~{image=corazon} {w}Намагаєшся зі мною фліртувати?"
 
 # game/game/alice_events.rpy:53
 translate ukrainian alice_event1_b9e39ecb:
 
     # mc "J-Just asking..."
-    mc "J-Just asking..."
+    mc "П-Просто питаю..."
 
 # game/game/alice_events.rpy:55
 translate ukrainian alice_event1_543b6f14:
 
     # al "Don't get nervous. I'm just kidding."
-    al "Don't get nervous. I'm just kidding."
+    al "Не нервуй так. Я просто жартую."
 
 # game/game/alice_events.rpy:56
 translate ukrainian alice_event1_b7eb833f:
 
     # al "I don't get the chance to tease a young man like you every day."
-    al "I don't get the chance to tease a young man like you every day."
+    al "Не щодня випадає нагода подражнити такого юнака, як ти."
 
 # game/game/alice_events.rpy:58
 translate ukrainian alice_event1_9dd84946:
 
     # al "I have lived more generations than you, if that's what you want to know."
-    al "I have lived more generations than you, if that's what you want to know."
+    al "Я пережила більше поколінь, аніж ти — якщо ти це хотів дізнатися."
 
 # game/game/alice_events.rpy:59
 translate ukrainian alice_event1_0ba82c9a:
 
     # mc "I-I wouldn't notice if you didn't tell me..."
-    mc "I-I wouldn't notice if you didn't tell me..."
+    mc "Я-Я б і не помітив, якби ви не розповіли..."
 
 # game/game/alice_events.rpy:60
 translate ukrainian alice_event1_dc7d1f31_2:
@@ -231,229 +231,229 @@ translate ukrainian alice_event1_dc7d1f31_2:
 translate ukrainian alice_event1_b18c870e:
 
     # al "Surely you're not trying to get something, {w}young man?"
-    al "Surely you're not trying to get something, {w}young man?"
+    al "Точно не намагаєшся чогось досягти, {w}юначе?"
 
 # game/game/alice_events.rpy:63
 translate ukrainian alice_event1_b966c03d:
 
     # mc "Gulp*"
-    mc "Gulp*"
+    mc "{i}*Ковть*{/i}"
 
 # game/game/alice_events.rpy:64
 translate ukrainian alice_event1_7c416d28:
 
     # t "You're on an important mission here, focus [mc]."
-    t "You're on an important mission here, focus [mc]."
+    t "Зараз ти на важливому завданні, зберися, [name_form('voc')]."
 
 # game/game/alice_events.rpy:65
 translate ukrainian alice_event1_465df665:
 
     # mc "D-Did you read the letter?"
-    mc "D-Did you read the letter?"
+    mc "В-Ви вже прочитали лист?"
 
 # game/game/alice_events.rpy:67
 translate ukrainian alice_event1_df365933:
 
     # al "You come from Hana, don't you?"
-    al "You come from Hana, don't you?"
+    al "Ти прийшов від Хани, правильно?"
 
 # game/game/alice_events.rpy:68
 translate ukrainian alice_event1_c3460a40:
 
     # al "I haven't heard from her since everything went chaotic."
-    al "I haven't heard from her since everything went chaotic."
+    al "Я жодної звістки не чула від неї, відколи все пішло шкереберть."
 
 # game/game/alice_events.rpy:69
 translate ukrainian alice_event1_6708ad89:
 
     # al "To think that she sent such a handsome young man to make connections."
-    al "To think that she sent such a handsome young man to make connections."
+    al "Хто б міг подумати, що вона відправить такого гарного юнака, щоб він налагодив відносини."
 
 # game/game/alice_events.rpy:70
 translate ukrainian alice_event1_bf1293cf:
 
     # mc "We came to the conclusion that something bad could be going on here."
-    mc "We came to the conclusion that something bad could be going on here."
+    mc "Ми дійшли висновку, що тут могла статися біда."
 
 # game/game/alice_events.rpy:71
 translate ukrainian alice_event1_cc519a0d:
 
     # mc "So I offered to come and investigate."
-    mc "So I offered to come and investigate."
+    mc "Тож я запропонував прийти та дізнатися про все."
 
 # game/game/alice_events.rpy:73
 translate ukrainian alice_event1_b7fd929f:
 
     # al "And you arrived just in time."
-    al "And you arrived just in time."
+    al "І прибув ти якраз вчасно."
 
 # game/game/alice_events.rpy:74
 translate ukrainian alice_event1_10489465:
 
     # mc "May I ask what's going on here? {w}Why did they try to kidnap you?"
-    mc "May I ask what's going on here? {w}Why did they try to kidnap you?"
+    mc "Я можу дізнатися, що тут відбувається? {w}Чому вони хотіли викрасти вас?"
 
 # game/game/alice_events.rpy:75
 translate ukrainian alice_event1_c2b65c4a:
 
     # al "Have you been to the western kingdom?"
-    al "Have you been to the western kingdom?"
+    al "Ти колись бував у західному королівстві?"
 
 # game/game/alice_events.rpy:76
 translate ukrainian alice_event1_cc761816:
 
     # mc "No..."
-    mc "No..."
+    mc "Ні..."
 
 # game/game/alice_events.rpy:78
 translate ukrainian alice_event1_53c7f568:
 
     # al "That kingdom is full of nobles."
-    al "That kingdom is full of nobles."
+    al "Це королівство сповнене дворян."
 
 # game/game/alice_events.rpy:79
 translate ukrainian alice_event1_b727e5a4:
 
     # mc "The men from before come from there?"
-    mc "The men from before come from there?"
+    mc "Ті чоловіки теж звідти?"
 
 # game/game/alice_events.rpy:80
 translate ukrainian alice_event1_10d32c8a:
 
     # al "Exactly, and more so than wanting me, they want the barrier that I provide."
-    al "Exactly, and more so than wanting me, they want the barrier that I provide."
+    al "Саме так. І навіть більше, ніж мене саму, вони прагнуть бар'єра, який я створюю."
 
 # game/game/alice_events.rpy:82
 translate ukrainian alice_event1_3db6c85a:
 
     # al "And if this barrier disappears here..."
-    al "And if this barrier disappears here..."
+    al "І якщо цей бар'єр тут зникне..."
 
 # game/game/alice_events.rpy:83
 translate ukrainian alice_event1_a7bcf340:
 
     # mc "I see..."
-    mc "I see..."
+    mc "Ясно..."
 
 # game/game/alice_events.rpy:84
 translate ukrainian alice_event1_ea55b24f:
 
     # mc "And all the girls here are sheltered in their homes to avoid being kidnapped?"
-    mc "And all the girls here are sheltered in their homes to avoid being kidnapped?"
+    mc "І всі дівчата тут заховалися у своїх домівках, щоб їх не змогли викрасти?"
 
 # game/game/alice_events.rpy:86
 translate ukrainian alice_event1_d30c9d7f:
 
     # al "Yes. {w}We were a village with many adventurers coming and going every day."
-    al "Yes. {w}We were a village with many adventurers coming and going every day."
+    al "Так. {w}Ми були містечком, куди щодня навідувалося чимало пригодників."
 
 # game/game/alice_events.rpy:87
 translate ukrainian alice_event1_67d0afae:
 
     # al "But because I didn't want to collaborate with that queen, {w}they started to enslave all the villagers."
-    al "But because I didn't want to collaborate with that queen, {w}they started to enslave all the villagers."
+    al "Але оскільки я не захотіла співпрацювати з тією королевою, {w}вони почали поневолювати всіх мешканців."
 
 # game/game/alice_events.rpy:89
 translate ukrainian alice_event1_7355b0fe:
 
     # al "And since they didn't want to be involved, they stopped coming."
-    al "And since they didn't want to be involved, they stopped coming."
+    al "Пригодники не бажають у це влазити, тож вони й перестали приходити."
 
 # game/game/alice_events.rpy:90
 translate ukrainian alice_event1_be0a306b:
 
     # al "That queen won't tire until she has it all."
-    al "That queen won't tire until she has it all."
+    al "Королева не зупиниться, поки не отримає все."
 
 # game/game/alice_events.rpy:91
 translate ukrainian alice_event1_18cdfeae:
 
     # mc "In our village they also took everyone.."
-    mc "In our village they also took everyone.."
+    mc "У нашому селищі вони теж забрали всіх..."
 
 # game/game/alice_events.rpy:92
 translate ukrainian alice_event1_981be939:
 
     # al "I imagine so..."
-    al "I imagine so..."
+    al "Я можу уявити..."
 
 # game/game/alice_events.rpy:94
 translate ukrainian alice_event1_70680dd8:
 
     # al "The letter said that a strong man came to save them."
-    al "The letter said that a strong man came to save them."
+    al "У листі сказано, що сильний чоловік пришов та врятував їх."
 
 # game/game/alice_events.rpy:95
 translate ukrainian alice_event1_8d54f3c6:
 
     # mc "I.."
-    mc "I.."
+    mc "Я..."
 
 # game/game/alice_events.rpy:96
 translate ukrainian alice_event1_a38cd1e3:
 
     # al "You defeated an S-Rank boss and were now able to secure the village and its surroundings."
-    al "You defeated an S-Rank boss and were now able to secure the village and its surroundings."
+    al "Ти переміг ватажка S-рангу й дотепер зміг зробити безпечними селище та його околиці."
 
 # game/game/alice_events.rpy:97
 translate ukrainian alice_event1_76625581:
 
     # mc "Well.."
-    mc "Well.."
+    mc "Ну..."
 
 # game/game/alice_events.rpy:99
 translate ukrainian alice_event1_f950800d:
 
     # al "Then you killed an orc alone."
-    al "Then you killed an orc alone."
+    al "Потім ти самотужки вбив орка."
 
 # game/game/alice_events.rpy:100
 translate ukrainian alice_event1_378fe24b:
 
     # mc "I didn't do it alone, as the girls have saved me countless times..."
-    mc "I didn't do it alone, as the girls have saved me countless times..."
+    mc "Я не зробив цього всього сам, адже дівчата безліч разів рятували мене..."
 
 # game/game/alice_events.rpy:101
 translate ukrainian alice_event1_f6b3c4d8:
 
     # al "Ara~ {w}How humble you are..."
-    al "Ara~ {w}How humble you are..."
+    al "Овва~ {w}Який ти скромний..."
 
 # game/game/alice_events.rpy:103
 translate ukrainian alice_event1_84ba67a7:
 
     # al "{size=-10}Like mother, like son..."
-    al "{size=-10}Like mother, like son..."
+    al "{size=-10}Що мати, що син..."
 
 # game/game/alice_events.rpy:104
 translate ukrainian alice_event1_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Що?"
 
 # game/game/alice_events.rpy:106
 translate ukrainian alice_event1_f529ec65:
 
     # al "What could I do, so that you could help us too?"
-    al "What could I do, so that you could help us too?"
+    al "Що я мала б зробити, аби ти нам теж допоміг?"
 
 # game/game/alice_events.rpy:107
 translate ukrainian alice_event1_90e74718:
 
     # al "I would be willing to do whatever you ask me to do~{image=corazon}"
-    al "I would be willing to do whatever you ask me to do~{image=corazon}"
+    al "Я з радістю зроблю геть усе, що ти мене попросиш~{image=corazon}"
 
 # game/game/alice_events.rpy:108
 translate ukrainian alice_event1_9cc2ad34:
 
     # mc "H-High priestess..."
-    mc "H-High priestess..."
+    mc "Верховна жрице..."
 
 # game/game/alice_events.rpy:110
 translate ukrainian alice_event1_147d957e:
 
     # al "Call me {w}Alice~{image=corazon}"
-    al "Call me {w}Alice~{image=corazon}"
+    al "Можна просто {w}Аліса~{image=corazon}"
 
 # game/game/alice_events.rpy:111
 translate ukrainian alice_event1_2b35b6fe_2:
@@ -465,115 +465,115 @@ translate ukrainian alice_event1_2b35b6fe_2:
 translate ukrainian alice_event1_3b2ab6f0:
 
     # mc "A-Alice.. I..."
-    mc "A-Alice.. I..."
+    mc "А-Алісо... Я..."
 
 # game/game/alice_events.rpy:114
 translate ukrainian alice_event1_49406553:
 
     # c "Ahem*"
-    c "Ahem*" with hpunch
+    c "{i}*Ахем*{/i}" with hpunch
 
 # game/game/alice_events.rpy:115
 translate ukrainian alice_event1_555fab37:
 
     # al "Oh girls, {w}I didn't see you there."
-    al "Oh girls, {w}I didn't see you there."
+    al "О, дівчата, {w}я вас не помітила."
 
 # game/game/alice_events.rpy:117
 translate ukrainian alice_event1_bd98c944:
 
     # r "We leave you alone to have a good conversation, and this is what you do?"
-    r "We leave you alone to have a good conversation, and this is what you do?"
+    r "Ми вирішили залишити вас наодинці, щоб ви могли спокійно поговорити, а ви ось чим займаєтесь?"
 
 # game/game/alice_events.rpy:118
 translate ukrainian alice_event1_a99f7662:
 
     # c "I knew the Human would get carried away "
-    c "I knew the Human would get carried away "
+    c "Я догадувалася, що Людину занесе не туди."
 
 # game/game/alice_events.rpy:119
 translate ukrainian alice_event1_462012b0:
 
     # mc "It's not what it seems."
-    mc "It's not what it seems."
+    mc "Це не те, чим здається."
 
 # game/game/alice_events.rpy:121
 translate ukrainian alice_event1_7051cddf:
 
     # al "What were you saying?{w} Ah yes{w} \"You're so beautiful Alice\"."
-    al "What were you saying?{w} Ah yes{w} \"You're so beautiful Alice\"."
+    al "Що ти там казав?{w} А, так:{w} «Алісо, ти така прекрасна»."
 
 # game/game/alice_events.rpy:122
 translate ukrainian alice_event1_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "Що?"
 
 # game/game/alice_events.rpy:123
 translate ukrainian alice_event1_65bbb00f:
 
     # r "I knew it!"
-    r "I knew it!"
+    r "Так і знала!"
 
 # game/game/alice_events.rpy:124
 translate ukrainian alice_event1_37ea0667:
 
     # c "Come here."
-    c "Come here."
+    c "Сюди підійди."
 
 # game/game/alice_events.rpy:125
 translate ukrainian alice_event1_ab0d028c:
 
     # mc "Alice!?"
-    mc "Alice!?" with vpunch
+    mc "Алісо!?" with vpunch
 
 # game/game/alice_events.rpy:126
 translate ukrainian alice_event1_7ee7b0b4:
 
     # al "Maa~{image=corazon} {w}Maa~{image=corazon}"
-    al "Maa~{image=corazon} {w}Maa~{image=corazon}"
+    al "Вай~{image=corazon} {w}Вай~{image=corazon}"
 
 # game/game/alice_events.rpy:128
 translate ukrainian alice_event1_99da10be:
 
     # c "So, this man here offers to help in any way he can."
-    c "So, this man here offers to help in any way he can."
+    c "Отже, цей чоловік буде вам допомагати, як він тільки зможе."
 
 # game/game/alice_events.rpy:129
 translate ukrainian alice_event1_004cfaff:
 
     # r "But if it's too dangerous, don't let him do anything crazy."
-    r "But if it's too dangerous, don't let him do anything crazy."
+    r "Але якщо буде занадто небезпечно, не дозволяйте йому робити жодних дурниць."
 
 # game/game/alice_events.rpy:130
 translate ukrainian alice_event1_bdd8ae80:
 
     # al "Of course. We won't put him at risk unnecessarily."
-    al "Of course. We won't put him at risk unnecessarily."
+    al "Звісно. Ми не станемо піддавати його необґрунтованому ризику."
 
 # game/game/alice_events.rpy:132
 translate ukrainian alice_event1_21c97db3:
 
     # r "We don't mean that."
-    r "We don't mean that."
+    r "Ми не це мали на увазі."
 
 # game/game/alice_events.rpy:133
 translate ukrainian alice_event1_9750c543:
 
     # c "He always puts himself at risk."
-    c "He always puts himself at risk."
+    c "Він сам постійно піддає себе ризику."
 
 # game/game/alice_events.rpy:134
 translate ukrainian alice_event1_1b71f23c:
 
     # al "Oh, {w}I understand."
-    al "Oh, {w}I understand."
+    al "Ох, {w}зрозуміла."
 
 # game/game/alice_events.rpy:136
 translate ukrainian alice_event1_69aa8493:
 
     # al "These two girls love you very much from what I see."
-    al "These two girls love you very much from what I see."
+    al "Ці дівчата щиро тебе люблять, з того, що я бачу."
 
 # game/game/alice_events.rpy:137
 translate ukrainian alice_event1_2b35b6fe_3:
@@ -585,19 +585,19 @@ translate ukrainian alice_event1_2b35b6fe_3:
 translate ukrainian alice_event1_1b0ab499:
 
     # r "I give you permission to speak."
-    r "I give you permission to speak."
+    r "Вам дозволено говорити."
 
 # game/game/alice_events.rpy:140
 translate ukrainian alice_event1_0d5103fd:
 
     # mc "I'll help in any way I can..."
-    mc "I'll help in any way I can..."
+    mc "Я допоможу всім, чим зможу..."
 
 # game/game/alice_events.rpy:141
 translate ukrainian alice_event1_54d02173:
 
     # al "Thanks [mc]."
-    al "Thanks [mc]."
+    al "Дякую, [name_form('voc')]."
 
 # game/game/alice_events.rpy:142
 translate ukrainian alice_event1_2b35b6fe_4:
@@ -609,7 +609,8 @@ translate ukrainian alice_event1_2b35b6fe_4:
 translate ukrainian alice_event1_94b9925c:
 
     # t "What just happened...?"
-    t "What just happened...?"
+    t "Що це взагалі було...?"
+    $ stack_notify("{image=corazon_wing}Додано знайомство з {color=#1A6FBA}Алісою{/color}!")
 
 # game/game/alice_events.rpy:157
 translate ukrainian alice_spend_13f07e2f:
