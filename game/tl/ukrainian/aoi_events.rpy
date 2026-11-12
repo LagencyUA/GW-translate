@@ -3,67 +3,67 @@
 translate ukrainian aoi_variables_6bc6ce10:
 
     # t "I've already talked to her."
-    t "I've already talked to her."
+    t "Я вже поговорив з нею."
 
 # game/game/aoi_events.rpy:16
 translate ukrainian aoi_event1_1918184d:
 
     # ao "Hey, strangely strong boy!"
-    ao "Hey, strangely strong boy!"
+    ao "Привіт, на диво сильний хлопче!"
 
 # game/game/aoi_events.rpy:17
 translate ukrainian aoi_event1_599c8a35:
 
     # t "Who's calling me?"
-    t "Who's calling me?"
+    t "Хто мене кликав?"
 
 # game/game/aoi_events.rpy:19
 translate ukrainian aoi_event1_5831731e:
 
     # ao "Are you walking around?"
-    ao "Are you walking around?"
+    ao "Гуляєш тут?"
 
 # game/game/aoi_events.rpy:20
 translate ukrainian aoi_event1_c84a76a3:
 
     # mc "The girl from before."
-    mc "The girl from before."
+    mc "Ти та дівчина."
 
 # game/game/aoi_events.rpy:22
 translate ukrainian aoi_event1_831c805d:
 
     # ao "You look a little lost."
-    ao "You look a little lost."
+    ao "Виглядаєш трохи розгублено."
 
 # game/game/aoi_events.rpy:23
 translate ukrainian aoi_event1_03efc8a6:
 
     # mc "To tell you the truth, I haven't seen many people since I've visited this big village."
-    mc "To tell you the truth, I haven't seen many people since I've visited this big village."
+    mc "По правді кажучи, я майже не бачив людей відтоді, як прибув у це чимале містечко."
 
 # game/game/aoi_events.rpy:25
 translate ukrainian aoi_event1_a70f57e2:
 
     # ao "If you want, {w}I can show you around."
-    ao "If you want, {w}I can show you around."
+    ao "Якщо хочеш, {w}я можу тобі все тут показати."
 
 # game/game/aoi_events.rpy:26
 translate ukrainian aoi_event1_2c4ae217:
 
     # mc "You did mention that..."
-    mc "You did mention that..."
+    mc "Ти про це згадувала..."
 
 # game/game/aoi_events.rpy:27
 translate ukrainian aoi_event1_c49b1fb9:
 
     # mc "All right."
-    mc "All right."
+    mc "Гаразд."
 
 # game/game/aoi_events.rpy:30
 translate ukrainian aoi_event1_620504a7:
 
     # ao "Welcome to Sakura town!"
-    ao "Welcome to Sakura town!"
+    ao "Раді бачити в містечку Сакура!"
 
 # game/game/aoi_events.rpy:32
 translate ukrainian aoi_event1_2b35b6fe:
@@ -81,61 +81,61 @@ translate ukrainian aoi_event1_3864a381:
 translate ukrainian aoi_event1_59ae0783:
 
     # ao "{size=-7}The village of adventurers..."
-    ao "{size=-7}The village of adventurers..."
+    ao "{size=-7}Містечко для пригодників..."
 
 # game/game/aoi_events.rpy:35
 translate ukrainian aoi_event1_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "Угм..."
 
 # game/game/aoi_events.rpy:37
 translate ukrainian aoi_event1_301130e0:
 
     # ao "But now a village constantly attacked by those who were once allies."
-    ao "But now a village constantly attacked by those who were once allies."
+    ao "Але тепер його постійно атакують ті, хто колись були союзниками."
 
 # game/game/aoi_events.rpy:38
 translate ukrainian aoi_event1_581e00ce:
 
     # t "And she says it with such a happy face...."
-    t "And she says it with such a happy face...."
+    t "І вона це все розповідає з такою посмішкою..."
 
 # game/game/aoi_events.rpy:40
 translate ukrainian aoi_event1_7513b63f:
 
     # ao "I would like to show you more places or stores, but now no one can leave their homes."
-    ao "I would like to show you more places or stores, but now no one can leave their homes."
+    ao "Хотіла б я показати тобі більше місць та крамничок, але зараз нікому не дозволено покидати свої будинки."
 
 # game/game/aoi_events.rpy:41
 translate ukrainian aoi_event1_8fb25cc9:
 
     # mc "So... {w}what are you doing here?"
-    mc "So... {w}what are you doing here?"
+    mc "То... {w}що {b}ти{/b} робиш тут?"
 
 # game/game/aoi_events.rpy:43
 translate ukrainian aoi_event1_e2fd89a1:
 
     # ao "I won't let Sayori and the Priestess take care of everything alone."
-    ao "I won't let Sayori and the Priestess take care of everything alone."
+    ao "Я не дозволю Сайорі та жриці самотужки про все дбати."
 
 # game/game/aoi_events.rpy:44
 translate ukrainian aoi_event1_e9411f19:
 
     # mc "And you have no adventurers to help you?"
-    mc "And you have no adventurers to help you?"
+    mc "І не залишилося жодних пригодників, щоб допомогти?"
 
 # game/game/aoi_events.rpy:46
 translate ukrainian aoi_event1_a9a6e6eb:
 
     # ao "No one wants to be against the person who sent those guys here."
-    ao "No one wants to be against the person who sent those guys here."
+    ao "Ніхто не палає бажанням перейти дорогу тому, хто посилає сюди цих нещасних."
 
 # game/game/aoi_events.rpy:48
 translate ukrainian aoi_event1_14282491:
 
     # ao "You're the first to do so!"
-    ao "You're the first to do so!"
+    ao "Вважай, що ти перший!"
 
 # game/game/aoi_events.rpy:50
 translate ukrainian aoi_event1_2b35b6fe_1:
@@ -147,229 +147,230 @@ translate ukrainian aoi_event1_2b35b6fe_1:
 translate ukrainian aoi_event1_a564f6be:
 
     # t "This place is worse than my mother's village...."
-    t "This place is worse than my mother's village...."
+    t "Це місце ще гірше, ніж селище моєї мами...."
 
 # game/game/aoi_events.rpy:52
 translate ukrainian aoi_event1_b1d1f683:
 
     # mc "And you have no walls?"
-    mc "And you have no walls?"
+    mc "У вас навіть стін немає?"
 
 # game/game/aoi_events.rpy:54
 translate ukrainian aoi_event1_391a9d57:
 
     # ao "Of course we have one!"
-    ao "Of course we have one!" with vpunch
+    ao "Звісно ж у нас є!" with vpunch
 
 # game/game/aoi_events.rpy:55
 translate ukrainian aoi_event1_a4fcb7ef:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "Ох!"
 
 # game/game/aoi_events.rpy:57
 translate ukrainian aoi_event1_4afea1d7:
 
     # ao "But they destroyed it."
-    ao "But they destroyed it."
+    ao "Але вони їх знищили."
 
 # game/game/aoi_events.rpy:58
 translate ukrainian aoi_event1_afbec43f:
 
     # mc "{size=-10}Oh..."
-    mc "{size=-10}Oh..."
+    mc "{size=-10}Ох..."
 
 # game/game/aoi_events.rpy:59
 translate ukrainian aoi_event1_6f8c9b72:
 
     # mc "So, it just needs to be fixed?"
-    mc "So, it just needs to be fixed?"
+    mc "Отже, їх просто треба полагодити?"
 
 # game/game/aoi_events.rpy:61
 translate ukrainian aoi_event1_f8607f49:
 
     # ao "Exactly!"
-    ao "Exactly!"
+    ao "Саме так!"
 
 # game/game/aoi_events.rpy:62
 translate ukrainian aoi_event1_786287b0:
 
     # t "Now that I remember."
-    t "Now that I remember."
+    t "Якраз згадав."
 
 # game/game/aoi_events.rpy:63
 translate ukrainian aoi_event1_e9b7b70d:
 
     # mc "Is it true that an \"Adventurer's Lounge\" exists here?"
-    mc "Is it true that an \"Adventurer's Lounge\" exists here?"
+    mc "Це правда, що тут є «гільдія пригодників»?"
 
 # game/game/aoi_events.rpy:65
 translate ukrainian aoi_event1_cdc27e30:
 
     # ao "OH!"
-    ao "OH!"
+    ao "О!"
 
 # game/game/aoi_events.rpy:66
 translate ukrainian aoi_event1_2945c756:
 
     # ao "I see you're interested."
-    ao "I see you're interested."
+    ao "То ти зацікавлений."
 
 # game/game/aoi_events.rpy:67
 translate ukrainian aoi_event1_70390d13:
 
     # mc "Yes, I want to register as an adventurer."
-    mc "Yes, I want to register as an adventurer."
+    mc "Так, я хотів би зареєструватися як пригодник."
 
 # game/game/aoi_events.rpy:69
 translate ukrainian aoi_event1_c23e7654:
 
     # ao "I thought you already were one, as strong as you are..."
-    ao "I thought you already were one, as strong as you are..."
+    ao "Я гадала, що ти вже ним є, зважаючи на твою силу..."
 
 # game/game/aoi_events.rpy:70
 translate ukrainian aoi_event1_582054e5:
 
     # mc "Ahem*"
-    mc "Ahem*" with hpunch
+    mc "{i}*Кхем*{/i}" with hpunch
 
 # game/game/aoi_events.rpy:71
 translate ukrainian aoi_event1_b3f91e77:
 
     # ao "Well, {w}yes, {w}but it's a bit abandoned for the same reason as before."
-    ao "Well, {w}yes, {w}but it's a bit abandoned for the same reason as before."
+    ao "Ну, {w}так, {w}але вона трохи пуста, з тих же причин."
 
 # game/game/aoi_events.rpy:73
 translate ukrainian aoi_event1_f0c7624b:
 
     # ao "The girl who's in charge of that place is not available at the moment."
-    ao "The girl who's in charge of that place is not available at the moment."
+    ao "Дівчина, яка там всім заправляє, зараз недоступна."
 
 # game/game/aoi_events.rpy:74
 translate ukrainian aoi_event1_ae2a1df0:
 
     # ao "You should come back later if you want to talk to her."
-    ao "You should come back later if you want to talk to her."
+    ao "Варто тобі прийти іншим разом, якщо хочеш поговорити з нею."
 
 # game/game/aoi_events.rpy:75
 translate ukrainian aoi_event1_6d58c129:
 
     # mc "Perfect, {w}thanks for the information."
-    mc "Perfect, {w}thanks for the information."
+    mc "Чудово, {w}дякую за інформацію."
 
 # game/game/aoi_events.rpy:77
 translate ukrainian aoi_event1_7dc638f1:
 
     # ao "No problem!"
-    ao "No problem!"
+    ao "Будь ласка!"
 
 # game/game/aoi_events.rpy:78
 translate ukrainian aoi_event1_517403ad:
 
     # ao "If you become an official adventurer, you'll be able to accept quests!"
-    ao "If you become an official adventurer, you'll be able to accept quests!"
+    ao "Якщо станеш офіційним пригодником, то зможеш приймати доручення!"
 
 # game/game/aoi_events.rpy:80
 translate ukrainian aoi_event1_66fa4e95:
 
     # ao "And the truth is, {w}it's good for us to have someone so strong."
-    ao "And the truth is, {w}it's good for us to have someone so strong."
+    ao "І правда в тому, {w}що нам буде корисно мати когось такого сильного."
 
 # game/game/aoi_events.rpy:83
 translate ukrainian aoi_event1_9bc39250:
 
     # ao "I would've liked to show you the mixed hot springs."
-    ao "I would've liked to show you the mixed hot springs."
+    ao "Я б також хотіла тобі показати спільні гарячі джерела."
 
 # game/game/aoi_events.rpy:84
 translate ukrainian aoi_event1_3b6562d5:
 
     # t "WHAT!?"
-    t "WHAT!?" with hpunch
+    t "ЩО!?" with hpunch
 
 # game/game/aoi_events.rpy:85
 translate ukrainian aoi_event1_36024fa7:
 
     # ao "Maybe for the next tour..."
-    ao "Maybe for the next tour..."
+    ao "Можливо, під час наступної екскурсії..."
 
 # game/game/aoi_events.rpy:86
 translate ukrainian aoi_event1_cf3c153f:
 
     # ao "Although now not so mixed because they took the men..."
-    ao "Although now not so mixed because they took the men..."
+    ao "Хоча тепер не такі вже й «спільні», коли забрали всіх чоловіків..."
 
 # game/game/aoi_events.rpy:87
 translate ukrainian aoi_event1_a1b793c7:
 
     # t "A hot springs full of pure girls..."
-    t "A hot springs full of pure girls..."
+    t "Гарячі джерела, повні невинних дівчат..."
 
 # game/game/aoi_events.rpy:89
 translate ukrainian aoi_event1_5e887cb2:
 
     # ao "It needs maintenance, {w}may be placed as an adventurer mission."
-    ao "It needs maintenance, {w}may be placed as an adventurer mission."
+    ao "Воно потребує догляду, {w}мабуть, з'явиться відповідне завдання для пригодників."
 
 # game/game/aoi_events.rpy:90
 translate ukrainian aoi_event1_552b884b:
 
     # mc "{size=-6}Really...?"
-    mc "{size=-6}Really...?"
+    mc "{size=-6}Справді...?"
 
 # game/game/aoi_events.rpy:91
 translate ukrainian aoi_event1_61088898:
 
     # t "I'm going to do all the necessary missions to get that place reopened."
-    t "I'm going to do all the necessary missions to get that place reopened."
+    t "Я виконаю будь-що необхідне, аби те місце знову запрацювало."
 
 # game/game/aoi_events.rpy:92
 translate ukrainian aoi_event1_e6cd28b4:
 
     # mc "Well, thanks for the tour."
-    mc "Well, thanks for the tour."
+    mc "Ну, дякую за екскурсію."
 
 # game/game/aoi_events.rpy:94
 translate ukrainian aoi_event1_412e7a06:
 
     # ao "Don't worry, I'm glad to finally see good people."
-    ao "Don't worry, I'm glad to finally see good people."
+    ao "Звертайся. Я рада, що нарешті бачу хороших людей."
 
 # game/game/aoi_events.rpy:95
 translate ukrainian aoi_event1_912093bc:
 
     # ao "Charlotte and Ryoko are very nice girls."
-    ao "Charlotte and Ryoko are very nice girls."
+    ao "Шарлотта і Рьоко дуже гарні дівчата."
 
 # game/game/aoi_events.rpy:97
 translate ukrainian aoi_event1_4585e94e:
 
     # ao "Although Ryoko looked a bit worried."
-    ao "Although Ryoko looked a bit worried."
+    ao "Хоча Рьоко виглядає трохи схвильовано."
 
 # game/game/aoi_events.rpy:98
 translate ukrainian aoi_event1_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/aoi_events.rpy:99
 translate ukrainian aoi_event1_c4ed8241:
 
     # t "Ryoko? {w}Worried?"
-    t "Ryoko? {w}Worried?"
+    t "Рьоко? {w}Схвильована?"
 
 # game/game/aoi_events.rpy:101
 translate ukrainian aoi_event1_f2e732c5:
 
     # mc "See you, Aoi."
-    mc "See you, Aoi."
+    mc "Ще побачимося, Аой."
 
 # game/game/aoi_events.rpy:106
 translate ukrainian aoi_event1_5a2badf1:
 
     # ao "Chao!"
-    ao "Chao!"
+    ao "Чао!"
+    $ stack_notify("{image=corazon_wing}Додано знайомство з {color=#8F467D}Аой{/color}!")
 
 # game/game/aoi_events.rpy:122
 translate ukrainian aoi_spend_3924fdbf:
